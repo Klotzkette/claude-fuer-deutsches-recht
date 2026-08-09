@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du einen IT- oder Softwarevertrag prüfen und Leistungspflichten sowie Haftung sauber fassen.
+# Fachanwalt IT Recht — Schnellstart
 
-# Fachanwalt It Recht — Schnellstart
+Wenn du das hier öffnest, willst du einen IT- oder Softwarevertrag prüfen und Leistungspflichten sowie Haftung sauber fassen.
 
 Ziel: Plugin Fachanwalt für Informationstechnologierecht. SaaS Software-Lizenz Datenschutz-Grundverordnung BDSG TTDSG TKG NIS2 DDG DSA DMA EU-Regulierungsrahmen Open-Source. Schnittstellen Plugin datenschutzrecht ki-governance kanzlei-allgemein. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -45,7 +45,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Störung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Rechte und Daten | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass die Beweismittel in einem späteren. | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach Paragraf 203 StGB | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -53,10 +53,13 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 327e: Vertragsmäßigkeit digitaler Produkte.
 - BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
 - BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
+- Art. 5 Abs. 2 Datenschutz-Grundverordnung Rechenschaftspflicht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 32 Datenschutz-Grundverordnung angemessene Sicherheitsmaßnahmen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 33 Abs. 5 Datenschutz-Grundverordnung Dokumentationspflicht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 26 BDSG Mitarbeiterdatenverarbeitung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 5 Abs. 2; Art. 32; Art. 33 Abs. 5 Datenschutz-Grundverordnung; Paragraf 26 BDSG; Paragraf 3 TTDSG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 203 Abs. 1 StGB Verletzung von Privatgeheimnissen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 203 Abs. 3 Satz 2 StGB mitwirkende Personen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
+- BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
+- EuGH C-311/18 Schrems II (Urteil 16.07.2020).
 
 ## 7. Antwortform
 

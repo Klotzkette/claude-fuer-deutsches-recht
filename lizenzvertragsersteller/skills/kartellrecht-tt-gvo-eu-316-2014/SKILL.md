@@ -1,74 +1,70 @@
 ---
 name: kartellrecht-tt-gvo-eu-316-2014
-description: "Wenn es um Kartellrecht — TT-GVO (EU) 316/2014 in Lizenzvertragsersteller geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Prüft Technologielizenzverträge nach Artikel 101 AEUV und der seit 1. Mai 2026 geltenden Verordnung (EU) 2026/877. Ordnet Wettbewerbsverhältnis, Technologie- und Produktmärkte, Marktanteile, Kernbeschränkungen, ausgeschlossene Klauseln und Einzelfreistellung; liefert TTBER-Matrix und belastbare Klauselkorrekturen."
 ---
 
-# Kartellrecht — TT-GVO (EU) 316/2014
+# Kartellrechtliche Prüfung nach der TTBER 2026
 
-## Normenanker
+## 1. Rechtsstand und Quellen
 
-- VO (EU) Nr. 316/2014 - Technologietransfer-Gruppenfreistellungsverordnung (TT-GVO)
-- Art. 101 AEUV - Kartellverbot
-- Art. 101 Abs. 3 AEUV - Freistellungsmoeglichkeit
-- Leitlinien zur TT-GVO (2014/C 89/03)
+- Verordnung (EU) 2026/877 gilt seit 1. Mai 2026 bis 30. April 2038.
+- Leitlinien der Kommission C/2026/2323 erläutern Anwendungsbereich, Märkte, Marktanteile, Kernbeschränkungen und ausgeschlossene Beschränkungen.
+- Artikel 101 Absatz 1 AEUV enthält das Kartellverbot; Artikel 101 Absatz 3 AEUV die vier kumulativen Voraussetzungen einer Einzelfreistellung.
+- Die Verordnung (EU) Nummer 316/2014 ist abgelaufen. Der unveränderte Skill-Slug dient nur der Kompatibilität und ist kein Rechtsstandsanker.
 
-## Anwendbarkeit
+## 2. Direktstart
 
-TT-GVO gilt für **Technologietransfer-Vereinbarungen**: Lizenzvertraege, die Patente, Know-how, Designs oder Software (im Zusammenhang mit Patenten/Know-how) zum Gegenstand haben.
+Lies Vertrag, IP-Anlage, Parteien- und Produktbeschreibung zuerst. Liefere dann eine TTBER-Kurzkarte mit:
 
-→ Kombinierte Lizenz Patent + Know-how + Marke: TT-GVO greift.
-→ Reine Marken-/Urheberrechts-Lizenzen: Vertikal-GVO statt TT-GVO.
+1. Wettbewerber oder Nichtwettbewerber bei Vertragsschluss.
+2. lizenzierte Technologierechte und Vertragsprodukte.
+3. relevante Technologie- und Produktmärkte.
+4. Marktanteile mit Quelle und Bezugsjahr.
+5. verdächtige Klauseln nach Artikel 4 oder Artikel 5 TTBER.
+6. konkrete Redline oder Prüfauftrag für Artikel 101 Absatz 3 AEUV.
 
-## Marktanteilsschwellen (Art. 3 TT-GVO)
+Frage nur nach Daten, die Wettbewerbsverhältnis, Marktdefinition, Schwelle oder Klauselbewertung ändern.
 
-| Konstellation | Schwelle |
-|---|---|
-| **Wettbewerber** (gleiche relevante Maerkte) | gemeinsam ≤ 20 % |
-| **Nicht-Wettbewerber** (vertikal) | jeweils ≤ 30 % |
+## 3. Anwendungsbereich und Schwellen
 
-Bei Ueberschreiten: Einzelfall-Prüfung nach Art. 101 III AEUV; keine automatische Freistellung.
+Die TTBER erfasst Vereinbarungen zwischen zwei Unternehmen, durch die Technologierechte zur Produktion von Vertragsprodukten lizenziert oder übertragen werden. Reine Marken- oder sonstige Rechtepakete fallen nicht automatisch darunter; bei gemischten Verträgen ist ihre unmittelbare Beziehung zur Produktion der Vertragsprodukte zu prüfen.
 
-## Kernbeschraenkungen Art. 4 TT-GVO ("Schwarze Liste")
+| Konstellation | Safe-Harbour-Schwelle | Rechenregel |
+| --- | --- | --- |
+| Wettbewerber | gemeinsamer Anteil höchstens 20 Prozent | Technologie- und Produktmärkte getrennt prüfen |
+| Nichtwettbewerber | Anteil jeder Partei höchstens 30 Prozent | Technologie- und Produktmärkte getrennt prüfen |
 
-Bei diesen Klauseln entfaellt die Freistellung **vollstaendig**:
+Wird eine Schwelle während der Vertragslaufzeit überschritten, bleibt der Safe Harbour nach Artikel 8 Buchstabe e TTBER für drei aufeinanderfolgende Kalenderjahre nach dem Überschreitungsjahr bestehen. Oberhalb der Schwelle ist die Vereinbarung nicht automatisch verboten; sie benötigt eine Einzelfallprüfung.
 
-| Klausel | Verbot |
-|---|---|
-| Preisbindung Lizenznehmer | Preise für Lizenzprodukte vorgeschrieben |
-| Quotenbeschraenkung Lizenznehmer | Mengenbeschraenkung (mit Sonderregeln) |
-| Beschraenkung passive Verkaeufe | Lizenznehmer darf nicht auf unaufgefordert Bestellungen reagieren |
-| Marktaufteilung Wettbewerber | Markt aufteilen (mit Ausnahmen für exklusive Lizenz) |
+## 4. Klauselprüfung
 
-## Nicht freigestellte Beschraenkungen Art. 5 TT-GVO ("Graue Liste")
+### 4.1. Kernbeschränkungen nach Artikel 4
 
-Diese Klauseln verlieren die Freistellung, **andere Vertragsteile bleiben** freigestellt:
+Trenne Wettbewerber- und Nichtwettbewerberverträge. Prüfe insbesondere Preisbindung, Outputbeschränkung, Markt- oder Kundenteilung sowie Beschränkungen aktiver und passiver Verkäufe anhand der jeweiligen Tatbestandsvariante und Ausnahme. Eine Kernbeschränkung entzieht grundsätzlich der gesamten Vereinbarung den Safe Harbour.
 
-1. **Exklusives Grant-Back** auf nicht-abtrennbare Verbesserungen des Lizenznehmers
-2. **Non-Challenge-Klausel** (Verbot Schutzrechtsangriff)
-3. Bei Vertraegen zwischen Nicht-Wettbewerbern: Beschraenkung der Lizenznehmer-Forschung in einem nicht-lizenzierten Field
+### 4.2. Ausgeschlossene Beschränkungen nach Artikel 5
 
-## Praktische Prüfroutine
+- Exklusive Rücklizenz oder Übertragung von Verbesserungen des Lizenznehmers ist nicht gruppenfreigestellt; die neue Fassung unterscheidet dabei nicht mehr nach abtrennbaren und nicht abtrennbaren Verbesserungen.
+- No-Challenge-Klauseln sind nicht gruppenfreigestellt. Das Kündigungsrecht bei einem Angriff ist nur im Rahmen einer exklusiven Lizenz von der ausdrücklichen Ausnahme erfasst und zusätzlich auf seine tatsächliche wettbewerbliche Wirkung zu prüfen.
+- Weitere Forschungs- oder Nutzungseinschränkungen sind anhand der genauen Vertrags- und Wettbewerbskonstellation zu prüfen.
 
-```
-1. IP-Typ pruefen: TT-GVO oder Vertikal-GVO?
-2. Marktanteilsschwelle pruefen: 20 % / 30 %?
-3. Klausel-Liste durchgehen: Kernbeschraenkungen (Art. 4)?
-4. Grenze gegen Grant-Back, Non-Challenge (Art. 5)?
-5. Bei Marktanteil-Ueberschreitung: Einzelfall-Pruefung Art. 101 III AEUV.
-```
+Eine ausgeschlossene Beschränkung verliert für sich den Safe Harbour; der übrige Vertrag kann weiter freigestellt sein.
 
-## Klausel-Bausteine
+## 5. Arbeitsprodukt
 
-**A. Compliance-Bestaetigung:**
-> "Die Parteien sind sich einig, dass dieser Vertrag in Uebereinstimmung mit der TT-GVO (VO (EU) Nr. 316/2014) gestaltet ist. Sollte einzelne Klauseln gegen Art. 4 oder 5 TT-GVO verstossen, vereinbaren die Parteien deren Anpassung, ohne die Wirksamkeit der uebrigen Klauseln zu beruehren (Paragraf 139 BGB)."
+Erstelle eine zeilenweise Matrix:
 
-**B. Non-Challenge mit Kuendigungsrecht (sicherer Ersatz für Verbot):**
-> "Sollte der Lizenznehmer die Gueltigkeit eines Lizenzschutzrechts angreifen, ist der Lizenzgeber zur ausserordentlichen Kuendigung berechtigt."
+| Klausel | Wettbewerbsbezug | TTBER-Norm | Tatbestandsbefund | Ausnahme | Rechtsfolge | Redline |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Vertragsfundstelle] | [Markt oder Verhalten] | [Artikel] | [belegt oder offen] | [konkret] | [Safe Harbour oder Einzelprüfung] | [Ersatztext] |
 
-**C. Aktives vs. passives Gebietsschutz:**
-> "Der Lizenznehmer wird in einem ihm zugewiesenen exklusiven Gebiet aktive Verkaeufe nicht anbieten. Passive Verkaeufe (Reaktion auf unaufgeforderte Anfragen) bleiben jederzeit zulässig."
+Bei einer Einzelfreistellung behandle getrennt: Effizienzgewinn, angemessene Verbraucherbeteiligung, Unerlässlichkeit und verbleibender Wettbewerb. Weise jedem Punkt Tatsachen und Belege zu.
 
-## Anschluss
+## 6. Qualitätskontrolle
 
-- Verbesserungen: `klausel-verbesserungen-grant-back`
-- Exklusivitaet: `klausel-exklusivitaet-sole-non-exclusive`
+1. Aktuelle Verordnung und Leitlinien sind mit Datum und Fundstelle bezeichnet.
+2. Wettbewerbsverhältnis und Marktanteile sind nicht vertauscht.
+3. Marktanteil und Produkt- oder Technologiebezug beruhen auf einer genannten Quelle.
+4. Artikel 4 und Artikel 5 werden in ihrer unterschiedlichen Rechtsfolge getrennt.
+5. Ein Überschreiten der Schwelle wird nicht als automatisches Verbot dargestellt.
+6. Jede beanstandete Klausel erhält einen konkreten, geschäftlich brauchbaren Redline-Vorschlag.

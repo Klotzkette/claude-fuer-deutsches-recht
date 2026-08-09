@@ -56,7 +56,7 @@ description: "Wenn es um Restrukturierung: Stundung und Stillhaltevereinbarung i
 ### Dokumentationspflicht
 - Alle Änderungen schriftlich; Änderungsvereinbarung zum Leasingvertrag
 - Vertragstext: Ursprungsvertrag bleibt bestehen; nur modifiziert
-- Zwingendes Schriftformgebot bei ursprünglichem Schriftformerfordernis (§ 550 BGB analog)
+- Ursprüngliche gesetzliche oder vertragliche Form konkret bestimmen; Paragraf 550 BGB nicht analog auf Leasing übertragen. Bei Grundstücks- oder Gewerberaummiete gilt Paragraf 578 Absatz 1 BGB mit Textform.
 
 ### Kein Novation
 - Restrukturierung = Modifikation, kein Neuvertrag
@@ -112,4 +112,3 @@ description: "Wenn es um Restrukturierung: Stundung und Stillhaltevereinbarung i
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

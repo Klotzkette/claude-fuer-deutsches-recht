@@ -111,6 +111,7 @@ EXPORT_META_PATTERNS = {
     ),
 }
 SYNTHETIC_EMAIL_PATTERN = re.compile(
+    r"(?:@|https?://)[a-z0-9.-]*example[a-z0-9.-]*(?:\b|$)|"
     r"(?:@|https?://)[^\s<>/]+[.](?:example|invalid|local|test)\b|"
     r"\b[a-z0-9][a-z0-9.-]*[.]example\b|"
     r"@example[.](?:com|de|org)\b|"
@@ -370,6 +371,10 @@ def eml_quality_errors(path: Path) -> list[str]:
             )
     body = message.get_body(preferencelist=("plain", "html"))
     rendered = body.get_content() if body is not None else str(message)
+    if len(rendered.strip()) < 200:
+        errors.append(
+            f"{label}: E-Mail-Inhalt ist mit {len(rendered.strip())} Zeichen zu knapp"
+        )
     if any(marker in rendered for marker in BROKEN_ENCODING_MARKERS):
         errors.append(f"{label}: E-Mail-Inhalt wird fehlerhaft dekodiert")
     return errors

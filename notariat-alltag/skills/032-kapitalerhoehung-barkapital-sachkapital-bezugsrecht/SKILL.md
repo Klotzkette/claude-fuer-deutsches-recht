@@ -1,98 +1,92 @@
 ---
 name: 032-kapitalerhoehung-barkapital-sachkapital-bezugsrecht
-description: "Wenn es um Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, Bezugsrecht, HR in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Steuert Barkapital- und Sachkapitalerhöhungen bei GmbH und AG vom Beschluss über Übernahme oder Zeichnung und Einlage bis zur Registereintragung. Prüft Mehrheit, notarielle Form, Bezugsrecht, Sacheinlage, Versicherungen und Vollzugsunterlagen und liefert Beschluss-, Erklärungs- und Anmeldepaket."
 ---
 
-# Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, Bezugsrecht, HR
+# Notariat im Alltag: Kapitalerhöhung, Sacheinlage und Bezugsrecht
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies zuerst Satzung, aktuellen Registerauszug, Gesellschafterliste oder Aktionärsstruktur, Finanzierungsvereinbarung, Bewertungsunterlagen und Entwürfe. Ermittle Rechtsform, Erhöhungsart, Ausgangs- und Zielkapital, neue Nennbeträge, Übernehmer, Gegenleistung, Bezugsrechtslage und gewünschten Vollzugstermin. Frage nur nach einer Angabe, die Beschluss, Form oder Anmeldung tatsächlich verändert.
 
-## Zweck und Anwendungsbereich
+## 2. GmbH: Beschluss und notarielle Form
 
-Kapitalerhöhungen stärken die Eigenkapitalbasis einer Gesellschaft. Führe durch die notariellen Anforderungen für GmbH- und AG-Kapitalerhöhungen mit Bareinlagen und Sacheinlagen sowie durch die Handelsregisteranmeldung.
+Eine Erhöhung des Stammkapitals ändert den Gesellschaftsvertrag. Prüfe deshalb:
 
-Rechtsgrundlagen: §§ 55–57 GmbHG (GmbH-Kapitalerhöhung), §§ 182–221 AktG (AG-Kapitalerhöhung), § 53 GmbHG (Satzungsänderung durch Kapitalerhöhungsbeschluss), § 57a GmbHG (vereinfachte Kapitalerhöhung), GmbHG § 5a (UG), § 12 HGB (Anmeldung).
+1. Beschlusskompetenz und Beschlussgegenstand nach den Paragrafen 53 und 55 GmbHG.
+2. Dreiviertelmehrheit der abgegebenen Stimmen nach Paragraf 53 Absatz 2 GmbHG sowie strengere Satzungsvorgaben und Stimmverbote.
+3. Notarielle Beurkundung des Beschlusses nach Paragraf 53 Absatz 3 GmbHG. Bei einer einstimmigen Beschlussfassung ist die dort angeordnete Verweisung auf Paragraf 2 Absatz 3 GmbHG für die Online-Beurkundung gesondert zu prüfen.
+4. Genaue Neufassung von Stammkapital, Zahl und Nennbeträgen der Geschäftsanteile sowie etwaiger Agio-, Nebenleistungs- oder Sonderrechtsregelungen.
+5. Vollständigen Satzungswortlaut und notarielle Bescheinigung für die Anmeldung nach Paragraf 54 GmbHG.
 
-## GmbH-Kapitalerhöhung
+## 3. GmbH: Übernahme und Einlage
 
-**Beschluss:**
-- Gesellschafterbeschluss mit 3/4-Mehrheit (§ 53 Abs. 2 GmbHG) oder satzungsmäßig vorgesehener Mehrheit
-- Notarielle Beurkundung des Beschlusses (§ 53 Abs. 2 i.V.m. § 2 GmbHG)
+Für jeden neuen Geschäftsanteil ist nach Paragraf 55 Absatz 1 GmbHG eine notariell aufgenommene oder beglaubigte Übernahmeerklärung erforderlich. Diese Form gilt unabhängig davon, ob ein bestehender oder neuer Gesellschafter übernimmt; eine bloße Schriftform oder eine Analogie zu Paragraf 15 Absatz 3 GmbHG genügt nicht.
 
-**Übernahmeerklärung (§ 55 Abs. 1 GmbHG):**
-- Schriftliche Übernahmeerklärung jedes neuen Gesellschafters
-- Beurkundung: wenn neuer Gesellschafter → § 15 Abs. 3 GmbHG analog (Abtretungsform)
-- Bei Kapitalerhöhung durch bestehende Gesellschafter: Schriftform ausreichend (str.)
+Die Übernahmeerklärung muss Übernehmer, Nennbetrag und die übernommenen weiteren Leistungen erkennen lassen. Gleiche sie mit Beschluss, Satzung und Zeichnungsliste ab. Prüfe bei Bareinlagen die Leistungsvoraussetzungen des Paragraf 57 Absatz 2 GmbHG in Verbindung mit den dort in Bezug genommenen Gründungsvorschriften. Unterstelle keinen pauschalen Mindestzahlbetrag ohne Kenntnis des bereits eingezahlten Stammkapitals und der konkreten Einforderung.
 
-**Einzahlungsnachweis (§ 57 Abs. 2 GmbHG):**
-- Vor Anmeldung muss eingeforderte Einlage zu mindestens 1/4 eingezahlt sein (mind. 12.500 € Gesamtkapital)
-- Bankbestätigung oder Kontoauszug
+Arbeitsprodukt: Übernahmematrix mit Person, neuem Geschäftsanteil, Nennbetrag, Agio, Form, Unterzeichnungsdatum, Einlage, Zahlungsbeleg und offener Bedingung.
 
-## AG-Kapitalerhöhung
+## 4. GmbH: Sacheinlage und verdeckte Sacheinlage
 
-**Ordentliche Kapitalerhöhung (§§ 182–191 AktG):**
-- Hauptversammlungsbeschluss (§ 182 AktG)
-- Beurkundung nach § 130 AktG: notarielle Beurkundung
-- Bezugsrecht der Aktionäre (§ 186 AktG): Ausschluss bedarf besonderer Mehrheit und Begründung
-- Zeichnung der neuen Aktien
-- Anmeldung beim HR (§ 188 AktG)
+Bei Sacheinlagen sind Gegenstand und Nennbetrag nach Paragraf 56 GmbHG im Beschluss festzusetzen. Prüfe Eigentum, Verfügungsbefugnis, Übertragungsakt, Bewertungsstichtag, Werthaltigkeit, Belastungen, Nutzungsübergang und tatsächliche freie Verfügung der Geschäftsführung. Trenne offene Sacheinlage, verdeckte Sacheinlage und Hin-und-her-Zahlen. Ein Wertgutachten ersetzt weder die genaue Festsetzung noch den dinglichen Vollzug.
 
-**Genehmigtes Kapital (§§ 202–206 AktG):**
-- Vorstand kann innerhalb von 5 Jahren Kapital erhöhen (Ermächtigung durch HV)
-- Einzelne Erhöhungsakte: Vorstandsbeschluss + Beglaubigung HR-Anmeldung
+Arbeitsprodukt: Sacheinlagenakte mit Beschreibung, Rechtsinhaber, Bewertung, Übertragungsdokument, Belastung, Einbringungszeitpunkt, Registerbeleg und Differenzrisiko.
 
-## Sacheinlage
+## 5. GmbH: Anmeldung und Wirksamkeit
 
-Bei Sacheinlagen muss der eingebrachte Gegenstand bewertet und in der Satzung bzw. im Beschluss beschrieben werden:
-- Werthaltigkeitsprüfung (§ 56 GmbHG, § 183 AktG)
-- Sacheinlagebericht (AG: § 183 Abs. 3 AktG)
-- Differenzhaftung bei zu hohem Ansatz (§ 9 GmbHG, § 9 Abs. 1 AktG)
+Bereite die Anmeldung nach Paragraf 57 GmbHG erst vor, wenn Beschluss, Übernahmen und erforderliche Leistungen deckungsgleich belegt sind. Prüfe:
 
-## Bezugsrecht und Bezugsrechtsausschluss
+1. Vertretungs- und Unterzeichnungsberechtigung aller Geschäftsführer.
+2. Versicherungen und beizufügende Unterlagen in der aktuellen Gesetzesfassung.
+3. Zahlungs- oder Übertragungsbelege ohne unzulässige Scheinsicherheit.
+4. Vollständigen Satzungswortlaut mit Bescheinigung nach Paragraf 54 Absatz 1 GmbHG.
+5. Aktualisierte Gesellschafterliste nach Paragraf 40 GmbHG und ihren richtigen Einreichungszeitpunkt.
+6. Wirksamkeit der Satzungsänderung erst mit Registereintragung nach Paragraf 54 Absatz 3 GmbHG.
 
-Aktionäre haben bei ordentlicher Kapitalerhöhung ein Bezugsrecht (§ 186 AktG). Ausschluss:
-- Mehrheit 3/4 des Grundkapitals bei HV-Beschluss
-- Sachlicher Grund (BGH: Siemens/Nold)
-- Bericht des Vorstands über Gründe des Ausschlusses
+## 6. AG: ordentliche Kapitalerhöhung
 
-## Prüfprogramm
+Bei der AG führe Hauptversammlungsbeschluss, notarielle Niederschrift, Zeichnung, Einlage und Anmeldung als getrennte Stationen:
 
-- Beschluss mit notarieller Beurkundung?
-- Übernahmeerklärungen korrekt erteilt und beurkundet?
-- Einzahlungsnachweis vor Anmeldung vorliegend?
-- Gesellschafterliste nach Kapitalerhöhung aktualisiert (§ 40 GmbHG)?
-- AG: Bezugsrecht beachtet oder wirksam ausgeschlossen?
-- Sacheinlage: Wertgutachten, Beschreibung, Differenzhaftungsrisiko?
+1. Beschluss und Mehrheit nach Paragraf 182 AktG; notarielle Niederschrift nach Paragraf 130 AktG.
+2. Bezugsrecht, Bezugsfrist und ein möglicher Ausschluss nach Paragraf 186 AktG einschließlich Bericht, sachlicher Rechtfertigung und Ausgabebetrag.
+3. Zeichnung der neuen Aktien in der gesetzlich vorgeschriebenen Form.
+4. Bareinlage oder Sacheinlage, Prüfungsunterlagen und Werthaltigkeit.
+5. Anmeldung und Eintragung nach den Paragrafen 188 und 189 AktG.
 
-## Typische Fallen
+Bei genehmigtem Kapital sind Ermächtigungsrahmen, Laufzeit, Restbetrag, Zustimmung des Aufsichtsrats, Bezugsrechtskompetenz und Satzungsanpassung nach den Paragrafen 202 bis 206 AktG gesondert zu prüfen.
 
-- Beschluss formlos → § 53 GmbHG-Verstoß → Eintragung scheitert.
-- Einzahlung vor Anmeldung nicht nachgewiesen → Registergericht beanstandet.
-- Gesellschafterliste nach Kapitalerhöhung nicht aktualisiert → Gutglaubensschutz-Lücke.
-- AG: Bezugsrechtsausschluss ohne sachlichen Grund → anfechtbar.
-- Sacheinlagewert überhöht → Differenzhaftung der Gesellschafter.
+## 7. Bezugsrechts- und Verwässerungskontrolle
 
-## Rechtsquellen
+Rechne Altbestand, Bezugsverhältnis, Ausgabebetrag, Agio, Zielbeteiligung und Verwässerung für jede Variante. Trenne gesetzliches Bezugsrecht, wirksamen Ausschluss, vertragliches Beteiligungsrecht, Stimmbindung und schuldrechtliche Verwässerungsschutzklausel. Ein gesellschaftsrechtlich wirksamer Beschluss kann daneben einen Beteiligungsvertrag verletzen.
 
-- §§ 55–57 GmbHG: https://dejure.org/gesetze/GmbHG/55.html
-- §§ 182–191 AktG: https://dejure.org/gesetze/AktG/182.html
-- § 186 AktG (Bezugsrecht): https://dejure.org/gesetze/AktG/186.html
-- § 56 GmbHG (Sacheinlage): https://dejure.org/gesetze/GmbHG/56.html
-- BGH Kapitalerhöhung: https://www.bgh.de
-- BNotK Gesellschaftsrecht: https://www.bnotk.de
+## 8. Vollzugspaket
 
-## Output-Formate
+Liefere je nach Rechtsform:
 
-- **Kapitalerhöhungsbeschluss-Entwurf** (GmbH / AG)
-- **Übernahmeerklärung-Muster**
-- **Einzahlungsnachweis-Checkliste**
-- **Gesellschafterlisten-Update** (nach Kapitalerhöhung)
+- beurkundungsreifen Beschluss mit präziser Satzungsänderung;
+- Übernahme- oder Zeichnungserklärungen;
+- Einlage- und Sacheinlagenmatrix;
+- notarielle Handelsregisteranmeldung mit Anlagenindex;
+- aktualisierte Gesellschafterliste oder Satzungsfassung;
+- Vollzugskalender mit Unterzeichnung, Zahlung, Anmeldung, Zwischenverfügung, Eintragung und Benachrichtigung.
+
+## 9. Schlusskontrolle
+
+1. Stimmen Ausgangskapital, Erhöhungsbetrag, Zielkapital und Summe der neuen Nennbeträge centgenau überein?
+2. Sind Mehrheit nach Paragraf 53 Absatz 2 GmbHG und notarielle Form nach Absatz 3 getrennt richtig behandelt?
+3. Liegt für jeden GmbH-Geschäftsanteil eine formgerechte Übernahmeerklärung nach Paragraf 55 Absatz 1 GmbHG vor?
+4. Ist jede Sacheinlage konkret bezeichnet, bewertet und tatsächlich übertragbar?
+5. Sind Beschluss, Satzung, Übernahme, Anmeldung und Gesellschafterliste widerspruchsfrei?
+6. Wird die Registereintragung nicht mit einer bloßen Anmeldung verwechselt?
+
+## 10. Amtliche Quellen
+
+- Paragraf 53 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__53.html
+- Paragraf 55 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__55.html
+- Paragraf 57 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__57.html
+- Paragraf 182 AktG: https://www.gesetze-im-internet.de/aktg/__182.html
+- Paragraf 186 AktG: https://www.gesetze-im-internet.de/aktg/__186.html
 - **Mandantenmail** (Ablauf, Einzahlungspflicht, Registerfrist)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de

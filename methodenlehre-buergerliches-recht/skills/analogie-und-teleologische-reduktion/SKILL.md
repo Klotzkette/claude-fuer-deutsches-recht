@@ -13,7 +13,7 @@ description: "Wenn es um Analogie und teleologische Reduktion (Rechtsfortbildung
 
 ## Worum geht es?
 
-Analogie und teleologische Reduktion sind die zentralen Werkzeuge der Rechtsfortbildung. Sie greifen, wo die Auslegung im engeren Sinne endet, also jenseits oder gegen den moeglichen Wortsinn (siehe Skill `wortlaut-grammatikalische-auslegung`).
+Analogie und teleologische Reduktion sind die zentralen Werkzeuge der Rechtsfortbildung. Sie greifen, wo die Auslegung im engeren Sinne endet, also jenseits oder gegen den möglichen Wortsinn (siehe Skill `wortlaut-grammatikalische-auslegung`).
 
 - **Analogie:** Eine Norm wird auf einen Fall angewendet, den ihr Wortlaut nicht erfasst, weil die Interessenlage vergleichbar ist.
 - **Teleologische Reduktion:** Eine Norm wird auf einen Fall **nicht** angewendet, obwohl ihr Wortlaut ihn erfasst, weil der Zweck der Norm den Fall nicht erfasst.

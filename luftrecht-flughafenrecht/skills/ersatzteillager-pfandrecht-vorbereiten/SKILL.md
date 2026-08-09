@@ -22,7 +22,7 @@ description: "Wenn es um Ersatzteillager – Pfandrecht vorbereiten in Luftrecht
 ## Erste Schritte
 
 1. Sachverhalt strukturieren: Parteien betroffene Luftfahrzeuge/Einrichtungen beteiligte Behörden und laufende Fristen.
-2. Einschlägige Normen identifizieren: BGB §§ 1204 ff. LuftFzgG §§ 3-5 Cape Town Convention Art. 2 ICAO-Register.
+2. Einschlägige Normen identifizieren: BGB §§ 1204 ff. LuftFzgG §§ 3-5 Cape Town Convention Art. 2 International Registry.
 3. Register prüfen: LBA-Luftfahrzeugrolle AG-Braunschweig-Pfandrechtsregister ICAO-Cape-Town-Register je nach Fallrelevanz.
 4. Zuständigkeit klären: LBA vs. Landesbehörde vs. EASA vs. Verwaltungsgericht.
 5. Fristen sichern: Widerspruch (1 Monat) Klage (1 Monat) Insolvenzantrag (3/6 Wochen).
@@ -30,12 +30,12 @@ description: "Wenn es um Ersatzteillager – Pfandrecht vorbereiten in Luftrecht
 
 ## Rechtsrahmen
 
-BGB §§ 1204 ff. LuftFzgG §§ 3-5 Cape Town Convention Art. 2 ICAO-Register – die einschlägigen Normen werden je nach Sachverhaltsebene (nationaler Betrieb EU-Recht internationales Recht) herangezogen und zu jedem Normzitat kurz erläutert.
+BGB §§ 1204 ff. LuftFzgG §§ 3-5 Cape Town Convention Art. 2 International Registry – die einschlägigen Normen werden je nach Sachverhaltsebene (nationaler Betrieb EU-Recht internationales Recht) herangezogen und zu jedem Normzitat kurz erläutert.
 
 - **LuftVG §§ 6 20 29 31 64**: Genehmigung Betrieb Register Aufsicht.
 - **LuftSiG §§ 7-9**: Zuverlässigkeitsüberprüfung Sicherheitsprogramme Aufsicht.
 - **EU-VO 1008/2008 Art. 3-9**: Betriebsgenehmigung finanzielle Leistungsfähigkeit Überwachung.
-- **Cape Town Convention Art. 2-16**: Internationale Sicherungsinteressen ICAO-Register.
+- **Kapstadt-Regime nur bei Anwendbarkeit**: Vertragsstaatenbezug und Erklärungen anhand des aktuellen UNIDROIT-Status prüfen; Deutschland hat Übereinkommen und Luftfahrzeugprotokoll nur unterzeichnet, nicht ratifiziert. Prioritäten folgen grundsätzlich Artikel 29 des Übereinkommens und Artikel XIV des Protokolls.
 - **LuftFzgG §§ 1-28**: Nationales Pfandrecht Vollstreckung AG Braunschweig.
 - **InsO §§ 15a 17-19 47 50**: Insolvenzantragspflicht Gläubigerrechte.
 - **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
@@ -50,7 +50,7 @@ BGB §§ 1204 ff. LuftFzgG §§ 3-5 Cape Town Convention Art. 2 ICAO-Register �
 1. Ist zuständige Behörde korrekt adressiert?
 2. Sind alle Register vollständig abgefragt?
 3. Laufen Fristen – sind alle gesichert?
-4. Besteht Cape-Town-Registrierung mit IDERA?
+4. Berührt der Fall einen Vertragsstaat, und bestehen internationale Registrierungen oder eine behördlich erfasste IDERA?
 5. Ist Insolvenzrisiko bewertet?
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Liegt für jedes eingelagerte Teil ein gültiger Konformitätsnachweis (EASA Form 1) vor?
@@ -97,7 +97,7 @@ Für Mandate im Bereich Ersatzteillager für Luftfahrzeuge und Part-145-Zulassun
 
 - Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
 - AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
+- Bei belegtem Vertragsstaatenbezug: aktuelles Search Certificate des International Registry und gegebenenfalls IDERA-Nachweis der nationalen Registerbehörde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz

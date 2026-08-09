@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine Grundrechtsrüge zulässig und schlüssig begründen.
-
 # Richter BVerfG Verfassungsbeschwerden — Schnellstart
+
+Wenn du das hier öffnest, willst du eine Grundrechtsrüge zulässig und schlüssig begründen.
 
 Ziel: BVerfG Kammer und wissenschaftliche Mitarbeiter: Annahmeprüfung Verfassungsbeschwerde Paragraf 93a BVerfGG Substantiierung Subsidiarität Grundrechtsverletzung Rechtswegerschöpfung Voten Kammerbeschluss Nichtannahmebeschluss. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -43,9 +43,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Beschwerdegegenstand, Hoheitsakt | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Zulässigkeit | Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Schutzbereich, Eingriff | Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten | Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten | Bearbeite Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten entlang der Verfassungsrecht-Prüflinie: Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 01 Annahme Prüfung Paragraf 93A | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Substantiierungs Prüfung Paragraf 92 | BVerfG, Urteil vom 15.01.1958; 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -53,7 +53,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - GG Artikel 2 Absatz 1: allgemeine Handlungsfreiheit.
 - GG Artikel 3 Absatz 1: Gleichheitssatz.
 - GG Artikel 12 Absatz 1: Berufsfreiheit.
-- Paragrafen 90 ff. BVerfGG; Paragrafen 93a ff. BVerfGG für Annahme; Paragraf 95 BVerfGG für Tenor bei Erfolg; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 90 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 90 BVerfGG: Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung und Subsidiarität; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 23 und Paragraf 92 BVerfGG: substantiiertes Vorbringen und Begründungslast; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 93a BVerfGG: Annahmegründe sauber von Begründetheit trennen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.

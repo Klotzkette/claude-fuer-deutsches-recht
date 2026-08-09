@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du einen grenzüberschreitenden Fall sortieren: anwendbares Recht, Zuständigkeit und Durchsetzung klären und ein verwertbares Arbeitsprodukt bauen.
-
 # Festlandchina Wirtschaftsverkehr — Schnellstart
+
+Wenn du das hier öffnest, willst du einen grenzüberschreitenden Fall sortieren: anwendbares Recht, Zuständigkeit und Durchsetzung klären und ein verwertbares Arbeitsprodukt bauen.
 
 Ziel: Mega-Plugin für wirtschaftlichen Umgang mit Festlandchina: Fabrik, Import, Export, Investition, De-Risking, Lieferkette, IP, Daten, Exportkontrolle und politisches Risiko. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -41,11 +41,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Auslands-Zergliederung | Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Forum | internationale Zuständigkeit prüfen (Brüssel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwendbares Recht | Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Materielle Prüfung nach dem berufenen Recht | bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Forum | Internationale Zuständigkeit prüfen (Brüssel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwendbares Recht | Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Materielle Prüfung nach dem berufenen Recht | Bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Durchsetzung | Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anti-Korruption China: FCPA/Paragraf 299 StGB/CN-Recht | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anti-Korruption China: FCPA/Paragraf 299 StGB/CN-Recht | Bearbeite Anti-Korruption China: FCPA/Paragraf 299 StGB/CN-Recht: bei ausländischem Recht Ermittlungsweg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

@@ -1,77 +1,73 @@
 ---
 name: triage-notaufnahme-ueberlastung-dokumentation
-description: "Wenn es um Triage Notaufnahme Ueberlastung Dokumentation in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Steuert Routine- und Überlastungstriage in der Notaufnahme nach aktuellem Rechtsstand. Trennt Ersteinschätzung, Re-Triage, Ressourcenknappheit, Organisationsverantwortung und Haftungsaufarbeitung; berücksichtigt die Nichtigkeit des Paragraf 5c IfSG und liefert SOP, Ereignischronologie, Beweismatrix und Maßnahmenplan."
 ---
 
-# Triage Notaufnahme Ueberlastung Dokumentation
+# Triage, Überlastung und Dokumentation in der Notaufnahme
 
-## Worum geht es konkret
-Notaufnahmen muessen Patienten anhand validierter Triagesysteme (Manchester Triage System MTS, Emergency Severity Index ESI) priorisieren. Bei Ueberlastung und Knappheit (Intensivbetten, Beatmungsgeraete) bestehen ethisch-rechtliche Vorgaben (BVerfG-Beschluss zur Triage 2021/2022; § 5c IfSG nach Pandemienovelle).
+## 1. Direktstart
 
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
-- Welche Triage-Lage (Routine, Massenanfall, Ressourcenknappheit)?
-- Welches Triagesystem ist eingefuehrt (MTS, ESI, andere)?
-- Liegen Dokumentationsstandards, Schulungsnachweise vor?
-- Gab es einen konkreten Vorfall (Triagefehler, Behandlungsverzoegerung)?
-- Drohen Haftungsrisiken, Aufsicht oder Patientenbeschwerde?
+Lies Notaufnahmeprotokoll, Triagebogen, Kurve, Dienstplan, Bettenstatus, Leitstellenkommunikation und SOP zuerst. Liefere dann:
 
-## Rechtlicher Rahmen
-- **BGB §§ 630a ff.** Behandlungspflicht, Aufnahme-/Ueberweisungspflicht in Notlage.
-- **GG Art. 3 Abs. 3 S. 2** Benachteiligungsverbot wegen Behinderung — BVerfG 16.12.2021 zur Triage (1 BvR 1541/20).
-- **§ 5c IfSG** Triagegrundsaetze (Pandemienovelle 2022).
-- **DIVI- und DGINA-Empfehlungen** zu Triagesystemen und Krisenversorgung.
-- **Notaufnahmevergaben G-BA** Stufenkonzept und Strukturmerkmale.
-- **MD-Strukturpruefung** und MBO-Aerzte.
+1. eine Minutenchronologie vom Erstkontakt bis zur Behandlung oder Verlegung,
+2. den medizinischen Triagepfad mit Erst- und Re-Triage,
+3. die organisatorischen Engpässe mit verantwortlicher Funktion,
+4. die rechtlich offenen Punkte und
+5. die sofortige Schutz- oder Aufklärungsmaßnahme.
 
-## Workflow / Schritt fuer Schritt
-1. **Triagesystem dokumentieren:** Welches System, wer triagiert (Notfallpflege, Aerztlich), Schulungsnachweis.
-2. **Dokumentation jeder Triage:** Eingangstrias mit Datum/Uhrzeit, Kategorie, Vitalparameter, Begruendung.
-3. **Re-Triage:** Bei Verzoegerung erneute Bewertung; Verlauf dokumentieren.
-4. **Sekundaer-Triage:** Bei knappen Ressourcen (Intensivbett, Beatmung) Entscheidung anhand § 5c IfSG: Erfolgsaussicht im Einzelfall, kein Diskriminierungskriterium.
-5. **Ueberlastung melden:** Innerbehoerdlich, ggf. Leitstelle Rettungsdienst (Abmeldung Aufnahmestatus).
-6. **Vorfall-/Haftungspruefung:** Fehlerquellen, dokumentierte Begruendung, Nachschulung.
+Frage nur nach, wenn Zeitpunkt, Zustandsänderung, Verantwortlicher oder konkreter Ressourcenengpass nicht aus den Unterlagen hervorgeht.
 
-## Trade-off-Matrix
+## 2. Rechtsstand
 
-| Lage | Triagesystem | Risiko |
-|---|---|---|
-| Routinenotaufnahme | MTS/ESI | wenig |
-| Massenanfall MANV | MTS-MCI / SIEVE-START | hohe Anforderung Doku |
-| Pandemielage knapper Intensivbetten | § 5c IfSG (Erfolgsaussicht) | verfassungsrechtl. Sensibilitaet |
-| Ueberlastung dauerhaft | Strukturkritik, Aufsichtsdialog | Strukturpruefung droht |
+- BGB Paragraf 630a bis Paragraf 630h steuern Behandlungsvertrag, Information, Einwilligung, Dokumentation und beweisrechtliche Folgen.
+- GG Artikel 3 Absatz 3 Satz 2 schützt vor Benachteiligung wegen einer Behinderung.
+- BVerfG, Beschluss vom 16. Dezember 2021 - 1 BvR 1541/20: Der Gesetzgeber musste wirksamen Schutz vor Benachteiligungsrisiken behinderter Menschen bei pandemiebedingter Triage schaffen.
+- BVerfG, Beschluss vom 23. September 2025 - 1 BvR 2284/23 und 1 BvR 2285/23: Paragraf 5c IfSG ist mit Artikel 12 Absatz 1 GG unvereinbar und nichtig. Die Vorschrift darf deshalb nicht als geltende Triagegrundlage oder SOP-Vorgabe behandelt werden.
+- Landesberufsrecht, Krankenhausrecht, Rettungsdienstrecht, G-BA-Vorgaben und fachlich anerkannte Triage- oder Notfallstandards sind nach Bundesland, Einrichtung und Zeitpunkt aktuell zu prüfen.
+- Empfehlungen medizinischer Fachgesellschaften können den fachlichen Standard erläutern, sind aber keine gesetzliche Ermächtigungsgrundlage.
 
-## Praxistipps
-- BVerfG-Beschluss (1 BvR 1541/20) hat Gesetzgeber zu Schutzregeln verpflichtet — § 5c IfSG ist die Antwort.
-- Triagesystem zertifiziert anwenden (z. B. MTS-Lizenz, ESI-Schulung), Schulungsnachweis aufbewahren.
-- Ex-post-Triage (Behandlungsabbruch zugunsten anderer) ist verfassungsrechtlich verboten (§ 5c Abs. 2 IfSG).
-- Re-Triage bei langer Wartezeit zwingend — Verlaufsdokumentation.
-- Abmeldung Aufnahmestatus an Rettungsleitstelle ist klare Eskalationsmassnahme bei Ueberlastung.
+## 3. Falltrennung
 
-## Mustertexte
-**Triage-Dokumentation (Routine):**
-> Eingangsdatum/-zeit: …, Patient: …, Triage-System: MTS, Kategorie: rot/orange/gelb/gruen/blau, Vitalparameter (RR, HF, AF, SpO2, Schmerzen NRS): …, Triagierende Person (Quali, Schulung): …, Nachsicht/Re-Triage: ja/nein.
+| Lage | Leitfrage | Primärer Nachweis |
+| --- | --- | --- |
+| Routine-Ersteinschätzung | Wurde Dringlichkeit nach eingeführtem System richtig erfasst? | Triagebogen, Vitalwerte, Qualifikation |
+| Wartezeit und Zustandsänderung | War eine rechtzeitige Re-Triage organisiert und durchgeführt? | Verlauf, Wartebereichsprotokoll, Alarm |
+| Überlastung ohne absolute Knappheit | Wurden Personal, Räume, Verlegung und Aufnahmesteuerung ausgeschöpft? | Dienstplan, Bettenboard, Leitstellenkontakt |
+| Tatsächliche Ressourcenknappheit | Welche konkrete Ressource fehlte wann und welche diskriminierungsfreie Entscheidung wurde dokumentiert? | Kapazitätsstatus, Entscheidungsteam, Kriterien |
+| Schadensfall | Welche Verzögerung war für welche gesundheitliche Folge ursächlich? | vollständige Behandlungsakte, Gutachtenfragen |
 
-**Vorfallmemo Triagefehler:**
-> Vorfall vom [Datum], Patient [ID], Kategorie [vergeben], tatsaechliche Schwere: …, Folge: …, Ursachenanalyse: …, Massnahmen: Schulung, Audit, Eskalationspfad.
+## 4. Prüfroutine
 
-## Typische Fehler
-- Triage durch ungeschultes Personal.
-- Re-Triage fehlt bei langen Wartezeiten.
-- Dokumentation unvollstaendig — Beweisnot bei Haftung.
-- § 5c IfSG-Vorgaben nicht in SOP integriert (Diskriminierungsverbot).
-- Aufnahmestatus nicht abgemeldet trotz Ueberlastung.
+1. Erstkontakt, Beschwerden, Vitalparameter, Schmerz, Triagekategorie und qualifizierte Person feststellen.
+2. Wartezeit, Kontrollen, Zustandsänderungen, Beschwerden von Angehörigen und Re-Triage lückenlos ordnen.
+3. Behandlungsplätze, Personal, Diagnostik, Intensivkapazität, Verlegung und Leitstellenstatus minutengenau rekonstruieren.
+4. Medizinischen Standard, Organisationspflicht und persönliche Entscheidung getrennt bewerten.
+5. Benachteiligungsrisiken und sachfremde Kriterien ausdrücklich prüfen; Paragraf 5c IfSG nicht anwenden.
+6. Dokumentationslücken, nachträgliche Einträge, Zeitstempelabweichungen und Verantwortungswechsel markieren.
+7. Aus jeder Abweichung eine Sofortmaßnahme, Ursachenanalyse, Dauermaßnahme und Wirksamkeitskontrolle ableiten.
 
-## Querverweise
-- `notfallstufen-und-sicherstellungszuschlaege`
-- `intensivmedizin-beatmung-verlegung`
-- `rettungsdienst-schnittstelle-aufnahme-pflicht`
-- `patientenrechte-behandlungsvertrag-aufklaerung`
-- `dokumentation-aufbewahrung-beweislast`
-- `haftpflichtfall-krankenhaus-gutachtenstrategie`
+## 5. Arbeitsprodukte
 
-## Quellen Stand 06/2026
-- BVerfG 16.12.2021, 1 BvR 1541/20.
-- § 5c IfSG.
-- DIVI-/DGINA-Triage-Empfehlungen (Live-Check divi.de, dgina.de).
-- G-BA Notfallstufen-RL (Live-Check g-ba.de).
-- BGH, staend. Rspr. zu Aufnahmepflicht und Behandlungsverzoegerung.
+### 5.1. Ereignischronologie
+
+| Uhrzeit | Patientenzustand | Handlung oder Unterlassen | Verantwortliche Funktion | Quelle | offene Frage |
+| --- | --- | --- | --- | --- | --- |
+
+### 5.2. Beweismatrix
+
+| Prüfpunkt | fachlicher oder rechtlicher Maßstab | Beleg | Gegenbeleg | Bewertung | Gutachtenfrage |
+| --- | --- | --- | --- | --- | --- |
+
+### 5.3. Maßnahmenplan
+
+| Ursache | Sofortmaßnahme | Dauermaßnahme | Verantwortlicher | Termin | Wirksamkeitsnachweis |
+| --- | --- | --- | --- | --- | --- |
+
+## 6. Qualitätskontrolle
+
+1. Routine-Triage und absolute Ressourcenknappheit sind nicht gleichgesetzt.
+2. Jede Uhrzeit ist einer Originalquelle zugeordnet.
+3. Medizinische Priorisierung, Organisationsmangel und Diskriminierungsfrage bleiben getrennt.
+4. Paragraf 5c IfSG wird nur als nichtige historische Vorschrift erläutert.
+5. Empfehlungen werden als fachliche Quelle, nicht als Gesetz bezeichnet.
+6. Das Ergebnis enthält SOP-Änderung oder Verfahrensprodukt statt bloßer Kritik.

@@ -188,7 +188,7 @@ Schritt 4: Risikobewertung
 | Rechtsgeschäft | Zwingend | Empfohlen | Elektronisch möglich? |
 |---------------|----------|-----------|----------------------|
 | Grundstückskauf | Notar | Notar | Nein |
-| Gewerbemietvertrag >1 Jahr | Schriftform | Papier + Urkundeneinheit | qES möglich |
+| Gewerbemietvertrag über ein Jahr | Textform nach Paragraf 578 Absatz 1 und 550 BGB | Dauerhaft speicherbare, lesbare Erklärung mit erkennbarem Erklärenden | E-Mail, PDF oder anderer dauerhafter Datenträger; Vertragskette und Zugang sichern |
 | Maklervertrag Wohnraum | Textform | E-Mail | Ja |
 | Bürgschaft | Schriftform | Papier + Unterschrift | qES nur nach Spezialprüfung |
 | Arbeitsbefristung | Schriftform | Papier vor Arbeitsbeginn | qES möglich, aber technisch streng |

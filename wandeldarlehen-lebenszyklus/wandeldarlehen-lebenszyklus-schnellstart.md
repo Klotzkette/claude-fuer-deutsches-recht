@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine Transaktion vom Term Sheet bis zum Vollzug nach Struktur, Due Diligence, Garantien, Vollzugsbedingungen und Zeitplan ordnen.
-
 # Wandeldarlehen Lebenszyklus — Schnellstart
+
+Wenn du das hier öffnest, willst du eine Transaktion vom Term Sheet bis zum Vollzug nach Struktur, Due Diligence, Garantien, Vollzugsbedingungen und Zeitplan ordnen.
 
 Ziel: Begleitet den vollständigen Lebenszyklus eines Wandeldarlehens für GmbH und UG: Vertragserstellung (bilingual/einsprachig), Beurkundungsprüfung, Wandelereignisse, Wandlungsberechnung, Cap-Table-Update, Gesellschafterbeschluss und Notar-Paket. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -14,7 +14,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 2. Welche DD-Befunde tragen eine Garantie, welche eine Freistellung, welche einen Preisabschlag.
 3. Welche Vollzugsbedingungen sind zwingend und wer trägt das Freigaberisiko.
 4. Engpass dieses Gebiets zuerst sichern: Exklusivität, Angebotsfrist oder Vollzugsdatum läuft in unter zwei Wochen ab.
-5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+5. Beweislage ordnen: Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen..
 6. Erstes Arbeitsprodukt liefern: Garantiekatalog-Zeile: Thema, Garantietext, Wissensqualifikation, Haftungsgrenze, Verjährung.
 
 ## 3. Kernroute
@@ -31,20 +31,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | BGB Paragraf 433 und Paragraf 453; GmbHG Paragraf 15; BGB Paragraf 311 Absatz 2 und Paragraf 280 |
 | Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 21.04.1997 - II ZR 175/95 |
-| Tatbestand | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Struktur und Beteiligte | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Due Diligence | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertragsarchitektur | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vollzug | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Struktur und Beteiligte | Transaktionsstruktur, Datenraumfund, Wertwirkung, Vertragsabbildung, Gremienfreigabe, Closing-Bedingung, Owner und Termin zu einer belastbaren Deal-Entscheidung verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Due Diligence | Transaktionsstruktur, Datenraumfund, Wertwirkung, Vertragsabbildung, Gremienfreigabe, Closing-Bedingung, Owner und Termin zu einer belastbaren Deal-Entscheidung verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragsarchitektur | Transaktionsstruktur, Datenraumfund, Wertwirkung, Vertragsabbildung, Gremienfreigabe, Closing-Bedingung, Owner und Termin zu einer belastbaren Deal-Entscheidung verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vollzug | Transaktionsstruktur, Datenraumfund, Wertwirkung, Vertragsabbildung, Gremienfreigabe, Closing-Bedingung, Owner und Termin zu einer belastbaren Deal-Entscheidung verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -55,16 +51,15 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 126b BGB (Textform – ausreichend für Vertragsschluss); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 126 BGB (Schriftform – auf Verlangen zusätzlich); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 128 BGB (Notarielle Beurkundung – nur falls erforderlich); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 15 Abs. 3, Abs. 4 GmbHG (Beurkundungspflicht Anteilsübertragung); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Term Sheet, Bid Grid, Due-Diligence-Bericht, SPA- oder Beteiligungsklausel, Gremienvorlage, Signing- und Closing-Set oder Post-Closing-Plan.
 7.2. Normsatz: Den tragenden Anker BGB Paragraf 433 und Paragraf 453; GmbHG Paragraf 15 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Struktur und Beteiligte konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche dd-befunde tragen eine garantie, welche eine freistellung, welche einen preisabschlag an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
+7.4. Beweislast: Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen; der Bearbeiter führt DD-Fund, Q&A, Disclosure, Freigabe, Zahlung und Registervollzug lückenlos auf den Vertragsmechanismus zurück; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei Datenraumlücken, unklarer Risikozuweisung, Kaufpreismechanik, Wissensqualifikation, Haftungsgrenzen und unerfüllten Vollzugsbedingungen an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Term Sheet, Bid Grid, Due-Diligence-Bericht, SPA- oder Beteiligungsklausel, Gremienvorlage, Signing- und Closing-Set. ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Garantiekatalog-Zeile: Thema, Garantietext, Wissensqualifikation, Haftungsgrenze, Verjährung; Gremienvorlage: Transaktion, Struktur, Chancen, Risiken, Bedingungen, Beschlussvorschlag. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop

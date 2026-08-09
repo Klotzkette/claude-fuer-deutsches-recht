@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du einen Vorgang aus dem Alltag eines Solo-Selbstständigen nach Vertrag, Status, Rechnung, Abgabe und Beleg praktisch lösen.
-
 # Solo Selbstständige Praxis — Schnellstart
+
+Wenn du das hier öffnest, willst du einen Vorgang aus dem Alltag eines Solo-Selbstständigen nach Vertrag, Status, Rechnung, Abgabe und Beleg praktisch lösen.
 
 Ziel: Praxisplugin für Solo-Selbstständige in Deutschland: Start, Anmeldung, Steuern, Verträge, Rechnungen, Datenschutz, Statusfeststellung, KSK, Versicherungen, Zahlungsausfall, Krise, Wachstum und Alltag ohne juristische Überforderung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 

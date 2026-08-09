@@ -36,7 +36,7 @@ Begriffe wie "best efforts", "reasonable efforts", "affiliate", "change of contr
 ## Pflicht-Klauseln im deutschen Rechtsrahmen
 
 - **Rechtswahl / Gerichtsstand:** Rom-I-VO (EU 593/2008) für Vertragspflichten; bei Lizenzgeber-Sitz DE typischerweise deutsches Recht und Gerichtsstand DE; ICC-/DIS-Schiedsklausel als Alternative für grenzüberschreitende Lizenzen.
-- **Kartellrechtskonformität:** Vertikal-GVO (EU 2022/720) und TT-GVO (EU 316/2014, Auflauf 30.04.2026, danach Folgeregelung prüfen!) für vertikale F&E- und Lizenzvereinbarungen.
+- **Kartellrechtskonformität:** Anwendungsbereich von TTBER (EU) 2026/877 und Vertikal-GVO (EU) 2022/720 trennen; für eine Technologielizenz Wettbewerbsverhältnis, Technologie- und Produktmarkt, Marktanteil, Kernbeschränkung, ausgeschlossene Klausel und eine mögliche Einzelfreistellung nach Artikel 101 Absatz 3 AEUV dokumentieren.
 - **Kernklauseln zwingend formulieren:**
  - Lizenzgegenstand (Patente / Patentfamilie konkret listen mit Az.).
  - Lizenzart (ausschließlich/nicht ausschließlich/Sublizenz).

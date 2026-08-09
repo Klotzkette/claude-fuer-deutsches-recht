@@ -1,132 +1,80 @@
 ---
 name: hoerbuch-fachzeitschrift
-description: "Wenn es um Verl-034 · Hörbuch, Sprechervertrag und Leistungsschutzrechte in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Steuert Hörbuchproduktionen von Text- und Sprecherrechten über Aufnahme, Musik, Metadaten und Plattformauswertung bis zur Vergütungsabrechnung; trennt Urheber-, Künstler- und Tonträgerherstellerrechte."
 ---
 
-# Verl-034 · Hörbuch, Sprechervertrag und Leistungsschutzrechte
+# Hörbuch, Sprechervertrag und Leistungsschutzrechte
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Verlagsvertrag, Rechtekette des Textes, Sprechervertrag, Produktionsvertrag, Musikliste, Masterdatei, Plattformbedingungen und Abrechnungen. Liefere zuerst eine Rechteampel je Auswertungsweg: physischer Tonträger, Download, Stream, Bibliotheksausleihe, Ausschnittwerbung und internationale Fassung.
 
-## Zweck dieses Skills
+## 2. Drei Rechteebenen
 
-Hörbücher sind urheberrechtlich komplexe Produkte: Sie kombinieren das Urheberrecht des Textautors mit dem **Leistungsschutzrecht** des Sprechers. Kläre alle relevanten Rechte, die Vertragsgestaltung mit Sprechern, GEMA-Fragen, Preisbindung und die Vermarktung über Hörbuchplattformen.
+2.1. Text: Der Verlag benötigt die für Aufnahme und jeweilige Auswertung erforderlichen Nutzungsrechte des Urhebers oder Rechtsnachfolgers. Print- und E-Book-Rechte schließen das Hörbuchrecht nicht automatisch ein.
 
-## Rechtsgrundlagen
+2.2. Darbietung: Der Sprecher ist regelmäßig ausübender Künstler nach UrhG Paragraf 73. Aufnahme, Vervielfältigung, Verbreitung, öffentliche Zugänglichmachung und weitere Nutzungen sind entlang UrhG Paragrafen 77 bis 79 zu regeln.
 
-| Norm | Inhalt | Quelle |
-|------|--------|-------|
-| UrhG § 73 | Ausübender Künstler: Definition | https://dejure.org/gesetze/UrhG/73.html |
-| UrhG § 77 | Vervielfältigungsrecht des Sprechers | https://dejure.org/gesetze/UrhG/77.html |
-| UrhG § 78 | Aufführungsrecht und öffentliche Zugänglichmachung | https://dejure.org/gesetze/UrhG/78.html |
-| UrhG § 79 | Einräumung von Nutzungsrechten durch den Sprecher | https://dejure.org/gesetze/UrhG/79.html |
-| UrhG § 79b | Verwaiste Höraufnahmen | https://dejure.org/gesetze/UrhG/79b.html |
-| UrhG §§ 85–87 | Tonträgerhersteller-Leistungsschutzrecht | https://dejure.org/gesetze/UrhG/85.html |
-| BuchPrG § 2 | Hörbücher auf physischem Datenträger: preisgebunden | https://www.gesetze-im-internet.de/buchprg/__2.html |
-| GEMA-Tarife | Musikalische Unterlegung von Hörbüchern | https://www.gema.de |
+2.3. Tonträger: Herstellerrechte nach UrhG Paragrafen 85 und 86 stehen neben Text- und Darbietungsrechten. Kläre, wer organisatorische und wirtschaftliche Verantwortung für die Erstaufzeichnung trägt.
 
-## Rechtestruktur beim Hörbuch
+## 3. Schutzfristen richtig bestimmen
 
-### Schicht 1: Urheberrecht des Textautors
-- Autor des Buches behält sein Urheberrecht.
-- Verlag benötigt vom Autor die **Lesevortragslizenz** (Nutzungsrecht für Hörbuch-Produktion).
-- Typische Klausel im Verlagsvertrag: „Der Autor räumt dem Verlag das ausschließliche Recht ein, das Werk als Tonaufnahme (Hörbuch) zu vervielfältigen, zu verbreiten und öffentlich zugänglich zu machen."
-- Separate Vergütung für Hörbuchrechte: Üblich 20–25 % der Hörbucheinnahmen.
+3.1. Für eine auf Tonträger aufgezeichnete Darbietung knüpft UrhG Paragraf 82 Absatz 1 an Erscheinen oder die frühere erste erlaubte öffentliche Wiedergabe an und sieht dafür grundsätzlich siebzig Jahre vor.
 
-### Schicht 2: Leistungsschutzrecht des Sprechers (§§ 73–83 UrhG)
-- Sprecher ist ausübender Künstler; hat eigenes Leistungsschutzrecht an seiner Darbietung.
-- Schutzfrist: 50 Jahre ab Aufnahme (bei Tonträgern mit verbundener Vermarktung: 70 Jahre, § 82 UrhG).
-- Sprecher muss eigene Nutzungsrechte einräumen (§ 79 UrhG).
-- Vergütung: Honorar (Pauschal oder pro Aufnahmestunde) + ggf. Beteiligung an Verkaufserlösen.
+3.2. Für nicht auf Tonträger aufgezeichnete Darbietungen gelten die im Gesetz bestimmten Fünfzigjahresfristen. Sind Erscheinen oder erlaubte öffentliche Wiedergabe innerhalb von fünfzig Jahren nach der Darbietung ausgeblieben, ist auf die Darbietung abzustellen.
 
-### Schicht 3: Tonträgerhersteller-Recht (§§ 85–87 UrhG)
-- Produktionsfirma oder Verlag als Hersteller der Aufnahme erwirbt Leistungsschutzrecht an der fertigen Tonaufnahme.
-- Unabhängig von Urheber- und Sprecherrechten.
+3.3. Schreibe deshalb nicht pauschal „fünfzig Jahre ab Aufnahme“ oder „siebzig Jahre bei Vermarktung“. Dokumentiere Darbietung, Aufzeichnungsart, Erscheinen und erste erlaubte öffentliche Wiedergabe mit Datum.
 
-## Sprechervertrag: Mindestinhalte
+## 4. Sprechervertrag
 
-1. **Werkbeschreibung**: Titel des Werks; Umfang (Laufzeit, Seitenanzahl).
-2. **Aufnahmesessions**: Ort, Zeitplanung, technische Standards.
-3. **Vergütung**:
- - Pauschalhonorar (häufig bei Auftragsproduktion): Z.B. 150–300 € pro Aufnahmestunde.
- - Beteiligungshonorar: Anteil an Einnahmen aus Verkauf/Streaming.
-4. **Nutzungsrechtseinräumung (§ 79 UrhG)**: Alle Nutzungsarten (CD, Download, Streaming, Bibliotheksausleihe); ausschließlich oder einfach; zeitlich und räumlich.
-5. **Namensnennung**: Sprecher wird auf der Verpackung und in Metadaten genannt.
-6. **Rückgabe der Aufnahmen**: Originaldateien an Verlag; Sprecher hat keine eigene Vermarktungsrecht.
-7. **Freistellungsklausel**: Sprecher sichert zu, dass er keine anderen Verpflichtungen hat, die die Aufnahme verhindern.
+| Klausel | Mindestinhalt |
+| --- | --- |
+| Produktion | Werk, Rolle, Aussprachekonzept, Studio, Termine, Retakes und technische Spezifikation |
+| Rechtseinräumung | Nutzungsarten, Ausschnitte, Werbung, Gebiet, Sprache, Dauer, Exklusivität und Unterlizenzierung |
+| Bearbeitung | Schnitt, Kürzung, Mastering, Kapitel, Fehlerkorrektur und zulässige Stimmveränderung |
+| Vergütung | Pauschale, Zeiteinheit, Wiederholung, Beteiligung, Abrechnung, Prüfung und Steuerbehandlung |
+| Namensnennung | Cover, Metadaten, Plattformen, Presse und zulässige Abweichungen |
+| Freigabe | künstlerische Leitung, Abnahmeprozess, objektive Fehler und Änderungsgrenzen |
+| Altvertrag | angemessene Vergütung und weitere Beteiligung nach den entsprechend anwendbaren Regeln prüfen |
 
-## GEMA und musikalische Unterlegung
+UrhG Paragraf 79a enthält für sehr langfristig ausgewertete Tonträger besondere unverzichtbare Vergütungs- und Auskunftsregeln. Er ist nicht mit dem allgemeinen Anspruch auf weitere Beteiligung zu verwechseln.
 
-- Wenn Hörbuch musikalische Elemente enthält (Intro, Untermaler, Abschnittstrennungen):
- - Eigenkomposition: Verlag/Produzent lizenziert direkt.
- - GEMA-geschützte Musik: GEMA-Lizenz erforderlich (Online-Produkt: GEMA-Tarif U-OM; CD: GEMA-Tarif U-K/H).
-- Schnittstelle mit GVL (Gesellschaft zur Verwertung von Leistungsschutzrechten): Sprecher und Hersteller melden Hörbücher für Bibliotheks- und Streaming-Ausschüttungen.
+## 5. Musik und Fremdmaterial
 
-## Preisbindung für Hörbücher
+5.1. Erfasse jede Musik, jedes Geräuscharchiv und jedes Fremdzitat mit Timecode, Quelle, Rechteinhaber, Nutzungsart und Lizenzbeleg.
 
-### Physische Hörbücher (CD, MC)
-- Unterliegen BuchPrG als kartografische oder buchähnliche Erzeugnisse? Streitig.
-- Praxis: Hörbücher auf CD werden von vielen Verlagen als preisgebunden behandelt; aber keine eindeutige gesetzliche Grundlage.
-- Bundesgerichtshof hat Frage nicht abschließend entschieden.
+5.2. Prüfe Werkrechte, Leistungsschutzrechte und gegebenenfalls die Zuständigkeit einer Verwertungsgesellschaft getrennt. Tarifbezeichnungen und Konditionen werden für den Produktionszeitpunkt aktuell verifiziert, nicht aus älteren Vorlagen übernommen.
 
-### Download / Streaming
-- Hörbuch-Downloads und -Streams: **Nicht preisgebunden** nach BuchPrG (kein körperliches Medium).
-- Plattformpreise (Audible, Spotify, Storytel) frei setzbar.
+5.3. Trailer, Hörprobe und Social-Media-Ausschnitt sind eigene Nutzungen und müssen vom Rechtesatz gedeckt sein.
 
-## Hörbuchplattformen
+## 6. Preisbindung und Vertrieb
 
-### Audible / Amazon
-- Marktführer; „Whispersync"-Funktion verbindet E-Book und Hörbuch.
-- Exclusivity-Deals: Audible Exclusive = Hörbuch nur auf Audible verfügbar für 1–3 Jahre.
-- Vergütungsmodell: 40 % der Verkaufseinnahmen (Verlag erhält 40 % des Verkaufspreises).
-- ACX (Audiobook Creation Exchange): Plattform für Eigenproduktion; niedrigere Qualitätsstandards.
+6.1. Unterstelle nicht, ein Hörbuch sei allein wegen eines körperlichen Datenträgers oder seiner Nähe zum Buch preisgebunden. Ordne das konkrete Produkt nach BuchPrG Paragraf 2 ein und dokumentiere bei Zweifeln den verifizierten Quellenstand.
 
-### Spotify / Storytel / Bookbeat
-- Streaming; Vergütung nach Streams (je Minute gehört).
-- Verlag lizenziert den Katalog als Gesamtpaket oder Titelpakete.
+6.2. Trenne Ladenpreisbindung, vertragliche Plattformpreisvorgaben, Rabattfinanzierung und Abrechnungsbasis. Ein Plattformvertrag kann wirtschaftliche Preisgrenzen enthalten, ohne dass daraus eine gesetzliche Buchpreisbindung folgt.
 
-## Typische Fallen
+6.3. Prüfe Exklusivität, Mindestlaufzeit, Kündigung, territoriale Sperren, Bibliotheksnutzung, Abomodell, Rückgaben, Metadatenhoheit und Abrechnungsprüfung je Vertriebskanal.
 
-- **Sprechervertrag ohne Nutzungsrechtseinräumung**: Sprechervertrag erwähnt nur Honorar; keine Nutzungsrechte → Verlag kann Hörbuch nicht vermarkten.
-- **GEMA-Lizenz vergessen**: Hintergrundmusik in Hörbuch ohne GEMA-Lizenz → Urheberrechtsverletzung bei Streaming.
-- **Sprecher verlangt Nachvergütung**: Bei Bestseller-Erfolg des Hörbuchs; § 32a UrhG gilt auch für Sprecher.
-- **Exclusivity-Deal mit Audible und gleichzeitig Onleihe-Lizenz**: Widerspruch; muss vertraglich gelöst werden (Exklusivität vs. Bibliotheksausleihe).
+## 7. Beweis- und Abrechnungskontrolle
 
-## Checkliste Hörbuch-Produktion
+7.1. Bewahre unterschriebene Verträge, Sessionprotokolle, Freigaben, Master-Hashes, Metadatenstände, Auslieferungslisten und Plattformabrechnungen zusammen auf.
 
-- [ ] Textautor: Hörbuch-Nutzungsrecht eingeholt und vergütet
-- [ ] Sprecher: Leistungsschutzrecht-Nutzungsvertrag (§ 79 UrhG) unterzeichnet
-- [ ] Musik: GEMA-Lizenz vorhanden (falls musikalische Unterlegung)
-- [ ] GVL-Meldung: Hörbuch für Ausschüttungen angemeldet
-- [ ] Plattformverträge: Exklusivität vs. Breite geprüft
-- [ ] Metadaten: Sprecher korrekt in ISBN-Eintrag und Plattform-Daten
+7.2. Baue eine Erlöskette von Endkundenumsatz über Plattformabzug und vertragliche Berechnungsbasis bis zur Autoren- und Sprecherbeteiligung. Jede Zahl erhält Zeitraum, Währung und Beleg.
 
-## Quellenreferenzen
+7.3. Markiere Abweichungen zwischen gehörten Minuten, Downloads, Verkäufen, Rückgaben und tatsächlich abgerechneten Einheiten.
 
-- UrhG §§ 73–85: https://dejure.org/gesetze/UrhG/73.html
-- GEMA-Tarife: https://www.gema.de/musik-nutzen/tarife/
-- GVL: https://www.gvl.de
-- BuchPrG § 2: https://www.gesetze-im-internet.de/buchprg/__2.html
-- Audible ACX: https://www.acx.com
+## 8. Arbeitsprodukte
 
-## Output-Formate
+8.1. Rechtekettenmatrix für Text, Darbietung, Master, Musik und Plattform.
 
-- **Sprechervertrag-Muster**: Vergütung, Nutzungsrechte, Namensnennung
-- **Rechtekettencheck**: Textautor, Sprecher, Produzent, Verlag
-- **GEMA-Lizenz-Checkliste**: Musik-Unterlegung
-- **Plattform-Comparison**: Audible, Spotify, Storytel — Vergütung und Exklusivität
-- **GVL-Meldungsformular**: Hörbuch-Anmeldung
+8.2. Ausformulierter Sprechervertrag oder Änderungsvereinbarung.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+8.3. Produktions- und Freigabeprotokoll mit Retake-Liste.
+
+8.4. Abrechnungsprüfung mit Belegspalte und Nachforderung.
+
+## 9. Amtliche Quellen
+
+- UrhG Paragrafen 73 bis 86: https://www.gesetze-im-internet.de/urhg/
+- BuchPrG Paragraf 2: https://www.gesetze-im-internet.de/buchprg/__2.html
 

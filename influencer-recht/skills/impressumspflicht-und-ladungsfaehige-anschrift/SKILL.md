@@ -1,76 +1,78 @@
 ---
 name: impressumspflicht-und-ladungsfaehige-anschrift
-description: "Wenn es um Influencer-Recht: Impressumspflicht und ladungsfähige Anschrift in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Prüft Anbieterinformationen für Creator-Accounts, Websites, Shops und Link-in-Bio-Seiten nach Paragraf 5 DDG und Paragraf 18 MStV. Erfasst Diensteanbieter, Niederlassung, Register, Aufsicht und Erreichbarkeit je Kanal; liefert ein vollständiges Impressum, Erreichbarkeitsprüfung und belastbare Abmahnreaktion."
 ---
 
-# Influencer-Recht: Impressumspflicht und ladungsfähige Anschrift
+# Anbieterinformationen und erreichbare Anschrift für Creator
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: UWG §§ 3, 5, 5a, 8, 13, MStV § 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG §§ 14, 15, UrhG §§ 15 ff., 19a, KUG §§ 22, 23, DSGVO Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen und live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Öffne jeden betroffenen Account und die verlinkten Seiten in der Nutzeransicht. Dokumentiere Plattform, Profil-URL, Zeitpunkt, Klickweg, sichtbaren Linktext und Inhalt der Anbieterinformationen. Liefere danach sofort eine Ist-Soll-Matrix und einen korrigierten Impressumstext.
 
-## Kontext und Regelungslage
+## 2. Rechtsrahmen
 
-Jeder Creator mit geschäftsmäßig genutztem Account benötigt ein Impressum:
+- DDG Paragraf 5 verlangt für geschäftsmäßige, in der Regel gegen Entgelt angebotene digitale Dienste leicht erkennbare, unmittelbar erreichbare und ständig verfügbare Informationen.
+- Zu den Pflichtangaben gehören Name und Niederlassungsanschrift, bei juristischen Personen Rechtsform und Vertretungsberechtigter, elektronische Kontaktmöglichkeit, gegebenenfalls Aufsichtsbehörde, Register und Registernummer, berufsrechtliche Angaben sowie vorhandene Umsatzsteuer- oder Wirtschafts-Identifikationsnummer.
+- MStV Paragraf 18 enthält zusätzliche Informationspflichten; bei journalistisch-redaktionellen Angeboten ist insbesondere der Verantwortliche nach der einschlägigen Vorschrift zu prüfen.
+- Datenschutz-Grundverordnung Artikel 13 verlangt eine eigene Datenschutzinformation für die Verarbeitung personenbezogener Daten. Sie ersetzt das Impressum nicht und folgt nicht aus einer alten TMG-Vorschrift.
+- UWG Paragraf 5a, Paragraf 8 und Paragraf 13 steuern mögliche wettbewerbsrechtliche Ansprüche und Abmahnkosten. Paragraf 13 Absatz 4 UWG enthält keine pauschale Kostenobergrenze von 100 Euro.
 
-- **§ 5 TMG**: Diensteanbieter mit geschäftsmäßig bereitgestellten Telemedien müssen Impressum mit Pflichtangaben bereithalten; leicht erkennbar, unmittelbar erreichbar, ständig verfügbar.
-- **§ 18 MStV**: Erweiterte Impressumspflicht für journalistisch-redaktionelle Angebote; gilt auch für Meinungsbildner mit hoher Reichweite.
-- **§ 5 Abs. 1 Nr. 1 TMG**: Ladungsfähige Anschrift (Straße, Nr., PLZ, Stadt); kein Postfach allein ausreichend.
-- **§ 13 Abs. 6 TMG / DSGVO Art. 13**: Datenschutzerklärung muss im Impressum verlinkt oder direkt enthalten sein.
-- **§ 15a UStG**: USt-ID-Pflicht im Impressum, wenn Unternehmer.
-- **DSGVO Art. 5**: Datenminimierung – private Anschrift kann für Creator ein Datenschutzproblem sein; Lösungsweg: Postadresse (Briefkasten beim Steuerberater, Postservice).
-- **Plattform-Umsetzung**: Link „Impressum" muss direkt im Profil (Bio-Link) oder als Menüpunkt erreichbar sein; auf Instagram als separate Seite verlinkbar.
+## 3. Diensteanbieter bestimmen
 
-### Pflichtangaben § 5 TMG
+Prüfe je Kanal:
 
-| Angabe | Beispiel |
-|--------|----------|
-| Name | Max Mustermann |
-| Anschrift | Musterstraße 1, 12345 Berlin |
-| E-Mail | info@creator.de |
-| Telefon | +49 30 12345678 |
-| USt-ID | DE123456789 (falls vorhanden) |
-| Handelsregister | HRB 12345, AG Berlin (falls GmbH) |
-| Berufsrechtliche Regelungen | ggf. Kammer, Berufsaufsicht |
+1. Wer bietet den digitalen Dienst tatsächlich an: natürliche Person, Einzelunternehmen, Gesellschaft oder Agentur.
+2. Welche Anschrift ist die Niederlassungsanschrift dieses Anbieters.
+3. Wer ist vertretungsberechtigt und welches Register enthält den Rechtsträger.
+4. Welche geschäftliche Tätigkeit, Aufsicht oder reglementierte Berufsangabe löst Zusatzangaben aus.
+5. Ob Shop, Newsletter, Community, Podcast und Social-Media-Account demselben Anbieter zuzuordnen sind.
 
-## Kaltstart-Fragen (6)
+Ein bloßes Postfach genügt nicht als Niederlassungsanschrift. Ein externer Postservice darf nicht als scheinbare Niederlassung bezeichnet werden, wenn dort keine reale Niederlassung besteht. Sicherheitsinteressen des Creators sind durch eine echte Geschäftsanschrift, Gesellschaftsstruktur oder andere rechtmäßige Organisation zu lösen.
 
-1. Welche Plattformen werden geschäftsmäßig genutzt (Instagram, TikTok, YouTube, Website)?
-2. Liegt ein vollständiges Impressum vor und ist es von allen Plattformen erreichbar?
-3. Möchtest du keine private Wohnanschrift veröffentlichen?
-4. Hast du eine USt-ID, und ist sie im Impressum eingetragen?
-5. Gibt es bereits eine Abmahnung wegen fehlendem oder unvollständigem Impressum?
-6. Gewünschtes Ergebnis: Impressum erstellen, prüfen oder Abmahnantwort?
+## 4. Erreichbarkeit prüfen
 
-## Prüfprogramm
+| Kanal | Startpunkt | Linktext | Klicks | Ziel erreichbar | Inhalt aktuell | Beleg |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Plattform] | [Profil oder Beitrag] | [Impressum] | [Anzahl] | [ja oder nein] | [ja oder nein] | [Screenshot] |
 
-- Geschäftsmäßigkeit: Jeder Creator mit Kooperationseinnahmen → § 5 TMG-Pflicht.
-- Ladungsfähige Anschrift: Private Adresse vs. Geschäftsadresse/Postdienst; beides zulässig, solange Zustellbarkeit gewährleistet.
-- Erreichbarkeit: Max. 2 Klicks vom Startseiten-/Profilaufruf bis zum Impressum.
-- Vollständigkeit: Alle § 5 TMG-Angaben vorhanden; Datenschutzerklärung verlinkt.
-- Plattformspezifisch: Instagram „Bio-Link" → Impressum über Linktree oder direkte URL.
-- Abmahnung: Oft kostengünstig zu regulieren; modifizierte Unterlassungserklärung + Abmahnkosten (§ 13 Abs. 4 UWG Deckelung auf 100 €/Jahr für Erstverstoß bei KU).
+Prüfe zusätzlich mobile Ansicht, ausgeloggte Ansicht, Link-in-Bio-Dienst, Weiterleitungen, Fehlermeldungen und alte Profilvarianten. Eine abstrakte Zwei-Klick-Regel ersetzt nicht die Prüfung, ob die Information im konkreten Dienst leicht erkennbar und unmittelbar erreichbar ist.
 
-## Typische Fallen
+## 5. Impressumsgerüst
 
-- Nur E-Mail, keine Anschrift → § 5 TMG-Verstoß.
-- Postfach ohne ladungsfähige Anschrift → nicht ausreichend.
-- Impressum nur auf Website, nicht auf Social-Media-Profil verlinkt → Abmahnrisiko.
-- Veraltete Adresse nach Umzug → falsches Impressum = UWG-Verstoß.
+1. vollständiger Name oder Firma und Rechtsform,
+2. Niederlassungsanschrift,
+3. Vertretungsberechtigter bei juristischer Person,
+4. E-Mail-Adresse und weiterer schneller unmittelbarer Kommunikationsweg,
+5. Register, Registergericht und Registernummer,
+6. zuständige Aufsicht bei erlaubnispflichtiger Tätigkeit,
+7. berufsrechtliche Angaben bei reglementiertem Beruf,
+8. vorhandene Umsatzsteuer- oder Wirtschafts-Identifikationsnummer,
+9. Verantwortlicher nach MStV, falls erforderlich.
 
-## Normen und Quellen
+Nicht vorhandene Angaben werden nicht erfunden. Telefonnummer, Steuernummer und Bankverbindung werden nicht schematisch aufgenommen, sondern nur bei rechtlicher Erforderlichkeit oder bewusster geschäftlicher Entscheidung.
 
-- § 5 TMG: https://www.gesetze-im-internet.de/tmg/__5.html
-- § 18 MStV: https://www.gesetze-im-internet.de/mstv/__18.html
-- DSGVO Art. 13: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
+## 6. Abmahnreaktion
 
-## Output-Formate
+1. beanstandeten Kanal, Abrufzeit und damaligen Inhalt sichern,
+2. Anspruchsteller und Anspruchsberechtigung prüfen,
+3. konkreten Verstoß und bereits erfolgte Korrektur dokumentieren,
+4. Wiederholungsgefahr und Reichweite einer Unterlassungserklärung gesondert bewerten,
+5. Kosten nach UWG Paragraf 13 und Streitwertgrundlage statt mit erfundener Pauschalgrenze prüfen,
+6. Korrektur auf allen technisch verbundenen Profilen nachweisen.
 
-- Impressum-Vorlage (vollständig nach § 5 TMG)
-- Checkliste: Impressum auf allen Plattformen prüfen
-- Abmahnreaktions-Schreiben (Impressumsmangel)
-- Postadress-Alternativen (Datenschutz-konform)
+## 7. Arbeitsprodukte
+
+- kanalübergreifende Ist-Soll-Matrix,
+- vollständiger Impressumstext,
+- technische Umsetzungsanweisung je Plattform,
+- Belegpaket aus Screenshots und Zeitstempeln,
+- Abmahnantwort mit Korrekturbelegen und Kostenprüfung.
+
+## 8. Qualitätskontrolle
+
+1. DDG statt TMG ist als aktueller Hauptanker verwendet.
+2. Diensteanbieter, Firma und Profilname werden nicht verwechselt.
+3. Die Anschrift ist eine reale Niederlassungsanschrift.
+4. Register-, Vertretungs- und Identifikationsangaben stimmen mit Primärregistern überein.
+5. Datenschutzinformation und Anbieterinformationen bleiben getrennt.
+6. Jede Plattform ist aus der tatsächlichen Nutzeransicht geprüft.

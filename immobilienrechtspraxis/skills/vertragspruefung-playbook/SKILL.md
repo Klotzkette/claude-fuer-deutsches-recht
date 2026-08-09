@@ -58,7 +58,7 @@ Redline-Empfehlung und Business-Memo in einem Lauf.
 
 ## Typische Prüfthemen im Immobilienrecht
 
-- Schriftform Gewerbemiete § 550 BGB inklusive aller Nachtraege
+- Textform langfristiger Gewerbemiete nach Paragraf 578 Absatz 1 und 550 BGB einschließlich vollständiger Nachtrags- und Kommunikationskette
 - Indexmiete § 557b BGB versus Staffelmiete § 557a BGB
 - Konkurrenzschutz und Sortimentsschutz bei Gewerberaum
 - Untervermietung und Nutzungsänderung
@@ -84,7 +84,7 @@ Redline-Empfehlung und Business-Memo in einem Lauf.
 
 ## Aktuelle Rechtsprechung — Leitsaetze für Playbook-Prüfung (Stand 05/2026, verifiziert dejure.org)
 
-- **BGH 24.06.2020, VIII ZR 219/19** (Schriftform Gewerbemietvertrag § 550 BGB): Wahrung der Schriftform setzt voraus, dass alle wesentlichen Vertragsbedingungen aus einer Urkunde hervorgehen; bei Verweis auf Anlagen müssen diese koerperlich mit der Urkunde verbunden oder eindeutig in Bezug genommen sein. Quelle: dejure.org/2020,17128.
+- BGH, Urteil vom 4. November 2020, XII ZR 104/19: Nach damaligem Schriftformrecht musste bei ausgelagerten wesentlichen Bedingungen die Zusammengehörigkeit der Dokumente zweifelsfrei erkennbar sein; eine körperliche Verbindung war nicht zwingend. Für heutige Gewerberaumfälle nur mit Hinweis auf die seit 2025 geltende Textform und nach Prüfung der Übertragbarkeit verwenden.
 - **BVerfG 25.03.2021, 2 BvF 1/20** (Berliner Mietendeckel): Landesgesetzliche Mietpreisregelung verfassungswidrig; für Neuvermietung bleiben deshalb die bundesrechtlichen Regeln der §§ 556d ff. BGB und die jeweils wirksame Landesverordnung zur Mietpreisbremse getrennt zu prüfen. Quelle: bundesverfassungsgericht.de.
 - **BVerfG 25.03.2021, 2 BvF 1/20** (Berliner Mietendeckel-Beschluss): Landesgesetzliche Mietpreisregelung verfassungswidrig (Bundesrecht abschliessend). Quelle: bundesverfassungsgericht.de.
 - **BGH 18.03.2020, VIII ZR 64/19** — Maengel bei Wohnraummiete als Mietminderungsgrund. Quelle: dejure.org/2020,4895.
@@ -95,7 +95,7 @@ Konkrete weitere Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.d
 ## Paragrafenkette Immobilienvertraege
 
 - Kaufvertrag: §§ 433 ff. BGB, § 311b BGB (Formzwang Notar), §§ 437 ff. BGB (Maengelrechte), § 442 BGB (Ausschluss Arglist)
-- Gewerbemiete: §§ 535 ff. BGB, § 550 BGB (Schriftform langfristig), § 557b BGB (Indexmiete), §§ 579, 580 BGB (Sonderregeln)
+- Gewerbemiete: Paragraf 535 folgende BGB, Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB für die Textform langfristiger Verträge, Paragrafen 579 und 580 BGB; Indexklauseln nicht unbesehen nach wohnraummietrechtlichem Paragraf 557b BGB beurteilen
 - Wohnraummiete: §§ 549 ff. BGB, § 558 BGB (Kappungsgrenze), §§ 555b ff. BGB (Modernisierung), §§ 573 ff. BGB (Kuendigung)
 - WEG-Verwaltervertrag: §§ 26 ff. WEG, § 19 Abs. 2 Nr. 6 WEG
 

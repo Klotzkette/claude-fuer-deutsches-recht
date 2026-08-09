@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine deutsche oder unionsweite Marke anmelden, gegen eine Kollision vorgehen oder eine Verletzung belastbar angreifen oder abwehren.
-
 # Markenrecht Fashion Luxus — Schnellstart
+
+Wenn du das hier öffnest, willst du eine deutsche oder unionsweite Marke anmelden, gegen eine Kollision vorgehen oder eine Verletzung belastbar angreifen oder abwehren.
 
 Ziel: Großes Markenrechts-Plugin für DE/EU/US und internationale Portfolios: DPMA, EUIPO, WIPO/Madrid, USPTO, Markenarten, Schutzhindernisse, Benutzung, Widerspruch, Verfall/Nichtigkeit, Enforcement, Plattformen, Zoll, Lizenzen und Luxus-Fashion-Spezialfälle. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 

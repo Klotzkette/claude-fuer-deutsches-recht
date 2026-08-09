@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine schul-, hochschul- oder förderrechtliche Entscheidung nach Rechtsgrundlage, Verfahren, Bewertungsspielraum und Frist angreifen oder absichern.
-
 # Prüfungsrecht Hochschule — Schnellstart
+
+Wenn du das hier öffnest, willst du eine schul-, hochschul- oder förderrechtliche Entscheidung nach Rechtsgrundlage, Verfahren, Bewertungsspielraum und Frist angreifen oder absichern.
 
 Ziel: Hochschulprüfungsrecht: Prüfungsordnung, Bewertungsspielraum, Akteneinsicht, Krankheit, Nachteilsausgleich, Täuschung, algorithmische Systeme, Drittversuch und Eilrechtsschutz. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -14,7 +14,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 2. Wurde das vorgeschriebene Verfahren einschließlich Anhörung eingehalten.
 3. Liegt ein überprüfbarer Bewertungsfehler oder nur eine vertretbare Fachwertung vor.
 4. Engpass dieses Gebiets zuerst sichern: Eine Rüge- oder Rechtsbehelfsfrist läuft oder der Prüfungstermin steht unmittelbar bevor.
-5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+5. Beweislage ordnen: Darlegungs- und Nachweisfrage für Bildungs-, Hochschul- und Wissenschaftsrecht: Liegt ein überprüfbarer Bewertungsfehler oder nur eine vertretbare Fachwertung vor.
 6. Erstes Arbeitsprodukt liefern: Widerspruchsbegründung: Sachverhalt, Verfahrensfehler, Bewertungsfehler, Antrag, Fristnachweis.
 
 ## 3. Kernroute
@@ -32,8 +32,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Normenanker | GG Artikel 5 Absatz 3 und Artikel 12 Absatz 1; Landeshochschulgesetze; Landesschulgesetze |
 | Rechtsprechung | BVerfG, Urteil vom 18.07.1972 - 1 BvL 32/70 und 25/71; BVerfG, Beschluss vom 17.04.1991 - 1 BvR 419/81 und 213/83 |
 | Tatbestand | Schul-, Studien-, Prüfungs- oder Förderverhältnis mit maßgeblicher Ordnung in der geltenden Fassung feststellen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Beweislast | Darlegungs- und Nachweisfrage für Bildungs-, Hochschul- und Wissenschaftsrecht: Liegt ein überprüfbarer Bewertungsfehler oder nur eine vertretbare Fachwertung vor |
+| Rechtsfolge | Widerspruch, Eilantrag, Klagebegründung, Gremienvorlage oder Förderantrag ausformulieren |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
@@ -52,19 +52,19 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Landeshochschulgesetze: Gremien, Berufungen, Prüfungen und Ordnungsrecht der Hochschulen.
 - Landesschulgesetze: Ordnungsmaßnahmen, Nachteilsausgleich und Schulverhältnis.
 - VwVfG Paragraf 28 und Paragraf 39: Anhörung und Begründung belastender Entscheidungen.
-- Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 70 Abs. 1 VwGO — Widerspruchsfrist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Widerspruch, Eilantrag, Klagebegründung, Gremienvorlage oder Förderantrag ausformulieren.
 7.2. Normsatz: Den tragenden Anker GG Artikel 5 Absatz 3 und Artikel 12 Absatz 1; Landeshochschulgesetze auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Rechtsverhältnis und Norm konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei wurde das vorgeschriebene verfahren einschließlich anhörung eingehalten an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
+7.4. Beweislast: Darlegungs- und Nachweisfrage für Bildungs-, Hochschul- und Wissenschaftsrecht: Liegt ein überprüfbarer Bewertungsfehler oder nur eine vertretbare Fachwertung vor; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei das vorgeschriebene verfahren einschließlich anhörung eingehalten an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Widerspruch, Eilantrag, Klagebegründung, Gremienvorlage oder Förderantrag ausformulieren ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Widerspruchsbegründung: Sachverhalt, Verfahrensfehler, Bewertungsfehler, Antrag, Fristnachweis; Eilantrag: Anordnungsanspruch, Anordnungsgrund, Folgenabwägung, Anträge. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop

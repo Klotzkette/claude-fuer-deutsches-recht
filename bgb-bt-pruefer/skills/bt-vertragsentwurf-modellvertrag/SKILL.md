@@ -26,7 +26,7 @@ description: "Wenn es um BT-Vertragsentwurf und Modellvertrag in BGB BT Prüfer 
 - Welcher Vertragstyp soll entworfen oder geprüft werden?
 - Handelt es sich um ein B2B- oder B2C-Verhältnis (AGB-Kontrolle relevant)?
 - Welche Hauptleistungspflichten und Nebenpflichten sollen geregelt werden?
-- Bestehen gesetzliche Formvorgaben (§ 311b BGB, § 550 BGB, § 578 BGB)?
+- Bestehen gesetzliche Formvorgaben, etwa Paragraf 311b BGB oder bei langfristiger Miete Paragraf 550 BGB mit der Modifikation des Paragraf 578 Absatz 1 BGB?
 - Welche Haftungsbeschränkungen und Gewährleistungsausschlüsse sind gewünscht?
 - Gibt es Fernabsatz- oder Haustürgeschäftselemente?
 

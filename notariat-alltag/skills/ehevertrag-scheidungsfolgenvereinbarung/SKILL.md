@@ -17,7 +17,7 @@ description: "Wenn es um Ehevertrag Scheidungsfolgenvereinbarung in Notariat im 
 
 Der Ehevertrag gestaltet die Vermögens- und Versorgungsrechtslage zwischen Eheleuten oder Verlobten. Steuere die notarielle Beratung, den Formzwang, die richterrechtliche Kontrolle (Kernbereichslehre des BGH) und die Belehrungspflichten des Notars.
 
-Rechtsgrundlagen: § 1410 BGB (notarielle Form), §§ 1408–1414 BGB (Güterrecht), §§ 1569–1586 BGB (Unterhalt), §§ 1587–1587p BGB (Versorgungsausgleich), VersAusglG, § 17 BeurkG (Belehrung), § 138 BGB (Sittenwidrigkeit), BGH-Rechtsprechung zu Kernbereichslehre.
+Rechtsgrundlagen: Paragraf 1410 BGB zur notariellen Form, Paragrafen 1408 bis 1414 BGB zum Güterrecht, Paragrafen 1569 bis 1586b BGB zum nachehelichen Unterhalt, Paragrafen 6 bis 8 und 27 VersAusglG zu Vereinbarung, Wirksamkeitskontrolle und grober Unbilligkeit, Paragraf 17 BeurkG zur Belehrung sowie Paragrafen 138 und 242 BGB zur Wirksamkeits- und Ausübungskontrolle.
 
 ## Formzwang (§ 1410 BGB)
 
@@ -29,7 +29,7 @@ Der Ehevertrag und die Scheidungsfolgenvereinbarung (soweit sie ehevertragliche 
 |---|---|---|
 | Güterstand | Gütertrennung, Zugewinngemeinschaft modifiziert, Gütergemeinschaft | Erhebliche Schranken |
 | Unterhalt | Ausschluss, Modifikation, Befristung | Unabdingbar bei einseitiger Belastung |
-| Versorgungsausgleich | Ausschluss möglich, wenn nicht grob unbillig | § 8 VersAusglG |
+| Versorgungsausgleich | Ausschluss oder Modifikation nach Inhalts- und Ausübungskontrolle | Paragrafen 6 bis 8 VersAusglG |
 | Zugewinnausgleich | Ausschluss, Modifikation möglich | Eingeschränkt |
 | Versorgungsausgleich intern | Konkrete Teilungsvereinbarungen | VersAusglG |
 
@@ -61,8 +61,8 @@ Scheidungsfolgenvereinbarungen (nach Trennung) unterliegen ebenfalls § 1410 BGB
 ## Versorgungsausgleich (VersAusglG)
 
 Der Versorgungsausgleich ist bei der Scheidung von Gesetzes wegen durchzuführen, es sei denn er ist ausgeschlossen oder modifiziert. Ausschluss durch Ehevertrag möglich, aber:
-- § 8 VersAusglG: grobe Unbilligkeit verhindert Ausschluss
-- § 27 VersAusglG: Härteklausel des Gerichts
+- Paragrafen 6 bis 8 VersAusglG: Regelungsbefugnis, Form sowie Inhalts- und Ausübungskontrolle der Vereinbarung
+- Paragraf 27 VersAusglG: Beschränkung oder Wegfall des gesetzlichen Wertausgleichs bei grober Unbilligkeit
 - Zeitpunkt: Ausschluss nur bis zur Rechtskraft der Scheidung möglich
 
 ## Prüfprogramm
@@ -107,4 +107,3 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

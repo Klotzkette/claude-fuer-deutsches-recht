@@ -162,7 +162,7 @@ for (const entry of marketplace.plugins || []) {
   }
   if (fs.existsSync(werkstatt)) {
     const size = fs.statSync(werkstatt).size;
-    if (size < 12 * 1024 || size > 22 * 1024) errors.push(`${rel(werkstatt)}: Werkstatt-Größe außerhalb Zielkorridor (${size} Bytes)`);
+    if (size < 20 * 1024 || size > 48 * 1024) errors.push(`${rel(werkstatt)}: Werkstatt-Größe außerhalb Zielkorridor (${size} Bytes)`);
   }
   const readme = path.join(pluginRoot, 'README.md');
   if (!fs.existsSync(readme)) {

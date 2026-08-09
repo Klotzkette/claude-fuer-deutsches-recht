@@ -23,7 +23,7 @@ GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung: prüft die einschlägige
 
 ## Worum geht es konkret
 
-§ 2 GOÄ erlaubt eine vom Regelfall abweichende Honorarvereinbarung — typischer Anwendungsfall: Steigerungsfaktor über dem Schwellenwert (3,5-fach für persönliche, 2,5-fach für technische, 1,3-fach für Labor). Strikte Formvorgaben: vor Behandlungsbeginn, schriftlich, persönlich vom Patienten unterzeichnet, mit Hinweis auf abweichende Vereinbarung. Verstösse machen die Vereinbarung unwirksam — Erstattung durch PKV oder Beihilfe meist verweigert.
+Paragraf 2 GOÄ erlaubt eine abweichende Gebührenhöhe. Die Faktoren 3,5 für persönliche Leistungen, 2,5 für Leistungen der Abschnitte A, E und O sowie 1,3 für Laborleistungen sind Höchstsätze des Gebührenrahmens, nicht Schwellenwerte. Die Schwellenwerte nach Paragraf 5 GOÄ liegen bei 2,3, 1,8 und 1,15. Eine Überschreitung des Schwellenwerts innerhalb des Gebührenrahmens verlangt eine auf die einzelne Leistung bezogene Begründung in der Rechnung; eine Vereinbarung nach Paragraf 2 GOÄ wird insbesondere benötigt, wenn die Gebührenhöhe wirksam außerhalb des gesetzlichen Gebührenrahmens festgelegt werden soll. Sie muss nach persönlicher Absprache im Einzelfall vor der Leistung in einem gesonderten Schriftstück geschlossen werden.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -41,9 +41,9 @@ Eingaben:
 
 ## Rechtlicher Rahmen
 
-- **§ 2 GOÄ:** Abweichende Vereinbarung über die Höhe der Vergütung — Schriftform, vor Erbringung, individuelle Vereinbarung; keine standardisierten Klauseln.
-- **§ 2 Abs. 1 S. 2 GOÄ:** Mindestinhalt — Bezeichnung Leistung, abweichender Gebührensatz, Hinweis dass Vereinbarung über den Schwellenwert hinausgeht.
-- **§ 2 Abs. 2 GOÄ:** Aushang Möglichkeit der abweichenden Vereinbarung in Praxis (vom Anwender Stand zu verifizieren).
+- **Paragraf 2 Absatz 1 GOÄ:** Abweichende Gebührenhöhe; keine abweichende Punktzahl oder kein abweichender Punktwert, keine Vereinbarung für Leistungen nach Paragraf 5a GOÄ und keine Abhängigkeit von Notfall- oder akuter Schmerzbehandlung.
+- **Paragraf 2 Absatz 2 GOÄ:** Persönliche Absprache im Einzelfall, Abschluss vor Leistungserbringung und gesondertes Schriftstück mit Leistungsnummer, Leistungsbezeichnung, Steigerungssatz, Betrag und Erstattungshinweis; weitere Erklärungen gehören nicht in dieses Schriftstück.
+- **Paragraf 2 Absatz 3 GOÄ:** Keine abweichende Vereinbarung für Leistungen der Abschnitte A, E, M und O; bei stationären wahlärztlichen Leistungen nur für höchstpersönlich durch den Wahlarzt erbrachte Leistungen.
 - **§ 305c BGB:** Überraschende Klauseln in AGB unwirksam.
 - **§§ 305 ff. BGB:** AGB-Kontrolle — Honorarvereinbarung als Individualabrede einzuordnen.
 - **§ 5 GOÄ:** Bemessung — Regelfall innerhalb Schwellenwert.
@@ -51,9 +51,9 @@ Eingaben:
 
 ## / Schritt für Schritt
 
-1. **Geplanter Steigerungsfaktor:** Über oder unter Schwellenwert (2,3; 1,8; 1,15)?
-2. **Falls darüber — § 2 GOÄ-Vereinbarung nötig.**
-3. **Form:** Schriftlich, persönlich unterzeichnet — keine elektronische Signatur ohne qualifizierte Signatur des Patienten (vom Anwender zu verifizieren).
+1. **Leistungsgruppe und Gebührenrahmen:** persönlicher Leistung, Abschnitt A, E oder O oder Laborleistung den richtigen Schwellen- und Höchstfaktor zuordnen.
+2. **Nur oberhalb des Schwellenwerts, aber innerhalb des Höchstsatzes:** Besonderheiten von Schwierigkeit, Zeitaufwand oder Ausführungsumständen konkret feststellen und in der Rechnung leistungsbezogen begründen.
+3. **Abweichende Gebührenhöhe nach Paragraf 2 GOÄ:** Zulässigkeit für die Leistungsgruppe prüfen und ein gesondertes Schriftstück nach persönlicher Absprache vorbereiten.
 4. **Zeitpunkt:** Vor Erbringung der Leistung. Spätere Vereinbarung ist regelmässig unwirksam.
 5. **Inhalt:**
  - Konkrete Leistung (Ziffer, Bezeichnung).
@@ -69,8 +69,10 @@ Eingaben:
 | Fallgruppe | § 2 GOÄ erforderlich | Erstattung | Risiko |
 |---|---|---|---|
 | Steigerung bis Schwellenwert (2,3) | nein | regelmässig voll | gering |
-| Steigerung über Schwellenwert (3,5-fach) | ja, schriftlich | nur bei besonderer Begründung | hoch ohne Vereinbarung |
-| Höchstsatz Labor (1,3) überschritten | ja | meist nicht | hoch |
+| Persönliche Leistung über 2,3 bis höchstens 3,5 | nein | leistungsbezogene Begründung erforderlich | hoch ohne konkrete Begründung |
+| Technische Leistung über 1,8 bis höchstens 2,5 | nein | leistungsbezogene Begründung erforderlich | hoch ohne konkrete Begründung |
+| Laborleistung über 1,15 bis höchstens 1,3 | nein | leistungsbezogene Begründung erforderlich | hoch ohne konkrete Begründung |
+| Wirksame Abweichung außerhalb des Gebührenrahmens | grundsätzlich Vereinbarung nach Paragraf 2 GOÄ, soweit die Leistungsgruppe vereinbarungsfähig ist | Erstattung kann begrenzt sein | hoch bei Form- oder Inhaltsfehler |
 | Wahlleistung Krankenhaus | gesondert § 6a + Wahlvereinbarung | nach Wahlvereinbarung | mittel |
 | Wunschleistung (IGel) | gesondert IGel-Aufklärung | nicht durch Kasse | gering bei Doku |
 | Auslandsbehandlung | wie inland | nach Tarif | mittel |
@@ -96,7 +98,7 @@ Eingaben:
 
 - Honorarvereinbarung erst nach Behandlung unterschrieben — unwirksam.
 - Standardklausel in Praxis-AGB — Massentechnik, unwirksam.
-- "Bis zu 3,5-fach"-Formulierung — nicht hinreichend bestimmt.
+- "Bis zu 3,5-fach"-Formulierung in einer Vereinbarung — vereinbarter Steigerungssatz und Betrag sind nicht hinreichend bestimmt.
 - Aufklärung über fehlende Erstattung fehlt — § 630c BGB-Verletzung.
 - Vereinbarung ohne konkrete Leistungsangabe — unwirksam.
 - Patient unterschreibt unter Zeitdruck im Empfang — Anfechtungsrisiko.

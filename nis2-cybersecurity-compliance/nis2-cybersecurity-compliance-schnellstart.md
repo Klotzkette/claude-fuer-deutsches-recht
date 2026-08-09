@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du Cybersicherheits-, NIS2-, DORA- oder Incident-Pflichten sofort nach Einrichtung, Frist, Nachweis und Aufsicht ordnen.
+# NIS-2, Cybersecurity und IT-Sicherheits-Compliance — Schnellstart
 
-# Nis2 Cybersecurity Compliance — Schnellstart
+Wenn du das hier öffnest, willst du Cybersicherheits-, NIS2-, DORA- oder Incident-Pflichten sofort nach Einrichtung, Frist, Nachweis und Aufsicht ordnen.
 
 Ziel: NIS-2, BSIG 2025, BSI, IT-Grundschutz, Cloud, Incident Response und technische Security-Compliance für Geschäftsleitung, CISO und Legal. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 

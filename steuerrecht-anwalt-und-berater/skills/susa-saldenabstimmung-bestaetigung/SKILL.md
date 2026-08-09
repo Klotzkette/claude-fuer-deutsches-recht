@@ -1,132 +1,77 @@
 ---
 name: susa-saldenabstimmung-bestaetigung
-description: "Wenn es um Saldenabstimmung — Bestaetigung der Stichtagssalden in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Susa Saldenabstimmung Bestaetigung; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Plant und dokumentiert externe Saldenbestätigungen risikoorientiert, ohne eine gesetzliche Pauschalpflicht zu behaupten; liefert Auswahlmatrix, kontrollierten Versand, Rücklaufanalyse, Alternativhandlungen und Abschlussvermerk."
 ---
 
-# Saldenabstimmung — Bestaetigung der Stichtagssalden
+# Saldenabstimmung und externe Bestätigung
 
-## Fachlicher Anker
+## 1. Zweck und Abgrenzung
 
-- **Normen:** § 6a, § 320 HGB, § 267 HGB.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+Eine externe Bestätigung ist ein möglicher Prüfungsnachweis, keine pauschale gesetzliche Pflicht für sämtliche Forderungen und Verbindlichkeiten. Paragraf 320 HGB gibt dem Abschlussprüfer Vorlage-, Prüfungs-, Aufklärungs- und Nachweisrechte; die Vorschrift ordnet nicht für jeden Saldo eine Bestätigung durch den Geschäftspartner an.
 
-## Kernsachverhalt
+Beginne mit Buchungsjournal, Offene-Posten-Liste, Nebenbuch, Hauptbuchkonto, Verträgen, Rechnungen, Zahlungsbelegen und nachfolgenden Zahlungseingängen. Kläre, ob die Arbeit der Jahresabschlusserstellung, einer gesetzlichen oder freiwilligen Abschlussprüfung, einer Due Diligence oder einer streitigen Saldenklärung dient.
 
-Zum Bilanzstichtag müssen die Forderungen und Verbindlichkeiten extern bestaetigt werden, soweit dies dem Mandanten zumutbar und im Prüfungsumfang erforderlich ist. Die Saldenabstimmung ist Pflichtbestandteil der Wirtschaftspruefung (§ 320 HGB) und gehoert auch zur sorgfaeltigen Jahresabschluss-Erstellung. Der Steuerberater versendet Abstimmungsschreiben, wertet Antworten aus und klaert Differenzen mit dem Mandanten und der Gegenseite.
+## 2. Risikoorientierte Auswahl
 
-## Kaltstart-Rueckfragen
+| Kriterium | Risikosignal | Benötigter Nachweis |
+| --- | --- | --- |
+| Wesentlichkeit | hoher Einzelbetrag oder große Saldenklasse | externe Bestätigung oder starke Alternative |
+| ungewöhnlicher Vorgang | Rundbetrag, Nähe zum Stichtag, verbundene Partei | Vertrag, Leistungsbeleg, Zahlung |
+| Streit | Reklamation, Aufrechnung, Klage | Korrespondenz, Anwaltsschreiben, Prozessakte |
+| Cut-off | Lieferung oder Rechnung um den Stichtag | Lieferschein, Wareneingang, Rechnung |
+| Manipulationsrisiko | nachträgliche Buchung, manuelle Umbuchung | Journalprüfung, Freigabe, Originalbeleg |
+| fehlender Rücklauf | keine oder unzuverlässige Antwort | nachfolgende Zahlung, Rechnung, Vertrag |
 
-1. Welcher Stichtag — 31. Dezember oder abweichendes Wirtschaftsjahr?
-2. Welche Mandantengroesse (§ 267 HGB) — Prüfungspflichtig oder freiwillig?
-3. Welche Positionen sind abzustimmen — Forderungen LuL, Verbindlichkeiten LuL, Banken, Darlehen?
-4. Welcher Schwellenwert ist relevant (Forderungen über X EUR)?
-5. Wie viele Geschäftspartner ungefaehr (Volumen Abstimmungsschreiben)?
-6. Welche Form — positive Abstimmung (Antwortwerbung) oder negative (Schweigen = Zustimmung)?
-7. Welche Frist bis zum geplanten Bilanzstichtag-Reporting?
-8. Welche Sondersituation (Mandantenkonflikt, Liquiditaetsstockung)?
+Schwellenwerte nicht erfinden. Wesentlichkeit, Stichprobe und Auswahlgrund aus Auftrag, Risikoanalyse und anwendbaren Prüfungsstandards ableiten und dokumentieren.
 
-## Rechtlicher Rahmen
+## 3. Rechtliche und fachliche Anker
 
-### Primaernormen
+- Paragraf 238 HGB: Pflicht zu nachvollziehbarer Buchführung.
+- Paragraf 240 HGB: Inventar und vollständige Erfassung von Vermögensgegenständen und Schulden.
+- Paragraf 252 Absatz 1 Nummer 4 HGB: Vorsichtsprinzip bei Bewertung und Unsicherheiten.
+- Paragraf 317 HGB: Gegenstand und Umfang der Abschlussprüfung.
+- Paragraf 320 HGB: Vorlagepflicht sowie Prüfungs-, Auskunfts- und Nachweisrechte des Abschlussprüfers.
+- ISA DE 505: externe Bestätigungen als Prüfungsverfahren; aktuelle Fassung und Einbindung in Risiko- und Nachweisplanung vor Verwendung prüfen.
 
-**§ 240 HGB** — Inventarpflicht; Saldenabstimmung ist Teil der Forderungs- und Verbindlichkeitsinventur.
+Trenne stets gesetzliche Pflicht, berufsständischen Prüfungsstandard, Auftragsvereinbarung und bloße Kanzleipraxis.
 
-**§ 252 Abs. 1 Nr. 4 HGB** — Vorsichtsprinzip.
+## 4. Kontrollierter Bestätigungsprozess
 
-**§ 320 HGB** — Prüfungspflicht; Abstimmung Pflicht für WP.
+1. Population und Auswahlkriterien festhalten; Negativ-, Null- und Habensalden bewusst berücksichtigen.
+2. Adresse unabhängig aus Stammdaten, Vertrag oder verlässlicher externer Quelle prüfen.
+3. Anfrage unter Kontrolle des Abschlussprüfers oder des verantwortlichen Bearbeiters vorbereiten und versenden; Manipulation durch den Mandanten verhindern.
+4. Stichtag, Saldo, Währung, Konto, Antwortweg und Rückmeldefrist eindeutig bezeichnen.
+5. Rücklaufquelle, Übermittlungsweg und Absenderauthentizität prüfen; weitergeleitete oder vom Mandanten übergebene Antworten nicht ungeprüft übernehmen.
+6. Abweichungen bis auf Einzelposten auflösen und beide Buchhaltungen zeitlich abstimmen.
+7. Bei Nichtantwort angemessene Alternativhandlungen durchführen; Schweigen ist keine Bestätigung.
 
-**§ 33 StBerG** — StB-Aufgabenkreis.
+## 5. Antwort- und Differenzanalyse
 
-### Standards
+| Befund | Prüfung | Folgemaßnahme |
+| --- | --- | --- |
+| Bestätigung ohne Abweichung | Authentizität und Stichtagsbezug | Nachweis indexieren |
+| zeitliche Differenz | Zahlung oder Rechnung im Transit | Cut-off anhand Belegen prüfen |
+| sachliche Differenz | Preis, Menge, Reklamation, Aufrechnung | Vertrag und Korrespondenz auswerten |
+| Antwort mit Vorbehalt | Umfang des Vorbehalts | zusätzliche Nachweise anfordern |
+| keine Antwort | Auswahlrisiko und Bedeutung | Alternativhandlungen planen |
+| widersprüchliche Antwort | Identität und Datenquelle | direkte Rückfrage, Eskalation |
 
-- IDW PS 302 — Saldenbestaetigungen (Anforderungen).
-- IDW PS 480 — Erstellung Jahresabschluss.
+Eine Differenz ist nicht automatisch ein Buchungsfehler. Weise aus, ob sie aus Zeitabgrenzung, Vertragsstreit, Fehlbuchung, ungeklärter Gegenforderung oder möglicher Manipulation folgt.
 
-## Workflow
+## 6. Arbeitsprodukte
 
-### Phase 1 — Abstimmungsobjekt waehlen
+1. Auswahlmatrix mit Population, Risiko, Wesentlichkeit und Auswahlgrund.
+2. Versandfertige Bestätigungsanfrage mit eindeutigem Antwortkanal.
+3. Rücklaufregister mit Datum, Authentizitätsprüfung, Abweichung und Bearbeiter.
+4. Differenzklärung je Einzelposten mit Belegverweis und Buchungsvorschlag.
+5. Vermerk zu Alternativhandlungen bei Nichtantwort.
+6. Abschlussvermerk, der gesetzliche Grundlagen und fachliche Standards sauber trennt.
 
-| Objekt | Prüfung |
-|---|---|
-| Forderungen LuL über 5.000 EUR | Positiv-Bestaetigung |
-| Verbindlichkeiten LuL über 5.000 EUR | Positiv-Bestaetigung |
-| Bankkontensalden | Saldenbestaetigung Bank (jaehrliche Bestaetigung) |
-| Darlehen | Positiv-Bestaetigung Kreditinstitut |
-| Gesellschafterdarlehen | Positiv-Bestaetigung Gesellschafter |
-| Anwalt-Klagen (Rueckstellungen) | Anwalts-Bestaetigung |
-| Steuerverbindlichkeiten | Auszug FA |
+## 7. Schlusskontrolle
 
-### Phase 2 — Versand-Vorbereitung
-
-```
-ABSTIMMUNGSSCHREIBEN
-[StB-Briefkopf] [Datum]
-
-An: [Geschaeftspartner]
-
-Betreff: Saldenabstimmung zum [Stichtag] für
-[Mandant] GmbH
-
-Sehr geehrte Damen und Herren,
-
-zum Bilanzstichtag [Datum] weisen wir in unseren Buechern
-folgenden Saldo aus:
-
-[ ] Forderung gegen Sie: EUR [X]
-[ ] Verbindlichkeit an Sie: EUR [X]
-
-Bitte bestaetigen Sie die Richtigkeit oder teilen Sie
-abweichende Saldoanstaende mit.
-
-Antwortfrist: bis [Datum, ca. 4 Wochen]
-
-Mit freundlichen Gruessen
-[StB]
-```
-
-### Phase 3 — Versand
-
-- Saldenabstimmungs-Schreiben mit DATEV-Saldenbestaetigung-Modul oder manuell.
-- Antwort-Vordruck beilegen (vorausgefuellte Bestaetigung).
-- Rueckumschlag (frankiert oder mit Adresse).
-- Versand 4-6 Wochen vor geplantem Bilanztermin.
-
-### Phase 4 — Antwortauswertung
-
-- Eingehende Antworten in Excel-Tabelle erfassen.
-- Stimmig: keine weitere Aktion.
-- Differenz: Differenzklaerung mit Mandant und Geschäftspartner.
-- Nichtantwort: Erinnerung nach 4 Wochen; ggf. zweite Form.
-
-### Phase 5 — Differenzklaerung
-
-| Differenz-Typ | Mögliche Ursache | Klärung |
-|---|---|---|
-| Saldo niedriger als StB-Bestand | Zahlung des Geschäftspartners im Cut-off | Mit Bankauszug abgleichen |
-| Saldo hoeher als StB-Bestand | Eingangs-/Ausgangsrechnung im Cut-off nicht erfasst | Buchung prüfen |
-| Saldo abweicht stark | Strittige Rechnung, Reklamation | Mit Mandant prüfen, ggf. Rueckstellung |
-
-### Phase 6 — Dokumentation und Bilanzanpassung
-
-- Saldenabstimmungs-Mappe in Mandantenakte.
-- Bilanzanpassung bei wesentlichen Differenzen.
-- Bei strittigen Forderungen: Einzelwertberichtigung in der Bilanz.
-- Prüfer-Bericht mit Stichprobenquote.
-
-## Strategie und Praxis-Tipps
-
-- Saldenabstimmung ist Pflicht bei Wirtschaftspruefung (§ 320 HGB).
-- Bei Mittelstand ohne Prüfungspflicht oft freiwillig für Bank-Reporting oder Mandantenwunsch.
-- Bei groesseren Mandanten Standardprozess mit DATEV-Saldenbestaetigung-Modul.
-- Antwortquote oft 50-70 Prozent — daher Nichtantworten dokumentiert hinnehmen.
-- StBVV: Saldenabstimmung als Zusatzauftrag Jahresabschluss oder Prüfung.
-- DATEV-Tipp: DATEV-Saldenbestaetigung-Modul automatisiert Schreiben und Antwortauswertung.
-
-## Quellen und Updates
-
-Stand: 05/2026.
-
-- HGB §§ 240, 252, 320.
-- StBerG § 33.
-- IDW PS 302, IDW PS 480.
+- Ist der Zweck des Auftrags geklärt?
+- Wurde keine pauschale Bestätigungspflicht aus Paragraf 320 HGB abgeleitet?
+- Sind Auswahl und Umfang risikoorientiert begründet?
+- Blieb der Versand- und Rücklaufprozess unter verlässlicher Kontrolle?
+- Sind Abweichungen und Nichtantworten durch Belege statt Vermutungen geklärt?
+- Kann jeder Wert bis zum Konto und Originalbeleg zurückverfolgt werden?

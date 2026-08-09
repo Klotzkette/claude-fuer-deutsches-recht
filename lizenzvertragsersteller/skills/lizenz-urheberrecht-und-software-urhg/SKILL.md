@@ -31,7 +31,7 @@ description: "Wenn es um Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG)
 
 - **Zweckuebertragungstheorie (Paragraf 31 Abs. 5 UrhG):** Im Zweifel nur die Rechte, die für den Vertragszweck erforderlich sind. → Im Vertrag konkrete Nutzungsarten aufzaehlen.
 - **Angemessenheits-Korrektur (Paragraf 32 UrhG):** Urheber hat Anspruch auf nachtraegliche Anpassung der Vergütung; nicht abdingbar (zwingend).
-- **Bestsellerparagraf (Paragraf 32a UrhG):** Bei auffaelligem Missverhaeltnis nachtraeglicher Korrekturanspruch; auch gegen Lizenznehmer-Sub-Lizenznehmer in der Kette.
+- **Weitere Beteiligung (Paragraf 32a UrhG):** Bei auffälligem Missverhältnis besteht ein zwingender Anspruch auf Vertragsanpassung. Hat der ursprüngliche Vertragspartner das Nutzungsrecht übertragen oder weitere Nutzungsrechte eingeräumt und ergibt sich das Missverhältnis aus Erträgen oder Vorteilen eines Dritten, richtet sich der Anspruch nach Absatz 2 unmittelbar gegen diesen Dritten; die Haftung des ursprünglichen Vertragspartners entfällt insoweit. Rechtekette, Erlösstufe und Anspruchsgegner deshalb getrennt feststellen.
 
 ## Software-Spezifika (Paragrafen 69a-g UrhG)
 

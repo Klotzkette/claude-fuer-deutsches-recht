@@ -18,7 +18,7 @@ description: "Wenn es um Pralr Staatshaftung Im Alr Und Rechtsstaat in Preußisc
 
 ## Stein-Hardenbergsche Reformen
 
-- Oktoberedikt 06.10.1807: Aufhebung der Gutsuntertaenigkeit.
+- Oktoberedikt vom 9. Oktober 1807: schrittweise Aufhebung der Gutsuntertänigkeit und Öffnung des Grundeigentumserwerbs.
 - Selbstverwaltungsreform 1808.
 - Justiz- und Verwaltungstrennung.
 

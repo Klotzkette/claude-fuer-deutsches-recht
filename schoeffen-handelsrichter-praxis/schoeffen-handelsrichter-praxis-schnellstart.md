@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du deine Rolle als Schöffe, Handelsrichter oder ehrenamtlicher Richter für Sitzung, Fragen, Beratung und Abstimmung rechtssicher vorbereiten.
-
 # Schöffen Handelsrichter Praxis — Schnellstart
+
+Wenn du das hier öffnest, willst du deine Rolle als Schöffe, Handelsrichter oder ehrenamtlicher Richter für Sitzung, Fragen, Beratung und Abstimmung rechtssicher vorbereiten.
 
 Ziel: Plugin für Schöffen, Jugendschöffen, ehrenamtliche Richter und Handelsrichter: Rolle, Rechte, Pflichten, Sitzung, Beratung, Befangenheit, Beweiswürdigung, Handelskammer, Verwaltungsgericht und sichere praktische Orientierung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 

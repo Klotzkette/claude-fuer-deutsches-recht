@@ -9,7 +9,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 HAND_CURATED_FILE = REPO / "scripts" / "handkuratierte-prompts.txt"
-MAX_WERKSTATT_BYTES = 22 * 1024
+MAX_WERKSTATT_BYTES = 48 * 1024
 MAX_SCHNELLSTART_BYTES = 7500
 
 WERKSTATT_BLOCK = """### 1.1. Arbeitsmodus: schnell und belastbar
@@ -309,10 +309,6 @@ def refine_prompt(path: Path, kind: str) -> bool:
         text = normalize_werkstatt_headings(text)
         text = text.replace(OLD_WERKSTATT_BLOCK, WERKSTATT_BLOCK)
         text = normalize_werkstatt_headings(text)
-        # Größenentscheidungen für den Tempo-Block erst nach allen kürzenden
-        # Transformationen treffen. Sonst kann ein zweiter Lauf nachträglich
-        # vom kurzen auf den vollständigen Block wechseln.
-        text, _ = remove_werkstatt_tempo_block(text)
         text = STATION_PATTERN.sub(
             "Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.",
             text,
@@ -325,7 +321,8 @@ def refine_prompt(path: Path, kind: str) -> bool:
             text = normalize_werkstatt_final_check(text)
         elif len(text.encode("utf-8")) < 12 * 1024:
             text = text.rstrip() + "\n\n" + werkstatt_final_check_block(text)
-        text = insert_werkstatt_tempo_under_role(text)
+        if "Arbeitsmodus: schnell und belastbar" not in text:
+            text = insert_werkstatt_tempo_under_role(text)
     else:
         text = normalize_schnellstart_headings(text)
         if "Schnellmodus" not in text:

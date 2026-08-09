@@ -36,7 +36,7 @@ description: "Wenn es um Pfändung Flugzeug Deutschland – Zwangsvollstreckung 
 - **ZPO §§ 916-934**: Arrest; Arrestanspruch und Arrestgrund bei Fluchtverdacht.
 - **ZPO § 771**: Drittwiderspruchsklage des Eigentümers gegen Pfändung fremder Sachen.
 - **InsO § 89**: Vollstreckungssperre nach Insolvenzeröffnung.
-- **Cape Town Convention Art. 10**: Zwangsmassnahmen in Insolvenz.
+- **Kapstadt-Regime**: Rechtsbehelfe des Sicherungsnehmers stehen in den Artikeln 8 bis 10 des Übereinkommens; Insolvenzfolgen in Artikel 30. Für Deutschland keine unmittelbare Anwendung behaupten, da keine Ratifikation vorliegt.
 
 ## Prüfraster
 
@@ -61,7 +61,7 @@ Die Pfändung eines Luftfahrzeugs erfordert besondere Vorbereitung:
 - **Standortermittlung**: Aktueller Flugplan (ATC) und Flughafenslotbelegung geben Aufschluss über Standort; Abstimmung mit Flughafenoperator nötig.
 - **Arrestantrag**: Zuständiges Gericht am Belegenheitsort; Arrestgrund glaubhaft machen.
 - **Betriebsunterbrechung**: Pfändung eines Linienflugzeugs löst Betriebsunterbrechung aus; Schadensersatz bei unberechtigtem Arrest.
-- **Cape Town Priorität**: Vor Pfändung ICAO-Register prüfen; vorrangige Sicherungsinteressen können Arrest verhindern.
+- **Internationale Sicherheiten**: Nur bei belegtem Vertragsstaatenbezug ein Search Certificate des International Registry auswerten; Rang, Rechtsbehelf und Wirkung im Vollstreckungsstaat gesondert prüfen.
 
 ## Quellen
 
@@ -85,7 +85,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 - Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
 - AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
+- Bei belegtem Vertragsstaatenbezug: aktuelles Search Certificate des International Registry und gegebenenfalls IDERA-Nachweis der nationalen Registerbehörde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz

@@ -1,93 +1,75 @@
 ---
 name: 023-identitaetspruefung-videoident-und-praesenztermin-g
-description: "Wenn es um Notariat im Alltag: Identitätsprüfung – Videoident und Präsenztermin, Grenzen in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Identität und Zulässigkeit notarieller Präsenz- oder Online-Verfahren; verbindet BeurkG Paragraf 10, BeurkG Paragrafen 16a bis 16e und 40a sowie das Videokommunikationssystem der Bundesnotarkammer."
 ---
 
-# Notariat im Alltag: Identitätsprüfung – Videoident und Präsenztermin, Grenzen
+# Identitätsprüfung in Präsenz und mittels Videokommunikation
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Bestimme zuerst die konkrete Urkundstätigkeit und ihre gesetzliche Zulassungsnorm. Liefere danach eine Entscheidung in drei Sätzen: Präsenzverfahren, zulässiges Online-Verfahren oder keine notarielle Fernhandlung. Erst anschließend werden Identitätsmittel, Vertretungsnachweise und technische Voraussetzungen geprüft.
 
-## Zweck und Anwendungsbereich
+## 2. Präsenzverfahren
 
-Die sichere Identifizierung aller Beteiligten ist eine Kernpflicht des Beurkundungsverfahrens. Kläre die Anforderungen nach BeurkG und GwG, die Möglichkeiten der Online-Identifikation und die Grenzen der Fernbeurkundung.
+2.1. BeurkG Paragraf 10 verlangt, dass sich der Notar Gewissheit über die Person der Beteiligten verschafft. Wie diese Gewissheit im Einzelfall gewonnen wurde und ob Zweifel verblieben, ist aktenfest zu dokumentieren.
 
-Rechtsgrundlagen: § 10 BeurkG (Feststellung der Beteiligten), § 13 BeurkG (Vorlesen und Unterzeichnung), § 16 BeurkG (Behinderungen, Dolmetscher), GwG § 8 (Identifizierungspflichten), GwG § 12 (Fernidentifizierung), BNotO §§ 10a, 16a (Videobeurkundung, ab 2022), BeurkG §§ 40a–40e (Online-Beglaubigung), DONot §§ 10–12 (Beurkundungsverfahren).
+2.2. Prüfe Ausweisdokument, Lichtbild, Gültigkeit, Namensführung und erkennbare Abweichungen. Bei Vertretern kommen Register- und Vollmachtsnachweise hinzu; Identität und Vertretungsmacht sind verschiedene Prüfpunkte.
 
-## Identifizierungspflichten (§ 10 BeurkG)
+2.3. Geldwäscherechtliche Sorgfaltspflichten ergeben sich insbesondere aus GwG Paragrafen 10 bis 12. Aufzeichnung und Aufbewahrung sind gesondert zu behandeln. Nicht jede notarielle Tätigkeit löst dieselben Maßnahmen aus.
 
-Der Notar muss sich über die Person der Beteiligten Gewissheit verschaffen. Zulässige Mittel:
-- Personalausweis (Lichtbildausweis, § 10 Abs. 1 BeurkG)
-- Reisepass mit weiteren Nachweisen bei Zweifeln
-- Aufenthaltstitel für Ausländer
-- Für juristische Personen: Handelsregisterauszug + Personalausweis des Vertreters
-- Vertrauenspersonen als Zeugen (§ 10 Abs. 2 BeurkG) bei fehlenden Legitimationsdokumenten
+## 3. Online-Beurkundung
 
-## GwG-Identifizierung (§§ 8–12 GwG)
+3.1. BeurkG Paragraf 16a erlaubt die Beurkundung von Willenserklärungen mittels des von der Bundesnotarkammer betriebenen Videokommunikationssystems nur, soweit ein Gesetz die konkrete Beurkundung online zulässt.
 
-Ergänzend zur BeurkG-Pflicht: GwG verlangt Kopie des Identifikationsdokuments, Überprüfung auf Aktualität und Echtheit, PEP-Screening, Transparenzregisterabfrage. GwG-Identifizierung auch bei bloßen Beglaubigungen und Bescheinigungen.
+3.2. Das System wird nach BNotO Paragraf 78p von der Bundesnotarkammer betrieben. Ein beliebiger Videodienst oder ein allgemeines Videoident-Verfahren ersetzt dieses System nicht.
 
-## Online-Beurkundung und Videoidentifikation
+3.3. Die Identitätsfeststellung richtet sich im Online-Verfahren nach BeurkG Paragraf 16c. Erforderlich sind die dort bestimmten elektronischen Identitätsnachweise und das elektronisch übermittelte Lichtbild; bei einer dem Notar bekannten Person gilt die gesetzliche Erleichterung für das Lichtbild.
 
-**Videobeurkundung (§ 16a BNotO n.F., ab 2022):**
-Mit Inkrafttreten der entsprechenden Rechtsverordnung können bestimmte Beurkundungsakte per Videokonferenz durchgeführt werden. Voraussetzungen (noch begrenzt):
-- Technische Anforderungen nach Verordnung
-- Eindeutige Identifizierung via Video + qualifizierter Videoident-Dienst
-- Nur für bestimmte Urkundenarten (noch nicht für alle Beurkundungen)
-- Notar und Beteiligter in Echtzeit im Bild
+3.4. Der Notar soll das Online-Verfahren ablehnen, wenn Amtspflichten nicht verlässlich erfüllt werden können, insbesondere bei Identitäts-, Rechtsfähigkeits- oder Geschäftsfähigkeitszweifeln.
 
-**Online-Beglaubigung (§§ 40a–40e BeurkG, ab 2022):**
-Unterschriftsbeglaubigung per Video möglich für qualifizierte elektronische Unterschriften. Biometrische Identifizierung des Berechtigten nötig.
+## 4. Online-Beglaubigung
 
-## Präsenztermin: wann zwingend?
+4.1. BeurkG Paragraf 40a betrifft die Beglaubigung einer qualifizierten elektronischen Signatur. Auch sie ist mittels Videokommunikation nur zulässig, soweit ein Gesetz dies für den konkreten Vorgang erlaubt.
 
-Alle Beurkundungen nach BeurkG (§§ 6–35) erfordern grundsätzlich die persönliche Anwesenheit (§ 13 BeurkG: Vorlesen in Gegenwart der Beteiligten). Die Videobeurkundung ist die gesetzte Ausnahme, die strenger Verordnung bedarf.
+4.2. Prüfe nicht nur die technische Signatur, sondern die Person, die sie anerkennt, den zulässigen Anwendungsfall und die Anforderungen des BeurkG Paragraf 16c.
 
-Ausnahme: Genehmigungen können per Vollmacht auch ohne persönliche Anwesenheit des Genehmigenden erteilt werden (§ 182 BGB).
+## 5. Entscheidungsbaum
 
-## Grenzen der Fernbeurkundung
+| Stufe | Frage | Folge |
+| --- | --- | --- |
+| Urkundsart | Welche Beurkundung, Beglaubigung oder sonstige Tätigkeit ist beantragt? | richtige Verfahrensnorm bestimmen |
+| Zulassung | Erlaubt das Gesetz diesen Vorgang online? | ohne Zulassungsnorm Präsenzverfahren |
+| System | Wird das System der Bundesnotarkammer genutzt? | sonst kein Verfahren nach BeurkG Paragraf 16a oder 40a |
+| Identität | Sind elektronischer Nachweis und Lichtbild gesetzeskonform verfügbar? | bei Lücke kein Online-Vollzug |
+| Amtspflicht | Sind Wille, Geschäftsfähigkeit, Belehrung und freie Entscheidung sicher feststellbar? | bei Zweifel ablehnen oder Präsenztermin |
+| Vollzug | Sind elektronische Urkunde, Signaturen und Registerweg passend? | erst dann freigeben |
 
-- Keine Beurkundung per E-Mail, schriftlichem Austausch oder Videokonferenz ohne gesetzliche Grundlage.
-- Notar, der Fernbeurkundung ohne gesetzliche Basis durchführt, begeht Amtspflichtverletzung (§ 17 BeurkG i.V.m. § 19 BNotO).
-- „Beurkundung" mit elektronischer Signatur allein ist unwirksam, wenn BeurkG-Präsenzerfordernis gilt.
+## 6. Typische Fehler
 
-## Prüfprogramm
+6.1. BNotO Paragraf 16a wird als Rechtsgrundlage der Videobeurkundung zitiert; einschlägig sind BeurkG Paragrafen 16a bis 16e sowie BNotO Paragraf 78p für das System.
 
-- Liegt ein anerkanntes Legitimationsdokument vor?
-- Ist das Dokument noch gültig (Ablaufdatum prüfen)?
-- Stimmt das Bild überein? (§ 10 Abs. 1 BeurkG: eigene Überzeugung)
-- Bei juristischen Personen: Registerauszug aktuell?
-- GwG: Kopie archiviert, PEP-Screening dokumentiert?
-- Ist die geplante Urkundsart für Online-Identifizierung/Video geeignet?
+6.2. Ein privates Videoident-Verfahren wird mit der Identitätsfeststellung nach BeurkG Paragraf 16c gleichgesetzt.
 
-## Typische Fallen
+6.3. Aus der technischen Möglichkeit wird auf die gesetzliche Zulässigkeit der Urkundsart geschlossen.
 
-- Abgelaufener Ausweis → § 10 BeurkG-Mangel; Beurkundung anfechtbar.
-- Identifizierung per Vollmacht (GF der GmbH) ohne aktuellen Registerauszug.
-- GwG-Kopie vergessen → Dokumentationsmangel, Bußgeldrisiko.
-- Fernbeurkundungsversuch ohne gesetzliche Basis → Unwirksamkeit.
-- Vertreter ohne ausreichende Vollmacht als Beteiligter aufgeführt.
+6.4. Eine gültige elektronische Identität wird mit feststehender Geschäfts- oder Rechtsfähigkeit verwechselt.
 
-## Rechtsquellen
+6.5. Registervertretung und wirtschaftlich Berechtigter werden aus demselben Nachweis abgeleitet, obwohl getrennte Prüfungen nötig sind.
 
-- § 10 BeurkG: https://dejure.org/gesetze/BeurkG/10.html
-- § 16a BNotO (Videobeurkundung): https://dejure.org/gesetze/BNotO/16a.html
-- §§ 40a–40e BeurkG (Online-Beglaubigung): https://dejure.org/gesetze/BeurkG/40a.html
-- GwG §§ 8, 12: https://dejure.org/gesetze/GwG/8.html
-- BGH zur Identitätsprüfung: https://www.bgh.de
-- BNotK ERV und Video: https://www.bnotk.de
+## 7. Arbeitsprodukte
 
-## Output-Formate
+7.1. Zulässigkeitsvermerk mit Urkundsart, enabling Norm, Verfahrensweg und Ablehnungsgründen.
 
-- **Identifizierungsprotokoll** (BeurkG + GwG, je Beteiligter)
-- **Videoident-Checkliste** (technische + rechtliche Anforderungen)
-- **Präsenzpflicht-Entscheidungsbaum** (welche Urkundsart ist video-tauglich?)
-- **GwG-Dokumentationsblatt**
-- **Mandantenhinweis** (benötigte Ausweisdokumente)
+7.2. Identitätsprotokoll je Beteiligtem mit Nachweismittel, Prüfergebnis und Abweichungen.
 
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+7.3. Terminanforderung mit technischen und persönlichen Voraussetzungen.
+
+7.4. Präsenzwechsel-Vermerk, wenn das Online-Verfahren nicht sicher fortgeführt werden kann.
+
+## 8. Amtliche Quellen
+
+- BeurkG Paragraf 10: https://www.gesetze-im-internet.de/beurkg/__10.html
+- BeurkG Paragrafen 16a bis 16e: https://www.gesetze-im-internet.de/beurkg/
+- BeurkG Paragraf 40a: https://www.gesetze-im-internet.de/beurkg/__40a.html
+- BNotO Paragraf 78p: https://www.gesetze-im-internet.de/bnoto/__78p.html
+- GwG Paragrafen 10 bis 12: https://www.gesetze-im-internet.de/gwg_2017/

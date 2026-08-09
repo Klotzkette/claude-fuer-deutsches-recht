@@ -115,7 +115,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `elektronische-form-paragraph-126a-bgb-qes` | Mandant möchte einen Vertrag oder eine Willenserklärung elektronisch unterzeichnen und fragt, ob qES, beA oder gerichtliche Zustellung die Schriftform ersetzen. Prüft Paragraf 126a BGB, eIDAS, Zugang, Paragraf 130e ZPO und Paragraf 46h ArbGG. |
 | `form-checker-für-vertrag-oder-willenserklaerung` | Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie… |
 | `formerfordernisse-im-bgb-ueberblick` | Systematik der Formerfordernisse im BGB: gesetzliche vs. gewillkürte Form, Paragrafen 125-129 BGB, Nichtigkeitsfolge Paragraf 125 BGB, Heilungsmöglichkeiten, Formhierarchie von Textform bis notarielle Beurkundung — Einstieg und… |
-| `gewerberaummiete-paragraph-550-bgb-langzeitform` | Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kündbar? Paragraf 550 BGB Langzeitform Gewerberaummietvertrag. Prüfraster:… |
+| `gewerberaummiete-paragraph-550-bgb-langzeitform` | Prüft langfristige Gewerberaummiete nach aktuellem Textformrecht: Paragraf 578 und 550 BGB, Artikel 229 Paragraf 70 EGBGB, Vertragskette, Nachträge, Kündigungstermin und Beweisrisiko. |
 | `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt` | Anwalt entwirft Vertrag und benoetigt Formvorbehalt- oder Änderungsklauseln die AGB-rechtlich und BGH-konform sind. Klauselgenerator Paragrafen 305b 305c BGB. Prüfraster: einfache Schriftformklausel doppelte… |
 | `kuendigung-per-schriftsatz-zustellung-formfragen` | Anwalt versendet oder empfängt eine Kündigung per Schriftsatz und fragt nach Formwirksamkeit. Prüft Schriftform, beA, qES, Paragraf 130a ZPO, Paragraf 130e ZPO, Paragraf 46h ArbGG, Paragraf 173 ZPO, Paragraf 186 ZPO, Paragraf 298 Abs. 3 ZPO und Paragraf 174 BGB. |
 | `mandantenkorrespondenz-form-und-zugang-templates` | Kanzlei benoetigt fertige Muster-Mandantenbriefe zu typischen Form- und Zugangsfragen. Mandantenbrief-Bibliothek Formrecht. Inhalt: Warnung qES-Mail nicht löschen Mieter-Hinweis auf E-Mail/WhatsApp-Kündigung prüfen… |
@@ -136,7 +136,7 @@ Das deutsche Zivilrecht kennt eine Hierarchie von Formerfordernissen: von der Te
 
 - Ein Mandant fragt, ob ein Vertrag oder eine Willenserklarung formgueltig ist oder ob ein Formmangel zur Nichtigkeit fuehrt.
 - Eine Kuendigung (Miet-, Arbeits- oder Dauerschuldverhaltnis) soll per E-Mail, WhatsApp oder qES-Dokument versandt werden und Sie wollen sicher sein, dass Form und Zugang wirksam sind.
-- Ein Gewerberaummietvertrag laeuft laenger als ein Jahr und die Schriftform-Konformitaet soll geprueft werden (Paragraf 550 BGB).
+- Ein Gewerberaummietvertrag läuft länger als ein Jahr und die Textform der vollständigen Vertragskette soll nach Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB geprüft werden.
 - Eine Befristungsabrede im Arbeitsvertrag soll elektronisch unterzeichnet werden und Sie wollen das Schriftformrisiko einschaetzen (Paragraf 14 Abs. 4 TzBfG).
 - Vertragsklauseln zu Form- und Änderungsvorbehalten sollen AGB-rechtlich sicher formuliert werden.
 
@@ -159,7 +159,8 @@ Das deutsche Zivilrecht kennt eine Hierarchie von Formerfordernissen: von der Te
 - Paragrafen 130a, 130e ZPO — elektronischer Schriftsatz und Formfiktion
 - Paragraf 46h ArbGG — arbeitsgerichtliche Formfiktion
 - Paragraf 311b BGB — notarielle Beurkundung bei Grundstuecksgeschaeften
-- Paragraf 550 BGB — Schriftform bei Mietvertraegen über mehr als ein Jahr
+- Paragraf 550 BGB — Formfolge bei einer Mietdauer über ein Jahr; bei Grundstücks- und Gewerberaummiete gilt über Paragraf 578 Absatz 1 BGB Textform
+- Artikel 229 Paragraf 70 EGBGB — Übergangsrecht für vor dem 1. Januar 2025 entstandene Vertragsverhältnisse
 - Paragraf 568 BGB — Schriftform bei Kuendigung von Wohnraummietvertraegen
 - Paragraf 14 Abs. 4 TzBfG i.V.m. Paragraf 623 BGB — Schriftformzwang bei Befristungsabreden und Kuendigungen
 - Paragraf 656a BGB — Textform beim Maklervertrag
@@ -182,7 +183,7 @@ Das deutsche Zivilrecht kennt eine Hierarchie von Formerfordernissen: von der Te
 - `textform-paragraph-126b-bgb-dauerhafter-datentraeger` — Textform: E-Mail, WhatsApp, SMS, PDF — Prüfung und Empfehlung.
 - `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb` — Zugang nach Paragraf 130 BGB: Machtbereichslehre, Briefkasten, Abrufbarkeit, Beweis.
 - `wohnraummiete-kuendigung-paragraph-568-bgb` — Schriftform bei Wohnraum-Kuendigung: qES-Zugang, Empfehlung Papier per Boten.
-- `gewerberaummiete-paragraph-550-bgb-langzeitform` — Paragraf 550 BGB: Schriftformklausel bei Gewerberaummietvertrag laenger als ein Jahr, Kuendigungsrisiko.
+- `gewerberaummiete-paragraph-550-bgb-langzeitform` — Textform langfristiger Gewerberaummiete, Vertragskettenaudit, Übergangsrecht und Kündigungsrisiko.
 - `arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb` — Befristungsabrede und Aufhebungsvertrag: Schriftformzwang, Heilung ausgeschlossen.
 - `befristungsabrede-qes-rechtsprechung-stand-2026` — Aktuelle Rechtsprechung zur qES bei Befristungsabreden nach Paragraf 14 Abs. 4 TzBfG.
 - `buergschaft-verbraucherdarlehen-und-andere-strenge-formen` — Buergschaft, Verbraucherdarlehen, Grundstueck: strenge Formerfordernisse und Heilung.
@@ -200,7 +201,7 @@ Das deutsche Zivilrecht kennt eine Hierarchie von Formerfordernissen: von der Te
 - **Befristungsabrede nicht mit einfacher E-Signatur**: Paragraf 14 Abs. 4 TzBfG verlangt Schriftform; eine echte qES kann tragen, einfache Signatur, Scan und E-Mail nicht.
 - **beA ist nicht automatisch materielle Form**: beA kann Paragraf 130a ZPO erfuellen. Die materielle Form folgt nur aus qES-Zugang oder aus einer Formfiktion wie Paragraf 130e ZPO bzw. Paragraf 46h ArbGG.
 - **Doppelte Schriftformklausel kann treuwidrig sein**: BGH hat zahlreiche doppelte Schriftformklauseln für unwirksam erklaert (Paragraf 305b BGB); sorgfaeltige Formulierung ist unverzichtbar.
-- **Gewerbemiete Paragraf 550 BGB**: Jede Nachtragsvereinbarung ohne Schriftform oeffnet ein Kuendigungsrecht zum naechsten zulaessigen Termin.
+- Gewerbemiete: Nicht jede informelle Kommunikation eröffnet ein Kündigungsrecht. Maßgeblich sind Textform, Wesentlichkeit und vollständige Vertragskette nach Paragraf 578 Absatz 1 und 550 BGB; Rechtsfolge, Termin und Treuwidrigkeit werden getrennt geprüft.
 
 ## Typische Fehler
 

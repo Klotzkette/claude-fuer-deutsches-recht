@@ -28,7 +28,7 @@ ALR I 5 §§ — Konventionalstrafe als vereinbarte Geldbusse für Vertragsverle
 ## Fortwirkung BGB
 
 - §§ 339-345 BGB.
-- § 343 BGB Reduzierung übersetzter Strafe durch Gericht.
+- Paragraf 343 BGB: Herabsetzung einer unverhältnismäßig hohen Vertragsstrafe durch Urteil.
 
 ## Prüfraster
 

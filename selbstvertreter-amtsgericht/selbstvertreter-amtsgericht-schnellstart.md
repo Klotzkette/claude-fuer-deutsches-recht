@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du aus einer Akte sofort eine prozessfähige Route bauen: Zuständigkeit, Frist, Antrag, Tatsachenvortrag, Beweis und nächste Verfügung.
-
 # Selbstvertreter Amtsgericht — Schnellstart
+
+Wenn du das hier öffnest, willst du aus einer Akte sofort eine prozessfähige Route bauen: Zuständigkeit, Frist, Antrag, Tatsachenvortrag, Beweis und nächste Verfügung.
 
 Ziel: Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, Paragraf23 GVG/Paragraf511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -55,7 +55,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 371 ZPO — Augenscheinsbeweis; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 371a ZPO — Elektronische Dokumente; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 286 ZPO — Freie Beweiswürdigung; Gericht entscheidet, ob es überzeugt ist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 138 ZPO — Wahrheitspflicht; sekundaere Darlegungslast; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 138 ZPO — Wahrheitspflicht; sekundäre Darlegungslast; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

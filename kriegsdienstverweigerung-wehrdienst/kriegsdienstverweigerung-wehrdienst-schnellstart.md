@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine dienst-, wehr-, versammlungs- oder aufenthaltsrechtliche Entscheidung nach Status, Verfahren, Ermessen und Eilbedürftigkeit ordnen.
-
 # Kriegsdienstverweigerung Wehrdienst — Schnellstart
+
+Wenn du das hier öffnest, willst du eine dienst-, wehr-, versammlungs- oder aufenthaltsrechtliche Entscheidung nach Status, Verfahren, Ermessen und Eilbedürftigkeit ordnen.
 
 Ziel: Praxisplugin für Kriegsdienstverweigerung und Wehrdienst aus Gewissensgründen: Art. 4 Abs. 3 GG, KDVG n. F. 2026, Antrag über BAPersBw, BAFzA-Entscheidung, Gewissensbegründung, Soldaten, Reservisten, Rechtsschutz und saubere Abgrenzung zur Totalverweigerung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -14,7 +14,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 2. Sind Anhörung, Begründung und Zuständigkeit gewahrt.
 3. Auf welchen Tatsachen beruht die Gefahren- oder Eignungsprognose.
 4. Engpass dieses Gebiets zuerst sichern: Versammlungs-, Abschiebungs- oder Vollzugstermin liegt in unter einer Woche.
-5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+5. Beweislage ordnen: Darlegungs- und Nachweisfrage für Öffentlicher Dienst, Sicherheits- und Migrationsrecht: Auf welchen Tatsachen beruht die Gefahren- oder Eignungsprognose.
 6. Erstes Arbeitsprodukt liefern: Eilantrag: Antrag, Sachverhalt mit Termin, Anspruch, Grund, Folgenabwägung, Anlagen.
 
 ## 3. Kernroute
@@ -32,8 +32,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Normenanker | BeamtStG und BBG; SG und WPflG; GG Artikel 4 Absatz 3 und KDVG |
 | Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 1 BvR 233, 341/81; BVerfG, Urteil vom 12.06.2018 - 2 BvR 1738/12 u.a |
 | Tatbestand | Beamter, Soldat, Versammlungsleiter oder Ausländer mit maßgeblichem Statusgesetz feststellen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Beweislast | Darlegungs- und Nachweisfrage für Öffentlicher Dienst, Sicherheits- und Migrationsrecht: Auf welchen Tatsachen beruht die Gefahren- oder Eignungsprognose |
+| Rechtsfolge | Widerspruch, Eilantrag, Klage, Stellungnahme oder behördlicher Bescheidentwurf ausformulieren |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
@@ -42,10 +42,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- | --- |
 | Status und Rechtsverhältnis | Beamter, Soldat, Versammlungsleiter oder Ausländer mit maßgeblichem Statusgesetz feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Entscheidung und Verfahren | Bescheid, Auflage, Verbot oder Maßnahme mit Zuständigkeit, Anhörung und Bekanntgabe sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ermessens- und Verhältnismäßigkeitskontrolle | mildere Mittel, Prognosegrundlagen und Gefahrenbelege prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ermessens- und Verhältnismäßigkeitskontrolle | Mildere Mittel, Prognosegrundlagen und Gefahrenbelege prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Eilbedürftigkeit | Vollzugstermin, Versammlungstermin, Abschiebungstermin oder Dienstantritt kalendarisch sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Widerspruch, Eilantrag, Klage, Stellungnahme oder behördlicher Bescheidentwurf ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ablehnungsbescheid analysieren | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ablehnungsbescheid analysieren | Bearbeite Ablehnungsbescheid analysieren: Beamter, Soldat, Versammlungsleiter oder Ausländer mit maßgeblichem. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -53,19 +53,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - SG und WPflG: Wehrdienstverhältnisse, Pflichten und Verfahren.
 - GG Artikel 4 Absatz 3 und KDVG: Kriegsdienstverweigerung aus Gewissensgründen.
 - GG Artikel 8 und Versammlungsgesetze: Anmeldung, Auflagen, Verbot und Auflösung.
-- VwGO Paragrafen 68 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- VwGO Paragraf 75; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- VwGO Paragraf 75; BAFzA-Hinweise; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - VwGO Paragraf 75; KDVG Paragraf 13 Abs. 2; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Beschluss vom 14.05.1985 - 1 BvR 233, 341/81: Versammlungsfreiheit verlangt versammlungsfreundliches Verfahren; Auflagen und Verbote nur bei unmittelbarer Gefährdung gleichwertiger Rechtsgüter.
+- BVerfG, Urteil vom 12.06.2018 - 2 BvR 1738/12 u.a.: das Streikverbot für Beamte ist ein hergebrachter Grundsatz des Berufsbeamtentums und verfassungsgemäß.
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Widerspruch, Eilantrag, Klage, Stellungnahme oder behördlicher Bescheidentwurf ausformulieren.
 7.2. Normsatz: Den tragenden Anker BeamtStG und BBG; SG und WPflG auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Status und Rechtsverhältnis konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei sind anhörung, begründung und zuständigkeit gewahrt an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
+7.4. Beweislast: Darlegungs- und Nachweisfrage für Öffentlicher Dienst, Sicherheits- und Migrationsrecht: Auf welchen Tatsachen beruht die Gefahren- oder Eignungsprognose; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei anhörung, begründung und zuständigkeit gewahrt an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Widerspruch, Eilantrag, Klage, Stellungnahme oder behördlicher Bescheidentwurf ausformulieren ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Eilantrag: Antrag, Sachverhalt mit Termin, Anspruch, Grund, Folgenabwägung, Anlagen; Auflagen-Erwiderung: angegriffene Auflage, Gefahrenprognose, mildere Mittel, Kooperationsangebot, Antrag. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop

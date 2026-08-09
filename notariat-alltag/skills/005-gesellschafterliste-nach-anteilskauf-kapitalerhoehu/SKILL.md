@@ -1,89 +1,72 @@
 ---
 name: 005-gesellschafterliste-nach-anteilskauf-kapitalerhoehu
-description: "Wenn es um Notariat im Alltag: Gesellschafterliste – Anteilskauf, Kapitalerhöhung, Einziehung in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Erstellt und prüft Gesellschafterlisten nach Anteilskauf, Kapitalmaßnahme, Einziehung, Teilung oder Erbfolge; trennt Legitimationswirkung, Gutglaubenserwerb, Veränderungsspalte und unverzügliche Einreichung."
 ---
 
-# Notariat im Alltag: Gesellschafterliste – Anteilskauf, Kapitalerhöhung, Einziehung
+# Gesellschafterliste nach Veränderung
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Satzung, letzte im Handelsregister aufgenommene Liste, Veränderungsurkunde, Wirksamkeitsbedingungen, Gesellschafterbeschlüsse und Registerstand. Erstelle zuerst eine Vorher-nachher-Kontrolle aller Geschäftsanteile und erst danach die neue Liste.
 
-## Zweck und Anwendungsbereich
+## 2. Rechtsfunktionen sauber trennen
 
-Die Gesellschafterliste (§ 40 GmbHG) ist die zentrale Publizitätsurkunde der GmbH. Ihre Aktualität entscheidet über Stimmrechte, Gutglaubensschutz bei Anteilserwerb und die Wirksamkeit von Gesellschafterbeschlüssen. Strukturiere Inhalt, Einreichungspflicht und Haftungsrisiken.
+2.1. GmbHG Paragraf 16 Absatz 1 regelt die Legitimation gegenüber der Gesellschaft. Im Verhältnis zur Gesellschaft gilt grundsätzlich nur der in der aufgenommenen Liste Eingetragene als Inhaber; die gesetzliche Rückwirkungsregel bei unverzüglicher Aufnahme ist gesondert zu prüfen.
 
-Rechtsgrundlagen: § 16 GmbHG (Legitimationswirkung), § 40 GmbHG (Listeninhalt und Einreichungspflicht), § 15 GmbHG (Anteilsabtretung, notarielle Form), §§ 55–57 GmbHG (Kapitalerhöhung), § 34 GmbHG (Einziehung), § 12 HGB (elektronische Einreichung), GwG § 20 (Transparenzregister).
+2.2. GmbHG Paragraf 16 Absatz 3 betrifft den rechtsgeschäftlichen Erwerb vom Nichtberechtigten. Ausgangspunkt ist die Eintragung des Veräußerers in der aufgenommenen Liste. Ist die Liste weniger als drei Jahre unrichtig, scheidet Gutglaubenserwerb nur dann nicht schon deshalb aus, wenn die Unrichtigkeit dem Berechtigten zuzurechnen ist. Kenntnis, grob fahrlässige Unkenntnis und ein zugeordneter Widerspruch schließen den Erwerb ebenfalls aus.
 
-## Pflichtinhalt der Gesellschafterliste (§ 40 Abs. 1 GmbHG)
+2.3. GmbHG Paragraf 40 regelt Inhalt und Einreichung der Liste. Die Liste ersetzt weder die Wirksamkeitsprüfung der Anteilsübertragung noch die Prüfung eines Einziehungs- oder Kapitalbeschlusses.
 
-- Vor- und Nachname oder Firma jedes Gesellschafters
-- Geburtsdatum (natürliche Personen) oder Registernummer (juristische Personen)
-- Wohnort oder Sitz
-- Nennbetrag und laufende Nummer jedes Geschäftsanteils
-- Gesamtbetrag der Stammeinlagen
+## 3. Ereignis- und Wirksamkeitskontrolle
 
-## Auslöser für Listenaktualisierung
+| Ereignis | Wirksamkeitsfrage | Listenfolge |
+| --- | --- | --- |
+| Anteilsabtretung | notarielle Form, Bedingungen, Zustimmung und Vertretungsmacht | Erwerber erst nach Eintritt der maßgeblichen Wirksamkeit ausweisen |
+| Kapitalerhöhung | Übernahme, Eintragung und neue Anteilsausgabe | Alt- und Neuanteile vollständig abstimmen |
+| Einziehung | Satzungsgrundlage, Beschluss, Wirksamkeitszeitpunkt und Nennkapitalerhaltung | Anteil nicht vorzeitig entfernen |
+| Teilung oder Zusammenlegung | Zulässigkeit, Beschluss und Nummernkontinuität | neue Nummern und Veränderungsspalte eindeutig bilden |
+| Erbfolge | Rechtsnachfolge und Nachweis | Erben oder Erbengemeinschaft korrekt bezeichnen |
 
-| Ereignis | Pflicht | Zuständig |
-|---|---|---|
-| Anteilsabtretung (§ 15 GmbHG) | Notar (§ 40 Abs. 2 GmbHG) | Notar innerhalb 1 Woche |
-| Kapitalerhöhung (§§ 55–57 GmbHG) | Geschäftsführer nach Eintragung | Geschäftsführer/Notar |
-| Einziehung (§ 34 GmbHG) | Geschäftsführer | Geschäftsführer |
-| Umwandlung, Erbfolge | je nach Vorgang | Notar/Geschäftsführer |
+## 4. Listeninhalt und Rechenkontrolle
 
-## Gutglaubensschutz (§ 16 GmbHG)
+4.1. Erfasse natürliche Personen und Rechtsträger mit den jeweils gesetzlich verlangten Identifikationsangaben.
 
-Ein Erwerber kann sich auf die im Handelsregister aufgenommene Gesellschafterliste verlassen, wenn die Liste mindestens 3 Jahre alt ist oder der Berechtigte die Unrichtigkeit nicht kannte (§ 16 Abs. 3 GmbHG). Die Listeneintragung ersetzt bei der GmbH die Buchungsfunktion des Aktienregisters.
+4.2. Weise jeden Geschäftsanteil mit laufender Nummer und Nennbetrag aus. Berechne die prozentuale Beteiligung am Stammkapital je Anteil und den Gesamtumfang je Gesellschafter nach den geltenden Rundungsregeln.
 
-Wichtig: Gutglaubensschutz gilt nur für die beim HR eingereichte Liste, nicht für interne Listenversionen.
+4.3. Prüfe drei Summen unabhängig: Anzahl beziehungsweise Nummernkreis der Anteile, Summe der Nennbeträge und Summe der Beteiligungsquoten.
 
-## Notar-Einreichungspflicht bei Abtretung
+4.4. Erläutere jede Veränderung in der Veränderungsspalte so, dass Registergericht und späterer Erwerber den Vorgang der Vorliste zuordnen können.
 
-Nach § 40 Abs. 2 GmbHG hat der Notar, der die Abtretungsurkunde beurkundet oder beglaubigt hat, unverzüglich (spätestens innerhalb einer Woche) eine neue Gesellschafterliste beim Registergericht einzureichen. Der Notar haftet bei verspäteter Einreichung für Schäden.
+## 5. Zuständigkeit für die Einreichung
 
-Elektronische Einreichung über EGVP mit qualifizierter elektronischer Signatur (§ 12 HGB, § 40 Abs. 2 S. 3 GmbHG).
+5.1. Hat ein Notar an einer Veränderung nach GmbHG Paragraf 40 Absatz 2 mitgewirkt, reicht er nach Wirksamwerden der Veränderung unverzüglich die unterschriebene Liste ein und versieht sie mit der gesetzlich verlangten Bescheinigung.
 
-## Prüfprogramm
+5.2. Eine starre gesetzliche Wochenfrist darf nicht behauptet werden. „Unverzüglich“ verlangt eine fallbezogene Organisation ohne schuldhaftes Zögern; aufschiebende Bedingungen und Vollzugsnachweise sind zu dokumentieren.
 
-- Ist die Abtretung wirksam? Notarielle Form (§ 15 Abs. 3 GmbHG), Vollmachten geprüft?
-- Vinkulierung: Ist Zustimmung der Gesellschafterversammlung erforderlich (§ 15 Abs. 5 GmbHG)?
-- Treuhänderschaft: Wer ist wirtschaftlich Berechtigter? GwG-Konsequenz?
-- Kapitalerhöhung: Übernahmeerklärung beurkundet, Einzahlung nachgewiesen?
-- Einziehung: Satzungsgrundlage vorhanden, Abfindung geregelt, Einziehungsbeschluss wirksam?
-- Nennbeträge nach Änderung korrekt neu berechnet und summiert?
+5.3. In sonstigen Fällen trifft die Einreichungspflicht grundsätzlich die Geschäftsführer. Notarielle Mitwirkung, Registeranmeldung und bloße Vorbereitung dürfen nicht gleichgesetzt werden.
 
-## Typische Fallen
+## 6. Gutglaubens- und Streitkontrolle
 
-- Notar vergisst Listeneinreichungspflicht nach Abtretung → Gutglaubensrisiko für Käufer.
-- Liste zeigt noch alten Gesellschafter → wirksame Stimmrechte fraglich.
-- Kapitalerhöhungsbeträge falsch summiert → Registerrichter beanstandet Liste.
-- Einziehung ohne wirksame Satzungsgrundlage → Einziehung nichtig, Liste falsch.
-- Transparenzregister nicht aktualisiert nach Gesellschafterwechsel.
+6.1. Prüfe bei jeder Unrichtigkeit Beginn, Dauer und Zurechenbarkeit.
 
-## Kostenhinweise
+6.2. Ermittle, ob ein Widerspruch zugeordnet ist oder kurzfristig gesichert werden muss.
 
-Notar-Listeneinreichung: KV Nr. 21201 GNotKG – 0,3 Gebühr aus Nennbetrag der betroffenen Anteile. Mindestgebühr beachten.
+6.3. Trenne positive Kenntnis von grob fahrlässiger Unkenntnis und dokumentiere konkrete Warnsignale aus Urkunden, Datenraum und Korrespondenz.
 
-## Rechtsquellen
+6.4. Bezeichne die Folge der Liste nicht pauschal als Wirksamkeit oder Unwirksamkeit eines Gesellschafterbeschlusses. Leite vielmehr präzise her, wer gegenüber der Gesellschaft legitimiert war und welche gesonderten Beschlussmängel bestehen.
 
-- § 15 GmbHG: https://dejure.org/gesetze/GmbHG/15.html
-- § 16 GmbHG: https://dejure.org/gesetze/GmbHG/16.html
-- § 40 GmbHG: https://dejure.org/gesetze/GmbHG/40.html
-- § 34 GmbHG (Einziehung): https://dejure.org/gesetze/GmbHG/34.html
-- BGH zu § 16 GmbHG: https://www.bgh.de
-- GwG Transparenzregister: https://www.gesetze-im-internet.de/gwg_2017/
+## 7. Arbeitsprodukte
 
-## Output-Formate
+7.1. Einreichungsfähige Gesellschafterliste mit Veränderungsspalte und Bescheinigungsentwurf.
 
-- **Gesellschafterlisten-Muster** (ausfüllbar für konkrete GmbH)
-- **Vollzugscheckliste** (Abtretung / Kapitalerhöhung / Einziehung)
-- **Einreichungs-Fristnotiz** (Notar-Pflicht 1 Woche)
-- **GwG-Updatebogen** (Transparenzregister-Konsequenz)
-- **Red-Team** (Risiken bei fehlerhafter Liste)
+7.2. Vorher-nachher-Tabelle mit Anteil, Nennbetrag, Inhaber, Quote, Rechtsgrund und Wirksamkeitsdatum.
 
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+7.3. Vollzugsvermerk mit Bedingungseintritt, Einreichungszeitpunkt, elektronischem Übermittlungsnachweis und Wiedervorlage.
+
+7.4. Widerspruchs- und Risikovermerk bei streitiger Berechtigung.
+
+## 8. Amtliche Quellen
+
+- GmbHG Paragraf 16: https://www.gesetze-im-internet.de/gmbhg/__16.html
+- GmbHG Paragraf 40: https://www.gesetze-im-internet.de/gmbhg/__40.html
+- HGB Paragraf 12: https://www.gesetze-im-internet.de/hgb/__12.html

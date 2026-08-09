@@ -31,7 +31,7 @@ description: "Wenn es um Amtlicher BGB-BT-Normcheck in BGB BT Prüfer geht: ordn
 | Digitale Produkte | §§ 327 ff. BGB | Bereitstellungs- und Updateprüfung |
 | Kauf | §§ 433-479 BGB | Mängelrechte, Nacherfüllung, Rücktritt, Minderung, Schadensersatz |
 | Ware mit digitalen Elementen | §§ 475b, 475c, 476, 477 BGB | Update-, Beweislast- und Abweichungsvereinbarung |
-| Miete/Pacht | §§ 535 ff., 581 ff. BGB | Gebrauch, Mangel, Minderung, Kündigung, § 550 BGB |
+| Miete/Pacht | Paragraf 535 folgende, 550, 578 und 581 folgende BGB | Gebrauch, Mangel, Minderung, Kündigung sowie Form nach Mietgegenstand und Laufzeit |
 | Dienst/Behandlung | §§ 611, 611a, 630a ff. BGB | Dienstpflicht, Arbeitnehmerabgrenzung, Behandlungsvertrag |
 | Werk/Bau | §§ 631 ff. BGB | Abnahme, Mängelrechte, Kündigung, Vergütung |
 | Auftrag/Geschäftsbesorgung | §§ 662 ff., 675 ff. BGB | unentgeltlich/entgeltlich, Geschäftsbesorgung, Zahlungsschnittstelle |

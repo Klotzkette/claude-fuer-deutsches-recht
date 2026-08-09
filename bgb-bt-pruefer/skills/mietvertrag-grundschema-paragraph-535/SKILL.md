@@ -31,7 +31,7 @@ description: "Wenn es um Mietvertrag Grundschema Paragraf 535 BGB in BGB BT Prü
 
 ## Prüfraster
 
-1. Vertragsschluss: Formerfordernis (Schriftform bei mehr als 1 Jahr § 550 BGB), AGB-Einbeziehung
+1. Vertragsschluss: Bei Wohnraum Schriftform nach Paragraf 550 BGB; bei Grundstücks- und Gewerberaummiete Textform nach Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB; Artikel 229 Paragraf 70 EGBGB für ältere Vertragsketten prüfen; AGB-Einbeziehung gesondert untersuchen.
 2. Hauptpflichten des Vermieters: Gebrauchsüberlassung in vertragsgemäßem Zustand (§ 535 Abs. 1 BGB)
 3. Hauptpflichten des Mieters: Mietzahlung (§ 535 Abs. 2 BGB), pfleglicher Gebrauch
 4. Nebenkosten: Umlage nach Betriebskostenverordnung, formelle Anforderungen Betriebskostenabrechnung
@@ -43,7 +43,7 @@ description: "Wenn es um Mietvertrag Grundschema Paragraf 535 BGB in BGB BT Prü
 ## Fallstricke
 
 - Schönheitsreparaturklauseln sind häufig nach BGH-Rechtsprechung unwirksam; Prüfung im Einzelfall.
-- Formverstoß bei Schriftform (§ 550 BGB) führt zu unbefristetem Mietvertrag mit 1-Jahres-Kündigung.
+- Ein Formverstoß nach Paragraf 550 BGB führt nicht zur Nichtigkeit, sondern zur Behandlung als unbefristeter Vertrag; die Kündigung ist frühestens zum Ablauf eines Jahres nach Überlassung zulässig. Wohnraum- und Gewerberaumform nicht vermischen.
 - Betriebskostenabrechnung muss innerhalb von 12 Monaten nach Abrechnungszeitraum erfolgen (§ 556 Abs. 3 BGB).
 - Eigenbedarfskündigung muss konkrete Nutzungsabsicht nennen; Vorspiegelung begründet Schadensersatz.
 

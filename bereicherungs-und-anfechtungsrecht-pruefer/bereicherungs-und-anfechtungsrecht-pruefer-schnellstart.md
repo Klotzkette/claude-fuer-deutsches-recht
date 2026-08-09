@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
+# Bereicherungs und Anfechtungsrecht Prüfer — Schnellstart
 
-# Bereicherungs Und Anfechtungsrecht Prüfer — Schnellstart
+Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
 
 Ziel: Mechanisches Durchprüfen von Bereicherungsrecht Paragrafen 812 ff. BGB, AnfG und Insolvenzanfechtung Paragrafen 129-147 InsO. Mit System-Screening von Schuldnerakten, Paragraf 135 Gesellschafterdarlehen, Bargeschäft Paragraf 142 und Verteidigung des Anfechtungsgegners. Keine Rechtsberatung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -50,7 +50,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
 - Paragrafen 195 199 BGB — Regelmässige Verjährungsfrist 3 Jahre ab Kenntnis; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 888 890 ZPO — Vollstreckung aus Duldungsurteil; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 15 AnfG — Verjährung des Anfechtungsanspruchs (Verweis auf Paragrafen 195 ff. BGB); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 15 AnfG — Verjährung des Anfechtungsanspruchs; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

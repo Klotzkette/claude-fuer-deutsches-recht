@@ -40,7 +40,7 @@ description: "Wenn es um Erfolgshonorar Und Prozessfinanzierung Kammerantwort U 
 Konkret zu prüfen:
 
 - § 49b BRAO
-- § 4 RVG (Vergütungsvereinbarung)
+- Paragraf 3a RVG (Vergütungsvereinbarung)
 - § 14 RVG (Rahmengebühr)
 - BGH NJW 2017, 2336
 - § 73 BRAO (Aufgaben der Kammer)

@@ -1,44 +1,63 @@
 ---
 name: enteignung-uebernahme-und-entschaedigung
-description: "Wenn es um Enteignung, Übernahme und Entschädigung in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft unzumutbare denkmalrechtliche Eigentumsbelastungen, Ausgleich, Übernahme und Enteignung anhand des konkret geltenden Landesrechts und Artikel 14 GG. Liefert eine belegte Wirtschaftlichkeitsrechnung, eine abgestufte Antragsstrategie und einen prozessfesten Tatsachen- und Beweisplan."
 ---
 
-# Enteignung, Übernahme und Entschädigung
+# Enteignung, Übernahme und Entschädigung im Denkmalschutz
 
-## Drei Eingriffsfiguren im Überblick
+## 1. Direktstart
 
-1. **Inhalts- und Schrankenbestimmung mit Ausgleich**: Wird die Erhaltungspflicht im Einzelfall unzumutbar, sehen die meisten Landesgesetze einen Ausgleichsanspruch vor (finanzielle Hilfe, Verlängerung der Eintragungswirkung, denkmalverträgliche Nutzungsänderung).
-2. **Übernahmeanspruch**: Wenn die Eigentümerin das Denkmal wegen der Schutzpflichten wirtschaftlich nicht mehr halten kann, hat sie in den meisten Landesgesetzen einen Anspruch gegen das Land oder die Kommune auf Übernahme zu einem zumutbaren Preis.
-3. **Enteignung nach Art. 14 Abs. 3 GG**: Letzte Stufe; nur zulässig zur Wahrung des öffentlichen Interesses an der Erhaltung, durch oder aufgrund eines Gesetzes, mit Entschädigung nach dem Verkehrswert.
+Lies Bescheid, Denkmaleintragung, Nutzungs- und Sanierungskonzept, Kostenangebote, Förderbescheide, Ertragsdaten und Eigentumsnachweise zuerst. Liefere eine vorläufige Einordnung, ob noch eine zumutbare Nutzung, eine Genehmigungs- oder Ausnahmegestaltung, ein gesetzlicher Ausgleich, ein Übernahmeanspruch oder ein Enteignungsvorgang zu prüfen ist. Frage zunächst nur nach Bundesland und konkret angegriffener Maßnahme, wenn beides nicht aus der Akte hervorgeht.
 
-## Zumutbarkeitsprüfung
+## 2. Verfassungsrechtliche Ausgangslinie
 
-Maßgeblich ist die wirtschaftliche Vergleichsrechnung: Aufwand der Erhaltung gegenüber dem zumutbaren Eigenanteil und der erzielbaren Rendite einer denkmalverträglichen Nutzung. Sachverständigengutachten sind regelmäßig erforderlich. Anker ist BVerfGE 100 Seite 226 (Rheinland-Pfalz-Beschluss vom 02.03.1999) — vor Verwendung in der BVerfG-Entscheidungsdatenbank verifizieren.
+Denkmalschutzbestimmungen sind grundsätzlich Inhalts- und Schrankenbestimmungen des Eigentums nach Artikel 14 Absatz 1 Satz 2 GG. Eine Eigentumsbelastung wird nicht allein deshalb zur Enteignung, weil sie wirtschaftlich schwer wiegt. Zuerst ist zu prüfen, ob das konkrete Landesrecht durch Genehmigung, Ausnahme, Befreiung, Förderung, Ausgleich oder Übernahme eine unverhältnismäßige Belastung vermeidet.
 
-## Ablauf / Checkliste
+Artikel 14 Absatz 3 GG gilt nur für eine Enteignung zum Wohl der Allgemeinheit auf gesetzlicher Grundlage. Art und Ausmaß der Entschädigung müssen gesetzlich geregelt sein; ihre Höhe ist unter gerechter Abwägung der Interessen der Allgemeinheit und der Beteiligten zu bestimmen. Ein Verkehrswertautomatismus darf nicht behauptet werden.
 
-1. Eingriffsintensität feststellen (Veränderungssperre, vollständige Erhaltungspflicht, Untersagung der wirtschaftlichen Nutzung).
-2. Wirtschaftlichkeitsgutachten erstellen lassen.
-3. Ausgleichsregime des konkreten Landesgesetzes prüfen.
-4. Übernahmeanspruch geltend machen, wenn die Belastung dauerhaft unzumutbar ist.
-5. Enteignungsverfahren nur als letzte Option, regelmäßig durch die Behörde initiiert.
+## 3. Leitentscheidung
 
-## Mandantenkommunikation
+BVerfG, Beschluss vom 2. März 1999, 1 BvL 7/91, BVerfGE 100 Seite 226: Denkmalschutz muss die Belange des Eigentümers berücksichtigen. Wird eine bisher zulässige Nutzung ohne tragfähige Ausweichmöglichkeit ausgeschlossen und bleibt auch eine Veräußerung praktisch unmöglich, kann eine unverhältnismäßige Belastung vorliegen. Nutze die Entscheidung als verfassungsrechtlichen Maßstab; den konkreten Anspruch und den richtigen Adressaten liefert allein das einschlägige Landesrecht.
 
-Übernahme- und Entschädigungsverfahren sind langwierig; realistische Erwartungssteuerung gehört zur anwaltlichen Beratungspflicht.
+## 4. Landesrecht zuerst
 
-## Quellenpflicht
+1. Bestimme Bundesland, Gesetzesfassung und maßgeblichen Entscheidungszeitpunkt.
+2. Ermittle die genaue Eingriffsnorm und sämtliche gesetzlichen Korrektive: Genehmigung, Ausnahme, Befreiung, Zuschuß, Ausgleich, Entschädigung, Übernahme oder Enteignung.
+3. Prüfe Anspruchsberechtigten, Anspruchsgegner, Antragserfordernis, Frist, Zuständigkeit, Bewertungsmaßstab und Rechtsweg aus dem Normtext.
+4. Übertrage keine Übernahme- oder Entschädigungsregel eines anderen Landes. Auch Träger, Verfahren und Rechtsfolge unterscheiden sich.
+5. Prüfe daneben nur dann BauGB, Naturschutz- oder sonstiges Fachrecht, wenn der konkrete Eingriff hierauf beruht; fremde Ausgleichsregime sind kein Ersatz für eine fehlende denkmalrechtliche Anspruchsgrundlage.
 
-Normverweise und Rechtsprechungsanker werden vor Mandatsverwendung live in den amtlichen Datenbanken verifiziert; siehe references/zitierweise.md.
+## 5. Wirtschaftliche Zumutbarkeit
 
-## Ausgabeformat
+Baue eine nachvollziehbare Stichtagsrechnung mit mindestens folgenden Positionen:
 
-Strukturierte Stellungnahme in vollständigen Sätzen mit konkreten Norm-Ankern und klarem Bezug zum Mandatsbegehren.
+- denkmalbedingte und ohnehin erforderliche Erhaltungsaufwendungen getrennt;
+- belastbare Kostenangebote, Bauabschnitte, Preisstand und Risikozuschläge;
+- Fördermittel, Steuerbegünstigungen und sonstige Entlastungen nur, soweit rechtlich und tatsächlich erreichbar;
+- gegenwärtige und realistisch genehmigungsfähige Nutzungserträge;
+- Finanzierung, laufende Bewirtschaftung und Restwert;
+- eigene Erwerbsentscheidung und vorhersehbare Lasten, soweit nach Landesrecht oder Abwägung erheblich;
+- alternative denkmalverträgliche Nutzungen und nachweisbar gescheiterte Vermarktung.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+Jede Zahl erhält Datum, Quelle, Annahme und offene Beweisfrage. Ein Privatgutachten wird nicht als feststehende Tatsache behandelt; behördliche Gegenannahmen werden mit eigener Tatsachengrundlage und Rechenwirkung daneben gestellt.
+
+## 6. Verfahrensstrategie
+
+1. Sichere Bestandskraft, Vollziehung, laufende Erhaltungsanordnungen und drohende Substanzverluste.
+2. Formuliere das primäre Nutzungs- oder Genehmigungsziel und sachgerechte Hilfsanträge.
+3. Biete mildere Mittel mit Plan, Kosten und denkmalfachlicher Begründung an.
+4. Stelle den landesrechtlichen Ausgleichs- oder Übernahmeantrag nur mit genau bezeichneter Norm, vollständiger Wirtschaftlichkeitsrechnung und richtigem Adressaten.
+5. Trenne verwaltungsgerichtlichen Rechtsschutz gegen die Maßnahme von einem gegebenenfalls gesonderten Entschädigungsrechtsweg.
+6. Behandle eine Enteignung als eigenständigen hoheitlichen Vorgang; formuliere sie nicht als frei wählbare Ersatzleistung des Eigentümers.
+
+## 7. Beweisplan
+
+Erfasse Denkmaleigenschaft und Schutzumfang, Zustand und Ursachen, zulässige Nutzungen, Genehmigungshistorie, Sanierungsvarianten, Kosten, Förderfähigkeit, Ertrag, Finanzierbarkeit und Veräußerbarkeit. Ordne jedem Punkt Urkunde, Zeugen, sachverständige Frage, Ortstermin oder Behördenakte zu. Stelle bei divergierenden Gutachten die abweichenden Prämissen zeilenweise gegenüber.
+
+## 8. Lieferstücke
+
+- Kurzvermerk mit Landesnorm, verfassungsrechtlichem Maßstab und nächster Verfahrenshandlung;
+- Wirtschaftlichkeitsmatrix mit Quellen- und Variantenspalte;
+- Genehmigungs-, Ausgleichs- oder Übernahmeantrag mit Hilfsanträgen;
+- Klage- oder Eilantragsgerüst mit bestimmtem Antrag und Beweisangebot;
+- Mandantenbrief mit realistischer Verfahrens-, Kosten- und Zeitachse.

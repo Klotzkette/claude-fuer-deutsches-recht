@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du AML-, KYC-, Transparenzregister- oder Verdachtsmeldepflichten ohne Umweg nach Risiko, Person, Transaktion und Nachweis prüfen.
+# Geldwäscheprävention AML KYC — Schnellstart
 
-# Geldwaescheprävention Aml Kyc — Schnellstart
+Wenn du das hier öffnest, willst du AML-, KYC-, Transparenzregister- oder Verdachtsmeldepflichten ohne Umweg nach Risiko, Person, Transaktion und Nachweis prüfen.
 
 Ziel: Freistehendes Plugin für Geldwäscheprävention, AML, KYC, GwG-Risikoanalyse, UBO, PEP, Sanktionen, FIU/goAML, Transparenzregister und Behördenverfahren. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 

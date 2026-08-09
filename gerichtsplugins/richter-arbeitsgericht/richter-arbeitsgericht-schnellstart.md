@@ -1,8 +1,8 @@
-Wenn du das hier öffnest, willst du einen arbeitsrechtlichen Vorgang vom Vertragsschluss bis zur Trennung nach Frist, Form, Beteiligungsrechten und sofortigem Arbeitsprodukt ordnen.
-
 # Richter Arbeitsgericht — Schnellstart
 
-Ziel: Arbeitsgericht: Guetetermin Kammertermin Kündigungsschutzklage Zahlungsklage einstweilige Verfügung Beschlussverfahren Betriebsverfassung Streitwert mit Tenorvorschlag. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Wenn du das hier öffnest, willst du einen arbeitsrechtlichen Vorgang vom Vertragsschluss bis zur Trennung nach Frist, Form, Beteiligungsrechten und sofortigem Arbeitsprodukt ordnen.
+
+Ziel: Arbeitsgericht: Gütetermin Kammertermin Kündigungsschutzklage Zahlungsklage einstweilige Verfügung Beschlussverfahren Betriebsverfassung Streitwert mit Tenorvorschlag. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 

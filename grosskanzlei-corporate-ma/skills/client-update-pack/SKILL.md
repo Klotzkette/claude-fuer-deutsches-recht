@@ -1,19 +1,37 @@
 ---
 name: client-update-pack
-description: "Wenn es um Client Update Pack in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Verdichtet einen laufenden Unternehmenskauf für Mandant und Deal-Team zu einem entscheidungsfähigen Statusbericht: Meilensteine, offene Punkte, Wertwirkung, Verhandlungsposition, Freigaben, Verantwortliche und nächste Schritte werden aus den Arbeitssträngen konsistent zusammengeführt."
 ---
 
 # Client Update Pack
 
-## Fachlicher Anker
+## 1. Direktstart
 
-- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+Lies zuerst Issues List, Due-Diligence-Berichte, Verhandlungsstände, Kaufpreismodell, Freigaben, Signing- und Closing-Checklisten sowie den letzten Mandantenbericht. Liefere sofort einen aktualisierten Entscheidungsstand; frage nur nach Informationen, die Priorität, Preis, Haftung, Vollzug oder Terminplan verändern.
 
-## Fachkern: Client Update Pack
-- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
-- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
-- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
+## 2. Berichtsraster
+
+| Abschnitt | Pflichtinhalt |
+| --- | --- |
+| Executive Summary | Dealphase, Ziel, drei Entscheidungen, drei Hauptrisiken und Terminlage |
+| Economics | Kaufpreisbrücke, Leakage, Net Debt, Working Capital, Escrow und Wertwirkung offener Punkte |
+| Dokumentation | Stand von SPA, Gesellschaftervereinbarung, Finanzierungs- und Nebenverträgen mit letzter Änderung |
+| Due Diligence | rote und gelbe Befunde, Datenraumfund, Nachforderung und Abbildung in Preis, Garantie, Freistellung oder Covenant |
+| Regulatory und Gremien | Kartell-, Investitions- und Sanktionsprüfung, Organbeschlüsse, Mitbestimmung und Registervollzug nur soweit einschlägig |
+| Signing und Closing | Conditions Precedent, Consents, Deliverables, Owner, Fälligkeit, Nachweis und Eskalation |
+
+## 3. Arbeitsregeln
+
+1. Trenne bestätigte Tatsache, Annahme, offene Frage und Verhandlungsposition sichtbar.
+2. Übernimm keinen Status aus dem Vorbericht, ohne ihn gegen die aktuelle Issues List oder das aktuelle Dokument zu prüfen.
+3. Beziffere Wertwirkungen oder kennzeichne nachvollziehbar, warum eine Bezifferung noch nicht möglich ist.
+4. Benenne für jeden offenen Punkt einen verantwortlichen Bearbeiter, eine Gegenstelle, eine Frist und das erwartete Belegdokument.
+5. Stelle Widersprüche zwischen Due Diligence, Vertragsentwurf, Kaufpreismodell und Closing-Checkliste gesondert heraus.
+6. Verwende Normen nur dort, wo sie eine Entscheidung oder Vollzugshandlung steuern, etwa Paragrafen 15, 16, 40, 43 und 46 GmbHG, Paragrafen 76, 93 und 111 AktG sowie einschlägige Regeln aus GWB, AWG, AWV und UmwG.
+
+## 4. Ausgabe
+
+Liefere zwei Fassungen aus demselben Datenstand: eine höchstens zweiseitige Mandantenfassung mit klaren Entscheidungen und eine ausführliche Deal-Team-Fassung mit Fundstellen, Ownern und Abhängigkeiten. Schließe mit der Reihenfolge der nächsten fünf Handlungen und einem ausdrücklichen Hinweis auf jede Termin- oder Freigabekollision.
 
 ## Intake
 Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahiere die Antworten selbst und markiere nur echte Luecken.

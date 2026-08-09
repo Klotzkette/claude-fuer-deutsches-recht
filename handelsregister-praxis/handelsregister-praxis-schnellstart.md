@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
-
 # Handelsregister Praxis — Schnellstart
+
+Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
 
 Ziel: Praxisplugin für den Umgang mit dem Handelsregister: Anmeldung, Registergericht, Rechtspfleger, Registerrichter, Beanstandung, Zwischenverfügung, Beschwerde, Gesellschafterliste, Kapitalmaßnahmen, Firma, Vertretung, Prokura, Löschung, Insolvenzvermerk und registerfeste Nachweise. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -53,10 +53,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 8 HGB — Handelsregister; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 12 HGB — Anmeldungen und Einreichungen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 15 HGB — Publizität des Handelsregisters; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 29 HGB — Anmeldung des Kaufmanns; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

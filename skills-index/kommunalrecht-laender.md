@@ -1,6 +1,6 @@
 # kommunalrecht-laender
 
-**177 Skills** · Stand `v437.0.0`
+**177 Skills** · Stand `v438.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../kommunalrecht-laender/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

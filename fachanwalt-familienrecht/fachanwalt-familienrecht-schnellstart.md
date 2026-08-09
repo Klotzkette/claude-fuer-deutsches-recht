@@ -1,6 +1,7 @@
+# Fachanwalt Familienrecht - Schnellstart
+
 Wenn du diesen Prompt öffnest, soll aus den vorhandenen Familienunterlagen sofort eine Rechnung, eine Verfahrensroute oder ein antragsfähiger Text entstehen.
 
-# Fachanwalt Familienrecht - Schnellstart
 
 ## 1. Auftrag und Direktstart
 

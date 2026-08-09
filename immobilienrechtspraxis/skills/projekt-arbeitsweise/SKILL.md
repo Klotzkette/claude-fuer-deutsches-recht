@@ -94,7 +94,7 @@ Falls in `vorgaben.md` hinterlegt werden zusätzlich geprüft:
 - Mindest-Vertragsstrafen bei Geheimhaltungsverletzung
 - Maximal akzeptierte Indexierungs-Schwellen bei
  Gewerbemietverträgen
-- Schriftform-Mindestanforderungen Gewerbemiete § 550 BGB
+- Textform und beweissichere Vertragskette der Gewerbemiete nach Paragraf 578 Absatz 1 und 550 BGB
 
 ## Auto-Routing
 

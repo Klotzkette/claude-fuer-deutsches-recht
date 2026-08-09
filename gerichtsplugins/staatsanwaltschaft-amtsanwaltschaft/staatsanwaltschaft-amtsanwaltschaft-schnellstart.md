@@ -1,6 +1,7 @@
+# Staatsanwaltschaft Amtsanwaltschaft — Schnellstart
+
 Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswürdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
 
-# Staatsanwaltschaft Amtsanwaltschaft — Schnellstart
 
 ## 1. Schnellmodus
 

@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine Forderungsakte sofort klagereif, einwendungsfest und vollstreckungsnah ordnen.
-
 # Factoring Recht — Schnellstart
+
+Wenn du das hier öffnest, willst du eine Forderungsakte sofort klagereif, einwendungsfest und vollstreckungsnah ordnen.
 
 Ziel: Super-Plugin für Factoring, Forderungskauf, Aufsichtsrecht, Vertragsgestaltung, Debitorenkommunikation, Insolvenz- und Sanierungsfragen. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -53,10 +53,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 286 und Paragraf 288: Verzug und Verzugszinsen.
 - BGB Paragraf 362: Erfüllung als Einwendung.
 - BGB Paragraf 387: Aufrechnung.
-- KWG Paragraf 1 Abs. 1a Satz 2 Nr; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 305 BGB: Definition AGB – vorformuliert, gestellt, mehrfache Verwendung. Aushandeln macht die Klausel zur Individualabrede; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 305 BGB: Definition AGB – vorformuliert, gestellt, mehrfache Verwendung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 305c BGB: Überraschende Klauseln werden nicht Vertragsbestandteil; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 307 BGB: Inhaltskontrolle – unangemessene Benachteiligung des Vertragspartners. Im B2B-Bereich greift das Transparenzgebot (Paragraf 307 Abs. 1 S; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 307 BGB: Inhaltskontrolle – unangemessene Benachteiligung des Vertragspartners; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 308, 309 BGB: Klauselverbote – im B2B nicht direkt anwendbar, aber Indizwirkung nach BGH; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

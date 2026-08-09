@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du Sozialversicherungsstatus, Scheinselbständigkeit, Geschäftsführerstatus oder DRV-Beitragsrisiko sofort nach Gesamtbild und Belegen prüfen.
-
 # Sozialversicherungsstatus Prüfer — Schnellstart
+
+Wenn du das hier öffnest, willst du Sozialversicherungsstatus, Scheinselbständigkeit, Geschäftsführerstatus oder DRV-Beitragsrisiko sofort nach Gesamtbild und Belegen prüfen.
 
 Ziel: Sozialversicherungsstatus und DRV-Statusfeststellung: Geschäftsführer, Freelancer, Anwälte, Lehrkräfte, Musikschulen, Plattformarbeit und Scheinselbständigkeit. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 

@@ -7,7 +7,7 @@ description: "Wenn es um BSAG-Mietvertrag in Vertragsausfüller geht: prüft Fri
 
 ## Arbeitsbereich
 
-BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet Huckelriede liegt vor und muss in Mietvertragsvorlage übertragen werden. §§ 535 ff. BGB Mietvertrag, § 9 UStG Umsatzsteueroption, § 550 BGB Schriftformerfordernis. Prüfraster BSAG-Handelsregisterprüfung, Term Sheet vollständig Fläche Nutzungsart Miete Laufzeit, USt-Option Vorsteuerabzug, Konkurrenzschutzklausel. Output ausgefüllter BSAG-Mietvertragsentwurf mit Lückenmarkierung und Klauselentscheidungen. Abgrenzung zu allgemeinem Kommandocenter und zu Template-Erkennung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+BSAG-Kiosk-Mietvertrag ausfüllen: Das Term Sheet Huckelriede wird in die Mietvertragsvorlage übertragen. Prüfe Paragraf 535 folgende BGB, die Textform nach Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB, Paragraf 9 UStG, Vertretung, Fläche, Nutzungsart, Miete, Laufzeit, Umsatzsteueroption, Vorsteuerbezug und Konkurrenzschutz. Liefere einen ausgefüllten Entwurf mit Lückenmarkierung, Quellen je Feld und protokollierten Klauselentscheidungen.
 
 ## Arbeitsweg
 
@@ -27,10 +27,10 @@ BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet Huckelriede li
 ## Zentrale Normen
 
 - § 535, 536 BGB — Miete und Mängelgewährleistung
-- § 550 BGB — Schriftformerfordernis bei Mietdauer > 1 Jahr
-- § 578 BGB — Gewerbemietrecht (entsprechende Anwendung)
-- § 9 UStG — Option zur Umsatzsteuer (wichtig für BSAG-Mietvertrag)
-- § 305 ff. BGB — AGB-Kontrolle gewerblicher Klauseln
+- Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB — Textform bei einer Laufzeit von mehr als einem Jahr
+- Artikel 229 Paragraf 70 EGBGB — Übergangsrecht für vor dem 1. Januar 2025 entstandene Verträge
+- Paragraf 9 UStG — Option zur Umsatzsteuer
+- Paragraf 305 folgende BGB — AGB-Kontrolle gewerblicher Klauseln
 
 ## Startet bei
 

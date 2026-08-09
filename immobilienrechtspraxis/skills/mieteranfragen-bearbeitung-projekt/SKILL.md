@@ -75,7 +75,7 @@ Warnsiegel, weil Einzelfallbewertung zwingend ist:
 - Eigenbedarf mit Härteeinrede § 574 BGB
 - Mietminderung mit Schimmel und Streit über Ursache
 - Mietpreisbremse mit Bestandsschutz-Fragen
-- Gewerbemiete mit Schriftform-Risiko § 550 BGB
+- Gewerbemiete mit Textform- und Vertragskettenrisiko nach Paragraf 578 Absatz 1 und 550 BGB
 - Betriebskosten mit verweigerter Belegeinsicht, Zahlungsbelegen oder WEG-Datenlücken
 
 ## Beispielformulierungen

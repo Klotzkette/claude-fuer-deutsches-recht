@@ -1,9 +1,9 @@
 ---
 name: dienstaufsicht-beschwerde-organisationspflicht-und-praev
-description: "Wenn es um Dienstaufsicht Beschwerde Organisationspflicht Und Praev in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Bearbeitet eine Dienstaufsichtsbeschwerde gegen einen Notar oder die notarielle Stellungnahme hierzu: Amtspflicht, Urkunden- und Vollzugsakte, Zuständigkeit, Gehör, Entlastungsbelege, Organisationsmangel und Abhilfemaßnahme werden verfahrensfest geordnet."
 ---
 
-# Notare: dienstaufsicht beschwerde - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
+# Dienstaufsichtsbeschwerde gegen einen Notar
 
 ## Normenanker
 

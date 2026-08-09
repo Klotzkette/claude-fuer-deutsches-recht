@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswürdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
+# Verkehrs-OWi-Verteidiger — Schnellstart
 
-# Verkehrsowi Verteidiger — Schnellstart
+Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswürdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
 
 Ziel: Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -52,7 +52,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- Paragraf 24a Abs. 1a StVG — THC-Grenzwert 3.5 ng/ml im Blutserum (in Kraft seit 22.8.2024, BGBl. I 2024 Nr. 274); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 24a Abs. 1a StVG — THC-Grenzwert 3.5 ng/ml im Blutserum; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 316 StGB — Trunkenheitsfahrt: BAK ab 1.1 Promille (absolute Fahruntauglichkeit) oder ab 0.3 Promille mit Ausfallerscheinungen (relative Fahruntauglichkeit); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 315c StGB — Gefährdung des Strassenverkehrs unter Alkohol; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 81a StPO — Blutentnahme durch Arzt; richterlicher Anordnungsvorbehalt; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.

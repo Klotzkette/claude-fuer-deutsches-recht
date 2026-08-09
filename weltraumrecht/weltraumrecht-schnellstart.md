@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine Raumfahrtaktivität nach Staatenzurechnung, Genehmigung, Registrierung, Haftung, Frequenz, Vertrag und Störungsrisiko ordnen.
-
 # Weltraumrecht — Schnellstart
+
+Wenn du das hier öffnest, willst du eine Raumfahrtaktivität nach Staatenzurechnung, Genehmigung, Registrierung, Haftung, Frequenz, Vertrag und Störungsrisiko ordnen.
 
 Ziel: Großes Plugin für deutsches, europäisches und internationales Weltraumrecht: Raumfahrtverträge, Satelliten, Haftung, Weltraumbahnhof, Raketen, Raumstationen, Frequenzen, Exportkontrolle und Space Property. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -31,7 +31,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | Weltraumvertrag Artikel I und Artikel II; Weltraumvertrag Artikel VI; Weltraumvertrag Artikel VII und Artikel VIII |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-
+| Tatbestand | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden |
+| Beweislast | Anspruchsteller oder Staat für Gegenstand, Ereignis, Schaden und Kausalität; Betreiber und Startstaaten für Genehmigung, Aufsicht, Registrierung und Entlastung |
+| Rechtsfolge | Missionsrechtsmatrix, Genehmigungsfahrplan, Registermeldung, Haftungsmemo, Startvertragsklausel oder Frequenzvermerk |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
@@ -42,13 +45,13 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Registrierung und Kontrolle | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Haftung und Störung | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
+
 ## 6. Anker
 
 - Weltraumvertrag Artikel I und Artikel II: freie Erforschung und Nutzung sowie Verbot nationaler Aneignung.
 - Weltraumvertrag Artikel VI: internationale Verantwortung für staatliche und private Tätigkeiten sowie Genehmigung und fortlaufende Aufsicht.
 - Weltraumvertrag Artikel VII und Artikel VIII: Haftungsanknüpfung, Registrierung, Hoheitsgewalt, Kontrolle und Eigentum am Weltraumgegenstand.
 - Weltraumvertrag Artikel IX: Rücksichtnahme, Vermeidung schädlicher Kontamination und Konsultation bei potenziell schädlicher Störung.
-- BGB Paragraf 823, StPO Beweissicherung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

@@ -19,7 +19,7 @@ Skill für Beihilfeberechtigte mit schwerer chronischer Krankheit, die wegen hoh
 
 ## 2. Eingaben
 
-- Aerztliche Bescheinigung "schwerwiegend chronisch krank" nach Chroniker-Richtlinie
+- Ärztliche Bescheinigung "schwerwiegend chronisch krank" nach Chroniker-Richtlinie
 - Liste der laufenden Behandlungen und Medikamente
 - Jahresbeihilfeauswertung
 - Einkommen des Beihilfeberechtigten
@@ -29,9 +29,10 @@ Skill für Beihilfeberechtigte mit schwerer chronischer Krankheit, die wegen hoh
 ### a) Definition schwerwiegend chronisch krank
 - Definition orientiert sich an der Chroniker-Richtlinie des Gemeinsamen Bundesausschusses: regelmäßige Behandlung wegen derselben Krankheit über mindestens ein Jahr, mindestens einmal pro Quartal, mit bestimmten Schweregradkriterien.
 
-### b) Befreiung von Eigenbehalten
-- Reduzierung der Belastungsgrenze auf 1 v. H. der jaehrlichen Bruttoeinkuenfte (statt 2 v. H.).
-- Antrag bei der Beihilfestelle, jaehrlich.
+### b) Eigenbehalte und Belastungsgrenzen
+- Zuerst die konkret anwendbare Beihilfeverordnung von Bund oder Land bestimmen und deren Eigenbehalts-, Härtefall- und Befreiungsregeln prüfen.
+- Die Ein-Prozent-Belastungsgrenze für schwerwiegend chronisch Kranke aus dem Recht der gesetzlichen Krankenversicherung gilt nicht automatisch im Beihilferecht.
+- Beihilfe, private Krankenversicherung und gegebenenfalls Pflegeversicherung getrennt berechnen; Antrag, Nachweise und Jahresbezug nach der einschlägigen Verordnung bestimmen.
 
 ### c) Beihilfefaehigkeit von Therapien
 - Prüfung der Beihilfefaehigkeit von Heilbehandlungen, Heilmitteln, Hilfsmitteln, Verbrauchsmaterialien (z. B. Blutzuckermessgeraete, CGM-Sensoren).
@@ -51,12 +52,12 @@ Skill für Beihilfeberechtigte mit schwerer chronischer Krankheit, die wegen hoh
 ## 5. Ausgabeformat
 
 - Antrag auf Reduzierung der Belastungsgrenze.
-- Prüfraster Behandlung — Beihilfefaehigkeit — Eigenbehalt.
+- Prüfraster Behandlung — Beihilfefähigkeit — Eigenbehalt.
 
 ## 6. Verifizierte Quellenanker
 
 - BBhV; Chroniker-Richtlinie des Gemeinsamen Bundesausschusses (G-BA) vom 22.01.2004 in jeweils geltender Fassung.
-- SGB V (Belastungsgrenze und chronisch krank); SGB XI (Pflegebeduerftigkeit) ergaenzend zur Beihilfe.
+- SGB V und SGB XI nur für die jeweils einschlägige Kranken- oder Pflegeversicherungsfrage ergänzend heranziehen; keine automatische Übertragung auf das Beihilferecht.
 - Landesrechtliche Beihilfeverordnungen mit eigenen Eigenbehaltsregelungen.
 - BVerwG zur Eigenbehaltsbefreiung bei schwerwiegender chronischer Erkrankung — Az vor Zitat live verifizieren.
 

@@ -1,89 +1,78 @@
 ---
 name: 011-vollmacht-genehmigung-vollmachtloser-vertreter
-description: "Wenn es um Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertreter, Nachgenehmigung in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Vollmacht, Vertretungsmacht, Insichgeschäft und Nachgenehmigung im notariellen Vollzug; trennt materiell-rechtliche Formfreiheit, Nachweisform für Grundbuch oder Register und die Folgen vollmachtlosen Handelns."
 ---
 
-# Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertreter, Nachgenehmigung
+# Vollmacht, Vertreter ohne Vertretungsmacht und Genehmigung
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Urkundenentwurf, Vollmachtsurkunde, Registerauszug, Satzung, Widerrufserklärungen und Vollzugsauftrag. Liefere eine Vertretungsmatrix je Erklärung: Vertretener, Vertreter, Rechtsgrund, Umfang, Untervollmacht, Befreiung von BGB Paragraf 181, Fortbestand, materiell erforderliche Form und Nachweisform für den Vollzug.
 
-## Zweck und Anwendungsbereich
+## 2. Form und Nachweis nicht vermischen
 
-Vertretungsfragen sind in jedem notariellen Vorgang präsent. Strukturiere die Prüfung der Vollmacht, die Rechtsfolgen vollmachtlosen Handelns und die Möglichkeiten der Nachgenehmigung. Besonderer Fokus liegt auf der Formakzessorietät der Vollmacht und der Schwebeunwirksamkeit.
+2.1. Nach BGB Paragraf 167 Absatz 2 bedarf die Vollmacht grundsätzlich nicht der Form des Rechtsgeschäfts, auf das sie sich bezieht. Besondere Fallgruppen, insbesondere unwiderrufliche oder bereits rechtlich bindende Erwerbsvollmachten, sind gesondert zu prüfen.
 
-Rechtsgrundlagen: §§ 164–181 BGB (Vertretung), § 167 BGB (Vollmacht), § 168 BGB (Erlöschen), §§ 177–180 BGB (vollmachtloser Vertreter), § 182 BGB (Genehmigung), § 181 BGB (Insichgeschäft), § 12 BeurkG (Vollmacht im Beurkundungsverfahren), § 172 BGB (Vollmachtsurkunde), §§ 1629, 1643, 1819 BGB (gesetzliche Vertretung).
+2.2. BeurkG Paragraf 12 begründet keine allgemeine Pflicht zur öffentlichen Beglaubigung. Die Vorschrift behandelt die der Niederschrift beizufügenden Nachweise der Vertretungsberechtigung und die registergestützte notarielle Bescheinigung.
 
-## Formakzessorietät der Vollmacht
+2.3. Für den Grundbuchvollzug verlangt GBO Paragraf 29 die dort bestimmte Nachweisform. Für Registeranmeldungen sind die jeweilige Sachnorm und HGB Paragraf 12 zu prüfen. Materielle Wirksamkeit und verfahrensrechtliche Nachweisbarkeit können daher auseinanderfallen.
 
-Grundsatz: Vollmachten bedürfen grundsätzlich keiner Form (§ 167 Abs. 2 BGB). Ausnahmen:
-- Beurkundungspflichtige Geschäfte: Vollmacht muss nicht notariell beurkundet sein, aber → nach § 12 BeurkG muss sie in öffentlich beglaubigter Form vorliegen, wenn die Vollmacht nicht in der Urkunde selbst erteilt wird.
-- Grundbuch: § 29 GBO verlangt öffentlich beglaubigte Form für Vollmachten.
-- Handelsregister: § 12 HGB analog.
-- Widerrufsresistente Vollmacht bei Vorsorge: Beurkundung empfohlen (§ 1820 BGB n.F.).
+## 3. Vollmachtsprüfung
 
-## Vollmachtprüfungsprogramm
+| Prüfpunkt | Leitfrage | Beleg |
+| --- | --- | --- |
+| Erteilung | Wer hat wem wann welche Vertretungsmacht eingeräumt? | Urschrift, Ausfertigung oder beglaubigte Abschrift |
+| Umfang | Deckt der Wortlaut Geschäft, Nebenabreden, Belastung, Unterwerfung und Vollzug? | Vollmachtstext und Auslegungskontext |
+| Fortbestand | Ist die Vollmacht widerrufen, befristet oder an ein Grundverhältnis gebunden? | Widerruf, Grundvertrag, Zugangsnachweis |
+| Tod | Soll die Vollmacht über den Tod hinaus oder erst danach gelten? | Auslegung und Grundverhältnis; Tod beendet sie nicht automatisch |
+| Untervollmacht | Ist ihre Erteilung vom Umfang gedeckt? | Haupt- und Untervollmacht |
+| Insichgeschäft | Greift BGB Paragraf 181 und besteht eine wirksame Gestattung oder gesetzliche Ausnahme? | Vollmacht, Satzung, Beschluss |
 
-1. Ist die Vollmacht formell ordnungsgemäß (öffentlich beglaubigt, beurkundet)?
-2. Ist die Vollmacht inhaltlich ausreichend (Generalvollmacht oder spezielle Vollmacht für das konkrete Geschäft)?
-3. Ist die Vollmacht noch wirksam? (Widerruf nach § 168 BGB, Tod des Vollmachtgebers, Eintritt einer auflösenden Bedingung?)
-4. Erlaubt die Vollmacht das Insichgeschäft (§ 181 BGB)?
-5. Vertretungsmacht bei juristischen Personen: Registerauszug aktuell?
+## 4. Handeln ohne Vertretungsmacht
 
-## Vollmachtloser Vertreter (§ 177 BGB)
+4.1. Ein Vertrag ist nach BGB Paragraf 177 grundsätzlich bis zur Genehmigung schwebend unwirksam. Bei einseitigen Rechtsgeschäften gelten die besonderen Regeln des BGB Paragraf 180; sie dürfen nicht schematisch wie Verträge behandelt werden.
 
-Handelt jemand ohne Vertretungsmacht, ist der Vertrag schwebend unwirksam bis zur Genehmigung durch den Vertretenen. Das Registergericht und das Grundbuchamt akzeptieren schwebend unwirksame Erklärungen nicht. Der Notar muss die Genehmigung als Vollzugsvoraussetzung aufnehmen.
+4.2. BGB Paragraf 182 Absatz 2 bestimmt grundsätzlich, dass die Zustimmung nicht der für das Rechtsgeschäft bestimmten Form bedarf. Für Grundbuch, Register oder sonstigen Vollzug kann dennoch eine besondere Nachweisform nötig sein.
 
-**Genehmigung:**
-- Durch den Vertretenen selbst
-- Form der Genehmigung: bei formpflichtigen Rechtsgeschäften bedarf die Genehmigung der gleichen Form (str., BGH: Genehmigung kann formfrei erteilt werden wenn der Vertrag selbst bereits beurkundet ist – aber Praxis fordert häufig Beglaubigung zur Registersicherheit)
-- Genehmigung wirkt auf den Zeitpunkt des Vertragsschlusses zurück (§ 184 BGB)
+4.3. Die Genehmigung wirkt nach BGB Paragraf 184 Absatz 1 grundsätzlich auf den Zeitpunkt des Rechtsgeschäfts zurück. Prüfe Ausnahmen, Zwischenverfügungen, Fristen und Rechte Dritter, bevor diese Rückwirkung als vollständige Heilung bezeichnet wird.
 
-## Nachgenehmigung: praktische Abwicklung
+4.4. Der andere Teil kann den Vertretenen nach BGB Paragraf 177 Absatz 2 zur Erklärung auffordern; dadurch beginnt die gesetzliche Zweiwochenfrist. Bis zur Genehmigung können zudem Widerrufs- und Haftungsfragen nach BGB Paragrafen 178 und 179 entstehen.
 
-1. Notar dokumentiert, dass X ohne Vollmacht gehandelt hat.
-2. Fälligkeitsmitteilung wird zurückgehalten bis Genehmigung eingeht.
-3. Genehmigung wird beurkundet oder beglaubigt (für Grundbuch/HR: öffentlich beglaubigt).
-4. Genehmigung als Nachtragsurkunde oder separater Akt der Urkundenrolle.
-5. Erst nach Genehmigung: Vollzug, Kaufpreisfälligkeit, Registeranmeldung.
+## 5. Notarieller Vollzug
 
-## § 181 BGB (Insichgeschäft)
+5.1. Kennzeichne in der Niederschrift offen, dass Vertretungsmacht nicht nachgewiesen ist.
 
-Abschluss eines Rechtsgeschäfts mit sich selbst oder als Vertreter mehrerer Seiten ist verboten, es sei denn:
-- Vollmacht enthält ausdrückliche Gestattung
-- Geschäft ist lediglich rechtlich vorteilhaft (Schenkung an Minderjährigen)
-- Gesetz ordnet es an
+5.2. Formuliere die Genehmigung exakt zu Urkundenrolle, Datum, Erklärendem und genehmigten Erklärungen. Eine pauschale „Genehmigung aller Handlungen“ ist bei mehrgliedrigen Geschäften zu vermeiden.
 
-Praxisrelevanz: Alleingesellschafter-GF schließt Vertrag zwischen sich selbst und der GmbH; Notar muss § 181-Befreiung dokumentieren.
+5.3. Sperre Fälligkeitsmitteilung, Register- oder Grundbuchvollzug nur soweit die Genehmigung tatsächlich Voraussetzung ist. Dokumentiere Eingang, Identität, Formprüfung und Zuordnung zur Ursprungsurkunde.
 
-## Typische Fallen
+5.4. Prüfe, ob eine fristgebundene Erklärung durch spätere Genehmigung überhaupt noch rechtzeitig werden kann.
 
-- Generalvollmacht ohne ausdrückliche Befreiung von § 181 BGB → Insichgeschäft unwirksam.
-- Vollmacht erlischt mit Tod des Vollmachtgebers (§ 168 BGB) – keine Ausnahme für Postmortem-Vollmachten ohne entsprechende Klausel.
-- Genehmigung zu spät → Dritter zieht Bindungsangebot zurück (§ 177 Abs. 2 BGB).
-- Registergericht akzeptiert nur öffentlich beglaubigte Genehmigung, obwohl formfrei ausreichend wäre.
-- Untervollmacht ohne entsprechende Ermächtigung in der Hauptvollmacht.
+## 6. Typische Fehler
 
-## Rechtsquellen
+6.1. BeurkG Paragraf 12 wird als Formvorschrift für die Vollmacht behandelt.
 
-- §§ 164–181 BGB: https://dejure.org/gesetze/BGB/164.html
-- § 177 BGB: https://dejure.org/gesetze/BGB/177.html
-- § 181 BGB: https://dejure.org/gesetze/BGB/181.html
-- § 12 BeurkG: https://dejure.org/gesetze/BeurkG/12.html
-- BGH zur Vollmacht: https://www.bgh.de
-- BNotK Vollmachthinweise: https://www.bnotk.de
+6.2. Eine transmortale Vollmacht wird allein wegen des Todes als erloschen angesehen.
 
-## Output-Formate
+6.3. Die Genehmigung wird materiell für formunwirksam gehalten, obwohl nur der Vollzugsnachweis unzureichend ist.
 
-- **Vollmachts-Prüfcheckliste** (Form, Inhalt, Wirksamkeit)
-- **Genehmigungsmuster** (mit Rückwirkungsklarstellung)
-- **Vollzugscockpit-Eintrag** (Genehmigung als Fälligkeitsvoraussetzung)
-- **Mandantenmail** (Erläuterung Schwebezustand, nächste Schritte)
-- **Red-Team** (Risiken bei unvollständiger Vollmachtsprüfung)
+6.4. Eine Befreiung von BGB Paragraf 181 wird aus einer Generalvollmacht herausgelesen, obwohl der Wortlaut sie nicht trägt.
 
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+6.5. Vertrag, einseitiges Rechtsgeschäft und Registeranmeldung werden bei vollmachtlosem Handeln gleich behandelt.
+
+## 7. Arbeitsprodukte
+
+7.1. Vertretungsmatrix mit Ampel je Erklärung.
+
+7.2. Ausformulierte Nachgenehmigung mit passender Nachweisform.
+
+7.3. Zwischenverfügung oder Nachforderung mit genau bezeichnetem Mangel.
+
+7.4. Vollzugsvermerk mit Sperre, Frist, Verantwortlichem und Freigabekriterium.
+
+## 8. Amtliche Quellen
+
+- BGB Paragrafen 164 bis 184: https://www.gesetze-im-internet.de/bgb/
+- BeurkG Paragraf 12: https://www.gesetze-im-internet.de/beurkg/__12.html
+- GBO Paragraf 29: https://www.gesetze-im-internet.de/gbo/__29.html
+- HGB Paragraf 12: https://www.gesetze-im-internet.de/hgb/__12.html

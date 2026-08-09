@@ -1,82 +1,89 @@
 ---
 name: insolvenz-fluggesellschaft
-description: "Wenn es um Insolvenz Fluggesellschaft – Gläubigerrechte und Masseschutz in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Steuert die Insolvenz einer Fluggesellschaft aus Sicht von Leasinggeber, Passagier, Lieferant oder Verwalter; trennt Aussonderung, Masse, Insolvenzforderung, Betriebsgenehmigung und nur tatsächlich anwendbare internationale Sicherheiten."
 ---
 
-# Insolvenz Fluggesellschaft – Gläubigerrechte und Masseschutz
+# Insolvenz einer Fluggesellschaft
 
-## Arbeitsweg
+## 1. Sofortlage aufbauen
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: LuftVG; LuftSiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Insolvenzantrag, gerichtliche Anordnungen, Leasing- und Lieferverträge, Luftfahrzeugrolle, Pfandrechtsregister, Flugplan, Ticketbedingungen, Betriebsgenehmigung und Behördenkorrespondenz. Beginne mit einer Beteiligten- und Flugzeugmatrix, statt den Nutzer sämtliche Daten erneut abzufragen.
 
-## Mandantenfall
+| Position | Gegenstand | Rechtsstellung | Eilrisiko | Beleg | Sofortmaßnahme |
+| --- | --- | --- | --- | --- | --- |
+| Leasinggeber | Luftfahrzeug und Triebwerke | Eigentum, Aussonderung | Abflug, Wartung, Wertverlust | Vertrag, Register | Besitz und Standort sichern |
+| Sicherungsnehmer | Registerpfandrecht | Absonderung | Rang und Verwertung | Registerauszug | Rangprüfung |
+| Passagier | Ticket oder Erstattung | Insolvenz- oder Massebezug | Reise, Chargeback | Buchung, Zahlung | Ersatzbeförderung und Anmeldung prüfen |
+| Lieferant | offene und neue Leistung | Insolvenz- oder Masseforderung | Leistung ohne Deckung | Auftrag, Lieferschein | Leistung nur auf gesicherter Grundlage |
+| Behörde | Betriebsgenehmigung, AOC | Aufsicht | Einstellung oder Widerruf | Bescheid | Zuständigkeit und Frist prüfen |
 
-- Leasinggesellschaft hat 3 Flugzeuge an insolvente Airline vermietet; Insolvenzverwalter verweigert Herausgabe; IDERA hinterlegt.
-- Passagier hat bereits bezahlte Tickets; Airline insolvent; fragt ob Insolvenzforderung oder Masseforderung.
-- Zulieferer (Catering) hat offene Rechnungen; fragt nach Rang in Insolvenz.
+## 2. Verfahrensstand zuerst
 
-## Erste Schritte
+1. Gericht, Aktenzeichen, Antragsteller, Eingangsdatum und aktuelle Sicherungsmaßnahmen feststellen.
+2. Vorläufige Verwaltung nach Paragraf 21 InsO, Eröffnung nach Paragraf 27 InsO und Eigenverwaltung getrennt behandeln.
+3. Verfügungsbefugnis und Zustimmungsvorbehalte aus dem konkreten Beschluss entnehmen.
+4. Für jedes Luftfahrzeug Eigentum, Besitz, Standort, Wartungszustand, Triebwerkszuordnung und nächsten geplanten Flug dokumentieren.
+5. Behördenstatus nach der Verordnung EG 1008/2008, insbesondere Überwachung der finanziellen Leistungsfähigkeit, anhand aktueller Bescheide klären.
 
-1. Insolvenzantrag und Verfahrensstand prüfen: vorläufige Insolvenzverwaltung (§ 21 InsO) oder eröffnetes Verfahren (§ 27 InsO)?
-2. Leasingvertrag qualifizieren: echtes Leasing (Eigentum beim Leasinggeber) oder Finanzierungsleasing? Insolvenzverwalter kann nach §§ 103 108 InsO erfüllen oder ablehnen.
-3. Cape Town Convention: IDERA hinterlegt? Entregistrierung und Herausgabe auch in Insolvenz möglich (Art. XI Aircraft Protocol Alternative A).
-4. Passagierticket: Insolvenzforderung (§ 38 InsO) oder Masseforderung (§ 55 InsO) wenn Flug nach Insolvenzeröffnung angeboten.
-5. Slot-Frage: Slots nicht Massebestandteil; Flughafenkoordinator zieht Slots ein.
-6. Forderungsanmeldung: beim Insolvenzverwalter innerhalb gesetzter Frist; Formular Forderungsbetrag Rang.
+## 3. Gläubigerpositionen trennen
 
-## Rechtsrahmen
+### 3.1 Eigentum und Leasing
 
-- **InsO § 21 Abs. 2**: Vorläufige Insolvenzverwaltung; Verfügungsverbot.
-- **InsO § 47**: Aussonderungsrecht des Eigentümers (Leasinggeber).
-- **InsO § 50**: Absonderungsrecht des Pfandgläubigers.
-- **InsO §§ 103 108**: Wahlrecht bei gegenseitigen Verträgen; Dauerschuldverhältnisse.
-- **InsO § 55**: Masseverbindlichkeiten; Vorrang vor Insolvenzforderungen.
-- **Aircraft Protocol Art. XI Alternative A**: Automatische Herausgabepflicht in Insolvenz nach 60 Tagen.
-- **EuGH C-272/06**: Slots keine übertragbaren Vermögenswerte.
+- Eigentum des Leasinggebers kann ein Aussonderungsrecht nach Paragraf 47 InsO begründen; Eigentum, Individualisierung und Besitzlage müssen belegt sein.
+- Vertragliche Zahlungsansprüche sind von der dinglichen Herausgabeposition zu trennen.
+- Wahlrechte bei nicht vollständig erfüllten gegenseitigen Verträgen nach Paragraf 103 InsO und die Sonderregeln für fortdauernde Vertragsverhältnisse nur nach Vertragsqualifikation anwenden.
+- Nutzungsentschädigung, Wartungsreserven, Rückgabebedingungen und nach Eröffnung veranlasste Nutzung gesondert auf Massebezug nach Paragraf 55 InsO prüfen.
 
-## Prüfraster
+### 3.2 Registerpfandrecht
 
-1. Ist Insolvenzverfahren eröffnet oder noch vorläufige Verwaltung?
-2. Hat Leasinggeber Eigentumsrecht (§ 47 InsO Aussonderungsrecht)?
-3. Ist IDERA korrekt beim ICAO-Register hinterlegt?
-4. Hat Deutschland Alternative A des Aircraft Protocols erklärt?
-5. Ist Passagieranspruch Insolvenz- oder Masseforderung?
-6. Wurden Slot-Rückgabe und Betriebsgenehmigungsende an LBA gemeldet?
+- Nationales Registerpfandrecht nach LuftFzgG anhand aktuellen Auszugs des zuständigen Registers prüfen.
+- Absonderungsrecht nach Paragraf 50 InsO, Rang, Umfang, Nebenforderungen und Verwertungskosten getrennt ausweisen.
+- Luftfahrzeug, Triebwerk und Ersatzteil nicht ohne Prüfung als einheitlichen Haftungsgegenstand behandeln.
 
-## Typische Fallstricke
+### 3.3 Passagiere und Lieferanten
 
-- Leasinggeber meldet Forderung als Insolvenzgläubiger statt Aussonderung zu betreiben.
-- IDERA nicht hinterlegt; Cape-Town-Herausgaberecht entfällt.
-- Passagier meldet Forderung zu spät; Fristversäumnis.
-- Slot-Übertragung an Käufer versucht; scheitert nach EuGH C-272/06.
+- Vor Eröffnung begründete Erstattungs- und Schadensersatzforderungen regelmäßig als Insolvenzforderungen nach Paragraf 38 InsO prüfen; neue Verpflichtungen oder Leistungen nach Eröffnung auf Paragraf 55 InsO und konkrete Verwalterhandlung untersuchen.
+- Fluggastrechte, Erstattungsweg, Pauschalreisebezug, Kartenrückbelastung und Versicherungsdeckung als getrennte Anspruchswege erfassen.
+- Lieferanten dürfen bloße Fortführungsgespräche nicht als Massezusage behandeln. Bestellung, Vertretungsmacht, Zeitpunkt und Leistungsbezug dokumentieren.
 
-## Quellen
+## 4. Kapstadt-Regime nur nach Anwendungsprüfung
 
-- InsO: https://www.gesetze-im-internet.de/inso/
-- Cape Town Convention: https://www.unidroit.org/instruments/security-interests/aircraft-protocol/
-- EuGH Urteile: https://eur-lex.europa.eu
-- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
+Deutschland hat das Kapstadt-Übereinkommen und das Luftfahrzeugprotokoll am 17. September 2002 unterzeichnet, aber nach dem aktuellen UNIDROIT-Vertragsstaatenstatus nicht ratifiziert. Für einen rein deutschen Fall dürfen deshalb weder Alternative A noch IDERA- oder Registerwirkungen als unmittelbar geltendes deutsches Recht behauptet werden.
 
-## Hinweise für die Praxis
+Bei internationalem Bezug prüfe in dieser Reihenfolge:
 
-Dieser Skill deckt den Bereich Luftrecht ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
+1. Erfasst das Kollisions- und Anwendungsregime den konkreten Schuldner, Gegenstand und Vertragsstaat?
+2. Sind Übereinkommen und Luftfahrzeugprotokoll für den maßgeblichen Staat in Kraft?
+3. Welche Erklärungen hat dieser Staat abgegeben, insbesondere zu Artikel XI Alternative A oder B?
+4. Welche internationale Registrierung besteht tatsächlich im International Registry?
+5. Ist eine IDERA nach Artikel XIII des Protokolls bei der zuständigen nationalen Registerbehörde erfasst?
+6. Welche nationalen Insolvenz-, Register- und Vollstreckungsregeln bleiben daneben maßgeblich?
 
-- Insolvenzfrühzeichen bei Airline-Mandanten laufend beobachten; Bilanzkennzahlen IATA-Rating.
-- Antragspflicht nach InsO § 15a läuft ab Kenntnis von Zahlungsunfähigkeit; keine Verzögerung.
-- Aussonderungsrechte des Leasinggebers sofort nach Insolvenzantrag anmelden.
-- EU-VO 1008/2008 Art. 9: LBA hat eigene Pflicht zur Überwachung; kooperieren.
+Die Priorität internationaler Sicherungsrechte folgt grundsätzlich Artikel 29 des Übereinkommens und wird durch Artikel XIV des Luftfahrzeugprotokolls modifiziert. Artikel XII des Protokolls betrifft Insolvenzunterstützung, nicht die Prioritätsregel. Insolvenzfolgen stehen in Artikel 30 des Übereinkommens; Artikel XI des Protokolls greift nur nach den Voraussetzungen und Erklärungen des anwendbaren Regimes.
 
-### Dokumentationspflichten
+## 5. Betriebs- und Sicherungsplan
 
-Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzufordern:
+- Standorte und Schlüsselgewalt für Flugzeuge, Triebwerke, technische Unterlagen und Ersatzteile sichern.
+- Wartungsstatus, Lufttüchtigkeit, Versicherungsdeckung und behördliche Auflagen dokumentieren.
+- Keine Entregistrierung, Ausfuhr oder Besitzergreifung ohne Prüfung von Registerzuständigkeit, Besitzrecht, Sicherungsbeschluss und ausländischem Recht veranlassen.
+- Flugplanänderungen, Slot-Folgen und Betriebsgenehmigung als öffentlich-rechtliche Ebene führen; Slots nicht ungeprüft als frei übertragbaren Massewert ansetzen.
+- Forderungsanmeldung mit Rechtsgrund, Zeitraum, Belegen, Zinsen und gegebenenfalls Rang erstellen; Aussonderung und Absonderung nicht in einer bloßen Tabellenanmeldung verlieren.
 
-- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
-- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
-- Gültige Betriebsgenehmigung und AOC-Kopie
-- Leasingvertrag oder Eigentumsnachweis
-- Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+## 6. Arbeitsprodukte
+
+1. Insolvenz-Sofortvermerk mit Verfahrensstand, Zuständigkeiten und Maßnahmen für 24 Stunden, sieben Tage und 30 Tage.
+2. Flugzeugmatrix mit Eigentum, Registerrechten, Standort, Wartung, Versicherung und Herausgabestatus.
+3. Anspruchsmatrix für Aussonderung, Absonderung, Insolvenzforderung und Masseverbindlichkeit.
+4. Schreiben an Verwalter mit präzisem Herausgabe-, Sicherungs- oder Auskunftsbegehren und Belegindex.
+5. Forderungsanmeldung oder Massezahlungsverlangen mit sauberer zeitlicher Zuordnung.
+6. Internationales Statusmemo, das Vertragsstaat, Erklärungen und Registry-Befund mit Abrufdatum belegt.
+
+## 7. Schlusskontrolle
+
+- Sind vorläufiges und eröffnetes Verfahren richtig unterschieden?
+- Sind dingliche Position und Zahlungsforderung getrennt?
+- Ist jedes Luftfahrzeug samt Triebwerken eindeutig individualisiert?
+- Wurde das Kapstadt-Regime nicht allein wegen einer englischsprachigen Vertragsklausel unterstellt?
+- Ist Deutschlands fehlende Ratifikation berücksichtigt?
+- Sind Behörden-, Betriebs- und Insolvenzspur aufeinander abgestimmt?
+- Ist jeder vorgeschlagene Schritt durch aktuellen Beschluss, Registerauszug oder Originalvertrag gedeckt?

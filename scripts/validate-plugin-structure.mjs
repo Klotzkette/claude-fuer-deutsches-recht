@@ -21,6 +21,7 @@ function exists(file) {
 function walk(dir, predicate, out = []) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     if (entry.name === '.git') continue;
+    if (entry.name === '.venv') continue;
     if (entry.name === 'dist') continue;
     if (entry.name === 'node_modules') continue;
     if (entry.name === '__pycache__') continue;
@@ -142,6 +143,7 @@ function checkSkills() {
   ]);
   const skills = walk(root, f => path.basename(f) === 'SKILL.md');
   for (const skill of skills) {
+    const skillText = read(skill);
     const fm = parseFrontmatter(skill);
     if (!fm) continue;
     if (!topLevelField(fm, 'name')) errors.push(`${rel(skill)}: missing name`);
@@ -190,6 +192,11 @@ function checkSkills() {
       if (/\d\s*,\s*\d/.test(v)) {
         errors.push(`${rel(skill)}: description darf keine Zahl-Komma-Zahl-Sequenz enthalten (Cowork-Validator bricht); nutze 'Rn', 'und' oder '/'`);
       }
+    }
+    const bodyMatch = skillText.match(/^---\r?\n[\s\S]*?\r?\n---\r?\n([\s\S]*)$/);
+    const body = bodyMatch ? bodyMatch[1].trim() : '';
+    if (body.length < 300) {
+      errors.push(`${rel(skill)}: skill body is too short (${body.length} chars; minimum 300)`);
     }
   }
 }

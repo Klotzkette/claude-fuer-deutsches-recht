@@ -13,7 +13,7 @@ description: "Wenn es um Lizenz Patent (PatG) in Lizenzvertragsersteller geht: o
 - Paragrafen 33 ff. PatG - Anmeldung, Erteilungsverfahren DPMA
 - EPUe - Europaeisches Patentuebereinkommen; EPA-Patente
 - ArbnErfG - Arbeitnehmererfindergesetz; Paragraf 9 Vergütung Erfinder
-- VO (EU) Nr. 316/2014 (TT-GVO) - Technologietransfer-Gruppenfreistellung
+- Verordnung (EU) 2026/877 (TTBER) - seit 1. Mai 2026 geltende Technologietransfer-Gruppenfreistellung
 
 ## Lizenzformen
 

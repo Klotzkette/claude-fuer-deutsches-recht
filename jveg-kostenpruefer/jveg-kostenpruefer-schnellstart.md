@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine JVEG-Abrechnung fristgerecht, rechnerisch und belegfest prüfen oder gerichtlich festsetzen lassen.
-
 # JVEG Kostenprüfer — Schnellstart
+
+Wenn du das hier öffnest, willst du eine JVEG-Abrechnung fristgerecht, rechnerisch und belegfest prüfen oder gerichtlich festsetzen lassen.
 
 Ziel: Freistehender JVEG-Kostenprüfer für Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Sachverständigen- und Dolmetscherkosten, Fristen, Festsetzung, Beschwerde und belegfeste Rechenprotokolle. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 

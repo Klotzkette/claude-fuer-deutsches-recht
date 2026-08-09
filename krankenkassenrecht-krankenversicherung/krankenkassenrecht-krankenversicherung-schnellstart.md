@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du einen Sozialleistungsbescheid angreifen und den Anspruch durchsetzen.
-
 # Krankenkassenrecht Krankenversicherung — Schnellstart
+
+Wenn du das hier öffnest, willst du einen Sozialleistungsbescheid angreifen und den Anspruch durchsetzen.
 
 Ziel: Plugin für GKV, PKV, Beihilfe-Schnittstellen und Krankenversicherungsrecht: Leistungen, Beiträge, Krankengeld, Hilfsmittel, Widerspruch, MD, Versicherungsvertrag und Kostenerstattung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -32,7 +32,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | SGB I Paragraf 38 und Paragraf 40; SGB X Paragraf 20; SGB X Paragraf 24 |
 | Rechtsprechung | BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 |
-| Tatbestand | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen |
+| Tatbestand | Bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen |
 | Beweislast | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege |
 | Rechtsfolge | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -41,12 +41,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Bescheidlage | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leistungsrecht | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Medizin | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Krankenversicherung | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflege und Teilhabe | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eilrechtsschutz | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bescheidlage | Bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Leistungsrecht | Bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Medizin | Bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Krankenversicherung | Bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -54,10 +53,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - SGB X Paragraf 20: Amtsermittlung im Sozialverwaltungsverfahren.
 - SGB X Paragraf 24: Anhörung vor belastendem Verwaltungsakt.
 - SGG Paragraf 87: Klagefrist.
+- Paragraf 87 SGB IV – Aufsicht über Sozialversicherungsträger - Paragraf 88 SGB IV – Maßnahmen der Aufsichtsbehörde - Paragraf 89 SGB IV – Verpflichtungsklage gegen Aufsichtsbehörde; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 87 SGB IV – Aufsicht über Sozialversicherungsträger; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 88 SGB IV – Maßnahmen der Aufsichtsbehörde; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 89 SGB IV – Verpflichtungsklage gegen Aufsichtsbehörde; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 90 SGB IV – Schließung von Krankenkassen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

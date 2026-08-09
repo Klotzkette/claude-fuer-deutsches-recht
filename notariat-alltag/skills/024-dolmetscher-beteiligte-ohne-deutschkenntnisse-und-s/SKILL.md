@@ -1,98 +1,82 @@
 ---
 name: 024-dolmetscher-beteiligte-ohne-deutschkenntnisse-und-s
-description: "Wenn es um Notariat im Alltag: Dolmetscher, Beteiligte ohne Deutschkenntnisse, Sprachvermerk in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Steuert Beurkundungen mit sprachunkundigen Beteiligten nach Paragraf 16 BeurkG; trennt Sprachfeststellung, mündliche und schriftliche Übersetzung, Dolmetscherauswahl, Vereidigung, Niederschriftsvermerk und Unterschrift."
 ---
 
-# Notariat im Alltag: Dolmetscher, Beteiligte ohne Deutschkenntnisse, Sprachvermerk
+# Sprachunkundige Beteiligte und Dolmetscher
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Entwurf, Beteiligtenbogen, Sprachangaben, Vollmachten und vorhandene Übersetzungen. Stelle dann für jeden Beteiligten gesondert fest: Sprache der Niederschrift, tatsächliche Sprachkenntnis, gewünschte schriftliche Übersetzung, geeigneter Dolmetscher, Ausschlussgrund, Vereidigungsstatus und erforderlicher Urkundenvermerk.
 
-## Zweck und Anwendungsbereich
+Die bloße Fähigkeit zu Alltagsgesprächen genügt nicht, wenn der Beteiligte Tragweite, Belehrung und Rechtsfolgen der konkreten Urkunde nicht sicher versteht. Frage nicht nach einer Wunschlösung, sondern kläre Verständnissicherheit am konkreten Geschäft.
 
-Wenn Beteiligte die deutsche Sprache nicht ausreichend beherrschen, muss ein Dolmetscher hinzugezogen werden. Kläre die Anforderungen nach § 16 BeurkG, die Dolmetscherqualifikation, Sprachvermerke und die Möglichkeit zweisprachiger Beurkundungen.
+## 2. Normsystem des BeurkG Paragraf 16
 
-Rechtsgrundlagen: § 16 BeurkG (Behinderungen; Dolmetscher), § 17 BeurkG (Belehrung in verständlicher Weise), § 13 BeurkG (Vorlesen und Unterzeichnung), GwG § 10 (Identifizierung auch bei Sprachbarrieren), BGH-Rechtsprechung zu § 16 BeurkG.
+2.1. Absatz 1: Ist ein Beteiligter nach eigener Angabe oder nach Überzeugung des Notars der Sprache der Niederschrift nicht hinreichend kundig, soll diese Tatsache in der Niederschrift festgestellt werden.
 
-## § 16 BeurkG: Pflicht zum Dolmetscher
+2.2. Absatz 2: Die Niederschrift muss dem Beteiligten anstelle des Vorlesens übersetzt werden. Verlangt er es, soll zusätzlich eine schriftliche Übersetzung angefertigt, zur Durchsicht vorgelegt und der Niederschrift beigefügt werden. Der Notar soll auf dieses Recht hinweisen; Hinweis, Verlangen und Vorlage sind nachvollziehbar zu dokumentieren.
 
-Wenn ein Beteiligter der deutschen Sprache nicht hinreichend mächtig ist, muss ein Dolmetscher hinzugezogen werden (§ 16 Abs. 1 BeurkG). Der Dolmetscher übersetzt die Niederschrift mündlich in die Sprache des Beteiligten. Dies ist im Protokoll zu vermerken.
+2.3. Absatz 3: Übersetzt der Notar nicht selbst, muss ein Dolmetscher hinzugezogen werden. Für ihn gelten BeurkG Paragrafen 6 und 7 entsprechend. Ist er nicht allgemein im Sinne von GVG Paragraf 189 Absatz 2 beeidigt, soll der Notar ihn beeidigen, sofern nicht alle Beteiligten darauf verzichten. Vereidigung oder Verzicht gehören in den Vermerk; der Dolmetscher soll die Niederschrift unterschreiben.
 
-Ausnahme: Wenn der Notar selbst der fremden Sprache mächtig ist (§ 16 Abs. 3 BeurkG), kann er auf Dolmetscher verzichten – dann muss er die Urkunde entweder zweisprachig aufnehmen oder die Urkunde in der Fremdsprache niederschreiben und in beiden Sprachen verlesen.
+## 3. Ablaufmatrix
 
-## Dolmetscherqualifikation
+| Zeitpunkt | Prüfung | Dokumentation |
+| --- | --- | --- |
+| vor Termin | Sprache, Fachwortverständnis, Schriftkundigkeit und Übersetzungswunsch | Beteiligtenvermerk ohne Vorwegnahme der Feststellung im Termin |
+| Dolmetscherauswahl | Sprachkombination, Unabhängigkeit, Ausschlussgründe, allgemeine Beeidigung | Identitäts- und Qualifikationsnachweis |
+| Urkundstermin | Verständnissicherheit, Übersetzung des vollständigen Urkundentexts und der Belehrungen | Feststellungen in der Niederschrift |
+| vor Unterschrift | Änderungsstellen ebenfalls vollständig übersetzt | Änderungs- und Übersetzungsvermerk |
+| Abschluss | Unterschriften aller erforderlichen Personen | Dolmetscherunterschrift und Anlagenkontrolle |
 
-- **Vereidigter Dolmetscher:** Amtlich bestellt, höchste Verlässlichkeit; für wichtige Urkunden empfohlen.
-- **Nicht vereidigter Dolmetscher:** Zulässig, wenn der Notar von seiner Eignung überzeugt ist.
-- Der Dolmetscher unterschreibt die Niederschrift mit (§ 16 Abs. 1 S. 3 BeurkG).
-- Interessenkollision: Dolmetscher darf nicht Beteiligter oder Bevollmächtigter sein.
+## 4. Dolmetscherauswahl
 
-## Sprachvermerk in der Urkunde
+4.1. Prüfe die entsprechende Anwendung der Ausschlussregeln des BeurkG. Angehörigen-, Vertreter- oder Eigeninteressen dürfen nicht mit einem pauschalen Einverständnis überspielt werden.
 
-Die Urkunde muss einen Vermerk enthalten:
-- Name des Dolmetschers
-- Sprache, in die übersetzt wurde
-- Aussage, dass die Niederschrift vorgelesen und dem Beteiligten durch den Dolmetscher übersetzt wurde
-- Unterschrift des Dolmetschers
+4.2. Eine allgemeine Beeidigung erleichtert die Verfahrenssicherheit, ist aber nicht in jedem Fall zwingende Zulässigkeitsvoraussetzung. Fehlt sie, sind Vereidigung oder ein wirksamer Verzicht sämtlicher Beteiligter zu behandeln.
 
-Musterformulierung: „Die Niederschrift wurde dem Beteiligten X durch die Dolmetscherin Y in die russische Sprache übersetzt; die Dolmetscherin hat die Niederschrift mitunterzeichnet."
+4.3. Der Dolmetscher übersetzt; er ersetzt weder notarielle Belehrung noch rechtliche Beratung. Rückfragen des Beteiligten beantwortet der Notar, anschließend wird auch die Antwort übersetzt.
 
-## Zweisprachige Beurkundung
+## 5. Niederschriftsvermerk
 
-Bei häufig beurkundeten Sprachen (Englisch, Französisch, Spanisch) bietet sich eine zweisprachige Urkunde an. Beide Sprachfassungen stehen nebeneinander. Im Streitfall gilt die deutsche Fassung. Zweisprachige Urkunden sind registertauglich (ausländisches Register akzeptiert die Fremdsprachfassung).
+Der Entwurf muss mindestens erkennen lassen:
 
-## Notar spricht Fremdsprache (§ 16 Abs. 3 BeurkG)
+5.1. welcher Beteiligte welcher Sprache nicht hinreichend kundig ist;
 
-Ist der Notar der Fremdsprache hinreichend mächtig, kann er die Urkunde zweisprachig oder in der Fremdsprache errichten. Er muss dies in der Niederschrift vermerken.
+5.2. wer übersetzt hat und wie seine Identität festgestellt wurde;
 
-## Prüfprogramm
+5.3. in welche Sprache die Niederschrift übersetzt wurde;
 
-- Beherrscht der Beteiligte Deutsch ausreichend für die Belehrung nach § 17 BeurkG?
-- Liegt der Dolmetscher-Nachweis (vereidigt oder Eignung des Notars festgestellt) vor?
-- Ist der Sprachvermerk in der Urkunde enthalten?
-- Hat der Dolmetscher die Urkunde mit unterzeichnet?
-- GwG: Identifizierung auch durch Sprachbarriere nicht beeinträchtigt?
-- Zweisprachige Urkunde sinnvoll (ausländisches Register)?
+5.4. ob eine schriftliche Übersetzung verlangt, angefertigt, zur Durchsicht vorgelegt und beigefügt wurde;
 
-## Typische Fallen
+5.5. ob der Dolmetscher allgemein beeidigt war, im Termin beeidigt wurde oder alle Beteiligten auf die Beeidigung verzichtet haben;
 
-- Dolmetscher ist gleichzeitig Bevollmächtigter → Interessenkonflikt, unzulässig.
-- Sprachvermerk fehlt → formeller Mangel (§ 16 BeurkG), Anfechtbarkeit.
-- Notar verlässt sich auf rudimentäre Deutschkenntnisse des Beteiligten → unzureichende Belehrung.
-- Zweisprachige Urkunde ohne Vorrangregelung (deutsch vs. fremd) → Auslegungsstreit.
-- Dolmetscher unterschreibt nicht → formeller Fehler.
+5.6. dass auch Änderungen und Ergänzungen übersetzt und die erforderlichen Unterschriften geleistet wurden.
 
-## Rechtsquellen
+## 6. Qualitätskontrolle
 
-- § 16 BeurkG: https://dejure.org/gesetze/BeurkG/16.html
-- § 17 BeurkG: https://dejure.org/gesetze/BeurkG/17.html
-- § 13 BeurkG: https://dejure.org/gesetze/BeurkG/13.html
-- BGH zu § 16 BeurkG: https://www.bgh.de
-- BNotK Dolmetscher-Leitfaden: https://www.bnotk.de
+6.1. Keine automatische Annahme, eine zweisprachige Fassung sei in jedem ausländischen Register ohne weitere Übersetzung oder Beglaubigung verwendbar.
 
-## Output-Formate
+6.2. Keine Vorrangklausel zwischen Sprachfassungen einfügen, ohne Geschäftszweck und Auslegungsfolgen mit den Beteiligten zu klären.
 
-- **Dolmetscher-Checkliste** (Qualifikation, Vermerk, Unterschrift)
-- **Sprachvermerk-Muster** (für die Urkunde)
-- **Zweisprachige Urkunden-Struktur** (Formatvorlage)
-- **Mandantenhinweis** (Dolmetscher mitbringen oder Notar stellt ihn)
-- **GwG-Vermerk** (Identifizierung mit Dolmetscher)
+6.3. Sprachkundige Begleitpersonen nicht ungeprüft als Dolmetscher einsetzen.
 
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+6.4. Übersetzungspflicht und Recht auf schriftliche Übersetzung nicht vermischen.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+6.5. Bei Hör-, Sprech- oder Sehbehinderung zusätzlich die dafür geltenden Vorschriften des BeurkG prüfen; Sprachunkundigkeit ist davon zu trennen.
 
-## Kostenhinweise
+## 7. Arbeitsprodukte
 
-Der Dolmetscher ist keine notarielle Leistung; die Kosten trägt der Beteiligte direkt. Bei zweisprachiger Niederschrift durch den Notar selbst: erhöhte Komplexität rechtfertigt Ermessenserhöhung der Gebühr (§ 127 GNotKG). Keine gesonderte GNotKG-Gebühr für Sprachvermerk.
+7.1. Termincheckliste je Beteiligtem.
+
+7.2. Ausformulierter Sprach-, Übersetzungs-, Vereidigungs- und Unterschriftsvermerk.
+
+7.3. Auftrag an den Dolmetscher mit Urkundensprache, Termin, Vertraulichkeit, Interessenkonfliktabfrage und Unterlagenumfang.
+
+7.4. Mandantenhinweis zum Recht auf schriftliche Übersetzung und zu den mitzubringenden Identitätsnachweisen.
+
+## 8. Amtliche Quellen
+
+- BeurkG Paragraf 16: https://www.gesetze-im-internet.de/beurkg/__16.html
+- BeurkG Paragrafen 6 und 7: https://www.gesetze-im-internet.de/beurkg/
+- GVG Paragraf 189: https://www.gesetze-im-internet.de/gvg/__189.html

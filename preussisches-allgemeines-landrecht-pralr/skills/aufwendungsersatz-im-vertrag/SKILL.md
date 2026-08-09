@@ -1,6 +1,6 @@
 ---
 name: aufwendungsersatz-im-vertrag
-description: "Wenn es um Pralr Aufwendungsersatz Im Vertrag in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Erschließt den Aufwendungsersatz im Allgemeinen Landrecht für Auftrag, Verwahrung, Vormundschaft und Pfand; ordnet erforderliche Auslagen der historischen Vertrags- oder Amtsbeziehung zu und stellt die Regel mit gesicherter ALR-Fundstelle den heutigen Paragrafen 670 und 683 BGB gegenüber."
 ---
 
 # Pralr Aufwendungsersatz Im Vertrag

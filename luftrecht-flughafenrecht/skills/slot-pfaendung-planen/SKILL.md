@@ -35,7 +35,7 @@ VO EWG 95/93 EuGH C-272/06 ZPO InsO LuftVG §§ 27a-27d – die einschlägigen N
 - **LuftVG §§ 6 20 29 31 64**: Genehmigung Betrieb Register Aufsicht.
 - **LuftSiG §§ 7-9**: Zuverlässigkeitsüberprüfung Sicherheitsprogramme Aufsicht.
 - **EU-VO 1008/2008 Art. 3-9**: Betriebsgenehmigung finanzielle Leistungsfähigkeit Überwachung.
-- **Cape Town Convention Art. 2-16**: Internationale Sicherungsinteressen ICAO-Register.
+- **Kapstadt-Regime nur bei Anwendbarkeit**: Vertragsstaatenbezug und Erklärungen anhand des aktuellen UNIDROIT-Status prüfen; Deutschland hat Übereinkommen und Luftfahrzeugprotokoll nur unterzeichnet, nicht ratifiziert. Prioritäten folgen grundsätzlich Artikel 29 des Übereinkommens und Artikel XIV des Protokolls.
 - **LuftFzgG §§ 1-28**: Nationales Pfandrecht Vollstreckung AG Braunschweig.
 - **InsO §§ 15a 17-19 47 50**: Insolvenzantragspflicht Gläubigerrechte.
 - **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
@@ -48,7 +48,7 @@ VO EWG 95/93 EuGH C-272/06 ZPO InsO LuftVG §§ 27a-27d – die einschlägigen N
 1. Ist zuständige Behörde korrekt adressiert?
 2. Sind alle Register vollständig abgefragt?
 3. Laufen Fristen – sind alle gesichert?
-4. Besteht Cape-Town-Registrierung mit IDERA?
+4. Berührt der Fall einen Vertragsstaat, und bestehen internationale Registrierungen oder eine behördlich erfasste IDERA?
 5. Ist Insolvenzrisiko bewertet?
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist die 80/20-Nutzungsquote (VO EWG 95/93 Art. 8) im letzten IATA-Season eingehalten?
@@ -70,7 +70,7 @@ Die Pfändung eines Luftfahrzeugs erfordert besondere Vorbereitung:
 - **Standortermittlung**: Aktueller Flugplan (ATC) und Flughafenslotbelegung geben Aufschluss über Standort; Abstimmung mit Flughafenoperator nötig.
 - **Arrestantrag**: Zuständiges Gericht am Belegenheitsort; Arrestgrund glaubhaft machen.
 - **Betriebsunterbrechung**: Pfändung eines Linienflugzeugs löst Betriebsunterbrechung aus; Schadensersatz bei unberechtigtem Arrest.
-- **Cape Town Priorität**: Vor Pfändung ICAO-Register prüfen; vorrangige Sicherungsinteressen können Arrest verhindern.
+- **Internationale Sicherheiten**: Nur bei belegtem Vertragsstaatenbezug ein Search Certificate des International Registry auswerten; Rang, Rechtsbehelf und Wirkung im Vollstreckungsstaat gesondert prüfen.
 
 ## Quellen
 
@@ -97,7 +97,7 @@ Für Mandate im Bereich Slot-Koordination und Flughafenkapazität sind folgende 
 
 - Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
 - AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
+- Bei belegtem Vertragsstaatenbezug: aktuelles Search Certificate des International Registry und gegebenenfalls IDERA-Nachweis der nationalen Registerbehörde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz

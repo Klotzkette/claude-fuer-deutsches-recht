@@ -14,7 +14,7 @@ description: "Wenn es um Gewerberaum-Intake: Prüfungslinie für Miet- und WEG-R
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Gewerberaum-Intake: Prüfungslinie für Miet- und WEG-Recht; klärt Laufzeit, Schriftform, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+Fokus: Gewerberaum-Intake; klärt Laufzeit, aktuelle Textform nach Paragraf 578 und 550 BGB, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung mit Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 ### Gewerberaum-Intake
 

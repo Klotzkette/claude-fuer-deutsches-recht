@@ -1,122 +1,91 @@
 ---
 name: bildrechte-ki
-description: "Wenn es um Verl-018 · Bildrechte, Karten, Tabellen und Drittmaterial in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Klärt Bildrechte, Karten, Tabellen und Drittmaterial für Print, E-Book, Plattform und Werbung; baut eine belegte Rechtekette mit Schutzgegenstand, Rechteinhaber, Nutzungsart, Gebiet, Dauer, Quellenangabe und Freigabestatus."
 ---
 
-# Verl-018 · Bildrechte, Karten, Tabellen und Drittmaterial
+# Bildrechte, Karten, Tabellen und Drittmaterial
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Manuskript, Abbildungsverzeichnis, Dateien, Metadaten, Bildunterschriften, Lizenzbelege und Veröffentlichungskanäle. Erstelle sofort ein Rechteprotokoll je Objekt; frage nur nach fehlenden Angaben, die Schutz, Rechteinhaberschaft, Nutzungsumfang oder Freigabe tatsächlich ändern.
 
-## Zweck dieses Skills
+## 2. Rechteprotokoll
 
-Bücher enthalten häufig **Drittmaterial**: Fotografien, Illustrationen, Grafiken, Karten, Tabellen aus anderen Quellen, Kunstabbildungen und Zitate. Für jede dieser Materialarten gelten eigene Rechteregeln. Dieser Skill kartiert alle Materialtypen, die Anforderungen an Nutzungsrechtseinholung und die Haftungsrisiken bei Fehlern.
+| Feld | Konkrete Prüfung |
+| --- | --- |
+| Objekt | Dateiname, Abbildungsnummer, Werkart und Fundstelle im Manuskript |
+| Schutz | Lichtbildwerk, Lichtbild, Grafik, Karte, Datenbank, gemeinfreies visuelles Werk oder ungeschützte Tatsache |
+| Rechtekette | Urheber, Leistungsschutzberechtigter, Agentur, Lizenzgeber und Auftraggeber |
+| Nutzung | Print, E-Book, App, Webseite, Plattform, Werbung, Social Media, Bearbeitung und Übersetzung |
+| Reichweite | Gebiet, Sprache, Auflage, Dauer, Exklusivität und Unterlizenzierung |
+| Persönlichkeitsrecht | abgebildete Person, Einwilligung, Zweck und mögliche Ausnahme nach KUG |
+| Status | freigegeben, eingeschränkt, Nachforderung oder sperren |
 
-## Rechtsgrundlagen
+## 3. Normenanker
 
-| Norm | Inhalt | Quelle |
-|------|--------|-------|
-| UrhG § 2 Abs. 1 Nr. 4–6 | Schutz von Lichtbildwerken, Landkarten, Darstellungen | https://dejure.org/gesetze/UrhG/2.html |
-| UrhG § 51 | Zitatrecht: erlaubte Nutzung ohne Genehmigung | https://dejure.org/gesetze/UrhG/51.html |
-| UrhG § 60a | Bildungsnutzung: begrenzte Nutzung für Lehre | https://dejure.org/gesetze/UrhG/60a.html |
-| UrhG § 72 | Lichtbilder (ohne Schöpfungshöhe): Schutzfrist 50 Jahre | https://dejure.org/gesetze/UrhG/72.html |
-| UrhG § 64 | Urheberrechtsschutz: 70 Jahre nach Tod des Urhebers | https://dejure.org/gesetze/UrhG/64.html |
-| KUG § 22 | Recht am eigenen Bild | https://dejure.org/gesetze/KunstUrhG/22.html |
-| DSGVO Art. 4 Nr. 1 | Personenfoto als personenbezogenes Datum | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679 |
+3.1. UrhG Paragraf 2 erfasst unter anderem Lichtbildwerke, Werke der bildenden Kunst und Darstellungen wissenschaftlicher oder technischer Art.
 
-## Materialtypen und ihre rechtliche Behandlung
+3.2. UrhG Paragraf 31 steuert die Einräumung von Nutzungsrechten. Der Vertragszweck ersetzt keine präzise Prüfung der tatsächlich benötigten Nutzungsarten.
 
-### 1. Fotografien (Lichtbildwerke, § 2 Abs. 1 Nr. 5 UrhG)
-- **Schutz**: 70 Jahre nach Tod des Fotografen (§ 64 UrhG).
-- **Einfache Lichtbilder** (ohne Schöpfungshöhe, § 72 UrhG): Leistungsschutzrecht; Schutzfrist 50 Jahre ab Entstehung.
-- **Nutzungsrechtseinholung**: Schriftlicher Bildrechtevertrag; Nutzungsarten (Print, E-Book, Online, Werbung) exakt benennen.
-- **Bildagenturen**: Getty, iStock, Shutterstock bieten Lizenzen; RF (Royalty Free) vs. RM (Rights Managed) unterscheiden.
-- **Personenfoto**: Zusätzlich Einwilligung der abgebildeten Person (KUG § 22, DSGVO Art. 4 Nr. 1).
+3.3. UrhG Paragraf 51 erlaubt Zitate nur bei Zitatzweck und einem durch diesen Zweck gerechtfertigten Umfang. Ein Bild darf nicht bloß zur Illustration übernommen werden und anschließend als „Bildzitat“ etikettiert werden.
 
-### 2. Kunstabbildungen
-- Kunstwerke sind urheberrechtlich geschützt (70 Jahre post mortem).
-- **Museum / Galerie**: Eigenes Lichtbild-Leistungsschutzrecht an der Abbildung? (streitig nach EuGH, C-161/17 — „Preußischer Kulturbesitz"; BGH hat Leistungsschutzrecht für 2D-Abbildungen gemeinfreier Werke verneint).
-- Nutzungsrecht beim Fotograf (der das Kunstwerk fotografiert hat) oder beim Museum (vertragliche Vereinbarung).
+3.4. UrhG Paragraf 63 verlangt in den einschlägigen Schrankenfällen die gebotene Quellenangabe.
 
-### 3. Illustrationen und Grafiken
-- Schutz als Werke der bildenden Kunst oder angewandten Kunst.
-- Auftragswerke: Kein automatischer Rechteübergang; ausdrückliche schriftliche Einräumung nötig.
-- Infografiken, Diagramme: Können als Datenbankwerke (§ 4 UrhG) oder Schriftwerke schutzfähig sein.
+3.5. UrhG Paragraf 68 schließt verwandte Schutzrechte an Vervielfältigungen gemeinfreier visueller Werke aus. Bei älteren Freigaben ist deshalb zu prüfen, ob sie noch auf der vor 2021 ergangenen Linie zu Reproduktionsfotografien beruhen.
 
-### 4. Karten und kartografische Erzeugnisse
-- Karten genießen Urheberrechtsschutz (§ 2 Abs. 1 Nr. 7 UrhG) und ggf. Datenbankschutz (§ 87b UrhG).
-- Topografische Karten des BKG (Bundesamt für Kartographie): Lizenz erforderlich; Gebühren.
-- OpenStreetMap: CC BY-SA 2.0; Share-Alike kann bei Buchveröffentlichung problematisch sein.
-- Google Maps: Keine kommerzielle Nutzung ohne Lizenz.
+3.6. UrhG Paragraf 72 schützt sonstige Lichtbilder. Die Frist läuft fünfzig Jahre ab Erscheinen oder, wenn früher, ab der ersten erlaubten öffentlichen Wiedergabe; sind beide Ereignisse innerhalb von fünfzig Jahren nach Herstellung ausgeblieben, erlischt das Recht fünfzig Jahre nach Herstellung.
 
-### 5. Tabellen und Statistiken
-- Daten selbst sind nicht urheberrechtsfähig; Darstellung (Tabelle) kann als Datenbankwerk geschützt sein.
-- Amtliche Statistiken (Destatis, Eurostat): Häufig frei nutzbar mit Quellenangabe; Lizenzbedingungen prüfen.
-- Unternehmensstatistiken: Urheberrecht beim Unternehmen; Lizenz erforderlich.
+3.7. KUG Paragrafen 22 und 23 sowie das allgemeine Persönlichkeitsrecht sind bei erkennbaren Personen gesondert zu prüfen. Eine urheberrechtliche Lizenz ersetzt keine Einwilligung der abgebildeten Person.
 
-### 6. Zitate (§ 51 UrhG)
-- **Zitat aus Sprachwerk**: Zur Erläuterung, Belegung, Kritik; Umfang muss durch Zweck gerechtfertigt sein.
-- **Bildzitat**: Möglich, aber restriktiv; muss im Text inhaltlich behandelt werden.
-- **Musikzitat**: In Büchern über Musik zulässig; Notenzitate erfordern i.d.R. Verlagserlaubnis.
-- Grenze: Keine „Textzitate als Hauptinhalt"; keine Zitatensammlungen ohne Auseinandersetzung.
+3.8. Bei Karten, Sammlungen und umfangreichen Datenauszügen kommen UrhG Paragraf 4 und Paragrafen 87a bis 87e hinzu. Einzelne Fakten sind nicht schon deshalb geschützt, weil ein Unternehmen sie erhoben hat.
 
-## Praxis der Bildrechtsverwaltung
+## 4. Fallgruppen
 
-### Bildrechte-Protokoll
-Für jede Abbildung im Buch führen:
-- Abbildungsnummer / Bezeichnung
-- Urheber / Fotograf
-- Quelle / Bildagentur
-- Lizenzdatum und Vertragsreferenz
-- Lizenzierte Nutzungsarten
-- Gültigkeitsdauer der Lizenz
-- Honorar / Lizenzgebühr
+4.1. Fotografie: Trenne Werkqualität, Lichtbildschutz, Eigentum an der Datei und eingeräumte Nutzungsrechte.
 
-### Vertragliche Absicherung im Autorenvertrag
-- Klausel: „Der Autor sichert zu, dass alle im Manuskript verwendeten Abbildungen, Tabellen und Zitate entweder in seinen eigenen Rechten stehen oder mit gültigen Nutzungsrechten versehen sind. Der Autor stellt den Verlag von Ansprüchen Dritter frei."
-- Freistellungsklausel: Verlag kann Freistellungsanspruch gegen Autor geltend machen, wenn Bildrechts-Klage kommt.
+4.2. Gemeinfreies Kunstwerk: Prüfe UrhG Paragraf 68, einen möglichen eigenständigen Werkschutz der Reproduktion und vertragliche Aufnahmebeschränkungen des Museums. BGH, Urteil vom 20. Dezember 2018 - I ZR 104/17, Museumsfotos, ist wegen der späteren Gesetzesänderung nur mit ausgewiesenem Zeit- und Regelungskontext zu verwenden.
 
-## Verwaiste Werke (§ 79b UrhG)
+4.3. Online-Fund: EuGH, Urteil vom 7. August 2018 - C-161/17, Renckhoff, zeigt, dass das erneute Einstellen einer frei erreichbaren Fotografie auf einer anderen Webseite eine neue öffentliche Zugänglichmachung sein kann. „Im Internet gefunden“ ist kein Lizenzstatus.
 
-- **Verwaiste Werke**: Urheberrechtlich geschützte Werke, deren Rechteinhaber nicht ermittelbar oder auffindbar ist.
-- UrhG § 79b (seit 2014): Öffentliche Einrichtungen dürfen verwaiste Werke unter bestimmten Voraussetzungen (sorgfältige Suche, Registrierung beim EUIPO) nutzen.
-- Für Verlage: Keine direkte Ausnahme; Verlage können verwaiste Werke nicht ohne weiteres nutzen.
-- Empfehlung: Bei unbekanntem Rechteinhaber — Sorgfältige Suche dokumentieren, ggf. Treuhandkonto für Vergütung.
+4.4. Karte: Prüfe kartografischen Werkschutz, Datenbankrecht und die konkrete Datenlizenz. Bei OpenStreetMap-Daten ist die aktuelle Open Database License maßgeblich; frühere Hinweise auf CC BY-SA dürfen nicht ungeprüft fortgeschrieben werden.
 
-## Typische Fallen
+4.5. Tabelle oder Statistik: Trenne ungeschützte Daten, geschützte Auswahl oder Anordnung, Datenbankrecht und Gestaltung. Amtliche oder offene Daten sind nur nach den tatsächlich veröffentlichten Nutzungsbedingungen freizugeben.
 
-- **Bildrechte für Print, nicht für E-Book**: Lizenz nur für Printausgabe → E-Book ist Verletzung.
-- **Auftragsillustration ohne schriftliche Rechteeinräumung**: Mündliche Vereinbarung reicht nicht; UrhG § 31 verlangt keine Form, aber Beweis nötig.
-- **Veraltete Bildlizenz**: Lizenz für 1. Auflage; 2. Auflage benötigt neue Lizenz (je nach Vertrag).
-- **Personenfotos ohne Einwilligung**: DSGVO-Verstoß und KUG-Verletzung; insbesondere bei erkennbaren Personen in Reportage-Fotos.
-- **„Creative Commons" falsch verstanden**: CC BY-SA zwingt zur ShareAlike-Lizenzierung des Gesamtwerks → nicht für kommerzielle Bücher geeignet.
+4.6. Verwaistes Werk: UrhG Paragrafen 61 bis 61c eröffnen nur bestimmten privilegierten Einrichtungen und unter gesetzlichen Voraussetzungen Nutzungen nach sorgfältiger Suche. Für einen kommerziellen Verlag ist das kein allgemeiner Freibrief.
 
-## Checkliste Bildrechte
+## 5. Beweis- und Vertragsarbeit
 
-- [ ] Bildrechte-Protokoll für alle Abbildungen angelegt
-- [ ] Nutzungsarten (Print, E-Book, Online, Werbung) vollständig lizenziert
-- [ ] Personenfotos: Einwilligung der abgebildeten Personen (KUG, DSGVO) vorhanden
-- [ ] Autorenvertrag enthält Bildrechts-Freistellungsklausel
-- [ ] Creative-Commons-Abbildungen: Lizenztyp auf Kompatibilität geprüft
-- [ ] Neue Auflage: Bildlizenzen verlängert / erneuert
+5.1. Speichere Lizenztext, Rechnungsbeleg, Bestellzeitpunkt, Lizenzkonto, Originaldatei und Metadaten zusammen. Ein Bildschirmfoto ohne zugehörige Lizenzfassung beweist den Umfang selten zuverlässig.
 
-## Quellenreferenzen
+5.2. Formuliere Rechteklauseln nach Nutzungsart, Medium, Gebiet, Sprache, Dauer, Exklusivität, Bearbeitungsbefugnis, Werbung, Archivierung und Unterlizenzierung.
 
-- UrhG §§ 2, 51, 72: https://dejure.org/gesetze/UrhG/2.html
-- KUG § 22: https://dejure.org/gesetze/KunstUrhG/22.html
-- EuGH C-161/17 (Preußischer Kulturbesitz / Kunstabbildungen): https://eur-lex.europa.eu
-- BGH „Metall auf Metall" (Zitatrecht): https://www.bgh.de
-- Getty Images Lizenzmodelle: https://www.gettyimages.de
+5.3. Eine Freistellung ersetzt keine Rechteprüfung. Sie verteilt nur das wirtschaftliche Risiko und muss Kenntnis, Mitwirkung, Verteidigungsführung und Vergleichsabschluss regeln.
 
-## Output-Formate
+## 6. Qualitätskontrolle
 
-- **Bildrechte-Protokoll**: Tabelle aller Abbildungen mit Rechtsstatus
-- **Bildrechts-Lizenzvertrag-Muster**: Standardformular für Einzellizenzen
-- **Risikoampel**: Fehlende oder abgelaufene Lizenzen
-- **Freistellungsklausel** für Autorenvertrag
-- **Verwaiste-Werke-Suchprotokoll**
+6.1. Keine pauschale Schutzfrist „fünfzig Jahre ab Entstehung“ für Lichtbilder.
+
+6.2. Keine Behauptung, jede originalgetreue Reproduktion eines gemeinfreien visuellen Werks erzeuge weiterhin ein Leistungsschutzrecht.
+
+6.3. Keine automatische Freigabe wegen Quellenangabe, Suchmaschinenfund, Kauf der Datei oder Besitz des körperlichen Originals.
+
+6.4. Keine Annahme, Share-Alike erfasse stets das gesamte Buch; Lizenztext, Bearbeitung, Datenbank und konkrete Einbindung sind zu unterscheiden.
+
+6.5. Jede Freigabe nennt Quelle, Lizenzfassung, Nutzung und Belegfundstelle.
+
+## 7. Arbeitsprodukte
+
+7.1. Rechteprotokoll als Tabelle mit Ampel und Nachforderung.
+
+7.2. Lizenzanfrage mit vollständigem Nutzungskatalog.
+
+7.3. Rechteklausel für Autoren-, Illustratoren- oder Agenturvertrag.
+
+7.4. Sperrliste für Herstellung und Auslieferung.
+
+## 8. Amtliche Quellen
+
+- UrhG Paragrafen 2, 31, 51, 63, 68 und 72: https://www.gesetze-im-internet.de/urhg/
+- KUG Paragrafen 22 und 23: https://www.gesetze-im-internet.de/kunsturhg/
+- EuGH C-161/17: https://curia.europa.eu/juris/liste.jsf?num=C-161/17
+- BGH I ZR 104/17: https://juris.bundesgerichtshof.de/

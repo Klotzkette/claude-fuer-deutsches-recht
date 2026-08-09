@@ -36,10 +36,35 @@ def main() -> int:
             'Content-Type: text/plain; charset="utf-8"\n'
             "Content-Transfer-Encoding: 8bit\n\n"
             "Sehr geehrter Herr Müller,\n\n"
-            "bitte übersenden Sie die vollständige Übergabebestätigung.\n",
+            "zum Vorgang FR-184/26 benötige ich noch die vollständige "
+            "Übergabebestätigung vom 22. Juli 2026. Bitte übersenden Sie außerdem "
+            "die zwei bei der Übergabe aufgenommenen Fotografien und teilen Sie "
+            "mir mit, ob Frau Klein als Zeugin anwesend war. Die Unterlagen werden "
+            "für den Schriftsatz benötigt, dessen Frist am 3. August 2026 endet.\n\n"
+            "Mit freundlichen Grüßen\n"
+            "Rechtsanwältin Anna Falkenried\n",
             encoding="utf-8",
         )
         require(not V.eml_quality_errors(valid), "valide UTF-8-E-Mail muss bestehen")
+
+        too_short = root / "too-short.eml"
+        too_short.write_text(
+            valid.read_text(encoding="utf-8").replace(
+                "zum Vorgang FR-184/26 benötige ich noch die vollständige "
+                "Übergabebestätigung vom 22. Juli 2026. Bitte übersenden Sie außerdem "
+                "die zwei bei der Übergabe aufgenommenen Fotografien und teilen Sie "
+                "mir mit, ob Frau Klein als Zeugin anwesend war. Die Unterlagen werden "
+                "für den Schriftsatz benötigt, dessen Frist am 3. August 2026 endet.\n\n"
+                "Mit freundlichen Grüßen\n"
+                "Rechtsanwältin Anna Falkenried\n",
+                "Bitte senden Sie die Übergabebestätigung.\n",
+            ),
+            encoding="utf-8",
+        )
+        require(
+            any("zu knapp" in error for error in V.eml_quality_errors(too_short)),
+            "zu kurze E-Mail muss auffallen",
+        )
 
         missing_charset = root / "missing-charset.eml"
         missing_charset.write_text(

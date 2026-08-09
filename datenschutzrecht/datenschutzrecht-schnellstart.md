@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du einen Datenschutzverstoß bewerten und die richtige Reaktion gegenüber Aufsicht und Betroffenen aufsetzen.
-
 # Datenschutzrecht — Schnellstart
+
+Wenn du das hier öffnest, willst du einen Datenschutzverstoß bewerten und die richtige Reaktion gegenüber Aufsicht und Betroffenen aufsetzen.
 
 Ziel: Datenschutz-Grundverordnung/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidigung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -44,8 +44,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Informationspflichten, Betroffenenrechte und Fristen strukturieren | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Technische und organisatorische Maßnahmen sowie Auftragsverarbeitung | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenpanne, Aufsichtsverfahren | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AVV-Haftung und Risikoallokation – Art. 82 Datenschutz-Grundverordnung | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -53,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Datenschutz-Grundverordnung Artikel 6: Rechtmäßigkeit der Verarbeitung.
 - Datenschutz-Grundverordnung Artikel 12 bis Artikel 15: Transparenz, Auskunft und Kommunikation.
 - Datenschutz-Grundverordnung Artikel 28: Auftragsverarbeitung.
-- Paragraf 307, Paragraf 309 Nr. 7 BGB (AGB-rechtliche Schranken); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 257 HGB, Paragraf 147 AO, Paragraf 50 BDSG, Paragraf 11 BORA – steuer-, handels- und berufsrechtliche Aufbewahrungspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 257 HGB, Paragraf 147 AO: 10 Jahre, 6 Jahre; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 50 BDSG: bis Zweckerreichung beendet; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 82 Abs. 1 Datenschutz-Grundverordnung: Jeder, der wegen eines Verstoßes gegen die Datenschutz-Grundverordnung einen materiellen oder immateriellen Schaden erlitten hat, hat Anspruch auf Schadenersatz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 82 Abs. 2 Datenschutz-Grundverordnung: Verantwortlicher haftet für den Schaden, den eine seiner Verarbeitungen verursacht hat; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 82 Abs. 3 Datenschutz-Grundverordnung: Befreiung, wenn nachgewiesen wird, dass der Schaden in keiner Weise zu vertreten ist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 82 Abs. 4 Datenschutz-Grundverordnung: Gesamtschuldnerische Haftung mehrerer Verantwortlicher / Auftragsverarbeiter, wenn an demselben Verarbeitungsvorgang beteiligt; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

@@ -38,7 +38,7 @@ description: "Wenn es um Patentlizenzvertrag prüfen in patentrecht geht: ordnet
 ## Pflicht-Normen und Doktrinen
 - **§ 15 PatG:** Übertragung und Lizenz; Lizenz ist sukzessionsfest, wenn dinglich bestellt.
 - **VertikalGVO (EU) 2022/720 + Leitlinien:** Marktanteils-Sicherheitshafen 30 %; Kernbeschränkungen (RPM, Gebiete) bleiben verboten.
-- **TT-GVO (EU) 316/2014:** Gruppenfreistellung für Technologietransfer; Marktanteilsschwellen (20 % bei Wettbewerbern, 30 % bei Nichtwettbewerbern); Kernbeschränkungen Art. 4.
+- **TTBER (EU) 2026/877:** Seit 1. Mai 2026 geltende Gruppenfreistellung für Technologietransfer; kombinierter Marktanteil bis 20 Prozent bei Wettbewerbern und Marktanteil jeder Partei bis 30 Prozent bei Nichtwettbewerbern, jeweils mit gesonderter Prüfung von Kernbeschränkungen und ausgeschlossenen Klauseln.
 - **FRAND / SEP:** EuGH Huawei/ZTE, C-170/13, Urt. v. 16.07.2015 -- pflichtgemäßes Verhandlungsritual.
 - **Insolvenz des Lizenzgebers:** § 103 InsO Wahlrecht des Insolvenzverwalters; einfache Lizenz erlischt nicht zwingend, aber Risiko der Anfechtung. Schutz durch ausschließliche Lizenz mit Eintragung im DPMA-Register (§ 30 PatG); ggf. Treuhand.
 - **AGB-Recht / B2B:** §§ 305 ff. BGB greifen im B2B-Geschäft begrenzt, aber Inhaltskontrolle nach § 307 BGB bleibt; bei Massenverträgen Klauselrisiko.

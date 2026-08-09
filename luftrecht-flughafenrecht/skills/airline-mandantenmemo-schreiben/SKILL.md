@@ -23,7 +23,7 @@ description: "Wenn es um Airline – Mandantenmemo schreiben in Luftrecht und Fl
 
 1. Sachverhalt präzise strukturieren: Parteien Flugzeuge Behörden Fristen.
 2. Einschlägige Normen identifizieren: LuftVG EU-VO 1008/2008 Cape Town Convention InsO.
-3. Register prüfen: LBA-Luftfahrzeugrolle AG-Braunschweig-Pfandrechtsregister ICAO-Register.
+3. Register prüfen: LBA-Luftfahrzeugrolle AG-Braunschweig-Pfandrechtsregister International Registry.
 4. Zuständigkeit klären: LBA vs. Landesbehörde vs. Gericht vs. EASA.
 5. Fristen sichern: Widerspruch (1 Monat) Klage (1 Monat) Insolvenzantrag (3/6 Wochen).
 6. Ergebnis dokumentieren: Vermerk mit Ampel-Rating und nächsten Schritten.
@@ -33,7 +33,7 @@ description: "Wenn es um Airline – Mandantenmemo schreiben in Luftrecht und Fl
 - **EU-VO 1008/2008 Art. 9**: Laufende Überwachung Betriebsgenehmigung.
 - **LuftVG §§ 29-31**: Zuständigkeit LBA und Landesluftfahrtbehörden.
 - **LuftFzgG §§ 1-28**: Luftfahrzeugpfandrecht und Vollstreckung.
-- **Cape Town Convention Art. 2-10**: Internationale Sicherungsinteressen.
+- **Kapstadt-Regime nur bei Anwendbarkeit**: Vertragsstaatenbezug und Erklärungen anhand des aktuellen UNIDROIT-Status prüfen; Deutschland hat Übereinkommen und Luftfahrzeugprotokoll nur unterzeichnet, nicht ratifiziert. Prioritäten folgen grundsätzlich Artikel 29 des Übereinkommens und Artikel XIV des Protokolls.
 - **InsO §§ 15a 17-19 47 50**: Insolvenzantragspflicht und Gläubigerrechte.
 - **LuftSiG §§ 7-9**: Zuverlässigkeitsüberprüfung und Sicherheitsprogramme.
 - **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
@@ -46,7 +46,7 @@ description: "Wenn es um Airline – Mandantenmemo schreiben in Luftrecht und Fl
 1. Ist zuständige Behörde korrekt adressiert?
 2. Sind Register vollständig abgefragt (LBA AG Braunschweig ICAO)?
 3. Laufen Fristen; sind alle gesichert?
-4. Besteht Cape-Town-Registrierung mit IDERA?
+4. Berührt der Fall einen Vertragsstaat, und bestehen internationale Registrierungen oder eine behördlich erfasste IDERA?
 5. Ist Insolvenzrisiko bewertet und dokumentiert?
 6. Sind Sicherheitsauflagen bewertet und Widerspruch geprüft?
 7. Ist das AOC noch gültig und entspricht es dem aktuellen Streckennetz?
@@ -95,7 +95,7 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 
 - Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
 - AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
+- Bei belegtem Vertragsstaatenbezug: aktuelles Search Certificate des International Registry und gegebenenfalls IDERA-Nachweis der nationalen Registerbehörde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz

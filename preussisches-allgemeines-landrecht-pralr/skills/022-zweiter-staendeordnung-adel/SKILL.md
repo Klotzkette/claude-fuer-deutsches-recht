@@ -25,7 +25,7 @@ ALR II 7 - II 9 (Bauernstand, Buergerstand, Adel) ist eines der bekanntesten Bei
 - **ALR II 9 §§ 1 ff.** Adel: Stammgut, Familienfideikommiss, Adelsvorrechte, Gerichtsbarkeit der Patrimonialgerichte.
 
 ### Heutige Fortwirkung
-- Stein-Hardenbergsche Reformen ab 1807 (Oktoberedikt 06.10.1807) hoben die Gutsuntertaenigkeit auf — der bedeutendste Eingriff ins ALR.
+- Die Stein-Hardenbergschen Reformen setzten mit dem Oktoberedikt vom 9. Oktober 1807 bei Gutsuntertänigkeit und Grundeigentum an und veränderten die ständische Ordnung tiefgreifend.
 - Reichsdeputationshauptschluss 1803 und Wiener Kongress 1815 veraenderten die Adelsstruktur.
 - Art. 109 WRV (1919) und Art. 123 GG (1949) i.V.m. § 1 NamG haben Adelsvorrechte vollstaendig abgeschafft.
 - Adelsbezeichnungen gelten nach Artikel 109 Absatz 3 WRV nur als Teil des Namens und dürfen nicht mehr verliehen werden. Für einen heutigen Namensfall zusätzlich das aktuelle Namens- und Personenstandsrecht prüfen; kein historisches Standesrecht fortschreiben.

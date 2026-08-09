@@ -110,7 +110,7 @@ verifizierbarer Fundstelle vorliegen. Bei Unsicherheit Markierung
 - Mietkautionsrückforderung — angemessene Prüfungsfrist nach
  Auszug
 - Anfechtung WEG-Beschluss § 45 WEG — ein Monat ab Beschlussfassung
-- Schriftform Gewerbemietvertrag § 550 BGB bei Nachtraegen
+- Textform langfristiger Gewerberaummiete nach Paragraf 578 Absatz 1 und 550 BGB einschließlich Nachträgen und Übergangsrecht
 - Verjährung Mietminderung § 548 BGB — sechs Monate nach
  Rückgabe der Mietsache
 - Auskunftsverlangen Mietpreisbremse § 556g Abs. 3 BGB

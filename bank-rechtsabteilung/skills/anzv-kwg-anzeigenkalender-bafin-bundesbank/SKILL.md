@@ -22,7 +22,7 @@ Erstellt einen operativen Anzeigenkalender für KWG-Institute nach der Anzeigenv
 - **§ 24 Abs. 1a KWG** – Geschäftsführer-Änderungen bei Finanzholdings; Abs. 3a Finanzkonglomerate
 - **AnzV §§ 1–21** – Formvorschriften für jede Anzeigeart: § 4 Organpersonen, § 5 Beteiligungen, § 11 Millionenkredite (§ 14 KWG-Anzeige), § 13 Auslagerungen, § 21 Vergütungssystem
 - **§ 14 KWG** – Millionenkreditmeldung: Meldegrenze 1 Mio. Euro, vierteljährliche Meldung an Bundesbank, COREP-Schnittstelle
-- **§ 25h KWG** – Anzeigepflichten bei Geldwäscheverdacht; Zusammenspiel mit GwG §§ 43–48
+- **Paragraf 25h KWG** – interne Sicherungsmaßnahmen von Instituten; die Verdachtsmeldepflicht folgt aus Paragraf 43 GwG, das weitere Meldeverfahren aus Paragrafen 43 bis 48 GwG
 - **§ 2c KWG** – Inhaberkontrolle: Anzeige Erwerb (60-Werktage-Frist), Veräußerung, Überschreiten jeder Schwelle (10/20/30/50 %); InhKontrollV-Formulare
 - **AnzV § 11 i.V.m. § 14 KWG** – Millionenkreditregister; monatliche Meldung bei Überschreitung, Korrekturen bis zum 10. des Folgemonats
 - **Bundesbank FINREP/COREP** – aufsichtliche Finanz- und Eigenmittelmeldungen; Turnus quartalsweise, jährlich; XML-Schema EBA-XBRL

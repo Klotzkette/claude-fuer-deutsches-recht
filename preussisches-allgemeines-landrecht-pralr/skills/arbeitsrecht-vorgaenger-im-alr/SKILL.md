@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-vorgaenger-im-alr
-description: "Wenn es um Pralr Arbeitsrecht Vorgaenger Im Alr in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Arbeitsrecht Vorgaenger Im Alr; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Ordnet Gesinde, Tagelohn, Handlungsgehilfen und freie Berufe nach den einschlägigen Titeln des Allgemeinen Landrechts ein; trennt ständische Dienstverhältnisse, frühe Schutzgedanken und die spätere Sozialgesetzgebung und liefert eine quellenkritische Synopse zur heutigen Arbeitsrechtsdogmatik."
 ---
 
 # Pralr Arbeitsrecht Vorgaenger Im Alr

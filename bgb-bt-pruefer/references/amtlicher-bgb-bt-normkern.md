@@ -21,7 +21,7 @@ Dieser Referenzanker verdichtet die aktuelle XML-Fassung des BGB für den Besond
 | Kauf | §§ 433-479 BGB | Übergabe/Eigentum, Sachmangel, Rechtsmangel, Mängelrechte, Verbrauchsgüterkauf |
 | Waren mit digitalen Elementen | §§ 475b, 475c BGB | digitale Elemente, dauerhafte Bereitstellung, Updatepflicht, Beweislast |
 | Darlehen | §§ 488 ff. BGB | Auszahlung, Rückzahlung, Zins, Kündigung, Verbraucherregeln |
-| Miete/Pacht | §§ 535 ff., 581 ff. BGB | Gebrauchserhaltung, Mangel, Minderung, Kündigung, § 550 BGB |
+| Miete/Pacht | Paragraf 535 folgende, 550, 578 und 581 folgende BGB | Gebrauchserhaltung, Mangel, Minderung, Kündigung sowie Form nach Mietgegenstand und Laufzeit |
 | Dienst-/Arbeits-/Behandlung | §§ 611, 611a, 630a ff. BGB | Dienstleistung ohne Erfolg, persönliche Abhängigkeit, medizinische Behandlung |
 | Werk/Bau | §§ 631 ff. BGB | Erfolg, Abnahme, Fälligkeit, Mängelrechte, Kündigung |
 | Auftrag/Geschäftsbesorgung | §§ 662 ff., 675 ff. BGB | unentgeltliche/entgeltliche Geschäftsbesorgung, Zahlungsschnittstellen |

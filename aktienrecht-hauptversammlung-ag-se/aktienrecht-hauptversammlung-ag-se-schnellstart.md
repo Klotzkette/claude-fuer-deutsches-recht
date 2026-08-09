@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine Hauptversammlung der AG oder SE rechtssicher vorbereiten, durchführen, dokumentieren oder gegen Beschlussmängel absichern.
+# Aktienrecht Hauptversammlung AG SE — Schnellstart
 
-# Aktienrecht Hauptversammlung AG Se — Schnellstart
+Wenn du das hier öffnest, willst du eine Hauptversammlung der AG oder SE rechtssicher vorbereiten, durchführen, dokumentieren oder gegen Beschlussmängel absichern.
 
 Ziel: Hauptversammlungs-Vorbereiter, Leitfaden-Ersteller und Durchführungsplugin für kleine AG, normale AG, börsennotierte AG und SE: Einberufung, Tagesordnung, virtuelle HV, Q&A, Abstimmung, Niederschrift, Anfechtungsrisiko und Post-HV. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -57,10 +57,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker AktG Paragraf 118 und Paragraf 118a; AktG Paragraf 121 bis Paragraf 125 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Gesellschaft und Versammlungsart konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Die Gesellschaft belegt Einberufung, Bekanntmachung, Anmeldung, Teilnahmeprüfung, Auskunft, Abstimmung und Niederschrift; der Anfechtungskläger bezeichnet Verstoß, Anfechtungsbefugnis, Widerspruch und Klagefrist; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei sind einberufungsbeschluss, bekanntmachung, tagesordnung und nachweisregime vollständig und rechtzeitig an.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei einberufungsbeschluss, bekanntmachung, tagesordnung und nachweisregime vollständig und rechtzeitig an.
 7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Einberufungsunterlage, HV-Fristenblatt, Q&A-Katalog, Beschluss, Niederschrift, Anfechtungsprüfung, Freigabe oder Registervollzug ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein HV-Fristenblatt: Maßnahme, Norm, Stichtag, Rückrechnung, Verantwortlicher, Nachweis, Freigabe und Eskalation; Q&A-Blatt: Frage, Tagesordnungspunkt, Erforderlichkeit, Tatsachenquelle, Antwort, Verweigerungsgrund, Nachfassfrage und Protokollvermerk. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn einberufungs-, nachweis-, ergänzungs-, gegenantrags-, anfecht
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn einberufungs-, nachweis-, ergänzungs-, gegenantrags-, anfechtungs

@@ -41,7 +41,7 @@ Eingaben:
 
 - **§ 12a ApoG:** Versorgungsvertrag — Schriftform, Anzeige Landesaufsicht, Anforderungen an Inhalt.
 - **§ 35 ApBetrO und Anlage:** Pflichten der versorgenden Apotheke (Medikationsmanagement, Beratung, Notdienst, regelmässige Visiten).
-- **§ 33 SGB XI:** Pflegeheimbetreuung.
+- **Paragraf 12a ApoG:** Heimversorgungsvertrag, behördliche Genehmigung und ordnungsgemäße Versorgung der Heimbewohner.
 - **§ 11 ApoG:** Zuweisungsverbot Arzt-Apotheke; analog auch im Verhältnis Heim-Apotheke.
 - **§§ 299a, 299b StGB:** Antikorruption.
 - **§ 7 HWG:** Zuwendungsverbot.

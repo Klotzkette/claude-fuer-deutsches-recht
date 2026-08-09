@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du einen Kartell-, Marktmacht-, Fusions- oder Schadensersatzfall sofort nach Markt, Verhalten, Beweis und Risiko strukturieren.
-
 # Kartellrecht Marktabgrenzung Prüfung — Schnellstart
+
+Wenn du das hier öffnest, willst du einen Kartell-, Marktmacht-, Fusions- oder Schadensersatzfall sofort nach Markt, Verhalten, Beweis und Risiko strukturieren.
 
 Ziel: Globales Kartellrecht/Competition Law: GWB, Art 101/102 AEUV, Fusionskontrolle, BKartA, DG Competition, FTC/DOJ, ICN-Jurisdiktionen, Dawn Raids, Marktabgrenzung, Missbrauch, Private Enforcement. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -52,9 +52,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - GWB Paragraf 18 bis Paragraf 20: Marktbeherrschung, relative Marktmacht und Missbrauch.
 - GWB Paragraf 33a: Schadensersatz wegen Kartellrechtsverstoßes.
 - GWB Paragraf 81: Bußgeldvorschriften.
-- Paragraf 18 GWB (in der Fassung der GWB-Novelle 2021) enthält folgende Prüfungsebenen:; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1 GWB Kartellverbot nationale Prüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 19a GWB überragende marktübergreifende Bedeutung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 18 GWB (in der Fassung der GWB-Novelle 2021) enthält folgende Prüfungsebenen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1 GWB Kartellverbot nationale Prüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 19a GWB überragende marktübergreifende Bedeutung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 04.06.2009 - C-8/08: T-Mobile Netherlands behandelt den Wettbewerbszweck abgestimmter Verhaltensweisen.
 
 ## 7. Antwortform

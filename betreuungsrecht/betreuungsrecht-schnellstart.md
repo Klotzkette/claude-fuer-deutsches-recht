@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine Betreuungssache nach Erforderlichkeit, Aufgabenbereich, Wunsch, Genehmigung, Vermögensschutz und Gerichtsschritt ordnen.
-
 # Betreuungsrecht — Schnellstart
+
+Wenn du das hier öffnest, willst du eine Betreuungssache nach Erforderlichkeit, Aufgabenbereich, Wunsch, Genehmigung, Vermögensschutz und Gerichtsschritt ordnen.
 
 Ziel: Betreuungsrechtliche Skills für ehrenamtliche Familienbetreuer, Berufs- und Vereinsbetreuer: Kaltstart, Scan-Akte, Kalender, Gerichtskommunikation, Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Wunschermittlung, Kontoanalyse und Schutzplan nach BtOG und BGB. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 

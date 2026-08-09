@@ -1,39 +1,42 @@
 ---
 name: amtsgericht-sonderfall-und-edge-case
-description: "Wenn es um Amtsgericht: Sonderfall und Edge-Case-Prüfung in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Beherrscht mietrechtliche Sonderlagen vor dem Amtsgericht, insbesondere Parteiwechsel, Räumung mit Zahlung, unbekannte Bewohner, Zustellungsprobleme, Widerklage, Aufrechnung und Vollstreckung; liefert eine prozessfeste Weichenstellung mit Entwurf."
 ---
 
-# Amtsgericht: Sonderfall und Edge-Case-Prüfung
+# Amtsgerichtliche Sonderlagen im Mietprozess
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies die vorhandene Gerichts- und Vertragsakte zuerst. Gib binnen eines Arbeitsgangs eine Prozessweiche aus: zuständiges Gericht, richtige Parteien, statthafte Anträge, Zustellungsweg, kritische Frist, Beweisproblem und nächster Schriftsatz. Rückfragen sind auf die zwei Punkte zu begrenzen, ohne die ein Antrag unbestimmt oder gegen den falschen Gegner gerichtet wäre.
 
-## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Amtsgericht: Sonderfall und Edge-Case-Prüfung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
-- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## 2. Sonderlagenmatrix
 
-## Spezialwissen: Amtsgericht: Sonderfall und Edge-Case-Prüfung
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+| Sonderlage | Sofortprüfung | Arbeitsprodukt |
+| --- | --- | --- |
+| Mitbewohner oder Untermieter unbekannt | Besitzlage, Räumungsschuldner, ladungsfähige Anschrift, Titelreichweite | Parteien- und Besitzmatrix |
+| Eigentümer- oder Vermieterwechsel | Aktivlegitimation, Paragraf 566 BGB, Abtretung, Grundbuch- und Übergabedatum | Legitimationsvermerk |
+| Räumung und Zahlung verbunden | Wohnraumzuständigkeit, Anspruchszeiträume, Nutzungsentschädigung, Teilklage | bezifferte Antragsfassung |
+| Aufrechnung oder Widerklage | Konnexität, Bestimmtheit, Fälligkeit, Belege, Streitwert | Erwiderungs- und Rechenbaustein |
+| Zugang oder Zustellung streitig | Zugangsnachweis, Ersatzzustellung, öffentliche Zustellung nur als letzter Weg | Beweis- und Zustellungsplan |
+| Vollstreckung nach Räumungstitel | Titel gegen Besitzer, Berliner Räumung, Vollstreckungsschutz, Verwahrung | Vollstreckungsauftrag und Kostenplan |
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## 3. Prüfablauf
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Ordne Wohnraum, Geschäftsraum oder Wohnungseigentum zu und bestimme die Zuständigkeit.
+2. Gleiche Vertragspartei, Eigentümer, Besitzer, Abtretung und Prozesspartei mit Urkunden und Meldedaten ab.
+3. Formuliere Haupt- und Hilfsanträge, ohne Räumung, Herausgabe, Zahlung und Duldung zu vermengen.
+4. Baue eine Zeitachse aus Vertrag, Pflichtverletzung, Abmahnung, Kündigung, Zugang, Schonfrist und Rechtshängigkeit.
+5. Verknüpfe jede streitige Tatsache mit Beweisangebot und Anlage; benenne sekundäre Darlegungslast nur, wenn ihre Voraussetzungen dargelegt sind.
+6. Prüfe Kosten, vorläufige Vollstreckbarkeit, Räumungsfrist und Anschlussvollstreckung bereits vor Einreichung.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Amtsgericht** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## 4. Leitplanken
+
+- Paragraf 23 Nummer 2a GVG: ausschließliche Zuständigkeit des Amtsgerichts für Wohnraummietsachen unabhängig vom Streitwert.
+- Paragrafen 253 und 260 ZPO: bestimmter Antrag und objektive Klagehäufung.
+- Paragrafen 546 und 546a BGB: Rückgabe und Nutzungsentschädigung nach Vertragsende.
+- Paragraf 885a ZPO: beschränkter Vollstreckungsauftrag bei Räumung; Titel und tatsächliche Besitzlage vorher abgleichen.
+- BGH, Urteil vom 23. Oktober 2024 - VIII ZR 106/23: Wirkungen einer Schonfristzahlung auf außerordentliche und ordentliche Kündigung getrennt behandeln.
+
+## 5. Ausgabe
+
+Liefere zuerst die Prozessweiche in Tabellenform und danach den einreichungsfähigen Entwurf. Offene Stellen erhalten keine Leerformel, sondern eine präzise Nachforderung mit Beweiszweck und der Folge, die ohne den Beleg droht.
