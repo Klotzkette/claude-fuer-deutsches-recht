@@ -124,7 +124,7 @@ Stand: `{version}`.
 
 | Paket | Inhalt | Download |
 | --- | --- | --- |
-| **Alle Skills als Markdown** | Reine `SKILL.md`-Dateien aller {total_plugins} Plugins plus Werkstatt- und Schnellstart-Prompts — als echte Datei-Downloads | [`alle-skills-markdown.zip`]({alle_md}) |
+| **Alle Skills als Markdown** | Reine `SKILL.md`-Dateien und Plugin-READMEs aller {total_plugins} Plugins; Werkstatt und Schnellstart bleiben einzelne Markdown-Direktdownloads | [`alle-skills-markdown.zip`]({alle_md}) |
 | **Alle Plugins (installierbar)** | Alle {total_plugins} Plugin-ZIPs in einem Archiv für kompatible Plugin-Oberflächen | [`alle-plugins-megazip.zip`]({megazip}) |
 | **Komplettpaket (alles)** | Plugins + Skill-Markdowns + Testakten + Übersichten | [`alles-komplettpaket.zip`]({komplett}) |
 

@@ -81,8 +81,9 @@ jobs:
           # entfernt, weil es pro Plugin einen skills/<plugin>-schnellstart/SKILL.md
           # erzeugt hat. Diese Wrapper-Skills würden beim Marketplace-Install als
           # zusätzlicher Skill geladen, obwohl sie nur Einstiegsdateien enthalten.
-          # Die Werkstatt- und Schnellstart-Prompts bleiben direkt als Markdown
-          # im Repository erreichbar und liegen zusätzlich in den Plugin-ZIPs.
+          # Die Werkstatt- und Schnellstart-Prompts bleiben ausschließlich als
+          # direkte Markdown-Downloads im Repository erreichbar. Sie gehören
+          # weder in die Skill-Logik noch in die installierbaren Plugin-ZIPs.
           python3 scripts/generate-werkstatt-und-schnellstart-prompts.py
           python3 scripts/refine-speed-and-elegance.py
           python3 scripts/inject-streitstoff-beitrag-gerichtsplugins.py
@@ -153,7 +154,9 @@ jobs:
               exit 1
             fi
             echo "Baue $plugin.zip"
-            (cd "$source" && zip -rq "${GITHUB_WORKSPACE}/dist/${plugin}.zip" . -x '*.DS_Store' '*__pycache__*' '*.pyc' 'CLAUDE.md')
+            (cd "$source" && zip -rq "${GITHUB_WORKSPACE}/dist/${plugin}.zip" . \
+              -x '*.DS_Store' '*__pycache__*' '*.pyc' 'CLAUDE.md' \
+                 '*-werkstatt.md' '*-schnellstart.md')
             ls -la "dist/${plugin}.zip"
           done < dist/plugin-map.tsv
           # Manifest fuer Marketplace-Komfort
@@ -189,7 +192,8 @@ jobs:
 
       - name: Skill-Markdown-Bundles bauen (echte Downloads pro Plugin)
         run: |
-          # Pro Plugin ein ZIP mit allen SKILL.md + Schnellstart-Prompt + Plugin-README.
+          # Pro Plugin ein ZIP mit allen SKILL.md und dem Plugin-README.
+          # Werkstatt und Schnellstart bleiben einzelne Markdown-Downloads.
           # Die Einzel-ZIPs wandern ins Komplettpaket; als Release-Asset wird nur
           # das Sammel-ZIP hochgeladen, damit die Asset-Zahl unter der GitHub-
           # Grenze bleibt.
@@ -198,6 +202,9 @@ jobs:
           cp dist/skills-markdown/alle-skills-markdown.zip dist/alle-skills-markdown.zip
           ls dist/skills-markdown/*-skills-markdown.zip | wc -l
           ls -lh dist/alle-skills-markdown.zip
+
+      - name: Prompt-Verpackung validieren
+        run: python3 scripts/validate-prompt-packaging.py dist .claude-plugin/marketplace.json
 
       - name: Pluginlokale Testakten-Bundles bauen
         run: |

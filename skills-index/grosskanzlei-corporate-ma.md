@@ -1,6 +1,6 @@
 # grosskanzlei-corporate-ma
 
-**282 Skills** · Stand `v439.0.0`
+**282 Skills** · Stand `v439.0.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../grosskanzlei-corporate-ma/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

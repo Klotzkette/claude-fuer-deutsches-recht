@@ -29,7 +29,7 @@ def zip_names(zip_path: Path) -> set[str]:
 MAX_ZIP_BYTES = 10 * 1024 * 1024
 
 
-def validate_plugin_zip(dist_dir: Path, plugin_name: str) -> None:
+def validate_plugin_zip(dist_dir: Path, plugin_name: str, expected_version: str) -> None:
     zip_path = dist_dir / f"{plugin_name}.zip"
     if not zip_path.exists():
         fail(f"{zip_path}: missing plugin ZIP")
@@ -50,6 +50,14 @@ def validate_plugin_zip(dist_dir: Path, plugin_name: str) -> None:
         fail(f"{zip_path}: contains nested {plugin_name}/ root")
     if "CLAUDE.md" in names:
         fail(f"{zip_path}: root CLAUDE.md must not be shipped; the upload validation may reject it")
+    auxiliary_prompts = sorted(
+        name for name in names if name.endswith(("-werkstatt.md", "-schnellstart.md"))
+    )
+    if auxiliary_prompts:
+        fail(
+            f"{zip_path}: Werkstatt und Schnellstart sind nur direkte Markdown-Downloads, "
+            f"nicht Bestandteil des installierbaren Plugins: {', '.join(auxiliary_prompts)}"
+        )
     if any("__pycache__/" in name or name.endswith(".pyc") for name in names):
         fail(f"{zip_path}: contains Python cache files")
 
@@ -57,6 +65,11 @@ def validate_plugin_zip(dist_dir: Path, plugin_name: str) -> None:
         manifest = json.loads(archive.read(".claude-plugin/plugin.json"))
     if manifest.get("name") != plugin_name:
         fail(f"{zip_path}: manifest name {manifest.get('name')!r} does not match {plugin_name!r}")
+    if manifest.get("version") != expected_version:
+        fail(
+            f"{zip_path}: manifest version {manifest.get('version')!r} "
+            f"does not match marketplace version {expected_version!r}"
+        )
     description = manifest.get("description", "")
     if len(description) > 300:
         fail(f"{zip_path}: manifest description has {len(description)} chars; Marketplace bevorzugt <= 300")
@@ -78,7 +91,7 @@ def main() -> None:
     marketplace = json.loads(marketplace_path.read_text(encoding="utf-8"))
     plugins = [plugin["name"] for plugin in marketplace["plugins"]]
     for plugin_name in plugins:
-        validate_plugin_zip(dist_dir, plugin_name)
+        validate_plugin_zip(dist_dir, plugin_name, marketplace["version"])
 
     marketplace_zip_copy = dist_dir / "marketplace.json"
     if not marketplace_zip_copy.exists():

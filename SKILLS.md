@@ -2,7 +2,7 @@
 
 Automatisch generierte Gesamtübersicht aller **26461 Skills** in **235 Plugins**.
 
-Stand: `v439.0.0`.
+Stand: `v439.0.1`.
 
 [Repository-Start](README.md) · [Download-Index](ASSET_INDEX.md) · [Testakten](testakten/README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Detailseiten](skills-index/)
 
@@ -10,7 +10,7 @@ Stand: `v439.0.0`.
 
 | Paket | Inhalt | Download |
 | --- | --- | --- |
-| **Alle Skills als Markdown** | Reine `SKILL.md`-Dateien aller 235 Plugins plus Werkstatt- und Schnellstart-Prompts — als echte Datei-Downloads | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+| **Alle Skills als Markdown** | Reine `SKILL.md`-Dateien und Plugin-READMEs aller 235 Plugins; Werkstatt und Schnellstart bleiben einzelne Markdown-Direktdownloads | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Alle Plugins (installierbar)** | Alle 235 Plugin-ZIPs in einem Archiv für kompatible Plugin-Oberflächen | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
 | **Komplettpaket (alles)** | Plugins + Skill-Markdowns + Testakten + Übersichten | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) |
 

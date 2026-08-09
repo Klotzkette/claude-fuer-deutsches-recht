@@ -1,3 +1,12 @@
+# v439.0.1 - Hilfsprompts strikt von Plugin-Installationen getrennt
+
+- Werkstatt- und Schnellstart-Prompts bleiben nun ausschließlich direkte Markdown-Downloads. Der Release-Bau schließt beide Dateitypen aus allen 235 installierbaren Plugin-ZIPs aus, damit sie beim Plugin-Import weder mit hochgeladen noch als zusätzlicher Plugin-Inhalt bereitgestellt werden.
+- Auch die Skill-Markdown-Pakete enthalten nur noch das jeweilige Plugin-README und echte `SKILL.md`-Dateien. Die Hilfsprompts werden nicht mehr mittelbar über ein ZIP ausgeliefert; ihre 470 direkten Downloadpfade im Repository bleiben unverändert verfügbar. Ein nicht mehr verwendeter Bundle-Stummel wurde entfernt.
+- Der ZIP-Validator weist Werkstatt- oder Schnellstart-Dateien in installierbaren Paketen jetzt hart zurück. Eine zusätzliche Endkontrolle öffnet sämtliche Plugin- und Skill-ZIPs einschließlich des verschachtelten Sammelarchivs und prüft zugleich, dass für jedes Plugin beide direkten Markdown-Dateien vorhanden sind.
+- Der vollständige lokale Nachbau bestätigt 235 saubere Plugin-ZIPs und 235 saubere Skill-Pakete. Marketplace-Struktur, Schnellstart-Nutzbarkeit, Frontmatter, Navigation und Release-Downloads werden unverändert vor jeder Veröffentlichung geprüft.
+
+---
+
 # v439.0.0 - Schnellstarts ohne Anlaufverlust
 
 - Alle 235 Schnellstart-Prompts unterscheiden jetzt vier reale Eingangslagen: vorhandene Dateien, konkreter Dokumentauftrag, bloße Aktivierung und Folgewunsch. Dateien werden zuerst gelesen, ein verlangtes Arbeitsprodukt beginnt ohne vorgeschaltetes Lagebild und Folgewünsche setzen auf Tatsachen, Berechnungen und Quellen des bisherigen Stands auf.
