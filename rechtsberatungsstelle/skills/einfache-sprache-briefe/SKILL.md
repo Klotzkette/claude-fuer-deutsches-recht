@@ -21,15 +21,14 @@ Diese Skill akzeptiert keine Eingaben. Für alle Mandantenbriefe: `/mandantenbri
 
 ### Hintergrund der Aufteilung
 
-Die Verständlichkeit von Mandantenkommunikation ist eine Rechtspflicht, keine Serviceleistung. Unverständliche Korrespondenz verletzt die anwaltliche Aufklärungspflicht (§ 43a BRAO, BGH-Rspr.) und kann zur Haftung führen. Die Aufteilung in zwei fokussierte Skills verstärkt diese Pflicht, indem sie die Standards für jeden Typ explizit macht.
+Verständliche Mandantenkommunikation sichert eine ordnungsgemäße Beratung. Inhalt, Folgen, Fristen und nächste Handlungen müssen so erklärt werden, dass der Empfänger sie erfassen und eine informierte Entscheidung treffen kann. Die Nachfolge-Skills trennen deshalb kurze Routinekorrespondenz von einer inhaltlichen Statusmitteilung.
 
 ### Relevante Normen für die Nachfolge-Skills
 
-- **§ 43a Abs. 4 BRAO** — Sachlichkeitsgebot: Mandantenbriefe müssen sachlich, klar und nicht irreführend sein; gilt auch für studentische Beratungsstellen unter Aufsicht.
-- **§ 11a BRAO** — Zusammenarbeit in studentischen Beratungsstellen: Briefe gehen unter Aufsicht des Supervisors heraus; vor Versand ist die Supervisoren-Freigabe einzuholen.
-- **§ 6 Abs. 2 RDG** — Aufsichtspflicht: Mandantenkorrespondenz ist ein nach außen gehendes Leistungsergebnis und unterliegt der inhaltlichen Supervisoren-Kontrolle.
-- **Art. 13 DSGVO** — Informationspflichten: Falls ein Brief erstmals über die Verarbeitung personenbezogener Daten informiert, müssen DSGVO-Pflichtangaben enthalten sein.
-- **§§ 2, 3 BerHG** — Beratungshilfe: Bei Mandanten mit Beratungshilfe-Schein muss die Korrespondenz den Leistungsrahmen einhalten; keine Erweiterung ohne neuen Schein.
+- **Paragraf 6 Absatz 2 RDG** — Unentgeltliche Rechtsdienstleistungen außerhalb enger persönlicher Beziehungen müssen durch eine befugte Person, eine Person mit Befähigung zum Richteramt oder unter deren Anleitung erbracht werden. Anleitung umfasst Einweisung, Fortbildung und die im Einzelfall erforderliche Mitwirkung.
+- **Paragraf 43a Absatz 3 BRAO** — Für den anleitenden Rechtsanwalt gilt das Sachlichkeitsgebot; bewusste Unwahrheiten und anlasslose herabsetzende Äußerungen sind unzulässig.
+- **Paragraf 11 BORA sowie Paragrafen 675 und 666 BGB** — Für anwaltlich geführte Mandate tragen angemessene Unterrichtung und Auskunftspflicht die klare Statuskommunikation.
+- **Paragrafen 2 und 3 BerHG** — Bei Beratungshilfe sind Gegenstand und Reichweite der bewilligten Beratung zu beachten.
 
 ### Quellenregel
 
@@ -56,7 +55,7 @@ Vollständiger Ablauf in den jeweiligen SKILL.md-Dateien:
 1. Zielgruppe festlegen (Bildungshintergrund, Sprache, besondere Umstände des Mandanten)
 2. Verständlichkeitsstandards der Klinik anwenden (Klinik-Konfiguration → plain-language-standard)
 3. Kein Fachjargon ohne Erläuterung; kurze Sätze; konkrete Handlungsanweisungen
-4. Supervisoren-Routing nach § 6 Abs. 2 RDG vor Versand
+4. Anleitung und erforderliche Mitwirkung nach Paragraf 6 Absatz 2 RDG vor Versand sichern
 
 ## Beispiel
 
@@ -78,9 +77,9 @@ Ergebnis: Eine klare Terminbestätigung mit Ort, Zeit, Mitnahme-Unterlagen und K
 ## Risiken und typische Fehler
 
 - **Verweis auf diese Skill in älteren Materialien:** Semesterskripte und Tutorenmaterialien auf die neuen Skills umschreiben.
-- **Verständlichkeitsstandards als optional behandeln:** Die Pflicht zur verständlichen Mandantenkommunikation ergibt sich aus § 43a BRAO und BGH-Rspr. Sie gilt auch für Studenten in der Beratungsstelle unter Supervisorenaufsicht.
+- **Verständlichkeitsstandards als optional behandeln:** Frist, Folge und Handlungsauftrag müssen für den konkreten Empfänger erfassbar sein; im anwaltlich geführten Mandat tragen Paragraf 11 BORA sowie Paragrafen 675 und 666 BGB die Unterrichtung.
 - **Fachbegriffe ohne Erläuterung:** Begriffe wie "Widerspruchsfrist", "Vollstreckungstitel" oder "Klagefrist" sind für viele Mandanten unverständlich. Immer in Klammern oder mit einfachem Folgesatz erläutern.
-- **Versand ohne Supervisoren-Freigabe:** Kein Mandantenbrief verlässt die Beratungsstelle ohne Freigabe, auch keine kurze Terminbestätigung.
+- **Versand ohne erforderliche Anleitung:** Vor einem rechtlich inhaltlichen Schreiben ist die nach Paragraf 6 Absatz 2 RDG im Einzelfall erforderliche Mitwirkung der anleitenden Person zu dokumentieren.
 
 ## Quellenpflicht
 

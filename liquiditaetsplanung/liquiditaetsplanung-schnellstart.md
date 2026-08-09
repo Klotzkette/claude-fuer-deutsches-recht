@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine belastbare Liquiditätsplanung aufstellen und drohende Zahlungsunfähigkeit frühzeitig erkennen.
-
 # Liquiditätsplanung — Schnellstart
+
+Wenn du das hier öffnest, willst du eine belastbare Liquiditätsplanung aufstellen und drohende Zahlungsunfähigkeit frühzeitig erkennen.
 
 Ziel: Liquiditätsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Lücken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Rechtsprechung nur nach Live-Verifikation. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -12,7 +12,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 1. Welche Zahlungen sind heute, sieben Tage, dreißig Tage und dreizehn Wochen fällig.
 2. Welche Zuflüsse sind sicher, bedingt, streitig oder nur geplant.
-3. Welche Zahlungen duerfen aus Haftungsgründen nicht mehr ohne Prüfung geleistet werden.
+3. Welche Zahlungen dürfen aus Haftungsgründen nicht mehr ohne Prüfung geleistet werden.
 4. Engpass dieses Gebiets zuerst sichern: Liquiditätslücke kann nicht binnen drei Wochen geschlossen werden.
 5. Beweislage ordnen: Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an.
 6. Erstes Arbeitsprodukt liefern: Anschlussentscheidung: Finanzierungsanfrage, Stundung, Gesellschafterbeitrag, Sanierungspfad oder Insolvenzantragsprüfung formulieren.
@@ -20,7 +20,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 3. Kernroute
 
 1. Datenraum: Bankkonten, offene Posten, Lohnsteuer, Sozialabgaben, Kreditlinien, Sicherheiten und Fälligkeiten einsammeln.
-2. Dreizehn-Wochen-Plan: Anfangsliquidität, sichere Zuflüsse, unvermeidbare Abfluesse und freie Linien wochenweise darstellen.
+2. Dreizehn-Wochen-Plan: Anfangsliquidität, sichere Zuflüsse, unvermeidbare Abflüsse und freie Linien wochenweise darstellen.
 3. Stressszenarien: Zahlungsverzug von Kunden, Covenant-Bruch, Lieferantenstopp, Lohnlauf und Steuern separat simulieren.
 4. Insolvenznähe: Zahlungsstockung, Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung getrennt dokumentieren.
 5. Anschlussentscheidung: Finanzierungsanfrage, Stundung, Gesellschafterbeitrag, Sanierungspfad oder Insolvenzantragsprüfung formulieren.
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - InsO Paragraf 18: drohende Zahlungsunfähigkeit als Sanierungs- und Planungswarnsignal.
 - InsO Paragraf 19: Überschuldung bei juristischen Personen.
 - StaRUG Paragraf 1: Krisenfrüherkennung und Krisenmanagement.
-- InsO Paragrafen 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - InsO Paragrafen 17-19, Paragraf 15a; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - SGB IV Paragraf 28e, StGB Paragraf 266a für Arbeitnehmeranteile; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - AO Paragrafen 34, 69, 370 bei Steuer-/Erklärungspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- GmbHG Paragraf 43, AktG Paragraf 93 sowie ggf; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

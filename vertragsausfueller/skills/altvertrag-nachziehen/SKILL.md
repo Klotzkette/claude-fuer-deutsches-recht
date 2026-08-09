@@ -24,7 +24,7 @@ description: "Wenn es um Altvertrag nachziehen in Vertragsausfüller geht: prüf
 
 - § 305, 305c BGB — Einbeziehung und Auslegung von AGB
 - § 307 ff. BGB — AGB-Inhaltskontrolle (Generalklausel, Verbotslisten)
-- § 550 BGB — Schriftformgebot bei langfristigen Mietverträgen (mehr als 1 Jahr)
+- Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB — Textform langfristiger Grundstücks- und Gewerberaummietverträge; bei älteren Vertragsketten Artikel 229 Paragraf 70 EGBGB prüfen.
 - § 195 BGB — Verjährung (regelmäßig 3 Jahre)
 - § 313 BGB — Störung der Geschäftsgrundlage (bei wesentlich veränderten Umständen)
 

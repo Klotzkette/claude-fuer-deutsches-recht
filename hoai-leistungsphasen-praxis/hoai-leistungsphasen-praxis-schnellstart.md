@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du Planungsleistung, Leistungsphase, Honorar, Nachtrag, Haftung und Bauüberwachung nach Vertragsstand und Projektbeleg ordnen.
-
 # HOAI Leistungsphasen Praxis — Schnellstart
+
+Wenn du das hier öffnest, willst du Planungsleistung, Leistungsphase, Honorar, Nachtrag, Haftung und Bauüberwachung nach Vertragsstand und Projektbeleg ordnen.
 
 Ziel: Großplugin für HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung, Ausführungsplanung, Vergabe, Bauüberwachung, Objektbetreuung, Honorar, Vertrag, Haftung, Nachträge und Bauprojektsteuerung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -49,8 +49,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 633, Paragraf 634 und Paragraf 640: Planungsmangel, Mängelrechte und Abnahme.
 - HOAI Paragraf 3: Grundleistungen, Leistungsbilder und Leistungsphasen.
 - BGB Paragrafen 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragrafen 650p bis 650t, Vergütung und Abschläge ergänzend nach BGB Paragrafen 631, 632 und 632a prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - HOAI Paragraf 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

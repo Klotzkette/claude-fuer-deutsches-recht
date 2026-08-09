@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du einen Sozialleistungsbescheid angreifen und den Anspruch durchsetzen.
-
 # Richter Sozialgericht — Schnellstart
+
+Wenn du das hier öffnest, willst du einen Sozialleistungsbescheid angreifen und den Anspruch durchsetzen.
 
 Ziel: Sozialgericht: Klagearten Anfechtungs- und Leistungsklage einstweiliger Rechtsschutz Paragraf 86b SGG Amtsermittlung sozialrechtliche Prüfungsschemata Krankenversicherung Rente Unfall Bürgergeld Schwerbehinderung Urteilsentwurf mit Tenorvorschlag. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -32,7 +32,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | SGB I Paragraf 38 und Paragraf 40; SGB X Paragraf 20; SGB X Paragraf 24 |
 | Rechtsprechung | BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 |
-| Tatbestand | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen |
+| Tatbestand | Bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen |
 | Beweislast | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege |
 | Rechtsfolge | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -41,10 +41,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Bescheidlage | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leistungsrecht | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Medizin | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Krankenversicherung | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bescheidlage | Bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Leistungsrecht | Bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Medizin | Bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Krankenversicherung | Bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker

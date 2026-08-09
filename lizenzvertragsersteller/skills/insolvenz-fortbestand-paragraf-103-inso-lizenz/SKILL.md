@@ -1,65 +1,76 @@
 ---
 name: insolvenz-fortbestand-paragraf-103-inso-lizenz
-description: "Wenn es um Insolvenz-Fortbestand der Lizenz (Paragraf 103 InsO) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Prüft Lizenzverträge bei Insolvenz von Lizenzgeber oder Lizenznehmer; trennt eingeräumtes Nutzungsrecht, offene Hauptleistungspflichten, Verwalterwahl, Insolvenzforderung, Kündigung, Unterlizenz und technische Fortführung."
 ---
 
-# Insolvenz-Fortbestand der Lizenz (Paragraf 103 InsO)
+# Lizenzvertrag und Insolvenz
 
-## Problem
+## 1. Direktstart
 
-Wird der **Lizenzgeber insolvent**, hat der Insolvenzverwalter nach Paragraf 103 InsO das **Wahlrecht**:
-- Erfuellung verlangen (Lizenz besteht fort) oder
-- Erfuellung verweigern (Lizenz endet; Schadensersatzanspruch des Lizenznehmers ist nachrangige Insolvenzforderung).
+Lies Lizenzvertrag, Nachträge, Zahlungsstand, Rechtekette, Kündigungen, Escrow-Vereinbarung und Insolvenzdaten. Liefere eine Leistungsmatrix zum Eröffnungszeitpunkt: bereits eingeräumtes Recht, noch offene Hauptpflicht jeder Seite, bloße Nebenpflicht, aufschiebende Bedingung, Kündigungsrecht und technisch notwendige Fortführungsleistung.
 
-Praxis: Verwalter waehlen typischerweise Erfuellungsverweigerung, wenn das IP an einen anderen Investor verkauft werden soll - mit hoeherem Erlos.
+## 2. Anwendungsbereich von InsO Paragraf 103
 
-## BGH-Linie (h. M.)
+2.1. Das Wahlrecht setzt einen gegenseitigen Vertrag voraus, der bei Verfahrenseröffnung vom Schuldner und vom anderen Teil nicht oder nicht vollständig erfüllt ist. Der Vertragstyp „Lizenz“ allein entscheidet nichts.
 
-| Entscheidung | Tragende Aussage |
-|---|---|
-| BGH, Urteil vom 17.11.2005 - IX ZR 162/04 | Lizenzverträge können als Dauernutzungsverträge dem Wahlrecht nach Paragraf 103 InsO unterliegen, wenn bei Verfahrenseröffnung beiderseits Hauptleistungspflichten offen sind |
-| BGH, Urteil vom 21.10.2015 - I ZR 173/14 (Ecosoil) | Ein Lizenzkauf ist regelmäßig beiderseits vollständig erfüllt, sobald die Lizenz eingeräumt und der Kaufpreis gezahlt ist; dann greift Paragraf 103 InsO nicht allein wegen fortdauernder Nutzung |
-| BGH IX ZR 220/09 (2012) | Bei dinglich uebertragener Lizenz kein Wahlrecht (keine gegenseitige Pflicht mehr offen) |
+2.2. Bestimme für jede offene Pflicht, ob sie im Gegenseitigkeitsverhältnis steht. Laufende Vergütung, fortdauernde Gebrauchsüberlassung, Updates, Wartung, Schutzrechtsverteidigung und Abrechnung können unterschiedlich einzuordnen sein.
 
-→ Wer dinglich uebertragene Lizenz mit Voraussetzungen für Bestaendigkeit gestaltet, schuetzt den Lizenznehmer.
+2.3. Verweigert der Verwalter die Erfüllung, kann der andere Teil seine Nichterfüllungsforderung grundsätzlich nur als Insolvenzgläubiger geltend machen. Sie ist nicht allein deshalb nachrangig nach InsO Paragraf 39.
 
-## Gestaltungsmoeglichkeiten
+2.4. Aus der Erfüllungsverweigerung folgt nicht schematisch, dass jedes bereits eingeräumte Nutzungsrecht „endet“. Bestand, Reichweite und Durchsetzbarkeit sind nach Rechtseinräumung, Vertragsstruktur und einschlägiger höchstrichterlicher Linie gesondert zu prüfen.
 
-### A. Sicherungslizenz (bedingt aufschiebend)
+## 3. Rechtsprechungsanker
 
-Lizenz wird nur aufschiebend bedingt durch eine Bedingung gewaehrt, die jedenfalls eintritt (z. B. Zahlung des Lizenzgebers an einen Sicherheitsempfaenger). Verwalter findet im Insolvenzfall keine gegenseitig offene Pflicht mehr - Paragraf 103 InsO greift nicht.
+3.1. BGH, Urteil vom 17. November 2005 - IX ZR 162/04: Für InsO Paragraf 103 kommt es auf den bei Verfahrenseröffnung beiderseits noch nicht vollständig erfüllten gegenseitigen Vertrag an. Die konkrete Vertragsstruktur darf nicht zu einer Universalregel für alle Lizenzen verallgemeinert werden.
 
-### B. Vollabgeschlossene Lizenz mit Royalty-Vorauszahlung
+3.2. BGH, Urteil vom 21. Oktober 2015 - I ZR 173/14, Ecosoil: Eine mit quasi dinglicher und endgültiger Wirkung abgespaltene Markenlizenz erlosch im dortigen Sachverhalt nicht durch die Insolvenz. Die Entscheidung ist als Abgrenzungsanker für die konkrete Rechteposition, nicht als pauschale Garantie jeder Lizenz, zu verwenden.
 
-Wenn der Lizenznehmer alle Lizenzgebuehren upfront zahlt: keine offenen gegenseitigen Pflichten mehr - Paragraf 103 InsO greift nicht.
+## 4. Prüfmatrix
 
-### C. Escrow als Realisierungsweg
+| Ebene | Frage | Arbeitsfolge |
+| --- | --- | --- |
+| Schutzrecht | Wem gehört Patent, Marke, Urheberrecht oder sonstiger Gegenstand? | Register und Rechtekette sichern |
+| Lizenz | ausschließlich oder einfach, Gebiet, Dauer, Unterlizenz, Übertragbarkeit? | Bestandsposition bestimmen |
+| Leistung | Welche Hauptpflicht ist am Eröffnungstag offen? | Anwendbarkeit von InsO Paragraf 103 prüfen |
+| Verwalter | Erfüllungswahl erklärt, abgelehnt oder noch offen? | Aufforderung und Frist nach Gesetz prüfen |
+| Kündigung | insolvenzabhängig oder auf anderen Grund gestützt? | InsO Paragraf 119 und Vertragsrecht einbeziehen |
+| Betrieb | Quellcode, Schlüssel, Daten, Schnittstelle, Wartung und Dokumentation verfügbar? | technische Fortführung separat sichern |
 
-Insolvenz-Trigger fuehrt zur Source-Code-Herausgabe (siehe `escrow-quellcode-verwahrer-vereinbarung`). Praktisch loest das Wartung, nicht die Lizenz selbst.
+## 5. Vertragsgestaltung ohne Scheinsicherheit
 
-### D. Kollektivvereinbarung mit Sicherheitennehmer (Bank)
+5.1. Erteile und dokumentiere Nutzungsrechte klar, frühzeitig und unabhängig von vermeidbaren Schwebezuständen, soweit Geschäftsmodell und Vergütung dies tragen.
 
-Bank gibt Lizenz als Sicherheit; im Insolvenzfall verwertet die Bank die Sicherheit (nicht der Verwalter) - Paragraf 103 InsO entfaellt.
+5.2. Definiere laufende Leistungen so, dass Rechtseinräumung, Wartung, Support, Hosting und Updatepflichten getrennt bewertet werden können.
 
-## Klausel-Baustein
+5.3. Escrow kann Quellcode und Dokumentation verfügbar machen, ersetzt aber weder eine wirksame Lizenz noch automatisch die Mitwirkung Dritter.
 
-> **Paragraf 16 Insolvenzfestigkeit.**
->
-> (1) Die Parteien sind sich einig, dass die in diesem Vertrag eingeraeumten Nutzungsrechte als dinglich uebertragen gelten, soweit dies nach deutschem Recht zulässig ist.
->
-> (2) Sollte ein Insolvenzverfahren über das Vermögen des Lizenzgebers eroeffnet werden, gilt die Hinterlegung beim Escrow-Agent gemäß Paragraf 14 als Sicherungsmittel im Sinne der Paragrafen 50, 51 InsO. Der Lizenznehmer ist berechtigt, die hinterlegten Materialien zu nutzen, soweit zur Wartung und Fortfuehrung des Lizenzbetriebs erforderlich, ohne dass dies einer Erfuellungswahl nach Paragraf 103 InsO bedarf.
->
-> (3) Bereits gezahlte Lizenzgebuehren für den vereinbarten Lizenzzeitraum stehen dem Lizenznehmer als bedingt erworbene Nutzungsrechte zu und unterliegen nicht dem Wahlrecht des Insolvenzverwalters.
->
-> (4) Sofern Absatz 1 bis 3 rechtlich nicht durchgreifen, vereinbaren die Parteien eine Sicherungsabtretung des Lizenzgegenstands an [Sicherheitennehmer] gemäß separater Sicherungsabrede.
+5.4. Insolvenzabhängige Lösungsklauseln werden an InsO Paragraf 119 und der Rechtsprechung geprüft; eine bloße Überschrift „insolvenzfest“ schafft keine Beständigkeit.
 
-## Hinweise
+5.5. Sicherungsabtretung oder Pfandrecht werden nur mit nachgewiesener Verfügungsbefugnis, hinreichender Bestimmtheit, Prioritätsprüfung und insolvenzrechtlicher Wirksamkeit empfohlen.
 
-- Paragraf 103 InsO ist h. M. zwingendes Recht; vertragliche Abdingung dabei begrenzt.
-- Die hier vorgeschlagene Klausel ist eine Best-Effort-Konstruktion; im konkreten Fall ist die Wirksamkeit gegen den Verwalter immer streitig.
-- Praxis: Escrow + Sicherungslizenz + dingliche Voll-Uebertragung kombinieren.
+## 6. Typische Fehler
 
-## Anschluss
+6.1. Jede offene Nebenpflicht wird als beiderseits offene Hauptpflicht behandelt.
 
-- Escrow: `escrow-quellcode-verwahrer-vereinbarung`
-- Sicherheiten: `sicherungslizenz-pfandrecht-an-immaterialguetern`
+6.2. Erfüllungsverweigerung wird mit automatischem Erlöschen der Lizenz gleichgesetzt.
+
+6.3. Der Nichterfüllungsanspruch wird ohne Tatbestand des InsO Paragraf 39 als nachrangig bezeichnet.
+
+6.4. Eine Vorauszahlung wird ohne Prüfung aller übrigen Leistungspflichten als vollständige Erfüllung angesehen.
+
+6.5. Escrow, Nutzungsrecht und Wartungsvertrag werden zu einer vermeintlich einheitlichen Sicherheit vermischt.
+
+## 7. Arbeitsprodukte
+
+7.1. Eröffnungsstichtags-Matrix mit jeder offenen Haupt- und Nebenpflicht.
+
+7.2. Aufforderung an den Verwalter mit präziser Vertrags- und Leistungslage.
+
+7.3. Risikoanalyse zu Fortbestand, Betrieb, Kündigung und Insolvenzforderung.
+
+7.4. Neu gefasste Lizenz-, Escrow- und Fortführungsklauseln mit offen ausgewiesenen Grenzen.
+
+## 8. Quellen
+
+- InsO Paragraf 103 und Paragraf 119: https://www.gesetze-im-internet.de/inso/
+- BGH IX ZR 162/04 und I ZR 173/14: https://juris.bundesgerichtshof.de/

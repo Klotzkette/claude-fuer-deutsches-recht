@@ -268,7 +268,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 - Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
 - AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
+- Bei belegtem Vertragsstaatenbezug: aktuelles Search Certificate des International Registry und gegebenenfalls IDERA-Nachweis der nationalen Registerbehörde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
@@ -312,7 +312,7 @@ _Wenn es um Pfändung Flugzeug Deutschland – Zwangsvollstreckung und Gegenargu
 - **ZPO §§ 916-934**: Arrest; Arrestanspruch und Arrestgrund bei Fluchtverdacht.
 - **ZPO § 771**: Drittwiderspruchsklage des Eigentümers gegen Pfändung fremder Sachen.
 - **InsO § 89**: Vollstreckungssperre nach Insolvenzeröffnung.
-- **Cape Town Convention Art. 10**: Zwangsmassnahmen in Insolvenz.
+- **Kapstadt-Regime**: Rechtsbehelfe des Sicherungsnehmers stehen in den Artikeln 8 bis 10 des Übereinkommens; Insolvenzfolgen in Artikel 30. Für Deutschland keine unmittelbare Anwendung behaupten, da keine Ratifikation vorliegt.
 
 ## Prüfraster
 
@@ -337,7 +337,7 @@ Die Pfändung eines Luftfahrzeugs erfordert besondere Vorbereitung:
 - **Standortermittlung**: Aktueller Flugplan (ATC) und Flughafenslotbelegung geben Aufschluss über Standort; Abstimmung mit Flughafenoperator nötig.
 - **Arrestantrag**: Zuständiges Gericht am Belegenheitsort; Arrestgrund glaubhaft machen.
 - **Betriebsunterbrechung**: Pfändung eines Linienflugzeugs löst Betriebsunterbrechung aus; Schadensersatz bei unberechtigtem Arrest.
-- **Cape Town Priorität**: Vor Pfändung ICAO-Register prüfen; vorrangige Sicherungsinteressen können Arrest verhindern.
+- **Internationale Sicherheiten**: Nur bei belegtem Vertragsstaatenbezug ein Search Certificate des International Registry auswerten; Rang, Rechtsbehelf und Wirkung im Vollstreckungsstaat gesondert prüfen.
 
 ## Quellen
 
@@ -361,7 +361,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 - Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
 - AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
+- Bei belegtem Vertragsstaatenbezug: aktuelles Search Certificate des International Registry und gegebenenfalls IDERA-Nachweis der nationalen Registerbehörde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
@@ -392,15 +392,15 @@ _Wenn es um Aircraft Arrest International – grenzüberschreitender Flugzeug-Ar
 
 1. Aufenthaltsort des Flugzeugs ermitteln: Flugplan ADS-B-Tracking Flughafendaten; Jurisdiktion folgt physischem Standort.
 2. Cape Town Convention prüfen: beide Länder Vertragsstaaten? Dann gelten Art. 8-15 Aircraft Protocol für Sicherungsrechte und Remedies.
-3. IDERA prüfen: Irrevocable Deregistration and Export Request Authorisation; ermöglicht Entregistrierung ohne Gerichtsverfahren.
+3. IDERA prüfen: Anwendbarkeit des Protokolls, staatliche Erklärung und Erfassung bei der nationalen Registerbehörde klären; kein gerichtsloses Verfahren pauschal unterstellen.
 4. Lokalen Counsel beauftragen: Arrest-Antrag nach lokaler ZPO; in UK CPR Part 61 in USA Federal Aviation Act.
-5. Cape Town Remedies in Insolvenz: Art. 30 Aircraft Protocol; Alternative A (automatische Herausgabe) oder Alternative B (Genehmigungserfordernis).
+5. Cape Town Remedies in Insolvenz: Art. 30 Cape Town Convention und bei wirksamer Erklärung Art. XI Aircraft Protocol; Alternative A (automatische Herausgabe) oder Alternative B (Genehmigungserfordernis).
 6. Koordination: deutsche Vollstreckungsmaßnahmen (ZPO §§ 916 ff.) parallel zu internationalem Arrest.
 
 ## Rechtsrahmen
 
 - **Cape Town Convention Art. 8**: Gläubigerrechte bei Nichterfüllung; Besitznahme Veräußerung Vermietung.
-- **Cape Town Convention Art. 10**: Zusätzliche Remedies in Insolvenz.
+- **Kapstadt-Regime**: Rechtsbehelfe stehen in den Artikeln 8 bis 10 des Übereinkommens; Insolvenzfolgen in Artikel 30. Artikel XI des Protokolls gilt nur bei Anwendbarkeit und passender staatlicher Erklärung.
 - **Aircraft Protocol Art. IX**: Entregistrierung und Verbringung; IDERA als Instrument.
 - **Aircraft Protocol Art. XI Alt. A/B**: Insolvenz-Schutzregime; Unterschiede je nach Ratifikationserklärung.
 - **ZPO §§ 916-934**: Arrestrecht; Arrestanspruch und Arrestgrund.
@@ -410,10 +410,10 @@ _Wenn es um Aircraft Arrest International – grenzüberschreitender Flugzeug-Ar
 ## Prüfraster
 
 1. Sind beide Staaten Vertragsstaaten der Cape Town Convention?
-2. Ist IDERA korrekt registriert und beim ICAO-Register hinterlegt?
+2. Ist bei Anwendbarkeit des Protokolls eine IDERA bei der zuständigen nationalen Registerbehörde erfasst?
 3. Hat der Staat Alternative A oder B erklärt?
 4. Besteht Arrestgrund (Fluchtverdacht Veräußerungsabsicht Zahlungsunfähigkeit)?
-5. Rangverhältnis der Gläubiger im ICAO-Register?
+5. Rangverhältnis der Gläubiger im International Registry?
 6. Ist Insolvenzverfahren eröffnet (lex fori concursus)?
 
 ## Typische Fallstricke
@@ -445,7 +445,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 - Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
 - AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
+- Bei belegtem Vertragsstaatenbezug: aktuelles Search Certificate des International Registry und gegebenenfalls IDERA-Nachweis der nationalen Registerbehörde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
@@ -538,7 +538,7 @@ Für Mandate im Bereich Slot-Koordination und Flughafenkapazität sind folgende 
 
 - Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
 - AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
+- Bei belegtem Vertragsstaatenbezug: aktuelles Search Certificate des International Registry und gegebenenfalls IDERA-Nachweis der nationalen Registerbehörde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
@@ -629,7 +629,7 @@ Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Doku
 
 - Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
 - AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
+- Bei belegtem Vertragsstaatenbezug: aktuelles Search Certificate des International Registry und gegebenenfalls IDERA-Nachweis der nationalen Registerbehörde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
@@ -713,7 +713,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 - Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
 - AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
+- Bei belegtem Vertragsstaatenbezug: aktuelles Search Certificate des International Registry und gegebenenfalls IDERA-Nachweis der nationalen Registerbehörde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz

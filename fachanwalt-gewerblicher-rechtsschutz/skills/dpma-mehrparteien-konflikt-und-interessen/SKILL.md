@@ -1,130 +1,100 @@
 ---
 name: dpma-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Dpma Mehrparteien Konflikt Und Interessen in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Steuert Mehrparteienkonflikte in markenrechtlichen DPMA-Verfahren: priorisiert Rechte, Fristen, Benutzung und Belege, trennt Widerspruch von Verfall und Nichtigkeit und liefert Verfahrenskarte, Schriftsatzgerüst und Vergleichskorridor."
 ---
 
-# DPMA-Mehrparteienverfahren: Widerspruchsverfahren MarkenG §§ 41–43, Verfalls- und Nichtigkeitsverfahren, Beschwerde zum BPatG, Beteiligtenrechte, Kollidierende Interessen mehrerer Schutzrechtsinhaber, Prioritätskonflikte, Verfahrensstrategie.
+# DPMA-Mehrparteienkonflikt und Interessen
 
+## 1. Direktstart mit Verfahrenskarte
 
-## Arbeitsweg
+Lies Registerauszüge, Veröffentlichungsdaten, Zustellungen, Widersprüche, Benutzungsunterlagen und Parallelverfahren. Beginne sofort mit einer Verfahrenskarte; frage nur nach fehlenden Tatsachen, die Frist, Antragsbefugnis oder Verfahrenswahl ändern.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+| Beteiligter | Recht und Zeitrang | Verfahren und Rolle | Frist oder Status | Beweisrisiko | Nächster Schritt |
+| --- | --- | --- | --- | --- | --- |
+| Anmelder oder Inhaber | angegriffene Marke | Widerspruchsgegner | Veröffentlichung prüfen | Warenverzeichnis, Benutzung | Verteidigungslinie |
+| Widersprechender | älteres Recht | Widerspruch | drei Monate | Bestand, Zeitrang, Benutzung | Widerspruch begründen |
+| Antragsteller | Verfalls- oder Nichtigkeitsgrund | DPMA-Antrag | Zustellung und Widerspruch | Tatbestand vollständig belegen | Antrag schärfen |
+| Beitretender | eigenes rechtliches Interesse | Beitritt | Verfahrensstand | Interesse nachweisen | Beitritt erklären |
 
-**Fokus:** DPMA-Mehrparteienverfahren: Widerspruchsverfahren MarkenG §§ 41–43, Verfalls- und Nichtigkeitsverfahren, Beschwerde zum BPatG, Beteiligtenrechte, Kollidierende Interessen mehrerer Schutzrechtsinhaber, Prioritätskonflikte, Verfahrensstrategie.
+## 2. Verfahrensweg richtig wählen
 
-### DPMA-Mehrparteienverfahren: Konflikte und Interessen
+### 2.1 Widerspruch
 
-## Rechtsrahmen
+- Paragraf 41 MarkenG regelt Eintragung, Veröffentlichung und Markeninformation; er ist nicht die Widerspruchsnorm.
+- Der Widerspruch richtet sich nach Paragraf 42 MarkenG und muss innerhalb von drei Monaten nach dem Tag der Veröffentlichung der Eintragung erhoben werden.
+- Widerspruchsgrund und älteres Recht nach Paragraf 42 Absatz 2 MarkenG exakt bezeichnen. Ein Widerspruch kann nach Absatz 3 mehrere ältere Rechte desselben Inhabers bündeln.
+- Auf beiderseitigen Antrag ist nach Paragraf 42 Absatz 4 MarkenG eine mindestens zweimonatige Einigungsfrist einzuräumen. Stillhalteabreden und Verlängerungen dieser Phase mit dem amtlichen Verfahrensstand abgleichen.
 
-| Norm | Inhalt |
-|---|---|
-| § 41 MarkenG | Widerspruch gegen Markeneintragung |
-| § 42 MarkenG | Widerspruchsfrist: 3 Monate ab Bekanntmachung |
-| § 43 MarkenG | DPMA-Prüfung des Widerspruchs; Nichtbenutzungseinrede |
-| § 49 MarkenG | Verfall der Marke (Nichtbenutzung, Freizeichen, Irreführung) |
-| § 50 MarkenG | Nichtigkeit wegen absoluter Schutzhindernisse |
-| § 51 MarkenG | Nichtigkeit wegen relativer Schutzhindernisse (ältere Rechte) |
-| § 66 MarkenG | Beschwerde zum BPatG gegen DPMA-Entscheidungen |
-| § 81 PatG | Beschränkungs- und Nichtigkeitsverfahren Patent |
-| §§ 33, 36 DesignG | Nichtigkeitsverfahren Design beim DPMA |
+### 2.2 Verfall und Nichtigkeit
 
-## Widerspruchsverfahren Marke
+- Materielle Verfallsgründe nach Paragraf 49 MarkenG, absolute Nichtigkeitsgründe nach Paragraf 50 MarkenG und ältere Rechte nach Paragraf 51 MarkenG strikt trennen.
+- Bösgläubigkeit ist als absolutes Schutzhindernis in Paragraf 8 Absatz 2 Nummer 14 MarkenG verankert; Paragraf 10 MarkenG betrifft notorisch bekannte Marken.
+- Das amtliche Verfahren richtet sich nach Paragraf 53 MarkenG. Beitritt und eigenes rechtliches Interesse sind nach Paragraf 54 MarkenG zu prüfen.
+- Paragraf 55 MarkenG betrifft das Verfalls- und Nichtigkeitsverfahren vor den ordentlichen Gerichten, nicht einen allgemeinen Unterlassungsanspruch. Rechtshängigkeit und Vorrangfragen zwischen amtlichem und gerichtlichem Weg anhand des aktuellen Absatzes 5 prüfen.
 
-### Ablauf
+### 2.3 Verletzungsverfahren getrennt halten
 
-```
-Markeneintragung wird im Markenblatt bekannt gemacht
- ↓
-Widerspruchsfrist: 3 Monate ab Bekanntmachung (§ 42 Abs. 1 MarkenG)
- ↓
-Widerspruch einlegen (§ 41 MarkenG):
- - Schriftlich beim DPMA; Gebühr 250 €
- - Älteres Recht bezeichnen (Marke, Unternehmenskennzeichen, etc.)
- ↓
-DPMA gibt Widerspruch dem Markeninhaber bekannt
- ↓
-Nichtbenutzungseinrede möglich (§ 43 Abs. 1 MarkenG) nach Fristablauf
- ↓
-Verhandlung / Entscheidung durch DPMA
- ↓
-Beschwerde beim BPatG (§ 66 MarkenG) → Rechtsbeschwerde BGH
-```
+Ansprüche wegen Benutzung eines kollidierenden Zeichens nach Paragrafen 14 und folgende MarkenG, die Zuständigkeit der Markengerichte nach Paragraf 140 MarkenG und einstweiliger Rechtsschutz sind eine eigene Spur. Sie können strategisch parallel laufen, ersetzen aber weder Widerspruch noch Verfalls- oder Nichtigkeitsantrag.
 
-### Nichtbenutzungseinrede (§ 43 Abs. 1 MarkenG)
-- Ältere Widerspruchsmarke muss **5 Jahre** vor dem maßgeblichen Zeitpunkt ernsthaft benutzt worden sein.
-- Beweislast: Widersprechender muss Benutzung glaubhaft machen (Umsatzzahlen, Kataloge, Rechnungen).
-- Einrede greift nur, wenn Marke überhaupt 5 Jahre eingetragen war.
+## 3. Zeitrang- und Kollisionsprüfung
 
-### Mehrere Widersprüche gegen eine Marke
+1. Für jedes Recht Anmelde-, Prioritäts-, Benutzungs- und Veröffentlichungsdatum belegen.
+2. Zeitrang nach Paragraf 6 MarkenG bestimmen; relative Schutzhindernisse nach Paragrafen 9 bis 13 MarkenG dem geltend gemachten Recht zuordnen.
+3. Inhaber, Rechtsübergänge, Lizenzen und Prozessführungsbefugnis aus aktuellen Registerunterlagen verifizieren.
+4. Waren und Dienstleistungen nicht nur nach Klassen vergleichen, sondern nach Art, Zweck, Nutzung, Vertriebsweg, wirtschaftlicher Nähe und angesprochenen Verkehrskreisen.
+5. Zeichenähnlichkeit nach Klang, Bild und Bedeutung sowie Kennzeichnungskraft und Wechselwirkung in einer nachvollziehbaren Matrix bewerten.
 
-| Situation | Strategie |
-|---|---|
-| Mehrere ältere Marken des gleichen Inhabers | Widersprüche bündeln; Synergien nutzen |
-| Widersprüche verschiedener Inhaber | DPMA koordiniert; Abstimmung sinnvoll |
-| Gegeneinander widersprechende ältere Rechte | Prioritätsprinzip; ältestes Recht entscheidet |
+## 4. Benutzung als eigenständige Beweisstation
 
-## Löschungsverfahren (Verfall und Nichtigkeit)
+- Wird die Einrede mangelnder Benutzung nach Paragraf 43 MarkenG wirksam erhoben, muss der Widersprechende die ernsthafte Benutzung für die maßgeblichen Zeiträume glaubhaft machen.
+- Schutzfrist, Benutzungsschonfrist, maßgebliche Zeiträume und rechtserhaltende Benutzungsform einzeln feststellen; nicht pauschal mit „fünf Jahre vor Entscheidung“ arbeiten.
+- Rechnungen, Produktabbildungen, Kataloge, Webseitenstände, Reichweiten, Liefergebiete und eidesstattliche Versicherungen zeitlich und warenbezogen zusammenführen.
+- Benutzungsunterlagen dürfen weder Geschäftsgeheimnisse unnötig offenlegen noch so stark geschwärzt sein, dass Zeitraum, Umfang, Gebiet oder Ware nicht mehr erkennbar sind.
+- Für jede belegte Benutzungsform erklären, welcher Eintragung sie zugeordnet wird und welche Waren oder Dienstleistungen sie trägt.
 
-### Verfallsverfahren § 49 MarkenG
+## 5. Mehrere Beteiligte steuern
 
-| Verfallsgrund | Norm | Antragsteller |
-|---|---|---|
-| Nichtbenutzung 5 Jahre | § 49 Abs. 1 MarkenG | Jedermann |
-| Marke zur Gattungsbezeichnung geworden | § 49 Abs. 2 Nr. 1 | Jedermann |
-| Täuschungsgeeignetheit | § 49 Abs. 2 Nr. 2 | Jedermann |
-| Gebühr: 100 € (DPMA) | | |
+### 5.1 Mehrere Widersprüche
 
-### Nichtigkeitsverfahren §§ 50–51 MarkenG
+- Aktenzeichen, Widerspruchsrechte und Verfahrensstände getrennt führen.
+- Prüfen, ob eine frühe Entscheidung über einen tragenden Widerspruch zweckmäßig ist oder weitere Rechte wegen Bestand, Kosten oder Rechtsmittelinteresse weiterverfolgt werden müssen.
+- Keine Abstimmung zwischen unabhängigen Rechteinhabern ohne Interessen- und Kartellrechtsprüfung organisieren.
 
-| Nichtigkeitsgrund | Norm |
-|---|---|
-| Absolute Schutzhindernisse § 8 MarkenG | § 50 Abs. 1 MarkenG |
-| Bösgläubige Anmeldung | § 10 MarkenG (ältere Markenpolitik) |
-| Älteres Recht des Antragstellers | § 51 Abs. 1 MarkenG |
+### 5.2 Interessenkollision und Vertretung
 
-## Mehrparteienkonflikte: Strategiefragen
+- Mandantenidentität, Konzernbeziehungen, Lizenzketten und wirtschaftliche Gegeninteressen vor jeder gemeinsamen Strategie prüfen.
+- Vertrauliche Informationen eines Beteiligten nicht zur Beratung eines anderen verwenden.
+- Bei möglicher Interessenkollision getrennte Sachverhaltsakten und eine dokumentierte Mandatsentscheidung anlegen.
 
-### Prioritätskonflikt
-- Älteres Recht schlägt jüngeres (§ 6 MarkenG, § 9 MarkenG).
-- Parallele Koexistenzvereinbarung möglich: schriftliche Abgrenzungsvereinbarung.
+### 5.3 Vergleich und Abgrenzung
 
-### Abgrenzungsvereinbarung
-- Regelt, welche Waren/Dienstleistungen jede Partei nutzen darf.
-- Wettbewerbsrechtliche Zulässigkeit prüfen (GWB, Art. 101 AEUV bei spürbarer Marktbeschränkung).
-- Schriftlich; mit klaren Geltungsbereichen (Branchen, Territorien).
+- Koexistenz nicht nur nach Nizza-Klassen, sondern nach Zeichenverwendung, Waren, Dienstleistungen, Vertriebskanälen, Gebieten und künftigen Erweiterungen definieren.
+- Rücknahme von Widerspruch oder Antrag erst nach Eintritt der vereinbarten Gegenleistung und gesicherter Kostenregelung erklären.
+- Registerbeschränkung, Zustimmung, Vertragsstrafe, Nachweis- und Kündigungsmechanik sowie Wirkung für Rechtsnachfolger ausdrücklich regeln.
+- Kartellrechtliche Grenzen nach Paragraf 1 GWB und Artikel 101 AEUV bei marktaufteilender Wirkung prüfen.
 
-### Gerichtsschutz zusätzlich zu DPMA-Verfahren
-- Parallelklage vor LG möglich (§ 55 MarkenG: Unterlassung; § 51 Abs. 4 MarkenG: Nichtigkeit).
-- Abstimmung DPMA-Verfahren und Zivilprozess (Aussetzung, §§ 148, 246 ZPO analog).
+## 6. Rechtsmittel und Fristen
 
-## Checkliste Mehrparteienverfahren
+- Beschwerde gegen DPMA-Beschlüsse richtet sich nach Paragraf 66 MarkenG. Die Monatsfrist läuft grundsätzlich ab Zustellung; Statthaftigkeit, Beschwer und Form anhand der konkreten Entscheidung prüfen.
+- Vor dem Bundespatentgericht rechtliches Gehör, Beweisanträge und Kostenrisiko gesondert planen.
+- Die Rechtsbeschwerde zum Bundesgerichtshof richtet sich nach Paragraf 83 MarkenG; Zulassung und zulassungsfreie Fälle nicht vermischen.
+- Wiedereinsetzung nach Paragraf 91 MarkenG ist kein Ersatz für ordnungsgemäße Fristenkontrolle. Fristbeginn, Fristende, Einreichungsweg und Zahlungsbezug doppelt dokumentieren.
 
-| Schritt | Erledigt? |
-|---|---|
-| Älteres Recht identifiziert und Registerauszug vorhanden | ☐ |
-| Widerspruchsfrist berechnet und eingetragen | ☐ |
-| Nichtbenutzungsrisiko der eigenen älteren Marke bewertet | ☐ |
-| Benutzungsnachweise gesichert und geordnet | ☐ |
-| Mehrere Widersprüche abgestimmt | ☐ |
-| Abgrenzungsvereinbarung geprüft (Möglichkeit, Risiken) | ☐ |
-| Beschwerdestrategie bei DPMA-Niederlage vorbereitet | ☐ |
+## 7. Arbeitsprodukte
 
-## Einstieg
-1. Welches Verfahren ist konkret anstehend (Widerspruch, Löschung, Nichtigkeit)?
-2. Welche älteren Rechte stehen zur Verfügung?
-3. Gibt es mehrere Widersprecher oder kollidierenden Interessen?
-4. Sind Fristen bekannt (Widerspruchsfrist, Beschwerdegrenze)?
-5. Output: Verfahrensstrategie-Memo, Checkliste, Abgrenzungsvereinbarungs-Entwurf?
+1. Mehrparteien-Verfahrenskarte mit Aktenzeichen, Recht, Zeitrang, Frist, Beweis und Verantwortlichem.
+2. Kollisionsmatrix für Zeichen, Waren, Kennzeichnungskraft, Wechselwirkung und Gegenargumente.
+3. Benutzungsdossier mit Belegindex und Zuordnung jedes Belegs zu Zeitraum, Gebiet und Ware.
+4. Schriftsatzgerüst für Widerspruch, Erwiderung, Verfalls- oder Nichtigkeitsantrag mit präzisen Anträgen.
+5. Vergleichskorridor mit Mindestposition, Gegenleistung, Registervollzug und Rücktrittssicherung.
+6. Rechtsmittelmemo mit Zustellung, Frist, Beschwer, Angriffspunkten und fehlenden Belegen.
 
-## Anschluss-Skills
-- `spezial-euipo-internationaler-bezug-und-schnittstellen` – EUIPO-Widerspruch.
-- `spezial-markeng-risikoampel-und-gegenargumente` – Risikoampel Markenrecht.
-- `fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch` – Vollständiger Widerspruchsworkflow.
+## 8. Qualitätskontrolle
 
-## Was dieser Arbeitsgang nicht macht
-- Keine vollständige Beurteilung ohne Kenntnis der konkreten Marken und Registerauszüge.
-- Kein Ersatz für vollständige Mandantenberatung.
+- Ist Paragraf 42 und nicht Paragraf 41 MarkenG als Widerspruchsnorm verwendet?
+- Sind Widerspruch, Verfall, Nichtigkeit und Verletzung als getrennte Wege behandelt?
+- Ist der Zeitrang jedes Rechts mit einem aktuellen Registerbeleg gesichert?
+- Sind Benutzungszeiträume und Warenzuordnung konkret statt formelhaft dargelegt?
+- Sind mehrere Beteiligte, mögliche Interessenkollisionen und Vergleichsvollzug sichtbar gesteuert?
+- Sind Gebühren und Formvorgaben vor Einreichung aus einer aktuellen amtlichen Quelle geprüft, statt als statische Beträge übernommen?
+- Ist das Ergebnis als unmittelbar nutzbare Verfahrenskarte oder Schriftsatzfassung ausgegeben?

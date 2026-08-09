@@ -33,7 +33,7 @@ description: "Wenn es um Aviation Dashboard – Lageüberblick Airline und Flugh
 - **EU-VO 1008/2008 Art. 9**: Laufende Überwachung finanzielle Leistungsfähigkeit durch LBA.
 - **LuftVG § 64**: Luftfahrzeugrolle; Eigentümer- und Halternachweis.
 - **LuftFzgG §§ 1-5**: Pfandrechtsregister beim AG Braunschweig.
-- **Cape Town Convention Art. 16**: ICAO-Register für internationale Sicherungsinteressen.
+- **Cape Town Convention Art. 16**: International Registry für internationale Sicherungsinteressen.
 - **VO EWG 95/93 Art. 10**: Use-it-or-lose-it Slot-Quote.
 - **LuftSiG §§ 8-9**: Sicherheitsprogramme.
 
@@ -85,7 +85,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 - Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
 - AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
+- Bei belegtem Vertragsstaatenbezug: aktuelles Search Certificate des International Registry und gegebenenfalls IDERA-Nachweis der nationalen Registerbehörde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz

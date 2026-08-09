@@ -110,10 +110,10 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | Skill | Wann vorschlagen? |
 |---|---|
 | `vaf-altvertrag-nachziehen` | Altvertrag auf neue Vorlage nachziehen und aktualisieren: Anwendungsfall bestehendes Vertragsverhältnis soll auf neue Vertragsvorlage überführt werden wegen Parteienwechsel, aktualisierter Klauseln oder… |
-| `vaf-bsag-mietvertrag` | BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet Huckelriede liegt vor und muss in Mietvertragsvorlage übertragen werden. §§ 535 ff. BGB Mietvertrag, § 9 UStG Umsatzsteueroption, § 550 BGB… |
+| `vaf-bsag-mietvertrag` | BSAG-Kiosk-Mietvertrag ausfüllen: Term Sheet, Vertretung, Fläche, Nutzung, Miete, Laufzeit, Textform nach Paragraf 578 und 550 BGB, Umsatzsteueroption und Konkurrenzschutz in einen belegten Entwurf überführen. |
 | `vaf-clean-output` | Sauberen finalen Vertragsentwurf mit Ausfüllprotokoll erstellen: Anwendungsfall alle Felder sind ausgefüllt und Quality Gate hat grüne Ampel ergeben; nun wird bereinigte Clean-Version für Unterschrift oder Versand… |
 | `vaf-docx-stripper` | DOCX-Vorlage in strukturierten Text zerlegen: Anwendungsfall Word-Vertragsdokument muss in Absätze, Tabellen, Klauseln, Platzhalter, Anlagen und Signaturblöcke zerlegt werden ohne Originaldatei zu überschreiben. §§ 305… |
-| `vaf-feldinventar` | Feldinventar für Vertragsgenerator erstellen: Anwendungsfall Anwalt oder Mandant will wissen welche Felder im Vertrag auszufüllen sind bevor Rückfrageninterview startet. §§ 550 BGB Schriftformerfordernis Mietvertrag, §… |
+| `vaf-feldinventar` | Feldinventar erstellen: Pflicht-, Wahl-, Quellen- und Risikofelder aus Vorlage, Term Sheet und Gesetz bestimmen; bei Gewerberaummiete aktuelle Textform und Vertragskette berücksichtigen. |
 | `vaf-klauselentscheidung` | Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwendungsfall Vertrag enthält optionale Klauseln wie Umsatzsteueroption Indexierung Konkurrenzschutz Rückbau oder Betriebspflicht die aktiv angekreuzt oder… |
 | `vaf-kommandocenter` | Vertragsausfüller Kommandocenter starten: Anwendungsfall Anwalt oder Mandant möchte Vertrag ausfüllen und gibt Eingabe-Dokument an; Skill erkennt Vorlage Altvertrag Term Sheet oder Freitext und leitet in richtigen… |
 | `vaf-plausibilitaetscheck` | Plausibilitätsprüfung vor Vertragsausgabe: Zahlen Fristen Querverweise und interne Widersprüche prüfen. Anwendungsfall ausgefüllter Vertragsentwurf soll vor Ausgabe auf Rechenfehler und Inkonsistenzen geprüft werden.… |
@@ -144,7 +144,7 @@ Das Plugin deckt alle gaengigen deutschen Vertragstypen ab: Mietvertraege, Arbei
 - **Term Sheet** — Vorvertragliches Eckpunktepapier; Letter of Intent oder Term Sheet werden auf Vertragsfelder gemappt.
 - **Track Changes** — Dokumenten-Änderungsmarkierung in Word (DOCX); wird nur nach ausdrucklicher Bestaetigung ausgegeben.
 - **AGB-Kontrolle** — Prüfung von allgemeinen Geschäftsbedingungen nach §§ 305 bis 310 BGB; strenger Maßstab bei B2C, geringer bei B2B.
-- **Schriftformerfordernis** — § 550 BGB bei Mietvertraegen laenger als ein Jahr; § 125 BGB bei gesetzlicher Schriftform; Fehler macht Vertrag unwirksam.
+- Formanforderung — Wohnraum und Gewerberaum trennen: Für langfristige Grundstücks- und Gewerberaummiete gilt Textform nach Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB. Ein Verstoß macht den Vertrag nicht nichtig, sondern behandelt ihn als unbefristet. Andere gesetzliche Formen und ihre Rechtsfolgen sind gesondert zu prüfen.
 - **Redline** — Uberarbeitete Vertragsfassung mit sichtbaren Änderungen gegenuber dem Ausgangsdokument.
 - **Clean Output** — Bereinigter Vertragsentwurf ohne Platzhalter und Track-Changes für Unterzeichnung oder Versand.
 - **Plausibilitaetscheck** — Prüfung von Betragen, Fristen, Querverweisen und interner Konsistenz vor Ausgabe.
@@ -152,8 +152,9 @@ Das Plugin deckt alle gaengigen deutschen Vertragstypen ab: Mietvertraege, Arbei
 ## Rechtsgrundlagen
 
 - §§ 305 bis 310 BGB — AGB-Recht; Inhaltskontrolle.
-- §§ 125 ff. BGB — Schriftformerfordernisse und Nichtigkeitsfolge.
-- § 550 BGB — Schriftformerfordernis bei Mietvertrag laenger als ein Jahr.
+- Paragraf 125 folgende BGB — gesetzliche und vereinbarte Formen sowie Rechtsfolgen.
+- Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB — Textform langfristiger Grundstücks- und Gewerberaummietverträge.
+- Artikel 229 Paragraf 70 EGBGB — Übergangsrecht für ältere Vertragsketten.
 - § 622 BGB — Kundigungsfristen Arbeitsvertraege.
 - § 2 NachwG — Nachweispflichten im Arbeitsvertrag (Pflichtfelder).
 - § 557b BGB — Indexmiete.
@@ -207,7 +208,7 @@ Das Plugin deckt alle gaengigen deutschen Vertragstypen ab: Mietvertraege, Arbei
 
 ## Worauf besonders achten
 
-- **Schriftformerfordernis ist Fallstrick** — § 550 BGB bei Mietvertraegen laenger als ein Jahr; fehlende Unterschrift oder fehlende Anlage macht den Langzeitmietvertrag in ein Jahresvertrag ohne Kuendigungsschutz umzudeuten.
+- Langzeitmiete ist ein Form- und Beweisfallstrick: Bei Gewerberaum genügen nicht pauschal Papier und Unterschrift, sondern es ist die Textform der vollständigen Vertragskette nach Paragraf 578 Absatz 1 und 550 BGB zu prüfen. Ein Formmangel führt zur unbestimmten Laufzeit; Kündigungstermin und Übergangsrecht sind gesondert zu berechnen.
 - **AGB oder Individualvertrag klären zuerst** — Die Intensitaet der AGB-Kontrolle haengt davon ab; ein Verhandlungsprotokoll kann Individualvertragscharakter begruenden.
 - **Track-Changes-Bestaetigung nicht vergessen** — Das Plugin fragt explizit nach, bevor eine Redline erstellt wird; ohne Bestaetigung wird Clean Output ausgegeben.
 - **Term Sheet ist oft unvollstaendig** — Steuerliche Punkte, USt-Option und Wettbewerbsverbote sind im Term Sheet haeufig nicht geregelt; `vaf-termsheet-mapping` markiert Lucken.

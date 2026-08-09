@@ -1,8 +1,8 @@
-Wenn du das hier öffnest, willst du aus einer Akte sofort eine prozessfähige Route bauen: Zuständigkeit, Frist, Antrag, Tatsachenvortrag, Beweis und nächste Verfügung.
-
 # Aktenauszug Gerichtsverfahren — Schnellstart
 
-Ziel: Strukturierter Aktenauszug für deutsche Gerichtsverfahren: Verfahrensidentifikation Einleitungssatz Verfahrenszusammenfassung Sachverhaltschronologie Verfahrensgeschichte tabellarische Gegenüberstellung der Parteivortraege Beweismittel und Rechtsargumente für schnelle Einarbeitung in Akten. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Wenn du das hier öffnest, willst du aus einer Akte sofort eine prozessfähige Route bauen: Zuständigkeit, Frist, Antrag, Tatsachenvortrag, Beweis und nächste Verfügung.
+
+Ziel: Strukturierter Aktenauszug für deutsche Gerichtsverfahren: Verfahrensidentifikation Einleitungssatz Verfahrenszusammenfassung Sachverhaltschronologie Verfahrensgeschichte tabellarische Gegenüberstellung der Parteivorträge Beweismittel und Rechtsargumente für schnelle Einarbeitung in Akten. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
 - ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
 - ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
-- Paragraf 371 ff. ZPO — Augenscheinsbeweis (Besichtigung, Fotos, Videoaufnahmen); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 373 ff. ZPO — Zeugenbeweis (Ladung, Vernehmung, Eid, Aussageverbot); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 402 ff. ZPO — Sachverständigenbeweis (Bestellung, Gutachtenerstattung, Ablehnung); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 415 ff. ZPO — Urkundenbeweis (öffentlich/privat, Echtheit, Beweiskraft); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 371 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 373 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 402 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 415 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

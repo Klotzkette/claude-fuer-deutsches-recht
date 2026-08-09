@@ -69,7 +69,7 @@ Vor Erlass: nochmalige Belehrung (Paragraf 692 Abs. 1 Nr. 5 ZPO bei MB, gilt for
 ## Strategische Hinweise
 
 - Antrag VB **nicht** zu spaet stellen – sonst neue Hemmung erforderlich.
-- VB sofort vollstrecken (insbesondere Konto-/Lohnpfaendung), Vermögensauskunft beantragen.
+- VB sofort vollstrecken (insbesondere Konto- oder Lohnpfändung), Vermögensauskunft beantragen.
 - Bei verspaetetem Einspruch: VB wirksam.
 - VB ist **keine Sachentscheidung** – bei spaeterem Streit über Anspruch nur Vollstreckungsabwehrklage Paragraf 767 ZPO.
 

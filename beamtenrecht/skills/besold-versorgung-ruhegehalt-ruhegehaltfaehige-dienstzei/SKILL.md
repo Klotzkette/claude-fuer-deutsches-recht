@@ -38,8 +38,7 @@ description: "Wenn es um Besold Versorgung Ruhegehalt Ruhegehaltfaehige Dienstze
 
 ## Versorgungsausgleich bei Scheidung
 
-- §§ 1587 ff. BGB.
-- Externes Versorgungssystem für Ex-Ehepartner.
+- Versorgungsausgleich nach dem VersAusglG; bei Anrechten aus einem öffentlich-rechtlichen Dienstverhältnis insbesondere interne oder externe Teilung und die für den Dienstherrn maßgeblichen Sonderregelungen prüfen.
 
 ## Prüfraster
 

@@ -17,7 +17,7 @@ description: "Wenn es um Strafrechtliche Warnwoerter in Juristische Sprache Deut
 - **Beschuldigter**: gegen Sie wird ermittelt. Sie haben das Recht zu schweigen (§ 136 Abs. 1 StPO) und einen Anwalt hinzuzuziehen.
 - **Vernehmung als Beschuldigter**: vor jeder Vernehmung muss die Belehrung nach § 136 StPO erfolgen. Sie müssen NICHT aussagen.
 - **Anhörung Bussgeldverfahren**: § 55 OWiG; Schweigen ist erlaubt.
-- **Gestaendnis**: ist im Verfahren bindend, kann zu Verurteilung fuehren.
+- **Geständnis**: ist ein Beweismittel, aber weder für Gericht noch Staatsanwaltschaft bindend. Das Gericht würdigt es nach Paragraf 261 StPO im Zusammenhang mit den übrigen Beweisen; ein falsches oder missverstandenes Geständnis kann erhebliche Folgen haben.
 - **Einlassung**: jede Aussage zur Sache ist eine Einlassung.
 - **Anhörungsbogen**: keine Pflicht, ihn ausgefuellt zurueckzuschicken.
 - **Verwarnung mit Strafvorbehalt (§ 59 StGB)**: keine Strafe sofort, aber kann nachgeholt werden.
@@ -29,7 +29,7 @@ description: "Wenn es um Strafrechtliche Warnwoerter in Juristische Sprache Deut
 
 ## Vor jeder Aussage / Unterschrift
 - Habe ich einen Anwalt gefragt? Pflichtverteidigung bei schweren Vorwuerfen.
-- Verstehe ich, was ich unterschreibe? Recht auf Dolmetscher (§ 187 GVG).
+- Verstehe ich, was ich unterschreibe? Im Strafverfahren können Dolmetscher- und Übersetzungsrechte insbesondere aus Paragraf 187 GVG folgen.
 - Schweigen ist mein Recht und in der Regel die sicherste Wahl bis zur Verteidigungsstrategie.
 
 ## Start

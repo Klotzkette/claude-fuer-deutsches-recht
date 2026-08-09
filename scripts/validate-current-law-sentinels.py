@@ -652,9 +652,18 @@ SENTINELS = (
         ),
     ),
     Sentinel(
-        "VIII ZR 242/13 fälschlich als Überwälzungsanker bei unrenovierter Wohnung",
+        "VIII ZR 242/13 fälschlich als alleinige Grundsatzentscheidung zur Überwälzung bezeichnet",
         re.compile(
-            r"VIII\s+ZR\s+242/13.{0,180}(?:unrenoviert|renovierungsbed.rftig)",
+            r"VIII\s+ZR\s+242/13.{0,180}(?:alleinige|eigentliche)\s+Grundsatzentscheidung.{0,120}"
+            r"(?:Überw.lzung|unrenoviert|renovierungsbed.rftig)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "VIII ZR 329/21 fälschlich der mietrechtlichen Schonfristzahlung zugeordnet",
+        re.compile(
+            r"VIII\s+ZR\s+329/21.{0,180}(?:Schonfrist|Mietr.ckstand|ordentliche\s+K.ndigung)|"
+            r"(?:Schonfrist|Mietr.ckstand|ordentliche\s+K.ndigung).{0,180}VIII\s+ZR\s+329/21",
             re.IGNORECASE,
         ),
     ),
@@ -1749,6 +1758,7 @@ SENTINEL_HINTS = (
     ("viii zr 17/16",),
     ("viii zr 185/14",),
     ("viii zr 242/13",),
+    ("viii zr 329/21",),
     ("viii zr 103/06",),
     ("viii zr 195/10",),
     ("xii zb 201/16",),

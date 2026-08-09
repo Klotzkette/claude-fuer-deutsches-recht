@@ -39,7 +39,7 @@ description: "Wenn es um Honorar, Gebühren und Vergütung in Berufsrecht Anwäl
 Konkret zu prüfen:
 
 - § 49b BRAO
-- § 4 RVG (Vergütungsvereinbarung)
+- Paragraf 3a RVG (Vergütungsvereinbarung)
 - § 14 RVG (Rahmengebühr)
 - BGH NJW 2017, 2336
 - §§ 3, 4 RVG

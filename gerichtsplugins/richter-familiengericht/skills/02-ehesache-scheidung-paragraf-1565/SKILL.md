@@ -7,7 +7,7 @@ description: "Wenn es um 02 Ehesache Scheidung Paragraf 1565 in Familiengericht 
 
 ## Zweck
 
-Scheidungsverfahren Paragrafen 1564 ff. BGB i.V.m. Paragrafen 121 ff. FamFG: Trennungsjahr Paragraf 1566, Zerruettung Paragraf 1565, Versorgungsausgleich Paragraf 1587, Folgesachen Paragraf 137 FamFG (Unterhalt, Sorgerecht, Zugewinn, Hausrat, Ehewohnung)
+Scheidungsverfahren nach den Paragrafen 1564 bis 1568 BGB in Verbindung mit den Paragrafen 121 bis 150 FamFG: Trennungsjahr und Scheiternsvermutung nach Paragraf 1566 BGB, Scheitern der Ehe nach Paragraf 1565 BGB, Versorgungsausgleich nach dem VersAusglG sowie Folgesachen und Verbund nach Paragraf 137 FamFG.
 
 ## Rolle
 

@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du einen Phishing- oder Online-Banking-Missbrauch sofort nach Autorisierung, Authentifizierung, Erstattung, Gegenanspruch, Beweislast und nächstem Sicherungsschritt ordnen.
-
 # Phishing Vorfall Prüfer — Schnellstart
+
+Wenn du das hier öffnest, willst du einen Phishing- oder Online-Banking-Missbrauch sofort nach Autorisierung, Authentifizierung, Erstattung, Gegenanspruch, Beweislast und nächstem Sicherungsschritt ordnen.
 
 Ziel: Freistehender Phishing-Vorfall-Prüfer für Online-Banking: BGB Paragraf 675u, Paragraf 675v, Paragraf 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Bankpflichten, Schlichtung und Klage. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -38,7 +38,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Sofortsicherung | Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zahlungskette | jede Buchung nach Betrag, Empfänger, Zeitpunkt, Auftrag, Autorisierung, Gerät, TAN-Anzeige, Freigabeschritt und Rückholung einzeln erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zahlungskette | Jede Buchung nach Betrag, Empfänger, Zeitpunkt, Auftrag, Autorisierung, Gerät, TAN-Anzeige, Freigabeschritt und Rückholung einzeln erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Technischer Nachweis | Authentifizierungsprotokoll, Gerätebindung, IP- und Sitzungsdaten, dynamische Verknüpfung, Warntexte, Störung und Anomalieprüfung konkret anfordern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anspruch und Gegenanspruch | Erstattung nach BGB Paragraf 675u, Anzeigeobliegenheit, Autorisierung, grobe Fahrlässigkeit, starke Kundenauthentifizierung und mögliche Anspruchskürzung getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 

@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du einen Bank-, Kapitalmarkt- oder Zahlungsdienstevorgang sofort nach Vertrag, Aufsicht, Beratung, Haftung und Beweislast sortieren.
-
 # Fachanwalt Bank Kapitalmarktrecht — Schnellstart
+
+Wenn du das hier öffnest, willst du einen Bank-, Kapitalmarkt- oder Zahlungsdienstevorgang sofort nach Vertrag, Aufsicht, Beratung, Haftung und Beweislast sortieren.
 
 Ziel: Plugin Fachanwalt für Bank- und Kapitalmarktrecht. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR Verbraucherkredit Bürgschaft Aval Bankgarantie Vermögensanlage Beratungshaftung. Schnittstellen Plugin gesellschaftsrecht regulatorisches-recht. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - KWG Paragraf 25a: ordnungsgemäße Geschäftsorganisation und Risikomanagement.
 - WpHG Paragraf 63: Wohlverhaltenspflichten im Wertpapierdienstleistungsgeschäft.
 - BGB Paragraf 675f: Zahlungsdiensterahmenvertrag und Zahlungsdienstepflichten.
-- Paragraf 1 Abs. 1 KWG — Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG — ordnungsgemäße Geschäftsorganisation. - Paragraf 44 Abs; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1 Abs. 1 KWG — Bankgeschäfte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 25a Abs. 1 KWG — ordnungsgemäße Geschäftsorganisation; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 44 Abs. 1 KWG — Auskunfts- und Prüfungsrechte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

@@ -1,186 +1,89 @@
 ---
 name: fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf
-description: "Wenn es um Lebensversicherung Rückkauf in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Kündigung, Rückkaufswert, Stornoabzug, Überschussbeteiligung und einen möglichen Widerruf von Lebens- und Rentenversicherungen nach Vertragsgeneration und Bedingungswerk. Liefert eine belegte Berechnung, Anspruchsmatrix und einen versandfähigen Entwurf."
 ---
 
-# Lebensversicherung Rückkauf
+# Rückkaufswert und Rückabwicklung einer Lebensversicherung
 
-## Zweck
+## 1. Direktstart
 
-Mandate bei Streit über Rückkaufswerte / Widerruf Lebensversicherung.
+Lies zuerst Police, Antrag, Verbraucherinformationen, Versicherungsbedingungen, Nachträge, jährliche Standmitteilungen, Prämienkonto, Kündigung oder Widerruf und die Abrechnung des Versicherers. Frage nur nach Unterlagen, deren Fehlen Berechnung oder Anspruchsgrund ändert.
 
-## 1) Rückkauf § 169 VVG
+Erzeuge als erste Ausgabe:
 
-### Voraussetzungen
+1. Vertrags- und Ereigniszeitleiste,
+2. Trennung von Kündigung, Beitragsfreistellung und Widerruf,
+3. Rechenblatt zum ausgezahlten und zum überprüfbaren Betrag,
+4. Liste der fehlenden Rechnungsgrundlagen,
+5. nächsten fristgebundenen Schritt.
 
-- Vertrag läuft mindestens 1 Versicherungs-Jahr
-- Versicherungs-Pflichtbeitrag erbracht
-- Rückkauf-Antrag
+## 2. Rechtliche Weichen
 
-### Rückkaufswert
+2.1. Bestimme Abschlussdatum, Versicherungsart, Tarif, Vertragsgeneration und anwendbares Übergangsrecht. Alt- und Neurecht dürfen nicht vermischt werden.
 
-- Zeitwert (Aktiv-Vermögen abzueglich noetiger Reserven)
-- Mindestbetrag § 169 III VVG (1/3 der gezahlten Praemien)
-- Anteil an Bewertungsreserven
+2.2. Prüfe, ob eine Kündigung nach Paragraf 168 VVG, eine Beitragsfreistellung nach Paragraf 165 VVG oder ein Widerruf erklärt wurde. Diese Gestaltungsrechte haben unterschiedliche Voraussetzungen und Abrechnungsfolgen.
 
-### Stornogebuehr
+2.3. Bei einem behaupteten Belehrungsfehler stelle den vollständigen Belehrungstext, die damals geltende Normfassung, die überlassenen Unterlagen, den Zugang und das spätere Verhalten des Versicherungsnehmers gegenüber. Ein zeitlich unbeschränktes Lösungsrecht darf nicht allein aus dem Stichwort „Widerrufsjoker“ abgeleitet werden.
 
-- Bei alten Verträgen oft Rückforderung möglich
+## 3. Rückkaufswert nach Paragraf 169 VVG
 
-## 2) Widerrufs-Joker
+3.1. Bei einer klassischen kapitalbildenden Versicherung ist das nach anerkannten Regeln der Versicherungsmathematik mit den Rechnungsgrundlagen der Prämienkalkulation berechnete Deckungskapital Ausgangspunkt.
 
-### Hintergrund
+3.2. Bei Kündigung darf der Betrag nicht unter dem Deckungskapital liegen, das sich bei gleichmäßiger Verteilung der angesetzten Abschluss- und Vertriebskosten auf die ersten fünf Vertragsjahre ergibt. Eine pauschale Quote der gezahlten Prämien ist kein gesetzlicher Mindestwert.
 
-- Fehlerhafte Widerrufsbelehrung in Versicherung
-- Bei BGH-Bestätigung: Vertrag kann auch nach Jahren widerrufen werden
+3.3. Bei fondsgebundenen Verträgen ist grundsätzlich der Zeitwert der Versicherung maßgeblich, soweit keine bestimmte Leistung garantiert ist. Verlange Fondsbestand, Anteilwerte, Bewertungsstichtag, Kostenbuchungen und Berechnungsgrundsätze.
 
-### Voraussetzung
+3.4. Ein Abzug vom errechneten Betrag ist nur zulässig, wenn er vereinbart, beziffert und angemessen ist. Ein Abzug für noch nicht getilgte Abschluss- und Vertriebskosten ist unwirksam. Trenne deshalb Deckungskapital, Stornoabzug, Kostenverrechnung und Marktwertbewegung.
 
-- Belehrung musste konkret falsch sein
-- Im Vertrag wesentliches Element fehlend
-- BGH-Linie streng
+3.5. Prüfe zusätzlich bereits zugeteilte Überschussanteile, den bedingungsgemäßen Schlussüberschuss und die Beteiligung an Bewertungsreserven nach Paragraf 153 VVG. Weise Berechnung und Quellen jeweils getrennt aus.
 
-### Folge
+## 4. Berechnungsmatrix
 
-- Rückabwicklung: alle gezahlten Praemien plus Zinsen abzueglich Nutzungs-Vorteile
-- Auch bei Ablauf
+| Position | Angabe Versicherer | Aktenbeleg | Kontrollrechnung | Offen |
+| --- | --- | --- | --- | --- |
+| gezahlte Prämien | [Betrag] | Prämienkonto | Summe nach Wertstellung | [ja/nein] |
+| Risikoanteile | [Betrag] | Tarifunterlagen | Zeitraum und versichertes Risiko | [ja/nein] |
+| Deckungskapital oder Zeitwert | [Betrag] | Abrechnung | Rechnungsgrundlagen anfordern | [ja/nein] |
+| Abschluss- und Vertriebskosten | [Betrag] | Produktinformation | Verteilung über fünf Vertragsjahre prüfen | [ja/nein] |
+| Stornoabzug | [Betrag] | Bedingungsklausel | Vereinbarung, Bezifferung, Angemessenheit | [ja/nein] |
+| Überschüsse und Bewertungsreserven | [Betrag] | Standmitteilungen | Zuteilung und Beendigungsstichtag | [ja/nein] |
+| Auszahlung | [Betrag] | Kontoauszug | Differenz zur Abrechnung | [ja/nein] |
 
-## 3) Bewertungs-Reserve
+Keine Position schätzen, wenn die Rechnungsgrundlage beim Versicherer angefordert werden kann. Annahmen sichtbar markieren und eine Variante ohne die streitige Position ausweisen.
 
-- Stille Reserven Versicherer (Aktien, Festverzinsliche)
-- Anspruch des Vers.-Nehmers bei Beendigung
-- BVerfG-Linie zur Beteiligung
+## 5. Widerrufsprüfung
 
-### Streit-Punkte
+1. damals geltende Norm und Vertragsmodell bestimmen,
+2. Belehrung Wort für Wort erfassen,
+3. Pflichtinformationen und Zugang belegen,
+4. konkrete Abweichung und deren rechtliche Erheblichkeit benennen,
+5. Ausübung, Vorverhalten und mögliche Einwendungen prüfen,
+6. Rechtsfolgen nach der einschlägigen Vertragsgeneration berechnen,
+7. Risikoanteile, bereits erhaltene Leistungen und behauptete Nutzungen nur mit Tatsachengrundlage ansetzen.
 
-- Höhe der Reserve
-- Berechnungs-Methode
-- Verteilungs-Schlüssel
+Für Lebensversicherungen beträgt die reguläre Widerrufsfrist nach Paragraf 152 VVG dreißig Tage. Ob sie begonnen hat und welche Folgen ein Belehrungsfehler hat, ist anhand des bei Vertragsschluss geltenden Rechts zu prüfen.
 
-## 4) Workflow
+## 6. Beweis- und Anspruchsarbeit
 
-### Phase 1 — Vertrag prüfen
+- Versicherungsnehmer: Vertrag, Erklärung, Zahlungen, Zugang eigener Schreiben und geltend gemachte Differenz belegen.
+- Versicherer: Abrechnung nachvollziehbar erläutern und die tatsächlichen sowie vertraglichen Grundlagen eines Abzugs offenlegen.
+- Streitige Nutzungen: konkrete Anlage- oder Ertragsgrundlage statt pauschaler Renditebehauptung verlangen.
+- Verjährung: Anspruch, Entstehung, Kenntnis, Hemmung und Neubeginn getrennt nach BGB Paragrafen 195 und 199 prüfen.
 
-- Vertragsbeginn (vor / nach 1.1.2008 — VVG-Reform)
-- Belehrungs-Text
-- Bisherige Praemien-Höhe
+## 7. Arbeitsprodukte
 
-### Phase 2 — Berechnung
+Je nach Auftrag liefere eines oder mehrere der folgenden Produkte:
 
-- Rückkaufs-Modell
-- Vergleich Auszahlungs-Angebot vs. Rechtsanspruch
+1. Rückkaufswert- und Abweichungsrechnung,
+2. Auskunfts- und Beleganforderung an den Versicherer,
+3. Kündigungs- oder Beitragsfreistellungsschreiben,
+4. rechtlich begründete Widerrufserklärung,
+5. Zahlungsaufforderung mit bezifferter Hauptforderung,
+6. Klageentwurf mit Antrag, Berechnung, Beweisangeboten und Anlagenverzeichnis,
+7. Mandantenbrief mit Ergebnis, Kosten-, Zeit- und Prozessrisiko.
 
-### Phase 3 — Widerrufs-Prüfung
+## 8. Quellenstatus und Schlusskontrolle
 
-- Belehrung gegen BGH-Linie
-- Bei Mangel: Widerrufs-Schreiben
+Erste Normanker sind VVG Paragrafen 152, 153, 165, 168 und 169 sowie BGB Paragrafen 195 und 199. Verwende eine Entscheidung nur, wenn Gericht, Datum, Aktenzeichen, Vertragsgeneration, Klausel und tragende Aussage verifiziert sind.
 
-### Phase 4 — Versicherer-Antwort
-
-- Bei Anerkennung: Auszahlung
-- Bei Ablehnung: Klage AG / LG
-
-### Phase 5 — Klage
-
-- Streitwert: Differenz Auszahlung Angebot vs. Rechtsanspruch
-- Spezialist-Anwalt empfohlen
-
-## 5) Aktualität — BGH-Linien
-
-
-## 6) Honorar
-
-- Beratung pauschal 500-1.500 EUR
-- Klage nach Streitwert
-- Rechtsschutz-Versicherung typisch zuschussfähig
-
-## 7) Typische Fehler
-
-1. **Auszahlungs-Angebot ohne Prüfung akzeptiert**
-2. **Widerrufs-Recht-Prüfung versäumt**
-3. **Stornogebuehr-Höhe nicht angefochten**
-4. **Bewertungs-Reserven-Anteil ignoriert**
-5. **Verjaehrung 3 Jahre** überschritten
-
-## Anschluss
-
-- `fachanwalt-versicherungsrecht-do-deckungsabwehr` — bei D&O-Streit
-- `fachanwalt-versicherungsrecht-berufsunfaehigkeit-klage` — bei BU
-- `deckungsanfrage-pruefen` — Prüfraster
-
-## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Paragrafenkette
-
-§ 169 VVG (Rückkaufswert, Mindestbetrag) → § 153 VVG (Überschussbeteiligung) → § 165 VVG (Beitragsfreistellung) → §§ 8, 9 VVG (Widerrufsrecht) → § 307 BGB (AGB-Inhaltskontrolle Stornogebühren) → § 346 BGB (Rückabwicklung nach Widerruf) → § 195 BGB (Verjährung 3 Jahre) → § 199 BGB (Kenntnis-Beginn)
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-### Fristen-Übersicht
-
-| Situation | Frist | Rechtsgrundlage |
-|---|---|---|
-| Widerrufsrecht (ordnungsgemäß belehrt) | 30 Tage ab Belehrung | § 8 Abs. 1 VVG |
-| Verjährung Rückkaufswert-Differenz | 3 Jahre ab Kenntnis | §§ 195, 199 BGB |
-| Verjährung (absolute Höchstfrist) | 10 Jahre ab Entstehung | § 199 Abs. 4 BGB |
-
-## Triage — Sofortprüfung Lebensversicherung Rückkauf
-
-1. **Vertragsabschluss vor oder nach 01.01.2008?** → Vor 2008 (alter VVG): Widerrufs-Joker prüfen; nach 2008 § 8 VVG (30-Tage-Frist).
-2. **Belehrungstext prüfen:** Entspricht er dem Gesetzesmuster? Wesentliche Elemente (Fristbeginn, Form, Rechtsfolgen) klar angegeben?
-   - Korrekt → ordentlicher Widerruf nur innerhalb von 30 Tagen möglich.
-3. **Rückkaufswert-Berechnung:** Angebot des Versicherers mit gesetzlichem Mindestbetrag § 169 Abs. 3 VVG abgleichen.
-4. **Stornogebühren im Vertrag?** → AGB-Kontrolle § 307 BGB; unwirksam wenn Rückkaufswert unter Mindestbetrag fällt.
-5. **Bewertungsreserven berücksichtigt?** → Versicherer muss hälftig zuweisen (§ 153 Abs. 3 VVG); Prüfung ggf. über BaFin-Auskunft.
-6. **Verjährung beachten:** Kenntnis des Mandanten vom fehlerhaften Angebot; bei mehr als 3 Jahren seit Kenntnis Hemmungstatbestand prüfen.
-
-## Schritt-für-Schritt-Workflow
-
-1. **Vertragsunterlagen vollständig einholen:** Police, Widerrufsbelehrung, alle Nachträge; Prämien-Kontoauszüge der gesamten Laufzeit.
-2. **Belehrung analysieren:** Gegen BGH-Muster und gesetzliches Muster abgleichen.
-3. **Rückkaufswert-Berechnung prüfen:** Eigenberechnung nach § 169 VVG; Bewertungsreserven gesondert.
-4. **Widerrufserklärung erstellen** (falls fehlerhafte Belehrung): schriftlich, empfangsbestätigt, alle Policen-Nummern nennen.
-5. **Aufforderungsschreiben:** Rückzahlung aller Prämien + Zinsen (§ 246 BGB mindestens, oft marktübliche Rendite) abzüglich Risikoprämie.
-6. **Bei Ablehnung:** Klage AG/LG je nach Streitwert (Streitwert = eingezahlte Prämien - genossener Versicherungsschutz + Zinsen).
-7. **BaFin-Beschwerde** parallel als Druckmittel.
-
-## Output-Template — Widerrufserklärung Lebensversicherung
-
-```
-An [VERSICHERER GmbH / AG]
-[ANSCHRIFT]
-
-Per Einschreiben mit Rückschein
-
-Datum: [DATUM]
-Kläger: [NAME MANDANT], geb. [GEBURTSDATUM], [ADRESSE]
-Versicherungs-Nr.: [POLICENNUMMER]
-
-Widerruf / Rücktritt vom Lebensversicherungsvertrag
-
-Sehr geehrte Damen und Herren,
-
-namens und in Vollmacht meines Mandanten [NAME] erkläre ich hiermit
-den Widerruf vom Lebensversicherungsvertrag Nr. [POLICENNUMMER]
-vom [ABSCHLUSSDATUM].
-
-Begründung:
-Die Widerrufsbelehrung entspricht nicht den gesetzlichen Anforderungen
-des § __ VVG [a.F./n.F.]. [Konkret: fehlendes Element]. Die
-
-Ich fordere Sie auf, bis zum [DATUM + 4 WOCHEN] folgendes zurückzuzahlen:
-- Alle eingezahlten Prämien: EUR [BETRAG GESAMT]
-- Abzüglich Risiko-Prämien (Todesfallschutz): EUR [ABZUG]
-- Zzgl. Nutzungszinsen: EUR [ZINSEN] (Berechnungsgrundlage: 5 %
-  über Basiszinssatz / marktübliche Rendite)
-= Gesamtrückforderung: EUR [SUMME]
-
-Bei Nichterfüllung bis [FRIST]: Klageerhebung ohne weitere Ankündigung.
-
-Mit freundlichen Grüßen
-[KANZLEI, UNTERSCHRIFT, DATUM]
-Anlage: Vollmacht
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Kontrolliere vor Ausgabe: Vertragsgeneration, Gestaltungsrecht, Berechnungsstichtag, Rechnungsgrundlage, Abzüge, Überschüsse, Verjährung, Bezifferung, Belege und gewünschtes Arbeitsprodukt.

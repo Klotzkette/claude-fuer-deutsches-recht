@@ -1,69 +1,46 @@
 ---
 name: gewerberaum-mietzeit-und-kuendigung
-description: "Wenn es um Gewerberaum Mietzeit Und Kuendigung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Laufzeit und Beendigung von Gewerberaummietverträgen: Festlaufzeit, Optionen, ordentliche und außerordentliche Kündigung, aktuelles Textformrecht, Zugang, Räumung und Nutzungsentschädigung; liefert Fristen- und Prozessplan."
 ---
 
-# Gewerberaum-Spezial: keine Sozialklausel, keine Schriftform-Heilung nach BGH-Rechtsprechung, Probleme der Schriftform-Klausel § 550 BGB, Festmietzeit, ausserordentliche Kuendigung wichtiger Grund
+# Gewerberaum: Mietzeit und Kündigung
 
+## 1. Direkter Arbeitsbeginn
 
-## Arbeitsweg
+Lies Vertrag, Nachträge, Kündigung, Zustellnachweise und Korrespondenz. Frage nur nach einer entscheidenden Lücke. Halte sodann in einer Zeitleiste fest: Vertragsschluss, Überlassung, Laufzeitbeginn, Optionen, Änderungen, Störungen, Abmahnungen, Kündigung, Zugang und geplanter Rückgabetermin.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Prüfungsreihenfolge
 
-**Fokus:** Gewerberaum-Spezial: keine Sozialklausel, keine Schriftform-Heilung nach BGH-Rechtsprechung, Probleme der Schriftform-Klausel § 550 BGB, Festmietzeit, ausserordentliche Kuendigung wichtiger Grund. Prüfraster bei Schriftformmaengeln und langfristigen Vertraegen.
+1. Vertragstyp und Mietgegenstand abgrenzen.
+2. Feste Laufzeit, Verlängerungsklausel und Optionsausübung auslegen.
+3. Ordentliche Kündbarkeit aus Vertrag und Gesetz prüfen.
+4. Textform nach Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB einschließlich Übergangsrecht einordnen.
+5. Wichtigen Grund nach Paragraf 543 BGB, Abmahnung und Interessenabwägung prüfen.
+6. Kündigungserklärung, Vertretung, Vollmachtsvorlage, Zugang und Termin bewerten.
+7. Rückgabe, Räumung, Nutzungsentschädigung, Sicherheit und Rückbau abarbeiten.
+8. Prozessziel, Beweisangebote, Kosten und Vergleichskorridor bestimmen.
 
-### Gewerberaum: Mietzeit/Kuendigung
+## 3. Gewerberaumspezifische Fallweichen
 
-## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gewerberaum: Mietzeit/Kuendigung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
-- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+- Eine wohnraummietrechtliche Sozialklausel wird nicht schematisch übertragen.
+- Vertragszweck, Betriebspflicht, Konkurrenzschutz, behördliche Genehmigungen und Gebrauchstauglichkeit können den wichtigen Grund prägen.
+- Bei Zahlungsverzug werden Rückstände nach Fälligkeit, Tilgungsbestimmung und streitiger Minderung getrennt berechnet.
+- Bei Störung der Geschäftsgrundlage nach Paragraf 313 BGB bleibt die vorrangige vertragliche Risikozuweisung sichtbar.
+- Optionsvereinbarung und Optionsausübung sind getrennte Vorgänge; BGH, Urteil vom 21. November 2018, XII ZR 78/17.
+- Eine Schriftformheilungsklausel ist kein sicherer Kündigungsausschluss; BGH, Urteil vom 27. September 2017, XII ZR 114/16. Die Entscheidung ist als Altrechtsentscheidung mit dem seit 2025 geltenden Textformrecht einzuordnen.
 
-## Spezialwissen: Gewerberaum: Mietzeit/Kuendigung
-- **Normen-/Quellenanker:** BGH, BGB.
+## 4. Terminmatrix
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+| Erklärung oder Ereignis | Datum | Rechtsgrundlage | Zugang oder Beleg | Folge und Termin |
+| --- | --- | --- | --- | --- |
+| Überlassung |  | Paragraf 550 BGB |  |  |
+| Optionsausübung |  | Vertrag |  |  |
+| Abmahnung |  | Paragraf 543 BGB |  |  |
+| Kündigung |  | Vertrag oder Gesetz |  |  |
+| Rückgabe |  | Paragraf 546 BGB |  |  |
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+## 5. Output
 
-## Prüfraster
+Liefere einen ausformulierten Prüfvermerk mit Haupt- und Gegenposition, einen Fristen- und Beweisplan sowie das benötigte Außenprodukt: Kündigung, Zurückweisung, Räumungsaufforderung, Feststellungs- oder Räumungsklage, Erwiderung oder Vergleich. Benenne exakt, welcher Betrag, Termin oder Vertragsbestandteil noch belegt werden muss.
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+> Quellenregel: Tragende Normen und Entscheidungen vor Außenverwendung anhand amtlicher Quellen verifizieren.

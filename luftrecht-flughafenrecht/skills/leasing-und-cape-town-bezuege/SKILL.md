@@ -1,82 +1,71 @@
 ---
 name: leasing-und-cape-town-bezuege
-description: "Wenn es um Leasing und Cape Town – Flugzeugsicherung im internationalen Leasing in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Flugzeugleasing und internationale Sicherungsrechte ohne vorschnelle Anwendungsannahme; liefert Vertragsstaatenprüfung, Rechte- und Registermatrix, IDERA-Status, Rangbild und vollzugsfähigen Closing-Plan."
 ---
 
-# Leasing und Cape Town – Flugzeugsicherung im internationalen Leasing
+# Flugzeugleasing und Kapstadt-Bezüge
 
-## Arbeitsweg
+## 1. Anwendbarkeit vor Registersuche
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: LuftVG; LuftSiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Beginne mit Leasingvertrag, Parteien, Sitz und COMI des Schuldners, Luftfahrzeug- und Triebwerksdaten, Registrierungsstaat, Registerauszügen und Closing-Unterlagen. Eine Rechtswahl oder die Verwendung eines internationalen Vertragsmusters macht das Kapstadt-Regime nicht automatisch anwendbar.
 
-## Mandantenfall
+Deutschland hat Übereinkommen und Luftfahrzeugprotokoll am 17. September 2002 unterzeichnet, aber nach dem aktuellen UNIDROIT-Status nicht ratifiziert. Bei einem rein deutschen Sachverhalt gelten daher vorrangig LuftFzgG, nationale Register-, Sachen-, Insolvenz- und Vollstreckungsregeln. Bei internationalem Bezug ist der maßgebliche Vertragsstaat samt Erklärungen zu belegen.
 
-- Irischer Leasinggeber verleast Boeing an deutsche Regionalairline (Dry-Lease); Vertrag nach englischem Recht; Sicherungsinteresse soll im ICAO-Register eingetragen werden.
-- Wet-Lease-Arrangement: ausländische Airline stellt deutschem Carrier Flugzeug mit Crew zur Verfügung; AOC-Fragen und Betriebsgenehmigung unklar.
-- Finance-Lease läuft aus; Airline will Kaufoption ausüben; Umschreibung in Luftfahrzeugrolle nötig.
+## 2. Prüfmatrix
 
-## Erste Schritte
+| Prüffeld | Frage | Beleg | Ergebnis |
+| --- | --- | --- | --- |
+| Schuldner | Wo befindet sich der maßgebliche Schuldner nach dem Übereinkommen? | Register, Gesellschaftsdaten | Vertragsstaatenbezug |
+| Objekt | Airframe, Hubschrauber oder Triebwerk erfasst und individualisiert? | Hersteller, Modell, Seriennummer | Objektbereich |
+| Vereinbarung | Entsteht ein internationales Sicherungsrecht? | Leasing, Sicherungsvertrag | materieller Bestand |
+| Registrierung | Welche Eintragung besteht im International Registry? | Search Certificate | Rang und Parteien |
+| Erklärungen | Welche Erklärungen hat der Staat abgegeben? | UNIDROIT-Status | Rechtsfolgen |
+| IDERA | Ist sie bei der national zuständigen Registerbehörde erfasst? | Behördennachweis | Vollzugsweg |
+| Inland | Welche nationalen Rechte bestehen daneben? | Luftfahrzeugrolle, Pfandrechtsregister | Kollisionsbild |
 
-1. Leasingtyp bestimmen: Dry-Lease (Flugzeug ohne Crew Leasingnehmer nutzt eigenes AOC) Wet-Lease (Flugzeug mit Crew und AOC des Leasinggebers) Finance-Lease (wirtschaftliches Eigentum beim Leasingnehmer).
-2. Cape Town Registration: internationales Sicherungsinteresse des Leasinggebers im ICAO-Register eintragen; IDERA hinterlegen.
-3. IDERA-Prüfung: ermöglicht Entregistrierung bei Vertragsbruch ohne Gerichtsverfahren.
-4. Wet-Lease: LBA-Genehmigung nach LuftVG § 21a; EU-intern EU-VO 1008/2008 Art. 13; AOC bleibt beim Verleasenden.
-5. Nationales Pfandrecht: Falls Deutschland als Registrierungsstaat Pfandrecht beim AG Braunschweig eintragen.
-6. Insolvenzschutz: Aircraft Protocol Alternative A in Deutschland prüfen.
+## 3. Normstruktur richtig zuordnen
 
-## Rechtsrahmen
+- Artikel 2 des Übereinkommens beschreibt das internationale Sicherungsrecht; die formellen Voraussetzungen stehen insbesondere in Artikel 7.
+- Artikel 16 errichtet das Internationale Registrierungssystem. Eine Eintragung schafft nicht den zugrunde liegenden Vertrag, sondern beeinflusst insbesondere die Priorität.
+- Artikel 29 des Übereinkommens enthält die Grundregel für Prioritäten; Artikel XIV des Luftfahrzeugprotokolls modifiziert sie.
+- Artikel 30 des Übereinkommens behandelt Wirkungen in der Insolvenz.
+- Artikel IX des Protokolls ergänzt Rechtsbehelfe, insbesondere Entregistrierung und Ausfuhr unter seinen Voraussetzungen.
+- Artikel XI des Protokolls enthält die Insolvenzalternativen A und B, aber nur für Staaten und Fälle, in denen die erforderliche Erklärung und Anwendbarkeit vorliegen.
+- Artikel XII des Protokolls regelt Unterstützung in Insolvenzfällen, nicht die Rangfolge.
+- Artikel XIII des Protokolls betrifft IDERA; die Erfassung erfolgt bei der zuständigen Registerbehörde des Registrierungsstaats, nicht als bloßer Eintrag im International Registry.
 
-- **Cape Town Convention Art. 2**: Internationale Sicherungsinteressen; Entstehung durch Vertrag und ICAO-Registrierung.
-- **Cape Town Convention Art. 9**: Schutz des gesicherten Gläubigers; Remedies bei Default.
-- **Aircraft Protocol Art. IV**: Dry-Lease-Gleichstellung; Recht des Registrierungsstaats auf IDERA.
-- **Aircraft Protocol Art. XI**: Insolvenzschutz Alternative A/B.
-- **EU-VO 1008/2008 Art. 13**: Wet-Lease innerhalb der EU; Genehmigungspflicht.
-- **LuftVG § 21a**: Wet-Lease mit Drittlands-Carrier; Sondergenehmigung LBA.
-- **LuftFzgG §§ 1-5**: Nationales Pfandrecht; Eintragung AG Braunschweig.
+## 4. Closing und Vollzug
 
-## Prüfraster
+1. Corporate authority, Eigentums- und Leasingkette sowie Objektidentifikation prüfen.
+2. Nationale Registerabfragen und internationale Search Certificates mit Abrufzeitpunkt sichern.
+3. Registrierungsparteien, consent, priority search und discharge mechanics festlegen.
+4. IDERA nur dort verwenden, wo das Protokoll gilt und die nationale Behörde das Instrument anerkennt.
+5. Versicherungszertifikate, Wartungsreserven, Rückgabebedingungen und Exportfreigaben mit Sicherheitenpaket verzahnen.
+6. Closing-Reihenfolge mit Bedingungen, Verantwortlichen, Zeitstempeln und Nachweisen dokumentieren.
 
-1. Welcher Leasingtyp liegt vor (Dry/Wet/Finance)?
-2. Ist internationales Sicherungsinteresse im ICAO-Register eingetragen?
-3. Ist IDERA korrekt hinterlegt?
-4. Gilt EU-VO 1008/2008 Art. 13 für Wet-Lease?
-5. Hat Deutschland Alternative A des Aircraft Protocols erklärt?
-6. Ist Cape-Town-Eintrag zeitlich vor nationalem Pfandrecht?
+## 5. Störungs- und Insolvenzfall
 
-## Typische Fallstricke
+- Default, Kündigung, Besitz, Entregistrierung, Ausfuhr und Verwertung als getrennte Schritte prüfen.
+- Vor jeder Selbsthilfemaßnahme Besitzrecht, anwendbares Recht, behördliche Zuständigkeit und gerichtliche Sicherung klären.
+- Bei Insolvenz COMI, Eröffnungsstaat, Vertragsstaatenerklärungen und nationales Aussonderungs- oder Absonderungsrecht nebeneinanderlegen.
+- Alternative A niemals mit einer pauschalen Frist behaupten; Erklärung des maßgeblichen Staates und konkret geltenden Zeitraum aus amtlicher Quelle belegen.
+- Für deutsche Schuldner die fehlende deutsche Ratifikation ausdrücklich in die Risikobewertung aufnehmen.
 
-- IDERA nicht hinterlegt; Entregistrierungsrecht fehlt bei Vertragsbruch.
-- Wet-Lease ohne LBA-Genehmigung; Betrieb illegal.
-- Finance-Lease als Dry-Lease deklariert; steuerliche und rechtliche Konsequenzen.
-- Aircraft-Protocol-Alternative ignoriert; Insolvenzschutz schwächer als erwartet.
+## 6. Arbeitsprodukte
 
-## Quellen
+1. Vertragsstaaten- und Erklärungsmatrix mit amtlichem Abrufdatum.
+2. Objekt- und Rechtekette für Airframe und jedes Triebwerk.
+3. Rangmatrix aus nationalen Rechten und tatsächlich anwendbaren internationalen Registrierungen.
+4. Closing Checklist mit Search Certificates, consents, filings und Freigaben.
+5. Default-Playbook mit zulässiger Maßnahme, Voraussetzung, Behörde und Beleg.
+6. Local-Counsel-Briefing mit klar abgegrenzten Fragen statt vorgegebenem Ergebnis.
 
-- Cape Town Convention: https://www.unidroit.org/instruments/security-interests/aircraft-protocol/
-- ICAO Register: https://www.internationalregistry.aero
-- EU-VO 1008/2008: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32008R1008
-- LuftFzgG: https://www.gesetze-im-internet.de/luftfzgg/
+## 7. Schlusskontrolle
 
-## Hinweise für die Praxis
-
-Dieser Skill deckt den Bereich Luftrecht ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
-
-- Einschlägige Normen vor Mandatsbearbeitung vollständig auf aktuelle Fassung prüfen.
-- Behördenanschreiben stets mit Aktenzeichen und Fristbenennung versehen.
-- Klagefristen und Widerspruchsfristen sofort bei Mandatsannahme kalendarisch sichern.
-- Bei grenzüberschreitenden Sachverhalten internationalen Normenkonflikt prüfen.
-
-### Dokumentationspflichten
-
-Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzufordern:
-
-- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
-- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
-- Gültige Betriebsgenehmigung und AOC-Kopie
-- Leasingvertrag oder Eigentumsnachweis
-- Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+- Ist jeder Vertragsstaatenbezug belegt?
+- Wurde Deutschlands fehlende Ratifikation berücksichtigt?
+- Sind Übereinkommen und Protokollartikel richtig zugeordnet?
+- Sind International Registry und nationale Registerbehörde getrennt?
+- Ist eine IDERA nur bei tatsächlicher Anwendbarkeit eingeplant?
+- Sind Airframe und Triebwerke jeweils eindeutig identifiziert?
+- Kann das Closing oder der Störungsfall anhand der Ausgabeliste ohne zusätzliche Vermutungen bearbeitet werden?

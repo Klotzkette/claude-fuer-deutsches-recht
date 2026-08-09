@@ -1,62 +1,80 @@
 ---
 name: ladeinfrastruktur
-description: "Wenn es um Ladeinfrastruktur Elektromobilitaet in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft öffentliche und private Ladeinfrastruktur vom Standort über Netzanschluss, AFIR und Ladesäulenverordnung bis zu Gebäude-, Miet-, WEG- und Straßenrecht. Liefert eine stichtagsbezogene Pflichtenmatrix, Behörden- und Netzbetreiberkommunikation sowie einen belastbaren Genehmigungs- und Vollzugsplan."
 ---
 
-# Ladeinfrastruktur Elektromobilitaet
+# Ladeinfrastruktur Elektromobilität
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: VwVfG § 73 Auslegung 1 Monat / Einwendungen 1 Monat, UmwRG § 4 Klagefrist, VwGO § 47 Normenkontrolle 1 Jahr, BVerwGO § 50 Abs. 1 Nr. 6 erstinstanzliche Zuständigkeit BVerwG.
-- Tragende Normen verifizieren: FStrG, BWaStrG, AEG, BImSchG, UVPG, ROG, BauGB §§ 38, 246, VwVfG §§ 72-78 (Planfeststellung), VwGO §§ 47 ff., BNatSchG §§ 14, 15, 34, 44, WHG §§ 8, 67, EU-FFH-RL, UmwRG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger (Bund, Land, DB Netz, Autobahn GmbH), Planfeststellungsbehörde, Anhörungsbehörde, anerkannte Umweltvereinigungen (BUND, NABU), VG, OVG, BVerwG (1. Senat).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Planfeststellungsbeschluss, Erörterungsprotokoll, UVP-Bericht, FFH-Verträglichkeitsstudie, Einwendung, Klage zum BVerwG, Erlaubnis nach § 67 WHG — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies zuerst Standortplan, Leistungsdaten, Netzbetreiberkorrespondenz, Betreiberkonzept, Eigentums- oder Mietunterlagen und vorhandene Bescheide. Liefere sofort eine erste Einordnung zu Öffentlichkeit, Anschluss, Genehmigungen und nächstem Vollzugsschritt. Frage nur nach einem Punkt, wenn ohne ihn die Einordnung kippt, insbesondere Standortzugang, Summen-Bemessungsleistung, Gebäudetyp oder Betreiberrolle.
 
-## Triage zu Beginn
+## 2. Vier Eingangstore
 
-1. **Oeffentliche oder private Ladeinfrastruktur?** — Öffentlich zugaenglich (§ 2 Nr. 5 AFIR-VO): Pflichten zur Interoperabilitaet, ad-hoc-Laden, Preistransparenz; Private: Hausanschluss, WEG-Zustimmung.
-2. **Standort?** — Privatgrundstuck, öffentliche Verkehrsflaeche (Sondernutzung!), Parkhaus.
-3. **Genehmigungspflicht nach Baurecht?** — Ladesaeulen an Gebaeuden oft genehmigungsfrei; grössere Anlagen oder bauliche Änderungen können LBO-pflichtig sein.
-4. **Netzanschlusspflicht des Netzbetreibers?** — § 8 EnWG: Anschlusspflicht des Netzbetreibers; Verweigerung nur aus tatsaechlichen oder rechtlichen Gruenden (Kapazitaet, Sicherheit).
-5. **Förderung möglich?** — BAFA-Förderung für Ladeinfrastruktur (Programme regelmaessig aktualisiert); KfW 439.
+### 2.1. Öffentlichkeit
 
-## Zentrale Normen
+Bestimme, ob der Standort der Allgemeinheit zugänglich ist. Ein Ladepunkt auf Privatgrund kann öffentlich zugänglich sein; Zugangsbeschränkungen, Öffnungszeiten oder eine Beschränkung auf eine allgemeine Kundengruppe schließen dies nicht ohne Weiteres aus. Ein nur für einen begrenzten und bestimmten Personenkreis zugänglicher Betriebsparkplatz ist gesondert zu behandeln.
 
-- **AFIR-VO (EU) 2023/1804** — Verordnung zum Aufbau alternativer Kraftstoffinfrastruktur; ab 13.04.2024 unmittelbar anwendbar
-- **§ 2 LSV** — Ladesaeulenverordnung: Anforderungen an öffentlich zugaengliche Ladepunkte
-- **§ 8 EnWG** — Netzanschlusspflicht des Netzbetreibers; Anschluss und Zugang
-- **§ 9a GEG** — Neubau und wesentliche Renovierung: Ladeinfrastruktur-Anforderungen
-- **§ 20 WEG** — Bauliche Veraenderung; Ladesaeule auf WEG-Gemeinschaftseigentum erfordert Zustimmung oder Mehrheitsbeschluss
-- **§ 554 BGB** — Mietrecht: Mieter hat Anspruch auf Zustimmung des Vermieters zur Ladestation (n.F. seit 01.12.2020)
-- **§ 13 FStrG** — Sondernutzung an Bundesstrassen für Ladesaeulen
+### 2.2. Standort und Projektart
 
-## Aktuelle Rechtsprechung
+Trenne Einzelstellplatz, Wohnungseigentumsanlage, Mietobjekt, Kundenparkplatz, Parkhaus, Betriebshof und öffentliche Verkehrsfläche. Erfasse Neubau, größere Renovierung oder Bestand, Zahl und Lage der Stellplätze, Ladeleistung, Leitungsweg, Lastmanagement, Messkonzept und geplanten Betriebsbeginn.
 
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+### 2.3. Netz und Elektrik
 
-## Entscheidungsbaum Ladeinfrastruktur
+Trenne den Anspruch auf Netzanschluss von der Mitteilung oder Zustimmung zur einzelnen Ladeeinrichtung. Sichere Anschlussbegehren, Netzverträglichkeitsprüfung, Kostenvoranschlag, Baukostenzuschuss, Hausanschlussleistung, technische Anschlussbedingungen und eine mögliche flexible Netzanschlussvereinbarung.
 
-```
-Standort der Ladeinfrastruktur?
-├─ Privates Einzelhausgrundstuck
-│ ├─ Eigentuemerfall → direkt anschliessen (nur Netzanschluss § 8 EnWG)
-│ └─ Mieterfall → § 554 BGB-Antrag an Vermieter
-├─ WEG-Gemeinschaftseigentum
-│ └─ § 20 WEG-Antrag auf Beschluss oder Zustimmung aller
-├─ Oeffentliche Strassenflaeche
-│ └─ Sondernutzungserlaubnis (§ 13 FStrG / LStrG)
-└─ Gewerbliche Anlage (Parkhaus, Shopping-Center)
- ├─ Baurecht pruefen (LBO-Genehmigungspflicht?)
- ├─ AFIR-Pflichten (oeffentlich zugaenglich?)
- └─ Förderung BAFA/KfW beantragen
-```
+### 2.4. Betreiber- und Nutzungsverhältnis
 
-## Harte Leitplanken
+Bestimme Eigentümer, Anschlussnehmer, Anschlussnutzer, Betreiber des Ladepunkts, Mobilitätsdienstleister und Letztverbraucher. Prüfe, wer investiert, Strom beschafft, Preise setzt, Daten übermittelt, Wartung übernimmt und gegenüber Behörde, Netzbetreiber und Nutzer verantwortlich ist.
 
-- AFIR-VO seit April 2024 unmittelbar anwendbar — EU-Recht prufen.
-- Sondernutzungserlaubnis für öffentliche Flaechen niemals vergessen.
-- WEG-Beschluss sorgfaeltig dokumentieren.
-- Anwaltliche Endkontrolle bei komplexen Konstellationen.
+## 3. Rechtsrahmen mit Stand 2026
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+### 3.1. Öffentliche Ladepunkte
+
+- Verordnung (EU) 2023/1804: Artikel 2 und Artikel 5 steuern insbesondere Öffentlichkeit, Ad-hoc-Laden, Zahlungsoptionen und Preistransparenz.
+- Ladesäulenverordnung in der seit 1. Januar 2026 geltenden Fassung: Paragraf 2 definiert den öffentlich zugänglichen Ladepunkt; Paragraf 3 betrifft technische Anforderungen; Paragraf 4 regelt Anzeige und Nachweise; Paragraf 5 enthält Prüfungs-, Nachrüstungs- und Untersagungsbefugnisse der Bundesnetzagentur.
+- Die Inbetriebnahme ist nach Paragraf 4 Ladesäulenverordnung grundsätzlich spätestens zwei Wochen danach elektronisch anzuzeigen; Außerbetriebnahme und Betreiberwechsel sind unverzüglich anzuzeigen. Prüfe die jeweils verlangten Datensätze und Nachweise im aktuellen Portal.
+
+### 3.2. Netzanschluss
+
+- Paragraf 17 EnWG erfasst auch Ladepunkte für Elektromobile und verlangt angemessene, diskriminierungsfreie und transparente Anschlussbedingungen. Eine Ablehnung setzt die gesetzlichen Unmöglichkeits- oder Unzumutbarkeitsgründe und eine Begründung in Textform voraus.
+- Paragraf 18 EnWG und die Niederspannungsanschlussverordnung steuern den Anschluss von Letztverbrauchern in Niederspannung.
+- Nach Paragraf 19 Absatz 2 NAV ist jede Ladeeinrichtung vor Inbetriebnahme mitzuteilen. Überschreitet die Summen-Bemessungsleistung zwölf Kilovoltampere je elektrischer Anlage, ist vorher die Zustimmung des Netzbetreibers erforderlich; bei Ablehnung sind Hinderungsgrund, Abhilfemaßnahmen und Zeitbedarf offenzulegen.
+- Paragraf 14a EnWG und die aktuellen Festlegungen der Bundesnetzagentur sind einzubeziehen, wenn es um steuerbare Verbrauchseinrichtungen, Netzentgelt oder Steuerbarkeit geht.
+
+### 3.3. Gebäude, Wohnungseigentum und Miete
+
+- Das GEIG regelt Leitungs- und Ladeinfrastruktur bei bestimmten neuen oder renovierten Wohn- und Nichtwohngebäuden. Prüfe Stellplatzzahl, Gebäudetyp, Lage der Stellplätze, Renovierungsumfang und Ausnahmen nach den Paragrafen 6 bis 10 und 14 GEIG, statt pauschal eine Ausstattungspflicht anzunehmen.
+- Nach Paragraf 20 Absatz 2 Nummer 2 WEG kann jeder Wohnungseigentümer angemessene bauliche Veränderungen zum Laden elektrisch betriebener Fahrzeuge verlangen; über die Durchführung ist im Rahmen ordnungsmäßiger Verwaltung zu beschließen. Kosten- und Nutzungsfolgen sind getrennt nach Paragraf 21 WEG zu prüfen.
+- Paragraf 554 BGB gibt dem Mieter grundsätzlich einen Anspruch auf Erlaubnis einer dem Laden dienenden baulichen Veränderung, begrenzt durch die Zumutbarkeitsabwägung. Planung, Fachunternehmer, Versicherung, Rückbau, Sicherheit und laufende Kosten gehören in den Erlaubnisentwurf.
+
+### 3.4. Bau- und Straßenrecht
+
+Prüfe Landesbauordnung, Stellplatzrecht, Denkmalschutz, Brandschutz und örtliche Satzungen am konkreten Standort. Auf öffentlicher Verkehrsfläche sind Widmung, Sondernutzung, straßenrechtliche Zuständigkeit, Leitungsverlegung, Verkehrsführung, Barrierefreiheit und gegebenenfalls Vergaberecht getrennt zu bearbeiten. Eine Genehmigungsfreiheit nach Bauordnungsrecht ersetzt keine straßenrechtliche Erlaubnis und keine Zustimmung des Eigentümers.
+
+## 4. Arbeitsworkflow
+
+1. Erstelle ein Aktenblatt mit Standort, Betreiber, Eigentümer, Nutzerkreis, Leistung, Zahl der Ladepunkte, Betriebsbeginn und Zieltermin.
+2. Entscheide anhand der tatsächlichen Zugangssituation, ob jeder Ladepunkt öffentlich zugänglich ist; dokumentiere Öffnungszeiten, Schranken, Nutzerkreis und Beschilderung mit Fotos und Planfundstellen.
+3. Baue eine Anschlussmatrix aus vorhandener und beantragter Leistung, Lastprofil, Netzebene, Hausanschluss, Mitteilung, Zustimmung, Kosten und offenem Netzausbau.
+4. Prüfe AFIR und Ladesäulenverordnung nur für die betroffenen Ladepunkte und führe jede Pflicht mit Verantwortlichem, Frist, Nachweis und Portalstatus.
+5. Prüfe Gebäude-, WEG-, Miet-, Bau- und Straßenrecht anhand des konkreten Standorts und kennzeichne Beschluss, Gestattung, Genehmigung oder Sondernutzung jeweils getrennt.
+6. Formuliere die nächste Kommunikation: Netzanschlussbegehren, Nachforderung an den Netzbetreiber, WEG-Beschlussvorschlag, Mieterantrag, Behördenanfrage oder Betreiberanzeige.
+7. Schließe mit einem Vollzugsplan bis Inbetriebnahme und einer Nachlaufkontrolle für Anzeige, Eichung, Preisdarstellung, Wartung und Betreiberwechsel.
+
+## 5. Beleg- und Fehlerkontrolle
+
+- Keine Förderzusage oder Programmnummer aus älteren Unterlagen fortschreiben. Förderprogramme, Antragsberechtigung und Verbot des vorzeitigen Maßnahmenbeginns werden am Tag der Antragstellung in der Primärquelle geprüft.
+- Netzanschluss nach Paragraf 17 oder 18 EnWG nicht mit dem Zustimmungsvorbehalt für Ladeeinrichtungen nach Paragraf 19 NAV verwechseln.
+- Öffentlich zugänglich nicht mit öffentlichem Eigentum gleichsetzen.
+- Bei mehreren Ladepunkten Summenleistung, Pool, Betreiber und Anzeigeobjekt nicht ungeprüft gleichsetzen.
+- Angaben zu Leistung, Inbetriebnahme und Betreiber müssen in Planung, Netzbetreiberakte, Anzeige und Nutzerinformation übereinstimmen.
+
+## 6. Lieferstücke
+
+- stichtagsbezogene Pflichten- und Genehmigungsmatrix;
+- vollständiges Netzanschluss- oder Zustimmungsbegehren mit Anlagenliste;
+- WEG-Beschlussantrag oder mietrechtlicher Gestattungsantrag;
+- Sondernutzungs- und Behördenfahrplan;
+- Anzeige- und Nachweisblatt nach der Ladesäulenverordnung;
+- Inbetriebnahmecheck mit Verantwortlichem, Termin und Abschlussbeleg.

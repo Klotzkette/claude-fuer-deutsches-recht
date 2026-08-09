@@ -17,13 +17,13 @@ description: "Wenn es um Luftfahrzeugrolle und Register – Registerabfrage und 
 
 - Kreditinstitut finanziert Flugzeugkauf und will sicherstellen dass Pfandrecht korrekt in Luftfahrzeugrolle und Pfandrechtsregister AG Braunschweig eingetragen ist.
 - Halter erhält Steuerbescheid für vermeintlich sein Fahrzeug; Luftfahrzeugrolle zeigt noch alten Eigentümer nach Veräußerung.
-- Leasingnehmer möchte prüfen ob auf dem geleasten Flugzeug Cape-Town-Eintragungen im ICAO-Register bestehen.
+- Leasingnehmer möchte prüfen ob auf dem geleasten Flugzeug Cape-Town-Eintragungen im International Registry bestehen.
 
 ## Erste Schritte
 
 1. Luftfahrzeugrolle beim LBA abrufen: schriftlicher Antrag oder Online-Auskunft; Auszug enthält Eigentümer Halter Hersteller Seriennummer Kennzeichen.
 2. Pfandrechtsregister beim AG Braunschweig abfragen: öffentliches Register; Einsicht vor Ort oder Auszug per Antrag.
-3. ICAO-Register prüfen: https://www.internationalregistry.aero für Cape-Town-Eintragungen nach Airframe-Seriennummer.
+3. International Registry prüfen: https://www.internationalregistry.aero für Cape-Town-Eintragungen nach Airframe-Seriennummer.
 4. Abweichungen zwischen den drei Registern feststellen und Handlungsbedarf benennen.
 5. Änderungsantrag bei LBA stellen: Formular mit Belegen für neuen Eigentümer/Halter.
 6. Frist nach LuftVZO § 24: Änderungen unverzüglich anzuzeigen; Ordnungswidrigkeit bei Verzögerung.
@@ -36,7 +36,7 @@ description: "Wenn es um Luftfahrzeugrolle und Register – Registerabfrage und 
 - **LuftVZO § 14**: Eintragung von Amts wegen bei Verkehrszulassung.
 - **LuftVZO § 19**: Löschung aus der Luftfahrzeugrolle bei Außerdienststellung.
 - **LuftFzgG § 1**: Luftfahrzeugpfandrecht; Eintragung AG Braunschweig.
-- **Cape Town Convention Art. 16**: Internationales Register; Vorrang vor nationalem Register.
+- **Kapstadt-Übereinkommen Artikel 16 und 29**: Internationales Registrierungssystem und Prioritätsgrundregel nur bei Anwendbarkeit des Übereinkommens; kein pauschaler Vorrang vor nationalen Rechten. Deutschland hat nicht ratifiziert.
 
 ## Prüfraster
 
@@ -52,7 +52,7 @@ description: "Wenn es um Luftfahrzeugrolle und Register – Registerabfrage und 
 - Verkauf ohne Ummeldung in Luftfahrzeugrolle; Steuern und Haftung treffen alten Eingetragenen.
 - Pfandrecht im nationalen Register ohne Cape-Town-Eintrag; internationaler Gläubiger verliert Vorrang.
 - Löschung aus Rolle ohne vorherige Entpfandung; Register widersprüchlich.
-- ICAO-Registerauszug nicht eingeholt; versteckte internationale Belastungen.
+- International Registryauszug nicht eingeholt; versteckte internationale Belastungen.
 
 ## Vertiefung Registerrecht
 
@@ -60,7 +60,7 @@ Die Registerauswertung ist Grundlage jeder luftrechtlichen Due-Diligence-Prüfun
 
 - **Luftfahrzeugrolle (LBA)**: Enthält Halter Eigentümer Kennzeichen und Belastungen; Abruf online beim LBA möglich.
 - **AG Braunschweig (Pfandrechtsregister)**: Führt alle eingetragenen Pfandrechte an deutschen Luftfahrzeugen; Rangfolge nach Eintragungsdatum.
-- **ICAO International Registry (Cape Town)**: Enthält internationale Sicherungsinteressen; Suche nach Luftfahrzeugkennzeichen und MSN.
+- **International Registry (Cape Town)**: Enthält internationale Sicherungsinteressen; Suche nach Luftfahrzeugkennzeichen und MSN.
 - **Registerauszug Aktualität**: Stets aktuellen Auszug anfordern; veraltete Auszüge führen zu Haftungsrisiken.
 
 ## Quellen
@@ -86,7 +86,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 - Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
 - AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
+- Bei belegtem Vertragsstaatenbezug: aktuelles Search Certificate des International Registry und gegebenenfalls IDERA-Nachweis der nationalen Registerbehörde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz

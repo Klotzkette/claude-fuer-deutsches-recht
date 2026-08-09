@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du Produktsicherheit, Haftung, Warnung, Rückruf oder Launch-Freigabe schnell nach Risiko und Nachweis entscheiden.
-
 # Produktrecht — Schnellstart
+
+Wenn du das hier öffnest, willst du Produktsicherheit, Haftung, Warnung, Rückruf oder Launch-Freigabe schnell nach Risiko und Nachweis entscheiden.
 
 Ziel: Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates, digitale Produktlebenszyklen, Rückruf, Marktüberwachung und Launch-Review. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -54,8 +54,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - GPSR Artikel 5: allgemeine Sicherheitsanforderung.
 - Paragraf 12 ProdHaftG Verjährung: 3 Jahre kenntnisabhängig (Verletzung, Schaden, Hersteller); Paragraf 13 ProdHaftG: 10 Jahre absolute Erlöschen ab Inverkehrbringen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 9 ProdSG Meldepflicht: Unverzüglich bei Kenntnis von Risiko an BAuA über Safety Business Gateway; Verstoß Paragraf 39 ProdSG bis 100.000 EUR Bußgeld; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

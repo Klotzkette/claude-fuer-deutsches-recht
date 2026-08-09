@@ -71,14 +71,13 @@ und gibt das Dokument unverändert zurück mit Hinweis.
 - WEG-Beschlüsse als Anlage (Beschlussfähigkeit, Anfechtungsfristen)
 - Erbbauzins-Anpassungsklauseln und Heimfallrecht
 - Mietpreisbremse §§ 556d ff. BGB, qualifizierter Mietspiegel
-- Schriftform Gewerbemietvertrag § 550 BGB (Heilung schwierig)
+- Textform langfristiger Gewerberaummietvertrag nach Paragraf 578 Absatz 1 und 550 BGB; Vertragskette und Nachträge beweissicher führen
 - Betriebskostenkatalog Verordnung 2003, Umlagevereinbarung
 - Indexmiete §§ 557b BGB versus Staffelmiete § 557a BGB
 
 ## Beispielformulierungen
 
-- "Erstelle aus Mustervertrag Gewerbemiete und beigefügtem Term Sheet
- einen Entwurf. Achte auf Schriftform § 550 BGB."
+- "Erstelle aus Mustervertrag und Term Sheet einen Gewerberaummietvertrag. Dokumentiere Hauptvertrag, Anlagen und Nachträge in Textform nach Paragraf 578 Absatz 1 und 550 BGB."
 - "Befuelle den Wohnraummietvertrag-Muster mit den Eckpunkten aus dem
  Eckpunktepapier. Prüfe ob Mietpreisbremse greift und markiere."
 - "Erstelle WEG-Verwaltervertrag aus Muster, Term Sheet anbei,
@@ -86,7 +85,7 @@ und gibt das Dokument unverändert zurück mit Hinweis.
 
 ## Paragrafenkette
 
-- Schriftform: § 550 BGB, § 311b BGB
+- Form: Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB sowie Paragraf 311b BGB, soweit ein Grundstücksgeschäft betroffen ist
 - Mietpreisbremse: §§ 556d ff. BGB
 - Modernisierung: §§ 555a ff. BGB
 - WEG-Verwaltervertrag: §§ 26 ff. WEG

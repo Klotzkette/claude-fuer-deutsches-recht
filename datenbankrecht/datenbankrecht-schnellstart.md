@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du Datenbankrechte, API-Nutzung, Entnahme, Wiederverwendung und Vertragsgrenzen schnell belastbar prüfen.
-
 # Datenbankrecht — Schnellstart
+
+Wenn du das hier öffnest, willst du Datenbankrechte, API-Nutzung, Entnahme, Wiederverwendung und Vertragsgrenzen schnell belastbar prüfen.
 
 Ziel: Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG Paragrafen 87a ff., Datenbankrichtlinie, Investitionsschutz, automatisiertes Auslesen, API, Training digitaler Systeme, Vertrags- und Plattformkonflikte. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 

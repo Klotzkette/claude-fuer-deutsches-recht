@@ -1,97 +1,85 @@
 ---
 name: 035-aufgebotsverfahren-verlorener-grundschuldbrief
-description: "Wenn es um Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldbrief in Notariat im Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Bearbeitet den verlorenen Grundschuldbrief vom Grundbuch- und Verwahrungsbefund bis zum Ausschließungsbeschluss; prüft Antragsberechtigung, Glaubhaftmachung, Vollzugssperren und den anschließenden Antrag auf neuen Brief oder Löschung."
 ---
 
-# Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldbrief
+# Verlorener Grundschuldbrief und Aufgebotsverfahren
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies zuerst Grundbuchauszug, Bestellungsurkunde, Abtretungsunterlagen, Löschungsbewilligung, Verwahrungsnachweise und die Korrespondenz aller bisherigen Gläubiger. Liefere danach sofort eine Vollzugsampel: betroffene Briefgrundschuld, letzter sicherer Besitz, antragsberechtigte Person, zuständiges Amtsgericht, noch fehlende Glaubhaftmachung und blockierter Grundbuchvollzug.
 
-## Zweck und Anwendungsbereich
+Frage nur nach Tatsachen, die für Identität der Urkunde, Verlust, Antragsberechtigung oder Sicherung eines laufenden Kaufvertrags fehlen. Behaupte nie, eine eidesstattliche Versicherung könne den Ausschließungsbeschluss ersetzen.
 
-Ein verlorener oder vernichteter Grundschuldbrief ist ein ernsthaftes Vollzugsproblem: Ohne Brief kann die Briefgrundschuld nicht übertragen oder gelöscht werden. Das Aufgebotsverfahren ermöglicht die Kraftloserklärung des Briefes und die Neubriefung oder Löschung.
+## 2. Rechtsrahmen
 
-Rechtsgrundlagen: § 1162 BGB (Aufgebot Hypothekenbrief), §§ 466–481 FamFG (Aufgebotsverfahren), § 1163 BGB (Eigentümergrundschuld), § 27 GBO (Löschung ohne Brief), § 1192 BGB (Grundschuld-Verweisung auf Hypothek), GBO § 56–68 (Grundbuchberichtigung).
+2.1. BGB Paragraf 1162 eröffnet das Aufgebot des Hypothekenbriefs; über BGB Paragraf 1192 gilt die Regel grundsätzlich auch für den Grundschuldbrief.
 
-## Wann Aufgebotsverfahren?
+2.2. FamFG Paragrafen 466 bis 479 regeln Zuständigkeit, Antrag, Glaubhaftmachung, Aufgebot und Ausschließungsbeschluss.
 
-Ein Aufgebotsverfahren ist nötig, wenn:
-- Grundschuldbrief verloren oder vernichtet (nicht nur verlegt)
-- Brief nicht auffindbar und Löschung oder Übertragung der Grundschuld nötig
-- Die briefführende Bank oder der Gläubiger kann Brief nicht vorlegen
+2.3. GBO Paragraf 67 erlaubt die Erteilung eines neuen Briefs nur gegen Vorlage des bisherigen Briefs oder, in den gesetzlich genannten Fällen, des Ausschließungsbeschlusses. Eine notarielle Verlustversicherung ist kein eigenständiger Ersatzweg.
 
-Alternative: Gläubiger erklärt unter Vorlage eidesstattlicher Versicherung, dass Brief vernichtet wurde → Grundbuchamt kann Briefkraftloserklärung ohne FamFG ermöglichen (§ 67 GBO, Ermessen).
+2.4. Für Löschung, Abtretung oder Neubriefung sind der materielle Rechtsstand und die grundbuchrechtlichen Nachweise getrennt zu prüfen. Der Ausschließungsbeschluss beseitigt nicht automatisch jede weitere Bewilligungs- oder Antragsvoraussetzung.
 
-## Verfahrensablauf (§§ 466–481 FamFG)
+## 3. Prüfmatrix
 
-1. **Antrag beim Amtsgericht** (§ 470 FamFG): Gläubiger oder Grundstückseigentümer stellt Antrag.
-2. **Inhalt des Antrags:** Bezeichnung der Grundschuld (Grundbuch, Betrag, Gläubiger), Darlegung des Verlustes.
-3. **Aufgebotsbekanntmachung:** Amtsgericht fordert öffentlich auf, dass Inhaber des Briefes sich meldet (§ 474 FamFG). Mindestfrist: 6 Monate.
-4. **Ausschlussurteil:** Wenn sich kein Berechtigter meldet, erklärt das Gericht den Brief für kraftlos (§ 478 FamFG). Neuer Brief wird ausgestellt oder Löschung ohne Brief beantragt.
-5. **Grundbuchamt:** Nach Kraftloserklärung Antrag auf Neubriefung oder Löschung (§ 27 GBO).
+| Prüfpunkt | Aktenfrage | Erforderlicher Beleg | Folge bei Lücke |
+| --- | --- | --- | --- |
+| Briefrecht | Welche Grundschuld mit Betrag, Rang, Abteilung und laufender Nummer ist betroffen? | aktueller Grundbuchauszug und Bestellungsurkunde | Antrag nicht hinreichend individualisierbar |
+| Briefart | Wurde tatsächlich ein Brief erteilt oder ist das Recht brieflos bestellt? | Grundbuchvermerk und Urkunde | Aufgebot möglicherweise gegenstandslos |
+| Besitzkette | Wer hatte den Brief zuletzt wann und zu welchem Zweck? | Übergabeprotokoll, Bankakte, Notarverwahrung, Postnachweis | Verlust nicht glaubhaft gemacht |
+| Berechtigung | Wer kann das Recht aus der Urkunde geltend machen? | Abtretungskette, Rechtsnachfolge, Vollmacht | Antrag unzulässig oder unbegründet |
+| Zuständigkeit | Wo liegt das belastete Grundstück? | Grundbuchbezeichnung | ausschließlich zuständiges Gericht verfehlt |
+| Vollzug | Soll gelöscht, übertragen oder ein neuer Brief erteilt werden? | Vollzugsauftrag und Bewilligungen | falscher Folgeantrag |
 
-## Notar im Aufgebotsverfahren
+## 4. Verfahrensablauf
 
-- **Antragstellung:** Notar stellt Antrag beim Amtsgericht für den Antragsteller.
-- **Koordination:** Vollzugsüberwachung; Kaufpreis und Löschungsunterlagen bis Aufgebot abgeschlossen koordinieren.
-- **Eidesstattliche Versicherung:** Notar nimmt eidesstattliche Erklärung des Gläubigers über Verlust des Briefes auf (§ 156 StGB: Strafbarkeit falscher eidesstattlicher Versicherung).
+4.1. Zuständigkeit: Bei einer Urkunde über ein im Grundbuch eingetragenes Recht ist nach FamFG Paragraf 466 Absatz 2 ausschließlich das Gericht der belegenen Sache örtlich zuständig.
 
-## Zeitrahmen
+4.2. Antragsberechtigung: Nach FamFG Paragraf 467 ist bei einer solchen Urkunde derjenige antragsberechtigt, der das Recht aus ihr geltend machen kann. Eigentümerstellung allein genügt deshalb nicht in jeder Konstellation.
 
-Das Aufgebotsverfahren dauert i.d.R. 6–12 Monate. Wird in der Zwischenzeit ein Grundstückskauf vollzogen, kann der Notar die Kaufpreisfälligkeit unter den Vorbehalt der Kraftloserklärung stellen oder über Notaranderkonto abwickeln.
+4.3. Antragsbegründung: FamFG Paragraf 468 verlangt eine Abschrift oder vollständige Individualisierung der Urkunde, Glaubhaftmachung von Verlust und Antragsberechtigung sowie das Angebot einer Versicherung an Eides statt. Eine pauschale Erklärung „nicht auffindbar“ reicht nicht; die Such- und Verwahrungskette ist konkret darzustellen.
 
-## Prüfprogramm
+4.4. Aufgebot: Das Aufgebot fordert den Inhaber nach FamFG Paragraf 469 auf, Rechte anzumelden und die Urkunde vorzulegen. Veröffentlichungsweg und ergänzende Bekanntmachung richten sich nach den gesetzlichen Verfahrensregeln. FamFG Paragraf 470 regelt nicht die Antragstellung.
 
-- Liegt wirklich ein Verlust vor (nicht nur Verwahrungsproblem)?
-- Ist eine eidesstattliche Erklärung des Gläubigers ausreichend für das Grundbuchamt (§ 67 GBO)?
-- Wer stellt Antrag (Gläubiger oder Eigentümer)?
-- Wie wird Vollzug in der Wartezeit abgesichert?
-- Kosten für Aufgebotsverfahren kommuniziert?
+4.5. Frist: FamFG Paragraf 476 bestimmt, dass die Aufgebotsfrist höchstens ein Jahr betragen soll. Eine allgemeine gesetzliche Mindestfrist von sechs Monaten darf nicht behauptet werden.
 
-## Typische Fallen
+4.6. Entscheidung: Bleibt eine beachtliche Anmeldung aus, erklärt der Ausschließungsbeschluss die Urkunde nach FamFG Paragraf 478 für kraftlos. Seine Wirkung folgt aus FamFG Paragraf 479.
 
-- Aufgebot beantragt, aber Brief ist nur verlegt → unnötige Kosten und Zeitverlust.
-- Kraftloserklärung nicht abgewartet, Löschung trotzdem beantragt → Zurückweisung.
-- Eidesstattliche Versicherung ohne Notar-Aufnahme → Beweisschwäche.
-- Kaufpreisfälligkeit ohne Sicherung während des Aufgebots.
+4.7. Grundbuchvollzug: Erst danach wird mit Ausschließungsbeschluss und den sonst erforderlichen Nachweisen der neue Brief, die Löschung oder der weitere Vollzug beantragt.
 
-## Rechtsquellen
+## 5. Laufender Kaufvertrag oder Finanzierung
 
-- § 1162 BGB: https://dejure.org/gesetze/BGB/1162.html
-- §§ 466–481 FamFG: https://dejure.org/gesetze/FamFG/466.html
-- § 27 GBO: https://dejure.org/gesetze/GBO/27.html
-- § 67 GBO: https://dejure.org/gesetze/GBO/67.html
-- BGH zum Aufgebotsverfahren: https://www.bgh.de
-- BNotK Grundbuchrecht: https://www.bnotk.de
+5.1. Markiere präzise, welcher Fälligkeits- oder Vollzugsschritt am fehlenden Brief hängt.
 
-## Output-Formate
+5.2. Ändere Fälligkeitsvoraussetzungen, Hinterlegung oder Sicherungsabreden nicht schematisch. Prüfe zuerst Vertragsinhalt, Interessen beider Seiten, Rangrisiko und zulässige notarielle Verwahrung.
 
-- **Aufgebot-Antragsentwurf** (nach § 470 FamFG)
-- **Eidesstattliche Versicherung** (Verlust-Erklärung)
-- **Vollzugs-Sicherungsplan** (Kaufpreis in Wartezeit)
-- **Mandantenmail** (Zeitrahmen, Kosten, Alternativen)
-- **Grundbuchantrag nach Kraftloserklärung** (Muster)
+5.3. Formuliere einen Zwischenbericht mit realistischem Zeitkorridor, offenen Nachweisen und einer Entscheidung darüber, ob Vollzugsteile unabhängig weitergeführt werden können.
 
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+## 6. Typische Fehler
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+6.1. Die Briefgrundschuld wird mit einer Buchgrundschuld verwechselt.
 
-## Kostenhinweise
+6.2. Der Eigentümer wird ohne Prüfung der materiellen Berechtigung als Antragsteller eingesetzt.
 
-Aufgebotsverfahren-Kosten: Gerichtskosten nach FamGKG, i.d.R. 0,5 Gebühr des Grundschuldbetrags. Notar: Antragstellung KV Nr. 22200 GNotKG (0,5 Gebühr). Bekanntmachungskosten trägt Antragsteller. Alternativlösung über § 67 GBO (eidesstattliche Versicherung beim Grundbuchamt): günstiger, schneller, abhängig von Behördenpraxis.
+6.3. Eine eidesstattliche Versicherung wird als Ersatz für das Aufgebot behandelt.
 
-## Eidesstattliche Versicherung als Alternative
+6.4. FamFG Paragraf 470 wird als Antragsnorm oder FamFG Paragraf 476 als starre Sechsmonatsfrist zitiert.
 
-Manche Grundbuchämter akzeptieren eine notariell aufgenommene eidesstattliche Versicherung des Gläubigers, dass der Brief vernichtet oder verloren ist, ohne formales Aufgebotsverfahren (§ 67 GBO). Diese schnellere und günstigere Option sollte zuerst geprüft werden. Im Zweifel vorher beim Grundbuchamt anfragen.
+6.5. Nach dem Ausschließungsbeschluss fehlen Löschungsbewilligung, Antrag, Vertretungsnachweis oder weitere Glieder der Abtretungskette.
+
+## 7. Arbeitsprodukte
+
+7.1. Antragsentwurf mit Grundbuchbezeichnung, Urkundeninhalt, Besitzkette, Suchmaßnahmen, Glaubhaftmachungsmitteln und Anlagenverzeichnis.
+
+7.2. Entwurf der Versicherung an Eides statt, der nur eigene Wahrnehmungen und klar gekennzeichnete fremde Mitteilungen enthält.
+
+7.3. Vollzugscockpit für Kaufvertrag oder Finanzierung mit Sperrpunkt, Verantwortlichem, Nachforderung und Wiedervorlage.
+
+7.4. Grundbuchantrag nach Rechtskraft mit eindeutiger Auswahl zwischen Neubriefung, Löschung und sonstigem Vollzug.
+
+## 8. Amtliche Quellen
+
+- BGB Paragraf 1162 und Paragraf 1192: https://www.gesetze-im-internet.de/bgb/
+- GBO Paragraf 67: https://www.gesetze-im-internet.de/gbo/__67.html
+- FamFG Paragrafen 466 bis 479: https://www.gesetze-im-internet.de/famfg/

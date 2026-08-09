@@ -36,7 +36,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 **Plugin-Slug:** `schriftform-und-textform-bgb`
-**Version:** 437.0.0
+**Version:** 438.0.0
 **Autor:** Klotzkette
 
 ## Installation
@@ -161,7 +161,7 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Jeder Sk
 | [`formerfordernisse-erstpruefung-und-mandatsziel`](skills/formerfordernisse-erstpruefung-und-mandatsziel/SKILL.md) | Wenn es um Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel in Schriftform und Textform im BGB geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofort... |
 | [`formerfordernisse-im-bgb-ueberblick`](skills/formerfordernisse-im-bgb-ueberblick/SKILL.md) | Wenn es um Formerfordernisse im BGB — Überblick in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`formwahl-zugang-live-prozessablauf`](skills/formwahl-zugang-live-prozessablauf/SKILL.md) | Wenn es um Formwahl, Zugang und Beweisrisiko im BGB und Prozessrecht in Schriftform und Textform im BGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
-| [`gewerberaummiete-paragraph-550-bgb-langzeitform`](skills/gewerberaummiete-paragraph-550-bgb-langzeitform/SKILL.md) | Wenn es um Gewerberaummiete Paragraf 550 BGB — Langzeitform in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`gewerberaummiete-paragraph-550-bgb-langzeitform`](skills/gewerberaummiete-paragraph-550-bgb-langzeitform/SKILL.md) | Prüft langfristige Gewerberaum- und Grundstücksmietverträge nach Paragraf 578 in Verbindung mit Paragraf 550 BGB: Textform, Vertragskette, Nachträge, Laufzeit und Kündigungsrisiko; liefert Formstatus, Belegmatrix und belastbaren nächsten... |
 | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Schriftform Und Textform BGB ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`klauselgenerator-formvorbehalt-maklervertrag`](skills/klauselgenerator-formvorbehalt-maklervertrag/SKILL.md) | Wenn es um Klauselgenerator — Formvorbehalt und Änderungsvorbehalt in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`kuendigung-per-mandantenkorrespondenz-zugang`](skills/kuendigung-per-mandantenkorrespondenz-zugang/SKILL.md) | Wenn es um Kündigung per Schriftsatz — Zustellung und Formfragen in Schriftform und Textform im BGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründun... |

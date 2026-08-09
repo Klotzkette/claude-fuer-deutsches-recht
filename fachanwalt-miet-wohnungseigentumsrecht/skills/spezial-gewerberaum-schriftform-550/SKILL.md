@@ -1,36 +1,52 @@
 ---
 name: spezial-gewerberaum-schriftform-550
-description: "Wenn es um Gewerberaum Schriftform Paragraf 550 in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Bearbeitet den Streit um eine formbedingte Kündigung langfristiger Gewerberaummiete: Textform, Alt- und Neurecht, Vertragsänderungen, Treuwidrigkeit, Kündigungstermin und Beweisführung; liefert Angriffs- und Verteidigungslinie."
 ---
 
-# Gewerberaum Schriftform § 550
+# Gewerberaum: Streit um Formmangel und Kündigung
 
-## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Nachträge, Anlagen, Laufzeit, Parteien, Miethöhe, Heilungsklauseln.
+## 1. Einsatzbereich
 
-## Kaltstart
-1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
-2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
-3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
-4. Welche Frist, Form, Zuständigkeit oder Beweislast kann den Fall kippen?
-5. Welche Unterlagen belegen den Kern: Vertrag, Nachtrag, Beschluss, Protokoll, Abrechnung, Fotos, Messungen, Kontoauszüge, Mails?
+Nutze diesen Skill, wenn bereits mit einem Formmangel gekündigt wurde oder eine solche Kündigung vorbereitet beziehungsweise abgewehrt werden soll. Für den bloßen Dokumentenaudit ist `gewerberaum-schriftform-550` vorrangig.
 
-## Prüfraster
-1. **Rechtsverhältnis abgrenzen:** Wohnraummiete, Gewerberaum, WEG, Verwaltung, Nachbar-/Ordnungsrecht oder Schnittstelle.
-2. **Tatbestand:** Anspruchsgrundlage, Einwendung, Gegenrecht und Rechtsfolge sauber trennen.
-3. **Form und Frist:** Zugang, Text-/Schriftform, Beschlussfristen, Abrechnungsfristen, Verjährung.
-4. **Beweis:** Darlegungslast, Substantiierung, Beweisangebot, Sachverständigenbedarf.
-5. **Taktik:** Sofortmaßnahme, Verhandlung, Vergleich, Klage/Eilantrag, Kostenrisiko.
-6. **Ergebnis:** Ampel mit Begründung und konkretem nächsten Arbeitsschritt.
+## 2. Aktenstart
 
-## Output
-- Prüfvermerk mit Normen und Belegen.
-- Lückenliste der fehlenden Tatsachen.
-- Entwurf für Mandantenmail, Gegenseitenschreiben, Beschlussvorschlag oder Schriftsatzbaustein.
-- Anschluss-Skills, wenn WEG/Miete/Betriebskosten/GEG/Prozessrecht tiefer laufen muss.
+Lies Kündigung, Zugangsnachweis, Hauptvertrag, sämtliche Nachträge und die dazugehörige Kommunikation. Erstelle sofort:
 
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+1. Chronologie von Vertragsschluss, Überlassung, Änderungen und Kündigung.
+2. Zuordnung zu Paragraf 578 Absatz 1, Paragraf 550 BGB und Artikel 229 Paragraf 70 EGBGB.
+3. Liste der angeblich formwidrigen Vereinbarungen.
+4. Kündigungstermin mit Haupt- und Hilfsberechnung.
+5. Tatsachen- und Belegspalten für jede Parteibehauptung.
+
+## 3. Angriffslinie
+
+1. Langfristige Bindung feststellen.
+2. Fehlende Textform einer wesentlichen Vereinbarung konkret bezeichnen.
+3. Darlegen, weshalb die Dokumentenkette Erklärung, Erklärenden oder Vertragsbezug nicht erkennen lässt.
+4. Rechtsfolge der unbestimmten Laufzeit von einer etwaigen Unwirksamkeit des Einzelpunkts trennen.
+5. Kündigungsfrist, Zugang und Räumungszeitpunkt berechnen.
+6. Einwände aus Paragraf 242 BGB und aus widersprüchlichem Verhalten vorwegnehmen.
+
+## 4. Verteidigungslinie
+
+1. Vollständige E-Mail-, PDF- und Nachtragskette rekonstruieren.
+2. Für jede wesentliche Vereinbarung dauerhaften Datenträger, Erklärenden und Zugang belegen.
+3. Prüfen, ob die angeblich formwidrige Abrede überhaupt Vertragsinhalt oder für die langfristige Bindung wesentlich ist.
+4. Übergangsrecht und Änderungszeitpunkt gegen eine falsche Anwendung alten Schriftformrechts stellen.
+5. Treuwidrigkeit nur mit konkretem Vertrauenstatbestand, eigener Verursachung oder ausschließlich vorteilhafter Abrede begründen; keine pauschale Billigkeitsargumentation.
+6. Hilfsweise Kündigungstermin, Nutzungsentschädigung, Rückgabe und Vergleichskorridor absichern.
+
+## 5. Rechtsprechungsanker
+
+- BGH, Urteil vom 27. September 2017, XII ZR 114/16: Unwirksamkeit von Schriftformheilungsklauseln und fallbezogene Grenze treuwidriger Berufung auf einen Formmangel nach altem Recht.
+- BGH, Beschluss vom 25. Januar 2017, XII ZR 69/16: Vorrang der Individualabrede trotz formularmäßiger doppelter Schriftformklausel.
+- BGH, Urteil vom 11. April 2018, XII ZR 43/17: Formrelevanz einer vereinbarten Mietänderung und Möglichkeit, eine außerordentliche Kündigung als ordentliche Kündigung auszulegen.
+
+Jede Altentscheidung erhält im Arbeitsprodukt den Hinweis, dass seit 1. Januar 2025 für Gewerberaum gesetzlich Textform gilt. Eine Übertragung wird begründet, nicht unterstellt.
+
+## 6. Lieferstück
+
+Erstelle wahlweise ein Kündigungs- oder Zurückweisungsschreiben, einen Feststellungs- oder Räumungsschriftsatz oder einen Vergleichsvorschlag. Das Dokument enthält Tatsachenvortrag mit Fundstellen, Beweisangebote, Haupt- und Gegenargument, Terminberechnung und einen klaren Antrag beziehungsweise Handlungsvorschlag.
+
+> Quellenregel: Normfassung, Übergangsrecht, Entscheidung und tragende Aussage vor Außenverwendung anhand einer amtlichen Quelle prüfen.

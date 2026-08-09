@@ -1,6 +1,6 @@
 ---
 name: 054-auslandsbeteiligte-steuerliche-hinweise-und-grenzen
-description: "Wenn es um Notariat im Alltag: Auslandsbeteiligte – steuerliche Hinweise und Grenzen in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft bei notariellen Vorgängen mit Auslandsbeteiligung Identität, Vertretungsnachweis, anwendbares Recht, steuerliche Warnsignale, Mitteilungspflichten und die Grenze zwischen rechtlicher Belehrung und Steuerberatung; liefert Urkundenhinweise, Nachforderungsliste und Vollzugsvermerk."
 ---
 
 # Notariat im Alltag: Auslandsbeteiligte – steuerliche Hinweise und Grenzen
@@ -9,87 +9,90 @@ description: "Wenn es um Notariat im Alltag: Auslandsbeteiligte – steuerliche 
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: die einschlägigen Normen über amtliche Bundes-, Landes- und Unionsportale prüfen; Entscheidungen nur mit kontrolliertem Gericht, Datum, Aktenzeichen und tragender Passage verwenden.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Zweck und Anwendungsbereich
 
-Wenn Ausländer oder im Ausland ansässige Personen an deutschen Grundstücks- oder Gesellschaftsgeschäften beteiligt sind, entstehen besondere steuerliche Fragen. Der Notar muss auf diese hinweisen – ohne selbst steuerliche Beratung zu leisten. Kläre die Hinweispflichten und Abgrenzung zur Steuerberatung.
+Wenn ausländische oder im Ausland ansässige Personen an deutschen Grundstücks- oder Gesellschaftsgeschäften beteiligt sind, entstehen besondere Nachweis-, Kollisions- und Steuerfragen. Kläre, welche rechtliche Tragweite der Notar nach Paragraf 17 BeurkG erläutern muss, welche Mitteilungen zum Vollzug gehören und an welcher Stelle eine gesonderte steuerliche Beratung erforderlich ist. Unterstelle keine allgemeine notarielle Pflicht zur umfassenden Steuerberatung.
 
-Rechtsgrundlagen: § 17 BeurkG (Belehrungspflicht), § 50a EStG (beschränkte Steuerpflicht), § 48 EStG (Bauabzugssteuer), §§ 1–7 GrEStG (Grunderwerbsteuer), § 34 ErbStG (Meldepflicht Notar), AO §§ 10–14 (Steuerliche Identifikation), DSGVO, EGBGB (IPR), DBA (Doppelbesteuerungsabkommen).
+Rechtsgrundlagen: Paragraf 17 BeurkG, Paragraf 49 EStG, Paragrafen 48 bis 48d EStG, Paragrafen 1 bis 7 GrEStG, Paragraf 34 ErbStG, Paragrafen 139a bis 139d AO, EGBGB und das im Einzelfall anwendbare Doppelbesteuerungsabkommen.
 
-## Beschränkte Steuerpflicht (§ 50a EStG)
+## Beschränkte Steuerpflicht nach Paragraf 49 EStG
 
-Ausländische Personen oder Gesellschaften ohne Wohnsitz/Sitz in Deutschland sind mit deutschen Einkünften aus Vermietung und Veräußerung beschränkt steuerpflichtig.
+Bei einer Person ohne Wohnsitz oder gewöhnlichen Aufenthalt im Inland ist zuerst zu bestimmen, ob der konkrete Vorgang inländische Einkünfte nach Paragraf 49 EStG auslösen kann. Bei Gesellschaften sind Körperschaftsteuerrecht, Rechtsform und Doppelbesteuerungsabkommen gesondert zu prüfen.
 
-**Bei Grundstücksverkauf durch Ausländer:**
-- § 50a EStG: Einbehaltungspflicht des Käufers? (→ Steuerberater)
-- Spekulationssteuer (§ 23 EStG): Verkauf innerhalb von 10 Jahren nach Erwerb
-- DBA: Doppelbesteuerungsabkommen kann die Besteuerung dem anderen Staat zuweisen
+Bei einem Grundstücksverkauf durch einen Auslandsbeteiligten:
+- Veräußerer, steuerlichen Ansässigkeitsstaat, Objekt, Erwerbs- und Veräußerungsdatum erfassen.
+- Mögliche inländische Einkünfte nach Paragraf 49 EStG und bei Privatvermögen ein privates Veräußerungsgeschäft nach Paragraf 23 EStG markieren.
+- Das anwendbare Doppelbesteuerungsabkommen und eine mögliche Veranlagung durch den Steuerberater prüfen lassen.
+- Keinen allgemeinen Steuerabzug des Käufers aus Paragraf 50a EStG ableiten. Paragraf 50a Absatz 7 EStG setzt für sonst nicht erfasste Einkünfte eine konkrete Anordnung des zuständigen Finanzamts voraus.
 
-## Bauabzugssteuer (§ 48 EStG)
+## Bauabzugsteuer nach Paragraf 48 EStG
 
-Bei Bauleistungen eines im Ausland ansässigen Unternehmers auf deutschem Grundstück muss der Auftraggeber 15 % Bauabzugssteuer einbehalten und ans Finanzamt abführen (sofern keine Freistellungsbescheinigung vorliegt).
+Bei einer Bauleistung im Inland kann der unternehmerische oder öffentlich-rechtliche Leistungsempfänger nach Paragraf 48 EStG zum Steuerabzug von 15 Prozent verpflichtet sein. Entscheidend sind Leistung, Leistungsempfänger, Gegenleistung, Ausnahmen und eine gültige Freistellungsbescheinigung; der Sitz des Bauunternehmers allein entscheidet die Frage nicht.
 
-Für den Notar relevant: Wenn Bauträgervertrag mit ausländischem Bauunternehmen beurkundet wird → Hinweis erforderlich.
+Für den notariellen Vorgang ist nur festzuhalten, ob eine erkennbare Bauleistung und ein möglicher Abzugstatbestand eine fachsteuerliche Klärung vor Fälligkeit verlangen. Die konkrete Berechnung und Anmeldung gehören in die steuerliche Beratung.
 
-## Grunderwerbsteuer (§§ 1–7 GrEStG)
+## Grunderwerbsteuer nach den Paragrafen 1 bis 7 GrEStG
 
-GrESt gilt für alle Grundstückserwerbe in Deutschland unabhängig vom Wohnsitz der Beteiligten. Ausländische Käufer zahlen GrESt wie inländische.
+Der Erwerb eines inländischen Grundstücks kann unabhängig vom Wohnsitz der Beteiligten Grunderwerbsteuer auslösen.
 
-Besonderheit: Share Deals (Erwerb von Gesellschaftsanteilen, die indirekt Grundbesitz halten) lösen unter bestimmten Umständen GrESt aus (§ 1 Abs. 3 GrEStG). Notar-Hinweis nötig.
+Bei Anteilsübertragungen an grundbesitzenden Gesellschaften sind insbesondere die jeweils aktuelle Fassung des Paragraf 1 GrEStG, Beteiligungsquoten, Erwerbergruppe und zeitliche Zusammenhänge fachsteuerlich zu prüfen.
 
-## ErbStG: Meldepflicht des Notars (§ 34 ErbStG)
+## Meldepflicht des Notars nach Paragraf 34 ErbStG
 
-Notar muss schenkungsweise Übertragungen dem Finanzamt melden, auch wenn Auslandsbeteiligte involviert sind.
+Prüfe die Anzeige- und Mitteilungspflichten nach Paragraf 34 ErbStG anhand der konkreten Urkunde und dokumentiere Empfänger, Frist, übermittelte Fassung und Versandnachweis.
 
 ## Identifizierung Auslandsbeteiligter (GwG)
 
-Ausländische juristische Personen: aktueller Handelsregisterauszug des Heimatlandes + Apostille + Übersetzung. Wirtschaftlich Berechtigte besonders sorgfältig prüfen (erhöhtes GwG-Risiko bei Hochrisikoländern, § 15 GwG).
+Bei ausländischen juristischen Personen sind Existenz, Vertretungsmacht und Aktualität mit geeigneten Register- oder Behördennachweisen zu belegen. Ob Apostille, Legalisation oder Übersetzung erforderlich ist, richtet sich nach Herkunftsstaat, Urkundenart und anwendbaren Übereinkommen. Wirtschaftlich Berechtigte und ein erhöhtes Risiko sind nach den Paragrafen 10 bis 15 GwG fallbezogen zu prüfen.
 
 ## Grenzen der notariellen Hinweispflicht
 
-Der Notar darf auf steuerliche Problembereiche hinweisen (§ 17 BeurkG), aber keine steuerliche Beratung leisten (Steuerberatungsvorbehalt, § 2 StBerG). Empfehlung: Steuerberater oder Fachanwalt einschalten.
+Der Notar erläutert nach Paragraf 17 BeurkG die rechtliche Tragweite des beurkundeten Geschäfts. Daraus folgt keine schematische Pflicht, sämtliche steuerlichen Folgen zu berechnen oder eine steueroptimale Gestaltung zu entwickeln. Dokumentiere erkennbare steuerliche Warnsignale, eine ausdrücklich übernommene Zusatzberatung und die Empfehlung, vor Bindung oder Fälligkeit steuerlichen Rat einzuholen.
 
-**Zulässige Hinweise:**
-- „Bei Verkauf innerhalb von 10 Jahren könnte Spekulationssteuer anfallen – bitte prüfen Sie mit einem Steuerberater."
-- „Ihre Gesellschaft könnte der deutschen Grunderwerbsteuer unterliegen – steuerliche Beratung empfohlen."
+Zulässige Hinweise:
+- „Der Vorgang kann inländische Ertragsteuer auslösen. Bitte lassen Sie Ansässigkeit, Erwerbsdatum, Nutzung und Doppelbesteuerungsabkommen vor der Beurkundung steuerlich prüfen."
+- „Die Anteilsübertragung kann wegen inländischen Grundbesitzes grunderwerbsteuerlich relevant sein. Eine steuerliche Prüfung wird empfohlen."
 
-**Unzulässige Aussagen:**
+Ohne gesondert übernommenen und fachlich abgesicherten Auftrag zu vermeiden:
 - Konkrete Steuerhöhe berechnen
 - Empfehlen, ob eine Gestaltung steueroptimal ist
 
 ## Prüfprogramm
 
 - Wohnsitz/Sitz der Beteiligten: Deutschland oder Ausland?
-- Bei Auslandsgesellschaft: Registernachweis mit Apostille vorhanden?
+- Bei Auslandsgesellschaft: geeigneter aktueller Existenz- und Vertretungsnachweis vorhanden; Apostille, Legalisation und Übersetzung fallbezogen geklärt?
 - GwG: erhöhtes Risiko wegen Hochrisikoland?
 - Hinweis auf mögliche steuerliche Implikationen erteilt und dokumentiert?
-- § 34 ErbStG-Meldepflicht bei Schenkungen beachtet?
+- Mitteilungspflicht nach Paragraf 34 ErbStG anhand der konkreten Urkunde geprüft?
 
 ## Typische Fallen
 
-- Kein GwG-Check für ausländische Gesellschaft → fehlende Apostille/Übersetzung.
-- Kein Hinweis auf Bauabzugssteuer bei ausländischem Bauträger.
-- Notar berechnet Spekulationssteuer → Steuerberatungsvorbehalt verletzt.
-- § 34 ErbStG-Meldung vergessen bei gemischter Schenkung.
+- Apostille oder Übersetzung schematisch verlangen, ohne Staat, Urkundenart und Befreiungsabkommen zu prüfen.
+- Paragraf 50a EStG als automatische Kaufpreiseinbehaltung bei einem Grundstücksverkauf behandeln.
+- Bauabzugsteuer allein aus dem ausländischen Sitz des Unternehmers ableiten.
+- Eine konkrete Ertragsteuer ungeprüft ausrechnen oder als sicher darstellen.
+- Mitteilung nach Paragraf 34 ErbStG bei einer gemischten Schenkung ungeprüft unterlassen.
 
 ## Rechtsquellen
 
-- § 50a EStG: https://dejure.org/gesetze/EStG/50a.html
-- § 48 EStG (Bauabzug): https://dejure.org/gesetze/EStG/48.html
-- § 1 Abs. 3 GrEStG: https://dejure.org/gesetze/GrEStG/1.html
-- § 34 ErbStG: https://dejure.org/gesetze/ErbStG/34.html
-- GwG §§ 10–15: https://dejure.org/gesetze/GwG/10.html
-- BNotK Auslandsbeteiligte: https://www.bnotk.de
+- Paragraf 17 BeurkG: https://www.gesetze-im-internet.de/beurkg/__17.html
+- Paragraf 49 EStG: https://www.gesetze-im-internet.de/estg/__49.html
+- Paragraf 50a EStG: https://www.gesetze-im-internet.de/estg/__50a.html
+- Paragraf 48 EStG: https://www.gesetze-im-internet.de/estg/__48.html
+- Paragraf 1 GrEStG: https://www.gesetze-im-internet.de/grestg_1983/__1.html
+- Paragraf 34 ErbStG: https://www.gesetze-im-internet.de/erbstg_1974/__34.html
+- Paragrafen 10 bis 15 GwG: https://www.gesetze-im-internet.de/gwg_2017/__10.html
 
 ## Output-Formate
 
-- **Steuerliche-Hinweis-Checkliste** (für die Urkunde)
-- **GwG-Erhöhtes-Risiko-Protokoll** (Auslandsgesellschaft)
-- **Identifizierungs-Anforderungsliste** (ausländische Beteiligte)
-- **Mandantenmail** (Hinweis auf steuerliche Beratungsnotwendigkeit)
-- **§ 34 ErbStG-Meldungshinweis** (interner Vermerk)
+- Steuerliche-Hinweis-Checkliste für die Urkunde
+- Protokoll zum erhöhten GwG-Risiko bei einer Auslandsgesellschaft
+- Anforderungsliste für Existenz- und Vertretungsnachweise
+- Mandantenmail zur gesonderten steuerlichen Prüfung
+- Interner Vermerk zur Mitteilung nach Paragraf 34 ErbStG
 
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+Quellenkontrolle: https://www.gesetze-im-internet.de | https://www.rechtsprechung-im-internet.de | https://www.bnotk.de

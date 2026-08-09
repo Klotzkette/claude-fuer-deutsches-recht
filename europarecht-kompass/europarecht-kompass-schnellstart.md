@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du einen unionsrechtlichen Fall nach Anwendungsbereich, Wirkung, Vorrang, Grundfreiheit, Rechtsschutz und nationaler Umsetzung ordnen.
-
 # Europarecht Kompass — Schnellstart
+
+Wenn du das hier öffnest, willst du einen unionsrechtlichen Fall nach Anwendungsbereich, Wirkung, Vorrang, Grundfreiheit, Rechtsschutz und nationaler Umsetzung ordnen.
 
 Ziel: Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -49,7 +49,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - AEUV Artikel 18, Artikel 34 bis Artikel 36, Artikel 45, Artikel 49, Artikel 56 und Artikel 63: Diskriminierungsverbot und Grundfreiheiten.
 - AEUV Artikel 101, Artikel 102 und Artikel 107: Kartellverbot, Missbrauchskontrolle und Beihilfenverbot.
 - Art. 263 AEUV — Nichtigkeitsklage; Fristen; Klagebefugnis privilegierter/nicht-privilegierter Klager; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 265 AEUV — Untaetigkeitsklage; Voraussetzungen: vorherige Aufforderung + 2 Monate Nichtreagieren; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 265 AEUV — Untätigkeitsklage; Voraussetzungen: vorherige Aufforderung + 2 Monate Nichtreagieren; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 268 AEUV iVm Art. 340 AEUV — Amtshaftungsklage; hinreichend qualifizierter Rechtsverstoß; Schaden; Kausalität; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform

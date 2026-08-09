@@ -1,6 +1,7 @@
+# Richter Familiengericht — Schnellstart
+
 Wenn du das hier öffnest, willst du Versorgungsausgleich, Zugewinn und Unterhalt sauber durchrechnen und beantragen.
 
-# Richter Familiengericht — Schnellstart
 
 ## 1. Schnellmodus
 

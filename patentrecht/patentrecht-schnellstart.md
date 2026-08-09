@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine technische Lehre recherchieren, schützen, lizenzieren oder gegen Patentverletzung und Rechtsbestandsangriff verteidigen.
-
 # Patentrecht — Schnellstart
+
+Wenn du das hier öffnest, willst du eine technische Lehre recherchieren, schützen, lizenzieren oder gegen Patentverletzung und Rechtsbestandsangriff verteidigen.
 
 Ziel: Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchsentwurf, Recherche, Neuheit, erfinderische Tätigkeit, FTO, Abmahnung, Claim Chart, Vorbenutzungsrecht, Lizenz, Erfinderbenennung, Einspruch, Nichtigkeit, Register und Fristen. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 

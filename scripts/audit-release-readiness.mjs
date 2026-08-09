@@ -24,7 +24,7 @@ function readJson(file) {
 
 function walk(dir, predicate, out = []) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-    if (['.git', 'node_modules', 'dist', '__pycache__'].includes(entry.name)) continue;
+    if (['.git', '.venv', 'node_modules', 'dist', '__pycache__'].includes(entry.name)) continue;
     const full = path.join(dir, entry.name);
     if (entry.isDirectory()) walk(full, predicate, out);
     else if (!predicate || predicate(full)) out.push(full);
@@ -88,7 +88,7 @@ for (const entry of marketplace.plugins) {
   assert(fs.existsSync(schnellstart), `${entry.name}: Schnellstart-Markdown fehlt`);
   if (fs.existsSync(werkstatt)) {
     const size = fs.statSync(werkstatt).size;
-    assert(size >= 12 * 1024 && size <= 22 * 1024, `${rel(werkstatt)}: Werkstatt-Größe außerhalb Zielkorridor (${size} Bytes)`);
+    assert(size >= 20 * 1024 && size <= 48 * 1024, `${rel(werkstatt)}: Werkstatt-Größe außerhalb Zielkorridor (${size} Bytes)`);
   }
   if (fs.existsSync(schnellstart)) {
     const size = fs.statSync(schnellstart).size;

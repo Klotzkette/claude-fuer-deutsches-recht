@@ -1,46 +1,46 @@
 ---
 name: gewerberaum-schriftform-550
-description: "Wenn es um Gewerberaum Schriftform Paragraf 550: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft die aktuelle Textform langfristiger Gewerberaummietverträge nach Paragraf 578 und 550 BGB, ordnet Altverträge nach Artikel 229 Paragraf 70 EGBGB ein und liefert Vertragskettenmatrix, Kündigungsrisiko und Nachtragsbedarf."
 ---
 
-# Gewerberaum Schriftform § 550: Fachmodul im Miet- und Wohnungseigentumsrecht
+# Gewerberaum: Formaudit langfristiger Mietverträge
 
+## 1. Auftrag
 
-## Arbeitsweg
+Untersuche Hauptvertrag, Anlagen, Nachträge, Sideletter und E-Mail-Korrespondenz als einheitliche Vertragskette. Arbeite mit vorhandenen Dokumenten sofort; frage nur nach dem Entstehungsdatum, einer nicht belegten Änderung oder dem konkreten Ziel, wenn dies nicht aus der Akte hervorgeht.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Rechtsweichen
 
-**Fokus:** Gewerberaum Schriftform § 550: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Nachträge, Anlagen, Laufzeit, Parteien, Miethöhe, Heilungsklauseln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+1. Wohnraum oder Gewerberaum beziehungsweise Grundstück?
+2. Bindung von mehr als einem Jahr einschließlich Optionen?
+3. Vertrag vor oder nach dem 1. Januar 2025 entstanden?
+4. Änderung ab dem 1. Januar 2025 vereinbart?
+5. Aktueller Textformnachweis vollständig oder nur mündliche Behauptung?
 
-### Gewerberaum Schriftform § 550
+Für Gewerberaum und Grundstücke gilt Paragraf 550 BGB über Paragraf 578 Absatz 1 BGB mit der Maßgabe der Textform. Artikel 229 Paragraf 70 Absatz 1 EGBGB regelte die inzwischen abgelaufene Übergangsphase für ältere Vertragsverhältnisse. Wohnraummietverträge werden nicht nach dieser Modifikation beurteilt.
 
-## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gewerberaum Schriftform § 550` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
-- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## 3. Formaudit
 
-## Einstieg
-1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
-2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
-3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
-4. Welche Frist, Form, Zuständigkeit oder Beweislast kann den Fall kippen?
-5. Welche Unterlagen belegen den Kern: Vertrag, Nachtrag, Beschluss, Protokoll, Abrechnung, Fotos, Messungen, Kontoauszüge, Mails?
+| Prüfpunkt | Aktenfund | Formstatus | Beweisrisiko | Maßnahme |
+| --- | --- | --- | --- | --- |
+| Parteien und Vertretung |  |  |  |  |
+| Mietgegenstand |  |  |  |  |
+| Miete und Anpassung |  |  |  |  |
+| Laufzeit und Optionen |  |  |  |  |
+| Nutzungszweck |  |  |  |  |
+| Nachträge und Sideletter |  |  |  |  |
 
-## Prüfraster
-1. **Rechtsverhältnis abgrenzen:** Wohnraummiete, Gewerberaum, WEG, Verwaltung, Nachbar-/Ordnungsrecht oder Schnittstelle.
-2. **Tatbestand:** Anspruchsgrundlage, Einwendung, Gegenrecht und Rechtsfolge sauber trennen.
-3. **Form und Frist:** Zugang, Text-/Schriftform, Beschlussfristen, Abrechnungsfristen, Verjährung.
-4. **Beweis:** Darlegungslast, Substantiierung, Beweisangebot, Sachverständigenbedarf.
-5. **Taktik:** Sofortmaßnahme, Verhandlung, Vergleich, Klage/Eilantrag, Kostenrisiko.
-6. **Ergebnis:** Ampel mit Begründung und konkretem nächsten Arbeitsschritt.
+Textform nach Paragraf 126b BGB erfordert eine lesbare Erklärung auf dauerhaftem Datenträger und die Benennung des Erklärenden. Eigenhändige Unterschrift und körperliche Urkundeneinheit sind für das heutige gesetzliche Gewerbemietrecht nicht mehr der Ausgangspunkt. Gleichwohl müssen Zusammenhang, Zugang und Urheberschaft der Dokumente beweisbar bleiben.
 
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+## 4. Entscheidungen richtig einordnen
+
+- BGH, Urteil vom 27. September 2017, XII ZR 114/16: Schriftformheilungsklauseln konnten das frühere gesetzliche Kündigungsrisiko nicht beseitigen. Heute nur mit Reichweitenhinweis zum geänderten Textformrecht verwenden.
+- BGH, Beschluss vom 25. Januar 2017, XII ZR 69/16: Formularmäßige doppelte Schriftformklauseln verdrängen Individualabreden nach Paragraf 305b BGB nicht.
+- BGH, Urteil vom 11. April 2018, XII ZR 43/17: Formrelevanz einer vereinbarten Mietänderung und Unwirksamkeit von Schriftformheilungsklauseln nach altem Recht; Übertragbarkeit auf Textform gesondert begründen.
+- BGH, Urteil vom 21. November 2018, XII ZR 78/17: Vereinbarung und spätere Ausübung eines Optionsrechts getrennt behandeln.
+
+## 5. Ergebnis
+
+Liefere einen Formstatus nach Dokument und Rechtsstand, die stärkste Gegenposition, den frühestmöglichen Kündigungstermin, konkrete Beweisangebote und entweder einen bereinigenden Nachtrag in Textform oder einen Schriftsatzbaustein zur Wirksamkeit beziehungsweise Kündbarkeit. Formmangel, materielle Vertragsauslegung und Beweisproblem bleiben getrennte Prüfungsebenen.
+
+> Quellenregel: Tragende Normen und Entscheidungen vor Außenverwendung anhand amtlicher Quellen verifizieren.

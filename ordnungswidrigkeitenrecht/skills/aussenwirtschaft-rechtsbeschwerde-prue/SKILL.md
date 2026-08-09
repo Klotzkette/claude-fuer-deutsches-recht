@@ -1,9 +1,22 @@
 ---
 name: aussenwirtschaft-rechtsbeschwerde-prue
-description: "Wenn es um Außenwirtschaft Rechtsbeschwerde Prue in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft die Rechtsbeschwerde in außenwirtschaftsrechtlichen Bußgeldsachen: Statthaftigkeit oder Zulassung, Einlegungs- und Begründungsfrist, Verfahrensrüge, Sachrüge, Verantwortlichkeit, Einziehung und Verbandsgeldbuße werden aktennah zu einem Rechtsmittelentwurf verdichtet."
 ---
 
-# Außenwirtschaft Rechtsbeschwerde Prue
+# Außenwirtschaftliche Rechtsbeschwerde im Bußgeldverfahren
+
+## Direktstart
+
+Lies Bußgeldbescheid, Einspruch, Sitzungsprotokoll, Urteil, Zustellungsnachweis, Genehmigungs- und Ausfuhrunterlagen zuerst. Liefere unmittelbar ein Rechtsmittelblatt mit Statthaftigkeit, Einlegungsfrist, Begründungsfrist, Beschwerdeziel, tragender Sach- oder Verfahrensrüge und fehlendem Aktenbeleg.
+
+## Rechtsmittelkern
+
+- Paragraf 79 OWiG: Statthaftigkeit und Verweisung auf das Rechtsbeschwerderecht der Strafprozessordnung prüfen.
+- Paragraf 80 OWiG: Ist die Rechtsbeschwerde nicht schon kraft Gesetzes statthaft, Zulassungsvoraussetzungen und Darlegung gesondert bearbeiten.
+- Einlegung und Begründung strikt trennen; Fristen aus Zustellung und Verkündung nach Akte berechnen und die Form der Begründung kontrollieren.
+- Bei Verfahrensrügen den vollständigen Verfahrenstatsachenstoff mitteilen; bei Sachrügen den festgestellten Sachverhalt gegen Tatbestand, Verantwortlichkeit, Vorsatz oder Fahrlässigkeit, Geldbußenbemessung und Einziehung prüfen.
+- Außenwirtschaftsrechtliche Verbots-, Genehmigungs- und Sanktionslage am Tattag bestimmen; spätere Fassungen nicht rückwirkend unterstellen.
+- Output: Rechtsmittelvermerk, Zulassungsantrag oder ausformulierter Rechtsbeschwerdebegründungsentwurf mit Haupt- und Hilfsziel.
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswürdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
-
 # Strafbefehl Verteidiger — Schnellstart
+
+Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswürdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
 
 Ziel: Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- StPO Paragrafen 407 ff., Einspruchsfrist, Wiedereinsetzung, Pflichtverteidigung, Tagessatzsystem, Einstellungsmöglichkeiten und Beweisverwertungsfragen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 153 StPO Einstellung wegen Geringfügigkeit (ohne Auflagen); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 153a StPO Einstellung gegen Auflagen (Geldbuße, gemeinnützige Arbeit, Schadenswiedergutmachung) - oft strategisch besser als Verständigung, weil keine Verurteilung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 154 StPO Teilstellung bei Tatmehrheit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 407-412 StPO — Strafbefehlsverfahren; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

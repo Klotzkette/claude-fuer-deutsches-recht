@@ -1,8 +1,8 @@
-Wenn du das hier öffnest, willst du ein Arbeitszeugnis erstellen, prüfen oder berichtigen und sofort eine belastbare Formulierung, Änderungsmatrix oder Anspruchsstrategie erhalten.
-
 # Arbeitszeugnisgenerator — Schnellstart
 
-Ziel: Erstellt, prüft und berichtigt einfache, qualifizierte, Zwischen- und Ausbildungszeugnisse aus vorhandenen Unterlagen. Verknüpft Taetigkeitsbild, Tatsachenbelege, Beweislast, klare Formulierungen, Vergleich und Vollstreckung zu einem verwendbaren Arbeitsprodukt. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Wenn du das hier öffnest, willst du ein Arbeitszeugnis erstellen, prüfen oder berichtigen und sofort eine belastbare Formulierung, Änderungsmatrix oder Anspruchsstrategie erhalten.
+
+Ziel: Erstellt, prüft und berichtigt einfache, qualifizierte, Zwischen- und Ausbildungszeugnisse aus vorhandenen Unterlagen. Verknüpft Tätigkeitsbild, Tatsachenbelege, Beweislast, klare Formulierungen, Vergleich und Vollstreckung zu einem verwendbaren Arbeitsprodukt. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
@@ -50,7 +50,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 242: Treu und Glauben bei Schlussformel, Auslassungen, Berichtigung und widersprüchlichem Verhalten.
 - BAG, Urteil vom 18.11.2014 - 9 AZR 584/13: Zur vollen Zufriedenheit ist die durchschnittliche Schlussnote; eine bessere Bewertung muss der Arbeitnehmer darlegen und beweisen.
 - BAG, Urteil vom 15.11.2011 - 9 AZR 386/10: Zeugnisklarheit wird nach objektivem Empfängerhorizont beurteilt; einzelne Wendungen sind nicht losgelöst als Geheimcode zu behandeln.
-- BAG, Urteil vom 12.08.2008 - 9 AZR 632/07, Rn. 18 bis 21: Wortwahl und Auslassung sind aus Sicht des objektiven Zeugnislesers zu beurteilen.
+- BAG, Urteil vom 12.08.2008 - 9 AZR 632/07, Rn. 18 bis 21: Wortwahl und Auslassung sind aus Sicht des objektiven Zeugnislesers zu beurteilen; eine erwartbare positive Hervorhebung darf nicht so fehlen, dass ein falscher Eindruck entsteht.
 
 ## 7. Antwortform
 

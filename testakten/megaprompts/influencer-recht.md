@@ -8,12 +8,12 @@ Diese Vollprüfung enthält top-8 von 130 Skills (gekürzt für das Arbeitsfenst
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Influencer Recht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet k…
 2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Influencer-Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fa…
-3. **brand-deal-leistungsbeschreibung-abnahme-und-nutzungsre** — Wenn es um Influencer-Recht: Brand Deal – Leistungsbeschreibung, Abnahme und Nutzungsrechte in Influencer-Recht geht: or…
-4. **content-lizenz-musik-reel-bildrechte-kug** — Wenn es um Influencer-Recht: Content-Lizenz, Nutzungsdauer, Media Buyout und Whitelisting in Influencer-Recht geht: ordn…
-5. **minderjaehrige-creator-gewinnspiel** — Wenn es um Influencer-Recht: Minderjährige Creator – Eltern, Jugendschutz, Vertragsrecht in Influencer-Recht geht: ordne…
-6. **werbekennzeichnung-instagram** — Wenn es um Influencer-Recht: Werbekennzeichnung – Instagram Story/Reel, TikTok, YouTube in Influencer-Recht geht: ordnet…
-7. **influencer-beauty-filter-medienanstalt** — Wenn es um Influencer-Recht: Influencer als Testimonial in Kapitalmarktkommunikation in Influencer-Recht geht: ordnet Sa…
-8. **agenturvertrag-exklusivitaet-foto** — Wenn es um Influencer-Recht: Agenturvertrag – Exklusivität, Provision und Kündigung in Influencer-Recht geht: ordnet Sac…
+3. **impressumspflicht-und-ladungsfaehige-anschrift** — Prüft Anbieterinformationen für Creator-Accounts, Websites, Shops und Link-in-Bio-Seiten nach Paragraf 5 DDG und Paragra…
+4. **brand-deal-leistungsbeschreibung-abnahme-und-nutzungsre** — Wenn es um Influencer-Recht: Brand Deal – Leistungsbeschreibung, Abnahme und Nutzungsrechte in Influencer-Recht geht: or…
+5. **content-lizenz-musik-reel-bildrechte-kug** — Wenn es um Influencer-Recht: Content-Lizenz, Nutzungsdauer, Media Buyout und Whitelisting in Influencer-Recht geht: ordn…
+6. **minderjaehrige-creator-gewinnspiel** — Wenn es um Influencer-Recht: Minderjährige Creator – Eltern, Jugendschutz, Vertragsrecht in Influencer-Recht geht: ordne…
+7. **werbekennzeichnung-instagram** — Wenn es um Influencer-Recht: Werbekennzeichnung – Instagram Story/Reel, TikTok, YouTube in Influencer-Recht geht: ordnet…
+8. **influencer-beauty-filter-medienanstalt** — Wenn es um Influencer-Recht: Influencer als Testimonial in Kapitalmarktkommunikation in Influencer-Recht geht: ordnet Sa…
 
 ---
 
@@ -175,6 +175,86 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 ## Fachlicher Anker — Influencer- und Social-Media-Recht
 
 Tragende Anker: UWG §§ 5, 5a, MStV § 22, TMG. Tatsächliche Fundstellen werden über dejure.org, openJur, gesetze-im-internet.de, BGH-/BVerfG-/EuGH-/EuG-Datenbank live geprüft und nicht aus Modellwissen finalisiert.
+
+---
+
+## Skill: `impressumspflicht-und-ladungsfaehige-anschrift`
+
+_Prüft Anbieterinformationen für Creator-Accounts, Websites, Shops und Link-in-Bio-Seiten nach Paragraf 5 DDG und Paragraf 18 MStV. Erfasst Diensteanbieter, Niederlassung, Register, Aufsicht und Erreichbarkeit je Kanal; liefert ein vollständiges Impressum, Erreichbarkeitsprüfung und belastbare Abmahnreaktion._
+
+# Anbieterinformationen und erreichbare Anschrift für Creator
+
+## 1. Direktstart
+
+Öffne jeden betroffenen Account und die verlinkten Seiten in der Nutzeransicht. Dokumentiere Plattform, Profil-URL, Zeitpunkt, Klickweg, sichtbaren Linktext und Inhalt der Anbieterinformationen. Liefere danach sofort eine Ist-Soll-Matrix und einen korrigierten Impressumstext.
+
+## 2. Rechtsrahmen
+
+- DDG Paragraf 5 verlangt für geschäftsmäßige, in der Regel gegen Entgelt angebotene digitale Dienste leicht erkennbare, unmittelbar erreichbare und ständig verfügbare Informationen.
+- Zu den Pflichtangaben gehören Name und Niederlassungsanschrift, bei juristischen Personen Rechtsform und Vertretungsberechtigter, elektronische Kontaktmöglichkeit, gegebenenfalls Aufsichtsbehörde, Register und Registernummer, berufsrechtliche Angaben sowie vorhandene Umsatzsteuer- oder Wirtschafts-Identifikationsnummer.
+- MStV Paragraf 18 enthält zusätzliche Informationspflichten; bei journalistisch-redaktionellen Angeboten ist insbesondere der Verantwortliche nach der einschlägigen Vorschrift zu prüfen.
+- Datenschutz-Grundverordnung Artikel 13 verlangt eine eigene Datenschutzinformation für die Verarbeitung personenbezogener Daten. Sie ersetzt das Impressum nicht und folgt nicht aus einer alten TMG-Vorschrift.
+- UWG Paragraf 5a, Paragraf 8 und Paragraf 13 steuern mögliche wettbewerbsrechtliche Ansprüche und Abmahnkosten. Paragraf 13 Absatz 4 UWG enthält keine pauschale Kostenobergrenze von 100 Euro.
+
+## 3. Diensteanbieter bestimmen
+
+Prüfe je Kanal:
+
+1. Wer bietet den digitalen Dienst tatsächlich an: natürliche Person, Einzelunternehmen, Gesellschaft oder Agentur.
+2. Welche Anschrift ist die Niederlassungsanschrift dieses Anbieters.
+3. Wer ist vertretungsberechtigt und welches Register enthält den Rechtsträger.
+4. Welche geschäftliche Tätigkeit, Aufsicht oder reglementierte Berufsangabe löst Zusatzangaben aus.
+5. Ob Shop, Newsletter, Community, Podcast und Social-Media-Account demselben Anbieter zuzuordnen sind.
+
+Ein bloßes Postfach genügt nicht als Niederlassungsanschrift. Ein externer Postservice darf nicht als scheinbare Niederlassung bezeichnet werden, wenn dort keine reale Niederlassung besteht. Sicherheitsinteressen des Creators sind durch eine echte Geschäftsanschrift, Gesellschaftsstruktur oder andere rechtmäßige Organisation zu lösen.
+
+## 4. Erreichbarkeit prüfen
+
+| Kanal | Startpunkt | Linktext | Klicks | Ziel erreichbar | Inhalt aktuell | Beleg |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Plattform] | [Profil oder Beitrag] | [Impressum] | [Anzahl] | [ja oder nein] | [ja oder nein] | [Screenshot] |
+
+Prüfe zusätzlich mobile Ansicht, ausgeloggte Ansicht, Link-in-Bio-Dienst, Weiterleitungen, Fehlermeldungen und alte Profilvarianten. Eine abstrakte Zwei-Klick-Regel ersetzt nicht die Prüfung, ob die Information im konkreten Dienst leicht erkennbar und unmittelbar erreichbar ist.
+
+## 5. Impressumsgerüst
+
+1. vollständiger Name oder Firma und Rechtsform,
+2. Niederlassungsanschrift,
+3. Vertretungsberechtigter bei juristischer Person,
+4. E-Mail-Adresse und weiterer schneller unmittelbarer Kommunikationsweg,
+5. Register, Registergericht und Registernummer,
+6. zuständige Aufsicht bei erlaubnispflichtiger Tätigkeit,
+7. berufsrechtliche Angaben bei reglementiertem Beruf,
+8. vorhandene Umsatzsteuer- oder Wirtschafts-Identifikationsnummer,
+9. Verantwortlicher nach MStV, falls erforderlich.
+
+Nicht vorhandene Angaben werden nicht erfunden. Telefonnummer, Steuernummer und Bankverbindung werden nicht schematisch aufgenommen, sondern nur bei rechtlicher Erforderlichkeit oder bewusster geschäftlicher Entscheidung.
+
+## 6. Abmahnreaktion
+
+1. beanstandeten Kanal, Abrufzeit und damaligen Inhalt sichern,
+2. Anspruchsteller und Anspruchsberechtigung prüfen,
+3. konkreten Verstoß und bereits erfolgte Korrektur dokumentieren,
+4. Wiederholungsgefahr und Reichweite einer Unterlassungserklärung gesondert bewerten,
+5. Kosten nach UWG Paragraf 13 und Streitwertgrundlage statt mit erfundener Pauschalgrenze prüfen,
+6. Korrektur auf allen technisch verbundenen Profilen nachweisen.
+
+## 7. Arbeitsprodukte
+
+- kanalübergreifende Ist-Soll-Matrix,
+- vollständiger Impressumstext,
+- technische Umsetzungsanweisung je Plattform,
+- Belegpaket aus Screenshots und Zeitstempeln,
+- Abmahnantwort mit Korrekturbelegen und Kostenprüfung.
+
+## 8. Qualitätskontrolle
+
+1. DDG statt TMG ist als aktueller Hauptanker verwendet.
+2. Diensteanbieter, Firma und Profilname werden nicht verwechselt.
+3. Die Anschrift ist eine reale Niederlassungsanschrift.
+4. Register-, Vertretungs- und Identifikationsangaben stimmen mit Primärregistern überein.
+5. Datenschutzinformation und Anbieterinformationen bleiben getrennt.
+6. Jede Plattform ist aus der tatsächlichen Nutzeransicht geprüft.
 
 ---
 
@@ -578,93 +658,6 @@ Creator in Kapitalmarktumfeld tragen erhebliche Haftungsrisiken:
 - Interessenkonflikt-Offenlegungstext
 - Ablehnungsschreiben für nicht lizenzierte Finanzprodukte
 - MAR-Compliance-Checkliste
-
----
-
-## Skill: `agenturvertrag-exklusivitaet-foto`
-
-_Wenn es um Influencer-Recht: Agenturvertrag – Exklusivität, Provision und Kündigung in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Influencer-Recht: Agenturvertrag – Exklusivität, Provision und Kündigung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: UWG §§ 3, 5, 5a, 8, 13, MStV § 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG §§ 14, 15, UrhG §§ 15 ff., 19a, KUG §§ 22, 23, DSGVO Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen und live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Kontext und Regelungslage
-
-Agenturverträge sind für Creator häufig die rechtlich riskanteste Vertragsform:
-
-- **§§ 611, 631 BGB**: Agenturvertrag kann als Dienst- oder Werkvertrag ausgestaltet sein; Qualifikation bestimmt Gewährleistung und Kündigung.
-- **§ 84 HGB** (analog): Handelsvertreter-Grundsätze anwendbar, wenn Agentur dauerhaft Geschäfte vermittelt.
-- **§ 138 BGB**: Sittenwidrigkeit bei übermäßig langen Exklusivitätsklauseln oder unangemessener Knebelung.
-- **§ 305 ff. BGB (AGB-Recht)**: Agenturverträge als AGB – überraschende Klauseln (§ 305c), unangemessene Benachteiligung (§ 307).
-- **§ 626 BGB**: Außerordentliche fristlose Kündigung bei wichtigem Grund (z. B. Nichtzahlung, Vertragsverletzung der Agentur).
-- **§ 89b HGB** (analog): Ausgleichsanspruch des Creator-Handelsvertreters bei Vertragsende.
-- **§ 823 BGB**: Schadensersatz bei Verschulden; Agentur haftet für rechtswidrige Deals.
-
-### Typische Klauseln und Bewertung
-
-| Klausel | Rechtliche Bewertung |
-|---------|---------------------|
-| Exklusivität 2 Jahre, alle Branchen | Ggf. § 138 BGB sittenwidrig |
-| Provision 20–30 % | Marktüblich, zulässig |
-| Post-Term Non-Compete 1 Jahr | Bei Vergütung: zulässig; ohne: § 307 BGB |
-| Auto-Renewal ohne Frist | AGB-Falle: § 307 Abs. 1 BGB |
-| Nutzungsrechte Agentur > Creator | Prüfen: UrhG § 29 – Urheber bleibt Creator |
-
-## Kaltstart-Fragen (6)
-
-1. Liegt ein schriftlicher Agenturvertrag vor – oder soll einer geprüft / verhandelt werden?
-2. Gibt es eine Exklusivitätsklausel, und auf welche Bereiche / Branchen erstreckt sie sich?
-3. Wie hoch ist der Provisionssatz, und auf welchen Netto- oder Bruttobetrag bezieht er sich?
-4. Wie lang ist die Laufzeit, und gibt es eine automatische Verlängerung?
-5. Liegt ein Kündigungsgrund vor (Nichtzahlung, Untätigkeit, Vertragsverletzung)?
-6. Gewünschtes Ergebnis: Vertragscheck, Kündigungsschreiben oder Neuverhandlungs-Memo?
-
-## Prüfprogramm
-
-- Vertragsqualifikation: Dienst- oder Werkvertrag? → Kündigung nach § 621 BGB vs. § 649 BGB.
-- AGB-Prüfung: Ist der Vertrag vom Anwalt individuell verhandelt oder vom Auftraggeber gestellt?
-- Exklusivität: Zeitlich, sachlich und räumlich begrenzen; Branchen-Carve-outs verhandeln.
-- Provision: Nettobasis (nach Plattformgebühren) vs. Bruttobasis; Fälligkeitsregelung.
-- Kündigung: Ordentliche Frist im Vertrag? Außerordentlich nach § 626 BGB: Wichtiger Grund dokumentieren.
-- Nachvertragliches Wettbewerbsverbot: Ohne Karenzentschädigung regelmäßig unwirksam.
-
-## Typische Fallen
-
-- 3-Jahres-Exklusivvertrag unterzeichnet ohne Kündigunsrecht → Gefangen bei inaktiver Agentur.
-- Provision auf Bruttobetrag inkl. USt → Creator zahlt Provision auf den Steueranteil.
-- Auto-Renewal: Frist verpasst → ungewollt verlängert.
-- Nutzungsrechte gehen auf Agentur über → Creator kann Content nicht mehr kontrollieren.
-- Kündigung per WhatsApp → Schriftformerfordernis nicht gewahrt.
-
-## Normen und Quellen
-
-- §§ 611, 631 BGB: https://www.gesetze-im-internet.de/bgb/__611.html
-- § 138 BGB – Sittenwidrigkeit: https://www.gesetze-im-internet.de/bgb/__138.html
-- § 305 ff. BGB – AGB: https://www.gesetze-im-internet.de/bgb/__305.html
-- § 626 BGB – Außerordentliche Kündigung: https://www.gesetze-im-internet.de/bgb/__626.html
-- § 84 HGB: https://www.gesetze-im-internet.de/hgb/__84.html
-
-## Output-Formate
-
-- Vertragscheck-Ampel (kritische Klauseln markiert)
-- Kündigungsschreiben (ordentlich / außerordentlich)
-- Neuverhandlungs-Checkliste
-- Provisionskalkulations-Tabelle
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 

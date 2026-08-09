@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du einen Deckungsanspruch prüfen und gegen die Ablehnung des Versicherers durchsetzen.
-
 # Fachanwalt Versicherungsrecht — Schnellstart
+
+Wenn du das hier öffnest, willst du einen Deckungsanspruch prüfen und gegen die Ablehnung des Versicherers durchsetzen.
 
 Ziel: Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgemein. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -42,10 +42,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- | --- |
 | Vertrag und Sparte | Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Versicherungsfall | Eintritt, Anzeige, Schadenhöhe, Kausalität, Ausschluss und Beweislast ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Obliegenheiten | vorvertragliche Anzeige, Gefahrerhöhung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Obliegenheiten | Vorvertragliche Anzeige, Gefahrerhöhung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Deckung und Regulierung | Leistungsentscheidung, Quote, Regress, Verjährung und Prozessrisiko ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Berufsunfähigkeit: Fristen, Form, Zuständigkeit und Rechtsweg | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Berufsunfähigkeit: Fristen, Form, Zuständigkeit und Rechtsweg | Bearbeite Berufsunfähigkeit: Fristen, Form, Zuständigkeit und Rechtsweg: Versicherungsart, Versicherungsnehmer. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -53,10 +53,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - VVG Paragraf 19: vorvertragliche Anzeigepflicht und Rechtsfolgen.
 - VVG Paragraf 28: Obliegenheitsverletzung nach Vertragsschluss.
 - VVG Paragraf 61: Beratungspflichten des Versicherungsvermittlers.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
@@ -64,7 +64,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker VVG Paragraf 1; VVG Paragraf 19 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Vertrag und Sparte konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei ist der versicherungsfall nach zeit, ort, ursache und schaden belegt an.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei der versicherungsfall nach zeit, ort, ursache und schaden belegt an.
 7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Vertrag und Sparte, Versicherungsfall, Obliegenheiten, Deckung und Regulierung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 

@@ -10,7 +10,7 @@ description: "Wenn es um Do Deckungsabwehr in Fachanwalt Versicherungsrecht geht
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: Paragrafen 100 bis 112 und Paragraf 103 VVG für die Haftpflichtdeckung, Paragraf 28 VVG für Obliegenheiten sowie Paragraf 43 GmbHG, Paragraf 93 AktG und Paragraf 15b InsO für den Haftungsanspruch. Police, AVB und Nachträge gehen jeder abstrakten Marktannahme vor.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -28,24 +28,22 @@ description: "Wenn es um Do Deckungsabwehr in Fachanwalt Versicherungsrecht geht
 
 ### Versicherte Personen
 
-- Aktiv-Personen (im Dienst)
-- Früher / später (typisch 6-12 Monate Nach-Deckung)
+- gegenwärtige Organmitglieder und weitere ausdrücklich benannte Personen
+- ehemalige oder erst später bestellte Personen nur nach dem persönlichen und zeitlichen Deckungsumfang der konkreten Police
+- Claims-made-Zeitpunkt, Rückwärtsdeckung, Nachmeldefrist und Kontinuitätsdatum getrennt aus Police, AVB und Nachträgen feststellen; keine marktübliche Dauer unterstellen
 
 ## 2) Versicherte Schäden
 
 ### Standard
 
-- Schadensersatz-Pflicht
-- Pflichtverletzungs-Folgen § 43 GmbHG
+- Abwehr unbegründeter und Freistellung von begründeten versicherten Haftpflichtansprüchen nach dem konkreten Bedingungswerk
+- Innen- oder Außenhaftung aus einer Pflichtverletzung, etwa nach Paragraf 43 GmbHG, Paragraf 93 AktG oder Paragraf 15b InsO
 
 ### Ausnahmen (typisch ausgeschlossen)
 
-- Vorsatz
-- Schädigungs-Absicht
-- Insider-Trading
-- Verbotene Geschäftsbereiche
-- Strafrechtliche Sanktionen (oft begrenzte Deckung)
-- Steuer-Schaden
+- wissentliches oder vorsätzliches Handeln nach Wortlaut, Reichweite und Zurechnungsregel der vereinbarten Ausschlussklausel
+- Eigenschäden, Vertragsstrafen, Geldbußen, Steuern oder bestimmte Kapitalmarkt- und Insolvenzrisiken nur, soweit das Bedingungswerk sie wirksam ausnimmt
+- jede Ausschlussklausel getrennt auf Tatbestand, Beweislast, Kausalität und gegebenenfalls vorläufige Abwehrkosten prüfen
 
 ## 3) Versicherer-Einwaende
 
@@ -55,23 +53,23 @@ description: "Wenn es um Do Deckungsabwehr in Fachanwalt Versicherungsrecht geht
 - Beweislast: Versicherer
 - Bei Beweis-Schwierigkeit: oft Vergleich
 
-### Wesentliche Falschangabe
+### Angaben und Obliegenheiten
 
-- Bei Antragsstellung
-- Bei Schadensmeldung
-- Folge: Versicherer kann ablehnen / verklagen
+- Vorvertragliche Anzeigepflicht nach den Paragrafen 19 bis 22 VVG von Auskunfts- und Aufklärungsobliegenheiten nach Eintritt des Versicherungsfalls trennen.
+- Bei der Rechtsfolge nach Paragraf 28 VVG Verschuldensgrad, Kausalitätsgegenbeweis, Arglist und eine erforderliche Belehrung in Textform einzeln prüfen.
+- Eine verspätete oder unvollständige Meldung führt nicht ohne diese Prüfung automatisch zum Verlust der Deckung.
 
-### Verschwiegenheits-Verletzung
+### Kooperation
 
-- Versicherter muss kooperieren
-- Bei Verstoß: Leistungs-Verlust
+- Adressat, Inhalt und Fälligkeit jeder vereinbarten Mitwirkungsobliegenheit aus den AVB bestimmen.
+- Nur danach prüfen, ob und in welchem Umfang Paragraf 28 VVG vollständige oder anteilige Leistungsfreiheit zulässt.
 
 ## 4) Selbstbehalt
 
-### Bei AG / GmbHG-Vorstand
+### Aktiengesellschaft und GmbH unterscheiden
 
-- § 93 II 3 AktG / analog GmbHG: Selbstbehalt zwingend
-- Mindest 10 % des Schadens oder 1,5-faches Jahresgehalt
+- Versichert eine Aktiengesellschaft ein Vorstandsmitglied gegen berufliche Risiken, verlangt Paragraf 93 Absatz 2 Satz 3 AktG einen Selbstbehalt von mindestens zehn Prozent des Schadens bis mindestens zur Höhe des Eineinhalbfachen der festen jährlichen Vergütung.
+- Für den GmbH-Geschäftsführer enthält Paragraf 43 GmbHG keine entsprechende gesetzliche Selbstbehaltspflicht. Hier entscheiden Anstellungsvertrag, Police, AVB und gegebenenfalls gesellschaftsrechtliche Beschlüsse; eine Analogie zu Paragraf 93 Absatz 2 Satz 3 AktG nicht unterstellen.
 
 ### Praxis
 
@@ -82,7 +80,7 @@ description: "Wenn es um Do Deckungsabwehr in Fachanwalt Versicherungsrecht geht
 
 ### Sofort-Maßnahmen
 
-- Anspruch erkannt: Versicherer melden
+- Anspruch, Anspruchserhebung und maßgebliche Meldefrist anhand der Claims-made-Klausel bestimmen und nachweisbar melden
 - Vermeiden: Anerkennung Schaden ohne Vers.-Zustimmung
 - Vermeiden: Vergleich ohne Vers.-Zustimmung
 
@@ -100,11 +98,11 @@ description: "Wenn es um Do Deckungsabwehr in Fachanwalt Versicherungsrecht geht
 - Eigene Sicht widerlegen
 - Klage Versicherer
 
-### Klage Versicherer
+### Klage gegen den Versicherer
 
-- LG Sitz Versicherer
-- Streitwert: Deckungs-Höhe
-- Sachverständigen-Beweis ggf.
+- Klageart, sachliche und örtliche Zuständigkeit aus Antrag, Parteien, Streitwert und den gesetzlichen Gerichtsständen bestimmen; keinen Gerichtsstand allein aus dem Sitz des Versicherers unterstellen.
+- Bei Feststellungsanträgen das gegenwärtige Deckungsinteresse und bei Zahlungsanträgen die konkret fällige Leistung sauber beziffern.
+- Police, AVB, Nachträge, Anspruchserhebung, Meldung und Ablehnung als geschlossene Urkundenkette anbieten.
 
 ## 7) Workflow
 
@@ -147,7 +145,7 @@ description: "Wenn es um Do Deckungsabwehr in Fachanwalt Versicherungsrecht geht
 
 ## 10) Typische Fehler
 
-1. **Schaden nicht sofort gemeldet** -> Deckungs-Verlust
+1. **Meldung nicht nachweisbar oder Frist ungeprüft**: erst AVB-Tatbestand und Rechtsfolgen nach Paragraf 28 VVG prüfen, keinen automatischen Deckungsverlust behaupten
 2. **Anerkennung ohne Versicherer-Zustimmung**
 3. **Vorsatz-Einwand pauschal akzeptiert**
 4. **Selbstbehalt übersehen** bei Prüfung
@@ -162,7 +160,7 @@ description: "Wenn es um Do Deckungsabwehr in Fachanwalt Versicherungsrecht geht
 
 ### Paragrafenkette
 
-§ 43 GmbHG (Sorgfaltspflicht Geschäftsführer, Haftungsanspruch) → § 93 AktG (Sorgfaltspflicht Vorstand) → §§ 100 ff. VVG (Haftpflichtversicherung) → § 103 VVG (Ausschluss bei Vorsatz) → § 106 VVG (Deckungsschutz) → §§ 19, 28, 81 VVG (Anzeigepflichten, Obliegenheiten) → § 93 Abs. 2 Satz 3 AktG (Selbstbehalt-Pflicht börsennotiert) → § 15b InsO (früher § 64 GmbHG aF — Haftung bei Insolvenzreife) → §§ 133, 157 BGB (AVB-Auslegung D&O-Bedingungen)
+Paragraf 43 GmbHG oder Paragraf 93 AktG für die Organhaftung → Paragraf 15b InsO für Zahlungen nach Insolvenzreife → Paragrafen 100 und 101 VVG für Freistellung, Anspruchsabwehr und Kosten → Paragraf 103 VVG mit Prüfung von Person, Vorsatz und Rechtswidrigkeit → Paragrafen 19 bis 22 und 28 VVG für Anzeige- und Obliegenheitsfragen → Paragraf 93 Absatz 2 Satz 3 AktG für den gesetzlichen Selbstbehalt bei Vorstandsmitgliedern einer Aktiengesellschaft, nicht analog für GmbH-Geschäftsführer → Paragrafen 133, 157, 305c und 307 BGB für Auslegung und Inhaltskontrolle des Bedingungswerks
 
 ### Quellenregel
 
@@ -171,28 +169,26 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 | Maßnahme | Frist | Norm |
 |---|---|---|
-| Schadensanzeige an Versicherer (Obliegenheit) | unverzüglich nach Kenntnis | § 28 VVG i.V.m. AVB |
-| Verjährung Deckungsanspruch | 3 Jahre (ab Anspruchserhebung gegen Organ) | § 195 BGB |
-| Nachhaftungsdeckung (Claims-made) | vertraglich (typisch 6-24 Monate) | AVB D&O |
-| Klage LG Versicherer-Sitz | nach Ablehnung unverzüglich | § 215 VVG |
+| Anzeige des Versicherungsfalls oder der Anspruchserhebung | Ereignis und Frist ausschließlich aus Police und AVB bestimmen; Zugang beweissicher dokumentieren | AVB, Paragraf 28 VVG |
+| Verjährung des Deckungsanspruchs | regelmäßig drei Jahre; Entstehung, Fälligkeit, Kenntnis und Hemmung im Einzelfall bestimmen | Paragrafen 195, 199 BGB; Paragraf 106 VVG |
+| Rückwärtsdeckung und Nachmeldefrist | Beginn, Ende, bekannte Umstände und Kontinuitätsdatum aus sämtlichen Vertragsständen ermitteln | Police, AVB, Nachträge |
+| Klage | erst Klageart, Fälligkeit, Rechtsschutzbedürfnis sowie sachliche und örtliche Zuständigkeit bestimmen | ZPO, GVG; Paragraf 215 VVG nur bei erfülltem Tatbestand |
 
 ## Triage — Sofortprüfung D&O-Deckungsabwehr
 
 1. **Wer ist der Versicherte?** → Aktives oder ehemaliges Organ? Claims-made-Zeitraum prüfen — läuft Nachhaftungsdeckung noch?
 2. **Welcher Anspruch wird gegen das Organ erhoben?** → § 43 GmbHG, § 93 AktG, § 15b InsO? Vorsatz oder Fahrlässigkeit?
 3. **Ablehnungsgrund des Versicherers identifizieren:** Vorsatz (§ 103 VVG)? Fehlende Schadensanzeige? Anerkennung ohne Zustimmung? Kausalitätsfrage?
-4. **Selbstbehalt berechnen:** Börsennotierte AG → § 93 Abs. 2 Satz 3 AktG; GmbH → vertraglich/AVB.
+4. **Selbstbehalt berechnen:** Vorstand einer Aktiengesellschaft → Paragraf 93 Absatz 2 Satz 3 AktG und konkrete Police; GmbH-Geschäftsführer → nur Vertrag, AVB und Beschlusslage.
 5. **Insolvenzverwalter involviert?** → Klage des IV aus § 15b InsO gegen GF; D&O-Deckung typisch — Vorsatz-Einwand sorgfältig prüfen.
 
 **Entscheidungsbaum:**
 ```
 Ablehnungsgrund?
-├─ Vorsatz (§ 103 VVG) → Beweislast beim Versicherer; nur bedingter Vorsatz ausreichend
-│ └─ Grobe Fahrlässigkeit? → kein Ausschluss; Versicherer haftet
-├─ Claims-made abgelaufen → Nachhaftungsklausel prüfen (AVB)
-│ └─ Nachhaftung noch aktiv? → Versicherungsschutz besteht
-├─ Selbstbehalt-Streit → § 93 II 3 AktG nur börsennotierte AG; GmbH vertraglich
-└─ Kooperationspflichtverletzung → nur bei nachgewiesenem Vorsatz leistungsfrei
+├─ Vorsatz oder Wissentlichkeit → genaue Klausel, handelnde Person, Rechtswidrigkeit, Beweislast und Abwehrkostenvorbehalt prüfen
+├─ Anspruchserhebung außerhalb der Grundlaufzeit → Rückwärtsdeckung, Nachmeldefrist, Umstandsmeldung und Kontinuität prüfen
+├─ Selbstbehalt-Streit → Paragraf 93 Absatz 2 Satz 3 AktG für AG-Vorstände; bei GmbH nur vertragliche Grundlage
+└─ Obliegenheitsverletzung → Verschuldensgrad, Kausalität, Arglist und Belehrung nach Paragraf 28 VVG getrennt prüfen
 ```
 
 ## Schritt-für-Schritt-D&O-Deckungsklage
@@ -202,7 +198,7 @@ Ablehnungsgrund?
 3. **Ablehnungsschreiben analysieren:** Ablehnungsgrund qualifizieren (Vorsatz, AVB-Ausschluss, Obliegenheitsverletzung?).
 4. **Vorsatz-Einwand widerlegen:** Tatsachenvortrag zur subjektiven Seite (Schädigungs-Absicht fehlend); Beweislast des Versicherers nach § 103 VVG betonen.
 5. **AVB-Auslegung:** Ausschlussklauseln eng auslegen; §§ 305c, 307 BGB prüfen; Claims-made-Klausel auf Transparenz.
-6. **Deckungsklage** beim LG am Sitz des Versicherers: Zahlungs- oder Freistellungsklage.
+6. **Deckungsklage vorbereiten:** Leistungsart und Fälligkeit bestimmen, Feststellungs-, Freistellungs- oder Zahlungsantrag passend formulieren und das zuständige Gericht anhand von GVG, ZPO und gegebenenfalls Paragraf 215 VVG ermitteln.
 
 ## Output-Template — Deckungsklage D&O (Klageskizze)
 
@@ -241,7 +237,10 @@ II. BEGRÜNDUNG
  Der Kläger handelte lediglich fahrlässig [Tatsachenvortrag].
 
 4. Selbstbehalt-Berechnung
- Selbstbehalt nach § __ AVB: EUR [BETRAG] (10 % oder 1,5×JG).
+ Gesetzlicher oder vertraglicher Selbstbehalt: [GRUNDLAGE].
+ Bei einem AG-Vorstandsmitglied Berechnung nach Paragraf 93 Absatz 2 Satz 3 AktG
+ und der Police; bei einem GmbH-Geschäftsführer ausschließlich nach der belegten
+ vertraglichen Grundlage. Betrag: EUR [BETRAG].
  Restforderung: EUR [BETRAG].
 
 Beweis: Anlage K1 Versicherungspolice, K2 AVB, K3 Ablehnungsschreiben,

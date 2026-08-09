@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine dienst-, wehr-, versammlungs- oder aufenthaltsrechtliche Entscheidung nach Status, Verfahren, Ermessen und Eilbedürftigkeit ordnen.
-
 # Beamtenrecht — Schnellstart
+
+Wenn du das hier öffnest, willst du Status, Auswahl, Beurteilung, Besoldung, Dienstfähigkeit, Disziplinar- oder Versorgungsfrage mit Landes- oder Bundesrecht und dem richtigen Eilantrag bearbeiten.
 
 Ziel: Beamtenrecht für Bund, Länder und Richterdienst: Status, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Richterlaufbahn, Landesrecht und verständliche Mandatsführung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -10,63 +10,58 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Welches Statusgesetz und welche Eingriffsgrundlage tragen die Maßnahme.
-2. Sind Anhörung, Begründung und Zuständigkeit gewahrt.
-3. Auf welchen Tatsachen beruht die Gefahren- oder Eignungsprognose.
-4. Engpass dieses Gebiets zuerst sichern: Versammlungs-, Abschiebungs- oder Vollzugstermin liegt in unter einer Woche.
-5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
-6. Erstes Arbeitsprodukt liefern: Eilantrag: Antrag, Sachverhalt mit Termin, Anspruch, Grund, Folgenabwägung, Anlagen.
+1. Welcher Dienstherr, welches Statusamt, welches Land und welcher Stichtag bestimmen die Normen.
+2. Welche formelle oder materielle Auswahl-, Beurteilungs- oder Beteiligungsregel ist entscheidend.
+3. Welche dienstlichen und medizinischen Tatsachen sind durch welche Akte oder welches Gutachten belegt.
+4. Engpass dieses Gebiets zuerst sichern: Konkurrent soll ernannt werden oder eine kurze Antrags- oder Rechtsbehelfsfrist läuft.
+5. Beweislage ordnen: Darlegungs- und Nachweisfrage für Beamten-, Richterdienst-, Besoldungs- und Versorgungsrecht: Welche dienstlichen und medizinischen Tatsachen sind durch welche Akte oder welches Gutachten..
+6. Erstes Arbeitsprodukt liefern: Statusblatt: Dienstherr, Rechtskreis, Statusamt, Funktion, Laufbahn, Maßnahme, Stichtag, Beteiligung, Frist und Aktenfund.
 
 ## 3. Kernroute
 
-1. Status und Rechtsverhältnis: Beamter, Soldat, Versammlungsleiter oder Ausländer mit maßgeblichem Statusgesetz feststellen.
-2. Entscheidung und Verfahren: Bescheid, Auflage, Verbot oder Maßnahme mit Zuständigkeit, Anhörung und Bekanntgabe sichern.
-3. Ermessens- und Verhältnismäßigkeitskontrolle: mildere Mittel, Prognosegrundlagen und Gefahrenbelege prüfen.
-4. Eilbedürftigkeit: Vollzugstermin, Versammlungstermin, Abschiebungstermin oder Dienstantritt kalendarisch sichern.
-5. Arbeitsprodukt: Widerspruch, Eilantrag, Klage, Stellungnahme oder behördlicher Bescheidentwurf ausformulieren.
+1. Status und Dienstherr: Ernennung, Statusamt, Funktion, Laufbahn, Dienststelle, anwendbares Bundes- oder Landesrecht und Stichtag feststellen.
+2. Personalentscheidung: Anforderungsprofil, Bewerberkreis, Beurteilungen, Auswahlvermerk, Beteiligungen und Ernennungsstand prüfen.
+3. Dienst und Gesundheit: Weisung, Beschäftigung, Arbeitszeit, Fürsorge, Dienstunfall, Dienstfähigkeit, Gutachten und anderweitige Verwendung ordnen.
+4. Geld und Verfahren: Besoldung, Beihilfe, Versorgung, Rückforderung, Widerspruch, Klage, Disziplinarverfahren und Eilbedarf trennen.
+5. Arbeitsprodukt: Widerspruch, Konkurrenteneilantrag, Beurteilungseinwand, Gutachtenfragen, Besoldungsantrag oder Disziplinarerwiderung erstellen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | BeamtStG und BBG; SG und WPflG; GG Artikel 4 Absatz 3 und KDVG |
-| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 1 BvR 233, 341/81; BVerfG, Urteil vom 12.06.2018 - 2 BvR 1738/12 u.a |
-| Tatbestand | Beamter, Soldat, Versammlungsleiter oder Ausländer mit maßgeblichem Statusgesetz feststellen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+| Normenanker | GG Artikel 33 Absatz 2 und Absatz 5; BeamtStG und jeweiliges Landesbeamtengesetz oder BBG; Bundes- oder Landeslaufbahnrecht |
+| Rechtsprechung | BVerwG, 11.10.2016 - 2 C 11.15 als verifizierter Anker zu Art. 33; BVerfG, 05.05.2015 - 2 BvL 17/09 u.a |
+
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Status und Rechtsverhältnis | Beamter, Soldat, Versammlungsleiter oder Ausländer mit maßgeblichem Statusgesetz feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Entscheidung und Verfahren | Bescheid, Auflage, Verbot oder Maßnahme mit Zuständigkeit, Anhörung und Bekanntgabe sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ermessens- und Verhältnismäßigkeitskontrolle | mildere Mittel, Prognosegrundlagen und Gefahrenbelege prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eilbedürftigkeit | Vollzugstermin, Versammlungstermin, Abschiebungstermin oder Dienstantritt kalendarisch sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Status und Dienstherr | Ernennung, Statusamt, Funktion, Laufbahn, Dienststelle, anwendbares Bundes- oder Landesrecht und Stichtag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Personalentscheidung | Anforderungsprofil, Bewerberkreis, Beurteilungen, Auswahlvermerk, Beteiligungen und Ernennungsstand prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dienst und Gesundheit | Weisung, Beschäftigung, Arbeitszeit, Fürsorge, Dienstunfall, Dienstfähigkeit, Gutachten und anderweitige. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Geld und Verfahren | Besoldung, Beihilfe, Versorgung, Rückforderung, Widerspruch, Klage, Disziplinarverfahren und Eilbedarf trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- BeamtStG und BBG: Statuspflichten, Fürsorge, Disziplinarbezug und Konkurrentenschutz.
-- SG und WPflG: Wehrdienstverhältnisse, Pflichten und Verfahren.
-- GG Artikel 4 Absatz 3 und KDVG: Kriegsdienstverweigerung aus Gewissensgründen.
-- GG Artikel 8 und Versammlungsgesetze: Anmeldung, Auflagen, Verbot und Auflösung.
+- GG Artikel 33 Absatz 2 und Absatz 5: Bestenauslese sowie hergebrachte Grundsätze des Berufsbeamtentums.
+- BeamtStG und jeweiliges Landesbeamtengesetz oder BBG: Status, Pflichten, Personalmaßnahmen, Dienstfähigkeit und Beendigung.
+- Bundes- oder Landeslaufbahnrecht: Zugang, Befähigung, Probezeit, Beförderung und Verwendungsanforderungen.
+- Bundes- oder Landesbesoldungs- und Versorgungsrecht: Amt, Stufe, Zuschlag, Ruhegehalt, Anrechnung und Stichtag.
 - Art. 33 Abs. 2 GG: Bestenauslese nach Eignung, Befähigung und fachlicher Leistung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 74 Abs. 1 Nr. 27 GG und Art. 70 GG: Statusrechtliche Bundeskompetenz, Laufbahn/Besoldung/Versorgung der Länder grundsätzlich Landesrecht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 98 Abs. 2 GG: Wenn ein Bundesrichter im Amt oder außer Amts gegen die Grundsätze des Grundgesetzes oder gegen die verfassungsmäßige Ordnung verstoesst, kann; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 98 Abs. 5 GG ermöglicht analoge Vorschriften in den Ländern; landesrechtliche Vorschriften unterschiedlich; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 98 Abs. 2 GG: Wenn ein Bundesrichter im Amt oder außer Amts gegen die Grundsätze des Grundgesetzes oder gegen die verfassungsmäßige Ordnung verstößt, kann; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
-7.2. Normsatz: Den tragenden Anker BeamtStG und BBG; SG und WPflG auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Status und Rechtsverhältnis konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei sind anhörung, begründung und zuständigkeit gewahrt an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Eilantrag: Antrag, Sachverhalt mit Termin, Anspruch, Grund, Folgenabwägung, Anlagen; Auflagen-Erwiderung: angegriffene Auflage, Gefahrenprognose, mildere Mittel, Kooperationsangebot, Antrag. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Widerspruch, Konkurrenteneilantrag, Beurteilungseinwand, Gutachtenfragen, Besoldungsantrag oder Disziplinarerwiderung erstellen.
+7.2. Normsatz: Den tragenden Anker GG Artikel 33 Absatz 2 und Absatz 5; BeamtStG und jeweiliges Landesbeamtengesetz oder BBG auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Status und Dienstherr konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Darlegungs- und Nachweisfrage für Beamten-, Richterdienst-, Besoldungs- und Versorgungsrecht: Welche dienstlichen und medizinischen Tatsachen sind durch welche Akte oder welches Gutachten belegt; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche formelle oder materielle auswahl-, beurteilungs- oder beteiligungsregel ist entscheidend an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Widerspruch, Konkurrenteneilantrag, Beurteilungseinwand, Gutachtenfragen, Besoldungsantrag oder Disziplinarerwiderung erstellen ziehen und das verbleibende Risiko abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Statusblatt: Dienstherr, Rechtskreis, Statusamt, Funktion, Laufbahn, Maßnahme, Stichtag, Beteiligung, Frist und Aktenfund; Auswahlmatrix: Anforderung, Bewerber, Beurteilung, Hilfskriterium, Dokumentation, Fehler, Auswirkung und Eilantrag. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn versammlungs-, abschiebungs- oder vollzugstermin liegt in unter einer woche. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn konkurrent soll ernannt werden oder eine kurze antrags- oder rechtsbehelfsfrist läuft. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

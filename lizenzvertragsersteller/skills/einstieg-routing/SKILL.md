@@ -36,7 +36,7 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 ## Risiko-Ampel
 
 - **Insolvenz-Risiko Lizenzgeber:** 🔴 bei Software-Abhaengigkeit ohne Escrow · 🟠 bei mittelgrosser Lizenzgeberin · 🟢 etablierter Konzern.
-- **Kartellrecht TT-GVO:** 🔴 bei Marktanteil > 30 % (Wettbewerber) bzw. > 20 % (vertikal) · 🟠 bei Schranken-Klauseln (Kernbeschraenkungen) · 🟢 bei reinem KMU.
+- Kartellrecht TTBER: Kritisch bei einem gemeinsamen Marktanteil der Wettbewerber über 20 Prozent oder einem Anteil einer Partei unter Nichtwettbewerbern über 30 Prozent sowie bei Kernbeschränkungen oder ausgeschlossenen Klauseln. Auch unterhalb der Schwelle ist der konkrete Klauselinhalt zu prüfen.
 - **Steuern/Quellensteuer:** 🔴 bei Cross-Border ohne DBA-Prüfung · 🟠 bei DBA mit Quellensteuer-Reduktion · 🟢 bei rein nationaler Lizenz.
 
 ## Anschluss-Skills (Router)
@@ -60,7 +60,7 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - **DesignG** §§ 31 ff.; **GebrMG** §§ 22 ff.
 - **GeschGehG** §§ 1-12 (Schutz von Geschäftsgeheimnissen; Lizenz nach § 3)
 - **InsO** § 103 (Wahlrecht des Verwalters bei gegenseitigen Vertraegen)
-- **VO (EU) Nr. 316/2014 (TT-GVO)** — Technologietransfer-Gruppenfreistellung
+- Verordnung (EU) 2026/877 und Leitlinien C/2026/2323 - seit 1. Mai 2026 geltender Rahmen für Technologietransfervereinbarungen
 - **Rom-I-VO** Art. 4 (Lizenzvertraege Statut)
 
 ## Genau eine Rueckfrage (nur wenn noetig)

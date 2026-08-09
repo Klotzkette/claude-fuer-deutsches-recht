@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose belastbar bestimmen und den nächsten Verfahrensschritt wählen.
-
 # Richter Amtsgericht Insolvenz Restrukturierung — Schnellstart
+
+Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose belastbar bestimmen und den nächsten Verfahrensschritt wählen.
 
 Ziel: Insolvenz- und Restrukturierungsgericht: Eröffnungsverfahren Sicherungsmaßnahmen Verwalterauswahl Gläubigerversammlung Prüfungstermin Schlusstermin Restschuldbefreiung Restrukturierungssache nach StaRUG mit Stabilisierungsanordnung und Planbestätigung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - InsO Paragraf 18: drohende Zahlungsunfähigkeit.
 - InsO Paragraf 19: Überschuldung.
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
-- StaRUG Paragraf 66 Absatz 2 Nummer 3; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 27, 270, 270b InsO für Eröffnung, Eigenverwaltung und Schutzschirm; Paragrafen 38, 39 FamFG für Beschlussform; Paragrafen 31 ff. StaRUG für Restrukturierungsplan; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 27, 270, 270b InsO für Eröffnung, Eigenverwaltung und Schutzschirm; Paragrafen 38, 39 FamFG für Beschlussform; Paragrafen 31 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 13, 14, 15a und 16 bis 19 InsO: Antrag, Antragspflicht und Eröffnungsgründe sauber trennen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 21 InsO: Sicherungsmaßnahmen nur erforderlich, geeignet und verhältnismäßig; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 27 InsO: Eröffnungsbeschluss mit Verwalterbestellung und Wirkungen klar fassen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

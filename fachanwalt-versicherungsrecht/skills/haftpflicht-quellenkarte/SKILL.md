@@ -30,8 +30,9 @@ Diese Quellenkarte sichert für **Fachanwalt Versicherungsrecht** jede tragende 
 
 ## Fristen mit Quellenrelevanz
 
-- § 12 VVG Klagefrist
-- Anzeigepflicht unverzüglich
+- Paragrafen 195 und 199 BGB: regelmäßige Verjährung; Entstehung und Kenntnis fallbezogen bestimmen
+- Paragraf 15 VVG: Hemmung nach Anmeldung des Anspruchs bis zum Zugang der Versichererentscheidung in Textform
+- Paragraf 30 VVG und konkrete AVB: Anzeige des Versicherungsfalls und gegebenenfalls weitere vertragliche Meldeobliegenheiten
 
 ## Prüfroute
 

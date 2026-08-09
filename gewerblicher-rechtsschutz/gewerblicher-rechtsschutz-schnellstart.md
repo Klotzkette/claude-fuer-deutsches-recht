@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du ein Schutzrechtsportfolio oder einen Konflikt über Marke, Patent, Design, Know-how oder Wettbewerb rechtlich und verfahrensstrategisch ordnen.
-
 # Gewerblicher Rechtsschutz — Schnellstart
+
+Wenn du das hier öffnest, willst du ein Schutzrechtsportfolio oder einen Konflikt über Marke, Patent, Design, Know-how oder Wettbewerb rechtlich und verfahrensstrategisch ordnen.
 
 Ziel: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -50,7 +50,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - ZPO Paragraf 935 und Paragraf 940: Verfügungsanspruch, Verfügungsgrund und tenorierte Sicherung.
 - Paragraf 929 Abs. 2 ZPO – Vollziehungsfrist: Der Arrestbefehl und die einstweilige Verfügung verlieren ihre Kraft, wenn die Vollziehung nicht binnen eines Monats nach Verkündung bzw; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 922 Abs. 2 ZPO – Zustellung der Beschlussverfügung durch den Antragsteller (Parteizustellung); Gegensatz zur Amtszustellung bei Urteilen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 191 ZPO i.V.m. Paragrafen 192–195 ZPO – Parteizustellung durch Gerichtsvollzieher; Form- und Nachweisanforderungen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 191 ZPO i.V.m; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

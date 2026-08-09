@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du Satzung, Mitgliedschaft, Vorstand oder Mitgliederversammlung so bearbeiten, dass Beschluss und Registervollzug halten.
-
 # Vereinsrecht Vereinsmanager — Schnellstart
+
+Wenn du das hier öffnest, willst du Satzung, Mitgliedschaft, Vorstand oder Mitgliederversammlung so bearbeiten, dass Beschluss und Registervollzug halten.
 
 Ziel: Vereinsrechts- und Vereinsmanagement-Plugin für eingetragene und nicht eingetragene Vereine: Gründung, Satzung, Mitgliederversammlung, Vorstand, Protokolle, Beschlüsse, Gemeinnützigkeit, Register, Haftung, Datenschutz, Finanzen, Veranstaltungen und Spezialvereine. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -14,7 +14,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 2. Welches Organ ist zuständig und wurde ordnungsgemäß einberufen.
 3. Welche Mehrheit und welche besondere Form verlangt Gesetz oder Satzung.
 4. Engpass dieses Gebiets zuerst sichern: Satzungsfassung, Einladung oder Registerauszug fehlt.
-5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+5. Beweislage ordnen: Darlegungs- und Nachweisfrage für Vereinsrecht: Welche Mehrheit und welche besondere Form verlangt Gesetz oder Satzung.
 6. Erstes Arbeitsprodukt liefern: Satzung, Einladung, Beschlussvorschlag, Protokoll, Registeranmeldung, Ausschlussschreiben oder Klageentwurf erstellen.
 
 ## 3. Kernroute
@@ -31,16 +31,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | BGB Paragraf 21 bis Paragraf 35; BGB Paragraf 31, Paragraf 31a und Paragraf 31b; BGB Paragraf 32 bis Paragraf 40 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | eingetragen oder nicht eingetragen, Satzung, Registerauszug, Organe und Vertretungsregel feststellen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Eingetragen oder nicht eingetragen, Satzung, Registerauszug, Organe und Vertretungsregel feststellen |
+| Beweislast | Darlegungs- und Nachweisfrage für Vereinsrecht: Welche Mehrheit und welche besondere Form verlangt Gesetz oder Satzung |
+| Rechtsfolge | Satzung, Einladung, Beschlussvorschlag, Protokoll, Registeranmeldung, Ausschlussschreiben oder Klageentwurf erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Vereinsstatus | eingetragen oder nicht eingetragen, Satzung, Registerauszug, Organe und Vertretungsregel feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vereinsstatus | Eingetragen oder nicht eingetragen, Satzung, Registerauszug, Organe und Vertretungsregel feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Mitgliedschaft | Aufnahme, Beitrag, Rechte, Pflichten, Ordnungsmaßnahme, Austritt und Ausschluss mit Satzungsgrundlage prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Versammlung | Einberufung, Frist, Tagesordnung, Teilnahme, Leitung, Abstimmung, Mehrheit, Protokoll und Anfechtungsrisiko ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Vorstand und Haftung | Bestellung, Amtszeit, Ressort, Vertretung, Interessenkonflikt, Entlastung und Vermögensschaden trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
@@ -54,17 +54,17 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 41 bis Paragraf 79: Auflösung, Liquidation und Vereinsregister.
 - BGB Paragrafen 21-79, insbesondere Paragraf 32 BGB für Versammlung/Beschluss; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - AO Paragrafen 51-68 bei Gemeinnützigkeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 21 ff. BGB (eingetragener Verein, idealistischer Zweck); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 21 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 56 BGB: mindestens sieben Mitglieder zur Eintragung; im laufenden Verein dürfen bis auf drei Mitglieder fallen (sonst Auflösung Paragraf 73 BGB); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Satzung, Einladung, Beschlussvorschlag, Protokoll, Registeranmeldung, Ausschlussschreiben oder Klageentwurf erstellen.
 7.2. Normsatz: Den tragenden Anker BGB Paragraf 21 bis Paragraf 35; BGB Paragraf 31, Paragraf 31a und Paragraf 31b auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Vereinsstatus konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.4. Beweislast: Darlegungs- und Nachweisfrage für Vereinsrecht: Welche Mehrheit und welche besondere Form verlangt Gesetz oder Satzung; die Folge eines offenen Beweises ausdrücklich aussprechen.
 7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welches organ ist zuständig und wurde ordnungsgemäß einberufen an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Satzung, Einladung, Beschlussvorschlag, Protokoll, Registeranmeldung, Ausschlussschreiben oder Klageentwurf erstellen ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Vereinsstatus, Mitgliedschaft, Versammlung, Vorstand und Haftung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop

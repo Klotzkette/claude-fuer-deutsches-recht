@@ -38,7 +38,7 @@ description: "Wenn es um Form-Checker — Vertrag oder Willenserklärung in Schr
 ## Rechtsgrundlagen
 
 - Paragrafen 125-129 BGB — Formerfordernisse und Sanktionen
-- Spezialgesetze: Paragraf 14 Abs. 4 TzBfG, Paragraf 623 BGB, Paragraf 568 BGB, Paragraf 656a BGB, Paragraf 550 BGB, Paragraf 766 BGB, Paragraf 311b BGB u.a.
+- Spezialregeln: Paragraf 14 Absatz 4 TzBfG, Paragraf 623 BGB, Paragraf 568 BGB, Paragraf 656a BGB, Paragraf 578 in Verbindung mit Paragraf 550 BGB, Paragraf 766 BGB und Paragraf 311b BGB.
 
 ## Workflow
 
@@ -69,9 +69,10 @@ Welches Rechtsgeschäft liegt vor?
  → Schriftform Paragraf 568 Abs. 1 BGB
  → qES möglich, aber Zugang mit prüfbarer Signatur erforderlich
 
-→ Gewerberaummietvertrag länger als 1 Jahr
- → Schriftform Paragraf 550 BGB
- → Alle wesentlichen Vertragsbestandteile in Urkunde
+→ Gewerberaummietvertrag länger als ein Jahr
+ → Textform nach Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB
+ → Erklärender, lesbarer Inhalt, dauerhafter Datenträger und vollständige Vertragskette prüfen
+ → Bei Altverträgen Entstehungs- und Änderungsdatum nach Artikel 229 Paragraf 70 EGBGB einordnen
 
 → Maklervertrag Wohnraum (Kauf)
  → Textform Paragraf 656a BGB
@@ -151,7 +152,7 @@ SCHRITT 4 — Sicherungs-Workflow
 | GmbH-Anteilsübertragung | Notarielle Beurkundung | Notar |
 | Ehevertrag | Notarielle Beurkundung | Notar |
 | Wohnraummiete-Kündigung | Schriftform Paragraf 568 | Papier + Bote |
-| Gewerberaummiete >1 Jahr | Schriftform Paragraf 550 | Papier + Urkundeneinheit |
+| Gewerberaummiete über ein Jahr | Textform nach Paragraf 578 Absatz 1 und Paragraf 550 | E-Mail oder anderes dauerhaft speicherbares Dokument; Vertragskette sichern |
 | Maklervertrag Wohnraum | Textform Paragraf 656a | E-Mail + Bestätigung |
 | Bürgschaft | Schriftform Paragraf 766 | Papier + Originalunterschrift |
 | Arbeitsbefristung | Schriftform Paragraf 14 TzBfG | Papier vor Arbeitsbeginn |
@@ -178,5 +179,5 @@ kann nur durch eine schriftliche Vereinbarung beider Parteien verzichtet werden.
 ## Fallstricke
 
 - **Formfreiheit vs. Formklausel**: Auch wenn das Gesetz keine Form vorschreibt, kann ein vertraglich vereinbartes Schriftformerfordernis gelten (Paragraf 127 BGB). Immer den Vertrag auf Schriftformklauseln prüfen.
-- **Paragraf 305b BGB**: Individuelle Abreden gehen AGB (einschließlich Schriftformklausel in AGB) vor — auch mündlich. Doppelte Schriftformklausel kann Schutz bieten, ist aber selbst AGB-pflichtig.
+- Paragraf 305b BGB: Individuelle Abreden gehen AGB einschließlich einer doppelten Formklausel vor. Eine solche Klausel ist kein verlässlicher Ausschluss mündlicher Individualabreden; BGH, Beschluss vom 25. Januar 2017, XII ZR 69/16.
 - **Formhierarchie**: Wer Textform hat, hat noch keine Schriftform. Wer Schriftform hat, hat automatisch auch Textform gewahrt.

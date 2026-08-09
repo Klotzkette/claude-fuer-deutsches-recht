@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du Produktsicherheit, Haftung, Warnung, Rückruf oder Launch-Freigabe schnell nach Risiko und Nachweis entscheiden.
-
 # Robotik Recht — Schnellstart
+
+Wenn du das hier öffnest, willst du Produktsicherheit, Haftung, Warnung, Rückruf oder Launch-Freigabe schnell nach Risiko und Nachweis entscheiden.
 
 Ziel: Robotik-Recht Deutschland/EU: Maschinenverordnung, Regulierungsrahmen, Produkthaftung, ProdSG, Datenschutz, CRA, Data Act, CE, Marktüberwachung, Unfälle, Rückruf, Verträge und Robotik-Testakte. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -52,7 +52,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - ProdHaftG Paragraf 3: Fehlerbegriff und berechtigte Sicherheitserwartung.
 - ProdHaftG Paragraf 4: Herstellerbegriff.
 - GPSR Artikel 5: allgemeine Sicherheitsanforderung.
-- ProdHaftG (national, vor 09.12.2026): Beweislast Geschädigter für Fehler, Schaden, Kausalität (Paragraf 1 Abs. 4 ProdHaftG); Hersteller für Befreiungstatbestände Paragraf 1 Abs; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- ProdHaftG (national, vor 09.12.2026): Beweislast Geschädigter für Fehler, Schaden, Kausalität (Paragraf 1 Abs. 4 ProdHaftG); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - ZPO Paragrafen 142, 144 (Anordnung der Vorlage), Paragrafen 421-432 (Urkunden), Paragraf 286 freie Beweiswürdigung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 810 BGB Einsicht in Urkunden bei rechtlichem Interesse; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB Auskunft als Nebenpflicht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.

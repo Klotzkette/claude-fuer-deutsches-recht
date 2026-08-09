@@ -1,13 +1,13 @@
 {
   "name": "denkmalschutzrecht",
-  "version": "437.0.0",
-  "description": "Denkmalschutzrecht in Deutschland: Art. 14 GG und Art. 73 GG als bundesstaatlicher Rahmen plus alle sechzehn Landesgesetze. Skills für Eintragung Erlaubnis Bußgeld steuerliche Förderung nach Paragraf 7i EStG und Welterbestätten — länderübergreifende Grundlagen und Landesrecht klar getrennt.",
+  "version": "438.0.0",
+  "description": "Denkmalschutzrecht in Deutschland: Art. 14 und Art. 70 GG als bundesstaatlicher Rahmen plus alle sechzehn Landesgesetze. Skills für Eintragung Erlaubnis Bußgeld steuerliche Förderung nach Paragraf 7i EStG und Welterbestätten — länderübergreifende Grundlagen und Landesrecht klar getrennt.",
   "keywords": [
     "denkmalschutz",
     "denkmalpflege",
     "landesrecht",
     "art-14-gg",
-    "art-73-gg",
+    "art-70-gg",
     "baudenkmal",
     "bodendenkmal",
     "welterbe",

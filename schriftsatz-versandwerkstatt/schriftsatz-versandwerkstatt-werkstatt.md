@@ -18,7 +18,7 @@ Du prüfst nicht ungefragt:
 
 ## 2. Arbeitsmodus
 
-### 2.1 Dateien liegen vor
+### 2.1. Dateien liegen vor
 
 Lies zuerst den Arbeitsordner. Beginne nicht mit einem Katalog allgemeiner Fragen. Liefere nach der ersten Sichtung:
 
@@ -30,17 +30,17 @@ Lies zuerst den Arbeitsordner. Beginne nicht mit einem Katalog allgemeiner Frage
 
 Frage höchstens zwei gebündelte Punkte nach, und nur wenn die Produktion sonst falsch oder formunsicher würde. Nutze Gericht, Aktenzeichen, Frist, Parteienrolle und verantwortende Person aus Rubrum, Verfügung, Signaturzeile oder Auftrag, soweit eindeutig.
 
-### 2.2 Noch keine Dateien
+### 2.2. Noch keine Dateien
 
 Bitte in einem Satz um Hauptdokument, Anlagenordner, Empfängergericht, Aktenzeichen oder Neueingang, Frist, Parteirolle, verantwortenden Anwalt und geplanten Versender. Frage nicht jedes Dokument einzeln ab.
 
-### 2.3 Unveränderliche Originale
+### 2.3. Unveränderliche Originale
 
 Arbeite ausschließlich in einem neuen Ausgabeordner. Berechne vor jeder Verarbeitung einen SHA-256-Hash der Quelle. Lösche keine Dublette, überschreibe keine Quelle und verändere keine bereits versandte Fassung.
 
 ## 3. Ordneraufnahme
 
-### 3.1 Inventar
+### 3.1. Inventar
 
 Erfasse rekursiv:
 
@@ -57,7 +57,7 @@ Erfasse rekursiv:
 | Konverter | direkt, Office, Bild, E-Mail, Text oder manuell |
 | Status | bereit, prüfen, fehlt oder stop |
 
-### 3.2 Hauptdokument erkennen
+### 3.2. Hauptdokument erkennen
 
 Ordne Kandidaten nach:
 
@@ -69,11 +69,11 @@ Ordne Kandidaten nach:
 
 Bei einem klaren Kandidaten arbeite weiter und nenne deine Auswahl. Bei zwei gleichwertigen Kandidaten frage einmal mit Dateiname, Änderungsstand und erkennbarem Unterschied nach.
 
-### 3.3 Anlagen erkennen
+### 3.3. Anlagen erkennen
 
 Suche im Schriftsatz nach `Anlage K`, `Anlage B`, `Anlage AST` und `Anlage AG`. Vergleiche jede Fundstelle mit Dateiname und Anlagenverzeichnis. Eine bloß vorhandene Datei wird nicht automatisch zur Versandanlage. Eine genannte, aber fehlende Anlage ist rot.
 
-### 3.4 Dubletten und Versionen
+### 3.4. Dubletten und Versionen
 
 Gruppiere identische Hashes als Dubletten. Bei verschiedenen Hashes mit gleichem Namen oder gleicher Anlagenkennung erstelle einen Fassungsvergleich. Wähle keine Version allein aufgrund des jüngsten Datums, wenn eine unterschriebene oder versandte Fassung erkennbar ist.
 
@@ -95,11 +95,11 @@ Statusdefinitionen:
 
 ## 5. Hauptdokument endfertigen
 
-### 5.1 Konvertierung
+### 5.1. Konvertierung
 
 DOC, DOCX, ODT und RTF mit einer reproduzierbaren Office-Konvertierung nach PDF ausgeben. Vorhandene PDF in den neuen Arbeitsbereich kopieren. Kommentare, Änderungsverfolgung, ausgeblendeten Text, Felder und Druckoptionen vor der Ausgabe kontrollieren. Eine Konvertierung darf keine unbeabsichtigten Kommentare oder internen Markierungen sichtbar machen.
 
-### 5.2 Seitenprüfung
+### 5.2. Seitenprüfung
 
 Öffne jede Seite und vergleiche mit der Quelle:
 
@@ -112,7 +112,7 @@ DOC, DOCX, ODT und RTF mit einer reproduzierbaren Office-Konvertierung nach PDF 
 7. eingebettete Schriften, soweit prüfbar,
 8. keine Verschlüsselung, eingebettete Datei oder ausführbare Anweisung.
 
-### 5.3 Hauptdateiname
+### 5.3. Hauptdateiname
 
 Das Hauptdokument erhält Reihenfolge `00`, Datum, Dokumentart und optional das kurze Aktenzeichen. Beispiel:
 
@@ -122,7 +122,7 @@ Das Hauptdokument erhält Reihenfolge `00`, Datum, Dokumentart und optional das 
 
 ## 6. Anlagen konvertieren
 
-### 6.1 Office-Dokumente
+### 6.1. Office-Dokumente
 
 DOC, DOCX, ODT und RTF nach PDF ausgeben. Prüfe Kopf-/Fußzeilen, Kommentare, Änderungen, Schriftarten und Seitenumbrüche. XLS, XLSX und ODS verlangen zusätzlich:
 
@@ -136,27 +136,27 @@ DOC, DOCX, ODT und RTF nach PDF ausgeben. Prüfe Kopf-/Fußzeilen, Kommentare, �
 
 PPT, PPTX und ODP nach Folgenreihenfolge prüfen. Notizseiten nur aufnehmen, wenn sie als Beleg benötigt und ausdrücklich freigegeben sind.
 
-### 6.2 Bilder
+### 6.2. Bilder
 
 JPG, JPEG, PNG, BMP oder TIFF auf A4 einpassen, ohne Bildinhalt zu beschneiden oder das Seitenverhältnis zu verändern. Prüfe Ausrichtung, Auflösung und Lesbarkeit. Mehrere Bilder bleiben getrennte Quellen, sofern sie nicht als ein bewusstes Konvolut bestätigt sind.
 
-### 6.3 E-Mail
+### 6.3. E-Mail
 
 EML mit sichtbaren Feldern Von, An, Cc, Datum und Betreff sowie vollständigem Nachrichtentext ausgeben. Liste eingebettete Anhänge namentlich. Anhänge werden als eigene Quellen verarbeitet; sie dürfen nicht nur als unsichtbare Einbettung in der E-Mail-Datei verbleiben.
 
 MSG, PST, MBOX und sonstige proprietäre Container erhalten einen Stop-Befund. Verlange einen Export als EML oder eine in der Quellanwendung sichtgeprüfte PDF sowie die benötigten Anhänge separat. Behaupte nicht, Header oder Anhänge vollständig ausgelesen zu haben, wenn nur ein Bildschirmabzug vorliegt.
 
-### 6.4 Text, CSV und HTML
+### 6.4. Text, CSV und HTML
 
 TXT, Markdown und Logdateien mit erkennbarem Dateinamen und paginiertem Text ausgeben. CSV und TSV mit erkanntem Trennzeichen lesen und so umbrechen, dass keine Zelle unbemerkt abgeschnitten wird. HTML in sichtbaren Text überführen; dynamische oder nachgeladene Inhalte als nicht enthalten markieren.
 
-### 6.5 Nicht unterstützte Quellen
+### 6.5. Nicht unterstützte Quellen
 
 Kennwortschutz, beschädigte Dateien, Archive im Archiv, Datenbankcontainer und Fachanwendungsformate nicht still überspringen. Nenne Datei, Blocker, notwendige Quellanwendung und erwarteten Export. Bis dahin Status `stop`.
 
 ## 7. Anlagenkennungen und Stempel
 
-### 7.1 Nummernkreis
+### 7.1. Nummernkreis
 
 Verwende ausschließlich den bestätigten Kreis:
 
@@ -169,24 +169,24 @@ Verwende ausschließlich den bestätigten Kreis:
 
 Prüfe frühere Einreichungen und das letzte Anlagenverzeichnis. Beginne nicht erneut bei 1, wenn ein Kreis fortzuführen ist. Nummernlücken, doppelte Nummern oder gemischte Kreise sind Stop-Befunde.
 
-### 7.2 Drei-Wege-Abgleich
+### 7.2. Drei-Wege-Abgleich
 
 Für jede Anlage müssen Schriftsatzfundstelle, Anlagenverzeichnis und PDF-Stempel exakt dieselbe Kennung tragen. Erstelle:
 
 | Schriftsatzseite/Fundstelle | Kennung | Quelle | Versanddatei | Seiten | Status |
 | --- | --- | --- | --- | --- | --- |
 
-### 7.3 Stempelbild
+### 7.3. Stempelbild
 
 Bringe `Anlage K 1`, `Anlage B 1`, `Anlage AST 1` oder `Anlage AG 1` rechts oben auf jeder Seite an. Prüfe jede gestempelte Seite. Bei Überdeckung nicht still verschieben; dokumentiere die freie Alternative oder verwende nach Freigabe ein Deckblatt. Die Seitenzahl vor und nach Stempelung muss gleich sein.
 
 ## 8. Dateinamen
 
-### 8.1 Amtlicher Rahmen
+### 8.1. Amtlicher Rahmen
 
 Die ERVB 2025 erlaubt Dateinamen bis 90 Zeichen einschließlich Endung. Zulässig sind auch deutsche Umlaute und das scharfe S. Sie begrenzt eine Nachricht auf höchstens 1.000 Dateien und 200 MB.
 
-### 8.2 Kanzlei-ASCII-Profil
+### 8.2. Kanzlei-ASCII-Profil
 
 Nutze absichtlich die strengere Regel:
 
@@ -226,7 +226,7 @@ Regeln:
 
 ## 10. Absender und Signatur
 
-### 10.1 Ermittlung
+### 10.1. Ermittlung
 
 Ermittle:
 
@@ -239,11 +239,11 @@ Ermittle:
 
 Frage nur offene Punkte. Formuliere gebündelt: `Verantwortet und versendet [Name] persönlich aus seinem zugeordneten sicheren Postfach, oder wird das Hauptdokument vor Versand qualifiziert elektronisch signiert?`
 
-### 10.2 Zwei Wege
+### 10.2. Zwei Wege
 
 Für Zivilverfahren verlangt ZPO Paragraf 130a Absatz 3 entweder eine qualifizierte elektronische Signatur der verantwortenden Person oder eine Signatur durch die verantwortende Person mit Einreichung auf sicherem Übermittlungsweg. Anlagen benötigen keine eigene Signatur. In anderen Gerichtsbarkeiten ist die entsprechende Norm auszuwählen.
 
-### 10.3 Stop-Matrix
+### 10.3. Stop-Matrix
 
 | Fall | Ergebnis |
 | --- | --- |
@@ -329,7 +329,7 @@ Sichere sofort Minutenchronologie, Fehlermeldung, Bildschirmabzug, Systemstatus,
 
 ## 16. Stop- und Warnlogik
 
-### 16.1 Stop
+### 16.1. Stop
 
 - Empfängergericht, Aktenzeichen oder Neueingang ungeklärt.
 - Frist nicht bestimmt oder ohne Sicherheitsreserve.
@@ -340,7 +340,7 @@ Sichere sofort Minutenchronologie, Fehlermeldung, Bildschirmabzug, Systemstatus,
 - verantwortende Person, Versender, Postfach oder Signaturroute offen.
 - Datei- oder Paketgrenze überschritten.
 
-### 16.2 Warnung
+### 16.2. Warnung
 
 - OCR fehlt bei einem ansonsten lesbaren Scan.
 - lokaler Gerichtshinweis ist noch nicht geprüft.
@@ -371,3 +371,77 @@ Wenn ein Stop-Punkt besteht, produziere alle schon sicher möglichen Dateien und
 - ZPO Paragraf 130d: https://www.gesetze-im-internet.de/zpo/__130d.html
 
 Prüfe die Quellen vor einer fristgebundenen Einreichung auf Aktualität. Nutze keine Rechtsprechungsanker: Dieses Plugin steuert Produktion, Formroute und Kontrolle, nicht die materiellrechtliche oder prozesstaktische Begründung.
+
+<!-- BEGIN fachrouten-werkstatt (autogen) -->
+## 19. Fachspezifische Praxisrouten
+
+Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
+
+### 19.1. Anlagen konvertieren und sichtprüfen
+
+Bearbeitungsauftrag: MSG, PST, MBOX und vergleichbare Container werden nicht improvisiert ausgelesen. Stoppe, wenn Spalten abgeschnitten, Formeln als Fehlerwerte dargestellt, Tabellenblätter ausgelassen oder Zahlen durch wissenschaftliche Schreibweise verändert erscheinen. Eine Tabelle darf auf Querformat oder mehrere Seiten verteilt werden, muss aber ihre Kopfzeilen und Zuordnung behalten.
+Prüfschritte: Eine erfolgreich erzeugte PDF ist noch keine freigegebene Anlage; Jede Konvertierung bleibt bis zum Seitenvergleich im Status prüfen; Für jede EML-Datei müssen Von, An, Cc, Datum, Betreff und Nachrichtentext sichtbar sein; Liste eingebettete Anhänge im PDF-Kopf; Anhänge werden nicht unsichtbar Teil der E-Mail-PDF.
+Lieferstück: geprüftes Übergabepaket zu Anlagen konvertieren und sichtprüfen mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+
+### 19.2. Versandfreigabe und Eingang sichern
+
+Bearbeitungsauftrag: Nenne Hauptdokument, Anlagenbereich, Dateien, Bytes, Hash des Hauptdokuments, Frist, Signaturroute, Verantwortlichen und Versender. Liefere Freigabeampel, ausgefüllten Freigabevermerk, offene Stop-Punkte und Eingangskontrollblatt. Öffne die finalen Dateien aus versandfertig/, nicht die Quellen.
+Prüfschritte: Rot: Formroute, Empfänger, Frist, Hauptdokument oder Anlage offen; gelb: rein organisatorischer Punkt mit ausreichend Zeit offen; grün: technische Produktion abgeschlossen und anwaltliche Freigabe dokumentiert; Versand bleibt eine bewusste Handlung außerhalb des Werkzeugs; Erzeuge aus assets/freigabevermerk.md einen konkreten Vermerk.
+Lieferstück: geprüftes Übergabepaket zu Versandfreigabe und Eingang sichern mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+
+### 19.3. Hauptdokument als PDF endfertigen
+
+Bearbeitungsauftrag: Das Hauptdokument beginnt mit 00, enthält Datum und Dokumentart und endet mit .pdf, etwa 0020260714Klageerwiderung12O34_26.pdf. Nutze ASCII, Unterstriche und höchstens 80 Zeichen einschließlich Endung. Liefere Dateiname, Seitenzahl, Bytes, SHA-256, Quellfassung, Sichtprüfer und Prüfergebnis.
+Prüfschritte: Bearbeite nur die technische Endfassung; Ändere keinen Antrag, Tatsachenvortrag, Betrag, Namen oder Termin ohne ausdrückliche Freigabe; Ein entdeckter Inhaltswiderspruch wird gemeldet, nicht still korrigiert.
+Lieferstück: Akten- und Belegmatrix zu Hauptdokument als PDF endfertigen mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
+
+### 19.4. Ordneraufnahme und Produktionsmatrix
+
+Bearbeitungsauftrag: Inhaltsgleiche Dateien anhand Hash gruppieren; keine Datei löschen. passwortgeschützte Archive, verschlüsselte PDFs, eingebettete Objekte und proprietäre Container als Stop-Befund markieren. Bei mehreren Schriftsatzfassungen nicht nach jedem Dokument fragen.
+Prüfschritte: Nutze diesen Skill bei einem Ordner, ZIP-Inhalt oder Dateisatz, dessen Rollen noch nicht vollständig klar sind; Er ist die erste Station von versandmappe-endfertigen, kein allgemeines Aktenanalysewerkzeug.
+Lieferstück: geprüftes Übergabepaket zu Ordneraufnahme und Produktionsmatrix mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+
+### 19.5. Versandmappe endfertigen
+
+Bearbeitungsauftrag: Wenn ein Ordner oder Dateien vorliegen, beginne ohne Interview.
+Prüfschritte: Nutze diesen Skill als Standardroute, sobald der Nutzer einen fertigen oder nahezu fertigen Schriftsatz und einen Ordner mit Anlagen für die elektronische Gerichtseinreichung vorbereitet haben will; Nutze ihn auch bei Formulierungen wie „mach versandfertig“, „alles liegt im Ordner“, „PDF-Paket“, „Anlagen stempeln“ oder „beA-Mappe“; Keine inhaltliche Rechtsprüfung eröffnen; Keine Rechtsprechung recherchieren; Den Schriftsatz nicht neu schreiben, solange der Nutzer das nicht ausdrücklich verlangt.
+Lieferstück: geprüftes Übergabepaket zu Versandmappe endfertigen mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+
+### 19.6. Dateinamen und Paketgrenzen prüfen
+
+Bearbeitungsauftrag: Keine Leerzeichen, Umlaute, scharfes S, Klammern oder Sonderzeichen, 4. zweistellige, bei mindestens 100 Dateien dreistellige logische Reihenfolge,.
+Prüfschritte: Dieses Plugin nutzt vorsorglich: 1; höchstens 80 Zeichen einschließlich .pdf, 2; ausschließlich A-Z, a-z, 0-9 und Unterstrich im Stamm, 3; zweistellige, bei mindestens 100 Dateien dreistellige logische Reihenfolge, 5; sprechenden Inhalt nach Dokumentart oder Anlagenkennung.
+Lieferstück: geprüftes Übergabepaket zu Dateinamen und Paketgrenzen prüfen mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+
+### 19.7. Störung und Nachreichung dokumentieren
+
+Bearbeitungsauftrag: Bereits übermitteltes, aber für die Bearbeitung ungeeignetes Dokument,.
+Prüfschritte: Nutze diesen Skill nur, wenn eine Einreichung technisch scheitert, das Gericht ein Dokument als ungeeignet beanstandet oder eine korrigierte Fassung nachgereicht werden muss; Er ist keine vorsorgliche Standardstation; vorübergehende technische Unmöglichkeit der elektronischen Übermittlung, 2; bereits übermitteltes, aber für die Bearbeitung ungeeignetes Dokument, 3; falscher Empfänger, falsche Datei, fehlende Signatur oder sonstiger Form-/Bedienfehler.
+Lieferstück: Akten- und Belegmatrix zu Störung und Nachreichung dokumentieren mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
+
+### 19.8. Signaturweg und Absender prüfen
+
+Bearbeitungsauftrag: Bearbeite Signaturweg und Absender prüfen: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: geprüftes Übergabepaket zu Signaturweg und Absender prüfen mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+
+### 19.9. Anlagen nummerieren und stempeln
+
+Bearbeitungsauftrag: Beginne nicht erneut bei 1, wenn frühere Einreichungen vorliegen. Eine Datei, die nur im Ordner liegt, wird nicht automatisch versandt. Eine im Schriftsatz genannte, aber fehlende Datei ist ein Stop-Befund.
+Prüfschritte: Nutze nur den für die Rolle und das Verfahren bestätigten Kreis:; Übernimm einen bereits verwendeten Kreis aus den Akten; Für jede Anlage müssen übereinstimmen.
+Lieferstück: geprüftes Übergabepaket zu Anlagen nummerieren und stempeln mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+
+### 19.10. Inventur und Version
+
+Bearbeitungsauftrag: Bearbeite Inventur und Version: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Inventur: Datei, Dokumenttyp, Datum, Autor, Version, Signatur, Bezug und Lesbarkeit erfassen.
+Lieferstück: geprüftes Übergabepaket zu Inventur und Version mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+
+### 19.11. Fundstellenlinie
+
+Bearbeitungsauftrag: jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen.
+Lieferstück: geprüftes Übergabepaket zu Fundstellenlinie mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+
+### 19.12. Vergleich und Redline
+
+Bearbeitungsauftrag: Einfügung, Streichung, Widerspruch, fehlende Anlage, Rechenabweichung und materielle Auswirkung markieren.
+Lieferstück: Verhandlungsblatt zu Vergleich und Redline mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
+<!-- END fachrouten-werkstatt (autogen) -->

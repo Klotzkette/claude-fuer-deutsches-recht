@@ -22,10 +22,11 @@ description: "Wenn es um Nachtragsverwaltung in Vertragsrecht geht: entwickelt V
 ## Zentrale Normen
 
 - §§ 133, 157 BGB — Vertragsauslegung (lex posterior-Prinzip bei widersprüchlichen Klauseln)
-- § 125, 126 BGB — Schriftformmängel (Nachtrag ohne Schriftform kann Gesamtvertrag kündbar machen)
-- § 311 BGB — Vertragsänderungen und Ergänzungsvereinbarungen
-- § 550 BGB — Schriftformerfordernis bei langfristiger Miete (mehr als 1 Jahr)
-- § 154 BGB — fehlendes Einvernehmen über einzelne Punkte
+- Paragrafen 125 und 126 BGB — gesetzliche Schriftform und Rechtsfolgen
+- Paragraf 126b BGB — Textform
+- Paragraf 311 BGB — Vertragsänderungen und Ergänzungsvereinbarungen
+- Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB — Textform bei langfristiger Grundstücks- und Gewerberaummiete; Artikel 229 Paragraf 70 EGBGB bei älteren Vertragsketten
+- Paragraf 154 BGB — fehlendes Einvernehmen über einzelne Punkte
 
 ## Eingaben
 

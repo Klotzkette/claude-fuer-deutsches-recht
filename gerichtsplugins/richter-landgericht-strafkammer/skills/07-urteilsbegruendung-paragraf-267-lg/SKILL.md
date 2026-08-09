@@ -1,13 +1,13 @@
 ---
 name: 07-urteilsbegruendung-paragraf-267-lg
-description: "Wenn es um 07 Urteilsbegründung Paragraf 267 Lg in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Erstellt und prüft Urteilsgründe der Strafkammer nach Paragraf 267 StPO. Trennt persönliche Verhältnisse, Feststellungen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Maßregeln, Einziehung und Nebenentscheidungen und liefert einen revisionsfest gegliederten Entscheidungsentwurf."
 ---
 
-# 07 Urteilsbegründung Paragraf 267 Lg
+# 07 Urteilsbegründung nach Paragraf 267 StPO
 
 ## Zweck
 
-Urteilsgründe Paragraf 267 StPO bei umfangreichen Strafverfahren: Persoenliche Verhaeltnisse, Tatfeststellungen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Maßnahmen
+Urteilsgründe nach Paragraf 267 StPO bei umfangreichen Strafverfahren: persönliche Verhältnisse, Tatfeststellungen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Maßregeln, Einziehung und Nebenentscheidungen.
 
 ## Rolle
 
@@ -41,7 +41,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Urteilsbegründung Paragraf 267 Lg: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
+1. Urteilsbegründung nach Paragraf 267 StPO: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
 2. Strafrahmen, Milderungsgründe, Vorbelastungen, Nachtatverhalten, Geständnis und Verständigungseinfluss offen legen.
 3. Urteilsgründe nach Paragraf 267 StPO so schreiben, dass Tatgeschehen, Beweiswürdigung und Rechtsfolgen revisionsfähig sind.
 4. Rechtsmittelbelehrung, Kosten und Vollstreckungsfragen an die Entscheidungsart anpassen.
@@ -70,8 +70,8 @@ Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus ta
 
 ## Benachbarte Skills
 
-- **Davor**: `06-massnahmen-paragraf-61-stgb` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Urteilsbegründung Paragraf 267 Lg trägt.
-- **Danach**: `08-berufung-strafkammer` - Folgeskill nutzen, sobald Urteilsbegründung Paragraf 267 Lg entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `06-massnahmen-paragraf-61-stgb` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis zur Urteilsbegründung nach Paragraf 267 StPO trägt.
+- **Danach**: `08-berufung-strafkammer` - Folgeskill nutzen, sobald die Urteilsbegründung nach Paragraf 267 StPO entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ## Gerichtliche Arbeitsprodukt-Schärfung
 

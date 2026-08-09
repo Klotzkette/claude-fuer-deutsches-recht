@@ -21,13 +21,13 @@ description: "Wenn es um Klauselgenerator — Formvorbehalt und Änderungsvorbeh
 - **Paragraf 305b BGB** — Vorrang der Individualabrede vor AGB
 - **Paragraf 307 BGB** — Inhaltskontrolle AGB
 
-## BGH-Linie
+## BGH-Linie und aktuelles Gewerbemietrecht
 
+- BGH, Urteil vom 27. September 2017, XII ZR 114/16: Eine Schriftformheilungsklausel konnte die gesetzliche Rechtsfolge des damaligen Paragraf 550 BGB nicht abbedingen. Eine Klausel darf daher nicht als sicherer Ausschluss eines gesetzlichen Kündigungsrisikos dargestellt werden.
+- BGH, Beschluss vom 25. Januar 2017, XII ZR 69/16: Eine formularmäßige doppelte Schriftformklausel verdrängt eine individuelle Abrede wegen Paragraf 305b BGB nicht.
+- Seit 1. Januar 2025 gilt für langfristige Grundstücks- und Gewerberaummietverträge nach Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB gesetzlich Textform. Die Übergangsregel des Artikels 229 Paragraf 70 EGBGB ist bei älteren Vertragsketten zu prüfen; Stand August 2026 ist die allgemeine Übergangsfrist abgelaufen.
 
-Der BGH hat im Gewerbemietrecht anerkannt, dass eine qualifizierte Schriftformklausel — die auch mündliche Nebenabreden ausschließt und auch Änderungen der Klausel selbst der Schriftform unterwirft — zulässig ist und die Schriftform des Paragraf 550 BGB absichert.
-
-
-Eine doppelte Schriftformklausel in AGB (die auch die Aufhebung der Schriftformklausel der Schriftform unterwirft) ist grundsätzlich zulässig. Sie kann aber Paragraf 305b BGB nicht außer Kraft setzen: Individuelle Abreden haben Vorrang vor AGB, auch wenn sie mündlich getroffen wurden. Die doppelte Schriftformklausel schützt nicht vollständig vor mündlichen individuellen Abweichungen — sie schafft aber ein Beweisindiz und eine erhöhte Hürde.
+Ein vertraglicher Formvorbehalt bleibt als Organisations- und Beweisregel möglich. Er wird aber nicht als unüberwindbare Wirksamkeitsschranke formuliert und lässt zwingendes Formrecht sowie den Vorrang der Individualabrede ausdrücklich unberührt.
 
 ## Klausel-Bibliothek
 
@@ -65,29 +65,25 @@ Abreden nach Paragraf 305b BGB nicht aus.
 
 
 ```
-Paragraf [X] Schriftform und Vertragsänderungen
+Paragraf [X] Vertragsänderungen und Dokumentation
 
 (1) Dieser Mietvertrag sowie alle Änderungen, Ergänzungen, Nebenabreden
-und Kündigungen bedürfen der Schriftform gemäß Paragrafen 126, 550 BGB.
-Die Schriftform ist nur gewahrt, wenn eine gemeinsame Vertragsurkunde
-von beiden Parteien eigenhändig unterschrieben ist oder beide Parteien
-gleichlautende Einzelurkunden eigenhändig unterzeichnet haben.
+und Nachträge sollen in Textform gemäß Paragraf 126b BGB dokumentiert
+werden. Die Erklärung muss die erklärende Partei erkennen lassen und dem
+Empfänger auf einem dauerhaften Datenträger zugehen.
 
-(2) Mündliche Nebenabreden — auch vor Vertragsabschluss getroffene —
-sind ausgeschlossen und begründen keine rechtlich verbindlichen Änderungen
-dieses Vertrages.
+(2) Jeder Nachtrag bezeichnet den Hauptvertrag, den geänderten
+Vertragsbestandteil und das Datum seines Inkrafttretens. Hauptvertrag,
+Anlagen und Nachträge werden in einer fortlaufenden Vertragsliste geführt.
 
-(3) Textform (Paragraf 126b BGB), Telefax, E-Mail oder andere elektronische
-Kommunikationsmittel genügen dem Schriftformerfordernis dieses Vertrages
-nur, wenn zusätzlich eine qualifizierte elektronische Signatur nach
-Paragraf 126a BGB beigefügt und dem Empfänger so zugegangen ist, dass er
-die Signatur prüfen kann.
+(3) Für Erklärungen, für die Gesetz oder Vertrag eine strengere Form
+verlangen, bleibt diese strengere Form maßgeblich.
 
-(4) Die vorstehende Klausel gilt auch für ihre eigene Änderung oder
-Aufhebung.
+(4) Der Vorrang einer Individualabrede nach Paragraf 305b BGB und
+zwingende gesetzliche Rechtsfolgen bleiben unberührt.
 ```
 
-**Anwendung**: Gewerberaummietverträge über mehr als ein Jahr.
+Anwendung: Gewerberaummietverträge über mehr als ein Jahr. Vor Verwendung Entstehungs- und Änderungsdatum wegen Artikel 229 Paragraf 70 EGBGB prüfen.
 
 ### Klausel 4 — Textformklausel (für Maklervertrag oder Mieterhöhung)
 
@@ -141,7 +137,8 @@ benennen.
 
 ## Fallstricke
 
-- **Paragraf 305b BGB Vorrang Individualabrede**: Auch die beste doppelte Schriftformklausel in AGB schützt nicht vollständig vor mündlichen individuellen Abweichungen. Beweis der mündlichen Abrede bleibt beim Behauptenden — die Klausel schafft aber ein erhebliches Beweisindiz.
-- **Schriftformklausel selbst in AGB**: Eine Schriftformklausel ist selbst AGB-pflichtig (Paragraf 307 BGB). Sie darf nicht so formuliert sein, dass Verbraucher benachteiligt werden.
+- Paragraf 305b BGB: Auch eine doppelte Formklausel in AGB verdrängt eine individuelle Abrede nicht. Beweislast und Beweiswert sind fallbezogen zu prüfen; die Klausel beweist nicht automatisch, dass keine Individualabrede getroffen wurde.
+- AGB-Kontrolle: Eine Formklausel unterliegt Paragraf 307 BGB und darf den Vorrang der Individualabrede oder zwingendes Recht nicht verschleiern.
+- Gewerbemiete: Gesetzliche Textform nach Paragraf 578 Absatz 1 BGB nicht mit einer freiwillig vereinbarten strengeren Schriftform verwechseln.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

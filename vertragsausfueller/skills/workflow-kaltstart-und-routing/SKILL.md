@@ -41,7 +41,8 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## Vertragsabschluss-Form sicher pruefen
 
-- **Schriftform § 126 BGB (eigenhaendige Unterschrift, alle Erklaerungen auf derselben Urkunde):** Mietvertrag fuer 1 Jahr ueberschreitend (§ 550 BGB), Buergschaft (§ 766 BGB), Verbraucherdarlehen (§ 492 BGB).
+- Schriftform nach Paragraf 126 BGB: etwa Wohnraummietvertrag mit Laufzeit über einem Jahr nach Paragraf 550 BGB, Bürgschaft nach Paragraf 766 BGB oder Verbraucherdarlehen nach Paragraf 492 BGB; jeweilige Sonderregeln und Ausschlüsse prüfen.
+- Textform nach Paragraf 126b BGB: Bei Grundstücks- und Gewerberaummietverträgen mit Laufzeit über einem Jahr gilt sie über Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB. Bei Altverträgen Entstehungs- und Änderungsdatum nach Artikel 229 Paragraf 70 EGBGB einordnen.
 - **Textform § 126b BGB (lesbarer Text, Person des Erklaerenden genannt, dauerhaft):** E-Mail, PDF, SMS reichen aus; Standardform fuer Widerrufsbelehrung, Mahnung, Kuendigung von Verbrauchervertraegen ueber digitale Plattformen.
 - **Qualifizierte elektronische Signatur (qES) § 126a BGB:** Ersetzt Schriftform, sofern nicht ausgeschlossen (§ 484 Abs. 1 BGB Teilzeit-Wohnrechtevertrag, § 623 BGB Arbeitsvertrag-Kuendigung, § 766 S. 2 BGB Buergschaftserklaerung im B2C).
 - **eIDAS-VO 910/2014:** Qualifizierte Vertrauensdiensteanbieter; QES europaweit gleichwertig wie handschriftliche Unterschrift.

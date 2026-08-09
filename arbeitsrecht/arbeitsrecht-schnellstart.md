@@ -1,6 +1,7 @@
+# Arbeitsrecht — Schnellstart
+
 Wenn du das hier öffnest, willst du eine Kündigung rechtssicher angreifen oder aussprechen und die Klagefrist sichern.
 
-# Arbeitsrecht — Schnellstart
 
 ## 1. Schnellmodus
 

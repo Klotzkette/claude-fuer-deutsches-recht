@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine Grundrechtsrüge zulässig und schlüssig begründen.
-
 # Meinungsprüfer — Schnellstart
+
+Wenn du das hier öffnest, willst du eine Grundrechtsrüge zulässig und schlüssig begründen.
 
 Ziel: Meinungsprüfer für Äußerungsrecht: Meinung oder Tatsache, Beleidigung, üble Nachrede, Verleumdung, Paragraf 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR/EuGH, OLG-Praxis, US-Supreme-Court-Vergleich, Zivilrecht, Plattformen, Social Media, Arbeitsplatz, Schule und kommunale Machtkritik. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -43,9 +43,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Beschwerdegegenstand, Hoheitsakt | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Zulässigkeit | Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Schutzbereich, Eingriff | Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten | Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten | Bearbeite Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten entlang der Verfassungsrecht-Prüflinie: Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aeusserungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Äußerungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage | Bearbeite Äußerungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Beschwerdegegenstand, Hoheitsakt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -53,9 +53,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - GG Artikel 2 Absatz 1: allgemeine Handlungsfreiheit.
 - GG Artikel 3 Absatz 1: Gleichheitssatz.
 - GG Artikel 12 Absatz 1: Berufsfreiheit.
-- Art. 5 GG schützt auch scharfe, polemische und verletzende Meinungen. Das bedeutet nicht, dass Ehrschutz verdrängt wird. Es bedeutet: Im Normalfall muss konkret abgewogen werden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 5 GG schützt auch scharfe, polemische und verletzende Meinungen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 11 GRCh ersetzt Art. 5 GG nicht, sondern wirkt im Anwendungsbereich des Unionsrechts; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 10 EMRK schützt Freiheit der Meinungsäußerung; Einschränkungen müssen gesetzlich vorgesehen, legitim und in einer demokratischen Gesellschaft notwendig sein. Art; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 10 EMRK schützt Freiheit der Meinungsäußerung; Einschränkungen müssen gesetzlich vorgesehen, legitim und in einer demokratischen Gesellschaft notwendig sein; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 188 StGB Fassung 22.09.2021: Strafrahmen Freiheitsstrafe bis 5 Jahre oder Geldstrafe; bei Paragraf 188 II StGB qualifiziert; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform

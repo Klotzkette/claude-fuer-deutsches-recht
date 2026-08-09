@@ -1,8 +1,8 @@
-Wenn du das hier öffnest, willst du ein Vorhaben, eine Genehmigung oder einen Angriff dagegen entlang von Verfahrensart, Beteiligung, materieller Prüfung und Rechtsschutz ordnen.
-
 # Denkmalschutzrecht — Schnellstart
 
-Ziel: Denkmalschutzrecht in Deutschland: Art. 14 GG und Art. 73 GG als bundesstaatlicher Rahmen plus alle sechzehn Landesgesetze. Skills für Eintragung Erlaubnis Bußgeld steuerliche Förderung nach Paragraf 7i EStG und Welterbestätten — länderübergreifende Grundlagen und Landesrecht klar getrennt. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Wenn du das hier öffnest, willst du Denkmaleigenschaft, Erlaubnis, Erhaltung, Zumutbarkeit, Bodendenkmal oder steuerliche Bescheinigung nach dem richtigen Landesrecht bearbeiten.
+
+Ziel: Denkmalschutzrecht in Deutschland: Art. 14 und Art. 70 GG als bundesstaatlicher Rahmen plus alle sechzehn Landesgesetze. Skills für Eintragung Erlaubnis Bußgeld steuerliche Förderung nach Paragraf 7i EStG und Welterbestätten — länderübergreifende Grundlagen und Landesrecht klar getrennt. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
@@ -10,63 +10,58 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Welche Genehmigungs- oder Planungsgrundlage trägt das Vorhaben und welche Konzentrationswirkung greift.
-2. Sind UVP-Pflicht und Artenschutz geprüft und wie belastbar sind die Fachbeiträge.
-3. Wer ist klagebefugt und welche Einwendungen sind fristgerecht erhoben.
-4. Engpass dieses Gebiets zuerst sichern: Baubeginn, Sofortvollzug oder Fällung steht unmittelbar bevor; dann zuerst Eilrechtsschutz prüfen.
-5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
-6. Erstes Arbeitsprodukt liefern: Einwendung: Betroffenheit, gerügter Belang, Tatsachen, Beweisangebot, Antrag auf Auflagen oder Ablehnung.
+1. Welches Landesgesetz und welches Schutzsystem gelten für das konkrete Objekt.
+2. Welche Substanz oder Erscheinung ist aus welchem fachlichen Grund denkmalwert.
+3. Welche Maßnahme beeinträchtigt welchen Schutzwert und welche mildere Alternative besteht.
+4. Engpass dieses Gebiets zuerst sichern: Bundesland, Denkmalstatus, Schutzumfang oder aktuelle Landesfassung ist nicht belegt.
+5. Beweislage ordnen: Nachweisachse Vorhaben und Bestand: historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen dokumentieren.
+6. Erstes Arbeitsprodukt liefern: Denkmalblatt: Objekt, Landesnorm, Denkmalart, Schutzgrund, Bestand, Vorhaben, Beeinträchtigung, Alternative und Beleg.
 
 ## 3. Kernroute
 
-1. Vorhaben und Verfahrensart: Genehmigung, Planfeststellung, Erlaubnis oder Anzeige mit zuständiger Behörde bestimmen.
-2. Beteiligung: Öffentlichkeit, Träger öffentlicher Belange, Verbände, Einwendungsfristen und Präklusionsrisiken sichern.
-3. Materielle Prüfung: Schutzgüter, Artenschutz, Immissionen, Denkmal- oder Tierschutzbelange und Abwägung ordnen.
-4. Rechtsschutz: Klagebefugnis, Verbandsklage, Eilverfahren und Fehlerfolgen (Heilung, Planergänzung) bewerten.
-5. Arbeitsprodukt: Einwendung, Klagebegründung, Erwiderung, Nebenbestimmungsvorschlag oder Behördenvermerk ausformulieren.
+1. Objekt und Landesrecht: Adresse, Flurstück, Denkmalart, Listeneintrag, Schutzumfang, Umgebung und zuständige Behörden feststellen.
+2. Vorhaben und Bestand: historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen dokumentieren.
+3. Erlaubnis und Abwägung: Tatbestand, Belange, Eigentümerinteresse, Erhaltungsoption, Wirtschaftlichkeit, Förderung und Zumutbarkeit prüfen.
+4. Verfahren und Beweis: Gutachten, Befunduntersuchung, Fotos, Kostenangebote, Abstimmung, Nebenbestimmungen, Baustopp und Rechtsbehelf ordnen.
+5. Arbeitsprodukt: Erlaubnisantrag, Maßnahmenbeschreibung, Zumutbarkeitsrechnung, Behördenantwort, Widerspruch oder Steuerbescheinigungsunterlage erstellen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | BImSchG Paragraf 4 ff; UVPG; BNatSchG Paragraf 44 |
-| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82, 2 BvR 398/82 und 2; BVerwG, Urteil vom 17.02.1984 - 7 C 8.82 |
-| Tatbestand | Genehmigung, Planfeststellung, Erlaubnis oder Anzeige mit zuständiger Behörde bestimmen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+| Normenanker | GG Artikel 14 und Artikel 70; Denkmalschutzgesetz des zuständigen Landes; BauGB und Landesbauordnung |
+| Rechtsprechung | BVerfG, Beschluss vom 2. März 1999, 1 BvL 7/91, BVerfGE 100 Seite 226 |
+
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Vorhaben und Verfahrensart | Genehmigung, Planfeststellung, Erlaubnis oder Anzeige mit zuständiger Behörde bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beteiligung | Öffentlichkeit, Träger öffentlicher Belange, Verbände, Einwendungsfristen und Präklusionsrisiken sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Materielle Prüfung | Schutzgüter, Artenschutz, Immissionen, Denkmal- oder Tierschutzbelange und Abwägung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsschutz | Klagebefugnis, Verbandsklage, Eilverfahren und Fehlerfolgen (Heilung, Planergänzung) bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Objekt und Landesrecht | Adresse, Flurstück, Denkmalart, Listeneintrag, Schutzumfang, Umgebung und zuständige Behörden feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vorhaben und Bestand | Historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Erlaubnis und Abwägung | Tatbestand, Belange, Eigentümerinteresse, Erhaltungsoption, Wirtschaftlichkeit, Förderung und Zumutbarkeit prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verfahren und Beweis | Gutachten, Befunduntersuchung, Fotos, Kostenangebote, Abstimmung, Nebenbestimmungen, Baustopp und Rechtsbehelf. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- BImSchG Paragraf 4 ff.: immissionsschutzrechtliche Genehmigung und ihre Konzentrationswirkung.
-- UVPG: Pflicht zur Umweltverträglichkeitsprüfung und Vorprüfung im Einzelfall.
-- BNatSchG Paragraf 44: besonderer Artenschutz mit Zugriffsverboten.
-- UmwRG: Rechtsbehelfe anerkannter Vereinigungen und Fehlerfolgenregime.
+- GG Artikel 14 und Artikel 70: Eigentumsgarantie sowie grundsätzlich landesrechtliche Gesetzgebungskompetenz für Denkmalschutz.
+- Denkmalschutzgesetz des zuständigen Landes: Denkmalbegriff, Eintragung oder ipso-iure-Schutz, Erhaltung, Erlaubnis, Bodendenkmal, Anordnung und Sanktion.
+- BauGB und Landesbauordnung: planungs- und bauordnungsrechtliche Zulässigkeit zusätzlich, aber getrennt vom denkmalrechtlichen Erlaubnistatbestand.
+- VwVfG und VwGO: Anhörung, Bestimmtheit, Ermessen, Zustellung, Widerspruch oder Klage und Eilrechtsschutz.
+- Artikel 14 Absatz 3 GG gilt nur für eine Enteignung zum Wohl der Allgemeinheit auf gesetzlicher Grundlage; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 14 Abs. 1 Satz 1 GG Eigentumsgarantie; Satz 2 Inhalts- und Schrankenbestimmung durch Gesetz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 14 Abs. 2 GG Sozialbindung; das öffentliche Interesse am Denkmalschutz ist ein anerkannter Gemeinwohlbelang; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 14 Abs. 3 GG Enteignung nur durch oder aufgrund eines Gesetzes mit ausdrücklicher Regelung von Art und Ausmaß der Entschädigung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 70 GG Grundregel: Wo der Bund keine Zuständigkeit hat, regeln die Länder; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
-7.2. Normsatz: Den tragenden Anker BImSchG Paragraf 4 ff; UVPG auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Vorhaben und Verfahrensart konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei sind uvp-pflicht und artenschutz geprüft und wie belastbar sind die fachbeiträge an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Einwendung: Betroffenheit, gerügter Belang, Tatsachen, Beweisangebot, Antrag auf Auflagen oder Ablehnung; Klagegliederung: Zulässigkeit mit Klagebefugnis, formelle Fehler, materielle Fehler, Fehlerfolge, Anträge. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Erlaubnisantrag, Maßnahmenbeschreibung, Zumutbarkeitsrechnung, Behördenantwort, Widerspruch oder Steuerbescheinigungsunterlage erstellen.
+7.2. Normsatz: Den tragenden Anker GG Artikel 14 und Artikel 70; Denkmalschutzgesetz des zuständigen Landes auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Objekt und Landesrecht konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Nachweisachse Vorhaben und Bestand: historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen dokumentieren; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche substanz oder erscheinung ist aus welchem fachlichen grund denkmalwert an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Erlaubnisantrag, Maßnahmenbeschreibung, Zumutbarkeitsrechnung, Behördenantwort, Widerspruch oder Steuerbescheinigungsunterlage. ziehen und das verbleibende Risiko abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Denkmalblatt: Objekt, Landesnorm, Denkmalart, Schutzgrund, Bestand, Vorhaben, Beeinträchtigung, Alternative und Beleg; Zumutbarkeitsrechnung: Erhaltungsaufwand, Förderung, Steuervorteil, Ertrag, Restwert, Zeitraum, Alternative und Quellenstatus. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn baubeginn, sofortvollzug oder fällung steht unmittelbar bevor; dann zuerst eilrechtsschutz prüfen. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn bundesland, denkmalstatus, schutzumfang oder aktuelle landesfassung ist nicht belegt. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
+# Urheberrecht Deutschland/EU — Schnellstart
 
-# Urheberrecht De EU — Schnellstart
+Wenn du das hier öffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
 
 Ziel: Deutsches und EU-Urheberrecht für Werkhöhe, Musik, algorithmische Systeme, TDM, Software, Lizenzen, Abmahnung, Schranken, Leistungsschutz und Rechteclearing. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 

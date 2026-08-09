@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
-
 # Fachanwalt Urheber Medienrecht — Schnellstart
+
+Wenn du das hier öffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
 
 Ziel: Plugin Fachanwalt für Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persönlichkeitsrecht Medienstaatsvertrag. Schnittstellen Plugin gewerblicher-rechtsschutz verlagsredaktion kanzlei-allgemein. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -57,6 +57,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 22 KunstUrhG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 23 KunstUrhG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 823 Abs. 1 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
+- EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
+- EuGH, Urteil vom 08.09.2016, C-160/15, GS Media: Bei einem nicht gewinnorientierten Linksetzer sind Kenntnis und Erkennbarkeit der rechtswidrigen Erstveröffentlichung konkret zu prüfen. Bei Gewinnerzielungsabsicht wird Kenntnis vermutet.
+- BGH, Urteil vom 18.06.2015, I ZR 74/14, Haftung für Hyperlink: Ein geschäftlicher Link begründet nicht allein Verantwortung. Zueigenmachen, erkennbare Rechtsverletzung, Hinweis, zumutbare Prüfung und Reaktion sind getrennt zu würdigen.
 
 ## 7. Antwortform
 

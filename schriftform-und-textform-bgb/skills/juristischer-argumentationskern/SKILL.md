@@ -65,10 +65,9 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 5.1. ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20: Elektronische Signatur ohne qualifiziertes Zertifikat genügt Paragraf 14 Abs. 4 TzBfG nicht; Paragraf 16 TzBfG ordnet die Unbefristetheit an
 5.2. LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21: Eingescannte Unterschrift genügt nicht; die formgerechte Erklärung muss dem Arbeitnehmer vor Arbeitsaufnahme vorliegen
 5.3. ArbG Gera, Urt. v. 07.03.2024 - 2 Ca 936/23: Echte qES beider Parteien kann Paragraf 14 Abs. 4 TzBfG wahren; maßgeblich ist das qualifizierte Zertifikat, nicht der bloße Einsatz eines Signaturtools
-5.4. ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20 — ein nur elektronisch unterzeichneter befristeter Arbeitsvertrag wahrt Paragraf 14 Abs
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+5.4. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.5. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
 ## 6. Beweislast und Gegenangriff
 

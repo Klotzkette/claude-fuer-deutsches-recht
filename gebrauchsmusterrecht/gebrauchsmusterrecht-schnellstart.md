@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine technische Erfindung als Gebrauchsmuster schnell schützen, abzweigen, auf Rechtsbestand prüfen oder durchsetzen.
-
 # Gebrauchsmusterrecht — Schnellstart
+
+Wenn du das hier öffnest, willst du eine technische Erfindung als Gebrauchsmuster schnell schützen, abzweigen, auf Rechtsbestand prüfen oder durchsetzen.
 
 Ziel: Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldung, Recherche nach Paragraf 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz, FTO und Schnellschutz für technische Produkte. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -60,7 +60,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker GebrMG Paragraf 1 bis Paragraf 3; GebrMG Paragraf 4 und Paragraf 5 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Schutzweg und Frist konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Inhaber für eingetragenen Anspruch, Rechtsbestand und Verletzung; Gegner für Löschungsgrund, Vorbenutzung, Erschöpfung oder sonstige Einrede; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei sind abzweigungs-, prioritäts- und schonfrist anhand amtlicher daten eingehalten an.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei abzweigungs-, prioritäts- und schonfrist anhand amtlicher daten eingehalten an.
 7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Anmeldung, Abzweigung, Recherche, Löschung, Unterlassung, Auskunft, Schadensersatz oder einstweilige Verfügung ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Schutzweg und Frist, Schutzgegenstand, Rechtsbestand, Schutzbereich und Verletzung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 

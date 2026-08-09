@@ -22,7 +22,7 @@ description: "Wenn es um Registerpfandrecht – Register auswerten in Luftrecht 
 ## Erste Schritte
 
 1. Sachverhalt strukturieren: Parteien betroffene Luftfahrzeuge/Einrichtungen beteiligte Behörden und laufende Fristen.
-2. Einschlägige Normen identifizieren: LuftFzgG §§ 1-12 Cape Town Convention Art. 16 29 AG Braunschweig ICAO-Register.
+2. Einschlägige Normen identifizieren: LuftFzgG §§ 1-12 Cape Town Convention Art. 16 29 AG Braunschweig International Registry.
 3. Register prüfen: LBA-Luftfahrzeugrolle AG-Braunschweig-Pfandrechtsregister ICAO-Cape-Town-Register je nach Fallrelevanz.
 4. Zuständigkeit klären: LBA vs. Landesbehörde vs. EASA vs. Verwaltungsgericht.
 5. Fristen sichern: Widerspruch (1 Monat) Klage (1 Monat) Insolvenzantrag (3/6 Wochen).
@@ -30,12 +30,12 @@ description: "Wenn es um Registerpfandrecht – Register auswerten in Luftrecht 
 
 ## Rechtsrahmen
 
-LuftFzgG §§ 1-12 Cape Town Convention Art. 16 29 AG Braunschweig ICAO-Register – die einschlägigen Normen werden je nach Sachverhaltsebene (nationaler Betrieb EU-Recht internationales Recht) herangezogen und zu jedem Normzitat kurz erläutert.
+LuftFzgG §§ 1-12 Cape Town Convention Art. 16 29 AG Braunschweig International Registry – die einschlägigen Normen werden je nach Sachverhaltsebene (nationaler Betrieb EU-Recht internationales Recht) herangezogen und zu jedem Normzitat kurz erläutert.
 
 - **LuftVG §§ 6 20 29 31 64**: Genehmigung Betrieb Register Aufsicht.
 - **LuftSiG §§ 7-9**: Zuverlässigkeitsüberprüfung Sicherheitsprogramme Aufsicht.
 - **EU-VO 1008/2008 Art. 3-9**: Betriebsgenehmigung finanzielle Leistungsfähigkeit Überwachung.
-- **Cape Town Convention Art. 2-16**: Internationale Sicherungsinteressen ICAO-Register.
+- **Kapstadt-Regime nur bei Anwendbarkeit**: Vertragsstaatenbezug und Erklärungen anhand des aktuellen UNIDROIT-Status prüfen; Deutschland hat Übereinkommen und Luftfahrzeugprotokoll nur unterzeichnet, nicht ratifiziert. Prioritäten folgen grundsätzlich Artikel 29 des Übereinkommens und Artikel XIV des Protokolls.
 - **LuftFzgG §§ 1-28**: Nationales Pfandrecht Vollstreckung AG Braunschweig.
 - **InsO §§ 15a 17-19 47 50**: Insolvenzantragspflicht Gläubigerrechte.
 - **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
@@ -49,7 +49,7 @@ LuftFzgG §§ 1-12 Cape Town Convention Art. 16 29 AG Braunschweig ICAO-Register
 1. Ist zuständige Behörde korrekt adressiert?
 2. Sind alle Register vollständig abgefragt?
 3. Laufen Fristen – sind alle gesichert?
-4. Besteht Cape-Town-Registrierung mit IDERA?
+4. Berührt der Fall einen Vertragsstaat, und bestehen internationale Registrierungen oder eine behördlich erfasste IDERA?
 5. Ist Insolvenzrisiko bewertet?
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist die Rangfolge konkurrierender Pfandrechte (national vs. Cape Town) klar ermittelt?
@@ -70,7 +70,7 @@ Die Registerauswertung ist Grundlage jeder luftrechtlichen Due-Diligence-Prüfun
 
 - **Luftfahrzeugrolle (LBA)**: Enthält Halter Eigentümer Kennzeichen und Belastungen; Abruf online beim LBA möglich.
 - **AG Braunschweig (Pfandrechtsregister)**: Führt alle eingetragenen Pfandrechte an deutschen Luftfahrzeugen; Rangfolge nach Eintragungsdatum.
-- **ICAO International Registry (Cape Town)**: Enthält internationale Sicherungsinteressen; Suche nach Luftfahrzeugkennzeichen und MSN.
+- **International Registry (Cape Town)**: Enthält internationale Sicherungsinteressen; Suche nach Luftfahrzeugkennzeichen und MSN.
 - **Registerauszug Aktualität**: Stets aktuellen Auszug anfordern; veraltete Auszüge führen zu Haftungsrisiken.
 
 ## Quellen
@@ -95,7 +95,7 @@ Für Mandate im Bereich Luftfahrzeugpfandrecht und Register sind folgende Dokume
 
 - Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
 - AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
+- Bei belegtem Vertragsstaatenbezug: aktuelles Search Certificate des International Registry und gegebenenfalls IDERA-Nachweis der nationalen Registerbehörde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz

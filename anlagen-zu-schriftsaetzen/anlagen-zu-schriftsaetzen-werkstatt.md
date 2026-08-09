@@ -308,3 +308,83 @@ Formuliere abschließend:
 ## 10. Quellenstatus
 
 Normtexte, ERVB 2025, Berliner und nordrhein-westfälische Gerichtshinweise sowie die amtlichen Entscheidungslinks stehen in `references/BEA-ENDPRODUKTION-RECHT-TECHNIK.md`. Lokale Hinweise sind Organisationshilfen und ersetzen keine gesetzliche Formvorschrift. Nicht amtliche Veröffentlichungen sind nur Recherchehinweise.
+
+<!-- BEGIN fachrouten-werkstatt (autogen) -->
+## 11. Fachspezifische Praxisrouten
+
+Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
+
+### 11.1. Ordnerinventur und maßgebliche Fassungen
+
+Bearbeitungsauftrag: Öffne jede Datei, erfasse Originalname, Typ, Datum, Absender, Empfänger, Version, Unterschrift, Lesbarkeit und Bezug zum Schriftsatz; trenne Dubletten, Vorfassungen, leere Dateien und technisch nicht verwertbare Stücke.
+Lieferstück: Anlageninventar mit Originalfundort, maßgeblicher Fassung, Status, Schriftsatzbezug, Konvertierungsbedarf und Verantwortlichem.
+
+### 11.2. Beweisthema und Anlagenrelevanz
+
+Bearbeitungsauftrag: Ordne jede Anlage einer konkreten Tatsachenbehauptung, einem Tatbestandsmerkmal oder einer Einwendung zu; markiere fehlende Belege, überflüssige Dubletten und Stücke, die mehr oder anderes enthalten als im Schriftsatz behauptet.
+Lieferstück: Belegmatrix mit Behauptung, Anlage, Seitenfundstelle, Beweisthema, Risiko und notwendiger Textkorrektur.
+
+### 11.3. Konvertierung in lesbare PDF-Dateien
+
+Bearbeitungsauftrag: Wandle Text-, Tabellen-, Bild- und Nachrichtenformate nachvollziehbar in PDF um, bewahre Inhalt, Seitenfolge, Zeitstempel und Metadatenbezug, richte Seiten lesbar aus und führe nach jeder Konvertierung eine Sicht- und Öffnungsprobe durch.
+Lieferstück: getrennte, lesbare PDF-Anlagen mit Konvertierungsprotokoll, Seitenkontrolle und unverändert aufbewahrtem Original.
+
+### 11.4. Anlagenzeichen und sichtbare Kennzeichnung
+
+Bearbeitungsauftrag: Bestimme Partei- und Verfahrensstand, führe die vorhandene K-, B-, ASt- oder AG-Reihe fort und bringe das Anlagenzeichen auf einer freien Stelle sichtbar an, ohne Originalinhalt, Unterschrift, Stempel oder Seitenzahl zu verdecken.
+Lieferstück: konsistent gekennzeichnete Anlagenfolge mit Vergabeprotokoll und Kollisionskontrolle.
+
+### 11.5. Anlagenverzeichnis und Schriftsatzabgleich
+
+Bearbeitungsauftrag: Gleiche jedes im Text genannte Anlagenzeichen mit Dateiname, Dokumenttitel, Datum, Seitenzahl und tatsächlicher Datei ab; finde Sprünge, Doppelvergaben, verwaiste Verweise und Anlagen ohne Textbezug.
+Lieferstück: vollständiges Anlagenverzeichnis mit Kurzbezeichnung, Datum, Seitenumfang, Fundstelle im Schriftsatz und Prüfergebnis.
+
+### 11.6. Dateinamen und Sortierreihenfolge
+
+Bearbeitungsauftrag: Bilde kurze sprechende Dateinamen ohne Umlaute oder scharfes S, verbinde Wörter mit Unterstrichen, stelle das Anlagenzeichen voran und prüfe Länge, erlaubte Zeichen, Sortierung und Eindeutigkeit gegen die jeweils geltenden Einreichungsvorgaben.
+Lieferstück: sortierfähiger Versandordner mit eindeutigen Dateinamen, Reihenfolge und Umbenennungsprotokoll.
+
+### 11.7. E-Mails, Chats und digitale Verläufe
+
+Bearbeitungsauftrag: Bewahre Absender, Empfänger, CC, Datum, Uhrzeit, Betreff, Antwortverlauf, Anhänge und sichtbaren Kontext; trenne einzelne Nachricht, vollständigen Thread und beigefügte Datei und dokumentiere Auslassungen oder abgeschnittene Ansichten.
+Lieferstück: beweisgeeignete PDF-Fassung digitaler Kommunikation mit Kopfzeilen, Chronologie, Anhangsbezug und Originaldateiverweis.
+
+### 11.8. Tabellen, Berechnungen und große Seiten
+
+Bearbeitungsauftrag: Sichere Formeln oder Rechenweg, Blattname, Druckbereich, Filter, ausgeblendete Zeilen, Einheit und Stichtag; teile breite Tabellen nur kontrolliert und füge eine lesbare Legende sowie Seitenbezug hinzu.
+Lieferstück: lesbare Tabellenanlage mit Kontrollrechnung, Druckansicht, Blatt- und Zellbezug sowie unverändertem Ausgangsformat.
+
+### 11.9. Fremdsprachige Urkunden und Übersetzungen
+
+Bearbeitungsauftrag: Halte Original, Übersetzung, Übersetzer, Sprache, Vollständigkeit, Beglaubigungsstatus und Seitenzuordnung getrennt; entscheide anhand Gericht, Verfahrensstand und Bestreiten, ob Arbeitsübersetzung oder förmlicher Nachweis benötigt wird.
+Lieferstück: paarweise zugeordnete Original- und Übersetzungsanlage mit Statusvermerk, Seitenkonkordanz und offenem Nachweisbedarf.
+
+### 11.10. Große Anlagenbestände und Paketgrenzen
+
+Bearbeitungsauftrag: Ermittle Dateizahl und Gesamtvolumen, bilde sachlogische Einzelanlagen oder zulässige Bände, wahre Anlagenzeichen und Seitenbezug und plane Übertragungsreihenfolge, Reserve und kontrollierte Aufteilung ohne inhaltliche Vermischung.
+Lieferstück: Paketierungsplan mit Dateiliste, Größen, Reihenfolge, Bandlogik, Übermittlungsweg und Vollständigkeitskontrolle.
+
+### 11.11. Beweisangebote und genaue Fundstellen
+
+Bearbeitungsauftrag: Verknüpfe jede Anlage im Schriftsatz mit einer konkreten Behauptung und möglichst genauer Seite; formuliere Urkundenbeweis, Augenschein oder sonstigen Beweisantritt passend und vermeide pauschale Anlagenkonvolute ohne Tatsachenbezug.
+Lieferstück: Fundstellen- und Beweisangebotsliste mit Textstelle, Anlage, Seite, Beweisthema und Einbauvorschlag.
+
+### 11.12. Versandfreigabe und Übergabe
+
+Bearbeitungsauftrag: Prüfe Hauptdokument, Anlagenzeichen, Verzeichnis, Dateinamen, Lesbarkeit, Signaturweg, sicheren Übermittlungsweg, Frist, Empfänger, Öffnungsprobe und spätere Eingangskontrolle nach ZPO Paragrafen 130a und 130d sowie geltender ERVV.
+Lieferstück: freigabefähiges Anlagenpaket mit Prüfprotokoll, Restpunkten, Freigabeentscheidung und dokumentierter Übergabe an den Versand.
+
+## 12. Anlagenpaket mit gerichtsfester Kontrollspur
+
+### 12.1. Inventar, Fundstelle und Anlagenbezug
+
+Erfasse jede Eingangsdatei mit Originalname, Dokumentart, Datum, Aussteller, Seitenzahl, Lesbarkeit, Dublette und behaupteter Beweisfunktion. Ordne erst danach K-, B- oder sonstige Anlagenbezeichnungen zu. Jede Anlage muss im Schriftsatz an einer konkreten Tatsachenbehauptung eingeführt werden; ein bloßes Anlagenverzeichnis ersetzt den Sachvortrag nicht.
+
+Liefere ein Anlagenregister mit Schriftsatzfundstelle, Anlagenbezeichnung, Zieldateiname und offenem Bearbeitungsschritt. Fehlende Seiten, unklare Reihenfolge und widersprüchliche Fassungen werden vor der Konvertierung geklärt.
+
+### 12.2. Konvertierung, Stempelung und Sichtprüfung
+
+Wandle Office-Dateien, E-Mails, Bilder und sonstige Eingänge in lesbare, durchsuchbare PDFs um, ohne Inhalt oder Seitenfolge zu verändern. Setze die Anlagenbezeichnung zurückhaltend außerhalb relevanter Inhalte und kontrolliere jede Seite visuell auf Beschnitt, Drehung, Skalierung, leere Seiten, Schriftverlust und verdeckte Unterschriften.
+
+Prüfe anschließend Dateiname, Anlagenfolge, Seitenzahl, Öffnbarkeit und Übereinstimmung mit dem Register. Aktuelle Übermittlungs- und Formatvorgaben werden unmittelbar vor Versand anhand der maßgeblichen amtlichen Quelle kontrolliert.
+<!-- END fachrouten-werkstatt (autogen) -->

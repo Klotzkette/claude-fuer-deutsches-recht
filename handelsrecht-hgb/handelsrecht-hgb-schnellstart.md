@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du Kaufmannsstatus, Vertretung oder Handelsgeschäft nach HGB einordnen und sofort den passenden Vertrags-, Forderungs- oder Registerschritt bauen.
+# Handelsrecht HGB — Schnellstart
 
-# Handelsrecht Hgb — Schnellstart
+Wenn du das hier öffnest, willst du Kaufmannsstatus, Vertretung oder Handelsgeschäft nach HGB einordnen und sofort den passenden Vertrags-, Forderungs- oder Registerschritt bauen.
 
 Ziel: Reines HGB-Plugin für Handelsrecht: Kaufmann, Handelsregister, Firma, Prokura, Handlungsvollmacht, Handelsgeschäfte, Handelskauf, Handelsvertreter, Makler, Kommission, Fracht, Spedition, Lager, Handelsbücher sowie OHG/KG einschließlich MoPeG-Statuswechsel von GbR zu OHG. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -14,7 +14,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 2. Wer handelte mit welcher Vertretungsmacht und welcher Rechtsschein greift.
 3. Welcher HGB-Vertragstyp und welche Sonderregel verdrängen allgemeines BGB-Recht.
 4. Engpass dieses Gebiets zuerst sichern: Kaufmannsstatus oder Vertretungsmacht wird nur aus der Geschäftsbezeichnung abgeleitet.
-5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+5. Beweislage ordnen: Nachweisachse Vertretung: Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen.
 6. Erstes Arbeitsprodukt liefern: Registeranmeldung, Vertragsklausel, Rüge, Provisionsabrechnung, Buchauszugsverlangen, Kündigung oder Klageentwurf erstellen.
 
 ## 3. Kernroute
@@ -32,8 +32,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Normenanker | HGB Paragraf 1 bis Paragraf 6; HGB Paragraf 15 und Paragraf 17 bis Paragraf 37; HGB Paragraf 48 bis Paragraf 58 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Beweislast | Nachweisachse Vertretung: Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen |
+| Rechtsfolge | Registeranmeldung, Vertragsklausel, Rüge, Provisionsabrechnung, Buchauszugsverlangen, Kündigung oder Klageentwurf erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
@@ -45,7 +45,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Geschäft | Vertragstyp, beiderseitiges Handelsgeschäft, Handelsbrauch, kaufmännisches Bestätigungsschreiben und AGB einordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Leistungsstörung | Lieferung, Untersuchung, Rüge, Fixtermin, Zurückbehaltung, Provision, Ausgleich oder Transporthaftung mit Belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Frachtvertrag Paragrafen 407 ff. HGB | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Frachtvertrag Paragrafen 407 ff. HGB | Bearbeite Frachtvertrag Paragrafen 407 ff. HGB: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -56,12 +56,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Registeranmeldung, Vertragsklausel, Rüge, Provisionsabrechnung, Buchauszugsverlangen, Kündigung oder Klageentwurf erstellen.
 7.2. Normsatz: Den tragenden Anker HGB Paragraf 1 bis Paragraf 6; HGB Paragraf 15 und Paragraf 17 bis Paragraf 37 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Status und Register konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.4. Beweislast: Nachweisachse Vertretung: Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen; die Folge eines offenen Beweises ausdrücklich aussprechen.
 7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei wer handelte mit welcher vertretungsmacht und welcher rechtsschein greift an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Registeranmeldung, Vertragsklausel, Rüge, Provisionsabrechnung, Buchauszugsverlangen, Kündigung oder Klageentwurf erstellen ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Status und Register, Vertretung, Geschäft, Leistungsstörung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop

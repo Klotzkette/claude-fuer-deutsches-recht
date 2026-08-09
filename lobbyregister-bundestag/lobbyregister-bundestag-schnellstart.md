@@ -1,8 +1,8 @@
-Wenn du das hier öffnest, willst du Registrierungspflicht, Ausnahmen, Aktualisierung, Verhaltenskodex und Sanktionsrisiko nach dem Lobbyregisterrecht sofort ordnen.
-
 # Lobbyregister Bundestag — Schnellstart
 
-Ziel: Lobbyregister-Bundestag-Superplugin mit 50 geführten Skills für Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meldung von Verstoessen und Fristen nach LobbyRG. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Wenn du das hier öffnest, willst du Registrierungspflicht, Ausnahmen, Aktualisierung, Verhaltenskodex und Sanktionsrisiko nach dem Lobbyregisterrecht sofort ordnen.
+
+Ziel: Lobbyregister-Bundestag-Superplugin mit 50 geführten Skills für Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meldung von Verstößen und Fristen nach LobbyRG. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
@@ -52,7 +52,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - LobbyRG Paragraf 2: Registrierungspflicht und Ausnahmen.
 - LobbyRG Paragraf 3: einzutragende Angaben.
 - LobbyRG Paragraf 4: Aktualisierung und jährliche Bestätigung.
-- Paragraf 2 Abs. 2 LobbyRG — Tätigkeitsbezogene Ausnahmen: u. a. Stellungnahmen aufgrund Beteiligung in Gesetzgebung (z. B. Paragraf 47 Abs; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 2 Abs. 2 LobbyRG — Tätigkeitsbezogene Ausnahmen: u; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 2 Abs. 3 LobbyRG — Persönliche/strukturelle Ausnahmen: Hauptkommunal/-länderebenen, Religionsgemeinschaften des öffentlichen Rechts, politische Parteien, einzelne; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Urteil vom 04.07.2007 - 2 BvE 1/06 u.a.: Offenlegungspflichten für Bundestagsabgeordnete zeigen den verfassungsrechtlichen Transparenzrahmen parlamentarischer Interessenlagen.
 

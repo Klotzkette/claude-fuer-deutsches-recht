@@ -24,7 +24,7 @@ description: "Wenn es um Luftfahrzeugpfandrecht – Bestellung, Rang und Vollstr
 1. Registrierungsstaat prüfen: deutsches Pfandrecht setzt Eintragung ins Pfandrechtsregister AG Braunschweig voraus.
 2. Pfandrechtsbestellung: notarielle Einigung plus Eintragungsantrag beim AG Braunschweig; kein Besitzerfordernis.
 3. Rang klären: Zeitpunkt der Eintragung entscheidet (LuftFzgG § 12); ältere Eintragung geht vor.
-4. Cape Town Convention prüfen: internationales Sicherungsinteresse im ICAO-Register geht nationalem Pfandrecht vor wenn früher eingetragen.
+4. Cape Town Convention prüfen: internationales Sicherungsinteresse im International Registry geht nationalem Pfandrecht vor wenn früher eingetragen.
 5. Vollstreckung: Pfandgläubiger betreibt Zwangsversteigerung ZPO §§ 864 ff. oder nutzt Cape Town Remedies Art. 8 ff. Aircraft Protocol.
 6. Insolvenz: Absonderungsrecht nach InsO § 50; Cape Town Art. 30 schützt internationale Sicherungsinteressen.
 
@@ -35,13 +35,13 @@ description: "Wenn es um Luftfahrzeugpfandrecht – Bestellung, Rang und Vollstr
 - **LuftFzgG § 22**: Vollstreckung; Verweis auf ZPO-Zwangsversteigerungsrecht.
 - **ZPO §§ 864-871**: Zwangsversteigerung von Luftfahrzeugen.
 - **Cape Town Convention Art. 2**: Internationales Sicherungsinteresse.
-- **Aircraft Protocol Art. IX**: Rangverhältnis; Eintragungszeitpunkt im ICAO-Register entscheidend.
+- **Kapstadt-Regime**: Artikel 29 des Übereinkommens regelt grundsätzlich die Priorität registrierter Interessen; Artikel XIV des Protokolls modifiziert die Regel. Anwendbarkeit und Erklärungen des maßgeblichen Vertragsstaats vor jeder Rangfolge belegen.
 - **InsO § 50**: Absonderungsrecht des Pfandgläubigers in Insolvenz.
 
 ## Prüfraster
 
 1. Ist Pfandrecht korrekt im AG Braunschweig eingetragen?
-2. Besteht konkurrierendes Cape-Town-Interesse im ICAO-Register?
+2. Besteht konkurrierendes Cape-Town-Interesse im International Registry?
 3. Welcher Eintrag ist zeitlich früher?
 4. Ist Pfandgläubiger bei Insolvenz als Absonderungsberechtigter angemeldet?
 5. Wurde Flugzeug sichergestellt (Arrest LuftFzgG § 24)?
@@ -84,7 +84,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 - Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
 - AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
+- Bei belegtem Vertragsstaatenbezug: aktuelles Search Certificate des International Registry und gegebenenfalls IDERA-Nachweis der nationalen Registerbehörde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz

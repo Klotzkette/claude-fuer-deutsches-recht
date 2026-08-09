@@ -17,7 +17,7 @@ description: "Wenn es um rechtsstand-prüfen in patentrecherche geht: prüft Fri
 
 - **Anmeldetag** (filing date) — Datum der Einreichung, **Schutzdauer-Beginn**.
 - **Prioritätstag** (priority date) — Datum einer früheren Erstanmeldung; **maßgeblich für Stand der Technik** (§ 4 PatG, Art. 89 EPÜ).
-- **Veröffentlichungstag** (publication date) — i. d. R. **18 Monate** nach Prioritätstag (§ 32 Abs. 2 PatG, Art. 93 EPÜ).
+- **Veröffentlichungstag** (publication date) — regelmäßig 18 Monate nach Anmelde- oder Prioritätstag; für deutsche Anmeldungen Paragraf 32 Absatz 2 PatG, für europäische Anmeldungen Artikel 93 EPÜ im Einzelfall prüfen.
 - **Erteilungstag** (grant date) — Veröffentlichung der Erteilung; **ab diesem Tag** Verbietungsrecht.
 - **Schutzdauer-Ende** — Anmeldetag + 20 Jahre (§ 16 PatG, Art. 63 EPÜ). Bei Arzneimittel / PSM: + maximal 5 Jahre SPC nach VO (EG) 469/2009 / VO (EG) 1610/96.
 - **Status:**

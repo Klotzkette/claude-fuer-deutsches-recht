@@ -35,7 +35,7 @@ EU-VO 2019/947 LuftVG § 21a EU-VO 785/2004 LuftVG § 33 – die einschlägigen 
 - **LuftVG §§ 6 20 29 31 64**: Genehmigung Betrieb Register Aufsicht.
 - **LuftSiG §§ 7-9**: Zuverlässigkeitsüberprüfung Sicherheitsprogramme Aufsicht.
 - **EU-VO 1008/2008 Art. 3-9**: Betriebsgenehmigung finanzielle Leistungsfähigkeit Überwachung.
-- **Cape Town Convention Art. 2-16**: Internationale Sicherungsinteressen ICAO-Register.
+- **Kapstadt-Regime nur bei Anwendbarkeit**: Vertragsstaatenbezug und Erklärungen anhand des aktuellen UNIDROIT-Status prüfen; Deutschland hat Übereinkommen und Luftfahrzeugprotokoll nur unterzeichnet, nicht ratifiziert. Prioritäten folgen grundsätzlich Artikel 29 des Übereinkommens und Artikel XIV des Protokolls.
 - **LuftFzgG §§ 1-28**: Nationales Pfandrecht Vollstreckung AG Braunschweig.
 - **InsO §§ 15a 17-19 47 50**: Insolvenzantragspflicht Gläubigerrechte.
 - **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
@@ -48,7 +48,7 @@ EU-VO 2019/947 LuftVG § 21a EU-VO 785/2004 LuftVG § 33 – die einschlägigen 
 1. Ist zuständige Behörde korrekt adressiert?
 2. Sind alle Register vollständig abgefragt?
 3. Laufen Fristen – sind alle gesichert?
-4. Besteht Cape-Town-Registrierung mit IDERA?
+4. Berührt der Fall einen Vertragsstaat, und bestehen internationale Registrierungen oder eine behördlich erfasste IDERA?
 5. Ist Insolvenzrisiko bewertet?
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist Betriebskategorie (offen/spezifisch/zertifiziert) korrekt eingestuft (EU-VO 2019/947 Art. 5)?
@@ -97,7 +97,7 @@ Für Mandate im Bereich Drohnen und UAS-Betrieb sind folgende Dokumente regelmä
 
 - Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
 - AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
+- Bei belegtem Vertragsstaatenbezug: aktuelles Search Certificate des International Registry und gegebenenfalls IDERA-Nachweis der nationalen Registerbehörde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz

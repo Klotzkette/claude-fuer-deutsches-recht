@@ -24,8 +24,9 @@ description: "Wenn es um Statusabfrage Externe Bevollmächtigte in Prozessrecht 
 
 ### Kernvorschriften
 
-- **Paragraf 43a Abs. 4 BRAO** — Anwaltliche Fortbildungs- und Berichterstattungspflicht gegenüber dem Mandanten; regelmäßige Rückmeldung der externen Bevollmächtigten ist Teil der ordnungsgemäßen Mandatsführung.
-- **Paragraf 667 BGB** — Auskunftspflicht des Beauftragten; der externe Bevollmächtigte hat dem Auftraggeber auf Verlangen Auskunft zu erteilen; die wöchentliche Statusanfrage ist Ausfluss dieses Anspruchs.
+- **Paragraf 11 BORA** — Mandatsbearbeitung und Unterrichtung: Der Rechtsanwalt unterrichtet den Mandanten angemessen über wesentliche Vorgänge und gibt auf Anfrage Auskunft über den Stand des Mandats.
+- **Paragrafen 675 und 666 BGB** — Auskunft und Rechenschaft aus dem anwaltlichen Geschäftsbesorgungsvertrag; der externe Bevollmächtigte teilt erforderliche Nachrichten mit und gibt auf Verlangen Auskunft über den Bearbeitungsstand.
+- **Paragraf 43a Absatz 4 BRAO** — Verbot der Vertretung widerstreitender Interessen; vor einer Statusweitergabe ist zu prüfen, ob Mandate, Beteiligte oder Informationsräume kollidieren.
 - **Paragraf 43a Abs. 2 BRAO** — Vertraulichkeit; die Statuskorrespondenz mit externen Bevollmächtigten ist durch die gemeinsame Verschwiegenheitspflicht geschützt.
 - **Paragraf 49b BRAO; Paragrafen 2 ff. RVG** — Vergütung; Budgetanfragen und Kostenkontrollen im Statusschreiben orientieren sich am vereinbarten Honorar und etwaigen Vergütungsrahmen.
 

@@ -11,15 +11,15 @@ Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Fachanwalt Versicherungsrec
 
 ## Fehlerkatalog
 
-### 1. Frist falsch berechnet oder übersehen (§ 12 VVG Klagefrist)
+### 1. Verjährung oder Hemmung falsch berechnet
 
-- **Symptom:** Frist falsch berechnet oder übersehen (§ 12 VVG Klagefrist)
-- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
-- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
+- **Symptom:** Die Ablehnung wird wie eine gesetzliche Klageausschlussfrist behandelt oder die Verjährung läuft ohne Kontrolle weiter.
+- **Diagnose:** Der heutige Paragraf 12 VVG regelt nur die Versicherungsperiode; die frühere sechsmonatige Klagefrist aus Paragraf 12 Absatz 3 VVG alter Fassung ist seit der Reform 2008 entfallen. Entstehung, Fälligkeit, Kenntnis und Hemmung wurden nicht getrennt geprüft.
+- **Heilung:** Anspruchsentstehung und Fälligkeit nach dem Vertrag und Paragraf 14 VVG bestimmen, regelmäßige Verjährung nach den Paragrafen 195 und 199 BGB berechnen und die Hemmung durch Anmeldung beim Versicherer nach Paragraf 15 VVG bis zum Zugang der Entscheidung in Textform dokumentieren.
 
-### 2. Parallelfrist vergessen (Anzeigepflicht unverzüglich)
+### 2. Vertragliche oder gesetzliche Anzeigefrist übersehen
 
-- **Symptom:** Parallelfrist vergessen (Anzeigepflicht unverzüglich)
+- **Symptom:** Versicherungsfall, Anspruchserhebung oder vereinbarte Umstandsmeldung wurde nicht nachweisbar innerhalb der maßgeblichen Frist angezeigt.
 - **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
 - **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
 

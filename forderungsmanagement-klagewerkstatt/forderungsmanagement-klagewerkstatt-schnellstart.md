@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine Forderungsakte sofort klagereif, einwendungsfest und vollstreckungsnah ordnen.
-
 # Forderungsmanagement Klagewerkstatt — Schnellstart
+
+Wenn du das hier öffnest, willst du eine Forderungsakte sofort klagereif, einwendungsfest und vollstreckungsnah ordnen.
 
 Ziel: Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -53,8 +53,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 286 und Paragraf 288: Verzug und Verzugszinsen.
 - BGB Paragraf 362: Erfüllung als Einwendung.
 - BGB Paragraf 387: Aufrechnung.
-- Paragraf 543 Abs. 2 Nr. 3 BGB Mietzahlungsverzug (Wohnraum):; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 569 Abs. 3 BGB Sonderregel Wohnraum:; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 543 Abs. 2 Nr. 3 BGB Mietzahlungsverzug (Wohnraum); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 569 Abs. 3 BGB Sonderregel Wohnraum; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 14 VOB/B (bei vereinbarter VOB/B): prüfbare Schlussrechnung mit Prüfungsfrist 30 Tage / 60 Tage bei öffentlichem Auftraggeber; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 8 VOB/B Kündigung Auftraggeber (jederzeit ohne Grund möglich); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 

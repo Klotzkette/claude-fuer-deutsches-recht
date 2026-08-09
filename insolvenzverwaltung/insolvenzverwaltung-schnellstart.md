@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose belastbar bestimmen und den nächsten Verfahrensschritt wählen.
-
 # Insolvenzverwaltung — Schnellstart
+
+Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose belastbar bestimmen und den nächsten Verfahrensschritt wählen.
 
 Ziel: Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, Paragraf 15b InsO, Masse, Forderungsprüfung, Insolvenzplan, StaRUG-Planwerkstatt, Gutachten, Berichte und Schlussrechnung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -53,7 +53,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - InsO Paragraf 19: Überschuldung.
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
 - Paragraf 22 InsO Sicherungsmaßnahmen: ab Bestellung sofort (in der Praxis: erste 24–72 Stunden); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 156 InsO Berichtstermin: ca. 6 Wochen bis 3 Monate nach Eröffnung — Verwalter berichtet zu Lage, Fortführung/Stilllegung, Vergleichsoptionen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 156 InsO Berichtstermin: ca; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 158 InsO Stilllegung: vor Berichtstermin nur mit Zustimmung Gläubigerausschuss oder bei Massearmut; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 176 InsO Prüfungstermin: Frist zur Anmeldung (regelmäßig 4–6 Wochen) endet vor diesem Termin; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 

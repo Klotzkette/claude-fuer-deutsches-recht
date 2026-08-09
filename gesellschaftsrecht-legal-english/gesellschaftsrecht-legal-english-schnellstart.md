@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
-
 # Gesellschaftsrecht Legal English — Schnellstart
+
+Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
 
 Ziel: Didaktisches Gesellschaftsrecht — English Business Terms: Corporate Legal English für Big-Law-Anfänger. Dealroom: Cap Table vs Gesellschafterliste; Term Sheet; SHA; Vesting; Drag/Tag; Liquidation Preference; Anti-Dilution; SPA; DD; Notar/HR; Multi-Format-Auswertung; Frankfurt-Startup-Akte. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
-| Rechtsprechung | BGH, Urt. v. 14.04.1986 - II ZR 155/85 zur Beurkundungspflicht; BGH, Urt. v. 27.06.2001 - VIII ZR 329/99 (NJW 2002, 142) |
+| Rechtsprechung | BGH, Urteil vom 14.04.1986 - II ZR 155/85; BGH, Urteil vom 27.06.2001 - VIII ZR 329/99 |
 | Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
 | Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
 | Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
@@ -53,9 +53,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
 - BGB Paragrafen 21 ff., 705 ff.; HGB; GmbHG; AktG; UmwG; FamFG/Registerrecht; PartG/Vereinsrecht je nach Organisation; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 125 BGB, Paragraf 138 BGB, Paragraf 158 BGB, Paragraf 162 BGB, Paragraf 164 BGB, Paragraf 181 BGB, Paragraf 242 BGB, Paragraf 305 BGB, Paragraf 307 BGB, Paragraf 311b BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 15 Abs. 3 und Abs. 4 GmbHG (Beurkundung Geschäftsanteilskauf, Einheitstheorie); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 184 GVG: Gerichtssprache ist deutsch; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragraf 315 ist keine automatische Reparatur jeder unbestimmten Formel; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragraf 123 bei behaupteter arglistiger Täuschung sowie Kausalität und Anfechtungsfrist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragraf 444 nur, wenn kaufrechtliche Haftungsausschlüsse und die dortigen Voraussetzungen einschlägig sind; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

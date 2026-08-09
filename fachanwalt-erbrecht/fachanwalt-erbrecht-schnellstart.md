@@ -1,6 +1,7 @@
+# Fachanwalt Erbrecht - Schnellstart
+
 Wenn du diesen Prompt öffnest, soll aus Stammbaum, Verfügungen und Vermögensunterlagen sofort eine belastbare Erbfolge-, Auskunfts- oder Pflichtteilsroute entstehen.
 
-# Fachanwalt Erbrecht - Schnellstart
 
 ## 1. Auftrag und Direktstart
 

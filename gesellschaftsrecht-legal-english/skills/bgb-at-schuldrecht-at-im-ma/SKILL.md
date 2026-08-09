@@ -5,67 +5,117 @@ description: "Wenn es um BGB AT und Schuldrecht AT im M&A-Mandat in Didaktisches
 
 # BGB AT und Schuldrecht AT im M&A-Mandat
 
-## Arbeitsweg
+## 1. Direktstart am Transaktionsmaterial
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies zuerst die vorhandenen Vertragsfassungen, Vollmachten, Gesellschafterlisten, Satzungen, Side Letter, Disclosure Letter, Beschlussentwürfe und den Signing- oder Closing-Plan. Erstelle ohne Vorfrage eine Transaktionskarte mit Parteien, Zielgesellschaft, Kaufgegenstand, Rechtswahl, Formbedarf, Unterzeichnern, Bedingungen, Vollzugsschritten, offenen Freigaben und gewünschtem Arbeitsprodukt. Frage nur nach einer Information, deren Fehlen die nächste Formulierung oder Freigabe tatsächlich blockiert.
 
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `BGB AT und Schuldrecht AT im M&A-Mandat` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## 2. Vertragsbaustein rechtlich einordnen
 
-## Worum es geht
+Behandle englische Überschriften nicht als Rechtsbegriffe. Ordne jeden Baustein seiner deutschen Funktion zu:
 
-Englischsprachige M&A- und Finanzierungsvertraege unter deutschem Recht (Rechtswahl, oft Frankfurt oder Muenchen) lesen sich wie reines Vertragsrecht. In Wirklichkeit laeuft der gesamte BGB-Allgemeine-Teil und das Schuldrecht AT in jeder Klausel mit. Wer das ueberliest, baut Verträge, die im Streit nicht halten. Klassische Aussage von M&A-Anwaelten: "Wir machen Vertragsrecht, BGB AT spielt keine Rolle." Das ist falsch und produziert vorhersehbare Fehler.
+| Vertragsbegriff | Mögliche Funktion | Zentrale Prüfung |
+| --- | --- | --- |
+| Condition Precedent | echte Bedingung, Vollzugsvoraussetzung oder Handlungspflicht | Paragraf 158 und Paragraf 162 BGB nur anwenden, wenn die Klausel tatsächlich eine Bedingung enthält |
+| Long Stop Date | Frist, Rücktrittsrecht, Kündigungsrecht oder Ende einer Vollzugspflicht | Wortlaut, Fristberechnung, Rechtsfolge und Verhältnis zu offenen Bedingungen bestimmen |
+| Representation oder Warranty | Beschaffenheitsabrede, selbständiges Garantieversprechen oder Wissenserklärung | Anspruchsgrundlage, Haftungsmaßstab, Kenntnisqualifikation und Rechtsfolgenkatalog trennen |
+| Indemnity | Freistellung, Aufwendungsersatz oder eigenständige Zahlungspflicht | Auslöser, Kausalität, Verfahrensführung, Fälligkeit und Konkurrenz zu gesetzlichen Ansprüchen klären |
+| Best Efforts | konkretisierte Handlungspflicht | Maßnahmenkatalog, Kostenobergrenze, Entscheidungsspielraum, Nachweis und Eskalation definieren |
+| MAC | Vollzugsbedingung, Rücktrittsrecht oder Risikozuweisung | Ereignis, Dauer, Wesentlichkeit, Kenntnis, Ausschlüsse und Rechtsfolge präzisieren |
 
-## Prüfraster vor jedem Vertragsentwurf und jedem Markup
+## 3. Form und Einheit des Rechtsgeschäfts
 
-1. **Form, § 125 BGB, § 311b BGB, § 15 Abs. 3 und Abs. 4 GmbHG:** Reicht Schriftform oder Textform, oder ist notarielle Beurkundung erforderlich? Ein SPA über GmbH-Anteile ist nach § 15 Abs. 4 GmbHG insgesamt beurkundungsbeduerftig, also auch alle Nebenabreden, die mit der Anteilsuebertragung "stehen und fallen" (Einheitstheorie). Ein Side Letter, der wirtschaftlich Teil des Deals ist, gehoert mit zur Urkunde.
-2. **Stellvertretung, §§ 164 ff. BGB:** Wer unterzeichnet im Namen wessen? Vollmacht im Original? Bei ausländischen Beteiligten Legalisation oder Apostille? Insichgeschaeft nach § 181 BGB ausgeschlossen? Bei GmbH-Geschäftsführer prüfen, ob die Satzung ihn von § 181 BGB befreit.
-3. **Bedingung, §§ 158 ff. BGB:** CPs im SPA sind aufschiebende Bedingungen. § 162 BGB (treuwidrige Bedingungsvereitelung oder Herbeifuehrung) wirkt zwingend und kann nicht durch "endeavours"-Klauseln ausgehebelt werden. Long-Stop-Date ist eine Befristung, keine Bedingung.
-4. **AGB-Kontrolle, §§ 305 ff. BGB:** Auch im B2B-Verkehr gilt §§ 305 ff. BGB. Wenn das Term Sheet oder der SPA von einer Seite gestellt wird und nicht im Einzelnen ausgehandelt ist (§ 305 Abs. 1 Satz 3 BGB), sind die Klauseln einer Inhaltskontrolle über § 307 BGB ausgesetzt. Besonders kritisch: weitreichende Haftungsbeschraenkungen, Indemnities mit pauschalen Hoechstgrenzen, einseitige MAC-Klauseln.
-5. **Treu und Glauben, § 242 BGB:** Auslegung nach §§ 133, 157 BGB. "Reasonable efforts", "best efforts", "commercially reasonable efforts" werden im deutschen Recht über § 242 BGB konkretisiert. Es gibt keine in Stein gemeisselte Bedeutung; die Vertragspraxis muss den Inhalt definieren oder akzeptieren, dass § 242 BGB ihn definiert.
-6. **Bestimmtheit, § 138 BGB, § 134 BGB:** Sind Leistung, Kaufpreis, Closing-Mechanik hinreichend bestimmt? Earn-out-Klauseln mit unklarer Berechnungsformel sind nicht nichtig, aber im Streit über § 315 BGB ausfuellbar.
-7. **Verfuegungsverbote, §§ 135, 136 BGB:** Lock-up-Vereinbarungen, Vinkulierung in der Satzung, Drag-along-Verpflichtungen. Schuldrechtliche Verpflichtung wirkt nur inter partes (§ 137 BGB), nicht dinglich. Verstoss erzeugt Schadensersatz, nicht Unwirksamkeit der Anteilsuebertragung.
-8. **Anfechtung, §§ 119 ff. BGB:** Wenn Reps verletzt sind, ist neben dem vertraglichen Rep-and-Warranty-Regime auch die Anfechtung wegen arglistiger Taeuschung nach § 123 BGB zu prüfen. § 444 BGB sperrt Haftungsbeschraenkungen bei arglistigem Verschweigen.
-9. **Erfuellung, Konkretisierung, Gefahruebergang, §§ 243, 446, 447 BGB:** Bei Anteilsuebertragung weniger relevant, bei Asset-Deals zentral.
-10. **§ 311a, § 280, § 281 BGB:** Sekundaerleistungspflichten und Schadensersatz statt der Leistung. Das vertragliche Indemnity-Regime ersetzt nicht das gesetzliche Regime; es ueberlagert es.
+1. Prüfe für jede Verpflichtung und Verfügung gesondert die Form. Die Abtretung eines GmbH-Geschäftsanteils unterliegt GmbHG Paragraf 15 Absatz 3; die Verpflichtung zur Abtretung unterliegt Absatz 4.
+2. Erstrecke den Formzwang nicht automatisch auf jedes wirtschaftlich verbundene Dokument. Entscheidend ist, ob die Parteien nach dem feststellbaren Parteiwillen ein einheitliches Rechtsgeschäft wollten, dessen Teile miteinander stehen und fallen sollen. Sichere dafür Vertragsverweise, Entire-Agreement-Klausel, Gegenleistung, Closing-Abhängigkeiten, Verhandlungsgeschichte und beabsichtigte Teilbarkeit.
+3. Prüfe Side Letter, Gesellschaftervereinbarung, Management-Beteiligung, Kommanditanteil, Darlehen und Kaufpreisanpassung jeweils auf diese Einheit. Markiere jede Regel, die vor oder außerhalb der Urkunde vereinbart wurde.
+4. Behandle eine Heilung nach GmbHG Paragraf 15 Absatz 4 Satz 2 als gesonderte Prüfung. Dokumentiere den späteren formwirksamen Verfügungsvorgang, die Beteiligten und die Abweichungen zum formnichtigen Verpflichtungsgeschäft.
 
-## Typische M&A-Fallen, die BGB AT betreffen
+Rechtsprechungsanker:
 
-- **Side Letter neben dem SPA, der wirtschaftlich Teil des Deals ist:** § 15 Abs. 4 GmbHG verlangt Beurkundung der gesamten Abrede. Heilung durch nachtraegliche Beurkundung des Geschäftsanteilskaufs nach § 15 Abs. 4 Satz 2 GmbHG nur in engen Grenzen.
-- **Englischsprachige Vollmacht eines ausländischen Investors:** Apostille fehlt, Vollmacht ist im Original nicht vorgelegt, § 174 BGB greift, Erklaerung kann zurueckgewiesen werden.
-- **"Best efforts" ohne Definition:** Auslegung über § 242 BGB; das Ergebnis ist in der Regel sachlicher und niedriger als das, was die englische Rechtspraxis darunter versteht.
-- **CP-Vereitelung:** Der Verkaeufer unterlaesst Handlungen, die zum CP-Eintritt fuehren wuerden. § 162 BGB fingiert den Eintritt. Wirkt zwingend, jedes "exclusive remedy"-Wording dagegen ist unwirksam.
-- **MAC-Klausel als AGB:** Wenn die MAC-Klausel von einer Seite gestellt und nicht ausgehandelt ist, droht § 307 BGB-Inhaltskontrolle.
-- **Vertragsstrafe und Liquidated Damages:** Sind als pauschalierter Schadensersatz nach §§ 339 ff. BGB zu prüfen. § 343 BGB (richterliche Herabsetzung) ist nur bei kaufmaennischer Vertragsstrafe gemäß § 348 HGB ausgeschlossen; das setzt eine Vertragsstrafe voraus, die ein Kaufmann im Betrieb seines Handelsgewerbes versprochen hat. Bei B2B-Sachverhalten ausserhalb dieses Rahmens (Freiberufler, nicht-gewerbliche GbR, Unternehmer ohne Kaufmannseigenschaft nach §§ 1 ff. HGB) bleibt § 343 BGB anwendbar. Zusaetzlich greift bei einseitig gestellten Klauseln die AGB-Kontrolle über § 307 BGB.
-- **Konzernsachverhalte und § 181 BGB:** Bei Konzernverflechtungen oft Insichgeschaeft. Befreiung in der Satzung prüfen, sonst genehmigungsbeduerftig.
+- BGH, Urteil vom 14.04.1986 - II ZR 155/85: Sind GmbH- und Kommanditanteil nach Parteiwillen untrennbar, erfasst der Formzwang das einheitliche Geschäft.
+- BGH, Urteil vom 27.06.2001 - VIII ZR 329/99: Der notarielle Vollzugsvertrag kann den Formmangel auch bei anderen Erwerbern und geänderten Bedingungen heilen.
 
-## Antwortvorgaben
+## 4. Vertretung und Unterzeichnung
 
-- Bei jedem Vertrag, jedem Markup, jeder Klausel: zuerst BGB AT prüfen, dann erst Vertragsrecht.
-- Gegen die haeufige Aussage "wir machen Vertragsrecht, BGB AT spielt keine Rolle" konkret widersprechen: § 162 BGB, § 181 BGB, § 15 Abs. 4 GmbHG, § 307 BGB, § 444 BGB.
-- Form prüfen: Wann verlangt das Gesetz Schriftform, Textform, Beurkundung? Was umfasst die Beurkundung (Einheitstheorie)?
-- "Reasonable/best efforts"-Klauseln nicht stehenlassen, sondern entweder definieren oder bewusst dem § 242 BGB ueberlassen.
-- AGB-Risiko bei jeder einseitig gestellten Klausel benennen.
+Erstelle eine Signatory Matrix mit Partei, Rechtsform, Registerstand, Vertretungsregel, Unterzeichner, Vollmachtsgrund, Form der Vollmacht, Befreiung von BGB Paragraf 181, Auslandsnachweis und Freigabestatus. Prüfe insbesondere:
 
-## Quellen
+1. Organvertretung, Gesamtvertretung und rechtsgeschäftliche Vollmacht nach BGB Paragrafen 164 und folgende.
+2. Insichgeschäft und Mehrfachvertretung nach BGB Paragraf 181 sowie eine wirksame Befreiung oder Genehmigung.
+3. Registerauszug, Satzung, Gesellschafter- oder Organbeschluss und Vollmachtskette bis zur tatsächlich unterzeichnenden Person.
+4. Ausländische Urkunden nach dem konkret verlangten Nachweisweg; Apostille oder Legalisation nicht pauschal verlangen.
+5. BGB Paragraf 174 nur bei einem einseitigen Rechtsgeschäft prüfen. Die Vorschrift ist kein allgemeines Zurückweisungsrecht für den Abschluss eines beiderseitigen Vertrags.
 
-- § 125 BGB, § 138 BGB, § 158 BGB, § 162 BGB, § 164 BGB, § 181 BGB, § 242 BGB, § 305 BGB, § 307 BGB, § 311b BGB, § 444 BGB.
-- § 15 Abs. 3 und Abs. 4 GmbHG (Beurkundung Geschäftsanteilskauf, Einheitstheorie).
-- BGH, Urt. v. 14.04.1986 - II ZR 155/85 zur Beurkundungspflicht der Nebenabreden nach § 15 Abs. 4 GmbHG (Vollstaendigkeitsgrundsatz/Einheitstheorie).
-- BGH, Urt. v. 27.06.2001 - VIII ZR 329/99 (NJW 2002, 142) zur Reichweite der Beurkundungspflicht auf alle Nebenabreden, die nach dem Willen der Parteien Bestandteil der Verpflichtung zur Anteilsuebertragung sein sollen.
-- BGH, Urt. v. 22.10.2015 - VII ZR 58/14 zur AGB-Kontrolle im unternehmerischen Verkehr (§§ 305 ff., § 307 BGB auch zwischen Unternehmern).
+Lieferstück ist eine freigabefähige Unterzeichnermatrix mit Stop-Vermerk, wenn Vertretungsmacht, Form oder Vollmachtskette nicht sicher belegt ist.
+
+## 5. Bedingungen, Vollzugspflichten und Vereitelung
+
+Klassifiziere jede Closing Condition. Eine echte aufschiebende Bedingung kann BGB Paragraf 158 unterfallen; eine Pflicht zur Beschaffung einer Freigabe, ein Covenant oder ein vertragliches Rücktrittsrecht folgt dagegen zunächst seiner konkreten Klausel. Prüfe danach:
+
+1. Ereignis und objektive Feststellbarkeit.
+2. Verantwortliche Partei, Kooperationspflicht und zumutbare Maßnahmen.
+3. Waiver-Berechtigung und unverzichtbare regulatorische Voraussetzungen.
+4. Nachweisform, Bring-down und Aktualisierungspflichten.
+5. Rechtsfolge bei Nichterfüllung, Vereitelung oder treuwidriger Herbeiführung.
+6. Verhältnis von BGB Paragraf 162, vertraglicher Risikozuweisung, Schadensersatz und Beendigungsklausel.
+
+Gib nicht abstrakt aus, eine Partei habe eine Bedingung vereitelt. Nenne Handlung, erforderliche Mitwirkung, Kausalität, Kenntnis, Gegenmaßnahme, Beleg und vertragliche Folge.
+
+## 6. Auslegung und Bestimmtheit
+
+Lege Klauseln nach BGB Paragrafen 133 und 157 aus. Bei zweisprachigen Verträgen sind Sprachvorrang, definierte Begriffe, Systematik, Anhänge, Verhandlungsstand und wirtschaftlicher Vollzug gemeinsam zu lesen. Für Earn-out, Locked Box, Kaufpreisanpassung und Leakage braucht die Akte:
+
+- Rechengröße und Bilanzierungsstandard,
+- Stichtag und Datenquelle,
+- zulässige und unzulässige Positionen,
+- Ersteller, Prüfungsrecht und Einwendungsfrist,
+- Sachverständigen- oder Schiedsgutachtermechanismus,
+- Fälligkeit, Aufrechnung und Sicherung.
+
+BGB Paragraf 315 ist keine automatische Reparatur jeder unbestimmten Formel. Prüfe zuerst, ob einer Partei überhaupt ein Leistungsbestimmungsrecht eingeräumt wurde und ob die verbleibende Regelung auslegbar und vollziehbar ist.
+
+## 7. AGB-Risiko im Unternehmenskauf
+
+Prüfe BGB Paragrafen 305, 307 und 310 auch im unternehmerischen Verkehr. Ein Vertragsdokument wird nicht allein deshalb zur Individualvereinbarung, weil mehrere Markups ausgetauscht oder einzelne Preise geändert wurden. Dokumentiere für jede risikoreiche Klausel:
+
+1. Wer den Ausgangstext gestellt hat.
+2. Ob der gesetzesfremde Kern ernsthaft zur Disposition stand.
+3. Welche reale Gestaltungsfreiheit die andere Seite hatte.
+4. Welche Textänderung oder Verhandlungstatsache das Aushandeln belegt.
+5. Welche gesetzliche Leitidee die Klausel verändert und ob die Abweichung unangemessen ist.
+
+BGH, Urteil vom 22.10.2015 - VII ZR 58/14: Aushandeln verlangt mehr als Verhandeln; der Verwender muss den Kern der Klausel ernsthaft zur Disposition stellen und reale Einflussnahme ermöglichen. Das gilt auch zwischen Unternehmern.
+
+## 8. Haftung, Kenntnis und Rechtsfolgen
+
+Ordne jede Garantieverletzung einer konkreten Rechtsfolge zu. Trenne vertraglichen Zahlungsanspruch, Natural Restitution, Freistellung, Kaufpreisanpassung, Rücktritt, Minderung, Schadensersatz und Anfechtung. Prüfe dabei:
+
+- BGB Paragraf 123 bei behaupteter arglistiger Täuschung sowie Kausalität und Anfechtungsfrist,
+- BGB Paragraf 444 nur, wenn kaufrechtliche Haftungsausschlüsse und die dortigen Voraussetzungen einschlägig sind,
+- BGB Paragrafen 280, 281 und 311a nach Pflichtart, Vertretenmüssen, Fristsetzung und Schadensbild,
+- vertragliche Exklusivität des Rechtsfolgenkatalogs, zwingende Grenzen und ausdrücklich erhaltene Ansprüche,
+- Knowledge Qualifier nach Personenkreis, tatsächlichem Wissen, Nachforschungsstandard und Zurechnung,
+- Disclosure nach Fundstelle, hinreichender Erkennbarkeit, Aktualisierung und Bezug zur konkreten Garantie.
+
+Erstelle eine Remedies Matrix mit Pflicht, Verstoß, Anspruchsgrundlage, Tatbestandsmerkmalen, Beleg, Beweislast, Ausschluss, Frist, Schadensberechnung und gewünschtem Antrag oder Klauseltext.
+
+## 9. Beweis- und Vollzugsakte
+
+Halte für jeden entscheidenden Punkt die belastbare Fundstelle fest: Datenraumindex und Zeitstempel, Vertragsversion, Redline, E-Mail, Q&A, Disclosure-Anlage, Beschluss, Vollmacht, notarielle Urkunde, Zahlungsnachweis oder Registereintragung. Trenne Vertragsauslegung, tatsächliche Kenntnis, Kausalität und Schaden. Weise offene Behauptungen sichtbar aus und formuliere die konkrete Nachforderung, statt eine Lücke mit Vermutungen zu schließen.
+
+## 10. Ausgabevarianten
+
+- Markup: Klausel, vorgeschlagener Text, deutsche Rechtsfunktion, Risiko, Gegenargument und Rückfallposition.
+- Decision Paper: Entscheidung, wirtschaftliche Wirkung, Rechtsrisiko, Optionen, Empfehlung und Freigabepunkt.
+- Signing Checklist: Dokument, Form, Unterzeichner, Vollmacht, Signaturseite, Bedingung und Ablage.
+- Closing Checklist: Vollzugsvoraussetzung, Owner, Frist, Nachweis, Waiver, Abhängigkeit und Status.
+- Dispute Memo: Anspruch, Einwendung, Beleg, Beweislast, Frist, Schaden und prozessuale nächste Handlung.
+- Mandantenfrage: eine entscheidungsfähige Frage mit Kontext, Optionen und Auswirkung jeder Antwort.
+
+Schließe jede Ausgabe mit dem stärksten verbleibenden Risiko, dem fehlenden Kernbeleg und dem nächsten konkreten Dokument.
 
 ## Verwandte Skills
 
 - `articles-association-satzung` für die Satzungsperspektive.
 - `share-classes-vorzugsrechte` für Vorzugsrechte und ihre Verankerung.
-- `reps-warranties-indemnities` für die Schnittstelle zur arglistigen Taeuschung und § 444 BGB.
+- `reps-warranties-indemnities` für die Schnittstelle zu Garantie, Freistellung und arglistiger Täuschung.
 - `reasonable-efforts-covenants` für endeavours- und reasonable-efforts-Klauseln.
-- `verdeckte-sacheinlage` für § 19 Abs. 4 und Abs. 5 GmbHG.
+- `verdeckte-sacheinlage` für GmbHG Paragraf 19 Absatz 4 und Absatz 5.

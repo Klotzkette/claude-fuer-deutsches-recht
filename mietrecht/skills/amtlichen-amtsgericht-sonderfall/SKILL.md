@@ -1,39 +1,29 @@
 ---
 name: amtlichen-amtsgericht-sonderfall
-description: "Wenn es um Amtlichen: Risikoampel, Gegenargumente und Verteidigungslinien in Mietrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Erstellt für mietrechtliche Verfahren vor dem Amtsgericht eine belastbare Risikoampel: Zuständigkeit, Anträge, Darlegungslast, Beweismittel, Einwendungen und Vergleichskorridor werden aus der Akte zu einer Klage- oder Verteidigungslinie verdichtet."
 ---
 
-# Amtlichen: Risikoampel, Gegenargumente und Verteidigungslinien
+# Amtsgerichtliche Risikoampel und Verteidigungslinien
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies zuerst Mietvertrag, Nachträge, Mietkonto, Kündigungen, Abmahnungen, Mängelanzeigen, Abrechnungen, Zustellungsbelege und gerichtliche Verfügungen. Erzeuge unmittelbar eine einseitige Risikoampel mit Antragsziel, Tatsachenkern, stärkstem Beleg, stärkstem Gegenargument, Frist und nächstem Schritt. Frage nur nach einem Umstand, wenn er Zuständigkeit, Antrag oder Beweisführung tatsächlich ändert.
 
-## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Amtlichen: Risikoampel, Gegenargumente und Verteidigungslinien` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
-- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## 2. Prozessroute
 
-## Spezialwissen: Amtlichen: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+1. Trenne Wohnraum, Geschäftsraum und Wohnungseigentum. Wohnraummietsachen gehören nach Paragraf 23 Nummer 2a GVG streitwertunabhängig zum Amtsgericht; bei Geschäftsraummiete gelten die allgemeinen Wertgrenzen.
+2. Formuliere das konkrete Begehren: Zahlung, Räumung, Feststellung, Mängelbeseitigung, Duldung, Belegeinsicht oder Beschlusskontrolle. Prüfe Bestimmtheit, Fälligkeit und objektive Klagehäufung.
+3. Zerlege Anspruch und Einwendungen in Tatsachen, Norm, Beleg und Beweisangebot. Ordne Mietkonto, Zugang, Mangelanzeige, Gebrauchsnachteil, Abrechnung und Beschlussfassung jeweils einer beweisbedürftigen Tatsache zu.
+4. Baue die stärkste Gegenposition aus Sicht der Gegenseite. Prüfe insbesondere Schonfristzahlung, Sozialwiderspruch, Aufrechnung, Zurückbehaltungsrecht, Verjährung, Präklusion und prozessuale Darlegungslücken.
+5. Berechne Hauptforderung, Zinsen, Nutzungsentschädigung und Streitwert getrennt. Markiere jede Zahl, die nicht aus einem Aktenstück reproduzierbar ist.
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## 3. Rechtsprechungsanker
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+- BGH, Urteil vom 18. März 2015 - VIII ZR 185/14: Eine formularmäßige Schönheitsreparaturklausel benachteiligt den Mieter unangemessen, wenn ihm die Wohnung unrenoviert oder renovierungsbedürftig ohne angemessenen Ausgleich überlassen wurde.
+- BGH, Urteil vom 18. März 2015 - VIII ZR 242/13: Der Mieter trägt die Darlegungs- und Beweislast für den unrenovierten Anfangszustand; Beweisangebote deshalb am Übergabezustand ausrichten.
+- BGH, Urteil vom 23. Oktober 2024 - VIII ZR 106/23: Der Ausgleich des Mietrückstands innerhalb der Schonfrist beseitigt die fristlose, nicht aber die auf denselben Rückstand gestützte ordentliche Kündigung.
+- Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, Leitsatz und Übertragbarkeit zitieren. Der Anker ersetzt nicht die Subsumtion unter den dokumentierten Sachverhalt.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Amtlichen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## 4. Ausgabe
+
+Liefere eine Risikoampel und danach den sofort verwendbaren Entwurf. Jede rote oder gelbe Position nennt fehlenden Beleg, Prozessfolge und Heilungsmöglichkeit. Klage- und Verteidigungsfassung enthalten Anträge, chronologischen Sachvortrag, Beweisangebote, rechtliche Würdigung, Anlagenbezüge und eine kontrollierbare Berechnung.

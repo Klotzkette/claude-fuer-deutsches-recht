@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, willst du einen Datenschutzverstoß bewerten und die richtige Reaktion gegenüber Aufsicht und Betroffenen aufsetzen.
-
 # Datenschutz Sanktionsverfahren Verteidigung — Schnellstart
+
+Wenn du das hier öffnest, willst du einen Datenschutzverstoß bewerten und die richtige Reaktion gegenüber Aufsicht und Betroffenen aufsetzen.
 
 Ziel: Spezialplugin für Vertretung und Verteidigung in datenschutzrechtlichen Sanktionsverfahren: Datenschutz-Grundverordnung-Bußgeld, OWiG/StPO, Art.-58-Anordnung, Verwaltungsgericht, Aufsichtsbehördenkommunikation, EuGH/EDPB und Behördenstrategie. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -53,10 +53,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Datenschutz-Grundverordnung Artikel 6: Rechtmäßigkeit der Verarbeitung.
 - Datenschutz-Grundverordnung Artikel 12 bis Artikel 15: Transparenz, Auskunft und Kommunikation.
 - Datenschutz-Grundverordnung Artikel 28: Auftragsverarbeitung.
-- Paragraf 20/Paragraf 41 BDSG je nach Spur; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 41 BDSG / OWiG-StPO-Verweise; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 20 und Paragraf 41 BDSG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 16.07.2020 - C-311/18: Schrems II verlangt tragfähige Prüfung internationaler Datentransfers.
+- Art. 58 und Art. 78 Datenschutz-Grundverordnung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 58, 78, 83 Datenschutz-Grundverordnung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 31 und Art. 58 Datenschutz-Grundverordnung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 83 Abs. 2 Datenschutz-Grundverordnung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

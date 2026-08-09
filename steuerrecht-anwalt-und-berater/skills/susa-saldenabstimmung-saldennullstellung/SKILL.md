@@ -1,140 +1,65 @@
 ---
 name: susa-saldenabstimmung-saldennullstellung
-description: "Wenn es um Saldenabstimmung — Bestaetigung der Stichtagssalden in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Susa Saldenabstimmung Saldennullstellung; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Klärt Differenzen zwischen Hauptbuch, Nebenbuch und Gegenkonto bis zum Einzelbeleg und steuert eine belegte Saldennullstellung; liefert Abstimmbrücke, Buchungsvorschläge, Freigabeliste und prüfbaren Abschlussvermerk."
 ---
 
-# Saldenabstimmung — Bestaetigung der Stichtagssalden
+# Saldenabstimmung und Saldennullstellung
 
-## Arbeitsweg
+## 1. Mit der Abstimmbrücke starten
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Summen- und Saldenliste, Kontenblätter, Offene-Posten-Liste, Buchungsjournal, Rechnungen, Gutschriften, Zahlungsbelege und Abstimmkorrespondenz. Stelle den Weg vom Ausgangssaldo zum sachlich richtigen Endsaldo rechnerisch dar. Eine Nullstellung ist nur zulässig, wenn jeder ausgebuchte Posten rechtlich, wirtschaftlich und buchhalterisch erklärt ist.
 
-## Fachlicher Kern — Steuerrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Saldenabstimmung — Bestaetigung der Stichtagssalden` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
-- **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+| Schritt | Betrag | Datum | Gegenkonto | Originalbeleg | Klärungsstatus |
+| --- | ---: | --- | --- | --- | --- |
+| Ausgangssaldo | [Betrag] | [Stichtag] | [Konto] | SuSa | belegt |
+| Zahlung im Transit | [Betrag] | [Datum] | Bank | Kontoauszug | prüfen |
+| Gutschrift | [Betrag] | [Datum] | Erlös oder Aufwand | Gutschrift | prüfen |
+| strittiger Posten | [Betrag] | [Datum] | [Konto] | Korrespondenz | offen |
+| Endsaldo | [Betrag] | [Stichtag] | [Konto] | Abstimmbrücke | freizugeben |
 
-## Kernsachverhalt
+## 2. Rechts- und Bewertungsrahmen
 
-Zum Bilanzstichtag müssen die Forderungen und Verbindlichkeiten extern bestaetigt werden, soweit dies dem Mandanten zumutbar und im Prüfungsumfang erforderlich ist. Die Saldenabstimmung ist Pflichtbestandteil der Wirtschaftspruefung (§ 320 HGB) und gehoert auch zur sorgfaeltigen Jahresabschluss-Erstellung. Der Steuerberater versendet Abstimmungsschreiben, wertet Antworten aus und klaert Differenzen mit dem Mandanten und der Gegenseite.
+- Paragraf 238 HGB verlangt eine nachvollziehbare Buchführung, aus der Geschäftsvorfälle und Lage des Unternehmens ersichtlich sind.
+- Paragraf 240 HGB verlangt die vollständige Erfassung von Vermögensgegenständen und Schulden im Inventar.
+- Paragraf 252 Absatz 1 Nummer 4 HGB steuert den vorsichtigen Umgang mit erkennbaren Risiken und Verlusten.
+- Paragraf 320 HGB gibt dem Abschlussprüfer Vorlage-, Prüfungs-, Auskunfts- und Nachweisrechte. Daraus folgt keine pauschale Pflicht, jeden Saldo extern bestätigen zu lassen.
+- Steuerliche Korrekturfolgen nur nach Bestimmung von Steuerart, Zeitraum, Bilanzansatz, Verfahrensstand und möglicher Berichtigungspflicht prüfen.
 
-## Kaltstart-Rueckfragen
+## 3. Differenzen klassifizieren
 
-1. Welcher Stichtag — 31. Dezember oder abweichendes Wirtschaftsjahr?
-2. Welche Mandantengroesse (§ 267 HGB) — Prüfungspflichtig oder freiwillig?
-3. Welche Positionen sind abzustimmen — Forderungen LuL, Verbindlichkeiten LuL, Banken, Darlehen?
-4. Welcher Schwellenwert ist relevant (Forderungen über X EUR)?
-5. Wie viele Geschäftspartner ungefaehr (Volumen Abstimmungsschreiben)?
-6. Welche Form — positive Abstimmung (Antwortwerbung) oder negative (Schweigen = Zustimmung)?
-7. Welche Frist bis zum geplanten Bilanzstichtag-Reporting?
-8. Welche Sondersituation (Mandantenkonflikt, Liquiditaetsstockung)?
+1. Zeitliche Differenz: Zahlung, Lieferung, Rechnung oder Gutschrift liegt um den Stichtag.
+2. Sachliche Differenz: Preis, Menge, Leistung, Mangel, Aufrechnung oder Zurückbehaltungsrecht ist streitig.
+3. Technische Differenz: falsches Konto, doppelte Buchung, Währung, Steuerschlüssel oder Schnittstellenfehler.
+4. Rechtliche Differenz: Forderung besteht nicht, ist verjährt, erlassen, angefochten oder durch Vergleich verändert.
+5. Bewertungsdifferenz: Bestand und Höhe stehen fest, Werthaltigkeit oder Rückstellung ist aber unsicher.
+6. Manipulationssignal: manuelle Buchung ohne Beleg, ungewöhnliche Gegenkonten, Rückdatierung oder nachträgliche Stammdatenänderung.
 
-## Rechtlicher Rahmen
+## 4. Nullstellung nur mit Freigabekette
 
-### Primaernormen
+- Keine Saldierung allein wegen geringen Betrags, Alters oder fehlender Antwort.
+- Rechtsgrund für Erlass, Aufrechnung, Verjährung, Uneinbringlichkeit oder Korrektur belegen.
+- Umsatzsteuerliche und ertragsteuerliche Folgen vor Buchung prüfen.
+- Bei verbundenen Unternehmen Gegenbuchung und Intercompany-Abstimmung dokumentieren.
+- Vier-Augen-Freigabe für manuelle Abschlussbuchungen und Änderungen nach Periodenschluss vorsehen.
+- Buchungstext so formulieren, dass Anlass, Beleg und Freigabe später ohne Zusatzwissen verständlich bleiben.
 
-**§ 240 HGB** — Inventarpflicht; Saldenabstimmung ist Teil der Forderungs- und Verbindlichkeitsinventur.
+## 5. Externe Bestätigung richtig einordnen
 
-**§ 252 Abs. 1 Nr. 4 HGB** — Vorsichtsprinzip.
+Eine externe Saldenbestätigung kann bei wesentlichen oder risikobehafteten Positionen ein geeigneter Nachweis sein. Auswahl und Durchführung richten sich nach Prüfungsrisiko, Wesentlichkeit und anwendbaren fachlichen Standards. Nichtantworten werden durch verlässliche Alternativhandlungen wie Prüfung nachfolgender Zahlungen, Verträge, Rechnungen und Lieferbelege bearbeitet; Schweigen setzt einen Saldo nicht auf null.
 
-**§ 320 HGB** — Prüfungspflicht; Abstimmung Pflicht für WP.
+## 6. Arbeitsprodukte
 
-**§ 33 StBerG** — StB-Aufgabenkreis.
+1. Rechenfeste Abstimmbrücke vom Ausgangs- zum Endsaldo.
+2. Einzelpostenliste mit Ursache, Beleg, Verantwortlichem und Erledigungsdatum.
+3. Buchungsvorschlagsliste mit Steuerkennzeichen und Freigabestatus.
+4. Eskalationsliste für Rechtsstreit, Manipulationssignal oder fehlende Originalbelege.
+5. Abschlussvermerk mit Restdifferenz, Bewertungsauswirkung und Folgekontrolle.
 
-### Standards
+## 7. Schlusskontrolle
 
-- IDW PS 302 — Saldenbestaetigungen (Anforderungen).
-- IDW PS 480 — Erstellung Jahresabschluss.
-
-## Workflow
-
-### Phase 1 — Abstimmungsobjekt waehlen
-
-| Objekt | Prüfung |
-|---|---|
-| Forderungen LuL über 5.000 EUR | Positiv-Bestaetigung |
-| Verbindlichkeiten LuL über 5.000 EUR | Positiv-Bestaetigung |
-| Bankkontensalden | Saldenbestaetigung Bank (jaehrliche Bestaetigung) |
-| Darlehen | Positiv-Bestaetigung Kreditinstitut |
-| Gesellschafterdarlehen | Positiv-Bestaetigung Gesellschafter |
-| Anwalt-Klagen (Rueckstellungen) | Anwalts-Bestaetigung |
-| Steuerverbindlichkeiten | Auszug FA |
-
-### Phase 2 — Versand-Vorbereitung
-
-```
-ABSTIMMUNGSSCHREIBEN
-[StB-Briefkopf] [Datum]
-
-An: [Geschaeftspartner]
-
-Betreff: Saldenabstimmung zum [Stichtag] für
-[Mandant] GmbH
-
-Sehr geehrte Damen und Herren,
-
-zum Bilanzstichtag [Datum] weisen wir in unseren Buechern
-folgenden Saldo aus:
-
-[ ] Forderung gegen Sie: EUR [X]
-[ ] Verbindlichkeit an Sie: EUR [X]
-
-Bitte bestaetigen Sie die Richtigkeit oder teilen Sie
-abweichende Saldoanstaende mit.
-
-Antwortfrist: bis [Datum, ca. 4 Wochen]
-
-Mit freundlichen Gruessen
-[StB]
-```
-
-### Phase 3 — Versand
-
-- Saldenabstimmungs-Schreiben mit DATEV-Saldenbestaetigung-Modul oder manuell.
-- Antwort-Vordruck beilegen (vorausgefuellte Bestaetigung).
-- Rueckumschlag (frankiert oder mit Adresse).
-- Versand 4-6 Wochen vor geplantem Bilanztermin.
-
-### Phase 4 — Antwortauswertung
-
-- Eingehende Antworten in Excel-Tabelle erfassen.
-- Stimmig: keine weitere Aktion.
-- Differenz: Differenzklaerung mit Mandant und Geschäftspartner.
-- Nichtantwort: Erinnerung nach 4 Wochen; ggf. zweite Form.
-
-### Phase 5 — Differenzklaerung
-
-| Differenz-Typ | Mögliche Ursache | Klärung |
-|---|---|---|
-| Saldo niedriger als StB-Bestand | Zahlung des Geschäftspartners im Cut-off | Mit Bankauszug abgleichen |
-| Saldo hoeher als StB-Bestand | Eingangs-/Ausgangsrechnung im Cut-off nicht erfasst | Buchung prüfen |
-| Saldo abweicht stark | Strittige Rechnung, Reklamation | Mit Mandant prüfen, ggf. Rueckstellung |
-
-### Phase 6 — Dokumentation und Bilanzanpassung
-
-- Saldenabstimmungs-Mappe in Mandantenakte.
-- Bilanzanpassung bei wesentlichen Differenzen.
-- Bei strittigen Forderungen: Einzelwertberichtigung in der Bilanz.
-- Prüfer-Bericht mit Stichprobenquote.
-
-## Strategie und Praxis-Tipps
-
-- Saldenabstimmung ist Pflicht bei Wirtschaftspruefung (§ 320 HGB).
-- Bei Mittelstand ohne Prüfungspflicht oft freiwillig für Bank-Reporting oder Mandantenwunsch.
-- Bei groesseren Mandanten Standardprozess mit DATEV-Saldenbestaetigung-Modul.
-- Antwortquote oft 50-70 Prozent — daher Nichtantworten dokumentiert hinnehmen.
-- StBVV: Saldenabstimmung als Zusatzauftrag Jahresabschluss oder Prüfung.
-- DATEV-Tipp: DATEV-Saldenbestaetigung-Modul automatisiert Schreiben und Antwortauswertung.
-
-## Quellen und Updates
-
-Stand: 05/2026.
-
-- HGB §§ 240, 252, 320.
-- StBerG § 33.
-- IDW PS 302, IDW PS 480.
+- Ist jede Differenz einer konkreten Ursache zugeordnet?
+- Liegt für jede Korrektur ein Originalbeleg oder belastbarer Ersatznachweis vor?
+- Sind Rechtsbestand, Werthaltigkeit und Buchungstechnik getrennt geprüft?
+- Wurde keine gesetzliche Pauschalpflicht zur externen Bestätigung behauptet?
+- Sind Steuerfolgen und Periodenabgrenzung vor Freigabe geklärt?
+- Ist die Nullstellung aus der Akte ohne mündliche Zusatzinformation nachvollziehbar?
