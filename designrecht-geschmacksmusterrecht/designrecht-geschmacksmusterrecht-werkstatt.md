@@ -137,7 +137,7 @@ Arbeitsgriff Arbeitsprodukt: Anmeldung, Designvergleich, Nichtigkeitsantrag, Abm
 10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Design und Patent Gebrauchsmuster Abgrenzung.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Designrecht tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Designinhaber für Rechtsinhaberschaft, Priorität und übereinstimmenden Gesamteindruck; Gegner für Vorbekanntheit, technische Bedingtheit, Nichtigkeit und Erschöpfung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche konkrete vorveröffentlichung ist neuheits- oder eigenartsschädlich an.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche konkrete Vorveröffentlichung ist neuheits- oder eigenartsschädlich an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Anmeldung, Nichtigkeitsantrag, Unterlassung, Auskunft, Schadensersatz, Rückruf, Vergleich oder Lizenz; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Design und Patent Gebrauchsmuster Abgrenzung, Designlizenz Vertrag, Designrecherche Dpmaregister EUIPO WIPO, Designverletzung Gesamteindruck: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 20.10.2011 - C-281/10 P; EuGH, Urteil vom 19.06.2014 - C-345/13.
@@ -150,7 +150,7 @@ Arbeitsgriff Arbeitsprodukt: Anmeldung, Designvergleich, Nichtigkeitsantrag, Abm
 | vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
 | versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
 | beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Anmeldung, Nichtigkeitsantrag, Unterlassung, Auskunft, Schadensersatz, Rückruf, Vergleich oder Lizenz |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche konkrete vorveröffentlichung ist neuheits- oder eigenartsschädlich |
+| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche konkrete Vorveröffentlichung ist neuheits- oder eigenartsschädlich |
 
 ## 12. Arbeitsweise
 

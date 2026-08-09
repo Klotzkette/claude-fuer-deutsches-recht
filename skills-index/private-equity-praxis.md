@@ -1,6 +1,6 @@
 # private-equity-praxis
 
-**109 Skills** · Stand `v438.0.0`
+**109 Skills** · Stand `v439.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../private-equity-praxis/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

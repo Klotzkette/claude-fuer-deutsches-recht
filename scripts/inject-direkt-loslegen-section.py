@@ -223,6 +223,7 @@ def navigation(plugin_name: str, directory: Path) -> str:
     testakten = relative_link(directory, TESTAKTEN_DIR / "README.md")
     return (
         "Direktnavigation: "
+        "[30-Sekunden-Start](#in-30-sekunden-starten) · "
         f"[Startseite]({root}) · "
         f"[Plugin-Katalog]({root}#was-ist-drin) · "
         f"[Skill-Gesamtübersicht]({skills}) · "
@@ -231,6 +232,69 @@ def navigation(plugin_name: str, directory: Path) -> str:
         f"[Download-Index]({assets}) · "
         f"[Testakten]({testakten})"
     )
+
+
+def compact_prompt_fragment(value: str, limit: int = 210) -> str:
+    text = re.sub(r"[`*_#]", "", value)
+    text = re.sub(r"\s+", " ", text).strip().rstrip(" .;:")
+    if len(text) <= limit:
+        return text
+    clipped = text[: limit + 1].rsplit(" ", 1)[0].rstrip(" ,;:")
+    return clipped + " ..."
+
+
+HANDCURATED_FIRST_PRODUCTS = {
+    "mietrecht": "eine Anspruchs- und Fristenmatrix mit nächstem Schreiben",
+    "arbeitsrecht": "Antrag, Sachverhalt, Beweisplan und nächste Frist",
+    "fachanwalt-familienrecht": "eine Rechnung, Verfahrensroute oder einen antragsfähigen Text",
+    "fachanwalt-erbrecht": "eine Erbfolge-, Auskunfts- oder Pflichtteilsroute",
+    "richter-familiengericht": "eine verfahrensleitende Verfügung oder einen belastbaren Entscheidungsentwurf",
+    "staatsanwaltschaft-amtsanwaltschaft": "eine Dezernatsverfügung mit Tat-, Beweis- und Fristenkontrolle",
+    "bautraegervertragspruefer": "eine Klauselmatrix mit Mandantengutachten und Änderungswünschen",
+    "bautraegervertrag-pruefer": "eine Klauselmatrix mit Mandantenvermerk und Verhandlungsposition",
+    "urteilsbauer-relationsmacher": "eine Zergliederung, Relation oder einen Entscheidungsentwurf",
+    "anlagen-zu-schriftsaetzen": "eine Produktionsmatrix und kontrollierte Gerichtsmappe",
+    "schriftsatz-versandwerkstatt": "eine Produktionsmatrix und kontrollierte Versandmappe",
+}
+
+
+def first_product(directory: Path, plugin_name: str) -> str:
+    if plugin_name in HANDCURATED_FIRST_PRODUCTS:
+        return HANDCURATED_FIRST_PRODUCTS[plugin_name]
+    path = directory / f"{plugin_name}-schnellstart.md"
+    if not path.is_file():
+        return "einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument"
+    text = path.read_text(encoding="utf-8", errors="ignore")
+    patterns = (
+        r"^\d+\. Erstes Arbeitsprodukt liefern:\s*(.+?)\.?$",
+        r"^\d+\.\d+\. Ausgang:\s*(.+?)\.?$",
+        r"Das Endprodukt ist\s+(.+?)\.",
+        r"Ergebnis ist\s+(.+?)\.",
+    )
+    for pattern in patterns:
+        match = re.search(pattern, text, flags=re.MULTILINE | re.IGNORECASE)
+        if match:
+            product = re.sub(r"\s+liefern;.*$", "", match.group(1), flags=re.IGNORECASE)
+            return compact_prompt_fragment(product)
+    return "einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument"
+
+
+def quickstart_section(plugin_name: str, directory: Path) -> str:
+    title = readme_title(directory, plugin_name)
+    product = first_product(directory, plugin_name)
+    return f"""## In 30 Sekunden starten
+
+| Ausgangslage | Schnellster Weg |
+| --- | --- |
+| Plugin installiert | Passenden Fachskill aus der Skill-Liste wählen und den untenstehenden Startsatz mit dem Arbeitsordner absenden. |
+| Noch keine Installation | Den Schnellstart als Markdown laden und zusammen mit den Unterlagen öffnen. |
+| Umfangreicher oder mehrstufiger Vorgang | Die Werkstatt laden; sie führt tiefer durch Fachrouten, Gegenposition und Endprodukt. |
+
+Startsatz für {title}:
+
+> Lies zuerst alle Dateien im ausgewählten Ordner. Bearbeite den Vorgang mit diesem Fachgebiet und liefere als Erstes {product}. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
+
+Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen."""
 
 
 def has_plugin_local_testakte(directory: Path) -> bool:
@@ -315,6 +379,7 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     assets = relative_link(directory, REPO / "ASSET_INDEX.md")
     testakten = testakten_section(plugin_name, directory, akten_slugs)
     testakten_block = f"\n\n{testakten}" if testakten else ""
+    quickstart = quickstart_section(plugin_name, directory)
     return f"""{BEGIN}
 ## Was ist das hier?
 
@@ -324,15 +389,15 @@ Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins für deuts
 
 {navigation(plugin_name, directory)}
 
-Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für einen tragfähigen Arbeitsmodus die Werkstatt. Beide Prompts sollen mit einem konkreten Arbeitsprodukt beginnen, nur eng nachfragen und nicht in einer Materialinventur hängen bleiben.
+{quickstart}
 
 ## Downloads
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`{plugin_name}.zip`]({RELEASE_BASE}/{plugin_name}.zip) |
+| Kompakter Prompt (Schnellstart) | Markdown | <a href="{schnellstart_url}" download><code>{schnellstart_file}</code></a> |
 | Großer Prompt (Werkstatt) | Markdown | <a href="{werkstatt_url}" download><code>{werkstatt_file}</code></a> |
-| Kleiner Prompt (Schnellstart) | Markdown | <a href="{schnellstart_url}" download><code>{schnellstart_file}</code></a> |
 | Zugeordnete Testakten | PDF / ZIP | {testakte_cell} |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`]({RELEASE_BASE}/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index]({assets}); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.{testakten_block}

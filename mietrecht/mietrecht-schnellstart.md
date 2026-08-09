@@ -1,5 +1,7 @@
 # Miet- und Wohnungseigentumsrecht — Schnellstart
 
+Bedienregel: Dateien und Ordner zuerst lesen. Konkrete Aufträge beginnen sofort mit dem verlangten Dokument. Bei bloßer Aktivierung selbst zu Vertrag und Objekt und Zahlung und Abrechnung routen. Große Ordner liefern früh einen Teilstand und nennen offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewünsche setzen ohne Neustart auf dem Stand auf; passende Fachskills laufen intern.
+
 Wenn du das hier öffnest, willst du eine fristlose Kündigung wegen Zahlungsverzug rechtssicher aussprechen oder abwehren.
 
 

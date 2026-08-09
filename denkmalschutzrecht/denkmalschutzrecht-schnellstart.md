@@ -2,20 +2,23 @@
 
 Wenn du das hier öffnest, willst du Denkmaleigenschaft, Erlaubnis, Erhaltung, Zumutbarkeit, Bodendenkmal oder steuerliche Bescheinigung nach dem richtigen Landesrecht bearbeiten.
 
-Ziel: Denkmalschutzrecht in Deutschland: Art. 14 und Art. 70 GG als bundesstaatlicher Rahmen plus alle sechzehn Landesgesetze. Skills für Eintragung Erlaubnis Bußgeld steuerliche Förderung nach Paragraf 7i EStG und Welterbestätten — länderübergreifende Grundlagen und Landesrecht klar getrennt. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Kernauftrag: Denkmalschutzrecht in Deutschland: Art. 14 und Art. 70 GG als bundesstaatlicher Rahmen plus alle sechzehn Landesgesetze. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Schnellmodus
+## 1. Sofortstart nach Eingangslage
 
-Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
+- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Objekt und Landesrecht beginnen und das Arbeitsprodukt „Denkmalblatt“ liefern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Denkmalblatt“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
+- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Objekt und Landesrecht, Vorhaben und Bestand, Erlaubnis und Abwägung routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
+- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
 
-## 2. Direktstart
+Ohne verwertbares Material genau eine gebündelte Frage zu Objekt und Landesrecht, Vorhaben und Bestand, Erlaubnis und Abwägung und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
 
-1. Welches Landesgesetz und welches Schutzsystem gelten für das konkrete Objekt.
-2. Welche Substanz oder Erscheinung ist aus welchem fachlichen Grund denkmalwert.
-3. Welche Maßnahme beeinträchtigt welchen Schutzwert und welche mildere Alternative besteht.
-4. Engpass dieses Gebiets zuerst sichern: Bundesland, Denkmalstatus, Schutzumfang oder aktuelle Landesfassung ist nicht belegt.
-5. Beweislage ordnen: Nachweisachse Vorhaben und Bestand: historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen dokumentieren.
-6. Erstes Arbeitsprodukt liefern: Denkmalblatt: Objekt, Landesnorm, Denkmalart, Schutzgrund, Bestand, Vorhaben, Beeinträchtigung, Alternative und Beleg.
+## 2. Fachlicher Direktstart
+
+1. Leitfrage aus Akte und Auftrag festlegen: Welches Landesgesetz und welches Schutzsystem gelten für das konkrete Objekt.
+2. Kernprüfung in einem Durchgang: Welche Substanz oder Erscheinung ist aus welchem fachlichen Grund denkmalwert; Welche Maßnahme beeinträchtigt welchen Schutzwert und welche mildere Alternative besteht.
+3. Belege und Engpass zusammenführen: Nachweisachse Vorhaben und Bestand: historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen dokumentieren; besonders kritisch ist: Bundesland, Denkmalstatus, Schutzumfang oder aktuelle Landesfassung ist nicht belegt.
+4. Erstes Arbeitsprodukt liefern: Denkmalblatt: Objekt, Landesnorm, Denkmalart, Schutzgrund, Bestand, Vorhaben, Beeinträchtigung, Alternative und Beleg.
 
 ## 3. Kernroute
 
@@ -31,7 +34,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | GG Artikel 14 und Artikel 70; Denkmalschutzgesetz des zuständigen Landes; BauGB und Landesbauordnung |
 | Rechtsprechung | BVerfG, Beschluss vom 2. März 1999, 1 BvL 7/91, BVerfGE 100 Seite 226 |
-
+| Tatbestand | Adresse, Flurstück, Denkmalart, Listeneintrag, Schutzumfang, Umgebung und zuständige Behörden feststellen |
+| Beweislast | Nachweisachse Vorhaben und Bestand: historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen dokumentieren |
+| Rechtsfolge | Erlaubnisantrag, Maßnahmenbeschreibung, Zumutbarkeitsrechnung, Behördenantwort, Widerspruch oder Steuerbescheinigungsunterlage erstellen |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
@@ -40,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Objekt und Landesrecht | Adresse, Flurstück, Denkmalart, Listeneintrag, Schutzumfang, Umgebung und zuständige Behörden feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Vorhaben und Bestand | Historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Erlaubnis und Abwägung | Tatbestand, Belange, Eigentümerinteresse, Erhaltungsoption, Wirtschaftlichkeit, Förderung und Zumutbarkeit prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahren und Beweis | Gutachten, Befunduntersuchung, Fotos, Kostenangebote, Abstimmung, Nebenbestimmungen, Baustopp und Rechtsbehelf. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -51,17 +57,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Artikel 14 Absatz 3 GG gilt nur für eine Enteignung zum Wohl der Allgemeinheit auf gesetzlicher Grundlage; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 14 Abs. 1 Satz 1 GG Eigentumsgarantie; Satz 2 Inhalts- und Schrankenbestimmung durch Gesetz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 14 Abs. 2 GG Sozialbindung; das öffentliche Interesse am Denkmalschutz ist ein anerkannter Gemeinwohlbelang; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 14 Abs. 3 GG Enteignung nur durch oder aufgrund eines Gesetzes mit ausdrücklicher Regelung von Art und Ausmaß der Entschädigung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Erlaubnisantrag, Maßnahmenbeschreibung, Zumutbarkeitsrechnung, Behördenantwort, Widerspruch oder Steuerbescheinigungsunterlage erstellen.
-7.2. Normsatz: Den tragenden Anker GG Artikel 14 und Artikel 70; Denkmalschutzgesetz des zuständigen Landes auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Objekt und Landesrecht konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Nachweisachse Vorhaben und Bestand: historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen dokumentieren; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche substanz oder erscheinung ist aus welchem fachlichen grund denkmalwert an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Erlaubnisantrag, Maßnahmenbeschreibung, Zumutbarkeitsrechnung, Behördenantwort, Widerspruch oder Steuerbescheinigungsunterlage. ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Denkmalblatt: Objekt, Landesnorm, Denkmalart, Schutzgrund, Bestand, Vorhaben, Beeinträchtigung, Alternative und Beleg; Zumutbarkeitsrechnung: Erhaltungsaufwand, Förderung, Steuervorteil, Ertrag, Restwert, Zeitraum, Alternative und Quellenstatus. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Erlaubnisantrag, Maßnahmenbeschreibung, Zumutbarkeitsrechnung, Behördenantwort, Widerspruch oder Steuerbescheinigungsunterlage erstellen.
+7.2. Norm: GG Artikel 14 und Artikel 70; Denkmalschutzgesetz des zuständigen Landes mit dem entscheidenden Merkmal verbinden.
+7.3. Aktenfund: Für „Objekt und Landesrecht“ Tatsache, Datum und Fundstelle nennen.
+7.4. Beweis: Nachweisachse Vorhaben und Bestand: historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen dokumentieren. Offene Folgen aussprechen.
+7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Substanz oder Erscheinung ist aus welchem fachlichen Grund denkmalwert.
+7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+7.7. Ausgang: Das Arbeitsprodukt „Denkmalblatt“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn bundesland, denkmalstatus, schutzumfang oder aktuelle landesfassung ist nicht belegt. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Nur bei diesem Stop-Punkt unterbrechen: Bundesland, Denkmalstatus, Schutzumfang oder aktuelle Landesfassung ist nicht belegt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.

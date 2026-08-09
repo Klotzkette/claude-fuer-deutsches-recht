@@ -1,200 +1,103 @@
-# Installation in einfach — wenn der Marketplace-Weg nicht klappt
+# Installation in einfach
 
-> Diese Seite richtet sich an alle, die in Claude Desktop / Cowork **keinen GitHub-Pfad eingeben können** und einfach nur die Plugins ausprobieren wollen. Es ist kein bisschen blöd, dort etwas zu suchen — der GitHub-Pfad gehört in ein anderes Dialogfeld, das je nach Version unterschiedlich heißt oder gar nicht angeboten wird.
->
-> Der schnellste Weg ist: **ZIP herunterladen → hochladen → fertig.** Genau dort, wo auch das Plugin "Legal Plugin" landet.
+Der robusteste Weg für einen einzelnen Nutzer ist: **ein Plugin-ZIP laden, in der Pluginverwaltung hochladen, neue Aufgabe öffnen**. Der Marketplace ist die bessere Wahl, wenn eine Organisation viele Plugins zentral verteilen und aktualisieren will.
 
-## Kurzfassung
+## 1. Einzelnes Plugin installieren
 
-> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (aktuell siehe [latest Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest)). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Nutzung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
+1. Den [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) öffnen.
+2. Das gewünschte Einzel-ZIP laden, beispielsweise `fachanwalt-sozialrecht.zip`, `rentenpruefer.zip` oder `schriftsatz-versandwerkstatt.zip`.
+3. In der Anwendung **Customize → Plugins** öffnen.
+4. **Plugin hochladen**, **Upload plugin** oder den entsprechenden Plus-Schalter wählen und das ZIP auswählen.
+5. Nach erfolgreichem Upload eine neue Aufgabe öffnen und den Skill über `/` oder `+` auswählen.
 
-1. Auf [die Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) gehen.
-2. Pro gewünschtem Rechtsgebiet **eine ZIP-Datei** herunterladen, z. B. `liquiditaetsplanung.zip`.
-3. In Claude Desktop / Cowork auf **Customize → Skills** klicken und zum Abschnitt **Persönliche Plugins / Personal plugins** scrollen — genau die Stelle, an der auch "Legal Plugin" installiert wird.
-4. Auf das **+** neben "Persönliche Plugins" klicken und im Dialog das soeben heruntergeladene ZIP auswählen (alternativ: erst auf **Create**, dann **Upload plugin**).
-5. Schritte 2–4 für jedes weitere Rechtsgebiet wiederholen, das gebraucht wird.
+Die Schalterbezeichnung kann je nach Oberfläche abweichen. Entscheidend ist der Dialog für ein eigenes Plugin-ZIP, nicht der Dialog für einen Repository- oder Marketplace-Pfad.
 
-Das war's. In der Plugin-Liste erscheint das Plugin direkt, kann aktiviert werden, und der Skill ist beim nächsten Chat verfügbar.
+## 2. Diese Dateien haben einen anderen Zweck
 
-> ⚠️ **Was NICHT hochzuladen ist:**
->
-> - `marketplace.json` — das ist das Manifest des Gesamtkatalogs, kein Plugin. Wer es trotzdem als Plugin hochlädt, bekommt eine Fehlermeldung.
-> - `testakte-*.zip` — das sind **Beispielakten zum Testen**, keine Plugins. Sie gehören in den Chat (als Mandatsunterlagen), nicht in den Plugin-Upload.
->
-> Es ist nichts Schlimmes, wenn das versehentlich passiert. Die ZIP wird einfach abgelehnt; nichts geht kaputt.
+| Datei | Richtige Verwendung |
+| --- | --- |
+| `<plugin>.zip` | als einzelnes Plugin hochladen |
+| `<plugin>-schnellstart.md` | ohne Installation zusammen mit den Unterlagen öffnen |
+| `<plugin>-werkstatt.md` | ohne Installation für umfangreiche Vorgänge öffnen |
+| `testakte-<name>.zip` | als Arbeitsunterlagen öffnen, nicht als Plugin installieren |
+| `alle-plugins-megazip.zip` | zuerst entpacken; darin liegende Einzel-ZIPs verwenden |
+| `marketplace.json` | Marketplace-Manifest, kein installierbares Plugin |
+| Repository-ZIP aus **Code → Download ZIP** | Quellbestand, kein installierbares Einzel-Plugin |
 
-## Mac / Cowork: wenn der ZIP-Upload zickt
+Ein korrektes Plugin-ZIP enthält `.claude-plugin/plugin.json` und `skills/` direkt auf der Wurzelebene. Es enthält nicht noch einen zusätzlichen äußeren Repository-Ordner.
 
-Auf dem Mac scheitert der Upload meistens nicht am Plugin, sondern am Weg, wie die Datei gespeichert oder ausgewählt wurde. Diese Reihenfolge ist am robustesten:
+## 3. Wenn der Mac das ZIP nicht annimmt
 
-1. **Einzelnes Plugin-ZIP aus dem Release laden**, z. B. `liquiditaetsplanung.zip`. GitHub unterstützt stabile Links nach dem Muster `.../releases/latest/download/<dateiname>.zip`; die Links im README verwenden genau dieses Schema.
-2. **Safari-Falle prüfen:** Safari kann ZIP-Dateien nach dem Download automatisch entpacken. Wenn im Download-Ordner statt `liquiditaetsplanung.zip` nur ein Ordner liegt, diesen Ordner **nicht** hochladen. Entweder die ZIP-Datei erneut laden, Safari → Einstellungen → Allgemein → "Sichere Dateien nach dem Laden öffnen" deaktivieren, oder Chrome/Firefox nutzen.
-3. **Nicht aus iCloud-Platzhaltern hochladen.** Die Datei erst lokal greifbar machen, z. B. in `~/Downloads/claude-plugins/`. Wenn neben der Datei noch ein Cloud-/Downloadsymbol steht, erst vollständig laden.
-4. **Nur eine Plugin-ZIP auswählen.** `alle-plugins-megazip.zip` ist ein Sammelarchiv; es muss zuerst entpackt werden. Danach werden die darin liegenden Einzel-ZIPs nacheinander hochgeladen.
-5. **Cowork-Limits beachten.** Beim Organisations-Upload müssen Plugin-ZIPs gültige ZIP-Dateien unter 50 MB sein. Wer wirklich alle 110 Plugins organisationsweit verteilen will, sollte nicht alle manuell in einen einzelnen manuellen Marketplace drücken; dafür ist der GitHub-Sync/Marketplace-Weg robuster.
-6. **Datei wirklich als ZIP prüfen.** Im Finder darf es nicht `liquiditaetsplanung.zip.zip` oder ein entpackter Ordner sein. Im Zweifel im Terminal:
+1. Prüfen, ob der Browser das ZIP nach dem Download automatisch entpackt hat. Für den Upload wird die ZIP-Datei gebraucht, nicht der entstandene Ordner.
+2. Prüfen, ob die Datei vollständig lokal liegt. Bei einem Cloud-Platzhalter zuerst den Download abschließen.
+3. Sicherstellen, dass der Dateiname nicht versehentlich auf `.zip.zip` endet.
+4. Das Einzel-ZIP statt `alle-plugins-megazip.zip` auswählen.
+5. Die Datei gegebenenfalls erneut aus dem [Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) laden.
+
+Wer den Inhalt technisch prüfen möchte, kann ausführen:
 
 ```bash
-file ~/Downloads/claude-plugins/liquiditaetsplanung.zip
-unzip -l ~/Downloads/claude-plugins/liquiditaetsplanung.zip | head
+file ~/Downloads/liquiditaetsplanung.zip
+unzip -l ~/Downloads/liquiditaetsplanung.zip | head
 ```
 
-In der Ausgabe sollte direkt `.claude-plugin/plugin.json` und ein `skills/`-Ordner sichtbar sein. Wenn das nicht der Fall ist, ist es nicht das richtige Upload-ZIP.
+Die Auflistung muss `.claude-plugin/plugin.json` und einen `skills/`-Ordner zeigen.
 
-7. **Nach dem Upload neue Konversation starten.** In Claude Code kann man nach Installation oder Aktivierung zusätzlich `/reload-plugins` ausführen; in Desktop/Cowork reicht normalerweise ein neuer Chat oder ein Reload der Oberfläche.
+## 4. Marketplace für eine Organisation
 
-Wenn der Mac-Dialog weiterhin hakelt, ist der pragmatische Weg: auf einem PC in Cowork unter **Customize → Skills / Plugins → Personal plugins → Upload from .zip** hochladen. Das Ergebnis hängt am Account bzw. an der Organisation, nicht daran, dass die ZIP zwingend auf dem Mac hochgeladen wurde.
+Der Organisations-Marketplace ist für Team und Enterprise vorgesehen und wird von einem Owner unter **Organization settings → Plugins** eingerichtet. Vorher müssen Cowork und Skills für die Organisation aktiviert sein.
 
-## Welches ZIP brauche ich?
+Die GitHub-Synchronisierung akzeptiert derzeit nur private oder interne Repositorys. Deshalb den aktuellen Inhalt dieses öffentlichen Projekts zuerst in ein privates oder internes Spiegelrepository der Organisation übernehmen. Anschließend **Add plugin → GitHub** wählen, das Spiegelrepository als `owner/repo` eintragen und den ersten Sync abwarten. Die relative Plugin-Struktur und die Datei [`marketplace.json`](./.claude-plugin/marketplace.json) bleiben dabei unverändert.
 
-Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **110 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
+Ein manueller Marketplace wird dagegen mit einzelnen Plugin-ZIPs befüllt. `marketplace.json` ist kein Upload für diesen Dialog. Jedes ZIP muss kleiner als 50 MB sein; ein manueller Marketplace nimmt höchstens 100 Plugins auf. Für alle 235 Plugins ist daher das private oder interne Spiegelrepository zweckmäßiger, für eine gezielte Auswahl der manuelle Upload.
 
-### Kanzlei-Backoffice und Querschnitt
+Automatischer Sync setzt einen in den Standardbranch gemergten Pull Request mit Versionsanhebung voraus. Ein direkter Push löst ihn nicht aus; dann in der Marketplace-Verwaltung **Update** wählen. Der Sync kann bis zu 30 Minuten dauern.
 
-| ZIP                                       | Was steckt drin                                                                                                            |
-| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| `kanzlei-allgemein.zip`                      | Fristenbuch, Timesheet, Rechnung, Mandantenakte, Korrespondenz                                                             |
-| `kanzlei-allgemein.zip`                 | Kanzlei-Allgemein-Plugin: edles Kommandocenter, GwG, Klage/Replik, Vertrag, Rechtsprechung, beA, Rechnung, UStVA             |
-| `grosskanzlei-corporate-ma.zip`           | Freistehend: Big-Law-Corporate/M&A mit Anfänger-/First-Year-Modus, Aktenanlage, Datenraum, DD, internem Tabellenreview, Liquiditätsvorschau, Insolvenzreife, CP-Kalender, E-Rechnung/GoBD, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG, PMI |
-| `kanzlei-builder-hub.zip`                 | Werkzeuge zum Bauen eigener kanzleiinterner Skills, Security-Review                                                        |
-| `verwaltete-agentenrezepte.zip`           | Kuratierte Workflow-Rezepte zum Wiederverwenden                                                                            |
-| `aktenaufbereiter-strafrecht.zip`         | Strukturierung großer Strafakten in den Griff bekommen                                                                     |
-| `anlagen-zu-schriftsaetzen.zip`           | Anlagen-Sortierung für gerichtliche Schriftsätze                                                                           |
-| `memorandums-ersteller.zip`               | Mandantenunterlagen → juristisches Memorandum (4-Teile-Gliederung)                                                         |
-| `tabellenreview-3d.zip`                   | 3D-Tabellenreview-Würfel: Spaltenprompts × Zeilenprompts × Tabellenformeln                                                 |
-| `verlagsredaktion.zip`                    | Redaktioneller Assistent für juristische Publikationen                                                                     |
-| `nda-abgleich.zip`                        | NDA-Review aus Empfängersicht, Markup mit Begründungen                                                                     |
-| `methodenlehre-buergerliches-recht.zip`       | Gutachten- vor Urteilsstil, juristische Methodenlehre                                                                      |
-| `zitierweise-deutsches-recht.zip`         | Deutsche Hauszitierweise mit Datum, Aktenzeichen, verifizierbarer Quelle und Sperre gegen Blindzitate                     |
-| `common-law-kompass.zip`                  | Common Law, English Law und US Law für deutsche Wirtschaftsjuristen: False Friends, Vertragsbegriffe, Consideration, UCC, Discovery und bilinguale Reviews |
-| `europarecht-kompass.zip`                 | Europarecht ohne deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Beihilfen und Vorlageverfahren |
-| `einfache-leichte-sprache-jura.zip`       | Juristische Texte wahlweise in Einfache Sprache oder Leichte Sprache übertragen, mit Rechtsinhalt-Sicherung und Qualitätsgate |
-
-### Wirtschaft, Insolvenz, Sanierung
-
-| ZIP                                       | Was steckt drin                                                                                                            |
-| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| `liquiditaetsplanung.zip`                 | 3-Wochen-Vorschau, 13/26/52-Wochen-Planung, Quote/Lücken-Ampel und Dokumentationspaket                                    |
-| `insolvenzrecht.zip`                      | §§ 17, 19 InsO, Antragspflicht § 15a InsO, Gläubigerantrag, Anfechtung und Live-Verifikation von Rechtsprechung           |
-| `insolvenzverwaltung.zip`                | Insolvenzverwaltung aus IV-/Sachwalter-Sicht: Eröffnungsgutachten, Masse, Tabelle, Anfechtung, § 15b, Insolvenzplan-/StaRUG-Planwerkstatt, § 208, Berichte, Schlussrechnung |
-| `insolvenzforderungsanmeldungspruefung.zip` | Freistehende Forderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund/Betrag/Rang, Bestreiten, Feststellung, Tabelle, Prüfungstermin und § 189-Nachlauf |
-| `insolvenzplan-starug-planwerkstatt.zip` | Freistehende Insolvenzplan- und StaRUG-Planwerkstatt: Sanierungskonzept, integrierte Planung, Vergleichsrechnung, Gruppen/Klassen, Planentwurf, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Vollzug |
-| `fortbestehensprognose.zip`               | Fortbestehensprognose § 19 II InsO als Geschäftsführer-Selbstdokumentation                                                 |
-| `steuerrecht-anwalt-und-berater.zip`             | BWA-/SuSa-/Bilanzprüfung, Krisenfrüherkennung                                                                              |
-| `gesellschaftsrecht.zip`                  | M&A-DD, GmbH/AG-Beschlüsse, HRB-Anmeldung                                                                                  |
-
-### Streitige Mandate
-
-| ZIP                                       | Was steckt drin                                                                                                            |
-| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| `prozessrecht.zip`                        | Mahnbescheid, einstweilige Verfügung, Schutzschrift, Zwangsvollstreckung                                                   |
-| `zwangsverwaltung-zvg.zip`              | ZVG: Zwangsverwaltung, Versteigerung, ZVG-Portal-Recherche, Bieterangebote, Sicherheitsleistung, geringstes Gebot und Terminvorbereitung |
-| `strafbefehl-verteidiger.zip`            | Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Wiedereinsetzung, Einstellung und Hauptverhandlung         |
-| `verkehrsowi-verteidiger.zip`             | Verkehrsordnungswidrigkeiten: Bußgeld, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Messakte, Einspruch und Amtsgericht |
-| `forderungsmanagement-klagewerkstatt.zip` | Standardklage aus eigenen Mustern, Zuständigkeitsprüfung, Inkasso-Zahlungsklage mit Mahnvorlauf und Anspruchs-Gatekeeper |
-| `phishing-vorfall-pruefer.zip` | Online-Banking-Phishing, pushTAN, Call-ID-Spoofing, § 675u/§ 675v BGB, Banklogs, Ombudsmann und Klage |
-| `vertragsausfueller.zip` | DOCX-Vorlagen und Altverträge strippen, Felder erkennen, Term Sheets mappen, Rückfragen führen, Clean-Verträge erzeugen und Track Changes nur nach ausdrücklicher Nachfrage |
-| `vertragsrecht.zip`                       | NDA, AGB, SaaS, Lieferantenverträge                                                                                        |
-| `fluggastrechte.zip`                      | VO 261/2004, Ticketprüfung, Pauschalklage und Rechtsprechungsrecherche nur mit Live-Verifikation                         |
-| `arbeitsrecht.zip`                        | Kündigung (KSchG, 3-Wochen-Frist), Aufhebungsvertrag inkl. Sperrzeit, Abmahnung, BR-Anhörung                               |
-| `mietrecht.zip`                           | Mieterhöhung, Mietspiegel-Quellen, Eigenbedarf, Schönheitsreparaturen                                                      |
-| `nachbarschaftsstreit-pruefer.zip`        | Überbau, Überhang, Äste/Wurzeln, Grenzbaum, Zaun, Immissionen, Baugrube, Notweg, Hammerschlagsrecht, Beweise, Schreiben und Vergleich |
-| `fachanwalt-sozialrecht.zip`              | Bescheidanalyse, Widerspruch, Klage SGB II/III/V/VI/IX/XII                                                                 |
-| `steuerrecht-anwalt-und-berater.zip`                 | Bescheidanalyse, Einspruch, Klage FG/BFH                                                                                   |
-| `verfassungsrecht.zip`                    | Verfassungsbeschwerde, GG-Auslegung, BVerfG-Verfahren                                                                      |
-| `betreuungsrecht.zip`                     | Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Kontoanalyse und verdächtige Verträge (BtOG, §§ 1814 ff. BGB)                                          |
-
-### Regulierung und Compliance
-
-| ZIP                                       | Was steckt drin                                                                                                            |
-| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| `aussenwirtschaft-zoll-sanktionen.zip` | Exportkontrolle, Sanktionen, Embargos, Zoll, TARIC, CBAM, Verbrauchsteuer, Antidumping, AWV, AML/KYC, Prüfungen und Krisenkommunikation |
-| `datenschutzrecht.zip`                    | DSGVO/BDSG/TDDDG, PIA/DPIA, AVV-Review, Datenpannenmeldung, US-Transfer mit DPF/SCC/TIA                                    |
-| `geldwaeschepraevention-aml-kyc.zip` | Geldwäscheprävention, AML/KYC, GwG-Risikoanalyse, UBO, PEP, Sanktionen, FIU/goAML, Transparenzregister, Monitoring, Audit und Behördenverfahren |
-| `ki-governance.zip`                       | EU-KI-VO + DSGVO: Use-Case-Triage, KI-Inventar, Vendor-Review                                                              |
-| `berufsrecht-ki-vertragspruefung.zip`     | Berufsrechtliche Vorprüfung von Verträgen mit Legal-Tech-Anbietern                                                         |
-| `regulatorisches-recht.zip`               | KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG                                                                                 |
-| `energierecht.zip`                       | Stadtwerke, Energieversorger, Wärme, Netze, Vertrieb, Industriekunden, EEG/KWKG, E-Mobility, Wasserstoff, Transaktionen |
-| `umweltrecht.zip`                        | Emissionshandel, BImSchG, Abfall, Wasser, Boden, Naturschutz, UIG/IFG, Bußgeld, Umwelt-DD                              |
-| `verkehr-infrastrukturrecht.zip`         | Verkehrsplanung, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Parkraum, Wirtschaftsverkehr, Verkehrswende            |
-| `produktrecht.zip`                        | Launch-Review, Impressum (§§ 5, 6 DDG), PAngV, Marketing-Claims                                                            |
-| `gewerblicher-rechtsschutz.zip`           | DPMA/EUIPO-Markenrecherche, Anmeldung, FTO, UWG-Abmahnung                                                                  |
-| `patentrecherche.zip`                     | Espacenet, Google Patents, DPMAregister                                                                                    |
-| `immobilienrechtspraxis.zip`              | Vertragserstellung, Bauträger, WEG, Maklerrecht                                                                            |
-| `rechtsberatungsstelle.zip`               | Pro-Bono / studentische Beratung (RDG-konform), Intake, Fristen                                                            |
-| `jveg-kostenpruefer.zip` | JVEG-Kostenprüfung: Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Fristen, Festsetzung und Beschwerde |
-| `jurastudium.zip`                         | Karteikarten, Gutachten-Coaching, Examensvorbereitung                                                                      |
-
-### Fachanwalt-Plugin für Fachanwaltschaft (22 Stück)
-
-Kein Vollassistent, sondern Orientierung in Normen, Notfristen, typischen Mandanten und Schriftsatzbausteinen.
-
-`fachanwalt-agrarrecht.zip`, `fachanwalt-bank-kapitalmarktrecht.zip`, `fachanwalt-bau-architektenrecht.zip`, `fachanwalt-erbrecht.zip`, `fachanwalt-familienrecht.zip`, `fachanwalt-internationales-wirtschaftsrecht.zip`, `fachanwalt-it-recht.zip`, `fachanwalt-medizinrecht.zip`, `fachanwalt-migrationsrecht.zip`, `fachanwalt-sportrecht.zip`, `fachanwalt-strafrecht.zip`, `fachanwalt-transport-speditionsrecht.zip`, `fachanwalt-urheber-medienrecht.zip`, `fachanwalt-vergaberecht.zip`, `fachanwalt-verkehrsrecht.zip`, `fachanwalt-versicherungsrecht.zip`, `fachanwalt-verwaltungsrecht.zip`
-
-Wer **nur die Liquiditätsplanung** ausprobieren will, lädt sich nur `liquiditaetsplanung.zip` herunter. Wer sich umsehen möchte, lädt drei oder vier ZIPs.
-
-## Bonus: die Beispielakten
-
-Wer einen konkreten Fall durchspielen will, lädt sich zusätzlich eine **Testakte** herunter. Diese werden im Release-Build mit dem Prefix `testakte-` ausgezeichnet, damit sie im Plugin-Upload nicht versehentlich landen.
-
-| Testakte                                                   | Passt zu Plugin                                              |
-| ---------------------------------------------------------- | ------------------------------------------------------------ |
-| `testakte-edelholz-manufaktur-berlin-liquiditaet.zip`                | `liquiditaetsplanung` + `insolvenzrecht` + `steuerrecht-anwalt-und-berater` |
-| `testakte-fluggastrechte-familie-braeutigam.zip`           | `fluggastrechte`                                             |
-| `testakte-betreuung-hildegard-sauer.zip`                   | `betreuungsrecht`                                            |
-| `testakte-betreuung-schmalfeld-kontodaten-vertraege.zip`   | `betreuungsrecht`                                            |
-| `testakte-einfache-leichte-sprache-jura-mandantenbrief.zip` | `einfache-leichte-sprache-jura`                              |
-| `testakte-sozialrecht-rollstuhl-tannenberg.zip`            | `fachanwalt-sozialrecht`                                     |
-| `testakte-fortbestehensprognose-paragrafix-gmbh.zip`       | `fortbestehensprognose`                                      |
-| `testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip` | `insolvenzforderungsanmeldungspruefung` |
-| `testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip` | `insolvenzplan-starug-planwerkstatt` |
-| `testakte-jveg-zeugin-berger-lg-tuebingen.zip` | `jveg-kostenpruefer` |
-| `testakte-inkasso-zahlungsklage-modefuchs.zip` | `forderungsmanagement-klagewerkstatt` |
-| `testakte-phishing-vorfall-mayer-sparkasse-berlin.zip` | `phishing-vorfall-pruefer` |
-| `testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip` | `vertragsausfueller` |
-| `testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip` | `nachbarschaftsstreit-pruefer` |
-| `testakte-geldwaesche-aml-kyc-musterholding.zip` | `geldwaeschepraevention-aml-kyc` |
-| `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip` | `aussenwirtschaft-zoll-sanktionen` |
-| `testakte-common-law-kompass-crossborder-contract.zip` | `common-law-kompass` |
-| `testakte-europarecht-kompass-beihilfe-richtlinie.zip` | `europarecht-kompass` |
-| `testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip` | `strafbefehl-verteidiger` |
-| `testakte-verkehrsowi-rotlicht-tempo.zip` | `verkehrsowi-verteidiger` |
-| `testakte-energierecht-stadtwerke-quartier.zip`          | `energierecht`                                              |
-| `testakte-umweltrecht-industrieanlage-genehmigung.zip`   | `umweltrecht`                                               |
-| `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` | `verkehr-infrastrukturrecht`                         |
-| `testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip` | `zwangsverwaltung-zvg`                              |
-
-Eine Testakte wird **nicht über den Plugin-Upload** geladen, sondern direkt im Chat als Mandatsunterlage abgelegt (per Drag-and-drop oder als Anhang).
-
-## Hilfe, kein "+" da
-
-Je nach Claude-Desktop- / Cowork-Version sieht der Plugin-Dialog leicht anders aus. Die typischen Stellen, an denen der Upload-Knopf sitzt:
-
-- **Customize → Skills → Persönliche Plugins → +** (häufigste Variante)
-- **Customize → Skills → Personal plugins → + → Upload from .zip**
-- **Customize → Plugins → Add → Install from file** (ältere Versionen)
-
-Wichtig ist nur: gesucht wird der Punkt, an dem **eine einzelne ZIP-Datei** vom Rechner ausgewählt werden kann. Wenn dort stattdessen nach einem GitHub-Pfad gefragt wird, ist das das **andere** Dialogfeld — auf **Cancel** und einen Schritt zurück.
-
-## Wenn nichts davon klappt
-
-In aktuelleren Claude-Code- / Cowork-Versionen geht auch direkt der Marketplace-Befehl (im Terminal):
+Nur im Kommandozeilen-Client kann das öffentliche Repository unmittelbar verwendet werden:
 
 ```text
 /plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
 /plugin install liquiditaetsplanung@klotzkette-german-legal-skills
 ```
 
-Falls das ebenfalls kein Dialogfeld findet, ist die Cowork-Version zu alt für Marketplaces — dann ist der ZIP-Upload oben der einzige Weg, und das ist völlig in Ordnung. Er funktioniert in jeder Version, die Plugin-Upload überhaupt kennt.
+Der Marketplace lädt den Stand des verbundenen Spiegelrepositorys. Einzelne Plugin-ZIPs stammen dagegen aus dem getaggten Release und sind für einen gezielten, reproduzierbaren Stand meist einfacher.
 
-## Sanity-Check
+Aktuelle Oberflächen- und Planvorgaben: [Plugins verwenden](https://support.claude.com/en/articles/13837440-use-plugins-in-claude), [Organisations-Marketplaces verwalten](https://support.claude.com/en/articles/13837433-manage-plugins-for-your-organization) und [Skills verwenden](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
 
-Nach der Installation in eine neue Konversation gehen und schreiben:
+## 5. Ohne Installation anfangen
 
-> "Bitte mache eine 3-Wochen-Liquiditätsvorschau für eine kleine GmbH."
+Jede Plugin-README beginnt mit einem Abschnitt **In 30 Sekunden starten**. Dort stehen:
 
-Wenn Claude jetzt nach Sachverhalt, Bankstand, offenen Forderungen und Daueraufträgen fragt und am Ende eine Excel-Tabelle vorschlägt, ist die Installation gelungen.
+1. der direkte Schnellstart-Download,
+2. der ausführliche Werkstatt-Download,
+3. ein fertiger Startsatz für den Arbeitsordner,
+4. die zum Fachgebiet gehörenden Testakten.
 
-## Probleme?
+Der [Plugin-Katalog](./README.md#was-ist-drin) führt zu allen 235 Startseiten. Der [Download-Index](./ASSET_INDEX.md) enthält zusätzlich sämtliche Einzeldateien.
 
-[Issue auf GitHub aufmachen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/issues/new) — Screenshot vom Dialog mit dabei hilft enorm. Es ist kein bisschen nervig; jede Rückmeldung macht die Anleitung besser.
+## 6. Nach der Installation prüfen
+
+1. Neue Aufgabe öffnen.
+2. Plugin in der Pluginverwaltung als aktiv kontrollieren.
+3. Einen Fachskill über `/` oder `+` wählen.
+4. Zwei oder drei Unterlagen bereitstellen und einen konkreten Auftrag stellen.
+
+Ein geeigneter Funktionstest lautet:
+
+> Lies zuerst alle vorhandenen Dateien. Prüfe die laufende Frist und liefere unmittelbar das nächste fachlich passende Schreiben. Frage nur gebündelt nach, wenn die Unterlagen die entscheidende Weiche nicht beantworten.
+
+Die Antwort soll die Unterlagen verwerten und nicht mit einem allgemeinen Fragenkatalog beginnen.
+
+## 7. Häufige Fehler
+
+| Symptom | Ursache | Lösung |
+| --- | --- | --- |
+| Upload wird sofort abgelehnt | falsches ZIP oder Repository-ZIP | Einzel-ZIP aus dem Release laden |
+| Im Auswahldialog liegt nur ein Ordner | ZIP wurde automatisch entpackt | ZIP erneut laden und automatisches Öffnen ausschalten |
+| Plugin ist installiert, Skill fehlt | alte Aufgabe oder Plugin nicht aktiv | neue Aufgabe öffnen und Aktivierung prüfen |
+| Öffentliches Repository wird abgelehnt | Organisations-Sync verlangt ein privates oder internes Repository | privaten oder internen Spiegel verbinden |
+| Marketplace zeigt nichts | Repository-Angabe, App-Zugriff oder Sync unvollständig | Spiegelrepository und Zugriff prüfen, dann **Update** wählen |
+| Erster Start dauert zu lange | kompletter Marketplace statt Einzel-Plugin | zunächst Einzel-ZIP oder Schnellstart-Markdown verwenden |
+| Prompt fragt bekannte Daten erneut ab | Arbeitsordner nicht ausgewählt oder Auftrag zu abstrakt | Dateien bereitstellen und den Funktionstest aus Abschnitt 6 verwenden |
+
+Die kompakte Gesamtanleitung steht in [Schnellstart](./QUICKSTART.md). Fehler können mit Screenshot und gewähltem Dateinamen als [Issue](https://github.com/Klotzkette/claude-fuer-deutsches-recht/issues/new) gemeldet werden.

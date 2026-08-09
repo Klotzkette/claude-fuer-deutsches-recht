@@ -1,5 +1,7 @@
 # Bauträgervertrag Prüfer — Schnellstart
 
+Bedienregel: Dateien und Ordner zuerst lesen. Konkrete Aufträge beginnen sofort mit dem verlangten Dokument. Bei bloßer Aktivierung selbst zu Vertragssoll und Bauablauf routen. Große Ordner liefern früh einen Teilstand und nennen offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewünsche setzen ohne Neustart auf dem Stand auf; passende Fachskills laufen intern.
+
 Wenn du das hier öffnest, willst du einen Bauträgervertrag aus Verbrauchersicht prüfen und ein direkt verwendbares Drei-Dokumente-Paket für Mandant, Bauträger und Notar erhalten.
 
 

@@ -152,7 +152,7 @@ Arbeitsgriff Arbeitsprodukt: Kundenanschreiben, Aufsichtsmemo, Klageentwurf, Ver
 10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Fachanwalts-Fachmodul für Bankaufsicht.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Bank- und Kapitalmarktrecht tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche vertrags-, aufsichts- oder wohlverhaltenspflicht trägt den fall an.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Vertrags-, Aufsichts- oder Wohlverhaltenspflicht trägt den Fall an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Fachanwalts-Fachmodul für Bankaufsicht, Immobiliardarlehen: Widerruf und Vorfälligkeitsentschädigung, Anlageberatung fehlerhaft, Bankprozess-Versandmappe endfertigen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 19.12.2006 - XI ZR 56/05; BGH, Urteil vom 27.04.2021 - XI ZR 26/20.
@@ -165,7 +165,7 @@ Arbeitsgriff Arbeitsprodukt: Kundenanschreiben, Aufsichtsmemo, Klageentwurf, Ver
 | vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
 | versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
 | beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel. |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche vertrags-, aufsichts- oder wohlverhaltenspflicht trägt den fall |
+| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche Vertrags-, Aufsichts- oder Wohlverhaltenspflicht trägt den Fall |
 
 ## 12. Arbeitsweise
 

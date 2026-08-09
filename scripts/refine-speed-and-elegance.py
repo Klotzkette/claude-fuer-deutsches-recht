@@ -325,7 +325,8 @@ def refine_prompt(path: Path, kind: str) -> bool:
             text = insert_werkstatt_tempo_under_role(text)
     else:
         text = normalize_schnellstart_headings(text)
-        if "Schnellmodus" not in text:
+        modern_start = "Sofortstart nach Eingangslage" in text
+        if "Schnellmodus" not in text and not modern_start:
             candidate = insert_before_first_h2(text, SCHNELLSTART_BLOCK)
             if len(candidate.encode("utf-8")) <= MAX_SCHNELLSTART_BYTES:
                 text = candidate

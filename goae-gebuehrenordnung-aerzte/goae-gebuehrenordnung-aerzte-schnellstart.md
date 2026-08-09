@@ -2,20 +2,23 @@
 
 Wenn du das hier öffnest, willst du eine privatärztliche Rechnung ziffern-, faktor- und formgenau prüfen, begründen, korrigieren oder durchsetzen.
 
-Ziel: Super-Plugin zur GOÄ: private Arztrechnungen prüfen, erstellen, begründen, beanstanden und prozessual verwerten. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Kernauftrag: Super-Plugin zur GOÄ: private Arztrechnungen prüfen, erstellen, begründen, beanstanden und prozessual verwerten. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Schnellmodus
+## 1. Sofortstart nach Eingangslage
 
-Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
+- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Rechnung und Behandlung beginnen und das Arbeitsprodukt „Rechnungszeile“ liefern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Rechnungszeile“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
+- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Rechnung und Behandlung, Ziffernkette, Faktor und Betrag routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
+- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
 
-## 2. Direktstart
+Ohne verwertbares Material genau eine gebündelte Frage zu Rechnung und Behandlung, Ziffernkette, Faktor und Betrag und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
 
-1. Welche konkrete ärztliche Leistung wurde wann, von wem und mit welcher Dokumentation erbracht.
-2. Welche Ziffer bildet die Leistung vollständig ab und welche Ausschluss- oder Zielleistungsregel greift.
-3. Welcher Schwellen- und Höchstsatz gilt und welche Besonderheit trägt den gewählten Faktor.
-4. Engpass dieses Gebiets zuerst sichern: Behandlungsdokumentation, Rechnungsversion oder zugrunde gelegte GOÄ-Ziffer fehlt.
-5. Beweislage ordnen: Nachweisachse Ziffernkette: Leistungsinhalt, Ausschlüsse, Zielleistung, Nebeneinanderberechnung, Analogansatz und Dokumentation positionsweise prüfen.
-6. Erstes Arbeitsprodukt liefern: Rechnungszeile: Datum, Leistung, Ziffer, Anzahl, Faktor, Begründung, Betrag, Ausschluss, Dokumentationsfund und Korrektur.
+## 2. Fachlicher Direktstart
+
+1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete ärztliche Leistung wurde wann, von wem und mit welcher Dokumentation erbracht.
+2. Kernprüfung in einem Durchgang: Welche Ziffer bildet die Leistung vollständig ab und welche Ausschluss- oder Zielleistungsregel greift; Welcher Schwellen- und Höchstsatz gilt und welche Besonderheit trägt den gewählten Faktor.
+3. Belege und Engpass zusammenführen: Nachweisachse Ziffernkette: Leistungsinhalt, Ausschlüsse, Zielleistung, Nebeneinanderberechnung, Analogansatz und Dokumentation positionsweise prüfen; besonders kritisch ist: Behandlungsdokumentation, Rechnungsversion oder zugrunde gelegte GOÄ-Ziffer fehlt.
+4. Erstes Arbeitsprodukt liefern: Rechnungszeile: Datum, Leistung, Ziffer, Anzahl, Faktor, Begründung, Betrag, Ausschluss, Dokumentationsfund und Korrektur.
 
 ## 3. Kernroute
 
@@ -44,6 +47,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Ziffernkette | Leistungsinhalt, Ausschlüsse, Zielleistung, Nebeneinanderberechnung, Analogansatz und Dokumentation positionsweise. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Faktor und Betrag | Leistungsgruppe, Schwellen- und Höchstsatz, individuelle Begründung, Punktzahl, Punktwert, Minderung und Rechenweg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Sonderweg | Honorarvereinbarung, Wahlleistung, Auslagen, Wegegeld, Basistarif, Beihilfe oder PKV-Erstattung getrennt bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Korrigierte Rechnung, Ziffern- und Faktormatrix, Begründungstext, Einwendung, Zahlungsaufforderung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fälligkeit Verzug Mahnung Honorarklage | Bearbeite Fälligkeit Verzug Mahnung Honorarklage: Arzt, Zahlungspflichtiger, Behandlungsdatum, Leistung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -54,17 +59,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 1 GOÄ definiert den Anwendungsbereich der Gebührenordnung für Ärzte: Berufliche Leistungen approbierter Ärzte gegenüber Privatpatienten und Selbstzahlern; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 87 SGB V: EBM für GKV-Vertragsärzte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 630a ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 630a–630h; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise korrigierte Rechnung, Ziffern- und Faktormatrix, Begründungstext, Einwendung, Zahlungsaufforderung oder Klagebaustein erstellen.
-7.2. Normsatz: Den tragenden Anker GOÄ Paragraf 1; GOÄ Paragraf 2 auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Rechnung und Behandlung konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Nachweisachse Ziffernkette: Leistungsinhalt, Ausschlüsse, Zielleistung, Nebeneinanderberechnung, Analogansatz und Dokumentation positionsweise prüfen; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche ziffer bildet die leistung vollständig ab und welche ausschluss- oder zielleistungsregel greift an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf korrigierte Rechnung, Ziffern- und Faktormatrix, Begründungstext, Einwendung, Zahlungsaufforderung oder Klagebaustein erstellen ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Rechnungszeile: Datum, Leistung, Ziffer, Anzahl, Faktor, Begründung, Betrag, Ausschluss, Dokumentationsfund und Korrektur; Faktorprüfung: Leistungsgruppe, Schwelle, Höchstwert, konkrete Schwierigkeit, Zeit, Umstände, Rechnungstext und Ergebnis. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: korrigierte Rechnung, Ziffern- und Faktormatrix, Begründungstext, Einwendung, Zahlungsaufforderung oder Klagebaustein erstellen.
+7.2. Norm: GOÄ Paragraf 1; GOÄ Paragraf 2 mit dem entscheidenden Merkmal verbinden.
+7.3. Aktenfund: Für „Rechnung und Behandlung“ Tatsache, Datum und Fundstelle nennen.
+7.4. Beweis: Nachweisachse Ziffernkette: Leistungsinhalt, Ausschlüsse, Zielleistung, Nebeneinanderberechnung, Analogansatz und Dokumentation positionsweise prüfen. Offene Folgen aussprechen.
+7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Ziffer bildet die Leistung vollständig ab und welche Ausschluss- oder Zielleistungsregel greift.
+7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+7.7. Ausgang: Das Arbeitsprodukt „Rechnungszeile“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn behandlungsdokumentation, rechnungsversion oder zugrunde gelegte goä-ziffer fehlt. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Nur bei diesem Stop-Punkt unterbrechen: Behandlungsdokumentation, Rechnungsversion oder zugrunde gelegte GOÄ-Ziffer fehlt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.

@@ -2,20 +2,23 @@
 
 Wenn du das hier öffnest, willst du ein unionsprozessuales Verfahren sofort nach Gericht, Klageart, Frist, Sprache, Anlagen und Antragssatz ordnen.
 
-Ziel: Europäisches Prozessrecht vor EuGH und EuG: Klagearten, Vorlage, e-Curia, Fristen, Rechtsschutz, Rechtsmittel, Intervention, Beweis, Kosten und Strategie. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Kernauftrag: Europäisches Prozessrecht vor EuGH und EuG: Klagearten, Vorlage, e-Curia, Fristen, Rechtsschutz, Rechtsmittel, Intervention, Beweis, Kosten und Strategie. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Schnellmodus
+## 1. Sofortstart nach Eingangslage
 
-Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
+- Dateien oder Ordner: Zuerst die Anträge, Schriftsätze, Verfügungen, Beweismittel und Zustellnachweise lesen. Mit Verfahrensroute beginnen und das Arbeitsprodukt „Fristenblatt“ liefern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Fristenblatt“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
+- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Verfahrensroute, Zuständigkeit und Rolle, Zulässigkeit routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
+- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
 
-## 2. Direktstart
+Ohne verwertbares Material genau eine gebündelte Frage zu Verfahrensroute, Zuständigkeit und Rolle, Zulässigkeit und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
 
-1. Welche Verfahrensart ist einschlägig und welches Gericht ist zuständig.
-2. Welche Frist läuft und wodurch wurde sie ausgelöst.
-3. Welche Zulässigkeitsvoraussetzung ist am stärksten gefährdet.
-4. Engpass dieses Gebiets zuerst sichern: Fristbeginn, Verfahrenssprache oder Zuständigkeit sind unklar; dann zuerst Fristen- und Zuständigkeitsblatt.
-5. Beweislage ordnen: Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie.
-6. Erstes Arbeitsprodukt liefern: Fristenblatt: Verfahrensart, Gericht, auslösender Akt, Zustellung, Fristende, e-Curia-Reserve und verantwortlicher Einreicher werden als Tabelle ausgegeben.
+## 2. Fachlicher Direktstart
+
+1. Leitfrage aus Akte und Auftrag festlegen: Welche Verfahrensart ist einschlägig und welches Gericht ist zuständig.
+2. Kernprüfung in einem Durchgang: Welche Frist läuft und wodurch wurde sie ausgelöst; Welche Zulässigkeitsvoraussetzung ist am stärksten gefährdet.
+3. Belege und Engpass zusammenführen: Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie; besonders kritisch ist: Fristbeginn, Verfahrenssprache oder Zuständigkeit sind unklar; dann zuerst Fristen- und Zuständigkeitsblatt.
+4. Erstes Arbeitsprodukt liefern: Fristenblatt: Verfahrensart, Gericht, auslösender Akt, Zustellung, Fristende, e-Curia-Reserve und verantwortlicher Einreicher werden als Tabelle ausgegeben.
 
 ## 3. Kernroute
 
@@ -44,7 +47,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Zuständigkeit und Rolle | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Zulässigkeit | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Einreichung und Anlagen | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Begründung und Gegenposition | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Unionsamtshaftung | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -57,14 +61,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Klageart, Antragssatz, e-Curia-Einreichung, Zwischenantrag, Rechtsmittel oder Kostenlinie.
-7.2. Normsatz: Den tragenden Anker EUV Artikel 19; AEUV Artikel 256 auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Verfahrensroute konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche frist läuft und wodurch wurde sie ausgelöst an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Klageart, Antragssatz, e-Curia-Einreichung, Zwischenantrag, Rechtsmittel oder Kostenlinie ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Fristenblatt: Verfahrensart, Gericht, auslösender Akt, Zustellung, Fristende, e-Curia-Reserve und verantwortlicher Einreicher werden als Tabelle ausgegeben; Klagekern: Der Antrag richtet sich gegen [Akt/Unterlassen], ist nach [Norm] statthaft und stützt sich vorrangig auf [Klagegrund] mit [Beleg]. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Klageart, Antragssatz, e-Curia-Einreichung, Zwischenantrag, Rechtsmittel oder Kostenlinie.
+7.2. Norm: EUV Artikel 19; AEUV Artikel 256 mit dem entscheidenden Merkmal verbinden.
+7.3. Aktenfund: Für „Verfahrensroute“ Tatsache, Datum und Fundstelle nennen.
+7.4. Beweis: Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie. Offene Folgen aussprechen.
+7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Frist läuft und wodurch wurde sie ausgelöst.
+7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+7.7. Ausgang: Das Arbeitsprodukt „Fristenblatt“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn fristbeginn, verfahrenssprache oder zuständigkeit sind unklar; dann zuerst fristen- und zuständigkeitsblatt. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Nur bei diesem Stop-Punkt unterbrechen: Fristbeginn, Verfahrenssprache oder Zuständigkeit sind unklar; dann zuerst Fristen- und Zuständigkeitsblatt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.

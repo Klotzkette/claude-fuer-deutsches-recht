@@ -2,20 +2,23 @@
 
 Wenn du das hier öffnest, willst du ein FuE-Vorhaben fachlich bei der Bescheinigungsstelle und rechnerisch beim Finanzamt prüffähig durchsetzen.
 
-Ziel: Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung, Verlust-/Insolvenzlage, Dokumentation, Beihilfen, Einspruch und Mehrjahresroadmap. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Kernauftrag: Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung, Verlust-/Insolvenzlage, Dokumentation. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Schnellmodus
+## 1. Sofortstart nach Eingangslage
 
-Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
+- Dateien oder Ordner: Zuerst die vorgelegte Aufgabenbeschreibung, Datengrundlage, Quellen und Berechnungen lesen. Mit Vorhaben schneiden beginnen und das Arbeitsprodukt „FuE-Matrix“ liefern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt „FuE-Matrix“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
+- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Vorhaben schneiden, Bescheinigungsverfahren, Bemessungsgrundlage routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
+- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
 
-## 2. Direktstart
+Ohne verwertbares Material genau eine gebündelte Frage zu Vorhaben schneiden, Bescheinigungsverfahren, Bemessungsgrundlage und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
 
-1. Welche konkrete technische oder wissenschaftliche Unsicherheit bestand zu Projektbeginn.
-2. Warum gehen die Tätigkeiten über routinemäßige Entwicklung, Markteinführung oder bloße Anpassung hinaus.
-3. Welche Person oder welcher Auftragnehmer arbeitete wann an welchem begünstigten Arbeitspaket.
-4. Engpass dieses Gebiets zuerst sichern: Projektzeitraum, technische Unsicherheit oder Arbeitspaket ist nicht durch zeitnahe Unterlagen belegt.
-5. Beweislage ordnen: Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe.
-6. Erstes Arbeitsprodukt liefern: FuE-Matrix: Ziel, Ausgangslage, Unsicherheit, Arbeitspaket, Methode, Ergebnis, Scheiternsrisiko, Person, Zeitraum und Beleg.
+## 2. Fachlicher Direktstart
+
+1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete technische oder wissenschaftliche Unsicherheit bestand zu Projektbeginn.
+2. Kernprüfung in einem Durchgang: Warum gehen die Tätigkeiten über routinemäßige Entwicklung, Markteinführung oder bloße Anpassung hinaus; Welche Person oder welcher Auftragnehmer arbeitete wann an welchem begünstigten Arbeitspaket.
+3. Belege und Engpass zusammenführen: Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe; besonders kritisch ist: Projektzeitraum, technische Unsicherheit oder Arbeitspaket ist nicht durch zeitnahe Unterlagen belegt.
+4. Erstes Arbeitsprodukt liefern: FuE-Matrix: Ziel, Ausgangslage, Unsicherheit, Arbeitspaket, Methode, Ergebnis, Scheiternsrisiko, Person, Zeitraum und Beleg.
 
 ## 3. Kernroute
 
@@ -31,7 +34,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | FZulG Paragraf 1 und Paragraf 2; FZulG Paragraf 3 und Paragraf 4; FZulG Paragraf 5 und Paragraf 6 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-
+| Tatbestand | Technisches oder wissenschaftliches Ziel, Ausgangslage, Unsicherheit, systematisches Vorgehen, Arbeitspakete |
+| Beweislast | Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe |
+| Rechtsfolge | BSFZ-Projekttext, Arbeitspaketmatrix, Berechnung, Nachweisordner, Einspruch oder Mehrjahresfahrplan erstellen |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
@@ -40,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Vorhaben schneiden | Technisches oder wissenschaftliches Ziel, Ausgangslage, Unsicherheit, systematisches Vorgehen, Arbeitspakete. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bescheinigungsverfahren | Antragsteller, Projektzeitraum, Eigen-, Auftrags- oder Kooperationsforschung, BSFZ-Texte und Belege vorbereiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bemessungsgrundlage | Förderfähige Löhne, Eigenleistung, Auftragsforschung, Wirtschaftsjahr, Höchstgrenze und Kumulierung positionsweise. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Festsetzung und Prüfung | Bescheinigung, Finanzamtsantrag, Steuerbescheid, Aufzeichnungen, Beihilfen, Rückfragen und Abweichungen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -51,17 +57,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Art. 107 Abs. 1 AEUV — Beihilfebegriff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 46 AO — Abtretung/Verpfändung von Steuererstattungs- und Vergütungsansprüchen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 80 Abs. 1 InsO — Verwaltungs- und Verfügungsbefugnis des Insolvenzverwalters; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 94 InsO — Aufrechnungslage vor Verfahrenseröffnung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise BSFZ-Projekttext, Arbeitspaketmatrix, Berechnung, Nachweisordner, Einspruch oder Mehrjahresfahrplan erstellen.
-7.2. Normsatz: Den tragenden Anker FZulG Paragraf 1 und Paragraf 2; FZulG Paragraf 3 und Paragraf 4 auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Vorhaben schneiden konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei warum gehen die tätigkeiten über routinemäßige entwicklung, markteinführung oder bloße anpassung hinaus an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf BSFZ-Projekttext, Arbeitspaketmatrix, Berechnung, Nachweisordner, Einspruch oder Mehrjahresfahrplan erstellen ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein FuE-Matrix: Ziel, Ausgangslage, Unsicherheit, Arbeitspaket, Methode, Ergebnis, Scheiternsrisiko, Person, Zeitraum und Beleg; Berechnung: Aufwandsart, Person oder Auftrag, Zeitraum, Bruttobetrag, förderfähiger Anteil, Rechtsfassung, Quote und Zulage. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Ergebnis: Rolle und Ziel benennen; erstes belastbares Ergebnis: BSFZ-Projekttext, Arbeitspaketmatrix, Berechnung, Nachweisordner, Einspruch oder Mehrjahresfahrplan erstellen.
+7.2. Maßstab: FZulG Paragraf 1 und Paragraf 2; FZulG Paragraf 3 und Paragraf 4 mit der entscheidenden Bewertungsfrage verbinden.
+7.3. Materialfund: Für „Vorhaben schneiden“ Tatsache, Datum und Fundstelle nennen.
+7.4. Beweis: Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe. Offene Folgen aussprechen.
+7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Warum gehen die Tätigkeiten über routinemäßige Entwicklung, Markteinführung oder bloße Anpassung hinaus.
+7.6. Erwiderung: Gegenbeleg, Alternativhypothese oder Bewertungsmaßstab nennen und Restrisiko abstufen.
+7.7. Ausgang: Das Arbeitsprodukt „FuE-Matrix“ liefern; mit Frist, Kernlücke und nächster Prüfstufe schließen.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn projektzeitraum, technische unsicherheit oder arbeitspaket ist nicht durch zeitnahe unterlagen belegt. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Nur bei diesem Stop-Punkt unterbrechen: Projektzeitraum, technische Unsicherheit oder Arbeitspaket ist nicht durch zeitnahe Unterlagen belegt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.

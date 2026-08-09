@@ -142,7 +142,7 @@ Arbeitsgriff Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Verglei
 10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Forderungsmanagement tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche belege tragen leistung, rechnung, zugang und verzug an.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Belege tragen Leistung, Rechnung, Zugang und Verzug an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG, Aufsichtsrechtliche Schnellampel KWG ZAG, BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag, Debitorenkommunikation und Abtretungsanzeige: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11; BGH, Urteil vom 04.05.2011 - VIII ZR 171/10.
@@ -155,7 +155,7 @@ Arbeitsgriff Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Verglei
 | vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
 | versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
 | beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche belege tragen leistung, rechnung, zugang und verzug |
+| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche Belege tragen Leistung, Rechnung, Zugang und Verzug |
 
 ## 12. Arbeitsweise
 

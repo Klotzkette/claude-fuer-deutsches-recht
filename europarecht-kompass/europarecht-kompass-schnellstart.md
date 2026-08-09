@@ -2,20 +2,23 @@
 
 Wenn du das hier öffnest, willst du einen unionsrechtlichen Fall nach Anwendungsbereich, Wirkung, Vorrang, Grundfreiheit, Rechtsschutz und nationaler Umsetzung ordnen.
 
-Ziel: Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Kernauftrag: Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Schnellmodus
+## 1. Sofortstart nach Eingangslage
 
-Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
+- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Unionsbezug beginnen und das Arbeitsprodukt „Wirkungsmatrix“ liefern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Wirkungsmatrix“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
+- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Unionsbezug, Normwirkung, Materielle Prüfung routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
+- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
 
-## 2. Direktstart
+Ohne verwertbares Material genau eine gebündelte Frage zu Unionsbezug, Normwirkung, Materielle Prüfung und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
 
-1. Welche Unionsnorm gilt sachlich, persönlich, räumlich und zeitlich.
-2. Welche Wirkung entfaltet sie im Verhältnis Staat zu Bürger oder zwischen Privaten.
-3. Welche nationale Norm oder Maßnahme kollidiert damit und welche Rechtsfolge folgt daraus.
-4. Engpass dieses Gebiets zuerst sichern: Richtlinienbestimmung, Umsetzungsfrist oder Adressatenverhältnis ist unklar; dann keine unmittelbare Wirkung behaupten.
-5. Beweislage ordnen: Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit.
-6. Erstes Arbeitsprodukt liefern: Wirkungsmatrix: Unionsnorm, Rechtsakt, Bestimmtheit, Frist, Adressatenverhältnis, nationale Kollisionsnorm und Rechtsfolge.
+## 2. Fachlicher Direktstart
+
+1. Leitfrage aus Akte und Auftrag festlegen: Welche Unionsnorm gilt sachlich, persönlich, räumlich und zeitlich.
+2. Kernprüfung in einem Durchgang: Welche Wirkung entfaltet sie im Verhältnis Staat zu Bürger oder zwischen Privaten; Welche nationale Norm oder Maßnahme kollidiert damit und welche Rechtsfolge folgt daraus.
+3. Belege und Engpass zusammenführen: Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit; besonders kritisch ist: Richtlinienbestimmung, Umsetzungsfrist oder Adressatenverhältnis ist unklar; dann keine unmittelbare Wirkung behaupten.
+4. Erstes Arbeitsprodukt liefern: Wirkungsmatrix: Unionsnorm, Rechtsakt, Bestimmtheit, Frist, Adressatenverhältnis, nationale Kollisionsnorm und Rechtsfolge.
 
 ## 3. Kernroute
 
@@ -31,7 +34,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | EUV Artikel 4 Absatz 3 und Artikel 5; EUV Artikel 19 und AEUV Artikel 267; AEUV Artikel 18, Artikel 34 bis Artikel 36, Artikel 45, Artikel 49 |
 | Rechtsprechung | EuGH, Urteil vom 05.02.1963 - 26/62; EuGH, Urteil vom 15.07.1964 - 6/64 |
-
+| Tatbestand | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen |
+| Beweislast | Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit |
+| Rechtsfolge | Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
@@ -40,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Unionsbezug | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Normwirkung | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Materielle Prüfung | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsschutz | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -51,17 +57,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Art. 263 AEUV — Nichtigkeitsklage; Fristen; Klagebefugnis privilegierter/nicht-privilegierter Klager; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 265 AEUV — Untätigkeitsklage; Voraussetzungen: vorherige Aufforderung + 2 Monate Nichtreagieren; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 268 AEUV iVm Art. 340 AEUV — Amtshaftungsklage; hinreichend qualifizierter Rechtsverstoß; Schaden; Kausalität; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 267 AEUV — Vorabentscheidungsverfahren als indirekter Rechtsschutz-Weg für Private; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk.
-7.2. Normsatz: Den tragenden Anker EUV Artikel 4 Absatz 3 und Artikel 5; EUV Artikel 19 und AEUV Artikel 267 auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Unionsbezug konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche wirkung entfaltet sie im verhältnis staat zu bürger oder zwischen privaten an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Wirkungsmatrix: Unionsnorm, Rechtsakt, Bestimmtheit, Frist, Adressatenverhältnis, nationale Kollisionsnorm und Rechtsfolge; Grundfreiheitenprüfung: Schutzbereich, Beschränkung, Diskriminierung, Rechtfertigungsgrund, Geeignetheit, Erforderlichkeit und Angemessenheit. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk.
+7.2. Norm: EUV Artikel 4 Absatz 3 und Artikel 5; EUV Artikel 19 und AEUV Artikel 267 mit dem entscheidenden Merkmal verbinden.
+7.3. Aktenfund: Für „Unionsbezug“ Tatsache, Datum und Fundstelle nennen.
+7.4. Beweis: Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit. Offene Folgen aussprechen.
+7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Wirkung entfaltet sie im Verhältnis Staat zu Bürger oder zwischen Privaten.
+7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+7.7. Ausgang: Das Arbeitsprodukt „Wirkungsmatrix“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn richtlinienbestimmung, umsetzungsfrist oder adressatenverhältnis ist unklar; dann keine unmittelbare wirkung behaupten. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Nur bei diesem Stop-Punkt unterbrechen: Richtlinienbestimmung, Umsetzungsfrist oder Adressatenverhältnis ist unklar; dann keine unmittelbare Wirkung behaupten. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.

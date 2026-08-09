@@ -136,7 +136,7 @@ Arbeitsgriff Arbeitsprodukt: Einladung, Wahlleitfaden, Beschluss, Protokoll, Sch
 10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Parteigericht: Effektiver Rechtsschutz.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Parteienrecht und Parteiorganisation tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Nachweisachse Mitglied oder Bewerber: Status, Stimmrecht, Wählbarkeit, Chancengleichheit, Gehör, Befangenheit und Dokumentation sichern. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welches organ ist für maßnahme, wahl oder rechtsbehelf zuständig an.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welches Organ ist für Maßnahme, Wahl oder Rechtsbehelf zuständig an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Einladung, Wahlleitfaden, Beschluss, Protokoll, Schiedsantrag, Wahlvorschlag oder Rechenschaftsvermerk erstellen; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Parteigericht: Effektiver Rechtsschutz, Beitragsordnung Partei, Fristkalender Partei, Geschäftsordnung Parteitag: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerfG, Urteil vom 17.01.2017 - 2 BvB 1/13.
@@ -149,7 +149,7 @@ Arbeitsgriff Arbeitsprodukt: Einladung, Wahlleitfaden, Beschluss, Protokoll, Sch
 | vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
 | versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
 | beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Einladung, Wahlleitfaden, Beschluss, Protokoll, Schiedsantrag, Wahlvorschlag oder Rechenschaftsvermerk. |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welches organ ist für maßnahme, wahl oder rechtsbehelf zuständig |
+| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welches Organ ist für Maßnahme, Wahl oder Rechtsbehelf zuständig |
 
 ## 12. Arbeitsweise
 

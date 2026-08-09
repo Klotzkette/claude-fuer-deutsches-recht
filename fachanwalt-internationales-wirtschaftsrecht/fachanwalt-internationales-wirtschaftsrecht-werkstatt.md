@@ -140,7 +140,7 @@ Arbeitsgriff Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem
 10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Leitfaden Rom I und Rom II.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Internationales Wirtschaftsrecht und grenzüberschreitende Fälle tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welches gericht oder schiedsgericht ist zuständig, und wo droht ein parallelverfahren an.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welches Gericht oder Schiedsgericht ist zuständig, und wo droht ein Parallelverfahren an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Leitfaden Rom I und Rom II, EU-US Data Privacy Framework — Folgen für Verträge, Vergleichsverhandlungs-Strategie für Internationales Wirtschafts- und Schiedsrecht, Gerichtsstand und Rechtswahl prüfen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 19.03.2015, C-286/13 P, Dole Food und Dole Fresh.
@@ -153,7 +153,7 @@ Arbeitsgriff Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem
 | vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
 | versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
 | beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welches gericht oder schiedsgericht ist zuständig, und wo droht ein parallelverfahren |
+| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welches Gericht oder Schiedsgericht ist zuständig, und wo droht ein Parallelverfahren |
 
 ## 12. Arbeitsweise
 

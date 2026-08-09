@@ -2,20 +2,23 @@
 
 Wenn du das hier öffnest, willst du eine verwaltungsgerichtliche Akte vom Eingang über Eilrechtsschutz und Sachaufklärung bis zu Tenor, Tatbestand und tragenden Gründen entscheidungsreif machen.
 
-Ziel: Verwaltungsgericht: Sachprüfung Anfechtungs- und Verpflichtungsklage einstweiliger Rechtsschutz Paragraf 80 Abs. 5 VwGO Hauptsacheentscheidung Beweiswürdigung im Amtsermittlungsgrundsatz und Tenorvorschlag. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Kernauftrag: Verwaltungsgericht: Sachprüfung Anfechtungs- und Verpflichtungsklage einstweiliger Rechtsschutz Paragraf 80 Abs. 5 VwGO Hauptsacheentscheidung Beweiswürdigung im Amtsermittlungsgrundsatz und Tenorvorschlag. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Schnellmodus
+## 1. Sofortstart nach Eingangslage
 
-Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
+- Dateien oder Ordner: Zuerst die Anträge, Schriftsätze, Verfügungen, Beweismittel und Zustellnachweise lesen. Mit Eingang und Eilspur beginnen und das Arbeitsprodukt „Dezernatsblatt“ liefern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Dezernatsblatt“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
+- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Eingang und Eilspur, Zulässigkeitskarte, Streitstoff ordnen routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
+- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
 
-## 2. Direktstart
+Ohne verwertbares Material genau eine gebündelte Frage zu Eingang und Eilspur, Zulässigkeitskarte, Streitstoff ordnen und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
 
-1. Welches rechtliche Begehren folgt aus Antrag und erkennbarem Rechtsschutzziel.
-2. Welche Sachentscheidungsvoraussetzung ist streitig und welche kann das Gericht durch Hinweis oder Aufklärung klären.
-3. Welche Fassung des Rechts und welcher Tatsachenzeitpunkt sind für die Entscheidung maßgeblich.
-4. Engpass dieses Gebiets zuerst sichern: Unmittelbarer Vollzug verlangt Zwischenentscheidung oder beschleunigte Behördenanhörung.
-5. Beweislage ordnen: Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle.
-6. Erstes Arbeitsprodukt liefern: Dezernatsblatt: Begehren, Handlungsform, Zugang, Frist, Eilbedarf, Rechtsweg, Zuständigkeit, Aktenstand, Hinweis, Beweis und Entscheidungsart.
+## 2. Fachlicher Direktstart
+
+1. Leitfrage aus Akte und Auftrag festlegen: Welches rechtliche Begehren folgt aus Antrag und erkennbarem Rechtsschutzziel.
+2. Kernprüfung in einem Durchgang: Welche Sachentscheidungsvoraussetzung ist streitig und welche kann das Gericht durch Hinweis oder Aufklärung klären; Welche Fassung des Rechts und welcher Tatsachenzeitpunkt sind für die Entscheidung maßgeblich.
+3. Belege und Engpass zusammenführen: Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle; besonders kritisch ist: Unmittelbarer Vollzug verlangt Zwischenentscheidung oder beschleunigte Behördenanhörung.
+4. Erstes Arbeitsprodukt liefern: Dezernatsblatt: Begehren, Handlungsform, Zugang, Frist, Eilbedarf, Rechtsweg, Zuständigkeit, Aktenstand, Hinweis, Beweis und Entscheidungsart.
 
 ## 3. Kernroute
 
@@ -24,7 +27,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Streitstoff ordnen: Verwaltungsakte beiziehen, Tatsachen streitig oder unstreitig markieren, Hinweisbedarf, Präzisierung, Beweis und Entscheidungsreife feststellen.
 4. Materielle Prüfung: Ermächtigungsgrundlage, formelle Rechtmäßigkeit, Tatbestand, unbestimmter Rechtsbegriff, Ermessen, Verhältnismäßigkeit und Zeitpunkt trennen.
 5. Eilentscheidung: Hauptsachenaussicht, Vollziehungsinteresse, Sicherungsgrund, Folgenabwägung und Zwischenregelung ohne Vorwegnahme bearbeiten.
-6. Endentscheidung: Tenor, Kosten, Vollstreckbarkeit, Rechtsmittel, Tatbestand, tragende Gründe und nicht entscheidungserhebliche Punkte abstimmen.
 
 ## 4. Fallkarte
 
@@ -32,7 +34,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | VwGO Paragraf 40, Paragraf 42 und Paragraf 43; VwGO Paragraf 47 und Paragraf 52; VwGO Paragraf 80, Paragraf 80a und Paragraf 123 |
 | Rechtsprechung | BVerwG, Urteil vom 17.02.1984 - 7 C 8.82; BVerwG, Urteil vom 21.11.1986 - 8 C 127.84 |
-
+| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Beweislast | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle |
+| Rechtsfolge | Eingangsverfügung, Hinweis, Aufklärungsverfügung, Beschluss, Gerichtsbescheid, Urteil oder Vergleichsvorschlag ausformulieren |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
@@ -41,7 +46,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Eingang und Eilspur | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Zulässigkeitskarte | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Streitstoff ordnen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Materielle Prüfung | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -55,14 +59,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Eingangsverfügung, Hinweis, Aufklärungsverfügung, Beschluss, Gerichtsbescheid, Urteil oder Vergleichsvorschlag ausformulieren.
-7.2. Normsatz: Den tragenden Anker VwGO Paragraf 40, Paragraf 42 und Paragraf 43; VwGO Paragraf 47 und Paragraf 52 auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Eingang und Eilspur konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche sachentscheidungsvoraussetzung ist streitig und welche kann das gericht durch hinweis oder aufklärung klären an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Eingangsverfügung, Hinweis, Aufklärungsverfügung, Beschluss, Gerichtsbescheid, Urteil oder Vergleichsvorschlag ausformulieren ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Dezernatsblatt: Begehren, Handlungsform, Zugang, Frist, Eilbedarf, Rechtsweg, Zuständigkeit, Aktenstand, Hinweis, Beweis und Entscheidungsart; Beschluss: Rubrum, Tenor, Kosten, Streitwert, Zulässigkeit, Maßstab, Hauptsachenaussicht, Interessenabwägung und Rechtsmittelbelehrung. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Eingangsverfügung, Hinweis, Aufklärungsverfügung, Beschluss, Gerichtsbescheid, Urteil oder Vergleichsvorschlag ausformulieren.
+7.2. Norm: VwGO Paragraf 40, Paragraf 42 und Paragraf 43; VwGO Paragraf 47 und Paragraf 52 mit dem entscheidenden Merkmal verbinden.
+7.3. Aktenfund: Für „Eingang und Eilspur“ Tatsache, Datum und Fundstelle nennen.
+7.4. Beweis: Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle. Offene Folgen aussprechen.
+7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Sachentscheidungsvoraussetzung ist streitig und welche kann das Gericht durch Hinweis oder Aufklärung klären.
+7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+7.7. Ausgang: Das Arbeitsprodukt „Dezernatsblatt“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn unmittelbarer vollzug verlangt zwischenentscheidung oder beschleunigte behördenanhörung. Arbeite sonst mit sichtbar markie
+Nur bei diesem Stop-Punkt unterbrechen: Unmittelbarer Vollzug verlangt Zwischenentscheidung oder beschleunigte Behördenanhörung. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.

@@ -21,7 +21,7 @@ from themen_profile import profile_for, ThemenProfil
 
 
 REPO = Path(__file__).resolve().parent.parent
-MAX_FAST = 7000
+MAX_FAST = 7400
 MAX_WERKSTATT = 48 * 1024
 WERKSTATT_TEMPO_BLOCK = [
     "### 1.1. Arbeitsmodus: schnell und belastbar",
@@ -29,12 +29,6 @@ WERKSTATT_TEMPO_BLOCK = [
     "Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Wenn der Nutzer einen Ordner, Dateien oder nur diesen Prompt öffnet, ist das der Arbeitsauftrag: zuerst die vorhandenen Dokumente lesen, Belegstellen bilden und einen verwertbaren Erststand liefern. Frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.",
     "",
     "Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.",
-    "",
-]
-SCHNELLSTART_TEMPO_BLOCK = [
-    "## 1. Schnellmodus",
-    "",
-    "Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.",
     "",
 ]
 EILSACHE_LABEL = {
@@ -259,8 +253,17 @@ def domain_documents(profile: ThemenProfil) -> str:
     """Nennt die Dokumenttypen, die in diesem Gebiet tatsaechlich anfallen."""
     if profile.key in DOMAIN_DOCUMENTS:
         return DOMAIN_DOCUMENTS[profile.key]
-    if profile.skelette:
-        return clean(profile.skelette[0], 130).rstrip(".")
+    family = workflow_family(profile)
+    if family == "source":
+        return "die vorgelegten Quellen, Editionen, Übersetzungen und Fundstellen"
+    if family == "research":
+        return "die vorgelegte Aufgabenbeschreibung, Datengrundlage, Quellen und Berechnungen"
+    if family == "production":
+        return "die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben"
+    if family == "drafting":
+        return "die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen"
+    if family == "decision":
+        return "die Anträge, Schriftsätze, Verfügungen, Beweismittel und Zustellnachweise"
     return "die vorgelegten Urkunden, Bescheide und Korrespondenz"
 
 
@@ -317,7 +320,10 @@ def domain_attack(profile: ThemenProfil) -> str:
     if profile.key in DOMAIN_ATTACK:
         return DOMAIN_ATTACK[profile.key]
     if len(profile.pruefraster) > 1:
-        attack = clean(profile.pruefraster[1], 140).rstrip(".").lower()
+        attack = clean(profile.pruefraster[1], 140).rstrip(".")
+        # Nur das erste Wort wird zum Satzfragment; Substantive und
+        # Eigennamen im Profil dürfen ihre Großschreibung nicht verlieren.
+        attack = attack[:1].lower() + attack[1:] if attack else attack
         return re.sub(r"^(?:ist|sind|wird|werden|wurde|wurden)\s+", "", attack)
     return "Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg"
 
@@ -891,30 +897,98 @@ def schnellstart_direktstart(profile: ThemenProfil) -> list[str]:
     getan werden: die erste Leitfrage, der gebietstypische Engpass, die
     Beweislage und das erste Arbeitsprodukt.
     """
-    steps: list[str] = []
-    raster = [clean(item, 190).rstrip(".") for item in profile.pruefraster[:3]]
-    for item in raster:
-        steps.append(item)
-    if profile.stop:
-        engpass = clean(profile.stop[0], 165).rstrip(".")
-        steps.append(f"Engpass dieses Gebiets zuerst sichern: {engpass}")
-    if len(steps) < 4 and profile.stationen:
-        steps.append(clean(profile.stationen[0], 190).rstrip("."))
-    steps.append(
-        f"Beweislage ordnen: {clean(evidence_marker(profile), 190)}"
-    )
+    raster = [clean(item, 165).rstrip(".") for item in profile.pruefraster[:3]]
+    leitfrage = raster[0] if raster else clean(
+        profile.stationen[0] if profile.stationen else profile.label,
+        165,
+    ).rstrip(".")
+    kernpruefung = "; ".join(raster[1:3]) or clean(
+        profile.stationen[1] if len(profile.stationen) > 1 else leitfrage,
+        220,
+    ).rstrip(".")
+    engpass = clean(
+        profile.stop[0] if profile.stop else "Frist, Zuständigkeit oder tragender Beleg ist offen",
+        145,
+    ).rstrip(".")
+    beweis = clean(evidence_marker(profile), 175).rstrip(".")
     produkt = (
-        clean(profile.skelette[0], 200).rstrip(".")
+        clean(profile.skelette[0]).rstrip(".")
         if profile.skelette
-        else clean(profile.stationen[-1], 200).rstrip(".")
+        else clean(profile.stationen[-1], 220).rstrip(".")
         if profile.stationen
         else "Kurzvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt"
     )
     # Stationstexte beginnen haeufig selbst mit "Arbeitsprodukt:"; das Praefix
     # wuerde sich sonst doppeln.
     produkt = re.sub(r"^Arbeitsprodukt:\s*", "", produkt).strip()
-    steps.append(f"Erstes Arbeitsprodukt liefern: {produkt}")
-    return [f"{idx}. {step}." for idx, step in enumerate(steps[:6], 1)]
+    steps = [
+        f"Leitfrage aus Akte und Auftrag festlegen: {leitfrage}",
+        f"Kernprüfung in einem Durchgang: {kernpruefung}",
+        f"Belege und Engpass zusammenführen: {beweis}; besonders kritisch ist: {engpass}",
+        f"Erstes Arbeitsprodukt liefern: {produkt}",
+    ]
+    return [f"{idx}. {step}." for idx, step in enumerate(steps, 1)]
+
+
+def schnellstart_product_label(
+    profile: ThemenProfil,
+    fields: list[tuple[str, str]],
+) -> str:
+    """Benennt das Erstprodukt, ohne einen langen Mustersatz abzuschneiden."""
+
+    if profile.skelette:
+        product = clean(profile.skelette[0])
+        if ":" in product:
+            label = product.split(":", 1)[0].strip()
+            if 3 <= len(label) <= 72:
+                return label
+        first_clause = re.split(r"[.;]", product, maxsplit=1)[0].strip()
+        if 3 <= len(first_clause) <= 90:
+            return first_clause
+    if fields:
+        return clean(f"Erststand zu {fields[0][0]}", 90).rstrip(".")
+    return "fachbezogener Erststand"
+
+
+def schnellstart_bedienlogik(
+    profile: ThemenProfil,
+    fields: list[tuple[str, str]],
+    stations: list[str],
+) -> list[str]:
+    """Baut einen fachbezogenen Einstieg für vier reale Nutzungslagen."""
+
+    def cell(value: str, limit: int) -> str:
+        return clean(value, limit).replace("|", "/").rstrip(".")
+
+    field_names = [cell(field, 52) for field, _detail in fields[:3]]
+    if not field_names:
+        field_names = [cell(item, 52) for item in profile.pruefraster[:3]]
+    while len(field_names) < 3:
+        field_names.append(cell(eilsache_label(profile), 52))
+    route = cell(
+        stations[0]
+        if stations
+        else profile.pruefraster[0]
+        if profile.pruefraster
+        else profile.label,
+        115,
+    )
+    if ":" in route:
+        route = route.split(":", 1)[0].strip()
+    output = schnellstart_product_label(profile, fields)
+    documents = cell(domain_documents(profile), 115)
+    minimum = ", ".join(dict.fromkeys(field_names[:3]))
+    return [
+        "## 1. Sofortstart nach Eingangslage",
+        "",
+        f"- Dateien oder Ordner: Zuerst {documents} lesen. Mit {route} beginnen und das Arbeitsprodukt „{output}“ liefern.",
+        f"- Konkreter Auftrag: Das verlangte Arbeitsprodukt „{output}“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.",
+        f"- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen {minimum} routen und einen Erststand liefern, nicht nach dem Auftrag fragen.",
+        "- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.",
+        "",
+        f"Ohne verwertbares Material genau eine gebündelte Frage zu {minimum} und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.",
+        "",
+    ]
 
 
 def eilsache_label(profile: ThemenProfil) -> str:
@@ -2704,6 +2778,13 @@ def sentence_terminal(text: str) -> str:
     if text.endswith((".", "!", "?")):
         return text
     return text.rstrip(" ;:") + "."
+
+
+def sentence_lead(text: str) -> str:
+    """Hebt übernommene Profilfragmente am Satzanfang lesbar an."""
+
+    text = text.strip()
+    return text[:1].upper() + text[1:] if text else text
 
 
 def route_excerpt(text: str, limit: int) -> str:
@@ -6492,7 +6573,7 @@ def practice_routes_lines(
 
 
 BEWEISLAST_MERKER = {
-    "arbeits": "Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Arbeitnehmer für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung.",
+    "arbeits": "Wer sich auf den Zugang einer Erklärung beruft, beweist ihn; bei einer Arbeitgeberkündigung daher regelmäßig der Arbeitgeber. Der Arbeitgeber trägt außerdem Kündigungsgrund, ordnungsgemäße Betriebsratsanhörung und Erfüllung; der Arbeitnehmer Arbeitsleistung, eigene Anspruchsvoraussetzungen, rechtzeitige Klageerhebung und Gegenbelege.",
     "hr": "Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Beschäftigter für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung.",
     "zeugnis": "Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung.",
     "miet": "Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen.",
@@ -6550,9 +6631,9 @@ BEWEISLAST_MERKER = {
     "sport": "Verband oder Anspruchsteller für Regelwerk, Tatbestand, Zustellung und Maßnahme; Athlet oder Verein für Gegenbeleg, Fristwahrung, Eilbedarf und Einwendung.",
     "jveg": "Berechtigter für Heranziehung, Fristwahrung, Zeit, Honorargruppe und Auslage; Staatskasse für Kürzungstatbestand, Überschreitung und Einwendung.",
     "ehrenamtliche_richter": "Gericht sichert Besetzung und Verfahren; der ehrenamtliche Richter legt Neutralitätsrisiken offen und stützt Tatsachenfragen ausschließlich auf die Verhandlung.",
-    "rechtsgeschichte": "Bearbeiter für Textzeuge, Fassung, Übersetzung und Rezeptionsbeleg; offene Quellenlage wird als solche ausgewiesen und nicht durch Rückprojektion geschlossen.",
-    "roemisch": "Bearbeiter für Epoche, Textzeuge, lateinischen Begriff, Übersetzung, Kompilationsstatus, Prozessform und Rezeptionsbeleg; offene Überlieferung wird nicht durch moderne Dogmatik geschlossen.",
-    "pralr": "Bearbeiter für amtlichen Textzeugen, Teil, Titel, Paragraf, Fassung, Geltungszeitraum und Rezeptionsbeleg; offene Quellenlage wird ausgewiesen und nicht durch heutige Dogmatik ersetzt.",
+    "rechtsgeschichte": "Der Bearbeiter belegt Textzeuge, Fassung, Übersetzung und Rezeption; offene Quellenlage wird ausgewiesen und nicht durch Rückprojektion geschlossen.",
+    "roemisch": "Der Bearbeiter belegt Epoche, Textzeuge, lateinischen Begriff, Übersetzung, Kompilationsstatus, Prozessform und Rezeption; offene Überlieferung wird nicht durch moderne Dogmatik geschlossen.",
+    "pralr": "Der Bearbeiter belegt amtlichen Textzeugen, Teil, Titel, Paragraf, Fassung, Geltungszeitraum und Rezeption; offene Quellenlage wird ausgewiesen und nicht durch heutige Dogmatik ersetzt.",
     "kirchenrecht": "Antragsteller für Parteistellung, Urkunde und Anspruchstatsachen; kirchliche Autorität für Zuständigkeit, Verfahren und Entscheidungsgrundlage.",
     "kanzleibetrieb": "Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben.",
     "selbststaendige": "Selbstständiger für Leistung, Rechnung, Belege und Abgaben; Auftraggeber oder Behörde für Einwendung, Statusbewertung und belastende Feststellung.",
@@ -7213,7 +7294,7 @@ def compact_schnellstart(text: str) -> str:
         lines = block.splitlines()
         header = lines[:4]
         rows = [line for line in lines[4:] if line.startswith("|")]
-        return "\n".join(header + rows[:4]) + "\n\n"
+        return "\n".join(header + rows[:3]) + "\n\n"
 
     text = re.sub(
         r"## 5\. Einsatzfelder\n\n\| Feld \| Sofortgriff \| Ausgabe \|\n\| --- \| --- \| --- \|\n(?:\|.*\|\n)+",
@@ -7244,7 +7325,37 @@ def compact_schnellstart(text: str) -> str:
     if byte_len(text) <= MAX_FAST:
         return text
 
-    return clip_utf8(text, MAX_FAST)
+    text = re.sub(
+        r"\n## 4\. Fallkarte\n[\s\S]*?(?=\n## 5\. )",
+        "\n",
+        text,
+        count=1,
+    )
+    if byte_len(text) <= MAX_FAST:
+        return text
+
+    def shorten_kernroute(match: re.Match[str]) -> str:
+        lines = match.group(0).splitlines()
+        steps = [line for line in lines if re.match(r"^\d+\. ", line)]
+        return "\n## 3. Kernroute\n\n" + "\n".join(steps[:4]) + "\n"
+
+    text = re.sub(
+        r"\n## 3\. Kernroute\n\n(?:\d+\..*\n)+",
+        shorten_kernroute,
+        text,
+        count=1,
+    )
+    if byte_len(text) <= MAX_FAST:
+        return text
+
+    text = re.sub(r"\nZielprodukt:.*\n", "\n", text, count=1)
+    if byte_len(text) <= MAX_FAST:
+        return text
+
+    raise ValueError(
+        f"Schnellstart lässt sich nicht vollständig unter {MAX_FAST} Bytes verdichten: "
+        f"{byte_len(text)} Bytes"
+    )
 
 
 def build_schnellstart(
@@ -7259,7 +7370,7 @@ def build_schnellstart(
     profile = profile_for(slug, context)
     title = title_for(slug, mf, profile)
     fields = profile_fields(profile, skill_material)
-    stations = quick_stations(profile, skill_material)
+    stations = quick_stations(profile, skill_material)[:5]
     norm_limit = 7 if profile.key == "default" else 4
     case_limit = 4 if profile.key == "default" else 3
     extracted_norms = extract_norm_anchors(skill_material, norm_limit)
@@ -7290,10 +7401,10 @@ def build_schnellstart(
     if opening:
         lines += [opening, ""]
     lines += [
-        f"Ziel: {goal}. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.",
+        f"Kernauftrag: {clean(goal, 220).rstrip('.')}. Vorrang hat das verlangte Arbeitsprodukt.",
         "",
-    ] + SCHNELLSTART_TEMPO_BLOCK + [
-        "## 2. Direktstart",
+    ] + schnellstart_bedienlogik(profile, fields, stations) + [
+        "## 2. Fachlicher Direktstart",
         "",
     ] + schnellstart_direktstart(profile) + [
         "",
@@ -7342,21 +7453,58 @@ def build_schnellstart(
         anchor_count += 1
     if anchor_count == 0:
         lines.append("- Normen und Entscheidungen aus den vorgelegten Unterlagen oder einer belastbaren Quelle ableiten; Aktenzeichen nicht ergänzen, wenn sie nicht sicher belegt sind.")
+    consequence_short = clean(consequence_marker(profile), 145).rstrip(" .;:")
+    evidence_short = clean(evidence_marker(profile), 210).rstrip(" .;:")
+    attack_short = sentence_lead(
+        clean(domain_attack(profile), 150).rstrip(" .;:")
+    )
+    output_short = schnellstart_product_label(profile, fields)
+    family = workflow_family(profile)
+    result_label = {
+        "source": "erste historische Einordnung",
+        "research": "erstes belastbares Ergebnis",
+        "production": "erste Ausgabestufe",
+        "drafting": "erste Regelungsfolge",
+    }.get(family, "erste Rechtsfolge")
+    finding_label = {
+        "source": "Quellenfund",
+        "research": "Materialfund",
+        "production": "Dateifund",
+    }.get(family, "Aktenfund")
+    response_label = {
+        "source": "Gegenquelle, abweichende Lesart oder Datierungsargument",
+        "research": "Gegenbeleg, Alternativhypothese oder Bewertungsmaßstab",
+        "production": "Korrekturbeleg, Formatregel oder Freigabevorgabe",
+        "drafting": "Gegenbeleg, Auslegung oder Risikozuweisung",
+    }.get(family, "Gegenbeleg, Auslegung oder Lastregel")
+    anchor_label, anchor_action = {
+        "source": ("Quellenanker", "nach Textstufe, Epoche und Kontext einordnen"),
+        "research": ("Maßstab", "mit der entscheidenden Bewertungsfrage verbinden"),
+        "production": ("Vorgabe", "auf Datei, Fassung und Ausgabeziel beziehen"),
+        "drafting": ("Regelungsanker", "mit Risikozuweisung und Vollzug verbinden"),
+    }.get(family, ("Norm", "mit dem entscheidenden Merkmal verbinden"))
+    closing_label = "nächstem Dokument"
+    if family == "source":
+        closing_label = "nächster Quelle oder Darstellungsstufe"
+    elif family == "research":
+        closing_label = "nächster Prüfstufe"
+    elif family == "production":
+        closing_label = "nächster Freigabe- oder Ausgabestufe"
     lines += [
         "",
         "## 7. Antwortform",
         "",
-        f"7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise {consequence_marker(profile)}.",
-        f"7.2. Normsatz: Den tragenden Anker {join_anchors(norm_pool[:2], 170)} auf das entscheidende Tatbestandsmerkmal beziehen.",
-        f"7.3. Aktenfund: Für {fields[0][0] if fields else 'den Fallkern'} konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.",
-        f"7.4. Beweislast: {evidence_marker(profile)}; die Folge eines offenen Beweises ausdrücklich aussprechen.",
-        f"7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei {domain_attack(profile)} an.",
-        f"7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf {clean(consequence_marker(profile), 130)} ziehen und das verbleibende Risiko abstufen.",
-        f"7.7. Ausgang: Erzeuge als ersten Baustein {output_hint(profile, fields)}. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.",
+        f"7.1. Ergebnis: Rolle und Ziel benennen; {result_label}: {consequence_short}.",
+        f"7.2. {anchor_label}: {join_anchors(norm_pool[:2], 125)} {anchor_action}.",
+        f"7.3. {finding_label}: Für „{clean(fields[0][0] if fields else 'Fallkern', 55)}“ Tatsache, Datum und Fundstelle nennen.",
+        f"7.4. Beweis: {evidence_short}. Offene Folgen aussprechen.",
+        f"7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: {attack_short}.",
+        f"7.6. Erwiderung: {response_label} nennen und Restrisiko abstufen.",
+        f"7.7. Ausgang: Das Arbeitsprodukt „{output_short}“ liefern; mit Frist, Kernlücke und {closing_label} schließen.",
         "",
         "## 8. Stop",
         "",
-        f"Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn {clean(profile.stop[0], 180).rstrip('.').lower() if profile.stop else 'Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind'}. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.",
+        f"Nur bei diesem Stop-Punkt unterbrechen: {clean(profile.stop[0], 170).rstrip('.') if profile.stop else 'Frist, Vollmacht, Zuständigkeit oder Kernbeleg sind ungeklärt'}. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.",
         "",
     ]
     text = sanitize("\n".join(lines).strip() + "\n")
@@ -7652,7 +7800,41 @@ def normalize_protected_schnellstart(plugin_dir: Path) -> bool:
     if not path.exists():
         return False
     before = path.read_text(encoding="utf-8", errors="ignore")
-    updated = renumber_h2_sections(ensure_title_first(prose_umlauts(before)))
+    updated = ensure_title_first(prose_umlauts(before))
+    updated = re.sub(
+        r"\n+Bedienregel: [^\n]*\n+",
+        "\n\n",
+        updated,
+        count=1,
+    )
+    skill_material = collect_skill_material(plugin_dir)
+    context = " ".join(
+        [mf.get("description", ""), first_readme_paragraph(plugin_dir)]
+        + [item.get("desc", "") for item in skill_material[:20]]
+    )
+    profile = profile_for(slug, context)
+    fields = profile_fields(profile, skill_material)
+    field_names = [clean(field, 42).rstrip(".") for field, _detail in fields[:2]]
+    if not field_names:
+        field_names = [clean(profile.label, 42).rstrip(".")]
+    routes = " und ".join(field_names)
+    guide = (
+        "Bedienregel: Dateien und Ordner zuerst lesen. Konkrete Aufträge beginnen sofort "
+        "mit dem verlangten Dokument. Bei bloßer Aktivierung selbst zu "
+        f"{routes} routen. Große Ordner liefern früh einen Teilstand und nennen offene "
+        "Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewünsche setzen ohne "
+        "Neustart auf dem Stand auf; passende Fachskills laufen intern."
+    )
+    title_end = updated.find("\n")
+    if title_end == -1:
+        updated = updated + "\n\n" + guide + "\n"
+    else:
+        title = updated[:title_end].rstrip()
+        body = updated[title_end + 1 :].lstrip("\n")
+        updated = title + "\n\n" + guide + "\n\n" + body
+    updated = renumber_h2_sections(updated)
+    if byte_len(updated) >= 7500:
+        raise ValueError(f"{slug}: handkuratierter Schnellstart hat {byte_len(updated)} Bytes")
     if updated == before:
         return False
     path.write_text(updated, encoding="utf-8")

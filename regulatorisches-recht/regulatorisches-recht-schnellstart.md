@@ -2,20 +2,23 @@
 
 Wenn du das hier öffnest, willst du ein Verfahren gegenüber einer Regulierungs- oder Wirtschaftsaufsichtsbehörde nach Zuständigkeit, Eingriffsgrundlage, Verfahrensrechten und Antwortstrategie ordnen.
 
-Ziel: Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Kernauftrag: Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Schnellmodus
+## 1. Sofortstart nach Eingangslage
 
-Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
+- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Behörde und Verfahren beginnen und das Arbeitsprodukt „Auskunftsantwort“ liefern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Auskunftsantwort“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
+- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Behörde und Verfahren, Eingriffsgrundlage, Verfahrensrechte routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
+- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
 
-## 2. Direktstart
+Ohne verwertbares Material genau eine gebündelte Frage zu Behörde und Verfahren, Eingriffsgrundlage, Verfahrensrechte und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
 
-1. Welche Eingriffs- oder Anspruchsgrundlage trägt das Verlangen und deckt sie den Umfang.
-2. Welche Geschäftsgeheimnisse sind betroffen und wie werden sie geschützt.
-3. Welche Frist läuft und ist eine Verlängerung beantragt.
-4. Engpass dieses Gebiets zuerst sichern: Ein Auskunfts- oder Anhörungstermin läuft in unter zwei Wochen ab.
-5. Beweislage ordnen: Nachweisachse Behörde und Verfahren: zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen.
-6. Erstes Arbeitsprodukt liefern: Auskunftsantwort: Verlangen, Rechtsgrundlagenprüfung, gelieferte Daten, Schwärzungen mit Begründung, Vorbehalte.
+## 2. Fachlicher Direktstart
+
+1. Leitfrage aus Akte und Auftrag festlegen: Welche Eingriffs- oder Anspruchsgrundlage trägt das Verlangen und deckt sie den Umfang.
+2. Kernprüfung in einem Durchgang: Welche Geschäftsgeheimnisse sind betroffen und wie werden sie geschützt; Welche Frist läuft und ist eine Verlängerung beantragt.
+3. Belege und Engpass zusammenführen: Nachweisachse Behörde und Verfahren: zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen; besonders kritisch ist: Ein Auskunfts- oder Anhörungstermin läuft in unter zwei Wochen ab.
+4. Erstes Arbeitsprodukt liefern: Auskunftsantwort: Verlangen, Rechtsgrundlagenprüfung, gelieferte Daten, Schwärzungen mit Begründung, Vorbehalte.
 
 ## 3. Kernroute
 
@@ -57,17 +60,20 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Art. 28 DORA – allgemeine Grundsätze für Vertragsvereinbarungen mit IKT-Drittdienstleistern; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 29 DORA – Vorabbewertung des IKT-Konzentrationsrisikos; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 30 DORA – Pflichtinhalte des IKT-Drittdienstleistervertrags; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urt. v. 13.02.2025 — C-383/23 (ILVA) — Datenschutz-Grundverordnung-Bußgelder können auf gesamten Konzernumsatz bezogen werden; "Unternehmen" im wettbewerbsrechtlichen Sinne — relevant für Monitoring nationaler Bußgeldpraxis.
+- EuGH, Urt. v. 02.12.2025 — C-492/23 (Russmedia) — Datenschutz-Grundverordnung geht DSA vor; kein Provider-Privileg bei Datenschutz-Grundverordnung-Verstößen — relevant für Plattform-Compliance-Monitoring.
+- EuGH, Urt. v. 19.03.2026 — C-526/24 (Brillen Rottler) — Erstmaliger Datenschutz-Grundverordnung-Auskunftsantrag kann rechtsmissbräuchlich sein.
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren.
-7.2. Normsatz: Den tragenden Anker EnWG; TKG auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Behörde und Verfahren konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Nachweisachse Behörde und Verfahren: zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche geschäftsgeheimnisse sind betroffen und wie werden sie geschützt an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Auskunftsantwort: Verlangen, Rechtsgrundlagenprüfung, gelieferte Daten, Schwärzungen mit Begründung, Vorbehalte; Stellungnahme: Sachverhalt, Eingriffsgrundlage, Verhältnismäßigkeit, Zusagenangebot, Anträge. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren.
+7.2. Norm: EnWG; TKG mit dem entscheidenden Merkmal verbinden.
+7.3. Aktenfund: Für „Behörde und Verfahren“ Tatsache, Datum und Fundstelle nennen.
+7.4. Beweis: Nachweisachse Behörde und Verfahren: zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen. Offene Folgen aussprechen.
+7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Geschäftsgeheimnisse sind betroffen und wie werden sie geschützt.
+7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+7.7. Ausgang: Das Arbeitsprodukt „Auskunftsantwort“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn ein auskunfts- oder anhörungstermin läuft in unter zwei wochen ab. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Nur bei diesem Stop-Punkt unterbrechen: Ein Auskunfts- oder Anhörungstermin läuft in unter zwei Wochen ab. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.

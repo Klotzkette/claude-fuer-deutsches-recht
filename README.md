@@ -55,7 +55,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Skills (SKILL.md)** | 26461 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 302 zentral / 305 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v438.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v439.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -63,7 +63,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | Paket | Download | Inhalt |
 | --- | --- | --- |
 | **Alle Plugins als MegaZIP** | [alle-plugins-megazip.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) | Alle installierbaren Plugin-ZIPs plus `marketplace.json` in einem Archiv. |
-| **Marketplace-Manifest** | [marketplace.json](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/marketplace.json) | Direkt nutzbare Marketplace-Definition für alle Plugins. |
+| **Marketplace-Manifest** | [marketplace.json](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/marketplace.json) | Marketplace-Definition für Kommandozeilen-Nutzung oder ein privates beziehungsweise internes Organisations-Spiegelrepository; kein Einzel-Plugin und kein manueller ZIP-Upload. |
 | **Alle Skills als Markdown-ZIP** | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) | Reine `SKILL.md`-Dateien aller Plugins plus die plugin-lokalen Werkstatt- und Schnellstart-Prompts. Einzelne Skill-Markdown-Bundles liegen im Komplettpaket, nicht mehr als eigene Release-Assets. |
 | **Alle Testakten als ZIP** | [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Sammelarchiv der einzelnen Akten-ZIPs. In jedem Akten-ZIP liegen PDF, DOCX, XLSX, JPEG, EML und weitere Originalformate flach auf der Wurzelebene; Markdown und Unterordner sind ausgeschlossen. |
 | **Alle Testakten als Einzel-PDF-ZIP** | [alle-testakten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) | Sammelarchiv der einzelnen PDF-ZIPs. In jedem Akten-ZIP liegt jede Unterlage als separate, sauber gerenderte PDF flach auf der Wurzelebene. Pro Testakte gibt es zusätzlich ein eigenes `testakte-<name>-einzelpdfs.zip` im Release. |
@@ -89,69 +89,22 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 
 Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) und im Abschnitt [Was ist drin?](#was-ist-drin).
 
-## Quickstart
+## Schnellstart
 
-```text
-# Marketplace im Claude-Code-Prompt hinzufügen
-/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
-/plugin install <plugin-name>@klotzkette-german-legal-skills
-```
+| Ich will ... | Schnellster Weg |
+| --- | --- |
+| sofort mit einem Fall beginnen | Plugin im [Katalog](#was-ist-drin) öffnen, Schnellstart-Markdown laden und mit den Unterlagen verwenden |
+| ein Rechtsgebiet dauerhaft nutzen | `<plugin>.zip` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) unter **Customize → Plugins** hochladen |
+| viele Rechtsgebiete zentral bereitstellen | Marketplace aus einer privaten oder internen Organisations-Spiegelung dieses Repositorys synchronisieren |
+| einen komplexen Vorgang vertieft bearbeiten | Werkstatt-Markdown aus der jeweiligen Plugin-README laden |
 
-> **Empfehlung: Meistens reicht ein einzelnes Plugin, nicht der ganze Marketplace.** Die Sammel-Downloads (`alle-plugins-megazip.zip`, `alles-komplettpaket.zip`, `marketplace.json` mit `/plugin marketplace add`) ziehen die kompletten 235 Plugins, 26461 Skills und 302 zentralen Testakten auf einmal. Das sind je nach Variante mehrere hundert MB. Wenn du weißt, welches Plugin du brauchst (z. B. `liquiditaetsplanung`, `relationstechnik-zivilrecht`, `arbeitsrecht-kuendigung`), lade nur dieses aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest):
->
-> - `<plugin>.zip` — installierbares Plugin für Claude Code / Claude Desktop / Cowork.
-> - `alle-skills-markdown.zip` — reine `SKILL.md`-Dateien aller Plugins plus Werkstatt- und Schnellstart-Prompts.
-> - `<plugin>/<plugin>-werkstatt.md` — ausführlicher Markdown-Prompt als Plugin-Werkstatt ohne Installation. Direkt-Download oben in jeder Plugin-README über `raw.githubusercontent.com`.
-> - `<plugin>/<plugin>-schnellstart.md` — kompakter Markdown-Prompt bis 7.500 Zeichen, wenn es schnell gehen soll. Ebenfalls als Markdown-Direkt-Download.
->
-> Vorteil: viel kleinerer Download, schnellerer Start, kein Overhead durch ungenutzte Plugins.
+Jede Plugin-README beginnt mit **In 30 Sekunden starten**. Dort stehen der direkte Schnellstart, die ausführliche Werkstatt, das installierbare Einzel-ZIP, passende Testakten und ein fertiger Startsatz.
 
-> ⏱️ **Geduld beim ersten `marketplace add`.** Die Oberfläche klont beim Hinzufügen das **komplette Repository** in den lokalen Plugin-Cache — inklusive der 302 zentralen Testakten mit den zugehörigen PDF-Bündeln (rund 170 MB) und der Git-History. Das sind insgesamt mehrere hundert MB, die einmalig über die GitHub-Leitung gezogen werden. Auf normaler DSL dauert das nach unserer Einschätzung **circa 2 bis 3 Minuten**, je nach Verbindung und GitHub-Edge auch mal etwas länger. Das ist kein Fehler — bitte einfach durchlaufen lassen, bis die Marketplace-Übersicht geöffnet ist. Folge-Updates (`/plugin marketplace update`) sind danach deutlich schneller, weil nur noch der Delta-Pull über die Leitung geht. Wer nur einzelne Plugins ohne Testakten will, kann alternativ einzelne Plugin-ZIPs aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) laden — siehe nächster Absatz.
+Für den Organisations-Sync verlangt die aktuelle Oberfläche ein privates oder internes Repository. Das öffentliche Original wird dafür in ein Organisationsrepository gespiegelt; der manuelle Marketplace nimmt nur einzelne Plugin-ZIPs und höchstens 100 Plugins auf. Die genaue, aktuelle Route steht in [Installation in einfach](./INSTALLATION_EINFACH.md#4-marketplace-für-eine-organisation).
 
-Alternativ: über die Claude-Desktop-/Cowork-GUI unter **Customize → Skills / Plugins** → ZIP aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) hochladen. Schritt-für-Schritt unter [Schnellstart](#schnellstart), [Für Einsteiger](#für-einsteiger-schritt-für-schritt-anleitung) und besonders für Mac-Probleme in [INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md).
+> Lies zuerst alle Dateien im ausgewählten Ordner. Beginne unmittelbar mit dem verlangten Arbeitsprodukt. Wenn nur der Prompt oder Skill gestartet wurde, bestimme die Fachroute aus den Unterlagen und liefere einen ersten belastbaren Stand. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
 
-## Cowork-App mit kleinem Claude-Plan: Schritt für Schritt
-
-Du hast einen kleinen Claude-Plan (also keinen Max- oder Team-Tarif) und die Cowork-App auf deinem Rechner installiert? Dann geht die Einrichtung so:
-
-### Variante A: Einzelnes Plugin als ZIP hochladen (empfohlen)
-
-Das ist der leichteste Weg. Du lädst nur das Plugin herunter, das du wirklich brauchst — nicht die kompletten 235 Plugins.
-
-- Öffne das [aktuelle Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) auf GitHub.
-- Scrolle bis zu den Anhängen (Assets) ganz unten am Release.
-- Suche das Plugin, das du brauchst — zum Beispiel `arbeitsrecht-kuendigung.zip`, `liquiditaetsplanung.zip` oder `relationstechnik-zivilrecht.zip`.
-- Klicke auf den Dateinamen. Die ZIP wird in deinen Download-Ordner geladen.
-- Öffne die **Cowork-App**.
-- Klicke unten links oder oben rechts (je nach Version) auf **Customize** oder das Zahnrad-Symbol.
-- Wähle im Menü **Skills** oder **Plugins**.
-- Klicke auf **Upload** oder **Plugin hinzufügen**.
-- Ziehe die heruntergeladene ZIP in das Fenster — oder klicke auf **Datei auswählen** und such die ZIP aus deinem Download-Ordner.
-- Warte, bis Cowork die ZIP entpackt hat. Das dauert ein paar Sekunden.
-- Fertig. Das Plugin steht im Chat zur Verfügung. Du kannst es zum Beispiel mit `/plugin` aufrufen oder einfach eine passende Frage stellen.
-
-### Variante B: Den kompletten Marketplace einbinden
-
-Das ist bequemer, wenn du viele Plugins gleichzeitig ausprobieren willst. Der Download ist aber mehrere hundert Megabyte gross und dauert beim ersten Mal ein paar Minuten.
-
-- Öffne die **Cowork-App**.
-- Klicke in ein Chat-Fenster.
-- Tippe folgenden Befehl ein und drücke Enter:
-  ```
-  /plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
-  ```
-- Warte ab, bis Cowork das Repository geladen hat. Zwei bis drei Minuten sind normal.
-- Danach kannst du einzelne Plugins aus dem Marketplace installieren:
-  ```
-  /plugin install arbeitsrecht-kuendigung@klotzkette-german-legal-skills
-  ```
-- Statt `arbeitsrecht-kuendigung` kannst du jeden anderen Plugin-Namen aus [Was ist drin?](#was-ist-drin) einsetzen.
-
-### Wenn etwas nicht funktioniert
-
-- Stell sicher, dass deine Cowork-App auf der neuesten Version ist.
-- Bei Mac-Problemen (Gatekeeper, Rechte, ZIP entpackt sich automatisch) gibt es eine ausführliche Anleitung in [INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md).
-- Wenn du gar nichts installieren willst, kannst du jedes Plugin auch als reinen Text-Prompt nutzen: In jedem Plugin-Ordner liegt eine `-werkstatt.md` und eine `-schnellstart.md`. Beide lassen sich direkt in Cowork, ChatGPT, Claude Web oder jedes andere Tool kopieren.
+Für Folgewünsche gilt: Den bisherigen Aktenstand fortführen, Tatsachen und Quellen nicht erneut abfragen und nur die verlangte Dimension ändern. Ausführlich: [Schnellstart in fünf Minuten](./QUICKSTART.md). ZIP-Probleme und Organisations-Sync: [Installation in einfach](./INSTALLATION_EINFACH.md).
 
 ## 🚨 KEINE Aussage über Berufsrecht, Datenschutz, KI-VO oder Beschlagnahmeverbote
 
@@ -470,98 +423,11 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`zitierweise-deutsches-recht`](./zitierweise-deutsches-recht) | Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. |
 | [`zwangsvollstreckung`](./zwangsvollstreckung) | Plugin Zwangsvollstreckung §§ 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, § 802l Kontensuche, Vermögensauskunft, Räumung, § 800 ZPO Notar, § 201 InsO, ZVG, EU-Kontenpfändung VO 655/2014, § 765a Härtefall, Schuldnerschutz. |
 
-## Schnellstart
+## Weitere Installationshilfe
 
-Dieses Skill-Set lässt sich auf drei Wegen einbinden. Empfohlen ist **Weg 1** über die grafische Oberfläche; **Weg 2** für gezielten ZIP-Upload einer bestimmten Version; **Weg 3** für Claude Code im Terminal.
+Die kompakte Anleitung mit den drei Nutzungswegen steht im [Schnellstart](./QUICKSTART.md). Hinweise zu automatisch entpackten ZIPs, zur richtigen Dateiauswahl und zum Organisations-Marketplace stehen in [Installation in einfach](./INSTALLATION_EINFACH.md).
 
-> 📆 **Release- vs. main-Stand.** Den **letzten Release-Tag** findest du auf der Seite [Releases](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases). Über **Weg 1 (Marketplace-Sync)** und **Weg 3 (Marketplace-Kommando)** wird der `main`-Branch geladen — das ist meist **neuer** als der letzte Release-Tag (Zwischen-Commits mit Fixes, neuen Tests, kleinen Ergänzungen). Über **Weg 2 (ZIP-Upload aus Release)** bekommst du den **getaggten, validierten Stand**. Für Stabilität → Weg 2; für neueste Korrekturen → Weg 1/3.
-
-> 💡 **Findest du in Cowork kein Feld für den GitHub-Pfad oder macht der Mac beim ZIP-Upload Ärger?** Dann ist in deiner Oberfläche der Marketplace-Weg vermutlich noch nicht freigeschaltet oder macOS hat die ZIP anders behandelt als erwartet. Lade die Plugin-ZIPs einzeln aus dem [Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) herunter und installiere sie über denselben Dialog, mit dem du z. B. "Legal Plugin" installierst. Mac-Hinweise zu Safari-Auto-Entpacken, iCloud-Platzhaltern, MegaZIP vs. Einzel-ZIP und Terminal-Check: **[INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md)**.
-
-### Voraussetzungen
-
-- Ein **Claude-Account** (Free oder Pro) – https://claude.ai/login
-- Entweder **Claude Desktop** (https://claude.com/download) **oder** **Claude Code** (`npm install -g @anthropic-ai/claude-code`, danach `claude` im Terminal).
-- Für Weg 3 zusätzlich `git`.
-
-### Weg 1 — Installation über "Customize → Skills" (GUI, empfohlen)
-
-Einfachster Weg in Claude Desktop oder der Cowork-Oberfläche:
-
-1. Claude Desktop öffnen und in der linken Seitenleiste auf **Customize** klicken.
-2. Auf **Skills** wechseln und neben "Personal plugins" das **+**-Symbol anklicken.
-3. Im Dialogfeld den Pfad des GitHub-Repositorys im Format `owner/repo` eingeben: **`Klotzkette/claude-fuer-deutsches-recht`**.
-4. Auf **Sync** klicken. Cowork liest daraufhin den Marketplace und listet alle Plugins (z. B. `arbeitsrecht`, `vertragsrecht`, Liquiditätsplanung (`liquiditaetsplanung`), `insolvenzrecht`, `steuerrecht-anwalt-und-berater` ...).
-5. Beim gewünschten Plugin auf **Install** klicken. Nach erfolgreicher Installation wechselt der Button zu **Manage**.
-6. Eine neue Konversation starten — die Skills stehen ab sofort zur Verfügung. Tipp: Mit `/skill` oder freier Eingabe (z. B. "Erstelle eine 3-Wochen-Liquiditätsvorschau") wird der passende Skill automatisch erkannt.
-
-### Weg 2 — Manueller ZIP-Upload als Plugin
-
-Wenn kein Marketplace-Manifest verwendet werden soll oder eine bestimmte Version festgehalten werden muss:
-
-1. Das gewünschte einzelne Plugin-ZIP aus dem neuesten Release herunterladen, z. B. `liquiditaetsplanung.zip` von https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest.
-2. In Cowork **Customize → Skills / Plugins** öffnen und über **+ → Create → Upload plugin** dieses einzelne Plugin-ZIP hochladen.
-3. Nach dem Upload erscheint das Plugin in der Plugin-Liste und kann aktiviert werden.
-
-**Wichtig:** Nicht das komplette Repository-ZIP aus **Code → Download ZIP** hochladen. Ein Upload-ZIP muss direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` usw. im ZIP-Root enthalten.
-
-### Weg 3 — Marketplace-Kommando (Claude Code im Terminal)
-
-Claude Code starten (`claude` im Terminal) und dann:
-
-```text
-/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
-/plugin install arbeitsrecht@klotzkette-german-legal-skills
-/plugin install vertragsrecht@klotzkette-german-legal-skills
-/plugin install liquiditaetsplanung@klotzkette-german-legal-skills
-/plugin install insolvenzrecht@klotzkette-german-legal-skills
-/plugin install steuerrecht-anwalt-und-berater@klotzkette-german-legal-skills
-```
-
-Einzelne Plugins lassen sich auch später mit `/plugin install <name>@klotzkette-german-legal-skills` nachinstallieren; `/plugin list` zeigt den aktuellen Stand.
-
-Alternativ ein lokal geklontes Repository nutzen:
-
-```bash
-git clone https://github.com/Klotzkette/claude-fuer-deutsches-recht.git
-cd claude-fuer-deutsches-recht
-claude
-```
-
-Und dann im Claude-Code-Prompt:
-
-```text
-/plugin marketplace add .
-/plugin install <plugin-name>@klotzkette-german-legal-skills
-```
-
-### Mac-Hinweise für Cowork / Claude Desktop
-
-Wenn Nutzer auf dem Mac scheitern, liegt es häufig an der heruntergeladenen Datei:
-
-- Safari kann ZIP-Dateien nach dem Download automatisch entpacken. Für Cowork muss aber die **einzelne Plugin-ZIP** hochgeladen werden, nicht der entpackte Ordner.
-- `alle-plugins-megazip.zip` ist nur ein Sammelarchiv. Es muss zuerst entpackt werden; anschließend die darin enthaltenen Plugin-ZIPs einzeln hochladen.
-- Nicht das GitHub-Repository-ZIP aus **Code → Download ZIP** verwenden. Das ist Quellcode, kein direkt installierbares Plugin-ZIP.
-- Bei iCloud-Desktop/Downloads die ZIP erst lokal vollständig laden. Im Zweifel nach `~/Downloads/claude-plugins/` verschieben und dann aus diesem lokalen Ordner auswählen.
-- Beim Cowork-Organisations-Upload müssen Plugin-ZIPs gültige ZIP-Dateien unter 50 MB sein; für alle 235 Plugins ist GitHub-Sync/Marketplace robuster als manueller Einzelupload.
-- Technischer Check im Terminal:
-
-```bash
-file ~/Downloads/claude-plugins/liquiditaetsplanung.zip
-unzip -l ~/Downloads/claude-plugins/liquiditaetsplanung.zip | head
-```
-
-Der ZIP-Root muss `.claude-plugin/plugin.json` und `skills/` enthalten. Wenn das Upload-Fenster stattdessen einen GitHub-Pfad verlangt, ist das der Marketplace-Dialog; für ZIPs zurückgehen und **Upload from .zip / Create → Upload plugin** wählen.
-
-### Überprüfen, ob die Installation funktioniert hat
-
-- In Claude Desktop: in der Plugin-Liste muss neben dem Plugin **Manage** statt **Install** stehen.
-- In Claude Code: `/plugin list` zeigt das Plugin als aktiviert.
-- Funktionstest: in einer neuen Konversation einen typischen Auftrag stellen, z. B. "Mache eine 3-Wochen-Liquiditätsvorschau für meine GmbH" → der Skill `liquiditaetsvorschau-3wochen` sollte sichtbar geladen werden.
-
-Details und Fehlersuche stehen in der [Kurzanleitung](./QUICKSTART.md).
-
-### Repo-interner Release-Check
+## Repo-interner Release-Check
 
 Vor einem Release sollten mindestens diese Prüfungen grün sein:
 
@@ -630,19 +496,19 @@ Die Inhalte aus [references/methodik-buergerliches-recht.md](./references/method
 - [rechtstheorie-rechtsphilosophie](./rechtstheorie-rechtsphilosophie) — Rechtsbegriff, Kelsen-orientierte Normgeltung, Kompetenzketten, Gesetzesbindung, Demokratie, Systemkritik, Verwaltungsrealismus, Besitzdogmatik, Law-and-Economics, Hayek-Wissensproblem, spontane Ordnung und anti-dezisionistische Machtkritik.
 - [zitierweise-deutsches-recht](./zitierweise-deutsches-recht) — Hauszitierweise mit Pinpoint-Randnummer, Rechtsprechungs-Verifikationsregel, BeckRS-Sperre und Literatur-Sperre ohne Nutzerquelle oder lizenzierten Live-Zugriff.
 
-Beide Plugins enthalten die gleichen Inhalte wie die Referenzdateien, sind aber als Skill ausgeführt: Sobald sie in Cowork aktiviert sind, gilt die Methodik bzw. die Zitierweise als ausdrückliche Pflicht für jede Antwort — unabhängig davon, ob ein Rechtsgebietsplugin geladen ist.
+Alle drei Plugins enthalten die einschlägigen Inhalte als Skills: Sobald sie aktiviert sind, stehen Methodik, Rechtstheorie und Zitierweise als ausdrückliche Arbeitsmaßstäbe neben dem jeweiligen Rechtsgebietsplugin bereit.
 
-Aktivierung in Cowork: `Customize → Skills → Persönliche Plugins → +` und das jeweilige Plugin hinzuschalten.
+Aktivierung in Cowork: zuerst den Cowork-Bereich öffnen, dann `Customize → Plugins`; dort die drei Plugins installieren oder aktivieren.
 
 ## Für Einsteiger: Schritt-für-Schritt-Anleitung
 
 ### Was brauche ich?
 
-1. **Einen Claude-Account** (kostenlos oder Pro) – Registrierung unter https://claude.ai
-2. **Claude Desktop** (empfohlen) oder **Claude Code** – Download: https://claude.com/download
-3. **Für GUI-Installation:** ein einzelnes Plugin-ZIP aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). **Für Entwickler:** dieses Repository mit Git klonen.
+1. **Einen kostenpflichtigen Claude-Plan** für Plugins; die reinen Markdown-Schnellstarts funktionieren auch ohne Plugin-Installation.
+2. **Claude im Web, Claude Desktop oder Cowork**; für die Kommandozeilen-Installation Claude Code.
+3. **Für die Einzelinstallation:** ein Plugin-ZIP aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). **Für Entwickler:** dieses Repository mit Git klonen.
 
-### Installation in Claude Desktop (für absolute Einsteiger)
+### Einzelinstallation in Claude Desktop oder Cowork
 
 **Schritt 1: Claude Desktop installieren**
 
@@ -656,26 +522,19 @@ Aktivierung in Cowork: `Customize → Skills → Persönliche Plugins → +` und
 2. Lade **ein einzelnes Plugin-ZIP** herunter, z. B. `arbeitsrecht.zip`, `vertragsrecht.zip` oder `liquiditaetsplanung.zip`.
 3. Auf dem Mac darauf achten: die ZIP nicht entpacken; falls Safari sie automatisch entpackt, erneut als ZIP laden oder die Safari-Auto-Entpackung deaktivieren.
 
-**Schritt 3: Skills in Claude Desktop aktivieren**
+**Schritt 3: Plugin hochladen**
 
-1. Öffne Claude Desktop
-2. Klicke auf das Zahnrad-Symbol ⚙️ (Einstellungen) oben rechts
-3. Gehe zu **Capabilities** (Funktionen)
-4. Aktiviere **Code execution** und **Skills**
+1. In Cowork zuerst den Cowork-Bereich öffnen; im Web oder Desktop direkt fortfahren.
+2. In der linken Seitenleiste **Customize** öffnen.
+3. Den Reiter **Plugins** wählen und die Funktion zum Hochladen eines eigenen Plugin-ZIPs öffnen.
+4. Das einzelne Plugin-ZIP auswählen, zum Beispiel `arbeitsrecht.zip` oder `vertragsrecht.zip`.
+5. Nach erfolgreichem Upload eine neue Aufgabe oder Konversation öffnen.
 
-**Schritt 4: Einen Skill hochladen**
+**Schritt 4: Skill verwenden**
 
-1. In den Einstellungen: gehe zu **Skills / Plugins**.
-2. Öffne **Personal plugins / Persönliche Plugins**.
-3. Klicke auf **+** und wähle **Upload from .zip** bzw. **Create → Upload plugin**.
-4. Wähle das einzelne Plugin-ZIP aus, z. B. `arbeitsrecht.zip` oder `vertragsrecht.zip`.
-5. Bestätige und starte danach eine neue Konversation.
-
-**Schritt 5: Skill verwenden**
-
-1. Starte einen neuen Chat in Claude Desktop
-2. Der Skill wird automatisch erkannt, wenn du relevante Fragen stellst
-3. Beispiel: "Erstelle mir einen Entwurf für eine ordentliche Kündigung nach § 622 BGB"
+1. Eine neue Aufgabe oder Konversation starten.
+2. `/` eingeben oder den `+`-Schalter wählen und den passenden Skill kontrolliert auswählen; bei eindeutigem Auftrag kann er auch automatisch vorgeschlagen werden.
+3. Beispiel: "Erstelle mir einen Entwurf für eine ordentliche Kündigung nach Paragraf 622 BGB. Lies zuerst die beigefügten Unterlagen."
 
 ### Installation in Claude Code (für Entwickler / Terminal-Nutzer)
 
@@ -698,14 +557,14 @@ claude plugin install prozessrecht@klotzkette-german-legal-skills
 **F: Muss ich programmieren können?**
 A: Nein. Für Claude Desktop reicht es, Dateien hochzuladen. Nur für Claude Code sind Terminal-Grundkenntnisse hilfreich.
 
-**F: Kostet Claude Geld?**
-A: Es gibt einen kostenlosen Plan mit Limits. Für intensive Nutzung empfiehlt sich Claude Pro (ca. 20 $/Monat). Details: https://claude.ai/pricing
+**F: Kostet die Plugin-Nutzung Geld?**
+A: Plugins stehen nach aktuellem Produktstand in kostenpflichtigen Plänen zur Verfügung. Die Markdown-Schnellstarts und Werkstätten können unabhängig davon als normale Arbeitsdateien genutzt werden. Aktuelle Planangaben stehen unter https://claude.ai/pricing.
 
-**F: Kann ich die Skills in meiner Kanzlei-Software nutzen?**
-A: Derzeit funktionieren Skills nur in Claude Desktop, Claude Code und über die API. Direkte Integration in Kanzleisoftware erfordert Eigenentwicklung.
+**F: Wo funktionieren installierte Plugins?**
+A: Plugins lassen sich im Web-Chat, im Chat-Bereich von Claude Desktop und in Cowork nutzen. Die enthaltenen Skills funktionieren in allen drei Bereichen; Hooks und Sub-Agenten laufen nur in Cowork. Eine direkte Integration in Kanzleisoftware erfordert einen gesonderten, dokumentierten Anschlussweg.
 
-**F: Sind die Skills DSGVO-konform?**
-A: Das hängt von Ihrer Nutzung ab. Anthropic ist DSGVO-zertifiziert, aber Sie müssen sicherstellen, dass Sie keine Mandantendaten ohne AVV hochladen. Siehe: https://www.anthropic.com/legal/privacy
+**F: Sind die Skills datenschutzkonform?**
+A: Das lässt sich nicht pauschal beantworten. Anbieter, Plan, Vertrag, Datenfluss, Auftragsverarbeitung, Unterauftragnehmer, Speicherfristen und das konkrete Material müssen vor produktiver Nutzung eigenständig geprüft werden; dieses Repository erteilt keine Freigabe.
 
 **F: Kann ich die Skills anpassen?**
 A: Ja. Alle Skills sind Open Source (Apache-2.0 OR MIT, nach Wahl des Nutzers). Sie können sie nach Belieben anpassen – siehe [Beitragsleitfaden](./CONTRIBUTING.md).
