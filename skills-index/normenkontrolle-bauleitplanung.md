@@ -1,6 +1,6 @@
 # normenkontrolle-bauleitplanung
 
-**110 Skills** · Stand `v439.1.0`
+**110 Skills** · Stand `v439.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../normenkontrolle-bauleitplanung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -74,7 +74,9 @@ Hinweisschreiben versandt und die Geschäftsführerin aufgefordert, eine formale
 | 13 | `13_Sanierungsbausteine_Memo.docx` | Word | Internes Memo GF an Aufsichtsrat: Wandeldarlehen, Personalplan, Forderungsmanagement |
 | 14 | `14_Notiz_GF_Carolin.txt` | Text | Handschriftliche Notiz nach Earlybird-Telko vom 14.05.2026 |
 | 15 | `15_Mitarbeiterliste_Stand_30-04-2026.xlsx` | Excel | 28 FA + 6 Werkstudenten + 3 Freelancer, anonymisiert, mit Gehaltsformeln |
-| 16 | `README.md` | Markdown | Diese Übersicht |
+| 16 | `16_unterlagenstand_fortbestehensprognose_2026-05-18.eml` | E-Mail | Unterlagenabgleich der Steuerberaterin mit offenen Originalnachweisen |
+| 17 | `17_kundenjahresvorauszahlungen_status_2026-05-18.csv` | CSV | Vertriebsstand zu den fünf angebotenen Jahresvorauszahlungen |
+| 18 | `README.md` | Markdown | Diese Übersicht |
 
 ---
 

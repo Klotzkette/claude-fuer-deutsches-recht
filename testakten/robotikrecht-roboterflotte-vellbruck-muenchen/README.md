@@ -36,6 +36,7 @@ Die Akte passt zu `robotik-recht` und berührt zusätzlich `ki-vo-ai-act-pruefer
 | `10_produkthaftung_mitverschulden_beweislast.docx` | Haftungsfragen, Beweislast, Produktakte |
 | `11_beschlussvorlage_geschaeftsfuehrung.docx` | Vorstandsvorlage mit Optionen |
 | `12_bis_54_*` | Einzelvermerke, E-Mails, Logs, Tabellen, Anhänge, Verträge, Fotos und Auswertungen |
+| `55_schaerlein_automation_remotezugriff_rueckfrage.eml` | Serviceantwort zu den offenen `remote-admin`-Sitzungen vom 27.05.2026 |
 | `gesamt-pdf/` | Automatisch erzeugte Gesamt-PDF-Fassung der Akte |
 
 ## Arbeitsstand

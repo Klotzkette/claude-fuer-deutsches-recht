@@ -47,6 +47,8 @@ Diese Akte gehört zum Plugin `verbraucherinsolvenz-schuldenbereinigung`.
 | `17-glaeubigerreaktionen-und-zustelllog.docx` | Reaktionen der Bank, Krankenkasse, Inkasso und Finanzamt mit Wiedervorlage |
 | `18-nachforderung-insolvenzgericht.docx` | Gerichtliche Nachforderung und Antwortentwurf zur Vervollständigung des Antrags |
 | `19-vollstaendige-einigungsakte-und-formularpruefung.docx` | Ausformuliertes Vollgutachten mit Normprogramm, Subsumtion, Beweisstrategie und nächstem Schritt |
+| `20-email-reimers-unterlagen-nachgereicht-2026-06-07.eml` | Nachricht des Schuldners zu den wiedergefundenen Originalunterlagen |
+| `21-sms-export-reimers-schwester-drittmittel-juni-2026.txt` | SMS-Verlauf zur bedingten Drittmittelzusage über 6000 EUR |
 | `gesamt-pdf/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung_gesamt.pdf` | Gesamt-PDF der Akte |
 
 ## Sachstand

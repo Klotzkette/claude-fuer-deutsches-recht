@@ -1,6 +1,6 @@
 # fachanwalt-agrarrecht
 
-**80 Skills** · Stand `v439.1.0`
+**80 Skills** · Stand `v439.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-agrarrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

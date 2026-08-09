@@ -20,7 +20,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 **Plugin:** `bereicherungs-und-anfechtungsrecht-pruefer`
 **Aktenordner:** `bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn`
 **Erstellt:** März 2026
-**Umfang:** 22 Aktenstücke, 3 Schriftsätze, 2 Tabellen, 4 E-Mails, 2 PDFs, 3 Grafiken
+**Umfang:** 23 Aktenstücke, 3 Schriftsätze, 3 Tabellen, 4 E-Mails, 2 PDFs, 3 Grafiken
 
 ---
 
@@ -72,6 +72,7 @@ bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn/
 ├── 20_parallele-anspruchskonkurrenz.docx          (Gesamtdarstellung Ansprüche)
 ├── 21_rechtsgutachten-zusammenfassung.docx        (Gutachten Spethmann)
 ├── 22_mandantenkorrespondenz-spethmann.docx       (Mandantenbrief)
+├── 23_kontoauszug-sonderbewegungen-maerz-april-2025.csv  (Vier Kontobewegungen März und April 2025)
 │
 ├── docx/
 │   ├── bereicherungsklage-bagheri-aichholz-lg-bonn.docx

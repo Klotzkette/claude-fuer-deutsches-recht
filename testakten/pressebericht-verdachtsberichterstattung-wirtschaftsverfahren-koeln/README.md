@@ -51,6 +51,8 @@ Redaktionsakte zu einem geplanten Bericht über ein Wirtschaftsstrafverfahren ge
 | `12_schadensersatzberechnung_geldentschaedigung.docx` | Vorprüfung mögliche Geldentschädigung |
 | `13_egmr_pruefung_art10_emrk.docx` | Prüfung nach Art. 10 EMRK und EGMR-Rechtsprechung |
 | `14_kostenuebersicht_kanzlei.docx` | Kostenübersicht Kanzlei |
+| `2026-07-10_telefonvermerk_loewenstein_stellungnahme.docx` | Telefonvermerk zum angekündigten Eingang der Verteidigerstellungnahme und zur Bildauswahl |
+| `2026-07-13_chat_redaktion_bildauswahl.txt` | Interner Redaktionschat zu Kontaktabzug, Bilddateien und Produktionsstand |
 | `csv/headline_varianten.csv` | Headline-Varianten mit Risikobewertung, erweitert |
 | `emails/2026-06-20_pressestelle_lg_koeln_terminmitteilung.eml` | LG Koeln Pressestelle: Terminmitteilung |
 | `emails/2026-06-26_verteidiger_hinweis.eml` | Verteidigung: Hinweis auf Unschuldsvermutung |

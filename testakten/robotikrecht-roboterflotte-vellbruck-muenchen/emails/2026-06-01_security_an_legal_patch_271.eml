@@ -3,10 +3,16 @@ To: legal@vellbruck-robotics.de
 Subject: Patch 2.7.1 / Legacy Update Channel
 Date: Mon, 01 Jun 2026 09:18:00 +0200
 Content-Type: text/plain; charset="utf-8"
-Content-Transfer-Encoding: quoted-printable
+Content-Transfer-Encoding: 8bit
 MIME-Version: 1.0
 Message-ID: <fbf6d49b13c7279779bc@vellbruck-robotics.de>
 
-Der Legacy-Modus ist aus meiner Sicht nicht mehr vertretbar. Technisch kann i=
-ch ihn remote deaktivieren. Problem: Einige Kunden verlieren dann vor=C3=BCbe=
-rgehend Flottenfunktionen.
+Guten Morgen,
+
+der Legacy-Modus des Updatekanals ist aus meiner Sicht nicht mehr vertretbar. Technisch kann ich ihn zentral deaktivieren. Bei mehreren Kunden würden dadurch jedoch vorübergehend Flottenfunktionen ausfallen, bis deren Gateways auf Version 2.7.1 angehoben sind.
+
+Ich brauche bis heute 14:00 Uhr eine Entscheidung, ob wir zuerst die betroffenen Betreiber informieren oder den Kanal unmittelbar schließen. Die Liste der erreichbaren Gateways, die letzte erfolgreiche Verbindung und die betroffenen Seriennummern liegen im Security-Ordner. Fernänderungen würde ich einzeln protokollieren.
+
+Viele Grüße
+Jasper Rodenwald
+Product Security

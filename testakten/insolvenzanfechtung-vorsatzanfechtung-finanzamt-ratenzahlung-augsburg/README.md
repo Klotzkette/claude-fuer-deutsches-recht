@@ -76,6 +76,7 @@ insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg/
 ├── eml/
 │   ├── 2023-03-03_gf_an_steuerberater_zahlungspriorisierung.eml — „Wir zahlen nur noch, wer am lautesten droht"
 │   ├── 2023-03-06_steuerberater_antwort_warnung.eml       — Warnung des Steuerberaters: Zahlungsunfähigkeit, § 15a InsO, Haftung
+│   ├── 2023-05-17_ruecklastschrift_rate_7.eml             — Buchhaltungsmail zur ersten zurückgegebenen Rate über 13000 EUR
 │   ├── 2024-09-05_finanzamt_sicherheitsverlangen.eml      — Finanzamt: Aufschub nur gegen Sicherungsabtretung, Hinweis auf Mahnstufen
 │   ├── 2026-11-02_terminsladung_beweisaufnahme.eml         — Terminsladung zum Beweistermin
 │   ├── 2027-03-10_urteilszustellung.eml                    — Zustellung des Urteils

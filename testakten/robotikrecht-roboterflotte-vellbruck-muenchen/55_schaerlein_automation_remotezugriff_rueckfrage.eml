@@ -1,0 +1,43 @@
+From: Schärlein Automation Service <service@schaerlein-automation.de>
+To: Jasper Rodenwald <jasper.rodenwald@vellbruck-robotics.de>
+Cc: Bertram Kiendl <bertram.kiendl@vellbruck-robotics.de>, Support Vellbruck <support@vellbruck-robotics.de>
+Date: Mon, 01 Jun 2026 14:38:00 +0200
+Subject: AW: Halle 12 - remote-admin am 27.05.2026
+Message-ID: <20260601143800.halle12@schaerlein-automation.de>
+In-Reply-To: <20260601120700.remote-admin@vellbruck-robotics.de>
+References: <20260601120700.remote-admin@vellbruck-robotics.de>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Guten Tag Herr Rodenwald,
+
+wir haben den Einsatzplan, die offenen Servicetickets und die handschriftliche Übergabeliste der Rufbereitschaft für Mittwoch, den 27.05.2026, durchgesehen. Zu den von Ihnen genannten Einträgen um 08:10 Uhr und 08:50 Uhr finden wir dort keinen Auftrag mit Bezug auf Halle 12 und keine eingetragene Änderung eines Schutzfelds. Im Ticketsystem steht an diesem Vormittag lediglich eine allgemeine Rückfrage der Münchner Feinlogistik zur Taktung der Flotte. Der Eintrag enthält keinen Gerätenamen und wurde telefonisch erledigt.
+
+Das Konto remote-admin erscheint in den von Ihnen übersandten Auszügen, lässt sich aus unserer eigenen Liste aber keiner Person zuordnen. Unsere Techniker melden sich für Fernwartungen über das Service-Gateway an. Ob der anschließend im VellNet-Protokoll sichtbare Kontoname remote-admin von Ihrem System vergeben wird oder aus einer bereits offenen Sitzung beim Betreiber stammt, können wir ohne die Sitzungsdaten nicht erkennen.
+
+Bitte schicken Sie uns für beide Zeitpunkte die Session-ID, die Quell-IP und den Beginn sowie das Ende der jeweiligen Verbindung. Außerdem benötigen wir den Gerätenamen des Gateways und die Ticketreferenz, falls VellNet eine solche mitführt. Wir gleichen das dann noch einmal mit den VPN-Zugängen der Rufbereitschaft ab. Die Namen der eingeteilten Techniker geben wir Ihnen nach dem Abgleich über den vereinbarten sicheren Kanal und nicht in dieser E-Mail.
+
+Die beiden ausgefallenen Wartungstermine aus dem ersten Quartal sind in unserer Disposition getrennt vermerkt. Daraus ergibt sich für uns nicht, ob am 27.05. eine Fernwartung stattgefunden hat. Ein nachträglicher Wartungsbericht zu diesem Tag liegt hier nicht vor.
+
+Bitte lassen Sie die Protokolldateien unverändert. Ein Bildschirmfoto reicht für den Abgleich nicht aus, weil darauf Zeitzone und Sitzungskennung fehlen.
+
+Freundliche Grüße
+
+Serviceleitstelle
+Schärlein Automation
+Technischer Kundendienst und Fernwartung
+service@schaerlein-automation.de
+
+-----Ursprüngliche Nachricht-----
+Von: Jasper Rodenwald <jasper.rodenwald@vellbruck-robotics.de>
+Gesendet: Montag, 1. Juni 2026 12:07
+An: Schärlein Automation Service <service@schaerlein-automation.de>
+Betreff: Halle 12 - remote-admin am 27.05.2026
+
+Guten Tag,
+
+in unserem Auszug stehen am 27.05.2026 um 08:10 Uhr und um 08:50 Uhr Änderungen unter remote-admin. Bitte prüfen Sie, ob dazu bei Ihnen ein Einsatz oder ein Ticket geführt wird. Wir benötigen zunächst nur die Zuordnung der Verbindung und die vorhandenen Originalprotokolle.
+
+Viele Grüße
+Jasper Rodenwald

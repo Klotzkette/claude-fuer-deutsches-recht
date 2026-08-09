@@ -76,6 +76,7 @@ insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin/
 │   └── 25_schlussvermerk_trux_2027-08-30.pdf        — Schlussvermerk als PDF-Rendering
 ├── eml/
 │   ├── 2025-08-22_cash-report_kw34.eml              — Wochenreport mit Liquiditaetskennzahlen
+│   ├── 2025-09-02_ruecklastschrift_cargofleet.eml    — Buchhaltungsmail zur zurückgegebenen Leasinglastschrift über 8200 EUR
 │   ├── 2025-10-20_brosekamp_vorschuss.eml           — Anforderung des Vorschusses durch Brosekamp
 │   ├── 2025-10-23_wittkamp_antwort_kollibri.eml     — Antwort zum Stand der Kollibri-Verhandlungen
 │   ├── 2025-11-07_kollibri_absage.eml               — Absage der Kollibri Ventures GmbH

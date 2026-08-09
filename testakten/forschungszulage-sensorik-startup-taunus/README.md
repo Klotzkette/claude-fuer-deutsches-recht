@@ -35,7 +35,7 @@ Die Akte passt zum Plugin `forschungszulage-antragstellung` und ist so angelegt,
 | --- | --- |
 | Sachverhalt und Vermerke | Markdown-Aktenstücke 00 bis 36 |
 | Korrespondenz | EML-Mails mit BSFZ, CFO, Labor Lissabon und Finanzamt |
-| Zahlen | XLSX/CSV zu Bemessungsgrundlage, Stunden, Personalkosten und Kumulierung |
+| Zahlen | XLSX/CSV zu Bemessungsgrundlage, Stunden, Personalkosten und Kumulierung sowie [`laborjournal_messreihen_k12_k18.csv`](tabellen/laborjournal_messreihen_k12_k18.csv) mit fünf zeitnahen Messreihen |
 | Entwürfe | DOCX-Stellungnahme, Einspruch und Geschäftsführungsvorlage |
 | Anlagen | PDF-Auszüge zu Rückfrage, Bescheid, Arbeitsplan, Lissabon, Recherche, Laborjournal und Ticket-/Git-Review |
 | Bildmaterial | Slack-/WhatsApp-Screenshot, Whiteboard, Prototypenfoto |

@@ -99,6 +99,7 @@ Arbeitsakte zum Plugin `strafzumessung`.
 | [email-jva-frankfurt-aufnahmevorbereitung.eml](email-jva-frankfurt-aufnahmevorbereitung.eml) | EML | JVA Frankfurt Aufnahmevorbereitung |
 | [email-bewaehrungshilfe-anfrage.eml](email-bewaehrungshilfe-anfrage.eml) | EML | Anfrage Bewährungshilfe Frankfurt |
 | [email-bgh-eingangsbestaetigung-revision.eml](email-bgh-eingangsbestaetigung-revision.eml) | EML | BGH Eingangsbestätigung Revision |
+| [23-telefonvermerk-markus-schmitt-zahlungsbestaetigung.docx](23-telefonvermerk-markus-schmitt-zahlungsbestaetigung.docx) | DOCX | Telefonvermerk zum Bestätigungsschreiben über den Zahlungseingang vom 15. Januar 2025 |
 | [plaedoyer-strafzumessung-final.pdf](plaedoyer-strafzumessung-final.pdf) | PDF | Plädoyer als PDF |
 | [revisionsbegruendung-final.pdf](revisionsbegruendung-final.pdf) | PDF | Revisionsbegründung als PDF |
 | [lg-frankfurt-gericht-aussenansicht.jpg](lg-frankfurt-gericht-aussenansicht.jpg) | JPG | Gerichtsgebäude LG Frankfurt (Illustration) |

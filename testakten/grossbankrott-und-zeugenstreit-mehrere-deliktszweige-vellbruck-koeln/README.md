@@ -118,6 +118,7 @@ Diese Akte zeigt **vier Konfliktfronten** im Strafverfahren:
 | [`eml/03_steuerberater_engelmeier_warnung_2024_12_18.eml`](eml/03_steuerberater_engelmeier_warnung_2024_12_18.eml) | Engelmeier an Pellbach, Warnung Insolvenzantragspflicht, 18.12.2024 |
 | [`eml/04_pellbach_an_kfw_klarstellung_2022_11_24.eml`](eml/04_pellbach_an_kfw_klarstellung_2022_11_24.eml) | Pellbach an KfW, Klarstellung Q3-Umsatzzahlen, 24.11.2022 |
 | [`eml/05_vellbruck_an_sta_akteneinsicht_2026_05_14.eml`](eml/05_vellbruck_an_sta_akteneinsicht_2026_05_14.eml) | Vellbruck an StA Köln, Akteneinsichtsantrag § 147 StPO, 14.05.2026 |
+| [`eml/06_tannekoetter_an_quasthoff_frachtmappen_2025_02_18.eml`](eml/06_tannekoetter_an_quasthoff_frachtmappen_2025_02_18.eml) | Standortmail zu Frachtmappen, Umbuchung und Palettenlisten, 18.02.2025 |
 
 ### Tabellen (tabellen/)
 

@@ -74,6 +74,7 @@ Arbeitsakte zum Plugin `fachanwalt-sportrecht`.
 | 20 | [`20_icc_schiedsverfahren_zuerich.docx`](20_icc_schiedsverfahren_zuerich.docx) | ICC Zürich 28-2026/SPO, § 307 BGB, AGB-Kontrolle |
 | 21 | [`21_dhb_ehf_ihf_verbandssanktionen.docx`](21_dhb_ehf_ihf_verbandssanktionen.docx) | Bundeskaderausschluss DHB, EHF/IHF-Wechselsperre 24 Monate |
 | 22 | [`22_strafanzeige_powernutrition_koerperverletzung.docx`](22_strafanzeige_powernutrition_koerperverletzung.docx) | § 223 StGB, Strafanzeige, Staatsanwaltschaft Memmingen |
+| 23 | [`23_chat_export_uvalkanat_ehrfeld_recoverymax_17_18_februar_2026.txt`](23_chat_export_uvalkanat_ehrfeld_recoverymax_17_18_februar_2026.txt) | Zeitnaher Chat zu Einnahme, Charge, Dose und Ablauf der Trainingskontrolle |
 
 ---
 

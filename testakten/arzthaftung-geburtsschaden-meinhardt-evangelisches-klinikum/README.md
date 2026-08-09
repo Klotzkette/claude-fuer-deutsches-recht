@@ -109,6 +109,7 @@ Arbeitsakte zum Plugin `fachanwalt-medizinrecht`.
 
 | Datei | Datum | Inhalt |
 |---|---|---|
+| [`emails/2024-10-08_vital-care_an_meinhardt_einsatzplan.eml`](emails/2024-10-08_vital-care_an_meinhardt_einsatzplan.eml) | 08.10.2024 | Pflegedienst bestätigt Einsatzzeiten, Begleitung zum SPZ und vorläufigen Eigenanteil |
 | [`emails/2024-11-15_meinhardt_an_kanzlei_erstanfrage.eml`](emails/2024-11-15_meinhardt_an_kanzlei_erstanfrage.eml) | 15.11.2024 | Erstanfrage Frau Meinhardt bei Kanzlei Klotzkette |
 | [`emails/2025-03-21_assekuranzalpha_an_kanzlei_vergleichsangebot.eml`](emails/2025-03-21_assekuranzalpha_an_kanzlei_vergleichsangebot.eml) | 21.03.2025 | Vergleichsangebot AssekuranzAlpha EUR 95.000 |
 | [`emails/2025-05-08_aek_schlichtungsstelle_zustellung.eml`](emails/2025-05-08_aek_schlichtungsstelle_zustellung.eml) | 08.05.2025 | Zustellung Schlichtungsentscheid durch AÄK |
