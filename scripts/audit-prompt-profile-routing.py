@@ -326,17 +326,14 @@ REQUIRED_WERKSTATT = (
     ),
     ("Outputvarianten und Empfängerwunsch",),
 )
-REQUIRED_SCHNELLSTART = tuple(
-    (marker,)
-    for marker in (
-        "Schnellmodus",
-        "Direktstart",
-        "Kernroute",
-        "Fallkarte",
-        "Anker",
-        "Antwortform",
-        "Stop",
-    )
+REQUIRED_SCHNELLSTART = (
+    ("Schnellmodus", "Sofortstart nach Eingangslage"),
+    ("Direktstart", "Fachlicher Direktstart"),
+    ("Kernroute",),
+    ("Fallkarte",),
+    ("Anker",),
+    ("Antwortform",),
+    ("Stop",),
 )
 
 

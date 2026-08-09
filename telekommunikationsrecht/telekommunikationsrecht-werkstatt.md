@@ -134,7 +134,7 @@ Arbeitsgriff Arbeitsprodukt: Anbieterforderung, Minderungsrechnung, Schlichtungs
 10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Behördenkommunikation mit BNetzA.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Telekommunikationsrecht tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Nachweisachse Beweis: Messprotokoll, Produktinformationsblatt, Vertrag, Störungsticket, Portierungsdaten, Bescheid und Zustellung sichern. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welcher vertrags-, endnutzer- oder regulierungsabschnitt ist einschlägig an.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welcher Vertrags-, Endnutzer- oder Regulierungsabschnitt ist einschlägig an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Anbieterforderung, Minderungsrechnung, Schlichtungsantrag, Regulierungsstellungnahme, Widerspruch oder Eilantrag erstellen; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Behördenkommunikation mit BNetzA, Mindestlaufzeit, Verlängerung, Kündigung, Anschlussbereitstellung und Verzug, BNetzA-Verfahren: Akteneinsicht, Anhörung, Fristen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
@@ -147,7 +147,7 @@ Arbeitsgriff Arbeitsprodukt: Anbieterforderung, Minderungsrechnung, Schlichtungs
 | vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
 | versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
 | beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Anbieterforderung, Minderungsrechnung, Schlichtungsantrag, Regulierungsstellungnahme, Widerspruch. |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welcher vertrags-, endnutzer- oder regulierungsabschnitt ist einschlägig |
+| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welcher Vertrags-, Endnutzer- oder Regulierungsabschnitt ist einschlägig |
 
 ## 12. Arbeitsweise
 

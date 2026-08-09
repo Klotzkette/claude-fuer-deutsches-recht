@@ -2,20 +2,23 @@
 
 Wenn du das hier öffnest, willst du Sozialversicherungsstatus, Scheinselbständigkeit, Geschäftsführerstatus oder DRV-Beitragsrisiko sofort nach Gesamtbild und Belegen prüfen.
 
-Ziel: Sozialversicherungsstatus und DRV-Statusfeststellung: Geschäftsführer, Freelancer, Anwälte, Lehrkräfte, Musikschulen, Plattformarbeit und Scheinselbständigkeit. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Kernauftrag: Sozialversicherungsstatus und DRV-Statusfeststellung: Geschäftsführer, Freelancer, Anwälte, Lehrkräfte, Musikschulen, Plattformarbeit und Scheinselbständigkeit. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Schnellmodus
+## 1. Sofortstart nach Eingangslage
 
-Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
+- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Auftrag und Zeitraum beginnen und das Arbeitsprodukt „Erststand zu Auftrag und Zeitraum“ liefern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Erststand zu Auftrag und Zeitraum“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
+- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Auftrag und Zeitraum, Gesamtbild, Sonderrollen routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
+- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
 
-## 2. Direktstart
+Ohne verwertbares Material genau eine gebündelte Frage zu Auftrag und Zeitraum, Gesamtbild, Sonderrollen und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
 
-1. Welche konkrete Tätigkeit in welchem Zeitraum wird geprüft.
-2. Welche Indizien sprechen für Beschäftigung und welche für Selbständigkeit.
-3. Gibt es rechtlich durchsetzbare Einflussrechte oder nur faktische Macht.
-4. Engpass dieses Gebiets zuerst sichern: Betriebsprüfungs- oder Widerspruchsfrist läuft.
-5. Beweislage ordnen: Rentenversicherung oder Einzugsstelle für Gesamtbild und Beitragsforderung; Auftraggeber und Erwerbstätiger für Vertrag, Eingliederung, Weisungen und Unternehmerrisiko.
-6. Erstes Arbeitsprodukt liefern: Statusmatrix, Anhörungserwiderung, Beitragsrisikorechnung, Widerspruch oder Klageentwurf erstellen.
+## 2. Fachlicher Direktstart
+
+1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete Tätigkeit in welchem Zeitraum wird geprüft.
+2. Kernprüfung in einem Durchgang: Welche Indizien sprechen für Beschäftigung und welche für Selbständigkeit; Gibt es rechtlich durchsetzbare Einflussrechte oder nur faktische Macht.
+3. Belege und Engpass zusammenführen: Rentenversicherung oder Einzugsstelle für Gesamtbild und Beitragsforderung; Auftraggeber und Erwerbstätiger für Vertrag, Eingliederung, Weisungen und Unternehmerrisiko; besonders kritisch ist: Betriebsprüfungs- oder Widerspruchsfrist läuft.
+4. Erstes Arbeitsprodukt liefern: Statusmatrix, Anhörungserwiderung, Beitragsrisikorechnung, Widerspruch oder Klageentwurf erstellen.
 
 ## 3. Kernroute
 
@@ -59,14 +62,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Statusfeststellungsantrag, Anhörungserwiderung, Beitragsabwehr, Nachzahlungsplan, Widerspruch oder Klage.
-7.2. Normsatz: Den tragenden Anker SGB IV Paragraf 7; SGB IV Paragraf 7a auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Auftrag und Zeitraum konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Rentenversicherung oder Einzugsstelle für Gesamtbild und Beitragsforderung; Auftraggeber und Erwerbstätiger für Vertrag, Eingliederung, Weisungen und Unternehmerrisiko; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche indizien sprechen für beschäftigung und welche für selbständigkeit an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Statusfeststellungsantrag, Anhörungserwiderung, Beitragsabwehr, Nachzahlungsplan, Widerspruch oder Klage ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Auftrag und Zeitraum, Gesamtbild, Sonderrollen, Verfahren: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Statusfeststellungsantrag, Anhörungserwiderung, Beitragsabwehr, Nachzahlungsplan, Widerspruch oder Klage.
+7.2. Norm: SGB IV Paragraf 7; SGB IV Paragraf 7a mit dem entscheidenden Merkmal verbinden.
+7.3. Aktenfund: Für „Auftrag und Zeitraum“ Tatsache, Datum und Fundstelle nennen.
+7.4. Beweis: Rentenversicherung oder Einzugsstelle für Gesamtbild und Beitragsforderung; Auftraggeber und Erwerbstätiger für Vertrag, Eingliederung, Weisungen und Unternehmerrisiko. Offene Folgen aussprechen.
+7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Indizien sprechen für Beschäftigung und welche für Selbständigkeit.
+7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+7.7. Ausgang: Das Arbeitsprodukt „Erststand zu Auftrag und Zeitraum“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn betriebsprüfungs- oder widerspruchsfrist läuft. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Nur bei diesem Stop-Punkt unterbrechen: Betriebsprüfungs- oder Widerspruchsfrist läuft. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.

@@ -2,20 +2,23 @@
 
 Wenn du das hier öffnest, willst du eine Hauptversammlung der AG oder SE rechtssicher vorbereiten, durchführen, dokumentieren oder gegen Beschlussmängel absichern.
 
-Ziel: Hauptversammlungs-Vorbereiter, Leitfaden-Ersteller und Durchführungsplugin für kleine AG, normale AG, börsennotierte AG und SE: Einberufung, Tagesordnung, virtuelle HV, Q&A, Abstimmung, Niederschrift, Anfechtungsrisiko und Post-HV. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Kernauftrag: Hauptversammlungs-Vorbereiter, Leitfaden-Ersteller und Durchführungsplugin für kleine AG, normale AG, börsennotierte AG und SE: Einberufung, Tagesordnung, virtuelle HV, Q&A, Abstimmung, Niederschrift, Anfechtungsrisiko. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Schnellmodus
+## 1. Sofortstart nach Eingangslage
 
-Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
+- Dateien oder Ordner: Zuerst die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen lesen. Mit Gesellschaft und Versammlungsart beginnen und das Arbeitsprodukt „HV-Fristenblatt“ liefern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt „HV-Fristenblatt“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
+- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Gesellschaft und Versammlungsart, Einberufung und Tagesordnung, Teilnahme und Durchführung routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
+- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
 
-## 2. Direktstart
+Ohne verwertbares Material genau eine gebündelte Frage zu Gesellschaft und Versammlungsart, Einberufung und Tagesordnung, Teilnahme und Durchführung und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
 
-1. Welche Gesellschafts-, Börsen- und Versammlungsform bestimmt Satzung, Fristen und Aktionärsrechte.
-2. Sind Einberufungsbeschluss, Bekanntmachung, Tagesordnung und Nachweisregime vollständig und rechtzeitig.
-3. Welche Aktionärsfrage, Verweigerung, Ordnungsmaßnahme oder technische Störung kann einen Beschlussmangel tragen.
-4. Engpass dieses Gebiets zuerst sichern: Einberufungs-, Nachweis-, Ergänzungs-, Gegenantrags-, Anfechtungs- oder Freigabefrist ist nicht kalendarisch gesichert.
-5. Beweislage ordnen: Die Gesellschaft belegt Einberufung, Bekanntmachung, Anmeldung, Teilnahmeprüfung, Auskunft, Abstimmung und Niederschrift..
-6. Erstes Arbeitsprodukt liefern: HV-Fristenblatt: Maßnahme, Norm, Stichtag, Rückrechnung, Verantwortlicher, Nachweis, Freigabe und Eskalation.
+## 2. Fachlicher Direktstart
+
+1. Leitfrage aus Akte und Auftrag festlegen: Welche Gesellschafts-, Börsen- und Versammlungsform bestimmt Satzung, Fristen und Aktionärsrechte.
+2. Kernprüfung in einem Durchgang: Sind Einberufungsbeschluss, Bekanntmachung, Tagesordnung und Nachweisregime vollständig und rechtzeitig; Welche Aktionärsfrage, Verweigerung, Ordnungsmaßnahme oder technische Störung kann einen Beschlussmangel tragen.
+3. Belege und Engpass zusammenführen: Die Gesellschaft belegt Einberufung, Bekanntmachung, Anmeldung, Teilnahmeprüfung, Auskunft, Abstimmung und Niederschrift; besonders kritisch ist: Einberufungs-, Nachweis-, Ergänzungs-, Gegenantrags-, Anfechtungs- oder Freigabefrist ist nicht kalendarisch gesichert.
+4. Erstes Arbeitsprodukt liefern: HV-Fristenblatt: Maßnahme, Norm, Stichtag, Rückrechnung, Verantwortlicher, Nachweis, Freigabe und Eskalation.
 
 ## 3. Kernroute
 
@@ -40,7 +43,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Gesellschaft und Versammlungsart | AG-Typ, Börsennotierung, SE-Bezug, Satzung, Organbeschluss, Präsenz-, Hybrid- oder virtuelle Form und zuständige Stellen feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Einberufung und Tagesordnung | Fristenkette, Bekanntmachung, Nachweisstichtag, Ergänzungsverlangen, Gegenanträge, Wahlvorschläge und Beschlussvorschläge kalendergenau sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Teilnahme und Durchführung | Anmeldung, Legitimation, Teilnehmerverzeichnis, Versammlungsleitung, Rede- und Frageordnung, Auskunft, Widerspruch und technische Ausfallvorsorge organisieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschluss und Dokumentation | Mehrheit, Stimmverbote, Abstimmungsfeststellung, notarielle Niederschrift, Registeranmeldung, Veröffentlichung und Beweisakte verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -53,14 +55,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Einberufungsunterlage, HV-Fristenblatt, Q&A-Katalog, Beschluss, Niederschrift, Anfechtungsprüfung, Freigabe oder Registervollzug.
-7.2. Normsatz: Den tragenden Anker AktG Paragraf 118 und Paragraf 118a; AktG Paragraf 121 bis Paragraf 125 auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Gesellschaft und Versammlungsart konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Die Gesellschaft belegt Einberufung, Bekanntmachung, Anmeldung, Teilnahmeprüfung, Auskunft, Abstimmung und Niederschrift; der Anfechtungskläger bezeichnet Verstoß, Anfechtungsbefugnis, Widerspruch und Klagefrist; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei einberufungsbeschluss, bekanntmachung, tagesordnung und nachweisregime vollständig und rechtzeitig an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Einberufungsunterlage, HV-Fristenblatt, Q&A-Katalog, Beschluss, Niederschrift, Anfechtungsprüfung, Freigabe oder Registervollzug ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein HV-Fristenblatt: Maßnahme, Norm, Stichtag, Rückrechnung, Verantwortlicher, Nachweis, Freigabe und Eskalation; Q&A-Blatt: Frage, Tagesordnungspunkt, Erforderlichkeit, Tatsachenquelle, Antwort, Verweigerungsgrund, Nachfassfrage und Protokollvermerk. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: Einberufungsunterlage, HV-Fristenblatt, Q&A-Katalog, Beschluss, Niederschrift, Anfechtungsprüfung, Freigabe oder Registervollzug.
+7.2. Regelungsanker: AktG Paragraf 118 und Paragraf 118a; AktG Paragraf 121 bis Paragraf 125 mit Risikozuweisung und Vollzug verbinden.
+7.3. Aktenfund: Für „Gesellschaft und Versammlungsart“ Tatsache, Datum und Fundstelle nennen.
+7.4. Beweis: Die Gesellschaft belegt Einberufung, Bekanntmachung, Anmeldung, Teilnahmeprüfung, Auskunft, Abstimmung und Niederschrift. Offene Folgen aussprechen.
+7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Einberufungsbeschluss, Bekanntmachung, Tagesordnung und Nachweisregime vollständig und rechtzeitig.
+7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
+7.7. Ausgang: Das Arbeitsprodukt „HV-Fristenblatt“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn einberufungs-, nachweis-, ergänzungs-, gegenantrags-, anfechtungs
+Nur bei diesem Stop-Punkt unterbrechen: Einberufungs-, Nachweis-, Ergänzungs-, Gegenantrags-, Anfechtungs- oder Freigabefrist ist nicht kalendarisch gesichert. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.

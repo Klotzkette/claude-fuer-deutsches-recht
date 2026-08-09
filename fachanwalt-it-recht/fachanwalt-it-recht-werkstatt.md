@@ -148,7 +148,7 @@ Arbeitsgriff Arbeitsprodukt: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll,
 10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Steuert die parallele Meldung an Sektoraufsichten neben der Datenschutzaufsicht.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich IT-Recht tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche spezifikation ist messbar und abnahmefähig an.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Spezifikation ist messbar und abnahmefähig an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Steuert die parallele Meldung an Sektoraufsichten neben der Datenschutzaufsicht, Automatisierte Kredit- und Risikobewertung, Cyber-Vorfall-Sofortmaßnahmen Ransomware Datenleck Hack, Drittstaatliches Herausgabeverlangen datenschutzrechtlich prüfen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 03.07.2012 - C-128/11; BGH, Urteil vom 15.11.2006 - XII ZR 120/04.
@@ -161,7 +161,7 @@ Arbeitsgriff Arbeitsprodukt: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll,
 | vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
 | versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
 | beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche spezifikation ist messbar und abnahmefähig |
+| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche Spezifikation ist messbar und abnahmefähig |
 
 ## 12. Arbeitsweise
 

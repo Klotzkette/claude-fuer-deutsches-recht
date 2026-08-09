@@ -144,7 +144,7 @@ Arbeitsgriff Arbeitsprodukt: Launch-Matrix, Rückrufmemo, Haftungsanalyse, Behö
 10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Beweislast und Offenlegung in der Robotik-Produkthaftung.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Produktrecht und Produkthaftung tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche sicherheitserwartung war im zeitpunkt des inverkehrbringens berechtigt an.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Sicherheitserwartung war im Zeitpunkt des Inverkehrbringens berechtigt an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Beweislast und Offenlegung in der Robotik-Produkthaftung, Datenqualität und Bias in der Human-Robot Interaction (HRI), Betreiber-Mitverschulden und Fehlbedienung, Data Act bei vernetzten Robotern: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 16.06.2009 - VI ZR 107/08; BGH, Urteil vom 05.02.2013 - VI ZR 1/12.
@@ -157,7 +157,7 @@ Arbeitsgriff Arbeitsprodukt: Launch-Matrix, Rückrufmemo, Haftungsanalyse, Behö
 | vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
 | versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
 | beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche sicherheitserwartung war im zeitpunkt des inverkehrbringens berechtigt |
+| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche Sicherheitserwartung war im Zeitpunkt des Inverkehrbringens berechtigt |
 
 ## 12. Arbeitsweise
 

@@ -2,20 +2,23 @@
 
 Wenn du das hier öffnest, willst du eine Bahnreise anhand von Durchgangsfahrkarte, Anschlussverlust und tatsächlicher Ankunft sofort abrechnen und durchsetzen.
 
-Ziel: Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspätung/Ausfall einordnen, Entschädigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum AG. Katalog DB-Ablehnungsgründe. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Kernauftrag: Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspätung/Ausfall einordnen, Entschädigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum AG. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Schnellmodus
+## 1. Sofortstart nach Eingangslage
 
-Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
+- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Reisevertrag beginnen und das Arbeitsprodukt „Reisekette“ liefern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Reisekette“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
+- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Reisevertrag, Störung, Wahlrecht routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
+- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
 
-## 2. Direktstart
+Ohne verwertbares Material genau eine gebündelte Frage zu Reisevertrag, Störung, Wahlrecht und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
 
-1. Liegt eine Durchgangsfahrkarte oder ein einheitlicher Erwerbsvorgang vor.
-2. Welche Verspätung war zu erwarten und wann wurde das Endziel tatsächlich erreicht.
-3. Welches Wahlrecht wurde angeboten, gewählt oder nach Fristablauf selbst ausgeübt.
-4. Engpass dieses Gebiets zuerst sichern: Ticket, Kaufvorgang, Reiseplan oder tatsächliche Ankunftszeit am Ziel fehlt.
-5. Beweislage ordnen: Nachweisachse Einwendungen: Vorabinformation, alternative Weiterreise und Ausnahmen nach Artikel 19 Absatz 10 beweisbezogen prüfen.
-6. Erstes Arbeitsprodukt liefern: Reisekette: Ticket, Segment, Plan, Ist, Anschluss, Information, Alternative, Ankunft und Beleg.
+## 2. Fachlicher Direktstart
+
+1. Leitfrage aus Akte und Auftrag festlegen: Liegt eine Durchgangsfahrkarte oder ein einheitlicher Erwerbsvorgang vor.
+2. Kernprüfung in einem Durchgang: Welche Verspätung war zu erwarten und wann wurde das Endziel tatsächlich erreicht; Welches Wahlrecht wurde angeboten, gewählt oder nach Fristablauf selbst ausgeübt.
+3. Belege und Engpass zusammenführen: Nachweisachse Einwendungen: Vorabinformation, alternative Weiterreise und Ausnahmen nach Artikel 19 Absatz 10 beweisbezogen prüfen; besonders kritisch ist: Ticket, Kaufvorgang, Reiseplan oder tatsächliche Ankunftszeit am Ziel fehlt.
+4. Erstes Arbeitsprodukt liefern: Reisekette: Ticket, Segment, Plan, Ist, Anschluss, Information, Alternative, Ankunft und Beleg.
 
 ## 3. Kernroute
 
@@ -24,7 +27,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Wahlrecht: Erstattung, Rückfahrt, früheste Weiterreise, spätere Weiterreise oder Selbstabhilfe nach Artikel 18 trennen.
 4. Geldanspruch: Entschädigung, Zeitfahrkarte, Mindestbetrag, Betreuungskosten und sonstigen Schaden ohne Doppelansatz berechnen.
 5. Einwendungen: Vorabinformation, alternative Weiterreise und Ausnahmen nach Artikel 19 Absatz 10 beweisbezogen prüfen.
-6. Arbeitsprodukt: Fahrgastrechteformular, Forderung, Widerspruch, Schlichtungsantrag, Belegmatrix oder Zahlungsklage erstellen.
 
 ## 4. Fallkarte
 
@@ -45,7 +47,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Störung | Ausfall, erwartete und tatsächliche Verspätung, Anschlussverlust, Information und Ersatzangebot kalendarisch. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Wahlrecht | Erstattung, Rückfahrt, früheste Weiterreise, spätere Weiterreise oder Selbstabhilfe nach Artikel 18 trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Geldanspruch | Entschädigung, Zeitfahrkarte, Mindestbetrag, Betreuungskosten und sonstigen Schaden ohne Doppelansatz berechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Einwendungen | Vorabinformation, alternative Weiterreise und Ausnahmen nach Artikel 19 Absatz 10 beweisbezogen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Fahrgastrechteformular, Forderung, Widerspruch, Schlichtungsantrag, Belegmatrix oder Zahlungsklage erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -59,14 +62,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Fahrgastrechteformular, Forderung, Widerspruch, Schlichtungsantrag, Belegmatrix oder Zahlungsklage erstellen.
-7.2. Normsatz: Den tragenden Anker VO (EU) 2021/782 Artikel 12; VO (EU) 2021/782 Artikel 17 und Artikel 18 auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Reisevertrag konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Nachweisachse Einwendungen: Vorabinformation, alternative Weiterreise und Ausnahmen nach Artikel 19 Absatz 10 beweisbezogen prüfen; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche verspätung war zu erwarten und wann wurde das endziel tatsächlich erreicht an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Fahrgastrechteformular, Forderung, Widerspruch, Schlichtungsantrag, Belegmatrix oder Zahlungsklage erstellen ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Reisekette: Ticket, Segment, Plan, Ist, Anschluss, Information, Alternative, Ankunft und Beleg; Anspruchsrechnung: Fahrpreis, Verspätungsstufe, Prozentsatz, Entschädigung, Betreuung, Selbstabhilfe und bereits erhaltene Leistung. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Fahrgastrechteformular, Forderung, Widerspruch, Schlichtungsantrag, Belegmatrix oder Zahlungsklage erstellen.
+7.2. Norm: VO (EU) 2021/782 Artikel 12; VO (EU) 2021/782 Artikel 17 und Artikel 18 mit dem entscheidenden Merkmal verbinden.
+7.3. Aktenfund: Für „Reisevertrag“ Tatsache, Datum und Fundstelle nennen.
+7.4. Beweis: Nachweisachse Einwendungen: Vorabinformation, alternative Weiterreise und Ausnahmen nach Artikel 19 Absatz 10 beweisbezogen prüfen. Offene Folgen aussprechen.
+7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Verspätung war zu erwarten und wann wurde das Endziel tatsächlich erreicht.
+7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+7.7. Ausgang: Das Arbeitsprodukt „Reisekette“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn ticket, kaufvorgang, reiseplan oder tatsächliche ankunftszeit am ziel fehlt. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Nur bei diesem Stop-Punkt unterbrechen: Ticket, Kaufvorgang, Reiseplan oder tatsächliche Ankunftszeit am Ziel fehlt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.

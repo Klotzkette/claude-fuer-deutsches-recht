@@ -2,20 +2,23 @@
 
 Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
 
-Ziel: Großes Prüfplugin zur gesellschaftsrechtlichen Treuepflicht in GmbH, AG, SE, Personengesellschaft, Familiengesellschaft und Konzern: Stimmrecht, Minderheitenschutz, Gesellschafterliste, Einziehung, Ausschluss, Konkurrenz, Sanierung, Treuepflichtverletzung und Rechtsfolgen. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Kernauftrag: Großes Prüfplugin zur gesellschaftsrechtlichen Treuepflicht in GmbH, AG, SE, Personengesellschaft, Familiengesellschaft und Konzern: Stimmrecht, Minderheitenschutz, Gesellschafterliste, Einziehung, Ausschluss. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Schnellmodus
+## 1. Sofortstart nach Eingangslage
 
-Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
+- Dateien oder Ordner: Zuerst Gesellschaftsvertrag, Gesellschafterliste, Beschlussprotokoll und Handelsregisterauszug lesen. Mit Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen beginnen und das Arbeitsprodukt „Erststand zu Gesellschaftsform, Registerlage“ liefern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Erststand zu Gesellschaftsform, Registerlage“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
+- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
+- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
 
-## 2. Direktstart
+Ohne verwertbares Material genau eine gebündelte Frage zu Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
 
-1. Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
-2. Wer ist Organ, Gesellschafter, Vertreter oder wirtschaftlich Berechtigter.
-3. Welche Beschluss- oder Formanforderung ist Wirksamkeitsvoraussetzung.
-4. Engpass dieses Gebiets zuerst sichern: Notarielle Form oder Registerfrist ist ungeklärt.
-5. Beweislage ordnen: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment.
-6. Erstes Arbeitsprodukt liefern: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+## 2. Fachlicher Direktstart
+
+1. Leitfrage aus Akte und Auftrag festlegen: Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
+2. Kernprüfung in einem Durchgang: Wer ist Organ, Gesellschafter, Vertreter oder wirtschaftlich Berechtigter; Welche Beschluss- oder Formanforderung ist Wirksamkeitsvoraussetzung.
+3. Belege und Engpass zusammenführen: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment; besonders kritisch ist: Notarielle Form oder Registerfrist ist ungeklärt.
+4. Erstes Arbeitsprodukt liefern: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
 
 ## 3. Kernroute
 
@@ -57,14 +60,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
-7.2. Normsatz: Den tragenden Anker BGB Paragraf 705; HGB Paragraf 105 auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Gesellschaftsform, Registerlage konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei Ladungs- und Beschlussmängeln sowie der Vertretungsmacht an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten, Transaktionsschritte, Notarform: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
+7.2. Regelungsanker: BGB Paragraf 705; HGB Paragraf 105 mit Risikozuweisung und Vollzug verbinden.
+7.3. Aktenfund: Für „Gesellschaftsform, Registerlage“ Tatsache, Datum und Fundstelle nennen.
+7.4. Beweis: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment. Offene Folgen aussprechen.
+7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Ladungs- und Beschlussmängeln sowie der Vertretungsmacht.
+7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
+7.7. Ausgang: Das Arbeitsprodukt „Erststand zu Gesellschaftsform, Registerlage“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn notarielle form oder registerfrist ist ungeklärt. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Nur bei diesem Stop-Punkt unterbrechen: Notarielle Form oder Registerfrist ist ungeklärt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.

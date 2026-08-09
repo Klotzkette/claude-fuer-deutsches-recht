@@ -43,6 +43,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
             "ArbZG, BUrlG und EntgFG: Arbeitszeit, Erholungsurlaub und Entgeltfortzahlung im laufenden Arbeitsverhältnis.",
         ),
         entscheidungen=(
+            "BAG, Urteil vom 30.01.2025 - 2 AZR 68/24: Der Arbeitgeber trägt die Darlegungs- und Beweislast für den Zugang seines Kündigungsschreibens; Einlieferungsbeleg und Sendungsverlauf des Einwurf-Einschreibens begründen für sich allein keinen Anscheinsbeweis.",
             "BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14: Vorbeschaeftigungsverbot des TzBfG bleibt verfassungskonform, verlangt aber verfassungskonforme Begrenzung in atypischen Faellen.",
             "BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84: allgemeiner Weiterbeschäftigungsanspruch nach obsiegendem erstinstanzlichem Kündigungsschutzurteil.",
             "BAG, Urteil vom 24.08.2023 - 2 AZR 17/23: Bei beleidigenden Äußerungen in einer Chatgruppe hängt die Vertraulichkeitserwartung von Größe, Zusammensetzung, Beteiligung und Medium ab; der Arbeitnehmer muss ihre Berechtigung darlegen.",

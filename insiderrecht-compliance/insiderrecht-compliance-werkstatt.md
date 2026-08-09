@@ -132,7 +132,7 @@ Arbeitsgriff Arbeitsprodukt: Insidervermerk, Aufschubentscheidung, Ad-hoc-Mittei
 10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Familienangehörige und nahestehende Personen – Insiderrecht.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Insiderrecht und Kapitalmarkt-Compliance tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Nachweisachse Kontrollen: Insiderliste, Handelsverbotszeitraum, Freigabe, Eigengeschäftsmeldung, Datenzugriff und Eskalation dokumentieren. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei warum wäre sie für einen verständigen anleger erheblich oder nicht erheblich an.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei warum wäre sie für einen verständigen Anleger erheblich oder nicht erheblich an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Insidervermerk, Aufschubentscheidung, Ad-hoc-Mitteilung, Marktsondierungsakte, Meldung oder Behördenantwort erstellen; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Familienangehörige und nahestehende Personen – Insiderrecht, Externe Berater – Kanzleien, Wirtschaftsprüfer, Banken, Ad-hoc-Publizität nach Art. 17 MAR, Aktienrückkaufprogramme – MAR Safe Harbour und Compliance: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
@@ -145,7 +145,7 @@ Arbeitsgriff Arbeitsprodukt: Insidervermerk, Aufschubentscheidung, Ad-hoc-Mittei
 | vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
 | versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
 | beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Insidervermerk, Aufschubentscheidung, Ad-hoc-Mitteilung, Marktsondierungsakte, Meldung oder Behördenantwort. |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei warum wäre sie für einen verständigen anleger erheblich oder nicht erheblich |
+| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei warum wäre sie für einen verständigen Anleger erheblich oder nicht erheblich |
 
 ## 12. Arbeitsweise
 

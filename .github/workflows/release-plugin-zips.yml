@@ -94,6 +94,7 @@ jobs:
           python3 scripts/generate-werkstatt-und-schnellstart-coverage.py
           python3 scripts/audit-generated-prompt-hygiene.py
           python3 scripts/audit-prompt-profile-routing.py
+          python3 scripts/audit-quickstart-usability.py
           python3 scripts/validate-current-law-sentinels.py
           python3 scripts/test-legal-calculators.py
           python3 scripts/test-bea-versandmappe.py

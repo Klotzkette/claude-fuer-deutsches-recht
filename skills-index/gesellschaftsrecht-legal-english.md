@@ -1,6 +1,6 @@
 # gesellschaftsrecht-legal-english
 
-**54 Skills** · Stand `v438.0.0`
+**54 Skills** · Stand `v439.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gesellschaftsrecht-legal-english/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

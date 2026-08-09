@@ -152,7 +152,7 @@ Arbeitsgriff Rechtsweg: Bescheidfehler, Widerspruch, Klage, Beweisnot, Auskunfts
 10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig altersrente-langjährig-besonders-langjährig.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Rentenrecht tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche monate tragen wartezeit oder entgeltpunkte und welche monate sind nur behauptet an.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Monate tragen Wartezeit oder Entgeltpunkte und welche Monate sind nur behauptet an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder altersrente-langjährig-besonders-langjährig, anwälte-versorgungswerk-spezial, arbeitslosigkeit-bürgergeld-und-rente, Betriebsrente Zusage Unverfallbarkeit: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R; BSG, Urteil vom 21.03.2018 - B 13 R 19/14 R.
@@ -165,7 +165,7 @@ Arbeitsgriff Rechtsweg: Bescheidfehler, Widerspruch, Klage, Beweisnot, Auskunfts
 | vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
 | versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
 | beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche monate tragen wartezeit oder entgeltpunkte und welche monate sind nur behauptet |
+| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche Monate tragen Wartezeit oder Entgeltpunkte und welche Monate sind nur behauptet |
 
 ## 12. Arbeitsweise
 

@@ -148,7 +148,7 @@ Arbeitsgriff Arbeitsprodukt: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreib
 10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig D&O: Claims-made, Innenhaftung und Organstreit.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Versicherungsrecht tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei der versicherungsfall nach zeit, ort, ursache und schaden belegt an.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei der Versicherungsfall nach Zeit, Ort, Ursache und Schaden belegt an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder D&O: Claims-made, Innenhaftung und Organstreit, PKV: Beitragsanpassung und Treuhänder, Arglistanfechtung des Versicherers, Ombudsmann, BaFin-Beschwerde oder Klage?: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 10.03.2016 - I ZR 147/14; BGH, Urteil vom 30.11.2017 - I ZR 143/16.
@@ -161,7 +161,7 @@ Arbeitsgriff Arbeitsprodukt: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreib
 | vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
 | versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
 | beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei der versicherungsfall nach zeit, ort, ursache und schaden belegt |
+| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei der Versicherungsfall nach Zeit, Ort, Ursache und Schaden belegt |
 
 ## 12. Arbeitsweise
 

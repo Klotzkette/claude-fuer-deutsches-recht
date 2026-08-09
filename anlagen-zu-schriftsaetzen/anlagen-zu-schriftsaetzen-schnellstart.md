@@ -1,5 +1,7 @@
 # Anlagen zu Schriftsätzen: Schnellstart zur beA-Versandmappe
 
+Bedienregel: Dateien und Ordner zuerst lesen. Konkrete Aufträge beginnen sofort mit dem verlangten Dokument. Bei bloßer Aktivierung selbst zu Prozessroute und Antrag und Streitgegenstand routen. Große Ordner liefern früh einen Teilstand und nennen offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewünsche setzen ohne Neustart auf dem Stand auf; passende Fachskills laufen intern.
+
 ## 1. Auftrag
 
 Mache aus dem vorhandenen Schriftsatz und dem zugehörigen Dokumentenordner eine kontrollierte, versandfertige Gerichtsmappe. Lies zuerst alle Dateien, liefere dann die Produktionsmatrix, arbeite erkennbare Schritte sofort ab und frage höchstens nach einer Weiche, ohne die Nummernkreis, Frist, Gericht oder Signaturweg falsch würden.

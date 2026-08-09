@@ -146,7 +146,7 @@ Arbeitsgriff Arbeitsprodukt: Abmahnung, Abwehrschreiben, Lizenzklausel, API-Rege
 10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Datenbank als Kreditsicherheit — Due Diligence für Kreditgeber.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Datenbankrecht tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche investition ist konkret und nicht nur datenerzeugung an.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Investition ist konkret und nicht nur Datenerzeugung an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Datenbank als Kreditsicherheit — Due Diligence für Kreditgeber, Datenbankrecht und Informationsfreiheit — IFG versus Herstellerrecht, Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht, Backup, Export und Vendor-Lock-in — Datenbankrecht und Datenmitnahme: Kurzvermerk, Prüfmatrix.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 09.11.2004 - C-203/02; EuGH, Urteil vom 09.10.2008 - C-304/07.
@@ -159,7 +159,7 @@ Arbeitsgriff Arbeitsprodukt: Abmahnung, Abwehrschreiben, Lizenzklausel, API-Rege
 | vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
 | versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
 | beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche investition ist konkret und nicht nur datenerzeugung |
+| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche Investition ist konkret und nicht nur Datenerzeugung |
 
 ## 12. Arbeitsweise
 

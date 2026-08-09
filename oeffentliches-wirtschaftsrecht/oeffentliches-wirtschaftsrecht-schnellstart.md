@@ -2,20 +2,23 @@
 
 Wenn du das hier öffnest, willst du eine Erlaubnis, Untersagung, Aufsichtsmaßnahme, Zuverlässigkeitsfrage oder wirtschaftsbezogene Behördenakte vom Geschäftsmodell bis zum versandfertigen Antrag oder Rechtsbehelf bearbeiten.
 
-Ziel: Öffentliches-Wirtschaftsrecht-Plugin für Scheinprivatisierung, ÖPP, Projektfinanzierung, kommunale Unternehmen, Beihilfen, Vergabe und Regulierung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Kernauftrag: Öffentliches-Wirtschaftsrecht-Plugin für Scheinprivatisierung, ÖPP, Projektfinanzierung, kommunale Unternehmen, Beihilfen, Vergabe und Regulierung. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Schnellmodus
+## 1. Sofortstart nach Eingangslage
 
-Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
+- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Geschäftsmodell beginnen und das Arbeitsprodukt „Erlaubnismatrix“ liefern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Erlaubnismatrix“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
+- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Geschäftsmodell, Verwaltungszugang, Zuverlässigkeit und Eignung routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
+- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
 
-## 2. Direktstart
+Ohne verwertbares Material genau eine gebündelte Frage zu Geschäftsmodell, Verwaltungszugang, Zuverlässigkeit und Eignung und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
 
-1. Welche tatsächliche Tätigkeit übt welcher Rechtsträger an welchem Ort aus.
-2. Ist Anzeige, Erlaubnis, Registereintragung oder keine Vorabkontrolle erforderlich.
-3. Welche konkrete Tatsache trägt die negative Prognose und welchem Verantwortlichen ist sie zuzuordnen.
-4. Engpass dieses Gebiets zuerst sichern: Betriebsschließung, Sofortvollzug oder Zwangsgeld steht unmittelbar bevor.
-5. Beweislage ordnen: Nachweisachse Zuverlässigkeit und Eignung: Tatsachen, Zeitraum, Verantwortungsbereich, Abgaben, Straftaten, Abhilfe, Personal und Zukunftsprognose belegen.
-6. Erstes Arbeitsprodukt liefern: Erlaubnismatrix: Tätigkeit, Norm, Behörde, Voraussetzung, Nachweis, Verantwortlicher, Frist, Nebenbestimmung und Status.
+## 2. Fachlicher Direktstart
+
+1. Leitfrage aus Akte und Auftrag festlegen: Welche tatsächliche Tätigkeit übt welcher Rechtsträger an welchem Ort aus.
+2. Kernprüfung in einem Durchgang: Ist Anzeige, Erlaubnis, Registereintragung oder keine Vorabkontrolle erforderlich; Welche konkrete Tatsache trägt die negative Prognose und welchem Verantwortlichen ist sie zuzuordnen.
+3. Belege und Engpass zusammenführen: Nachweisachse Zuverlässigkeit und Eignung: Tatsachen, Zeitraum, Verantwortungsbereich, Abgaben, Straftaten, Abhilfe, Personal und Zukunftsprognose belegen; besonders kritisch ist: Betriebsschließung, Sofortvollzug oder Zwangsgeld steht unmittelbar bevor.
+4. Erstes Arbeitsprodukt liefern: Erlaubnismatrix: Tätigkeit, Norm, Behörde, Voraussetzung, Nachweis, Verantwortlicher, Frist, Nebenbestimmung und Status.
 
 ## 3. Kernroute
 
@@ -24,7 +27,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Zuverlässigkeit und Eignung: Tatsachen, Zeitraum, Verantwortungsbereich, Abgaben, Straftaten, Abhilfe, Personal und Zukunftsprognose belegen.
 4. Verfahrensrechte: Akteneinsicht, Anhörung, Geheimnisschutz, Nebenbestimmung, Sofortvollzug, Zwangsgeld und Fristverlängerung sichern.
 5. Unions- und Förderdimension: Marktzugang, Gleichbehandlung, Dienstleistungsfreiheit, Beihilfe und Rückforderung nur bei konkretem Bezug prüfen.
-6. Arbeitsprodukt: Erlaubnisantrag, Nachweisplan, Anhörungsantwort, Abhilfekonzept, Widerspruch, Eilantrag oder Behördenvergleich erstellen.
 
 ## 4. Fallkarte
 
@@ -32,7 +34,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | GewO Paragraf 14 und Paragraf 35; GewO und gewerbespezifische Erlaubnistatbestände; HwO |
 | Rechtsprechung | BVerwG, Beschluss vom 15.09.2023 - 8 B 6.23 |
-
+| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Beweislast | Nachweisachse Zuverlässigkeit und Eignung: Tatsachen, Zeitraum, Verantwortungsbereich, Abgaben, Straftaten, Abhilfe, Personal und Zukunftsprognose belegen |
+| Rechtsfolge | Erlaubnisantrag, Nachweisplan, Anhörungsantwort, Abhilfekonzept, Widerspruch, Eilantrag oder Behördenvergleich erstellen |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
@@ -42,6 +47,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Verwaltungszugang | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Zuverlässigkeit und Eignung | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Verfahrensrechte | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Unions- und Förderdimension | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -53,14 +60,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Erlaubnisantrag, Nachweisplan, Anhörungsantwort, Abhilfekonzept, Widerspruch, Eilantrag oder Behördenvergleich erstellen.
-7.2. Normsatz: Den tragenden Anker GewO Paragraf 14 und Paragraf 35; GewO und gewerbespezifische Erlaubnistatbestände auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Geschäftsmodell konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Nachweisachse Zuverlässigkeit und Eignung: Tatsachen, Zeitraum, Verantwortungsbereich, Abgaben, Straftaten, Abhilfe, Personal und Zukunftsprognose belegen; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei anzeige, erlaubnis, registereintragung oder keine vorabkontrolle erforderlich an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Erlaubnisantrag, Nachweisplan, Anhörungsantwort, Abhilfekonzept, Widerspruch, Eilantrag oder Behördenvergleich erstellen ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Erlaubnismatrix: Tätigkeit, Norm, Behörde, Voraussetzung, Nachweis, Verantwortlicher, Frist, Nebenbestimmung und Status; Anhörungsantwort: Vorwurf, Aktenfund, unstreitige Tatsache, Korrektur, Prognose, Abhilfe, Beleg, Antrag und Gesprächsangebot. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Erlaubnisantrag, Nachweisplan, Anhörungsantwort, Abhilfekonzept, Widerspruch, Eilantrag oder Behördenvergleich erstellen.
+7.2. Norm: GewO Paragraf 14 und Paragraf 35; GewO und gewerbespezifische Erlaubnistatbestände mit dem entscheidenden Merkmal verbinden.
+7.3. Aktenfund: Für „Geschäftsmodell“ Tatsache, Datum und Fundstelle nennen.
+7.4. Beweis: Nachweisachse Zuverlässigkeit und Eignung: Tatsachen, Zeitraum, Verantwortungsbereich, Abgaben, Straftaten, Abhilfe, Personal und Zukunftsprognose belegen. Offene Folgen aussprechen.
+7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Anzeige, Erlaubnis, Registereintragung oder keine Vorabkontrolle erforderlich.
+7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+7.7. Ausgang: Das Arbeitsprodukt „Erlaubnismatrix“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn betriebsschließung, sofortvollzug oder zwangsgeld steht unmittelbar bevor. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Nur bei diesem Stop-Punkt unterbrechen: Betriebsschließung, Sofortvollzug oder Zwangsgeld steht unmittelbar bevor. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
