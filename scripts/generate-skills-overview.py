@@ -16,8 +16,12 @@ import sys
 import json
 from pathlib import Path
 
+from readme_display import display_prose
+
 BEGIN = "<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->"
 END = "<!-- END SKILLS-OVERVIEW (auto-generated) -->"
+REPO = Path(__file__).resolve().parent.parent
+RAW_BASE = "https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main"
 
 
 def clean_description(desc: str) -> str:
@@ -65,7 +69,7 @@ def read_description(skill_md: Path) -> str:
     if desc.startswith('"') and desc.endswith('"'):
         desc = desc[1:-1]
     # Pipes für Tabelle escapen, Zeilenumbrüche in Spaces
-    desc = clean_description(desc.replace("\n", " ").strip())
+    desc = display_prose(clean_description(desc.replace("\n", " ").strip()))
     desc = desc.replace("|", "\\|").strip()
     # Lange Beschreibungen abkürzen
     if len(desc) > 240:
@@ -102,14 +106,20 @@ def build_overview(plugin_dir: Path) -> str:
         "## Alle Skills im Überblick",
         "",
         f"Automatisch generierte Komplett-Liste aller {len(skills)} Skills in diesem Plugin. "
-        "Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.",
+        "Jeder Skillname öffnet die zugehörige `SKILL.md`; der Direktdownload lädt dieselbe Datei als Markdown. "
+        "Beschreibungen stammen aus dem jeweiligen `description`-Feld.",
         "",
-        "| Skill | Beschreibung |",
-        "| --- | --- |",
+        "| Skill | Beschreibung | Markdown-Download |",
+        "| --- | --- | --- |",
     ]
+    plugin_rel = plugin_dir.relative_to(REPO).as_posix()
     for s in skills:
         desc = read_description(skills_dir / s / "SKILL.md")
-        lines.append(f"| [`{s}`](skills/{s}/SKILL.md) | {desc} |")
+        raw_url = f"{RAW_BASE}/{plugin_rel}/skills/{s}/SKILL.md"
+        lines.append(
+            f"| [`{s}`](skills/{s}/SKILL.md) | {desc} | "
+            f'<a href="{raw_url}" download><code>SKILL.md</code></a> |'
+        )
     lines.append("")
     lines.append(END)
     return "\n".join(lines)
@@ -140,7 +150,7 @@ def update_readme(readme: Path, overview: str) -> bool:
 
 
 def main() -> int:
-    repo = Path(__file__).resolve().parent.parent
+    repo = REPO
     marketplace = json.loads((repo / ".claude-plugin" / "marketplace.json").read_text(encoding="utf-8"))
     changed = 0
     total = 0

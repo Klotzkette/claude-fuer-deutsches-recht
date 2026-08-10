@@ -14,12 +14,13 @@ Ziel ist es, zu zeigen, wie sich Plugins und Skills für Arbeitsrecht, Gesellsch
 
 | Gesucht | Direkter Weg |
 | --- | --- |
-| Ein passendes Plugin | [Plugin-Katalog](#was-ist-drin) · [Rechtsgebietsübersicht](./references/rechtsgebiete-uebersicht.md) |
-| Ein bestimmter Skill | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
-| Werkstatt oder Schnellstart | [Download-Index](./ASSET_INDEX.md) · [kuratierte Promptliste](./PROMPTLISTE.md) |
-| Testakten und Beispieldokumente | [Testakten-Übersicht](./testakten/README.md) · [Qualitätsstandard](./testakten/QUALITAETSSTANDARD.md) |
+| Alle Plugins von A bis Z | [Plugin-Katalog](#was-ist-drin) · [Download-Index mit Einzel-ZIPs](./ASSET_INDEX.md) · [Rechtsgebietsübersicht](./references/rechtsgebiete-uebersicht.md) |
+| Alle Skills, nach Plugin und Name sortiert | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
+| Alle ausführlichen Werkstatt-Prompts | [Werkstatt-Liste mit Markdown-Direktdownloads](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) · [kuratierte Promptliste](./PROMPTLISTE.md) |
+| Alle kompakten Schnellstart-Prompts | [Schnellstart-Liste mit Markdown-Direktdownloads](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
+| Alle Testakten von A bis Z | [Testakten-Übersicht mit drei Downloadformaten](./testakten/README.md) · [Qualitätsstandard](./testakten/QUALITAETSSTANDARD.md) |
 | Installation und Fehlersuche | [Schnellstart](#schnellstart) · [einfache Installationshilfe](./INSTALLATION_EINFACH.md) · [Kurzanleitung](./QUICKSTART.md) |
-| Sämtliche Release-Dateien | [aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) · [vollständiger Asset-Index](./ASSET_INDEX.md) |
+| Sämtliche Release-Dateien und Prüfsummen | [aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) · [vollständiger Asset-Index](./ASSET_INDEX.md) |
 
 ### Bitte mit-testen und Feedback geben
 
@@ -29,11 +30,11 @@ Die Skills sind inzwischen deutlich verbessert und in verschiedenen Konstellatio
 - Gebt **Rückmeldungen**, eröffnet **Issues**, formuliert Verbesserungsvorschläge und schickt gerne **Pull Requests** mit eigenen Anpassungen, zusätzlichen Rechtsgebieten oder Praxis-Workflows.
 - Passt die Beispiele an eure eigene **Zitierweise**, eure verifizierbaren Quellenzugänge und eure internen Vorgaben zu Berufsrecht, Datenschutz, KI-Governance und Mandatsgeheimnis an.
 
-### Haftung, Berufsrecht, Datenschutz & KI-Recht
+### Nutzungshinweis
 
-Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im konkreten Mandat oder Unternehmen – insbesondere nicht zu §§ 203, 204 StGB, § 43e BRAO, § 2 BORA, § 53, § 97, § 160a StPO, DSGVO / BDSG (inkl. Drittlandtransfer), US-Cloud-Act / FISA, der KI-VO (VO (EU) 2024/1689) oder sonstigen berufsrechtlichen, datenschutzrechtlichen und regulatorischen Vorgaben. Ob und wie ihr diese Beispiele produktiv nutzen dürft, müsst ihr **eigenverantwortlich** prüfen und in eure bestehende Governance (Mandatsgeheimnis, AVV, TOMs, KI-Richtlinien, Betriebsvereinbarungen etc.) integrieren.
+Vor einem produktiven Einsatz sind Berufsrecht, Mandatsgeheimnis, Datenschutz, technischer Datenfluss und der fachliche Rechtsstand eigenverantwortlich zu prüfen. Die gebündelten Prüfpunkte stehen unter [Berufsrecht, Datenschutz und technischer Einsatz](#berufsrecht-datenschutz-und-technischer-einsatz).
 
-> 🧪 **Übrigens — es gibt auch sehr schöne Testakten.** Im Verzeichnis [`testakten/`](./testakten) liegen mehrere umfangreiche, anonymisierte Arbeitsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und handschriftlichen Notizen — bewusst unstrukturiert benannt wie ein realer Datenraum, damit sich die Plugins an echten Mandaten ausprobieren lassen. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
+> **Testakten zum Ausprobieren:** Im Verzeichnis [`testakten/`](./testakten) liegen mehrere umfangreiche, anonymisierte Arbeitsakten mit PDFs, Tabellen, Textdokumenten, E-Mails und Bilddateien, bewusst wie ein realer Datenraum zusammengestellt. Details und Direktdownloads stehen in der [Testakten-Übersicht](./testakten/README.md).
 
 ### Klotzkettes Juristische Promptliste
 
@@ -55,7 +56,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Skills (SKILL.md)** | 26461 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 302 zentral / 305 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v439.2.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v439.2.1` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -84,7 +85,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 - **Workflow-Pakete:** Wandeldarlehen-Lebenszyklus (Erstellung, Beurkundung, Wandlung, Cap-Table, Notar), Kündigungsschutzklage Selbsthilfe (Laie/Anwalt, Schriftsätze, Sprechzettel, Vergleich), Entfristungsklage TzBfG (Schriftform, elektronische Signatur), KI-Richtlinie für Kanzleien, Schriftform-/Textform-Organisator, Krisenfrüherkennung StaRUG, Liquiditätsplanung, Fortbestehensprognose.
 - **Querschnitt:** Aktenauszug Gerichtsverfahren, Mandantenanfragen-Assistent, Arbeitszeugnis-Analyse (Ampelsystem), Email-Umformulierer berufsrechtskonform, verifizierbare deutsche Zitierweise, Fachanwaltschafts-Übersicht.
 
-> ⚠️ **Vorsicht: hiermit bitte nicht mogeln im Studium.**
+> **Hinweis für Studium und Ausbildung:**
 > Die Vollrelation, der Urteilsentwurf, der Hausarbeits- und Seminararbeits-Output sowie alle Arbeitsakten sind **Trainings-, Praxis- und Lernwerkzeuge** für Studenten, Referendare, Assessoren, Berufsrichter, Tutoren und Lehrkräfte. Sie sind ausdrücklich **nicht** dafür gedacht, in Hausarbeiten, Seminararbeiten, Klausuren, Aktenvorträgen oder im juristischen Vorbereitungsdienst (Z-, S-, V-, A-Klausur, mündliche Prüfung) als eigene Leistung ausgegeben zu werden. Das wäre ein Täuschungsversuch im Sinne der jeweiligen universitären Prüfungsordnung bzw. § 14 JAG NRW / § 12 JAPO Bayern / vergleichbarer Vorschriften der anderen Länder und kann zum Nichtbestehen, zur Aberkennung der Prüfung oder zu disziplinarrechtlichen Konsequenzen führen. Wer eine Relation, eine Hausarbeit oder ein Urteil üben will: zuerst selbst schreiben, danach mit dem Plugin abgleichen.
 
 Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) und im Abschnitt [Was ist drin?](#was-ist-drin).
@@ -106,7 +107,7 @@ Für den Organisations-Sync verlangt die aktuelle Oberfläche ein privates oder 
 
 Für Folgewünsche gilt: Den bisherigen Aktenstand fortführen, Tatsachen und Quellen nicht erneut abfragen und nur die verlangte Dimension ändern. Ausführlich: [Schnellstart in fünf Minuten](./QUICKSTART.md). ZIP-Probleme und Organisations-Sync: [Installation in einfach](./INSTALLATION_EINFACH.md).
 
-## 🚨 KEINE Aussage über Berufsrecht, Datenschutz, KI-VO oder Beschlagnahmeverbote
+## Berufsrecht, Datenschutz und technischer Einsatz
 
 **Lesen, bevor irgendetwas davon eingesetzt wird.** Dieses Repository ist ausschließlich ein technisches Experiment. Es trifft **keinerlei Aussage** darüber, ob der Einsatz dieser Skills in einer konkreten Praxisumgebung berufs-, datenschutz- oder KI-rechtlich zulässig ist. Alle nachstehenden Fragen muss **jeder Nutzer in eigener Verantwortung** vor der ersten Nutzung prüfen – das Repository, sein Autor und alle Mitwirkenden übernehmen dafür keinerlei Verantwortung oder Haftung:
 
@@ -167,39 +168,15 @@ Die Skills sind strukturierte Markdown-Arbeitsabläufe. Sie können in einer and
 
 Unabhängig von der Oberfläche bleibt die fachliche Verantwortung beim Nutzer. Normstand, Rechtsprechung, Tatsachen, Fristen, Berechnungen und die versandfertige Endfassung sind vor Verwendung zu prüfen.
 
-**Worum es hier geht.** Dieses Repository ist eine **technische Spielwiese**, die zeigt, was mit Claude Code und Plugin-Skills im Kontext deutschen Rechts überhaupt **technisch machbar** ist. Es geht **nicht** darum, eine produktiv einsetzbare, rechtskonforme Lösung anzubieten. Jeder einzelne Nutzer prüft selbst und in eigener Verantwortung, ob, wie und unter welchen Schutzmaßnahmen ein Einsatz im konkreten Mandat oder Berufsumfeld zulässig ist – inklusive Mandatsgeheimnis, Datenschutz, Zeugnisverweigerungsrecht und Beschlagnahmeschutz, unabhängig von der einschlägigen Rechtsordnung.
+## Einordnung und Qualitätsvorbehalt
 
-> ⚠️ **WICHTIGER HINWEIS**
->
-> Diese Skills sind eine **KI-gestützte Übersetzung und Adaption** der ursprünglichen "claude-for-legal"-Skills von Anthropic, angepasst an deutsches Recht.
->
-> - ✅ **Ausprobieren ausdrücklich erwünscht** – aber auf eigene Verantwortung
-> - ⚠️ **Alle Angaben ohne Gewähr** – keine Haftung für Vollständigkeit oder Richtigkeit
-> - 🔍 **Quellen immer prüfen** – LLM-Ausgaben können halluzinieren, insbesondere bei Rechtsprechung
-> - ⚖️ **Ersetzt keine anwaltliche Beratung** – nur Werkzeug für Juristen
-> - 🎓 **Lernkurve einplanen** – erste Schritte können holprig sein
->
-> **Viel Spaß beim Experimentieren!**
+Dieses Repository ist ein technisches Experiment und keine Aussage zur Eignung oder Zulässigkeit in einem konkreten Mandat. Vor jeder Verwendung sind Rechtsstand, Fristen, Tatsachen, Berechnungen und Quellen am Original zu prüfen; die Hinweise zu Berufsrecht, Datenschutz und technischer Einbindung stehen gebündelt in den vorstehenden Abschnitten.
 
-> 💡 **Bitte beachten: Die Skills sind generalisierte Beispiele**
->
-> Die Inhalte sind **bewusst generalisiert** und an das deutsche Recht angepasst, aber sie verstehen sich als **Beispiele und Startpunkte zum Ausprobieren** – nicht als Fachgutachten.
->
-> Es kann gut sein, dass
->
-> - eine Frist nicht (mehr) so stimmt, wie sie hier abgebildet ist,
-> - eine zitierte Vorschrift in der Zwischenzeit geändert wurde,
-> - eine Spezialistin oder ein Spezialist im jeweiligen Rechtsgebiet einzelne Punkte anders bewerten würde,
-> - eine Randnummer, ein Aktenzeichen oder ein Quellenbeleg im Einzelfall unzutreffend ist,
-> - eine Behandlung für eine bestimmte Konstellation zu generisch oder zu kanzleitypisch ist.
->
-> **In diesem Fall bitte nicht auf den Autor "dreinschlagen".** Forken, anpassen, einen Pull Request einreichen oder einen Issue öffnen – das ist ausdrücklich gewollt. Das Repository soll genau so weiterentwickelt werden: durch die Praxis derjenigen, die damit arbeiten.
-
-Diese Sammlung lässt sich u. a. in Claude Code, Claude Desktop und vergleichbaren Skill-fähigen KI-Umgebungen einsetzen. Inspiriert von und adaptiert nach Anthropics offenem Projekt `claude-for-legal`, vollständig auf das deutsche Recht und die Arbeitsweise deutscher Kanzleien zugeschnitten.
+Die Plugins, Skills und Prompts sind Ausgangspunkte für eigene, fachlich kontrollierte Arbeitsabläufe. Fehler, unpassende Fachrouten oder veraltete Bezüge können über [Issues](https://github.com/Klotzkette/claude-fuer-deutsches-recht/issues) gemeldet oder mit einem Pull Request korrigiert werden.
 
 ## Was ist drin?
 
-> 🧭 **Querschnitts-Plugins zum Mitladen:** Drei Plugins liefern die methodische Grundlage, die in den anderen Plugins vorausgesetzt wird. Sie gehören in jede Konfiguration mit hinein, weil sie den deutschen Stil tragen:
+> **Querschnitts-Plugins zum Mitladen:** Drei Plugins liefern die methodische Grundlage, die in den anderen Plugins vorausgesetzt wird. Sie gehören in jede Konfiguration mit hinein, weil sie den deutschen Stil tragen:
 >
 > - [`methodenlehre-buergerliches-recht`](./methodenlehre-buergerliches-recht) — Methodenlehre und Falllösung im deutschen bürgerlichen Recht aus Anwaltsperspektive. Anspruchsaufbau, Auslegung, Abwägung, Präzedenzarbeit, Rechtsfortbildung, Methodenwahl, EU-Methodik und Begründungskontrolle.
 > - [`rechtstheorie-rechtsphilosophie`](./rechtstheorie-rechtsphilosophie) — Rechtsbegriff, Kelsen-orientierte Normgeltung, Kompetenz- und Stufenbauprüfung, Demokratie, Besitzdogmatik, Law-and-Economics, Hayek-Wissensproblem, spontane Ordnung, Machtkritik und anti-dezisionistisches Red-Team gegen Ausnahme-, Souveränitäts- und Freund-Feind-Rhetorik.
@@ -207,35 +184,45 @@ Diese Sammlung lässt sich u. a. in Claude Code, Claude Desktop und vergleichbar
 >
 > Diese Plugins sind in jedem Modus (Claude Code, Cowork, Desktop) einzeln zuschaltbar und greifen quer in alle Rechtsgebiets-Plugins ein. Wer mit dem Marketplace startet, sollte sie zuerst aktivieren — alle anderen Skills referenzieren ihre Regeln (siehe [`references/methodik-buergerliches-recht.md`](./references/methodik-buergerliches-recht.md) und [`references/zitierweise.md`](./references/zitierweise.md)).
 
-> 🧪 **Testakten zum Ausprobieren:** Im Ordner [`testakten/`](./testakten) liegen mehrere umfangreiche, anonymisierte Arbeitsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und Mandantennotizen — bewusst unstrukturiert benannt wie ein realer Datenraum. Eine Akte pro typischem Anwendungsfall: Fluggastrechte (Familie Bräutigam-Zaytuna), Betreuung (Frau Sauer, 87, Demenz; Schmalfeld, Kontodaten und verdächtige Verträge), Einfache/Leichte Sprache, Sozialrecht, Fortbestehensprognose, Grundsteuer-Bescheidkette, Grunderwerbsteuer-Share-Deal-Closing und Kanzlei-Lebenszyklus-Alltag. Jede Akte ist als eigenes ZIP am Release angehängt und wird **nicht** mit den Plugins ausgeliefert; zusätzlich gibt es [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) als Sammelarchiv. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
+> **Testakten zum Ausprobieren:** Im Ordner [`testakten/`](./testakten) liegen umfangreiche Arbeitsakten mit PDFs, Tabellen, Textdokumenten, E-Mails, Bildern und weiteren Originalformaten. Jede Akte ist als Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP verfügbar; zusätzlich gibt es [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) als Sammelarchiv. Details und Direktdownloads stehen in der [Testakten-Übersicht](./testakten/README.md).
 
-Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deutschen Beratungspraxis, alphabetisch sortiert. Thematische Einstiegsknoten stehen zusätzlich unter [`plugin-gruppen/`](./plugin-gruppen/); für **Gerichts- und Staatsanwaltsperspektive** gibt es den Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) (15 experimentelle Plugins, eine Zeile in der Tabelle unten unter "Gerichts-Plugins"); für **Insolvenz, Sanierung und Krisenarbeit** gibt es die Sammelseite [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/), die zuerst nach Mandatssituation routet und dann auf das passende Einzelplugin verweist (eine Zeile in der Tabelle unten unter "Insolvenz-Plugins").
+Die folgende Tabelle enthält alle 235 installierbaren Plugins einzeln und alphabetisch sortiert. Auch Plugins in den Sammelordnern [`gerichtsplugins/`](./gerichtsplugins/) und [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/) erscheinen mit ihrem eigenen Namen und tatsächlichen Pfad. Thematische Einstiegsknoten stehen zusätzlich unter [`plugin-gruppen/`](./plugin-gruppen/); die vollständigen Downloadwege finden sich im [Asset-Index](./ASSET_INDEX.md).
+
+<!-- BEGIN PLUGIN-KATALOG (auto-generated) -->
+Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
+
+### A
 
 | Plugin | Beschreibung |
 | --- | --- |
-| [`agb-recht-pruefer`](./agb-recht-pruefer) | Gigantischer AGB-Rechtsprüfer und Klausel-Entwerfer für deutsches Recht: §§ 305 bis 310 BGB, UKlaG, B2C/B2B, Branchen-AGB, Redlining, Klauselrisiko und rechtssichere Entwurfsworkflows. |
+| [`agb-recht-pruefer`](./agb-recht-pruefer) | Gigantischer AGB-Rechtsprüfer und Klausel-Entwerfer für deutsches Recht: Paragrafen 305 bis 310 BGB, UKlaG, B2C/B2B, Branchen-AGB, Redlining, Klauselrisiko und rechtssichere Entwurfsworkflows. |
 | [`aktenaufbereiter-strafrecht`](./aktenaufbereiter-strafrecht) | Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergänzbar. Erkennt Lücken und Widersprüche. Kein Ersatz für Aktenlektüre. |
 | [`aktenauszug-gerichtsverfahren`](./aktenauszug-gerichtsverfahren) | Strukturierter Aktenauszug für deutsche Gerichtsverfahren: Verfahrensidentifikation Einleitungssatz Verfahrenszusammenfassung Sachverhaltschronologie Verfahrensgeschichte tabellarische Gegenüberstellung der Parteivorträge Beweismittel und Rechtsargumente für schnelle Einarbeitung in Akten. |
 | [`aktienrecht-hauptversammlung-ag-se`](./aktienrecht-hauptversammlung-ag-se) | Hauptversammlungs-Vorbereiter, Leitfaden-Ersteller und Durchführungsplugin für kleine AG, normale AG, börsennotierte AG und SE: Einberufung, Tagesordnung, virtuelle HV, Q&A, Abstimmung, Niederschrift, Anfechtungsrisiko und Post-HV. |
-| [`anlagen-zu-schriftsaetzen`](./anlagen-zu-schriftsaetzen) | Anlagenmanagement für gerichtliche Schriftsätze: sortiert chaotische Mandantenordner, E-Mails, Scans, Tabellen und Vorversionen zu beA-tauglichen K/B/AST/AG-Anlagen mit Verzeichnis, Konvolutdeckblättern, Stempel-/Dateinamenregeln, Hashlog, Lückenliste und Qualitygate. |
+| [`anlagen-zu-schriftsaetzen`](./anlagen-zu-schriftsaetzen) | Gerichtsprozess-Dokumentenproduktion bis zur beA-fertigen Versandmappe: liest Schriftsatz und Anlagenordner, führt K/B/AST/AG fort, konvertiert und stempelt jede PDF-Seite, prüft ERVV, Signatur, Dateinamen, Empfänger und Eingang und liefert Verzeichnis, Manifest und Freigabevermerk. |
 | [`apothekenrecht`](./apothekenrecht) | Super-Plugin für Apothekenrecht: Betriebserlaubnis, ApBetrO, Versand, E-Rezept, BtM, Retaxation, Aufsicht und Compliance. |
 | [`arbeitsrecht`](./arbeitsrecht) | Arbeitsrechtliche Workflows für Kündigung, Befristung, Urlaub, AGG, Aufhebungsvertrag, Betriebsrat, Arbeitszeit, Lohn und Expansion. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle verwendet. |
-| [`arbeitszeugnis-analyse`](./arbeitszeugnis-analyse) | Analyse deutscher Arbeitszeugnisse nach Ampelsystem (Rot/Orange/Grün). Geheimcodes, Schaufenster-Drift, negative Codeworte, Steigerungsadverbien. Satzweise Notenmatrix, begründete Gesamtnotenspanne. Vollständiger Mandatsablauf: Erstgespräch, Mandantenbericht, Aufforderungsschreiben, Klagestrategie. |
-| [`arbeitszeugnisgenerator`](./arbeitszeugnisgenerator) | Erstellt deutsche Arbeitszeugnisse Schritt für Schritt: Rolle, Stammdaten, Tätigkeiten, Leistungs- und Verhaltensbewertung, Notenwahl per Ampelsystem, Schlussformeln. Wahlweise vorgegebene Note oder geführte Einschätzung. Mehrere Harnesses: qualifiziert, einfach, Ausbildung. |
+| [`arbeitszeugnis-analyse`](./arbeitszeugnis-analyse) | Analyse deutscher Arbeitszeugnisse nach Ampelsystem. Prüft Geheimcodes, Schaufenster-Drift, negative Codeworte, Steigerungsadverbien, Satznoten und Gesamtnotenspanne. Führt vom Erstgespräch über Mandantenbericht und Aufforderungsschreiben bis zur Klagestrategie. |
+| [`arbeitszeugnisgenerator`](./arbeitszeugnisgenerator) | Erstellt, prüft und berichtigt einfache, qualifizierte, Zwischen- und Ausbildungszeugnisse aus vorhandenen Unterlagen. Verknüpft Tätigkeitsbild, Tatsachenbelege, Beweislast, klare Formulierungen, Vergleich und Vollstreckung zu einem verwendbaren Arbeitsprodukt. |
 | [`arbeitszeugnispruefer`](./arbeitszeugnispruefer) | Prüft bestehende deutsche Arbeitszeugnisse Schritt für Schritt: Notenstufen, Zufriedenheits- und Verhaltensformeln, Geheimcodes, Auslassungen, Steigerungsadverbien, Schlussformel. Liefert Ampel-Einschätzung pro Satz, Gesamtnote, Aufforderungsschreiben oder Klagestrategie zur Berichtigung. |
 | [`aufsichtsrat-ag-se-praxis`](./aufsichtsrat-ag-se-praxis) | Praxisplugin für Aufsichtsräte in AG und SE: Überwachung, Informationsrechte, Vorstand bestellen/abberufen, Vergütung, Ausschüsse, Protokoll, Business Judgment, Haftungsvermeidung, Börse, SE und Mitbestimmung. |
 | [`aussenwirtschaft-zoll-sanktionen`](./aussenwirtschaft-zoll-sanktionen) | Freistehendes Plugin für Außenwirtschaft, Sanktionen, Zoll, Exportkontrolle, BAFA, TARIC, CBAM, Verbrauchsteuer, AWV, AML/KYC und Ermittlungen. |
+
+### B
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`bank-rechtsabteilung`](./bank-rechtsabteilung) | Rechtsabteilung einer mittelgroßen deutschen Bank: Aufsicht, Kredit, Avale, Bürgschaft, Garantien, Trade Finance, ZAG/PSD2, PSD3/PSR-Vorschau, eWpG, MiCAR, Tokenisierung, BaFin, Vorstand, HV und Kanzleisteuerung. |
 | [`barrierefreiheit-web-checker`](./barrierefreiheit-web-checker) | Web-Barrierefreiheits-Checker für BFSG, BFSGV, BITV 2.0, EN 301 549 und WCAG: Scope, Audit, Tastatur, Screenreader, Formulare, PDFs, Erklärung, Roadmap und Abnahme. |
-| [`bautraegervertrag-pruefer`](./bautraegervertrag-pruefer) | Bauträgervertrag-Prüfer aus Verbrauchersicht: MaBV, §§ 650u/650v BGB, § 650m Abs. 2 BGB, AGB, Baubeschreibung, Abnahme, Schlussrate, WEG, Vormerkung, Lastenfreistellung und Drei-Dokumente-Ausgabe. |
+| [`bautraegervertrag-pruefer`](./bautraegervertrag-pruefer) | Bauträgervertrag-Prüfer aus Verbrauchersicht: MaBV, Paragrafen 650u/650v BGB, Paragraf 650m Abs. 2 BGB, AGB, Baubeschreibung, Abnahme, Schlussrate, WEG, Vormerkung, Lastenfreistellung und Drei-Dokumente-Ausgabe. |
 | [`bautraegervertragspruefer`](./bautraegervertragspruefer) | Prüft deutsche Bauträgerverträge: MaBV-Ratenplan und Sicherheiten, Paragrafen 650u und 650v BGB, AGB-Kontrolle, Baubeschreibung, Abnahme Gemeinschaftseigentum, Bauzeit, Preisanpassung, Teilungserklärung. Liefert Mandantengutachten und Aufforderungsschreiben an Bauträger und Notar. |
 | [`bav-strategie-konzern`](./bav-strategie-konzern) | Strategische Beratung zur betrieblichen Altersversorgung in Konzernen: Pensionsmodelle alle fünf Durchführungswege CTA Pension Buyouts Drei-Stufen-Theorie Versorgungssystem-Harmonisierung internationale Benefits Restrukturierung DB-zu-DC im Düsseldorfer Boutique-Stil. |
 | [`beamtenrecht`](./beamtenrecht) | Beamtenrecht für Bund, Länder und Richterdienst: Status, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Richterlaufbahn, Landesrecht und verständliche Mandatsführung. |
-| [`bereicherungs-und-anfechtungsrecht-pruefer`](./bereicherungs-und-anfechtungsrecht-pruefer) | Mechanisches Durchprüfen von Bereicherungsrecht §§ 812 ff. BGB, AnfG und Insolvenzanfechtung §§ 129-147 InsO. Mit KI-Screening von Schuldnerakten, § 135 Gesellschafterdarlehen, Bargeschäft § 142 und Verteidigung des Anfechtungsgegners. Keine Rechtsberatung. |
+| [`bereicherungs-und-anfechtungsrecht-pruefer`](./bereicherungs-und-anfechtungsrecht-pruefer) | Mechanisches Durchprüfen von Bereicherungsrecht Paragrafen 812 ff. BGB, AnfG und Insolvenzanfechtung Paragrafen 129-147 InsO. Mit KI-Screening von Schuldnerakten, Paragraf 135 Gesellschafterdarlehen, Bargeschäft Paragraf 142 und Verteidigung des Anfechtungsgegners. Keine Rechtsberatung. |
 | [`berichtspflichten-erlediger`](./berichtspflichten-erlediger) | Berichtspflichten-Erlediger für mittelständische Unternehmen: amtliche Statistik, Portale, Umwelt-, Produkt-, Steuer-, Sozial-, Lieferketten-, Datenschutz- und Aufsichtsmeldungen mit Fristenboard, Datenquellen, Plausibilitätscheck und Behördenkommunikation. |
 | [`berufsgerichtliche-verfahren-freie-berufe`](./berufsgerichtliche-verfahren-freie-berufe) | Plugin für anwaltsgerichtliche und berufsgerichtliche Verfahren gegen Anwälte, Patentanwälte, Steuerberater, Wirtschaftsprüfer und Notare: Kammeraufsicht, Rüge, Disziplinarverfahren, Zulassung, Vermögensverfall, beA, Werbung, Sachlichkeit und Rechtsmittel. |
 | [`berufsrecht-anwaelte`](./berufsrecht-anwaelte) | Plugin für anwaltliches Berufsrecht: BRAO, BORA, FAO, beA, Kanzleisitz, Werbung, Interessenkollision, Verschwiegenheit, KI-/Cloud-Outsourcing, Schatten-KI, Berufsausübungsgesellschaft, Gebühren, Kammeraufsicht und anwaltsgerichtliche Risiken. |
-| [`berufsrecht-ki-vertragspruefung`](./berufsrecht-ki-vertragspruefung) | Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit Legal-AI-Anbietern: § 43e BRAO, § 203 StGB, Consumer-Tool-Abgrenzung, No-Training, Telemetrie, Drittstaat, KI-VO-Rollen, Art.-50-Transparenz, Schatten-KI und Klauselvorschläge. |
+| [`berufsrecht-ki-vertragspruefung`](./berufsrecht-ki-vertragspruefung) | Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit Legal-AI-Anbietern: Paragraf 43e BRAO, Paragraf 203 StGB, Consumer-Tool-Abgrenzung, No-Training, Telemetrie, Drittstaat, KI-VO-Rollen, Art.-50-Transparenz, Schatten-KI und Klauselvorschläge. |
 | [`berufsrecht-notare`](./berufsrecht-notare) | Plugin für Notarrecht: BNotO, BeurkG, DONot, Dienstaufsicht, Urkundspflichten, Neutralität, Verwahrung, Amtspflichten, Vertreter/Verwalter, Disziplinarverfahren und notarielle Berufspraxis. |
 | [`berufsrecht-patentanwaelte`](./berufsrecht-patentanwaelte) | Plugin für Patentanwaltsrecht: PAO, Patentanwaltskammer, Vertretungsbefugnis, Schutzrechtsmandate, Verschwiegenheit, Interessenkollision, Werbung, Berufsausübungsgesellschaft und berufsgerichtliche Risiken. |
 | [`berufsrecht-steuerberater`](./berufsrecht-steuerberater) | Plugin für Steuerberaterrecht: StBerG, BOStB, Steuerberaterkammer, Vorbehaltsaufgaben, Werbung, Verschwiegenheit, Gebühren, Geldwäsche, Berufsgericht, Berufsausübungsgesellschaft und Haftungsprävention. |
@@ -247,47 +234,68 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`buerokratieversteher-entbuerokratisierer`](./buerokratieversteher-entbuerokratisierer) | Allgemeiner Bürokratieversteher und Entbürokratisierer für Laien, Menschen mit Deutsch als Zweitsprache und alle, die Bescheide, Anträge, Vorladungen, Behördenbriefe, Jugendamt-, Schul-, Bau-, Sozial-, Familien- oder Kommunalverfahren verstehen und vorsichtig bearbeiten wollen. |
 | [`bundesnetzagentur-verfahren`](./bundesnetzagentur-verfahren) | Großes Regulierungs-Plugin für anwaltliche Arbeit mit der Bundesnetzagentur in Energie, Telekommunikation, Post, Eisenbahn und Digital Services. |
 | [`bundeswehrrecht-wehrrecht`](./bundeswehrrecht-wehrrecht) | Super-Plugin für Soldatenrecht, Wehrbeschwerde, Disziplinarrecht, Wehrpflicht, Reservisten, Versorgung und Bundeswehrverwaltung. |
+
+### C
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`commercial-courts-deutschland`](./commercial-courts-deutschland) | Commercial-Courts-Plugin für englischsprachige Wirtschaftsverfahren in Deutschland: Zuständigkeit, Wahlklauseln, Klage, Case Management, Beweis, Geheimnisschutz, Wortprotokoll/Transcript, Rechtsmittel, BGH, Kosten, Vollstreckung und bilingualer Schriftsatz-/Hearing-Workflow. |
 | [`common-law-kompass`](./common-law-kompass) | Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews. |
 | [`corporate-kanzlei`](./corporate-kanzlei) | Corporate-Kanzlei-Plugin: Deal-Kommandocenter, Datenraum, Due Diligence, SPA/APA, Umwandlung, StaRUG, Insolvenzplan, W&I, Signing/Closing, PMI. |
-| [`datenbankrecht`](./datenbankrecht) | Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG §§ 87a ff., Datenbankrichtlinie, Investitionsschutz, automatisiertes Auslesen, API, KI-Training, Vertrags- und Plattformkonflikte. |
+
+### D
+
+| Plugin | Beschreibung |
+| --- | --- |
+| [`datenbankrecht`](./datenbankrecht) | Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG Paragrafen 87a ff., Datenbankrichtlinie, Investitionsschutz, automatisiertes Auslesen, API, Training digitaler Systeme, Vertrags- und Plattformkonflikte. |
 | [`datenschutz-sanktionsverfahren-verteidigung`](./datenschutz-sanktionsverfahren-verteidigung) | Spezialplugin für Vertretung und Verteidigung in datenschutzrechtlichen Sanktionsverfahren: DSGVO-Bußgeld, OWiG/StPO, Art.-58-Anordnung, Verwaltungsgericht, Aufsichtsbehördenkommunikation, EuGH/EDPB und Behördenstrategie. |
 | [`datenschutzrecht`](./datenschutzrecht) | DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidigung. |
-| [`denkmalschutzrecht`](./denkmalschutzrecht) | Denkmalschutzrecht in Deutschland: Art. 14 GG und Art. 73 GG als bundesstaatlicher Rahmen plus alle sechzehn Landesgesetze. Skills für Eintragung Erlaubnis Bußgeld steuerliche Förderung nach Paragraf 7i EStG und Welterbestätten — länderübergreifende Grundlagen und Landesrecht klar getrennt. |
+| [`denkmalschutzrecht`](./denkmalschutzrecht) | Denkmalschutzrecht in Deutschland: Art. 14 und Art. 70 GG als bundesstaatlicher Rahmen plus alle sechzehn Landesgesetze. Skills für Eintragung Erlaubnis Bußgeld steuerliche Förderung nach Paragraf 7i EStG und Welterbestätten — länderübergreifende Grundlagen und Landesrecht klar getrennt. |
 | [`designrecht-geschmacksmusterrecht`](./designrecht-geschmacksmusterrecht) | Eigenständiges Plugin für deutsches und europäisches Designrecht: DesignG, EU-Design, DPMA, EUIPO, WIPO-Hague, Neuheit, Eigenart, Anmeldung, Nichtigkeit, Verletzung, Eilrechtsschutz, Zoll, Plattformen und Designverträge. |
 | [`deutsche-rechtsgeschichte`](./deutsche-rechtsgeschichte) | Mega-Plugin zur deutschen Rechtsgeschichte: Epochen, Quellenkritik, Rezeption, Reichsrecht, BGB, Weimar, NS-Unrecht, DDR/BRD und rechtsgeschichtliche Argumentation. |
 | [`dfg-foerderantrag`](./dfg-foerderantrag) | DFG-Förderantragssteller für Sachbeihilfe, adaptive Anfänger-/Profi-Führung, kleine schnelle Anträge, große Koselleck-Strategien, elan-Formalia, Finanzplan, Reviewer-Red-Team, Forschungsdaten, KI-/Ethik-Check und Wiedereinreichung. |
-| [`dsa-dma-digitalregulierung`](./dsa-dma-digitalregulierung) | Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA AI Act NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und § 19a GWB. Gatekeeper-Schwellen VLOP-Einordnung Risikobewertung Art. 34 Forschungsdatenzugang Art. 40 Account-Sperre Art. 20-23 Zustellung Art. 13 DSA Klagewege. |
+| [`dsa-dma-digitalregulierung`](./dsa-dma-digitalregulierung) | Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA AI Act NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und Paragraf 19a GWB. Gatekeeper-Schwellen VLOP-Einordnung Risikobewertung Art. 34 Forschungsdatenzugang Art. 40 Account-Sperre Art. 20-23 Zustellung Art. 13 DSA Klagewege. |
+
+### E
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`ecommerce-recht`](./ecommerce-recht) | Super-Plugin für Online-Shops, Plattformen, Marktplätze und digitale Verbraucherprozesse. |
 | [`einfache-leichte-sprache-jura`](./einfache-leichte-sprache-jura) | Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: experimentelle Standard-Annäherung, Zielgruppe klären, Rechtsinhalt sichern und Qualitätsgate nutzen. |
 | [`einigungsvertrag-vermoegensrecht`](./einigungsvertrag-vermoegensrecht) | Einigungsvertrag-Plugin für DDR/BRD-Übergangsrecht, Volksvermögen, Parteivermögen, Treuhand, Bodenreform, Mauergrundstücke, VermG und Restitution. |
 | [`email-umformulierer-berufsrecht`](./email-umformulierer-berufsrecht) | Formuliert unfreundliche, emotionale oder unsachliche E-Mails in höfliche, sachliche und berufsrechtskonform formulierte Texte um. Fokus auf BRAO/BORA-Konformität, mit Varianten für Steuerberater, Notare und allgemeine berufliche Korrespondenz. |
 | [`energierecht`](./energierecht) | Freistehendes Energierecht-Plugin für Stadtwerke, Versorger, Wärme, Netze, Vertrieb, Industrie, EEG, KWKG, Verfahren, Transaktionen und Projektfinanzierung. |
 | [`erbbaurecht-praxis`](./erbbaurecht-praxis) | Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzins, Wertsicherung, Heimfall, Zustimmung, Belastung, Finanzierung, Veräußerung, Laufzeit, Entschädigung, Zwangsversteigerung, Rang und Grundbuchvollzug. |
-| [`europaeisches-prozessrecht`](./europaeisches-prozessrecht) | Eigenes Verfahrensplugin für EuGH und Gericht der Europäischen Union: Vorlage, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, e-Curia, Fristen, Rechtsmittel, Intervention und EUIPO-Gerichtsweg. |
+| [`europaeisches-prozessrecht`](./europaeisches-prozessrecht) | Europäisches Prozessrecht vor EuGH und EuG: Klagearten, Vorlage, e-Curia, Fristen, Rechtsschutz, Rechtsmittel, Intervention, Beweis, Kosten und Strategie. |
 | [`europarecht-kompass`](./europarecht-kompass) | Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting. |
-| [`fachanwalt-agrarrecht`](./fachanwalt-agrarrecht) | Plugin Fachanwalt für Agrarrecht. Höferecht (HöfeO Anerbenrecht Länder) Landpachtrecht BGB §§ 581 ff. GAP EU-Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutz Tierschutz Forstrecht. Schnittstelle Plugin fachanwalt-erbrecht. |
+
+### F
+
+| Plugin | Beschreibung |
+| --- | --- |
+| [`fachanwalt-agrarrecht`](./fachanwalt-agrarrecht) | Plugin Fachanwalt für Agrarrecht. Höferecht (HöfeO Anerbenrecht Länder) Landpachtrecht BGB Paragrafen 581 ff. GAP EU-Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutz Tierschutz Forstrecht. Schnittstelle Plugin fachanwalt-erbrecht. |
 | [`fachanwalt-arbeitsrecht`](./fachanwalt-arbeitsrecht) | Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle. |
 | [`fachanwalt-bank-kapitalmarktrecht`](./fachanwalt-bank-kapitalmarktrecht) | Plugin Fachanwalt für Bank- und Kapitalmarktrecht. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR Verbraucherkredit Bürgschaft Aval Bankgarantie Vermögensanlage Beratungshaftung. Schnittstellen Plugin gesellschaftsrecht regulatorisches-recht. |
 | [`fachanwalt-bau-architektenrecht`](./fachanwalt-bau-architektenrecht) | Plugin Fachanwalt für Bau- und Architektenrecht. BGB Werkvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht. Bauvertrag Mängelhaftung Abnahme Vergaberecht. Schnittstellen Plugin fachanwalt-vergaberecht kanzlei-allgemein. |
-| [`fachanwalt-erbrecht`](./fachanwalt-erbrecht) | Plugin Fachanwalt für Erbrecht. BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaftsteuer EU-ErbVO. Schnittstellen Plugin steuerrecht-anwalt-und-berater kanzlei-allgemein. |
+| [`fachanwalt-erbrecht`](./fachanwalt-erbrecht) | Plugin Fachanwalt für Erbrecht. BGB Erbrecht Paragrafen 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaftsteuer EU-ErbVO. Schnittstellen Plugin steuerrecht-anwalt-und-berater kanzlei-allgemein. |
 | [`fachanwalt-familienrecht`](./fachanwalt-familienrecht) | Plugin Fachanwalt für Familienrecht. Orientierung Normen Mandate Fristen Literatur. Familiengericht FamFG Scheidung Sorge Umgang Unterhalt Zugewinn Ehevertrag eingetragene Lebenspartnerschaft. Ergänzend zum Plugin kanzlei-allgemein. |
-| [`fachanwalt-gewerblicher-rechtsschutz`](./fachanwalt-gewerblicher-rechtsschutz) | Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezüge. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfügung Verletzungsklage Lizenzanaloger Schadensersatz. |
-| [`fachanwalt-handels-gesellschaftsrecht`](./fachanwalt-handels-gesellschaftsrecht) | Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung §§ 43 GmbHG 93 AktG. Gesellschafterstreit Beschlussanfechtung. Handelsvertreterausgleich § 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein. |
-| [`fachanwalt-internationales-wirtschaftsrecht`](./fachanwalt-internationales-wirtschaftsrecht) | Plugin Fachanwalt für Internationales Wirtschaftsrecht. CISG Brüssel Ia Rom I Rom II Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Aussenhandel LkSG. Schnittstelle Plugin kanzlei-allgemein. |
+| [`fachanwalt-gewerblicher-rechtsschutz`](./fachanwalt-gewerblicher-rechtsschutz) | Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO Paragraf 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezüge. Markenanmeldung DPMA EUIPO. UWG-Abmahnung Paragrafen 8 ff. UWG. Designverletzung. Einstweilige Verfügung Verletzungsklage Lizenzanaloger Schadensersatz. |
+| [`fachanwalt-handels-gesellschaftsrecht`](./fachanwalt-handels-gesellschaftsrecht) | Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO Paragraf 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung Paragrafen 43 GmbHG 93 AktG. Gesellschafterstreit Beschlussanfechtung. Handelsvertreterausgleich Paragraf 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein. |
+| [`fachanwalt-insolvenz-sanierungsrecht`](./fachanwalt-insolvenz-sanierungsrecht) | Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO Paragraf 14. InsO Eröffnung Antragspflicht Paragraf 15a Gläubigerantrag Paragraf 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung Paragrafen 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-anwalt-und-berater. |
+| [`fachanwalt-internationales-wirtschaftsrecht`](./fachanwalt-internationales-wirtschaftsrecht) | Plugin Fachanwalt für Internationales Wirtschaftsrecht. CISG Brüssel Ia Rom I Rom II Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Außenhandel LkSG. Schnittstelle Plugin kanzlei-allgemein. |
 | [`fachanwalt-it-recht`](./fachanwalt-it-recht) | Plugin Fachanwalt für Informationstechnologierecht. SaaS Software-Lizenz DSGVO BDSG TTDSG TKG NIS2 DDG DSA DMA EU-KI-VO Open-Source. Schnittstellen Plugin datenschutzrecht ki-governance kanzlei-allgemein. |
-| [`fachanwalt-medizinrecht`](./fachanwalt-medizinrecht) | Plugin Fachanwalt für Medizinrecht. Arzthaftung §§ 630a ff. BGB Patientenrechte Vertragsarztrecht Berufsrecht Ärzte SGB V Krankenversicherung MPDG Apothekenrecht. Schnittstellen Plugin fachanwalt-sozialrecht und kanzlei-allgemein. |
+| [`fachanwalt-medizinrecht`](./fachanwalt-medizinrecht) | Plugin Fachanwalt für Medizinrecht. Arzthaftung Paragrafen 630a ff. BGB Patientenrechte Vertragsarztrecht Berufsrecht Ärzte SGB V Krankenversicherung MPDG Apothekenrecht. Schnittstellen Plugin fachanwalt-sozialrecht und kanzlei-allgemein. |
 | [`fachanwalt-miet-wohnungseigentumsrecht`](./fachanwalt-miet-wohnungseigentumsrecht) | Großer Fachanwalt-Kompass Miet- und Wohnungseigentumsrecht mit über 200 Skills für Wohnraum, Gewerberaum, Betriebskosten, WEG, Hausverwaltung, Beschlüsse, GEG, Beweise, Fristen und Workflows. |
 | [`fachanwalt-migrationsrecht`](./fachanwalt-migrationsrecht) | Großer Fachanwalt-Kompass Migrationsrecht mit über 200 Skills für Aufenthalt, Blaue Karte EU, Fachkräfte, Asyl, Dublin/GEAS, Einbürgerung, Staaten-/Gebietschecks und spanische/einfache Erklärung. |
-| [`fachanwalt-sozialrecht`](./fachanwalt-sozialrecht) | Plugin Fachanwalt für Sozialrecht nach FAO § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch § 84 SGG Klage § 87 SGG Eilantrag § 86b SGG. Bürgergeld Erwerbsminderung GdB Pflegegrad Hilfsmittel Eingliederungshilfe. Bescheidanalyse Akteneinsicht PKH Fristenbuch. |
+| [`fachanwalt-sozialrecht`](./fachanwalt-sozialrecht) | Plugin Fachanwalt für Sozialrecht nach FAO Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch Paragraf 84 SGG Klage Paragraf 87 SGG Eilantrag Paragraf 86b SGG. Bürgergeld Erwerbsminderung GdB Pflegegrad Hilfsmittel Eingliederungshilfe. Bescheidanalyse Akteneinsicht PKH Fristenbuch. |
 | [`fachanwalt-sportrecht`](./fachanwalt-sportrecht) | Plugin Fachanwalt für Sportrecht. Verbandsrecht (DFB FIFA UEFA IOC DOSB) CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring Persönlichkeitsrechte Veranstalterhaftung. Schnittstelle Plugin gesellschaftsrecht. |
 | [`fachanwalt-strafrecht`](./fachanwalt-strafrecht) | Plugin Fachanwalt Strafrecht: StPO/StGB, Nebenstrafrecht, Verteidigung, Ermittlungsverfahren, HV, Revision, Nebenklage und Zeugenbeistand plus Strafprozess-Cockpit für Fristen, Aktenlog, U-Haft, Akteneinsicht, HV-Tagesmappe, Antragslog und Mandanteninstruktionen. |
-| [`fachanwalt-transport-speditionsrecht`](./fachanwalt-transport-speditionsrecht) | Plugin Fachanwalt für Transport- und Speditionsrecht. HGB §§ 407 ff. Frachtvertrag §§ 453 ff. Spedition CMR COTIF Montrealer Übereinkommen Haager Visby Regeln ADSp. Schnittstelle Plugin kanzlei-allgemein. |
+| [`fachanwalt-transport-speditionsrecht`](./fachanwalt-transport-speditionsrecht) | Plugin Fachanwalt für Transport- und Speditionsrecht. HGB Paragrafen 407 ff. Frachtvertrag Paragrafen 453 ff. Spedition CMR COTIF Montrealer Übereinkommen Haager Visby Regeln ADSp. Schnittstelle Plugin kanzlei-allgemein. |
 | [`fachanwalt-urheber-medienrecht`](./fachanwalt-urheber-medienrecht) | Plugin Fachanwalt für Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persönlichkeitsrecht Medienstaatsvertrag. Schnittstellen Plugin gewerblicher-rechtsschutz verlagsredaktion kanzlei-allgemein. |
-| [`fachanwalt-vergaberecht`](./fachanwalt-vergaberecht) | Fachanwalt Vergaberecht als Vergabe-Workbench: GWB 97 ff., VgV, UVgO, SektVO, KonzVgV, VOB/A, Schwellenwerte, Vergabeakte, Rüge, vorgerichtliche Abhilfe, Nachprüfungsantrag, Vergabekammer-Sachverhalt, § 168-GWB-Abstellungsanträge, TED/eForms und Wettbewerbsregister. |
-| [`fachanwalt-verkehrsrecht`](./fachanwalt-verkehrsrecht) | Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezüge. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§ 315c 316 StGB). Schnittstelle Plugin kanzlei-allgemein. |
+| [`fachanwalt-vergaberecht`](./fachanwalt-vergaberecht) | Fachanwalt Vergaberecht als Vergabe-Workbench: GWB 97 ff., VgV, UVgO, SektVO, KonzVgV, VOB/A, Schwellenwerte, Vergabeakte, Rüge, vorgerichtliche Abhilfe, Nachprüfungsantrag, Vergabekammer-Sachverhalt, Paragraf 168-GWB-Abstellungsanträge, TED/eForms und Wettbewerbsregister. |
+| [`fachanwalt-verkehrsrecht`](./fachanwalt-verkehrsrecht) | Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezüge. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (Paragrafen 315c 316 StGB). Schnittstelle Plugin kanzlei-allgemein. |
 | [`fachanwalt-versicherungsrecht`](./fachanwalt-versicherungsrecht) | Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgemein. |
-| [`fachanwalt-verwaltungsrecht`](./fachanwalt-verwaltungsrecht) | Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz § 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein. |
+| [`fachanwalt-verwaltungsrecht`](./fachanwalt-verwaltungsrecht) | Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz Paragraf 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein. |
 | [`factoring-recht`](./factoring-recht) | Super-Plugin für Factoring, Forderungskauf, Aufsichtsrecht, Vertragsgestaltung, Debitorenkommunikation, Insolvenz- und Sanierungsfragen. |
 | [`fahrgastrechte`](./fahrgastrechte) | Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspätung/Ausfall einordnen, Entschädigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum AG. Katalog DB-Ablehnungsgründe. |
 | [`fashion-law-moderecht`](./fashion-law-moderecht) | Praxisplugin Fashion Law/Moderecht für Modeunternehmen, Designer, Händler und Kanzleien: IP, Designs, Marken, Textilkennzeichnung, Produktsicherheit, Nachhaltigkeit, Lieferkette, Plattformen, E-Commerce, Vertrieb, Influencer und Krisen. |
@@ -295,36 +303,65 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`fluggastrechte`](./fluggastrechte) | Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tickets erfassen, Annullierung oder Verspätung prüfen, außergewöhnliche Umstände, Distanz, Ausgleich, Forderungsschreiben, Mahnung und Klage. Rechtsprechung nur nach Live-Verifikation. |
 | [`forderungsmanagement-klagewerkstatt`](./forderungsmanagement-klagewerkstatt) | Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben. |
 | [`forschungszulage-antragstellung`](./forschungszulage-antragstellung) | Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung, Verlust-/Insolvenzlage, Dokumentation, Beihilfen, Einspruch und Mehrjahresroadmap. |
+| [`fortbestehensprognose`](./fortbestehensprognose) | Fortbestehensprognose Paragraf 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwölf-Monats-Liquidität. Sanierungsbausteine Patronatserklärung Comfortletter Rangrücktritt Stundung Forderungsverzicht. IDW S 11 StaRUG. Eskalation bei negativer Prognose. |
 | [`franchiserecht-praxis`](./franchiserecht-praxis) | Wirtschaftsrechtliches Plugin für Franchise-Systeme: vorvertragliche Aufklärung, Handbuch, Gebühren, Gebietsschutz, Kartellrecht, Kündigung, Expansion, Streit und Insolvenz. |
-| [`gebrauchsmusterrecht`](./gebrauchsmusterrecht) | Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldung, Recherche nach § 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz, FTO und Schnellschutz für technische Produkte. |
+
+### G
+
+| Plugin | Beschreibung |
+| --- | --- |
+| [`gebrauchsmusterrecht`](./gebrauchsmusterrecht) | Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldung, Recherche nach Paragraf 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz, FTO und Schnellschutz für technische Produkte. |
 | [`geldwaeschepraevention-aml-kyc`](./geldwaeschepraevention-aml-kyc) | Freistehendes Plugin für Geldwäscheprävention, AML, KYC, GwG-Risikoanalyse, UBO, PEP, Sanktionen, FIU/goAML, Transparenzregister und Behördenverfahren. |
-| [`gerichtsplugins/`](./gerichtsplugins/) | **Sammelordner** für 15 experimentelle Gerichts- und Staatsanwalts-Plugins zum Einsatz von KI an deutschen Gerichten: Amtsgericht (Zivil, Straf, Insolvenz/Restrukturierung, Handelsregister), Landgericht (Zivilkammer, Strafkammer), Arbeitsgericht, Verwaltungsgericht, Finanzgericht, Sozialgericht, Familiengericht, BVerfG-Kammer, Relationstechnik Zivilrecht, Staatsanwaltschaft/Amtsanwaltschaft und Staatsanwaltschaft-Praxis-Einstieg. Capability-Experiment, keine Produktivempfehlung. |
-| [`gesellschaftsgruender`](./gesellschaftsgruender) | Anfängerfreundlicher Gründungsassistent für deutsche Gesellschaften: Rechtsformwahl, Satzung, SHA, Cap Table, Notar, Handelsregister, Bank/KYC, Behörden, Steuerstart, IP, Datenschutz, erste 100 Tage und Streitprävention. |
-| [`gesellschaftsrecht`](./gesellschaftsrecht) | Gesellschaftsrecht – GmbH/AG/Personengesellschaften, M&A-Due-Diligence ohne Discovery (Q&A + Datenraum), Gesellschafterbeschlüsse, HRB/HRA-Anmeldungen, Closing Checklists, Compliance-Fristen. |
+| [`gesellschaftsgruender`](./gesellschaftsgruender) | Gründungsassistent für deutsche Gesellschaften: Rechtsformwahl, Satzung, Notar, Handelsregister, Bank/KYC, Steuerstart, IP, Erlaubnisse, erste Verträge, Budget und Streitprävention. |
+| [`gesellschaftsrecht`](./gesellschaftsrecht) | Gesellschaftsrecht für GmbH, AG und Personengesellschaften: Beschlüsse, Gesellschafterliste, Satzung, Organhaftung, Streit, Kapitalerhaltung, Umwandlung, Register und Transaktionen. |
 | [`gesellschaftsrecht-legal-english`](./gesellschaftsrecht-legal-english) | Didaktisches Gesellschaftsrecht — English Business Terms: Corporate Legal English für Big-Law-Anfänger. Dealroom: Cap Table vs Gesellschafterliste; Term Sheet; SHA; Vesting; Drag/Tag; Liquidation Preference; Anti-Dilution; SPA; DD; Notar/HR; Multi-Format-Auswertung; Frankfurt-Startup-Akte. |
 | [`gesellschaftsrechtliche-treuepflicht`](./gesellschaftsrechtliche-treuepflicht) | Großes Prüfplugin zur gesellschaftsrechtlichen Treuepflicht in GmbH, AG, SE, Personengesellschaft, Familiengesellschaft und Konzern: Stimmrecht, Minderheitenschutz, Gesellschafterliste, Einziehung, Ausschluss, Konkurrenz, Sanierung, Treuepflichtverletzung und Rechtsfolgen. |
 | [`gewerblicher-rechtsschutz`](./gewerblicher-rechtsschutz) | Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen. |
 | [`goae-gebuehrenordnung-aerzte`](./goae-gebuehrenordnung-aerzte) | Super-Plugin zur GOÄ: private Arztrechnungen prüfen, erstellen, begründen, beanstanden und prozessual verwerten. |
-| [`grosskanzlei-corporate-ma`](./grosskanzlei-corporate-ma) | Freistehendes Big-Law-Corporate/M&A-Plugin: Deal-OS, Padlet-Canvas, Anfänger-/First-Year-Coach, Aktenanlage, Datenraum, Legal DD, Tabellenreview, SPA/APA, W&I, Public M&A, UmwG/UmwStG, StaRUG, Fusionskontrolle, FDI, FSR, Signing/Closing, PMI und 125 Spezial-Skills. |
+| [`grosskanzlei-corporate-ma`](./grosskanzlei-corporate-ma) | Corporate/M&A-Plugin für Kanzlei- und Inhouse-Praxis: Deal-Intake, Datenraum, Legal DD, SPA/APA, Kaufpreis, W&I, Regulatory, Signing, Closing, Integration, Board Papers und Spezial-Workflows. |
 | [`grundbuchamt-praxis`](./grundbuchamt-praxis) | Praxisplugin für Grundbuchamt, Grundbuchauszug und grundbuchtaugliche Nachweise: Abteilung I/II/III lesen, Bewilligung, Antrag, Auflassung, Rang, Zwischenverfügung, Beschwerde, Grundschuldbrief, Aufgebot, Dienstbarkeiten, Vormerkung, Vorkaufsrecht, Teilung und Vollzug. |
+
+### H
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`handelsrecht-hgb`](./handelsrecht-hgb) | Reines HGB-Plugin für Handelsrecht: Kaufmann, Handelsregister, Firma, Prokura, Handlungsvollmacht, Handelsgeschäfte, Handelskauf, Handelsvertreter, Makler, Kommission, Fracht, Spedition, Lager, Handelsbücher sowie OHG/KG einschließlich MoPeG-Statuswechsel von GbR zu OHG. |
 | [`handelsregister-praxis`](./handelsregister-praxis) | Praxisplugin für den Umgang mit dem Handelsregister: Anmeldung, Registergericht, Rechtspfleger, Registerrichter, Beanstandung, Zwischenverfügung, Beschwerde, Gesellschafterliste, Kapitalmaßnahmen, Firma, Vertretung, Prokura, Löschung, Insolvenzvermerk und registerfeste Nachweise. |
-| [`handelsvertreterrecht`](./handelsvertreterrecht) | Handelsvertreterrecht nach HGB: Status, Provision, Buchauszug, Kündigung, Ausgleich § 89b, Wettbewerbsverbot § 90a und Vertriebsmodelle. |
+| [`handelsvertreterrecht`](./handelsvertreterrecht) | Handelsvertreterrecht nach HGB: Status, Provision, Buchauszug, Kündigung, Ausgleich Paragraf 89b, Wettbewerbsverbot Paragraf 90a und Vertriebsmodelle. |
 | [`hausarbeitenmacher`](./hausarbeitenmacher) | Didaktisches Plugin für juristische Hausarbeiten und Seminararbeiten. Führt sokratisch durch Zivilrecht öffentliches Recht Strafrecht mit Ausflügen in Europarecht und Rechtstheorie. Adressaten-Strategie ohne Schleimerei. Liefert keine fertigen Lösungen sondern führt zur eigenen Subsumtion. |
 | [`haushaltsrecht-bho-bund-laender`](./haushaltsrecht-bho-bund-laender) | Großes Haushaltsrecht-Plugin für BHO, HGrG, Bundeshaushalt, Länderhaushalte, Titelanalyse, Umschichtung, Sondervermögen, Szenarien und Dashboard. |
 | [`hinweisgeberschutz-compliance`](./hinweisgeberschutz-compliance) | Hinweisgeberschutzgesetz in der Praxis: interne/externe Meldestelle, NDA-Konflikte, Repressalien, Untersuchungen, Datenschutz und Governance. |
 | [`hoai-leistungsphasen-praxis`](./hoai-leistungsphasen-praxis) | Großplugin für HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung, Ausführungsplanung, Vergabe, Bauüberwachung, Objektbetreuung, Honorar, Vertrag, Haftung, Nachträge und Bauprojektsteuerung. |
 | [`hochschulrecht-laender`](./hochschulrecht-laender) | Hochschulrecht der Länder: Hochschulgesetze, Satzungen, Gremien, Zulassung, Exmatrikulation, Berufung, Drittmittel, Promotion und Aufsicht. |
+
+### I
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`immobilienrechtspraxis`](./immobilienrechtspraxis) | Werkzeuge für immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz, Vertragsprüfung gegen Playbook, Grundbuchanalyse, Sachverhaltsermittlung, Mieteranfragen, Case Management und AVV-Prüfung. Rechtsprechung nur nach Live-Verifikation. |
 | [`influencer-recht`](./influencer-recht) | Plugin für Influencer, Creator, Agenturen und Unternehmen: Werbekennzeichnung, Steuer, Umsatzsteuer, Sachleistungen, Plattformrecht, Medienrecht, Marken, Urheberrecht, Datenschutz und Verträge. |
 | [`informationsfreiheit-presseauskunft`](./informationsfreiheit-presseauskunft) | IFG-, Transparenz-, UIG-, VIG- und Presseauskunfts-Plugin für Bund, Länder und Behörden: Antrag, Kosten, Fristen, Widerspruch, Klage und Tracking. |
 | [`insiderrecht-compliance`](./insiderrecht-compliance) | Insiderrecht- und Marktmissbrauchs-Compliance nach MAR, WpHG und BaFin-Praxis: Insiderinformationen, Ad-hoc, Insiderlisten, Handelsverbote, Aufschub, Directors Dealings, Aufklärung und Verteidigung. |
-| [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/) | **Sammelordner** für 11 Insolvenz-, Sanierungs- und Krisenplugins: `fachanwalt-insolvenz-sanierungsrecht`, `fortbestehensprognose`, `insolvenzforderungsanmeldungspruefung`, `insolvenzplan-starug-planwerkstatt`, `insolvenzrecht`, `insolvenzverwaltung`, `krisenfrueherkennung-starug`, `liquiditaetsplanung`, `us-bankruptcy-code`, `verbraucherinsolvenz-schuldenbereinigung`, `zwangsverwaltung-zvg`. Die Sammelseite routet zuerst nach Mandatssituation und verweist dann auf das passende Einzelplugin. |
+| [`insolvenzforderungsanmeldungspruefung`](./insolvenzforderungsanmeldungspruefung) | Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, Paragraf 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung. |
+| [`insolvenzplan-starug-planwerkstatt`](./insolvenzplan-starug-planwerkstatt) | Freistehendes Plugin für Insolvenzplan und StaRUG-Restrukturierungsplan: Intake, Sanierungskonzept, Vergleichsrechnung, Gruppen, Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Planvollzug. |
+| [`insolvenzrecht`](./insolvenzrecht) | Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag. |
+| [`insolvenzverwaltung`](./insolvenzverwaltung) | Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, Paragraf 15b InsO, Masse, Forderungsprüfung, Insolvenzplan, StaRUG-Planwerkstatt, Gutachten, Berichte und Schlussrechnung. |
 | [`internal-investigations-praxis`](./internal-investigations-praxis) | Internal-Investigations-Praxisplugin für Kanzleien und Unternehmen: Untersuchungsauftrag, Scope, Interviews, Arbeitsrecht, Datenschutz, Privilege-Risiko, StPO-Beschlagnahme, HinSchG, Dokumentation und Verteidigung. |
 | [`internationales-handelsrecht-lex-mercatoria`](./internationales-handelsrecht-lex-mercatoria) | Mega-Plugin für internationales Handelsrecht, CISG, Incoterms, UNIDROIT Principles, Lex Mercatoria, Schiedsverfahren, Trade Finance und Lieferkettenverträge. |
+
+### J
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`jurastudium`](./jurastudium) | Studium und Referendariat – Prüfungsgespräch nach AG-Tradition, Subsumtionslehre, Methodenlehre (Zivilrecht, Strafrecht, Öffentliches Recht), Rechtsgeschichte, Lernstrategien, Lösungsschemata, Gutachtenstil, Klausurkorrektur, Lernplanung. |
+| [`juristische-presseberichterstattung`](./juristische-presseberichterstattung) | Plugin für juristische Presseberichterstattung: Gerichtsbericht, Entscheidungsnews, Verdachtsbericht, Pressemitteilung, Headline, Bildprüfung, Quellenmatrix und Redaktionsschluss-Qualitygate. |
 | [`juristische-sprache-deutsch-als-zweitsprache`](./juristische-sprache-deutsch-als-zweitsprache) | Plugin für Menschen im deutschen Recht mit anderer Herkunftssprache: einfache Erklärungen, Juristendeutsch, Bescheide, Schriftsätze, Grammatik, Fristen und Verfahrenslogik. |
 | [`jveg-kostenpruefer`](./jveg-kostenpruefer) | Freistehender JVEG-Kostenprüfer für Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Sachverständigen- und Dolmetscherkosten, Fristen, Festsetzung, Beschwerde und belegfeste Rechenprotokolle. |
+
+### K
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`kanzlei-allgemein`](./kanzlei-allgemein) | Kanzlei-Allgemein-Plugin (fusioniert mit Cowork): edles Kommandocenter Mandatsannahme/GwG Klage/Replik Vertrag Rechtsprechung Handelsregister beA-Journal Rechnung UStVA Fristenbuch Timesheet RVG Versand-Vor-Check Posteingang Mandantenakte Mahnwesen Tagesbrief Geburtstage Weihnachtskarten. |
 | [`kanzlei-builder-hub`](./kanzlei-builder-hub) | Findet, prüft und installiert Community-Skills mit Security-Review-Gate vor dem Deployment in die Kanzleiumgebung. |
 | [`kanzlei-management`](./kanzlei-management) | Mega-Plugin für Kanzlei-Management: Managing Partner, Management Committee, Cashflow, Pricing, UBT, FTE, Utilization, WIP, Associates, Partnerkreis und Dashboards. |
@@ -337,75 +374,145 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`krankenhausrecht`](./krankenhausrecht) | Super-Plugin für deutsches Krankenhausrecht: Planung, Finanzierung, Entgelte, Reform, Qualität, MD-Prüfung, Klinikbetrieb und Rechtsstreit. |
 | [`krankenkassenrecht-krankenversicherung`](./krankenkassenrecht-krankenversicherung) | Plugin für GKV, PKV, Beihilfe-Schnittstellen und Krankenversicherungsrecht: Leistungen, Beiträge, Krankengeld, Hilfsmittel, Widerspruch, MD, Versicherungsvertrag und Kostenerstattung. |
 | [`kriegsdienstverweigerung-wehrdienst`](./kriegsdienstverweigerung-wehrdienst) | Praxisplugin für Kriegsdienstverweigerung und Wehrdienst aus Gewissensgründen: Art. 4 Abs. 3 GG, KDVG n. F. 2026, Antrag über BAPersBw, BAFzA-Entscheidung, Gewissensbegründung, Soldaten, Reservisten, Rechtsschutz und saubere Abgrenzung zur Totalverweigerung. |
+| [`krisenfrueherkennung-starug`](./krisenfrueherkennung-starug) | Krisenfrüherkennung nach Paragraf 1 StaRUG, Warnpflicht bei Jahresabschlusserstellung nach Paragraf 102 StaRUG, 24-Monats-Prognose nach Paragraf 18 InsO, Haftung, integrierte Planung, Restrukturierungsplan und Stabilisierungsanordnung. |
+
+### L
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`leasingrecht-praxis`](./leasingrecht-praxis) | Wirtschaftsrechtliches Praxisplugin für Leasing, Sale-and-lease-back, Equipment Finance, Fahrzeugflotten, IT-Leasing, Insolvenz, Restwert, Sicherheiten und Vertragsgestaltung. |
 | [`legistik-werkstatt`](./legistik-werkstatt) | Legistik-Werkstatt für Ministerien, Bundestag, Fraktionen/Opposition, Länder, Landtage und Normgeber. Baut Referenten- und Kabinettsentwürfe, Vorlagen aus der Mitte, Änderungs-/Entschließungsanträge, Rechtsverordnungen und Satzungen mit Begründung, Synopse, XML und Prüfpfaden. |
+| [`liquiditaetsplanung`](./liquiditaetsplanung) | Liquiditätsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Lücken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Rechtsprechung nur nach Live-Verifikation. |
 | [`lizenzvertragsersteller`](./lizenzvertragsersteller) | Baukastensystem für IP-Lizenzverträge deutsches und internationales Recht. 32 Skills: Urheber Patent Marken Design Gebrauchsmuster Geschäftsgeheimnis Know-how; Klausel-Bausteine, Quellcode-Escrow, Insolvenz-Klausel, Sicherungslizenz, TT-GVO, DSGVO, Quellensteuer, Output DE EN bilingual. |
 | [`lobbyregister-bundestag`](./lobbyregister-bundestag) | Lobbyregister-Bundestag-Superplugin mit 50 geführten Skills für Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meldung von Verstößen und Fristen nach LobbyRG. |
 | [`luftrecht-flughafenrecht`](./luftrecht-flughafenrecht) | Luftrecht-Plugin für LuftVG, LuftSiG, LBA, Flughäfen, Airlines, Slots, Flugzeugpfandrechte, Beschlagnahme, Insolvenz, Drohnen und Aviation-Compliance. |
+
+### M
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`mandantenanfragen-assistent`](./mandantenanfragen-assistent) | Assistent für Anwaltskanzleien zur Erstantwort auf Mandantenanfragen per E-Mail: dankt förmlich übernimmt die Anrede aus der eingehenden E-Mail nennt die telefonische Terminvergabe bittet um Sachverhalt per E-Mail oder bietet eine Telefon-Transkription mit DSGVO-Einwilligungshinweis an. |
 | [`markenrecht-fashion-luxus`](./markenrecht-fashion-luxus) | Großes Markenrechts-Plugin für DE/EU/US und internationale Portfolios: DPMA, EUIPO, WIPO/Madrid, USPTO, Markenarten, Schutzhindernisse, Benutzung, Widerspruch, Verfall/Nichtigkeit, Enforcement, Plattformen, Zoll, Lizenzen und Luxus-Fashion-Spezialfälle. |
-| [`meinungspruefer`](./meinungspruefer) | Meinungsprüfer für Äußerungsrecht: Meinung oder Tatsache, Beleidigung, üble Nachrede, Verleumdung, § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR/EuGH, OLG-Praxis, US-Supreme-Court-Vergleich, Zivilrecht, Plattformen, Social Media, Arbeitsplatz, Schule und kommunale Machtkritik. |
+| [`meinungspruefer`](./meinungspruefer) | Meinungsprüfer für Äußerungsrecht: Meinung oder Tatsache, Beleidigung, üble Nachrede, Verleumdung, Paragraf 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR/EuGH, OLG-Praxis, US-Supreme-Court-Vergleich, Zivilrecht, Plattformen, Social Media, Arbeitsplatz, Schule und kommunale Machtkritik. |
 | [`memorandums-ersteller`](./memorandums-ersteller) | Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung — Sachverhalt mit Quellenreferenz; Ein-Satz-Fragen; Ein-Satz-Antworten; rechtliche Ausführungen mit Pinpoint-Zitierung. Optional Piercing-Questions. Rechtsgebietsneutral. Alias Memorandumsmacher. |
 | [`methodenlehre-buergerliches-recht`](./methodenlehre-buergerliches-recht) | Methodenlehre und Rechtsanwendung im deutschen bürgerlichen Recht aus Anwaltsperspektive: Anspruchsaufbau, Auslegung, Abwägung, Präzedenzarbeit, Rechtsfortbildung, Methodenwahl, EU-Methodik und methodenehrliche Begründungskontrolle. |
 | [`mietrecht`](./mietrecht) | Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitätsstädte. Datenerhebung Mieterhöhungs-Widerspruch Mietsenkungsverlangen Nebenkostenprüfung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht. |
 | [`mittelstand-corporate-ma`](./mittelstand-corporate-ma) | Freistehendes Mittelstandsmandat-Corporate/M&A-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolvenzplan, CP-Kalender, E-Rechnung/GoBD, PMI. |
+
+### N
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`nachbarschaftsstreit-pruefer`](./nachbarschaftsstreit-pruefer) | Nachbarrecht und Nachbarschaftsstreit: Überbau, Überhang, Äste/Wurzeln, Grenzbaum, Zaun/Mauer/Hecke, Immissionen, Vertiefung, Notweg, Hammerschlagsrecht, Beweise, Aufforderung, Klage und Vergleich. |
-| [`nda-abgleich`](./nda-abgleich) | Gleicht NDA-Entwurf der Gegenseite gegen eigenen Standard ab und setzt Haltelinien chirurgisch im Word-Änderungsmodus durch. Ampelmatrix ROT/GELB/GRÜN. Ausgabe .docx mit echten Tracked Changes. Keine Absatzlöschungen, keine Klausel-Neufassungen. |
+| [`nda-abgleich`](./nda-abgleich) | Gleicht NDA-Entwurf der Gegenseite gegen eigenen Standard ab und setzt Haltelinien chirurgisch im Word-Änderungsmodus durch. Ampelmatrix ROT/GELB/GRUEN. Ausgabe .docx mit echten Tracked Changes. Keine Absatzlöschungen, keine Klausel-Neufassungen. |
 | [`nda-verschwiegenheit-generator-checker`](./nda-verschwiegenheit-generator-checker) | Allgemeiner NDA-Ersteller und NDA-Prüfer für deutsche und internationale Verschwiegenheitsvereinbarungen: Entwurf, Redline, GeschGehG, HinSchG, AGB, Arbeitsrecht, M&A, Forschung, Software, Datenraum und Verletzungsreaktion. |
 | [`nis2-cybersecurity-compliance`](./nis2-cybersecurity-compliance) | NIS-2, BSIG 2025, BSI, IT-Grundschutz, Cloud, Incident Response und technische Security-Compliance für Geschäftsleitung, CISO und Legal. |
-| [`normenkontrolle-bauleitplanung`](./normenkontrolle-bauleitplanung) | Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung. |
+| [`normenkontrolle-bauleitplanung`](./normenkontrolle-bauleitplanung) | Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach Paragraf 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung. |
 | [`normenkontrollrat-nkr`](./normenkontrollrat-nkr) | Plugin für den Nationalen Normenkontrollrat (NKR): Prüfung von Referentenentwürfen Formulierungshilfen und Gesetzentwürfen auf Erfüllungsaufwand Erforderlichkeit Verhältnismäßigkeit One-in-one-out Digitalcheck Mittelstandsfreundlichkeit und Praktikabilität im Vollzug. |
 | [`notariat-alltag`](./notariat-alltag) | Alltagsplugin für Notariat, Notariatsmitarbeiter und Notare: Beurkundung, Vollzug, Register, Grundbuch, Geldwäsche, Kosten, Fristen und Mandantenkommunikation. |
+
+### O
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`oeffentliches-wirtschaftsrecht`](./oeffentliches-wirtschaftsrecht) | Öffentliches-Wirtschaftsrecht-Plugin für Scheinprivatisierung, ÖPP, Projektfinanzierung, kommunale Unternehmen, Beihilfen, Vergabe und Regulierung. |
 | [`ordnungswidrigkeitenrecht`](./ordnungswidrigkeitenrecht) | Allgemeines OWiG-Plugin für Bußgeldverfahren: Anhörung, Bescheid, Einspruch, Behörde, Akteneinsicht, Gericht, Verjährung, Einziehung und Nebenfolgen. |
+
+### P
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`parteienrecht-parteiorganisation`](./parteienrecht-parteiorganisation) | Parteienrechts- und Parteiorganisations-Plugin für formale Parteiarbeit: Parteiengesetz, Satzung, Mitgliederrechte, Parteitage, Kreis- und Bezirksversammlungen, Kandidatenaufstellung, Wahlvorschläge, Parteigerichte, Spenden, Rechenschaft, Abgeordnetenrecht und Wahlleiterkommunikation. |
-| [`patentrecherche`](./patentrecherche) | Patentrecherche für Patentanwälte agentisch in Espacenet Google Patents DPMAregister DEPATISnet EPO Register WIPO USPTO. Stand der Technik Neuheit § 3 PatG Art. 54 EPÜ erfinderische Tätigkeit § 4 PatG Art. 56 EPÜ Problem-Solution-Approach FTO CPC IPC INPADOC Recherchebericht. |
+| [`patentrecherche`](./patentrecherche) | Patentrecherche für Patentanwälte agentisch in Espacenet Google Patents DPMAregister DEPATISnet EPO Register WIPO USPTO. Stand der Technik Neuheit Paragraf 3 PatG Art. 54 EPÜ erfinderische Tätigkeit Paragraf 4 PatG Art. 56 EPÜ Problem-Solution-Approach FTO CPC IPC INPADOC Recherchebericht. |
 | [`patentrecht`](./patentrecht) | Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchsentwurf, Recherche, Neuheit, erfinderische Tätigkeit, FTO, Abmahnung, Claim Chart, Vorbenutzungsrecht, Lizenz, Erfinderbenennung, Einspruch, Nichtigkeit, Register und Fristen. |
-| [`phishing-vorfall-pruefer`](./phishing-vorfall-pruefer) | Freistehender Phishing-Vorfall-Prüfer für Online-Banking: BGB § 675u, § 675v, § 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Bankpflichten, Schlichtung und Klage. |
+| [`phishing-vorfall-pruefer`](./phishing-vorfall-pruefer) | Freistehender Phishing-Vorfall-Prüfer für Online-Banking: BGB Paragraf 675u, Paragraf 675v, Paragraf 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Bankpflichten, Schlichtung und Klage. |
 | [`preussisches-allgemeines-landrecht-pralr`](./preussisches-allgemeines-landrecht-pralr) | PrALR-Plugin zum Allgemeinen Landrecht für die Preußischen Staaten: Quellenkritik, Textzeugen, Zivilrecht, Staats-/Polizeirecht, Strafrecht, Ständerecht, Aufopferung und Rezeptionsgeschichte. |
 | [`private-equity-praxis`](./private-equity-praxis) | Private-Equity-Praxis-Plugin für deutsche Kanzleien, Investoren, Fonds, Family Offices und Unternehmen: Fund Formation, KAGB/AIF, ELTIF, Deal Execution, Private Credit, Schuldschein, LMA, NPL, Portfolio, Exit und Distressed. |
 | [`produktrecht`](./produktrecht) | Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates, digitale Produktlebenszyklen, Rückruf, Marktüberwachung und Launch-Review. |
 | [`prozessrecht`](./prozessrecht) | Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Vollstreckung und Schriftsätze. |
 | [`pruefungsrecht-hochschule`](./pruefungsrecht-hochschule) | Hochschulprüfungsrecht: Prüfungsordnung, Bewertungsspielraum, Akteneinsicht, Krankheit, Nachteilsausgleich, Täuschung, KI, Drittversuch und Eilrechtsschutz. |
+
+### R
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`rechtsberatungsstelle`](./rechtsberatungsstelle) | Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe. |
 | [`rechtstheorie-rechtsphilosophie`](./rechtstheorie-rechtsphilosophie) | Rechtstheorie- und Rechtsphilosophie-Plugin für juristische Praxis: Rechtsbegriff, Kelsen-orientierte Normgeltung, Demokratie, Rechtsrealismus, Systemdenken, Besitzdogmatik, Law-and-Economics, Hayek-Wissensproblem, spontane Ordnung, Machtkritik und anti-dezisionistische Red-Team-Prüfung. |
 | [`regulatorisches-recht`](./regulatorisches-recht) | Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest. |
-| [`rentenpruefer`](./rentenpruefer) | Rentenprüfer für gesetzliche Rente, Versorgungswerk und internationale Versicherungszeiten: Kontenklärung, Rentenantrag, Nachversicherung, Auslandszeiten, Bescheide, Widerspruch und verständliche Dokumentation. |
+| [`relationstechnik-zivilrecht`](./gerichtsplugins/relationstechnik-zivilrecht) | Relationstechnik Zivilrecht: Klägerstation, Beklagtenstation, Beweisstation und Entscheidungsstation mit Schlüssigkeit, Erheblichkeit, Beweislast, Hinweisen und Urteilsvotum. |
+| [`rentenpruefer`](./rentenpruefer) | Rentenprüfer für Arbeitnehmer: DRV-Kontenklärung, Alters- und Erwerbsminderungsrente, Betriebsrente, private Renten, Versorgungswerk-Schnittstellen, Bescheid, Widerspruch und Klage. |
+| [`richter-amtsgericht-handelsregister`](./gerichtsplugins/richter-amtsgericht-handelsregister) | Handelsregisterrichter und Rechtspfleger: Ersteintragung Änderungen Löschung Zwischenverfügung Beschwerde Eintragungsfähigkeit Firmenrecht Vertretungsmacht Liquidation und Löschung von Amts wegen |
+| [`richter-amtsgericht-insolvenz-restrukturierung`](./gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung) | Insolvenz- und Restrukturierungsgericht: Eröffnungsverfahren Sicherungsmaßnahmen Verwalterauswahl Gläubigerversammlung Prüfungstermin Schlusstermin Restschuldbefreiung Restrukturierungssache nach StaRUG mit Stabilisierungsanordnung und Planbestätigung |
+| [`richter-amtsgericht-straf`](./gerichtsplugins/richter-amtsgericht-straf) | Strafrichter Amtsgericht: Eröffnungsentscheidung Hauptverhandlung Beweiswürdigung Strafzumessung Urteilsbegründung Rechtsmittelbelehrung Strafbefehl beschleunigtes Verfahren mit Tenorvorschlag |
+| [`richter-amtsgericht-zivil`](./gerichtsplugins/richter-amtsgericht-zivil) | Amtsrichter Zivilsachen: Schlüssigkeit Erheblichkeit Beweis Tenor Kostenentscheidung Streitwertbeschluss vorläufige Vollstreckbarkeit Rechtsmittelbelehrung Versäumnisurteil und Anerkenntnisurteil mit echter Relation und Entscheidungsvorschlag |
+| [`richter-arbeitsgericht`](./gerichtsplugins/richter-arbeitsgericht) | Arbeitsgericht: Gütetermin Kammertermin Kündigungsschutzklage Zahlungsklage einstweilige Verfügung Beschlussverfahren Betriebsverfassung Streitwert mit Tenorvorschlag |
+| [`richter-bverfg-verfassungsbeschwerden`](./gerichtsplugins/richter-bverfg-verfassungsbeschwerden) | BVerfG Kammer und wissenschaftliche Mitarbeiter: Annahmeprüfung Verfassungsbeschwerde Paragraf 93a BVerfGG Substantiierung Subsidiarität Grundrechtsverletzung Rechtswegerschöpfung Voten Kammerbeschluss Nichtannahmebeschluss |
+| [`richter-familiengericht`](./gerichtsplugins/richter-familiengericht) | Familiengericht: Ehesachen Scheidung Versorgungsausgleich Kindschaftssachen elterliche Sorge Umgang Kindesunterhalt Trennungs- und Ehegattenunterhalt Gewaltschutz Adoption Vormundschaft Betreuungsteile mit Verfahrenskostenhilfe und Tenorvorschlag |
+| [`richter-finanzgericht`](./gerichtsplugins/richter-finanzgericht) | Finanzgericht: Sachprüfung Anfechtungsklage Verpflichtungsklage Aussetzung der Vollziehung Paragraf 69 FGO Beweiswürdigung im Amtsermittlungsgrundsatz und Urteilsentwurf mit Tenorvorschlag |
+| [`richter-landgericht-strafkammer`](./gerichtsplugins/richter-landgericht-strafkammer) | Strafkammer LG: Eröffnungsentscheidung Hauptverhandlung Beweiswürdigung Strafzumessung schwere und mittlere Kriminalität Berufung gegen Amtsgerichtsurteil Sicherungsverwahrung und Maßnahmen mit Tenorvorschlag |
+| [`richter-landgericht-zivilkammer`](./gerichtsplugins/richter-landgericht-zivilkammer) | Zivilkammer LG: erste Instanz und Berufung, große Relation, Schlüssigkeit Erheblichkeit Beweis, Hinweisverfügung Paragraf 139 ZPO, Beweisbeschluss, Sachverständigenbeweis, Urteil Paragraf 313 ZPO, Berufungsentscheidung Paragrafen 522-540 ZPO mit Tenorvorschlag |
+| [`richter-sozialgericht`](./gerichtsplugins/richter-sozialgericht) | Sozialgericht: Klagearten Anfechtungs- und Leistungsklage einstweiliger Rechtsschutz Paragraf 86b SGG Amtsermittlung sozialrechtliche Prüfungsschemata Krankenversicherung Rente Unfall Bürgergeld Schwerbehinderung Urteilsentwurf mit Tenorvorschlag |
+| [`richter-verwaltungsgericht`](./gerichtsplugins/richter-verwaltungsgericht) | Verwaltungsgericht: Sachprüfung Anfechtungs- und Verpflichtungsklage einstweiliger Rechtsschutz Paragraf 80 Abs. 5 VwGO Hauptsacheentscheidung Beweiswürdigung im Amtsermittlungsgrundsatz und Tenorvorschlag |
 | [`robotik-recht`](./robotik-recht) | Robotik-Recht Deutschland/EU: Maschinenverordnung, KI-VO, Produkthaftung, ProdSG, Datenschutz, CRA, Data Act, CE, Marktüberwachung, Unfälle, Rückruf, Verträge und Robotik-Testakte. |
 | [`roemisch-katholisches-kirchenrecht`](./roemisch-katholisches-kirchenrecht) | Großes, lehramts- und papsttreues Arbeitsplugin zum Recht der römisch-katholischen Kirche: CIC, Katechismus, Sakramente, Ehe, Kirchenaustritt, Verfahren, Disziplin, Pfarrei, Diözese, Kurie und mehrsprachige Kommunikation. |
 | [`roemisches-recht`](./roemisches-recht) | Mega-Plugin zum römischen Recht: Zwölftafelgesetz, Institutionensystem, Sachenrecht, Obligationen, Aktionenrecht, Erbrecht, Juristenrecht, Justinian, byzantinisches Recht und Rezeption. |
+
+### S
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`schoeffen-handelsrichter-praxis`](./schoeffen-handelsrichter-praxis) | Plugin für Schöffen, Jugendschöffen, ehrenamtliche Richter und Handelsrichter: Rolle, Rechte, Pflichten, Sitzung, Beratung, Befangenheit, Beweiswürdigung, Handelskammer, Verwaltungsgericht und sichere praktische Orientierung. |
 | [`schriftform-und-textform-bgb`](./schriftform-und-textform-bgb) | Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen. Mit Checklisten, Dokumentation und Rechtsprechung nur nach Live-Verifikation. |
+| [`schriftsatz-versandwerkstatt`](./schriftsatz-versandwerkstatt) | Fokussierte Versandwerkstatt für fertige Schriftsätze und Anlagen: konvertiert Dateien in PDF, stempelt Anlagen, prüft Dateinamen, Paketgrenzen, Absender, Signaturweg und Eingang und liefert eine kontrollierte beA-Mappe. |
 | [`schulrecht-laender`](./schulrecht-laender) | Schulrecht der Länder: Schulpflicht, Aufnahme, Inklusion, Noten, Versetzung, Ordnungsmaßnahmen, Datenschutz, Elternrechte und Eilrechtsschutz. |
 | [`seerecht-schifffahrtsrecht`](./seerecht-schifffahrtsrecht) | See- und Schifffahrtsrecht-Plugin für Schiffskauf, Schiffbau, Werften, Schiffshypothek, Schiffsregister, Arrest, Wrack, Bergung, Charter und ITLOS. |
-| [`selbstvertreter-amtsgericht`](./selbstvertreter-amtsgericht) | Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, §23 GVG/§511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung. |
+| [`selbstvertreter-amtsgericht`](./selbstvertreter-amtsgericht) | Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, Paragraf23 GVG/Paragraf511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung. |
 | [`selbstvertreter-sozialgericht`](./selbstvertreter-sozialgericht) | Selbstvertretung vor Sozialbehörden Krankenkassen Pflegekassen BG Versorgungsamt Jobcenter Rente Familienkasse und Sozialgericht: Anhörung Akteneinsicht Mitwirkung Widerspruch Klage Eilantrag Pflegegrad Hilfsmittel Krankengeld EM-Rente GdB Bürgergeld Wohngeld Eingliederungshilfe. |
 | [`softwarerecht-de-eu-us`](./softwarerecht-de-eu-us) | Softwarerecht Deutschland/EU/International/USA: Entwicklung, Lizenzen, SaaS, Open Source, Arbeitnehmer/Freelancer, Softwarepatente, AI-Code und Streit. |
 | [`solo-selbststaendige-praxis`](./solo-selbststaendige-praxis) | Praxisplugin für Solo-Selbstständige in Deutschland: Start, Anmeldung, Steuern, Verträge, Rechnungen, Datenschutz, Statusfeststellung, KSK, Versicherungen, Zahlungsausfall, Krise, Wachstum und Alltag ohne juristische Überforderung. |
 | [`sozialversicherungsstatus-pruefer`](./sozialversicherungsstatus-pruefer) | Sozialversicherungsstatus und DRV-Statusfeststellung: Geschäftsführer, Freelancer, Anwälte, Lehrkräfte, Musikschulen, Plattformarbeit und Scheinselbständigkeit. |
+| [`staatsanwaltschaft-amtsanwaltschaft`](./gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft) | Staatsanwaltschaft und Amtsanwaltschaft: Ermittlungsführung, Durchsuchung, Haft, Einstellung, Strafbefehl, Anklage, Einziehung, Plädoyer, Rechtsmittel und Vollstreckung. |
+| [`staatsanwaltschaft-praxis-einstieg`](./gerichtsplugins/staatsanwaltschaft-praxis-einstieg) | Praxisplugin für neue Staatsanwälte: Aktenstart, Anfangsverdacht, Ermittlungsauftrag, Eingriffe, Anklage, Strafbefehl, Einstellung, Sitzungsdienst, Rechtsmittel und OWiG. |
 | [`startup-hr-personalabteilung-berlin`](./startup-hr-personalabteilung-berlin) | Personalabteilungs- und HR-Operations-Plugin für ein Berliner Start-up mit ca. 100 Beschäftigten: Arbeitsverträge, Payroll/DATEV-Schnittstelle, Personalakten, Datenschutz, AGG-Vorfälle, Betriebsrat, Benefits, Fehlzeiten, Kündigungen, Happiness-Management und Chef-Briefings. |
 | [`status-navigator-step-plan`](./status-navigator-step-plan) | Status-Navigator und Step-Plan-Macher. Reine Dokumentenverarbeitung mit 35 Skills. Strukturiert disparate Dokumentenlagen in eine mehrseitige Excel-Arbeitsmappe und optional ein Padlet-Shelf mit Reitern Überblick, Vorhanden, Fehlend und Workflow. Keine rechtliche Bewertung. |
-| [`steuerrecht-anwalt-und-berater`](./steuerrecht-anwalt-und-berater) | Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-): Einspruch Klage FG Außenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss. |
+| [`steuerrecht-anwalt-und-berater`](./steuerrecht-anwalt-und-berater) | Steuerrecht für Anwalt (anw- FAO Paragraf 9) und Steuerberater (stb-): Einspruch Klage FG Außenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss. |
 | [`strafanzeige-vorbereiter`](./strafanzeige-vorbereiter) | Vorsichtiger Strafanzeigen-Vorbereiter: prüft Anfangsverdacht, Beweise, Strafantrag, Risiken falscher Verdächtigung, Alternativen und erstellt nur bei tragfähiger Tatsachengrundlage eine nüchterne Strafanzeige. |
 | [`strafbefehl-verteidiger`](./strafbefehl-verteidiger) | Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung. |
-| [`strafzumessung`](./strafzumessung) | Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur großen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewährung § 56 § 49 Regelbeispiele besonders schwerer Fall Verständigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG. |
+| [`strafzumessung`](./strafzumessung) | Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur großen Strafkammer. Paragraf 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewährung Paragraf 56 Paragraf 49 Regelbeispiele besonders schwerer Fall Verständigung Paragraf 257c StPO TOA Paragraf 46a Gesamtstrafe Paragraf 55 JGG. |
 | [`strassenrecht-infrastruktur`](./strassenrecht-infrastruktur) | Straßenrecht-Plugin für Bundesfernstraßen, Landesstraßen, Gemeindestraßen, Widmung, Planfeststellung, Sondernutzung, Baulast und Erhaltung. |
 | [`strassenverkehrsrecht-stvo`](./strassenverkehrsrecht-stvo) | StVO-/Straßenverkehrsrecht-Plugin für Verkehrsregeln, Zeichen, Anordnungen, Ausnahmegenehmigungen, Fahrerlaubnis, Bußgeld-Schnittstellen und Behördenpraxis. |
 | [`subsumtions-pruefer`](./subsumtions-pruefer) | Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung. |
+
+### T
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`tabellenreview-3d`](./tabellenreview-3d) | 3D-Tabellenreview als Würfel: Spaltenprompts pro Datenpunkt x Zeilenprompts pro Dokument x Arbeitsblatt-Perspektiven (Recht / Steuer / Wirtschaft) gestapelt. Massenprüfung Vertragsstapel M&A-DD Immobilien Vendor-Onboarding mit Excel-Mehrblatt Kreuzblatt-Konsistenz Audit-Trail Belegkette. |
 | [`telekommunikationsrecht`](./telekommunikationsrecht) | Großes Telekommunikationsrecht-Plugin für TKG, Bundesnetzagentur, Internetanschlüsse, Anbieterwechsel, Kundenschutz, Netzregulierung, Frequenzen, Nummerierung, Sonderkartellrecht, Datenschutz und Sicherheitsanforderungen. |
-| [`tierschutzrecht`](./tierschutzrecht) | Tierschutzrecht-Plugin für TierSchG, BGB § 90a, Haltung, Zucht, Transport, Tierversuche, Behördenverfahren, Strafrecht, Bußgeld und zivilrechtliche Tierfälle. |
+| [`tierschutzrecht`](./tierschutzrecht) | Tierschutzrecht-Plugin für TierSchG, BGB Paragraf 90a, Haltung, Zucht, Transport, Tierversuche, Behördenverfahren, Strafrecht, Bußgeld und zivilrechtliche Tierfälle. |
+
+### U
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`umweltrecht`](./umweltrecht) | Freistehendes Umweltrecht-Plugin für BImSchG, TEHG, Abfall, Wasser, Boden, Naturschutz, UIG, Verfahren, Bußgeld, Umwelt-Due-Diligence, Klimaklagen UmwRG, Lieferkettensorgfalt LkSG/CSDDD und ESG-Greenwashing/CSRD. |
-| [`umweltschutzverband-verbandsklage`](./umweltschutzverband-verbandsklage) | Plugin für Umweltverbände: UmwRG, Aarhus, UIG, UVP, BImSchG, Planfeststellung, § 47 VwGO, Naturschutz, Klima, Verbandsklage und Eilrechtsschutz. |
+| [`umweltschutzverband-verbandsklage`](./umweltschutzverband-verbandsklage) | Plugin für Umweltverbände: UmwRG, Aarhus, UIG, UVP, BImSchG, Planfeststellung, Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage und Eilrechtsschutz. |
 | [`urheberrecht-de-eu`](./urheberrecht-de-eu) | Deutsches und EU-Urheberrecht für Werkhöhe, Musik, KI, TDM, Software, Lizenzen, Abmahnung, Schranken, Leistungsschutz und Rechteclearing. |
 | [`urteilsbauer-relationsmacher`](./urteilsbauer-relationsmacher) | Urteils- und Beschluss-Werkstatt für Amts- Land- und Familienrichter sowie Rechtspfleger. Aktenintake Relation Beweiswürdigung mit Richter-Input Tatbestandsmerkmale Tenor Tatbestand Entscheidungsgründe Rechtsmittelbelehrung. Erzeugt DOCX nach Paragraf 313 ZPO. |
+| [`us-bankruptcy-code`](./us-bankruptcy-code) | US Bankruptcy Code Title 11: Chapters 7/9/11/12/13/15, Automatic Stay, Claims, DIP, 363 Sales, Plans und Cross-Border. |
 | [`us-copyright-registrierung-verlag`](./us-copyright-registrierung-verlag) | US Copyright Act für deutsche Verlage und Rechteinhaber: Title 17, Registrierung, Rechte, Fair Use, DMCA, Musik, AI, Litigation und Deals. |
+
+### V
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`venture-capital-geber`](./venture-capital-geber) | VC-Geber-Plugin für deutsche Venture-Capital-Investoren, Family Offices, Angels und junge VCs: Sourcing, Deal-Tracking, Wandeldarlehen, SAFE, Pre-Seed, Series A/B, Cap Table, Follow-on, Portfolio-Updates, KAGB/BaFin-Grenzen, EU/CH/UK/US-Brücken und legitime Deal-Taktik. |
 | [`verbraucher-rechtsstaat-alltag`](./verbraucher-rechtsstaat-alltag) | Kleines, hilfreiches Plugin für Verbraucher: E-Commerce, Kaufrecht, Reparaturen, kleine Dienstleistungen, Rechnungen, Inkasso, Plattformen, Behördenbriefe und Gerichtspost verständlich einordnen und vorsichtig reagieren. |
+| [`verbraucherinsolvenz-schuldenbereinigung`](./verbraucherinsolvenz-schuldenbereinigung) | Verbraucherinsolvenz und Schuldenbereinigung nach InsO: außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, Antrag, Restschuldbefreiung, P-Konto, ehemalige Selbstständige und lebensnahe Verfahrensführung. |
 | [`verbraucherschutzrecht-pruefer`](./verbraucherschutzrecht-pruefer) | Großer Verbraucherschutz-Prüfer für BGB, EGBGB, UWG, UKlaG, VSBG, E-Commerce, digitale Produkte, Reise, Finanzen, Energie, Gesundheit und Alltag. |
 | [`verbraucherschutzverband-durchsetzung`](./verbraucherschutzverband-durchsetzung) | Plugin für Verbraucherverbände: VDuG, UKlaG, UWG, Abhilfeklage, Musterfeststellung, Unterlassung, Register, Finanzierung, Vergleich und Kampagnenakte. |
 | [`vereinsrecht-vereinsmanager`](./vereinsrecht-vereinsmanager) | Vereinsrechts- und Vereinsmanagement-Plugin für eingetragene und nicht eingetragene Vereine: Gründung, Satzung, Mitgliederversammlung, Vorstand, Protokolle, Beschlüsse, Gemeinnützigkeit, Register, Haftung, Datenschutz, Finanzen, Veranstaltungen und Spezialvereine. |
-| [`verfassungsrecht`](./verfassungsrecht) | Deutsches Verfassungsrecht: BVerfG-Recherche, Prozessarten-Navigator nach § 13 BVerfGG, Verfassungsbeschwerde, § 32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, Parteienverfahren, Normenkontrolle, Grundrechte, EU-Grundrechte und Gesetzgebungskompetenz. |
+| [`verfassungsrecht`](./verfassungsrecht) | Deutsches Verfassungsrecht: BVerfG-Recherche, Prozessarten-Navigator nach Paragraf 13 BVerfGG, Verfassungsbeschwerde, Paragraf 32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, Parteienverfahren, Normenkontrolle, Grundrechte, EU-Grundrechte und Gesetzgebungskompetenz. |
 | [`verhaeltnismaessigkeitspruefer`](./verhaeltnismaessigkeitspruefer) | 85 Skills zur Schranken-Schranke: BVerfG-Leitentscheidungen, Drittwirkung, Gleichheitsdogmatik, PrOVG-Kreuzberg, Südafrika/Kanada/EGMR/EuGH/USA und 12 europäische Ordnungen; mit Alexy, Schnellprüfung, Klausurschema, Streitstellen, Subsumtionshelfer und Visualisierung. |
 | [`verkehr-infrastrukturrecht`](./verkehr-infrastrukturrecht) | Freistehendes Verkehrs- und Infrastrukturrecht-Plugin für Verkehrsplanung, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Parkraum und Verkehrswende. |
 | [`verkehrsowi-verteidiger`](./verkehrsowi-verteidiger) | Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht. |
@@ -414,14 +521,27 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`versammlungsrecht`](./versammlungsrecht) | Praxisplugin für Versammlungsrecht und Versammlungsfreiheit: Anzeige unter freiem Himmel, Landesrecht, Behörde, Fristen, Spontan- und Eilversammlung, Ordner, Kooperationsgespräch, Auflagen, Verbot, Eilrechtsschutz und Durchführung ohne vorauseilende Selbstzensur. |
 | [`versicherungsrecht`](./versicherungsrecht) | Großes Versicherungsrecht-Plugin für VVG, VAG, europäische Versicherungsaufsicht, Lebensversicherung, BU, PKV, Rechtsschutz, Kreditversicherung, D&O, Cyber, Sach- und Haftpflichtdeckung. |
 | [`vertragsausfueller`](./vertragsausfueller) | Freistehendes Vertragsausfüller-Plugin: DOCX-Vorlagen und Altverträge strippen, Felder erkennen, Term Sheets mappen, Rückfragen führen, neue Verträge erzeugen und Track-Changes-Fassungen nur nach ausdrücklicher Nachfrage vorbereiten. |
-| [`vertragsrecht`](./vertragsrecht) | Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB §§ 305 ff. BGB, NDA, SaaS-/MSA-Review, Renewal-Tracking, Eskalations-Routing, Business-Zusammenfassungen. |
+| [`vertragsrecht`](./vertragsrecht) | Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB Paragrafen 305 ff. BGB, NDA, SaaS-/MSA-Review, Renewal-Tracking, Eskalations-Routing, Business-Zusammenfassungen. |
+
+### W
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`wahlkampfrecht-praxis`](./wahlkampfrecht-praxis) | Wahlkampfrecht und Wahlkampfpraxis für Parteien, Kandidierende und Kampagnenteams: Strategie, Plakatierung, Social Media, Datenschutz, politische Werbung, Parteienfinanzierung, Desinformation, Veranstaltungen, Schulen, Podien, Wahltag und Compliance. |
 | [`wandeldarlehen-lebenszyklus`](./wandeldarlehen-lebenszyklus) | Begleitet den vollständigen Lebenszyklus eines Wandeldarlehens für GmbH und UG: Vertragserstellung (bilingual/einsprachig), Beurkundungsprüfung, Wandelereignisse, Wandlungsberechnung, Cap-Table-Update, Gesellschafterbeschluss und Notar-Paket. |
 | [`weg-hausverwaltung`](./weg-hausverwaltung) | Operatives WEG- und Hausverwaltungs-Plugin für Beschlüsse, Eigentümerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerker, bauliche Veränderungen, Steckersolar, Wallbox, Verwalter, Beirat und Anwalt-Eskalation. |
 | [`weltraumrecht`](./weltraumrecht) | Großes Plugin für deutsches, europäisches und internationales Weltraumrecht: Raumfahrtverträge, Satelliten, Haftung, Weltraumbahnhof, Raketen, Raumstationen, Frequenzen, Exportkontrolle und Space Property. |
 | [`word-legal-ai-plugin-and-skill-for-german-lawyers`](./word-legal-ai-plugin-and-skill-for-german-lawyers) | Word Legal AI for German Lawyers: Kaltstart, Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Redlines, Klauselbibliothek, Defensive Drafting, Term Sheet, DE-EN Bilingual, US/UK Legal Writing und englische Verträge nach deutschem Recht. |
+
+### Z
+
+| Plugin | Beschreibung |
+| --- | --- |
 | [`zitierweise-deutsches-recht`](./zitierweise-deutsches-recht) | Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. |
-| [`zwangsvollstreckung`](./zwangsvollstreckung) | Plugin Zwangsvollstreckung §§ 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, § 802l Kontensuche, Vermögensauskunft, Räumung, § 800 ZPO Notar, § 201 InsO, ZVG, EU-Kontenpfändung VO 655/2014, § 765a Härtefall, Schuldnerschutz. |
+| [`zwangsverwaltung-zvg`](./zwangsverwaltung-zvg) | Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme, Besitz, Mieten, Treuhandkonto, Berichte, Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme. |
+| [`zwangsvollstreckung`](./zwangsvollstreckung) | Plugin Zwangsvollstreckung Paragrafen 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, Paragraf 802l Kontensuche, Vermögensauskunft, Räumung, Paragraf 800 ZPO Notar, Paragraf 201 InsO, ZVG, EU-Kontenpfändung VO 655/2014, Paragraf 765a Härtefall, Schuldnerschutz. |
+
+<!-- END PLUGIN-KATALOG (auto-generated) -->
 
 ## Weitere Installationshilfe
 

@@ -4,9 +4,20 @@
 
 Dieser Ordner enthält **Mandatsakten**, mit denen sich die Skills sofort ausprobieren lassen. Jede Akte ist bewusst so unstrukturiert wie ein echter Datenraum: PDFs mit handgemachten Briefköpfen, Excel-Tabellen, Word-Entwürfen, schiefen Dateinamen, Bildbeschreibungen, Chattranskripten und Fehlblättern, Mandantennotizen mit Tippfehlern. **Die Akten sind kein Bestandteil der Plugins und werden nicht mitinstalliert.** Wer die Skills produktiv einsetzt, lädt sich die Akten bei Bedarf separat als ZIP herunter.
 
-Stand v439.2.0: 302 zentrale Testakten plus 2 Hilfsmaterialsammlungen. Jede Akte steht in drei Fassungen bereit: als durchsuchbares Gesamt-PDF, als flaches Einzel-PDF-ZIP und als flaches Akten-ZIP mit den nativen Originalformaten DOCX, XLSX, PDF, JPEG, CSV, EML und weiteren Alltagsdateien. Die beiden ZIPs öffnen unmittelbar auf die Dateien; sie enthalten keine Unterordner, das Akten-ZIP außerdem kein Markdown. Schriftsätze und Gutachten sind vollständig ausgearbeitet, Tabellen behalten Rohdaten und offene Positionen, Korrespondenz enthält realistische Header und Bezüge.
+Stand v439.2.1: 302 zentrale Testakten plus 2 Hilfsmaterialsammlungen. Jede Akte steht in drei Fassungen bereit: als durchsuchbares Gesamt-PDF, als flaches Einzel-PDF-ZIP und als flaches Akten-ZIP mit den nativen Originalformaten DOCX, XLSX, PDF, JPEG, CSV, EML und weiteren Alltagsdateien. Die beiden ZIPs öffnen unmittelbar auf die Dateien; sie enthalten keine Unterordner, das Akten-ZIP außerdem kein Markdown. Schriftsätze und Gutachten sind vollständig ausgearbeitet, Tabellen behalten Rohdaten und offene Positionen, Korrespondenz enthält realistische Header und Bezüge.
 
 Der verbindliche Aktenstandard steht in [`QUALITAETSSTANDARD.md`](./QUALITAETSSTANDARD.md): Die Originaldateien bleiben als heterogener Datenraum erhalten; Gesamt-PDF und Einzel-PDF-ZIP ermöglichen parallel die fortlaufende oder dokumentweise Durchsicht.
+
+## So findest du die passende Akte
+
+| Ausgangspunkt | Schnellster Weg |
+| --- | --- |
+| Ein bestimmtes Rechtsgebiet oder Plugin | In der jeweiligen Plugin-README den Abschnitt `Zugeordnete Testakten` öffnen; dort stehen nur die fachlich passenden Akten. |
+| Ein bekannter Aktenname | In der alphabetisch nach Ordnerslug sortierten Tabelle unten mit der Seitensuche suchen. |
+| Ein schneller Download ohne Einzelwahl | Eines der drei Sammelpakete unterhalb dieser Tabelle verwenden. |
+| Prüfung der Dateiformate und Qualitätsregeln | Den [Qualitätsstandard](./QUALITAETSSTANDARD.md) öffnen. |
+
+Jede Tabellenzeile führt zuerst zur Akten-README und danach getrennt zum Gesamt-PDF, zum flachen ZIP mit Originalformaten und zum flachen ZIP mit Einzel-PDFs. Dadurch ist keine Navigation durch Unterordner im heruntergeladenen Archiv nötig.
 
 <p>
   <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip"><strong>Alle Testakten als ZIP herunterladen</strong></a>

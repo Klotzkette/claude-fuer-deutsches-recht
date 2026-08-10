@@ -1,5 +1,7 @@
 # Test-Zeugnis Azubi (Paragraf 16 BBiG)
 
+[Skill-Bundle](../../README.md) · [Eval-Harness](../../../README.md) · [Repository-Start](../../../../../README.md)
+
 Spezialfall: Ausbildungszeugnis nach Paragraf 16 BBiG. Skill soll die Sonderregeln
 erkennen (anderes Rechtsregime; auf Verlangen Verhalten + Leistung).
 

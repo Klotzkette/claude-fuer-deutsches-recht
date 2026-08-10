@@ -21,6 +21,8 @@ import re
 import sys
 from pathlib import Path
 
+from readme_display import display_prose
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 GH_OWNER = "Klotzkette"
 GH_REPO = "claude-fuer-deutsches-recht"
@@ -69,7 +71,7 @@ def read_description(skill_md: Path) -> str:
         return ""
     if desc.startswith('"') and desc.endswith('"'):
         desc = desc[1:-1]
-    desc = clean_description(desc.replace("\n", " ").strip())
+    desc = display_prose(clean_description(desc.replace("\n", " ").strip()))
     desc = desc.replace("|", "\\|").strip()
     if len(desc) > 280:
         desc = desc[:277].rstrip() + "..."
@@ -85,7 +87,7 @@ def natural_key(text: str) -> list[object]:
 
 
 def collect_plugins() -> list[tuple[str, list[str]]]:
-    """Liest Plugin-Reihenfolge aus marketplace.json und scannt jeden Plugin-Ordner."""
+    """Liest marketplace.json und scannt jeden Plugin-Ordner alphabetisch."""
     market = json.loads((REPO_ROOT / ".claude-plugin" / "marketplace.json").read_text())
     out: list[tuple[str, list[str]]] = []
     for plugin in market["plugins"]:
@@ -105,7 +107,27 @@ def collect_plugins() -> list[tuple[str, list[str]]]:
         )
         if skills:
             out.append((name, skills))
-    return out
+    return sorted(out, key=lambda item: natural_key(item[0]))
+
+
+def group_label(name: str) -> str:
+    first = name[:1].upper()
+    return first if first.isalpha() else "0-9"
+
+
+def grouped_plugins(
+    plugins: list[tuple[str, list[str]]],
+) -> list[tuple[str, list[tuple[str, list[str]]]]]:
+    groups: dict[str, list[tuple[str, list[str]]]] = {}
+    for plugin in plugins:
+        groups.setdefault(group_label(plugin[0]), []).append(plugin)
+    labels = sorted(groups, key=lambda value: (value != "0-9", value))
+    return [(label, groups[label]) for label in labels]
+
+
+def alphabetical_navigation(plugins: list[tuple[str, list[str]]]) -> str:
+    labels = [label for label, _ in grouped_plugins(plugins)]
+    return " · ".join(f"[{label}](#{label.lower()})" for label in labels)
 
 
 def header(total_skills: int, total_plugins: int, version: str) -> str:
@@ -118,7 +140,7 @@ Automatisch generierte Gesamtübersicht aller **{total_skills} Skills** in **{to
 
 Stand: `{version}`.
 
-[Repository-Start](README.md) · [Download-Index](ASSET_INDEX.md) · [Testakten](testakten/README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Detailseiten](skills-index/)
+[Repository-Start](README.md) · [Download-Index](ASSET_INDEX.md) · [Werkstatt und Schnellstart](docs/werkstatt-und-schnellstart-coverage.md) · [Testakten](testakten/README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Detailseiten](skills-index/)
 
 ## Alle Skills auf einmal herunterladen
 
@@ -161,21 +183,30 @@ def plugin_overview_table(plugins: list[tuple[str, list[str]]]) -> str:
     lines = [
         "## Alle Plugins",
         "",
-        "Pro Plugin: Klick auf den Namen öffnet die Detailseite mit allen Skills, Beschreibungen und Einzel-Downloads. **Werkstatt** und **Schnellstart** laden die Ein-Datei-Prompts direkt als Markdown. **Plugin-ZIP** lädt die installierbare Plugin-Sammlung.",
+        "Die Plugins sind alphabetisch sortiert. Der Name öffnet die Detailseite mit allen Skills, Beschreibungen und Einzel-Downloads. **Werkstatt** und **Schnellstart** laden die Ein-Datei-Prompts direkt als Markdown. **Plugin-ZIP** lädt die installierbare Plugin-Sammlung.",
         "",
-        "| Plugin | Skills | Detailseite | Werkstatt (Markdown) | Schnellstart (Markdown) | Plugin-ZIP |",
-        "| --- | ---: | --- | --- | --- | --- |",
+        alphabetical_navigation(plugins),
+        "",
     ]
-    for name, skills in plugins:
-        source_rel = _source_rel_for(name)
-        zip_url = f"{GH_RELEASE}/{name}.zip"
-        werkstatt_url = f"{GH_RAW}/{source_rel}/{name}-werkstatt.md"
-        schnellstart_url = f"{GH_RAW}/{source_rel}/{name}-schnellstart.md"
-        detail = f"skills-index/{name}.md"
-        lines.append(
-            f"| **{name}** | {len(skills)} | [Skills ansehen]({detail}) | <a href=\"{werkstatt_url}\" download><code>Werkstatt</code></a> | <a href=\"{schnellstart_url}\" download><code>Schnellstart</code></a> | [Plugin]({zip_url}) |"
+    for label, items in grouped_plugins(plugins):
+        lines.extend(
+            [
+                f"### {label}",
+                "",
+                "| Plugin | Skills | Detailseite | Werkstatt (Markdown) | Schnellstart (Markdown) | Plugin-ZIP |",
+                "| --- | ---: | --- | --- | --- | --- |",
+            ]
         )
-    lines.append("")
+        for name, skills in items:
+            source_rel = _source_rel_for(name)
+            zip_url = f"{GH_RELEASE}/{name}.zip"
+            werkstatt_url = f"{GH_RAW}/{source_rel}/{name}-werkstatt.md"
+            schnellstart_url = f"{GH_RAW}/{source_rel}/{name}-schnellstart.md"
+            detail = f"skills-index/{name}.md"
+            lines.append(
+                f"| **{name}** | {len(skills)} | [Skills ansehen]({detail}) | <a href=\"{werkstatt_url}\" download><code>Werkstatt</code></a> | <a href=\"{schnellstart_url}\" download><code>Schnellstart</code></a> | [Plugin]({zip_url}) |"
+            )
+        lines.append("")
     return "\n".join(lines)
 
 
@@ -247,16 +278,20 @@ def write_detail_index(plugins: list[tuple[str, list[str]]], version: str) -> st
         "",
         f"Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `{version}`.",
         "",
-        "Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstürzt oder die Seite endlos neu lädt.",
+        f"Die Aufteilung verhindert, dass eine einzige Seite alle {sum(len(skills) for _, skills in plugins)} Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.",
         "",
-        "[Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)",
+        "[Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Download-Index](../ASSET_INDEX.md) · [Werkstatt und Schnellstart](../docs/werkstatt-und-schnellstart-coverage.md) · [Testakten](../testakten/README.md)",
         "",
         "## Alle Detailseiten",
         "",
+        "Alphabetisch sortiert: " + alphabetical_navigation(plugins),
+        "",
     ]
-    for name, skills in plugins:
-        lines.append(f"- [{name}](./{name}.md) ({len(skills)} Skills)")
-    lines.append("")
+    for label, items in grouped_plugins(plugins):
+        lines.extend([f"### {label}", ""])
+        for name, skills in items:
+            lines.append(f"- [{name}](./{name}.md) ({len(skills)} Skills)")
+        lines.append("")
     return "\n".join(lines)
 
 

@@ -282,17 +282,18 @@ def first_product(directory: Path, plugin_name: str) -> str:
 def quickstart_section(plugin_name: str, directory: Path) -> str:
     title = readme_title(directory, plugin_name)
     product = first_product(directory, plugin_name)
+    detail = relative_link(directory, REPO / "skills-index" / f"{plugin_name}.md")
     return f"""## In 30 Sekunden starten
 
 | Ausgangslage | Schnellster Weg |
 | --- | --- |
-| Plugin installiert | Passenden Fachskill aus der Skill-Liste wählen und den untenstehenden Startsatz mit dem Arbeitsordner absenden. |
+| Plugin installiert | Passenden Fachskill in der [alphabetisch sortierten Skill-Liste]({detail}) wählen und den untenstehenden Startsatz mit dem Arbeitsordner absenden. |
 | Noch keine Installation | Den Schnellstart als Markdown laden und zusammen mit den Unterlagen öffnen. |
 | Umfangreicher oder mehrstufiger Vorgang | Die Werkstatt laden; sie führt tiefer durch Fachrouten, Gegenposition und Endprodukt. |
 
 Startsatz für {title}:
 
-> Lies zuerst alle Dateien im ausgewählten Ordner. Bearbeite den Vorgang mit diesem Fachgebiet und liefere als Erstes {product}. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
+> Lies zuerst alle Dateien im ausgewählten Ordner. Bearbeite den Vorgang mit diesem Fachgebiet. Beginne mit folgendem Arbeitsschritt: {product}. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
 
 Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen."""
 

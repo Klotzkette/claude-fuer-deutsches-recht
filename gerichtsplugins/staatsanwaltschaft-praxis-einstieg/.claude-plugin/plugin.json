@@ -1,6 +1,6 @@
 {
   "name": "staatsanwaltschaft-praxis-einstieg",
-  "version": "439.2.0",
+  "version": "439.2.1",
   "description": "Praxisplugin fuer neue Staatsanwaelte: Aktenstart, Anfangsverdacht, Ermittlungsauftrag, Eingriffe, Anklage, Strafbefehl, Einstellung, Sitzungsdienst, Rechtsmittel und OWiG.",
   "license": "Apache-2.0 OR MIT",
   "author": {

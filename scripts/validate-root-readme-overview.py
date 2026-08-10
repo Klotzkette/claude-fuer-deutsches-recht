@@ -14,6 +14,8 @@ REPO = Path(__file__).resolve().parent.parent
 PLUGIN_META_DIR = ".cla" + "ude-plugin"
 MARKETPLACE = REPO / PLUGIN_META_DIR / "marketplace.json"
 SKIP_TESTAKTEN = {"formatvorlagen-paradebeispiele", "megaprompts"}
+CATALOG_BEGIN = "<!-- BEGIN PLUGIN-KATALOG (auto-generated) -->"
+CATALOG_END = "<!-- END PLUGIN-KATALOG (auto-generated) -->"
 
 
 def load_marketplace() -> dict:
@@ -59,6 +61,111 @@ def require(pattern: str, text: str, label: str) -> re.Match[str]:
     if not match:
         raise AssertionError(f"{label}: Angabe fehlt")
     return match
+
+
+def sequence_error(label: str, actual: list[str], expected: list[str]) -> list[str]:
+    if actual == expected:
+        return []
+    missing = [value for value in expected if value not in actual]
+    extra = [value for value in actual if value not in expected]
+    first = next(
+        (
+            index
+            for index, (left, right) in enumerate(zip(actual, expected))
+            if left != right
+        ),
+        min(len(actual), len(expected)),
+    )
+    detail = f"erste Abweichung an Position {first + 1}"
+    if missing:
+        detail += f", fehlt: {', '.join(missing[:5])}"
+    if extra:
+        detail += f", zusätzlich: {', '.join(extra[:5])}"
+    return [f"{label}: Reihenfolge oder Vollständigkeit stimmt nicht ({detail})"]
+
+
+def natural_key(text: str) -> list[object]:
+    normalized = text.lower()
+    if re.match(r"^lph\d", normalized):
+        normalized = f"lphz-{normalized}"
+    normalized = re.sub(r"(?<=[a-z])(?=\d)", "-", normalized)
+    return [int(part) if part.isdigit() else part for part in re.split(r"(\d+)", normalized)]
+
+
+def check_sorted_inventories(marketplace: dict) -> list[str]:
+    errors: list[str] = []
+    plugins = marketplace["plugins"]
+    names = [plugin["name"] for plugin in plugins]
+    expected_names = sorted(names, key=str.lower)
+    errors += sequence_error("marketplace.json Plugins", names, expected_names)
+
+    root_readme = (REPO / "README.md").read_text(encoding="utf-8")
+    if CATALOG_BEGIN not in root_readme or CATALOG_END not in root_readme:
+        errors.append("README Plugin-Katalog: Generator-Markierungen fehlen")
+    else:
+        catalog = root_readme.split(CATALOG_BEGIN, 1)[1].split(CATALOG_END, 1)[0]
+        root_names = re.findall(r"^\| \[`([^`]+)`\]\(\./[^)]+\) \|", catalog, re.MULTILINE)
+        errors += sequence_error("README Plugin-Katalog", root_names, expected_names)
+
+    skills = (REPO / "SKILLS.md").read_text(encoding="utf-8")
+    skills_names = re.findall(r"^\| \*\*([^*]+)\*\* \| \d+ \|", skills, re.MULTILINE)
+    errors += sequence_error("SKILLS.md Plugin-Liste", skills_names, expected_names)
+
+    skills_index = (REPO / "skills-index" / "README.md").read_text(encoding="utf-8")
+    detail_names = re.findall(r"^- \[([^]]+)\]\(\./[^)]+\.md\) \(\d+ Skills\)$", skills_index, re.MULTILINE)
+    errors += sequence_error("skills-index/README.md", detail_names, expected_names)
+
+    asset_index = (REPO / "ASSET_INDEX.md").read_text(encoding="utf-8")
+    asset_names = re.findall(r"^\| \[`([^`]+)`\]\([^)]+/README\.md\) \|", asset_index, re.MULTILINE)
+    errors += sequence_error("ASSET_INDEX.md Plugin-Liste", asset_names, expected_names)
+
+    coverage = (REPO / "docs" / "werkstatt-und-schnellstart-coverage.md").read_text(encoding="utf-8")
+    if "## Werkstatt-Prompts" not in coverage or "## Schnellstart-Prompts" not in coverage:
+        errors.append("Prompt-Coverage: getrennte Werkstatt- und Schnellstart-Listen fehlen")
+    else:
+        werkstatt, schnellstart = coverage.split("## Schnellstart-Prompts", 1)
+        werkstatt = werkstatt.split("## Werkstatt-Prompts", 1)[1]
+        werkstatt_names = re.findall(r"^\| `([^`]+)` \|", werkstatt, re.MULTILINE)
+        schnellstart_names = re.findall(r"^\| `([^`]+)` \|", schnellstart, re.MULTILINE)
+        errors += sequence_error("Werkstatt-Prompt-Liste", werkstatt_names, expected_names)
+        errors += sequence_error("Schnellstart-Prompt-Liste", schnellstart_names, expected_names)
+
+    testakten_root = REPO / "testakten"
+    expected_akten = sorted(
+        path.name
+        for path in testakten_root.iterdir()
+        if path.is_dir() and (path / "README.md").is_file()
+    )
+    testakten_readme = (testakten_root / "README.md").read_text(encoding="utf-8")
+    listed_akten = re.findall(
+        r"^\| \[`([^`/]+)/`\]\(\./\1/\) \|",
+        testakten_readme,
+        re.MULTILINE,
+    )
+    errors += sequence_error("testakten/README.md Akten-Liste", listed_akten, expected_akten)
+
+    for plugin in plugins:
+        directory = plugin_source(plugin)
+        readme = directory / "README.md"
+        text = readme.read_text(encoding="utf-8")
+        begin = "<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->"
+        end = "<!-- END SKILLS-OVERVIEW (auto-generated) -->"
+        if begin not in text or end not in text:
+            errors.append(f"{plugin['name']}: alphabetische Skill-Komplettliste fehlt")
+            continue
+        overview = text.split(begin, 1)[1].split(end, 1)[0]
+        actual_skills = re.findall(
+            r"^\| \[`([^`]+)`\]\(skills/\1/SKILL\.md\) \|",
+            overview,
+            re.MULTILINE,
+        )
+        expected_skills = sorted(
+            (path.parent.name for path in (directory / "skills").glob("*/SKILL.md")),
+            key=natural_key,
+        )
+        errors += sequence_error(f"{plugin['name']} Skill-Liste", actual_skills, expected_skills)
+
+    return errors
 
 
 def check_root_readme(values: dict[str, int | str]) -> list[str]:
@@ -143,8 +250,13 @@ def check_generated_overviews(values: dict[str, int | str]) -> list[str]:
 
 
 def main() -> int:
-    values = count_values(load_marketplace())
-    errors = check_root_readme(values) + check_generated_overviews(values)
+    marketplace = load_marketplace()
+    values = count_values(marketplace)
+    errors = (
+        check_root_readme(values)
+        + check_generated_overviews(values)
+        + check_sorted_inventories(marketplace)
+    )
     if errors:
         for error in errors:
             print(f"ERROR: {error}")

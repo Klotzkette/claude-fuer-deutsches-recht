@@ -1,5 +1,7 @@
 # Test-Zeugnis mit roten Flaggen (Note 4)
 
+[Skill-Bundle](../../README.md) · [Eval-Harness](../../../README.md) · [Repository-Start](../../../../../README.md)
+
 Eingabe für den Skill. Erwarteter Output: Gesamtnote 4, multiple rote Flaggen
 erkannt, Berichtigungsempfehlung vorhanden.
 

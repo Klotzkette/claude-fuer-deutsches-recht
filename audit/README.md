@@ -1,5 +1,7 @@
 # Audit-Verzeichnis
 
+[Repository-Start](../README.md) · [Zitierstandard](../references/zitierweise.md) · [Leitentscheidungs-Anker](../references/leitentscheidungen-anker.md)
+
 Dieses Verzeichnis dokumentiert Halluzinations-Audits über alle Aktenzeichen
 in den SKILL.md-Dateien des Repos.
 
