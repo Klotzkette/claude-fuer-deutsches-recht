@@ -1,5 +1,7 @@
 # Portable Eval-Harness — Drop-In für beliebige Legal-AI-Repos
 
+[Repository-Start](../../README.md) · [Testakten](../../testakten/README.md) · [Qualitätsstandard](../../testakten/QUALITAETSSTANDARD.md)
+
 Bringe den Klotzkette/Harvey-LAB-Style-Bewertungsrahmen in dein eigenes Repo.
 
 ## Was du bekommst

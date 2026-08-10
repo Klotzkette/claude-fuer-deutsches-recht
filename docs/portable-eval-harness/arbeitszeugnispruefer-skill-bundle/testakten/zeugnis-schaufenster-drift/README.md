@@ -1,5 +1,7 @@
 # Test-Zeugnis Schaufenster-Drift (Note 2 bis 3)
 
+[Skill-Bundle](../../README.md) · [Eval-Harness](../../../README.md) · [Repository-Start](../../../../../README.md)
+
 Skill soll Drift im Themenbereich erkennen — Spitzensätze neben schwacher
 Hauptformel oder Drift zwischen Themen­blöcken.
 

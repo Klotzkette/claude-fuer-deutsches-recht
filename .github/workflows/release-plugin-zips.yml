@@ -107,6 +107,9 @@ jobs:
       - name: Release-Asset-Index neu erzeugen
         run: python3 scripts/generate-asset-index.py
 
+      - name: Vollständigen Plugin-Katalog in README.md neu erzeugen
+        run: python3 scripts/generate-root-plugin-catalog.py
+
       - name: Root- und Index-Übersichten gegen Marketplace validieren
         run: |
           python3 scripts/validate-root-readme-overview.py

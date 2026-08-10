@@ -69,6 +69,8 @@ def validate_markdown_links(errors: list[str]) -> tuple[int, int]:
     checked_anchors = 0
     for path in markdown_files:
         text = path.read_text(encoding="utf-8", errors="ignore")
+        if path.name == "README.md" and not re.search(r"^#\s+\S", text, re.MULTILINE):
+            errors.append(f"{repo_relative(path)}: sichtbare Hauptüberschrift fehlt")
         for match in MARKDOWN_LINK_RE.finditer(text):
             label = match.group(1).strip()
             destination = link_destination(match.group(2))
@@ -175,6 +177,8 @@ def validate_root_navigation(errors: list[str]) -> None:
         "./skills-index/",
         "./ASSET_INDEX.md",
         "./PROMPTLISTE.md",
+        "./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts",
+        "./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts",
         "./testakten/README.md",
         "./INSTALLATION_EINFACH.md",
         "./QUICKSTART.md",

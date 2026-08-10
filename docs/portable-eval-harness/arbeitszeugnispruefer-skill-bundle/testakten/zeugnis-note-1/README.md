@@ -1,5 +1,7 @@
 # Test-Zeugnis Note 1 (Positivreferenz)
 
+[Skill-Bundle](../../README.md) · [Eval-Harness](../../../README.md) · [Repository-Start](../../../../../README.md)
+
 Dieser Test-Ordner dient als Eingabe für die Eval-Harness. Erwarteter Skill-Output:
 Note 1 in allen vier Achsen (Leistung, Verhalten, Engagement, Kompetenz),
 grüne Ampel-Bilanz, keine Streitstellen.

@@ -1,3 +1,15 @@
+# v439.2.1 - Vollständige README-Navigation und sortierte Kataloge
+
+- Das Haupt-README enthält nun einen vollständigen, alphabetisch sortierten Katalog aller 235 installierbaren Plugins. Auch die 26 Plugins in den Sammelordnern für Gerichts- und Insolvenzpraxis erscheinen einzeln mit ihrem tatsächlichen Repository-Pfad.
+- Die Direktnavigation führt getrennt zu allen Plugins, 26461 Skills, 235 Werkstatt-Prompts, 235 Schnellstart-Prompts und 302 zentralen Testakten. Die Werkstatt- und Schnellstart-Übersicht ist in zwei eigenständige A-Z-Listen mit Repository-Ansicht und echtem Markdown-Direktdownload aufgeteilt.
+- `SKILLS.md`, `skills-index/README.md` und `ASSET_INDEX.md` sind unabhängig von der Manifestreihenfolge alphabetisch gruppiert und mit Buchstabensprüngen versehen. Jede der 235 Skill-Detailseiten und jede Plugin-README führt vollständig und sortiert zu den vorhandenen Skills.
+- Alle pluginbezogenen Skill-Tabellen bieten neben dem Öffnen der `SKILL.md` nun einen unmittelbaren Markdown-Download. Der 30-Sekunden-Start jeder Plugin-README verlinkt direkt auf die passende Skill-Detailseite und verwendet einen sprachlich belastbaren Startsatz.
+- Die Testakten-Übersicht erklärt die drei angebotenen Fassungen und den schnellsten Zugangsweg. Zusätzliche Navigationsleisten wurden in zuvor isolierten Dokumentations-, Prüf- und Vorlagen-READMEs ergänzt; fünf Plugin-READMEs ohne sichtbare Hauptüberschrift wurden berichtigt.
+- Sichtbare Beschreibungen verwenden echte Umlaute, während Slugs, Dateinamen, Code und Downloadziele unverändert bleiben. Wiederholte Warnhinweise im Haupt-README wurden gestrafft und die wichtigsten Nutzungspfade an den Anfang gestellt.
+- Neue Vollständigkeitsprüfungen gleichen Plugin-, Skill-, Prompt- und Testaktenlisten einschließlich Reihenfolge gegen den tatsächlichen Bestand ab. Der Linkaudit prüft alle README-Hauptüberschriften, lokalen Ziele, Anker und Markdown-Direktdownloads.
+
+---
+
 # v439.2.0 - Verbleibende Testakten mit lebensnahen Primärstücken ausgebaut
 
 - Die noch offene Ausbaurunde ist abgeschlossen: 26 neue Primärstücke ergänzen 21 fachlich sehr unterschiedliche Akten aus Medizin-, Beamten-, Bereicherungs-, Digital-, Sport-, Gesellschafts-, Insolvenz-, Presse-, Renten-, Robotik-, Straf- und Zivilprozessrecht.

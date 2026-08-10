@@ -1,5 +1,7 @@
 # Personalakten für Zeugniserstellung
 
+[Plugin-README](../../README.md) · [Plugin-Dateien](../../) · [Repository-Start](../../../README.md)
+
 Diese zehn Personalakten enthalten die Rohdaten und HR-Notizen, die ein Arbeitgeber typischerweise vor der Zeugniserstellung zusammenträgt. Sie sind die Eingabe für das Plugin arbeitszeugnisgenerator. Jede Personalakte ergibt mit dem Werkstatt-Prompt ein vollständiges qualifiziertes Zeugnis.
 
 Mitarbeiter:

@@ -3,8 +3,11 @@
 
 from __future__ import annotations
 
+import html
 import json
 from pathlib import Path
+
+from readme_display import display_prose
 
 
 REPO = Path(__file__).resolve().parent.parent
@@ -24,51 +27,75 @@ def plugin_dir(plugin: dict) -> Path:
     return REPO / source
 
 
-def source_label(path: Path) -> str:
-    if not path.is_file():
-        return "fehlt"
-    text = path.read_text(encoding="utf-8", errors="ignore")
-    if "Dieser Werkstatt-Prompt verdichtet das Plugin" in text or "Ich bin der kompakte Arbeitsmodus" in text:
-        return "auto"
-    return "lokal"
+def direct_download(url: str, label: str) -> str:
+    return f'<a href="{url}" download><code>{html.escape(label)}</code></a>'
 
 
-def main() -> int:
-    DOCS.mkdir(exist_ok=True)
-    plugins = json.loads(MARKETPLACE.read_text(encoding="utf-8"))["plugins"]
-    ok = 0
+def prompt_table(plugins: list[dict], kind: str) -> list[str]:
+    title = "Werkstatt-Prompts" if kind == "werkstatt" else "Schnellstart-Prompts"
+    purpose = (
+        "Ausführlicher Arbeitsmodus für komplexe oder mehrstufige Vorgänge."
+        if kind == "werkstatt"
+        else "Kompakter Einstieg für den Kernworkflow und ein erstes belastbares Arbeitsprodukt."
+    )
     lines = [
-        "# Werkstatt- und Schnellstart-Coverage",
+        f"## {title}",
         "",
-        "Diese Tabelle zeigt, ob jedes Plugin eine ausführliche Werkstatt-Datei und eine kompakte Schnellstart-Datei besitzt. Werkstatt und Schnellstart werden ausschließlich als Markdown-Direkt-Download angeboten (raw.githubusercontent.com), nicht mehr als ZIP.",
+        purpose,
         "",
-        "| Plugin | Werkstatt-Datei | Werkstatt-Quelle | Werkstatt-Direct-Download | Schnellstart-Datei | Schnellstart-Quelle | Schnellstart-Direct-Download |",
-        "| --- | --- | --- | --- | --- | --- | --- |",
+        "| Plugin | Kurzbeschreibung | Im Repository | Direktdownload | Navigation |",
+        "| --- | --- | --- | --- | --- |",
     ]
     for plugin in plugins:
         name = plugin["name"]
         directory = plugin_dir(plugin)
-        stem = prompt_stem(name)
+        prompt = directory / f"{name}-{kind}.md"
+        rel = prompt.relative_to(REPO).as_posix()
+        description = html.escape(
+            display_prose(str(plugin.get("description", ""))).replace("|", "\\|")
+        )
+        raw = f"{RAW_BASE}/{rel}"
+        plugin_rel = directory.relative_to(REPO).as_posix()
+        lines.append(
+            f"| `{name}` | {description} | [`{prompt.name}`](../{rel}) | "
+            f"{direct_download(raw, prompt.name)} | "
+            f"[README](../{plugin_rel}/README.md) · [Skills](../skills-index/{name}.md) |"
+        )
+    lines.append("")
+    return lines
+
+
+def main() -> int:
+    DOCS.mkdir(exist_ok=True)
+    plugins = sorted(
+        json.loads(MARKETPLACE.read_text(encoding="utf-8"))["plugins"],
+        key=lambda plugin: plugin["name"].lower(),
+    )
+    ok = 0
+    lines = [
+        "# Werkstatt- und Schnellstart-Coverage",
+        "",
+        "Vollständige, alphabetisch sortierte Übersicht der ausführlichen Werkstatt-Prompts und kompakten Schnellstart-Prompts. Beide Formate werden ausschließlich als einzelne Markdown-Dateien angeboten, nicht als ZIP und nicht als installierbarer Skill.",
+        "",
+        "[Repository-Start](../README.md) · [Download-Index](../ASSET_INDEX.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Testakten](../testakten/README.md)",
+        "",
+        "[Werkstatt-Prompts](#werkstatt-prompts) · [Schnellstart-Prompts](#schnellstart-prompts)",
+        "",
+    ]
+    for plugin in plugins:
+        directory = plugin_dir(plugin)
+        stem = prompt_stem(plugin["name"])
         werkstatt = directory / f"{stem}-werkstatt.md"
         schnellstart = directory / f"{stem}-schnellstart.md"
         if werkstatt.is_file() and schnellstart.is_file():
             ok += 1
-        werkstatt_rel = werkstatt.relative_to(REPO)
-        schnellstart_rel = schnellstart.relative_to(REPO)
-        werkstatt_raw = f"{RAW_BASE}/{werkstatt_rel.as_posix()}"
-        schnellstart_raw = f"{RAW_BASE}/{schnellstart_rel.as_posix()}"
-        lines.append(
-            f"| `{name}` | [`{werkstatt.name}`](../{werkstatt_rel.as_posix()}) | {source_label(werkstatt)} | "
-            f"[Markdown]({werkstatt_raw}) | "
-            f"[`{schnellstart.name}`](../{schnellstart_rel.as_posix()}) | {source_label(schnellstart)} | "
-            f"[Markdown]({schnellstart_raw}) |"
-        )
     percent = 100 if not plugins else round(ok * 100 / len(plugins), 2)
     lines += [
-        "",
-        f"Gesamtcoverage: {ok} von {len(plugins)} Plugins, also {percent} Prozent.",
+        f"Vollständigkeit: **{ok} von {len(plugins)} Plugins**, also {percent} Prozent.",
         "",
     ]
+    lines.extend(prompt_table(plugins, "werkstatt"))
+    lines.extend(prompt_table(plugins, "schnellstart"))
     (DOCS / "werkstatt-und-schnellstart-coverage.md").write_text("\n".join(lines), encoding="utf-8")
     print(f"Coverage geschrieben: {ok}/{len(plugins)} Plugins")
     return 0 if ok == len(plugins) else 1

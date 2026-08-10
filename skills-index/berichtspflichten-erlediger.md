@@ -1,6 +1,6 @@
 # berichtspflichten-erlediger
 
-**58 Skills** · Stand `v439.2.0`
+**58 Skills** · Stand `v439.2.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../berichtspflichten-erlediger/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
