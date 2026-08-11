@@ -1,0 +1,23 @@
+name: eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig
+plugin: "europaeisches-prozessrecht"
+description: "Direkte Nichtigkeitsklage eines Beihilfebegünstigten mit e-Curia, Frist, Vollmacht, Vertraulichkeit und möglichem Eilrechtsschutz."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens zwölf exportierbare Primärunterlagen vorhanden
+    min: 12
+  - id: frist
+    check_type: human_review
+    description: "Zustellung am 17.04.2026, Zweimonatsfrist nach Artikel 263 Abs. 6 AEUV, Berechnung nach Artikel 58 und Entfernungsfrist nach Artikel 60 der Verfahrensordnung des Gerichts sowie das Wochenende sauber zusammenführen."
+  - id: klagebefugnis
+    check_type: human_review
+    description: "Adressat der Rückforderungswirkung, unmittelbare und individuelle Betroffenheit sowie Rechtsschutzbedürfnis getrennt prüfen."
+  - id: e-curia
+    check_type: human_review
+    description: "Technische Eingangsbestätigung nicht mit gerichtlicher Zulässigkeitsprüfung verwechseln und Nachbesserung fristgerecht organisieren."
+  - id: vertraulichkeit
+    check_type: human_review
+    description: "Anlagenverzeichnis, vertrauliche Fassung und nicht vertrauliche Fassung datei- und seitenbezogen abstimmen."
+  - id: eilrechtsschutz
+    check_type: human_review
+    description: "Klage und möglichen Antrag nach Artikeln 278 und 279 AEUV einschließlich Dringlichkeit und Interessenabwägung getrennt strukturieren."

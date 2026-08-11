@@ -1,0 +1,23 @@
+name: gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm
+plugin: "gesellschaftsrechtliche-treuepflicht"
+description: "Familien-GmbH zwischen Bankauflage, selektiver Kapitalerhöhung, Verwässerung, Related-Party-Vertrag und Registervollzug."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens zwölf exportierbare Primärunterlagen vorhanden
+    min: 12
+  - id: satzung
+    check_type: human_review
+    description: "Satzungsmehrheiten, gesetzliche Anforderungen der Kapitalerhöhung und tatsächliche Abstimmung getrennt erfassen."
+  - id: treuepflicht
+    check_type: human_review
+    description: "Sanierungsbedarf, Gleichbehandlung, Bezugschance, Information und weniger belastende Alternativen in einer fallbezogenen Treuepflichtprüfung abwägen."
+  - id: stimmverbot
+    check_type: human_review
+    description: "Die Abstimmung über den Vertrag mit der vom Geschäftsführer beherrschten VB Industriepark GmbH eigenständig nach Paragraf 47 Abs. 4 GmbHG prüfen."
+  - id: eilschutz
+    check_type: human_review
+    description: "Registerstand, Notariatsschreiben, Zahlungsnachweis und drohende Eintragung für Antrag, Glaubhaftmachung und Dringlichkeit zusammenführen."
+  - id: zahlen
+    check_type: human_review
+    description: "Liquiditätsplan und Kapitalangebote rechnerisch aufeinander beziehen, ohne den NordRail-Eingang als sicher zu behandeln."

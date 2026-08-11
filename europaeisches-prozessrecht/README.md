@@ -44,9 +44,19 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`europaeisches-prozessrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europaeisches-prozessrecht.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`europaeisches-prozessrecht-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=europaeisches-prozessrecht/europaeisches-prozessrecht-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`europaeisches-prozessrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=europaeisches-prozessrecht/europaeisches-prozessrecht-werkstatt.md) |
-| Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
+| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 235 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+
+## Zugeordnete Testakten
+
+Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
+| --- | --- | --- | --- |
+| [Europäisches Prozessrecht: Beihilfe-Nichtigkeitsklage aus Leipzig](../testakten/eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig/README.md) | [Gesamt-PDF](../testakten/eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig/gesamt-pdf/eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig_gesamt.pdf) | [`testakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig.zip) | [`testakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig-einzelpdfs.zip) |
+
+[Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 Eigenes Verfahrensplugin für Verfahren vor dem Gerichtshof der Europäischen Union und dem Gericht der Europäischen Union, dem früheren Gericht erster Instanz. Es trennt Klagearten, Vorlageverfahren, e-Curia, Fristen, Verfahrenssprache, Beweis, Intervention, Rechtsmittel und Folgeverfahren so, dass aus einer Akte schnell ein belastbarer Schriftsatz-, Vermerk- oder Fristenplan wird.

@@ -1,6 +1,6 @@
 # richter-verwaltungsgericht
 
-**14 Skills** · Stand `v439.2.2`
+**14 Skills** · Stand `v439.3.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gerichtsplugins/richter-verwaltungsgericht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

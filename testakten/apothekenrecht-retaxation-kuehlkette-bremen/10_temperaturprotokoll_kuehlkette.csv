@@ -1,0 +1,9 @@
+Zeitpunkt;Gerät;Ort;Temperatur_C;Status;Bemerkung
+2026-02-20 05:41;NL-44018;Transportbox K-99218;4.3;ok;Packvorgang beendet
+2026-02-20 06:15;NL-44018;Transportbox K-99218;5.2;ok;Tour HB-K2
+2026-02-20 07:18;FZ-1182;Laderaum Türzone;9.1;Warnung;Türöffnung bei erster Zustellung
+2026-02-20 07:18;NL-44018;Transportbox K-99218;7.8;ok;Höchstwert Boxlogger
+2026-02-20 07:31;NL-44018;Wareneingang Apotheke;7.1;ok;Übergabe
+2026-02-20 08:00;A2-APO;Quarantänefach A-2;5.6;ok;Zwischenlagerung
+2026-02-20 12:00;A2-APO;Kühlschrank A-2;4.9;ok;Routinewert
+2026-02-21 10:35;A2-APO;Kühlschrank A-2;5.1;ok;Entnahme zur Abgabe

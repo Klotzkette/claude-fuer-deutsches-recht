@@ -44,9 +44,19 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`berufsrecht-wirtschaftspruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-wirtschaftspruefer.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`berufsrecht-wirtschaftspruefer-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-wirtschaftspruefer/berufsrecht-wirtschaftspruefer-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`berufsrecht-wirtschaftspruefer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-wirtschaftspruefer/berufsrecht-wirtschaftspruefer-werkstatt.md) |
-| Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
+| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 235 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+
+## Zugeordnete Testakten
+
+Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
+| --- | --- | --- | --- |
+| [Wirtschaftsprüferrecht: Unabhängigkeit und APAS-Inspektion in Hamburg](../testakten/wirtschaftsprueferrecht-unabhaengigkeit-hamburg/README.md) | [Gesamt-PDF](../testakten/wirtschaftsprueferrecht-unabhaengigkeit-hamburg/gesamt-pdf/wirtschaftsprueferrecht-unabhaengigkeit-hamburg_gesamt.pdf) | [`testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg.zip) | [`testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg-einzelpdfs.zip) |
+
+[Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.

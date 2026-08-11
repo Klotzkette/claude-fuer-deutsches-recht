@@ -1,3 +1,16 @@
+# v439.3.0 - Fünf prioritäre Schulungsakten für bislang unversorgte Plugins
+
+- Der Testaktenbestand wächst auf 307 zentrale Akten. Fünf bisher nicht mit einer eigenen Akte versorgte Plugins erhalten je einen vollständigen, fachlich eigenständigen Schulungsfall: Apothekenrecht, Krankenhausrecht, europäisches Prozessrecht, gesellschaftsrechtliche Treuepflicht und Berufsrecht der Wirtschaftsprüfer.
+- Die neuen Akten enthalten zusammen 61 Primärstücke in lebensnahen Originalformaten: 31 gesetzte DOCX-Dokumente, zehn vollständige E-Mails, fünf Chat- oder Textauszüge, zehn CSV-Zahlenwerke und fünf Bildanlagen. Namen, Daten, Beträge, Aktenzeichen und Kommunikationsverläufe sind innerhalb jeder Akte durchgehend abgestimmt.
+- Die Apothekenakte verbindet elektronisches Rezept, Dosierungsfrage, Kühlkettenaufzeichnungen, Großhandelsfreigabe, Patientenberatung und eine angekündigte Retaxation. Die Krankenhausakte bildet eine MD-Prüfung der intensivmedizinischen Komplexbehandlung mit SAPS-II-/TISS-Rohwerten, Dokumentationslücken und Aufrechnung ab.
+- Die unionsgerichtliche Akte führt von der Zustellung einer Beihilfeentscheidung über Rückforderungsberechnung und Fristenkontrolle bis zur e-Curia-Einreichung, Anlagenvertraulichkeit und gerichtlichen Nachbesserung. Die Gesellschaftsakte verbindet Kapitalerhöhung, Bezugsangebot, Minderheitsverwässerung, Related-Party-Vertrag, Bankauflage, Registervollzug und Eilrechtsschutz.
+- Die Wirtschaftsprüferakte enthält Prüfungsauftrag, Unabhängigkeitsabfrage, Prüfungsausschussprotokoll, Netzwerkhonorare, Zugriffs- und Änderungshistorie sowie eine APAS-Inspektion. Sie trennt zeitnahen Aktenbestand, spätere Ergänzungen und streitige Feststellungen quellenklar.
+- Für jede Akte wurden ein durchsuchbares Gesamt-PDF, ein flaches ZIP mit Originalformaten ohne Markdown und ein flaches ZIP mit getrennten Einzel-PDFs vorbereitet. Gesamt-PDF und Einzel-PDFs tragen den vorgeschriebenen zweisprachigen Hinweis; jedes Originalformat-ZIP enthält ihn als `README.txt`.
+- Ein Fehler in der Briefkopferkennung ist behoben: Bereits vorhandene, tabellenbasierte Kopfzeilen werden nun erkannt und nicht mehr durch einen zweiten Kopf überlagert. Der reproduzierbare Aktenaufbau ist in einem eigenen Bauskript festgehalten.
+- Hauptübersicht, fünf Plugin-READMEs, Testaktenkatalog, Skill-Verzeichnis und Downloadindex weisen die neuen Fälle alphabetisch und mit allen drei Downloadwegen aus.
+
+---
+
 # v439.2.2 - Zweisprachiger Pflicht-Hinweis in allen Testakten-Artefakten
 
 - Sämtliche auslieferbaren Gesamt-PDFs beginnen nun mit einem zweisprachigen Hinweis: Die Testakte wurde mit KI generiert, ist ein Experiment und wird auf eigene Verantwortung und Gefahr benutzt. Der Hinweis steht pro Gesamt-PDF genau einmal.

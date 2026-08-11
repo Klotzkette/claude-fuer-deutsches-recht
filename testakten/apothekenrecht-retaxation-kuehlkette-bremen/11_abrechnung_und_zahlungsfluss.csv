@@ -1,0 +1,7 @@
+Datum;Beleg;Beteiligter;Betrag_EUR;Buchungsart;Status;Bezug
+2026-02-20;NP-260220-88173;Nordpharm Logistik GmbH;68402.39;Wareneingang;bezahlt 2026-03-05;zwei Packungen SVB26A17
+2026-02-21;260221-0187;Yasemin Elmas;20.00;Zuzahlung;bezahlt bar;Abgabe
+2026-03-10;260221-1042;HanseMerk BKK;59842.18;Kassenforderung;ausgezahlt 2026-03-31;Monatsabrechnung Februar
+2026-06-18;AM-RX 7741/26;HanseMerk BKK;-59842.18;Retaxankündigung;offen;Stellungnahme bis 2026-07-09
+2026-06-23;RW-882901;Nordwest Rezeptabrechnung eG;-59842.18;Verrechnungsvormerkung;geplant 2026-07-14;Juli-Abschlag
+2026-07-02;HK/NM 26-114;Adler-Apotheke am Wall;0.00;Unterlageneingang;übermittelt;fünf Anlagen

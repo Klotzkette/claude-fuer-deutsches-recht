@@ -1,6 +1,6 @@
 # solo-selbststaendige-praxis
 
-**202 Skills** · Stand `v439.2.2`
+**202 Skills** · Stand `v439.3.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../solo-selbststaendige-praxis/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

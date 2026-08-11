@@ -1,6 +1,6 @@
 # fachanwalt-migrationsrecht
 
-**462 Skills** · Stand `v439.2.2`
+**462 Skills** · Stand `v439.3.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-migrationsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

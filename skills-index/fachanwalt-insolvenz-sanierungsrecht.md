@@ -1,6 +1,6 @@
 # fachanwalt-insolvenz-sanierungsrecht
 
-**507 Skills** · Stand `v439.2.2`
+**507 Skills** · Stand `v439.3.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-insolvenz-sanierungsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

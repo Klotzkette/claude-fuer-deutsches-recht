@@ -1,0 +1,8 @@
+Anlage;Dateiname;Seiten;Vertraulich;Nicht_vertrauliche_Fassung;Offener_Punkt
+A.1;vollmacht_2026-06-22.pdf;3;nein;entfällt;Registervertretung prüfen
+A.2;handelsregister_2026-03-11.pdf;5;nein;entfällt;älter als drei Monate
+A.3;C_2026_2417_de.pdf;84;teilweise;ja;authentische Fassung
+A.8;bankangebote_2023.pdf;22;ja;ja;Nummerierung kollidiert
+A.9;gutachten_harenberg_2025.pdf;41;ja;ja;im Verzeichnis als A.8
+A.12;kundenpreise_delitzsch.xlsx;9;ja;ja;Seite 6 noch unvollständig geschwärzt
+A.14;zinsberechnung_stadt_v2.csv;8;nein;entfällt;Betrag weicht von Entscheidung ab

@@ -1,0 +1,20 @@
+name: apothekenrecht-retaxation-kuehlkette-bremen
+plugin: "apothekenrecht"
+description: "Retaxationsstreit um ein hochpreisiges Kühlprodukt mit elektronischer Verordnung, zwei widersprüchlich wirkenden Loggern und vollständigem Zahlungsfluss."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens zwölf exportierbare Primärunterlagen vorhanden
+    min: 12
+  - id: retaxationsgrund
+    check_type: human_review
+    description: "Beanstandete Dosierangabe und behauptete Temperaturabweichung getrennt prüfen und jeweils an Primärbelegen festmachen."
+  - id: formfehler
+    check_type: human_review
+    description: "Paragraf 129 Abs. 4 SGB V und die einschlägigen Rahmenvertragsregeln zur vollständigen oder teilweisen Retaxation wegen Formfehlern in die Prüfung einordnen."
+  - id: kuehlkette
+    check_type: human_review
+    description: "Fahrzeuglogger, Boxlogger, Einwegindikator, Freigabemail und Apothekenkühlschrank zeitlich sauber auseinanderhalten."
+  - id: zahlung
+    check_type: human_review
+    description: "Einkauf, ursprüngliche Auszahlung, angekündigte Retaxation und geplante Verrechnung betragsgenau abstimmen."
