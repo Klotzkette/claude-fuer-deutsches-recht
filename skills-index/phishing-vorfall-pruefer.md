@@ -1,6 +1,6 @@
 # phishing-vorfall-pruefer
 
-**61 Skills** · Stand `v439.3.0`
+**61 Skills** · Stand `v439.4.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../phishing-vorfall-pruefer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

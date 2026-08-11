@@ -1,0 +1,20 @@
+name: steuer-kleinbetrieb-sachbezuege-lohnpruefung-rostock
+plugin: "steuerrecht-anwalt-und-berater"
+description: "Die Küstenklar Gebäudeservice e. K. beschäftigt fünf Arbeitnehmer. Bei einer Lohnsteuerprüfung treffen wechselnde Einsatzorte, zwei Transporter, Tankkarten, Verpflegungspauschalen, eine möblierte Betriebswohnung, Gutscheine und die Mitarbeit des studierenden Sohnes auf lückenhafte Absprachen."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens 11 exportierbare Primärunterlagen vorhanden
+    min: 11
+  - id: arbeitslohn
+    check_type: human_review
+    description: "Geld- und Sachleistungen nach Paragrafen 8 und 19 EStG sowie einschlägige Steuerbefreiungen einzeln anhand von Zweck, Beleg und tatsächlicher Durchführung prüfen."
+  - id: erste-taetigkeitsstaette
+    check_type: human_review
+    description: "Arbeitsverträge, Einsatzpläne und tatsächliche Aufsuchen des Betriebs für Fahrt- und Verpflegungsfragen abgleichen."
+  - id: fahrzeuge
+    check_type: human_review
+    description: "Private Verfügbarkeit, Schlüsselregeln, Tankkarten und Fahrten der Transporter quellenbezogen prüfen."
+  - id: wohnung
+    check_type: human_review
+    description: "Nutzung, Miete, Umlagen und Lohnabrechnung der Betriebswohnung zeitanteilig abstimmen."

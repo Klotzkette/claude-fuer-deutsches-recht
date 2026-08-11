@@ -1,0 +1,7 @@
+Zeitpunkt;Quelle;Wert;Einheit;Ereignis;Bemerkung
+2026-05-04 07:42;Akkuspeicher;62;Grad Celsius;Temperaturereignis;E17 gemeldet
+2026-06-13 19:42;Bordcomputer;18;Prozent;Restladung;nach Tour
+2026-06-13 22:08;Chat;;;Ladegerät grün blinkend;
+2026-06-13 22:21;Chat;;;Anzeige rot;Nutzer geht schlafen
+2026-06-14 02:17:48;Sicherung;16;Ampere;Leitungsschutz ausgelöst;Stromkreis Keller
+2026-06-14 02:18;Leitstelle;;;Alarm;Rauch Keller

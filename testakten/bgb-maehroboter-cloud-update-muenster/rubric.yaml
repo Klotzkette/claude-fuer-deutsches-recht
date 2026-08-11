@@ -1,0 +1,20 @@
+name: bgb-maehroboter-cloud-update-muenster
+plugin: "bgb-bt-pruefer"
+description: "Familie Aydin kauft einen Mähroboter mit Kameranavigation und beworbenem Betrieb ohne Begrenzungskabel. Nach Firmware 4.8.2 verliert das Gerät die Gartenkarte, fährt in ein Staudenbeet und verlangt für bisherige Funktionen ein neues Cloud-Abo; Händler und Hersteller verweisen aufeinander."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens 10 exportierbare Primärunterlagen vorhanden
+    min: 10
+  - id: digital
+    check_type: human_review
+    description: "Paragrafen 475b bis 475e BGB auf die Ware mit digitalen Elementen anwenden; Paragraf 327f BGB nur für einen rechtlich eigenständigen Digitalvertrag heranziehen."
+  - id: mangel
+    check_type: human_review
+    description: "Vereinbarte und objektive Anforderungen aus Werbung, Bestellung und Anleitung mit dem Verhalten vor und nach Update vergleichen."
+  - id: beweislast
+    check_type: human_review
+    description: "Paragraf 477 BGB zeitlich einordnen und Installations-, Nutzungs- sowie Serverdaten als Beweismittel würdigen."
+  - id: agb
+    check_type: human_review
+    description: "Abo-Umstellung und Änderungsklauseln an Paragrafen 305c und 307 BGB prüfen."

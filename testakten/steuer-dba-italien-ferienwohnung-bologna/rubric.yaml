@@ -1,0 +1,20 @@
+name: steuer-dba-italien-ferienwohnung-bologna
+plugin: "steuerrecht-anwalt-und-berater"
+description: "Die in Nürnberg wohnende Architektin Clara Seidel vermietet seit 2024 eine geerbte Wohnung in Bologna. Italienische Steuerunterlagen, Verwalterabrechnungen und deutsche Erklärungsdaten laufen auseinander; nach einer ausländischen Kontrollmitteilung fragt das Finanzamt nach Einnahmen, Kosten, Ansässigkeit und bisheriger Behandlung."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens 11 exportierbare Primärunterlagen vorhanden
+    min: 11
+  - id: dba
+    check_type: human_review
+    description: "Artikel 6 und Artikel 24 Absatz 3 Buchstabe a DBA-Italien auf Vermietung, Ansässigkeit und effektive italienische Besteuerung beziehen."
+  - id: progression
+    check_type: human_review
+    description: "Paragraf 32b Absatz 1 Satz 1 Nummer 3 und Satz 2 Nummer 3 EStG sowie BFH vom 21. Mai 2025, I R 5/22, nach ihrem jeweiligen Anwendungsbereich unterscheiden; die Entscheidung betrifft keinen Italien-Sachverhalt."
+  - id: mitwirkung
+    check_type: human_review
+    description: "Materielle Steuerzuweisung und verfahrensrechtliche Mitwirkung nach Paragraf 90 Absatz 2 AO getrennt prüfen."
+  - id: zahlen
+    check_type: human_review
+    description: "Bruttomieten, Verwaltung, Instandhaltung, italienische Steuer und Wechselkurse aus Originaldaten abstimmen."

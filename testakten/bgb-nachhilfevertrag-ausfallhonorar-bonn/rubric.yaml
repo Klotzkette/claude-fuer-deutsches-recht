@@ -1,0 +1,20 @@
+name: bgb-nachhilfevertrag-ausfallhonorar-bonn
+plugin: "bgb-bt-pruefer"
+description: "Die Eltern der sechzehnjährigen Paula Lehnert buchen sechs Monate Mathematiknachhilfe. Nach einer Operation fällt Paula mehrere Wochen aus; das Institut verlangt volle Monatsbeiträge und zusätzliche Ausfallhonorare, obwohl zwei Termine auch von der Lehrkraft verschoben wurden."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens 10 exportierbare Primärunterlagen vorhanden
+    min: 10
+  - id: vertrag
+    check_type: human_review
+    description: "Dienstvertragliche Vergütung und Leistungsangebot nach Paragrafen 611, 615 und 326 BGB sachgerecht abgrenzen."
+  - id: agb
+    check_type: human_review
+    description: "Ausfall-, Laufzeit- und Nachholklauseln nach Paragrafen 305c, 307 und 309 BGB prüfen."
+  - id: minderjaehrig
+    check_type: human_review
+    description: "Vertragspartner, Einwilligung und Auftreten der Eltern anhand Anmeldung und Zahlung festhalten; Paragrafen 104 ff. BGB nur soweit einschlägig anwenden."
+  - id: abrechnung
+    check_type: human_review
+    description: "Monatspauschale, Einzeltermine, Absagen, Ersatztermine und Lehrerabsagen rechnerisch abstimmen."

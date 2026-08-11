@@ -1,0 +1,20 @@
+name: steuer-fahrradwerkstatt-kasse-privatnutzung-erfurt
+plugin: "steuerrecht-anwalt-und-berater"
+description: "Der Zweiradmechaniker Tobias Renner führt am Erfurter Anger eine Werkstatt mit Laden, vier Arbeitnehmern und einem gebrauchten Transporter. Eine unangekündigte Kassennachschau trifft auf Baranzahlungen ohne eindeutige Auftragsnummer, Inventurdifferenzen, private Fahrten und ein betrieblich angeschafftes Lastenrad, das auch die Familie nutzt."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens 11 exportierbare Primärunterlagen vorhanden
+    min: 11
+  - id: kasse
+    check_type: human_review
+    description: "Paragrafen 146 und 146a AO sowie die Einzelaufzeichnungen anhand von Tagesabschlüssen, Anzahlungen und Werkstattaufträgen prüfen."
+  - id: privatnutzung
+    check_type: human_review
+    description: "Transporter und Lastenrad nach Anschaffung, Verfügbarkeit, Fahrtenaufzeichnungen und privaten Nutzungsindizien getrennt behandeln."
+  - id: inventur
+    check_type: human_review
+    description: "Wareneingang, Lagerzählung, Eigenverbrauch und als defekt ausgesonderte Teile rechnerisch abstimmen."
+  - id: lohn
+    check_type: human_review
+    description: "Aushilfsstunden, Sachbezüge und Zahlungen an Arbeitnehmer mit Lohnjournal und Bankkonto abgleichen."

@@ -1,0 +1,28 @@
+From: technik@lernbruecke-sprachen.de
+To: serviceleitung@lernbruecke-sprachen.de
+Cc: tobias.klewe@lernbruecke-sprachen.de
+Date: Mon, 12 Jan 2026 08:41:00 +0100
+Subject: =?utf-8?q?K=C3=BCndigungsroute?= / Session-Redirect 28.12. bis 10.01.
+Message-ID: <technik-cancel-route-202601120841@lernbruecke-sprachen.de>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Guten Morgen,
+
+zwischen 27. Dezember und heute gab es bei Konten mit =C3=A4lterem Login-Toke=
+n vereinzelt eine R=C3=BCckleitung von /contract/cancel auf /dashboard. Das M=
+onitoring z=C3=A4hlt 184 Redirects, aber nicht, ob Nutzer anschlie=C3=9Fend n=
+eu gestartet haben. Die Best=C3=A4tigungsroute selbst war erreichbar.
+
+F=C3=BCr Konto LS-884120 sehe ich am 28. Dezember drei Aufrufe der K=C3=BCndi=
+gungsroute und jeweils sofort einen 302-Redirect. Am 10. Januar gibt es zwei =
+weitere. Eine K=C3=BCndigungsbest=C3=A4tigung wurde f=C3=BCr dieses Konto nic=
+ht erzeugt. Bitte bei der Antwort ber=C3=BCcksichtigen und die Rohlogs sicher=
+n; die Standardaufbewahrung endet nach neunzig Tagen.
+
+Viele Gr=C3=BC=C3=9Fe
+Leonie Frings
+Platform Operations
+Lernbr=C3=BCcke Sprachen GmbH
+Telefon 0221 650 81 248

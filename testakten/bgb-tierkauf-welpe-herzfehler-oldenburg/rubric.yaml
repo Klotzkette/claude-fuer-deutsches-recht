@@ -1,0 +1,20 @@
+name: bgb-tierkauf-welpe-herzfehler-oldenburg
+plugin: "bgb-bt-pruefer"
+description: "Familie Tekin kauft den Labradorwelpen Bruno von einer Züchterin, die sich als private Liebhaberzucht bezeichnet, aber regelmäßig Würfe bewirbt. Drei Wochen nach Übergabe diagnostiziert eine Tierklinik eine schwere Pulmonalstenose; Gesundheitszeugnis, Hörbefund und Verkaufsnachrichten passen nicht vollständig zusammen."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens 10 exportierbare Primärunterlagen vorhanden
+    min: 10
+  - id: tierkauf
+    check_type: human_review
+    description: "Paragraf 90a BGB und kaufrechtliche Regeln der Paragrafen 433, 434 und 437 BGB auf das Tier und die vereinbarten Angaben anwenden."
+  - id: verbrauchsgueterkauf
+    check_type: human_review
+    description: "Unternehmer- und Verbrauchereigenschaft aus Umfang, Auftreten, Würfen und Zahlungsabwicklung entwickeln; Paragrafen 474 ff. und 477 BGB nur bei erfüllten Voraussetzungen einsetzen."
+  - id: mangel
+    check_type: human_review
+    description: "Angeborenen Befund, Untersuchungszeitpunkte, zugesagte Gesundheit und Kenntnis anhand tierärztlicher Primärquellen würdigen."
+  - id: rechtsfolge
+    check_type: human_review
+    description: "Behandlung, Ersatzwelpe, Rückabwicklung und Aufwendungen mit Tierwohl und konkreter Kommunikation trennen."

@@ -1,0 +1,9 @@
+Datum;Plan;Format;Teilnahme_Minuten;Absage_durch;Absagezeit;Ersatz;Gebuehr_EUR
+2026-03-16;17:00;Präsenz;0;Schülerin;08:12;nein;0
+2026-03-19;17:00;Präsenz;0;Schülerin;Attest;nein;0
+2026-04-02;17:00;Online;38;;;;0
+2026-04-06;17:00;Online Ersatz;0;Schülerin;08:12;nein;32
+2026-04-14;16:00;Präsenz Ersatz;0;Schülerin;12:18;nein;32
+2026-05-12;17:00;Präsenz;0;Lehrkraft;15:42;30.06;0
+2026-06-02;17:00;Präsenz Ersatz;0;Schülerin;16:06 Vortag;nein;32
+2026-06-23;17:00;Präsenz;0;Lehrkraft;07:14;offen;-31

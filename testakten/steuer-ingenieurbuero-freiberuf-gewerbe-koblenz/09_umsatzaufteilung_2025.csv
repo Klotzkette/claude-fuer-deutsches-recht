@@ -1,0 +1,7 @@
+Rechnung;Datum;Kunde;Leistungsart;Netto_EUR;Bearbeiter;Freigabe;Zahlung
+LT-2025-041;2025-03-28;Rheinbrücke Projekt GmbH;Konzeption und Installation;38400;Langen/Kapp;EL;2025-04-11
+LT-2025-077;2025-06-30;Stadtwerke Neuwied;Modulmiete und Datenreport;11280;Kapp;EL;2025-07-15
+LT-2025-119;2025-09-12;Statikbüro Bergwald;Verkauf 10 LM-4;18900;Enders;;2025-09-25
+LT-2025-144;2025-10-31;Stadt Koblenz;Tragwerksgutachten;44200;Langen/Kurz;EL;2025-11-18
+LT-2025-166;2025-11-28;Statikbüro Bergwald;SpanCheck Lizenzen;1920;Enders;automatisch;2025-12-10
+LT-2025-188;2025-12-18;Rheinbrücke Projekt GmbH;Quartalsbericht und Service;28560;Kurz/Langen;EL nach Versand;2026-01-04

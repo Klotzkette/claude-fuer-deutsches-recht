@@ -1,0 +1,8 @@
+Datum;Ereignis;Uhrzeit;Kanal;Status;Betrag_EUR;Hinweis
+2024-10-18;Preisänderung eingestellt;09:02;Onlinepostfach;nicht geöffnet;180;ab 2025
+2025-01-03;Jahresentgelt abgebucht;;Girokonto;gebucht;180;zuvor 120
+2025-06-12;Zutritt Fach;14:22;Filiale;protokolliert;0;Kundin allein
+2025-09-02;Haftungsbedingungen eingestellt;10:44;Onlinepostfach;kein Öffnungsereignis;5000;Grenze
+2026-01-05;Jahresentgelt abgebucht;;Girokonto;gebucht;180;
+2026-03-26;Zutritt Fach;11:18;Filiale;protokolliert;0;letzter Zutritt vor Schaden
+2026-04-11;Notöffnung mit Kundin;10:14;Filiale;protokolliert;0;Wasserschaden

@@ -1,0 +1,10 @@
+Teams-Export · Kanal Moselbogen · 18.11.2025 bis 20.11.2025
+
+18.11. 15:22 Fabian Kurz: Q4-Rohreport ist fertig. Zwei Sensoren hatten am Sonntag Funklöcher, Werte sind nachgezogen und markiert.
+18.11. 16:04 Eva Langen: Ich bin bis Donnerstag in Luxemburg. Bitte Modellannahmen und Schwellenwerttabelle offenlassen, ich prüfe abends.
+19.11. 08:17 Lena Kapp: Kunde drängt wegen Sitzung um 11 Uhr. Diagramme kann ich schicken, aber die Schlussseite trägt noch EL.
+19.11. 08:25 Fabian Kurz: Ich sende einen Datenreport ohne Schlussseite. Betreff klar als vorläufig.
+19.11. 10:48 Fabian Kurz: Kunde hat angerufen. Er wollte genau die Ampel. Ich habe Version 0.8 mit dem EL-Kürzel aus der Vorlage geschickt und dazugeschrieben, Freigabe folgt.
+19.11. 18:56 Eva Langen: Gesehen. Schwelle Sensor 4 bitte von 0.34 auf 0.31 korrigieren. Begründung steht im Ortsterminprotokoll vom 7. Oktober.
+20.11. 07:34 Fabian Kurz: Version 0.9 versandt. Im System steht Freigabe EL, weil ich dein Chat-Okay hinterlegt habe.
+20.11. 08:02 Eva Langen: Bitte künftig den Chat als Anlage speichern. Für heute passt die Korrektur. Die statische Schlussfolgerung ergänze ich nach Rückkehr.

@@ -1,0 +1,20 @@
+name: steuer-ingenieurbuero-freiberuf-gewerbe-koblenz
+plugin: "steuerrecht-anwalt-und-berater"
+description: "Diplom-Ingenieurin Eva Langen betreibt mit drei Mitarbeitern ein Büro für Tragwerksplanung. Neben persönlich verantworteten Gutachten verkauft sie ein selbst entwickeltes Messmodul, vergibt Softwarelizenzen und lässt Routineauswertungen von Mitarbeitern erstellen; das Finanzamt hinterfragt Einkunftsart, Gewinnermittlung und Umsatzsteuer."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens 11 exportierbare Primärunterlagen vorhanden
+    min: 11
+  - id: einkunftsart
+    check_type: human_review
+    description: "Paragrafen 15 und 18 EStG projektbezogen auf eigenverantwortliche Ingenieurleistung, Mitarbeiterarbeit, Software und Warenverkauf anwenden."
+  - id: trennung
+    check_type: human_review
+    description: "Prüfen, ob Tätigkeiten organisatorisch und rechnungsmäßig trennbar sind; Verträge und Zeiterfassung als Primärquellen nutzen."
+  - id: umsatzsteuer
+    check_type: human_review
+    description: "Lieferungen, sonstige Leistungen, Leistungsorte und Anzahlungen aus Rechnungen und Konten abgleichen."
+  - id: gewinnermittlung
+    check_type: human_review
+    description: "Bestände an Messmodulen, Aktivierung eigener Entwicklung und Einnahmen-Überschuss-Rechnung zeitlich prüfen."

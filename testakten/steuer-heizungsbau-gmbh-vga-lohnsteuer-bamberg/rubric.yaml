@@ -1,0 +1,20 @@
+name: steuer-heizungsbau-gmbh-vga-lohnsteuer-bamberg
+plugin: "steuerrecht-anwalt-und-berater"
+description: "Die Mertens Wärmebau GmbH beschäftigt sechs Arbeitnehmer. Alleingesellschafter und Geschäftsführer Henrik Mertens vermietet der GmbH eine Halle, fährt einen Firmenwagen, erhält eine Tantieme und lässt seine Ehefrau Büroarbeiten erledigen; zugleich bestehen ein Gesellschafterdarlehen und private Materialentnahmen."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens 11 exportierbare Primärunterlagen vorhanden
+    min: 11
+  - id: vga
+    check_type: human_review
+    description: "Paragraf 8 Absatz 3 Satz 2 KStG auf Gehalt, Tantieme, Pkw, Hallenmiete und private Materialentnahmen jeweils gesondert anwenden."
+  - id: fremdvergleich
+    check_type: human_review
+    description: "Zeitpunkt, Schriftform, Durchführung und Fremdvergleich der Verträge mit Gesellschafter und nahestehender Person anhand der Primärbelege prüfen."
+  - id: darlehen
+    check_type: human_review
+    description: "Darlehensvaluta, Zinsbuchungen, Tilgungen und Liquiditätslage rechnerisch abstimmen."
+  - id: lohnsteuer
+    check_type: human_review
+    description: "Arbeitsleistung der Ehefrau, Fahrzeugnutzung und Reisekosten mit Lohnunterlagen und tatsächlicher Durchführung vergleichen."

@@ -1,0 +1,20 @@
+name: bgb-bank-agb-schliessfach-preis-mainz
+plugin: "agb-recht-pruefer"
+description: "Helene Falkenberg nutzt seit 2017 ein Schließfach der Rhein-Main Privatbank. Die Bank erhöht Entgelt und Haftungsgrenze über das Onlinepostfach; nach einem Wassereintritt sind Urkunden und Schmuck beschädigt, während Inventarliste, Zutrittsprotokoll und Versicherungswert unterschiedliche Bilder ergeben."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens 10 exportierbare Primärunterlagen vorhanden
+    min: 10
+  - id: agb
+    check_type: human_review
+    description: "Paragrafen 305 Absatz 2, 305c und 307 BGB auf Einbeziehung, Preisanpassung, Zustimmungsfiktion und Haftungsbegrenzung anwenden."
+  - id: bankrecht
+    check_type: human_review
+    description: "BGH vom 27. April 2021, XI ZR 26/20, nur für Reichweite und Zustandekommen von Vertragsänderungen heranziehen."
+  - id: pflichten
+    check_type: human_review
+    description: "Verwahrungs-, Schutz- und Aufklärungspflichten aus Vertrag, Zugangssystem und Schadensablauf entwickeln."
+  - id: schaden
+    check_type: human_review
+    description: "Eigentum, Fachinhalt, Wiederbeschaffung, Zeitwert und Versicherung quellenbezogen trennen."

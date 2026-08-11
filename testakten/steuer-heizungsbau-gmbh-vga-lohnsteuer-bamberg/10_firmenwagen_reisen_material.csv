@@ -1,0 +1,7 @@
+Datum;Vorgang;Nutzer;Ort;Betrag_EUR;Beleg;Privatbezug_offen
+2025-02-14;Tankung;Henrik Mertens;Bamberg;112.40;ARAL-2218;nein
+2025-04-05;Tankung;Henrik Mertens;Bozen;138.20;ENI-4481;Urlaubsmitteilung vorhanden
+2025-07-08;Fahrt;Sabine Mertens;Bamberg;0;Schlüsselbuch;ja
+2025-08-08;Material Wohnhaus;Henrik Mertens;Bamberg;4870.60;LS-7718;Rechnung fehlt
+2025-08-21;Rückgabe Rohr;Monteur Mehmet Kaya;Lager;0;kein Mengenbeleg;24 Meter genannt
+2025-11-17;Bewirtung;Henrik Mertens;Gasthof Regnitz;486.90;RG-1190;Teilnehmer unvollständig

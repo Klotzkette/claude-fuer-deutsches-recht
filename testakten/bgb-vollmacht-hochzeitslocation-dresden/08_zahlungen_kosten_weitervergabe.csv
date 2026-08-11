@@ -1,0 +1,6 @@
+Datum;Vorgang;Betrag_EUR;Zahler_Empfaenger;Status;Beleg;Hinweis
+2025-11-21;Anzahlung;3200;Konto Seifert/Born an Gut Wachwitz;gezahlt;BK-1121;Verwendungszweck Elias
+2026-03-09;Stornopauschale 40 Prozent;5120;Gut Wachwitz;berechnet;ST-2608-21;165 Tage vor Termin
+2026-03-09;Verrechnung Anzahlung;-3200;Gut Wachwitz;verrechnet;ST-2608-21;
+2026-04-22;Firmenfeier Abend;7600;Sächsische Medientechnik GmbH;reserviert;GW-2608-21B;18 bis 01 Uhr
+2026-05-18;Restforderung;1920;Miriam Born;offen;EB-884/26;hilfsweise
