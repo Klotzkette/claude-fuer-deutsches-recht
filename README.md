@@ -24,18 +24,25 @@ Ziel ist es, zu zeigen, wie sich Plugins und Skills für Arbeitsrecht, Gesellsch
 
 > **Cowork mit eigenem Modellzugang:** Wenn du die Plugins in einer Cowork-Oberfläche über eine eigene Schnittstelle, einen Gateway-Anbieter oder einen Enterprise-Proxy nutzen willst, spring direkt zu [Eigene Schnittstelle oder Zwischenanbieter anbinden](#eigene-schnittstelle-oder-zwischenanbieter-anbinden-stand-juli-2026).
 
-## Direktnavigation
+## Alle vollständigen Listen von A bis Z
 
-| Gesucht | Direkter Weg |
-| --- | --- |
-| Alle Plugins von A bis Z | [Plugin-Katalog](#was-ist-drin) · [Download-Index mit Einzel-ZIPs](./ASSET_INDEX.md) · [Rechtsgebietsübersicht](./references/rechtsgebiete-uebersicht.md) |
-| Alle Skills, nach Plugin und Name sortiert | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
-| Alle ausführlichen Werkstatt-Prompts | [Werkstatt-Liste mit Markdown-Direktdownloads](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) · [kuratierte Promptliste](./PROMPTLISTE.md) |
-| Alle kompakten Schnellstart-Prompts | [Schnellstart-Liste mit Markdown-Direktdownloads](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| Alle Testakten von A bis Z | [Testakten-Übersicht mit drei Downloadformaten](./testakten/README.md) · [Qualitätsstandard](./testakten/QUALITAETSSTANDARD.md) |
-| Installation und Fehlersuche | [Schnellstart](#schnellstart) · [einfache Installationshilfe](./INSTALLATION_EINFACH.md) · [Kurzanleitung](./QUICKSTART.md) |
-| Sämtliche Release-Dateien und Prüfsummen | [aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) · [vollständiger Asset-Index](./ASSET_INDEX.md) |
-| English explanation | [English quick guide](#english-quick-guide) |
+<!-- BEGIN HAUPTVERZEICHNIS (auto-generated) -->
+Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jedem Release gegen Marketplace und Dateibestand geprüft. Jede Liste nennt zu jedem Eintrag eine Kurzbeschreibung und führt von dort unmittelbar zur Datei, zum Download oder zur passenden Detailseite.
+
+| Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |
+| --- | ---: | --- | --- |
+| **Plugins** | 235 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
+| **Skills** | 26461 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
+| **Werkstatt-Prompts** | 235 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
+| **Schnellstart-/Mini-Prompts** | 235 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
+| **Testakten** | 302 zentral / 305 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
+
+Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 26461 Skills benutzbar bleibt.
+
+Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
+<!-- END HAUPTVERZEICHNIS (auto-generated) -->
+
+Weitere direkte Wege: [Schnellstart](#schnellstart) · [einfache Installationshilfe](./INSTALLATION_EINFACH.md) · [Kurzanleitung](./QUICKSTART.md) · [kuratierte Promptliste](./PROMPTLISTE.md) · [Rechtsgebietsübersicht](./references/rechtsgebiete-uebersicht.md) · [aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) · [English quick guide](#english-quick-guide)
 
 ### Bitte mit-testen und Feedback geben
 
@@ -767,6 +774,6 @@ This repository provides a large German-law plugin and skill collection for prac
 
 **Click behaviour:** README, index and overview links remain normal GitHub navigation pages. Links labelled **Download MD** save the unchanged Markdown work file instead of opening a source preview. Individual skills receive a unique plugin-and-skill filename so that multiple downloads do not overwrite one another.
 
-Start with the [plugin catalogue](#was-ist-drin), the [complete skill index](./SKILLS.md), the [workshop and quick-start index](./docs/werkstatt-und-schnellstart-coverage.md), or the [latest release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest).
+All five complete indexes are alphabetically sorted and provide a short description for every plugin, skill, workshop prompt, quick-start prompt or practice file. Start with the [five A-to-Z indexes](#alle-vollständigen-listen-von-a-bis-z), the [plugin catalogue](#was-ist-drin), the [complete skill index](./SKILLS.md), the [workshop and quick-start index](./docs/werkstatt-und-schnellstart-coverage.md), the [practice-file index](./testakten/README.md), or the [latest release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest).
 
 The material is experimental and does not replace legal advice. Every output must be checked by a qualified human against current statutes, official materials and independently verifiable court decisions. Do not upload confidential client data unless the technical setup, professional duties and data-protection framework permit it.
