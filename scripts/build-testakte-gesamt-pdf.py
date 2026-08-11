@@ -53,6 +53,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 
 from testakte_file_filter import include_in_working_dump
 from testakte_office_pdf import OFFICE_EXTS, OfficeRenderError, render_office_batch
+from testakte_disclaimer import add_notice_page, ensure_notice_page
 
 # DOCX
 try:
@@ -1031,7 +1032,20 @@ def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
     files = collect_files(testakte_dir)
     total_files = sum(len(v) for v in files.values())
     if total_files == 0:
-        return "skip", "keine Quelldateien"
+        if not out_path.is_file():
+            return "skip", "keine Quelldateien"
+        try:
+            current = out_path.read_bytes()
+            updated, changed = ensure_notice_page(current, name)
+            if changed:
+                temporary = out_path.with_name(f".{out_path.name}.tmp")
+                temporary.write_bytes(updated)
+                temporary.replace(out_path)
+            size_kb = out_path.stat().st_size / 1024
+            action = "Hinweis ergänzt" if changed else "Hinweis bereits vorhanden"
+            return "ok", f"{out_path.relative_to(REPO_ROOT)} ({size_kb:.0f} KB, {action})"
+        except Exception as exc:
+            return "error", f"bestehendes Gesamt-PDF: {exc}"
 
     cover: list = []
 
@@ -1043,6 +1057,7 @@ def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
             testakte_dir, files, cover, tmp_text
         )
         writer = PdfWriter()
+        add_notice_page(writer, name)
         if has_text_pdf:
             for page in PdfReader(str(tmp_text)).pages:
                 writer.add_page(page)

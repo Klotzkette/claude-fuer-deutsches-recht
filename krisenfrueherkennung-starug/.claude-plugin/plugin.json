@@ -1,7 +1,7 @@
 {
   "name": "krisenfrueherkennung-starug",
   "displayName": "Krisenfrüherkennung und StaRUG-Management",
-  "version": "439.2.1",
+  "version": "439.2.2",
   "description": "Krisenfrüherkennung nach Paragraf 1 StaRUG, Warnpflicht bei Jahresabschlusserstellung nach Paragraf 102 StaRUG, 24-Monats-Prognose nach Paragraf 18 InsO, Haftung, integrierte Planung, Restrukturierungsplan und Stabilisierungsanordnung.",
   "keywords": [
     "krisenfrueherkennung",

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Baut die Testakten-ZIPs fuer Releases.
 
-Die ZIPs enthalten die Arbeitsdateien und das Gesamt-PDF, aber keine
-Markdown-, README-, Download- oder Vorfuehrseiten. Alle Dateien liegen ohne
-Unterordner unmittelbar auf der Wurzelebene des jeweiligen ZIPs.
+Die ZIPs enthalten die Arbeitsdateien, das Gesamt-PDF und die verbindliche
+zweisprachige README.txt, aber keine Markdown-, Download- oder Vorfuehrseiten.
+Alle Dateien liegen ohne Unterordner unmittelbar auf der Wurzelebene.
 
 Aufruf:
   python3 scripts/build-testakten-release-zips.py [dist]            # alle Testakten
@@ -17,6 +17,7 @@ import shutil
 import zipfile
 from pathlib import Path
 
+from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
 from testakte_zip_common import working_dump_flat_pairs
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -36,8 +37,17 @@ def write_file(zipf: zipfile.ZipFile, path: Path, arcname: str) -> None:
         shutil.copyfileobj(source, target, length=1024 * 1024)
 
 
+def write_bytes(zipf: zipfile.ZipFile, data: bytes, arcname: str) -> None:
+    """Schreibt erzeugten Inhalt mit stabilen ZIP-Metadaten."""
+    info = zipfile.ZipInfo(arcname, ZIP_TIMESTAMP)
+    info.compress_type = zipfile.ZIP_DEFLATED
+    info.external_attr = 0o100644 << 16
+    zipf.writestr(info, data)
+
+
 def add_testakte(zipf: zipfile.ZipFile, testakte_dir: Path) -> int:
-    count = 0
+    write_bytes(zipf, NOTICE_BYTES, NOTICE_FILENAME)
+    count = 1
     for path, arcname in working_dump_flat_pairs(
         testakte_dir,
         include_gesamt_pdf=True,

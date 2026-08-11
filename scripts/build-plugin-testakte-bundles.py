@@ -14,6 +14,7 @@ import sys
 import zipfile
 from pathlib import Path
 
+from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
 from testakte_zip_common import working_dump_flat_pairs
 
 
@@ -41,7 +42,15 @@ def write_file(zf: zipfile.ZipFile, path: Path, arcname: str) -> None:
         shutil.copyfileobj(source, target, length=1024 * 1024)
 
 
+def write_bytes(zf: zipfile.ZipFile, data: bytes, arcname: str) -> None:
+    info = zipfile.ZipInfo(arcname, ZIP_TIMESTAMP)
+    info.compress_type = zipfile.ZIP_DEFLATED
+    info.external_attr = 0o100644 << 16
+    zf.writestr(info, data)
+
+
 def add_dir(zf: zipfile.ZipFile, base: Path) -> None:
+    write_bytes(zf, NOTICE_BYTES, NOTICE_FILENAME)
     for path, arcname in working_dump_flat_pairs(base, include_gesamt_pdf=True):
         write_file(zf, path, arcname)
 

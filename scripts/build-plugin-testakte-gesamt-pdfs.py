@@ -44,10 +44,14 @@ def main() -> int:
         testakte = plugin_dir(plugin) / "testakte"
         if not testakte.is_dir():
             continue
-        status, info = G.build_gesamt_pdf(testakte)
-        counts[status] += 1
-        sigil = {"ok": "OK ", "skip": "SK ", "error": "ERR"}[status]
-        print(f"  {sigil} {plugin['name']}: {info}")
+        targets = {testakte}
+        targets.update(path.parent for path in testakte.rglob("gesamt-pdf") if path.is_dir())
+        for target in sorted(targets, key=lambda path: str(path).lower()):
+            status, info = G.build_gesamt_pdf(target)
+            counts[status] += 1
+            sigil = {"ok": "OK ", "skip": "SK ", "error": "ERR"}[status]
+            rel = target.relative_to(plugin_dir(plugin))
+            print(f"  {sigil} {plugin['name']}:{rel}: {info}")
     print(f"Pluginlokale Gesamt-PDFs: {counts['ok']} OK, {counts['skip']} skip, {counts['error']} Fehler")
     return 1 if counts["error"] else 0
 

@@ -1,3 +1,14 @@
+# v439.2.2 - Zweisprachiger Pflicht-Hinweis in allen Testakten-Artefakten
+
+- Sämtliche auslieferbaren Gesamt-PDFs beginnen nun mit einem zweisprachigen Hinweis: Die Testakte wurde mit KI generiert, ist ein Experiment und wird auf eigene Verantwortung und Gefahr benutzt. Der Hinweis steht pro Gesamt-PDF genau einmal.
+- Alle 7656 Dokumente in den 303 Einzel-PDF-ZIPs erhalten denselben Hinweis auf einer eigenen ersten A4-Seite. Die ursprünglichen Aktenstücke bleiben davon getrennt und werden weder zusammengezogen noch inhaltlich überschrieben.
+- Jedes der 303 flachen ZIPs mit Originalformaten enthält eine UTF-8-kodierte `README.txt` mit dem verbindlichen deutschen und englischen Wortlaut. Markdown-Dateien und Unterordner bleiben weiterhin ausgeschlossen.
+- Die drei pluginlokalen Testakten folgen denselben Regeln. Ältere verschachtelte Gesamt-PDFs und Bestands-PDFs ohne rekonstruierbare Quelldateien werden idempotent ergänzt, ohne den vorhandenen Akteninhalt zu verändern.
+- Builder und Validatoren erzwingen Wortlaut, erste Seite und Einmaligkeit für Gesamt-PDFs sowie jedes Einzel-PDF; die ZIP-Prüfungen verlangen die richtige `README.txt`. Die Regel ist dauerhaft in `AGENTS.md`, dem Repository-Leitfaden und dem Testakten-Qualitätsstandard verankert.
+- Der vollständige lokale Neubau bestätigt 324 Gesamt-PDFs, 303 Originalformat-ZIPs, 303 Einzel-PDF-ZIPs und 7656 darin enthaltene PDFs. Alle Archive bleiben flach und reproduzierbar.
+
+---
+
 # v439.2.1 - Vollständige README-Navigation und sortierte Kataloge
 
 - Das Haupt-README enthält nun einen vollständigen, alphabetisch sortierten Katalog aller 235 installierbaren Plugins. Auch die 26 Plugins in den Sammelordnern für Gerichts- und Insolvenzpraxis erscheinen einzeln mit ihrem tatsächlichen Repository-Pfad.

@@ -18,6 +18,7 @@ from pathlib import Path
 from pypdf import PdfReader
 
 from testakte_einzelpdf_common import expected_arcnames
+from testakte_disclaimer import pdf_notice_errors
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO_ROOT / "testakten"
@@ -64,6 +65,8 @@ def zip_entries(zip_path: Path, *, expected_suffix: str) -> list[str]:
                         fail(f"{zip_path}: PDF nicht lesbar {info.filename}: {exc}")
                     if not pages:
                         fail(f"{zip_path}: PDF ohne Seite: {info.filename}")
+                    for notice_problem in pdf_notice_errors(data, exactly_once=True):
+                        fail(f"{zip_path}: {info.filename}: {notice_problem}")
                     for page_number, page in enumerate(pages, start=1):
                         width = float(page.mediabox.width)
                         height = float(page.mediabox.height)

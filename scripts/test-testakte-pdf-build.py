@@ -15,6 +15,14 @@ from odf.opendocument import OpenDocumentText
 from odf.text import H, P
 from docx import Document
 
+from testakte_disclaimer import (
+    NOTICE_BYTES,
+    NOTICE_DE,
+    NOTICE_EN,
+    NOTICE_FILENAME,
+    pdf_notice_errors,
+)
+
 
 SCRIPTS = Path(__file__).resolve().parent
 
@@ -99,14 +107,25 @@ def main() -> int:
         require(styled_pdf is not None, "DOCX muss ein PDF ergeben")
         styled_reader = G.PdfReader(io.BytesIO(styled_pdf))
         if E.render_office(styled) is not None:
-            require(len(styled_reader.pages) == 2, "native DOCX-PDF muss Seitenumbrüche erhalten")
+            require(
+                len(styled_reader.pages) == 3,
+                "native DOCX-PDF muss Hinweis und Seitenumbrüche erhalten",
+            )
             styled_text = "\n".join(page.extract_text() or "" for page in styled_reader.pages)
             require("Kanzlei am Markt" in styled_text, "native DOCX-PDF muss Kopfzeile erhalten")
             require("Vertraulichkeitsvermerk" in styled_text, "native DOCX-PDF muss Fußzeile erhalten")
+        require(
+            not pdf_notice_errors(styled_pdf, exactly_once=True),
+            "jedes Einzel-PDF braucht den zweisprachigen Hinweis genau einmal",
+        )
 
         pdf_data = E.render_document_pdf(odt, root)
         require(pdf_data is not None and pdf_data.startswith(b"%PDF-"), "ODT muss ein PDF ergeben")
         require(len(list(G.PdfReader(io.BytesIO(pdf_data)).pages)) >= 1, "PDF braucht mindestens eine Seite")
+        require(
+            not pdf_notice_errors(pdf_data, exactly_once=True),
+            "gerenderte Einzel-PDFs muessen den Hinweis tragen",
+        )
 
         raw_json = root / "messwerte.json"
         raw_json.write_text(
@@ -161,6 +180,11 @@ def main() -> int:
             )
             require("messwerte.pdf" in built.namelist(), "JSON braucht eine eigene flache PDF")
             require("frist.pdf" in built.namelist(), "ICS braucht eine eigene flache PDF")
+            for info in built.infolist():
+                require(
+                    not pdf_notice_errors(built.read(info), exactly_once=True),
+                    f"{info.filename} braucht den Hinweis genau einmal",
+                )
 
         working_case = root / "arbeitsakte"
         working_case.mkdir()
@@ -207,7 +231,10 @@ def main() -> int:
         working_dist = root / "working-dist"
         working_dist.mkdir()
         working_archive, working_count = W.build_single(working_case, working_dist)
-        require(working_count == 2, "Arbeitsakten-ZIP muss beide nativen Unterlagen enthalten")
+        require(
+            working_count == 3,
+            "Arbeitsakten-ZIP muss Hinweis und beide nativen Unterlagen enthalten",
+        )
         first_working_hash = hashlib.sha256(working_archive.read_bytes()).hexdigest()
         working_archive, _ = W.build_single(working_case, working_dist)
         second_working_hash = hashlib.sha256(working_archive.read_bytes()).hexdigest()
@@ -223,6 +250,11 @@ def main() -> int:
             names = built.namelist()
             require(all("/" not in name for name in names), "Arbeitsakten-ZIP muss flach sein")
             require(not any(name.endswith(".md") for name in names), "Markdown darf nicht ins Akten-ZIP")
+            require(NOTICE_FILENAME in names, "Arbeitsakten-ZIP braucht README.txt")
+            require(built.read(NOTICE_FILENAME) == NOTICE_BYTES, "README.txt braucht verbindlichen Wortlaut")
+            notice_text = built.read(NOTICE_FILENAME).decode("utf-8")
+            require(NOTICE_DE in notice_text, "deutscher Hinweis fehlt in README.txt")
+            require(NOTICE_EN in notice_text, "englischer Hinweis fehlt in README.txt")
             require("eingang__02_nachricht.eml" in names, "Pfadbestandteile muessen im flachen Namen erhalten bleiben")
             require(
                 not any("unfertiger_entwurf" in name for name in names),

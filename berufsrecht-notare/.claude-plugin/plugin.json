@@ -1,6 +1,6 @@
 {
   "name": "berufsrecht-notare",
-  "version": "439.2.1",
+  "version": "439.2.2",
   "description": "Plugin für Notarrecht: BNotO, BeurkG, DONot, Dienstaufsicht, Urkundspflichten, Neutralität, Verwahrung, Amtspflichten, Vertreter/Verwalter, Disziplinarverfahren und notarielle Berufspraxis.",
   "license": "Apache-2.0 OR MIT",
   "author": {

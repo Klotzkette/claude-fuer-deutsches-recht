@@ -37,6 +37,7 @@ from testakte_einzelpdf_common import (
     ext_of,
 )
 from testakte_office_pdf import OFFICE_EXTS, OfficeRenderError, render_office, render_office_batch
+from testakte_disclaimer import prepend_notice_page
 
 SCRIPTS = Path(__file__).resolve().parent
 REPO_ROOT = SCRIPTS.parent
@@ -127,7 +128,8 @@ def render_document_pdf(
     """
     ext = ext_of(path)
     if ext in COPY_EXTS:
-        return normalize_pdf_to_a4(path.read_bytes(), path.name)
+        data = normalize_pdf_to_a4(path.read_bytes(), path.name)
+        return prepend_notice_page(data, testakte_dir.name)
 
     if ext in OFFICE_EXTS:
         try:
@@ -135,7 +137,8 @@ def render_document_pdf(
         except OfficeRenderError as exc:
             raise G.DocumentRenderError(f"{path.name}: {exc}") from exc
         if native is not None:
-            return normalize_pdf_to_a4(native, path.name)
+            data = normalize_pdf_to_a4(native, path.name)
+            return prepend_notice_page(data, testakte_dir.name)
 
     rel = path.relative_to(testakte_dir)
     flow: list = [Paragraph(f"<b>Datei:</b> {G.escape(str(rel))}", G.s_meta), Spacer(1, 6)]
@@ -180,7 +183,8 @@ def render_document_pdf(
         data = buf.getvalue()
         if not list(G.PdfReader(io.BytesIO(data)).pages):
             raise G.DocumentRenderError("erzeugtes PDF enthält keine Seite")
-        return normalize_pdf_to_a4(data, str(rel))
+        data = normalize_pdf_to_a4(data, str(rel))
+        return prepend_notice_page(data, testakte_dir.name)
     except Exception as exc:
         if isinstance(exc, G.DocumentRenderError):
             raise
