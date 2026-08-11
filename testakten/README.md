@@ -4,7 +4,11 @@
 
 Dieser Ordner enthält **Mandatsakten**, mit denen sich die Skills sofort ausprobieren lassen. Jede Akte ist bewusst so unstrukturiert wie ein echter Datenraum: PDFs mit handgemachten Briefköpfen, Excel-Tabellen, Word-Entwürfen, schiefen Dateinamen, Bildbeschreibungen, Chattranskripten und Fehlblättern, Mandantennotizen mit Tippfehlern. **Die Akten sind kein Bestandteil der Plugins und werden nicht mitinstalliert.** Wer die Skills produktiv einsetzt, lädt sich die Akten bei Bedarf separat als ZIP herunter.
 
-Stand v439.2.1: 302 zentrale Testakten plus 2 Hilfsmaterialsammlungen. Jede Akte steht in drei Fassungen bereit: als durchsuchbares Gesamt-PDF, als flaches Einzel-PDF-ZIP und als flaches Akten-ZIP mit den nativen Originalformaten DOCX, XLSX, PDF, JPEG, CSV, EML und weiteren Alltagsdateien. Die beiden ZIPs öffnen unmittelbar auf die Dateien; sie enthalten keine Unterordner, das Akten-ZIP außerdem kein Markdown. Schriftsätze und Gutachten sind vollständig ausgearbeitet, Tabellen behalten Rohdaten und offene Positionen, Korrespondenz enthält realistische Header und Bezüge.
+Stand v439.2.2: 302 zentrale Testakten plus 2 Hilfsmaterialsammlungen. Jede Akte steht in drei Fassungen bereit: als durchsuchbares Gesamt-PDF, als flaches Einzel-PDF-ZIP und als flaches Akten-ZIP mit den nativen Originalformaten DOCX, XLSX, PDF, JPEG, CSV, EML und weiteren Alltagsdateien. Die beiden ZIPs öffnen unmittelbar auf die Dateien; sie enthalten keine Unterordner, das Akten-ZIP außerdem kein Markdown. Schriftsätze und Gutachten sind vollständig ausgearbeitet, Tabellen behalten Rohdaten und offene Positionen, Korrespondenz enthält realistische Header und Bezüge.
+
+> **Hinweis / Notice:** Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr. This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+Dieser Hinweis steht im Gesamt-PDF einmal auf der ersten Seite, in jedem PDF des Einzel-PDF-ZIPs und als `README.txt` im ZIP mit den Originalformaten. Die Release-Prüfungen erzwingen Wortlaut und Position auch für alle künftig hinzukommenden Akten.
 
 Der verbindliche Aktenstandard steht in [`QUALITAETSSTANDARD.md`](./QUALITAETSSTANDARD.md): Die Originaldateien bleiben als heterogener Datenraum erhalten; Gesamt-PDF und Einzel-PDF-ZIP ermöglichen parallel die fortlaufende oder dokumentweise Durchsicht.
 
@@ -27,7 +31,7 @@ Jede Tabellenzeile führt zuerst zur Akten-README und danach getrennt zum Gesamt
   <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip"><strong>Alles komplett als ZIP herunterladen</strong></a>
 </p>
 
-> **Grundregel Dateiformate:** Aktenstücke liegen als lebensechter Formatemix vor (DOCX mit Briefkopf, PDF, XLSX, EML, JPG, TXT). Das Akten-ZIP enthält weder Markdown noch Unterordner; Details und Werkzeuge stehen im [Qualitätsstandard](./QUALITAETSSTANDARD.md).
+> **Grundregel Dateiformate:** Aktenstücke liegen als lebensechter Formatemix vor (DOCX mit Briefkopf, PDF, XLSX, EML, JPG, TXT). Das Akten-ZIP enthält weder Markdown noch Unterordner; lediglich die verpflichtende `README.txt` mit dem zweisprachigen Hinweis kommt hinzu. Details und Werkzeuge stehen im [Qualitätsstandard](./QUALITAETSSTANDARD.md).
 
 ## Verfügbare Akten
 

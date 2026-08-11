@@ -5,14 +5,16 @@ Jede testakten/<slug>/ Akte muss genau das Standard-Gesamt-PDF
 gesamt-pdf/<slug>_gesamt.pdf enthalten. Das PDF muss groesser als 1 KB sein,
 mit %PDF beginnen, ein EOF-Marker haben und im README verlinkt sein.
 
-Der Check nutzt nur die Python-Standardbibliothek, damit er in GitHub Actions
-ohne zusaetzliche PDF-Abhaengigkeiten laeuft.
+Der Check prüft zusätzlich mit pypdf, dass der verbindliche zweisprachige
+Hinweis auf der ersten Seite steht und im Gesamt-PDF genau einmal vorkommt.
 """
 
 from __future__ import annotations
 
 import sys
 from pathlib import Path
+
+from testakte_disclaimer import pdf_notice_errors
 
 ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = ROOT / "testakten"
@@ -65,6 +67,12 @@ def is_probable_pdf(path: Path) -> str | None:
 
 def main() -> int:
     errors: list[str] = []
+    for slug in sorted(SKIP_DIRS):
+        pdf = TESTAKTEN / slug / "gesamt-pdf" / f"{slug}_gesamt.pdf"
+        if not path_exists(pdf):
+            continue
+        for notice_problem in pdf_notice_errors(read_bytes(pdf), exactly_once=True):
+            errors.append(f"{slug}: {notice_problem}: {pdf.relative_to(ROOT)}")
     dirs = sorted(d for d in TESTAKTEN.iterdir() if d.is_dir() and d.name not in SKIP_DIRS)
     for d in dirs:
         slug = d.name
@@ -82,6 +90,9 @@ def main() -> int:
         problem = is_probable_pdf(pdf)
         if problem:
             errors.append(f"{slug}: {problem}: {pdf.relative_to(ROOT)}")
+        else:
+            for notice_problem in pdf_notice_errors(read_bytes(pdf), exactly_once=True):
+                errors.append(f"{slug}: {notice_problem}: {pdf.relative_to(ROOT)}")
         readme_candidates = [d / "README.md"] + sorted(d.glob("00_*.md")) + sorted(d.glob("aktenuebersicht*.md"))
         readme = next((p for p in readme_candidates if path_exists(p)), None)
         if readme:

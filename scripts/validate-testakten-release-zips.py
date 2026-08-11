@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 """Validate release ZIPs for testakten before publishing.
 
-The release builder intentionally strips README/download/meta files from
-testakten ZIPs. This validator mirrors that export filter and verifies that the
-single testakte ZIPs and the combined alle-testakten.zip contain exactly the
-files that the working-dump contract promises. After the dist directory,
-optional testakte names limit validation to a targeted build.
+The release builder strips Markdown/download/meta files from testakten ZIPs
+and adds the mandatory bilingual README.txt. This validator mirrors that
+contract and verifies the individual and combined archives. After the dist
+directory, optional testakte names limit validation to a targeted build.
 """
 
 from __future__ import annotations
@@ -14,7 +13,8 @@ import sys
 import zipfile
 from pathlib import Path
 
-from testakte_zip_common import working_dump_flat_pairs
+from testakte_disclaimer import NOTICE_FILENAME, notice_text_errors
+from testakte_zip_common import working_dump_expected_arcnames
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO_ROOT / "testakten"
@@ -29,16 +29,10 @@ def fail(message: str) -> None:
 
 
 def expected_entries(testakte_dir: Path) -> list[str]:
-    return [
-        arcname
-        for _, arcname in working_dump_flat_pairs(
-            testakte_dir,
-            include_gesamt_pdf=True,
-        )
-    ]
+    return working_dump_expected_arcnames(testakte_dir, include_gesamt_pdf=True)
 
 
-def zip_entries(zip_path: Path) -> list[str]:
+def zip_entries(zip_path: Path, *, require_notice: bool) -> list[str]:
     if not zip_path.exists():
         fail(f"{zip_path}: missing ZIP")
     if zip_path.stat().st_size <= 0:
@@ -54,6 +48,12 @@ def zip_entries(zip_path: Path) -> list[str]:
                     fail(f"{zip_path}: Unterordner im ZIP: {name}")
                 if name.lower().endswith(".md"):
                     fail(f"{zip_path}: Markdown-Datei im Akten-ZIP: {name}")
+            if require_notice:
+                notice_names = [name for name in names if name.casefold() == NOTICE_FILENAME.casefold()]
+                if notice_names != [NOTICE_FILENAME]:
+                    fail(f"{zip_path}: {NOTICE_FILENAME} fehlt oder ist nicht eindeutig")
+                for problem in notice_text_errors(archive.read(NOTICE_FILENAME)):
+                    fail(f"{zip_path}: {problem}")
             if len({name.casefold() for name in names}) != len(names):
                 fail(f"{zip_path}: Dateinamen kollidieren ohne Beachtung der Grossschreibung")
             return sorted(names)
@@ -108,12 +108,15 @@ def main() -> None:
             continue
         if f"{testakte_dir.name}_gesamt.pdf" in entries:
             gesamt_pdf_count += 1
-        actual = zip_entries(dist / f"testakte-{testakte_dir.name}.zip")
+        actual = zip_entries(
+            dist / f"testakte-{testakte_dir.name}.zip",
+            require_notice=True,
+        )
         assert_same(f"testakte-{testakte_dir.name}.zip", entries, actual)
     if empty_dirs:
         fail(f"testakten without exportable files: {empty_dirs[:20]}")
 
-    combined_actual = zip_entries(dist / "alle-testakten.zip")
+    combined_actual = zip_entries(dist / "alle-testakten.zip", require_notice=False)
     assert_same("alle-testakten.zip", individual_archives, combined_actual)
     if any(not name.lower().endswith(".zip") for name in combined_actual):
         fail("alle-testakten.zip: enthaelt andere Dateien als Einzel-ZIPs")

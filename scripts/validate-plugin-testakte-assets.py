@@ -11,8 +11,9 @@ from pathlib import Path
 
 from pypdf import PdfReader
 
+from testakte_disclaimer import NOTICE_FILENAME, notice_text_errors, pdf_notice_errors
 from testakte_einzelpdf_common import expected_arcnames
-from testakte_zip_common import working_dump_flat_pairs
+from testakte_zip_common import working_dump_expected_arcnames, working_dump_flat_pairs
 
 
 REPO = Path(__file__).resolve().parent.parent
@@ -39,6 +40,8 @@ def check_pdf(path: Path) -> None:
     data = path.read_bytes()
     if len(data) < 1024 or not data.startswith(b"%PDF") or b"%%EOF" not in data[-4096:]:
         fail(f"{path.relative_to(REPO)} ist kein plausibles PDF")
+    for problem in pdf_notice_errors(data, exactly_once=True):
+        fail(f"{path.relative_to(REPO)}: {problem}")
 
 
 def check_zip(
@@ -46,6 +49,7 @@ def check_zip(
     *,
     expected: list[str] | None = None,
     suffix: str | None = None,
+    require_notice: bool = False,
 ) -> list[str]:
     if not path.is_file() or path.stat().st_size <= 0:
         fail(f"{path}: ZIP fehlt oder ist leer")
@@ -72,6 +76,8 @@ def check_zip(
                         fail(f"{path}: PDF nicht lesbar {name}: {exc}")
                     if not pages:
                         fail(f"{path}: PDF ohne Seite: {name}")
+                    for problem in pdf_notice_errors(data, exactly_once=True):
+                        fail(f"{path}: {name}: {problem}")
                     for page_number, page in enumerate(pages, start=1):
                         width = float(page.mediabox.width)
                         height = float(page.mediabox.height)
@@ -82,6 +88,12 @@ def check_zip(
                                 f"{path}: {name}, Seite {page_number} ist nicht A4 "
                                 f"({width:.1f} x {height:.1f} pt)"
                             )
+            if require_notice:
+                notice_names = [name for name in names if name.casefold() == NOTICE_FILENAME.casefold()]
+                if notice_names != [NOTICE_FILENAME]:
+                    fail(f"{path}: {NOTICE_FILENAME} fehlt oder ist nicht eindeutig")
+                for problem in notice_text_errors(archive.read(NOTICE_FILENAME)):
+                    fail(f"{path}: {problem}")
             if len({name.casefold() for name in names}) != len(names):
                 fail(f"{path}: kollidierende Dateinamen")
             if expected is not None and sorted(names) != sorted(expected):
@@ -94,6 +106,16 @@ def check_zip(
 def main() -> int:
     dist = Path(sys.argv[1]) if len(sys.argv) > 1 else REPO / "dist"
     plugins = json.loads(MARKETPLACE.read_text(encoding="utf-8"))["plugins"]
+    checked_gesamt_pdfs: set[Path] = set()
+    for path in sorted(REPO.rglob("*.pdf"), key=lambda item: str(item).lower()):
+        try:
+            rel = path.relative_to(REPO)
+        except ValueError:
+            continue
+        if "testakten" in rel.parts or "testakte" not in rel.parts or "gesamt-pdf" not in rel.parts:
+            continue
+        check_pdf(path)
+        checked_gesamt_pdfs.add(path.resolve())
     count = 0
     source_archives: list[str] = []
     pdf_archives: list[str] = []
@@ -116,13 +138,20 @@ def main() -> int:
         if not source_pairs or not pdf_expected:
             fail(f"{name}: Quell- und Einzel-PDF-Auswahl sind inkonsistent")
         count += 1
-        check_pdf(testakte / "gesamt-pdf" / "testakte_gesamt.pdf")
+        gesamt_pdf = testakte / "gesamt-pdf" / "testakte_gesamt.pdf"
+        if gesamt_pdf.resolve() not in checked_gesamt_pdfs:
+            check_pdf(gesamt_pdf)
         source_name = f"{name}-testakte.zip"
         pdf_name = f"{name}-testakte-einzelpdfs.zip"
-        source_expected = [
-            arcname for _, arcname in working_dump_flat_pairs(testakte, include_gesamt_pdf=True)
-        ]
-        check_zip(dist / source_name, expected=source_expected)
+        source_expected = working_dump_expected_arcnames(
+            testakte,
+            include_gesamt_pdf=True,
+        )
+        check_zip(
+            dist / source_name,
+            expected=source_expected,
+            require_notice=True,
+        )
         check_zip(
             dist / pdf_name,
             expected=pdf_expected,

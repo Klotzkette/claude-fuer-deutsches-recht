@@ -42,6 +42,10 @@ Diese Regel gilt **dauerhaft und für jedes Werkzeug**, das in diesem Repository
 
 Gilt für alle Vorlagen, Verträge, Vertragsmuster, Memos, Schriftsätze und sonstigen formatierten Dokumente in diesem Repository.
 
+## Verbindlicher Hinweis für Testakten
+
+Jede Testakte wird mit einem zweisprachigen Hinweis ausgeliefert. Das Gesamt-PDF enthält ihn genau einmal auf der ersten Seite, jedes PDF im Einzel-PDF-ZIP ebenfalls genau einmal auf seiner ersten Seite und das ZIP mit Originalformaten als `README.txt` auf der Wurzelebene. Der verbindliche Wortlaut und die technische Durchsetzung stehen in [`AGENTS.md`](./AGENTS.md) und [`testakten/QUALITAETSSTANDARD.md`](./testakten/QUALITAETSSTANDARD.md); die zentralen Builder und Validatoren dürfen nicht umgangen werden.
+
 ## Verboten
 
 - Präjudizienbindungs-Argumente. In Deutschland gibt es keine Präjudizienbindung (außer § 31 BVerfGG).

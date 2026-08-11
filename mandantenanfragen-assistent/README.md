@@ -60,7 +60,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
-**Version:** 439.2.1
+**Version:** 439.2.2
 **Author:** Klotzkette
 **Lizenz:** Apache-2.0 OR MIT
 

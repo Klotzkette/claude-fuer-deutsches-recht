@@ -8,6 +8,7 @@ from pathlib import Path
 from typing import Iterable
 
 from testakte_file_filter import include_in_working_dump
+from testakte_disclaimer import NOTICE_FILENAME
 
 
 MAX_ARCHIVE_NAME = 220
@@ -88,3 +89,21 @@ def working_dump_flat_pairs(
             relative = Path(path.name)
         items.append((path, relative))
     return flat_archive_pairs(items)
+
+
+def working_dump_expected_arcnames(
+    testakte_dir: Path,
+    *,
+    include_gesamt_pdf: bool,
+) -> list[str]:
+    """Liefert den vollstaendigen Inhalt eines Originalformat-ZIPs."""
+    names = [
+        arcname
+        for _, arcname in working_dump_flat_pairs(
+            testakte_dir,
+            include_gesamt_pdf=include_gesamt_pdf,
+        )
+    ]
+    if NOTICE_FILENAME.casefold() in {name.casefold() for name in names}:
+        raise ValueError(f"reservierter ZIP-Dateiname kollidiert: {NOTICE_FILENAME}")
+    return [NOTICE_FILENAME, *names]

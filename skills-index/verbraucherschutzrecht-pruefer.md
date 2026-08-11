@@ -1,6 +1,6 @@
 # verbraucherschutzrecht-pruefer
 
-**148 Skills** · Stand `v439.2.1`
+**148 Skills** · Stand `v439.2.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../verbraucherschutzrecht-pruefer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
