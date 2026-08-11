@@ -8,13 +8,17 @@ import re
 from pathlib import Path
 
 from readme_display import display_prose
+from testakte_zip_common import working_dump_flat_pairs
 
 
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
 README = REPO / "README.md"
+DIRECTORY_BEGIN = "<!-- BEGIN HAUPTVERZEICHNIS (auto-generated) -->"
+DIRECTORY_END = "<!-- END HAUPTVERZEICHNIS (auto-generated) -->"
 BEGIN = "<!-- BEGIN PLUGIN-KATALOG (auto-generated) -->"
 END = "<!-- END PLUGIN-KATALOG (auto-generated) -->"
+SKIP_TESTAKTEN = {"formatvorlagen-paradebeispiele", "megaprompts"}
 
 
 def source_rel(plugin: dict) -> str:
@@ -41,6 +45,77 @@ def display_description(plugin: dict) -> str:
 def group_label(name: str) -> str:
     first = name[:1].upper()
     return first if first.isalpha() else "0-9"
+
+
+def inventory_counts(plugins: list[dict]) -> dict[str, int]:
+    skills = 0
+    werkstatt = 0
+    schnellstart = 0
+    pluginlocal_testakten = 0
+    for plugin in plugins:
+        directory = REPO / source_rel(plugin)
+        skills += sum(1 for _ in (directory / "skills").glob("*/SKILL.md"))
+        name = plugin["name"]
+        werkstatt += int((directory / f"{name}-werkstatt.md").is_file())
+        schnellstart += int((directory / f"{name}-schnellstart.md").is_file())
+        testakte = directory / "testakte"
+        if testakte.is_dir() and working_dump_flat_pairs(
+            testakte,
+            include_gesamt_pdf=False,
+        ):
+            pluginlocal_testakten += 1
+
+    central_testakten = sum(
+        1
+        for child in (REPO / "testakten").iterdir()
+        if child.is_dir() and child.name not in SKIP_TESTAKTEN
+    )
+    return {
+        "plugins": len(plugins),
+        "skills": skills,
+        "werkstatt": werkstatt,
+        "schnellstart": schnellstart,
+        "central_testakten": central_testakten,
+        "testakten": central_testakten + pluginlocal_testakten,
+    }
+
+
+def build_directory(plugins: list[dict]) -> str:
+    counts = inventory_counts(plugins)
+    labels = sorted({group_label(plugin["name"]) for plugin in plugins})
+    plugin_navigation = " · ".join(
+        f"[{label}](#{label.lower()})" for label in labels
+    )
+    return "\n".join(
+        [
+            DIRECTORY_BEGIN,
+            "Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jedem Release gegen Marketplace und Dateibestand geprüft. Jede Liste nennt zu jedem Eintrag eine Kurzbeschreibung und führt von dort unmittelbar zur Datei, zum Download oder zur passenden Detailseite.",
+            "",
+            "| Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |",
+            "| --- | ---: | --- | --- |",
+            f"| **Plugins** | {counts['plugins']} | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |",
+            f"| **Skills** | {counts['skills']} | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |",
+            f"| **Werkstatt-Prompts** | {counts['werkstatt']} | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |",
+            f"| **Schnellstart-/Mini-Prompts** | {counts['schnellstart']} | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |",
+            f"| **Testakten** | {counts['central_testakten']} zentral / {counts['testakten']} gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |",
+            "",
+            f"Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz {counts['skills']} Skills benutzbar bleibt.",
+            "",
+            f"Plugin-Schnellwahl: {plugin_navigation}",
+            DIRECTORY_END,
+        ]
+    )
+
+
+def replace_directory(text: str, directory: str) -> str:
+    if DIRECTORY_BEGIN not in text or DIRECTORY_END not in text:
+        raise RuntimeError("Hauptverzeichnis-Markierungen in README.md fehlen")
+    pattern = re.compile(
+        re.escape(DIRECTORY_BEGIN)
+        + r"[\s\S]*?"
+        + re.escape(DIRECTORY_END)
+    )
+    return pattern.sub(directory, text, count=1)
 
 
 def build_catalog(plugins: list[dict]) -> str:
@@ -94,9 +169,13 @@ def main() -> int:
     marketplace = json.loads(MARKETPLACE.read_text(encoding="utf-8"))
     plugins = marketplace["plugins"]
     original = README.read_text(encoding="utf-8")
-    updated = replace_catalog(original, build_catalog(plugins))
+    updated = replace_directory(original, build_directory(plugins))
+    updated = replace_catalog(updated, build_catalog(plugins))
     README.write_text(updated, encoding="utf-8")
-    print(f"README.md: vollständiger A-Z-Katalog mit {len(plugins)} Plugins.")
+    print(
+        "README.md: Hauptverzeichnis und vollständiger A-Z-Katalog "
+        f"mit {len(plugins)} Plugins."
+    )
     return 0
 
 

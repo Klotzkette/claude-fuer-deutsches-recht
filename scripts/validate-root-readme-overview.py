@@ -16,6 +16,8 @@ MARKETPLACE = REPO / PLUGIN_META_DIR / "marketplace.json"
 SKIP_TESTAKTEN = {"formatvorlagen-paradebeispiele", "megaprompts"}
 CATALOG_BEGIN = "<!-- BEGIN PLUGIN-KATALOG (auto-generated) -->"
 CATALOG_END = "<!-- END PLUGIN-KATALOG (auto-generated) -->"
+DIRECTORY_BEGIN = "<!-- BEGIN HAUPTVERZEICHNIS (auto-generated) -->"
+DIRECTORY_END = "<!-- END HAUPTVERZEICHNIS (auto-generated) -->"
 DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path="
 
 
@@ -32,9 +34,14 @@ def count_values(marketplace: dict) -> dict[str, int | str]:
     plugins = marketplace["plugins"]
     skill_files = []
     pluginlocal_testakten = []
+    werkstatt = 0
+    schnellstart = 0
     for plugin in plugins:
         directory = plugin_source(plugin)
         skill_files.extend((directory / "skills").glob("*/SKILL.md"))
+        name = plugin["name"]
+        werkstatt += int((directory / f"{name}-werkstatt.md").is_file())
+        schnellstart += int((directory / f"{name}-schnellstart.md").is_file())
         testakte = directory / "testakte"
         if testakte.is_dir() and working_dump_flat_pairs(testakte, include_gesamt_pdf=False):
             pluginlocal_testakten.append(testakte)
@@ -51,6 +58,8 @@ def count_values(marketplace: dict) -> dict[str, int | str]:
     return {
         "plugins": len(plugins),
         "skills": len(skill_files),
+        "werkstatt": werkstatt,
+        "schnellstart": schnellstart,
         "central_testakten": len(central_testakten),
         "testakten": len(central_testakten) + len(pluginlocal_testakten),
         "version": f"v{marketplace['version']}",
@@ -206,6 +215,67 @@ def check_root_readme(values: dict[str, int | str]) -> list[str]:
     return errors
 
 
+def check_root_directory(values: dict[str, int | str]) -> list[str]:
+    readme = (REPO / "README.md").read_text(encoding="utf-8")
+    errors: list[str] = []
+    if DIRECTORY_BEGIN not in readme or DIRECTORY_END not in readme:
+        return ["README Hauptverzeichnis: Generator-Markierungen fehlen"]
+    directory = readme.split(DIRECTORY_BEGIN, 1)[1].split(DIRECTORY_END, 1)[0]
+
+    if "| Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |" not in directory:
+        errors.append("README Hauptverzeichnis: erklärende Tabellenspalten fehlen")
+
+    expected_counts = {
+        "Plugins": int(values["plugins"]),
+        "Skills": int(values["skills"]),
+        "Werkstatt-Prompts": int(values["werkstatt"]),
+        "Schnellstart-/Mini-Prompts": int(values["schnellstart"]),
+    }
+    for label, expected in expected_counts.items():
+        match = re.search(
+            rf"^\| \*\*{re.escape(label)}\*\* \| (\d+) \|",
+            directory,
+            re.MULTILINE,
+        )
+        if not match:
+            errors.append(f"README Hauptverzeichnis: {label} fehlt")
+        elif int(match.group(1)) != expected:
+            errors.append(
+                f"README Hauptverzeichnis: {label} {match.group(1)} statt {expected}"
+            )
+
+    testakten = re.search(
+        r"^\| \*\*Testakten\*\* \| (\d+) zentral / (\d+) gesamt \|",
+        directory,
+        re.MULTILINE,
+    )
+    if not testakten:
+        errors.append("README Hauptverzeichnis: Testakten fehlen")
+    elif (
+        int(testakten.group(1)) != values["central_testakten"]
+        or int(testakten.group(2)) != values["testakten"]
+    ):
+        errors.append("README Hauptverzeichnis: Testakten-Zählung ist veraltet")
+
+    required_links = [
+        "#was-ist-drin",
+        "./ASSET_INDEX.md",
+        "./SKILLS.md",
+        "./skills-index/",
+        "./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts",
+        "./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts",
+        "./testakten/README.md#verfügbare-akten",
+    ]
+    for target in required_links:
+        if f"]({target})" not in directory:
+            errors.append(f"README Hauptverzeichnis: Link fehlt: {target}")
+
+    rows = re.findall(r"^\| \*\*[^|]+\*\* \|", directory, re.MULTILINE)
+    if len(rows) != 5:
+        errors.append(f"README Hauptverzeichnis: {len(rows)} statt 5 Registerzeilen")
+    return errors
+
+
 def check_generated_overviews(values: dict[str, int | str]) -> list[str]:
     errors: list[str] = []
 
@@ -255,6 +325,7 @@ def main() -> int:
     values = count_values(marketplace)
     errors = (
         check_root_readme(values)
+        + check_root_directory(values)
         + check_generated_overviews(values)
         + check_sorted_inventories(marketplace)
     )
@@ -265,7 +336,10 @@ def main() -> int:
     print(
         "validate-root-readme-overview OK "
         f"({values['plugins']} Plugins, {values['skills']} Skills, "
-        f"{values['central_testakten']} zentrale Testakten, Stand {values['version']})"
+        f"{values['werkstatt']} Werkstatt-Prompts, "
+        f"{values['schnellstart']} Schnellstart-Prompts, "
+        f"{values['central_testakten']} zentrale / {values['testakten']} Testakten gesamt, "
+        f"Stand {values['version']})"
     )
     return 0
 
