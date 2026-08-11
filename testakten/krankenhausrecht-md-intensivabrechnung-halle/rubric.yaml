@@ -1,0 +1,20 @@
+name: krankenhausrecht-md-intensivabrechnung-halle
+plugin: "krankenhausrecht"
+description: "Krankenhausabrechnungsprüfung zu OPS 8-98f, Aufwandspunkten, Behandlungsleitung, Nachreichung und Aufrechnung."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens zwölf exportierbare Primärunterlagen vorhanden
+    min: 12
+  - id: pruefverfahren
+    check_type: human_review
+    description: "Prüfanzeige, MD-Unterlagenanforderung, Gutachten, Kassenentscheidung und Erörterungsweg nach Paragraf 275c SGB V und Paragraf 17c KHG zeitlich trennen."
+  - id: ops
+    check_type: human_review
+    description: "Die 2026 maßgeblichen Mindestmerkmale und Aufwandspunkte der OPS-Gruppe 8-98f am amtlichen Katalog prüfen."
+  - id: dokumente
+    check_type: human_review
+    description: "Erstupload, später gefundene Bogenrückseite und Korrektureintrag quellenkritisch würdigen, ohne bloß auf das Gutachten zu vertrauen."
+  - id: aufrechnung
+    check_type: human_review
+    description: "Die Summe der vier benannten Aufrechnungsforderungen exakt mit 74612.80 EUR abstimmen und prozessuale Folgen gesondert prüfen."

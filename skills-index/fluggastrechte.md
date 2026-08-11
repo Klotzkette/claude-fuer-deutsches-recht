@@ -1,6 +1,6 @@
 # fluggastrechte
 
-**88 Skills** · Stand `v439.2.2`
+**88 Skills** · Stand `v439.3.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fluggastrechte/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

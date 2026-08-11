@@ -44,9 +44,19 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`krankenhausrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenhausrecht.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`krankenhausrecht-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhausrecht/krankenhausrecht-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`krankenhausrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhausrecht/krankenhausrecht-werkstatt.md) |
-| Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
+| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 235 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+
+## Zugeordnete Testakten
+
+Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
+| --- | --- | --- | --- |
+| [Krankenhausrecht: MD-Prüfung einer Intensivabrechnung in Halle](../testakten/krankenhausrecht-md-intensivabrechnung-halle/README.md) | [Gesamt-PDF](../testakten/krankenhausrecht-md-intensivabrechnung-halle/gesamt-pdf/krankenhausrecht-md-intensivabrechnung-halle_gesamt.pdf) | [`testakte-krankenhausrecht-md-intensivabrechnung-halle.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenhausrecht-md-intensivabrechnung-halle.zip) | [`testakte-krankenhausrecht-md-intensivabrechnung-halle-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenhausrecht-md-intensivabrechnung-halle-einzelpdfs.zip) |
+
+[Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.

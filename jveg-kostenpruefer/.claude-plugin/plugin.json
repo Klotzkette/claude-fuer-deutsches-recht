@@ -1,6 +1,6 @@
 {
   "name": "jveg-kostenpruefer",
-  "version": "439.2.2",
+  "version": "439.3.0",
   "description": "Freistehender JVEG-Kostenprüfer für Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Sachverständigen- und Dolmetscherkosten, Fristen, Festsetzung, Beschwerde und belegfeste Rechenprotokolle.",
   "license": "Apache-2.0 OR MIT",
   "author": {

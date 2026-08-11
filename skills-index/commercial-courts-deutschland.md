@@ -1,6 +1,6 @@
 # commercial-courts-deutschland
 
-**59 Skills** · Stand `v439.2.2`
+**59 Skills** · Stand `v439.3.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../commercial-courts-deutschland/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

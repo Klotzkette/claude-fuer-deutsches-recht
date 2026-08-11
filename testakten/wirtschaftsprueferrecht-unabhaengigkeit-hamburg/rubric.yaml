@@ -1,0 +1,23 @@
+name: wirtschaftsprueferrecht-unabhaengigkeit-hamburg
+plugin: "berufsrecht-wirtschaftspruefer"
+description: "APAS-Inspektion einer PIE-Abschlussprüfung mit Netzwerkleistungen, familiärer Beziehung, Honorarverlauf und Nachtragsdokumentation."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens zwölf exportierbare Primärunterlagen vorhanden
+    min: 12
+  - id: zustaendigkeit
+    check_type: human_review
+    description: "PIE-Eigenschaft, APAS-Zuständigkeit und Inspektionsgegenstand aus den Unterlagen herausarbeiten."
+  - id: unabhaengigkeit
+    check_type: human_review
+    description: "Paragrafen 319 und 319b HGB, WPO und Verordnung (EU) Nr. 537/2014 auf finanzielle, persönliche und leistungsbezogene Gefährdungen beziehen."
+  - id: honorare
+    check_type: human_review
+    description: "Prüfungs- und Nichtprüfungshonorare nach Jahr und Netzwerkgesellschaft trennen; eine mögliche Obergrenze nur auf zutreffender Datenbasis berechnen."
+  - id: freigaben
+    check_type: human_review
+    description: "Ausschussbeschluss, bloße Information und E-Mail des Finanzvorstands nicht gleichsetzen."
+  - id: nachtraege
+    check_type: human_review
+    description: "Nachträgliche Dokumentation von unzulässiger rückwirkender Aktenänderung anhand des Versionslogs und des Vermerks unterscheiden."

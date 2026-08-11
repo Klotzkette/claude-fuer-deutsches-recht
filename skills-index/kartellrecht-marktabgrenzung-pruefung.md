@@ -1,6 +1,6 @@
 # kartellrecht-marktabgrenzung-pruefung
 
-**310 Skills** · Stand `v439.2.2`
+**310 Skills** · Stand `v439.3.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../kartellrecht-marktabgrenzung-pruefung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

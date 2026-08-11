@@ -30,7 +30,15 @@ SKIP_DIRS = {"gesamt-pdf", "megaprompts", "formatvorlagen-paradebeispiele"}
 
 def has_briefkopf(doc) -> bool:
     header = doc.sections[0].header
-    return any(p.text.strip() for p in header.paragraphs)
+    if any(p.text.strip() for p in header.paragraphs):
+        return True
+    return any(
+        paragraph.text.strip()
+        for table in header.tables
+        for row in table.rows
+        for cell in row.cells
+        for paragraph in cell.paragraphs
+    )
 
 
 def process(path: Path, pruefen: bool) -> str:

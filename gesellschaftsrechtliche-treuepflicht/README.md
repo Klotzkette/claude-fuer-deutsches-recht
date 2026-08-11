@@ -44,9 +44,19 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`gesellschaftsrechtliche-treuepflicht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsrechtliche-treuepflicht.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`gesellschaftsrechtliche-treuepflicht-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`gesellschaftsrechtliche-treuepflicht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-werkstatt.md) |
-| Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
+| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 235 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+
+## Zugeordnete Testakten
+
+Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
+| --- | --- | --- | --- |
+| [Gesellschaftsrechtliche Treuepflicht: Kapitalerhöhung in Ulm](../testakten/gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm/README.md) | [Gesamt-PDF](../testakten/gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm/gesamt-pdf/gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm_gesamt.pdf) | [`testakte-gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm.zip) | [`testakte-gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm-einzelpdfs.zip) |
+
+[Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Treuepflicht prüfen: Stimmverhalten, Informationsnutzung, Wettbewerb, Blockade, Minderheitenschutz, Organpflichten und Rechtsfolgen.

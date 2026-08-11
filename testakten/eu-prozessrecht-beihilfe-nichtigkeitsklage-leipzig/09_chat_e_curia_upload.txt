@@ -1,0 +1,10 @@
+Kanzleichat · Matter 61-2026 · 26.06.2026
+
+16:08 Elin Nørgaard: Klageschrift final 48 Seiten. Bitte keine weiteren Änderungen ohne Rückruf.
+16:11 Miriam Vogelsang: Anlagen A.1 bis A.14 sind im Uploadordner. A.12 hat zwei Fassungen, vertraulich und geschwärzt.
+16:44 Felix Westphal: Ist A.9 im Verzeichnis richtig? Im Schriftsatz Seite 31 steht Gutachten Harenberg.
+16:47 Miriam Vogelsang: Im Verzeichnis heißt das Gutachten gerade A.8. Ich prüfe die Nummern gegen die Dateinamen.
+17:22 Elin Nørgaard: Nummerierung im Schriftsatz bleibt. Bitte Verzeichnis korrigieren und beide A.12-Fassungen erneut exportieren.
+18:31 Miriam Vogelsang: Upload vollständig, 16 Dateien. e-Curia zeigt 187 MB und keine Fehlermeldung.
+18:44 Elin Nørgaard: Eingereicht. Bestätigung ECU-GC-2026-0626-184431 ist da.
+18:51 Felix Westphal: Bitte Quittung, Hash und vollständigen Uploadordner schreibgeschützt ablegen. Am Montag Registerauszug aktualisieren.
