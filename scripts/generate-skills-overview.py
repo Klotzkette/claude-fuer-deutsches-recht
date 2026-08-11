@@ -15,13 +15,18 @@ import re
 import sys
 import json
 from pathlib import Path
+from urllib.parse import quote
 
 from readme_display import display_prose
 
 BEGIN = "<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->"
 END = "<!-- END SKILLS-OVERVIEW (auto-generated) -->"
 REPO = Path(__file__).resolve().parent.parent
-RAW_BASE = "https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main"
+DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path="
+
+
+def markdown_download_url(repo_path: str) -> str:
+    return DOWNLOAD_BASE + quote(repo_path, safe="/")
 
 
 def clean_description(desc: str) -> str:
@@ -106,8 +111,10 @@ def build_overview(plugin_dir: Path) -> str:
         "## Alle Skills im Überblick",
         "",
         f"Automatisch generierte Komplett-Liste aller {len(skills)} Skills in diesem Plugin. "
-        "Jeder Skillname öffnet die zugehörige `SKILL.md`; der Direktdownload lädt dieselbe Datei als Markdown. "
-        "Beschreibungen stammen aus dem jeweiligen `description`-Feld.",
+        "Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. "
+        "Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.",
+        "",
+        f"English: Complete list of all {len(skills)} skills in this plugin. Both links in each row download the unchanged `SKILL.md` content as a Markdown file with a unique plugin-and-skill filename.",
         "",
         "| Skill | Beschreibung | Markdown-Download |",
         "| --- | --- | --- |",
@@ -115,10 +122,10 @@ def build_overview(plugin_dir: Path) -> str:
     plugin_rel = plugin_dir.relative_to(REPO).as_posix()
     for s in skills:
         desc = read_description(skills_dir / s / "SKILL.md")
-        raw_url = f"{RAW_BASE}/{plugin_rel}/skills/{s}/SKILL.md"
+        download_url = markdown_download_url(f"{plugin_rel}/skills/{s}/SKILL.md")
         lines.append(
-            f"| [`{s}`](skills/{s}/SKILL.md) | {desc} | "
-            f'<a href="{raw_url}" download><code>SKILL.md</code></a> |'
+            f"| [`{s}`]({download_url}) | {desc} | "
+            f"[MD herunterladen / Download MD]({download_url}) |"
         )
     lines.append("")
     lines.append(END)

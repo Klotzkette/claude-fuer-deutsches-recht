@@ -12,6 +12,7 @@ import json
 import re
 from os.path import relpath
 from pathlib import Path
+from urllib.parse import quote
 
 from testakte_zip_common import working_dump_flat_pairs
 
@@ -27,7 +28,7 @@ OLD_MEGA_END = "<!-- END megaprompt-und-vorlagen (autogen) -->"
 OLD_SOFORT_BEGIN = "<!-- BEGIN plugin-sofort-download-section (autogen) -->"
 OLD_SOFORT_END = "<!-- END plugin-sofort-download-section (autogen) -->"
 RELEASE_BASE = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download"
-RAW_BASE = "https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main"
+DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path="
 DISALLOWED_ABBR = chr(75) + chr(73)
 DISALLOWED_MIXED = chr(75) + "i"
 PROSE_REPLACEMENTS = {
@@ -215,6 +216,10 @@ def relative_link(directory: Path, target: Path) -> str:
     return Path(relpath(target, start=directory)).as_posix()
 
 
+def markdown_download_url(repo_path: str) -> str:
+    return DOWNLOAD_BASE + quote(repo_path, safe="/")
+
+
 def navigation(plugin_name: str, directory: Path) -> str:
     root = relative_link(directory, REPO / "README.md")
     skills = relative_link(directory, REPO / "SKILLS.md")
@@ -372,12 +377,13 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     stem = prompt_stem(plugin_name)
     werkstatt_file = f"{stem}-werkstatt.md"
     schnellstart_file = f"{stem}-schnellstart.md"
-    raw_dir = f"{RAW_BASE}/{directory.relative_to(REPO).as_posix()}"
-    werkstatt_url = f"{raw_dir}/{werkstatt_file}"
-    schnellstart_url = f"{raw_dir}/{schnellstart_file}"
+    plugin_rel = directory.relative_to(REPO).as_posix()
+    werkstatt_url = markdown_download_url(f"{plugin_rel}/{werkstatt_file}")
+    schnellstart_url = markdown_download_url(f"{plugin_rel}/{schnellstart_file}")
     testakte_cell = testakte_download_cell(directory, akten_slugs)
     description = markdown_text(plugin.get("description") or readme_title(directory, plugin_name))
     assets = relative_link(directory, REPO / "ASSET_INDEX.md")
+    skill_detail = relative_link(directory, REPO / "skills-index" / f"{plugin_name}.md")
     testakten = testakten_section(plugin_name, directory, akten_slugs)
     testakten_block = f"\n\n{testakten}" if testakten else ""
     quickstart = quickstart_section(plugin_name, directory)
@@ -388,6 +394,20 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
 
 Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
+## Welche Datei wofür? / Which file should I use?
+
+| Bestandteil | Deutsch | English | Wo? / Where? |
+| --- | --- | --- | --- |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`{plugin_name}.zip`]({RELEASE_BASE}/{plugin_name}.zip) |
+| Skills | Eng abgegrenzte Arbeitsabläufe für einzelne Aufgaben. Im installierten Plugin werden sie passend zum Fall ausgewählt; ohne Installation kann jeder Skill einzeln als Markdown geladen werden. | Focused workflows for individual tasks. The installed plugin selects them as needed; without installation, each skill can be downloaded as Markdown. | [Skill-Liste öffnen / Open skill list]({skill_detail}) |
+| Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD]({werkstatt_url}) |
+| Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD]({schnellstart_url}) |
+| Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index]({relative_link(directory, TESTAKTEN_DIR / 'README.md')}) |
+
+Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navigationslinks zu README- und Übersichtsseiten bleiben dagegen als GitHub-Seiten geöffnet.
+
+Links labelled “MD herunterladen / Download MD” start a file download. Navigation links to README and index pages remain normal GitHub pages.
+
 {navigation(plugin_name, directory)}
 
 {quickstart}
@@ -397,8 +417,8 @@ Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins für deuts
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`{plugin_name}.zip`]({RELEASE_BASE}/{plugin_name}.zip) |
-| Kompakter Prompt (Schnellstart) | Markdown | <a href="{schnellstart_url}" download><code>{schnellstart_file}</code></a> |
-| Großer Prompt (Werkstatt) | Markdown | <a href="{werkstatt_url}" download><code>{werkstatt_file}</code></a> |
+| Kompakter Prompt (Schnellstart) | Markdown | [`{schnellstart_file}`]({schnellstart_url}) |
+| Großer Prompt (Werkstatt) | Markdown | [`{werkstatt_file}`]({werkstatt_url}) |
 | Zugeordnete Testakten | PDF / ZIP | {testakte_cell} |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`]({RELEASE_BASE}/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index]({assets}); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.{testakten_block}

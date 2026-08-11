@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Markdown-Datei herunterladen</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --background: #f6f7f8;
+      --surface: #ffffff;
+      --text: #202124;
+      --muted: #5f6368;
+      --border: #d7dce1;
+      --accent: #185abc;
+      --danger: #b3261e;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --background: #161719;
+        --surface: #222428;
+        --text: #f1f3f4;
+        --muted: #bdc1c6;
+        --border: #44474d;
+        --accent: #8ab4f8;
+        --danger: #f2b8b5;
+      }
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+      background: var(--background);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+      line-height: 1.55;
+    }
+
+    main {
+      width: min(680px, 100%);
+      padding: 32px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+    }
+
+    h1 {
+      margin: 0 0 12px;
+      font-size: 1.55rem;
+      letter-spacing: 0;
+    }
+
+    p {
+      margin: 10px 0;
+    }
+
+    .english,
+    .file {
+      color: var(--muted);
+    }
+
+    .file {
+      overflow-wrap: anywhere;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 0.9rem;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 22px;
+    }
+
+    a.button {
+      min-height: 42px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 9px 15px;
+      border: 1px solid var(--accent);
+      border-radius: 6px;
+      background: var(--accent);
+      color: #ffffff;
+      font: inherit;
+      font-weight: 600;
+      text-decoration: none;
+      cursor: pointer;
+    }
+
+    a.button.secondary {
+      background: transparent;
+      color: var(--accent);
+    }
+
+    .error {
+      color: var(--danger);
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Markdown-Datei herunterladen</h1>
+    <p id="status" role="status" aria-live="polite">Der Download wird gestartet.</p>
+    <p class="english">The download is starting. If the browser blocks it, use the download button below.</p>
+    <p class="file" id="file"></p>
+    <div class="actions">
+      <a class="button" id="download" download>MD herunterladen</a>
+      <a class="button secondary" href="https://github.com/Klotzkette/claude-fuer-deutsches-recht">Zum Repository / Repository</a>
+    </div>
+    <noscript>
+      <p class="error">Für den direkten Download muss JavaScript in dieser Seite aktiviert sein. JavaScript is required for the direct download.</p>
+    </noscript>
+  </main>
+
+  <script>
+    (() => {
+      "use strict";
+
+      const path = new URLSearchParams(window.location.search).get("path") || "";
+      const status = document.getElementById("status");
+      const file = document.getElementById("file");
+      const download = document.getElementById("download");
+
+      const isAllowedPath = (value) => {
+        if (!/^[A-Za-z0-9._/ -]+\.md$/.test(value)) return false;
+        if (value.startsWith("/") || value.includes("\\")) return false;
+        return !value.split("/").includes("..");
+      };
+
+      const downloadName = (value) => {
+        const parts = value.split("/");
+        const base = parts.at(-1);
+        const skillsIndex = parts.lastIndexOf("skills");
+        if (base === "SKILL.md" && skillsIndex > 0 && parts[skillsIndex + 1]) {
+          return `${parts[skillsIndex - 1]}--${parts[skillsIndex + 1]}.md`;
+        }
+        return base;
+      };
+
+      const fail = (message) => {
+        status.textContent = message;
+        status.classList.add("error");
+        download.removeAttribute("href");
+      };
+
+      if (!isAllowedPath(path)) {
+        fail("Der Downloadpfad fehlt oder ist ungültig. The download path is missing or invalid.");
+        return;
+      }
+
+      const filename = downloadName(path);
+      const encodedPath = path.split("/").map(encodeURIComponent).join("/");
+      const href = new URL(`downloads/${encodedPath}`, window.location.href).href;
+
+      file.textContent = filename;
+      download.href = href;
+      download.download = filename;
+      status.textContent = "Der Download wurde gestartet. Falls nichts passiert, klicke auf „MD herunterladen“.";
+      download.click();
+    })();
+  </script>
+</body>
+</html>

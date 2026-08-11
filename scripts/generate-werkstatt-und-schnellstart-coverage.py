@@ -6,6 +6,7 @@ from __future__ import annotations
 import html
 import json
 from pathlib import Path
+from urllib.parse import quote
 
 from readme_display import display_prose
 
@@ -13,7 +14,7 @@ from readme_display import display_prose
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
 DOCS = REPO / "docs"
-RAW_BASE = "https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main"
+DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path="
 
 
 def prompt_stem(plugin_name: str) -> str:
@@ -27,8 +28,9 @@ def plugin_dir(plugin: dict) -> Path:
     return REPO / source
 
 
-def direct_download(url: str, label: str) -> str:
-    return f'<a href="{url}" download><code>{html.escape(label)}</code></a>'
+def direct_download(repo_path: str, label: str) -> str:
+    url = DOWNLOAD_BASE + quote(repo_path, safe="/")
+    return f"[`{html.escape(label)}` herunterladen]({url})"
 
 
 def prompt_table(plugins: list[dict], kind: str) -> list[str]:
@@ -43,7 +45,7 @@ def prompt_table(plugins: list[dict], kind: str) -> list[str]:
         "",
         purpose,
         "",
-        "| Plugin | Kurzbeschreibung | Im Repository | Direktdownload | Navigation |",
+        "| Plugin | Kurzbeschreibung | Datei | Direktdownload | Navigation |",
         "| --- | --- | --- | --- | --- |",
     ]
     for plugin in plugins:
@@ -54,11 +56,10 @@ def prompt_table(plugins: list[dict], kind: str) -> list[str]:
         description = html.escape(
             display_prose(str(plugin.get("description", ""))).replace("|", "\\|")
         )
-        raw = f"{RAW_BASE}/{rel}"
         plugin_rel = directory.relative_to(REPO).as_posix()
         lines.append(
-            f"| `{name}` | {description} | [`{prompt.name}`](../{rel}) | "
-            f"{direct_download(raw, prompt.name)} | "
+            f"| `{name}` | {description} | `{prompt.name}` | "
+            f"{direct_download(rel, prompt.name)} | "
             f"[README](../{plugin_rel}/README.md) · [Skills](../skills-index/{name}.md) |"
         )
     lines.append("")
@@ -75,7 +76,9 @@ def main() -> int:
     lines = [
         "# Werkstatt- und Schnellstart-Coverage",
         "",
-        "Vollständige, alphabetisch sortierte Übersicht der ausführlichen Werkstatt-Prompts und kompakten Schnellstart-Prompts. Beide Formate werden ausschließlich als einzelne Markdown-Dateien angeboten, nicht als ZIP und nicht als installierbarer Skill.",
+        "Vollständige, alphabetisch sortierte Übersicht der ausführlichen Werkstatt-Prompts und kompakten Schnellstart-Prompts. Beide Formate werden ausschließlich als einzelne Markdown-Dateien angeboten, nicht als ZIP und nicht als installierbarer Skill. Jeder Dateilink startet den Download, statt die Markdown-Quelle im Browser anzuzeigen.",
+        "",
+        "English: Workshop prompts are the detailed standalone workflow; quick-start prompts are the compact standalone entry point. Every file link downloads the unchanged Markdown file. Neither format is an installable skill or part of the plugin ZIP.",
         "",
         "[Repository-Start](../README.md) · [Download-Index](../ASSET_INDEX.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Testakten](../testakten/README.md)",
         "",

@@ -175,13 +175,14 @@ for (const entry of marketplace.plugins || []) {
       errors.push(`${rel(readme)}: sichtbare Version ${visibleVersion[1]} passt nicht zu ${marketplace.version}`);
     }
     const sourceRel = String(entry.source || `./${entry.name}`).replace(/^\.\//, '');
-    const werkstattRaw = `https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/${sourceRel}/${entry.name}-werkstatt.md`;
-    const schnellstartRaw = `https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/${sourceRel}/${entry.name}-schnellstart.md`;
-    if (!text.includes(werkstattRaw) || !new RegExp(`<a href="${werkstattRaw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}" download>`).test(text)) {
-      errors.push(`${rel(readme)}: Werkstatt-Direktdownload fehlt oder ist nicht als download markiert`);
+    const downloadBase = 'https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=';
+    const werkstattDownload = `${downloadBase}${sourceRel}/${entry.name}-werkstatt.md`;
+    const schnellstartDownload = `${downloadBase}${sourceRel}/${entry.name}-schnellstart.md`;
+    if (!text.includes(werkstattDownload)) {
+      errors.push(`${rel(readme)}: Werkstatt-Direktdownload fehlt`);
     }
-    if (!text.includes(schnellstartRaw) || !new RegExp(`<a href="${schnellstartRaw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}" download>`).test(text)) {
-      errors.push(`${rel(readme)}: Schnellstart-Direktdownload fehlt oder ist nicht als download markiert`);
+    if (!text.includes(schnellstartDownload)) {
+      errors.push(`${rel(readme)}: Schnellstart-Direktdownload fehlt`);
     }
     for (const line of text.split(/\r?\n/)) {
       const cells = line.startsWith('|') ? line.split('|').slice(1, -1).map((cell) => cell.trim()) : [];

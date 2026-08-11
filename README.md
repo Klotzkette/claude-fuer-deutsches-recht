@@ -8,6 +8,20 @@ Dieses Repository ist eine **experimentelle Plugin- und Skill-Sammlung für deut
 
 Ziel ist es, zu zeigen, wie sich Plugins und Skills für Arbeitsrecht, Gesellschaftsrecht, Insolvenzrecht (inklusive Liquiditätsplanung und Fortbestehensprognose), Datenschutzrecht, Prozessrecht, gewerblichen Rechtsschutz, Produkt-, Robotik- und Regulierungsrecht u. a. so strukturieren lassen, dass sie sich an der in Deutschland üblichen Methodik (Anspruchsgrundlagen, Prüfungsaufbau, Gesetzesauslegung, Rechtsprechungszitate mit Datum und Aktenzeichen) orientieren. Die Inhalte dienen ausschließlich als **Anregung für eigene Kanzlei- oder Inhouse-Plugins und -Skills**: Sie sollen zeigen, welche Prompts, Rollenbeschreibungen und Workflows in der Praxis hilfreich sein können – jeder Nutzer passt sie an die eigenen Mandate, Branchen, Tools und Compliance-Vorgaben an.
 
+## Deutsch: Dateien und Downloads
+
+| Bestandteil | Was ist das? | Wann ist es richtig? | Wo liegt es? |
+| --- | --- | --- | --- |
+| **Plugin-ZIP** | Das installierbare Gesamtpaket eines Rechtsgebiets mit Skills, Referenzen und Hilfsdateien. | Wenn das Rechtsgebiet dauerhaft als Plugin eingerichtet werden soll. | Oben in jeder Plugin-README und im [Asset-Index](./ASSET_INDEX.md). |
+| **Skill** | Ein eng abgegrenzter Arbeitsablauf für eine bestimmte Aufgabe innerhalb eines Plugins. | Wenn ein einzelner Prüfungsschritt, Entwurf oder Fachworkflow benötigt wird. | In der [Skill-Gesamtübersicht](./SKILLS.md), auf den [Plugin-Detailseiten](./skills-index/) und in jeder Plugin-README. |
+| **Werkstatt-Prompt** | Eine ausführliche eigenständige Markdown-Datei für komplexe und mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Wenn ohne Installation möglichst viel fachliche Tiefe in einer einzigen Datei benötigt wird. | In der [Werkstatt-Übersicht](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) und oben in jeder Plugin-README. |
+| **Schnellstart- oder Mini-Prompt** | Eine kompakte eigenständige Markdown-Datei für den schnellen Einstieg und ein erstes belastbares Arbeitsprodukt. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Wenn ein Fall schnell begonnen werden soll und der ausführliche Werkstattmodus noch nicht nötig ist. | In der [Schnellstart-Übersicht](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) und oben in jeder Plugin-README. |
+| **Testakte** | Eine separate Dokumentensammlung zum Ausprobieren der Arbeitsabläufe; sie wird nicht mit einem Plugin installiert. | Wenn ein Workflow ohne eigenes Mandatsmaterial geprüft werden soll. | In der [Testakten-Übersicht](./testakten/README.md). |
+
+**Klickverhalten:** README-, Index- und Übersichtslinks öffnen weiterhin eine GitHub-Seite zur Navigation. Links mit **MD herunterladen** laden dagegen die unveränderte Markdown-Arbeitsdatei auf den Rechner. Bei einzelnen Skills erhält die Datei einen eindeutigen Namen aus Plugin und Skill, damit mehrere Downloads nicht alle `SKILL.md` heißen.
+
+[Jump to the English quick guide](#english-quick-guide)
+
 > **Cowork mit eigenem Modellzugang:** Wenn du die Plugins in einer Cowork-Oberfläche über eine eigene Schnittstelle, einen Gateway-Anbieter oder einen Enterprise-Proxy nutzen willst, spring direkt zu [Eigene Schnittstelle oder Zwischenanbieter anbinden](#eigene-schnittstelle-oder-zwischenanbieter-anbinden-stand-juli-2026).
 
 ## Direktnavigation
@@ -21,6 +35,7 @@ Ziel ist es, zu zeigen, wie sich Plugins und Skills für Arbeitsrecht, Gesellsch
 | Alle Testakten von A bis Z | [Testakten-Übersicht mit drei Downloadformaten](./testakten/README.md) · [Qualitätsstandard](./testakten/QUALITAETSSTANDARD.md) |
 | Installation und Fehlersuche | [Schnellstart](#schnellstart) · [einfache Installationshilfe](./INSTALLATION_EINFACH.md) · [Kurzanleitung](./QUICKSTART.md) |
 | Sämtliche Release-Dateien und Prüfsummen | [aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) · [vollständiger Asset-Index](./ASSET_INDEX.md) |
+| English explanation | [English quick guide](#english-quick-guide) |
 
 ### Bitte mit-testen und Feedback geben
 
@@ -38,9 +53,9 @@ Vor einem produktiven Einsatz sind Berufsrecht, Mandatsgeheimnis, Datenschutz, t
 
 ### Klotzkettes Juristische Promptliste
 
-Viele Skills in diesem Repo sind im Kern strukturierte **Werkstatt-Prompts** — also nicht primär Eingangs- oder Kaltstart-Skills einer größeren agentischen Tätigkeit, sondern eigenständig nutzbare, hochstrukturierte Prompt-Bausteine. Solche Skills funktionieren auch **außerhalb von Claude Code, Codex oder Perplexity Computer**: einfach die `SKILL.md` als Markdown herunterladen, in ChatGPT, Claude, Gemini, Perplexity, Mistral, Le Chat oder ein anderes Tool kopieren und nach Bedarf anpassen.
+Viele Skills in diesem Repo sind strukturierte Markdown-Arbeitsabläufe. Sie können einzeln heruntergeladen und in einer geeigneten Arbeitsoberfläche als Datei verwendet oder aus der Datei kopiert werden. Werkstatt und Schnellstart sind davon getrennte Ein-Datei-Prompts: Die Werkstatt bietet die ausführliche Fachroute, der Schnellstart den kompakten Einstieg.
 
-Für den Einsatz ohne Plugin-Installation gibt es zusätzlich pro Plugin zwei reine Markdown-Dateien: einen ausführlichen **Werkstatt-Prompt** und einen kompakten **Schnellstart-Prompt** mit höchstens 7.500 Zeichen. Beide werden als **Markdown-Direkt-Download** über `raw.githubusercontent.com` angeboten (nicht als ZIP). Der Download-Link steht oben in jeder Plugin-README und in jeder Plugin-Detailseite.
+Für den Einsatz ohne Plugin-Installation gibt es pro Plugin zwei reine Markdown-Dateien: einen ausführlichen **Werkstatt-Prompt** und einen kompakten **Schnellstart-Prompt** mit höchstens 7.500 Zeichen. Beide werden als einzelne Markdown-Dateien angeboten, nicht als ZIP. Die Downloadlinks stehen oben in jeder Plugin-README und auf jeder Plugin-Detailseite; sie führen über die statische Downloadseite, weil GitHub das HTML-Attribut `download` in gerenderten README-Dateien entfernt.
 
 ### Formatstandard für erzeugte Dokumente
 
@@ -736,10 +751,22 @@ Die ursprüngliche Vorlage `claude-for-legal` von Anthropic steht unter der MIT-
 
 Beiträge willkommen – siehe [Beitragsleitfaden](./CONTRIBUTING.md).
 
-## English Summary
+## English Quick Guide
 
-This repository provides a large German-law plugin and skill collection for Claude, Codex and similar AI workflows. The plugins are structured as practical legal workbenches: they help read messy files, build checklists, draft letters and pleadings, review contracts, prepare tables, track deadlines and keep legal reasoning tied to statutes and verifiable case law.
+This repository provides a large German-law plugin and skill collection for practical legal workflows. It supports document review, structured legal analysis, drafting, deadline work, evidence mapping and source-controlled research across civil, labour, corporate, insolvency, family, inheritance, social, public, criminal and specialist business law.
 
-The focus is German legal practice: civil law, labour law, tax, insolvency, corporate, tenancy and WEG, family, inheritance, social law, public law, criminal defence, data protection, AI governance and many specialist business-law areas. Test case files are available separately as realistic document bundles and searchable Gesamt-PDFs.
+### What is what?
 
-The material is experimental and does not replace legal advice. Every output must be checked by a qualified human against current statutes, official materials and independently verifiable court decisions. Do not upload confidential client data unless your provider setup, professional duties and data-protection framework allow it.
+| Component | Meaning | Best use | Location |
+| --- | --- | --- | --- |
+| **Plugin ZIP** | The installable package for one legal field, including skills, references and supporting files. | Use it when the legal field should be available as an installed plugin. | At the top of each plugin README and in the [asset index](./ASSET_INDEX.md). |
+| **Skill** | A focused workflow for one task inside a plugin. | Use it for a specific review, drafting step or specialist task. | In the [complete skill index](./SKILLS.md), the [per-plugin index](./skills-index/) and each plugin README. |
+| **Workshop prompt** | A detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | Use it when one file should provide the deepest standalone workflow without installation. | In the [workshop index](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) and each plugin README. |
+| **Quick-start or mini prompt** | A compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | Use it when the matter should start quickly and the full workshop is not yet needed. | In the [quick-start index](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) and each plugin README. |
+| **Practice file** | A separate document bundle for trying a workflow without client material. It is not installed with a plugin. | Use it to test file handling and legal workflows. | In the [practice-file index](./testakten/README.md). |
+
+**Click behaviour:** README, index and overview links remain normal GitHub navigation pages. Links labelled **Download MD** save the unchanged Markdown work file instead of opening a source preview. Individual skills receive a unique plugin-and-skill filename so that multiple downloads do not overwrite one another.
+
+Start with the [plugin catalogue](#was-ist-drin), the [complete skill index](./SKILLS.md), the [workshop and quick-start index](./docs/werkstatt-und-schnellstart-coverage.md), or the [latest release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest).
+
+The material is experimental and does not replace legal advice. Every output must be checked by a qualified human against current statutes, official materials and independently verifiable court decisions. Do not upload confidential client data unless the technical setup, professional duties and data-protection framework permit it.
