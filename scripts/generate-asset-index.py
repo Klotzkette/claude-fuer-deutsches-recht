@@ -11,6 +11,7 @@ from __future__ import annotations
 import html
 import json
 from pathlib import Path
+from urllib.parse import quote
 
 from readme_display import display_prose
 
@@ -18,7 +19,7 @@ REPO = Path(__file__).resolve().parent.parent
 OWNER = "Klotzkette"
 NAME = "claude-fuer-deutsches-recht"
 RELEASE = f"https://github.com/{OWNER}/{NAME}/releases/latest/download"
-RAW = f"https://raw.githubusercontent.com/{OWNER}/{NAME}/main"
+DOWNLOAD_BASE = f"https://{OWNER.lower()}.github.io/{NAME}/download.html?path="
 
 
 def source_rel(plugin: dict[str, str]) -> str:
@@ -26,8 +27,9 @@ def source_rel(plugin: dict[str, str]) -> str:
     return source.removeprefix("./")
 
 
-def markdown_download(url: str, label: str) -> str:
-    return f'<a href="{url}" download><code>{html.escape(label)}</code></a>'
+def markdown_download(repo_path: str, label: str) -> str:
+    url = DOWNLOAD_BASE + quote(repo_path, safe="/")
+    return f"[`{html.escape(label)}` herunterladen]({url})"
 
 
 def group_label(name: str) -> str:
@@ -77,7 +79,9 @@ def main() -> int:
         "",
         f"## Plugin-Assets ({len(plugins)} Stück)",
         "",
-        "Alle Plugins sind alphabetisch sortiert. Werkstatt- und Schnellstart-Prompts sind Markdown-Direkt-Downloads über `raw.githubusercontent.com`. Es gibt dafür keine eigenen ZIP-Assets im Release.",
+        "Alle Plugins sind alphabetisch sortiert. Werkstatt- und Schnellstart-Prompts werden über die statische Downloadseite als Markdown-Dateien gespeichert, statt in einer Quelltextvorschau geöffnet zu werden. Es gibt dafür keine eigenen ZIP-Assets im Release.",
+        "",
+        "English: Workshop and quick-start links download the unchanged Markdown files. README and skill-index links remain normal navigation pages.",
         "",
         " · ".join(f"[{label}](#{label.lower()})" for label, _ in groups),
         "",
@@ -100,16 +104,16 @@ def main() -> int:
             )
             werkstatt_file = f"{name}-werkstatt.md"
             schnellstart_file = f"{name}-schnellstart.md"
-            werkstatt_url = f"{RAW}/{rel}/{werkstatt_file}"
-            schnellstart_url = f"{RAW}/{rel}/{schnellstart_file}"
+            werkstatt_path = f"{rel}/{werkstatt_file}"
+            schnellstart_path = f"{rel}/{schnellstart_file}"
             zip_url = f"{RELEASE}/{name}.zip"
             navigation = f"[README]({rel}/README.md) · [Skills](skills-index/{name}.md)"
             lines.append(
                 "| "
                 f"[`{name}`]({rel}/README.md) | "
                 f"{description} | "
-                f"{markdown_download(werkstatt_url, werkstatt_file)} | "
-                f"{markdown_download(schnellstart_url, schnellstart_file)} | "
+                f"{markdown_download(werkstatt_path, werkstatt_file)} | "
+                f"{markdown_download(schnellstart_path, schnellstart_file)} | "
                 f"[`{name}.zip`]({zip_url}) | "
                 f"{navigation} |"
             )

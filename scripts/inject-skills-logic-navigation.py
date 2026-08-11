@@ -10,12 +10,14 @@ from __future__ import annotations
 import json
 import re
 from pathlib import Path
+from urllib.parse import quote
 
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
 BEGIN = "<!-- BEGIN SKILLS-LOGIC (auto-generated) -->"
 END = "<!-- END SKILLS-LOGIC (auto-generated) -->"
 SKILLS_OVERVIEW_BEGIN = "<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->"
+DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path="
 DISPLAY_OMIT = ("chatgpt", "codex", "assistant", "perplexity", "openai")
 
 GROUPS: list[tuple[str, tuple[str, ...]]] = [
@@ -119,19 +121,26 @@ def classify(slug: str) -> str:
     return "8. Spezialmodule und Schnittstellen"
 
 
-def format_slugs(slugs: list[str], limit: int = 18) -> str:
+def markdown_download_url(repo_path: str) -> str:
+    return DOWNLOAD_BASE + quote(repo_path, safe="/")
+
+
+def format_slugs(slugs: list[str], source: str, limit: int = 18) -> str:
     displayable = [slug for slug in slugs if not any(part in slug.lower() for part in DISPLAY_OMIT)]
     if not displayable:
         return "Siehe alphabetische Komplettliste unten."
     shown = displayable[:limit]
-    text = ", ".join(f"[`{slug}`](skills/{slug}/SKILL.md)" for slug in shown)
+    text = ", ".join(
+        f"[`{slug}`]({markdown_download_url(f'{source}/skills/{slug}/SKILL.md')})"
+        for slug in shown
+    )
     rest = len(displayable) - len(shown)
     if rest > 0:
         text += f", ... plus {rest} weitere"
     return text
 
 
-def build_block(slugs: list[str]) -> str:
+def build_block(slugs: list[str], source: str) -> str:
     if len(slugs) < 4:
         return ""
     grouped: dict[str, list[str]] = {}
@@ -143,7 +152,9 @@ def build_block(slugs: list[str]) -> str:
         "",
         "## Orientierung nach Arbeitslogik",
         "",
-        "Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.",
+        "Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Ein Klick auf einen Skill lädt seine Markdown-Datei; die alphabetische Komplettliste bleibt darunter erhalten.",
+        "",
+        "English: Skills are grouped by typical work phase. Clicking a skill downloads its Markdown file; the complete alphabetical list remains below.",
         "",
         "| Arbeitsphase | Typische Skills |",
         "| --- | --- |",
@@ -151,7 +162,7 @@ def build_block(slugs: list[str]) -> str:
     for label in labels:
         items = grouped.get(label)
         if items:
-            lines.append(f"| {label} | {format_slugs(items)} |")
+            lines.append(f"| {label} | {format_slugs(items, source)} |")
     lines.extend(["", END])
     return "\n".join(lines)
 
@@ -182,11 +193,12 @@ def main() -> int:
     total = 0
     for plugin in market["plugins"]:
         directory = plugin_dir(plugin)
+        source = directory.relative_to(REPO).as_posix()
         slugs = skill_slugs(directory)
         if not slugs:
             continue
         total += 1
-        if inject(directory / "README.md", build_block(slugs)):
+        if inject(directory / "README.md", build_block(slugs, source)):
             changed += 1
             print(f"  UPD {plugin['name']}", flush=True)
     print(f"Fertig: {changed}/{total} READMEs mit Arbeitslogik-Navigation aktualisiert.")

@@ -16,6 +16,7 @@ MARKETPLACE = REPO / PLUGIN_META_DIR / "marketplace.json"
 SKIP_TESTAKTEN = {"formatvorlagen-paradebeispiele", "megaprompts"}
 CATALOG_BEGIN = "<!-- BEGIN PLUGIN-KATALOG (auto-generated) -->"
 CATALOG_END = "<!-- END PLUGIN-KATALOG (auto-generated) -->"
+DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path="
 
 
 def load_marketplace() -> dict:
@@ -155,7 +156,7 @@ def check_sorted_inventories(marketplace: dict) -> list[str]:
             continue
         overview = text.split(begin, 1)[1].split(end, 1)[0]
         actual_skills = re.findall(
-            r"^\| \[`([^`]+)`\]\(skills/\1/SKILL\.md\) \|",
+            rf"^\| \[`([^`]+)`\]\({re.escape(DOWNLOAD_BASE)}[^)]*/skills/\1/SKILL\.md\) \|",
             overview,
             re.MULTILINE,
         )

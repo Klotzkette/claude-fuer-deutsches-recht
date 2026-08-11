@@ -9,18 +9,16 @@ import sys
 import unicodedata
 from os.path import relpath
 from pathlib import Path
-from urllib.parse import unquote
+from urllib.parse import quote, unquote, urlsplit
 
 
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
-RAW_BASE = "https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main"
+DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path="
 MARKDOWN_LINK_RE = re.compile(r"(?<!!)\[([^\]]*)\]\(([^)\n]*)\)")
 HEADING_RE = re.compile(r"^#{1,6}[ \t]+(.+?)[ \t]*#*[ \t]*$", re.MULTILINE)
-HTML_RAW_LINK_RE = re.compile(
-    rf'<a\s+([^>]*href="{re.escape(RAW_BASE)}/[^"]+"[^>]*)>',
-    re.IGNORECASE,
-)
+HTML_HREF_RE = re.compile(r'<a\s+[^>]*href=["\']([^"\']+)["\'][^>]*>', re.IGNORECASE)
+DOWNLOAD_LINK_RE = re.compile(re.escape(DOWNLOAD_BASE) + r"([^\s)\"'<>]+)")
 
 
 def repo_relative(path: Path) -> str:
@@ -29,6 +27,10 @@ def repo_relative(path: Path) -> str:
 
 def relative_link(directory: Path, target: Path) -> str:
     return Path(relpath(target, start=directory)).as_posix()
+
+
+def markdown_download_url(repo_path: str) -> str:
+    return DOWNLOAD_BASE + quote(repo_path, safe="/")
 
 
 def link_destination(raw: str) -> str:
@@ -104,21 +106,76 @@ def validate_markdown_links(errors: list[str]) -> tuple[int, int]:
     return checked_links, checked_anchors
 
 
-def validate_raw_downloads(errors: list[str]) -> int:
+def is_markdown_work_file(destination: str) -> bool:
+    path = urlsplit(destination).path.lower()
+    if "skills-index" in path.split("/"):
+        return False
+    name = path.rsplit("/", 1)[-1]
+    return (
+        name == "skill.md"
+        or name.endswith("-werkstatt.md")
+        or name.endswith("-schnellstart.md")
+    )
+
+
+def user_facing_download_docs() -> list[Path]:
+    market = json.loads(MARKETPLACE.read_text(encoding="utf-8"))
+    files = {REPO / "README.md"}
+    for plugin in market["plugins"]:
+        source = str(plugin["source"]).removeprefix("./")
+        files.add(REPO / source / "README.md")
+    files.update((REPO / "skills-index").glob("*.md"))
+    files.update(
+        {
+            REPO / "SKILLS.md",
+            REPO / "ASSET_INDEX.md",
+            REPO / "docs" / "werkstatt-und-schnellstart-coverage.md",
+        }
+    )
+    return sorted(path for path in files if path.is_file())
+
+
+def validate_markdown_downloads(errors: list[str]) -> int:
+    download_page = REPO / "uebersicht-fachanwaltschaften" / "download.html"
+    if not download_page.is_file():
+        errors.append("Statische Markdown-Downloadseite fehlt")
+    else:
+        page_text = download_page.read_text(encoding="utf-8")
+        if "downloads/${encodedPath}" not in page_text or "download.click()" not in page_text:
+            errors.append("Statische Markdown-Downloadseite ist unvollständig")
+
+    pages_workflow = REPO / ".github" / "workflows" / "pages.yml"
+    if not pages_workflow.is_file():
+        errors.append("Pages-Workflow für Markdown-Downloads fehlt")
+    else:
+        workflow_text = pages_workflow.read_text(encoding="utf-8")
+        required_fragments = ("-name '*.md'", "_site/downloads", "path: ./_site")
+        if not all(fragment in workflow_text for fragment in required_fragments):
+            errors.append("Pages-Workflow stellt nicht alle Markdown-Dateien bereit")
+
     count = 0
-    for path in sorted(REPO.rglob("*.md")):
+    for path in user_facing_download_docs():
         text = path.read_text(encoding="utf-8", errors="ignore")
-        for match in HTML_RAW_LINK_RE.finditer(text):
-            count += 1
-            attributes = match.group(1)
-            if not re.search(r"(?:^|\s)download(?:\s*=|\s|$)", attributes, re.IGNORECASE):
-                errors.append(f"{repo_relative(path)}: Markdown-Direktlink ohne download-Attribut")
-            href = re.search(r'href="([^"]+)"', attributes, re.IGNORECASE)
-            if not href:
+        destinations = [link_destination(match.group(2)) for match in MARKDOWN_LINK_RE.finditer(text)]
+        destinations.extend(HTML_HREF_RE.findall(text))
+        for destination in destinations:
+            if not destination or destination.startswith(("mailto:", "#")):
                 continue
-            raw_path = unquote(href.group(1).removeprefix(f"{RAW_BASE}/")).split("?", 1)[0]
-            if not (REPO / raw_path).is_file():
-                errors.append(f"{repo_relative(path)}: Markdown-Direktziel fehlt: {raw_path}")
+            if destination.startswith(DOWNLOAD_BASE):
+                continue
+            if path.parent == REPO / "skills-index" and not urlsplit(destination).scheme:
+                continue
+            if is_markdown_work_file(destination):
+                errors.append(
+                    f"{repo_relative(path)}: Markdown-Arbeitsdatei umgeht den Downloadweg: {destination}"
+                )
+        for match in DOWNLOAD_LINK_RE.finditer(text):
+            count += 1
+            repo_path = unquote(match.group(1))
+            if not is_markdown_work_file(repo_path):
+                errors.append(f"{repo_relative(path)}: unzulässiges Markdown-Downloadziel: {repo_path}")
+            if not (REPO / repo_path).is_file():
+                errors.append(f"{repo_relative(path)}: Markdown-Downloadziel fehlt: {repo_path}")
     return count
 
 
@@ -158,13 +215,20 @@ def validate_generated_navigation(errors: list[str]) -> tuple[int, int]:
 
         skills = sorted((directory / "skills").glob("*/SKILL.md"))
         detail_text = detail.read_text(encoding="utf-8")
+        prompt_paths = [
+            f"{source}/{name}-werkstatt.md",
+            f"{source}/{name}-schnellstart.md",
+        ]
+        for prompt_path in prompt_paths:
+            direct = markdown_download_url(prompt_path)
+            if direct not in readme_text or direct not in detail_text or direct not in asset_index:
+                errors.append(f"{name}: Markdown-Download fehlt in README, Skill-Detailseite oder Asset-Index: {prompt_path}")
         for skill in skills:
             skill_count += 1
             slug = skill.parent.name
-            if f"](skills/{slug}/SKILL.md)" not in readme_text:
-                errors.append(f"{repo_relative(readme)}: Skill-Link fehlt: {slug}")
-            raw_url = f"{RAW_BASE}/{source}/skills/{slug}/SKILL.md"
-            direct = f'<a href="{raw_url}" download><code>SKILL.md</code></a>'
+            direct = markdown_download_url(f"{source}/skills/{slug}/SKILL.md")
+            if direct not in readme_text:
+                errors.append(f"{repo_relative(readme)}: Skill-Download fehlt: {slug}")
             if direct not in detail_text:
                 errors.append(f"{repo_relative(detail)}: Direktdownload fehlt: {slug}")
     return plugin_count, skill_count
@@ -208,7 +272,7 @@ def validate_testakte_navigation(errors: list[str]) -> int:
 def main() -> int:
     errors: list[str] = []
     checked_links, checked_anchors = validate_markdown_links(errors)
-    raw_downloads = validate_raw_downloads(errors)
+    markdown_downloads = validate_markdown_downloads(errors)
     plugin_count, skill_count = validate_generated_navigation(errors)
     validate_root_navigation(errors)
     testakte_count = validate_testakte_navigation(errors)
@@ -222,7 +286,7 @@ def main() -> int:
     print(
         "validate-readme-navigation OK "
         f"({plugin_count} Plugins, {skill_count} Skills, {testakte_count} Aktenseiten, {checked_links} lokale Links, "
-        f"{checked_anchors} Anker, {raw_downloads} Markdown-Direktdownloads)"
+        f"{checked_anchors} Anker, {markdown_downloads} echte Markdown-Downloads)"
     )
     return 0
 

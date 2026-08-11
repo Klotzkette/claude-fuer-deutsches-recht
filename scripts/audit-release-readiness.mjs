@@ -36,10 +36,6 @@ function count(text, needle) {
   return text.split(needle).length - 1;
 }
 
-function regexpEscape(value) {
-  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-}
-
 function assert(condition, message) {
   if (!condition) errors.push(message);
 }
@@ -111,14 +107,14 @@ for (const entry of marketplace.plugins) {
       assert(!text.includes(phrase), `${rel(readme)}: alter Direkt-loslegen-Text gefunden`);
     }
     const releaseBase = 'https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download';
-    const rawBase = 'https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main';
+    const downloadBase = 'https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=';
     const relSource = entry.source.replace(/^\.\//, '');
     const pluginZip = `${releaseBase}/${entry.name}.zip`;
-    const werkstattUrl = `${rawBase}/${relSource}/${entry.name}-werkstatt.md`;
-    const schnellstartUrl = `${rawBase}/${relSource}/${entry.name}-schnellstart.md`;
+    const werkstattUrl = `${downloadBase}${relSource}/${entry.name}-werkstatt.md`;
+    const schnellstartUrl = `${downloadBase}${relSource}/${entry.name}-schnellstart.md`;
     assert(text.includes(pluginZip), `${rel(readme)}: Plugin-ZIP-Link fehlt`);
-    assert(new RegExp(`<a href="${regexpEscape(werkstattUrl)}" download><code>${regexpEscape(entry.name)}-werkstatt\\.md</code></a>`).test(text), `${rel(readme)}: Werkstatt-Download-Tag fehlt`);
-    assert(new RegExp(`<a href="${regexpEscape(schnellstartUrl)}" download><code>${regexpEscape(entry.name)}-schnellstart\\.md</code></a>`).test(text), `${rel(readme)}: Schnellstart-Download-Tag fehlt`);
+    assert(text.includes(werkstattUrl), `${rel(readme)}: Werkstatt-Direktdownload fehlt`);
+    assert(text.includes(schnellstartUrl), `${rel(readme)}: Schnellstart-Direktdownload fehlt`);
     for (const match of text.matchAll(/<code>(.*?)<\/code>/g)) {
       assert(!/[^\x00-\x7F]/.test(match[1]), `${rel(readme)}: <code>-Tag enthält Nicht-ASCII-Text`);
     }
