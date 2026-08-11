@@ -1,0 +1,7 @@
+Zeitpunkt;Konto;Route;Status;Ziel;Session;Bestaetigung
+2025-12-28 21:18:03;LS-884120;/contract/cancel;302;/login;alt;nein
+2025-12-28 21:19:14;LS-884120;/contract/cancel;302;/dashboard;erneuert;nein
+2025-12-28 21:22:47;LS-884120;/contract/cancel;302;/dashboard;erneuert;nein
+2026-01-10 10:02:11;LS-884120;/contract/cancel;302;/dashboard;mobil;nein
+2026-01-10 10:05:39;LS-884120;/contract/cancel;302;/dashboard;mobil;nein
+2026-01-10 10:18:07;LS-884120;/support/chat;200;CH-260110-881;mobil;Chat-ID

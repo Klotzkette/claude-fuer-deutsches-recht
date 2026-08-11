@@ -1,0 +1,7 @@
+Datum;Beleg;Position;Brutto_EUR;Zahlung_EUR;Offen_EUR;Hinweis
+2026-03-02;GW-26-041;Hauptauftrag;31840;0;31840;
+2026-03-09;AZ-1;Abschlag Arbeitsbeginn;9552;9552;0;gezahlt Ingrid Möller
+2026-04-06;AZ-2;Abschlag Mauer;12736;12736;0;gezahlt Ingrid Möller
+2026-04-14;N-1;Drainage und Stufen;6420.05;0;6420.05;keine Unterschrift
+2026-04-20;SR-1;Schlussrechnung Hauptauftrag;9552;0;9552;
+2026-05-08;GS-1;Kulanzgutschrift;-4112;0;-4112;Preisnachlass und nicht ausgeführte Pflanzung

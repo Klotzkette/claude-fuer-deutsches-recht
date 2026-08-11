@@ -1,3 +1,14 @@
+# v439.4.0 - Fünf Steuerakten und zehn BGB-Alltagsfälle
+
+- Der Bestand wächst auf 322 zentrale Akten. Fünf neue Steuerfälle bilden kleine Betriebe mit wenigen Beschäftigten ab: eine Fahrradwerkstatt als Einzelunternehmen, ein Ingenieurbüro zwischen freiberuflicher Eigenleistung und standardisierten Produkten, eine Heizungsbau-GmbH mit Gesellschafter- und Angehörigensachverhalten, ein Reinigungsbetrieb in der Lohnprüfung sowie eine vermietete Wohnung in Bologna.
+- Der Italien-Fall trennt die Besteuerungszuweisung nach Artikel 6 DBA-Italien, die deutsche Freistellung nach Artikel 24 Absatz 3, die Progressionsfrage nach Paragraf 32b EStG und die Mitwirkung bei Auslandssachverhalten nach Paragraf 90 Absatz 2 AO. Die Akte enthält bewusst keine pauschale Aussage, ausländische Vermietung müsse in Deutschland nie offengelegt werden.
+- Zehn neue BGB-Alltagsakten behandeln Gartenbau und private Einstandserklärung, Mähroboter mit Cloud-Update, Lastenradfinanzierung, Bankschließfach-AGB, Smartphone-Reparatur mit Datenverlust, Tierkauf, Onlinekurs-Kündigung, Vollmacht für eine Hochzeitslocation, E-Bike-Leihe mit Akkubrand und Ausfallhonorare bei Nachhilfe.
+- Zusammen enthalten die neuen Akten 155 eigenständige Primärstücke: gesetzte DOCX-Unterlagen mit glaubwürdigen Briefköpfen, vollständige E-Mails, Alltagschats und Telefonvermerke, konsistente CSV-Zahlenwerke sowie Bildanlagen. Die Unterlagen verteilen entscheidungserhebliche Tatsachen über mehrere Quellen und verraten keine Lösung.
+- Jede neue Akte steht als durchsuchbares Gesamt-PDF, flaches ZIP mit nativen Originalformaten ohne Markdown und flaches ZIP mit getrennten Einzel-PDFs bereit. Gesamt-PDF und Einzel-PDFs tragen den vorgeschriebenen zweisprachigen Hinweis; das Originalformat-ZIP enthält ihn als `README.txt`.
+- Die zentrale Testaktenübersicht und die READMEs der dreizehn berührten Plugins führen alphabetisch zu den neuen Fällen und zu allen drei Downloadfassungen. Der reproduzierbare Aufbau ist in einem eigenen Bauskript festgehalten.
+
+---
+
 # v439.3.0 - Fünf prioritäre Schulungsakten für bislang unversorgte Plugins
 
 - Der Testaktenbestand wächst auf 307 zentrale Akten. Fünf bisher nicht mit einer eigenen Akte versorgte Plugins erhalten je einen vollständigen, fachlich eigenständigen Schulungsfall: Apothekenrecht, Krankenhausrecht, europäisches Prozessrecht, gesellschaftsrechtliche Treuepflicht und Berufsrecht der Wirtschaftsprüfer.

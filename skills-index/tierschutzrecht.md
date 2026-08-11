@@ -1,6 +1,6 @@
 # tierschutzrecht
 
-**129 Skills** · Stand `v439.3.0`
+**129 Skills** · Stand `v439.4.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../tierschutzrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

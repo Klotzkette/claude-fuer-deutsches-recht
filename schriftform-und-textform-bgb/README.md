@@ -44,7 +44,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`schriftform-und-textform-bgb.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schriftform-und-textform-bgb.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`schriftform-und-textform-bgb-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftform-und-textform-bgb/schriftform-und-textform-bgb-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`schriftform-und-textform-bgb-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftform-und-textform-bgb/schriftform-und-textform-bgb-werkstatt.md) |
-| Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
+| Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 235 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
@@ -54,6 +54,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
+| [BGB: Gartenumbau, Zusatzauftrag und Bürgschaft in Kassel](../testakten/bgb-buergschaft-gartenbau-kassel/README.md) | [Gesamt-PDF](../testakten/bgb-buergschaft-gartenbau-kassel/gesamt-pdf/bgb-buergschaft-gartenbau-kassel_gesamt.pdf) | [`testakte-bgb-buergschaft-gartenbau-kassel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-buergschaft-gartenbau-kassel.zip) | [`testakte-bgb-buergschaft-gartenbau-kassel-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-buergschaft-gartenbau-kassel-einzelpdfs.zip) |
 | [Schriftform-Maklervertrag – Eheleute Haspelbeck-Türkenfeld](../testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/README.md) | [Gesamt-PDF](../testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/gesamt-pdf/schriftform-maklervertrag-muenchen-eheleute-haspelbeck_gesamt.pdf) | [`testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip) | [`testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck-einzelpdfs.zip) |
 | [Schriftform der Wohnraumkündigung — Pferdedrescher-Riesenstein ./. Eberhart-Wolframshausen](../testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/README.md) | [Gesamt-PDF](../testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/gesamt-pdf/schriftform-mietkuendigung-bielefeld-online-pferdedrescher_gesamt.pdf) | [`testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip) | [`testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher-einzelpdfs.zip) |
 
@@ -62,7 +63,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 **Plugin-Slug:** `schriftform-und-textform-bgb`
-**Version:** 439.3.0
+**Version:** 439.4.0
 **Autor:** Klotzkette
 
 ## Installation

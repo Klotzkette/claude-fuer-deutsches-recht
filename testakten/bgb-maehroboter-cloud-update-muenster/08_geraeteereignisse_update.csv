@@ -1,0 +1,8 @@
+Zeitpunkt;Code;Meldung;Position_X;Position_Y;Aktion;Quelle
+2026-06-13 02:14;FW-INSTALL;Firmware 4.8.2 installiert;;;Neustart;Geräteexport
+2026-06-13 02:19;MAP-MIG;Kartenmigration erfolgreich;;;Vorversion markiert;Serverlog
+2026-06-13 07:04;B2-DRIFT;Beacon B2 drift 1.8m;12.44;8.09;Toleriert;Serverlog
+2026-06-13 18:31;ALIGN-1;Ausrichtung fehlgeschlagen;;;Abbruch;App-Export
+2026-06-14 06:30;SCHED;Zeitplan gestartet;;;Mähen;Geräteexport
+2026-06-14 06:47;WHEEL-SLIP;Radschlupf rechts;18.12;4.77;Motor weiter;Geräteexport
+2026-06-14 06:49;LIFT;Gerät angehoben;18.08;4.70;Stopp;Geräteexport

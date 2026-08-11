@@ -1,0 +1,20 @@
+name: bgb-vollmacht-hochzeitslocation-dresden
+plugin: "bgb-at-pruefer"
+description: "Während das Brautpaar im Ausland ist, verhandelt die Schwester mit dem Gut Wachwitz und unterzeichnet eine Reservierung über 12800 EUR. Nach der Trennung des Paares verlangt die Location eine Stornopauschale; E-Mails, Vollmachtsnachricht und spätere Änderungswünsche lassen offen, wer welchen Vertrag bestätigte."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens 10 exportierbare Primärunterlagen vorhanden
+    min: 10
+  - id: vertretung
+    check_type: human_review
+    description: "Paragrafen 164, 167, 177 und 179 BGB auf Auftreten, Vollmachtsinhalt und spätere Erklärungen anwenden."
+  - id: rechtsschein
+    check_type: human_review
+    description: "Äußeres Auftreten und Kommunikation auf Duldungs- oder Anscheinsvollmacht prüfen, ohne familiäre Nähe genügen zu lassen."
+  - id: genehmigung
+    check_type: human_review
+    description: "Anzahlung, Änderungswünsche und E-Mail des Brautpaars auf mögliche Genehmigung nach Paragraf 184 BGB würdigen."
+  - id: agb
+    check_type: human_review
+    description: "Stornopauschale, ersparte Aufwendungen und Nachweismöglichkeit nach Paragrafen 305c, 307 und 309 BGB prüfen."

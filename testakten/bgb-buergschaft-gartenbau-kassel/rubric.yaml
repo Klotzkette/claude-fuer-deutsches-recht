@@ -1,0 +1,20 @@
+name: bgb-buergschaft-gartenbau-kassel
+plugin: "bgb-bt-pruefer"
+description: "Rentnerin Ingrid Möller lässt ihren abschüssigen Garten durch die Grünwerk Habichtswald GmbH umbauen. Nach Zusatzarbeiten, Rissen an der Stützmauer und offenen Rechnungen beruft sich der Unternehmer auf eine E-Mail der Tochter, sie werde für die Kosten einstehen."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens 10 exportierbare Primärunterlagen vorhanden
+    min: 10
+  - id: werkvertrag
+    check_type: human_review
+    description: "Paragrafen 631, 633 und 634 BGB auf vereinbarte Beschaffenheit, Abnahme, Mängel und Fristsetzungen beziehen."
+  - id: nachtrag
+    check_type: human_review
+    description: "Zusatzleistungen, Preisabrede und Vertretung bei Baustellenentscheidungen anhand von Auftrag, Chat und Aufmaß trennen."
+  - id: buergschaft
+    check_type: human_review
+    description: "Paragrafen 765 und 766 Satz 1 und Satz 2 BGB sowie Paragraf 126 Absatz 3 BGB auf Wortlaut, Form und die Abgrenzung zu Schuldbeitritt und Garantie anwenden."
+  - id: zahlung
+    check_type: human_review
+    description: "Abschläge, Gutschriften, Zusatzrechnung und behaupteten Restbetrag rechnerisch abstimmen."

@@ -1,0 +1,20 @@
+name: bgb-onlinekurs-kuendigungsbutton-koeln
+plugin: "agb-recht-pruefer"
+description: "Studentin Melina Schürmann bucht einen zwölfmonatigen Spanischkurs mit Videobibliothek und monatlicher Sprechstunde. Nach Ablauf verlängert der Anbieter um weitere zwölf Monate; die Kündigungsschaltfläche führt bei ihr wiederholt zur Anmeldung zurück, während der Anbieter auf eine Kündigung per Chat verweist."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens 10 exportierbare Primärunterlagen vorhanden
+    min: 10
+  - id: button
+    check_type: human_review
+    description: "Paragraf 312k BGB auf dauerhafte Erreichbarkeit, Beschriftung, Bestätigungsseite, Zugang und Rechtsfolge anwenden."
+  - id: laufzeit
+    check_type: human_review
+    description: "Paragraf 309 Nummer 9 BGB anhand von Erstlaufzeit, Verlängerung und Kündigungsfrist prüfen."
+  - id: einbeziehung
+    check_type: human_review
+    description: "Bestellablauf und Fassungen der AGB nach Paragrafen 305 Absatz 2, 305c und 307 BGB würdigen."
+  - id: nutzung
+    check_type: human_review
+    description: "Nutzung nach Kündigungsversuchen nicht vorschnell als Bestätigung behandeln; technische und kommunikative Vorgänge trennen."

@@ -1,6 +1,6 @@
 # handelsregister-praxis
 
-**78 Skills** · Stand `v439.3.0`
+**78 Skills** · Stand `v439.4.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../handelsregister-praxis/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -1,0 +1,9 @@
+Datum;Art;Empfänger;Betrag_EUR;Zahlungskonto;Beleg;Zuordnung
+2025-02-03;Verwalterhonorar Januar;Ventresca SRL;102.40;Mietverrechnung;V-2025-01;laufend
+2025-03-17;Rohrnotdienst;Idroservice Neri;200;Mieter;IN-4418;zwischen Parteien streitig
+2025-04-30;Dachumlage Rate 1;Condominio Saragozza 118;2820;Banca Emiliana;CON-1;Sonderumlage
+2025-07-31;Dachumlage Rate 2;Condominio Saragozza 118;2820;Banca Emiliana;CON-2;Sonderumlage
+2025-10-31;Dachumlage Rate 3;Condominio Saragozza 118;2820;Banca Emiliana;CON-3;Sonderumlage
+2025-06-30;Steuervorauszahlung;Agenzia Entrate;1596;Banca Emiliana;F24-A;Einkommensteuer
+2025-11-30;Steuerzahlung;Agenzia Entrate;1596;Banca Emiliana;F24-B;Einkommensteuer
+2025-12-16;Kommunale Abgabe;Comune di Bologna;842;Banca Emiliana;IMU-2025;Immobilie

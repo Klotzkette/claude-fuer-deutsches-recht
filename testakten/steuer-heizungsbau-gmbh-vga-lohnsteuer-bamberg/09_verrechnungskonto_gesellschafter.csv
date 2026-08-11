@@ -1,0 +1,7 @@
+Datum;Beleg;Buchung;Soll_EUR;Haben_EUR;Saldo_EUR;Hinweis
+2024-02-02;BK-0202;Darlehensvaluta;0;180000;-180000;Eingang Geschäftskonto
+2024-06-28;BK-0628;Tilgung;30000;0;-150000;vertragliche Rate
+2025-01-10;BK-0110;Zinsen 2024;12375;0;-137625;separat als Zins gebucht
+2025-08-15;BK-0815;Überweisung Rückzahlung privat;42000;0;-95625;davon 12000 Verrechnung
+2025-12-22;BK-1222;Tantiemeabschlag;30000;0;-65625;nicht mit Darlehen verrechnet
+2025-12-31;AB-2025;Zinsen 2025;0;11250;-76875;noch nicht ausgezahlt

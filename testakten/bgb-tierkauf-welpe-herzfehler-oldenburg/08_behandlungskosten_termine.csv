@@ -1,0 +1,7 @@
+Datum;Leistung;Praxis;Betrag_EUR;Bezahlt;Beleg;Bemerkung
+2026-04-18;Kaufpreis;Rita Oltmann;2400;ja;Kaufvertrag;500 Reservierung
+2026-05-07;Untersuchung und Überweisung;Tierarzt Jansen;84.60;ja;J-260507;Herzgeräusch
+2026-05-09;Echokardiographie;Tierklinik Küstenkanal;612.40;ja;TKK-5519;Pulmonalstenose
+2026-05-12;Medikament;Apotheke;48.20;ja;AP-1188;bis Eingriff
+2026-05-20;Voruntersuchung Intervention;Tierklinik Küstenkanal;390;Termin;KV-5519-A;noch offen
+2026-06-03;Ballonvalvuloplastie;Tierklinik Küstenkanal;5480;Kostenvoranschlag;KV-5519-B;Spanne 4800 bis 6200

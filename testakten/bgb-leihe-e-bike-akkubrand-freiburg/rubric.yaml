@@ -1,0 +1,20 @@
+name: bgb-leihe-e-bike-akkubrand-freiburg
+plugin: "bgb-bt-pruefer"
+description: "Nachbarin Ruth Ganter leiht Jonas Maier ihr E-Bike für ein Wochenende. Er lädt den Akku im gemeinschaftlichen Keller mit einem älteren Ersatzladegerät; nachts entsteht ein Brand. Frühere Warnanzeige, Ladeanweisung, Stromleiste und Eigentumsschäden werden von Feuerwehr, Gutachter und Versicherern unterschiedlich eingeordnet."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens 10 exportierbare Primärunterlagen vorhanden
+    min: 10
+  - id: leihe
+    check_type: human_review
+    description: "Paragrafen 598 bis 606 BGB auf Übergabe, Gebrauch, Rückgabe, Mangelkenntnis und Haftungsmaßstab anwenden."
+  - id: delikt
+    check_type: human_review
+    description: "Paragrafen 823 und 254 BGB sowie Verkehrssicherung und Mitverursachung anhand technischer Tatsachen prüfen."
+  - id: beweis
+    check_type: human_review
+    description: "Feuerwehrfeststellungen, Gutachten, Akkulog, Ladegerät und Steckdosenleiste nach Beweiswert und Lücken trennen."
+  - id: versicherung
+    check_type: human_review
+    description: "Regress, Neuwert, Zeitwert und Selbstbehalte der beteiligten Versicherungen betragsgenau zuordnen."

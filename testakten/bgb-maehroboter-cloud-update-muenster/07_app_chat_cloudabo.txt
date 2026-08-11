@@ -1,0 +1,11 @@
+In-App-Chat MeadowPilot · Ticket MP-441088 · 15.06.2026
+
+09:04 Leyla Aydin: Seit Update ist die Karte verschoben. Gestern fuhr X2 in Beet und Teich. Wie bekomme ich die Karte von vor dem Update zurück?
+09:06 Bot: Kartenwiederherstellung ist Bestandteil von CloudPlus. Möchten Sie CloudPlus aktivieren?
+09:07 Leyla Aydin: Nein. Beim Kauf war Kartenbackup enthalten. Ich will nur meinen Stand vom 12. Juni.
+09:11 Support Mika: Ihr Basiszeitraum läuft bis 30. Juni. Ich prüfe, ob ein Backup vorhanden ist.
+09:24 Support Mika: Auf dem Konto liegt eine Karte vom 13. Juni nach Migration. Eine ältere Version sehe ich nicht.
+09:28 Leyla Aydin: Die alte Karte war fünf Jahre versprochen und seit März aktiv. Warum wurde sie überschrieben?
+09:36 Support Mika: Firmware 4.8.2 migriert Karten in das neue Format. Bei erfolgreicher Migration wird die Vorversion nach 48 Stunden gelöscht. Ihr Ticket wurde am 15. Juni eröffnet.
+09:40 Leyla Aydin: Bitte nichts mehr löschen und alle Logs sichern.
+09:42 Support Mika: Sicherungsmarke bis 15. Juli gesetzt. Händler erhält Diagnosezugang nach Ihrer Freigabe.

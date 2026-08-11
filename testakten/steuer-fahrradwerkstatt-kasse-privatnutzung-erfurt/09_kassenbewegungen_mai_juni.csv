@@ -1,0 +1,7 @@
+Zeitpunkt;Vorgang;Beleg;Zahlart;Betrag_EUR;Benutzer;Auftragsbezug;Bemerkung
+2026-05-28 17:58;Tagesabschluss;Z-0148;Bar;1268.40;mvoigt;;Soll und Zählung gleich
+2026-06-04 18:12;Storno;S-0041;Bar;-389.00;chef;2605127;Ursprungsbon nicht im Ordner
+2026-06-05 09:06;Anzahlung;A-0158;Bar;150.00;mvoigt;2605160;am Vortag im Umschlag
+2026-06-11 17:59;Storno;S-0044;EC;-274.80;chef;2605131;Laufradsatz doppelt
+2026-06-12 08:13;Anzahlung;A-0166;Bar;80.00;mvoigt;2605172;Umschlag vom 11. Juni
+2026-06-17 10:27;Kassensturz;KN-26/17;Bar;842.60;ajuelich;;einschließlich Umschläge

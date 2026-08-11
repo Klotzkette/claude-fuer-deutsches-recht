@@ -1,0 +1,8 @@
+Datum;Person;Handlung;Empfaenger;Dokument;Betrag_genannt;Bemerkung
+2025-11-15;Elias;Nachricht;Miriam;WhatsApp;12000 plus Getränke;Termin festmachen
+2025-11-17;Miriam;Unterschrift i. A.;Location;Reservierung;12800;
+2025-11-18;Location;Vertragskopie;alle drei;E-Mail;12800;kein Fehler
+2025-11-21;Nora;Anzahlung;Location;Bank;3200;Gemeinschaftskonto
+2025-11-28;Nora;Menüänderung;Location;E-Mail;Mehrpreis offen;Dank für Festhalten
+2026-03-09;Nora;Absage;Location;Telefon;;Trennung
+2026-03-09;Elias;Widerspruch;Location;E-Mail;;keine Unterschrift

@@ -1,0 +1,7 @@
+Zeitpunkt;Arbeit;Teil;Betrag_EUR;Freigabe;Protokoll;Folge
+2026-05-12 12:36;Annahme;;0;Auftrag bis 260;PD-260512-77;Gerät entsperrt
+2026-05-13 10:22;Displaytausch;Displayeinheit;219;schriftlich;Techniklog;Startschleife
+2026-05-13 11:08;Diagnose;;29;schriftlich;Storage timeout;Reset erfolglos
+2026-05-14 16:07;Anruf;Mainboard;141;telefonisch;54 Sekunden;Bestellung
+2026-05-16 13:42;Mainboardtausch;Austauschteil;141;Systemvermerk;Gerät startet;Speicher leer
+2026-05-20 15:10;Altteilversand;Originalboard;-45;keine gesonderte;Retour 77418;später zerlegt

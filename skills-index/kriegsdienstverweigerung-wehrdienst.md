@@ -1,6 +1,6 @@
 # kriegsdienstverweigerung-wehrdienst
 
-**137 Skills** · Stand `v439.3.0`
+**137 Skills** · Stand `v439.4.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../kriegsdienstverweigerung-wehrdienst/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

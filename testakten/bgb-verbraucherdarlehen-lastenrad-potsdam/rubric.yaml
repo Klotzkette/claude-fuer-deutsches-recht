@@ -1,0 +1,20 @@
+name: bgb-verbraucherdarlehen-lastenrad-potsdam
+plugin: "bgb-bt-pruefer"
+description: "Erzieherin Jasmin Berger finanziert im Fahrradladen ein Lastenrad samt Restschuldversicherung. Nach Liefermängeln, Trennung vom Mitdarlehensnehmer und zwei ausgebliebenen Raten kündigt die Bank; Vertragskopien, Pflichtangaben, Versicherungsbeitrag und Händlerzahlung sind nicht in allen Fassungen gleich."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens 10 exportierbare Primärunterlagen vorhanden
+    min: 10
+  - id: form
+    check_type: human_review
+    description: "Paragrafen 491, 492 und 494 BGB sowie Artikel 247 EGBGB auf die tatsächlich ausgehändigten Fassungen anwenden."
+  - id: widerruf
+    check_type: human_review
+    description: "Paragraf 495 BGB und die konkreten Pflichtangaben, Datenträger und Zugangszeitpunkte prüfen."
+  - id: verbund
+    check_type: human_review
+    description: "Paragrafen 358 und 359 BGB auf Kauf, Finanzierung und Restschuldversicherung differenziert beziehen."
+  - id: kuendigung
+    check_type: human_review
+    description: "Zahlungsverlauf und Voraussetzungen einer Kündigung wegen Verzugs nach Paragraf 498 BGB einschließlich Nachfrist und Rückstandsquote berechnen."

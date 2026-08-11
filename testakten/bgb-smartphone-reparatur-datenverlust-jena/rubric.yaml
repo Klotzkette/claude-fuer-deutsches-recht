@@ -1,0 +1,20 @@
+name: bgb-smartphone-reparatur-datenverlust-jena
+plugin: "bgb-bt-pruefer"
+description: "Nach einem Displaybruch gibt Nadine Krüger ihr Smartphone bei PhoneDock Jena ab. Die Werkstatt tauscht nach einem Startfehler zusätzlich die Hauptplatine; lokale Fotos, Sprachnachrichten und Zugangsdaten sind danach weg, während Auftrag, Sicherungshinweis und telefonische Freigabe unterschiedlich dokumentiert sind."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: Mindestens 10 exportierbare Primärunterlagen vorhanden
+    min: 10
+  - id: werkvertrag
+    check_type: human_review
+    description: "Paragrafen 631, 633 und 634 BGB auf Reparaturauftrag, Erfolg, Nachbesserung und Zusatzkosten anwenden."
+  - id: nebenpflicht
+    check_type: human_review
+    description: "Hinweis-, Schutz- und Rücksichtnahmepflichten nach Paragraf 241 Absatz 2 und Paragraf 280 BGB anhand der konkreten Datenlage prüfen."
+  - id: freigabe
+    check_type: human_review
+    description: "Reichweite der telefonischen Zustimmung und Kostengrenze aus Anrufprotokoll, Auftrag und E-Mail würdigen."
+  - id: schaden
+    check_type: human_review
+    description: "Wiederherstellungskosten, immaterielles Interesse und ersparte Cloudkosten nach Paragrafen 249 und 253 BGB ohne pauschale Gleichsetzung behandeln."
