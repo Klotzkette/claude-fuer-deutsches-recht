@@ -1,6 +1,6 @@
 # berufsgerichtliche-verfahren-freie-berufe
 
-**100 Skills** · Stand `v439.4.0`
+**100 Skills** · Stand `v439.5.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../berufsgerichtliche-verfahren-freie-berufe/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

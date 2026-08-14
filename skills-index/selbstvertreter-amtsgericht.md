@@ -1,6 +1,6 @@
 # selbstvertreter-amtsgericht
 
-**90 Skills** · Stand `v439.4.0`
+**90 Skills** · Stand `v439.5.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../selbstvertreter-amtsgericht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

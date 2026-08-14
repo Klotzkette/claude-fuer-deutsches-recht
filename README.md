@@ -35,7 +35,7 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 | **Skills** | 26461 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
 | **Werkstatt-Prompts** | 235 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | **Schnellstart-/Mini-Prompts** | 235 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 322 zentral / 325 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
+| **Testakten** | 323 zentral / 326 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
 Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 26461 Skills benutzbar bleibt.
 
@@ -76,9 +76,9 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 |---|---|
 | **Plugins** | 235 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
 | **Skills (SKILL.md)** | 26461 — [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 322 zentral / 325 gesamt |
+| **Testakten** | 323 zentral / 326 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v439.4.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v439.5.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -207,6 +207,8 @@ Die Plugins, Skills und Prompts sind Ausgangspunkte für eigene, fachlich kontro
 > Diese Plugins sind in jedem Modus (Claude Code, Cowork, Desktop) einzeln zuschaltbar und greifen quer in alle Rechtsgebiets-Plugins ein. Wer mit dem Marketplace startet, sollte sie zuerst aktivieren — alle anderen Skills referenzieren ihre Regeln (siehe [`references/methodik-buergerliches-recht.md`](./references/methodik-buergerliches-recht.md) und [`references/zitierweise.md`](./references/zitierweise.md)).
 
 > **Testakten zum Ausprobieren:** Im Ordner [`testakten/`](./testakten) liegen umfangreiche Arbeitsakten mit PDFs, Tabellen, Textdokumenten, E-Mails, Bildern und weiteren Originalformaten. Jede Akte ist als Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP verfügbar; zusätzlich gibt es [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) als Sammelarchiv. Alle drei Fassungen tragen auf Deutsch und Englisch den Hinweis, dass die Testakte mit KI generiert wurde, experimentell ist und auf eigene Verantwortung und Gefahr benutzt wird. Details und Direktdownloads stehen in der [Testakten-Übersicht](./testakten/README.md).
+
+> **🎁 Goodie – Testakte zum Ausprobieren der Claude Cowork-Funktion:** Die Sonderfall-Akte [ModeFuchs Cowork](./testakten/inkasso-modefuchs-cowork-sonderfall/README.md) simuliert einen unsortierten Desktop-Übergabeordner eines Inkassounternehmens: E-Mails als echte `.eml`-Dateien, Mahnungen als Scans ohne Textebene, ein Beleg-Foto, ein rohes Forderungskonto als Excel und ein Klageentwurf mit Anlagenverzeichnis K 1 bis K 7 – alle Dateinamen absichtlich nichtssagend (`Scan007.pdf`, `mail (2).eml`, `Dokument1.pdf`). Cowork soll in jede Datei hineinschauen, sprechend umbenennen, die Anlagen gestempelt als PDF für beA/eBO zusammenstellen und die Forderungsaufstellung prüfen. Direkt-Download: [`testakte-inkasso-modefuchs-cowork-sonderfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-modefuchs-cowork-sonderfall.zip)
 
 Die folgende Tabelle enthält alle 235 installierbaren Plugins einzeln und alphabetisch sortiert. Auch Plugins in den Sammelordnern [`gerichtsplugins/`](./gerichtsplugins/) und [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/) erscheinen mit ihrem eigenen Namen und tatsächlichen Pfad. Thematische Einstiegsknoten stehen zusätzlich unter [`plugin-gruppen/`](./plugin-gruppen/); die vollständigen Downloadwege finden sich im [Asset-Index](./ASSET_INDEX.md).
 

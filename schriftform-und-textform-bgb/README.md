@@ -63,7 +63,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 **Plugin-Slug:** `schriftform-und-textform-bgb`
-**Version:** 439.4.0
+**Version:** 439.5.0
 **Autor:** Klotzkette
 
 ## Installation

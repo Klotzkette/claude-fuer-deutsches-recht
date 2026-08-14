@@ -1,3 +1,13 @@
+# v439.5.0 - Cowork-Sonderfall ModeFuchs als Goodie-Testakte
+
+- Der Bestand wächst auf 323 zentrale Akten. Neu ist der Cowork-Sonderfall ModeFuchs: ein bewusst unsortierter Desktop-Übergabeordner eines Inkassounternehmens, gedacht als handliches Goodie zum Ausprobieren der Claude Cowork-Funktion.
+- Anders als in der Hauptakte zahlt der Schuldner hier nicht; der Streit dreht sich um den Zugang elektronischer Rechnungen, die nach seiner Einlassung im Spamfilter hängen blieben. Die Zugangsargumentation über Paragraf 130 und Paragraf 286 Absatz 3 BGB ist im Klageentwurf angelegt, aber bewusst unfertig.
+- Die Akte enthält zehn native Dateien mit absichtlich nichtssagenden Namen: vier vollständige E-Mails als EML mit echten Headern und einem PDF-Rechnungsanhang, zwei Mahnungen als Scans ohne Textebene, eine gescannte Abtretungserklärung, ein Handyfoto des Einlieferungsbelegs, ein rohes Forderungskonto als Excel mit Zinsblatt und einen Klageentwurf als DOCX mit Anlagenverzeichnis K 1 bis K 7 und internem Bearbeitungsvermerk.
+- Die Demoaufgabe für Cowork ist im Akten-README beschrieben: jede Datei sichten und sprechend umbenennen, die in der Klageschrift referenzierten Anlagen als gestempelte PDFs für beA oder eBO versandfertig zusammenstellen und das Forderungskonto gegen den Klageentwurf abgleichen.
+- Die Akte steht als durchsuchbares Gesamt-PDF, flaches ZIP mit nativen Originalformaten und flaches ZIP mit getrennten Einzel-PDFs bereit; alle drei Fassungen tragen den vorgeschriebenen zweisprachigen Hinweis. Hauptübersicht, Testaktenkatalog und das Plugin-README der Forderungsmanagement-Klagewerkstatt verlinken die neue Akte samt Direktdownloads.
+
+---
+
 # v439.4.0 - Fünf Steuerakten und zehn BGB-Alltagsfälle
 
 - Der Bestand wächst auf 322 zentrale Akten. Fünf neue Steuerfälle bilden kleine Betriebe mit wenigen Beschäftigten ab: eine Fahrradwerkstatt als Einzelunternehmen, ein Ingenieurbüro zwischen freiberuflicher Eigenleistung und standardisierten Produkten, eine Heizungsbau-GmbH mit Gesellschafter- und Angehörigensachverhalten, ein Reinigungsbetrieb in der Lohnprüfung sowie eine vermietete Wohnung in Bologna.
