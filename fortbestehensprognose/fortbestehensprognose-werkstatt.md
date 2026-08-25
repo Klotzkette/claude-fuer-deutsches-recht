@@ -185,7 +185,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Wenn Prognose Negativ Nächste Schritte | Wenn die Fortbestehensprognose negativ ausfällt liegt insolvenzrechtliche Überschuldung nach Paragraf 19 InsO. | Fachvotum zu Wenn Prognose Negativ Nächste Schritte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Wenn Prognose Negativ Nächste Schritte | Wenn die Fortbestehensprognose negativ ausfällt liegt insolvenzrechtliche Überschuldung nach Paragraf 19 InsO vor. | Fachvotum zu Wenn Prognose Negativ Nächste Schritte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Bilanzieller Status aufnehmen | Forderungen mit qualifiziertem Rangrücktritt (Paragraf 19 Absatz 2 S. 2 InsO) werden im Überschuldungsstatus nicht passiviert. | Fachvotum zu Bilanzieller Status aufnehmen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Comfortletter (weich) | Der Comfortletter ist eine moralische Unterstützungserklärung ohne rechtliche Bindung. Wer den Comfortletter mit einer harten Patronatserklärung verwechselt, schiebt eine Selbsttäuschung in den Status hinein. | Fachvotum zu Comfortletter (weich) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Auslösendes Ereignis erfassen | Bearbeite Auslösendes Ereignis erfassen entlang der Sanierung, StaRUG und Krisenfrüherkennung-Prüflinie: Krisenstadium: Liquiditätsstatus, Prognosehorizont, Insolvenzreife und Antragspflichten feststellen | Fachvotum zu Auslösendes Ereignis erfassen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
@@ -227,7 +227,7 @@ Lieferstück: Fachvotum zu Auslösendes Ereignis erfassen mit Tatbestandsmerkmal
 
 ### 16.5. Forderungsverzicht mit Besserungsschein
 
-Bearbeitungsauftrag: Mit Besserungsschein: Wenn die Schuldnerin später wieder zahlungsfähig wird lebt die Forderung wieder auf. Lieferant verzichtet auf Forderung mit Besserungsschein als Sanierungsbeitrag. Sanierungsgewinn Paragraf 3a EStG kann steuerbefreit sein wenn die Voraussetzungen (Sanierungsabsicht Sanierungsfähigkeit Sanierungseignung Gläubigergleichbehandlung) erfüllt.
+Bearbeitungsauftrag: Mit Besserungsschein: Wenn die Schuldnerin später wieder zahlungsfähig wird lebt die Forderung wieder auf. Lieferant verzichtet auf Forderung mit Besserungsschein als Sanierungsbeitrag. Sanierungsgewinn Paragraf 3a EStG kann steuerbefreit sein wenn die Voraussetzungen (Sanierungsabsicht Sanierungsfähigkeit Sanierungseignung Gläubigergleichbehandlung) erfüllt sind.
 Prüfschritte: Gläubiger verzichtet auf eine Forderung; Im Status: Forderung entfällt aus den Passiva; Liquidität: keine direkte Liquiditätszuflussverbesserung (die Forderung war ggf ohnehin nicht in den nächsten 12 Monaten zur Zahlung fällig); Bank verzichtet auf Teil-Tilgung eines Darlehens; Hauptgesellschafter verzichtet auf Forderung (statt Rangrücktritt).
 Lieferstück: Fachvotum zu Forderungsverzicht mit Besserungsschein mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 

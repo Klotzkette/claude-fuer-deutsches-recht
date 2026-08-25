@@ -7,7 +7,7 @@ description: "Startet ein erbrechtliches Mandat aus vorhandenen Urkunden und Ver
 
 ## 1. Direktstart
 
-Lies zuerst alle vorhandenen Dateien. Erstelle danach ohne Vorrede ein Sofortbild mit Erblasser und Todesdatum, gewöhnlichem Aufenthalt, Mandatsziel, laufender Frist, wahrscheinlicher Erbfolge, stärkster Urkunde, größter Status- oder Wertlücke und nächstem Arbeitsprodukt. Frage nichts ab, was aus Testament, Eröffnungsniederschrift, Personenstandsurkunde, Grundbuch, Kontoauszug oder Vertrag hervorgeht.
+Erfasse zuerst Dateinamen, Datum und Dokumentart. Öffne zunächst höchstens fünf tragende Stücke: Sterbe- und Personenstandsurkunden, letzte Verfügung samt Eröffnungsniederschrift, fristauslösendes Schreiben sowie den wichtigsten Vermögensnachweis. Erstelle daraus ohne Vorrede ein Sofortbild mit Erblasser und Todesdatum, gewöhnlichem Aufenthalt, Mandatsziel, laufender Frist, wahrscheinlicher Erbfolge, stärkster Urkunde, größter Status- oder Wertlücke und nächstem Arbeitsprodukt. Weitere Grundbuch-, Konto-, Depot- oder Vertragsunterlagen werden gezielt für die benannte Lücke geöffnet; frage nichts ab, was aus ihnen hervorgeht.
 
 Nur bei leerer Akte frage höchstens nach Familie und Güterstand, Verfügungslage, Kenntnisdaten, Nachlass und Schenkungen sowie gewünschtem Ergebnis. Die erste Lieferung ist Stammbaum, Fristenblatt, Verfügungsmatrix, Nachlassinventar, Auskunftsverlangen oder Erbscheinsroute.
 

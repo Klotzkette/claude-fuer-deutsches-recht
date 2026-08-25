@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-Baut pro Plugin ein ZIP-Bundle mit allen Skill-Markdown-Dateien (SKILL.md)
-und dem Plugin-README. Werkstatt- und Schnellstart-Prompts bleiben bewusst
-außerhalb aller ZIPs als einzelne Markdown-Downloads. Die Plugin-Bundles
-werden im Komplettpaket mitgeführt; als Release-Asset liegt wegen der
-Asset-Grenze nur das Sammel-ZIP alle-skills-markdown.zip oben.
+Baut pro Plugin ein ZIP-Bundle mit allen Skill-Markdown-Dateien (SKILL.md),
+ihren unterstützenden Markdown-Referenzen und dem Plugin-README. Werkstatt-
+und Schnellstart-Prompts bleiben bewusst außerhalb aller ZIPs als einzelne
+Markdown-Downloads. Die Plugin-Bundles werden im Komplettpaket mitgeführt;
+als Release-Asset liegt wegen der Asset-Grenze nur das Sammel-ZIP
+alle-skills-markdown.zip oben.
 
 Aufruf:
     python3 scripts/build-skills-markdown-bundles.py <output-dir>
@@ -37,11 +38,11 @@ def resolve_plugin_dir(repo_root: Path, source: str) -> Path:
 
 
 def collect_skill_files(plugin_dir: Path) -> list[Path]:
-    """Alle SKILL.md unter <plugin>/skills/ einsammeln."""
+    """Alle Markdown-Dateien der Skills samt Referenzen einsammeln."""
     skills_dir = plugin_dir / "skills"
     if not skills_dir.is_dir():
         return []
-    return sorted(skills_dir.glob("*/SKILL.md"))
+    return sorted(path for path in skills_dir.rglob("*.md") if path.is_file())
 
 
 def build_plugin_bundle(plugin: dict[str, str], repo_root: Path, out_dir: Path) -> tuple[Path, int]:
@@ -58,10 +59,10 @@ def build_plugin_bundle(plugin: dict[str, str], repo_root: Path, out_dir: Path) 
         if plugin_readme.is_file():
             zf.write(plugin_readme, arcname=f"{plugin_name}/README.md")
             n_files += 1
-        for skill_md in skills:
-            # arcname: <plugin>/skills/<skill-slug>/SKILL.md
-            rel = skill_md.relative_to(plugin_dir)
-            zf.write(skill_md, arcname=f"{plugin_name}/{rel}")
+        for skill_markdown in skills:
+            # arcname: <plugin>/skills/<skill-slug>/SKILL.md beziehungsweise references/...
+            rel = skill_markdown.relative_to(plugin_dir)
+            zf.write(skill_markdown, arcname=f"{plugin_name}/{rel}")
             n_files += 1
     return bundle_path, n_files
 

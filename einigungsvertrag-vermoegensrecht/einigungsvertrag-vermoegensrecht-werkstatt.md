@@ -193,7 +193,7 @@ Lieferstück: Fristenblatt zu Ausschlussfristen und Bestandskraft mit Auslöser,
 
 ### 16.3. Bodenreformland Anspruchspfad prüfen
 
-Bearbeitungsauftrag: Bearbeite Bodenreformland Anspruchspfad prüfen entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Anspruchspfad: Zuordnung, Restitution, Entschädigung, Sachenrechtsbereinigung, Berichtigung oder Sondergesetz strikt. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen.
+Bearbeitungsauftrag: Bearbeite Bodenreformland Anspruchspfad prüfen entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Anspruchspfad: Zuordnung, Restitution, Entschädigung, Sachenrechtsbereinigung, Berichtigung oder Sondergesetz strikt. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
 Lieferstück: Fachvotum zu Bodenreformland Anspruchspfad prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. Grundbuchberichtigung prüfen

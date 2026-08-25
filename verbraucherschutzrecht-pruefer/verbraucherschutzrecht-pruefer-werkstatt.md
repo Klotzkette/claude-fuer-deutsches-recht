@@ -211,7 +211,7 @@ Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründu
 
 ### 16.5. Fernabsatz Anspruch prüfen
 
-Bearbeitungsauftrag: Bearbeite Fernabsatz Anspruch prüfen entlang der Verbraucherrecht und Verbandsdurchsetzung-Prüflinie: Klausel- und Pflichtenprüfung: Einbeziehung, Transparenz, Leitbildabweichung und Informationspflichten getrennt prüfen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen.
+Bearbeitungsauftrag: Bearbeite Fernabsatz Anspruch prüfen entlang der Verbraucherrecht und Verbandsdurchsetzung-Prüflinie: Klausel- und Pflichtenprüfung: Einbeziehung, Transparenz, Leitbildabweichung und Informationspflichten getrennt prüfen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
 Lieferstück: Fachvotum zu Fernabsatz Anspruch prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.6. Gesundheit und Pflegevertrag

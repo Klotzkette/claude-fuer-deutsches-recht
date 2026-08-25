@@ -209,7 +209,7 @@ Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, 
 
 ### 16.4. Schadensersatz, Auskunft und Rechnungslegung
 
-Bearbeitungsauftrag: Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen. MarkenG Paragrafen 14, 15 für Verletzung und Unterlassung; MarkenG Paragraf 19 für Auskunft, Paragraf 18 für Vernichtung/Rückruf/Entfernung, Paragraf 14 Absatz 6 für Schadensersatz. ZPO Paragraf 254 für Stufenklage, wenn Auskunft/Rechnungslegung vor Bezifferung nötig.
+Bearbeitungsauftrag: Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen. MarkenG Paragrafen 14, 15 für Verletzung und Unterlassung; MarkenG Paragraf 19 für Auskunft, Paragraf 18 für Vernichtung/Rückruf/Entfernung, Paragraf 14 Absatz 6 für Schadensersatz. ZPO Paragraf 254 für Stufenklage, wenn Auskunft/Rechnungslegung vor Bezifferung nötig ist.
 Lieferstück: Fachvotum zu Schadensersatz, Auskunft und Rechnungslegung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.5. Erschöpfung, Parallelimport und Graumarkt

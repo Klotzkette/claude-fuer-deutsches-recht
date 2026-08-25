@@ -7,7 +7,7 @@ description: "Wählt nach einer ersten Prüfung im gewerblichen Rechtsschutz den
 
 ## 1.1 Startregel
 
-Lies das bisherige Ergebnis und alle vorhandenen Unterlagen. Route nicht neu, wenn bereits ein verwertbares Arbeitsprodukt begonnen wurde; führe es mit dem passenden Fachskill fort.
+Übernimm zuerst das bisherige Ergebnis samt bereits gebildeten Fundstellen. Erfasse bei neuen Unterlagen zunächst nur Dateiname, Datum, Absender, Schutzrecht und Verfahrensbezug; öffne höchstens die fünf Stücke, die Frist, Rechtsbestand, Verletzung oder Eilbedarf ändern können. Route nicht neu, wenn bereits ein verwertbares Arbeitsprodukt begonnen wurde, und öffne keine schon ausgewertete Datei erneut.
 
 ## 1.2 Pflichtweichen
 

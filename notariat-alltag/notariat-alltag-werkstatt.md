@@ -192,7 +192,7 @@ Lieferstück: Fachvotum zu Notariat im Alltag: Teilungserklärung WEG, Sondernut
 
 ### 16.2. Gesellschafterliste nach Veränderung
 
-Bearbeitungsauftrag: GmbHG Paragraf 16 Absatz 1 regelt die Legitimation gegenüber der Gesellschaft. GmbHG Paragraf 16 Absatz 3 betrifft den rechtsgeschäftlichen Erwerb vom Nichtberechtigten. Ist die Liste weniger als drei Jahre unrichtig, scheidet Gutglaubenserwerb nur dann nicht schon deshalb aus, wenn die Unrichtigkeit dem Berechtigten zuzurechnen.
+Bearbeitungsauftrag: GmbHG Paragraf 16 Absatz 1 regelt die Legitimation gegenüber der Gesellschaft. GmbHG Paragraf 16 Absatz 3 betrifft den rechtsgeschäftlichen Erwerb vom Nichtberechtigten. Ist die Liste weniger als drei Jahre unrichtig, scheidet Gutglaubenserwerb nur dann nicht schon deshalb aus, wenn die Unrichtigkeit dem Berechtigten zuzurechnen ist.
 Prüfschritte: Lies Satzung, letzte im Handelsregister aufgenommene Liste, Veränderungsurkunde, Wirksamkeitsbedingungen, Gesellschafterbeschlüsse und Registerstand; Erstelle zuerst eine Vorher-nachher-Kontrolle aller Geschäftsanteile und erst danach die neue Liste; Im Verhältnis zur Gesellschaft gilt grundsätzlich nur der in der aufgenommenen Liste Eingetragene als Inhaber; Ausgangspunkt ist die Eintragung des Veräußerers in der aufgenommenen Liste.
 Lieferstück: Fachvotum zu Gesellschafterliste nach Veränderung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
@@ -223,7 +223,7 @@ Lieferstück: Fachvotum zu Digitale Vorbereitung und zulässige Online-Urkundst�
 
 ### 16.7. Sprachunkundige Beteiligte und Dolmetscher
 
-Bearbeitungsauftrag: Stelle dann für jeden Beteiligten gesondert fest: Sprache der Niederschrift, tatsächliche Sprachkenntnis, gewünschte schriftliche Übersetzung, geeigneter Dolmetscher, Ausschlussgrund, Vereidigungsstatus und erforderlicher Urkundenvermerk. Die bloße Fähigkeit zu Alltagsgesprächen genügt nicht, wenn der Beteiligte Tragweite, Belehrung und Rechtsfolgen der konkreten Urkunde nicht sicher versteht. Absatz 2: Die Niederschrift muss dem Beteiligten anstelle des Vorlesens übersetzt.
+Bearbeitungsauftrag: Stelle dann für jeden Beteiligten gesondert fest: Sprache der Niederschrift, tatsächliche Sprachkenntnis, gewünschte schriftliche Übersetzung, geeigneter Dolmetscher, Ausschlussgrund, Vereidigungsstatus und erforderlicher Urkundenvermerk. Die bloße Fähigkeit zu Alltagsgesprächen genügt nicht, wenn der Beteiligte Tragweite, Belehrung und Rechtsfolgen der konkreten Urkunde nicht sicher versteht. Absatz 2: Die Niederschrift muss dem Beteiligten anstelle des Vorlesens übersetzt werden.
 Prüfschritte: Lies Entwurf, Beteiligtenbogen, Sprachangaben, Vollmachten und vorhandene Übersetzungen; Frage nicht nach einer Wunschlösung, sondern kläre Verständnissicherheit am konkreten Geschäft.
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: Steuert Beurkundungen mit sprachunkundigen Beteiligten nach Paragraf 16 BeurkG; Trenne Sprachfeststellung, mündliche und schriftliche Übersetzung, Dolmetscherauswahl, Vereidigung, Niederschriftsvermerk und Unterschrift.
 Lieferstück: Fachvotum zu Sprachunkundige Beteiligte und Dolmetscher mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
@@ -252,7 +252,7 @@ Lieferstück: Fachvotum zu Notariat im Alltag: Auslandsbeteiligte – steuerlich
 
 Bearbeitungsauftrag: GmbH: Satzungsänderung (Paragraf 53 Absatz 2 GmbHG), Kapitalerhöhung/-herabsetzung. AG: Satzungsänderung, Kapitalmaßnahmen (Paragrafen 179, 182 AktG), Verschmelzungsbeschluss (Paragraf 13 UmwG). Er kann auf formelle Mängel hinweisen (fehlende Beschlussfähigkeit, Einberufungsfehler), aber er verhindert nicht den Beschluss.
 Prüfschritte: Bestimmte Gesellschafterbeschlüsse bedürfen der notariellen Beurkundung:; Beschlussprotokolle: Paragraf 130 AktG für alle HV-Beschlüsse der AG Der Notar protokolliert nur das, was tatsächlich beschlossen wird; Er gibt keine Bewertung über die Zweckmäßigkeit von Beschlüssen ab.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Bestimmte Gesellschafterbeschlüsse bedürfen der notariellen Beurkundung:; GmbH: Satzungsänderung (Paragraf 53 Absatz 2 GmbHG), Kapitalerhöhung/-herabsetzung; AG: Satzungsänderung, Kapitalmaßnahmen (Paragrafen 179, 182 AktG), Verschmelzungsbeschluss (Paragraf 13 UmwG); Bestimmte Gesellschafterbeschlüsse bedürfen der notariellen Beurkundung.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: Bestimmte Gesellschafterbeschlüsse bedürfen der notariellen Beurkundung:; GmbH: Satzungsänderung (Paragraf 53 Absatz 2 GmbHG), Kapitalerhöhung/-herabsetzung; AG: Satzungsänderung, Kapitalmaßnahmen (Paragrafen 179, 182 AktG), Verschmelzungsbeschluss (Paragraf 13 UmwG); Bestimmte Gesellschafterbeschlüsse bedürfen der notariellen Beurkundung:.
 Lieferstück: Fristenblatt zu Notariat im Alltag: Gesellschafterstreit im Notartermin – Neutralität, Protokoll mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
 ### 16.12. Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan, Abnahmefallen

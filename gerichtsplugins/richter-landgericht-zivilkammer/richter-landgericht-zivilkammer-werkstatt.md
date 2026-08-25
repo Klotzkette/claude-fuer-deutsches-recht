@@ -98,7 +98,7 @@ Entscheidungsgriff Arbeitsprodukt: Hinweisverfügung, Beweisbeschluss, Vergleich
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen |
+| BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird |
 | BGH, Beschluss vom 24.07.2018 - VI ZR 599/16 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Geänderten, präzisierten oder berichtigten Parteivortrag nicht allein wegen des Widerspruchs zum früheren Vortrag ausblenden |
 | BGH, Urteil vom 01.10.2019 - VI ZR 164/18 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Auch bei einer Häufung von Indizien bleibt das Beweismaß des Paragraf 286 ZPO bestehen; Beweisfrage und spätere Würdigung dürfen nicht auf eine bloße Wahrscheinlichkeitsprüfung verkürzt werden |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren
@@ -123,7 +123,7 @@ Entscheidungsgriff Arbeitsprodukt: Hinweisverfügung, Beweisbeschluss, Vergleich
 
 ## 8. Leitentscheidungen
 
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
 - BGH, Beschluss vom 24.07.2018 - VI ZR 599/16: Geänderten, präzisierten oder berichtigten Parteivortrag nicht allein wegen des Widerspruchs zum früheren Vortrag ausblenden.
 - BGH, Urteil vom 01.10.2019 - VI ZR 164/18: Auch bei einer Häufung von Indizien bleibt das Beweismaß des Paragraf 286 ZPO bestehen; Beweisfrage und spätere Würdigung dürfen nicht auf eine bloße Wahrscheinlichkeitsprüfung verkürzt werden.
 
@@ -205,7 +205,7 @@ Lieferstück: Entscheidungsbaustein zu Berufungsverfahren Paragraf 511 ff mit An
 
 Bearbeitungsauftrag: Frühe Erste Verfügung Paragraf 139: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen. Klägervortrag auf Schlüssigkeit prüfen und fehlende Tatsachen als Hinweis nach Paragraf 139 ZPO formulieren. Beklagtenvortrag auf Erheblichkeit prüfen; Einwendungen, Einreden, Aufrechnung und Widerklage getrennt behandeln.
 Prüfschritte: Einen aufklärungsbedürftigen Widerspruch im Hinweis nach Paragraf 139 ZPO konkret benennen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen; Einen aufklärungsbedürftigen Widerspruch im Hinweis nach Paragraf 139 ZPO konkret benennen.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird; Einen aufklärungsbedürftigen Widerspruch im Hinweis nach Paragraf 139 ZPO konkret benennen.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
 ### 16.3. Finale Entscheidung als Volltext (Urteil Zivilkammer)
@@ -218,7 +218,7 @@ Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streit
 
 Bearbeitungsauftrag: Beweisbeschluss und Sachverständiger: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen. Sachverständigenbeweis nur bei Fachfrage anordnen; Beweisfrage, Anknüpfungstatsachen und Vorschuss konkret formulieren. Parteianhörung, Parteivernehmung und richterliche Würdigung voneinander trennen.
 Prüfschritte: Beweisfrage und spätere Würdigung dürfen nicht auf eine bloße Wahrscheinlichkeitsprüfung verkürzt werden.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
 ### 16.5. Entscheidungsvorschlag Kammer
@@ -243,13 +243,13 @@ Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streit
 
 Bearbeitungsauftrag: Zeugenbeweis und Parteivernehmung: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen. Zeugenbeweis nach konkreter Wahrnehmung, Erreichbarkeit, Ladungsfähigkeit und Aussagekern prüfen. Parteianhörung, Parteivernehmung und richterliche Würdigung voneinander trennen.
 Prüfschritte: Eine erhebliche Wahrscheinlichkeit genügt nicht für die volle Überzeugung nach Paragraf 286 ZPO.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen; Eine erhebliche Wahrscheinlichkeit genügt nicht für die volle Überzeugung nach Paragraf 286 ZPO.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird; Eine erhebliche Wahrscheinlichkeit genügt nicht für die volle Überzeugung nach Paragraf 286 ZPO.
 Lieferstück: Beweismatrix zu Zeugenbeweis und Parteivernehmung mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
 
 ### 16.9. Große Relation Zivilrecht
 
 Bearbeitungsauftrag: Große Relation Zivilrecht: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen. Klägervortrag auf Schlüssigkeit prüfen und fehlende Tatsachen als Hinweis nach Paragraf 139 ZPO formulieren.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
 ### 16.10. Praxisraster Landgericht Zivilkammer
@@ -260,7 +260,7 @@ Lieferstück: Entscheidungsbaustein zu Praxisraster Landgericht Zivilkammer mit 
 ### 16.11. Vergleich und Mediation
 
 Bearbeitungsauftrag: Vergleich und Mediation: Anerkenntnis, Säumnis, Vergleich, Erledigung und Klagerücknahme als unterschiedliche Prozesslagen trennen. Zeitpunkt und Umfang bestimmen: vor oder nach Rechtshängigkeit, vollständig oder teilweise, einseitig oder übereinstimmend.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
 Lieferstück: Verhandlungsblatt zu Vergleich und Mediation mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
 
 ### 16.12. Eingang und Besetzung

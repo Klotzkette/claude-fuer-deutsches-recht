@@ -194,7 +194,7 @@ _Startet ein Krisen- oder Restrukturierungsmandat ohne Leerlauf, wertet vorhande
 
 ## 1.1 Direktstart aus der Akte
 
-Lies zuerst alle bereitgestellten Dateien, Tabellen, Nachrichten und Metadaten. Beginne nicht mit einer Inventarliste und frage keine Angaben erneut ab, die sich aus dem Material ergeben.
+Erfasse zuerst Dateinamen, Änderungsdatum, Dokumentart und Stichtagsbezug. Öffne im ersten Durchgang höchstens fünf tragende Quellen: aktuellen Liquiditätsstatus oder Kontostand, OPOS- oder Fälligkeitsliste, Finanzierungsstand, Vollstreckungs- oder Mahnstück und jüngsten Organbeschluss. Weitere Tabellen, Nachrichten und Planungsstände folgen nur für eine benannte Bilanz-, Prognose- oder Beleglücke. Beginne trotzdem nicht mit einer Inventarliste und frage keine Angaben erneut ab, die sich aus dem Material ergeben.
 
 Arbeite in dieser Reihenfolge:
 

@@ -175,7 +175,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Verlust, Krise und Insolvenz — die Forschungszulage als Liquiditätshebel | Die Forschungszulage ist nach Paragraf 10 FZulG so konstruiert, dass ein Überschuss über die festgesetzte Einkommen- oder Körperschaftsteuer als Steuererstattung ausgezahlt. | Teilbefund zu Verlust, Krise und Insolvenz — die Forschungszulage als Liquiditätshebel mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad. |
+| Verlust, Krise und Insolvenz — die Forschungszulage als Liquiditätshebel | Die Forschungszulage ist nach Paragraf 10 FZulG so konstruiert, dass ein Überschuss über die festgesetzte Einkommen- oder Körperschaftsteuer als Steuererstattung ausgezahlt wird. | Teilbefund zu Verlust, Krise und Insolvenz — die Forschungszulage als Liquiditätshebel mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad. |
 | Finanzamt: Festsetzung und Auszahlung | Nach Erhalt der BSFZ-Bescheinigung beginnt die zweite Stufe: der eigentliche Antrag auf Forschungszulage beim Finanzamt. | Teilbefund zu Finanzamt: Festsetzung und Auszahlung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Kumulierung und Beihilfen (AGVO) | Die Forschungszulage ist eine staatliche Beihilfe nach Artikel 25 AGVO (Verordnung (EU) 651/2014 — vom Antragsteller mit konsolidierter Fassung zu prüfen). | Teilbefund zu Kumulierung und Beihilfen (AGVO) mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Bemessungsgrundlage 2026 | Die Höhe der Forschungszulage hängt nicht von der BSFZ ab, sondern allein von den ansatzfähigen Aufwendungen und dem Höchstbetrag der Bemessungsgrundlage (BMG). | Teilbefund zu Bemessungsgrundlage 2026 mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
@@ -191,7 +191,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 ### 16.1. Verlust, Krise und Insolvenz — die Forschungszulage als Liquiditätshebel
 
-Bearbeitungsauftrag: Die Forschungszulage ist nach Paragraf 10 FZulG so konstruiert, dass ein Überschuss über die festgesetzte Einkommen- oder Körperschaftsteuer als Steuererstattung ausgezahlt wird. Bei drohender Zahlungsunfähigkeit (Paragraf 18 InsO) oder Überschuldung (Paragraf 19 InsO). Paragraf 10 FZulG ordnet die Anrechnung auf die nächste Einkommen- oder Körperschaftsteuer.
+Bearbeitungsauftrag: Die Forschungszulage ist nach Paragraf 10 FZulG so konstruiert, dass ein Überschuss über die festgesetzte Einkommen- oder Körperschaftsteuer als Steuererstattung ausgezahlt wird. Bei drohender Zahlungsunfähigkeit (Paragraf 18 InsO) oder Überschuldung (Paragraf 19 InsO). Paragraf 10 FZulG ordnet die Anrechnung auf die nächste Einkommen- oder Körperschaftsteuer an.
 Prüfschritte: In Verlustjahren und Start-up-Phasen heißt das: Liquidität, obwohl keine Steuer zu zahlen ist; Genau dafür wurde die Erstattungslogik geschaffen; Behandle die Krise und die Insolvenz mit allen Nebenfolgen; Wenn der Mandant Vorauszahlungssenkung als Liquiditätsbrücke braucht.
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: Die Forschungszulage ist nach Paragraf 10 FZulG so konstruiert, dass ein Überschuss über die festgesetzte Einkommen- oder Körperschaftsteuer als Steuererstattung ausgezahlt wird.
 Lieferstück: Teilbefund zu Verlust, Krise und Insolvenz — die Forschungszulage als Liquiditätshebel mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
@@ -199,7 +199,7 @@ Lieferstück: Teilbefund zu Verlust, Krise und Insolvenz — die Forschungszulag
 ### 16.2. Finanzamt: Festsetzung und Auszahlung
 
 Bearbeitungsauftrag: Nach Erhalt der BSFZ-Bescheinigung beginnt die zweite Stufe: der eigentliche Antrag auf Forschungszulage beim Finanzamt. Der Antrag wird elektronisch über ELSTER eingereicht, die Festsetzung erfolgt durch einen gesonderten Forschungszulagenbescheid. Der Betrag wird auf die nächste Einkommen- oder Körperschaftsteuerfestsetzung angerechnet; ein Überschuss wird ausgezahlt (Paragraf 10 FZulG).
-Prüfschritte: Sobald die BSFZ-Bescheinigung vorliegt; Antragsweg: elektronisch über ELSTER (Antrag auf Forschungszulage — Bezeichnung und konkretes Formular vom Antragsteller mit aktueller Fassung zu verifizieren); Antragszeitpunkt: frühestens nach Ablauf des Wirtschaftsjahres, in dem die Aufwendungen entstanden.
+Prüfschritte: Sobald die BSFZ-Bescheinigung vorliegt; Antragsweg: elektronisch über ELSTER (Antrag auf Forschungszulage — Bezeichnung und konkretes Formular vom Antragsteller mit aktueller Fassung zu verifizieren); Antragszeitpunkt: frühestens nach Ablauf des Wirtschaftsjahres, in dem die Aufwendungen entstanden sind.
 Lieferstück: Teilbefund zu Finanzamt: Festsetzung und Auszahlung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
 ### 16.3. Kumulierung und Beihilfen (AGVO)

@@ -94,7 +94,7 @@ Arbeite danach in dieser Reihenfolge:
 2. **Schriftsatzanker:** Welche Tatsachenbehauptungen brauchen Anlagen? Wo sind die Beweisstellen?
 3. **Materialbild:** Welche Dateien liegen vor, welche fehlen, welche sind doppelt oder nur Vorversion?
 4. **K1-Entscheidung:** Einzelanlage oder Konvolut? Deckblatt nötig? Welche Fassung ist maßgeblich?
-5. **Fachmodule vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen.
+5. **Primärskill wählen:** Genau einen passenden Skill aus diesem Plugin bestimmen und unmittelbar einsetzen. Höchstens zwei Alternativen nur nennen, wenn eine echte Weiche offen ist.
 6. **Qualitygate:** Nummern, Verweise, Lesbarkeit, Schwärzung, Dateinamen, Paketgrößen, Lücken.
 
 ### 3. Routing-Regeln
@@ -129,17 +129,13 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 **Nächste Frage**
 [Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
 
-### 5. Fachmodule in diesem Plugin
+### 5. Fachmodule gezielt und sparsam laden
 
-| Skill | Wann vorschlagen? |
-|---|---|
-| `anlagen-zu-schriftsaetzen` | Hauptfür Auto-Benennung, Schriftsatz-folgt-Modus und Prüfmodus. |
-| `k1-sortierwerkstatt` | Wenn die erste Leit-Anlage aus Vertrag, Mail, Nachtrag, Scan und Versionen besteht. |
-| `schriftsatz-anlagen-mapping` | Wenn aus dem Vortrag eine Belegmatrix entstehen soll. |
-| `anlagen-duplikate-versionen-hashlog` | Wenn ZIPs, Datenräume oder Exportordner doppelte und widersprüchliche Dateien enthalten. |
-| `bea-paketierung-groessen-und-versandplan` | Wenn das Anlagenpaket wirklich elektronisch eingereicht werden muss. |
-| `anlagen-qualitygate-finalcheck` | Letzter Check vor Versand oder Zustellung. |
-| `anlagen-redaktion-dsgvo-geschgehg` | Wenn Personen- oder Geschäftsgeheimnisse in Anlagen stecken. |
+1. Wähle zunächst genau einen Primärskill, der zum Auftrag und gewünschten Arbeitsprodukt passt. Weitere Skills kommen nur bei einer konkreten Schnittstelle hinzu.
+2. Sind im Arbeitsordner bereits Unterlagen vorhanden, lies zuerst Dateinamen, Metadaten und Inhaltsübersichten. Frage nur nach Informationen, die daraus nicht verlässlich hervorgehen.
+3. Grenze Suchen in Microsoft 365 nach Website, Bibliothek oder Ordner, Zeitraum, Absender, Dateityp und prägnantem Suchbegriff ein. Erfasse im ersten Durchgang höchstens 20 Treffer und öffne höchstens fünf tragende Unterlagen.
+4. Lies Word- und PDF-Dokumente einmal vollständig, Tabellen nur in den einschlägigen Blättern und Bereichen sowie E-Mails im maßgeblichen Gesprächsverlauf. Verwende gewonnene Extrakte weiter, statt dieselbe Quelle erneut zu öffnen.
+5. Die [vollständige Fachmodulkarte](references/fachmodule.md) wird nur konsultiert, wenn kein eindeutiger Primärskill feststeht oder eine echte Querschnittsfrage verbleibt.
 
 ## Qualitätsversprechen
 

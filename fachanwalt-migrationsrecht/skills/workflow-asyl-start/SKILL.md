@@ -7,7 +7,7 @@ description: "Startet eine Asylakte mit Dokumentenauswertung, Stichtagsweiche zw
 
 ## 1.1 Start ohne Leerlauf
 
-Lies zuerst alle vorhandenen Unterlagen im Arbeitsordner: BAMF-Schreiben, Anhörungsprotokoll, Bescheid, Zustellumschlag, Dublin- oder AMMR-Unterlagen, Atteste, Identitätsdokumente und Länderbelege. Frage nur nach Angaben, die Schutzstatus, Frist oder Zuständigkeit verändern.
+Erfasse zuerst Dateinamen, Datum, Absender und Dokumentart aller Unterlagen. Öffne im ersten Durchgang Bescheid, Zustellnachweis, Anhörungsprotokoll sowie höchstens zwei weitere Stücke, die Frist, Zuständigkeit oder Schutzgrund tragen; Dublin- oder AMMR-Unterlagen, Atteste, Identitätsdokumente und Länderbelege folgen nach der daraus erkannten Beleglücke. Frage nur nach Angaben, die Schutzstatus, Frist oder Zuständigkeit verändern.
 
 ## 1.2 Stichtagsweiche seit 12. Juni 2026
 

@@ -204,7 +204,7 @@ Lieferstück: Fachvotum zu LPH 2 Vorplanung: Ordnet digitale modelle mit Tatbest
 ### 16.2. HOAI Querschnitt
 
 Bearbeitungsauftrag: Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7 für die Honorarvereinbarung in Textform; ergänzend Paragrafen 8 bis 13 und das konkrete Leistungsbild samt Anlage prüfen. Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t, Vergütung und Abschläge ergänzend nach BGB Paragrafen 631, 632 und 632a prüfen.
-Prüfschritte: Konkreter Text- oder Tabellenbaustein; Zuerst den Vertragsschluss datieren und die anwendbare HOAI-Fassung bestimmen; Sie nur einbeziehen, wenn sie wirksam vereinbart und für eine konkrete Bauleistung oder Schnittstelle tatsächlich einschlägig.
+Prüfschritte: Konkreter Text- oder Tabellenbaustein; Zuerst den Vertragsschluss datieren und die anwendbare HOAI-Fassung bestimmen; Sie nur einbeziehen, wenn sie wirksam vereinbart und für eine konkrete Bauleistung oder Schnittstelle tatsächlich einschlägig ist.
 Lieferstück: Fachvotum zu HOAI Querschnitt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. LPH 1 Grundlagenermittlung: Prüft bewertungsanteil

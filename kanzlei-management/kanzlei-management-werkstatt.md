@@ -167,7 +167,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | RVG und Honorarvereinbarung | Managementproblem (RVG und Honorarvereinbarung): Prüft Pricing gegen RVG, Paragraf 3a RVG, Paragraf 49b BRAO und Dokumentation. | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
-| Mandatsannahme Risk Committee | Managementproblem (Mandatsannahme Risk Committee): Richtet Verfahren für heikle Mandate mit GwG, Sanktionen und Reputation. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| Mandatsannahme Risk Committee | Managementproblem (Mandatsannahme Risk Committee): Richtet Verfahren für heikle Mandate mit GwG, Sanktionen und Reputation ein. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Qualitätsmanagement Kanzlei | Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter. | geprüftes Übergabepaket zu Qualitätsmanagement Kanzlei mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 | 13-Wochen-Cashflow | Managementproblem (13-Wochen-Cashflow): Erstellt rollierende Liquiditätsvorschau mit Gehältern, Miete, Steuern und Entnahmen. | geprüftes Übergabepaket zu 13-Wochen-Cashflow mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 | Compliance-Kalender Kanzlei | Managementproblem (Compliance-Kalender Kanzlei): Versicherung, Kammer, Datenschutz, Arbeitsschutz, Steuern, IT. | Kontrollvermerk zu Compliance-Kalender Kanzlei mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
@@ -188,7 +188,7 @@ Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Va
 
 ### 16.2. Mandatsannahme Risk Committee
 
-Bearbeitungsauftrag: Managementproblem (Mandatsannahme Risk Committee): Richtet Verfahren für heikle Mandate mit GwG, Sanktionen und Reputation ein. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Richtet Verfahren für heikle Mandate mit GwG, Sanktionen und Reputation.
+Bearbeitungsauftrag: Managementproblem (Mandatsannahme Risk Committee): Richtet Verfahren für heikle Mandate mit GwG, Sanktionen und Reputation ein. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Richtet Verfahren für heikle Mandate mit GwG, Sanktionen und Reputation ein.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.3. Qualitätsmanagement Kanzlei

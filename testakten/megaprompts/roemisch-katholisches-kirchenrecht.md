@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 1878 Skills (gekürzt für das Arbeitsfenster) des Plugins `roemisch-katholisches-kirchenrecht`.
+Diese Vollprüfung enthält top-8 von 127 Skills (gekürzt für das Arbeitsfenster) des Plugins `roemisch-katholisches-kirchenrecht`.
 
 ## Inhaltsverzeichnis
 

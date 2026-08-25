@@ -60,7 +60,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Aktenaufnahme, Relati
 - Paragraf 495a ZPO wird angeordnet, ohne Streitwertgrenze und Gehörsbedarf zu prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 313, 313a, 313b ZPO; Paragrafen 91 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 139 ZPO: Hinweise früh, konkret und aktenkundig; keine Überraschungsentscheidung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
 - BGH, Urteil vom 01.10.2019 - VI ZR 164/18: Bei einem Indizienbeweis alle belastenden und entlastenden Anzeichen würdigen; eine erhebliche Wahrscheinlichkeit ersetzt die nach Paragraf 286 ZPO erforderliche persönliche Überzeugung nicht.
 
 ## 7. Antwortform

@@ -191,7 +191,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 ### 16.1. Autonome LKW-Konvois – Haftung Paragraf 1d StVG und CMR
 
-Bearbeitungsauftrag: Bearbeite Autonome LKW-Konvois – Haftung Paragraf 1d StVG und CMR entlang der Transport-, See- und Außenhandelsrecht-Prüflinie: Haftung: Haftungsgrund, Höchstbeträge, Durchbrechung bei qualifiziertem Verschulden und Regresskette ordnen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen.
+Bearbeitungsauftrag: Bearbeite Autonome LKW-Konvois – Haftung Paragraf 1d StVG und CMR entlang der Transport-, See- und Außenhandelsrecht-Prüflinie: Haftung: Haftungsgrund, Höchstbeträge, Durchbrechung bei qualifiziertem Verschulden und Regresskette ordnen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
 Prüfschritte: Platooning – automatisierte LKW-Konvois mit V2V-Kommunikation (Vehicle-to-Vehicle) – ist technisch Realität und rechtlich noch weitgehend ungeklärt; Paragraf 1d StVG (eingefügt 2021) schafft einen Rahmen für hochautomatisiertes und vollautomatisiertes Fahren in Deutschland.
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 1d StVG (eingefügt 2021) schafft einen Rahmen für hochautomatisiertes und vollautomatisiertes Fahren in Deutschland; Platooning – automatisierte LKW-Konvois mit V2V-Kommunikation (Vehicle-to-Vehicle) – ist technisch Realität und rechtlich noch weitgehend ungeklärt.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
@@ -217,7 +217,7 @@ Lieferstück: Verhandlungsblatt zu Vergleichsverhandlung im Transport- und Spedi
 
 ### 16.5. Haftungssystem Grundzüge: Obhutshaftung Frachtführer Paragrafen 425 ff
 
-Bearbeitungsauftrag: Bearbeite Haftungssystem Grundzüge: Obhutshaftung Frachtführer Paragrafen 425 ff entlang der Transport-, See- und Außenhandelsrecht-Prüflinie: Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen.
+Bearbeitungsauftrag: Bearbeite Haftungssystem Grundzüge: Obhutshaftung Frachtführer Paragrafen 425 ff entlang der Transport-, See- und Außenhandelsrecht-Prüflinie: Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.6. Ladungsschaden art 23 CMR

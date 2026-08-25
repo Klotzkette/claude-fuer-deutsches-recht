@@ -77,9 +77,9 @@ Arbeitsgriff Arbeitsprodukt: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläu
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm | StaRUG Paragraf 1 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Insolvenzanfechtung 129 Bis 147 Verteidigungsradar | StaRUG Paragraf 1 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | InsO Paragraf 15a und Paragraf 15b | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Kommunikation mit Gläubigern im Insolvenz- und StaRUG-Verfahren | InsO Paragraf 15a und Paragraf 15b | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Restrukturierungsplan im Fachanwaltsmandat | InsO Paragraf 15a und Paragraf 15b | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren | Nachweisachse Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -133,6 +133,7 @@ Arbeitsgriff Arbeitsprodukt: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläu
 - BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten.
 - BGH IX ZR 239/22 vom 18.04.2024 — Deckungslücke, Zahlungseinstellung und Benachteiligungsvorsatz konkret beweisen; die zur Zahlungseinstellung herangezogenen Verbindlichkeiten tragen die Prognose dauerhafter Gläubigerbenachteiligung regelmäßig nicht allein.
 - BGH IX ZR 122/23 vom 05.12.2024 — Konkretisierung der Unlauterkeit nach Paragraf 142 Abs. 1 Hs. 2 InsO; bei Bargeschäft im Rahmen der Vorsatzanfechtung muss gezielt schädigendes Verhalten konkret nachgewiesen werden.
+- BGH, Beschluss vom 26.04.2018 - IX ZB 49/17: Ein Insolvenzplan darf nur Gegenstände regeln, die nach Paragraf 217 InsO und den besonderen Planvorschriften disponibel sind.
 
 ## 9. Prüfraster
 
@@ -148,7 +149,7 @@ Arbeitsgriff Arbeitsprodukt: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläu
 
 10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren.
 10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind StaRUG Paragraf 1; InsO Paragraf 15a und Paragraf 15b.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Insolvenzanfechtung 129 Bis 147 Verteidigungsradar.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Sanierung, StaRUG und Krisenfrüherkennung tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Nachweisachse Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei tragen Planungsrechnung und Prämissen die Fortbestehensprognose an.
@@ -188,83 +189,83 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
+| Insolvenzanfechtung 129 Bis 147 Verteidigungsradar | InsO Paragrafen 129, 130, 131, 132, 133, 134, 135, 142, 143-147; Paragraf 17 Zahlungsunfähigkeit, Paragraf 19 Überschuldung; BGB Bereicherungs-/Zinsfragen nur nachrangig. | Fachvotum zu Insolvenzanfechtung 129 Bis 147 Verteidigungsradar mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Restrukturierungsplan im Fachanwaltsmandat | Liegt heute Zahlungsunfähigkeit nach Paragraf 17 InsO oder Überschuldung nach Paragraf 19 InsO vor? Besteht nur drohende Zahlungsunfähigkeit nach Paragraf 18 InsO? | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm | Geplanter Pfad (StaRUG, Schutzschirm, Eigenverwaltung, Regelinsolvenz). StaRUG Paragrafen 4-65 (Restrukturierungs-Plan ohne Insolvenz). Paragraf 245 InsO — Obstruktionsverbot im Insolvenzplan | Verhandlungsblatt zu Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug |
 | Kommunikation mit Gläubigern im Insolvenz- und StaRUG-Verfahren | Bearbeite Kommunikation mit Gläubigern im Insolvenz- und StaRUG-Verfahren: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Fachvotum zu Kommunikation mit Gläubigern im Insolvenz- und StaRUG-Verfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
+| Schutzschirmverfahren Paragraf 270d InsO Eigenverwaltung in Insolvenz | Bearbeite Schutzschirmverfahren Paragraf 270d InsO Eigenverwaltung in Insolvenz: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Fachvotum zu Schutzschirmverfahren Paragraf 270d InsO Eigenverwaltung in Insolvenz mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
+| StaRUG-Restrukturierungsplan im Detail | Bearbeite StaRUG-Restrukturierungsplan im Detail: darstellenden und gestaltenden Teil, Gruppen, Planvergleich, Stimmrechte, Mehrheiten, Minderheitenschutz, Bestätigung und Vollzug in einer Planmatrix verbinden. | Fachvotum zu StaRUG-Restrukturierungsplan im Detail mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Vorläufige Eigenverwaltung und Schutzschirm | Materiell sind zwei Verfahren strikt zu trennen: Paragraf 270b InsO regelt die Anordnung der vorläufigen Eigenverwaltung; Paragraf 270d InsO regelt die Vorbereitung einer Sanierung unter einem Schutzschirm. | Fachvotum zu Vorläufige Eigenverwaltung und Schutzschirm mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Restschuldbefreiung nach aktuellem Recht steuern | IX ZB 47/22: Ein Versagungsantrag nach Paragraf 290 InsO muss bis zum maßgeblichen Zeitpunkt schlüssig dargelegt und erforderlichenfalls glaubhaft gemacht sein; erst dann greift die Amtsermittlung. | Fachvotum zu Restschuldbefreiung nach aktuellem Recht steuern mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| Überschuldung und Fortbestehensprognose prüfen | Nutze den Skill, wenn bilanzielles negatives Eigenkapital, Liquiditätsrisiken oder zweifelhafte Finanzierungszusagen eine Prüfung nach Paragraf 19 InsO auslösen. | Fachvotum zu Überschuldung und Fortbestehensprognose prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Anfechtungsklage des Insolvenzverwalters nach Paragrafen 129-147 InsO vorbereiten | Bearbeite Anfechtungsklage des Insolvenzverwalters nach Paragrafen 129-147 InsO vorbereiten: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Insolvenzplan nach Paragraf 217 InsO prüfen | IX ZB 49/17: Ein Insolvenzplan darf nur Gegenstände regeln, die nach Paragraf 217 InsO und den besonderen Planvorschriften disponibel. | Fachvotum zu Insolvenzplan nach Paragraf 217 InsO prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Fa Insolvenz Npl und Distressed Debt | Bearbeite Fa Insolvenz Npl und Distressed Debt: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Fachvotum zu Fa Insolvenz Npl und Distressed Debt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Leitfaden Anfechtungsmandat für Verwalter und Verteidiger: Paragrafen 129 ff | Bearbeite Leitfaden Anfechtungsmandat für Verwalter und Verteidiger: Paragrafen 129 ff: verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| Zahlungsunfähigkeit und streitige Forderungen prüfen | Eine Liquiditätslücke, Organhaftung, Insolvenzanfechtung, ein Gläubigerantrag oder ein Sanierungsfenster verlangt eine stichtagsbezogene Prüfung nach Paragraf 17 InsO. | Fachvotum zu Zahlungsunfähigkeit und streitige Forderungen prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 
 ## 16. Fachspezifische Praxisrouten
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm
+### 16.1. Insolvenzanfechtung 129 Bis 147 Verteidigungsradar
+
+Bearbeitungsauftrag: InsO Paragrafen 129, 130, 131, 132, 133, 134, 135, 142, 143-147; Paragraf 17 Zahlungsunfähigkeit, Paragraf 19 Überschuldung; BGB Bereicherungs-/Zinsfragen nur nachrangig. Zeitfenster: Drei Monate, ein Monat, zehn Jahre/vier Jahre nach Paragraf 133 je nach Fallgruppe, unentgeltliche Leistung, Gesellschafterdarlehen. Verteidigung: Bargeschäft Paragraf 142 InsO, ernsthafter Sanierungsversuch, kongrünte Deckung, fehlende Kenntnis, fehlende Benachteiligung, Entreicherung nicht pauschal.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: InsO Paragrafen 129, 130, 131, 132, 133, 134, 135, 142, 143-147; Paragraf 17 Zahlungsunfähigkeit, Paragraf 19 Überschuldung; BGB Bereicherungs-/Zinsfragen nur nachrangig.
+Lieferstück: Fachvotum zu Insolvenzanfechtung 129 Bis 147 Verteidigungsradar mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.2. Restrukturierungsplan im Fachanwaltsmandat
+
+Bearbeitungsauftrag: Liegt heute Zahlungsunfähigkeit nach Paragraf 17 InsO oder Überschuldung nach Paragraf 19 InsO vor? Besteht nur drohende Zahlungsunfähigkeit nach Paragraf 18 InsO? Welches gerichtliche Instrument nach Paragraf 29 Absatz 2 StaRUG wird benötigt?
+Prüfschritte: Lies zuerst Liquiditätsplanung, OPOS, Finanzierungsverträge, Sicherheiten, Planentwurf, Verhandlungsstand und Organbeschlüsse; Liefere aus dem vorhandenen Material eine Krisenampel, eine Gruppen- und Mehrheitsvorschau und den nächsten antrags- oder verhandlungsreifen Baustein; Frage nur nach Tatsachen, die Verfahrensweg, Planinhalt oder Frist ändern.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+
+### 16.3. Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm
 
 Bearbeitungsauftrag: Geplanter Pfad (StaRUG, Schutzschirm, Eigenverwaltung, Regelinsolvenz). StaRUG Paragrafen 4-65 (Restrukturierungs-Plan ohne Insolvenz). Paragraf 245 InsO — Obstruktionsverbot im Insolvenzplan.
 Prüfschritte: Paragraf 17, Überschuldung Paragraf 19; Gläubigerstruktur (Bank, Lieferanten, FA, Sozialkasse, Pensionssicherungsverein); Sanierungskonzept-Status: Fortbestehensprognose, Sanierungsfähigkeit, Leitbild, Maßnahmen, integrierte Planung, Dokumentation; Wirtschaftliches Sanierungs-Potenzial; Paragraf 270b InsO — Eigenverwaltung.
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 18 InsO, Z-Unf; Paragraf 17, Überschuldung Paragraf 19; Gläubigerstruktur (Bank, Lieferanten, FA, Sozialkasse, Pensionssicherungsverein); Sanierungskonzept-Status: Fortbestehensprognose, Sanierungsfähigkeit, Leitbild, Maßnahmen; Paragraf 17, Überschuldung Paragraf 19.
 Lieferstück: Verhandlungsblatt zu Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
 
-### 16.2. Kommunikation mit Gläubigern im Insolvenz- und StaRUG-Verfahren
+### 16.4. Kommunikation mit Gläubigern im Insolvenz- und StaRUG-Verfahren
 
 Bearbeitungsauftrag: Bearbeite Kommunikation mit Gläubigern im Insolvenz- und StaRUG-Verfahren: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Instrumentenwahl: freie Sanierung, StaRUG-Rahmen, Eigenverwaltung oder Regelverfahren abwägen.
 Lieferstück: Fachvotum zu Kommunikation mit Gläubigern im Insolvenz- und StaRUG-Verfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. Vorläufige Eigenverwaltung und Schutzschirm
+### 16.5. Schutzschirmverfahren Paragraf 270d InsO Eigenverwaltung in Insolvenz
+
+Bearbeitungsauftrag: Bearbeite Schutzschirmverfahren Paragraf 270d InsO Eigenverwaltung in Insolvenz: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Instrumentenwahl: freie Sanierung, StaRUG-Rahmen, Eigenverwaltung oder Regelverfahren abwägen.
+Lieferstück: Fachvotum zu Schutzschirmverfahren Paragraf 270d InsO Eigenverwaltung in Insolvenz mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.6. StaRUG-Restrukturierungsplan im Detail
+
+Bearbeitungsauftrag: Bearbeite StaRUG-Restrukturierungsplan im Detail: darstellenden und gestaltenden Teil, Gruppen, Planvergleich, Stimmrechte, Mehrheiten, Minderheitenschutz, Bestätigung und Vollzug in einer Planmatrix verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Instrumentenwahl: freie Sanierung, StaRUG-Rahmen, Eigenverwaltung oder Regelverfahren abwägen.
+Lieferstück: Fachvotum zu StaRUG-Restrukturierungsplan im Detail mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.7. Vorläufige Eigenverwaltung und Schutzschirm
 
 Bearbeitungsauftrag: Materiell sind zwei Verfahren strikt zu trennen: Paragraf 270b InsO regelt die Anordnung der vorläufigen Eigenverwaltung; Paragraf 270d InsO regelt die Vorbereitung einer Sanierung unter einem Schutzschirm. Insolvenzgrund stichtagsgenau bestimmen: Zahlungsunfähigkeit schließt den Schutzschirm aus, nicht aber zwingend die vorläufige Eigenverwaltung. Verfahrensziel wählen: Nur vorläufige Eigenverwaltung oder zusätzlich Schutzschirm mit Insolvenzplan?
 Lieferstück: Fachvotum zu Vorläufige Eigenverwaltung und Schutzschirm mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Restschuldbefreiung nach aktuellem Recht steuern
+### 16.8. Restschuldbefreiung nach aktuellem Recht steuern
 
 Bearbeitungsauftrag: IX ZB 47/22: Ein Versagungsantrag nach Paragraf 290 InsO muss bis zum maßgeblichen Zeitpunkt schlüssig dargelegt und erforderlichenfalls glaubhaft gemacht sein; erst dann greift die Amtsermittlung. IX ZB 5/24: Die erteilte Restschuldbefreiung hindert eine Nachtragsverteilung nicht, wenn der Gegenstand zur Insolvenzmasse gehört. Abtretung, Massezugehörigkeit und Wirkung der Restschuldbefreiung sind deshalb getrennt zu prüfen.
 Prüfschritte: Eine natürliche Person beantragt Restschuldbefreiung oder muss einen Versagungsantrag abwehren.
 Lieferstück: Fachvotum zu Restschuldbefreiung nach aktuellem Recht steuern mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Überschuldung und Fortbestehensprognose prüfen
+### 16.9. Zahlungsunfähigkeit und streitige Forderungen prüfen
+
+Bearbeitungsauftrag: Eine Liquiditätslücke, Organhaftung, Insolvenzanfechtung, ein Gläubigerantrag oder ein Sanierungsfenster verlangt eine stichtagsbezogene Prüfung nach Paragraf 17 InsO. Forderungen werden nicht nach gefühltem Prozessrisiko quotiert, sondern nach objektivem Bestand, Fälligkeit und den besonderen Beweiswirkungen eines Titels behandelt. Bei nicht titulierten streitigen Forderungen kommt es auf objektiven Bestand und Fälligkeit an.
+Lieferstück: Fachvotum zu Zahlungsunfähigkeit und streitige Forderungen prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.10. Überschuldung und Fortbestehensprognose prüfen
 
 Bearbeitungsauftrag: Nutze den Skill, wenn bilanzielles negatives Eigenkapital, Liquiditätsrisiken oder zweifelhafte Finanzierungszusagen eine Prüfung nach Paragraf 19 InsO auslösen. Handelsbilanz, Fortführungsannahme nach HGB und insolvenzrechtliche Überschuldung sind unterschiedliche Prüfungen. Eine konzerninterne Patronatserklärung trägt die positive Fortbestehensprognose nur, wenn sie eine rechtlich belastbare Finanzierung des Prognosezeitraums sicherstellt; bloße Absicht genügt nicht.
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe Überschuldung nach Paragraf 19 InsO zweistufig, trennt Fortbestehensprognose, Überschuldungsstatus, Rangrücktritt und Patronatserklärung und erstellt eine stichtagsbezogene Prognose-, Vermögens- und Dokumentationsmatrix für Geschäftsleitung und Berater.
 Lieferstück: Fachvotum zu Überschuldung und Fortbestehensprognose prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Anfechtungsklage des Insolvenzverwalters nach Paragrafen 129-147 InsO vorbereiten
+### 16.11. Anfechtungsklage des Insolvenzverwalters nach Paragrafen 129-147 InsO vorbereiten
 
 Bearbeitungsauftrag: Bearbeite Anfechtungsklage des Insolvenzverwalters nach Paragrafen 129-147 InsO vorbereiten: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.7. Insolvenzplan nach Paragraf 217 InsO prüfen
+### 16.12. Insolvenzplan nach Paragraf 217 InsO prüfen
 
 Bearbeitungsauftrag: IX ZB 49/17: Ein Insolvenzplan darf nur Gegenstände regeln, die nach Paragraf 217 InsO und den besonderen Planvorschriften disponibel sind. Vergleichsrechnung transparent, stichtagsbezogen und mit Sensitivitäten aufbauen. Stimmrechte, Mehrheiten, gruppenübergreifende Zustimmung und Obstruktionsverbot simulieren.
 Prüfschritte: Nicht disponible Regelungen verstoßen gegen die Vorschriften über den zulässigen Planinhalt und sind im Bestätigungsverfahren zu kontrollieren.
 Lieferstück: Fachvotum zu Insolvenzplan nach Paragraf 217 InsO prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.8. Fa Insolvenz Npl und Distressed Debt
-
-Bearbeitungsauftrag: Bearbeite Fa Insolvenz Npl und Distressed Debt: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Lieferstück: Fachvotum zu Fa Insolvenz Npl und Distressed Debt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.9. Leitfaden Anfechtungsmandat für Verwalter und Verteidiger: Paragrafen 129 ff
-
-Bearbeitungsauftrag: Bearbeite Leitfaden Anfechtungsmandat für Verwalter und Verteidiger: Paragrafen 129 ff: verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.10. Absonderungsrecht Paragraf 50 InsO
-
-Bearbeitungsauftrag: Bearbeite Absonderungsrecht Paragraf 50 InsO entlang der Sanierung, StaRUG und Krisenfrüherkennung-Prüflinie: Krisenstadium: Liquiditätsstatus, Prognosehorizont, Insolvenzreife und Antragspflichten feststellen.
-Lieferstück: Fachvotum zu Absonderungsrecht Paragraf 50 InsO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.11. Masseunzulänglichkeit Paragraf 208 InsO
-
-Bearbeitungsauftrag: Bearbeite Masseunzulänglichkeit Paragraf 208 InsO entlang der Sanierung, StaRUG und Krisenfrüherkennung-Prüflinie: Krisenstadium: Liquiditätsstatus, Prognosehorizont, Insolvenzreife und Antragspflichten feststellen.
-Lieferstück: Fachvotum zu Masseunzulänglichkeit Paragraf 208 InsO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Vorsatzanfechtung nach Paragraf 133 InsO prüfen
-
-Bearbeitungsauftrag: Rechtshandlung, Wirkungszeitpunkt, Leistung, Anspruch und Sicherung bestimmen. Objektive Gläubigerbenachteiligung und hypothetischen Kausalverlauf prüfen. Kongrünz, Bargeschäft und Zeitraum einordnen.
-Prüfschritte: Prüfe jede Zahlung und Sicherung einzeln; Zahlungsunfähigkeit und Kenntnis hiervon ersetzen weder den Benachteiligungsvorsatz noch die Kenntnis des Anfechtungsgegners automatisch; erforderlich ist zusätzlich die Vorstellung, auch künftig nicht vollständig befriedigen zu können.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe eine Vorsatzanfechtung nach Paragraf 133 InsO rechtshandlungsbezogen, trennt kongrünte von inkongrünter Deckung, Vorsatz und Gegnerkenntnis und erstellt eine vollständige Indizien- und Gegenindizienmatrix.
-Lieferstück: Fachvotum zu Vorsatzanfechtung nach Paragraf 133 InsO prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

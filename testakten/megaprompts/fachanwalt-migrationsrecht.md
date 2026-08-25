@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 462 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-migrationsrecht`.
+Diese Vollprüfung enthält top-8 von 237 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-migrationsrecht`.
 
 ## Inhaltsverzeichnis
 

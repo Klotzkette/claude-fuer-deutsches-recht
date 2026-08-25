@@ -205,12 +205,12 @@ Lieferstück: Teilbefund zu Methodenlehre und Rechtsanwendung im bürgerlichen R
 
 ### 16.4. Unionsrechtskonforme Beweislast und Darlegungslast
 
-Bearbeitungsauftrag: Das Skill prüft, ob die unionsrechtliche Vermutung der Mangelhaftigkeit bei Gefahrübergang (Paragraf 477 BGB, Artikel 11 Warenkauf-Richtlinie) zu einer Beweislastumkehr führt, die dem Verkäufer die Beweislast auferlegt. Eine Arbeitnehmerin behauptet diskriminierende Entlassung. Das Skill analysiert, ob die Beweislasterleichterung der Antidiskriminierungsrichtlinie (Richtlinie 2006/54/EG) für das Zivilgericht bindend ist und wie sie prozessstrategisch eingesetzt.
+Bearbeitungsauftrag: Das Skill prüft, ob die unionsrechtliche Vermutung der Mangelhaftigkeit bei Gefahrübergang (Paragraf 477 BGB, Artikel 11 Warenkauf-Richtlinie) zu einer Beweislastumkehr führt, die dem Verkäufer die Beweislast auferlegt. Eine Arbeitnehmerin behauptet diskriminierende Entlassung. Das Skill analysiert, ob die Beweislasterleichterung der Antidiskriminierungsrichtlinie (Richtlinie 2006/54/EG) für das Zivilgericht bindend ist und wie sie prozessstrategisch eingesetzt wird.
 Lieferstück: Beweismatrix zu Unionsrechtskonforme Beweislast und Darlegungslast mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
 
 ### 16.5. Verjährung, Fristennotiz und nächste Schritte
 
-Bearbeitungsauftrag: Das Skill berechnet, ob der Schadensersatzanspruch noch durchsetzbar ist (Paragrafen 195, 199 BGB), und prüft, wann der Mandant von Schaden und Schädiger Kenntnis erlangt hat. Ein Unternehmer hat gegen eine fehlerhafte Lieferung keine Mängelrüge erhoben. Das Skill prüft, ob die kaufrechtliche Verjährung (Paragraf 438 BGB) abgelaufen ist, und untersucht, ob eine Hemmung durch Verhandlungen (Paragraf 203 BGB) eingetreten.
+Bearbeitungsauftrag: Das Skill berechnet, ob der Schadensersatzanspruch noch durchsetzbar ist (Paragrafen 195, 199 BGB), und prüft, wann der Mandant von Schaden und Schädiger Kenntnis erlangt hat. Ein Unternehmer hat gegen eine fehlerhafte Lieferung keine Mängelrüge erhoben. Das Skill prüft, ob die kaufrechtliche Verjährung (Paragraf 438 BGB) abgelaufen ist, und untersucht, ob eine Hemmung durch Verhandlungen (Paragraf 203 BGB) eingetreten ist.
 Lieferstück: Fristenblatt zu Verjährung, Fristennotiz und nächste Schritte mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
 ### 16.6. Begründung, Anhörung und Adressatenfähigkeit
@@ -225,7 +225,7 @@ Lieferstück: Teilbefund zu BVerfG-Grenzen richterlicher Rechtsfortbildung mit L
 
 ### 16.8. Generalklauseln als Abwägungslenker im Zivilrecht
 
-Bearbeitungsauftrag: Ein Gericht will einen Vertrag nach Paragraf 242 BGB wegen geänderter Umstände anpassen. Bei der Sittenwidrigkeitsprüfung nach Paragraf 138 BGB ist streitig, welche gesellschaftlichen Wertungsmaßstäbe heranzuziehen sind. Das Skill klärt, ob allgemeine gesellschaftliche Anschauungen oder normative Leitlinien aus dem Gesetz selbst maßgebend.
+Bearbeitungsauftrag: Ein Gericht will einen Vertrag nach Paragraf 242 BGB wegen geänderter Umstände anpassen. Bei der Sittenwidrigkeitsprüfung nach Paragraf 138 BGB ist streitig, welche gesellschaftlichen Wertungsmaßstäbe heranzuziehen sind. Das Skill klärt, ob allgemeine gesellschaftliche Anschauungen oder normative Leitlinien aus dem Gesetz selbst maßgebend sind.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.9. Konservative Methodenkritik: Gesetzesbindung und Texttreue

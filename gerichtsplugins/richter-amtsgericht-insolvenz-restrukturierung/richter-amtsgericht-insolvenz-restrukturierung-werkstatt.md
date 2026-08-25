@@ -192,7 +192,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Restschuldbefreiung und Schlusstermin | Im Schlusstermin Versagungsantrag, Antragsberechtigung, Versagungsgrund, Glaubhaftmachung, rechtliches Gehör und die zeitlich anwendbare Fassung der InsO einzeln ausweisen. | Fristenblatt zu Restschuldbefreiung und Schlusstermin mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 | Sicherungsmaßnahmen Vor Eröffnung | IX ZB 208/05: Das Insolvenzgericht prüft von Amts wegen anhand des Einzelfalls, ob und welche Sicherungsmaßnahmen erforderlich sind, um gläubigernachteilige Vermögensveränderungen bis zur Eröffnungsentscheidung. | Fachvotum zu Sicherungsmaßnahmen Vor Eröffnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Eigenverwaltung und Schutzschirm | IX ZB 41/21: Die Aufhebung der vorläufigen Eigenverwaltung auf Antrag des vorläufigen Gläubigerausschusses ist nicht mit der sofortigen Beschwerde anfechtbar. | Fachvotum zu Eigenverwaltung und Schutzschirm mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Gläubigerversammlung und Prüfungstermin | IX ZB 65/10: Eine Gläubigerversammlung ist so durchzuführen, dass geordnete Willensbildung und Abstimmung möglich. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| Gläubigerversammlung und Prüfungstermin | IX ZB 65/10: Eine Gläubigerversammlung ist so durchzuführen, dass geordnete Willensbildung und Abstimmung möglich sind. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Eröffnungsantrag Prüfen Insolvenz | Bearbeite Eröffnungsantrag Prüfen Insolvenz: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 
 ## 16. Fachspezifische Praxisrouten
@@ -247,7 +247,7 @@ Lieferstück: Fachvotum zu Eigenverwaltung und Schutzschirm mit Tatbestandsmerkm
 ### 16.8. Gläubigerversammlung und Prüfungstermin
 
 Bearbeitungsauftrag: IX ZB 65/10: Eine Gläubigerversammlung ist so durchzuführen, dass geordnete Willensbildung und Abstimmung möglich sind; bei bestrittenen Forderungen sind Tabellenfeststellung, Stimmrecht und eine etwaige planbedingte Klagefrist sauber zu trennen. Gläubigerversammlung und Prüfungstermin: Verfahrensphase, Beteiligtenrechte und konkrete Beschlusszuständigkeit festlegen. Gläubigerrechte, Prüfungstermin, Schlusstermin, Restschuldbefreiung und Versagungsgründe getrennt prüfen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BGH, Beschluss vom 15.07.2010; IX ZB 65/10: Eine Gläubigerversammlung ist so durchzuführen, dass geordnete Willensbildung und Abstimmung möglich.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: BGH, Beschluss vom 15.07.2010; IX ZB 65/10: Eine Gläubigerversammlung ist so durchzuführen, dass geordnete Willensbildung und Abstimmung möglich sind.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.9. Eröffnungsantrag Prüfen Insolvenz

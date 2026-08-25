@@ -74,7 +74,7 @@ Arbeite danach in dieser Reihenfolge:
 1. **Eilprüfung:** Verjährung (drei Jahre nach § 195 BGB ab Jahresende), Bearbeitungsfristen der DB (Art. 18 Abs. 5, 19 Abs. 7 VO 2021/782 — 30 Tage / ein Monat), Anhängige Schlichtung.
 2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
 3. **Arbeitsmodus wählen:** Erstforderung, Widerspruch, Schlichtung, Klage, Vollmacht.
-4. **Fachmodule vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
+4. **Primärskill wählen:** Genau einen passenden Skill aus diesem Plugin bestimmen und unmittelbar einsetzen. Höchstens zwei Alternativen nur nennen, wenn eine echte Weiche offen ist.
 5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
 6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
 
@@ -110,22 +110,13 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 **Nächste Frage**
 [Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
 
-### 5. Fachmodule in diesem Plugin
+### 5. Fachmodule gezielt und sparsam laden
 
-| Skill | Wann vorschlagen? |
-|---|---|
-| `fahrgastrechte-einfuehrung-vo-2021-782` | Wenn Mandant Grundlagen-Erklärung zur EU-VO und ihrem Anwendungsbereich braucht (60/120-Min-Schwellen, Sturgeon-Äquivalent, Art. 18/19/20). |
-| `ticket-und-reisedaten-erfassen` | Wenn Tickets, Buchungsbestätigungen oder Beweis-Belege hochgeladen oder geschildert werden — extrahiert Fallakte. |
-| `verspaetung-und-anschlussverlust-einordnen` | Wenn unklar ist, ob Verspätung, Zugausfall, Anschlussverlust oder Vorverlegung vorliegt — Differenzierung Art. 17 / Art. 18 VO. |
-| `entschaedigung-berechnen` | Berechnet 25/50 % auf Basis Ticketart (Flexpreis, Sparpreis, BC100, Deutschlandticket, Zeitkarte) — pro Person, ggf. Mehrpassagiere. |
-| `eigenbefoerderung-und-betreuung-art-18` | Wenn Mandant Taxi/Bus/anderer Anbieter genutzt hat, Hotel buchte oder Verpflegung kaufte — Art. 18 Abs. 3, 20 VO und § 11 EVO. |
-| `forderung-an-db-erste-stufe` | Erstforderungsschreiben an Servicecenter Fahrgastrechte mit Rechtsbegründung und Frist. |
-| `fahrgastrechte-widerspruch` | Wenn DB den Antrag abgelehnt hat — strukturierter Widerspruch mit Pinpoint auf konkreten Ablehnungsgrund und Art. 19 VO. |
-| `db-ablehnungsgruende-pruefen` | Katalog der zehn häufigsten DB-Ablehnungsgründe mit Gegenargumenten und Norm-Pinpoint — vor jedem Widerspruchs- oder Klage-Entwurf konsultieren. |
-| `schlichtung-reise-verkehr-anrufen` | Wenn DB auch nach Widerspruch ablehnt oder schweigt — Antrag an die Schlichtungsstelle Reise & Verkehr e.V. (vormals söp). |
-| `klage-amtsgericht-fahrgast` | Wenn aussergerichtliche Schritte erfolglos waren — Klageschrift mit Streitwert, Antrag, Begründung, Beweisangeboten. |
-| `vollmacht-mitreisende` | Wenn ein Hauptansprechpartner Ansprüche mehrerer Reisender bündeln will — Vollmachten erstellen. |
-| `fahrgastrechte-anlagen-bauen` | Nach jedem Schriftsatz: erzeugt sortiertes Anlagenkonvolut mit "Anlage K"-Stempel und Sammel-PDF. |
+1. Wähle zunächst genau einen Primärskill, der zum Auftrag und gewünschten Arbeitsprodukt passt. Weitere Skills kommen nur bei einer konkreten Schnittstelle hinzu.
+2. Sind im Arbeitsordner bereits Unterlagen vorhanden, lies zuerst Dateinamen, Metadaten und Inhaltsübersichten. Frage nur nach Informationen, die daraus nicht verlässlich hervorgehen.
+3. Grenze Suchen in Microsoft 365 nach Website, Bibliothek oder Ordner, Zeitraum, Absender, Dateityp und prägnantem Suchbegriff ein. Erfasse im ersten Durchgang höchstens 20 Treffer und öffne höchstens fünf tragende Unterlagen.
+4. Lies Word- und PDF-Dokumente einmal vollständig, Tabellen nur in den einschlägigen Blättern und Bereichen sowie E-Mails im maßgeblichen Gesprächsverlauf. Verwende gewonnene Extrakte weiter, statt dieselbe Quelle erneut zu öffnen.
+5. Die [vollständige Fachmodulkarte](references/fachmodule.md) wird nur konsultiert, wenn kein eindeutiger Primärskill feststeht oder eine echte Querschnittsfrage verbleibt.
 
 ## Worum geht es?
 

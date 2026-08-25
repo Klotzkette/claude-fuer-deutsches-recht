@@ -119,7 +119,7 @@ Arbeitsgriff Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung ode
 - Paragraf 80 Abs. 5 VwGO; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 113 Abs. 1 und 5 VwGO; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 68 Abs. 1 Satz 1 VwGO — Vor Erhebung der Anfechtungsklage sind Rechtmäßigkeit und Zweckmäßigkeit des Verwaltungsakts in einem Vorverfahren nachzuprüfen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 73 Abs. 1 Satz 2 Nr. 1 VwGO — Den Widerspruchsbescheid erlässt die nächsthöhere Behörde, soweit nicht durch Gesetz eine andere höhere Behörde bestimmt; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 73 Abs. 1 Satz 2 Nr. 1 VwGO — Den Widerspruchsbescheid erlässt die nächsthöhere Behörde, soweit nicht durch Gesetz eine andere höhere Behörde bestimmt ist; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 80 Abs. 2 Satz 1 Nr. 1 VwGO — Die aufschiebende Wirkung entfällt bei der Anforderung von öffentlichen Abgaben und Kosten; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 28, 39 VwVfG — Anhörung vor belastendem Verwaltungsakt und Begründungspflicht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 

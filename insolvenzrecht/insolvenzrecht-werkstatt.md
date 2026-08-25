@@ -253,7 +253,7 @@ Lieferstück: Fachvotum zu Insolvenz: NPL-Kreditkauf und KrZwMG mit Tatbestandsm
 
 ### 16.11. Insolvenzgerichtliche Versandmappe endfertigen
 
-Bearbeitungsauftrag: Prüfe Antragsberechtigung, Schuldneridentität, Insolvenzgrund, Forderung, Rechtsschutzinteresse und Glaubhaftmachung. Bei Anfechtungs-, Feststellungs- oder Haftungsklage gelten K und B entsprechend Parteirolle. Ordne Vertrag, Rechnung, Fälligkeit, Zahlung, Kenntnisindizien, Insolvenzeröffnung und Verwalterbestellung den Behauptungen.
+Bearbeitungsauftrag: Prüfe Antragsberechtigung, Schuldneridentität, Insolvenzgrund, Forderung, Rechtsschutzinteresse und Glaubhaftmachung. Bei Anfechtungs-, Feststellungs- oder Haftungsklage gelten K und B entsprechend Parteirolle. Ordne Vertrag, Rechnung, Fälligkeit, Zahlung, Kenntnisindizien, Insolvenzeröffnung und Verwalterbestellung den Behauptungen zu.
 Prüfschritte: Lies Antrag oder Klage, Forderungsunterlagen, Titel, Vollstreckungsnachweise, Liquiditätsstatus, Registerauszug und gerichtliche Vorgaben.
 Lieferstück: Fachvotum zu Insolvenzgerichtliche Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
