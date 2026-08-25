@@ -44,7 +44,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`forderungsmanagement-klagewerkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`forderungsmanagement-klagewerkstatt-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`forderungsmanagement-klagewerkstatt-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-werkstatt.md) |
-| Zugeordnete Testakten | PDF / ZIP | [zwei zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
+| Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 235 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
@@ -54,8 +54,8 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
+| [Akte Inkasso ModeFuchs – Cowork-Sonderfall (unsortierter Desktop-Ordner)](../testakten/inkasso-modefuchs-cowork-sonderfall/README.md) | [Gesamt-PDF](../testakten/inkasso-modefuchs-cowork-sonderfall/gesamt-pdf/inkasso-modefuchs-cowork-sonderfall_gesamt.pdf) | [`testakte-inkasso-modefuchs-cowork-sonderfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-modefuchs-cowork-sonderfall.zip) | [`testakte-inkasso-modefuchs-cowork-sonderfall-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-modefuchs-cowork-sonderfall-einzelpdfs.zip) |
 | [Akte Inkasso-Zahlungsklage ModeFuchs](../testakten/inkasso-zahlungsklage-modefuchs/README.md) | [Gesamt-PDF](../testakten/inkasso-zahlungsklage-modefuchs/gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) | [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs.zip) | [`testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |
-| [Akte Inkasso ModeFuchs – Cowork-Sonderfall](../testakten/inkasso-modefuchs-cowork-sonderfall/README.md) | [Gesamt-PDF](../testakten/inkasso-modefuchs-cowork-sonderfall/gesamt-pdf/inkasso-modefuchs-cowork-sonderfall_gesamt.pdf) | [`testakte-inkasso-modefuchs-cowork-sonderfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-modefuchs-cowork-sonderfall.zip) | [`testakte-inkasso-modefuchs-cowork-sonderfall-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-modefuchs-cowork-sonderfall-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

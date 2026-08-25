@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose belastbar bestimmen und den nächsten Verfahrensschritt wählen.
 **Plugin-Slug:** `krisenfrueherkennung-starug`
-**Version:** 439.5.0
+**Version:** 439.5.1
 **Autor:** Klotzkette
 
 ---

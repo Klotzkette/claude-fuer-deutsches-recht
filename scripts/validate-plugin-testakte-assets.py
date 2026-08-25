@@ -92,6 +92,8 @@ def check_zip(
                 notice_names = [name for name in names if name.casefold() == NOTICE_FILENAME.casefold()]
                 if notice_names != [NOTICE_FILENAME]:
                     fail(f"{path}: {NOTICE_FILENAME} fehlt oder ist nicht eindeutig")
+                if names[0] != NOTICE_FILENAME:
+                    fail(f"{path}: {NOTICE_FILENAME} muss der erste ZIP-Eintrag sein")
                 for problem in notice_text_errors(archive.read(NOTICE_FILENAME)):
                     fail(f"{path}: {problem}")
             if len({name.casefold() for name in names}) != len(names):
