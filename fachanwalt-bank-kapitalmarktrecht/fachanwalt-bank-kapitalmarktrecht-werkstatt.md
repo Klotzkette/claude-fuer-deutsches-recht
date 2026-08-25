@@ -237,7 +237,7 @@ Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, 
 
 ### 16.6. P-Konto-Freibeträge und Nachzahlungen prüfen
 
-Bearbeitungsauftrag: Pfändungszugang, Umwandlung zum P-Konto, Gutschriften und Verfügungen nach Kalendermonaten ordnen. Unterhalt, Kindergeld, Sozialleistungen und Nachzahlungen einzeln klassifizieren. Prüfen, ob eine Bescheinigung nach Paragraf 903 ZPO genügt oder ein Antrag nach Paragraf 904, 905 oder 906 ZPO erforderlich.
+Bearbeitungsauftrag: Pfändungszugang, Umwandlung zum P-Konto, Gutschriften und Verfügungen nach Kalendermonaten ordnen. Unterhalt, Kindergeld, Sozialleistungen und Nachzahlungen einzeln klassifizieren. Prüfen, ob eine Bescheinigung nach Paragraf 903 ZPO genügt oder ein Antrag nach Paragraf 904, 905 oder 906 ZPO erforderlich ist.
 Prüfschritte: Ermittle monatsgenau, welcher Teil des Kontoguthabens geschützt ist und welcher Verfahrensweg zur Freigabe führt; Eine pauschale Aussage, die Bank müsse jedes Guthaben auszahlen, ist unzulässig; Für Neufälle ist die seit 01.12.2021 geltende Systematik der Paragrafen 899 bis 906 ZPO vorrangig anzuwenden.
 Lieferstück: Fachvotum zu P-Konto-Freibeträge und Nachzahlungen prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 

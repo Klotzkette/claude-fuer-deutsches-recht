@@ -25,6 +25,7 @@ Pro Vollprüfung:
 from __future__ import annotations
 import re
 from pathlib import Path
+from urllib.parse import quote
 
 REPO = Path(__file__).resolve().parent.parent
 OUT = REPO / 'testakten' / 'megaprompts'
@@ -95,29 +96,33 @@ def collect_skills(plugin_dir: Path) -> list[tuple[str, Path, str, str]]:
 GITHUB_BLOB = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main"
 
 
-def rewrite_relative_links(body: str, plugin: str) -> str:
+def rewrite_relative_links(body: str, skill_path: Path) -> str:
     """Schreibt Repo-interne relative Markdown-Links in absolute GitHub-URLs um.
 
     Im konkatenierten Vollprüfung funktionieren die urspruenglichen
-    `../../references/...`-Pfade nicht, weil die Datei unter
-    `testakten/megaprompts/<plugin>.md` liegt. Wir loesen sie zum Skill-
-    Verzeichnis hin auf und erzeugen GitHub-Blob-URLs.
+    Referenzpfade nicht, weil die Datei unter `testakten/megaprompts/` liegt.
+    Jeder lokale Pfad wird deshalb relativ zum ursprünglichen Skill-Verzeichnis
+    aufgelöst und als absolute Repository-URL ausgegeben.
     """
-    # Pattern: ](../*pfad) — wir ersetzen den (../)+ Praefix.
-    def repl(m: re.Match[str]) -> str:
-        ups = m.group(1).count('../')
-        rest = m.group(2)
-        # Skill liegt unter <plugin>/skills/<slug>/SKILL.md.
-        # Mit ups=3 wandert man zum Repo-Root. Sonst Pfad als-ist verwenden.
-        if ups >= 3:
-            return f"]({GITHUB_BLOB}/{rest})"
-        if ups == 2:
-            return f"]({GITHUB_BLOB}/{plugin}/{rest})"
-        if ups == 1:
-            return f"]({GITHUB_BLOB}/{plugin}/skills/{rest})"
-        return m.group(0)
 
-    return re.sub(r"\]\((\.\./(?:\.\./)*)([^)]+)\)", repl, body)
+    def repl(m: re.Match[str]) -> str:
+        target = m.group(1).strip()
+        if target.startswith(("http://", "https://", "mailto:", "#", "/")):
+            return m.group(0)
+        raw_path, separator, fragment = target.partition("#")
+        resolved = (skill_path.parent / raw_path).resolve()
+        try:
+            repo_path = resolved.relative_to(REPO.resolve())
+        except ValueError:
+            return m.group(0)
+        if not resolved.exists():
+            return m.group(0)
+        url = f"{GITHUB_BLOB}/{quote(repo_path.as_posix(), safe='/')}"
+        if separator:
+            url += f"#{fragment}"
+        return f"]({url})"
+
+    return re.sub(r"\]\(([^)]+)\)", repl, body)
 
 
 def build_megaprompt(plugin_dir: Path) -> str | None:
@@ -161,13 +166,13 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
     lines.append('---')
     lines.append('')
 
-    for slug, _, desc, body in skills:
+    for slug, skill_path, desc, body in skills:
         lines.append(f'## Skill: `{slug}`')
         lines.append('')
         if desc:
             lines.append(f'_{desc}_')
             lines.append('')
-        lines.append(rewrite_relative_links(body, plugin))
+        lines.append(rewrite_relative_links(body, skill_path))
         lines.append('')
         lines.append('---')
         lines.append('')

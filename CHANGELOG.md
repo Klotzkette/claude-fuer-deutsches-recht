@@ -1,3 +1,17 @@
+# v440.0.0 - Plugin-Laufzeit und Dateizugriff beschleunigt
+
+- Der installierbare Bestand wurde von 26461 auf 23821 Skills verdichtet. 2418 kleinteilige Normzugänge aus Kirchenrecht, Insolvenzrecht und Preußischem Allgemeinen Landrecht bleiben vollständig erhalten, liegen nun aber in 92 bedarfsgesteuerten Bereichsdateien mit drei schlanken Zugangsskills. Keine dieser Dateien überschreitet rund 60 KB.
+- Weitere 226 Staaten- und Gebietschecks des Migrationsrechts werden verlustfrei über einen Staaten-Navigator und 17 kleine Bereichsdateien erschlossen. Aktuelle Länder- und Behördeninformationen bleiben dem datierten Quellenabgleich vorbehalten.
+- Das frühere Extrempaket mit 1878 Skills umfasst dadurch noch 127 gezielte Skills. Kein Plugin überschreitet nun 500 Skills; das größte verbleibende Routingfeld liegt bei 389 Skills.
+- 106 umfangreiche Fachmodulkarten wurden aus den Einstiegsskills in lokale Referenzdateien ausgelagert. Der Einstieg wählt zuerst einen Primärskill und öffnet die vollständige Karte nur bei unklarer Zuordnung oder einer echten Schnittstellenfrage.
+- Sieben Skills mit mehr als 500 Zeilen wurden ohne Inhaltsverlust in Kernworkflow und bedarfsgesteuerte Vorlagen-, Diagramm- oder Vertiefungsdateien getrennt. Alle unmittelbar geladenen Skills bleiben nun innerhalb des Laufzeitbudgets.
+- Große lokale Ordner und Microsoft-365-Ablagen werden gestuft erschlossen: Metadaten zuerst, höchstens 20 Treffer in der ersten Sichtung, höchstens fünf tragende Unterlagen und Erweiterung nur für eine konkret benannte Beleglücke. Wiederholtes Öffnen bereits ausgewerteter Dateien wird vermieden.
+- Eine neue Release-Prüfung begrenzt Skillzahl, Beschreibungsumfang, Skilllänge, Paketgröße und Dateizahl je Plugin. Vollständige Fachmodulkataloge im Einstiegsskill führen künftig ebenfalls zu einem harten Fehler.
+- Die Markdown-Sammelpakete enthalten neben jeder `SKILL.md` nun auch deren bedarfsgesteuerte Markdown-Referenzen. Der Paketvalidator gleicht diese Dateien vollständig ab; der Vollprüfungs-Generator löst lokale Referenzlinks relativ zum Ursprungsskill auf und ist durch einen Regressionstest geschützt. Die Prompt-Kürzung bewahrt vollständige Sätze nun auch dann, wenn sie auf Hilfsverben wie „ist“ oder „sind“ enden.
+- Schnellstart, Installationshilfe und Hauptübersicht erklären die Ursachen langsamer Läufe und geben einen direkt verwendbaren Schnellpfad für große Akten vor. Alle Plugin-, Skill- und Asset-Indizes wurden auf den neuen Bestand aktualisiert.
+
+---
+
 # v439.5.1 - Testakten-Hinweise und Release-Prüfung gehärtet
 
 - Alle 323 zentralen Gesamt-PDFs wurden vollständig geprüft. Der verbindliche deutsche und englische Hinweis steht jeweils auf der ersten Seite und im gesamten PDF genau einmal.

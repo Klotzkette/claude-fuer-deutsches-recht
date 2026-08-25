@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 464 Skills (gekürzt für das Arbeitsfenster) des Plugins `preussisches-allgemeines-landrecht-pralr`.
+Diese Vollprüfung enthält top-8 von 209 Skills (gekürzt für das Arbeitsfenster) des Plugins `preussisches-allgemeines-landrecht-pralr`.
 
 ## Inhaltsverzeichnis
 

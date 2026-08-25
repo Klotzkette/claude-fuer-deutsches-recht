@@ -60,8 +60,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Aktenaufnahme, Relati
 - Paragrafen 313, 313a ZPO; Paragrafen 91 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 139 ZPO: Hinweise früh, konkret und aktenkundig; keine Überraschungsentscheidung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Artikel 103 Absatz 1 GG: entscheidungserheblicher Vortrag muss zur Kenntnis genommen und erwogen werden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
 - BGH, Beschluss vom 24.07.2018 - VI ZR 599/16: Geänderten, präzisierten oder berichtigten Parteivortrag nicht allein wegen des Widerspruchs zum früheren Vortrag ausblenden.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18: Auch bei einer Häufung von Indizien bleibt das Beweismaß des Paragraf 286 ZPO bestehen; Beweisfrage und spätere Würdigung dürfen nicht auf eine bloße Wahrscheinlichkeitsprüfung verkürzt werden.
 
 ## 7. Antwortform
 

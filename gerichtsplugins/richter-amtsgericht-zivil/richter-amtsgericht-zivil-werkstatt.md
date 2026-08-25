@@ -98,7 +98,7 @@ Entscheidungsgriff Arbeitsprodukt: Hinweisverfügung, Beweisbeschluss, Vergleich
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen |
+| BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird |
 | BGH, Urteil vom 01.10.2019 - VI ZR 164/18 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei einem Indizienbeweis alle belastenden und entlastenden Anzeichen würdigen; eine erhebliche Wahrscheinlichkeit ersetzt die nach Paragraf 286 ZPO erforderliche persönliche Überzeugung nicht |
 | BGH, Beschluss vom 24.07.2018 - VI ZR 599/16 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Geänderten, präzisierten oder berichtigten Parteivortrag nicht allein wegen des Widerspruchs zum früheren Vortrag unberücksichtigt lassen; der Widerspruch kann erst bei der Beweiswürdigung Bedeutung gewinnen |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren
@@ -123,7 +123,7 @@ Entscheidungsgriff Arbeitsprodukt: Hinweisverfügung, Beweisbeschluss, Vergleich
 
 ## 8. Leitentscheidungen
 
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
 - BGH, Urteil vom 01.10.2019 - VI ZR 164/18: Bei einem Indizienbeweis alle belastenden und entlastenden Anzeichen würdigen; eine erhebliche Wahrscheinlichkeit ersetzt die nach Paragraf 286 ZPO erforderliche persönliche Überzeugung nicht.
 - BGH, Beschluss vom 24.07.2018 - VI ZR 599/16: Geänderten, präzisierten oder berichtigten Parteivortrag nicht allein wegen des Widerspruchs zum früheren Vortrag unberücksichtigt lassen; der Widerspruch kann erst bei der Beweiswürdigung Bedeutung gewinnen.
 
@@ -203,18 +203,18 @@ Lieferstück: Entscheidungsbaustein zu Praxisraster Amtsgericht Zivil mit Antrag
 ### 16.2. Akte Erstdurchsicht
 
 Bearbeitungsauftrag: Akte Erstdurchsicht: Rechtsweg, sachliche Zuständigkeit, örtlichen Gerichtsstand und funktionelle Zuständigkeit zuerst prüfen. Klage nach Paragraf 253 ZPO auf Antrag, Parteien, Lebenssachverhalt, Bezifferung, Anlagen und Zustellfähigkeit kontrollieren. Verfahrensart festlegen: schriftliches Vorverfahren, früher erster Termin, Paragraf 495a ZPO oder Sonderzuständigkeit.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
 Lieferstück: Akten- und Belegmatrix zu Akte Erstdurchsicht mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
 
 ### 16.3. Urteilsentwurf Paragraf 313
 
-Bearbeitungsauftrag: Urteilsentwurf Paragraf 313: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann. Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft.
+Bearbeitungsauftrag: Urteilsentwurf Paragraf 313: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann. Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft sind.
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
 ### 16.4. Entscheidungsvorschlag Zur Richterlichen Prüfung
 
-Bearbeitungsauftrag: Entscheidungsvorschlag Zur Richterlichen Prüfung: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann. Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft.
+Bearbeitungsauftrag: Entscheidungsvorschlag Zur Richterlichen Prüfung: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann. Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft sind.
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
@@ -231,7 +231,7 @@ Lieferstück: Entscheidungsbaustein zu Streitwert und Gerichtskosten mit Antrag,
 
 ### 16.7. Versäumnisurteil und Anerkenntnis
 
-Bearbeitungsauftrag: Versäumnisurteil und Anerkenntnis: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann. Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft.
+Bearbeitungsauftrag: Versäumnisurteil und Anerkenntnis: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann. Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft sind.
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
@@ -239,12 +239,12 @@ Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streit
 
 Bearbeitungsauftrag: Beweisaufnahme Kleine Zivilkammer: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen. Sachverständigenbeweis nur bei Fachfrage anordnen; Beweisfrage, Anknüpfungstatsachen und Vorschuss konkret formulieren. Parteianhörung, Parteivernehmung und richterliche Würdigung voneinander trennen.
 Prüfschritte: Eine erhebliche Wahrscheinlichkeit ersetzt die nach Paragraf 286 ZPO erforderliche persönliche Überzeugung nicht.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen; Eine erhebliche Wahrscheinlichkeit ersetzt die nach Paragraf 286 ZPO erforderliche persönliche Überzeugung nicht.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird; Eine erhebliche Wahrscheinlichkeit ersetzt die nach Paragraf 286 ZPO erforderliche persönliche Überzeugung nicht.
 Lieferstück: Beweismatrix zu Beweisaufnahme Kleine Zivilkammer mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
 
 ### 16.9. Tenor und Kostenentscheidung
 
-Bearbeitungsauftrag: Tenor und Kostenentscheidung: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen. Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft.
+Bearbeitungsauftrag: Tenor und Kostenentscheidung: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen. Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft sind.
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
@@ -252,13 +252,13 @@ Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streit
 
 Bearbeitungsauftrag: Relation Zivilrecht Klein: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen. Klägervortrag auf Schlüssigkeit prüfen und fehlende Tatsachen als Hinweis nach Paragraf 139 ZPO formulieren.
 Prüfschritte: Ein Widerspruch rechtfertigt kein prozessuales Ausblenden und gehört gegebenenfalls in die Beweiswürdigung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
 ### 16.11. Vergleich und Erledigung
 
 Bearbeitungsauftrag: Vergleich und Erledigung: Anerkenntnis, Säumnis, Vergleich, Erledigung und Klagerücknahme als unterschiedliche Prozesslagen trennen. Zeitpunkt und Umfang bestimmen: vor oder nach Rechtshängigkeit, vollständig oder teilweise, einseitig oder übereinstimmend.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
 Lieferstück: Verhandlungsblatt zu Vergleich und Erledigung mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
 
 ### 16.12. Eingangsprüfung Zuständigkeit

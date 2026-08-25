@@ -1,0 +1,49 @@
+# 1. Bereichsindex: CIC-Canones
+
+Wähle anhand des Suchbegriffs genau eine Bereichsdatei. Suche dort nach dem exakten `Suchbegriff` und lies nur den Abschnitt bis zur nächsten Überschrift. Weitere Dateien werden erst bei einer ausdrücklichen Verweisung oder einem notwendigen systematischen Zusammenhang geöffnet.
+
+| Von | Bis | Einträge | Datei |
+| --- | --- | ---: | --- |
+| `cic-can-0001` | `cic-can-0043` | 43 | [bereich-01.md](bereich-01.md) |
+| `cic-can-0044` | `cic-can-0086` | 43 | [bereich-02.md](bereich-02.md) |
+| `cic-can-0087` | `cic-can-0129` | 43 | [bereich-03.md](bereich-03.md) |
+| `cic-can-0130` | `cic-can-0172` | 43 | [bereich-04.md](bereich-04.md) |
+| `cic-can-0173` | `cic-can-0215` | 43 | [bereich-05.md](bereich-05.md) |
+| `cic-can-0216` | `cic-can-0259` | 44 | [bereich-06.md](bereich-06.md) |
+| `cic-can-0260` | `cic-can-0303` | 44 | [bereich-07.md](bereich-07.md) |
+| `cic-can-0304` | `cic-can-0347` | 44 | [bereich-08.md](bereich-08.md) |
+| `cic-can-0348` | `cic-can-0391` | 44 | [bereich-09.md](bereich-09.md) |
+| `cic-can-0392` | `cic-can-0435` | 44 | [bereich-10.md](bereich-10.md) |
+| `cic-can-0436` | `cic-can-0479` | 44 | [bereich-11.md](bereich-11.md) |
+| `cic-can-0480` | `cic-can-0523` | 44 | [bereich-12.md](bereich-12.md) |
+| `cic-can-0524` | `cic-can-0567` | 44 | [bereich-13.md](bereich-13.md) |
+| `cic-can-0568` | `cic-can-0611` | 44 | [bereich-14.md](bereich-14.md) |
+| `cic-can-0612` | `cic-can-0655` | 44 | [bereich-15.md](bereich-15.md) |
+| `cic-can-0656` | `cic-can-0699` | 44 | [bereich-16.md](bereich-16.md) |
+| `cic-can-0700` | `cic-can-0743` | 44 | [bereich-17.md](bereich-17.md) |
+| `cic-can-0744` | `cic-can-0769` | 26 | [bereich-18.md](bereich-18.md) |
+| `cic-can-0770` | `cic-can-0793` | 24 | [bereich-19.md](bereich-19.md) |
+| `cic-can-0794` | `cic-can-0817` | 24 | [bereich-20.md](bereich-20.md) |
+| `cic-can-0818` | `cic-can-0848` | 31 | [bereich-21.md](bereich-21.md) |
+| `cic-can-0849` | `cic-can-0890` | 42 | [bereich-22.md](bereich-22.md) |
+| `cic-can-0891` | `cic-can-0932` | 42 | [bereich-23.md](bereich-23.md) |
+| `cic-can-0933` | `cic-can-0974` | 42 | [bereich-24.md](bereich-24.md) |
+| `cic-can-0975` | `cic-can-1016` | 42 | [bereich-25.md](bereich-25.md) |
+| `cic-can-1017` | `cic-can-1057` | 41 | [bereich-26.md](bereich-26.md) |
+| `cic-can-1058` | `cic-can-1098` | 41 | [bereich-27.md](bereich-27.md) |
+| `cic-can-1099` | `cic-can-1139` | 41 | [bereich-28.md](bereich-28.md) |
+| `cic-can-1140` | `cic-can-1180` | 41 | [bereich-29.md](bereich-29.md) |
+| `cic-can-1181` | `cic-can-1221` | 41 | [bereich-30.md](bereich-30.md) |
+| `cic-can-1222` | `cic-can-1263` | 42 | [bereich-31.md](bereich-31.md) |
+| `cic-can-1264` | `cic-can-1306` | 43 | [bereich-32.md](bereich-32.md) |
+| `cic-can-1307` | `cic-can-1349` | 43 | [bereich-33.md](bereich-33.md) |
+| `cic-can-1350` | `cic-can-1392` | 43 | [bereich-34.md](bereich-34.md) |
+| `cic-can-1393` | `cic-can-1435` | 43 | [bereich-35.md](bereich-35.md) |
+| `cic-can-1436` | `cic-can-1479` | 44 | [bereich-36.md](bereich-36.md) |
+| `cic-can-1480` | `cic-can-1523` | 44 | [bereich-37.md](bereich-37.md) |
+| `cic-can-1524` | `cic-can-1567` | 44 | [bereich-38.md](bereich-38.md) |
+| `cic-can-1568` | `cic-can-1611` | 44 | [bereich-39.md](bereich-39.md) |
+| `cic-can-1612` | `cic-can-1655` | 44 | [bereich-40.md](bereich-40.md) |
+| `cic-can-1656` | `cic-can-1699` | 44 | [bereich-41.md](bereich-41.md) |
+| `cic-can-1700` | `cic-can-1743` | 44 | [bereich-42.md](bereich-42.md) |
+| `cic-can-1744` | `cic-can-1752` | 9 | [bereich-43.md](bereich-43.md) |

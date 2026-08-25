@@ -60,7 +60,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Geschäftsmodell und 
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2 — Bei digitalen B2C-Vertragsschlüssen die Beschriftung der auslösenden Schaltfläche isoliert prüfen; nur deren Worte entscheiden, ob die Zahlungspflicht eindeutig erkennbar.
+- EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2 — Bei digitalen B2C-Vertragsschlüssen die Beschriftung der auslösenden Schaltfläche isoliert prüfen; nur deren Worte entscheiden, ob die Zahlungspflicht eindeutig erkennbar ist.
 
 ## 7. Antwortform
 

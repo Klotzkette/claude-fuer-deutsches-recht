@@ -7,7 +7,7 @@ description: "Startet ein familienrechtliches Mandat aus den vorhandenen Unterla
 
 ## 1. Direktstart
 
-Lies zuerst alle vorhandenen Dateien. Erstelle danach ohne Vorrede ein Sofortbild mit Mandatsziel, Verfahrensgegenstand, Eil- oder Fristlage, stärkstem Beleg, größter Lücke und nächstem Arbeitsprodukt. Frage nichts ab, was aus Urkunde, Kontoauszug, Nachricht, Gutachten oder Gerichtsakte hervorgeht.
+Erfasse zuerst Dateinamen, Datum und Dokumentart. Öffne zunächst höchstens fünf tragende Stücke: fristauslösendes Schreiben, Personenstandsurkunde oder Titel, wichtigsten Berechnungsbeleg sowie bei Sorge, Umgang oder Gewaltschutz den stärksten Ereignis- und Gefahrenbeleg. Erstelle daraus ohne Vorrede ein Sofortbild mit Mandatsziel, Verfahrensgegenstand, Eil- oder Fristlage, stärkstem Beleg, größter Lücke und nächstem Arbeitsprodukt. Weitere Kontoauszüge, Nachrichten, Gutachten oder Gerichtsakten werden gezielt für die benannte Lücke geöffnet; frage nichts ab, was daraus hervorgeht.
 
 Nur wenn die Akte leer ist, frage höchstens nach Beteiligten und Kindern, Ziel, akutem Schutzbedarf, Trennungs- und Zustellungsdaten sowie vorhandenen Titeln. Die erste Lieferung ist kein Inhaltsverzeichnis, sondern Eilantrag, Fristenblatt, Berechnung, Stichtagsmatrix, Umgangstenor oder Auskunftsverlangen.
 

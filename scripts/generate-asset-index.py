@@ -63,7 +63,7 @@ def main() -> int:
         "| --- | --- |",
         f"| [`marketplace.json`]({RELEASE}/marketplace.json) | Marketplace-Manifest für alle Plugins. |",
         f"| [`alle-plugins-megazip.zip`]({RELEASE}/alle-plugins-megazip.zip) | Alle installierbaren Plugin-ZIPs plus `marketplace.json`. |",
-        f"| [`alle-skills-markdown.zip`]({RELEASE}/alle-skills-markdown.zip) | Alle Skills als Markdown-Bundles, zusätzlich pro Plugin einzeln im Komplettpaket. |",
+        f"| [`alle-skills-markdown.zip`]({RELEASE}/alle-skills-markdown.zip) | Alle Skills samt zugehörigen Markdown-Referenzen als Markdown-Bundles, zusätzlich pro Plugin einzeln im Komplettpaket. |",
         f"| [`alle-testakten.zip`]({RELEASE}/alle-testakten.zip) | Sammelpaket der jeweils flachen Akten-ZIPs mit Originalformaten und zugehörigem Gesamt-PDF. |",
         f"| [`alle-testakten-einzelpdfs.zip`]({RELEASE}/alle-testakten-einzelpdfs.zip) | Sammelpaket der jeweils flachen Einzel-PDF-ZIPs; jede auswertbare Unterlage liegt darin als eigene A4-PDF vor. |",
         f"| [`alles-komplettpaket.zip`]({RELEASE}/alles-komplettpaket.zip) | Plugins, Skills, Testakten, Marketplace und Übersichten. Werkstatt und Schnellstart bleiben außerhalb der Archive als Markdown-Direktdownloads. |",

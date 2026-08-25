@@ -20,7 +20,7 @@ Der [Plugin-Katalog](./README.md#was-ist-drin) führt zu jeder Plugin-README. Do
 3. Die Markdown-Datei zusammen mit dem Arbeitsordner oder den relevanten Unterlagen öffnen.
 4. Diesen Startsatz verwenden:
 
-> Lies zuerst alle Dateien im ausgewählten Ordner. Beginne unmittelbar mit dem verlangten Arbeitsprodukt. Wenn nur der Prompt gestartet wurde, bestimme aus den Unterlagen selbst die passende Fachroute und liefere einen ersten belastbaren Stand. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
+> Erfasse zuerst alle Dateien im ausgewählten Ordner nach Name, Datum und Typ. Öffne zunächst höchstens fünf tragende Unterlagen und beginne unmittelbar mit dem verlangten Arbeitsprodukt. Wenn nur der Prompt gestartet wurde, bestimme daraus selbst die passende Fachroute und liefere einen ersten belastbaren Stand. Erweitere die Lektüre nur für eine benannte Beleglücke; frage einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre.
 
 Für einen Folgewunsch genügt die gewünschte Änderung, etwa „Rechne zusätzlich die Gegenvariante“, „Formuliere daraus die Klage“ oder „Kürze den Mandantenbrief“. Der bereits erarbeitete Aktenstand soll fortgeführt und nicht neu abgefragt werden.
 
@@ -58,14 +58,28 @@ Aktuelle Oberflächen- und Planvorgaben: [Plugins verwenden](https://support.cla
 
 | Eingangslage | Erwartetes Verhalten |
 | --- | --- |
-| Dateien oder Ordner vorhanden | Unterlagen zuerst lesen; Fundstellen und Fristen sichern; erstes Arbeitsprodukt liefern |
+| Dateien oder Ordner vorhanden | Bestand nach Metadaten erfassen; tragende Unterlagen zuerst lesen; Fundstellen und Fristen sichern; erstes Arbeitsprodukt liefern |
 | Konkretes Dokument verlangt | Mit diesem Dokument beginnen; kein allgemeines Lagebild voranstellen |
 | Nur Skill oder Prompt gestartet | Fachroute aus Dateinamen und Inhalt bestimmen; nicht nach dem Auftrag fragen |
 | Keine verwertbaren Unterlagen | genau eine gebündelte Frage zu den entscheidenden Angaben stellen |
 | Großer Ordner | nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und offene Dateien nennen |
 | Folgewunsch | Tatsachen, Berechnungen und Quellen beibehalten; nur die gewünschte Dimension ändern |
 
-## 6. Kurzer Funktionstest
+## 6. Große Akten und Microsoft 365 beschleunigen
+
+Lange Wartezeiten entstehen meist nicht beim Schreiben, sondern vor dem ersten Satz: Viele aktivierte Plugins vergrößern die Skill-Auswahl, eine unbestimmte Suche durchläuft zu viele Ablagen und wiederholtes Öffnen derselben Datei verbraucht unnötig Arbeitszeit. Diese Reihenfolge hält den Lauf klein:
+
+1. Nur die für den Vorgang benötigten Plugins aktiv lassen und danach eine neue Aufgabe öffnen. Für einen einzelnen Fall ist ein Einzel-Plugin oder Schnellstart regelmäßig schneller als eine breite Auswahl.
+2. Bei einem lokalen Arbeitsordner zuerst Dateinamen, Unterordner, Datum und Dateityp erfassen. Bei Microsoft 365 zusätzlich Website, Bibliothek oder Ordner, Zeitraum, Absender und einen genauen Suchbegriff nennen.
+3. Im ersten Durchgang höchstens 20 Treffer erfassen und höchstens fünf tragende Unterlagen öffnen. Erst bei einer benannten Beleglücke weiter suchen.
+4. PDF- und Word-Dokumente einmal lesen, Tabellen auf das einschlägige Blatt und den benötigten Bereich begrenzen und bei E-Mails den maßgeblichen Gesprächsverlauf statt des gesamten Postfachs öffnen.
+5. Nach der ersten Sichtung sofort einen Teilstand mit Fundstellen, Frist, Risiko und nächstem Arbeitsprodukt liefern. Bereits gewonnene Tatsachen und Extrakte werden weiterverwendet.
+
+Ein geeigneter Startsatz für große Ablagen lautet:
+
+> Arbeite in zwei Stufen. Erfasse zuerst nur Dateinamen und Metadaten, wähle höchstens fünf tragende Unterlagen und liefere daraus einen ersten belastbaren Stand. Erweitere die Suche nur für konkret benannte Beleglücken. Öffne keine bereits gelesene Datei erneut und frage nicht nach Angaben, die im Arbeitsordner stehen.
+
+## 7. Kurzer Funktionstest
 
 1. Ein Plugin aktivieren oder seinen Schnellstart öffnen.
 2. Zwei bis fünf zusammengehörige Dokumente bereitstellen.
@@ -73,7 +87,7 @@ Aktuelle Oberflächen- und Planvorgaben: [Plugins verwenden](https://support.cla
 
 Der erste Antwortblock soll bereits Ergebnisrichtung, Fundstelle, Frist oder Risiko und das nächste Arbeitsprodukt enthalten. Ein vorgeschalteter Fragenkatalog ist nur zulässig, wenn die Unterlagen die entscheidende Weiche tatsächlich nicht beantworten.
 
-## 7. Fehler schnell eingrenzen
+## 8. Fehler schnell eingrenzen
 
 | Problem | Nächster Schritt |
 | --- | --- |
@@ -82,6 +96,8 @@ Der erste Antwortblock soll bereits Ergebnisrichtung, Fundstelle, Frist oder Ris
 | Skill wird nicht vorgeschlagen | Plugin aktivieren und den Skill einmal über `/` oder `+` wählen |
 | Öffentliches Repository wird beim Organisations-Sync abgelehnt | privates oder internes Spiegelrepository verbinden; das öffentliche Original ist nur der Quellstand |
 | Marketplace-Sync dauert lange | bis zu 30 Minuten abwarten; für den sofortigen Start ein einzelnes Plugin-ZIP oder den Schnellstart verwenden |
+| Lauf mit Microsoft 365 bleibt bei der Suche lange offen | Ablageort, Zeitraum, Absender, Dateityp und Suchbegriff eingrenzen; zuerst höchstens 20 Treffer und fünf Kerndokumente öffnen |
+| Antwort wird nach mehreren Schritten langsamer | neue Aufgabe mit dem bisherigen Ergebnisstand beginnen und nur die benötigten Plugins aktiv lassen |
 | Antwort fragt vorhandene Angaben erneut ab | auf den Arbeitsordner verweisen und „Dateien zuerst, dann Erstprodukt“ ergänzen |
 | Markdown wird nur im Browser angezeigt | den HTML-Download in der Plugin-README oder den [Download-Index](./ASSET_INDEX.md) verwenden |
 

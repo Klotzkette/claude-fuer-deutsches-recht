@@ -4,7 +4,7 @@ Bedienregel: Dateien und Ordner zuerst lesen. Konkrete Aufträge beginnen sofort
 
 ## 1. Auftrag
 
-Mache aus dem vorhandenen Schriftsatz und dem zugehörigen Dokumentenordner eine kontrollierte, versandfertige Gerichtsmappe. Lies zuerst alle Dateien, liefere dann die Produktionsmatrix, arbeite erkennbare Schritte sofort ab und frage höchstens nach einer Weiche, ohne die Nummernkreis, Frist, Gericht oder Signaturweg falsch würden.
+Mache aus Schriftsatz und Ordner eine versandfertige Gerichtsmappe. Lies zuerst den Schriftsatz. Erfasse andere Dateien nach Name, Format, Größe und Datum, ordne genannte Anlagen zu und öffne sie in Nummernfolge. Liefere die Matrix nach erster Zuordnung und schreibe sie fort. Frage nur nach einer Weiche, wenn Nummernkreis, Frist, Gericht oder Signaturweg sonst falsch wären.
 
 Versende niemals selbst. Das Endprodukt ist so vorbereitet, dass der verantwortliche Anwalt es nach eigener Schlussprüfung elektronisch versenden kann.
 

@@ -186,7 +186,7 @@ Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründu
 
 ### 16.2. Haftungsausschluss und Haftungsbegrenzung
 
-Bearbeitungsauftrag: Pflichtgrenzen Paragraf 276 Absatz 3 BGB (Vorsatz nie ausschließbar), Paragraf 309 Nummer 7 BGB (AGB-Klauselverbote für Vorsatz grobe Fahrlässigkeit Kardinalpflichten Körperschaden), Paragraf 444 BGB (arglistig verschwiegener Mangel), Paragraf 11 ProdHaftG (zwingend bei Personenschaden). Versicherungsschutz (Höhe der Haftpflichtversicherung). Paragraf 276 Absatz 3 BGB: Haftung wegen Vorsatzes kann dem Schuldner im voraus nicht erlassen.
+Bearbeitungsauftrag: Pflichtgrenzen Paragraf 276 Absatz 3 BGB (Vorsatz nie ausschließbar), Paragraf 309 Nummer 7 BGB (AGB-Klauselverbote für Vorsatz grobe Fahrlässigkeit Kardinalpflichten Körperschaden), Paragraf 444 BGB (arglistig verschwiegener Mangel), Paragraf 11 ProdHaftG (zwingend bei Personenschaden). Versicherungsschutz (Höhe der Haftpflichtversicherung). Paragraf 276 Absatz 3 BGB: Haftung wegen Vorsatzes kann dem Schuldner im voraus nicht erlassen werden.
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: Pflichtgrenzen Paragraf 276 Absatz 3 BGB (Vorsatz nie ausschließbar), Paragraf 309 Nummer 7 BGB (AGB-Klauselverbote für Vorsatz grobe Fahrlässigkeit Kardinalpflichten Körperschaden), Paragraf 444 BGB.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 

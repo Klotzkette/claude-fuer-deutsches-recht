@@ -2640,6 +2640,11 @@ def balance_inline_delimiters(text: str) -> str:
 
 def finish_truncated_excerpt(text: str) -> str:
     text = balance_inline_delimiters(text)
+    # Eine vorhandene Satzgrenze ist ein bewusster, vollständiger Abschluss.
+    # Funktionswörter wie "ist" oder "sind" dürfen dann nicht als vermeintlich
+    # abgeschnittener Ausklang entfernt werden.
+    if text.rstrip().endswith((".", "!", "?")):
+        return text.rstrip()
     words = text.rstrip().split(" ")
     while len(words) > 1 and words[-1].lower().strip(" ,.;:") in DANGLING_EXCERPT_WORDS:
         words.pop()

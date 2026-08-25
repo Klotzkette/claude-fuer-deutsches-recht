@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v439.5.1`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v440.0.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 26461 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 23821 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -90,12 +90,12 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [fachanwalt-familienrecht](./fachanwalt-familienrecht.md) (159 Skills)
 - [fachanwalt-gewerblicher-rechtsschutz](./fachanwalt-gewerblicher-rechtsschutz.md) (109 Skills)
 - [fachanwalt-handels-gesellschaftsrecht](./fachanwalt-handels-gesellschaftsrecht.md) (96 Skills)
-- [fachanwalt-insolvenz-sanierungsrecht](./fachanwalt-insolvenz-sanierungsrecht.md) (507 Skills)
+- [fachanwalt-insolvenz-sanierungsrecht](./fachanwalt-insolvenz-sanierungsrecht.md) (98 Skills)
 - [fachanwalt-internationales-wirtschaftsrecht](./fachanwalt-internationales-wirtschaftsrecht.md) (79 Skills)
 - [fachanwalt-it-recht](./fachanwalt-it-recht.md) (139 Skills)
 - [fachanwalt-medizinrecht](./fachanwalt-medizinrecht.md) (160 Skills)
 - [fachanwalt-miet-wohnungseigentumsrecht](./fachanwalt-miet-wohnungseigentumsrecht.md) (384 Skills)
-- [fachanwalt-migrationsrecht](./fachanwalt-migrationsrecht.md) (462 Skills)
+- [fachanwalt-migrationsrecht](./fachanwalt-migrationsrecht.md) (237 Skills)
 - [fachanwalt-sozialrecht](./fachanwalt-sozialrecht.md) (115 Skills)
 - [fachanwalt-sportrecht](./fachanwalt-sportrecht.md) (79 Skills)
 - [fachanwalt-strafrecht](./fachanwalt-strafrecht.md) (242 Skills)
@@ -215,7 +215,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [patentrecherche](./patentrecherche.md) (58 Skills)
 - [patentrecht](./patentrecht.md) (61 Skills)
 - [phishing-vorfall-pruefer](./phishing-vorfall-pruefer.md) (61 Skills)
-- [preussisches-allgemeines-landrecht-pralr](./preussisches-allgemeines-landrecht-pralr.md) (464 Skills)
+- [preussisches-allgemeines-landrecht-pralr](./preussisches-allgemeines-landrecht-pralr.md) (209 Skills)
 - [private-equity-praxis](./private-equity-praxis.md) (109 Skills)
 - [produktrecht](./produktrecht.md) (70 Skills)
 - [prozessrecht](./prozessrecht.md) (66 Skills)
@@ -241,7 +241,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [richter-sozialgericht](./richter-sozialgericht.md) (14 Skills)
 - [richter-verwaltungsgericht](./richter-verwaltungsgericht.md) (14 Skills)
 - [robotik-recht](./robotik-recht.md) (213 Skills)
-- [roemisch-katholisches-kirchenrecht](./roemisch-katholisches-kirchenrecht.md) (1878 Skills)
+- [roemisch-katholisches-kirchenrecht](./roemisch-katholisches-kirchenrecht.md) (127 Skills)
 - [roemisches-recht](./roemisches-recht.md) (285 Skills)
 
 ### S

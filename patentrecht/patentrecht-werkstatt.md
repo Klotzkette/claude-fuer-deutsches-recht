@@ -243,12 +243,13 @@ Bearbeitungsauftrag: EPA-Einspruch: nach Erteilung innerhalb der EPÜ-Frist; zen
 Prüfschritte: Parallelität: Verletzungsverfahren, UPC, BPatG, EPA und Vergleichsverhandlungen koordinieren.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.11. Freedom-to-Operate und Schutzbereich
+### 16.11. EPÜ: Einspruch, Beschwerde und Beschränkung
+
+Bearbeitungsauftrag: Mündliche Verhandlung und technische Argumentationslinie vorbereiten. Auswirkungen auf UPC/nationale Verfahren abgleichen. internationaler-patentrechts-und-ländercheck, wenn weitere Länder oder Patentfamilien betroffen sind.
+Prüfschritte: Welche Rolle hat der Nutzer: Anmelder, Patentinhaber, Angreifer, Beklagter, Investor, Vertrieb, Lizenznehmer oder Local Counsel?
+Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+
+### 16.12. Freedom-to-Operate und Schutzbereich
 
 Bearbeitungsauftrag: Einwendungen: Nichtigkeit, Vorbenutzung, Erschöpfung, Lizenz, Verwirkung, experimentelle Nutzung. Design-around: technische Alternativen und Restgefahren. Das Ergebnis ist eine risikogewichtete Recherche und Prüfung auf Grundlage der konkret geprüften Schutzrechte und Datenbanken.
 Lieferstück: Fachvotum zu Freedom-to-Operate und Schutzbereich mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Gebrauchsmuster oder Patent
-
-Bearbeitungsauftrag: Gebrauchsmuster: schneller Registerschutz, aber ungeprüft und nicht für jede Technik passend. Geheimhaltung: wenn Reverse Engineering schwer und Offenbarung schädlich wäre. Defensive Veröffentlichung: wenn Schutz nicht gesucht wird, aber Dritten Patentierung erschwert werden soll.
-Lieferstück: Fachvotum zu Gebrauchsmuster oder Patent mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

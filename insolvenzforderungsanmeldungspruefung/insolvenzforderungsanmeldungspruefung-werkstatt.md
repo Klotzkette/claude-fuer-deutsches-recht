@@ -189,7 +189,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | --- | --- | --- |
 | Schuldnerwiderspruch nach Paragraf 184 InsO | Schuldnerwiderspruch nach Paragraf 184 InsO prüfen und Fristen einhalten: Anwendungsfall Schuldner widerspricht Forderung und bei titulierten Forderungen läuft Monatsfrist für Aufnahme des Rechtsstreits. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | Verteilung bei bestrittenen Forderungen | Verteilung bei bestrittenen Forderungen nach Paragraf 189 InsO: Anwendungsfall Insolvenzverwalter bereitet Abschlags- oder Schlussverteilung vor und muss bestrittene Forderungen korrekt zurückbehalten oder ausklammern. | Fachvotum zu Verteilung bei bestrittenen Forderungen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Formalprüfung nach Paragraf 174 InsO | Formalprüfung Forderungsanmeldung nach Paragraf 174 InsO: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle prüft ob eingegangene Anmeldung Mindestangaben hat und tabellenfähig. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| Formalprüfung nach Paragraf 174 InsO | Formalprüfung Forderungsanmeldung nach Paragraf 174 InsO: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle prüft ob eingegangene Anmeldung Mindestangaben hat und tabellenfähig ist. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Nachforderung und Mängelschreiben | Mängel- und Nachforderungsschreiben bei unvollständigen Insolvenzanmeldungen: Anwendungsfall Forderungsanmeldung nach Paragraf 174 InsO hat Mängel und Insolvenzverwalter muss Gläubiger präzise und freundlich. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
 | Nachträgliche Anmeldung nach Paragraf 177 InsO | Verspätete und nachträgliche Forderungsanmeldungen nach Paragraf 177 InsO: Anwendungsfall Gläubiger meldet Forderung nach Ablauf der Anmeldefrist an oder ändert bereits angemeldete Forderung. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
 | Streitige Forderung und Feststellungsklage | Streitige Forderungen nach Paragrafen 179 und 180 InsO nachverfolgen: Anwendungsfall Forderung wurde beim Prüfungstermin bestritten und Gläubiger muss Feststellungsklage erheben oder laufenden Rechtsstreit aufnehmen. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
@@ -216,7 +216,7 @@ Lieferstück: Fachvotum zu Verteilung bei bestrittenen Forderungen mit Tatbestan
 ### 16.3. Formalprüfung nach Paragraf 174 InsO
 
 Bearbeitungsauftrag: Formalprüfung Forderungsanmeldung nach Paragraf 174 InsO: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle prüft ob eingegangene Anmeldung Mindestangaben hat und tabellenfähig ist. Paragraf 174 InsO Pflichtinhalt, Paragraf 175 InsO Tabelle, Paragraf 176 InsO Prüfungstermin. Abgrenzung zu Grund-Betrag-Zinsen für inhaltliche Prüfung und zu Intake-Kanalcheck.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Formalprüfung Forderungsanmeldung nach Paragraf 174 InsO: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle prüft ob eingegangene Anmeldung Mindestangaben hat und tabellenfähig.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: Formalprüfung Forderungsanmeldung nach Paragraf 174 InsO: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle prüft ob eingegangene Anmeldung Mindestangaben hat und tabellenfähig ist.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.4. Nachforderung und Mängelschreiben
@@ -262,7 +262,7 @@ Lieferstück: Fachvotum zu Tabellenauszug und Feststellungswirkung mit Tatbestan
 ### 16.11. Tabellenimport nach Paragraf 175 InsO
 
 Bearbeitungsauftrag: Tabelleneintrag und Tabellenimport nach Paragraf 175 InsO: Anwendungsfall Forderungen sind geprüft und müssen in gerichtliche Tabelle überführt werden oder CSV-Import in Verwaltungssoftware vorbereitet werden. Paragraf 175 InsO Tabelle, Paragraf 176 InsO Prüfungstermin, InsO-Table-Standard. Abgrenzung zu Prüfentscheidung und zu Tabellenauszug-178.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Tabelleneintrag und Tabellenimport nach Paragraf 175 InsO: Anwendungsfall Forderungen sind geprüft und müssen in gerichtliche Tabelle überführt werden oder CSV-Import in Verwaltungssoftware vorbereitet.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: Tabelleneintrag und Tabellenimport nach Paragraf 175 InsO: Anwendungsfall Forderungen sind geprüft und müssen in gerichtliche Tabelle überführt werden oder CSV-Import in Verwaltungssoftware vorbereitet werden.
 Lieferstück: Fachvotum zu Tabellenimport nach Paragraf 175 InsO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.12. Grund, Betrag und Zinsen

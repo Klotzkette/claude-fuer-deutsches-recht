@@ -203,7 +203,7 @@ Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, 
 
 ### 16.4. Phish: Banking-Trojaner Haftung
 
-Bearbeitungsauftrag: Bearbeite Phish: Banking-Trojaner Haftung entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen.
+Bearbeitungsauftrag: Bearbeite Phish: Banking-Trojaner Haftung entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.5. Phishing + Arbeitnehmerhaftung
@@ -223,7 +223,7 @@ Lieferstück: Fachvotum zu beA-Notfall bei Anwalts-PC mit Tatbestandsmerkmalen, 
 
 ### 16.8. TAN-Verfahren und Haftung
 
-Bearbeitungsauftrag: Bearbeite TAN-Verfahren und Haftung entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen.
+Bearbeitungsauftrag: Bearbeite TAN-Verfahren und Haftung entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.9. Phish: CEO-Fraud Konzern

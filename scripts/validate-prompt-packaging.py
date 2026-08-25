@@ -34,6 +34,23 @@ def assert_archive_clean(path: Path) -> None:
         fail(f"{path}: Hilfsprompts im ZIP gefunden: {', '.join(found)}")
 
 
+def assert_skill_markdown_complete(path: Path, plugin_dir: Path, plugin_name: str) -> None:
+    """Stellt sicher, dass SKILL.md und unterstützende Markdown-Dateien enthalten sind."""
+    expected = {
+        f"{plugin_name}/{source.relative_to(plugin_dir).as_posix()}"
+        for source in (plugin_dir / "skills").rglob("*.md")
+        if source.is_file()
+    }
+    expected.add(f"{plugin_name}/README.md")
+    with zipfile.ZipFile(path) as archive:
+        names = set(archive.namelist())
+    missing = sorted(expected - names)
+    if missing:
+        preview = ", ".join(missing[:5])
+        suffix = " ..." if len(missing) > 5 else ""
+        fail(f"{path}: {len(missing)} Skill-Markdowns fehlen: {preview}{suffix}")
+
+
 def main() -> None:
     repo_root = Path(__file__).resolve().parent.parent
     dist_dir = Path(sys.argv[1]) if len(sys.argv) > 1 else repo_root / "dist"
@@ -55,7 +72,9 @@ def main() -> None:
                 fail(f"Direkter Markdown-Download fehlt: {prompt}")
 
         assert_archive_clean(dist_dir / f"{name}.zip")
-        assert_archive_clean(dist_dir / "skills-markdown" / f"{name}-skills-markdown.zip")
+        skill_bundle = dist_dir / "skills-markdown" / f"{name}-skills-markdown.zip"
+        assert_archive_clean(skill_bundle)
+        assert_skill_markdown_complete(skill_bundle, plugin_dir, name)
 
     combined_path = dist_dir / "skills-markdown" / "alle-skills-markdown.zip"
     if not combined_path.is_file():

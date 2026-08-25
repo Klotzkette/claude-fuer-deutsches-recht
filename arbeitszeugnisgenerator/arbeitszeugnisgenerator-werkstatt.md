@@ -255,14 +255,14 @@ Bearbeitungsauftrag: Zeugnisse für Teilzeitbeschäftigte und Personen mit Elter
 Prüfschritte: Teilzeitarbeit darf nicht als Grund für eine ungünstigere Bewertung dienen; Ob der Umfang genannt wird, richtet sich nach Wahrheit, Zeugniszweck, Relevanz und einem erkennbaren Wunsch des Arbeitnehmers; In der Regel nicht, wenn der Umfang für Tätigkeitsbild und zeitliche Einordnung ohne Bedeutung ist; Ja, wenn der Umfang für Verantwortung, Schichtmodell oder Zeitraum sachlich relevant ist oder der Arbeitnehmer seine Aufnahme wünscht.
 Lieferstück: Fachvotum zu Teilzeit und Elternzeit im Zeugnis mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Compliance- und Integritäts-Formeln
+### 16.11. Frequenzadverbien-Katalog
 
-Bearbeitungsauftrag: Integrität und Compliance korrekt formulieren und riskante Codes vermeiden, die Vertrauensbrüche oder Loyalitätsprobleme suggerieren. Ihr/Sein Verhalten war stets vertrauenswürdig und regelkonform. Frau/Herr [Name] verhielt sich korrekt und im Rahmen der betrieblichen Anforderungen.
-Prüfschritte: Zu prüfen ist, ob das Zeugnis die prägende Vermögens-, Daten- oder Vertrauensverantwortung insgesamt wahr und aussagekräftig abbildet; Frau/Herr [Name] handelte stets integer, vertrauenswürdig und im besten Interesse des Unternehmens; Ihr/Sein Verhalten war zu jeder Zeit von höchster Loyalität und absoluter Zuverlässigkeit geprägt; Vertrauliche Informationen behandelte sie/er stets mit größter Diskretion; Frau/Herr [Name] war stets loyal und verantwortungsbewusst.
-Lieferstück: Kontrollvermerk zu Compliance- und Integritäts-Formeln mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
-
-### 16.12. Frequenzadverbien-Katalog
-
-Bearbeitungsauftrag: Frequenzadverbien von Qualitätsaussagen unterscheiden und ihre Wirkung im konkreten Satz prüfen. Frequenzadverbien beschreiben, wie oft etwas geschieht, nicht wie gut es geschieht. In Einzelsätzen Frequenz nur nennen, wenn gerade die Kontinuität eine belegte und relevante Aussage.
+Bearbeitungsauftrag: Frequenzadverbien von Qualitätsaussagen unterscheiden und ihre Wirkung im konkreten Satz prüfen. Frequenzadverbien beschreiben, wie oft etwas geschieht, nicht wie gut es geschieht. In Einzelsätzen Frequenz nur nennen, wenn gerade die Kontinuität eine belegte und relevante Aussage ist.
 Prüfschritte: Nur die etablierte Zufriedenheitsformel lässt eine vergleichsweise belastbare Noteneinordnung zu; andere Wörter werden nicht mechanisch übersetzt; In der Zeugnissprache werden sie trotzdem als Qualitätssignale gelesen, weil sie die Erwartung von Kontinuität (impliziert durch „stets") unterschreiten; Echter Steigerer drückt Ausnahmslosigkeit aus; Frequenzadverb drückt Häufigkeit aus — das ist ein entscheidender Unterschied in der Zeugnisbewertung.
 Lieferstück: Fachvotum zu Frequenzadverbien-Katalog mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Langzeit-Arbeitsverhältnis
+
+Bearbeitungsauftrag: Ein zehnjähriges Arbeitsverhältnis hat besondere Merkmale:. Der Umfang folgt Tätigkeitsvielfalt und Zeugniszweck, nicht einer festen Seitenzahl. Während ihrer/seiner zehnjährigen Betriebszugehörigkeit hat Frau/Herr [Name] das Unternehmen maßgeblich mitgestaltet und durch herausragende Leistungen zur Unternehmensentwicklung beigetragen.
+Prüfschritte: Zeugnisse für langjährig Beschäftigte so verdichten, dass Rollenentwicklung, prägende Aufgaben und belastbare Leistungen sichtbar bleiben; Loyalität und Verlässlichkeit werden nur hervorgehoben, wenn die Tatsachen sie tragen; Prägende Positionsentwicklung und Karriereschritte müssen für ein zutreffendes Tätigkeitsbild erfasst werden.
+Lieferstück: Fachvotum zu Langzeit-Arbeitsverhältnis mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

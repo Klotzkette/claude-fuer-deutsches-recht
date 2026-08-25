@@ -194,8 +194,8 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Frühwarnsystem-Architektur mit Zwei-Jahres-Horizont | Ein Frühwarnsystem nach Paragraf 1 StaRUG ist kein Excel-Sheet in einer Schublade — es ist eine lebende Governance-Struktur. Paragraf 1 StaRUG (Krisenfrüherkennungspflicht). | Fachvotum zu Frühwarnsystem-Architektur mit Zwei-Jahres-Horizont mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Paragraf 1 StaRUG und die 24-Monats-Prognose richtig verbinden | Prüfe, welche Überwachungs-, Reaktions- und Berichtspflichten die Geschäftsleitung nach Paragraf 1 StaRUG treffen. Inhaltlich gilt: Paragraf 1 StaRUG nennt keinen festen 24-Monats-Zeitraum. | Fachvotum zu Paragraf 1 StaRUG und die 24-Monats-Prognose richtig verbinden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 | Drohende Zahlungsunfähigkeit nach Paragraf 18 InsO | Bestimme stichtagsbezogen, ob der Schuldner heute zahlungsfähig ist und voraussichtlich seine bestehenden Zahlungspflichten bei Fälligkeit erfüllen kann. | Fachvotum zu Drohende Zahlungsunfähigkeit nach Paragraf 18 InsO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Krisenmandat sofort belastbar starten | Sichere sichtbare Fristen, Kontostände, Fälligkeiten, Vollstreckungen und Organtermine. Bestimme den Stichtag und trenne sichere Tatsachen, streitige Positionen, Annahmen und fehlende Belege. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Krisenstadien-Diagnostik — IDW S 6 Stadienlehre | Die Stadienlehre des IDW S 6 ist mehr als ein akademisches Ordnungsraster. Sie ist das Diagnose-Werkzeug, das den Zeitpunkt der Krisenintervention bestimmt — und damit auch den Zeitpunkt, ab dem Paragraf 1 StaRUG. | Fachvotum zu Krisenstadien-Diagnostik — IDW S 6 Stadienlehre mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Restrukturierungsplan-Architektur | Erstelle oder prüfe einen Restrukturierungsplan vom gestaltbaren Rechtsverhältnis bis zum Vollzug. Prüfe Paragrafen 2 und 3 StaRUG rechtsverhältnisbezogen. | Fachvotum zu Restrukturierungsplan-Architektur mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -247,31 +247,32 @@ Prüfschritte: Lies zuerst Bankstände, OPOS, Verträge, Titel, Vollstreckungsun
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe drohende Zahlungsunfähigkeit nach Paragraf 18 InsO aus Liquiditätsstatus, Fälligkeiten und regelmäßig 24-monatiger Prognose.
 Lieferstück: Fachvotum zu Drohende Zahlungsunfähigkeit nach Paragraf 18 InsO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Krisenstadien-Diagnostik — IDW S 6 Stadienlehre
+### 16.8. Krisenmandat sofort belastbar starten
+
+Bearbeitungsauftrag: Sichere sichtbare Fristen, Kontostände, Fälligkeiten, Vollstreckungen und Organtermine. Bestimme den Stichtag und trenne sichere Tatsachen, streitige Positionen, Annahmen und fehlende Belege. Ordne den Fall getrennt nach Zahlungsunfähigkeit, Überschuldung, drohender Zahlungsunfähigkeit und bestandsgefährdender Entwicklung ein.
+Prüfschritte: Erfasse zuerst Dateinamen, Änderungsdatum, Dokumentart und Stichtagsbezug; Öffne im ersten Durchgang höchstens fünf tragende Quellen: aktuellen Liquiditätsstatus oder Kontostand, OPOS- oder Fälligkeitsliste, Finanzierungsstand, Vollstreckungs- oder Mahnstück und jüngsten Organbeschluss; Weitere Tabellen, Nachrichten und Planungsstände folgen nur für eine benannte Bilanz-, Prognose- oder Beleglücke; Beginne trotzdem nicht mit einer Inventarliste und frage keine Angaben erneut ab, die sich aus dem Material ergeben.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+
+### 16.9. Krisenstadien-Diagnostik — IDW S 6 Stadienlehre
 
 Bearbeitungsauftrag: Die Stadienlehre des IDW S 6 ist mehr als ein akademisches Ordnungsraster. Sie ist das Diagnose-Werkzeug, das den Zeitpunkt der Krisenintervention bestimmt — und damit auch den Zeitpunkt, ab dem Paragraf 1 StaRUG greift, ab dem Berater warnen müssen und ab dem der Geschäftsführer sein Pflichtenprofil neu kalibrieren muss. Wer das Stadium falsch einschätzt, handelt zu spät — und verliert den Zugang zu den effektiven Sanierungswerkzeugkästen.
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: Sie ist das Diagnose-Werkzeug, das den Zeitpunkt der Krisenintervention bestimmt — und damit auch den Zeitpunkt, ab dem Paragraf 1 StaRUG greift, ab dem Berater warnen müssen und ab.
 Lieferstück: Fachvotum zu Krisenstadien-Diagnostik — IDW S 6 Stadienlehre mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Restrukturierungsplan-Architektur
+### 16.10. Restrukturierungsplan-Architektur
 
-Bearbeitungsauftrag: Erstelle oder prüfe einen Restrukturierungsplan vom gestaltbaren Rechtsverhältnis bis zum Vollzug. Prüfe Paragrafen 2 und 3 StaRUG rechtsverhältnisbezogen. Bei gegenseitigen Verträgen ist eine Forderung nur insoweit gestaltbar, als die Gegenleistung bereits erbracht.
+Bearbeitungsauftrag: Erstelle oder prüfe einen Restrukturierungsplan vom gestaltbaren Rechtsverhältnis bis zum Vollzug. Prüfe Paragrafen 2 und 3 StaRUG rechtsverhältnisbezogen. Bei gegenseitigen Verträgen ist eine Forderung nur insoweit gestaltbar, als die Gegenleistung bereits erbracht ist.
 Prüfschritte: Beginne mit dem vorhandenen Plan, Datenraum und Finanzmodell; Liefere zuerst die Planlücken, die Gruppen- und Stimmrechtslage sowie den nächsten entscheidungsreifen Baustein; frage nicht erneut nach Unterlagen, die bereits im Ordner liegen; Gestaltbar sind insbesondere Restrukturierungsforderungen, Absonderungsanwartschaften, bestimmte Bedingungen mehrseitiger Finanzierungsverhältnisse, Beteiligungsrechte und unter den Voraussetzungen des Gesetzes gruppeninterne Drittsicherheiten.
 Lieferstück: Fachvotum zu Restrukturierungsplan-Architektur mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Integrierte Planung — GuV, Bilanz und Cashflow
+### 16.11. Integrierte Planung — GuV, Bilanz und Cashflow
 
 Bearbeitungsauftrag: Wer nur eine GuV-Planung vorlegt, hat keinen Finanzplan. Das Drei-Statement-Modell verknüpft Gewinn- und Verlustrechnung, Bilanz und Kapitalflussrechnung zu einer konsistenten Planung, die jedem Anspruch — ob IDW S 6, IDW S 11 oder Paragraf 1 StaRUG — standhält. Ohne diese Verknüpfung sind Restrukturierungskonzepte nicht belastbar und Fortführungsprognosen nicht fundiert.
 Lieferstück: Fachvotum zu Integrierte Planung — GuV, Bilanz und Cashflow mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Rollierende Liquiditätsplanung für 24 Monate
+### 16.12. Rollierende Liquiditätsplanung für 24 Monate
 
 Bearbeitungsauftrag: Baue aus Kontoauszügen, OPOS, Verträgen, Titeln, Steuer- und Sozialversicherungsdaten sowie Finanzierungsunterlagen eine stichtagsbezogene Liquiditätsplanung. Erfasse Kasse, Bankguthaben und tatsächlich frei verfügbare Kreditlinien. Noch zu verhandelnde Finanzierung ist keine sichere Liquidität, sondern eine Maßnahme mit Eintrittswahrscheinlichkeit und Long-Stop-Datum.
 Prüfschritte: Verwende vorhandene Dateien zuerst; Fehlende Angaben werden als konkrete Nachforderung mit Auswirkung auf Status oder Prognose bezeichnet; Jede braucht eigenen Stichtag, eigenen Zweck und nachvollziehbare Quellen; Eine Linie ist nur verfügbar, wenn Ziehungsvoraussetzungen erfüllt sind und keine Kündigung, Sperre oder Covenant-Folge entgegensteht.
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: Erstelle eine rollierende Liquiditätsplanung für Status, Drei-Wochen-Sicht, 13-Wochen-Steuerung und die regelmäßige 24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO.
 Lieferstück: Fachvotum zu Rollierende Liquiditätsplanung für 24 Monate mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Dokumentationspflicht und Protokollierung — Beweissicherung für Haftungsprozesse
-
-Bearbeitungsauftrag: Prüfraster: Krisenprotokoll-Templates, Sitzungsvorlagen, Schriftformerfordernis, Beweissicherung für spätere Haftungsprozesse. Output Krisenprotokoll-Vorlage, Sitzungsprotokoll-Template, Dokumentations-Checkliste. Abgrenzung: GF-Haftung in der Krise detail siehe gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.

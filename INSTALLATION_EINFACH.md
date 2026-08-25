@@ -84,11 +84,17 @@ Der [Plugin-Katalog](./README.md#was-ist-drin) führt zu allen 235 Startseiten. 
 
 Ein geeigneter Funktionstest lautet:
 
-> Lies zuerst alle vorhandenen Dateien. Prüfe die laufende Frist und liefere unmittelbar das nächste fachlich passende Schreiben. Frage nur gebündelt nach, wenn die Unterlagen die entscheidende Weiche nicht beantworten.
+> Erfasse zuerst alle Dateien nach Name, Datum und Typ. Öffne höchstens fünf tragende Unterlagen, prüfe die laufende Frist und liefere unmittelbar das nächste fachlich passende Schreiben. Erweitere die Lektüre nur für eine konkrete Beleglücke und frage nur gebündelt nach, wenn die Unterlagen die entscheidende Weiche nicht beantworten.
 
 Die Antwort soll die Unterlagen verwerten und nicht mit einem allgemeinen Fragenkatalog beginnen.
 
-## 7. Häufige Fehler
+## 7. Laufzeit bei großen Ablagen verbessern
+
+Aktiviere für einen konkreten Vorgang nur die tatsächlich benötigten Plugins und öffne nach einer Änderung eine neue Aufgabe. Bei Microsoft 365 wird die Suche schneller und genauer, wenn Website, Bibliothek oder Ordner, Zeitraum, Absender, Dateityp und ein prägnanter Suchbegriff vorgegeben sind. Der erste Durchgang soll höchstens 20 Treffer erfassen und höchstens fünf tragende Dokumente öffnen; erweitert wird nur für eine konkret benannte Beleglücke.
+
+Bereits gelesene Word- und PDF-Dateien werden nicht erneut geöffnet. Bei Tabellen genügt zunächst das einschlägige Blatt mit dem relevanten Zellbereich, bei E-Mails der genaue Gesprächsverlauf. Für einen einzelnen Fall bleibt der Schnellstart oder das Einzel-Plugin der schnellste Weg.
+
+## 8. Häufige Fehler
 
 | Symptom | Ursache | Lösung |
 | --- | --- | --- |
@@ -98,6 +104,8 @@ Die Antwort soll die Unterlagen verwerten und nicht mit einem allgemeinen Fragen
 | Öffentliches Repository wird abgelehnt | Organisations-Sync verlangt ein privates oder internes Repository | privaten oder internen Spiegel verbinden |
 | Marketplace zeigt nichts | Repository-Angabe, App-Zugriff oder Sync unvollständig | Spiegelrepository und Zugriff prüfen, dann **Update** wählen |
 | Erster Start dauert zu lange | kompletter Marketplace statt Einzel-Plugin | zunächst Einzel-ZIP oder Schnellstart-Markdown verwenden |
+| Microsoft-365-Suche läuft zu breit | Ablage und Suchziel nicht eingegrenzt | Website, Bibliothek oder Ordner, Zeitraum, Absender, Dateityp und Suchbegriff nennen; zunächst höchstens fünf Kerndokumente öffnen |
+| Spätere Antworten werden langsam | zu langer Aufgabenverlauf oder wiederholte Dateilektüre | neue Aufgabe mit kompaktem Ergebnisstand öffnen; bereits gewonnene Extrakte weiterverwenden |
 | Prompt fragt bekannte Daten erneut ab | Arbeitsordner nicht ausgewählt oder Auftrag zu abstrakt | Dateien bereitstellen und den Funktionstest aus Abschnitt 6 verwenden |
 
 Die kompakte Gesamtanleitung steht in [Schnellstart](./QUICKSTART.md). Fehler können mit Screenshot und gewähltem Dateinamen als [Issue](https://github.com/Klotzkette/claude-fuer-deutsches-recht/issues/new) gemeldet werden.

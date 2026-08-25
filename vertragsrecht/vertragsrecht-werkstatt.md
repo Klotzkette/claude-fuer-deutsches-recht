@@ -98,7 +98,7 @@ Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definit
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei digitalen B2C-Vertragsschlüssen die Beschriftung der auslösenden Schaltfläche isoliert prüfen; nur deren Worte entscheiden, ob die Zahlungspflicht eindeutig erkennbar |
+| EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei digitalen B2C-Vertragsschlüssen die Beschriftung der auslösenden Schaltfläche isoliert prüfen; nur deren Worte entscheiden, ob die Zahlungspflicht eindeutig erkennbar ist |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -121,7 +121,7 @@ Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definit
 
 ## 8. Leitentscheidungen
 
-- EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2 — Bei digitalen B2C-Vertragsschlüssen die Beschriftung der auslösenden Schaltfläche isoliert prüfen; nur deren Worte entscheiden, ob die Zahlungspflicht eindeutig erkennbar.
+- EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2 — Bei digitalen B2C-Vertragsschlüssen die Beschriftung der auslösenden Schaltfläche isoliert prüfen; nur deren Worte entscheiden, ob die Zahlungspflicht eindeutig erkennbar ist.
 
 ## 9. Prüfraster
 

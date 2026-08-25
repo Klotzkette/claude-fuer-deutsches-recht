@@ -242,7 +242,7 @@ Lieferstück: Fachvotum zu Arzneimittelabgabe Verschreibungspflicht mit Tatbesta
 
 ### 16.11. Import Einzelimport Paragraf 73 AMG
 
-Bearbeitungsauftrag: Einzelimport von Arzneimitteln aus dem Ausland gemäss Paragraf 73 Absatz 3 AMG. Reimport (Paragraf 129 SGB V, Bonusregelung) ist abzugrenzen. Patient hat seltenes Arzneimittel, das in D nicht zugelassen, im Ausland aber verfügbar.
+Bearbeitungsauftrag: Einzelimport von Arzneimitteln aus dem Ausland gemäss Paragraf 73 Absatz 3 AMG. Reimport (Paragraf 129 SGB V, Bonusregelung) ist abzugrenzen. Patient hat seltenes Arzneimittel, das in D nicht zugelassen, im Ausland aber verfügbar ist.
 Lieferstück: Fachvotum zu Import Einzelimport Paragraf 73 AMG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.12. Pharmazeutische Dienstleistungen Vergütung
