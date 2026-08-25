@@ -1,0 +1,25 @@
+name: Inkasso ModeFuchs Cowork-Sonderfall
+plugin: forderungsmanagement-klagewerkstatt
+checks:
+- id: r01-readme-vorhanden
+  check_type: file_exists
+  description: README.md vorhanden
+  path: README.md
+- id: r02-gesamt-pdf-vorhanden
+  check_type: file_exists
+  description: Gesamt-PDF gebaut
+  path: gesamt-pdf/inkasso-modefuchs-cowork-sonderfall_gesamt.pdf
+- id: r03-deutscher-hinweis-im-gesamt-pdf
+  check_type: text_contains
+  description: Der deutsche Pflicht-Hinweis steht im Gesamt-PDF.
+  path: gesamt-pdf/inkasso-modefuchs-cowork-sonderfall_gesamt.pdf
+  contains: Diese Testakte wurde mit KI generiert und ist ein Experiment.
+- id: r04-englischer-hinweis-im-gesamt-pdf
+  check_type: text_contains
+  description: Der englische Pflicht-Hinweis steht im Gesamt-PDF.
+  path: gesamt-pdf/inkasso-modefuchs-cowork-sonderfall_gesamt.pdf
+  contains: This test case file was generated with AI and is an experiment.
+- id: r05-mindestens-10-arbeitsunterlagen
+  check_type: working_file_count
+  description: Mindestens zehn exportierbare Arbeitsunterlagen vorhanden
+  min: 10

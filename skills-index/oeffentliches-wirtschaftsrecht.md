@@ -1,6 +1,6 @@
 # oeffentliches-wirtschaftsrecht
 
-**120 Skills** · Stand `v439.5.0`
+**120 Skills** · Stand `v439.5.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../oeffentliches-wirtschaftsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

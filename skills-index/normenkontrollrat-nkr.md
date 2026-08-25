@@ -1,6 +1,6 @@
 # normenkontrollrat-nkr
 
-**64 Skills** · Stand `v439.5.0`
+**64 Skills** · Stand `v439.5.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../normenkontrollrat-nkr/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

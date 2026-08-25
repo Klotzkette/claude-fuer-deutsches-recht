@@ -1,3 +1,13 @@
+# v439.5.1 - Testakten-Hinweise und Release-Prüfung gehärtet
+
+- Alle 323 zentralen Gesamt-PDFs wurden vollständig geprüft. Der verbindliche deutsche und englische Hinweis steht jeweils auf der ersten Seite und im gesamten PDF genau einmal.
+- Sämtliche 324 flachen Akten-ZIPs wurden neu gebaut und mit 8530 Dateien abgeglichen. `README.txt` liegt nicht nur eindeutig auf der Wurzelebene, sondern ist nun verpflichtend der erste ZIP-Eintrag und enthält bytegenau den zweisprachigen Wortlaut.
+- Die drei pluginlokalen Akten-ZIPs und ihre 24 Einzel-PDFs folgen derselben verschärften Prüfung. Jedes Einzel-PDF beginnt mit genau einer eigenen Warnseite.
+- Der neue ModeFuchs-Sonderfall wurde zusätzlich in allen drei Fassungen geprüft: Gesamt-PDF, Akten-ZIP und zehn getrennte Einzel-PDFs. Die bislang fehlende Rubrik ist ergänzt und prüft auch beide Warntexte im Gesamt-PDF.
+- Regressionstests und Release-Validatoren verhindern künftig, dass ein Akten-ZIP den Hinweis erst hinter anderen Dateien einsortiert. Marketplace-Import, Frontmatter, Aktenrubriken, PDF-Prüfung und Release-Bereitschaft sind grün.
+
+---
+
 # v439.5.0 - Cowork-Sonderfall ModeFuchs als Goodie-Testakte
 
 - Der Bestand wächst auf 323 zentrale Akten. Neu ist der Cowork-Sonderfall ModeFuchs: ein bewusst unsortierter Desktop-Übergabeordner eines Inkassounternehmens, gedacht als handliches Goodie zum Ausprobieren der Claude Cowork-Funktion.

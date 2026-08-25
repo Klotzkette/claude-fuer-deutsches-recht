@@ -251,6 +251,10 @@ def main() -> int:
             require(all("/" not in name for name in names), "Arbeitsakten-ZIP muss flach sein")
             require(not any(name.endswith(".md") for name in names), "Markdown darf nicht ins Akten-ZIP")
             require(NOTICE_FILENAME in names, "Arbeitsakten-ZIP braucht README.txt")
+            require(
+                names[0] == NOTICE_FILENAME,
+                "README.txt muss der erste Eintrag im Arbeitsakten-ZIP sein",
+            )
             require(built.read(NOTICE_FILENAME) == NOTICE_BYTES, "README.txt braucht verbindlichen Wortlaut")
             notice_text = built.read(NOTICE_FILENAME).decode("utf-8")
             require(NOTICE_DE in notice_text, "deutscher Hinweis fehlt in README.txt")
