@@ -1,6 +1,6 @@
 ---
 name: audit-barrierefreiheits-bfsg
-description: "Wenn es um Audit: Schriftsatz-, Brief- und Memo-Bausteine in Barrierefreiheit Web Checker geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Audit: Schriftsatz-, Brief- und Memo-Bausteine: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Audit: Schriftsatz-, Brief- und Memo-Bausteine

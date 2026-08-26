@@ -1,6 +1,6 @@
 ---
 name: versicherungen-gefahren-zvg
-description: "Wenn es um Versicherungen und Gefahren in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versicherungen und Gefahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versicherungen und Gefahren

@@ -1,6 +1,6 @@
 ---
 name: inv-015-forensic-imaging
-description: "Wenn es um Internal Investigation: Forensic Imaging in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internal Investigation: Forensic Imaging: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Forensic Imaging

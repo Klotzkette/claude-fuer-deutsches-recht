@@ -1,6 +1,6 @@
 ---
 name: dashboard-practice-group
-description: "Wenn es um Practice Group Dashboard in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Practice Group Dashboard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Practice Group Dashboard

@@ -1,6 +1,6 @@
 ---
 name: agb-rechtswahl-schweizer-recht-rom-i
-description: "Wenn es um Agb Rechtswahl Schweizer Recht Rom I in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Rechtswahl Schweizer Recht Rom I; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für AGB Rechtswahl Schweizer Recht Rom I: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: agb-rechtswahl-schweizer-recht-rom-i."
 ---
 
 # Agb Rechtswahl Schweizer Recht Rom I

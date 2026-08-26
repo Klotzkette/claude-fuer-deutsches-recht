@@ -1,6 +1,6 @@
 ---
 name: erbfolge-und-berechtigtenkette
-description: "Wenn es um Erbfolge Und Berechtigtenkette in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Erbfolge und Berechtigtenkette: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbfolge Und Berechtigtenkette

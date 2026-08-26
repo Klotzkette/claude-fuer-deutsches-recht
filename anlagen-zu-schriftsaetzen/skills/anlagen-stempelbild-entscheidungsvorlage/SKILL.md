@@ -1,6 +1,6 @@
 ---
 name: anlagen-stempelbild-entscheidungsvorlage
-description: "Wenn es um Stempelbild und Entscheidungsvorlage in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stempelbild und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Anlagen zu Schriftsätzen. Route: anlagen-stempelbild-entscheidungsvorlage."
 ---
 
 # Stempelbild und Entscheidungsvorlage

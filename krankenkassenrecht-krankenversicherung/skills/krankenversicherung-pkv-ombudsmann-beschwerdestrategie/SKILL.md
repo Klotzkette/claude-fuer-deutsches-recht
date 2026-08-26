@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-pkv-ombudsmann-beschwerdestrategie
-description: "Wenn es um PKV-Ombudsmann und Beschwerdestrategie in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PKV-Ombudsmann und Beschwerdestrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # PKV-Ombudsmann und Beschwerdestrategie

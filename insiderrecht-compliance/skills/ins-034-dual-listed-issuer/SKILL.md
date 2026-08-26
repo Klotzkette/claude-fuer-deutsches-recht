@@ -1,6 +1,6 @@
 ---
 name: ins-034-dual-listed-issuer
-description: "Wenn es um Insiderrecht: Dual-Listed Issuer in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Insiderrecht: Dual-Listed Issuer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Dual-Listed Issuer

@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-vermoegenswirksame-leistungen
-description: "Wenn es um Vermoegenswirksame Leistungen (VL) und AN-Sparzulage in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vermögenswirksame Leistungen (VL) und AN-Sparzulage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vermoegenswirksame Leistungen (VL) und AN-Sparzulage

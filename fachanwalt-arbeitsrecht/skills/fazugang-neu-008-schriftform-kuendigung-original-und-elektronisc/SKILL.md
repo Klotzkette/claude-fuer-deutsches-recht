@@ -1,6 +1,6 @@
 ---
 name: fazugang-neu-008-schriftform-kuendigung-original-und-elektronisc
-description: "Wenn es um Fazugang Neu 008 Schriftform Kuendigung Original Und Elektronisc in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fazugang Neu 008 Schriftform Kündigung Original und Elektronisc: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schriftform Kündigung Paragraf 623 BGB: Originalunterschrift zwingend, Faksimile unzulässig, elektronische Kommunikation (E-Mail, WhatsApp, Fax, Teams) genügt nicht

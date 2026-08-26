@@ -1,6 +1,6 @@
 ---
 name: finanzamt-anfrage-creator-exit
-description: "Wenn es um Influencer-Recht: Finanzamt – Anfrage beantworten in Influencer-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Finanzamt – Anfrage beantworten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Finanzamt – Anfrage beantworten

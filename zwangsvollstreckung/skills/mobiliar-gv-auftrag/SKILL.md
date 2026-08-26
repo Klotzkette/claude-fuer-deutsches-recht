@@ -1,6 +1,6 @@
 ---
 name: mobiliar-gv-auftrag
-description: "Wenn es um Mobiliarvollstreckung durch den Gerichtsvollzieher in Zwangsvollstreckung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mobiliarvollstreckung durch den Gerichtsvollzieher: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mobiliarvollstreckung durch den Gerichtsvollzieher

@@ -1,6 +1,6 @@
 ---
 name: fahrlaessigkeit-fehlerkatalog
-description: "Wenn es um Fahrlaessigkeit Fehlerkatalog in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fahrlässigkeit Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fahrlaessigkeit Fehlerkatalog

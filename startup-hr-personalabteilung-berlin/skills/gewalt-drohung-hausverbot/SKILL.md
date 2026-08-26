@@ -1,6 +1,6 @@
 ---
 name: gewalt-drohung-hausverbot
-description: "Wenn es um Gewalt Drohung Hausverbot in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gewalt Drohung Hausverbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gewalt Drohung Hausverbot

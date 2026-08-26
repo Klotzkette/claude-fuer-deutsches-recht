@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-management-participation-sweet-equity
-description: "Wenn es um Rechtsabteilung: Management Participation Sweet Equity in Private Equity Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsabteilung: Management Participation Sweet Equity: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Management Participation Sweet Equity

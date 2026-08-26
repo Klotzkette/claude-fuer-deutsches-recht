@@ -1,6 +1,6 @@
 ---
 name: samd-zweckbestimmung
-description: "Wenn es um Samd Zweckbestimmung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Samd Zweckbestimmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Software as Medical Device Zweckbestimmung: moderner Medizinrechts-Skill für Softwaregrenze Wellness-App/Medizinprodukt, Zweckbestimmung, CE und ärztliche Anwendung

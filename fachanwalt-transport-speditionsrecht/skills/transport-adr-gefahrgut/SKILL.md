@@ -1,6 +1,6 @@
 ---
 name: transport-adr-gefahrgut
-description: "Wenn es um Transport Adr Gefahrgut in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transport Adr Gefahrgut: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gefahrguttransport-Haftung und ADR-Verstoss klären: Gefahrgutkennzeichnung, Verantwortlichkeiten, Bußgelder

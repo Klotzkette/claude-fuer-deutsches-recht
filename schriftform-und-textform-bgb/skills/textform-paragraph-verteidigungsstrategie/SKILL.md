@@ -1,6 +1,6 @@
 ---
 name: textform-paragraph-verteidigungsstrategie
-description: "Wenn es um Textform Paragraf 126b BGB — Dauerhafter Datenträger in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Textform Paragraf 126b BGB — Dauerhafter Datenträger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Textform Paragraf 126b BGB — Dauerhafter Datenträger

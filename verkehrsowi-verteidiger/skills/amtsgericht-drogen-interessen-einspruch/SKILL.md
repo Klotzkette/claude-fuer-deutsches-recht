@@ -1,6 +1,6 @@
 ---
 name: amtsgericht-drogen-interessen-einspruch
-description: "Wenn es um Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage

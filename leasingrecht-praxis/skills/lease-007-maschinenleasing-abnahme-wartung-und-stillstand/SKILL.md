@@ -1,6 +1,6 @@
 ---
 name: lease-007-maschinenleasing-abnahme-wartung-und-stillstand
-description: "Wenn es um Leasingrecht: Maschinenleasing Abnahme Wartung und Stillstand in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Maschinenleasing Abnahme Wartung und Stillstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Maschinenleasing Abnahme Wartung und Stillstand

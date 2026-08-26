@@ -1,6 +1,6 @@
 ---
 name: investorprofil-lp-gp-family-office
-description: "Wenn es um Investorprofil: LP, GP, Family Office, Stiftung, Versicherung in Private Equity Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Investorprofil: LP, GP, Family Office, Stiftung, Versicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Investorprofil: LP, GP, Family Office, Stiftung, Versicherung

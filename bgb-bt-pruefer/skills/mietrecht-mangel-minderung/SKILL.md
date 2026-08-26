@@ -1,6 +1,6 @@
 ---
 name: mietrecht-mangel-minderung
-description: "Wenn es um Mietrecht: Mangel und Minderung Paragrafen 536 ff. BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mietrecht: Mangel und Minderung Paragrafen 536 ff. BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mietrecht: Mangel und Minderung §§ 536 ff. BGB

@@ -1,6 +1,6 @@
 ---
 name: quellen-rechtsprechungscheck
-description: "Wenn es um Quellen- und Rechtsprechungscheck in Berufsrecht Steuerberater geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Quellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Steuerberater."
 ---
 
 # Quellen- und Rechtsprechungscheck

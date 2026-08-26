@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-massenentlassung-17-kschg
-description: "Wenn es um Massenentlassung Paragraf 17 KSchG in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Massenentlassung Paragraf 17 KSchG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Massenentlassung Paragraf 17 KSchG

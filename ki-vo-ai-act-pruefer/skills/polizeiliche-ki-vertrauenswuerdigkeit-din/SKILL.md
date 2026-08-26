@@ -1,6 +1,6 @@
 ---
 name: polizeiliche-ki-vertrauenswuerdigkeit-din
-description: "Wenn es um Polizeiliche digitale Werkzeuge und Vertrauenswürdigkeit in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Polizeiliche digitale Werkzeuge und Vertrauenswürdigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Polizeiliche KI und Vertrauenswürdigkeit

@@ -1,6 +1,6 @@
 ---
 name: berufsgericht-beweisaufnahme-verteidigung
-description: "Wenn es um Berufsgericht Beweisaufnahme: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Berufsgericht Beweisaufnahme: Verteidigungs- und Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Berufsgericht Beweisaufnahme: Verteidigungs- und Kammerantwort

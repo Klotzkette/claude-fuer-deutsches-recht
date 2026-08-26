@@ -1,6 +1,6 @@
 ---
 name: telepharmazie-grenzen-chancen
-description: "Wenn es um Telepharmazie Grenzen Chancen in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Telepharmazie Grenzen Chancen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telepharmazie Grenzen Chancen

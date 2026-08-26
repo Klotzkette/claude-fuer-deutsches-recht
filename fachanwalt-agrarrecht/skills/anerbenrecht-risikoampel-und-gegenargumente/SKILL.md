@@ -1,6 +1,6 @@
 ---
 name: anerbenrecht-risikoampel-und-gegenargumente
-description: "Wenn es um Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Agrarrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien

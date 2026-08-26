@@ -1,6 +1,6 @@
 ---
 name: autobahnprojekt-vergabeweg-waehlen
-description: "Wenn es um Autobahnprojekt Vergabeweg Wählen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Autobahnprojekt Vergabeweg Wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Öffentliches Wirtschaftsrecht. Route: autobahnprojekt-vergabeweg-waehlen."
 ---
 
 # Autobahnprojekt Vergabeweg Wählen

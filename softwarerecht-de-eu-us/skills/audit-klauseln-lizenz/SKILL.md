@@ -1,6 +1,6 @@
 ---
 name: audit-klauseln-lizenz
-description: "Wenn es um Audit-Klauseln in Softwarelizenzen in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Audit-Klauseln in Softwarelizenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Audit-Klauseln in Softwarelizenzen

@@ -1,6 +1,6 @@
 ---
 name: inso-glaeubigerausschuss-praxis
-description: "Wenn es um InsO: Gläubigerausschuss in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für InsO: Gläubigerausschuss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Insolvenzrecht. Route: inso-glaeubigerausschuss-praxis."
 ---
 
 # InsO: Gläubigerausschuss

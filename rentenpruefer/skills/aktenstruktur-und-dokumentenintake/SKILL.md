@@ -1,6 +1,6 @@
 ---
 name: aktenstruktur-und-dokumentenintake
-description: "Wenn es um aktenstruktur-und-dokumentenintake in Rentenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für aktenstruktur-und-dokumentenintake: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # aktenstruktur-und-dokumentenintake

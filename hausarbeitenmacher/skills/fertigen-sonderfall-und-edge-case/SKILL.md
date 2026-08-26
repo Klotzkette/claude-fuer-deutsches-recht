@@ -1,6 +1,6 @@
 ---
 name: fertigen-sonderfall-und-edge-case
-description: "Wenn es um Fertigen: Sonderfall und Edge-Case-Prüfung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fertigen: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fertigen: Sonderfall und Edge-Case-Prüfung

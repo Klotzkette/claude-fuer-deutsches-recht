@@ -1,6 +1,6 @@
 ---
 name: backup-export-und-vendor-lock
-description: "Wenn es um Backup, Export und Vendor-Lock-in — Datenbankrecht und Datenmitnahme in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Backup, Export und Vendor-Lock-in — Datenbankrecht und Datenmitnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Backup, Export und Vendor-Lock-in — Datenbankrecht und Datenmitnahme

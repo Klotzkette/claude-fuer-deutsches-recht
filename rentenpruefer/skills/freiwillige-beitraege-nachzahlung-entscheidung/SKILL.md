@@ -1,6 +1,6 @@
 ---
 name: freiwillige-beitraege-nachzahlung-entscheidung
-description: "Wenn es um Freiwillige Beiträge Nachzahlung Entscheidung in Rentenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Freiwillige Beiträge Nachzahlung Entscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freiwillige Beiträge Nachzahlung Entscheidung

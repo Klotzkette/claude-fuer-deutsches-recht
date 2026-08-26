@@ -1,6 +1,6 @@
 ---
 name: grund-risikoampel-und-gegenargumente
-description: "Wenn es um Grund: Risikoampel, Gegenargumente und Verteidigungslinien in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grund: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Grund: Risikoampel, Gegenargumente und Verteidigungslinien

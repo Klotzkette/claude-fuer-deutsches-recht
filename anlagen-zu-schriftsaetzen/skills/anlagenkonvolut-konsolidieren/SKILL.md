@@ -1,6 +1,6 @@
 ---
 name: anlagenkonvolut-konsolidieren
-description: "Konsolidiert mehrere zusammengehörige Belegdateien zu einer gerichtstauglichen Anlage: liest den Bestand zuerst, trennt Dubletten und Fassungen, bestimmt Eltern- und Unteranlagen, erzeugt Deckblatt, Inhaltsliste, Seitenstempel und Lesezeichen, gleicht jeden Teil mit dem Beweisthema im Schriftsatz ab und liefert Einzelanlage, Prüfkonvolut, Hashprotokoll und konkrete Nachforderungsliste."
+description: "Konsolidiert mehrere zusammengehörige Belegdateien zu einer gerichtstauglichen Anlage: liest den Bestand zuerst, trennt Dubletten und Fassungen, bestimmt Eltern- und Unteranlagen, erzeugt Deckblatt, Inhaltsliste, Seitenstempel und Lesezeichen, gleicht jeden Teil mit dem Beweisthema im Schriftsatz ab und liefert Einzelanlage, Prüfkonvolut, Hashprotokoll und."
 ---
 
 # Anlagenkonvolut konsolidieren

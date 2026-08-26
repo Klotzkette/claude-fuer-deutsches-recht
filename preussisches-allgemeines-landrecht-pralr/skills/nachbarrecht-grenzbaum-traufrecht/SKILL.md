@@ -1,6 +1,6 @@
 ---
 name: nachbarrecht-grenzbaum-traufrecht
-description: "Wenn es um Pralr Nachbarrecht Grenzbaum Traufrecht Ueberbau in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nachbarrecht Grenzbaum Traufrecht; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Nachbarrecht Grenzbaum Traufrecht Überbau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: nachbarrecht-grenzbaum-traufrecht."
 ---
 
 # Pralr Nachbarrecht Grenzbaum Traufrecht Ueberbau

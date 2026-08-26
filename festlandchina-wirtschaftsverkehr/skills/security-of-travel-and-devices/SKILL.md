@@ -1,6 +1,6 @@
 ---
 name: security-of-travel-and-devices
-description: "Wenn es um Reise- und Gerätesicherheit China: Exit-Ban/Geräteprotokoll in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reise- und Gerätesicherheit China: Exit-Ban/Geräteprotokoll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reise- und Gerätesicherheit China: Exit-Ban/Geräteprotokoll

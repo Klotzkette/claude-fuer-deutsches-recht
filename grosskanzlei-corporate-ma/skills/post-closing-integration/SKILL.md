@@ -1,6 +1,6 @@
 ---
 name: post-closing-integration
-description: "Wenn es um Post Closing Integration in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Post Closing Integration: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing müssen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan übersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt werden

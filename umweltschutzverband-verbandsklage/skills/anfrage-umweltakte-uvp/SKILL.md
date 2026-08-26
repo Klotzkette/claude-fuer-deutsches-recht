@@ -1,6 +1,6 @@
 ---
 name: anfrage-umweltakte-uvp
-description: "Wenn es um Uig Anfrage Für Umweltakte in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Uig Anfrage für Umweltakte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Umweltschutzverband Verbandsklage. Route: anfrage-umweltakte-uvp."
 ---
 
 # Uig Anfrage Für Umweltakte

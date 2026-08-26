@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-starug-fruehwarnsystem-fuer-rechtsabteilung
-description: "Wenn es um Rechtsabteilung: StaRUG-Frühwarnsystem für Rechtsabteilung in Insolvenzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: StaRUG-Frühwarnsystem für Rechtsabteilung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: StaRUG-Frühwarnsystem für Rechtsabteilung

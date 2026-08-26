@@ -1,6 +1,6 @@
 ---
 name: chapter9-plan
-description: "Wenn es um Chapter 9 Plan Special Rules in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Chapter 9 Plan Special Rules: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Chapter 9 Plan Special Rules

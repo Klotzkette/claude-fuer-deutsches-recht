@@ -1,6 +1,6 @@
 ---
 name: term-sheet-to-spa-bridge
-description: "Wenn es um Term Sheet To Spa Bridge in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Term Sheet To Spa Bridge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Term-Sheet-to-SPA-Bridge: übersetzt Term Sheet, LOI oder MoU in SPA-/APA-Struktur, Klauselarchitektur, offene Punkte und Drafting-Anweisungen.

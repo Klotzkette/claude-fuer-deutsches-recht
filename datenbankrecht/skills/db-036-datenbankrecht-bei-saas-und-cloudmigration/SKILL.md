@@ -1,6 +1,6 @@
 ---
 name: db-036-datenbankrecht-bei-saas-und-cloudmigration
-description: "Wenn es um Datenbankrecht: Datenbankrecht bei SaaS und Cloudmigration in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Datenbankrecht bei SaaS und Cloudmigration: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Datenbankrecht bei SaaS und Cloudmigration

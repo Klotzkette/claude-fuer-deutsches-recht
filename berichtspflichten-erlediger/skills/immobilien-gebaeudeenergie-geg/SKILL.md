@@ -1,6 +1,6 @@
 ---
 name: immobilien-gebaeudeenergie-geg
-description: "Wenn es um Gebäudeenergie und GEG-Nachweise in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Gebäudeenergie und GEG-Nachweise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gebäudeenergie und GEG-Nachweise

@@ -1,6 +1,6 @@
 ---
 name: bescheidung-rechtsmittel
-description: "Wenn es um FZ: Bescheidung und Rechtsmittel in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Bescheidung Rechtsmittel; Arbeitsfeld: Forschungszulage-Antragstellung."
+description: "Für FZ: Bescheidung und Rechtsmittel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Forschungszulage-Antragstellung. Route: bescheidung-rechtsmittel."
 ---
 
 # FZ: Bescheidung und Rechtsmittel

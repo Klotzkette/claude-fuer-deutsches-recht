@@ -1,6 +1,6 @@
 ---
 name: richtlinien-monitor-vorlage-anbieter
-description: "Wenn es um digitale Werkzeuge-Richtlinien-Monitor in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für digitale Werkzeuge-Richtlinien-Monitor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Richtlinien-Monitor

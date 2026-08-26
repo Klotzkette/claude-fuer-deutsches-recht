@@ -1,6 +1,6 @@
 ---
 name: patg-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Patg Schriftsatz Brief Und Memo Bausteine in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Patg Schriftsatz Brief und Memo Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # PatG: Schriftsatz-, Brief- und Memo-Bausteine für Patentverletzungsklagen, Nichtigkeitsklagen BPatG, UPC-Verfahren, Berechtigungsanfragen, Lizenzverhandlungen und EPA-Einspruch
@@ -166,3 +166,7 @@ VI. Empfehlung
 ## Was dieser Arbeitsgang nicht macht
 - Keine technische Verletzungsanalyse ohne Patentschrift und Produktbeschreibung.
 - Kein Ersatz für vollständige Mandantenberatung und Patentanwaltsbegutachtung.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-patg-schriftsatz-brief-und-memo-bausteine` beziehungsweise Patg: Schriftsatz-, Brief- und Memo-Bausteine: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-patg-schriftsatz-brief-und-memo-bausteine.md).

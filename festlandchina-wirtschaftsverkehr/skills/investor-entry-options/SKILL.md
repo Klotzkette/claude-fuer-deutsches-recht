@@ -1,6 +1,6 @@
 ---
 name: investor-entry-options
-description: "Wenn es um Investoreintritt China: Optionen und Strukturierungsvergleich in China-Wirtschaftsverkehr geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Investoreintritt China: Optionen und Strukturierungsvergleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Investoreintritt China: Optionen und Strukturierungsvergleich

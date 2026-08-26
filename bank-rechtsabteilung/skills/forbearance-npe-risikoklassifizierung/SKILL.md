@@ -1,6 +1,6 @@
 ---
 name: forbearance-npe-risikoklassifizierung
-description: "Wenn es um Forbearance und NPE in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Forbearance und NPE: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forbearance und NPE

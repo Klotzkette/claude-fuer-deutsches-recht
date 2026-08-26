@@ -1,6 +1,6 @@
 ---
 name: lebensversicherung-bezugsrecht-widerruf-aenderung
-description: "Wenn es um Lebensversicherung: Bezugsrecht, Widerruf, Änderung in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Lebensversicherung: Bezugsrecht, Widerruf, Änderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lebensversicherung: Bezugsrecht, Widerruf, Änderung

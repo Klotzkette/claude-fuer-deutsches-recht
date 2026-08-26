@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-abo-kuendigung-button
-description: "Wenn es um Verbraucherrecht Abo Kuendigung Button in Verbraucherschutzrecht Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Verbraucherrecht Abo Kündigung Button: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abo, Kündigungsbutton und Laufzeitfallen: Dauerschuldverhältnis, Online-Kündigung, Verlängerung und Nachweis.

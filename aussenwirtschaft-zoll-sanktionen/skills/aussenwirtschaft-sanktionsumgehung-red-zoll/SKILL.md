@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-sanktionsumgehung-red-zoll
-description: "Wenn es um Sanktionsumgehung: Red Flags erkennen und bewerten in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanktionsumgehung: Red Flags erkennen und bewerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanktionsumgehung: Red Flags erkennen und bewerten

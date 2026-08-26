@@ -1,6 +1,6 @@
 ---
 name: digitale-inhalte-beweise-sichern
-description: "Wenn es um Digitale Inhalte Beweise Sichern in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitale Inhalte Beweise Sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Digitale Inhalte Beweise Sichern

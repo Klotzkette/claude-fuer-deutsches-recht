@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 384 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-miet-wohnungseigentumsrecht`.
+Diese Vollprüfung enthält top-8 von 252 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-miet-wohnungseigentumsrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Miet Wohnungseigentumsrecht ein juristisches Arbeitsprodukt tragfähig begründet we…
 2. **miet-weg-versandmappe-endfertigen** — Endfertigt anwaltliche Miet- und WEG-Schriftsätze für Amts-, Land- und Berufungsgericht: trennt Wohnraum, Gewerberaum un…
-3. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht …
-4. **spezial-orientierung-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Orientierung: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Miet- und Wohnungseigentumsrecht …
-5. **orientierung-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Orientierung Mandantenkommunikation Entscheidungsvorlage in Fachanwalt Miet- und Wohnungseigentumsrecht geht:…
-6. **fachanwalt-miet-wohnungseigentumsrecht-orientierung** — Wenn es um Orientierung Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Fris…
-7. **orientierung-miet-weg-fristen** — Wenn es um Orientierung Miet Weg Fristen in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständ…
-8. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständi…
+3. **einstieg-routing** — Für Anwalts-Dashboard Fachanwalt Miet- und Wohnungseigentumsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Erge…
+4. **orientierung-mandantenkommunikation-entscheidungsvorlage** — Für Orientierung Mandantenkommunikation Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Manda…
+5. **fachanwalt-miet-wohnungseigentumsrecht-orientierung** — Für Orientierung Miet- und Wohnungseigentumsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit …
+6. **orientierung-miet-weg-fristen** — Für Orientierung Miet WEG Fristen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel.
+7. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+8. **erstpruefung-und-mandatsziel** — Für Erstprüfung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsm…
 
 ---
 
@@ -163,7 +163,7 @@ Liefere Versandordner, Anlagenregister, Mietkonto oder Beschlussmatrix, Fristenb
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Anwalts-Dashboard Fachanwalt Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Anwalts-Dashboard Fachanwalt Miet- und Wohnungseigentumsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Anwalts-Dashboard Fachanwalt Miet- und Wohnungseigentumsrecht
 
@@ -227,67 +227,9 @@ Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Man
 
 ---
 
-## Skill: `spezial-orientierung-mandantenkommunikation-entscheidungsvorlage`
-
-_Wenn es um Orientierung: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Orientierung: Mandantenkommunikation und Entscheidungsvorlage
-
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-miet-wohnungseigentumsrecht`. Ausgangspunkt ist: Plugin Fachanwalt für Miet- und Wohnungseigentumsrecht nach FAO § 14e. BGB §§ 535 ff. Wohnraummiete und Gewerberaummiete. Mieterhoehung §§ 558 ff. Kündigung §§ 543 569 573 BGB. WEG-Beschlussanfechtung § 44 WEG. BetrKV. Schnittstellen kanzlei-allgemein.
-
-Er führt durch **Mandantenkommunikation und Entscheidungsvorlage** im Themenfeld **Orientierung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Orientierung.
-- **Arbeitsfokus:** Mandantenkommunikation und Entscheidungsvorlage.
-- **Plugin-Rahmen:** Großer Fachanwalt-Kompass Miet- und Wohnungseigentumsrecht mit über 200 Skills für Wohnraum, Gewerberaum, Betriebskosten, WEG, Hausverwaltung, Beschlüss....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Orientierung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
----
-
 ## Skill: `orientierung-mandantenkommunikation-entscheidungsvorlage`
 
-_Wenn es um Orientierung Mandantenkommunikation Entscheidungsvorlage in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung Mandantenkommunikation Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage._
 
 # Orientierung: Mandantenkommunikation und Entscheidungsvorlage im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
@@ -329,11 +271,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Vertiefung bei Bedarf
+
+- Bei `spezial-orientierung-mandantenkommunikation-entscheidungsvorlage` beziehungsweise Orientierung: Mandantenkommunikation und Entscheidungsvorlage: [die zusätzliche Vertiefung laden](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-miet-wohnungseigentumsrecht/skills/orientierung-mandantenkommunikation-entscheidungsvorlage/references/vertiefung-spezial-orientierung-mandantenkommunikation-entscheidungsvorlage.md).
+
 ---
 
 ## Skill: `fachanwalt-miet-wohnungseigentumsrecht-orientierung`
 
-_Wenn es um Orientierung Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung Miet- und Wohnungseigentumsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Orientierung Miet- und Wohnungseigentumsrecht
 
@@ -439,7 +385,7 @@ GEG-2024- und CO2KostAufG-Bezuege aktualisiert. Beck-RS/juris-Fundstellen nicht 
 
 ## Skill: `orientierung-miet-weg-fristen`
 
-_Wenn es um Orientierung Miet Weg Fristen in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung Miet WEG Fristen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel._
 
 # Fachanwalt Miet Wohnungseigentumsrecht Orientierung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
@@ -565,7 +511,7 @@ GEG-2024- und CO2KostAufG-Bezuege aktualisiert. Beck-RS/juris-Fundstellen nicht 
 
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Miet- und Wohnungseigentumsrecht._
 
 # Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
@@ -760,6 +706,52 @@ Triage: bei akutem Schriftsatzbedarf konkrete Aktenzeichen vor Zitierung live ve
 - `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Prüfroutinen.
+
+---
+
+## Skill: `erstpruefung-und-mandatsziel`
+
+_Für Erstprüfung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Fachanwalt Miet- und Wohnungseigentumsrecht._
+
+# Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+
+### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
+
+## Fachlicher Kern — Miet- und WEG-Recht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
+- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
+- **Normen-/Quellenanker:** FAO, BGB, WEG, BetrKV.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Fachanwalt** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

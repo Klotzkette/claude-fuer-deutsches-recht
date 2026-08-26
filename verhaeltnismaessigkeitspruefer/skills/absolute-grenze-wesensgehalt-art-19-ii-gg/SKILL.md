@@ -1,6 +1,6 @@
 ---
 name: absolute-grenze-wesensgehalt-art-19-ii-gg
-description: "Wenn es um Absolute Grenze: Wesensgehalt Art 19 II GG in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Absolute Grenze: Wesensgehalt Art 19 II GG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Absolute Grenze: Wesensgehalt Art 19 II GG

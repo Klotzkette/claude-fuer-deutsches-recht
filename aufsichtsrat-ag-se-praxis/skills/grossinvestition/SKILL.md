@@ -1,6 +1,6 @@
 ---
 name: grossinvestition
-description: "Wenn es um Grossinvestition in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Grossinvestition: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grossinvestition

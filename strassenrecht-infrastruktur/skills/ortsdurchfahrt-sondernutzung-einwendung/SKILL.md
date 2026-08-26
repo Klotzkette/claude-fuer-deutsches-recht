@@ -1,6 +1,6 @@
 ---
 name: ortsdurchfahrt-sondernutzung-einwendung
-description: "Wenn es um Ortsdurchfahrt Sondernutzung Formulier in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ortsdurchfahrt Sondernutzung Formulier: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ortsdurchfahrt Sondernutzung Formulier

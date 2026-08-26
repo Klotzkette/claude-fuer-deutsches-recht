@@ -1,6 +1,6 @@
 ---
 name: derivative-translation-digital-audio
-description: "Wenn es um Derivative Works, Übersetzungen und Neuauflagen in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Derivative Works, Übersetzungen und Neuauflagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Derivative Works, Übersetzungen und Neuauflagen

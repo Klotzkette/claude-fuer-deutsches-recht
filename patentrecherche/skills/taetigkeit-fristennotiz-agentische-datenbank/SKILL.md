@@ -1,6 +1,6 @@
 ---
 name: taetigkeit-fristennotiz-agentische-datenbank
-description: "Wenn es um Taetigkeit: Fristennotiz und nächster Schritt in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tätigkeit: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Taetigkeit: Fristennotiz und nächster Schritt

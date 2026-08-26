@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung-markenrecht-dringleichkeit
-description: "Wenn es um Einstweilige Verfügung im Markenrecht in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Einstweilige Verfügung im Markenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstweilige Verfügung im Markenrecht

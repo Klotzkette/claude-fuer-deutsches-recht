@@ -1,6 +1,6 @@
 ---
 name: parlaments-und-rechnungshofgrenzen
-description: "Wenn es um Parlaments Und Rechnungshofgrenzen in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Parlaments und Rechnungshofgrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parlaments Und Rechnungshofgrenzen

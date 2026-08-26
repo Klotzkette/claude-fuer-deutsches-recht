@@ -1,6 +1,6 @@
 ---
 name: mecklenburg-vorpommern-spezial-backsteingotik-stralsund-wismar
-description: "Wenn es um Backsteingotik Stralsund und Wismar als UNESCO-Welterbe in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Backsteingotik Stralsund und Wismar als UNESCO-Welterbe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Backsteingotik Stralsund und Wismar als UNESCO-Welterbe

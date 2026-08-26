@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-waren-digitalen-elementen-preisangaben-dark
-description: "Wenn es um Waren Mit Digitalen Elementen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Waren mit Digitalen Elementen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Waren Mit Digitalen Elementen

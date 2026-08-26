@@ -1,6 +1,6 @@
 ---
 name: hgr-dlt-pilotregime-token
-description: "Wenn es um Hgr Dlt Pilotregime Token in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hgr Dlt Pilotregime Token: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EU-DLT-Pilotregime VO 2022/858 (anwendbar 23.3.2023, verlängert voraussichtlich bis 23.3.2029) für DLT-basierte Wertpapierinfrastruktur

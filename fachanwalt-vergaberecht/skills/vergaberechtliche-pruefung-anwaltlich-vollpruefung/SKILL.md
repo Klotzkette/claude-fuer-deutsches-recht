@@ -1,6 +1,6 @@
 ---
 name: vergaberechtliche-pruefung-anwaltlich-vollpruefung
-description: "Wenn es um Vergaberechtliche Prüfung aus anwaltlicher Sicht: Vollprüfung in Fachanwalt Vergaberecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Vergaberechtliche Prüfung aus anwaltlicher Sicht: Vollprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Vergaberechtliche Prüfung aus anwaltlicher Sicht: Vollprüfung

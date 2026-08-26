@@ -1,6 +1,6 @@
 ---
 name: anlagenkonvolut-sonderfall-und-edge-case
-description: "Wenn es um Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anlagenkonvolut Sonderfall Und Edge Case; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: anlagenkonvolut-sonderfall-und-edge-case."
 ---
 
 # Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: landeshaushalt-mecklenburg-vorpommern
-description: "Wenn es um Landeshaushalt Mecklenburg Vorpommern in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Landeshaushalt Mecklenburg Vorpommern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landeshaushalt Mecklenburg Vorpommern

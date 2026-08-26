@@ -1,6 +1,6 @@
 ---
 name: bgb-at-anfechtung-vor-auslegung
-description: "Wenn es um Anfechtung erst nach Auslegung in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anfechtung erst nach Auslegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anfechtung erst nach Auslegung

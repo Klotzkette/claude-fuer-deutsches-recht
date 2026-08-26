@@ -1,6 +1,6 @@
 ---
 name: sexual-bribery
-description: "Wenn es um Sexuelle Belästigung am Arbeitsplatz – Untersuchung und Maßnahmen in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Sexuelle Belästigung am Arbeitsplatz – Untersuchung und Maßnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sexuelle Belästigung am Arbeitsplatz – Untersuchung und Maßnahmen

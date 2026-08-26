@@ -1,6 +1,6 @@
 ---
 name: stammdaten-qualitaetscheck
-description: "Wenn es um Stammdaten Qualitaetscheck in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stammdaten Qualitätscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Stammdaten Qualitaetscheck

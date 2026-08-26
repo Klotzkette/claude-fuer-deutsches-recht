@@ -1,6 +1,6 @@
 ---
 name: parteivermoegen-anspruchspfad-pruefen
-description: "Wenn es um Parteivermoegen Anspruchspfad Prüfen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parteivermögen Anspruchspfad Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: parteivermoegen-anspruchspfad-pruefen."
 ---
 
 # Parteivermoegen Anspruchspfad Prüfen

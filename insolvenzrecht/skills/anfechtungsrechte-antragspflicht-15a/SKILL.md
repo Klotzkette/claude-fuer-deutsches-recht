@@ -1,6 +1,6 @@
 ---
 name: anfechtungsrechte-antragspflicht-15a
-description: "Wenn es um Insolvenzanfechtungsrechte prüfen in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Insolvenzanfechtungsrechte prüfen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Insolvenzanfechtungsrechte prüfen

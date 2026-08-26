@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 85 Skills des Plugins `urteilsbauer-relationsmacher`.
+Diese Vollprüfung enthält top-10 von 84 Skills des Plugins `urteilsbauer-relationsmacher`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Urteilsbauer Relationsmacher ein juristisches Arbeitsprodukt tragfähig begründet werden muss;…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Urteilsbauer und Relationsmacher geht: klärt Rolle, Ziel, Frist, Unterlagen und den p…
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Urteilsbauer und Relationsmacher geht: klärt Rolle, Ziel, Frist, Unterlagen und den passe…
-4. **urteils-erstpruefung-und-mandatsziel** — Wenn es um Urteils: Erstprüfung, Rollenklärung und Mandatsziel in Urteilsbauer und Relationsmacher geht: klärt Rolle, Zi…
-5. **urteilsbauer-aktenintake-schriftsatz-brief-memo-bausteine** — Wenn es um Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine in Urteilsbauer und Relationsmacher geht: erstellt den p…
-6. **richterlicher-hinweis-und-aufklaerung** — Wenn es um Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen in Urteilsbauer und Relationsmac…
-7. **aktenintake-schriftsatz-brief-und-memo-bausteine** — Wenn es um Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine in Urteilsbauer und Relationsmacher geht: erstellt den p…
-8. **richterlicher-hinweis-aufklaerung** — Wenn es um Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen in Urteilsbauer und Relationsmac…
-9. **familienrichter-risikoampel-und-gegenargumente** — Wenn es um Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien in Urteilsbauer und Relationsmacher geht…
-10. **tatbestandsmerkmale-interessen-tenor-urteils** — Wenn es um Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix in Urteilsbauer und Relationsmacher geht: prüf…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+4. **urteils-erstpruefung-und-mandatsziel** — Für Urteils: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatb…
+5. **rechtsmittelbelehrung-zivil** — Erstellt und kontrolliert die Rechtsmittelbelehrung für zivilgerichtliche Urteile und Beschlüsse; bestimmt Rechtsbehelf,…
+6. **urteilsbauer-aktenintake-schriftsatz-brief-memo-bausteine** — Für Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Sch…
+7. **richterlicher-hinweis-und-aufklaerung** — Für Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen: ordnet Norm, Beweislast und Gegenargum…
+8. **richterlicher-hinweis-aufklaerung** — Für Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen: ordnet Norm, Beweislast und Gegenargum…
+9. **aktenintake-schriftsatz-brief-und-memo-bausteine** — Für Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Sch…
+10. **tenor-internationaler-bezug-und-schnittstellen** — Für Tenor: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellen…
 
 ---
 
@@ -142,7 +142,7 @@ Ausgangspunkt für dieses Plugin: Kläger für schlüssigen Vortrag und Beweisan
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Urteilsbauer und Relationsmacher geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Urteilsbauer und Relationsmacher._
 
 # Einstieg und Routing
 
@@ -186,7 +186,7 @@ Dieser Einstieg routet **Urteilsbauer Relationsmacher** vom ersten Sachverhalt z
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Urteilsbauer und Relationsmacher geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Urteilsbauer und Relationsmacher._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -402,7 +402,7 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 
 ## Skill: `urteils-erstpruefung-und-mandatsziel`
 
-_Wenn es um Urteils: Erstprüfung, Rollenklärung und Mandatsziel in Urteilsbauer und Relationsmacher geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Urteils Erstpruefung Und Mandatsziel; Arbeitsfeld: Urteilsbauer und Relationsmacher._
+_Für Urteils: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Urteilsbauer und Relationsmacher. Route: urteils-erstpruefung-und-mandatsziel._
 
 # Urteils: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -467,9 +467,63 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `rechtsmittelbelehrung-zivil`
+
+_Erstellt und kontrolliert die Rechtsmittelbelehrung für zivilgerichtliche Urteile und Beschlüsse; bestimmt Rechtsbehelf, Belehrungspflicht, Gericht, Sitz, Form, Einlegungs- und Begründungsfrist sowie mögliche Wiedereinsetzung und liefert einen unmittelbar einsetzbaren Entscheidungsbaustein._
+
+# Rechtsmittelbelehrung im Zivilverfahren
+
+## 1. Direktstart
+
+Lies zuerst Entscheidungsart, Tenor, Verfahrensart, Zustellungslage, Streitwert und etwaige Zulassungsentscheidung aus der Akte. Erstelle anschließend unmittelbar die passende Belehrung. Frage nur nach einem Punkt, der die Statthaftigkeit, das zuständige Gericht, die Frist oder die Form tatsächlich verändert.
+
+## 2. Prüfmatrix
+
+2.1. Bestimme, ob Urteil, Versäumnisurteil, Beschluss, Kostenentscheidung, einstweilige Verfügung oder sonstige Entscheidung vorliegt.
+
+2.2. Trenne Berufung, Revision, Nichtzulassungsbeschwerde, sofortige Beschwerde, Rechtsbeschwerde, Einspruch, Widerspruch und Anhörungsrüge. Ein bloß denkbarer außerordentlicher Rechtsbehelf gehört nicht ohne Weiteres in die Belehrung.
+
+2.3. Prüfe Statthaftigkeit und Zulassung anhand des konkreten Tenors. Bei der Berufung sind insbesondere ZPO Paragraf 511, bei der Revision ZPO Paragrafen 542 und 543, bei der sofortigen Beschwerde ZPO Paragraf 567 und bei der Rechtsbeschwerde ZPO Paragraf 574 zuzuordnen.
+
+2.4. Ermittle für Einlegung und Begründung getrennt Fristbeginn, Fristdauer, zuständiges Gericht, Form, Vertretungszwang und erforderlichen Inhalt. Maßgeblich sind unter anderem ZPO Paragrafen 517 und 520, Paragrafen 569 und 571 sowie Paragraf 575.
+
+2.5. Prüfe vor der Ausgabe die Belehrungspflicht nach ZPO Paragraf 232. In Verfahren mit Anwaltszwang ist die dort geregelte Ausnahme zu beachten; Einspruch und Widerspruch sind davon ausgenommen. Eine Sprungrevision muss nach ZPO Paragraf 232 nicht erläutert werden.
+
+## 3. Ausgabebaustein
+
+Formuliere in vollständigen Sätzen:
+
+3.1. Bezeichnung des statthaften Rechtsbehelfs.
+
+3.2. Gericht und vollständiger Sitz, bei dem der Rechtsbehelf einzulegen ist.
+
+3.3. Frist und fristauslösendes Ereignis, ohne einen aus der Akte nicht gesicherten Zustelltag zu erfinden.
+
+3.4. Einlegungsform, notwendiger Inhalt und gegebenenfalls Vertretungszwang.
+
+3.5. Gesonderte Begründungsfrist und zuständiges Gericht, wenn das Verfahrensrecht eine Begründung verlangt.
+
+## 4. Fehlerfolgen und Gegenkontrolle
+
+Eine fehlende oder fehlerhafte Belehrung ändert die gesetzliche Rechtsmittelfrist nicht automatisch. Prüfe bei Fristversäumnis ZPO Paragrafen 233, 234 und 236 zur Wiedereinsetzung und trenne Kausalität, Verschulden, Nachholung und Glaubhaftmachung. Eine Anhörungsrüge nach ZPO Paragraf 321a ist nur bei entscheidungserheblicher Verletzung rechtlichen Gehörs zu prüfen; sie ersetzt kein versäumtes statthaftes Rechtsmittel.
+
+## 5. Qualitätskontrolle
+
+5.1. Passt der Rechtsbehelf genau zur Entscheidungsart und zum Tenor?
+
+5.2. Sind Einlegungs- und Begründungsfrist getrennt und vollständig?
+
+5.3. Stimmen Gericht, Sitz, Form und Vertretungszwang?
+
+5.4. Beruht jedes Kalenderdatum auf einem Aktenfund oder ist es ausdrücklich als Rechenbeispiel gekennzeichnet?
+
+5.5. Ist die Belehrung ohne interne Hinweise unmittelbar in die Entscheidung einsetzbar?
+
+---
+
 ## Skill: `urteilsbauer-aktenintake-schriftsatz-brief-memo-bausteine`
 
-_Wenn es um Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine in Urteilsbauer und Relationsmacher geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Urteilsbauer Aktenintake Schriftsatz Brief Memo Bausteine; Arbeitsfeld: Urteilsbauer und Relationsmacher._
+_Für Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Urteilsbauer und Relationsmacher. Route: urteilsbauer-aktenintake-schriftsatz-brief-memo-bausteine._
 
 # Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -526,7 +580,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `richterlicher-hinweis-und-aufklaerung`
 
-_Wenn es um Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen in Urteilsbauer und Relationsmacher geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Richterlicher Hinweis Und Aufklaerung; Arbeitsfeld: Urteilsbauer und Relationsmacher._
+_Für Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Urteilsbauer und Relationsmacher. Route: richterlicher-hinweis-und-aufklaerung._
 
 # Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen
 
@@ -556,9 +610,33 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ---
 
+## Skill: `richterlicher-hinweis-aufklaerung`
+
+_Für Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Urteilsbauer und Relationsmacher. Route: richterlicher-hinweis-aufklaerung._
+
+# Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen
+
+## Einstieg
+Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
+
+1. Wer handelt in welcher Rolle und gegen wen?
+2. Welches praktische Ziel soll erreicht werden?
+3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
+4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
+5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
+
+## Arbeitsworkflow
+1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
+2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
+3. **Materielle Weichen:** Die Kernfragen zu **Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
+4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
+5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+
+---
+
 ## Skill: `aktenintake-schriftsatz-brief-und-memo-bausteine`
 
-_Wenn es um Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine in Urteilsbauer und Relationsmacher geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Aktenintake Schriftsatz Brief Und Memo Bausteine; Arbeitsfeld: Urteilsbauer und Relationsmacher._
+_Für Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Urteilsbauer und Relationsmacher. Route: aktenintake-schriftsatz-brief-und-memo-bausteine._
 
 # Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -626,87 +704,11 @@ Für die Relation gelten keine universellen materiell-rechtlichen Leitentscheidu
 
 ---
 
-## Skill: `richterlicher-hinweis-aufklaerung`
+## Skill: `tenor-internationaler-bezug-und-schnittstellen`
 
-_Wenn es um Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen in Urteilsbauer und Relationsmacher geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Richterlicher Hinweis Aufklaerung; Arbeitsfeld: Urteilsbauer und Relationsmacher._
+_Für Tenor: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Urteilsbauer und Relationsmacher. Route: tenor-internationaler-bezug-und-schnittstellen._
 
-# Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen
-
-## Einstieg
-Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
-
-1. Wer handelt in welcher Rolle und gegen wen?
-2. Welches praktische Ziel soll erreicht werden?
-3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
-4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
-5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
-
-## Arbeitsworkflow
-1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
-2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
-3. **Materielle Weichen:** Die Kernfragen zu **Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
-4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
-5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `familienrichter-risikoampel-und-gegenargumente`
-
-_Wenn es um Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien in Urteilsbauer und Relationsmacher geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Familienrichter Risikoampel Und Gegenargumente; Arbeitsfeld: Urteilsbauer und Relationsmacher._
-
-# Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1353 Abs. 1 BGB` — eheliche Lebensgemeinschaft.
-- `§ 1360 BGB` — Familienunterhalt.
-- `§ 1565 Abs. 1 BGB` — Scheidung.
-- `§ 1570 BGB` — Betreuungsunterhalt.
-- `§ 1601 BGB` — Verwandtenunterhalt.
-- `§ 1626 Abs. 1 BGB` — elterliche Sorge.
-- `§ 1671 BGB` — Sorgerechtsuebertragung.
-- `§ 1684 BGB` — Umgangsrecht.
-- `§ 23a Abs. 1 GVG` — Familiengerichtsbarkeit.
-- `§ 113 FamFG` — Verfahrensregeln in Familienstreitsachen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** DOCX und PDF sind Dateiformate, keine Rechtsquellen. Je nach Modul ZPO §§ 313 (Tatbestand/Entscheidungsgründe), 308, 322 (Tenor und Rechtskraft), 139 (richterlicher Hinweis), 78a (Rechtspfleger), 495a (vereinfachtes Verfahren), 511 ff. (Berufung) sowie GVG §§ 23, 71 (Zuständigkeit AG/LG), Aktenordnung des Landes und einschlägiges materielles Recht live prüfen.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Familienrichter** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `tatbestandsmerkmale-interessen-tenor-urteils`
-
-_Wenn es um Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tatbestandsmerkmale Interessen Tenor Urteils; Arbeitsfeld: Urteilsbauer und Relationsmacher._
-
-# Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix
+# Tenor: Internationaler Bezug und Schnittstellen
 
 ## Normenanker
 
@@ -731,7 +733,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix
+## Spezialwissen: Tenor: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** DOCX und PDF sind Dateiformate, keine Rechtsquellen. Je nach Modul ZPO §§ 313 (Tatbestand/Entscheidungsgründe), 308, 322 (Tenor und Rechtskraft), 139 (richterlicher Hinweis), 78a (Rechtspfleger), 495a (vereinfachtes Verfahren), 511 ff. (Berufung) sowie GVG §§ 23, 71 (Zuständigkeit AG/LG), Aktenordnung des Landes und einschlägiges materielles Recht live prüfen.
 
 ## Fallweichen
@@ -745,7 +747,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Tatbestandsmerkmale** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Tenor** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

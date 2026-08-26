@@ -1,6 +1,6 @@
 ---
 name: stadtrat-landesrecht-beschluss-bauen
-description: "Wenn es um Stadtrat Landesrecht Routen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stadtrat Landesrecht Routen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stadtrat Landesrecht Routen

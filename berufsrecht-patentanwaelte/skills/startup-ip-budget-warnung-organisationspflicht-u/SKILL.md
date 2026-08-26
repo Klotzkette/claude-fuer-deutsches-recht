@@ -1,6 +1,6 @@
 ---
 name: startup-ip-budget-warnung-organisationspflicht-u
-description: "Wenn es um Startup Ip Budget Warnung Organisationspflicht U in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Startup Ip Budget Warnung Organisationspflicht U: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: startup ip budget warnung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

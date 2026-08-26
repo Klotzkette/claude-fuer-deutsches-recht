@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-post-merger-icp-integration
-description: "Wenn es um Post-Merger ICP-Integration: Harmonisierung und Lueckenschliessung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Post-Merger ICP-Integration: Harmonisierung und Lückenschliessung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Post-Merger ICP-Integration: Harmonisierung und Lueckenschliessung

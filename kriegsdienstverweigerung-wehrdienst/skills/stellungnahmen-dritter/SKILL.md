@@ -1,6 +1,6 @@
 ---
 name: stellungnahmen-dritter
-description: "Wenn es um Stellungnahmen Dritter in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stellungnahmen Dritter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stellungnahmen Dritter

@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-in-f-and-e-projekten-organisati
-description: "Wenn es um Verschwiegenheit In F And E Projekten Organisati in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verschwiegenheit in F And E Projekten Organisati: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: verschwiegenheit in f and e projekten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

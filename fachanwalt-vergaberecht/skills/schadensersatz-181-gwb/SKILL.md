@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-181-gwb
-description: "Wenn es um Schadensersatz 181 Gwb in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schadensersatz 181 GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schadensersatz nach § 181 GWB und BGB-Vorvertragsrecht bei vergaberechtswidriger Zuschlagsentscheidung geltend machen: Bieter hat Zuschlag verloren und will Vertrauensschaden oder positives Interesse einklagen

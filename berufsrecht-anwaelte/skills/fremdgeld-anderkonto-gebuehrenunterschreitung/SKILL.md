@@ -1,6 +1,6 @@
 ---
 name: fremdgeld-anderkonto-gebuehrenunterschreitung
-description: "Wenn es um Fremdgeld Anderkonto Gebuehrenunterschreitung in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fremdgeld Anderkonto Gebührenunterschreitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Anwälte: fremdgeld und anderkonto - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

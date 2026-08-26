@@ -1,6 +1,6 @@
 ---
 name: falsche-wiese-warnung-bereicherung-anfechtung
-description: "Wenn es um Falsche-Wiese-Warnung: Bereicherung und Anfechtung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Falsche-Wiese-Warnung: Bereicherung und Anfechtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Falsche-Wiese-Warnung: Bereicherung und Anfechtung

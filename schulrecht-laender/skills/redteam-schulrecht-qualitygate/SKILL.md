@@ -1,6 +1,6 @@
 ---
 name: redteam-schulrecht-qualitygate
-description: "Wenn es um Redteam Schulrecht Qualitygate in Schulrecht der Bundesländer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Redteam Schulrecht Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Redteam Schulrecht Qualitygate

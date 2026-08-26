@@ -1,6 +1,6 @@
 ---
 name: luft-021-airline-zustaendigkeit-pruefen
-description: "Wenn es um Airline Zustaendigkeit Pruefen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Airline Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Airline Zustaendigkeit Pruefen

@@ -1,6 +1,6 @@
 ---
 name: bonorum-possessio-contra-tabulas
-description: "Wenn es um Rom 146 Bonorum Possessio Contra Tabulas in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom 146 Bonorum Possessio Contra Tabulas: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 146 Bonorum Possessio Contra Tabulas

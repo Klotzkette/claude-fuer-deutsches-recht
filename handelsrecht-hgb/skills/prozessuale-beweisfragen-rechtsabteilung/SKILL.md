@@ -1,6 +1,6 @@
 ---
 name: prozessuale-beweisfragen-rechtsabteilung
-description: "Wenn es um Prozessuale HGB-Beweisfragen in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prozessuale HGB-Beweisfragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Prozessuale HGB-Beweisfragen

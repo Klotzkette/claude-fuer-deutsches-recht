@@ -1,6 +1,6 @@
 ---
 name: transparenz-und-nutzerinformation
-description: "Wenn es um Transparenz und Nutzerinformation in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transparenz und Nutzerinformation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: transparenz-und-nutzerinformation."
 ---
 
 # Transparenz und Nutzerinformation

@@ -1,6 +1,6 @@
 ---
 name: art-102-aeuv-marktbeherrschung-missbrauch
-description: "Wenn es um Art 102 AEUV Marktbeherrschung Missbrauch in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Art 102 AEUV Marktbeherrschung Missbrauch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Art 102 AEUV Marktbeherrschung Missbrauch

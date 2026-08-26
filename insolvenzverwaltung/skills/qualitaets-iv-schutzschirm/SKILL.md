@@ -1,6 +1,6 @@
 ---
 name: qualitaets-iv-schutzschirm
-description: "Wenn es um Qualitäts- und Plausibilitätsgate in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitäts- und Plausibilitätsgate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitäts- und Plausibilitätsgate

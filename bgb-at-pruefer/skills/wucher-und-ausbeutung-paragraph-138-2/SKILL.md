@@ -1,6 +1,6 @@
 ---
 name: wucher-und-ausbeutung-paragraph-138-2
-description: "Wenn es um Wucher und Ausbeutung — Paragraf 138 Abs. 2 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Wucher und Ausbeutung — Paragraf 138 Abs. 2 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wucher und Ausbeutung — § 138 Abs. 2 BGB

@@ -1,6 +1,6 @@
 ---
 name: ki-arbeitsauftrag-mahnwesen-honorar
-description: "Wenn es um digitale Werkzeuge-Arbeitsauftrag Briefing in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für digitale Werkzeuge-Arbeitsauftrag Briefing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Arbeitsauftrag Briefing

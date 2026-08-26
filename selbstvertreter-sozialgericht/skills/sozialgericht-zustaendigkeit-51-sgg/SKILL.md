@@ -1,6 +1,6 @@
 ---
 name: sozialgericht-zustaendigkeit-51-sgg
-description: "Wenn es um Welche Streitigkeiten gehoeren vor das Sozialgericht? in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Welche Streitigkeiten gehören vor das Sozialgericht?: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Welche Streitigkeiten gehoeren vor das Sozialgericht?

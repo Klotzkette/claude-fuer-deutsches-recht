@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-datenraum-verwahrungsanzeige
-description: "Wenn es um Verschwiegenheit Datenraum Verwahrungsanzeige in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Verschwiegenheit Datenraum Verwahrungsanzeige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: verschwiegenheit und datenraum - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

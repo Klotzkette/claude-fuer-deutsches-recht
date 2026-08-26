@@ -1,6 +1,6 @@
 ---
 name: spezial-werden-internationaler-bezug-und-schnittstellen
-description: "Wenn es um Werden: Internationaler Bezug und Schnittstellen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Werden: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Werden: Internationaler Bezug und Schnittstellen

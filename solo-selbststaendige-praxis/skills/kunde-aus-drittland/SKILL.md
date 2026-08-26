@@ -1,6 +1,6 @@
 ---
 name: kunde-aus-drittland
-description: "Wenn es um Internationales und Auslandskunden: Ordnet rechnung in Solo-Selbstständige Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internationales und Auslandskunden: Ordnet rechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internationales und Auslandskunden: Ordnet rechnung

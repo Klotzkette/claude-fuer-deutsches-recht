@@ -1,6 +1,6 @@
 ---
 name: einseitige-geschaefte-minderjaehrige
-description: "Wenn es um Einseitige Rechtsgeschäfte und Minderjährige — Paragraf 111 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Einseitige Geschaefte Minderjaehrige; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Einseitige Rechtsgeschäfte und Minderjährige — Paragraf 111 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: einseitige-geschaefte-minderjaehrige."
 ---
 
 # Einseitige Rechtsgeschäfte und Minderjährige — § 111 BGB

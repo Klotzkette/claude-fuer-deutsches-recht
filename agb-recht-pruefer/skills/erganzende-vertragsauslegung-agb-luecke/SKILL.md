@@ -1,6 +1,6 @@
 ---
 name: erganzende-vertragsauslegung-agb-luecke
-description: "Wenn es um Erganzende Vertragsauslegung AGB Lücke in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Erganzende Vertragsauslegung AGB Lücke: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erganzende Vertragsauslegung AGB Lücke

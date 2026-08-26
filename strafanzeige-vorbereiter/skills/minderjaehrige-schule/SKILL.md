@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-schule
-description: "Wenn es um Minderjährige, Schule und Jugendamt in Strafanzeige-Vorbereiter geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Minderjährige, Schule und Jugendamt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Minderjährige, Schule und Jugendamt

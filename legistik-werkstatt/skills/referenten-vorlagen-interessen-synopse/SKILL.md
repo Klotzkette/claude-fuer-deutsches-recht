@@ -1,6 +1,6 @@
 ---
 name: referenten-vorlagen-interessen-synopse
-description: "Wenn es um Referenten: Zahlen, Schwellenwerte und Berechnung in Legistik-Werkstatt geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Referenten: Zahlen, Schwellenwerte und Berechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Referenten: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: dfg-zeitplan-und-meilensteine
-description: "Wenn es um Zeitplan und Meilensteine in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Dfg Zeitplan Und Meilensteine; Arbeitsfeld: DFG-Förderantrag."
+description: "Für Zeitplan und Meilensteine: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: DFG-Förderantrag. Route: dfg-zeitplan-und-meilensteine."
 ---
 
 # Zeitplan und Meilensteine

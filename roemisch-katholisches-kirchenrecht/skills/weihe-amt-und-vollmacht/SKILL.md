@@ -1,6 +1,6 @@
 ---
 name: weihe-amt-und-vollmacht
-description: "Wenn es um Weihe, Amt und Vollmacht in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weihe, Amt und Vollmacht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weihe, Amt und Vollmacht

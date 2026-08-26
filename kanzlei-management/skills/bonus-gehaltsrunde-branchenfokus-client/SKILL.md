@@ -1,6 +1,6 @@
 ---
 name: bonus-gehaltsrunde-branchenfokus-client
-description: "Wenn es um Bonus- und Gehaltsrunde in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bonus- und Gehaltsrunde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bonus- und Gehaltsrunde

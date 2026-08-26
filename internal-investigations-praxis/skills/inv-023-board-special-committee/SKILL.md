@@ -1,6 +1,6 @@
 ---
 name: inv-023-board-special-committee
-description: "Wenn es um Internal Investigation: Board Special Committee in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: Board Special Committee: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Board Special Committee

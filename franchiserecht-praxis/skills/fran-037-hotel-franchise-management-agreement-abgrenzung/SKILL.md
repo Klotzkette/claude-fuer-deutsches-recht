@@ -1,6 +1,6 @@
 ---
 name: fran-037-hotel-franchise-management-agreement-abgrenzung
-description: "Wenn es um Franchiserecht: Hotel Franchise Management Agreement Abgrenzung in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Hotel Franchise Management Agreement Abgrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Hotel Franchise Management Agreement Abgrenzung

@@ -1,6 +1,6 @@
 ---
 name: polizei-compliance-dokumentation-und-akte
-description: "Wenn es um Polizei: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Verwaltungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Polizei: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Polizei: Compliance-Dokumentation und Aktenvermerk

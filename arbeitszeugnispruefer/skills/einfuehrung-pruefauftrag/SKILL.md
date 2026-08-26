@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-pruefauftrag
-description: "Wenn es um Einfuehrung in den Pruefauftrag in Arbeitszeugnispruefer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Einführung in den Prüfauftrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einfuehrung in den Pruefauftrag

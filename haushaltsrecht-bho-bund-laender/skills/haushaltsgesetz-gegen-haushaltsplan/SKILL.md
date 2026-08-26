@@ -1,6 +1,6 @@
 ---
 name: haushaltsgesetz-gegen-haushaltsplan
-description: "Wenn es um Haushaltsgesetz Gegen Haushaltsplan in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Haushaltsgesetz gegen Haushaltsplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haushaltsgesetz Gegen Haushaltsplan

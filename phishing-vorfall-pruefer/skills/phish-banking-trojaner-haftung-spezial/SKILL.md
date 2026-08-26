@@ -1,6 +1,6 @@
 ---
 name: phish-banking-trojaner-haftung-spezial
-description: "Wenn es um Phish: Banking-Trojaner Haftung in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Phish: Banking-Trojaner Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Phish: Banking-Trojaner Haftung

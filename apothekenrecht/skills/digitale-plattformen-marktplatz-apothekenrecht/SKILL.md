@@ -1,6 +1,6 @@
 ---
 name: digitale-plattformen-marktplatz-apothekenrecht
-description: "Wenn es um Digitale Plattformen Marktplatz Apothekenrecht in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Digitale Plattformen Marktplatz Apothekenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitale Plattformen Marktplatz Apothekenrecht

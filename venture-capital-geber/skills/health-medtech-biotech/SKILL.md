@@ -1,6 +1,6 @@
 ---
 name: health-medtech-biotech
-description: "Wenn es um Health, MedTech und Biotech in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Health, MedTech und Biotech: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Health, MedTech und Biotech

@@ -1,6 +1,6 @@
 ---
 name: nkbl-abwaegungsfehler-spezial
-description: "Wenn es um NkBl: Abwaegungsfehler in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nkbl Abwaegungsfehler Spezial; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
+description: "Für NkBl: Abwägungsfehler: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO. Route: nkbl-abwaegungsfehler-spezial."
 ---
 
 # NkBl: Abwaegungsfehler

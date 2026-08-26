@@ -1,6 +1,6 @@
 ---
 name: medizinrecht-und-patientenrechte
-description: "Wenn es um Medizinrecht und Patientenrechte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Medizinrecht und Patientenrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Medizinrecht und Patientenrechte

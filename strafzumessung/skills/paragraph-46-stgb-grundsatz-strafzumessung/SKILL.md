@@ -1,6 +1,6 @@
 ---
 name: paragraph-46-stgb-grundsatz-strafzumessung
-description: "Wenn es um Paragraf 46 StGB — Grundsatz der Strafzumessung in Strafzumessung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Paragraf 46 StGB — Grundsatz der Strafzumessung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 46 StGB — Grundsatz der Strafzumessung

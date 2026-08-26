@@ -1,6 +1,6 @@
 ---
 name: 02-streitwert-und-gerichtskosten
-description: "Wenn es um 02 Streitwert und Gerichtskosten in Richter Amtsgericht Zivilsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 02 Streitwert und Gerichtskosten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 02 Streitwert und Gerichtskosten

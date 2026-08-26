@@ -1,6 +1,6 @@
 ---
 name: antragsbefugnis-eigentuemer-nachbar
-description: "Wenn es um Antragsbefugnis Paragraf 47 Abs. 2 VwGO in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Antragsbefugnis Paragraf 47 Abs. 2 VwGO: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Antragsbefugnis § 47 Abs. 2 VwGO

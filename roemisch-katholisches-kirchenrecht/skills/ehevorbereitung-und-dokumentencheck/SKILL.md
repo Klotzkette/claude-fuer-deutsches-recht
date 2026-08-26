@@ -1,6 +1,6 @@
 ---
 name: ehevorbereitung-und-dokumentencheck
-description: "Wenn es um Ehevorbereitung und Dokumentencheck in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ehevorbereitung und Dokumentencheck: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ehevorbereitung und Dokumentencheck

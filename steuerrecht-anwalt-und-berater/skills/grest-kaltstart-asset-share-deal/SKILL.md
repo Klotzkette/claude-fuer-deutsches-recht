@@ -1,6 +1,6 @@
 ---
 name: grest-kaltstart-asset-share-deal
-description: "Wenn es um GrESt-Kaltstart: Asset Deal oder Share Deal in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für GrESt-Kaltstart: Asset Deal oder Share Deal: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GrESt-Kaltstart: Asset Deal oder Share Deal

@@ -1,6 +1,6 @@
 ---
 name: bautraeger-typische-notar-fehler-checkliste
-description: "Wenn es um Typische Notar-Fehler im Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Typische Notar-Fehler im Bauträgervertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Typische Notar-Fehler im Bautraegervertrag

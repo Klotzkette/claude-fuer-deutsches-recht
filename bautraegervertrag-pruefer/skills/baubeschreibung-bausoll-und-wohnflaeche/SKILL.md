@@ -1,6 +1,6 @@
 ---
 name: baubeschreibung-bausoll-und-wohnflaeche
-description: "Wenn es um Baubeschreibung, Bausoll und Wohnfläche in Bauträgervertrag-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Baubeschreibung, Bausoll und Wohnfläche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Baubeschreibung, Bausoll und Wohnfläche

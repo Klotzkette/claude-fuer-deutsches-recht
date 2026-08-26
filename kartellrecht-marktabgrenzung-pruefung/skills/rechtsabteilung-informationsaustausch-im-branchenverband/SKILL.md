@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-informationsaustausch-im-branchenverband
-description: "Wenn es um Rechtsabteilung: Informationsaustausch im Branchenverband in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Rechtsabteilung: Informationsaustausch im Branchenverband: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Informationsaustausch im Branchenverband

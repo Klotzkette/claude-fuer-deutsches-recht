@@ -1,6 +1,6 @@
 ---
 name: foreign-publisher-us-distribution
-description: "Wenn es um Foreign Publisher und US Distribution in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Foreign Publisher und US Distribution: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Foreign Publisher und US Distribution

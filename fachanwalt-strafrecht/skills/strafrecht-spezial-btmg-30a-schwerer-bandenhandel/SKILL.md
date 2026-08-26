@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-btmg-30a-schwerer-bandenhandel
-description: "Wenn es um Paragraf 30a BtMG: schwerer Banden- und bewaffneter Handel in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paragraf 30a BtMG: schwerer Banden- und bewaffneter Handel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 30a BtMG: schwerer Banden- und bewaffneter Handel

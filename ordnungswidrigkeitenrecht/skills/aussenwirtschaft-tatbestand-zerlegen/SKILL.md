@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-tatbestand-zerlegen
-description: "Wenn es um Außenwirtschaft Tatbestand Zerlegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Außenwirtschaft Tatbestand Zerlegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Ordnungswidrigkeitenrecht. Route: aussenwirtschaft-tatbestand-zerlegen."
 ---
 
 # Außenwirtschaft Tatbestand Zerlegen

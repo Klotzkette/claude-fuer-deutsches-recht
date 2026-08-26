@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 112 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Insiderrecht Compliance ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
-2. **kaltstart-triage** — Wenn es um Kaltstart Insiderrecht in Insiderrecht Compliance geht: klärt Rolle, Ziel, Frist, Unterlagen und den passende…
-3. **insiderinformation-zwischenschritte** — Wenn es um Insiderinformation nach Art. 7 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
-4. **ins-001-insiderinformation-art7** — Wenn es um Insiderinformation nach Art. 7 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
-5. **employee-schulung** — Wenn es um Mitarbeiteraktienprogramme (ESOP / LTIP / RSU) – Insiderrechtliche Risiken in Insiderrecht Compliance geht: o…
-6. **analystencall** — Wenn es um Analysten-Calls und Investorenkommunikation – Selective Disclosure in Insiderrecht Compliance geht: ordnet Sa…
-7. **produktzulassung-whistleblower** — Wenn es um Produktzulassung – Insiderrecht bei regulatorischen Entscheidungen in Insiderrecht Compliance geht: ordnet Sa…
-8. **zwischenschritte-ma** — Wenn es um Zwischenschritte bei mehrstufigen Prozessen (M&A / Restrukturierung) in Insiderrecht Compliance geht: ordnet …
+2. **kaltstart-triage** — Für Kaltstart Insiderrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächst…
+3. **insiderinformation-zwischenschritte** — Für Insiderinformation nach Art. 7 MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und …
+4. **ins-001-insiderinformation-art7** — Für Insiderinformation nach Art. 7 MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und …
+5. **employee-schulung** — Für Mitarbeiteraktienprogramme (ESOP / LTIP / RSU) – Insiderrechtliche Risiken: ordnet Norm, Beweislast und Gegenargumen…
+6. **datenraum-kapitalerhoehung-insiderrecht** — Für Datenraum-Management in Transaktionen – Insiderrechtliche Anforderungen: ordnet Norm, Beweislast und Gegenargument; …
+7. **zwischenschritte-ma** — Für Zwischenschritte bei mehrstufigen Prozessen (M&A / Restrukturierung): ordnet Norm, Beweislast und Gegenargument; Erg…
+8. **analystencall** — Für Analysten-Calls und Investorenkommunikation – Selective Disclosure: ordnet Norm, Beweislast und Gegenargument; Ergeb…
 
 ---
 
@@ -134,7 +134,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Insiderrecht in Insiderrecht Compliance geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten._
+_Für Kaltstart Insiderrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Kaltstart Insiderrecht
 
@@ -171,7 +171,7 @@ Erzeuge Insidervermerk, Ad-hoc-Entwurf, Aufschubakte, Insiderlistencheck oder Ve
 
 ## Skill: `insiderinformation-zwischenschritte`
 
-_Wenn es um Insiderinformation nach Art. 7 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Insiderinformation Zwischenschritte; Arbeitsfeld: Insiderrecht Compliance._
+_Für Insiderinformation nach Art. 7 MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insiderrecht Compliance. Route: insiderinformation-zwischenschritte._
 
 # Insiderinformation nach Art. 7 MAR
 
@@ -265,7 +265,7 @@ zu verneinen. Ergebnis ist immer ein schriftlicher Insidervermerk mit Quellennac
 
 ## Skill: `ins-001-insiderinformation-art7`
 
-_Wenn es um Insiderinformation nach Art. 7 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ins 001 Insiderinformation Art7; Arbeitsfeld: Insiderrecht Compliance._
+_Für Insiderinformation nach Art. 7 MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insiderrecht Compliance. Route: ins-001-insiderinformation-art7._
 
 # Insiderinformation nach Art. 7 MAR
 
@@ -296,7 +296,7 @@ Erzeuge Insidervermerk, Ad-hoc-Entwurf, Aufschubakte, Insiderlistencheck oder Ve
 
 ## Skill: `employee-schulung`
 
-_Wenn es um Mitarbeiteraktienprogramme (ESOP / LTIP / RSU) – Insiderrechtliche Risiken in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Mitarbeiteraktienprogramme (ESOP / LTIP / RSU) – Insiderrechtliche Risiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Mitarbeiteraktienprogramme (ESOP / LTIP / RSU) – Insiderrechtliche Risiken
 
@@ -371,11 +371,11 @@ c) Keine diskretionären Handlungen nach Beginn der Insiderphasee
 
 ---
 
-## Skill: `analystencall`
+## Skill: `datenraum-kapitalerhoehung-insiderrecht`
 
-_Wenn es um Analysten-Calls und Investorenkommunikation – Selective Disclosure in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Datenraum-Management in Transaktionen – Insiderrechtliche Anforderungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Analysten-Calls und Investorenkommunikation – Selective Disclosure
+# Datenraum-Management in Transaktionen – Insiderrechtliche Anforderungen
 
 ## Arbeitsweg
 
@@ -388,141 +388,64 @@ _Wenn es um Analysten-Calls und Investorenkommunikation – Selective Disclosure
 
 ## Rechtlicher Rahmen
 
-Die selektive Weitergabe von Insiderinformationen an Analysten oder Investoren ist nach
-Art. 10 MAR verboten (unzulässige Offenlegung) und kann einen Verstoß gegen Art. 14 MAR
-darstellen (Tipping). Emittenten müssen sicherstellen, dass in Analysten-Calls, Roadshows
-und Einzelgesprächen keine nicht-öffentlichen kursrelevanten Informationen vermittelt werden.
-Selective Disclosure verstößt auch gegen Equal Treatment-Grundsätze (Art. 4 MAR).
+Der Zugang zu einem virtuellen Datenraum in M&A- oder Kapitalmarkttransaktionen begründet
+regelmäßig eine Insiderinformation für die Zugangsberechtigten. Art. 10 und 18 MAR setzen
+strenge Anforderungen an Informationskreis-Kontrolle, Protokollierung und Belehrung. Der
+Emittent bleibt verantwortlich für MAR-Compliance aller Datenraum-Nutzer.
 
 Rechtsgrundlagen:
-- Art. 10, 14 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
-- Art. 4 MAR (Gleiche Behandlung): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
-- BaFin-Emittentenleitfaden Kap. III: https://www.bafin.de/dok/8252648
+- Art. 10, 18 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- Art. 17 Abs. 4 MAR (Aufschub): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
 - § 119 WpHG: https://www.gesetze-im-internet.de/wphg/__119.html
+- BaFin-Emittentenleitfaden Kap. III: https://www.bafin.de/dok/8252648
 
 ## Ziel dieses Skills
 
-Dieser Skill stellt sicher, dass Analysten-Calls und Investorenkommunikation frei von Selective
-Disclosure sind und schützt den Emittenten vor MAR-Verstößen in der alltäglichen IR-Kommunikation.
+Erstellt die Governance für Datenräume in kapitalmarktrelevanten Transaktionen
+und stellt sicher, dass alle Zugangsberechtigten korrekt als Insider behandelt werden.
 
 ## Arbeitsprogramm
 
-### Schritt 1 – Pre-Call-Prüfung
+### Schritt 1 – Datenraum-Governance-Struktur
 
-Vor jedem Analysten-Call, Investorengespräch oder Roadshow-Termin:
-- Liegt eine aktuelle Insiderinformation vor? (Mit Compliance abstimmen)
-- Wenn ja: Gespräch absagen oder auf rein öffentliche Informationen beschränken
-- Erstelle Liste der Themen, die NICHT besprochen werden dürfen
+- Benenne einen Datenraum-Administrator (i.d.R. M&A-Kanzlei oder Investmentbank)
+- Definiere Zugriffsebenen (Stufe 1: Non-Insider-Informationen, Stufe 2: Insiderinformationen)
+- Führe separate Insiderlisten für jede Zugriffsebene
+- Beauftrage Datenraum-Anbieter mit aktiviertem Zugangsprotokoll (Wer hat wann welche
+ Dokumente geöffnet/heruntergeladen?)
 
-### Schritt 2 – Sprechregeln (Speaker-Guidelines)
+### Schritt 2 – Aufnahme in Insiderliste bei Zugriffserteilung
 
-- IR-Team und Vorstand: Nur auf Basis von veröffentlichten Informationen (Jahresbericht,
- Quartalsberichte, Ad-hoc-Mitteilungen) antworten
-- Verboten: Kommentierung von Marktgerüchten zu nicht-öffentlichen Transaktionen
-- Erlaubt: Erläuterung öffentlicher Informationen, Branchentrends, allgemeiner Strategie
-- „No-Comment" ist erlaubt und besser als eine Selective Disclosure
+- Jeder Nutzer der Insiderinformations-Ebene wird unverzüglich in die Insiderliste aufgenommen
+- Belehrung vor Zugriffserteilung (schriftlich, mit Zeitstempel)
+- Bestätigung des Nutzers, Belehrung empfangen zu haben
 
-### Schritt 3 – Q&A-Vorbereitung und Screening
+### Schritt 3 – Need-to-Know-Prinzip
 
-- Erstelle vor dem Call eine Liste erwarteter Fragen und Standard-Antworten
-- Screening: Welche Antworten könnten als Konfirmation von Insiderinformationen
- verstanden werden?
-- Klärung: Bestätigt eine Antwort eine bestehende Insiderinformation? → Nicht beantworten
+- Zugriffserteilung nur für Personen, deren Rolle die Information erfordert
+- Regelmäßige Überprüfung der Zugriffsberechtigungen (mind. bei jedem Meilenstein)
+- Sofortige Zugangssperrung bei Ausscheiden aus dem Prozess
 
-### Schritt 4 – Protokollierung
+### Schritt 4 – Exit-Management
 
-- Alle Analysten-Calls aufzeichnen (Einwilligung der Teilnehmer einholen)
-- Protokoll oder Transkript anfertigen
-- Aufbewahrung 5 Jahre
-- Nachbearbeitung: Wurden unbeabsichtigt kursrelevante Informationen kommuniziert?
+Nach Abschluss des Prozesses (Signing, Closing, Abbruch):
+- Schließung des Datenraums für alle Nutzer
+- Archivierung der Zugangsprotokolle (5 Jahre)
+- Bestätigung der Datenvernichtung von allen externen Parteien einholen
+- Insiderlisten-Eintrag: Austrittsdatum für alle Nutzer eintragen
 
-### Schritt 5 – Post-Call-Pflichten
+### Schritt 5 – Aufschub-Integration
 
-Wenn im Call versehentlich eine Insiderinformation offengelegt wurde:
-- Sofortige Einschaltung von Compliance
-- Prüfung: Ad-hoc-Pflicht nach Art. 17 MAR (Öffentlichkeit herstellen)
-- Prüfung: Hat der informierte Analyst Transaktionen auf Basis dieser Information getätigt?
- → Meldung an BaFin erforderlich
-
----
-
-## Skill: `produktzulassung-whistleblower`
-
-_Wenn es um Produktzulassung – Insiderrecht bei regulatorischen Entscheidungen in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Produktzulassung – Insiderrecht bei regulatorischen Entscheidungen
-
-## Arbeitsweg
-
-- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
-- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
-- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
-- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
-- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
-- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
-
-## Rechtlicher Rahmen
-
-In regulierten Industrien (Pharma, Medtech, Energie, Finanzdienstleistungen) können
-Produktzulassungsentscheidungen oder Behördenentscheidungen erhebliche Kursrelevanz
-aufweisen. Der Geltl/Daimler-Test (EuGH C-19/11) erfordert, dass auch Zwischenschritte
-im Zulassungsverfahren auf Insiderinformations-Qualität geprüft werden.
-
-Rechtsgrundlagen:
-- Art. 7 Abs. 2, 3 MAR (Zwischenschritte): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
-- EuGH C-19/11 (Geltl/Daimler): https://curia.europa.eu/juris/document/document.jsf?docid=123755
-- Art. 17 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
-- BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
-
-## Ziel dieses Skills
-
-Identifiziere insiderrelevante Zeitpunkte im Zulassungsverfahren, prüft
-Kursrelevanz von Zwischenschritten und steuert Timing und Inhalt der Ad-hoc-Meldungen.
-
-## Arbeitsprogramm
-
-### Schritt 1 – Zulassungsverfahren kartieren
-
-- Erstelle Prozessdiagramm: Antragstellung → Vorprüfung → klinische Phase (Pharma) →
- Behördenprüfung → vorläufige Entscheidung → finale Zulassung
-- Identifiziere alle wesentlichen Meilensteine (Advisory Committee Meeting, Complete
- Response Letter, Zulassungsbescheid)
-- Benenne interne Wissensträger für jeden Meilenstein
-
-### Schritt 2 – Geltl/Daimler-Test für jeden Meilenstein
-
-Je Meilenstein prüfen:
-- Ist das Ereignis konkret und hinreichend wahrscheinlich?
-- Ist es kursrelevant (positive Entscheidung? Negative Entscheidung? Auflagen?)?
-- Ist es noch nicht öffentlich?
-Beispiel Pharma: Positive Phase-III-Studie kann bereits Insiderinformation sein,
-auch wenn finale FDA/EMA-Entscheidung noch aussteht.
-
-### Schritt 3 – Kursrelevanz-Beurteilung
-
-- Analyse der Markterwartungen und Analystenbewertungen
-- Abweichung vom erwarteten Ergebnis: Positiv-Überraschung oder negatives Ergebnis?
-- Finanzielle Bedeutung des Produkts für den Emittenten (Umsatzanteil)
-- Vergleich mit Marktreaktionen auf ähnliche Zulassungsentscheidungen in der Branche
-
-### Schritt 4 – Aufschub und Vertraulichkeit
-
-- Laufende Verhandlungen mit Behörde: Legitimes Interesse am Aufschub?
-- Behördenverfahren haben typischerweise eigene Vertraulichkeitsregeln (z. B. EMA-Regeln)
-- Prüfe: Kann der Emittent Vertraulichkeit zuverlässig sicherstellen?
-
-### Schritt 5 – Ad-hoc-Timing und Koordination
-
-- Bei positiver Entscheidung: Sofortveröffentlichung ab Kenntnis (nicht erst nach offizieller
- Bekanntmachung durch Behörde)
-- Bei negativer Entscheidung: Ebenso unverzüglich
-- Koordination mit IR und Presse für simultane Kommunikation
+- Datenraum-Zugang und Aufschub nach Art. 17 Abs. 4 MAR sind parallel zu führen
+- Bei Leak: Sofortmaßnahmen (Skill ins-011) aktivieren
+- Bei Abbruch der Transaktion: Insiderinformation erlischt nur, wenn kein legitimes Interesse
+ mehr an Aufschub besteht; Compliance prüft neuen Status der Information
 
 ---
 
 ## Skill: `zwischenschritte-ma`
 
-_Wenn es um Zwischenschritte bei mehrstufigen Prozessen (M&A / Restrukturierung) in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Zwischenschritte bei mehrstufigen Prozessen (M&A / Restrukturierung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Zwischenschritte bei mehrstufigen Prozessen (M&A / Restrukturierung)
 
@@ -612,6 +535,81 @@ d) Ist die Information noch nicht öffentlich?
 - Wurden Handelsverbote für alle Wissensträger sichergestellt?
 - Wurde Market Sounding (Art. 11 MAR) korrekt angewendet, sofern potenzielle Investoren
  sondiert wurden?
+
+---
+
+## Skill: `analystencall`
+
+_Für Analysten-Calls und Investorenkommunikation – Selective Disclosure: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Analysten-Calls und Investorenkommunikation – Selective Disclosure
+
+## Arbeitsweg
+
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
+
+## Rechtlicher Rahmen
+
+Die selektive Weitergabe von Insiderinformationen an Analysten oder Investoren ist nach
+Art. 10 MAR verboten (unzulässige Offenlegung) und kann einen Verstoß gegen Art. 14 MAR
+darstellen (Tipping). Emittenten müssen sicherstellen, dass in Analysten-Calls, Roadshows
+und Einzelgesprächen keine nicht-öffentlichen kursrelevanten Informationen vermittelt werden.
+Selective Disclosure verstößt auch gegen Equal Treatment-Grundsätze (Art. 4 MAR).
+
+Rechtsgrundlagen:
+- Art. 10, 14 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- Art. 4 MAR (Gleiche Behandlung): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- BaFin-Emittentenleitfaden Kap. III: https://www.bafin.de/dok/8252648
+- § 119 WpHG: https://www.gesetze-im-internet.de/wphg/__119.html
+
+## Ziel dieses Skills
+
+Dieser Skill stellt sicher, dass Analysten-Calls und Investorenkommunikation frei von Selective
+Disclosure sind und schützt den Emittenten vor MAR-Verstößen in der alltäglichen IR-Kommunikation.
+
+## Arbeitsprogramm
+
+### Schritt 1 – Pre-Call-Prüfung
+
+Vor jedem Analysten-Call, Investorengespräch oder Roadshow-Termin:
+- Liegt eine aktuelle Insiderinformation vor? (Mit Compliance abstimmen)
+- Wenn ja: Gespräch absagen oder auf rein öffentliche Informationen beschränken
+- Erstelle Liste der Themen, die NICHT besprochen werden dürfen
+
+### Schritt 2 – Sprechregeln (Speaker-Guidelines)
+
+- IR-Team und Vorstand: Nur auf Basis von veröffentlichten Informationen (Jahresbericht,
+ Quartalsberichte, Ad-hoc-Mitteilungen) antworten
+- Verboten: Kommentierung von Marktgerüchten zu nicht-öffentlichen Transaktionen
+- Erlaubt: Erläuterung öffentlicher Informationen, Branchentrends, allgemeiner Strategie
+- „No-Comment" ist erlaubt und besser als eine Selective Disclosure
+
+### Schritt 3 – Q&A-Vorbereitung und Screening
+
+- Erstelle vor dem Call eine Liste erwarteter Fragen und Standard-Antworten
+- Screening: Welche Antworten könnten als Konfirmation von Insiderinformationen
+ verstanden werden?
+- Klärung: Bestätigt eine Antwort eine bestehende Insiderinformation? → Nicht beantworten
+
+### Schritt 4 – Protokollierung
+
+- Alle Analysten-Calls aufzeichnen (Einwilligung der Teilnehmer einholen)
+- Protokoll oder Transkript anfertigen
+- Aufbewahrung 5 Jahre
+- Nachbearbeitung: Wurden unbeabsichtigt kursrelevante Informationen kommuniziert?
+
+### Schritt 5 – Post-Call-Pflichten
+
+Wenn im Call versehentlich eine Insiderinformation offengelegt wurde:
+- Sofortige Einschaltung von Compliance
+- Prüfung: Ad-hoc-Pflicht nach Art. 17 MAR (Öffentlichkeit herstellen)
+- Prüfung: Hat der informierte Analyst Transaktionen auf Basis dieser Information getätigt?
+ → Meldung an BaFin erforderlich
 
 ---
 

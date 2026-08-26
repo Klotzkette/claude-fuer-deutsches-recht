@@ -1,6 +1,6 @@
 ---
 name: kollegialitaetsgebot-kompetenz-zweifel
-description: "Wenn es um Kollegialitätsgebot-Prüfung in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kollegialitaetsgebot Kompetenz Zweifel; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für Kollegialitätsgebot-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kollegialitätsgebot-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: wphg-tatbestand-beweis-und-belege
-description: "Wenn es um Wphg: Tatbestandsmerkmale, Beweisfragen und Beleglage in Regulatorisches Recht – Plugin für deutsches geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Wphg: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Wphg: Tatbestandsmerkmale, Beweisfragen und Beleglage

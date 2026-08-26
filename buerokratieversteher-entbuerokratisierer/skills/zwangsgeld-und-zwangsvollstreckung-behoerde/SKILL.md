@@ -1,6 +1,6 @@
 ---
 name: zwangsgeld-und-zwangsvollstreckung-behoerde
-description: "Wenn es um Zwangsgeld Und Zwangsvollstreckung Behoerde in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zwangsgeld und Zwangsvollstreckung Behörde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erklärt Androhung, Festsetzung, Ersatzvornahme, unmittelbaren Zwang, Vollstreckung und schnelle Gegenmaßnahmen.

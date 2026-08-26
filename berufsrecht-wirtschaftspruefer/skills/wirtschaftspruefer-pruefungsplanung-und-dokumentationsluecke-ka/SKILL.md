@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-pruefungsplanung-und-dokumentationsluecke-ka
-description: "Wenn es um Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Ka in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wirtschaftsprüfer Prüfungsplanung und Dokumentationslücke Ka: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: pruefungsplanung und dokumentationsluecke - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

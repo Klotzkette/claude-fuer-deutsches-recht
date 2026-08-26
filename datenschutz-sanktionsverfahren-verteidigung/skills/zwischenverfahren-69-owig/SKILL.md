@@ -1,6 +1,6 @@
 ---
 name: zwischenverfahren-69-owig
-description: "Wenn es um Zwischenverfahren Paragraf 69 OWiG in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zwischenverfahren Paragraf 69 OWiG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Zwischenverfahren § 69 OWiG

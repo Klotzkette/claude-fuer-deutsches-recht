@@ -1,6 +1,6 @@
 ---
 name: strafverfahren-beschuldigter
-description: "Wenn es um ELS-J im Strafverfahren in Einfache und Leichte Sprache für juristische Texte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für ELS-J im Strafverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ELS-J im Strafverfahren

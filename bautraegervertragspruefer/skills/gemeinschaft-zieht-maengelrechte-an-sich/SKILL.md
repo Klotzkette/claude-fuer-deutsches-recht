@@ -1,6 +1,6 @@
 ---
 name: gemeinschaft-zieht-maengelrechte-an-sich
-description: "Wenn es um Gemeinschaft zieht Mängelrechte an sich in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gemeinschaft zieht Mängelrechte an sich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gemeinschaft zieht Mängelrechte an sich

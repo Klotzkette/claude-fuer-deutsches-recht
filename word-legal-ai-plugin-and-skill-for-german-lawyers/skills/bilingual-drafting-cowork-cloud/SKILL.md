@@ -1,6 +1,6 @@
 ---
 name: bilingual-drafting-cowork-cloud
-description: "Wenn es um Bilinguales Drafting Deutsch-Englisch in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Bilinguales Drafting Deutsch-Englisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bilinguales Drafting Deutsch-Englisch

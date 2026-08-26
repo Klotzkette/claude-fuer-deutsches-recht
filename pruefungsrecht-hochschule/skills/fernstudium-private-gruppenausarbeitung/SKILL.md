@@ -1,6 +1,6 @@
 ---
 name: fernstudium-private-gruppenausarbeitung
-description: "Wenn es um Fernstudium und private Prüfstelle in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fernstudium und private Prüfstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fernstudium und private Prüfstelle

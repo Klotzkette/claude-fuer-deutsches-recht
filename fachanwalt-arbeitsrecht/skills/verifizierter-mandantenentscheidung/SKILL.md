@@ -1,6 +1,6 @@
 ---
 name: verifizierter-mandantenentscheidung
-description: "Wenn es um Verifizierter Mandantenentscheidung in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verifizierter Mandantenentscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verifizierte Mandantenentscheidung: strukturierter Entscheidungsprozess für Mandanten vor rechtlich verbindlichen Schritten — Klage, Aufhebungsvertrag, Vergleich, Widerspruch
@@ -107,3 +107,7 @@ Wenn der Mandant eine Entscheidung treffen will, die nach Einschätzung des Anwa
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für die individuelle Mandantenberatung.
 - Keine Muster-Vollmacht oder Mandatsvertrag.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-verifizierter-mandantenentscheidung` beziehungsweise Verifizierter: Mandantenkommunikation und Entscheidungsvorlage: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-verifizierter-mandantenentscheidung.md).

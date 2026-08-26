@@ -1,6 +1,6 @@
 ---
 name: unterschriftspruefung
-description: "Wenn es um Unterschriftspruefung in Plugin: status-navigator-step-plan geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unterschriftsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Unterschriftspruefung

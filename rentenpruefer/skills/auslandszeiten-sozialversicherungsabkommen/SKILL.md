@@ -1,6 +1,6 @@
 ---
 name: auslandszeiten-sozialversicherungsabkommen
-description: "Wenn es um auslandszeiten-sozialversicherungsabkommen in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für auslandszeiten-sozialversicherungsabkommen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # auslandszeiten-sozialversicherungsabkommen

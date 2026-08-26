@@ -1,6 +1,6 @@
 ---
 name: inv-051-press-strategy
-description: "Wenn es um Internal Investigation: Press Strategy in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internal Investigation: Press Strategy: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Press Strategy

@@ -1,6 +1,6 @@
 ---
 name: recherche-quality-gate-raeumung
-description: "Wenn es um ZVG-Portal-Recherche in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ZVG-Portal-Recherche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # ZVG-Portal-Recherche

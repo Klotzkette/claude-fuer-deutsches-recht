@@ -1,6 +1,6 @@
 ---
 name: rumor-control-center
-description: "Wenn es um Rumor Control Center in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rumor Control Center: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rumor Control Center

@@ -1,6 +1,6 @@
 ---
 name: kandidaten-altposts-screening
-description: "Wenn es um Kandidaten Altposts Screening in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kandidaten Altposts Screening: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kandidaten Altposts Screening

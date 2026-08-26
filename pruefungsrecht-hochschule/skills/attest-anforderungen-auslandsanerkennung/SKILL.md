@@ -1,6 +1,6 @@
 ---
 name: attest-anforderungen-auslandsanerkennung
-description: "Wenn es um Attestanforderungen Hochschule in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Attestanforderungen Hochschule: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Attestanforderungen Hochschule

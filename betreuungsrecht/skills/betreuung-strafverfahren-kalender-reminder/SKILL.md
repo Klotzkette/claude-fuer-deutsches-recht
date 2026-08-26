@@ -1,6 +1,6 @@
 ---
 name: betreuung-strafverfahren-kalender-reminder
-description: "Wenn es um Betreuung im Strafverfahren in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuung Strafverfahren Kalender Reminder; Arbeitsfeld: Betreuungsrecht."
+description: "Für Betreuung im Strafverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: betreuung-strafverfahren-kalender-reminder."
 ---
 
 # Betreuung im Strafverfahren

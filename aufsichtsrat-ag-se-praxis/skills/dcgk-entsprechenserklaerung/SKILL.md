@@ -1,6 +1,6 @@
 ---
 name: dcgk-entsprechenserklaerung
-description: "Wenn es um Dcgk Entsprechenserklaerung in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Dcgk Entsprechenserklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dcgk Entsprechenserklaerung

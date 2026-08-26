@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-aerztlicher-honoraranspruch
-description: "Wenn es um Verjährung ärztlicher Honoraranspruch in GOÄ Gebührenordnung für Ärzte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verjährung ärztlicher Honoraranspruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Verjährung ärztlicher Honoraranspruch

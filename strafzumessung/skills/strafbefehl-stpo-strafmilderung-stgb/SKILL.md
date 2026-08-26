@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-stpo-strafmilderung-stgb
-description: "Wenn es um Strafzumessung im Strafbefehlsverfahren — Paragraf 407 StPO in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafzumessung im Strafbefehlsverfahren — Paragraf 407 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafzumessung im Strafbefehlsverfahren — § 407 StPO

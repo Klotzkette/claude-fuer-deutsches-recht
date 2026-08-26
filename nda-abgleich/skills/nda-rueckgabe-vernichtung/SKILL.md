@@ -1,6 +1,6 @@
 ---
 name: nda-rueckgabe-vernichtung
-description: "Wenn es um NDA: Rueckgabe/Vernichtung in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nda Rueckgabe Vernichtung; Arbeitsfeld: NDA-Abgleich."
+description: "Für NDA: Rückgabe/Vernichtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NDA-Abgleich. Route: nda-rueckgabe-vernichtung."
 ---
 
 # NDA: Rueckgabe/Vernichtung

@@ -1,6 +1,6 @@
 ---
 name: register-patentanmeldung-anspruchsentwurf
-description: "Wenn es um Rechtsstand, Register und Fristen in patentrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsstand, Register und Fristen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Rechtsstand, Register und Fristen

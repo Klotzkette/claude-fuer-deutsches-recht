@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf
-description: "Wenn es um Q-12-Frühwarn-Skill für Großkanzlei-Mandate mit absehbarem Sanierungsbedarf in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Q-12-Frühwarn-Skill für Großkanzlei-Mandate mit absehbarem Sanierungsbedarf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Q-12-Frühwarn-Skill für Großkanzlei-Mandate mit absehbarem Sanierungsbedarf

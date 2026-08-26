@@ -1,6 +1,6 @@
 ---
 name: sondereffekt-grossauftrag-stundungs
-description: "Wenn es um Liqui Sondereffekt Grossauftrag Stundungs in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Liqui Sondereffekt Grossauftrag Stundungs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liqui Sondereffekt Grossauftrag Stundungs

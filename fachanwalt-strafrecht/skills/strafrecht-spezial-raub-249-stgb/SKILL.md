@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-raub-249-stgb
-description: "Wenn es um Raub nach Paragraf 249 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Raub nach Paragraf 249 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Raub nach § 249 StGB

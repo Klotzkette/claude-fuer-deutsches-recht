@@ -1,6 +1,6 @@
 ---
 name: versicherung-objekt-untergang-und-ersatz
-description: "Wenn es um Versicherung im Leasingrecht: Untergang und Ersatz in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Versicherung im Leasingrecht: Untergang und Ersatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versicherung im Leasingrecht: Untergang und Ersatz

@@ -1,6 +1,6 @@
 ---
 name: vbr-011-schlichtung-und-vsbg-pruefen
-description: "Wenn es um Schlichtung Und Vsbg Pruefen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schlichtung und Vsbg Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: vbr-011-schlichtung-und-vsbg-pruefen."
 ---
 
 # Schlichtung Und Vsbg Pruefen

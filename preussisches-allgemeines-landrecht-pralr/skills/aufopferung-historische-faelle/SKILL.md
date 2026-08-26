@@ -1,6 +1,6 @@
 ---
 name: aufopferung-historische-faelle
-description: "Wenn es um Pralr Aufopferung Historische Faelle Pockenimpfung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aufopferung Historische Faelle; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Aufopferung Historische Fälle Pockenimpfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: aufopferung-historische-faelle."
 ---
 
 # Pralr Aufopferung Historische Faelle Pockenimpfung

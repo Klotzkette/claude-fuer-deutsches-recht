@@ -1,6 +1,6 @@
 ---
 name: kritisches-red-team-ideologie
-description: "Wenn es um Kritisches Red-Team in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kritisches Red-Team: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Kritisches Red-Team

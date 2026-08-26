@@ -1,6 +1,6 @@
 ---
 name: space-008-deutsches-weltraumgesetz-planung-uebergang
-description: "Wenn es um Weltraumrecht: Deutsches Weltraumgesetz Planungsstand und Übergangsrisiko in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Deutsches Weltraumgesetz Planungsstand und Übergangsrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Weltraumrecht: Deutsches Weltraumgesetz Planungsstand und Übergangsrisiko

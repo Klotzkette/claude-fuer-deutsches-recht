@@ -1,6 +1,6 @@
 ---
 name: ki-vo-anhang-iii-robotik-usecases
-description: "Wenn es um Anhang III Robotik Use Cases in robotik-recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Ki Vo Anhang Iii Robotik Usecases; Arbeitsfeld: robotik-recht."
+description: "Für Anhang III Robotik Use Cases: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: ki-vo-anhang-iii-robotik-usecases."
 ---
 
 # Anhang III Robotik Use Cases

@@ -1,6 +1,6 @@
 ---
 name: kommunalrecht-paragraf-2-go
-description: "Wenn es um Kommunalrecht Paragraf 2 go in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunalrecht Paragraf 2 go: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunalrecht § 2 go

@@ -1,6 +1,6 @@
 ---
 name: flugportal-sammelfaehigkeit-pruefen
-description: "Wenn es um Flugportal Sammelfaehigkeit Prüfen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Flugportal Sammelfähigkeit Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Verbraucherschutzverband Durchsetzung. Route: flugportal-sammelfaehigkeit-pruefen."
 ---
 
 # Flugportal Sammelfaehigkeit Prüfen

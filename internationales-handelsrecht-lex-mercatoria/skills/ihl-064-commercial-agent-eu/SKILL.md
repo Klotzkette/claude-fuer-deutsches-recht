@@ -1,6 +1,6 @@
 ---
 name: ihl-064-commercial-agent-eu
-description: "Wenn es um Commercial Agent EU in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Commercial Agent EU: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Commercial Agent EU

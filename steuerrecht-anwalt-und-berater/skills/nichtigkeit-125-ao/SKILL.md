@@ -1,6 +1,6 @@
 ---
 name: nichtigkeit-125-ao
-description: "Wenn es um Nichtigkeit eines Steuerbescheids — Paragraf 125 AO in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nichtigkeit eines Steuerbescheids — Paragraf 125 AO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nichtigkeit eines Steuerbescheids — § 125 AO

@@ -1,6 +1,6 @@
 ---
 name: gmbh-informationsrechte
-description: "Wenn es um Gmbh Informationsrechte in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für GmbH Informationsrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gmbh Informationsrechte

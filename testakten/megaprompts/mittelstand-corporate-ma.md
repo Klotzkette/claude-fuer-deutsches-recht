@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 101 Skills des Plugins `mittelstand-corpo
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Mittelstand Corporate Ma ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ver…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Mittelstands-Corporate/M&A geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden n…
-3. **beirat-gmbh-zustimmungskatalog-und-konfliktmatrix** — Wenn es um GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik in Mittelstands-Corporate/M&A geht: ordnet …
-4. **rechtsabteilung-familiengesellschafter-und-zustimmungsketten** — Wenn es um Rechtsabteilung: Familiengesellschafter und Zustimmungsketten in Mittelstands-Corporate/M&A geht: ordnet Sach…
-5. **rechtsabteilung-garantiekatalog-vendor-due** — Wenn es um Rechtsabteilung: Garantiekatalog ohne Großkanzlei-Overkill in Mittelstands-Corporate/M&A geht: ordnet Sachver…
-6. **mittelstand-ma-insolvenzreife** — Wenn es um Freistehender Insolvenzreife- und StaRUG-Schwellencheck (Mittelstand) in Mittelstands-Corporate/M&A geht: ers…
-7. **beirat-compliance-und-internal-investigation** — Wenn es um Beirat Compliance Und Internal Investigation in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Be…
-8. **rechtsabteilung-earn-out-bei-mittelstandsverkauf** — Wenn es um Rechtsabteilung: Earn-out bei Mittelstandsverkauf in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Nor…
-9. **rechtsabteilung-vendor-due-diligence-fuer-versteckte-altlasten** — Wenn es um Rechtsabteilung: Vendor Due Diligence für versteckte Altlasten in Mittelstands-Corporate/M&A geht: ordnet Akt…
-10. **beirat-fakultativer-aufsichtsrat-52-gmbhg** — Wenn es um Beirat Fakultativer Aufsichtsrat 52 Gmbhg in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Bewei…
+2. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+3. **beirat-gmbh-zustimmungskatalog-und-konfliktmatrix** — Für GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebn…
+4. **ki-governance-berufsrecht** — Für digitale Werkzeuge-Governance und Berufsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit …
+5. **beirat-compliance-und-internal-investigation** — Für Beirat Compliance und Internal Investigation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit R…
+6. **regulatory-fdi-merger-control** — Für Fusionskontrolle und Investitionskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ris…
+7. **beirat-datenschutz-ki-deadlock-mechanik** — Für Beirat Datenschutz und digitale Werkzeuge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risi…
+8. **beirat-fakultativer-aufsichtsrat-52-gmbhg** — Für Beirat Fakultativer Aufsichtsrat 52 GmbHG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risi…
+9. **signing-closing-conditions** — Für Signing, Closing und Conditions Precedent: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risi…
+10. **freundlicher-copilot** — Für Freundlicher Deal-Copilot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkei…
 
 ---
 
@@ -138,7 +138,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Pflichtverletzung, Schade
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Mittelstands-Corporate/M&A geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -418,7 +418,7 @@ Das Plugin ist freistehend konzipiert und benoetigt keine externen Datenbanken. 
 
 ## Skill: `beirat-gmbh-zustimmungskatalog-und-konfliktmatrix`
 
-_Wenn es um GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A._
 
 # GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
 
@@ -442,67 +442,11 @@ Der GmbH-Beirat ist Vertragstechnik mit Organwirkungspotenzial. Der Skill hilft,
 
 ---
 
-## Skill: `rechtsabteilung-familiengesellschafter-und-zustimmungsketten`
+## Skill: `ki-governance-berufsrecht`
 
-_Wenn es um Rechtsabteilung: Familiengesellschafter und Zustimmungsketten in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für digitale Werkzeuge-Governance und Berufsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A._
 
-# Rechtsabteilung: Familiengesellschafter und Zustimmungsketten
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsabteilung: Familiengesellschafter und Zustimmungsketten` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Rechtsabteilung: Familiengesellschafter und Zustimmungsketten
-- **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
-- **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Spezialkern: Rechtsabteilung: Familiengesellschafter und Zustimmungsketten
-
-- **Konkretes Problem:** Zustimmungen, Vorkaufsrechte, Güterstand und Nachfolge werden vor Signing gesichert.
-- **Norm-/Quellenanker:** GmbHG, BGB/SPA, HGB, UmwG, BetrVG/§ 613a BGB, Steuer-/Kartell-/AWV-Schnittstellen und mittelstandsnahe Governance.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-GmbHG, HGB Personengesellschaften, Ehe-/Erbrecht-Schnittstellen
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Zustimmungen, Vorkaufsrechte, Güterstand und Nachfolge werden vor Signing gesichert.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
-## Skill: `rechtsabteilung-garantiekatalog-vendor-due`
-
-_Wenn es um Rechtsabteilung: Garantiekatalog ohne Großkanzlei-Overkill in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Rechtsabteilung: Garantiekatalog ohne Großkanzlei-Overkill
+# KI-Governance und Berufsrecht
 
 ## Arbeitsweg
 
@@ -513,291 +457,153 @@ _Wenn es um Rechtsabteilung: Garantiekatalog ohne Großkanzlei-Overkill in Mitte
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsabteilung: Garantiekatalog ohne Großkanzlei-Overkill` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `KI-Governance und Berufsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Fachkern: Rechtsabteilung: Garantiekatalog ohne Großkanzlei-Overkill
+## Fachkern: KI-Governance und Berufsrecht
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
 
-## Spezialkern: Rechtsabteilung: Garantiekatalog ohne Großkanzlei-Overkill
+## Wann wird dieser Skill aufgerufen
+Typische Auslöser:
+- "Ich habe hier KI-Governance und Berufsrecht und brauche einen belastbaren nächsten Schritt."
+- "Bitte prüfe das für einen Unternehmenskauf oder -verkauf aus Sicht von Käufer, Verkäufer oder Zielgesellschaft."
+- "Mach daraus eine kurze Mandantenunterlage mit Risiken, offenen Punkten und To-dos."
+- "Welche Dokumente, Registerauszüge, Freigaben oder Fristen fehlen noch?"
+
+Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` oder `/mittelstand-corporate-ma:mittelstand-corporate-ma-matter-file`. Wenn der Nutzer nur eine kurze Unternehmer-E-Mail will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
-- **Konkretes Problem:** Garantien werden für Mittelstandstransaktionen risikobasiert gestrafft.
-- **Norm-/Quellenanker:** GmbHG, BGB/SPA, HGB, UmwG, BetrVG/§ 613a BGB, Steuer-/Kartell-/AWV-Schnittstellen und mittelstandsnahe Governance.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
+## Voraussetzungen und Kontext laden
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
+
+Benötigte Unterlagen:
+- Mandatsanfrage, Konfliktcheck, Rollenmatrix, Budget und Deal-Timeline.
+- Kommunikationskanäle, Vertraulichkeitsstufen, Review-Gates und Eskalationspfade.
+- Vorlagen für Deal-Karte, Workstream-Plan, Unternehmer-Statusbericht und Billing Narrative.
 
-## Norm- und Rechtsprechungsanker
+Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `gegenpartei`, `jurisdiktionen`, `frist_oder_closing`, `materiality_threshold`, `owner`, `source_tag`.
+
+## Workflow
+1. **Deal-Kontext fixieren.** Bestimme Rolle, Phase, Transaktionsstruktur, Zielgesellschaft und Entscheidungsempfänger. Wenn Rolle oder Phase fehlen, frage genau eine Rückfrage; bei Fristdruck arbeite mit `[Annahme - prüfen]` weiter.
+2. **Quellen inventarisieren.** Liste alle Dokumente mit Datum, Version, Quelle, Datenraum-ID und Vertraulichkeitsstufe. Markiere Uploads als `[Mandant]`, öffentliche Register als `[Register]`, Gerichts-/Behördenquellen als `[Primärquelle]` und Modellwissen als `[Modellwissen - prüfen]`.
+3. **Mittelstandsrealität abbilden.** Prüfe, ob Gesellschafter, Geschäftsführung, Familie, Hausbank, Steuerberater, Notar oder Beirat faktisch mitentscheiden. Dokumentiere informelle Absprachen als Risiko, nicht als Rechtsgrundlage.
+4. **Materiality-Schwelle setzen.** Fehlt eine vertragliche Schwelle, arbeite mit pragmatischer Ampel: Dealbreaker, Kaufpreis-/Freistellungsfolge, Closing-Bedingung, Disclosure-only, Housekeeping.
+5. **Normenprüfung durchführen.** Prüfe die unten genannten Normgruppen bezogen auf den konkreten Deal-Schritt: Wirksamkeit, Zustimmung, Vollzugshindernis, Haftung, Offenlegung, Frist, Beweisquelle.
+6. **Belegkette bauen.** Jede wesentliche Aussage braucht Quelle, Dokument, Fundstelle und Unsicherheitsmarker. Keine Fundstelle erfinden. Wenn ein Registerauszug, eine BGH-/EuGH-Entscheidung oder Behördenpraxis nicht abrufbar ist, steht `[zu verifizieren]`.
+7. **Risikomatrix erstellen.** Gib pro Punkt aus: Sachverhalt, Rechtsfrage, Norm, Subsumtion, Risikoampel, wirtschaftliche Auswirkung, empfohlene Aktion, Owner, Deadline und Folge-Skill.
+8. **Draft oder Review-Gate wählen.** Wenn die Tatsachen reichen, liefere den gewünschten Output. Wenn nicht, liefere eine Information-Request-Liste oder ein kurzes Partner-/Mandantenmemo mit genau den offenen Entscheidungen.
+9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Mandantenmail, Notarcheckliste oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
+10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-BGB §§ 280, 311; HGB; GmbHG; AGB-Recht bei Musterverträgen
+## Prüfraster im Gutachtenstil
+**Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite wirtschaftlich sinnvoll steuerbar ist.
 
-## Sofortprüfung
+**1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
 
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
+**2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
+- BRAO § 43a, BORA § 3 und BRAO § 49b für Verschwiegenheit, Konflikt und Honorar.
+- GwG §§ 10 ff. für Mandatsannahme und wirtschaftlich Berechtigte.
+- DSGVO Art. 5, 6, 25 und 32 für Datenminimierung, Rollen und Sicherheit.
+- BGB §§ 611a, 675 und 280 für Beratungs- und Haftungsrahmen.
 
-## Fachlicher Zuschnitt
+**3. Organ- und Zuständigkeitsprüfung.** Nur wenn der konkrete Arbeitsschritt eine Organentscheidung vorbereitet, Zuständigkeit, Zustimmungsvorbehalte, Interessenkonflikte, Informationsgrundlage und Dokumentation prüfen. Der fachlich passende Haftungs- oder Board-Paper-Skill liefert die dafür einschlägige Rechtsprechung; ARAG/Garmenbeck ist kein Universalanker.
 
-Garantien werden für Mittelstandstransaktionen risikobasiert gestrafft.
+**4. Register- und Gesellschafterlistenlogik.** Nur bei GmbH-Anteilen, Einziehung, Vollmachtskette oder streitiger Legitimation Paragraf 16 und 40 GmbHG sowie Registerstand und materielle Berechtigung getrennt prüfen. Ohne solche Title- oder Legitimationsfrage diesen Prüfstrang auslassen.
 
-## Output für die Rechtsabteilung
+**5. Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen, Bankzustimmung, Vermieterzustimmung oder branchenspezifische Genehmigungen berührt sind, muss das Ergebnis lauten: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld-, Nichtigkeits- oder Kündigungsfolge?
 
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
 
----
+**Zwischenergebnis:** Formuliere als Ampel: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet im Mittelstand regelmäßig: nicht unterschreiben, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner, Steuerteam oder Spezialist freigegeben hat.
 
-## Skill: `mittelstand-ma-insolvenzreife`
+## Output-Module
+- **Mandantenvermerk:** Kurzbild, Sachverhalt, Normen, Subsumtion, Risikoampel, Empfehlung.
+- **Issue List:** Finding, Quelle, Risiko, Vertragsfolge, Kaufpreis-/Freistellungsfolge, Owner, Deadline.
+- **Information Request:** konkrete Fragen an Mandant, Gegenseite, Steuerberater, Notar oder Datenraum-Team.
+- **Drafting-Anschluss:** Klauselvorschlag, Markup-Kommentar, Disclosure-Punkt, CP-Formulierung oder Mandantenmail.
+- **Matter-Update:** kurzer Eintrag für `history.md` und ggf. Frist-/Owner-Eintrag für `fristen.yaml`.
 
-_Wenn es um Freistehender Insolvenzreife- und StaRUG-Schwellencheck (Mittelstand) in Mittelstands-Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
-# Freistehender Insolvenzreife- und StaRUG-Schwellencheck (Mittelstand)
+## Quellen und Zitierregel
+Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Quellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und Link auf `dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu` oder `eur-lex.europa.eu`. Keine BeckRS-Alleinzitate, keine anwalt24-Belege, keine erfundenen Randnummern. Quellen-Tags: `[Mandant]`, `[Register]`, `[BGH-Datenbank]`, `[dejure.org]`, `[EUR-Lex]`, `[Web-Recherche - prüfen]`, `[Modellwissen - prüfen]`.
 
-## Arbeitsbereich
+## Hand-Off zu anderen Skills
+Nach diesem Skill weiter mit:
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-deal-intake` - wenn das Mandatsprofil, Rollen, Fristen und Budget sauber aufgenommen werden müssen.
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-matter-file` - wenn Deal-Karte, Workstreams, Fristen und Dokumentenlog in eine laufende Akte geschrieben werden sollen.
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` - wenn mehrere Workstreams konkurrieren und der nächste Primärpfad neu bestimmt werden muss.
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-steps-plan-pmo` - wenn Termine, CPs, Freigaben und Owner in einen belastbaren Transaktionsplan müssen.
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-datenraum-aufbau` - wenn Dokumente, Datenraumlücken oder Clean-Room-Fragen der nächste Engpass sind.
 
-Unternehmen in M&A-Situation oder Krise und Anwalt prüft ob Insolvenzantragspflicht besteht: Zahlungsunfähigkeit drohende Zahlungsunfähigkeit Überschuldung StaRUG-Schwelle. Normen §§ 17-19 InsO § 15a InsO §§ 1-4 StaRUG. Prüfraster Zahlungsunfähigkeitstest Überschuldungsprüfung Fortbestehensprognose Antragspflicht-Timing. Output Insolvenzreife-Ampel Antragspflicht-Gutachten Handlungsempfehlung. Abgrenzung zu restructuring-starug-insolvenzplan (Plangestaltung) und liquiditaetsvorschau (Cash-Modell). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+## Was dieser Arbeitsgang nicht macht
+- Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
+- Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
+- Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
+- Er vermischt nicht DD-Finding, Vertragsrisiko und wirtschaftliche Bewertung; diese Ebenen bleiben getrennt.
+- Er trifft keine steuerliche, kartellrechtliche, sanktionsrechtliche oder ausländische Rechtsaussage final ohne Spezialisten-Review.
+- Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
 
-## Arbeitsweg
+## Berufsrechtliche Hinweise
+Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freistehender Insolvenzreife- und StaRUG-Schwellencheck (Mittelstand)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+### KI-Governance und Berufsrecht
 
-## Fachkern: Freistehender Insolvenzreife- und StaRUG-Schwellencheck (Mittelstand)
-- **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
-- **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
+## Arbeitsmodus
 
-## Kernsachverhalt
+- Datenklassen und erlaubte Tools erfassen.
+- Need-to-know, Pseudonymisierung, AVV/TOMs und Verschwiegenheit dokumentieren.
+- Ungeprüfte KI-Outputs und menschliche Validierung trennen.
+- Mandantenhinweise und interne Freigaben vorbereiten.
 
-Im Mittelstand ist die Insolvenzreife-Prüfung besonders heikel, weil der Gesellschafter-Geschäftsführer häufig selbst der einzige Entscheidungsträger ist und keine unabhängige Kontrolle stattfindet. Die Antragspflicht (§ 15a InsO) trifft ihn persönlich und ist strafrechtlich bewehrt (§ 15a Abs. 4 InsO). Gleichzeitig liegen die Warnsignale — BWA mit Verlusten, überzogener Kontokorrentkredit, Steuerrückstände, Lieferantensperren — oft offen auf dem Tisch, werden aber als vorübergehend bagatellisiert. In M&A-Prozessen gefährdet die Insolvenzreife des Zielunternehmens nicht nur das Closing, sondern führt auch dazu, dass der Käufer Schadensersatz verlangen kann oder vom Vertrag zurücktreten darf. Für den Berater ist die Dokumentation des Zeitpunkts der Kenntniserlangung von entscheidender Bedeutung.
+## Rote Schwellen
 
-## Kaltstart-Rückfragen
+- Mandatsgeheimnis im offenen Tool.
+- Kein Dienstleister-/AVV-Status.
+- KI-Output wird ohne Review nach außen gegeben.
 
-1. Welches ist der konkrete Anlass — DD-Krisencheck, GF-Beratung, StaRUG-Frühwarnung, laufender M&A-Prozess mit Liquiditätszweifel?
-2. Liegen vor: Bankkontoauszüge (aktuell), OPOS Kreditoren, BWA mit SuSa, letzter Jahresabschluss, Steuerrückstandsauskunft?
-3. Besteht ein überzogener Kontokorrentkredit? Hat die Hausbank Bedenken geäußert oder Kreditkündigungen angedroht?
-4. Sind Steuerrückstände (Finanzamt, Krankenkassen) vorhanden? Gibt es Vollstreckungsankündigungen oder -beschlüsse?
-5. Existieren Lieferantensperren oder Vorkasseforderungen als Krisenindikator?
-6. Hat der Steuerberater auf Fortführungszweifel hingewiesen (§ 321a HGB analog, Going-Concern)?
-7. Welche M&A-Auswirkungen sind zu prüfen — MAC-Trigger, Closing Condition, Kaufpreisminderung?
-8. Kennt der GF seine persönliche Haftungsexposition aus § 15b InsO?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+## Standardausgabe
 
-## Rechtsgrundlagen
+- Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
+- Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
+- Offene Punkte mit verantwortlicher Person, Frist und Eskalationsstufe.
+- Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
 
-### Normtexte
+## Übergabe an andere Skills
 
-| Norm | Regelungsinhalt (Auszug) |
-|---|---|
-| § 17 InsO | Zahlungsunfähigkeit: > 10 % Deckungslücke über 3 Wochen; maßgeblich für Antragspflicht |
-| § 18 InsO | Drohende Zahlungsunfähigkeit: Prognosezeitraum 24 Monate; StaRUG-Öffner |
-| § 19 InsO | Überschuldung: Passiva > Aktiva (Überschuldungsstatus); positiver Prognose als Korrektiv |
-| § 15a InsO | Antragspflicht: GmbH-GF, Vorstand, Liquidator; 3 Wochen (ZU), 6 Wochen (ÜS) |
-| § 15a Abs. 4 InsO | Strafbarkeit der Insolvenzverschleppung: bis zu 3 Jahre Freiheitsstrafe oder Geldstrafe |
-| § 15b InsO | Zahlungsverbote nach Insolvenzreife; GF haftet persönlich für masseschmälernde Zahlungen |
-| § 43 GmbHG | Sorgfaltspflicht des GF: Pflicht zur Liquiditätsüberwachung und frühzeitigen Krisenreaktion |
-| § 64 S. 1 GmbHG a.F. | (heute § 15b InsO): GF-Haftung für Zahlungen nach Insolvenzreife; durch Gesetzesreform 2021 in § 15b InsO überführt |
-| §§ 1–93 StaRUG | Vorinsolvenzlicher Restrukturierungsrahmen: Zugang nur bei § 18 InsO, nicht bei § 17 oder § 19 InsO ohne Prognose |
+- Komplexe Eingänge zuerst an `mittelstand-corporate-ma-kommandocenter` zurückspielen.
+- Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
+- Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
 
-### Leitentscheidungen
+## Vorlagen
 
-| Gericht | Az. | Datum | Leitsatz (kurz) |
-|---|---|---|---|
+- assets/templates/ai-use-disclosure-log.md
+- assets/templates/confidentiality-need-to-know-log.md
 
-## Prüfschema (Mittelstand)
+## Rechtliche Einbettung und Praxiswissen
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+### Normen und Quellen im M&A-Kontext
+- § 43a BRAO — anwaltliche Pflichten: Sorgfalt, Vollstaendigkeit, Unabhaengigkeit
+- §§ 675, 280 BGB — Beraterhaftung bei Pflichtverletzung
+- § 17 GeschGehG — Schutz von Geschäftsgeheimnissen; gilt für alle Mandatsinhalte
+- Art. 17 MAR — bei boersennotierten Zielobjekten: Ad-hoc-Pflicht und Vertraulichkeit
 
-| Schritt | Prüfungspunkt | Inhalt | Ergebnis |
-|---|---|---|---|
-| 1 | Datenqualität sicherstellen | Bankkontoauszüge, OPOS, BWA, JA, Steuerrückstandsauskunft; Lücken mit Verantwortlichem und Frist | Datenlücken-Liste |
-| 2 | Krisenindikator-Screening | Überzogener Kontokorrentkredit, Rücklastschriften, Lieferantensperren, Steuerrückstände, GF-Ratlosigkeit | Indikatoren dokumentiert |
-| 3 | Liquiditätsstatus erstellen | Aktuelle Banksalden; OPOS fällig < 3 Wochen; Deckungslücke berechnen | Deckungslücke EUR [X] |
-| 4 | § 17 InsO-Prüfung | Deckungslücke > 10 %? Dauer > 3 Wochen? Ausreichende Einzahlungen plausibel? | § 17 InsO: [Ja / Nein / unklar] |
-| 5 | Kontokorrentkredit-Status | KK ausgeschöpft? Bank hat Limit reduziert? Kreditkündigung droht? | KK-Status |
-| 6 | Steuer- und SV-Rückstände | Finanzamt, Krankenkassen, Berufsgenossenschaft; Vollstreckungsbescheide prüfen | Steuer/SV-Schulden |
-| 7 | Überschuldungsstatus (§ 19 InsO) | Bilanz-Passiva > Aktiva? Stille Lasten aufdecken: Pensionen, Prozessrisiken, Bürgschaften | Überschuldung: [Ja / Nein] |
-| 8 | Fortbestehensprognose | 12 Monate: konkrete Finanzierungszusage, Auftragsbestand, Saisonalität; nicht nur Hoffnung | Prognose: [positiv / negativ] |
-| 9 | § 18 InsO / StaRUG-Eignung | Drohende Zahlungsunfähigkeit 24 Monate; COMI in Deutschland; keine laufende Insolvenz | StaRUG: [geeignet / nicht geeignet] |
-| 10 | Antragspflicht-Frist | § 15a InsO: Fristbeginn dokumentieren; GF über Strafrechtrisiko informieren | Frist: [Datum] |
-| 11 | § 15b InsO-Exposition | Welche Zahlungen seit Insolvenzreife? GF über Rückforderungsrisiko aufklären | Zahlungs-Protokoll |
-| 12 | StaRUG-Frühwarnsystem | Restrukturierungsbeauftragter empfehlen? StaRUG-Anzeige? Gläubigergespräch? | StaRUG-Fahrplan |
-| 13 | Deal-Impact (M&A) | MAC-Klausel, Closing Condition, W&I-Ausschluss, Kaufpreisminderung durch Net Debt-Erhöhung | Deal Impact Memo |
-| 14 | Steuerberater und GF informieren | Schriftlicher Hinweis auf Insolvenzreife und persönliche Haftung; Dokumentation | Hinweis-Schreiben |
-| 15 | Senior-Review und Eskalation | Insolvenzrechtsspezialist einbinden; Human-in-the-loop; Mandats-Dokumentation | Eskalation dokumentiert |
-
-## Mittelstand-Krisenindikator-Checkliste
+### Quellenregel
 
-| Indikator | Schwellenwert / Kriterium | Handlungsbedarf |
-|---|---|---|
-| Kontokorrentkredit | Über 80 % ausgenutzt; Limit-Reduktion durch Bank | Bankgespräch; StaRUG prüfen |
-| Rücklastschriften | Mehr als 2 in einem Monat | Sofortige Liquiditätsvorschau |
-| Steuerrückstände | Umsatzsteuer > 2 Monate offen | Ratenzahlungsantrag; Insolvenzreife prüfen |
-| Lieferantensperren | Vorkasseforderungen > 3 Lieferanten | Verhandlungen; Liquiditätsstatus erstellen |
-| Lohnzahlung verzögert | Löhne > 5 Tage nach Fälligkeit | § 17 InsO-Prüfung sofort |
-| BWA-Verlust | Kumulierter Verlust > 50 % des Eigenkapitals | § 19 InsO-Prüfung |
-| Jahresabschluss-Testat | Prüfer verweigert Testat oder erteilt eingeschränktes Testat | Sofortige Beratung |
-
-## Beweislast
-
-| Beweisthema | Beweislastträger | Beweismittel |
-|---|---|---|
-| Zahlungsunfähigkeit bei Antragspflicht | Insolvenzverwalter | Bankkontoauszüge, OPOS, Rücklastschriften |
-| Fortbestehensprognose | GF | Finanzierungszusage (schriftlich), Auftragsbestand |
-| Zeitpunkt der Kenntniserlangung | GF / Insolvenzverwalter | BWA, E-Mails, Beraterkorrespondenz, Protokolle |
-| Masseschmälernde Zahlungen § 15b | Insolvenzverwalter | Kontoauszüge, Buchungsbelege, Stichtagsdokumentation |
-
-## Fristen und Verjährung
-
-| Fristtyp | Dauer | Norm | Hinweis |
-|---|---|---|---|
-| Antragspflicht — ZU | 3 Wochen | § 15a Abs. 1 InsO | Strafrechtliche Sanktion § 15a Abs. 4 InsO |
-| Antragspflicht — Überschuldung | 6 Wochen | § 15a Abs. 1 InsO | Keine Verlängerung |
-| § 15b-Haftung — Verjährung | 3 Jahre ab Kenntnis | §§ 195, 199 BGB | Direkthaftung GF |
-| StaRUG-Rahmen | Max. 24 Monate | §§ 31, 33 StaRUG | Bei § 17 InsO kein StaRUG-Zugang |
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Insolvenzreife für Mittelstand prüfen | Insolvenzreife-Prüfung nach Schema; Schriftsatz unten |
-| Variante A — Mittelstand hat noch Gesellschafter-Darlehen | Nachrangigkeit prüfen; Eigen- vs Fremdkapital abgrenzen |
-| Variante B — Sanierungs-LOI mit Investor vorhanden | Fortbestehensprognose mit LOI als Grundlage |
-| Variante C — Betrieb soll kurzfristig eingestellt werden | Kontrolllierte Liquidation statt Insolvenzantrag prüfen |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Schriftsatzbausteine
-
-### Baustein 1 — Hinweisschreiben an GF (Insolvenzreife-Verdacht)
-
-```
-ANWALTLICH VERTRAULICH
-
-An: [Name Geschäftsführer]
-Von: [Kanzlei]
-Datum: [TT.MM.JJJJ]
-
-Betreff: Erste Einschätzung zur Liquiditätslage [Firma GmbH]
-
-Sehr geehrte/r Herr/Frau [Name],
-
-auf Grundlage der uns vorliegenden Unterlagen (Bankkontoauszug [Datum], BWA [Monat],
-OPOS Kreditoren [Datum]) teilen wir Ihnen folgende erste Einschätzung mit:
-
-LIQUIDITÄTSSTATUS: Die fälligen Verbindlichkeiten übersteigen die verfügbare Liquidität
-um EUR [X] (ca. [Y] %). Dies überschreitet die BGH-Schwelle für Zahlungsunfähigkeit
-
-PERSÖNLICHE HAFTUNG: Bei Eintritt der Zahlungsunfähigkeit sind Sie als Geschäftsführer
-verpflichtet, innerhalb von 3 Wochen Insolvenzantrag zu stellen (§ 15a InsO). Zahlungen,
-die Sie nach Eintritt der Insolvenzreife leisten, können von einem späteren
-Insolvenzverwalter von Ihnen persönlich zurückgefordert werden (§ 15b InsO).
-
-EMPFOHLENE MASSNAHMEN:
-1. Sofortige Liquiditätsvorschau (nächste 3 Wochen) aufstellen.
-2. Steuerberater bis [Datum] konsultieren (aktualisierte BWA und Steuerstatus).
-3. Prüfen, ob StaRUG-Frühwarnung eingeleitet werden kann.
-4. Insolvenzantrag-Fristbeginn dokumentieren.
-
-Diese Einschätzung ersetzt keine vollständige insolvenzrechtliche Stellungnahme.
-Wir empfehlen die sofortige Einschaltung eines Restrukturierungsspezialisten.
-
-[Kanzlei, Unterschrift]
-```
-
-### Baustein 2 — Deal-Impact-Memo für den Käufer
-
-```
-VERTRAULICH — Deal Impact Memo
-Projekt: [Deal-Code]
-Datum: [TT.MM.JJJJ]
-
-Liquiditätsstatus Zielgesellschaft: AMPEL ROT (Stand [Datum])
-
-DEAL-AUSWIRKUNGEN:
-
-1. MAC-Klausel (SPA Ziffer [X]): Die festgestellte Liquiditätslücke von EUR [X]
- (> 10 % der fälligen Verbindlichkeiten) könnte als Material Adverse Change
- im Sinne der SPA-Definition zu qualifizieren sein.
- EMPFEHLUNG: Vollzug suspendieren bis zur Klärung.
-
-2. Closing Condition: Garantie der Zahlungsfähigkeit (SPA Ziffer [X]) ist bei
- Zahlungsunfähigkeit nicht erfüllt. Käufer kann Vollzug verweigern.
-
-3. Net Debt Erhöhung: Steuerrückstände EUR [X] und KK-Überziehung EUR [Y] erhöhen
- Net Debt um EUR [Z] → Kaufpreisminderung von EUR [Z] (per SPA-Mechanik).
-
-4. W&I-Versicherung: Police Ziffer [X] schließt Schäden aus, die auf Insolvenzreife
- beruhen. W&I-Broker informieren.
-
-NÄCHSTE SCHRITTE:
-- Käufer-Anwalt: MAC-Analyse bis [Datum] abschließen.
-- Käufer-Geschäftsführung: Finanzierungsbereitschaft bei MAC-Szenario neu bewerten.
-- W&I-Broker: Police-Ausschlüsse bis [Datum] klären.
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
-
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
-
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-## Streitwert und Kosten
-
-| Schadensfall | Ansatz | Norm |
-|---|---|---|
-| § 15b InsO-Haftung GF | Summe masseschmälernder Zahlungen | § 15b InsO |
-| StaRUG-Beratungskosten | EUR 30.000–300.000 je nach Komplexität | Budgetplanung GF |
-| Kaufpreisminderung (Net Debt) | Betrag der Schulden-Mehrung | SPA Completion Accounts |
-| Insolvenzverschleppungsschaden | Gläubigerschaden durch verzögerten Antrag | §§ 823 Abs. 2, 826 BGB |
-
-## Strategische Empfehlung
-
-| Akteur | Empfehlung |
-|---|---|
-| GmbH-GF | Wöchentlichen Liquiditätscheck durchführen; Steuerberater als Frühwarnsystem nutzen; bei Deckungslücke sofort Anwalt — keine Hoffnung auf Besserung ohne Plan |
-| Steuerberater | BWA proaktiv auswerten; Mandant bei Warnsignalen schriftlich hinweisen; Haftungsrisiko aus Schweigen kennen |
-| Käufer (Mittelstand-DD) | Insolvenzreife als Closing Condition absichern; MAC-Klausel mit konkretem Liquiditätsschwellenwert; Net-Debt-Stichtag wählen |
-
-## Anschluss-Skills
-
-- `mittelstand-ma-liquiditaetsvorschau` — Detaillierte Liquiditätsplanung
-- `corporate-kanzlei-restructuring-starug-insolvenzplan` — StaRUG-Planung
-- `mittelstand-ma-aktenanlage` — Dokumentation und Aktenführung
-- `anw-insolvenzreife-pruefung-17-19-inso` — Technische Insolvenzprüfung
-
-## Quellen
-
-- § 15a InsO (Insolvenzantragspflicht; Hoechstfrist 3 Wochen bei ZU / 6 Wochen bei UE seit SanInsFoG): https://www.gesetze-im-internet.de/inso/__15a.html
-- § 15b InsO (Zahlungsverbot bei Insolvenzreife; rechtsformneutral seit 01.01.2021): https://www.gesetze-im-internet.de/inso/__15b.html
-- §§ 17, 18, 19 InsO (Zahlungsunfaehigkeit, drohende ZU, Ueberschuldung): https://www.gesetze-im-internet.de/inso/__17.html
-- StaRUG (Unternehmensstabilisierungs- und -restrukturierungsgesetz; in Kraft seit 01.01.2021 durch SanInsFoG, BGBl. I 2020, 3256): https://www.gesetze-im-internet.de/starug/
-- StaRUG, insbesondere Paragrafen 2 bis 28 für Restrukturierungsplan und Annahme, Paragraf 31 für die Anzeige sowie Paragrafen 49 bis 59 für Stabilisierung: https://www.gesetze-im-internet.de/starug/
-- § 43 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__43.html
-- §§ 823, 826 BGB (Insolvenzverschleppungs-Haftung gegenueber Gläubigern als Schutzgesetz iVm § 15a InsO): https://www.gesetze-im-internet.de/bgb/__823.html
-- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+### Qualitaetssicherung
+- Human-in-the-loop bei allen hochrisikorelevanten Ausgaben
+- Dokumentation: Datum, Bearbeiter, Freigabe durch Senior
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
@@ -805,7 +611,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Skill: `beirat-compliance-und-internal-investigation`
 
-_Wenn es um Beirat Compliance Und Internal Investigation in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Beirat Compliance und Internal Investigation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A._
 
 # Beirat Compliance Und Internal Investigation
 
@@ -859,11 +665,11 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ---
 
-## Skill: `rechtsabteilung-earn-out-bei-mittelstandsverkauf`
+## Skill: `regulatory-fdi-merger-control`
 
-_Wenn es um Rechtsabteilung: Earn-out bei Mittelstandsverkauf in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Fusionskontrolle und Investitionskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A._
 
-# Rechtsabteilung: Earn-out bei Mittelstandsverkauf
+# Fusionskontrolle und Investitionskontrolle
 
 ## Arbeitsweg
 
@@ -874,52 +680,189 @@ _Wenn es um Rechtsabteilung: Earn-out bei Mittelstandsverkauf in Mittelstands-Co
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsabteilung: Earn-out bei Mittelstandsverkauf` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fusionskontrolle und Investitionskontrolle` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Fachkern: Rechtsabteilung: Earn-out bei Mittelstandsverkauf
+## Fachkern: Fusionskontrolle und Investitionskontrolle
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
 
-## Spezialkern: Rechtsabteilung: Earn-out bei Mittelstandsverkauf
+## Wann wird dieser Skill aufgerufen
+Typische Auslöser:
+- "Ich habe hier Fusionskontrolle und Investitionskontrolle und brauche einen belastbaren nächsten Schritt."
+- "Bitte prüfe das für einen Unternehmenskauf oder -verkauf aus Sicht von Käufer, Verkäufer oder Zielgesellschaft."
+- "Mach daraus eine kurze Mandantenunterlage mit Risiken, offenen Punkten und To-dos."
+- "Welche Dokumente, Registerauszüge, Freigaben oder Fristen fehlen noch?"
 
-- **Konkretes Problem:** Earn-out-KPIs, Manipulationsschutz und Post-Closing-Steuerung werden für Verkäufer und Käufer geprüft.
-- **Norm-/Quellenanker:** GmbHG, BGB/SPA, HGB, UmwG, BetrVG/§ 613a BGB, Steuer-/Kartell-/AWV-Schnittstellen und mittelstandsnahe Governance.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
+Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` oder `/mittelstand-corporate-ma:mittelstand-corporate-ma-matter-file`. Wenn der Nutzer nur eine kurze Unternehmer-E-Mail will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
-## Norm- und Rechtsprechungsanker
+## Voraussetzungen und Kontext laden
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
 
-BGB §§ 133, 157, 242; HGB-Rechnungslegung; SPA-Klauselpraxis
+Benötigte Unterlagen:
+- Transaktionsstruktur, Umsätze, Erwerberkontrolle, Zielbranche und Jurisdiktionen.
+- Signing-/Closing-Zeitplan, Vollzugsakte und Long-Stop-Date.
+- UBO-Daten, PEP-/Sanktionsscreening, Börsennotierung und Insiderlisten.
 
-## Sofortprüfung
+Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `gegenpartei`, `jurisdiktionen`, `frist_oder_closing`, `materiality_threshold`, `owner`, `source_tag`.
 
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
+## Workflow
+1. **Deal-Kontext fixieren.** Bestimme Rolle, Phase, Transaktionsstruktur, Zielgesellschaft und Entscheidungsempfänger. Wenn Rolle oder Phase fehlen, frage genau eine Rückfrage; bei Fristdruck arbeite mit `[Annahme - prüfen]` weiter.
+2. **Quellen inventarisieren.** Liste alle Dokumente mit Datum, Version, Quelle, Datenraum-ID und Vertraulichkeitsstufe. Markiere Uploads als `[Mandant]`, öffentliche Register als `[Register]`, Gerichts-/Behördenquellen als `[Primärquelle]` und Modellwissen als `[Modellwissen - prüfen]`.
+3. **Mittelstandsrealität abbilden.** Prüfe, ob Gesellschafter, Geschäftsführung, Familie, Hausbank, Steuerberater, Notar oder Beirat faktisch mitentscheiden. Dokumentiere informelle Absprachen als Risiko, nicht als Rechtsgrundlage.
+4. **Materiality-Schwelle setzen.** Fehlt eine vertragliche Schwelle, arbeite mit pragmatischer Ampel: Dealbreaker, Kaufpreis-/Freistellungsfolge, Closing-Bedingung, Disclosure-only, Housekeeping.
+5. **Normenprüfung durchführen.** Prüfe die unten genannten Normgruppen bezogen auf den konkreten Deal-Schritt: Wirksamkeit, Zustimmung, Vollzugshindernis, Haftung, Offenlegung, Frist, Beweisquelle.
+6. **Belegkette bauen.** Jede wesentliche Aussage braucht Quelle, Dokument, Fundstelle und Unsicherheitsmarker. Keine Fundstelle erfinden. Wenn ein Registerauszug, eine BGH-/EuGH-Entscheidung oder Behördenpraxis nicht abrufbar ist, steht `[zu verifizieren]`.
+7. **Risikomatrix erstellen.** Gib pro Punkt aus: Sachverhalt, Rechtsfrage, Norm, Subsumtion, Risikoampel, wirtschaftliche Auswirkung, empfohlene Aktion, Owner, Deadline und Folge-Skill.
+8. **Draft oder Review-Gate wählen.** Wenn die Tatsachen reichen, liefere den gewünschten Output. Wenn nicht, liefere eine Information-Request-Liste oder ein kurzes Partner-/Mandantenmemo mit genau den offenen Entscheidungen.
+9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Mandantenmail, Notarcheckliste oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
+10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Fachlicher Zuschnitt
+## Prüfraster im Gutachtenstil
+**Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite wirtschaftlich sinnvoll steuerbar ist.
 
-Earn-out-KPIs, Manipulationsschutz und Post-Closing-Steuerung werden für Verkäufer und Käufer geprüft.
+**1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
 
-## Output für die Rechtsabteilung
+**2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
+- GWB §§ 35 bis 41 für deutsche Fusionskontrolle und Vollzugsverbot.
+- AWV §§ 55 ff. und §§ 60 ff. für Investitionsprüfung.
+- GwG §§ 10, 11, 12 und 15 für Sorgfaltspflichten und verstärkte Prüfungen.
+- MAR Art. 7, 17 und 18 sowie WpÜG bei börsennotierter Zielgesellschaft.
 
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+**3. Organ- und Zuständigkeitsprüfung.** Nur wenn der konkrete Arbeitsschritt eine Organentscheidung vorbereitet, Zuständigkeit, Zustimmungsvorbehalte, Interessenkonflikte, Informationsgrundlage und Dokumentation prüfen. Der fachlich passende Haftungs- oder Board-Paper-Skill liefert die dafür einschlägige Rechtsprechung; ARAG/Garmenbeck ist kein Universalanker.
+
+**4. Register- und Gesellschafterlistenlogik.** Nur bei GmbH-Anteilen, Einziehung, Vollmachtskette oder streitiger Legitimation Paragraf 16 und 40 GmbHG sowie Registerstand und materielle Berechtigung getrennt prüfen. Ohne solche Title- oder Legitimationsfrage diesen Prüfstrang auslassen.
+
+**5. Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen, Bankzustimmung, Vermieterzustimmung oder branchenspezifische Genehmigungen berührt sind, muss das Ergebnis lauten: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld-, Nichtigkeits- oder Kündigungsfolge?
+
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
+
+**Zwischenergebnis:** Formuliere als Ampel: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet im Mittelstand regelmäßig: nicht unterschreiben, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner, Steuerteam oder Spezialist freigegeben hat.
+
+## Output-Module
+- **Mandantenvermerk:** Kurzbild, Sachverhalt, Normen, Subsumtion, Risikoampel, Empfehlung.
+- **Issue List:** Finding, Quelle, Risiko, Vertragsfolge, Kaufpreis-/Freistellungsfolge, Owner, Deadline.
+- **Information Request:** konkrete Fragen an Mandant, Gegenseite, Steuerberater, Notar oder Datenraum-Team.
+- **Drafting-Anschluss:** Klauselvorschlag, Markup-Kommentar, Disclosure-Punkt, CP-Formulierung oder Mandantenmail.
+- **Matter-Update:** kurzer Eintrag für `history.md` und ggf. Frist-/Owner-Eintrag für `fristen.yaml`.
+
+## Quellen und Zitierregel
+Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Quellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und Link auf `dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu` oder `eur-lex.europa.eu`. Keine BeckRS-Alleinzitate, keine anwalt24-Belege, keine erfundenen Randnummern. Quellen-Tags: `[Mandant]`, `[Register]`, `[BGH-Datenbank]`, `[dejure.org]`, `[EUR-Lex]`, `[Web-Recherche - prüfen]`, `[Modellwissen - prüfen]`.
+
+## Hand-Off zu anderen Skills
+Nach diesem Skill weiter mit:
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-conflict-gwg-sanctions` - wenn Mandatsannahme, GwG, Sanktionen oder Interessenkonflikte ungeklärt sind.
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-public-ma-kapitalmarkt-mar` - wenn MAR, WpÜG oder kapitalmarktrechtliche Veröffentlichungspflichten betroffen sind.
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-rechtsprechungsrecherche` - als fachlicher Anschluss-Skill.
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-steps-plan-pmo` - wenn Termine, CPs, Freigaben und Owner in einen belastbaren Transaktionsplan müssen.
+
+## Was dieser Arbeitsgang nicht macht
+- Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
+- Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
+- Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
+- Er vermischt nicht DD-Finding, Vertragsrisiko und wirtschaftliche Bewertung; diese Ebenen bleiben getrennt.
+- Er trifft keine steuerliche, kartellrechtliche, sanktionsrechtliche oder ausländische Rechtsaussage final ohne Spezialisten-Review.
+- Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
+
+## Berufsrechtliche Hinweise
+Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
+
+## Bisheriger Skill-Kern, integriert und weiterzuverwenden
+
+### Fusionskontrolle und Investitionskontrolle
+
+## Triage — klaere vor Signing
+
+1. Werden Kartellrechtsschwellen erreicht — weltweite Umsaetze der Beteiligten (§ 35 GWB: 500 Mio. EUR weltweit; 25 Mio. EUR in Deutschland); EU-Schwellen (Art. 1 FKVO: 5 Mrd. EUR / 250 Mio. EUR EU)?
+2. Gilt das Vollzugsverbot — § 41 GWB / Art. 7 FKVO: Transaktion darf bis zur Freigabe nicht vollzogen werden (Gun Jumping-Verbot)?
+3. Ist der Zielmarkt in einem sensiblen Sektor — Verteidigung, kritische Infrastruktur, Energie, Telekommunikation, Medien, Technologie?
+4. Kommt ein FDI-Screening nach § 55 ff. AWV in Betracht — ist der Erwerber eine nichteuropaeische Gesellschaft oder hat nichteuropaeische Eigentuermer?
+5. Sind Filings in mehreren Jurisdiktionen erforderlich — USA (HSR Act), UK (CMA), China (SAMR), weitere?
+6. Liegen Konzentrationseffekte vor, die eine fusionskontrollrechtliche Prüfung in Phase II erfordern können?
+
+## Zentrale Rechtsgrundlagen
+
+- §§ 35-44 GWB — Zusammenschlusskontrolle: Aufgreifschwellen, Anmeldepflicht, Phase I (1 Monat), Phase II (4 Monate), Vollzugsverbot
+- §§ 54-56 GWB — Ministererlaubnis; Nebenbestimmungen; sog. "second chance" nach Untersagung durch BKartA
+- Art. 1-4 FKVO (EU-Fusionskontrollverordnung 139/2004) — EU-Fusionskontrolle: Schwellen, Vollzugsverbot Art. 7
+- §§ 55-62 AWV — Investitionspruefung: sektorspezifische Prüfung (§ 55 AWV: kritische Infrastruktur u.a.); sektoruebergreifende Prüfung (§ 60 AWV: ab 25 % aus Drittstaaten); Meldepflicht; Genehmigungsvorbehalt
+- § 4 Abs. 2 AWG — Untersagungsmacht des BMWK bei Bedrohung der öffentlichen Ordnung oder Sicherheit
+- Art. 3 EU-FDI-Screening-VO 2019/452 — Koordinierungsrahmen für nationale FDI-Screenings innerhalb der EU
+
+## Aktuelle Rechtsprechung
+
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Schritt-für-Schritt-Workflow
+
+1. **Umsatz-Screening:** weltweit und in Deutschland (GWB), in der EU (FKVO), in USA, UK, China — Schwellenwerte der Parteien zusammenstellen
+2. **Freigabe-Landkarte erstellen:** je Jurisdiktion: Schwelle erreicht? Filing erforderlich? Zeitplan (Phase I / II)?
+3. **Gun Jumping-Protokoll:** Clean Team einrichten, Information Barriers, erlaubter Informationsaustausch vor Freigabe dokumentieren
+4. **FDI-Prüfung:** § 55 AWV sektorbezogen vs. § 60 AWV sektorubergreifend prüfen; Erwerber-Herkunft feststellen; Meldepflicht-Fristen
+5. **Filing-Vorbereitung:** Zusammenschlusserklaerung für BKartA/Kommission; Kontakte zu Behörden aufnehmen; Remedies-Szenarien vordenken
+6. **Zeitplan in CP-Tracker einbauen:** Filing-Datum, Phase-I-Ablauf, Phase-II-Risiko; Longstop-Date anpassen
+7. **Vollzugsverbot einhalten:** bis Freigabe kein wirtschaftlicher Einfluss des Erwerbers; Information Barriers; Gun Jumping-Protokoll
+
+## Entscheidungsbaum
+
+- Schwelle GWB § 35 erreicht → Filing BKartA → Phase I 1 Monat → Phase II Risiko? → ggf. 4 Monate
+- EU-Schwelle FKVO Art. 1 erreicht → Kommission zuständig (one-stop-shop) → keine nationalen Filings
+- Erwerber ausserhalb EU mit >25 % Anteil → § 60 AWV FDI-Prüfung → ggf. Genehmigungsvorbehalt; BMWK
+- Sektor Verteidigung/kritische Infra → § 55 AWV → strenges sektorbezogenes Screening
+
+## Output-Template: Freigabe-Landkarte
+
+**Adressat:** Deal-Team, Compliance — Tonfall sachlich-analytisch
+
+```
+FREIGABE-LANDKARTE
+Deal: [DEALNAME] — Datum: [DATUM]
+
+| Jurisdiktion | Schwelle | Filing erforderlich | Behörde | Phase I | Phase II | Status |
+|-------------|---------|---------------------|---------|---------|---------|--------|
+| Deutschland | § 35 GWB | ja / nein | Bundeskartellamt | 1 Monat | 4 Monate | offen: Umsatzschwellen belegen |
+| EU | Art. 1 FKVO | ja / nein | Europäische Kommission | 25 Arbeitstage | 90 Arbeitstage | offen: EU-Dimension prüfen |
+| AWV/FDI | §§ 55, 60 AWV | ja / nein | BMWK | 2 Monate | 4 Monate | offen: sektorbezogenen Bezug prüfen |
+| USA | HSR Act | ja / nein | FTC/DOJ | 30 Tage | variabel | offen: US-Nexus prüfen |
+
+VOLLZUGSVERBOT: [ ] Aktiv — kein wirtschaftlicher Vollzug bis [DATUM]
+CLEAN TEAM: [ ] eingerichtet — Information Barriers aktiv
+```
+
+## Rote Schwellen
+
+- Filing unterlassen trotz Pflicht: Bussgeldhaftung (§ 81 GWB: bis 1 Mio. EUR; Art. 14 FKVO: bis 10 % Konzernumsatz)
+- Gun Jumping (Vollzug vor Freigabe): zivilrechtliche Nichtigkeit; Bussgeld; Rueckabwicklung
+- FDI-Screening nicht erkannt: Untersagung nach Closing möglich; Behördenzwang zur Entflechtung
+
+## Standardausgabe
+
+- Freigabe-Landkarte (Multi-Jurisdiction)
+- CP-Tracker mit Behorderden-Fristen
+- Gun Jumping-Protokoll
+
+## Übergabe an andere Skills
+
+- CPs → `mittelstand-corporate-ma-signing-closing-conditions`
+- Fristen → `grosskanzlei-ma-fristen-cp-kalender`
+- Konflikt/Sanktionen → `mittelstand-corporate-ma-conflict-gwg-sanctions`
+
+## Vorlagen
+
+- assets/templates/freigabe-landkarte-multijurisdiction.md
+- assets/templates/gun-jumping-protokoll.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
-## Skill: `rechtsabteilung-vendor-due-diligence-fuer-versteckte-altlasten`
+## Skill: `beirat-datenschutz-ki-deadlock-mechanik`
 
-_Wenn es um Rechtsabteilung: Vendor Due Diligence für versteckte Altlasten in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Beirat Datenschutz und digitale Werkzeuge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A._
 
-# Rechtsabteilung: Vendor Due Diligence für versteckte Altlasten
+# Beirat Datenschutz Und KI
 
 ## Arbeitsweg
 
@@ -930,50 +873,50 @@ _Wenn es um Rechtsabteilung: Vendor Due Diligence für versteckte Altlasten in M
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsabteilung: Vendor Due Diligence für versteckte Altlasten` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Datenschutz Und KI` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Fachkern: Rechtsabteilung: Vendor Due Diligence für versteckte Altlasten
+## Fachkern: Beirat Datenschutz Und KI
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
 
-## Spezialkern: Rechtsabteilung: Vendor Due Diligence für versteckte Altlasten
+## Kaltstart-Fragen
 
-- **Konkretes Problem:** Der Verkäufer baut eine Verteidigungsakte statt bloßer Verkaufsbroschüre.
-- **Norm-/Quellenanker:** GmbHG, BGB/SPA, HGB, UmwG, BetrVG/§ 613a BGB, Steuer-/Kartell-/AWV-Schnittstellen und mittelstandsnahe Governance.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
+Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 
-## Norm- und Rechtsprechungsanker
+1. Wer handelt, in welcher Rolle, und welches Ergebnis wird gebraucht?
+2. Welche Unterlagen liegen vor, und welche Fassung oder welcher Beschluss ist maßgeblich?
+3. Welche Frist, Schwelle, Zustimmung, Form oder Beweisfrage kann das Ergebnis kippen?
+4. Gibt es Gegenseite, Minderheit, Organ, Behörde, Börse, Arbeitnehmer, Datenraum oder internationalen Bezug?
+5. Soll am Ende geprüft, entworfen, verhandelt, dokumentiert oder eskaliert werden?
 
-HGB, Steuerrecht, Umweltrecht, Produkthaftung
+## Spezifische Prüfachse
 
-## Sofortprüfung
+- Beirat bekommt oft sensible Daten: NDA, Geschäftsgeheimnisse, DSGVO, Insider- und Compliance-Themen sichtbar regeln.
+- KI- und Datenzugriffe nach Zweck, Rollen, Protokollierung und Löschung begrenzen.
+- Interne Investigation: Beirat, Geschäftsführung, Gesellschafter und externe Berater rollenfest trennen.
 
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
+## Arbeitsmodus
 
-## Fachlicher Zuschnitt
+1. **Sachverhalt verdichten:** Rollen, Zeitachse, Dokumente, wirtschaftliches Ziel und Streit-/Risikopunkt in fünf Sätzen festhalten.
+2. **Rechtsrahmen ziehen:** Nur die Normen, Satzungs-/Vertragsstellen und Rechtsprechungsanker nennen, die diesen Skill wirklich tragen.
+3. **Varianten bilden:** konservativ, verhandlungsstark, pragmatisch und prozessfest getrennt ausgeben.
+4. **Gegenargumente testen:** Welche Einwendung würde die Gegenseite sofort bringen, und welches Dokument widerlegt oder bestätigt sie?
+5. **Anschluss vorschlagen:** Zwei bis vier passende weitere Skills aus demselben Plugin nennen, wenn der Fall dadurch besser geführt wird.
 
-Der Verkäufer baut eine Verteidigungsakte statt bloßer Verkaufsbroschüre.
+## Quellenhygiene
 
-## Output für die Rechtsabteilung
+Arbeite primär mit: GmbHG §§ 37, 43, 46, 47, 48, 52, 53; BGB §§ 133, 157, 241 Abs. 2, 242; MitbestG/DrittelbG bei Abgrenzung zum obligatorischen Aufsichtsrat; Satzung, Geschäftsordnung, Gesellschafterbeschluss; GeschGehG/DSGVO bei Vertraulichkeit und Datenzugriff.
 
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.
 
 ---
 
 ## Skill: `beirat-fakultativer-aufsichtsrat-52-gmbhg`
 
-_Wenn es um Beirat Fakultativer Aufsichtsrat 52 Gmbhg in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Beirat Fakultativer Aufsichtsrat 52 GmbHG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A._
 
 # Beirat Fakultativer Aufsichtsrat 52 Gmbhg
 
@@ -1024,6 +967,359 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 Arbeite primär mit: GmbHG §§ 37, 43, 46, 47, 48, 52, 53; BGB §§ 133, 157, 241 Abs. 2, 242; MitbestG/DrittelbG bei Abgrenzung zum obligatorischen Aufsichtsrat; Satzung, Geschäftsordnung, Gesellschafterbeschluss; GeschGehG/DSGVO bei Vertraulichkeit und Datenzugriff.
 
 Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.
+
+---
+
+## Skill: `signing-closing-conditions`
+
+_Für Signing, Closing und Conditions Precedent: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A._
+
+# Signing, Closing und Conditions Precedent
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Signing, Closing und Conditions Precedent` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
+- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Fachkern: Signing, Closing und Conditions Precedent
+- **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
+- **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
+
+## Wann wird dieser Skill aufgerufen
+Typische Auslöser:
+- "Ich habe hier Signing, Closing und Conditions Precedent und brauche einen belastbaren nächsten Schritt."
+- "Bitte prüfe das für einen Unternehmenskauf oder -verkauf aus Sicht von Käufer, Verkäufer oder Zielgesellschaft."
+- "Mach daraus eine kurze Mandantenunterlage mit Risiken, offenen Punkten und To-dos."
+- "Welche Dokumente, Registerauszüge, Freigaben oder Fristen fehlen noch?"
+
+Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` oder `/mittelstand-corporate-ma:mittelstand-corporate-ma-matter-file`. Wenn der Nutzer nur eine kurze Unternehmer-E-Mail will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
+
+## Voraussetzungen und Kontext laden
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
+
+Benötigte Unterlagen:
+- aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
+- CP-Tracker, Closing Deliverables, Gesellschafter-/Beiratsfreigaben.
+- Disclosure Letter, Knowledge-Definition, W&I- oder Verkäufergarantie-Struktur.
+
+Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `gegenpartei`, `jurisdiktionen`, `frist_oder_closing`, `materiality_threshold`, `owner`, `source_tag`.
+
+## Workflow
+1. **Deal-Kontext fixieren.** Bestimme Rolle, Phase, Transaktionsstruktur, Zielgesellschaft und Entscheidungsempfänger. Wenn Rolle oder Phase fehlen, frage genau eine Rückfrage; bei Fristdruck arbeite mit `[Annahme - prüfen]` weiter.
+2. **Quellen inventarisieren.** Liste alle Dokumente mit Datum, Version, Quelle, Datenraum-ID und Vertraulichkeitsstufe. Markiere Uploads als `[Mandant]`, öffentliche Register als `[Register]`, Gerichts-/Behördenquellen als `[Primärquelle]` und Modellwissen als `[Modellwissen - prüfen]`.
+3. **Mittelstandsrealität abbilden.** Prüfe, ob Gesellschafter, Geschäftsführung, Familie, Hausbank, Steuerberater, Notar oder Beirat faktisch mitentscheiden. Dokumentiere informelle Absprachen als Risiko, nicht als Rechtsgrundlage.
+4. **Materiality-Schwelle setzen.** Fehlt eine vertragliche Schwelle, arbeite mit pragmatischer Ampel: Dealbreaker, Kaufpreis-/Freistellungsfolge, Closing-Bedingung, Disclosure-only, Housekeeping.
+5. **Normenprüfung durchführen.** Prüfe die unten genannten Normgruppen bezogen auf den konkreten Deal-Schritt: Wirksamkeit, Zustimmung, Vollzugshindernis, Haftung, Offenlegung, Frist, Beweisquelle.
+6. **Belegkette bauen.** Jede wesentliche Aussage braucht Quelle, Dokument, Fundstelle und Unsicherheitsmarker. Keine Fundstelle erfinden. Wenn ein Registerauszug, eine BGH-/EuGH-Entscheidung oder Behördenpraxis nicht abrufbar ist, steht `[zu verifizieren]`.
+7. **Risikomatrix erstellen.** Gib pro Punkt aus: Sachverhalt, Rechtsfrage, Norm, Subsumtion, Risikoampel, wirtschaftliche Auswirkung, empfohlene Aktion, Owner, Deadline und Folge-Skill.
+8. **Draft oder Review-Gate wählen.** Wenn die Tatsachen reichen, liefere den gewünschten Output. Wenn nicht, liefere eine Information-Request-Liste oder ein kurzes Partner-/Mandantenmemo mit genau den offenen Entscheidungen.
+9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Mandantenmail, Notarcheckliste oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
+10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
+
+## Prüfraster im Gutachtenstil
+**Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite wirtschaftlich sinnvoll steuerbar ist.
+
+**1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
+
+**2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
+- BGB §§ 133, 157, 241 Abs. 2, 280, 311 Abs. 2, 433 und 453 für Kaufvertrag und Auslegung.
+- GmbHG §§ 15 und 16 für Anteilsübertragung und Gesellschafterliste.
+- AktG §§ 76, 93, 111 und 179a für Leitungs-/Kontrollpflichten und Strukturmaßnahmen.
+- BGB § 158 für Closing Conditions und Bedingungseintritt.
+
+**3. Organ- und Zuständigkeitsprüfung.** Nur wenn der konkrete Arbeitsschritt eine Organentscheidung vorbereitet, Zuständigkeit, Zustimmungsvorbehalte, Interessenkonflikte, Informationsgrundlage und Dokumentation prüfen. Der fachlich passende Haftungs- oder Board-Paper-Skill liefert die dafür einschlägige Rechtsprechung; ARAG/Garmenbeck ist kein Universalanker.
+
+**4. Register- und Gesellschafterlistenlogik.** Nur bei GmbH-Anteilen, Einziehung, Vollmachtskette oder streitiger Legitimation Paragraf 16 und 40 GmbHG sowie Registerstand und materielle Berechtigung getrennt prüfen. Ohne solche Title- oder Legitimationsfrage diesen Prüfstrang auslassen.
+
+**5. Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen, Bankzustimmung, Vermieterzustimmung oder branchenspezifische Genehmigungen berührt sind, muss das Ergebnis lauten: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld-, Nichtigkeits- oder Kündigungsfolge?
+
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
+
+**Zwischenergebnis:** Formuliere als Ampel: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet im Mittelstand regelmäßig: nicht unterschreiben, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner, Steuerteam oder Spezialist freigegeben hat.
+
+## Output-Module
+- **Mandantenvermerk:** Kurzbild, Sachverhalt, Normen, Subsumtion, Risikoampel, Empfehlung.
+- **Issue List:** Finding, Quelle, Risiko, Vertragsfolge, Kaufpreis-/Freistellungsfolge, Owner, Deadline.
+- **Information Request:** konkrete Fragen an Mandant, Gegenseite, Steuerberater, Notar oder Datenraum-Team.
+- **Drafting-Anschluss:** Klauselvorschlag, Markup-Kommentar, Disclosure-Punkt, CP-Formulierung oder Mandantenmail.
+- **Matter-Update:** kurzer Eintrag für `history.md` und ggf. Frist-/Owner-Eintrag für `fristen.yaml`.
+
+## Quellen und Zitierregel
+Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Quellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und Link auf `dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu` oder `eur-lex.europa.eu`. Keine BeckRS-Alleinzitate, keine anwalt24-Belege, keine erfundenen Randnummern. Quellen-Tags: `[Mandant]`, `[Register]`, `[BGH-Datenbank]`, `[dejure.org]`, `[EUR-Lex]`, `[Web-Recherche - prüfen]`, `[Modellwissen - prüfen]`.
+
+## Hand-Off zu anderen Skills
+Nach diesem Skill weiter mit:
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-spa-apa-entwurf` - wenn der Befund in SPA/APA-Entwurf oder Klausellogik einfließen soll.
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-vertragsmarkup-key-issues` - wenn Markup-Abweichungen in Key Issues und Verhandlungslinien übersetzt werden müssen.
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-disclosure-schedules` - wenn Garantien, Knowledge und Disclosure Letter abgeglichen werden.
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-closing-bible-archiv` - wenn executed documents, Registerbelege und Closing Bible gesichert werden müssen.
+
+## Was dieser Arbeitsgang nicht macht
+- Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
+- Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
+- Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
+- Er vermischt nicht DD-Finding, Vertragsrisiko und wirtschaftliche Bewertung; diese Ebenen bleiben getrennt.
+- Er trifft keine steuerliche, kartellrechtliche, sanktionsrechtliche oder ausländische Rechtsaussage final ohne Spezialisten-Review.
+- Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
+
+## Berufsrechtliche Hinweise
+Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
+
+## Bisheriger Skill-Kern, integriert und weiterzuverwenden
+
+### Signing, Closing und Conditions Precedent
+
+## Triage — klaere vor Signing
+
+1. Welche Conditions Precedent sind im SPA vereinbart — Regulatorisch (Kartell, FDI), Gesellschaftsrechtlich (Beschlüsse, Genehmigungen), W&I-Deckungsbestaetigung?
+2. Welche Ordinary Course Covenants gelten zwischen Signing und Closing — Veraeußerungsverbote, Investitionskoerbe, Personalaenderungen?
+3. Wer ist verpflichtet, jede CP zu erfullen — Kaeufer, Verkaeufer, Zielgesellschaft? Welche Frist gilt?
+4. Was ist das Longstop Date — Datum, bis zu dem alle CPs erfullt sein müssen, andernfalls Ruecktrittsrecht?
+5. Welche Bring-down-Bedingung gilt — sind alle Garantien beim Closing noch zutreffend (Material Adverse Change-Prüfung)?
+6. Welcher Notar/Treuhander begleitet das Signing und das Closing?
+
+## Zentrale Rechtsgrundlagen
+
+- §§ 158, 159 BGB — aufschiebende und aufloesende Bedingung; CPs als suspensive Bedingung; Rechtsfolge: Vertrag schwebend wirksam
+- § 275 BGB — Unmoeglichkeit der CP-Erfullung: Ruecktritt bei dauerhafter Unmoeglichkeit (Closing-Versagung)
+- § 323 BGB — Ruecktritt bei Nichterfuellung der Closing Conditions; Frist und Ruecktrittserklaerung
+- § 15 Abs. 3 GmbHG — notarielle Beurkundung bei GmbH-Anteilen: Closing erst nach vollstaendiger Beurkundung wirksam
+- § 40 GmbHG — Gesellschafterliste binnen eines Monats nach Closing; Eintrag durch Notar
+- §§ 35-44 GWB; Art. 4 FKVO — kartellrechtliche Fusionskontrolle: aufschiebende Wirkung; Vollzugsverbot bis zur Freigabe
+- § 55 ff. AWV — FDI-Screening: Investitionspruefung; aufschiebende Wirkung bei priifpflichtigen Transaktionen
+- §§ 346-348 BGB — Rueckgewahr bei Ruecktritt vom Vertrag; Nutzungsersatz, Wertminderung
+
+## Schritt-für-Schritt-Workflow
+
+1. **CP-Register anlegen:** alle CPs aus SPA extrahieren; je CP: Owner, Faelligkeit, Nachweis (Behördenbescheid, Beschluss, Zertifikat), Eskalationsstufe
+2. **Kartell- und FDI-Timeline:** bei Fusionskontrollpflicht §§ 35 ff. GWB: Filing-Datum plus 4 Wochen (Phase I) oder Phase-II-Risiko einkalkulieren; FDI § 55 AWV: 2-4 Monate
+3. **Ordinary Course Covenants ueberwachen:** wochentliche Kontrolle Veraeusserungsverbote, Investitionskoerbe, wesentliche Vertragsaenderungen, Personalentscheidungen
+4. **Bring-down-Check:** Tage vor Closing alle SPA-Garantien gegen Ist-Zustand prüfen; MAC-Prüfung; eventuelle Closing-Verweigerung dokumentieren
+5. **Closing Deliverables vorbereiten:** Gesellschafterliste, Vollmachten, Organschaftsbeschluesse, Bankbestaetigung, W&I-Deckungszusage, Funds Flow Statement
+6. **Funds Flow koordinieren:** Kaufpreis, Auszahlungsanweisung, Bankfreigaben, Escrow; Timing: T-0 Überweisungsnachweis vor Closing-Vollzug
+7. **Closing-Ablauf durchfuhren:** Zug-um-Zug (§ 322 BGB analog) — Dokumente gegen Kaufpreiszahlung; Notar oder Treuhander als Closing Agent
+8. **Post-Closing-Pflichten:** Gesellschafterliste (§ 40 GmbHG), Transparenzregister, Registeranmeldungen, W&I-Notification-Fristen
+
+## Entscheidungsbaum
+
+- Kartell-CP → GWB-Filing erforderlich → Vollzugsverbot bis Freigabe → Gun Jumping vermeiden
+- FDI-CP → § 55 AWV → Genehmigung abwarten → bei Verstoß: Nichtigkeit des Vollzugs
+- Bring-down scheitert → MAC ausgeloest → Kaeufer hat Ruecktrittsrecht → Prüfung und Dokumentation sofort
+- Longstop Date erreicht ohne CP → Ruecktrittsrecht → Frist 2 Wochen für Ruecktrittserklaerung (§ 349 BGB)
+
+## Output-Template: CP-Tracker
+
+**Adressat:** Deal-Team intern — Tonfall sachlich-strukturiert
+
+```
+CP-TRACKER
+Deal: [DEALNAME] — Signing: [DATUM] — Longstop: [DATUM]
+
+| Nr. | CP-Bezeichnung | Owner | Faelligkeit | Nachweistyp | Status |
+|----|---------------|-------|------------|-------------|--------|
+| 1 | Kartellfreigabe (BKartA) | [KAEUFER] | [DATUM] | Behördenbescheid | Ausstehend |
+| 2 | FDI-Freigabe § 55 AWV | [KAEUFER] | [DATUM] | BMWK-Schreiben | Ausstehend |
+| 3 | Gesellschafterbeschluss Verkäufer | [Verkäufer] | [Datum] | notarielles Protokoll | geprüft |
+| 4 | W&I-Deckungszusage | [Verkäufer] | [Datum] | Versicherer-Schreiben | offen: finale Deckungsbestätigung fehlt |
+
+AMPEL: [ ] Alle CPs gruen [ ] CPs ausstehend — Eskalation erforderlich
+```
+
+## Rote Schwellen
+
+- Vollzug vor Kartell-Freigabe (Gun Jumping): Bussgeld bis 10 % des Konzernumsatzes (Art. 14 FKVO)
+- Bring-down-Check nicht durchgefuehrt: Kaeufer verliert MAC-Ruecktrittsrecht
+- Funds Flow unklar vor Closing: Kaufpreis-Auszahlungsrisiko; Closing vertagen
+- Longstop Date uebersehen: automatisches Ruecktrittsrecht entsteht; Vertragsende
+
+## Standardausgabe
+
+- CP-Tracker mit Ampel
+- Closing Deliverables-Checkliste
+- Bring-down-Protokoll
+
+## Übergabe an andere Skills
+
+- Kartell/FDI → `mittelstand-corporate-ma-regulatory-fdi-merger-control`
+- Closing Bible → `mittelstand-corporate-ma-closing-bible-archiv`
+- Post-Closing → `mittelstand-corporate-ma-post-closing-integration`
+- Fristen → `grosskanzlei-ma-fristen-cp-kalender`
+
+## Vorlagen
+
+- assets/templates/cp-tracker-signing-closing.md
+- assets/templates/closing-deliverables-register.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `freundlicher-copilot`
+
+_Für Freundlicher Deal-Copilot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Mittelstands-Corporate/M&A._
+
+# Freundlicher Deal-Copilot
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freundlicher Deal-Copilot` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
+- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Fachkern: Freundlicher Deal-Copilot
+- **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
+- **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
+
+## Wann wird dieser Skill aufgerufen
+Typische Auslöser:
+- "Ich habe hier Freundlicher Deal-Copilot und brauche einen belastbaren nächsten Schritt."
+- "Bitte prüfe das für einen Unternehmenskauf oder -verkauf aus Sicht von Käufer, Verkäufer oder Zielgesellschaft."
+- "Mach daraus eine kurze Mandantenunterlage mit Risiken, offenen Punkten und To-dos."
+- "Welche Dokumente, Registerauszüge, Freigaben oder Fristen fehlen noch?"
+
+Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` oder `/mittelstand-corporate-ma:mittelstand-corporate-ma-matter-file`. Wenn der Nutzer nur eine kurze Unternehmer-E-Mail will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
+
+## Voraussetzungen und Kontext laden
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
+
+Benötigte Unterlagen:
+- Mandatsanfrage, Konfliktcheck, Rollenmatrix, Budget und Deal-Timeline.
+- Kommunikationskanäle, Vertraulichkeitsstufen, Review-Gates und Eskalationspfade.
+- Vorlagen für Deal-Karte, Workstream-Plan, Unternehmer-Statusbericht und Billing Narrative.
+
+Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `gegenpartei`, `jurisdiktionen`, `frist_oder_closing`, `materiality_threshold`, `owner`, `source_tag`.
+
+## Workflow
+1. **Deal-Kontext fixieren.** Bestimme Rolle, Phase, Transaktionsstruktur, Zielgesellschaft und Entscheidungsempfänger. Wenn Rolle oder Phase fehlen, frage genau eine Rückfrage; bei Fristdruck arbeite mit `[Annahme - prüfen]` weiter.
+2. **Quellen inventarisieren.** Liste alle Dokumente mit Datum, Version, Quelle, Datenraum-ID und Vertraulichkeitsstufe. Markiere Uploads als `[Mandant]`, öffentliche Register als `[Register]`, Gerichts-/Behördenquellen als `[Primärquelle]` und Modellwissen als `[Modellwissen - prüfen]`.
+3. **Mittelstandsrealität abbilden.** Prüfe, ob Gesellschafter, Geschäftsführung, Familie, Hausbank, Steuerberater, Notar oder Beirat faktisch mitentscheiden. Dokumentiere informelle Absprachen als Risiko, nicht als Rechtsgrundlage.
+4. **Materiality-Schwelle setzen.** Fehlt eine vertragliche Schwelle, arbeite mit pragmatischer Ampel: Dealbreaker, Kaufpreis-/Freistellungsfolge, Closing-Bedingung, Disclosure-only, Housekeeping.
+5. **Normenprüfung durchführen.** Prüfe die unten genannten Normgruppen bezogen auf den konkreten Deal-Schritt: Wirksamkeit, Zustimmung, Vollzugshindernis, Haftung, Offenlegung, Frist, Beweisquelle.
+6. **Belegkette bauen.** Jede wesentliche Aussage braucht Quelle, Dokument, Fundstelle und Unsicherheitsmarker. Keine Fundstelle erfinden. Wenn ein Registerauszug, eine BGH-/EuGH-Entscheidung oder Behördenpraxis nicht abrufbar ist, steht `[zu verifizieren]`.
+7. **Risikomatrix erstellen.** Gib pro Punkt aus: Sachverhalt, Rechtsfrage, Norm, Subsumtion, Risikoampel, wirtschaftliche Auswirkung, empfohlene Aktion, Owner, Deadline und Folge-Skill.
+8. **Draft oder Review-Gate wählen.** Wenn die Tatsachen reichen, liefere den gewünschten Output. Wenn nicht, liefere eine Information-Request-Liste oder ein kurzes Partner-/Mandantenmemo mit genau den offenen Entscheidungen.
+9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Mandantenmail, Notarcheckliste oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
+10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
+
+## Prüfraster im Gutachtenstil
+**Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite wirtschaftlich sinnvoll steuerbar ist.
+
+**1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
+
+**2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
+- BRAO § 43a, BORA § 3 und BRAO § 49b für Verschwiegenheit, Konflikt und Honorar.
+- GwG §§ 10 ff. für Mandatsannahme und wirtschaftlich Berechtigte.
+- DSGVO Art. 5, 6, 25 und 32 für Datenminimierung, Rollen und Sicherheit.
+- BGB §§ 611a, 675 und 280 für Beratungs- und Haftungsrahmen.
+
+**3. Organ- und Zuständigkeitsprüfung.** Nur wenn der konkrete Arbeitsschritt eine Organentscheidung vorbereitet, Zuständigkeit, Zustimmungsvorbehalte, Interessenkonflikte, Informationsgrundlage und Dokumentation prüfen. Der fachlich passende Haftungs- oder Board-Paper-Skill liefert die dafür einschlägige Rechtsprechung; ARAG/Garmenbeck ist kein Universalanker.
+
+**4. Register- und Gesellschafterlistenlogik.** Nur bei GmbH-Anteilen, Einziehung, Vollmachtskette oder streitiger Legitimation Paragraf 16 und 40 GmbHG sowie Registerstand und materielle Berechtigung getrennt prüfen. Ohne solche Title- oder Legitimationsfrage diesen Prüfstrang auslassen.
+
+**5. Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen, Bankzustimmung, Vermieterzustimmung oder branchenspezifische Genehmigungen berührt sind, muss das Ergebnis lauten: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld-, Nichtigkeits- oder Kündigungsfolge?
+
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
+
+**Zwischenergebnis:** Formuliere als Ampel: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet im Mittelstand regelmäßig: nicht unterschreiben, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner, Steuerteam oder Spezialist freigegeben hat.
+
+## Output-Module
+- **Mandantenvermerk:** Kurzbild, Sachverhalt, Normen, Subsumtion, Risikoampel, Empfehlung.
+- **Issue List:** Finding, Quelle, Risiko, Vertragsfolge, Kaufpreis-/Freistellungsfolge, Owner, Deadline.
+- **Information Request:** konkrete Fragen an Mandant, Gegenseite, Steuerberater, Notar oder Datenraum-Team.
+- **Drafting-Anschluss:** Klauselvorschlag, Markup-Kommentar, Disclosure-Punkt, CP-Formulierung oder Mandantenmail.
+- **Matter-Update:** kurzer Eintrag für `history.md` und ggf. Frist-/Owner-Eintrag für `fristen.yaml`.
+
+## Quellen und Zitierregel
+Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Quellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und Link auf `dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu` oder `eur-lex.europa.eu`. Keine BeckRS-Alleinzitate, keine anwalt24-Belege, keine erfundenen Randnummern. Quellen-Tags: `[Mandant]`, `[Register]`, `[BGH-Datenbank]`, `[dejure.org]`, `[EUR-Lex]`, `[Web-Recherche - prüfen]`, `[Modellwissen - prüfen]`.
+
+## Hand-Off zu anderen Skills
+Nach diesem Skill weiter mit:
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-deal-intake` - wenn das Mandatsprofil, Rollen, Fristen und Budget sauber aufgenommen werden müssen.
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-matter-file` - wenn Deal-Karte, Workstreams, Fristen und Dokumentenlog in eine laufende Akte geschrieben werden sollen.
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` - wenn mehrere Workstreams konkurrieren und der nächste Primärpfad neu bestimmt werden muss.
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-steps-plan-pmo` - wenn Termine, CPs, Freigaben und Owner in einen belastbaren Transaktionsplan müssen.
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-datenraum-aufbau` - wenn Dokumente, Datenraumlücken oder Clean-Room-Fragen der nächste Engpass sind.
+
+## Was dieser Arbeitsgang nicht macht
+- Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
+- Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
+- Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
+- Er vermischt nicht DD-Finding, Vertragsrisiko und wirtschaftliche Bewertung; diese Ebenen bleiben getrennt.
+- Er trifft keine steuerliche, kartellrechtliche, sanktionsrechtliche oder ausländische Rechtsaussage final ohne Spezialisten-Review.
+- Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
+
+## Berufsrechtliche Hinweise
+Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
+
+## Bisheriger Skill-Kern, integriert und weiterzuverwenden
+
+### Freundlicher Deal-Copilot
+
+## Arbeitsmodus
+
+- Aus Rohtext ableiten: Nutzer will NDA, IRL, DD, SPA-Markup, CP-Liste, Board Paper oder Rechnung.
+- Juristisch unsubstanziierte Aussagen freundlich konkretisieren lassen.
+- Bei fehlenden Anlagen, Quellen oder Freigaben eine kleine Nachziehkarte erzeugen.
+- Bei Profis nur knapp warnen und direkt liefern.
+
+## Rote Schwellen
+
+- Nervige Belehrung statt kurzer Hilfe.
+- Stilles Übergehen von fehlender Quelle, fehlendem Registerauszug oder fehlender Freigabe.
+- KI-generierte Rechtsquelle ohne Verifikation.
+
+## Standardausgabe
+
+- Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
+- Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
+- Offene Punkte mit verantwortlicher Person, Frist und Eskalationsstufe.
+- Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
+
+## Übergabe an andere Skills
+
+- Komplexe Eingänge zuerst an `mittelstand-corporate-ma-kommandocenter` zurückspielen.
+- Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
+- Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
+
+## Vorlagen
+
+- assets/templates/copilot-hinweise-deal.md
+- assets/templates/workflow-naechste-beste-aktion.md
+
+## Rechtliche Einbettung und Praxiswissen
+
+### Normen und Quellen im M&A-Kontext
+- § 43a BRAO — anwaltliche Sorgfaltspflichten: vollstaendige Mandatsfuehrung; Unterlassen kann Haftung ausloesen
+- §§ 675, 280 BGB — Beratungsvertrag und Schadensersatz: Anwalt haftet bei Pflichtverletzung; gilt auch für Organisation und Kommunikation
+- § 2 GmbHG; § 15 GmbHG — gesellschaftsrechtliche Grundlagen GmbH: relevant für alle Corporate-Mandate
+- §§ 29-33 HGB — Handelsregisterpublizitaet: Wissen über eintragungspflichtige Tatsachen wird konstruktiv zugerechnet
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+### Qualitaetssicherung
+- Alle Ergebnisse: Human-in-the-loop bei High-Risk-Findings
+- Senior Review vor Weiterleitung an Mandant oder Gegenseite
+- Dokumentation: Datum, Bearbeiter, Version, Freigabe
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

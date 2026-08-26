@@ -1,6 +1,6 @@
 ---
 name: esg-leasing-taxonomie-und-green-lease
-description: "Wenn es um ESG und Green Lease: Taxonomie und Nachhaltigkeit in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für ESG und Green Lease: Taxonomie und Nachhaltigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ESG und Green Lease: Taxonomie und Nachhaltigkeit

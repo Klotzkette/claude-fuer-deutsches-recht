@@ -1,6 +1,6 @@
 ---
 name: board-duties-cash-collateral-chapter7-asset
-description: "Wenn es um Board Duties and Zone of Insolvency in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Board Duties and Zone of Insolvency: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Board Duties and Zone of Insolvency

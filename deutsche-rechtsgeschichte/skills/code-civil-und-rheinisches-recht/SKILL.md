@@ -1,6 +1,6 @@
 ---
 name: code-civil-und-rheinisches-recht
-description: "Wenn es um Code Civil und rheinisches Recht in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Code Civil und rheinisches Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Code Civil und rheinisches Recht

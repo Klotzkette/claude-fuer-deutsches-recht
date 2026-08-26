@@ -1,6 +1,6 @@
 ---
 name: konfliktverteidigung-sitzung-ordnung
-description: "Wenn es um Anstrengende Verteidigung in der Sitzung: souverän bleiben in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Konfliktverteidigung Sitzung Ordnung; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
+description: "Für Anstrengende Verteidigung in der Sitzung: souverän bleiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Staatsanwaltschaft Praxis-Einstieg. Route: konfliktverteidigung-sitzung-ordnung."
 ---
 
 # Anstrengende Verteidigung in der Sitzung: souverän bleiben

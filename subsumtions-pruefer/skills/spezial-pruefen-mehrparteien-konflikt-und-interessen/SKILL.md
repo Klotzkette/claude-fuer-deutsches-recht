@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefen-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Pruefen: Mehrparteienkonflikt und Interessenmatrix in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfen: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pruefen: Mehrparteienkonflikt und Interessenmatrix

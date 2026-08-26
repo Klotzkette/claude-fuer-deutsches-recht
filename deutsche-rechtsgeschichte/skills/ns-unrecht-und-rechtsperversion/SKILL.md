@@ -1,6 +1,6 @@
 ---
 name: ns-unrecht-und-rechtsperversion
-description: "Wenn es um NS-Unrecht und Rechtsperversion in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NS-Unrecht und Rechtsperversion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NS-Unrecht und Rechtsperversion

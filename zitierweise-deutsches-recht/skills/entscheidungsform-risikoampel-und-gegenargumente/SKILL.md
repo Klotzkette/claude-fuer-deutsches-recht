@@ -1,6 +1,6 @@
 ---
 name: entscheidungsform-risikoampel-und-gegenargumente
-description: "Wenn es um Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien in Zitierweise deutsches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Entscheidungsform Risikoampel Und Gegenargumente; Arbeitsfeld: Zitierweise deutsches Recht."
+description: "Für Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien

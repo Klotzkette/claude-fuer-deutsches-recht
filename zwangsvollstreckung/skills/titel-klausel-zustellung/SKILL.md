@@ -1,6 +1,6 @@
 ---
 name: titel-klausel-zustellung
-description: "Wenn es um Drei-Säulen-Prüfung: Titel, Klausel, Zustellung in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Drei-Säulen-Prüfung: Titel, Klausel, Zustellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drei-Säulen-Prüfung: Titel, Klausel, Zustellung

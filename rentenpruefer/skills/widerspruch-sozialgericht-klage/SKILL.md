@@ -1,6 +1,6 @@
 ---
 name: widerspruch-sozialgericht-klage
-description: "Wenn es um widerspruch-sozialgericht-klage in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für widerspruch-sozialgericht-klage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # widerspruch-sozialgericht-klage

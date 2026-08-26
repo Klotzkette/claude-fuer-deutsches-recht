@@ -1,6 +1,6 @@
 ---
 name: source-red-team-und-qualitaetskontrolle
-description: "Wenn es um Spezial: Red-Team und Qualitätskontrolle in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Spezial: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Spezial: Red-Team und Qualitätskontrolle
@@ -152,3 +152,7 @@ Empfehlung vor Versand:
 - `spezial-source-red-team-und-qualitaetskontrolle` – Dieser Skill (Selbstreferenz)
 - `spezial-klausel-beweislast-und-darlegungslast` – Beweislastfragen
 - `spezial-rechtsschutz-tatbestand-beweis-und-belege` – Tatbestand und Beweis
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-source-red-team-und-qualitaetskontrolle` beziehungsweise Source: Red-Team und Qualitätskontrolle: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-source-red-team-und-qualitaetskontrolle.md).

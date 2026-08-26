@@ -1,6 +1,6 @@
 ---
 name: abgrenzung-compliance
-description: "Wenn es um Abgrenzung: Compliance-Dokumentation und Aktenvermerk in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abgrenzung: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abgrenzung: Compliance-Dokumentation und Aktenvermerk

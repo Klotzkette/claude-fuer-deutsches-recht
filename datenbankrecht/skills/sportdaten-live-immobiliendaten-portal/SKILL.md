@@ -1,6 +1,6 @@
 ---
 name: sportdaten-live-immobiliendaten-portal
-description: "Wenn es um Sportdaten, Live-Daten und Ergebnislisten — Datenbankrecht im Sport in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sportdaten, Live-Daten und Ergebnislisten — Datenbankrecht im Sport: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Sportdaten, Live-Daten und Ergebnislisten — Datenbankrecht im Sport

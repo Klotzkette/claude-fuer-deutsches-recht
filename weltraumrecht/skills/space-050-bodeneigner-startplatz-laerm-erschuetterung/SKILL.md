@@ -1,6 +1,6 @@
 ---
 name: space-050-bodeneigner-startplatz-laerm-erschuetterung
-description: "Wenn es um Weltraumrecht: Bodeneigentümer Startplatz Lärm Erschütterung und Nachbarrecht in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Bodeneigentümer Startplatz Lärm Erschütterung und Nachbarrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Bodeneigentümer Startplatz Lärm Erschütterung und Nachbarrecht

@@ -1,6 +1,6 @@
 ---
 name: cnc-maschine-abnahme-maengel
-description: "Wenn es um CNC-Maschinen-Leasing: Abnahme, Mängel und Wartung in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für CNC-Maschinen-Leasing: Abnahme, Mängel und Wartung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CNC-Maschinen-Leasing: Abnahme, Mängel und Wartung

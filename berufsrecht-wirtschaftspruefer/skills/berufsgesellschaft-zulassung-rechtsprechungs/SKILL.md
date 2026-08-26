@@ -1,6 +1,6 @@
 ---
 name: berufsgesellschaft-zulassung-rechtsprechungs
-description: "Wenn es um Berufsgesellschaft Zulassung Rechtsprechungs in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Berufsgesellschaft Zulassung Rechtsprechungs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: berufsgesellschaft zulassung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

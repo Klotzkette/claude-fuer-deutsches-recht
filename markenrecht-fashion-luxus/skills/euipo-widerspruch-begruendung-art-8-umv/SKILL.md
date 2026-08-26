@@ -1,6 +1,6 @@
 ---
 name: euipo-widerspruch-begruendung-art-8-umv
-description: "Erstellt eine EUIPO-Widerspruchsbegründung nach Art. 8 UMV mit Warenvergleich, Zeichenvergleich, Kennzeichnungskraft, Verwechslungsgefahr, Bekanntheitsschutz und Anlagenplan."
+description: "Für EUIPO-Widerspruch Begründung nach Art. 8 UMV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 # EUIPO-Widerspruch Begründung nach Art. 8 UMV
 

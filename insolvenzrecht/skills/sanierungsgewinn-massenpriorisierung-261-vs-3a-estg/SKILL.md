@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-massenpriorisierung-261-vs-3a-estg
-description: "Wenn es um Sanierungsgewinn — Massenpriorisierung Paragraphen 53/261 InsO vs. Paragraph 3a EStG in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungsgewinn — Massenpriorisierung Paragraphen 53/261 InsO vs. Paragraph 3a EStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn — Massenpriorisierung Paragraphen 53/261 InsO vs. Paragraph 3a EStG

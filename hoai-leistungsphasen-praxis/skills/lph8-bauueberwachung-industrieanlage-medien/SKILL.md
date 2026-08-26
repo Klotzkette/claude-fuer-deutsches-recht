@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-industrieanlage-medien
-description: "Wenn es um Bauueberwachung Industrieanlage Medien (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Industrieanlage Medien (LPH 8): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Industrieanlage Medien (LPH 8)

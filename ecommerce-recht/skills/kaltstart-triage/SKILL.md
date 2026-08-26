@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um E-Commerce-Recht — Allgemein in E-Commerce-Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für E-Commerce-Recht — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E-Commerce-Recht — Allgemein

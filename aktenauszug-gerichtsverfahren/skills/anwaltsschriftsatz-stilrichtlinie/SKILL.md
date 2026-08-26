@@ -1,6 +1,6 @@
 ---
 name: anwaltsschriftsatz-stilrichtlinie
-description: "Wenn es um Anwaltsschriftsatz-Stilrichtlinie in aktenauszug-gerichtsverfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anwaltsschriftsatz-Stilrichtlinie: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Anwaltsschriftsatz-Stilrichtlinie

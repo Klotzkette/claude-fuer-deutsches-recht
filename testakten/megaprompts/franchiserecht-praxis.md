@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 123 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Franchiserecht Praxis ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbin…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Franchiserecht Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächst…
-3. **insolvenz-franchisenehmer-franchisegeber** — Wenn es um Franchiserecht: Insolvenz des Franchisenehmers – Fortführung und Markenschutz in Franchiserecht Praxis geht: …
-4. **insolvenz-franchisegeber-systemhandbuch-und-lizenzen** — Wenn es um Franchiserecht: Insolvenz des Franchisegebers – Systemhandbuch und Lizenzen in Franchiserecht Praxis geht: or…
-5. **abwicklung-rueckbau-schilder-warenbestand** — Wenn es um Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende in Franchiserecht Praxis geht: ordnet …
-6. **pflege-oder-medizin-franchise-regulatorische-grenzen** — Wenn es um Franchiserecht: Pflege- und Medizin-Franchise – Regulatorische Grenzen in Franchiserecht Praxis geht: ordnet …
-7. **streitbeilegung-mediation-einstweilige** — Wenn es um Franchiserecht: Streitbeilegung, Mediation, Beirat und Schiedsgericht in Franchiserecht Praxis geht: ordnet S…
-8. **franchisegeber-handbuch-compliance-dashboard** — Wenn es um Franchiserecht: Franchisegeber-Handbuch und Compliance-Dashboard in Franchiserecht Praxis geht: ordnet Sachve…
+2. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+3. **disclosure-document-fuer-internationale-investoren** — Für Franchiserecht: Disclosure-Dokument für internationale Investoren: ordnet Norm, Beweislast und Gegenargument; Ergebn…
+4. **fran-023-disclosure-document-fuer-internationale-investoren** — Für Franchiserecht: Disclosure Document für internationale Investoren: ordnet Norm, Beweislast und Gegenargument; Ergebn…
+5. **datenschutz-crm-arbeitsrecht** — Für Franchiserecht: Datenschutz, CRM, Kundendaten und gemeinsame Verantwortlichkeit: ordnet Norm, Beweislast und Gegenar…
+6. **fran-011-datenschutz-crm-kundendaten-gemeinsam** — Für Franchiserecht: Datenschutz CRM Kundendaten und gemeinsame Verantwortlichkeit: ordnet Norm, Beweislast und Gegenargu…
+7. **insolvenz-franchisenehmer-franchisegeber** — Für Franchiserecht: Insolvenz des Franchisenehmers – Fortführung und Markenschutz: ordnet Norm, Beweislast und Gegenargu…
+8. **insolvenz-franchisegeber-systemhandbuch-und-lizenzen** — Für Franchiserecht: Insolvenz des Franchisegebers – Systemhandbuch und Lizenzen: ordnet Norm, Beweislast und Gegenargume…
 
 ---
 
@@ -141,7 +141,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Vertrag, Pflichtverletzun
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Franchiserecht Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Franchiserecht Praxis._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -182,9 +182,273 @@ Tragende Anker: BGB Schuldrecht, HGB §§ 84 ff., AGB-Kontrolle. Tatsächliche F
 
 ---
 
+## Skill: `disclosure-document-fuer-internationale-investoren`
+
+_Für Franchiserecht: Disclosure-Dokument für internationale Investoren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Franchiserecht: Disclosure-Dokument für internationale Investoren
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB §§ 311 ff., 305 ff., HGB §§ 84 ff., MarkenG, EU-Vertikal-GVO 2022/720, WettbR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+
+Ein Franchisegeber möchte sein System an ausländische Investoren vermarkten, die als Franchisenehmer oder Master-Franchisenehmer einsteigen sollen. Er benötigt ein Disclosure-Dokument, das sowohl deutsche Aufklärungspflichten als auch die Anforderungen des Ziellandes erfüllt.
+
+## Erste Schritte
+
+1. Zielland und dessen Disclosure-Regelungen identifizieren: USA (FTC-Rule/FDD), Frankreich (Loi Doubin, L. 330-3 Code de Commerce), Australien (Franchising Code of Conduct).
+2. Inhalt des deutschen Disclosure-Dokuments nach DFV-Standard aufbauen: Systemgeschichte, Finanzlage, Rechtsstreitigkeiten, Gebührenstruktur, Vertragsbedinungen, Franchisenehmerliste.
+3. Übersetzung und rechtliche Verantwortung klären: Wer haftet für Übersetzungsfehler?
+4. Wertpapierrecht und Investmentrecht prüfen: Ist das Franchise-Angebot als Investmentvertrag einzustufen (z. B. nach US-Howey-Test)?
+5. Fristanforderungen: 14 Tage vor Vertragsschluss (DFV-Standard); USA 14 Tage; Frankreich 20 Tage.
+6. Aktualisierungspflicht: In welchen Abständen muss das Disclosure-Dokument aktualisiert werden?
+
+## Rechtsrahmen
+
+- § 311 Abs. 2 BGB: Vorvertragliche Aufklärungspflicht (deutschrechtliche Basis)
+- DFV Code of Ethics Art. 2: Vollständiges Disclosure als Ethikstandard
+- Art. 3 und 4 Rom-I-VO: Anwendbares Recht und Eingriffsnormen bei internationalem Bezug
+- FTC Franchise Rule 16 C.F.R. Part 436: US-amerikanische Disclosure-Anforderungen (FDD)
+- L. 330-3 Code de Commerce (Frankreich): Loi Doubin, 20-tägige Vorlaufpflicht
+- §§ 1 ff. VermAnlG: Abgrenzung vom deutschen Vermögensanlagerecht
+
+## Prüfraster
+
+- Erfüllt das Disclosure-Dokument die inhaltlichen Mindestanforderungen des DFV und des Ziellandes?
+- Ist die 14-tägige (oder nach Zielland längere) Vorlage-Frist vor Vertragsschluss dokumentiert?
+- Enthält das Dokument alle wesentlichen Risikofaktoren und laufenden Rechtsstreitigkeiten des Franchisegebers?
+- Sind Angaben zur Finanzlage des Franchisegebers (Jahresabschluss) beigefügt?
+- Ist das Franchise-Angebot im Zielland investmentrechtlich als Wertpapier oder Investmentvertrag einzustufen?
+- Besteht eine Aktualisierungspflicht jährlich oder bei wesentlichen Änderungen?
+- Sind Übersetzungsverantwortlichkeiten und Haftungsabgrenzungen klar geregelt?
+
+## Fallstricke
+
+- Disclosure-Dokument wird als reine Werbebroschüre gestaltet; Haftung für wesentliche Auslassungen nach § 311 Abs. 2 BGB.
+- US-amerikanische FDD-Anforderungen und EU-Anforderungen werden vermischt; keine Version erfüllt vollständig die Anforderungen.
+- Aktualisierungspflichten werden vergessen; veraltete Angaben zur Finanzlage des Franchisegebers begründen Haftung.
+- Franchise-Angebot ist im Zielland als Investmentvertrag zu qualifizieren; Prospektpflicht nach lokalem Wertpapierrecht greift.
+
+## Quellen
+
+- https://dejure.org/gesetze/BGB/311.html
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32008R0593
+- https://gesetze-im-internet.de/bgb/__311.html
+- https://gesetze-im-internet.de/vermanlg/
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
+- https://dejure.org/gesetze/BGB/242.html
+
+## Vertiefung
+
+Das Disclosure-Dokument ist das wichtigste Haftungsschutz-Instrument für den Franchisegeber. Je vollständiger und genauer es ist, desto schwieriger ist es für einen Franchisenehmer, eine vorvertragliche Aufklärungspflichtverletzung nachzuweisen. In vielen Jurisdiktionen (USA, Australien, Frankreich) ist ein Disclosure-Dokument gesetzlich vorgeschrieben und muss eine bestimmte Form und einen bestimmten Inhalt haben.
+
+In Deutschland gibt es keine gesetzliche Pflicht zum Disclosure-Dokument; die Pflicht ergibt sich aus § 311 Abs. 2 BGB. Der DFV-Code of Ethics enthält inhaltliche Anforderungen, die als Branchenstandard gelten. Ein vollständiges Disclosure-Dokument kann im Streitfall entscheidend sein.
+
+## Praxishinweise
+
+- Jährliche Aktualisierung des Disclosure-Dokuments; veraltete Informationen sind haftungsrelevant.
+- Übergabe und Empfangsbestätigung des Disclosure-Dokuments mit Datum schriftlich dokumentieren.
+- Risikofaktoren des Systems explizit und deutlich darstellen; nicht im Kleingedruckten verstecken.
+- Franchisenehmer-Liste aktuell halten; Angaben zu ausgeschiedenen Franchisenehmern können informativ sein.
+- Rechtsstreitigkeiten des Franchisegebers vollständig offenlegen; selektive Offenbarung gefährdet das gesamte Disclosure.
+
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
+---
+
+## Skill: `fran-023-disclosure-document-fuer-internationale-investoren`
+
+_Für Franchiserecht: Disclosure Document für internationale Investoren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Franchiserecht: Disclosure Document für internationale Investoren
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Disclosure Document für internationale Investoren** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
+- Systembindung und Selbstständigkeit austarieren
+- Kartellrecht und AGB-Recht immer mitdenken
+- Beweis der Aufklärung und Prognosen sichern
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Franchise-Memo
+- Disclosure-Check
+- Vertragsredline
+- Kündigungsschreiben
+- Auditplan
+- Streitstrategie
+
+---
+
+## Skill: `datenschutz-crm-arbeitsrecht`
+
+_Für Franchiserecht: Datenschutz, CRM, Kundendaten und gemeinsame Verantwortlichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Franchiserecht: Datenschutz, CRM, Kundendaten und gemeinsame Verantwortlichkeit
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB §§ 311 ff., 305 ff., HGB §§ 84 ff., MarkenG, EU-Vertikal-GVO 2022/720, WettbR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+
+Ein Franchisesystem nutzt ein zentrales CRM-System, in das alle Franchisenehmer Kundendaten einpflegen. Es ist unklar, ob der Franchisegeber Verantwortlicher, Auftragsverarbeiter oder gemeinsam Verantwortlicher mit den Franchisenehmern ist. Eine Datenschutzaufsichtsbehörde fragt nach oder ein Kunde macht Auskunftsrechte geltend.
+
+## Erste Schritte
+
+1. Datenflüsse im System kartieren: Welche Kundendaten werden erhoben, wo gespeichert, wer hat Zugriff, welche Dritte erhalten Daten?
+2. Verantwortlichkeit bestimmen: Franchisegeber als alleiniger Verantwortlicher, Franchisenehmer als alleiniger Verantwortlicher oder gemeinsame Verantwortlichkeit nach Art. 26 DSGVO?
+3. Vertragliche Grundlagen prüfen: Auftragsverarbeitungsvertrag (AVV) nach Art. 28 DSGVO oder Vereinbarung über gemeinsame Verantwortlichkeit nach Art. 26 DSGVO?
+4. Datenschutzerklärungen aller Touchpoints prüfen: Website, Kassenbon, App, Treueprogramm.
+5. Technisch-organisatorische Maßnahmen (TOMs) nach Art. 32 DSGVO bewerten.
+6. Auskunfts-, Lösch- und Portabilitätsanfragen: Klären, wer für Betroffenenanfragen zuständig ist.
+
+## Rechtsrahmen
+
+- Art. 4 Nr. 7 DSGVO: Definition Verantwortlicher
+- Art. 26 DSGVO: Gemeinsame Verantwortlichkeit (Joint Controllership)
+- Art. 28 DSGVO: Auftragsverarbeitung
+- Art. 32 DSGVO: Technisch-organisatorische Maßnahmen
+- Art. 83 DSGVO: Bussgeldrahmen (bis 4 % des weltweiten Jahresumsatzes)
+- §§ 38 ff. BDSG: Aufsichtsbehörden und nationale Ergänzungen
+
+## Prüfraster
+
+- Ist die Zweckentscheidung über die Kundendatenverarbeitung beim Franchisegeber, beim Franchisenehmer oder bei beiden?
+- Liegt eine Vereinbarung nach Art. 26 DSGVO vor, die Zuständigkeiten und Informationspflichten regelt?
+- Haben alle Franchisepartner einen datenschutzkonformen AVV nach Art. 28 DSGVO abgeschlossen?
+- Sind die Datenschutzerklärungen der Franchisees korrekt und vollständig (Art. 13 und 14 DSGVO)?
+- Besteht ein konzernähnliches Datentransfer-Problem, wenn Franchisedaten in ein Drittland übermittelt werden?
+- Wie werden Betroffenenanfragen im System koordiniert (zentraler Kontaktpunkt oder dezentral)?
+- Gibt es ein Verarbeitungsverzeichnis nach Art. 30 DSGVO auf Franchisegeber- und Franchisenehmersebene?
+
+## Fallstricke
+
+- Franchisegeber und -nehmer gehen beide davon aus, der andere sei Verantwortlicher; niemand kümmert sich um Betroffenenanfragen.
+- CRM-System des Franchisegebers verarbeitet Daten ohne AVV; Franchisegeber ist Auftragsverarbeiter ohne Vertrag.
+- Treueprogramm sammelt Daten über das Franchisesystem hinaus und überträgt diese an Muttergesellschaft ohne Rechtsgrundlage.
+- Löschfristen für Kundendaten sind nicht definiert; Daten werden unbegrenzt gespeichert.
+
+## Quellen
+
+- https://gesetze-im-internet.de/dsgvo/art_26.html
+- https://gesetze-im-internet.de/dsgvo/art_28.html
+- https://gesetze-im-internet.de/dsgvo/art_32.html
+- https://gesetze-im-internet.de/dsgvo/art_83.html
+- https://gesetze-im-internet.de/bdsg_2018/
+- https://gesetze-im-internet.de/dsgvo/art_4.html
+
+## Vertiefung
+
+Die EuGH-Entscheidung Wirtschaftsakademie Schleswig-Holstein (C-210/16) und Fashion ID (C-40/17) haben den Begriff der gemeinsamen Verantwortlichkeit nach Art. 26 DSGVO erheblich erweitert. Danach können auch wirtschaftlich eigenständige Unternehmen gemeinsam Verantwortliche sein, wenn sie gemeinsam über Zweck und Mittel einer Datenverarbeitung entscheiden.
+
+Im Franchisekontext ist besonders kritisch, wer die Entscheidung über den Einsatz von CRM-Systemen und deren Konfiguration trifft. Wenn der Franchisegeber das CRM-System vorschreibt und konfiguriert, während der Franchisenehmer die Daten eingibt, liegt eine gemeinsame Verantwortlichkeit nach Art. 26 DSGVO nahe.
+
+## Praxishinweise
+
+- CRM-System-Einführung immer mit DSGVO-Folgenabschätzung nach Art. 35 DSGVO beginnen.
+- Art.-26-Vereinbarung vor Einsatz des CRM-Systems abschliessen; keine nachträgliche Regulierung.
+- Kundendaten-Eigentum im Franchisevertrag klar regeln: Wessen Daten sind es nach Vertragsende?
+- Löschfristen für Kundendaten in einem Verarbeitungsverzeichnis nach Art. 30 DSGVO dokumentieren.
+- Datenschutz-Audits in das Franchise-Audit-Programm integrieren.
+
+---
+
+## Skill: `fran-011-datenschutz-crm-kundendaten-gemeinsam`
+
+_Für Franchiserecht: Datenschutz CRM Kundendaten und gemeinsame Verantwortlichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Franchiserecht: Datenschutz CRM Kundendaten und gemeinsame Verantwortlichkeit
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Datenschutz CRM Kundendaten und gemeinsame Verantwortlichkeit** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
+- Systembindung und Selbstständigkeit austarieren
+- Kartellrecht und AGB-Recht immer mitdenken
+- Beweis der Aufklärung und Prognosen sichern
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Franchise-Memo
+- Disclosure-Check
+- Vertragsredline
+- Kündigungsschreiben
+- Auditplan
+- Streitstrategie
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
 ## Skill: `insolvenz-franchisenehmer-franchisegeber`
 
-_Wenn es um Franchiserecht: Insolvenz des Franchisenehmers – Fortführung und Markenschutz in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Franchiserecht: Insolvenz des Franchisenehmers – Fortführung und Markenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Franchiserecht: Insolvenz des Franchisenehmers – Fortführung und Markenschutz
 
@@ -266,7 +530,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## Skill: `insolvenz-franchisegeber-systemhandbuch-und-lizenzen`
 
-_Wenn es um Franchiserecht: Insolvenz des Franchisegebers – Systemhandbuch und Lizenzen in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Franchiserecht: Insolvenz des Franchisegebers – Systemhandbuch und Lizenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Franchiserecht: Insolvenz des Franchisegebers – Systemhandbuch und Lizenzen
 
@@ -344,339 +608,6 @@ Diese Regelung gilt jedoch nicht rückwirkend und nur für Insolvenzverfahren, d
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
 
 ## Abgrenzung und Einordnung
-
----
-
-## Skill: `abwicklung-rueckbau-schilder-warenbestand`
-
-_Wenn es um Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB §§ 311 ff., 305 ff., HGB §§ 84 ff., MarkenG, EU-Vertikal-GVO 2022/720, WettbR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-
-Ein Franchisevertrag ist beendet (Ablauf, Kündigung oder Aufhebung). Beide Seiten müssen die Abwicklung organisieren: Rückbau der Systemkennzeichen, Herausgabe von Unterlagen, Abrechnung offener Posten, Verwertung des Warenbestands. Streitigkeiten entstehen über den Umfang der Pflichten und deren Kosten.
-
-## Erste Schritte
-
-1. Beendigungsgrund und -zeitpunkt eindeutig festhalten; laufende Fristen (Wettbewerbsverbot, Nachzahlungsfrist, Gewährleistung) identifizieren.
-2. Abwicklungsklausel im Franchisevertrag auswerten: Welche Pflichten sind explizit geregelt und in welcher Frist?
-3. Rückbaupflichten erfassen: CI-Schilder, Dekor, IT-Systeme, Kassensoftware, Kundendatenbanken.
-4. Warenbestandserfassung: Welche Waren hat der Franchisenehmer noch auf Lager; besteht Rückkaufpflicht des Franchisegebers?
-5. Schlussabrechnung vorbereiten: Offene Lizenzgebühren, Marketingfondsguthaben, Kautionen, Vorauszahlungen.
-6. Datenschutz-Abwicklung: Kundendaten müssen an den Franchisegeber übergeben oder gelöscht werden.
-
-## Rechtsrahmen
-
-- § 242 BGB: Kooperationspflicht bei der Vertragsabwicklung (Treu und Glauben)
-- § 280 Abs. 1 BGB: Schadensersatz bei verzögerter oder mangelhafter Abwicklung
-- §§ 14 ff. MarkenG: Pflicht zur Einstellung der Markennutzung nach Vertragsende
-- §§ 812 ff. BGB: Rückabwicklung ungerechtfertigter Bereicherung (z. B. zu viel gezahlte Gebühren)
-- Art. 17 DSGVO: Löschpflicht für Kundendaten ohne Rechtsgrundlage nach Vertragsende
-- § 2 Nr. 1 GeschGehG: Herausgabepflicht für Know-how-Unterlagen (Systemhandbuch)
-
-## Prüfraster
-
-- Sind alle Abwicklungspflichten im Franchisevertrag klar und vollständig geregelt?
-- Innerhalb welcher Frist muss der Rückbau abgeschlossen sein und wer trägt die Kosten?
-- Besteht eine Rückkaufpflicht des Franchisegebers für Warenbestände und zu welchem Preis?
-- Ist die Herausgabe des Systemhandbuchs und aller Schulungsunterlagen vertraglich geregelt?
-- Wie werden Kundendaten nach Vertragsende behandelt (Übergabe an Franchisegeber, Löschung, Portierung)?
-- Gibt es offene Gegenforderungen des Franchisenehmers (Ausgleichsanspruch, Kautionsrückgabe), die mit Abwicklungspflichten aufgerechnet werden?
-- Drohen nach dem Rückbau Markenverletzungsansprüche, wenn Restbestände noch im Umlauf sind?
-
-## Fallstricke
-
-- Franchisegeber besteht auf sofortigem Rückbau, obwohl der Vertrag keine Frist nennt; Unverhältnismässigkeit.
-- Warenbestand wird weder zurückgenommen noch wird eine Verwertungserlaubnis erteilt; Franchisenehmer bleibt auf verderblicher Ware sitzen.
-- Kundendaten werden nach Vertragsende weitergenutzt, ohne neue Rechtsgrundlage; DSGVO-Verstoss.
-- Systemhandbuch wird nicht vollständig herausgegeben; Know-how-Schutz (GeschGehG) wird verletzt.
-
-## Quellen
-
-- https://dejure.org/gesetze/BGB/242.html
-- https://dejure.org/gesetze/BGB/280.html
-- https://dejure.org/gesetze/MarkenG/14.html
-- https://dejure.org/gesetze/BGB/812.html
-- https://gesetze-im-internet.de/dsgvo/art_17.html
-- https://gesetze-im-internet.de/geschgehg/
-
-## Vertiefung
-
-Die Abwicklung nach Franchiseende ist oft der konfliktträchtigste Teil der Vertragsbeziehung. Streitig sind regelmässig: Umfang und Kosten des Rückbaus, Verwertung des Warenbestands, Rückforderung von Kautionen, Schlussabrechnung der Lizenzgebühren und Abrechnung des Marketingfonds.
-
-Eine gute Vertragsgestaltung sieht ein konkretes Abwicklungsprotokoll vor, das beide Parteien gemeinsam unterzeichnen. Ohne eine solche Regelung besteht erhebliches Streupotenzial, da jede Seite andere Vorstellungen von ihren Nachvertragspflichten hat.
-
-## Praxishinweise
-
-- Abwicklungsprotokoll mit Fristenplan und Verantwortlichkeiten sollte Vertragsbestandteil sein.
-- Rückbau-Inspektion mit Protokoll und Fotos durchführen; Meinungsverschiedenheiten vermeiden.
-- Datenschutz-Abwicklung nicht vergessen: Kundendaten sind zu übergeben oder zu löschen (Art. 17 DSGVO).
-- Offene Gegenforderungen des Franchisenehmers (Ausgleichsanspruch, Kaution) im Abwicklungsvertrag verrechnen.
-- Warenbestandsrückkaufpflicht des Franchisegebers nur bei expliziter Vertragsregelung; kein gesetzlicher Anspruch.
-
-## Abgrenzung und Einordnung
-
-Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
-
-
-## Materien- und Quellenkontrolle
-
-Franchiseverträge verbinden je nach Klausel Elemente des Dienst-, Miet-, Kauf-, Darlehens-, Lizenz- und Vertriebsrechts. Wettbewerbsrecht, Kartellrecht, Markenrecht, Datenschutz und Statusrecht nur für die konkret betroffene Pflicht hinzunehmen. Rechtsprechung zu Werbung, gewöhnlichem Mietrecht oder anderen Dauerschuldverhältnissen ist kein pauschaler Franchiseanker; eine Übertragung muss anhand von Vertragsstruktur, Schutzrichtung und Tatbestandsmerkmal begründet werden.
-
----
-
-## Skill: `pflege-oder-medizin-franchise-regulatorische-grenzen`
-
-_Wenn es um Franchiserecht: Pflege- und Medizin-Franchise – Regulatorische Grenzen in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Franchiserecht: Pflege- und Medizin-Franchise – Regulatorische Grenzen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB §§ 311 ff., 305 ff., HGB §§ 84 ff., MarkenG, EU-Vertikal-GVO 2022/720, WettbR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-
-Ein Franchise-System für ambulante Pflege oder medizinische Dienstleistungen wird ausgebaut. Der Franchisegeber fragt, welche regulatorischen Anforderungen die Franchisenehmer erfüllen müssen und wo Systemstandards an berufsrechtliche Grenzen stossen. Ein Franchisenehmer fragt nach seiner persönlichen Haftung bei Pflegemängeln.
-
-## Erste Schritte
-
-1. Zulassungserfordernis klären: Pflegezulassung nach SGB XI (Pflegekassen), Kassenzulassung nach SGB V, Gewerbeanmeldung.
-2. Berufsrecht prüfen: Ärzte, Pflegekräfte, Physiotherapeuten unterliegen Berufsordnungen; Systemweisungen des Franchisegebers können Berufsrecht tangieren.
-3. Heilmittelwerbegesetz (HWG) und UWG: Werbebeschränkungen für medizinische Leistungen.
-4. Haftung für Pflegemängel: Delikthaftung des Franchisegebers nach § 831 BGB (Verrichtungsgehilfen) und Organisationsverschulden.
-5. Datenschutz für Patientendaten: Besonderer Schutz nach Art. 9 DSGVO für Gesundheitsdaten.
-6. Systemhandbuch und Berufsrecht: Können medizinische Handlungsanweisungen im Systemhandbuch als Berufsrechtsverstoß gewertet werden?
-
-## Rechtsrahmen
-
-- §§ 71 ff. SGB XI: Zulassung von Pflegeeinrichtungen
-- §§ 95 ff. SGB V: Kassenzulassung für ärztliche Leistungserbringer
-- §§ 1 ff. HWG: Heilmittelwerbegesetz, Werbebeschränkungen
-- § 831 BGB: Haftung des Geschäftsherrn für Verrichtungsgehilfen (Franchisenehmer und Pflegepersonal)
-- Art. 9 DSGVO: Verarbeitung von Gesundheitsdaten; besondere Schutzanforderungen
-- Berufsordnungen der Ärztekammern und Landespflegegesetze
-
-## Prüfraster
-
-- Verfügen alle Franchisenehmer über die erforderlichen Zulassungen nach SGB XI oder SGB V?
-- Tangiert das Systemhandbuch berufsrechtliche Vorgaben der jeweiligen Heilberufe?
-- Halten Werbematerialien des Systems die Einschränkungen des HWG ein?
-- Hat der Franchisegeber eine Haftungsabgrenzung für Pflegemängel auf Franchisenehmersebene im Vertrag verankert?
-- Werden Patientendaten nach Art. 9 DSGVO besonders geschützt; liegt eine Einwilligung oder eine gesetzliche Erlaubnisgrundlage vor?
-- Gibt es ein Qualitätssicherungssystem für Pflegeleistungen, das die regulatorischen Anforderungen der Pflegekassen erfüllt?
-- Ist die Systemverantwortung des Franchisegebers vs. persönliche Berufsverantwortung des Franchisenehmers klar abgegrenzt?
-
-## Fallstricke
-
-- Systemhandbuch enthält medizinische Behandlungsanweisungen; das verletzt die berufsrechtliche Therapiefreiheit von Ärzten.
-- Werbung mit Heilversprechen oder Patientenerfahrungsberichten verstösst gegen §§ 3 und 11 HWG.
-- Franchisenehmer verliert Pflegezulassung; Franchisegeber ist nicht informiert und reagiert zu langsam.
-- Patientendaten werden ohne ausreichende Sicherheitsmassnahmen in der zentralen CRM-Plattform gespeichert.
-
-## Quellen
-
-- https://gesetze-im-internet.de/sgb_11/__71.html
-- https://gesetze-im-internet.de/sgb_5/__95.html
-- https://gesetze-im-internet.de/hwg_1965/
-- https://dejure.org/gesetze/BGB/831.html
-- https://gesetze-im-internet.de/dsgvo/art_9.html
-- https://dejure.org/gesetze/UWG/5.html
-
-## Vertiefung
-
-Das Spannungsfeld zwischen Systemstandardisierung im Franchise und berufsrechtlicher Freiheit der Heilberufe ist rechtlich komplex. Ärzte, Apotheker und Pflegefachkräfte unterliegen Berufsordnungen, die ihnen eine eigenverantwortliche Berufsausübung vorschreiben. Systemhandbuchklauseln, die spezifische Behandlungsabläufe oder Medikamentierungsvorgaben enthalten, können diese Berufsfreiheit verletzen.
-
-Die Kassenärztlichen Vereinigungen und Pflegekassen haben eigene Qualitätsprüfungsrechte, die von den internen Franchise-Auditrechten zu trennen sind. Ein Franchisenehmer im Pflegebereich kann also sowohl vom Franchisegeber als auch von der Pflegekasse geprüft werden.
-
-## Praxishinweise
-
-- Systemhandbuch-Inhalte für medizinische und pflegerische Prozesse mit einem Berufsrechtsexperten abstimmen.
-- HWG-konforme Werbung für alle Marketingmaterialien sicherstellen; Vorher-Nachher-Bilder und Erfahrungsberichte kritisch prüfen.
-- Zulassungsvoraussetzungen (SGB V, SGB XI) vor Franchisepartnerwerbung klären; Zulassung ist Voraussetzung für Betrieb.
-- Haftungsfreistellung des Franchisegebers für medizinische Behandlungsfehler vertraglich klarstellen.
-- Qualitätssicherungssystem des Franchisegebers darf die Berufsautonomie der Leistungserbringer nicht einschränken.
-
-## Abgrenzung und Einordnung
-
-Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
-
----
-
-## Skill: `streitbeilegung-mediation-einstweilige`
-
-_Wenn es um Franchiserecht: Streitbeilegung, Mediation, Beirat und Schiedsgericht in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Franchiserecht: Streitbeilegung, Mediation, Beirat und Schiedsgericht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB §§ 311 ff., 305 ff., HGB §§ 84 ff., MarkenG, EU-Vertikal-GVO 2022/720, WettbR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-
-Ein Streit zwischen Franchisegeber und Franchisenehmer droht vor dem Landgericht eskaliert zu werden. Alternativ entwickelt ein Franchisegeber eine Streitbeilegungsstrategie für sein System, die Gerichtsverfahren minimiert und den Systemzusammenhalt stärkt. Beides erfordert eine Analyse der verfügbaren Streitbeilegungsmechanismen.
-
-## Erste Schritte
-
-1. Streitbeilegungsklausel im Franchisevertrag prüfen: Gibt es Mediations-, Schlichtungs- oder Schiedsgerichtsklauseln?
-2. Stufenmodell prüfen: Obligatorische Verhandlung vor Beirat oder Ombudsperson, dann Mediation, dann ggf. Schiedsgericht.
-3. Schiedsgerichtsklausel auf Wirksamkeit prüfen: § 1029 ZPO; Schriftform, Unparteilichkeit, Zugangsrecht zum staatlichen Gericht.
-4. Franchisenehmer-Beirat als Konfliktpuffer etablieren: Zusammensetzung, Kompetenzen, Verfahrensordnung.
-5. Mediation nach MediationsG: Zertifizierte Mediatoren, Vertraulichkeit, keine Titulierung der Einigung ohne weiteres.
-6. Kostenverteilung bei alternativer Streitbeilegung klären: Wer zahlt Mediator oder Schiedsrichter?
-
-## Rechtsrahmen
-
-- §§ 1029 ff. ZPO: Schiedsgerichtsbarkeit; Anforderungen an Schiedsklausel
-- §§ 1036 ff. ZPO: Unabhängigkeit und Unparteilichkeit des Schiedsrichters
-- MediationsG: Mediation als vertrauliches Verfahren; Rolle des Mediators
-- § 307 BGB: AGB-Kontrolle von Schiedsgerichts- und Mediationsklauseln
-- § 1031 ZPO: Schriftformerfordernis für Schiedsvereinbarung
-- §§ 1059 f. ZPO: Aufhebung und Vollstreckbarerklärung von Schiedssprüchen
-
-## Prüfraster
-
-- Ist die Schiedsgerichtsklausel schriftlich, klar und für alle Streitigkeiten aus dem Franchisevertrag vereinbart?
-- Beeinträchtigt die Schiedsklausel den Zugang des Franchisenehmers zum staatlichen Recht in einer Weise, die nach § 307 BGB unwirksam ist?
-- Besteht ein Stufenmodell mit obligatorischer Mediationsphase vor Schiedsgericht oder Klage?
-- Ist der Franchisenehmer-Beirat mit echten Kompetenzen ausgestattet oder nur beratend ohne Entscheidungsbefugnis?
-- Sind Kosten und Verfahrensdauer bei Mediation und Schiedsgericht für den Franchisenehmer zumutbar?
-- Ist das Mediationsverfahren vertraulich und schützt es sensible Systeminformationen?
-- Besteht eine Regelung, was mit laufenden Vertragsrelationen während des Streitbeilegungsverfahrens gilt?
-
-## Fallstricke
-
-- Schiedsklausel ist zu pauschal formuliert und erfasst nicht alle Vertragsstreitigkeiten; Gericht erklärt sich zuständig.
-- Mediation wird als Verzögerungstaktik missbraucht; ohne Fristen für das Mediationsverfahren zieht sich der Streit.
-- Franchisenehmer-Beirat hat keine echte Schiedsgewalt; Entscheidungen werden ignoriert.
-- AGB-Schiedsklausel des Franchisegebers benachteiligt den Franchisenehmer durch einseitige Schiedsrichterbestellung; unwirksam nach § 307 BGB.
-
-## Quellen
-
-- https://gesetze-im-internet.de/zpo/__1029.html
-- https://gesetze-im-internet.de/mediationsg/
-- https://dejure.org/gesetze/BGB/307.html
-- https://gesetze-im-internet.de/zpo/__1031.html
-- https://gesetze-im-internet.de/zpo/__1036.html
-- https://gesetze-im-internet.de/zpo/__1059.html
-
-## Vertiefung
-
-Alternative Streitbeilegung gewinnt im Franchiserecht zunehmend an Bedeutung. Das Mediationsgesetz von 2012 hat den rechtlichen Rahmen für Mediation in Deutschland geschaffen; Mediationsklauseln in Franchiseverträgen sind seitdem üblicher geworden.
-
-Das Deutsche Institut für Schiedsgerichtsbarkeit (DIS) bietet spezialisierte Schiedsgerichtsordnungen an, die für Wirtschaftsstreitigkeiten einschliesslich Franchisestreitigkeiten geeignet sind. Schiedsverfahren sind in der Regel vertraulicher als staatliche Gerichtsverfahren, was im Franchisekontext (Systemgeheimnisse, Rufschutz) erhebliche Vorteile bietet.
-
-## Praxishinweise
-
-- Obligatorische Mediationsphase mit einer Höchstdauer (z. B. 3 Monate) vor Schiedsverfahren oder Klage vereinbaren.
-- Schiedsrichterwahl-Verfahren fair gestalten: Jede Partei benennt einen Schiedsrichter; beide Schiedsrichter einigen sich auf einen Obmann.
-- Mediationskosten klar regeln; ohne Regelung trägt jede Partei ihre eigenen Kosten plus hälftig die Mediatorkosten.
-- Beirat mit echter Kompetenz ausstatten: Empfehlungsrecht oder Mitentscheidungsrecht bei wesentlichen Systemänderungen.
-- Streitbeilegungsklausel auf Vollstreckbarkeit im Ausland prüfen (New Yorker Schiedsgerichtsübereinkommen).
-
-## Abgrenzung und Einordnung
-
-Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
-
----
-
-## Skill: `franchisegeber-handbuch-compliance-dashboard`
-
-_Wenn es um Franchiserecht: Franchisegeber-Handbuch und Compliance-Dashboard in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Franchiserecht: Franchisegeber-Handbuch und Compliance-Dashboard
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB §§ 311 ff., 305 ff., HGB §§ 84 ff., MarkenG, EU-Vertikal-GVO 2022/720, WettbR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-
-Ein Franchisegeber mit wachsendem Netzwerk (20 bis 100 oder mehr Franchisenehmer) benötigt ein systematisches Compliance-Management. Er will ein Dashboard entwickeln, das offene Vertragsrisiken, anstehende Audits, Kündigungsfristen und Rechtsstreitigkeiten zentral abbildet.
-
-## Erste Schritte
-
-1. Compliance-Bereiche definieren: Vertragserfüllung, Qualitätsstandards, Lizenzgebühren, Markennutzung, Kartellrecht, Datenschutz.
-2. KPI-Set entwickeln: Welche Messgrösssen signalisieren Frührisiken (z. B. Zahlungsverzug, Audit-Score, Beschwerdequote)?
-3. Datenquellen identifizieren: POS-Daten, Audit-Protokolle, Umsatzmeldungen, Beschwerderegister, Gerichtsstandort-Übersicht.
-4. Berichtspflichten intern und extern bestimmen: Board, Investoren, Kartellamt, Datenschutzaufsicht.
-5. Eskalationsstufen definieren: Wann löst ein KPI eine Abmahnung, wann eine Kündigung, wann ein Soforteingriff aus?
-6. Datenschutz-konforme Datenspeicherung: Dashboard-Daten dürfen keine personenbezogenen Daten ohne Rechtsgrundlage enthalten.
-
-## Rechtsrahmen
-
-- §§ 305 ff. BGB: Vertragliche Compliance-Pflichten; Systemhandbuch als AGB
-- §§ 339 ff. BGB: Vertragsstrafen als Compliance-Instrument
-- § 314 BGB: Kündigungsrecht als ultimatives Compliance-Mittel
-- Art. 5 Abs. 2 DSGVO: Rechenschaftspflicht bei der Verarbeitung personenbezogener Daten im Dashboard
-- §§ 10 und 24 LkSG: Berichtspflichten für Lieferkettenrisiken im Franchisesystem
-- § 91 Abs. 2 AktG analog: Früherkennungssystem für Risiken (für große Franchisegeber)
-
-## Prüfraster
-
-- Erfasst das Compliance-Dashboard alle wesentlichen Risikobereiche (Vertragserfüllung, Qualität, Lizenzgebühren, Kartellrecht, Datenschutz)?
-- Sind KPIs definiert und mit Schwellenwerten versehen, die automatisch Eskalationsschritte auslösen?
-- Sind die im Dashboard gespeicherten Daten datenschutzkonform (keine unzulässige Profilerstellung von Franchisenehmern)?
-- Gibt es ein dokumentiertes Eskalationsprotokoll, das rechtlich abgesicherte Schritte beschreibt?
-- Besteht eine klare Verantwortlichkeit für das Dashboard (Compliance-Officer, Franchisemanagement)?
-- Sind Berichtspflichten an externe Stakeholder (Kartellamt, Datenschutzaufsicht, Banken) in das Dashboard integriert?
-- Ist das Früherkennungssystem auf die Grösse und Komplexität des Franchisesystems ausgelegt?
-
-## Fallstricke
-
-- Compliance-Dashboard speichert umfangreiche Franchisenehmer-Leistungsdaten ohne Rechtsgrundlage; DSGVO-Verstoss.
-- KPIs sind zu grob definiert; Frührisiken werden erst erkannt, wenn Schadensersatzansprüche oder Klagen bereits erhoben werden.
-- Eskalationsprotokoll ist nicht dokumentiert; ad-hoc-Entscheidungen ohne rechtliche Absicherung.
-- Compliance-Verantwortlichkeit ist nicht klar; mehrere Abteilungen handeln widersprüchlich.
-
-## Quellen
-
-- https://dejure.org/gesetze/BGB/305.html
-- https://dejure.org/gesetze/BGB/339.html
-- https://dejure.org/gesetze/BGB/314.html
-- https://gesetze-im-internet.de/dsgvo/art_5.html
-- https://gesetze-im-internet.de/lksg/__10.html
-- https://dejure.org/gesetze/AktG/91.html
-
-## Vertiefung
-
-Ein Compliance-Management-System (CMS) ist für große Franchisesysteme nicht nur rechtlich sinnvoll, sondern kann im Haftungsfall entlastend wirken: Wenn der Franchisegeber nachweist, dass er ein funktionierendes CMS betrieben hat und die Verletzung trotzdem stattfand, kann dies sein Verschulden mindern.
-
-Der IDW-Standard PS 980 (Grundsätze ordnungsgemässer Prüfung von Compliance-Management-Systemen) bietet einen Referenzrahmen für die Gestaltung von CMS-Prüfungen, der auch auf Franchise-Compliance-Dashboards angewendet werden kann.
-
-## Praxishinweise
-
-- Compliance-Officer-Funktion etablieren; Unabhängigkeit von operativem Management sicherstellen.
-- KPIs jährlich überprüfen und anpassen; Schwellenwerte auf Basis historischer Daten kalibrieren.
-- Datenschutz-Folgenabschätzung (DSFA) nach Art. 35 DSGVO für das Compliance-Dashboard durchführen.
-- Compliance-Berichte dem Franchisegeberbeirat und dem Board vorlegen; Nachverfolgung sicherstellen.
-- CMS-Prüfung durch externen Wirtschaftsprüfer alle 2 bis 3 Jahre empfehlenswert.
-
-## Abgrenzung und Einordnung
-
-Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
 
 ---
 

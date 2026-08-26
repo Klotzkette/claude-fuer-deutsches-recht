@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-ersatzteile-dual-exporteur
-description: "Wenn es um Ersatzteile mit Dual-Use-Risiko: Klassifizierung und Lieferentscheidung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ersatzteile mit Dual-Use-Risiko: Klassifizierung und Lieferentscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Ersatzteile mit Dual-Use-Risiko: Klassifizierung und Lieferentscheidung

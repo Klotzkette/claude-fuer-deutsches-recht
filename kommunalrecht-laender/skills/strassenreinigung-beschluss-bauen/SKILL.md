@@ -1,6 +1,6 @@
 ---
 name: strassenreinigung-beschluss-bauen
-description: "Wenn es um Strassenreinigung Beschluss Bauen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenreinigung Beschluss Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strassenreinigung Beschluss Bauen

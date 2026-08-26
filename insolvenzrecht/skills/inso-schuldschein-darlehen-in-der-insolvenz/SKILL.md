@@ -1,6 +1,6 @@
 ---
 name: inso-schuldschein-darlehen-in-der-insolvenz
-description: "Wenn es um Insolvenz: Schuldscheindarlehen in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Insolvenz: Schuldscheindarlehen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenz: Schuldscheindarlehen

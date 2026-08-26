@@ -1,6 +1,6 @@
 ---
 name: uwr-wasserrechtliche-erlaubnis-leitfaden
-description: "Wenn es um Uwr Wasserrechtliche Erlaubnis Leitfaden in Umweltrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Uwr Wasserrechtliche Erlaubnis Leitfaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leitfaden wasserrechtliche Erlaubnis WHG: Bewirtschaftungsermessen, Benutzung, Stand der Technik

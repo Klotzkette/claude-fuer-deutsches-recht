@@ -1,6 +1,6 @@
 ---
 name: see-018-umwelt-und-marpol
-description: "Wenn es um Umwelt Und Marpol in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umwelt und Marpol: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umwelt Und Marpol

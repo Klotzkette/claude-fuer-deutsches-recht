@@ -1,6 +1,6 @@
 ---
 name: odr-verbraucherstreitbeilegung-hinweis
-description: "Wenn es um ODR Verbraucherstreitbeilegung Hinweis in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für ODR Verbraucherstreitbeilegung Hinweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ODR Verbraucherstreitbeilegung Hinweis

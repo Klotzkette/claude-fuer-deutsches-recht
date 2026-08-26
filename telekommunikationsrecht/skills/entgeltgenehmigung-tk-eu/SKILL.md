@@ -1,6 +1,6 @@
 ---
 name: entgeltgenehmigung-tk-eu
-description: "Wenn es um Entgeltgenehmigung und Kostenorientierung in Telekommunikationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Entgeltgenehmigung und Kostenorientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Entgeltgenehmigung und Kostenorientierung

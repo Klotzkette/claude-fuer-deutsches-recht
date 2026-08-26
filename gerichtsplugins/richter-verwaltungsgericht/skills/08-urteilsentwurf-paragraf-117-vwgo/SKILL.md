@@ -1,6 +1,6 @@
 ---
 name: 08-urteilsentwurf-paragraf-117-vwgo
-description: "Wenn es um 08 Urteilsentwurf Paragraf 117 Vwgo in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für 08 Urteilsentwurf Paragraf 117 VwGO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 08 Urteilsentwurf Paragraf 117 Vwgo

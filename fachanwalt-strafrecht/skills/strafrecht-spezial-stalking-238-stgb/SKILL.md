@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-stalking-238-stgb
-description: "Wenn es um Strafrecht Spezial Stalking 238 Stgb in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Stalking 238 Stgb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach Reform 2017 und 2021 (geltendes Recht: wiederholte Nachstellungshandlung und Eignung zur nicht unerheblichen Beeintraechtigung der Lebensgestaltung), Regelbeispiele, besonders schwere Faelle, Todesfolge, Praktikertipps für die Verteidigung (Tatdokumentation, Affekt-/Schutzbehauptungen, GewSchG-Schnittstelle), Trade-offs Verteidigungsstrategie, Strafzumessung nach § 46 StGB, Mustertexte für Einlassung und Hilfsbeweisantrag, Verhältnis zu § 240 und § 241 StGB.

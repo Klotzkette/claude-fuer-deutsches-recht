@@ -1,6 +1,6 @@
 ---
 name: buergerbegehren-und-buergerentscheid
-description: "Wenn es um Buergerbegehren Und Buergerentscheid in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgerbegehren und Bürgerentscheid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Buergerbegehren Und Buergerentscheid

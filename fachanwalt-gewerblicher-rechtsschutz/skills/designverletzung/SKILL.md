@@ -1,6 +1,6 @@
 ---
 name: designverletzung
-description: "Wenn es um Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren

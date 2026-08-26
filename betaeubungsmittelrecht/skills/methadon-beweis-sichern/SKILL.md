@@ -1,6 +1,6 @@
 ---
 name: methadon-beweis-sichern
-description: "Wenn es um Methadon Beweis Sichern in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Methadon Beweis Sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Methadon Beweis Sichern

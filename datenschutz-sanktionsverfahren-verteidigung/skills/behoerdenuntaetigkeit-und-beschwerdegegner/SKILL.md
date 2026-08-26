@@ -1,6 +1,6 @@
 ---
 name: behoerdenuntaetigkeit-und-beschwerdegegner
-description: "Wenn es um Behördenuntätigkeit und Beschwerdegegner in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Behördenuntätigkeit und Beschwerdegegner: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Behördenuntätigkeit und Beschwerdegegner

@@ -1,6 +1,6 @@
 ---
 name: grants-forschungszulage
-description: "Wenn es um Fördermittel und Forschungszulage in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fördermittel und Forschungszulage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fördermittel und Forschungszulage

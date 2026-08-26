@@ -1,6 +1,6 @@
 ---
 name: npl-distressed-outside-target
-description: "Wenn es um Corporate: NPL und Distressed Loan Transfer in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Npl Distressed Outside Target; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Corporate: NPL und Distressed Loan Transfer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: npl-distressed-outside-target."
 ---
 
 # Corporate: NPL und Distressed Loan Transfer

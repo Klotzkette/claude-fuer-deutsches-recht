@@ -1,6 +1,6 @@
 ---
 name: aufopferung-fortwirkung-bgb
-description: "Wenn es um Pralr Aufopferung Fortwirkung Bgb Und Polizei in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aufopferung Fortwirkung BGB; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Aufopferung Fortwirkung BGB und Polizei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: aufopferung-fortwirkung-bgb."
 ---
 
 # Pralr Aufopferung Fortwirkung Bgb Und Polizei

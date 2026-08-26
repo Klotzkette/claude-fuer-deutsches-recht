@@ -1,6 +1,6 @@
 ---
 name: treuhandprivatisierung-vergleich-bewer
-description: "Wenn es um Treuhandprivatisierung Vergleich Bewer in Einigungsvertrag und Vermögensrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Treuhandprivatisierung Vergleich Bewer: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Treuhandprivatisierung Vergleich Bewer

@@ -1,6 +1,6 @@
 ---
 name: verein-redteam-qualitygate
-description: "Wenn es um Red-Team Vereinsrecht in Vereinsrecht und Vereinsmanager geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team Vereinsrecht: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team Vereinsrecht

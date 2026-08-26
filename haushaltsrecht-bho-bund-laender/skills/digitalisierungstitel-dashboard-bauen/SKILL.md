@@ -1,6 +1,6 @@
 ---
 name: digitalisierungstitel-dashboard-bauen
-description: "Wenn es um Digitalisierungstitel Dashboard Bauen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitalisierungstitel Dashboard Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitalisierungstitel Dashboard Bauen

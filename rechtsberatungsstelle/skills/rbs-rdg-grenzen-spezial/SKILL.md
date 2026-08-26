@@ -1,6 +1,6 @@
 ---
 name: rbs-rdg-grenzen-spezial
-description: "Wenn es um Rbs: RDG-Grenzen in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rbs: RDG-Grenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rbs: RDG-Grenzen

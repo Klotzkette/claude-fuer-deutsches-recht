@@ -1,6 +1,6 @@
 ---
 name: kueschk-paragraph-12-kschg-neuer-job-einseitig
-description: "Wenn es um Kueschk Paragraph 12 Kschg Neuer Job Einseitig in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kueschk Paragraph 12 Kschg Neuer Job Einseitig: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Paragraf 12 KSchG einseitige Lösung nach Aufnahme eines neuen Arbeitsverhältnisses: Erklärungsfrist eine Woche nach Rechtskraft

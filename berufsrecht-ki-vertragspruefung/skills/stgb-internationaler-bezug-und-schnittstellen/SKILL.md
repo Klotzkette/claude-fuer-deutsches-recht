@@ -1,6 +1,6 @@
 ---
 name: stgb-internationaler-bezug-und-schnittstellen
-description: "Wenn es um Stgb: Internationaler Bezug und Schnittstellen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Stgb: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: stgb-internationaler-bezug-und-schnittstellen."
 ---
 
 # Stgb: Internationaler Bezug und Schnittstellen

@@ -1,6 +1,6 @@
 ---
 name: urheber-und-markenstrafrecht-praxis
-description: "Wenn es um Urheber- und Markenstrafrecht: Akten schnell sortieren in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Urheber- und Markenstrafrecht: Akten schnell sortieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urheber- und Markenstrafrecht: Akten schnell sortieren

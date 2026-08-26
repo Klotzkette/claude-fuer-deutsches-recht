@@ -1,6 +1,6 @@
 ---
 name: berufshaftpflicht-und-claim-risk-kammerantwort-u
-description: "Wenn es um Berufshaftpflicht Und Claim Risk Kammerantwort U in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Berufshaftpflicht und Claim Risk Kammerantwort U: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: berufshaftpflicht und claim risk - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

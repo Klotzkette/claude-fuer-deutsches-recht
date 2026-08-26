@@ -1,6 +1,6 @@
 ---
 name: kv-078-krankenkasse-und-insolvenz-beitragsschuld
-description: "Wenn es um Krankenversicherung: Krankenkasse und Insolvenz Beitragsschuld in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Krankenkasse und Insolvenz Beitragsschuld: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Krankenkasse und Insolvenz Beitragsschuld

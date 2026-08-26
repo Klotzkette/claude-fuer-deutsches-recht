@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-it-cloud-kammeraufsicht
-description: "Wenn es um Interessenkollision in Berufsrecht Steuerberater geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Interessenkollision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Steuerberater."
 ---
 
 # Interessenkollision

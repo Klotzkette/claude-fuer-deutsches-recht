@@ -1,6 +1,6 @@
 ---
 name: jahresbericht-betreuungsgericht
-description: "Wenn es um Jahresbericht des Betreuers ans Betreuungsgericht (Paragraf 1863 BGB) in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Jahresbericht des Betreuers ans Betreuungsgericht (Paragraf 1863 BGB): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Jahresbericht des Betreuers ans Betreuungsgericht (§ 1863 BGB)

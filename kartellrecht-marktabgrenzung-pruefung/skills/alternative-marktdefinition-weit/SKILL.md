@@ -1,6 +1,6 @@
 ---
 name: alternative-marktdefinition-weit
-description: "Wenn es um Alternative Marktdefinition — Weiter in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Alternative Marktdefinition — Weiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Alternative Marktdefinition — Weiter

@@ -1,6 +1,6 @@
 ---
 name: gebietsgliederung
-description: "Wenn es um Gebietsgliederung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gebietsgliederung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Gebietsgliederung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: gebietsgliederung."
 ---
 
 # Gebietsgliederung

@@ -1,6 +1,6 @@
 ---
 name: patria-potestas-und-hausgewalt
-description: "Wenn es um Patria Potestas Und Hausgewalt in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Patria Potestas und Hausgewalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patria Potestas Und Hausgewalt

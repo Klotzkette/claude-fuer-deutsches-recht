@@ -1,6 +1,6 @@
 ---
 name: ordner-auswahl
-description: "Wenn es um Ordner sind Schutz, kein Privatpolizei-Ersatz in Versammlungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Ordner sind Schutz, kein Privatpolizei-Ersatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ordner sind Schutz, kein Privatpolizei-Ersatz

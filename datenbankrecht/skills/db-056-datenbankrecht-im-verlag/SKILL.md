@@ -1,6 +1,6 @@
 ---
 name: db-056-datenbankrecht-im-verlag
-description: "Wenn es um Datenbankrecht: Datenbankrecht im Verlag in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Datenbankrecht im Verlag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Datenbankrecht im Verlag

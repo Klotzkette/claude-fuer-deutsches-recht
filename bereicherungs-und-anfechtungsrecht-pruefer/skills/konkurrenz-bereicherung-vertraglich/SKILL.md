@@ -1,6 +1,6 @@
 ---
 name: konkurrenz-bereicherung-vertraglich
-description: "Wenn es um Konkurrenz: Bereicherung neben Vertrag, Delikt und EBV in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Konkurrenz Bereicherung Vertraglich; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Konkurrenz: Bereicherung neben Vertrag, Delikt und EBV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: konkurrenz-bereicherung-vertraglich."
 ---
 
 # Konkurrenz: Bereicherung neben Vertrag, Delikt und EBV

@@ -1,6 +1,6 @@
 ---
 name: kindeswohlgefaehrdung-eilantrag
-description: "Wenn es um Kindeswohlgefaehrdung Eilantrag in Fachanwalt Familienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kindeswohlgefährdung Eilantrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Kindeswohlgefaehrdung nach Paragraf 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen

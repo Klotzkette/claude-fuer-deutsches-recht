@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-3wochen
-description: "Wenn es um Drei-Wochen-Liquiditätsvorschau (Paragraf 17 InsO, wochenaktuell) in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Drei-Wochen-Liquiditätsvorschau (Paragraf 17 InsO, wochenaktuell): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drei-Wochen-Liquiditätsvorschau (§ 17 InsO, wochenaktuell)

@@ -1,6 +1,6 @@
 ---
 name: expense-export
-description: "Wenn es um Spesenbetrug und Reisekostenmissbrauch in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Spesenbetrug und Reisekostenmissbrauch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spesenbetrug und Reisekostenmissbrauch

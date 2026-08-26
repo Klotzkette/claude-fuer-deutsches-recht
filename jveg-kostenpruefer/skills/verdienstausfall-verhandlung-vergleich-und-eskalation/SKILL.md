@@ -1,6 +1,6 @@
 ---
 name: verdienstausfall-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Verdienstausfall: Verhandlung, Vergleich und Eskalation in JVEG-Kostenprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verdienstausfall: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Verdienstausfall: Verhandlung, Vergleich und Eskalation

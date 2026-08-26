@@ -1,6 +1,6 @@
 ---
 name: schutzdauer-gemeinfreiheit-software-69a
-description: "Wenn es um Schutzdauer und Gemeinfreiheit in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Schutzdauer und Gemeinfreiheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schutzdauer und Gemeinfreiheit

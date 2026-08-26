@@ -1,6 +1,6 @@
 ---
 name: ein-006-vermoegensgesetz-anspruchspfad
-description: "Wenn es um Vermoegensgesetz Anspruchspfad in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vermögensgesetz Anspruchspfad: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: ein-006-vermoegensgesetz-anspruchspfad."
 ---
 
 # Vermoegensgesetz Anspruchspfad

@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-gewerblicher-rechtsschutz
-description: "Wenn es um Mandat-Triage Gewerblicher Rechtsschutz in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandat-Triage Gewerblicher Rechtsschutz: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandat-Triage Gewerblicher Rechtsschutz

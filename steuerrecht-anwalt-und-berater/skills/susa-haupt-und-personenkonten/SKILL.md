@@ -1,6 +1,6 @@
 ---
 name: susa-haupt-und-personenkonten
-description: "Wenn es um Hauptbuchkonten und Personenkonten — Abstimmung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hauptbuchkonten und Personenkonten — Abstimmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hauptbuchkonten und Personenkonten — Abstimmung

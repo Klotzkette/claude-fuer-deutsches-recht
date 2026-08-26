@@ -1,6 +1,6 @@
 ---
 name: kv-050-impfleistungen-reiseimpfung-und-stiko
-description: "Wenn es um Krankenversicherung: Impfleistungen Reiseimpfung und STIKO in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Impfleistungen Reiseimpfung und STIKO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Impfleistungen Reiseimpfung und STIKO

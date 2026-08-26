@@ -1,6 +1,6 @@
 ---
 name: befristungsabrede-qes-rechtsprechung
-description: "Wenn es um Red-Team Qualitygate in Schriftform und Textform im BGB geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team Qualitygate: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Red-Team Qualitygate

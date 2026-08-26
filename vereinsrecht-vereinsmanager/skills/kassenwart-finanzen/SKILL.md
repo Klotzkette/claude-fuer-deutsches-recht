@@ -1,6 +1,6 @@
 ---
 name: kassenwart-finanzen
-description: "Wenn es um Kassenwart und Finanzen in Vereinsrecht und Vereinsmanager geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kassenwart und Finanzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kassenwart und Finanzen

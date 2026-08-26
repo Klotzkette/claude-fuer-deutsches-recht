@@ -1,6 +1,6 @@
 ---
 name: pacer-ecf-confidentiality
-description: "Wenn es um PACER, ECF and Confidentiality in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PACER, ECF and Confidentiality: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PACER, ECF and Confidentiality

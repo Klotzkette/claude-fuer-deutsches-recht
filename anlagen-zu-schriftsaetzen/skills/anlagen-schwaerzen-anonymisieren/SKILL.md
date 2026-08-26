@@ -1,6 +1,6 @@
 ---
 name: anlagen-schwaerzen-anonymisieren
-description: "Wenn es um Anlagen schwaerzen/anonymisieren in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Anlagen schwärzen/anonymisieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagen schwaerzen/anonymisieren

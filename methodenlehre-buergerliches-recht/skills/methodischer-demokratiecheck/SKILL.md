@@ -1,6 +1,6 @@
 ---
 name: methodischer-demokratiecheck
-description: "Wenn es um Methodischer Demokratiecheck in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Methodischer Demokratiecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Methodischer Demokratiecheck

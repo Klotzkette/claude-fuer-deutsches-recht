@@ -1,6 +1,6 @@
 ---
 name: gesellschafterversammlungsstrategie
-description: "Wenn es um Gesellschafterversammlungsstrategie in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Gesellschafterversammlungsstrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Gesellschafterversammlungsstrategie

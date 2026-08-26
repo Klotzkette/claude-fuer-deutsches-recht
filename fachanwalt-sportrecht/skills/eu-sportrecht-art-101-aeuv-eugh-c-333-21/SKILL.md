@@ -1,6 +1,6 @@
 ---
 name: eu-sportrecht-art-101-aeuv-eugh-c-333-21
-description: "Prüft Zulassungs-, Sanktions- und Vermarktungsregeln von Sportverbänden nach Unionsrecht. Bestimmt wirtschaftliche Tätigkeit, Markt, Doppelrolle, Wettbewerbsbeschränkung, Dominanz und objektive Kriterien und liefert Regelwerksaudit, Eilverfahren und kartellrechtliche Angriffs- oder Rechtfertigungslinie."
+description: "Prüft Zulassungs-, Sanktions- und Vermarktungsregeln von Sportverbänden nach Unionsrecht."
 ---
 
 # Sportverbandsregeln nach Unionsrecht prüfen

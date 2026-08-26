@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-im-verlag
-description: "Wenn es um Datenbankrecht im Verlag — Volltextdatenbanken und digitale Archive in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht im Verlag — Volltextdatenbanken und digitale Archive: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht im Verlag — Volltextdatenbanken und digitale Archive

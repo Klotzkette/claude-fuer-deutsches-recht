@@ -1,6 +1,6 @@
 ---
 name: kanzleisitz-und-zweigstelle-organisationspflicht-und-p
-description: "Wenn es um Kanzleisitz Und Zweigstelle Organisationspflicht Und P in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kanzleisitz und Zweigstelle Organisationspflicht und P: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: kanzleisitz und zweigstelle - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: loi-nbo-binding-offer
-description: "Wenn es um LOI, NBO und Binding Offer in Private Equity Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für LOI, NBO und Binding Offer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LOI, NBO und Binding Offer

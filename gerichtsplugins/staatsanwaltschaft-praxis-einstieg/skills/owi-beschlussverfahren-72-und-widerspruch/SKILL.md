@@ -1,6 +1,6 @@
 ---
 name: owi-beschlussverfahren-72-und-widerspruch
-description: "Wenn es um Owi Beschlussverfahren 72 Und Widerspruch in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Owi Beschlussverfahren 72 und Widerspruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschlussverfahren nach Paragraf 72 OWiG: Widerspruchsfrist, Zustimmungslage und taktische Entscheidung prüfen

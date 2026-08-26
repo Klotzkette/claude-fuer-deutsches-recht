@@ -1,6 +1,6 @@
 ---
 name: beweisfuehrung-berufsverfahren
-description: "Wenn es um Beweisfuehrung Berufsverfahren in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beweisführung Berufsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Anwälte: beweisfuehrung im berufsverfahren - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

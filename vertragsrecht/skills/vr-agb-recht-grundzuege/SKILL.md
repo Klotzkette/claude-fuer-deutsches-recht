@@ -1,6 +1,6 @@
 ---
 name: vr-agb-recht-grundzuege
-description: "Wenn es um Vertragsrecht: AGB-Recht in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertragsrecht: AGB-Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertragsrecht: AGB-Recht

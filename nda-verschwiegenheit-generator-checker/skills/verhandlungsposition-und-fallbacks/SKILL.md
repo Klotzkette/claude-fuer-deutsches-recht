@@ -1,6 +1,6 @@
 ---
 name: verhandlungsposition-und-fallbacks
-description: "Wenn es um Verhandlungsposition Und Fallbacks in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verhandlungsposition und Fallbacks: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Verhandlungsposition Und Fallbacks

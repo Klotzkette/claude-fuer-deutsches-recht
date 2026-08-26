@@ -1,6 +1,6 @@
 ---
 name: schnittstelle-lieferkettenfinanzierung
-description: "Wenn es um Schnittstelle Lieferkettenfinanzierung Supply Chain Finance in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schnittstelle Lieferkettenfinanzierung Supply Chain Finance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schnittstelle Lieferkettenfinanzierung Supply Chain Finance

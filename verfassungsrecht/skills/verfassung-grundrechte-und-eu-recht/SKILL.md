@@ -1,6 +1,6 @@
 ---
 name: verfassung-grundrechte-und-eu-recht
-description: "Wenn es um GG-Grundrechte und EU-Grundrechte in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GG-Grundrechte und EU-Grundrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # GG-Grundrechte und EU-Grundrechte

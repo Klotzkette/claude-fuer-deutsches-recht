@@ -1,6 +1,6 @@
 ---
 name: eilantrag-buergergeld-jobcenter
-description: "Wenn es um Eilantrag gegen das Jobcenter — Buergergeld retten in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Eilantrag gegen das Jobcenter — Bürgergeld retten: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Eilantrag gegen das Jobcenter — Buergergeld retten

@@ -1,6 +1,6 @@
 ---
 name: mitgliedsbeitraege
-description: "Wenn es um Mitgliedsbeiträge in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mitgliedsbeiträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mitgliedsbeiträge

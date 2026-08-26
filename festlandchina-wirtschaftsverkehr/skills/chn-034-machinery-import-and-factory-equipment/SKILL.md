@@ -1,6 +1,6 @@
 ---
 name: chn-034-machinery-import-and-factory-equipment
-description: "Wenn es um Machinery Import And Factory Equipment in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Machinery Import And Factory Equipment: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Machinery Import And Factory Equipment

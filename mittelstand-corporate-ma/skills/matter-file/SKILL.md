@@ -1,6 +1,6 @@
 ---
 name: matter-file
-description: "Wenn es um Deal-Akte in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Deal-Akte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Deal-Akte

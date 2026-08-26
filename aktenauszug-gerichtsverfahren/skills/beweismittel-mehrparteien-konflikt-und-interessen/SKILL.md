@@ -1,6 +1,6 @@
 ---
 name: beweismittel-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Beweismittel: Mehrparteienkonflikt und Interessenmatrix in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beweismittel: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweismittel: Mehrparteienkonflikt und Interessenmatrix

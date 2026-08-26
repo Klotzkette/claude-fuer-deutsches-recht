@@ -1,6 +1,6 @@
 ---
 name: tax-audit-post-closing
-description: "Wenn es um Tax Audit und Post-Closing Tax Claims in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tax Audit und Post-Closing Tax Claims: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tax Audit und Post-Closing Tax Claims

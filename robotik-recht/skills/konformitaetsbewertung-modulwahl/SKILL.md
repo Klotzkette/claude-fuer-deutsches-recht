@@ -1,6 +1,6 @@
 ---
 name: konformitaetsbewertung-modulwahl
-description: "Wenn es um Konformitätsbewertung Modulwahl in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konformitätsbewertung Modulwahl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konformitätsbewertung Modulwahl

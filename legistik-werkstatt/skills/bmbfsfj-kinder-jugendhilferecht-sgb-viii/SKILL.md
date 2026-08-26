@@ -1,6 +1,6 @@
 ---
 name: bmbfsfj-kinder-jugendhilferecht-sgb-viii
-description: "Wenn es um Kinder- und Jugendhilferecht (SGB VIII) (BMBFSFJ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Bmbfsfj Kinder Jugendhilferecht Sgb Viii; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Kinder- und Jugendhilferecht (SGB VIII) (BMBFSFJ): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmbfsfj-kinder-jugendhilferecht-sgb-viii."
 ---
 
 # Kinder- und Jugendhilferecht (SGB VIII) (BMBFSFJ)

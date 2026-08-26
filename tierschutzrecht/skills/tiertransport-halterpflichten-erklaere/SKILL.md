@@ -1,6 +1,6 @@
 ---
 name: tiertransport-halterpflichten-erklaere
-description: "Wenn es um Tiertransport Halterpflichten Erklaere in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tiertransport Halterpflichten Erkläre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tiertransport Halterpflichten Erklaere

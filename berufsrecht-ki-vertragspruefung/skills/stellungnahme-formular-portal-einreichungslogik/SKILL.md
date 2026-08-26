@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-formular-portal-einreichungslogik
-description: "Wenn es um Stellungnahme: Formular, Portal und Einreichungslogik in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stellungnahme: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Stellungnahme: Formular, Portal und Einreichungslogik

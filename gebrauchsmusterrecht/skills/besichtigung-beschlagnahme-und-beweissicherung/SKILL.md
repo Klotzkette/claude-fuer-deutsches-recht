@@ -1,6 +1,6 @@
 ---
 name: besichtigung-beschlagnahme-und-beweissicherung
-description: "Wenn es um Besichtigung Beschlagnahme Und Beweissicherung in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Besichtigung Beschlagnahme und Beweissicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Besichtigung Beschlagnahme Und Beweissicherung

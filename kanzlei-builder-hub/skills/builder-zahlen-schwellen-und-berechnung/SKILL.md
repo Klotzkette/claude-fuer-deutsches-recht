@@ -1,6 +1,6 @@
 ---
 name: builder-zahlen-schwellen-und-berechnung
-description: "Wenn es um Builder: Zahlen, Schwellenwerte und Berechnung in Kanzlei-Builder-Hub geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Builder: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Builder: Zahlen, Schwellenwerte und Berechnung

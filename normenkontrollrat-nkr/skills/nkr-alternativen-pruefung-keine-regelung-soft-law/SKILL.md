@@ -1,6 +1,6 @@
 ---
 name: nkr-alternativen-pruefung-keine-regelung-soft-law
-description: "Wenn es um NKR-Alternativen-Pruefung — Verzicht, Soft-Law, Vollzug in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # NKR-Alternativen-Pruefung — Verzicht, Soft-Law, Vollzug

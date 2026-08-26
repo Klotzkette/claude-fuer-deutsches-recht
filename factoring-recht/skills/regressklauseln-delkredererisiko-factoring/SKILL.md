@@ -1,6 +1,6 @@
 ---
 name: regressklauseln-delkredererisiko-factoring
-description: "Wenn es um Regressklauseln Delkredererisiko Rückbelastung in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Regressklauseln Delkredererisiko Rückbelastung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Regressklauseln Delkredererisiko Rückbelastung

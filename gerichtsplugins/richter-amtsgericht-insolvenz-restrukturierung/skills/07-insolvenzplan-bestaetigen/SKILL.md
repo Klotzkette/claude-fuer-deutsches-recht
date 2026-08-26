@@ -1,6 +1,6 @@
 ---
 name: 07-insolvenzplan-bestaetigen
-description: "Wenn es um 07 Insolvenzplan Bestaetigen in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 07 Insolvenzplan Bestätigen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 07 Insolvenzplan Bestaetigen

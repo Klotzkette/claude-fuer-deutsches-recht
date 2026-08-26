@@ -1,6 +1,6 @@
 ---
 name: 020-rezeption-deutschland
-description: "Wenn es um Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisches Recht. Route: 020-rezeption-deutschland."
 ---
 
 # Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus

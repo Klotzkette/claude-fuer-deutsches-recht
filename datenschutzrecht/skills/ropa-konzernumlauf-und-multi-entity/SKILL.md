@@ -1,6 +1,6 @@
 ---
 name: ropa-konzernumlauf-und-multi-entity
-description: "Wenn es um RoPA im Konzern und in Multi-Entity-Strukturen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für RoPA im Konzern und in Multi-Entity-Strukturen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # RoPA im Konzern und in Multi-Entity-Strukturen

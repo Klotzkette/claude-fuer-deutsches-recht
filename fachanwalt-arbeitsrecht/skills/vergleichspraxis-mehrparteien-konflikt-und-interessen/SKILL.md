@@ -1,6 +1,6 @@
 ---
 name: vergleichspraxis-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Vergleichspraxis Mehrparteien Konflikt Und Interessen in Fachanwalt Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleichspraxis Mehrparteien Konflikt und Interessen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleichspraxis bei Mehrparteienkonstellationen und komplexen Interessenlagen: Dreiparteienvergleich (AG, AN, BR), Sozialplanverhandlung, Interessenausgleich Paragraf 111 BetrVG, Vergleich mit Namensliste Paragraf 1 Abs
@@ -108,3 +108,7 @@ In einem Interessenausgleich können die zu entlassenden Arbeitnehmer namentlich
 ## Was dieser Arbeitsgang nicht macht
 - Keine automatische Sozialplanberechnung ohne konkrete Belegschaftsdaten.
 - Keine Verhandlungsführung; Strategie-Entscheidung bleibt beim Anwalt.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-vergleichspraxis-mehrparteien-konflikt-und-interessen` beziehungsweise Vergleichspraxis: Mehrparteienkonflikt und Interessenmatrix: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-vergleichspraxis-mehrparteien-konflikt-und-interessen.md).

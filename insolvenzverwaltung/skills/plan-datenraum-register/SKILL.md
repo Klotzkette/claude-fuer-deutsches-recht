@@ -1,6 +1,6 @@
 ---
 name: plan-datenraum-register
-description: "Wenn es um IV-integrierte Datenraum und Dokumentenregister in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IV-integrierte Datenraum und Dokumentenregister: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # IV-integrierte Datenraum und Dokumentenregister

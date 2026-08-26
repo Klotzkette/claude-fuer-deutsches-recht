@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-frequenzauktion-fristen-und-bescheidanalyse
-description: "Wenn es um TK-Regulierungsakte: Frequenzauktion — Fristen- und Bescheidanalyse in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für TK-Regulierungsakte: Frequenzauktion — Fristen- und Bescheidanalyse: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # TK-Regulierungsakte: Frequenzauktion — Fristen- und Bescheidanalyse

@@ -1,6 +1,6 @@
 ---
 name: hausarbeit-quellenrecherche-rspr-literatur
-description: "Wenn es um Fristen- und Risikoampel in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen- und Risikoampel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: hausarbeitenmacher — Didaktisches Plugin für juristische."
 ---
 
 # Fristen- und Risikoampel

@@ -1,6 +1,6 @@
 ---
 name: aenderungsmodus-compliance-dokumentation
-description: "Wenn es um Änderungsmodus: Compliance-Dokumentation und Aktenvermerk in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Änderungsmodus: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NDA-Abgleich. Route: aenderungsmodus-compliance-dokumentation."
 ---
 
 # Änderungsmodus: Compliance-Dokumentation und Aktenvermerk

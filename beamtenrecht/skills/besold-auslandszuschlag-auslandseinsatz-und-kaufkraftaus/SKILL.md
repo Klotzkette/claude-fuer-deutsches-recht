@@ -1,6 +1,6 @@
 ---
 name: besold-auslandszuschlag-auslandseinsatz-und-kaufkraftaus
-description: "Wenn es um Besold Auslandszuschlag Auslandseinsatz Und Kaufkraftaus in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besold Auslandszuschlag Auslandseinsatz und Kaufkraftaus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Besold Auslandszuschlag Auslandseinsatz Und Kaufkraftaus

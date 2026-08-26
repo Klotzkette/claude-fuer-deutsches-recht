@@ -1,6 +1,6 @@
 ---
 name: bafoeg
-description: "Wenn es um Bafoeg in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für BAföG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BAföG

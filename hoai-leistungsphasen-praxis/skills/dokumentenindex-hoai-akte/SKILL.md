@@ -1,6 +1,6 @@
 ---
 name: dokumentenindex-hoai-akte
-description: "Wenn es um HOAI Querschnitt: Erstellt aktenindex nach lph in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für HOAI Querschnitt: Erstellt aktenindex nach lph: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI Querschnitt: Erstellt aktenindex nach lph

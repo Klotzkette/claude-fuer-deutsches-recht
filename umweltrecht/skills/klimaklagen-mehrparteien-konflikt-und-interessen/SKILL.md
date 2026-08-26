@@ -1,6 +1,6 @@
 ---
 name: klimaklagen-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Klimaklagen: Mehrparteienkonflikt und Interessenmatrix in Umweltrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klimaklagen: Mehrparteienkonflikt und Interessenmatrix: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klimaklagen: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: behoerdenvergleich-erledigung-und-auflagen
-description: "Wenn es um Erledigung mit der Aufsicht verhandeln in Datenschutz-Sanktionsverfahren und Verteidigung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Erledigung mit der Aufsicht verhandeln: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Erledigung mit der Aufsicht verhandeln

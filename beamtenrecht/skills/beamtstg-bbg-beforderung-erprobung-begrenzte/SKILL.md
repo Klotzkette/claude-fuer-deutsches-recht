@@ -1,6 +1,6 @@
 ---
 name: beamtstg-bbg-beforderung-erprobung-begrenzte
-description: "Wenn es um BeamtStG, BBG und Landesrecht richtig abgrenzen in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für BeamtStG, BBG und Landesrecht richtig abgrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BeamtStG, BBG und Landesrecht richtig abgrenzen

@@ -1,6 +1,6 @@
 ---
 name: rang-tabellenauszug-tabellenimport
-description: "Wenn es um Rang: Schriftsatz-, Brief- und Memo-Bausteine in Insolvenzforderungsanmeldungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rang: Schriftsatz-, Brief- und Memo-Bausteine: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rang: Schriftsatz-, Brief- und Memo-Bausteine

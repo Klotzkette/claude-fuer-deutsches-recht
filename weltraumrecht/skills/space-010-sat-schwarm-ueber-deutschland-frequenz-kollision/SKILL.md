@@ -1,6 +1,6 @@
 ---
 name: space-010-sat-schwarm-ueber-deutschland-frequenz-kollision
-description: "Wenn es um Space 010 Sat Schwarm über Deutschland Frequenz Kollision in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Space 010 Sat Schwarm über Deutschland Frequenz Kollision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Weltraumrecht: Satellitenschwarm über Deutschland Frequenz Kollisions- und Datenschutzrisiken

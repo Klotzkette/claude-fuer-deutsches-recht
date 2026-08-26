@@ -1,6 +1,6 @@
 ---
 name: frueherer-abgelehnter-fuehrungszeugnis
-description: "Wenn es um Früherer abgelehnter Antrag in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Früherer abgelehnter Antrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Früherer abgelehnter Antrag

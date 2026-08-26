@@ -1,6 +1,6 @@
 ---
 name: bautraeger-mabv-gewerberechtliche-folgen
-description: "Wenn es um MaBV-Verstoss gewerberechtliche Folgen in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für MaBV-Verstoss gewerberechtliche Folgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MaBV-Verstoss gewerberechtliche Folgen

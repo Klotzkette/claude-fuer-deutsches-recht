@@ -1,6 +1,6 @@
 ---
 name: ki-service-kollisionsrecht-ipr-konto
-description: "Wenn es um digitale Werkzeuge Service AGB in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Ki Service Kollisionsrecht Ipr Konto; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für digitale Werkzeuge Service AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: ki-service-kollisionsrecht-ipr-konto."
 ---
 
 # KI Service AGB

@@ -1,6 +1,6 @@
 ---
 name: handelsvertreterprivileg
-description: "Wenn es um Kartellrechtliches Handelsvertreterprivileg nach Art. 101 AEUV und Paragraf 1 GWB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kartellrechtliches Handelsvertreterprivileg nach Art. 101 AEUV und Paragraf 1 GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kartellrechtliches Handelsvertreterprivileg nach Art. 101 AEUV und § 1 GWB

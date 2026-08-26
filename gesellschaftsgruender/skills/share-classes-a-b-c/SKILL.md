@@ -1,6 +1,6 @@
 ---
 name: share-classes-a-b-c
-description: "Wenn es um Anteilsklassen A / B / C / Common in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anteilsklassen A / B / C / Common: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anteilsklassen A / B / C / Common

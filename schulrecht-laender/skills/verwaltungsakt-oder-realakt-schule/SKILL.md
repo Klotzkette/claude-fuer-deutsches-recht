@@ -1,6 +1,6 @@
 ---
 name: verwaltungsakt-oder-realakt-schule
-description: "Wenn es um Verwaltungsakt Oder Realakt Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verwaltungsakt oder Realakt Schule: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwaltungsakt Oder Realakt Schule

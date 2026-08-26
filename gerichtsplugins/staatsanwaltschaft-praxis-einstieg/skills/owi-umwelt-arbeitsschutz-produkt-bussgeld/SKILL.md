@@ -1,6 +1,6 @@
 ---
 name: owi-umwelt-arbeitsschutz-produkt-bussgeld
-description: "Wenn es um Owi Umwelt Arbeitsschutz Produkt Bussgeld in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Owi Umwelt Arbeitsschutz Produkt Bussgeld: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umwelt-, Arbeitsschutz- und Produkt-OWi: technische Behördenakten in gerichtsfeste Bußgeldlogik bringen

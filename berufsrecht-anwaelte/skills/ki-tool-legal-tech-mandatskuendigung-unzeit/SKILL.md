@@ -1,6 +1,6 @@
 ---
 name: ki-tool-legal-tech-mandatskuendigung-unzeit
-description: "Wenn es um Ki Tool Legal Tech Mandatskuendigung Unzeit in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Ki Tool Legal Tech Mandatskündigung Unzeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: ki tool in der kanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

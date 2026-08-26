@@ -1,6 +1,6 @@
 ---
 name: digitale-elemente-reparaturrecht-router
-description: "Wenn es um Digitale Elemente und Reparaturrecht — Router-Skill BGB AT in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitale Elemente und Reparaturrecht — Router-Skill BGB AT: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitale Elemente und Reparaturrecht — Router-Skill BGB AT

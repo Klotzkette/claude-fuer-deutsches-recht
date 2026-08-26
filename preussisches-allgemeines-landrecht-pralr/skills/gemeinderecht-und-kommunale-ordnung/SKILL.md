@@ -1,6 +1,6 @@
 ---
 name: gemeinderecht-und-kommunale-ordnung
-description: "Wenn es um Gemeinderecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gemeinderecht Und Kommunale Ordnung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Gemeinderecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: gemeinderecht-und-kommunale-ordnung."
 ---
 
 # Gemeinderecht

@@ -1,6 +1,6 @@
 ---
 name: lease-024-immobilienleasing-erbbaurecht-und-grundbuch
-description: "Wenn es um Leasingrecht: Immobilienleasing Erbbaurecht und Grundbuch in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Immobilienleasing Erbbaurecht und Grundbuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Immobilienleasing Erbbaurecht und Grundbuch

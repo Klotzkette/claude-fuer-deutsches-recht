@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-verstaendlich-rente
-description: "Wenn es um mandantenbrief-verstaendlich-rente in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für mandantenbrief-verstaendlich-rente: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # mandantenbrief-verstaendlich-rente

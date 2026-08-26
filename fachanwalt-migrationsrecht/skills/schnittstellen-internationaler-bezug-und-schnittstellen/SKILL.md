@@ -1,6 +1,6 @@
 ---
 name: schnittstellen-internationaler-bezug-und-schnittstellen
-description: "Wenn es um Schnittstellen: Internationaler Bezug und Schnittstellen in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schnittstellen: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Fachanwalt Migrationsrecht."
 ---
 
 # Schnittstellen: Internationaler Bezug und Schnittstellen

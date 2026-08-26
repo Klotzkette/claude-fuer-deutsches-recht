@@ -1,6 +1,6 @@
 ---
 name: presse-krisenkommunikation
-description: "Wenn es um Presse und Krisenkommunikation in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Presse Krisenkommunikation; Arbeitsfeld: robotik-recht."
+description: "Für Presse und Krisenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: presse-krisenkommunikation."
 ---
 
 # Presse und Krisenkommunikation

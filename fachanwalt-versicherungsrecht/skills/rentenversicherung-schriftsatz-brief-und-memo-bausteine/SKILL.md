@@ -1,6 +1,6 @@
 ---
 name: rentenversicherung-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine

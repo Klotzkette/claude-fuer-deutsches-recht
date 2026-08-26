@@ -1,6 +1,6 @@
 ---
 name: qualitaetscheck-release-rechnungspruefung
-description: "Wenn es um Quality-Gate vor Release und Rechnungsprüfung in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Quality-Gate vor Release und Rechnungsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Quality-Gate vor Release und Rechnungsprüfung

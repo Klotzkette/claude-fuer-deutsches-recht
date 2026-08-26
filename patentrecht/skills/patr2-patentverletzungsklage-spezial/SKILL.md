@@ -1,6 +1,6 @@
 ---
 name: patr2-patentverletzungsklage-spezial
-description: "Wenn es um PatR2: Patentverletzungsklage in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für PatR2: Patentverletzungsklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # PatR2: Patentverletzungsklage

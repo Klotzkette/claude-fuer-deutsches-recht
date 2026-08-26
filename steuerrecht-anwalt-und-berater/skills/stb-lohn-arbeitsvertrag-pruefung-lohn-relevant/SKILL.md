@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-arbeitsvertrag-pruefung-lohn-relevant
-description: "Wenn es um Arbeitsvertrag aus lohnrelevanter Sicht pruefen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsvertrag aus lohnrelevanter Sicht prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Arbeitsvertrag aus lohnrelevanter Sicht pruefen

@@ -1,6 +1,6 @@
 ---
 name: translations
-description: "Wenn es um Multijurisdiktionale Übersetzungen und Dokumente in Corporate-Kanzlei geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Translations; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Multijurisdiktionale Übersetzungen und Dokumente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: translations."
 ---
 
 # Multijurisdiktionale Übersetzungen und Dokumente

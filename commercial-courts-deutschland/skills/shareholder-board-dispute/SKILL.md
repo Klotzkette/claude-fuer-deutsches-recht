@@ -1,6 +1,6 @@
 ---
 name: shareholder-board-dispute
-description: "Wenn es um Shareholder and Board Disputes in commercial-courts-deutschland geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Shareholder and Board Disputes: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Shareholder and Board Disputes

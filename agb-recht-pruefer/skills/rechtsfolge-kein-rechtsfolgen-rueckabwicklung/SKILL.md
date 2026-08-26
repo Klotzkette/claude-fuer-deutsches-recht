@@ -1,6 +1,6 @@
 ---
 name: rechtsfolge-kein-rechtsfolgen-rueckabwicklung
-description: "Wenn es um Rechtsfolge 306 Kein Blü Pencil in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Rechtsfolge Kein Rechtsfolgen Rueckabwicklung; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Rechtsfolge 306 Kein Blü Pencil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsfolge-kein-rechtsfolgen-rueckabwicklung."
 ---
 
 # Rechtsfolge 306 Kein Blü Pencil

@@ -1,6 +1,6 @@
 ---
 name: exit-spa-financial-debt
-description: "Wenn es um Exit, SPA, Closing und CPs in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Exit, SPA, Closing und CPs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Exit, SPA, Closing und CPs

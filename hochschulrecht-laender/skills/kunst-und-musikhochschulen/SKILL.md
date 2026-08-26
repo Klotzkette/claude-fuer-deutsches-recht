@@ -1,6 +1,6 @@
 ---
 name: kunst-und-musikhochschulen
-description: "Wenn es um Kunst Und Musikhochschulen in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kunst und Musikhochschulen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kunst Und Musikhochschulen

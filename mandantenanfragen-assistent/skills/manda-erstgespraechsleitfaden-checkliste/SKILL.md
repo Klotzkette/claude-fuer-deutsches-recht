@@ -1,6 +1,6 @@
 ---
 name: manda-erstgespraechsleitfaden-checkliste
-description: "Wenn es um Manda: Erstgespraechsleitfaden in mandantenanfragen-assistent geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Manda: Erstgesprächsleitfaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Manda: Erstgespraechsleitfaden

@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-80-abs-5-vwgo
-description: "Wenn es um Eilrechtsschutz nach Paragraf 80 Abs in Fachanwalt Verwaltungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Eilrechtsschutz nach Paragraf 80 Abs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eilrechtsschutz nach § 80 Abs
@@ -33,3 +33,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 3. **Materielle Weichen:** Die Kernfragen zu **Eilrechtsschutz nach § 80 Abs. 5 VwGO** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
 4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
 5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-eilrechtsschutz-80-abs-5-vwgo` beziehungsweise Eilrechtsschutz nach § 80 Abs. 5 VwGO: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-eilrechtsschutz-80-abs-5-vwgo.md).

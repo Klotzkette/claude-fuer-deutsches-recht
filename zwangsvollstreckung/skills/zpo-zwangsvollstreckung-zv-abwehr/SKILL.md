@@ -1,6 +1,6 @@
 ---
 name: zpo-zwangsvollstreckung-zv-abwehr
-description: "Wenn es um ZPO: Tatbestandsmerkmale, Beweisfragen und Beleglage in Zwangsvollstreckung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für ZPO: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ZPO: Tatbestandsmerkmale, Beweisfragen und Beleglage

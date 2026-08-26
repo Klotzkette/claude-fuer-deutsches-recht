@@ -1,6 +1,6 @@
 ---
 name: master-franchise-und-grenzueberschreitende-expansion
-description: "Wenn es um Franchise: Master-Franchise und grenzüberschreitende Expansion in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Franchise: Master-Franchise und grenzüberschreitende Expansion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise: Master-Franchise und grenzüberschreitende Expansion

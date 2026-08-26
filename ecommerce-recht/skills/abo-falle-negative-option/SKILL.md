@@ -1,6 +1,6 @@
 ---
 name: abo-falle-negative-option
-description: "Wenn es um Abo-Falle negative option in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Abo-Falle negative option: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abo-Falle negative option

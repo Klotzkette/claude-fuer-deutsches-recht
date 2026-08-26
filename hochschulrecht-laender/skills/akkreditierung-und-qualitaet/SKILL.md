@@ -1,6 +1,6 @@
 ---
 name: akkreditierung-und-qualitaet
-description: "Wenn es um Akkreditierung Und Qualitaet in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Akkreditierung und Qualität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Akkreditierung Und Qualitaet

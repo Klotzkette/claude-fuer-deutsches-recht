@@ -1,6 +1,6 @@
 ---
 name: digitale-versammlung-screenreader-untertitel
-description: "Wenn es um Digitale Versammlung: Screenreader, Untertitel und Barrierefreiheit in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitale Versammlung: Screenreader, Untertitel und Barrierefreiheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitale Versammlung: Screenreader, Untertitel und Barrierefreiheit

@@ -1,6 +1,6 @@
 ---
 name: versicherer-quotenverhandlung-vergleich
-description: "Wenn es um Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich in Fachanwalt Verkehrsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich

@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-ehegatten-gesellschafter-rspr-check
-description: "Wenn es um Interessenkollision Ehegatten Gesellschafter Rspr Check in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Interessenkollision Ehegatten Gesellschafter Rspr Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: interessenkollision ehegatten und gesellschafter - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

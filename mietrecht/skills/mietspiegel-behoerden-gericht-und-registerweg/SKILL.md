@@ -1,6 +1,6 @@
 ---
 name: mietspiegel-behoerden-gericht-und-registerweg
-description: "Wenn es um Mietspiegel: Behörden-, Gerichts- oder Registerweg in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mietspiegel: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Mietspiegel: Behörden-, Gerichts- oder Registerweg

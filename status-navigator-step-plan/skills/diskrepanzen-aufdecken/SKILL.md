@@ -1,6 +1,6 @@
 ---
 name: diskrepanzen-aufdecken
-description: "Wenn es um Diskrepanzen aufdecken in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Diskrepanzen aufdecken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Diskrepanzen aufdecken

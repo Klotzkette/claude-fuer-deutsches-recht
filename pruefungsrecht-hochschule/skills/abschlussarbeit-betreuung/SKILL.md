@@ -1,6 +1,6 @@
 ---
 name: abschlussarbeit-betreuung
-description: "Wenn es um Abschlussarbeit Betreuung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abschlussarbeit Betreuung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Abschlussarbeit Betreuung

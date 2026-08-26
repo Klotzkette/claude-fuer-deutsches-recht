@@ -1,6 +1,6 @@
 ---
 name: exorzismus-und-sakramentalien
-description: "Wenn es um Exorzismus und Sakramentalien in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Exorzismus und Sakramentalien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Exorzismus und Sakramentalien

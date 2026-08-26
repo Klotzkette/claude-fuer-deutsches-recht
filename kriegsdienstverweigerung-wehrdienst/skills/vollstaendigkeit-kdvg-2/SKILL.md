@@ -1,6 +1,6 @@
 ---
 name: vollstaendigkeit-kdvg-2
-description: "Wenn es um Vollständigkeit Paragraf 2 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vollständigkeit Paragraf 2 KDVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollständigkeit § 2 KDVG

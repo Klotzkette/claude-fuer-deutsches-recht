@@ -1,6 +1,6 @@
 ---
 name: untatigkeitsklage
-description: "Wenn es um Untätigkeitsklage: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Untätigkeitsklage: Fachmodul im Migrationsrecht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Untätigkeitsklage: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Untätigkeitsklage: Fachmodul im Migrationsrecht in Fac
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-untatigkeitsklage` beziehungsweise Untätigkeitsklage: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-untatigkeitsklage.md).

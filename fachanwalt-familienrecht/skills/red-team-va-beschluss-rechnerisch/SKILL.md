@@ -1,6 +1,6 @@
 ---
 name: red-team-va-beschluss-rechnerisch
-description: "Wenn es um Red Team Va Beschluss Rechnerisch in Fachanwalt Familienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red Team Va Beschluss Rechnerisch: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team VA-Beschluss rechnerisch: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

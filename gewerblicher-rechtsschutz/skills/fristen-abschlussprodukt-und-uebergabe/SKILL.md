@@ -1,6 +1,6 @@
 ---
 name: fristen-abschlussprodukt-und-uebergabe
-description: "Wenn es um Spezial: Fristen – Abschlussprodukt und Übergabe in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Spezial: Fristen – Abschlussprodukt und Übergabe: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Spezial: Fristen – Abschlussprodukt und Übergabe
@@ -138,3 +138,7 @@ Anmerkungen: [Besonderheiten]
 - `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
 - `workflow-fristen-und-risikoampel` – Fristenworkflow
 - `evvollzug-neu-001` – EV-Vollziehungsfrist
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-fristen-abschlussprodukt-und-uebergabe` beziehungsweise Fristen: Abschlussprodukt und Übergabe: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-fristen-abschlussprodukt-und-uebergabe.md).

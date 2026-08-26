@@ -1,6 +1,6 @@
 ---
 name: registergericht-und-datenschutz
-description: "Wenn es um Datenschutz im Registerverfahren in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz im Registerverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Datenschutz im Registerverfahren

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-ki-saas-vertrag-werkvertrag
-description: "Wenn es um Rechtsabteilung: digitale Werkzeuge-Code und Trainingsdaten im Lizenzvertrag in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsabteilung: digitale Werkzeuge-Code und Trainingsdaten im Lizenzvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: KI-Code und Trainingsdaten im Lizenzvertrag

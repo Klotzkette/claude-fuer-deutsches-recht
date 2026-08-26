@@ -1,6 +1,6 @@
 ---
 name: marketplace-beweise-agb-redlinen
-description: "Wenn es um Marketplace Beweise Sichern in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Marketplace Beweise Sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Marketplace Beweise Sichern

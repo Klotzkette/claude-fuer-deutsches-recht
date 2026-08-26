@@ -1,6 +1,6 @@
 ---
 name: methadon-therapiepfad-erlaubnis-bauen
-description: "Wenn es um Methadon Therapiepfad Prüfen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Methadon Therapiepfad Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betäubungsmittelrecht. Route: methadon-therapiepfad-erlaubnis-bauen."
 ---
 
 # Methadon Therapiepfad Prüfen

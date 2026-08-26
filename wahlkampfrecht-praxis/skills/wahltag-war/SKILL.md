@@ -1,6 +1,6 @@
 ---
 name: wahltag-war
-description: "Wenn es um Wahltag Krisenkarte in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wahltag Krisenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wahltag Krisenkarte

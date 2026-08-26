@@ -1,6 +1,6 @@
 ---
 name: richterbeurteilung-praesidialrat
-description: "Wenn es um Richterbeurteilung Praesidialrat in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Richterbeurteilung Präsidialrat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Richterbeurteilung Praesidialrat

@@ -1,6 +1,6 @@
 ---
 name: kuerzung-wegfall-8a
-description: "Wenn es um JVEG-Kuerzung-Wegfall-8a in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für JVEG-Kürzung-Wegfall-8a: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # JVEG-Kuerzung-Wegfall-8a

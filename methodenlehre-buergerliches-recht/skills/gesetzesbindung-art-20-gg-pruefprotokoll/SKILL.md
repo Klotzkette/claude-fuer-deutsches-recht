@@ -1,6 +1,6 @@
 ---
 name: gesetzesbindung-art-20-gg-pruefprotokoll
-description: "Wenn es um Gesetzesbindung nach Art. 20 Abs. 3 GG: Prüfprotokoll in Methodenlehre bürgerliches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gesetzesbindung nach Art. 20 Abs. 3 GG: Prüfprotokoll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesetzesbindung nach Art. 20 Abs. 3 GG: Prüfprotokoll

@@ -1,6 +1,6 @@
 ---
 name: harmonisierte-normen-gap-uebergang
-description: "Wenn es um Harmonisierte Normen und Übergang in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Harmonisierte Normen und Übergang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Harmonisierte Normen und Übergang

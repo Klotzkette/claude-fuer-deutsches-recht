@@ -1,6 +1,6 @@
 ---
 name: vers-dokumentenintake-police-avb-nachtraege
-description: "Wenn es um Police, AVB, Nachträge und Maklerakte lesbar machen in Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Police, AVB, Nachträge und Maklerakte lesbar machen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Police, AVB, Nachträge und Maklerakte lesbar machen

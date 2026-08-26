@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-anhoerung-kuendigung-102
-description: "Wenn es um Betriebsrat Anhörung Kuendigung 102 in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebsrat Anhörung Kündigung 102: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsrat Anhörung Kuendigung 102

@@ -1,6 +1,6 @@
 ---
 name: satzungsaenderung-beschlussmaengel-liste
-description: "Wenn es um Notariat im Alltag: Satzungsänderung – Beschlussmängel, Registerrisiko in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Satzungsänderung – Beschlussmängel, Registerrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Satzungsänderung – Beschlussmängel, Registerrisiko

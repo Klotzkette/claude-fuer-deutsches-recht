@@ -1,6 +1,6 @@
 ---
 name: chapter12-family-farmer
-description: "Wenn es um Chapter 12 Family Farmer Fisherman in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Chapter 12 Family Farmer Fisherman: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Chapter 12 Family Farmer Fisherman

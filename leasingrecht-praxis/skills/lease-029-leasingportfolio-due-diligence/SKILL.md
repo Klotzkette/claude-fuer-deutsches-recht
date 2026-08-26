@@ -1,6 +1,6 @@
 ---
 name: lease-029-leasingportfolio-due-diligence
-description: "Wenn es um Leasingrecht: Leasingportfolio Due Diligence in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Leasingportfolio Due Diligence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Leasingportfolio Due Diligence

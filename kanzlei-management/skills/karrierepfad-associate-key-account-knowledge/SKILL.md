@@ -1,6 +1,6 @@
 ---
 name: karrierepfad-associate-key-account-knowledge
-description: "Wenn es um Karrierepfad Associate Counsel Partner in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Karrierepfad Associate Counsel Partner: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Karrierepfad Associate Counsel Partner

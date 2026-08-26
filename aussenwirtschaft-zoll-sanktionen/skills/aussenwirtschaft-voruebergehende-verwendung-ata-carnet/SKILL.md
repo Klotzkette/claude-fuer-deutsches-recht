@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-voruebergehende-verwendung-ata-carnet
-description: "Wenn es um Voruebergehende Verwendung und ATA-Carnet: Messeware und Berufsausruestung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vorübergehende Verwendung und ATA-Carnet: Messeware und Berufsausrüstung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Voruebergehende Verwendung und ATA-Carnet: Messeware und Berufsausruestung

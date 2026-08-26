@@ -1,6 +1,6 @@
 ---
 name: er-vorlageverfahren-eur-kommissionsverfahren
-description: "Wenn es um Europarecht: Vorlageverfahren Art. 267 in Europarecht-Kompass für deutsche Juristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Europarecht: Vorlageverfahren Art. 267: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Europarecht: Vorlageverfahren Art. 267

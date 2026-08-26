@@ -1,6 +1,6 @@
 ---
 name: krankenhausgesellschaft-vergabeweg-wae
-description: "Wenn es um Krankenhausgesellschaft Vergabeweg Wae in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenhausgesellschaft Vergabeweg Wae: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenhausgesellschaft Vergabeweg Wae

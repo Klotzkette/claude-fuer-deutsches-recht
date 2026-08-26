@@ -1,6 +1,6 @@
 ---
 name: schoeffe-haeusliche-gewalt-sitzung
-description: "Wenn es um Häusliche Gewalt Verfahren: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Häusliche Gewalt Verfahren: Sitzungspraxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Häusliche Gewalt Verfahren: Sitzungspraxis

@@ -1,6 +1,6 @@
 ---
 name: strafzumessung-schoeffe-sitzung
-description: "Wenn es um Strafzumessung Schoeffe Sitzung in Schöffen und Handelsrichter Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafzumessung Schöffe Sitzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafzumessung für Schöffen (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Schuld, Prävention, Vorleben, Geständnis, Opferfolgen und Bewährung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.

@@ -1,6 +1,6 @@
 ---
 name: sprachbarriere-einwilligung
-description: "Wenn es um Sprachbarriere Einwilligung in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Sprachbarriere Einwilligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sprachbarriere Einwilligung: moderner Medizinrechts-Skill für Dolmetscher, fremdsprachige Aufklärung, Angehörige, Dokumentation und Beweislast

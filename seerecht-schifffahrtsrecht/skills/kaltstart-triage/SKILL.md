@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um See- und Schifffahrtsrecht - Allgemeiner Einstieg in See- und Schifffahrtsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für See- und Schifffahrtsrecht - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # See- und Schifffahrtsrecht - Allgemeiner Einstieg

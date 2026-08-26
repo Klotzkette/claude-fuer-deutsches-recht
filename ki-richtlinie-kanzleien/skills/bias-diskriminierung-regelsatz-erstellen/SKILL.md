@@ -1,6 +1,6 @@
 ---
 name: bias-diskriminierung-regelsatz-erstellen
-description: "Wenn es um Bias und Diskriminierung Prüfung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Bias und Diskriminierung Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bias und Diskriminierung Prüfung

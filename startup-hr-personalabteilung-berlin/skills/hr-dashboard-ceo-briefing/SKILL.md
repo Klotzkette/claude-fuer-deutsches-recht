@@ -1,6 +1,6 @@
 ---
 name: hr-dashboard-ceo-briefing
-description: "Wenn es um HR Dashboard CEO Briefing in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HR Dashboard CEO Briefing: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # HR Dashboard CEO Briefing

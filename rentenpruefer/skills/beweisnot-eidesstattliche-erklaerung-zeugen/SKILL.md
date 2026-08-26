@@ -1,6 +1,6 @@
 ---
 name: beweisnot-eidesstattliche-erklaerung-zeugen
-description: "Wenn es um beweisnot-eidesstattliche-erklaerung-zeugen in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für beweisnot-eidesstattliche-erklaerung-zeugen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # beweisnot-eidesstattliche-erklaerung-zeugen

@@ -1,6 +1,6 @@
 ---
 name: schnelle-quellenkarte
-description: "Wenn es um Schnelle Quellenkarte in DFG-Förderantrag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Schnelle Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schnelle Quellenkarte

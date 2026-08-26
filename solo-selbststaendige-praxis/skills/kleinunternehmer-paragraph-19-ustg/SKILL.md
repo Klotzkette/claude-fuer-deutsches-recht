@@ -1,6 +1,6 @@
 ---
 name: kleinunternehmer-paragraph-19-ustg
-description: "Wenn es um Kleinunternehmer Paragraph 19 Ustg in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kleinunternehmer Paragraph 19 UStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechnung und Umsatzsteuer: Prüft die aktuelle kleinunternehmerregelung mit umsatzgrenzen und opt-out

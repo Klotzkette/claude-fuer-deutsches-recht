@@ -1,6 +1,6 @@
 ---
 name: taeuschung-drohung-paragraph-123
-description: "Wenn es um Täuschung und Drohung — Paragraf 123 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Täuschung und Drohung — Paragraf 123 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Täuschung und Drohung — § 123 BGB

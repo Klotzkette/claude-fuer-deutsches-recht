@@ -1,6 +1,6 @@
 ---
 name: workflow-vertrags-und-lieferkettenintake
-description: "Wenn es um Vertrags- und Lieferkettenintake in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vertrags- und Lieferkettenintake: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: workflow-vertrags-und-lieferkettenintake."
 ---
 
 # Vertrags- und Lieferkettenintake

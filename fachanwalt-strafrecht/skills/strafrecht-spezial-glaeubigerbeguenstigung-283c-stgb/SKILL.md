@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-glaeubigerbeguenstigung-283c-stgb
-description: "Wenn es um Gläubigerbeguenstigung nach Paragraph 283c StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gläubigerbegünstigung nach Paragraph 283c StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gläubigerbeguenstigung nach Paragraph 283c StGB

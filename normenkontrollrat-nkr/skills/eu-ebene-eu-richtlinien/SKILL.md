@@ -1,6 +1,6 @@
 ---
 name: eu-ebene-eu-richtlinien
-description: "Wenn es um NKR-EU-Ebene und Better Regulation in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: EU Ebene EU Richtlinien; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
+description: "Für NKR-EU-Ebene und Better Regulation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Normenkontrollrat (NKR) — Prüfung von Gesetzentwürfen. Route: eu-ebene-eu-richtlinien."
 ---
 
 # NKR-EU-Ebene und Better Regulation

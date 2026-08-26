@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-erwerbsminderungsrente
-description: "Wenn es um Erwerbsminderungsrente (Paragrafen 43. 240 SGB VI) in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erwerbsminderungsrente (Paragrafen 43. 240 SGB VI): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erwerbsminderungsrente (§§ 43, 240 SGB VI)

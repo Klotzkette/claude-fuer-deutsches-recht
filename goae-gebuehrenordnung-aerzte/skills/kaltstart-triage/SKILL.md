@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um GOÄ Gebührenordnung für Ärzte — Allgemein in GOÄ Gebührenordnung für Ärzte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GOÄ Gebührenordnung für Ärzte — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GOÄ Gebührenordnung für Ärzte — Allgemein

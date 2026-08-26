@@ -1,6 +1,6 @@
 ---
 name: bautraeger-maengelhaftung-fuenf-jahre-634a
-description: "Wenn es um Bautraeger-Maengelhaftung 5 Jahre nach Paragraf 634a BGB in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauträger-Mängelhaftung 5 Jahre nach Paragraf 634a BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB

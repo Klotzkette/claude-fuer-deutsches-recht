@@ -1,6 +1,6 @@
 ---
 name: kinderdaten-besondere
-description: "Wenn es um Kinderdaten im Datenschutzvorfall — besondere Schutzbedürftigkeit in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kinderdaten im Datenschutzvorfall — besondere Schutzbedürftigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kinderdaten im Datenschutzvorfall — besondere Schutzbedürftigkeit

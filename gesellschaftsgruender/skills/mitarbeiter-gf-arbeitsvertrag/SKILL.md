@@ -1,6 +1,6 @@
 ---
 name: mitarbeiter-gf-arbeitsvertrag
-description: "Wenn es um Gründer als Arbeitnehmer/Geschäftsführer in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gründer als Arbeitnehmer/Geschäftsführer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gründer als Arbeitnehmer/Geschäftsführer

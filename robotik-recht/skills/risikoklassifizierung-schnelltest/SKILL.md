@@ -1,6 +1,6 @@
 ---
 name: risikoklassifizierung-schnelltest
-description: "Wenn es um Risikoklassifizierung Schnelltest in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Risikoklassifizierung Schnelltest; Arbeitsfeld: robotik-recht."
+description: "Für Risikoklassifizierung Schnelltest: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: risikoklassifizierung-schnelltest."
 ---
 
 # Risikoklassifizierung Schnelltest

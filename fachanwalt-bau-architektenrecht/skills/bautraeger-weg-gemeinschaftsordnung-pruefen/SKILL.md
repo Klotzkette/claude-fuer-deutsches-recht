@@ -1,6 +1,6 @@
 ---
 name: bautraeger-weg-gemeinschaftsordnung-pruefen
-description: "Wenn es um WEG-Gemeinschaftsordnung beim Bautraegervertrag prüfen in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für WEG-Gemeinschaftsordnung beim Bauträgervertrag prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # WEG-Gemeinschaftsordnung beim Bautraegervertrag prüfen

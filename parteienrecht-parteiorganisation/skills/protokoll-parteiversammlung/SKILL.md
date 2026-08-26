@@ -1,6 +1,6 @@
 ---
 name: protokoll-parteiversammlung
-description: "Wenn es um Protokoll Parteiversammlung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Protokoll Parteiversammlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Protokoll Parteiversammlung

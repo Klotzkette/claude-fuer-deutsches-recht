@@ -1,6 +1,6 @@
 ---
 name: dublin-risikoampel-und-gegenargumente
-description: "Wenn es um Dublin: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Migrationsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dublin: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Dublin: Risikoampel, Gegenargumente und Verteidigungslinien

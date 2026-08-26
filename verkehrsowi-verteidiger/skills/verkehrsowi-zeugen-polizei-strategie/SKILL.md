@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-zeugen-polizei-strategie
-description: "Wenn es um Polizeibeamten als Zeugen im OWi-Verfahren in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Polizeibeamten als Zeugen im OWi-Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Polizeibeamten als Zeugen im OWi-Verfahren

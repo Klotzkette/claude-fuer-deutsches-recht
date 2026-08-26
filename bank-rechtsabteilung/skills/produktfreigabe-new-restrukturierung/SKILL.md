@@ -1,6 +1,6 @@
 ---
 name: produktfreigabe-new-restrukturierung
-description: "Wenn es um Produktfreigabe NPP in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Produktfreigabe NPP: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produktfreigabe NPP

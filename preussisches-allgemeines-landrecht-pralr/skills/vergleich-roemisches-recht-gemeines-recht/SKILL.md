@@ -1,6 +1,6 @@
 ---
 name: vergleich-roemisches-recht-gemeines-recht
-description: "Wenn es um Römisches und gemeines Recht in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Vergleich Roemisches Recht Gemeines Recht; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Römisches und gemeines Recht: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Preußisches Allgemeines Landrecht. Route: vergleich-roemisches-recht-gemeines-recht."
 ---
 
 # Römisches und gemeines Recht

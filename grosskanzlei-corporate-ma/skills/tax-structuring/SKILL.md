@@ -1,6 +1,6 @@
 ---
 name: tax-structuring
-description: "Wenn es um Tax Structuring General in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Tax Structuring General: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: tax-structuring."
 ---
 
 # Tax Structuring General

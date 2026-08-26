@@ -1,6 +1,6 @@
 ---
 name: ausnahmen-vertraulichkeit-bank-finanzierungs
-description: "Wenn es um Ausnahmen Von Vertraulichkeit in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ausnahmen von Vertraulichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausnahmen Von Vertraulichkeit

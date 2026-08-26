@@ -1,6 +1,6 @@
 ---
 name: methodenehrlichkeit-ideologiekritik-check
-description: "Wenn es um Methodenehrlichkeit und Ideologiekritik: Analyse-Check in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Methodenehrlichkeit und Ideologiekritik: Analyse-Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Methodenehrlichkeit und Ideologiekritik: Analyse-Check

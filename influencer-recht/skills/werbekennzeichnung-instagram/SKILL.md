@@ -1,6 +1,6 @@
 ---
 name: werbekennzeichnung-instagram
-description: "Wenn es um Influencer-Recht: Werbekennzeichnung – Instagram Story/Reel, TikTok, YouTube in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Werbekennzeichnung – Instagram Story/Reel, TikTok, YouTube: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Werbekennzeichnung – Instagram Story/Reel, TikTok, YouTube

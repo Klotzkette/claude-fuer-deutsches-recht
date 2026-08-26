@@ -1,6 +1,6 @@
 ---
 name: gefahrenprognose-redteam
-description: "Wenn es um Konkrete Tatsachen statt Fantasie in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konkrete Tatsachen statt Fantasie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konkrete Tatsachen statt Fantasie

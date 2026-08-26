@@ -1,6 +1,6 @@
 ---
 name: digitale-inhalte-services
-description: "Wenn es um Digitale Inhalte Services in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Digitale Inhalte Services: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitale Inhalte Services

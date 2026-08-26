@@ -1,6 +1,6 @@
 ---
 name: red-team-satzung-jenseits-baugb
-description: "Wenn es um Red Team Satzung Jenseits Baugb in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Red Team Satzung Jenseits Baugb: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team Satzung jenseits BauGB: Ermächtigungsgrundlage, Zuständigkeit, Verfahren, Bekanntmachung, Bestimmtheit, Gleichheit, Verhältnismäßigkeit.

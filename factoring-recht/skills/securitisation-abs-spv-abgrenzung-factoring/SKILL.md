@@ -1,6 +1,6 @@
 ---
 name: securitisation-abs-spv-abgrenzung-factoring
-description: "Wenn es um Securitisation ABS SPV Abgrenzung Factoring in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Securitisation ABS SPV Abgrenzung Factoring: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Securitisation ABS SPV Abgrenzung Factoring

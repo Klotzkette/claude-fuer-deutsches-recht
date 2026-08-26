@@ -1,6 +1,6 @@
 ---
 name: belegvernichtung-aufbewahrung-f
-description: "Wenn es um Belegvernichtung Aufbewahrung F in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Belegvernichtung Aufbewahrung F: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: belegvernichtung und aufbewahrung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

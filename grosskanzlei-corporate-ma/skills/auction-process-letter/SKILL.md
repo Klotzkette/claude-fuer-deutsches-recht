@@ -1,6 +1,6 @@
 ---
 name: auction-process-letter
-description: "Wenn es um Auction Process Letter in Großkanzlei Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Auction Process Letter; Arbeitsfeld: Großkanzlei Corporate/M&A."
+description: "Für Auction Process Letter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: auction-process-letter."
 ---
 
 # Auction Process Letter Generator: erstellt und prüft Prozessbriefe für strukturierte Verkaufs- und Bieterverfahren mit Deadlines, Bid Requirements und Verfahrensregeln.

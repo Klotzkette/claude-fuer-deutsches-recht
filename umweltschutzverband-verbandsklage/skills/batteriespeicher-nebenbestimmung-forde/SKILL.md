@@ -1,6 +1,6 @@
 ---
 name: batteriespeicher-nebenbestimmung-forde
-description: "Wenn es um Batteriespeicher Nebenbestimmung Forde in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Batteriespeicher Nebenbestimmung Forde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Batteriespeicher Nebenbestimmung Forde

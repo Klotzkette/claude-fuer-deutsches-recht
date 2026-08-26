@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-verlag-quellen-zitate
-description: "Wenn es um Qualitätstor Verlag in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätstor Verlag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitätstor Verlag

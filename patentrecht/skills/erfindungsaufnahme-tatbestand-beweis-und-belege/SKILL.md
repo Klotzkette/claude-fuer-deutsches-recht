@@ -1,6 +1,6 @@
 ---
 name: erfindungsaufnahme-tatbestand-beweis-und-belege
-description: "Wenn es um Erfindungsaufnahme: Tatbestandsmerkmale, Beweisfragen und Beleglage in patentrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Erfindungsaufnahme: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Erfindungsaufnahme: Tatbestandsmerkmale, Beweisfragen und Beleglage

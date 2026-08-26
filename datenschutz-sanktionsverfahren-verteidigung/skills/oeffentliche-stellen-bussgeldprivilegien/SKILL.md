@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-stellen-bussgeldprivilegien
-description: "Wenn es um Öffentliche Stellen und Bußgeldfähigkeit in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Öffentliche Stellen und Bußgeldfähigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Öffentliche Stellen und Bußgeldfähigkeit

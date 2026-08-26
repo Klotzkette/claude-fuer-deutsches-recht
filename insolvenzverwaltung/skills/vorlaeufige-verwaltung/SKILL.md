@@ -1,6 +1,6 @@
 ---
 name: vorlaeufige-verwaltung
-description: "Wenn es um Vorläufige Insolvenzverwaltung in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorläufige Insolvenzverwaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vorläufige Insolvenzverwaltung

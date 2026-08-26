@@ -1,6 +1,6 @@
 ---
 name: vorsatz-fahrlaessigkeit-unternehmen
-description: "Wenn es um Vorsatz und Fahrlässigkeit des Unternehmens in Datenschutz-Sanktionsverfahren und Verteidigung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vorsatz und Fahrlässigkeit des Unternehmens: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorsatz und Fahrlässigkeit des Unternehmens

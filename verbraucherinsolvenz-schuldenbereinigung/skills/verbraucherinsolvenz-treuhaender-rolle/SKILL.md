@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-treuhaender-rolle
-description: "Wenn es um Verbraucherinsolvenz: Rolle des Treuhaenders in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbraucherinsolvenz: Rolle des Treuhänders: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verbraucherinsolvenz: Rolle des Treuhaenders

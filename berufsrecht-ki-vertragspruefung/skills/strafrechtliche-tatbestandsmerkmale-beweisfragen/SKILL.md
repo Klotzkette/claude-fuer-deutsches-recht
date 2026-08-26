@@ -1,6 +1,6 @@
 ---
 name: strafrechtliche-tatbestandsmerkmale-beweisfragen
-description: "Wenn es um Strafrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Strafrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage

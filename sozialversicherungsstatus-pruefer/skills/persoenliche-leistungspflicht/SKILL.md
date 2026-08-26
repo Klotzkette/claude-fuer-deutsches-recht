@@ -1,6 +1,6 @@
 ---
 name: persoenliche-leistungspflicht
-description: "Wenn es um Persönliche Leistungspflicht in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Persönliche Leistungspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Persönliche Leistungspflicht

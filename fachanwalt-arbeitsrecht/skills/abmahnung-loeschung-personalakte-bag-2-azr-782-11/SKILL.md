@@ -1,6 +1,6 @@
 ---
 name: abmahnung-loeschung-personalakte-bag-2-azr-782-11
-description: "Prüft Rücknahme und Entfernung einer Abmahnung aus der Personalakte. Kontrolliert Bestimmtheit, Tatsachenrichtigkeit, rechtliche Bewertung, Verhältnismäßigkeit und fortbestehendes Dokumentationsinteresse und erstellt Anspruchsschreiben, Klageantrag oder Arbeitgebererwiderung."
+description: "Für Abmahnung und Personalaktenentfernung prüfen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abmahnung und Personalaktenentfernung prüfen

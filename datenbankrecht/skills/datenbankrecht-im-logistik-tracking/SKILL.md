@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-im-logistik-tracking
-description: "Wenn es um Datenbankrecht im Logistik-Tracking — Sendungsverfolgung und Transportdaten in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht im Logistik-Tracking — Sendungsverfolgung und Transportdaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht im Logistik-Tracking — Sendungsverfolgung und Transportdaten

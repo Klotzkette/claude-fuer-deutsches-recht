@@ -1,6 +1,6 @@
 ---
 name: kfe-restrukturierungsbeauftragter
-description: "Wenn es um KFE: Restrukturierungsbeauftragter in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für KFE: Restrukturierungsbeauftragter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KFE: Restrukturierungsbeauftragter

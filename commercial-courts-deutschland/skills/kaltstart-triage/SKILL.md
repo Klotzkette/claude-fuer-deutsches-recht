@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Commercial Courts Deutschland — Allgemein in commercial-courts-deutschland geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Commercial Courts Deutschland — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Commercial Courts Deutschland — Allgemein

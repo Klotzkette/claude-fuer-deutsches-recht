@@ -1,6 +1,6 @@
 ---
 name: liturgie-missbrauchsvermeidung-messstipendien
-description: "Wenn es um Liturgie und Missbrauchsvermeidung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Liturgie und Missbrauchsvermeidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: liturgie-missbrauchsvermeidung-messstipendien."
 ---
 
 # Liturgie und Missbrauchsvermeidung

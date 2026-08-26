@@ -1,6 +1,6 @@
 ---
 name: ueberbau-ueberhang-aeste-mediation
-description: "Wenn es um Überbau-Prüfung in Nachbarschaftsstreit-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Überbau-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Überbau-Prüfung

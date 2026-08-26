@@ -1,6 +1,6 @@
 ---
 name: fruehe-veroeffentlichung
-description: "Wenn es um Fruehe Veroeffentlichung in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Frühe Veröffentlichung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: fruehe veroeffentlichung konferenz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

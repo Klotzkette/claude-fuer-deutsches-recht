@@ -1,6 +1,6 @@
 ---
 name: einzelplan-kapitel-titel-lesen
-description: "Wenn es um Einzelplan Kapitel Titel Lesen in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Einzelplan Kapitel Titel Lesen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einzelplan Kapitel Titel Lesen

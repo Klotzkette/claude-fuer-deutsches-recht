@@ -1,6 +1,6 @@
 ---
 name: grundbuchberichtigung-behoerde-historische
-description: "Wenn es um Grundbuchberichtigung Prüfen in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Grundbuchberichtigung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: grundbuchberichtigung-behoerde-historische."
 ---
 
 # Grundbuchberichtigung Prüfen

@@ -1,6 +1,6 @@
 ---
 name: rechtsmittelbelehrung-zivil-relation
-description: "Wenn es um Rechtsmittelbelehrung Zivil in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rechtsmittelbelehrung Zivil Relation; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Rechtsmittelbelehrung Zivil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsmittelbelehrung Zivil

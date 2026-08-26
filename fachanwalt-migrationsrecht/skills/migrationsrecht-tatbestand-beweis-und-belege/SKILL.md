@@ -1,6 +1,6 @@
 ---
 name: migrationsrecht-tatbestand-beweis-und-belege
-description: "Wenn es um Migrationsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Migrationsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Migrationsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

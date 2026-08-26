@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-genehmigung-pension
-description: "Wenn es um Nebentaetigkeit Genehmigung Und Untersagung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nebentätigkeit Genehmigung und Untersagung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nebentaetigkeit Genehmigung Und Untersagung

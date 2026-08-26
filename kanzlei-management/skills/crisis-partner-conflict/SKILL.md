@@ -1,6 +1,6 @@
 ---
 name: crisis-partner-conflict
-description: "Wenn es um Partnerkonflikt Krise in Kanzlei Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Partnerkonflikt Krise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Partnerkonflikt Krise

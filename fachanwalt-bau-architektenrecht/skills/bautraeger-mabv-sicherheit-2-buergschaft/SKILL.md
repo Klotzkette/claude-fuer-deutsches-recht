@@ -1,6 +1,6 @@
 ---
 name: bautraeger-mabv-sicherheit-2-buergschaft
-description: "Wenn es um MaBV Paragraf 2: Sicherheit für Vorausleistungen durch Buergschaft in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für MaBV Paragraf 2: Sicherheit für Vorausleistungen durch Bürgschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MaBV § 2: Sicherheit für Vorausleistungen durch Buergschaft

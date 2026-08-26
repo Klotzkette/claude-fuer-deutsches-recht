@@ -1,6 +1,6 @@
 ---
 name: katholische-kindererziehung
-description: "Wenn es um Katholische Kindererziehung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Katholische Kindererziehung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Katholische Kindererziehung

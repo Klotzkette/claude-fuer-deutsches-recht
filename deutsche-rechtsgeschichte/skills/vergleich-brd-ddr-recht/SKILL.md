@@ -1,6 +1,6 @@
 ---
 name: vergleich-brd-ddr-recht
-description: "Wenn es um Vergleich BRD-DDR-Recht in Deutsche Rechtsgeschichte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich BRD-DDR-Recht: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleich BRD-DDR-Recht

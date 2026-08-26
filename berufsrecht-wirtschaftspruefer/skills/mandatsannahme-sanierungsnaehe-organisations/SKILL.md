@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-sanierungsnaehe-organisations
-description: "Wenn es um Mandatsannahme Sanierungsnaehe Organisations in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandatsannahme Sanierungsnähe Organisations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: mandatsannahme sanierungsnaehe - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

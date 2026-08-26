@@ -1,6 +1,6 @@
 ---
 name: bildung-pruefungsrecht-anhang-iii-monitoring
-description: "Wenn es um Bildung und Prüfungsrecht nach Anhang III in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Bildung und Prüfungsrecht nach Anhang III: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Bildung und Prüfungsrecht nach Anhang III

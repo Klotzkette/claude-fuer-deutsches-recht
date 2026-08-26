@@ -1,6 +1,6 @@
 ---
 name: anlagenverzeichnis-extrakt
-description: "Wenn es um Anlagenverzeichnis-Extrakt in aktenauszug-gerichtsverfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anlagenverzeichnis-Extrakt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagenverzeichnis-Extrakt

@@ -1,6 +1,6 @@
 ---
 name: arbeitswelt-cobot-check
-description: "Wenn es um Arbeitswelt Cobot Check in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Arbeitswelt Cobot Check; Arbeitsfeld: robotik-recht."
+description: "Für Arbeitswelt Cobot Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: arbeitswelt-cobot-check."
 ---
 
 # Arbeitswelt Cobot Check

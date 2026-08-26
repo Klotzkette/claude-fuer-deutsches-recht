@@ -1,6 +1,6 @@
 ---
 name: hausordnung-tauben-fahrrad-kinder
-description: "Wenn es um Hausordnung: Tauben, Fahrrad, Kinder, Weihnachtsbaum in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Hausordnung: Tauben, Fahrrad, Kinder, Weihnachtsbaum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hausordnung: Tauben, Fahrrad, Kinder, Weihnachtsbaum

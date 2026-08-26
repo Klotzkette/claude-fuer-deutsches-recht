@@ -1,6 +1,6 @@
 ---
 name: ifg-bund-kosten-deckeln
-description: "Wenn es um Ifg Bund Kosten Deckeln in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ifg Bund Kosten Deckeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ifg Bund Kosten Deckeln

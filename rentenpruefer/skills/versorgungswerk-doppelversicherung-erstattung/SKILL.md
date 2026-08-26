@@ -1,6 +1,6 @@
 ---
 name: versorgungswerk-doppelversicherung-erstattung
-description: "Wenn es um Doppelversicherung und Beitragserstattung in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Doppelversicherung und Beitragserstattung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Doppelversicherung und Beitragserstattung

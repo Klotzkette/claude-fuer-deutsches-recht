@@ -1,6 +1,6 @@
 ---
 name: sanctions-cartel
-description: "Wenn es um Sanktionstreffer – Sofortmaßnahmen und Behördenstrategie in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Sanktionstreffer – Sofortmaßnahmen und Behördenstrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanktionstreffer – Sofortmaßnahmen und Behördenstrategie

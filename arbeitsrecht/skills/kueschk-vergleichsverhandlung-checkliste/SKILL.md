@@ -1,6 +1,6 @@
 ---
 name: kueschk-vergleichsverhandlung-checkliste
-description: "Wenn es um Checkliste für Kündigungsschutz-Vergleiche: Beendigungsdatum in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Checkliste für Kündigungsschutz-Vergleiche: Beendigungsdatum: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Checkliste für Kündigungsschutz-Vergleiche: Beendigungsdatum

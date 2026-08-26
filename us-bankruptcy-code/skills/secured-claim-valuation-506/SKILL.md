@@ -1,6 +1,6 @@
 ---
 name: secured-claim-valuation-506
-description: "Wenn es um Secured Claim Valuation Paragraf 506 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Secured Claim Valuation Paragraf 506: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Secured Claim Valuation § 506

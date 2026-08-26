@@ -1,6 +1,6 @@
 ---
 name: kauf-im-internet-und-auktionen
-description: "Wenn es um Kauf im Internet und Auktionen — Vertragsschluss digital in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kauf im Internet und Auktionen — Vertragsschluss digital: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kauf im Internet und Auktionen — Vertragsschluss digital

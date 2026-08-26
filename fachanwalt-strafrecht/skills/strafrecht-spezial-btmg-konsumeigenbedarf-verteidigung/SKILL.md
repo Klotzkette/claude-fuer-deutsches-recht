@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-btmg-konsumeigenbedarf-verteidigung
-description: "Wenn es um Strafrecht Spezial Btmg Konsumeigenbedarf Verteidigung in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Btmg Konsumeigenbedarf Verteidigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eigenbedarfsverteidigung im BtMG/KCanG: § 31a BtMG Absehen von Strafverfolgung, § 153 sowie § 153a StPO, Konsumeinheiten-Argumentation, Abgrenzung zum Handeltreiben

@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefinstanz-fristen-form-und-zustaendigkeit
-description: "Wenn es um Pruefinstanz: Fristen, Form, Zuständigkeit und Rechtsweg in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfinstanz: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Pruefinstanz: Fristen, Form, Zuständigkeit und Rechtsweg

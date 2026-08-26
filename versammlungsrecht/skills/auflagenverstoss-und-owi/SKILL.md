@@ -1,6 +1,6 @@
 ---
 name: auflagenverstoss-und-owi
-description: "Wenn es um Risiko realistisch, nicht panisch in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Risiko realistisch, nicht panisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Risiko realistisch, nicht panisch

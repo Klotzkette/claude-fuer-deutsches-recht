@@ -1,6 +1,6 @@
 ---
 name: ladeinfrastruktur
-description: "Prüft öffentliche und private Ladeinfrastruktur vom Standort über Netzanschluss, AFIR und Ladesäulenverordnung bis zu Gebäude-, Miet-, WEG- und Straßenrecht. Liefert eine stichtagsbezogene Pflichtenmatrix, Behörden- und Netzbetreiberkommunikation sowie einen belastbaren Genehmigungs- und Vollzugsplan."
+description: "Prüft öffentliche und private Ladeinfrastruktur vom Standort über Netzanschluss, AFIR und Ladesäulenverordnung bis zu Gebäude-, Miet-, WEG- und Straßenrecht."
 ---
 
 # Ladeinfrastruktur Elektromobilität

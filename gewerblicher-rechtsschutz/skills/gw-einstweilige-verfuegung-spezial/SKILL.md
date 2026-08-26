@@ -1,6 +1,6 @@
 ---
 name: gw-einstweilige-verfuegung-spezial
-description: "Wenn es um GewR: Einstweilige Verfügung – Strategische Gesamtbetrachtung in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für GewR: Einstweilige Verfügung – Strategische Gesamtbetrachtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GewR: Einstweilige Verfügung – Strategische Gesamtbetrachtung

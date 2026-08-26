@@ -1,6 +1,6 @@
 ---
 name: projektfoerderung-risiko-markieren
-description: "Wenn es um Projektfoerderung Risiko Markieren in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Projektförderung Risiko Markieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Projektfoerderung Risiko Markieren

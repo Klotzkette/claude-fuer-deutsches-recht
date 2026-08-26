@@ -1,6 +1,6 @@
 ---
 name: beschlussanfechtung-spezial-fristen
-description: "Wenn es um Beschlussanfechtung Spezial Fristen in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschlussanfechtung Spezial Fristen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Beschlussanfechtung nach § 44 WEG spezial: Klagefrist 1 Monat, Begruendungsfrist 2 Monate ab Beschluss, formale Fehler vs

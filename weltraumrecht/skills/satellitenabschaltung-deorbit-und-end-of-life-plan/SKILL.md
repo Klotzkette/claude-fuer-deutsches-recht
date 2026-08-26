@@ -1,6 +1,6 @@
 ---
 name: satellitenabschaltung-deorbit-und-end-of-life-plan
-description: "Wenn es um Weltraumrecht: Satellitenabschaltung: Deorbit und End-of-Life-Plan in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Satellitenabschaltung: Deorbit und End-of-Life-Plan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Satellitenabschaltung: Deorbit und End-of-Life-Plan

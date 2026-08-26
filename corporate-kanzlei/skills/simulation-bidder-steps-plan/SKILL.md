@@ -1,6 +1,6 @@
 ---
 name: simulation-bidder-steps-plan
-description: "Wenn es um Simulation Bieter-Prozess in Corporate-Kanzlei geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Simulation Bidder Steps Plan; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Simulation Bieter-Prozess: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: simulation-bidder-steps-plan."
 ---
 
 # Simulation Bieter-Prozess

@@ -1,6 +1,6 @@
 ---
 name: oben-formular-portal-und-einreichung
-description: "Wenn es um Portal, beA und Einreichungslogik in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Portal, beA und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Portal, beA und Einreichungslogik

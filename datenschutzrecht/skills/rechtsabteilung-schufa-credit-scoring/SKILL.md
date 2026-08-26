@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-schufa-credit-scoring
-description: "Wenn es um Rechtsabteilung: Schufa- und Credit-Scoring im Kundenprozess in Datenschutzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Schufa- und Credit-Scoring im Kundenprozess: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Schufa- und Credit-Scoring im Kundenprozess

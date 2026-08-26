@@ -1,6 +1,6 @@
 ---
 name: geburtshilfe-ctg-sectio
-description: "Wenn es um Geburtshilfe Ctg Sectio in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geburtshilfe Ctg Sectio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geburtshilfe CTG und Sectio: moderner Medizinrechts-Skill für Pathologisches CTG, Entscheidungs-Entbindungszeit, Hebammen-/Ärzteteam und grober Fehler

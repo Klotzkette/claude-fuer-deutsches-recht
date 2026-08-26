@@ -1,6 +1,6 @@
 ---
 name: sanktion-beschwerde-betroffener
-description: "Wenn es um Beschwerde eines Betroffenen als Auslöser in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschwerde eines Betroffenen als Auslöser: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Beschwerde eines Betroffenen als Auslöser

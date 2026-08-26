@@ -1,6 +1,6 @@
 ---
 name: landrat-satzung-redlinen
-description: "Wenn es um Landrat Satzung Redlinen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landrat Satzung Redlinen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landrat Satzung Redlinen

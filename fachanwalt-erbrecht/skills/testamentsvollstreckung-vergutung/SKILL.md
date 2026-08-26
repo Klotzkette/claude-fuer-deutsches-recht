@@ -1,6 +1,6 @@
 ---
 name: testamentsvollstreckung-vergutung
-description: "Wenn es um Testamentsvollstreckung Vergutung in Fachanwalt Erbrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Testamentsvollstreckung Vergutung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Testamentsvollstreckung Vergutung

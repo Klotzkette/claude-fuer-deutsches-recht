@@ -1,6 +1,6 @@
 ---
 name: ki-avatar-virtueller-influencer-ugc
-description: "Wenn es um Influencer-Recht: digitale Werkzeuge-Avatar, Deepfake und Einwilligung in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Influencer-Recht: digitale Werkzeuge-Avatar, Deepfake und Einwilligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: KI-Avatar, Deepfake und Einwilligung

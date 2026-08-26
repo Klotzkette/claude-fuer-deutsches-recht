@@ -1,6 +1,6 @@
 ---
 name: versandhandelserlaubnis-eu-versandapotheke
-description: "Wenn es um Versandhandelserlaubnis EU Versandapotheke in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Versandhandelserlaubnis EU Versandapotheke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Versandhandelserlaubnis EU Versandapotheke

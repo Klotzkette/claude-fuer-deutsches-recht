@@ -1,6 +1,6 @@
 ---
 name: tehg-verfahren-umweltrecht
-description: "Wenn es um Tehg: Fristen, Form, Zuständigkeit und Rechtsweg in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tehg: Fristen, Form, Zuständigkeit und Rechtsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tehg: Fristen, Form, Zuständigkeit und Rechtsweg

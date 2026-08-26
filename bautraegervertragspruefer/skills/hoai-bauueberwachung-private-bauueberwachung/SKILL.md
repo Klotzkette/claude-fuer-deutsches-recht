@@ -1,6 +1,6 @@
 ---
 name: hoai-bauueberwachung-private-bauueberwachung
-description: "Wenn es um HOAI, Bauüberwachung und private Bauüberwachung in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HOAI, Bauüberwachung und private Bauüberwachung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI, Bauüberwachung und private Bauüberwachung

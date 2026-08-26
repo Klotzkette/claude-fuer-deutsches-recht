@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-mandantengespraech-uebergabe
-description: "Wenn es um BWA-Uebergabegespraech mit dem Mandanten in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BWA-Übergabegespräch mit dem Mandanten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BWA-Uebergabegespraech mit dem Mandanten

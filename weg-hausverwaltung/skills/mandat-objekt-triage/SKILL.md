@@ -1,6 +1,6 @@
 ---
 name: mandat-objekt-triage
-description: "Wenn es um Mandat- und Objekt-Triage in WEG- und Hausverwaltung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandat- und Objekt-Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandat- und Objekt-Triage

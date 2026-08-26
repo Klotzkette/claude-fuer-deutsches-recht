@@ -1,6 +1,6 @@
 ---
 name: ordnerliste-mitteilung-partei-gewerkschaft
-description: "Wenn es um So viel wie nötig, so wenig wie möglich in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für So viel wie nötig, so wenig wie möglich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # So viel wie nötig, so wenig wie möglich

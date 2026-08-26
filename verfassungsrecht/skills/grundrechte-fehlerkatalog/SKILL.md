@@ -1,6 +1,6 @@
 ---
 name: grundrechte-fehlerkatalog
-description: "Wenn es um Grundrechte Fehlerkatalog in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundrechte Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grundrechte Fehlerkatalog

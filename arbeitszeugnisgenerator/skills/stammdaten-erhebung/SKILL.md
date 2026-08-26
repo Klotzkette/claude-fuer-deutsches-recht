@@ -1,6 +1,6 @@
 ---
 name: stammdaten-erhebung
-description: "Extrahiert Personalien, Arbeitgeber, Beschäftigungszeitraum, Funktionen, Unterzeichner und Zeugniszweck zuerst aus vorhandenen Dateien. Liefert eine belegte Stammdatenkarte, markiert Widersprüche und fragt nur entscheidende, nicht aus der Akte lösbare Angaben nach."
+description: "Extrahiert Personalien, Arbeitgeber, Beschäftigungszeitraum, Funktionen, Unterzeichner und Zeugniszweck zuerst aus vorhandenen Dateien."
 ---
 
 # Stammdaten-Erhebung

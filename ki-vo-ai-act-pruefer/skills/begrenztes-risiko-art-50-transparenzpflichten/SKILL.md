@@ -1,6 +1,6 @@
 ---
 name: begrenztes-risiko-art-50-transparenzpflichten
-description: "Wenn es um Begrenztes Risiko — Transparenzpflichten nach Art. 50 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Begrenztes Risiko — Transparenzpflichten nach Art. 50 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Begrenztes Risiko — Transparenzpflichten nach Art. 50 KI-VO

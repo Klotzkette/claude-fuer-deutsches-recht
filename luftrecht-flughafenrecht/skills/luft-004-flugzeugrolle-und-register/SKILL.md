@@ -1,6 +1,6 @@
 ---
 name: luft-004-flugzeugrolle-und-register
-description: "Wenn es um Flugzeugrolle Und Register in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Flugzeugrolle und Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Flugzeugrolle Und Register

@@ -1,6 +1,6 @@
 ---
 name: architektur-angewandte-kunst
-description: "Wenn es um Architektur und angewandte Kunst in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Architektur und angewandte Kunst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Architektur und angewandte Kunst

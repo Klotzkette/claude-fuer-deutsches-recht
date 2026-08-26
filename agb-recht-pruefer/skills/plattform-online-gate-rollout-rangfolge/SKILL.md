@@ -1,6 +1,6 @@
 ---
 name: plattform-online-gate-rollout-rangfolge
-description: "Wenn es um Plattform und Online Checkout in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Auswahlstichwort: Plattform Online Gate Rollout Rangfolge; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Plattform und Online Checkout: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: plattform-online-gate-rollout-rangfolge."
 ---
 
 # Plattform und Online Checkout

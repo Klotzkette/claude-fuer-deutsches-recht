@@ -1,6 +1,6 @@
 ---
 name: zweckverfehlung-und-kondiktionszweck
-description: "Wenn es um Zweckverfehlung und Kondiktionszweck in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zweckverfehlung und Kondiktionszweck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zweckverfehlung und Kondiktionszweck

@@ -1,6 +1,6 @@
 ---
 name: unregulierte-zelltherapie-abwehr
-description: "Wenn es um Unregulierte Zelltherapie Abwehr in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unregulierte Zelltherapie Abwehr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unregulierte Zelltherapie abwehren: moderner Medizinrechts-Skill für Online beworbene Stammzell-/Dendriten-/Exosomenangebote, Behördenweg, Unterlassung und Patientenschutz

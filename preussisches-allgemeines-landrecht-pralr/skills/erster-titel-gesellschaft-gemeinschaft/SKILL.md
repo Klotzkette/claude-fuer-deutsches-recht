@@ -1,6 +1,6 @@
 ---
 name: erster-titel-gesellschaft-gemeinschaft
-description: "Wenn es um Pralr Erster Teil Titel 12 Darlehen Verwahrung Leihe in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pralr Erster Teil Titel 12 Darlehen Verwahrung Leihe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pralr Erster Teil Titel 12 Darlehen Verwahrung Leihe

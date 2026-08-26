@@ -1,6 +1,6 @@
 ---
 name: verordnungen-vorrang-unmittelbare
-description: "Wenn es um Verordnungen: Verhandlung, Vergleich und Eskalation in Europarecht-Kompass für deutsche Juristen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verordnungen: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verordnungen: Verhandlung, Vergleich und Eskalation

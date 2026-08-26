@@ -1,6 +1,6 @@
 ---
 name: abstraktionsprinzip-vergleich
-description: "Wenn es um Abstraktionsprinzip Vergleich in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abstraktionsprinzip Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Abstraktionsprinzip Vergleich

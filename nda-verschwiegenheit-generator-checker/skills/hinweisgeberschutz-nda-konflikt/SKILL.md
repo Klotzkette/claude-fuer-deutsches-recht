@@ -1,6 +1,6 @@
 ---
 name: hinweisgeberschutz-nda-konflikt
-description: "Wenn es um Hinweisgeberschutz NDA Konflikt in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Hinweisgeberschutz NDA Konflikt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hinweisgeberschutz NDA Konflikt

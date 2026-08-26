@@ -1,6 +1,6 @@
 ---
 name: aktenherausgabe-patentakten-organisationspflicht
-description: "Wenn es um Aktenherausgabe Patentakten Organisationspflicht in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktenherausgabe Patentakten Organisationspflicht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Wenn es um /tabellenreview-3d:tabellenreview-3d-kaltstart-interview in Tabellenreview 3D geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für /tabellenreview-3d:tabellenreview-3d-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /tabellenreview-3d:tabellenreview-3d-kaltstart-interview

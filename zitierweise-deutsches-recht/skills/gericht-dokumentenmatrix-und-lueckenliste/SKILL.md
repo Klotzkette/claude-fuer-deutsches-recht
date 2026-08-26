@@ -1,6 +1,6 @@
 ---
 name: gericht-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Gericht: Dokumentenmatrix, Lückenliste und Nachforderung in Zitierweise deutsches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Gericht: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Gericht: Dokumentenmatrix, Lückenliste und Nachforderung

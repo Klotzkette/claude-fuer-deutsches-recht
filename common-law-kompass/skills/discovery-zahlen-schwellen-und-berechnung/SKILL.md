@@ -1,6 +1,6 @@
 ---
 name: discovery-zahlen-schwellen-und-berechnung
-description: "Wenn es um Discovery: Zahlen, Schwellenwerte und Berechnung in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Discovery: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Discovery: Zahlen, Schwellenwerte und Berechnung

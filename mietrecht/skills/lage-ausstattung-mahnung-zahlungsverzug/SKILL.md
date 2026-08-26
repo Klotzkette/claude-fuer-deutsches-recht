@@ -1,6 +1,6 @@
 ---
 name: lage-ausstattung-mahnung-zahlungsverzug
-description: "Wenn es um Lage und Ausstattung erheben in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lage und Ausstattung erheben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lage und Ausstattung erheben

@@ -1,6 +1,6 @@
 ---
 name: goa-entgegenstehender-wille-paragraphen-678
-description: "Wenn es um GoA: Entgegenstehender Wille Paragrafen 678 und 679 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GoA: Entgegenstehender Wille Paragrafen 678 und 679 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: goa-entgegenstehender-wille-paragraphen-678."
 ---
 
 # GoA: Entgegenstehender Wille §§ 678 und 679 BGB

@@ -1,6 +1,6 @@
 ---
 name: erstantwort-foermlich-mail
-description: "Wenn es um Erstantwort: Tatbestandsmerkmale, Beweisfragen und Beleglage in mandantenanfragen-assistent geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Erstantwort: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erstantwort: Tatbestandsmerkmale, Beweisfragen und Beleglage

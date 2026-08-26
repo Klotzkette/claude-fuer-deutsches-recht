@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-tatbestand-beweis-und-belege
-description: "Wenn es um Arbeitsrecht Tatbestand Beweis Und Belege in Fachanwalt Arbeitsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Arbeitsrecht Tatbestand Beweis und Belege: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Tatbestand, Beweis und Belege im Arbeitsrechtsprozess: Darlegungs- und Beweislastverteilung nach Normen, abgestufte Darlegungslast BAG-Linie, Beweismittel im Arbeitsgerichtsverfahren, DSGVO-konforme Beweiserhebung Paragraf 26 BDSG.
@@ -134,3 +134,7 @@ Datenerhebung im Arbeitsverhältnis ist nur zulässig, wenn sie zur Durchführun
 ## Was dieser Arbeitsgang nicht macht
 - Keine individuelle Beweismittelerhebung; Entscheidung über Beweisangebote bleibt dem Anwalt.
 - Keine abschließende DSGVO-Compliance-Prüfung für komplexe Überwachungssysteme.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-arbeitsrecht-tatbestand-beweis-und-belege` beziehungsweise Arbeitsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-arbeitsrecht-tatbestand-beweis-und-belege.md).

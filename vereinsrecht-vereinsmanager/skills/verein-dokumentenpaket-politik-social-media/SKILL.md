@@ -1,6 +1,6 @@
 ---
 name: verein-dokumentenpaket-politik-social-media
-description: "Wenn es um Vereins-Dokumentenpaket in Vereinsrecht und Vereinsmanager geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vereins-Dokumentenpaket: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vereins-Dokumentenpaket

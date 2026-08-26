@@ -1,6 +1,6 @@
 ---
 name: verguetung-vermittler-dreiecksverhaeltnis-vhs
-description: "Wenn es um Vergütung Zeit oder Erfolg in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vergütung Zeit oder Erfolg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vergütung Zeit oder Erfolg

@@ -1,6 +1,6 @@
 ---
 name: pkv-basistarif-standardtarif-notlagentarif
-description: "Wenn es um PKV: Basistarif, Standardtarif und Notlagentarif in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PKV: Basistarif, Standardtarif und Notlagentarif: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PKV: Basistarif, Standardtarif und Notlagentarif

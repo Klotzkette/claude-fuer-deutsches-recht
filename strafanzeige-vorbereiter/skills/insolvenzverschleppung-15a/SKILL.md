@@ -1,6 +1,6 @@
 ---
 name: insolvenzverschleppung-15a
-description: "Wenn es um Insolvenzverschleppung Paragraf 15a InsO in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenzverschleppung Paragraf 15a InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenzverschleppung § 15a InsO

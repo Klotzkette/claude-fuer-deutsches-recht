@@ -1,6 +1,6 @@
 ---
 name: franchise-m-a-und-system-due-diligence
-description: "Wenn es um Franchise: Franchise-M&A und System-Due-Diligence in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Franchise: Franchise-M&A und System-Due-Diligence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise: Franchise-M&A und System-Due-Diligence

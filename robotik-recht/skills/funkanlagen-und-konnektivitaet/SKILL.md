@@ -1,6 +1,6 @@
 ---
 name: funkanlagen-und-konnektivitaet
-description: "Wenn es um Funkanlagen und Konnektivität in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Funkanlagen und Konnektivität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Funkanlagen und Konnektivität

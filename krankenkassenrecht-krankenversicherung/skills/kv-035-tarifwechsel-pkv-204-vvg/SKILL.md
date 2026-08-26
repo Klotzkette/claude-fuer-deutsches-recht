@@ -1,6 +1,6 @@
 ---
 name: kv-035-tarifwechsel-pkv-204-vvg
-description: "Wenn es um Krankenversicherung: Tarifwechsel PKV Paragraf 204 VVG in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Tarifwechsel PKV Paragraf 204 VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Tarifwechsel PKV § 204 VVG

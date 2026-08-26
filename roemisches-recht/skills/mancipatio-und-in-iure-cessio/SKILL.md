@@ -1,6 +1,6 @@
 ---
 name: mancipatio-und-in-iure-cessio
-description: "Wenn es um Mancipatio Und In Iure Cessio in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mancipatio und in Iure Cessio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mancipatio Und In Iure Cessio

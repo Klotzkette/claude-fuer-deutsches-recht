@@ -1,6 +1,6 @@
 ---
 name: flugportal-klageschrift-anspruchsgruppen
-description: "Wenn es um Flugportal Klageschrift Strukturieren in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Flugportal Klageschrift Strukturieren: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Flugportal Klageschrift Strukturieren

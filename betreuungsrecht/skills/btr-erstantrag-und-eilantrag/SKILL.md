@@ -1,6 +1,6 @@
 ---
 name: btr-erstantrag-und-eilantrag
-description: "Wenn es um Btr: Erst- und Eilantrag in Betreuungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Btr Erstantrag Und Eilantrag; Arbeitsfeld: Betreuungsrecht."
+description: "Für Btr: Erst- und Eilantrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Betreuungsrecht. Route: btr-erstantrag-und-eilantrag."
 ---
 
 # Btr: Erst- und Eilantrag

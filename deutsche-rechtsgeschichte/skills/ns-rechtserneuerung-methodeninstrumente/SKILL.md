@@ -1,6 +1,6 @@
 ---
 name: ns-rechtserneuerung-methodeninstrumente
-description: "Wenn es um Methodeninstrumente der NS-Rechtserneuerung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Ns Rechtserneuerung Methodeninstrumente; Arbeitsfeld: Deutsche Rechtsgeschichte."
+description: "Für Methodeninstrumente der NS-Rechtserneuerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Deutsche Rechtsgeschichte. Route: ns-rechtserneuerung-methodeninstrumente."
 ---
 
 # Methodeninstrumente der NS-Rechtserneuerung

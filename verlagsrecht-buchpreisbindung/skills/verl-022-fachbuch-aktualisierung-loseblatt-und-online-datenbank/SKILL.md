@@ -1,6 +1,6 @@
 ---
 name: verl-022-fachbuch-aktualisierung-loseblatt-und-online-datenbank
-description: "Wenn es um Verlagsrecht: Fachbuch Aktualisierung Loseblatt und Online-Datenbank in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Fachbuch Aktualisierung Loseblatt und Online-Datenbank: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Fachbuch Aktualisierung Loseblatt und Online-Datenbank

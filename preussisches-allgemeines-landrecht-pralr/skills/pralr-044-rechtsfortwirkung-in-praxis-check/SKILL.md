@@ -1,6 +1,6 @@
 ---
 name: pralr-044-rechtsfortwirkung-in-praxis-check
-description: "Wenn es um Fortwirkung in Praxis in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 044 Rechtsfortwirkung In Praxis Check; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Fortwirkung in Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-044-rechtsfortwirkung-in-praxis-check."
 ---
 
 # Fortwirkung in Praxis

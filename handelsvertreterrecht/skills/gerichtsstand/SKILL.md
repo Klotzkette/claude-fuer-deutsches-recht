@@ -1,6 +1,6 @@
 ---
 name: gerichtsstand
-description: "Wenn es um Gerichtsstand bei Handelsvertreterstreitigkeiten nach ZPO und EuGVVO in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gerichtsstand bei Handelsvertreterstreitigkeiten nach ZPO und EuGVVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gerichtsstand bei Handelsvertreterstreitigkeiten nach ZPO und EuGVVO

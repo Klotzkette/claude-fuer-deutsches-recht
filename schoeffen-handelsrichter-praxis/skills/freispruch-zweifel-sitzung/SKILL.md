@@ -1,6 +1,6 @@
 ---
 name: freispruch-zweifel-sitzung
-description: "Wenn es um Freispruch bei Zweifel: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Freispruch bei Zweifel: Sitzungspraxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freispruch bei Zweifel: Sitzungspraxis

@@ -1,6 +1,6 @@
 ---
 name: utilities-366
-description: "Wenn es um Utilities Paragraf 366 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Utilities Paragraf 366: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Utilities § 366

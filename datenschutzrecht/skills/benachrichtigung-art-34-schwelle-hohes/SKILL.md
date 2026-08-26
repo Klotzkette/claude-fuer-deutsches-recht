@@ -1,6 +1,6 @@
 ---
 name: benachrichtigung-art-34-schwelle-hohes
-description: "Wenn es um Schwelle hohes Risiko nach Art. 34 Abs. 1 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schwelle hohes Risiko nach Art. 34 Abs. 1 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schwelle hohes Risiko nach Art. 34 Abs. 1 DSGVO

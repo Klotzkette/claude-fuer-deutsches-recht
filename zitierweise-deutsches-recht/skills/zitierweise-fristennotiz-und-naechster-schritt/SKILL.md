@@ -1,6 +1,6 @@
 ---
 name: zitierweise-fristennotiz-und-naechster-schritt
-description: "Wenn es um Zitierweise: Fristennotiz und nächster Schritt in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitierweise Fristennotiz Und Naechster Schritt; Arbeitsfeld: Zitierweise deutsches Recht."
+description: "Für Zitierweise: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Zitierweise deutsches Recht. Route: zitierweise-fristennotiz-und-naechster-schritt."
 ---
 
 # Zitierweise: Fristennotiz und nächster Schritt

@@ -1,6 +1,6 @@
 ---
 name: data-room-for-board
-description: "Wenn es um Datenraum für Board/Gremien in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenraum für Board/Gremien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenraum für Board/Gremien

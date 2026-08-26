@@ -1,6 +1,6 @@
 ---
 name: patg-problem-register
-description: "Wenn es um Patg: Mandantenkommunikation und Entscheidungsvorlage in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Patg: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Patg: Mandantenkommunikation und Entscheidungsvorlage

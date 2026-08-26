@@ -1,6 +1,6 @@
 ---
 name: schuldnerberatung-workflow
-description: "Wenn es um Schuldnerberatung Workflow in Verbraucherinsolvenz und Schuldenbereinigung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Schuldnerberatung Workflow: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # mit Schuldnerberatung: Beratungsstellen, Unterlagenpaket, Planlogik, Bescheinigung und Selbstvertretung.

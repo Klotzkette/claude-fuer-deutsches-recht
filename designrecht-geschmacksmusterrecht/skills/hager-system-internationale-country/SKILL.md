@@ -1,6 +1,6 @@
 ---
 name: hager-system-internationale-country
-description: "Wenn es um Hager System Wipo in designrecht-geschmacksmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Hager System Wipo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Hager System Wipo

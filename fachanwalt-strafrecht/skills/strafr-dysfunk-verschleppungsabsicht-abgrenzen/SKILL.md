@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-verschleppungsabsicht-abgrenzen
-description: "Wenn es um Verschleppungsabsicht nach Paragraf 244 Abs in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verschleppungsabsicht nach Paragraf 244 Abs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verschleppungsabsicht nach § 244 Abs

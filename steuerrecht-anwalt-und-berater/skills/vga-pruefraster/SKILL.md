@@ -1,6 +1,6 @@
 ---
 name: vga-pruefraster
-description: "Wenn es um Verdeckte Gewinnausschuettung — Paragraf 8 Abs. 3 S. 2 KStG Prüfraster in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verdeckte Gewinnausschüttung — Paragraf 8 Abs. 3 S. 2 KStG Prüfraster: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: vga-pruefraster."
 ---
 
 # Verdeckte Gewinnausschuettung — § 8 Abs. 3 S. 2 KStG Prüfraster

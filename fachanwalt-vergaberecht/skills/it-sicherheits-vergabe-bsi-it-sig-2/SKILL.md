@@ -1,6 +1,6 @@
 ---
 name: it-sicherheits-vergabe-bsi-it-sig-2
-description: "Wenn es um It Sicherheits Vergabe Bsi It Sig 2 in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für It Sicherheits Vergabe Bsi It Sig 2: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IT-Sicherheits-Vergabe für KRITIS-Betreiber und Bundesbehoerden: Auftraggeber oder Bieter bei öffentlichen IT-Ausschreibungen mit erhoehten Sicherheitsanforderungen

@@ -1,6 +1,6 @@
 ---
 name: rom-099-vertiefung-01-fristen-und-risiken
-description: "Wenn es um Vertiefung 01 Fristen Und Risiken in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertiefung 01 Fristen und Risiken: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Vertiefung 01 Fristen Und Risiken

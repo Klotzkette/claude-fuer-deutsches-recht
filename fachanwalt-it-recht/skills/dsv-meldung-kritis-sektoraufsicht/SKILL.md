@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-kritis-sektoraufsicht
-description: "Wenn es um Steuert die parallele Meldung an Sektoraufsichten neben der Datenschutzaufsicht in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuert die parallele Meldung an Sektoraufsichten neben der Datenschutzaufsicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuert die parallele Meldung an Sektoraufsichten neben der Datenschutzaufsicht

@@ -1,6 +1,6 @@
 ---
 name: unterhaltsberechnung-vollpruefung
-description: "Wenn es um Unterhaltsberechnung im Familienrecht: Vollprüfung in Fachanwalt Familienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Unterhaltsberechnung im Familienrecht: Vollprüfung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Unterhaltsberechnung im Familienrecht: Vollprüfung

@@ -1,6 +1,6 @@
 ---
 name: rom-097-vertiefung-01-board-memo
-description: "Wenn es um Vertiefung 01 Board Memo in Römisches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertiefung 01 Board Memo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Römisches Recht."
 ---
 
 # Vertiefung 01 Board Memo

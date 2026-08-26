@@ -1,6 +1,6 @@
 ---
 name: stundungsanfrage-glaeubiger
-description: "Wenn es um Stundungsanfrage Gläubiger in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stundungsanfrage Gläubiger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Stundungsanfrage Gläubiger

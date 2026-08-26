@@ -1,6 +1,6 @@
 ---
 name: datenschutzpanne-lohnakte-datev
-description: "Wenn es um Datenschutzpanne Lohnakte Datev in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutzpanne Lohnakte DATEV: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: datenschutzpanne lohnakte - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

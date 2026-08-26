@@ -1,6 +1,6 @@
 ---
 name: haftungsbescheid-69-191-ao
-description: "Wenn es um Haftungsbescheid — Paragraf 69 AO Paragraf 71 AO und Verfahren Paragraf 191 AO in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftungsbescheid — Paragraf 69 AO Paragraf 71 AO und Verfahren Paragraf 191 AO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haftungsbescheid — § 69 AO § 71 AO und Verfahren § 191 AO

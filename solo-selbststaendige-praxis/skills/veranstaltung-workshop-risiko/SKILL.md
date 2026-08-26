@@ -1,6 +1,6 @@
 ---
 name: veranstaltung-workshop-risiko
-description: "Wenn es um Versicherung Haftung und Risiko: Prüft präsenzworkshop in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versicherung Haftung und Risiko: Prüft präsenzworkshop: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versicherung Haftung und Risiko: Prüft präsenzworkshop

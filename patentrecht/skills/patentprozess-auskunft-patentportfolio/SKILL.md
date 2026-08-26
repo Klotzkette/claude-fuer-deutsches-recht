@@ -1,6 +1,6 @@
 ---
 name: patentprozess-auskunft-patentportfolio
-description: "Wenn es um Patentprozess: Auskunft, Rechnungslegung, Schadensersatz in patentrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Patentprozess: Auskunft, Rechnungslegung, Schadensersatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentprozess: Auskunft, Rechnungslegung, Schadensersatz

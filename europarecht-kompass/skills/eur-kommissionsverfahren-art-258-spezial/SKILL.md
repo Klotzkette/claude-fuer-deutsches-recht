@@ -1,6 +1,6 @@
 ---
 name: eur-kommissionsverfahren-art-258-spezial
-description: "Wenn es um EU: Vertragsverletzung Art. 258 in Europarecht-Kompass für deutsche Juristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für EU: Vertragsverletzung Art. 258: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU: Vertragsverletzung Art. 258

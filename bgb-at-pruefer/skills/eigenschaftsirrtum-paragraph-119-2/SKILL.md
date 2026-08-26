@@ -1,6 +1,6 @@
 ---
 name: eigenschaftsirrtum-paragraph-119-2
-description: "Wenn es um Eigenschaftsirrtum — Paragraf 119 Abs. 2 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Eigenschaftsirrtum Paragraph 119 2; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Eigenschaftsirrtum — Paragraf 119 Abs. 2 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: eigenschaftsirrtum-paragraph-119-2."
 ---
 
 # Eigenschaftsirrtum — § 119 Abs. 2 BGB

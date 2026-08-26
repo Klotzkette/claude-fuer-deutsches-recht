@@ -1,6 +1,6 @@
 ---
 name: beweiswuerdigung-quellenkarte
-description: "Wenn es um Beweiswuerdigung Quellenkarte in Urteilsbauer und Relationsmacher geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweiswürdigung Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweiswuerdigung Quellenkarte

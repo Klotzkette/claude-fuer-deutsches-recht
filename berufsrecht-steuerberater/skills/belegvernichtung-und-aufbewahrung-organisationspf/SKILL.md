@@ -1,6 +1,6 @@
 ---
 name: belegvernichtung-und-aufbewahrung-organisationspf
-description: "Wenn es um Belegvernichtung Und Aufbewahrung Organisationspf in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Belegvernichtung und Aufbewahrung Organisationspf: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: belegvernichtung und aufbewahrung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: organ-gemeinderat-stadtrat-kreistag
-description: "Wenn es um Organ Und Zuständigkeit Prüfen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Organ und Zuständigkeit Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Organ Und Zuständigkeit Prüfen

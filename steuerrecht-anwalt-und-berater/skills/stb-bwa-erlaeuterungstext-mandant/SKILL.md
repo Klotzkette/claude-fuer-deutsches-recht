@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-erlaeuterungstext-mandant
-description: "Wenn es um Erlaeuterungstext zur BWA fuer den Mandanten in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erläuterungstext zur BWA für den Mandanten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Erlaeuterungstext zur BWA fuer den Mandanten

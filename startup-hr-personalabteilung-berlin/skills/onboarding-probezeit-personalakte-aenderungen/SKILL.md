@@ -1,6 +1,6 @@
 ---
 name: onboarding-probezeit-personalakte-aenderungen
-description: "Wenn es um Onboarding Probezeit Plan in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Onboarding Probezeit Plan: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Onboarding Probezeit Plan

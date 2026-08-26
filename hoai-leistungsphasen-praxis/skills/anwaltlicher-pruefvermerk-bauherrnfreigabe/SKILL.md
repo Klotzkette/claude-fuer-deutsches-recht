@@ -1,6 +1,6 @@
 ---
 name: anwaltlicher-pruefvermerk-bauherrnfreigabe
-description: "Wenn es um Anwaltlicher Pruefvermerk Bauherrnfreigabe in HOAI Leistungsphasen Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Anwaltlicher Prüfvermerk Bauherrnfreigabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Erstellt anwaltliches kurzmemorandum zum lph-stand

@@ -1,6 +1,6 @@
 ---
 name: datenpanne-berufstraeger-verteidigung
-description: "Wenn es um Datenpanne beim Berufsträger: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Datenpanne beim Berufsträger: Verteidigungs- und Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenpanne beim Berufsträger: Verteidigungs- und Kammerantwort

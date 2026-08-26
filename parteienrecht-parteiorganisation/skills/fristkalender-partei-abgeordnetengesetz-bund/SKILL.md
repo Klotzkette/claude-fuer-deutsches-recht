@@ -1,6 +1,6 @@
 ---
 name: fristkalender-partei-abgeordnetengesetz-bund
-description: "Wenn es um Fristkalender Partei in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fristkalender Partei Abgeordnetengesetz Bund; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Fristkalender Partei: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Parteienrecht und Parteiorganisation. Route: fristkalender-partei-abgeordnetengesetz-bund."
 ---
 
 # Fristkalender Partei

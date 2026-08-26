@@ -1,6 +1,6 @@
 ---
 name: inventar-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Inventar: Dokumentenmatrix, Lückenliste und Nachforderung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Inventar: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Inventar: Dokumentenmatrix, Lückenliste und Nachforderung

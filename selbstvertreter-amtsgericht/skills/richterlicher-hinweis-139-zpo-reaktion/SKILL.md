@@ -1,6 +1,6 @@
 ---
 name: richterlicher-hinweis-139-zpo-reaktion
-description: "Wenn es um Richterlicher Hinweis nach Paragraf 139 ZPO: Was tun? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Richterlicher Hinweis nach Paragraf 139 ZPO: Was tun?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Richterlicher Hinweis nach § 139 ZPO: Was tun?

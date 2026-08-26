@@ -1,6 +1,6 @@
 ---
 name: verbandsarbeit-informationsaustausch
-description: "Wenn es um Verbandsarbeit Informationsaustausch Grenzen in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Verbandsarbeit Informationsaustausch Grenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbandsarbeit Informationsaustausch Grenzen

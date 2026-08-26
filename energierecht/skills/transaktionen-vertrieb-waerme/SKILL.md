@@ -1,6 +1,6 @@
 ---
 name: transaktionen-vertrieb-waerme
-description: "Wenn es um Transaktionen: Zahlen, Schwellenwerte und Berechnung in Energierecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Transaktionen: Zahlen, Schwellenwerte und Berechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transaktionen: Zahlen, Schwellenwerte und Berechnung

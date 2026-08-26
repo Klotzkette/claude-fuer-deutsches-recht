@@ -1,6 +1,6 @@
 ---
 name: datenschutz-hris-und-saas-tools
-description: "Wenn es um Datenschutz HRIS Und SaaS Tools in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz HRIS und SaaS Tools: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz HRIS Und SaaS Tools

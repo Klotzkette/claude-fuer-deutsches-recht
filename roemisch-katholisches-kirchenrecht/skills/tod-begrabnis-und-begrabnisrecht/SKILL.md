@@ -1,6 +1,6 @@
 ---
 name: tod-begrabnis-und-begrabnisrecht
-description: "Wenn es um Tod, Begräbnis und Begräbnisrecht in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tod, Begräbnis und Begräbnisrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tod, Begräbnis und Begräbnisrecht

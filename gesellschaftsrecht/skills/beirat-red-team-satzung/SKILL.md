@@ -1,6 +1,6 @@
 ---
 name: beirat-red-team-satzung
-description: "Wenn es um Beirat Red Team Satzung in Gesellschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Beirat Red Team Satzung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Gesellschaftsrecht."
 ---
 
 # Beirat Red Team Satzung

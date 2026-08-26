@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrer-dashboard
-description: "Wenn es um Geschäftsführer-Dashboard Berichtspflichten in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geschäftsführer-Dashboard Berichtspflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschäftsführer-Dashboard Berichtspflichten

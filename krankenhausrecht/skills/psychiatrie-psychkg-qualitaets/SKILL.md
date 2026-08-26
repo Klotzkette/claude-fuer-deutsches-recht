@@ -1,6 +1,6 @@
 ---
 name: psychiatrie-psychkg-qualitaets
-description: "Wenn es um Psychiatrie PsychKG Unterbringung Fixierung in Krankenhausrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Psychiatrie PsychKG Unterbringung Fixierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Psychiatrie PsychKG Unterbringung Fixierung

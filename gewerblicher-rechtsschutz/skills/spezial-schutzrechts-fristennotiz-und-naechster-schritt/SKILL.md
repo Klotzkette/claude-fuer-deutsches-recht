@@ -1,6 +1,6 @@
 ---
 name: spezial-schutzrechts-fristennotiz-und-naechster-schritt
-description: "Wenn es um Schutzrechts: Fristennotiz und nächster Schritt in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schutzrechts: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Schutzrechts: Fristennotiz und nächster Schritt

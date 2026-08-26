@@ -1,6 +1,6 @@
 ---
 name: intensivmedizin-beatmung-verlegung
-description: "Wenn es um Intensivmedizin Beatmung Verlegung in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Intensivmedizin Beatmung Verlegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Intensivmedizin Beatmung Verlegung

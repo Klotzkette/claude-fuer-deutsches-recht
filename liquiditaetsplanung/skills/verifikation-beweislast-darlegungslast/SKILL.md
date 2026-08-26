@@ -1,6 +1,6 @@
 ---
 name: verifikation-beweislast-darlegungslast
-description: "Wenn es um Verifikation: Beweislast, Darlegungslast und Substantiierung in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verifikation: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Verifikation: Beweislast, Darlegungslast und Substantiierung

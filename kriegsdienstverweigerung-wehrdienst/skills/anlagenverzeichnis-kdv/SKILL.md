@@ -1,6 +1,6 @@
 ---
 name: anlagenverzeichnis-kdv
-description: "Wenn es um Anlagenverzeichnis KDV in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anlagenverzeichnis KDV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagenverzeichnis KDV

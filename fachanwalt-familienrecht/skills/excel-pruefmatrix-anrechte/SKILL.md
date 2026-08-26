@@ -1,6 +1,6 @@
 ---
 name: excel-pruefmatrix-anrechte
-description: "Wenn es um Excel Pruefmatrix Anrechte in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Excel Prüfmatrix Anrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Excel-Prüfmatrix Anrechte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

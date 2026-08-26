@@ -1,6 +1,6 @@
 ---
 name: watchlist-und-wiedervorlage
-description: "Wenn es um Watchlist und Wiedervorlage in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Watchlist und Wiedervorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Watchlist und Wiedervorlage

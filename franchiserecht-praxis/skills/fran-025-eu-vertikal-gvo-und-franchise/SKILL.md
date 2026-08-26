@@ -1,6 +1,6 @@
 ---
 name: fran-025-eu-vertikal-gvo-und-franchise
-description: "Wenn es um Franchiserecht: EU Vertikal-GVO und Franchise in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: EU Vertikal-GVO und Franchise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Franchiserecht: EU Vertikal-GVO und Franchise

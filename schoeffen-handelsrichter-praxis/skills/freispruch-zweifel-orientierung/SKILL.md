@@ -1,6 +1,6 @@
 ---
 name: freispruch-zweifel-orientierung
-description: "Wenn es um Freispruch bei Zweifel: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Freispruch bei Zweifel: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freispruch bei Zweifel: Orientierung

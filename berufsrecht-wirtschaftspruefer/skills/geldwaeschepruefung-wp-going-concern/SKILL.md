@@ -1,6 +1,6 @@
 ---
 name: geldwaeschepruefung-wp-going-concern
-description: "Wenn es um Geldwaeschepruefung Wp Going Concern in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geldwäscheprüfung Wp Going Concern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: geldwaeschepruefung wp praxis - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-formuliert-erstpruefung-rollenklaerung
-description: "Wenn es um Formuliert: Erstprüfung, Rollenklärung und Mandatsziel in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Formuliert Erstpruefung Rollenklaerung; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für Formuliert: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: E-Mail-Umformulierer. Route: email-berufsrecht-formuliert-erstpruefung-rollenklaerung."
 ---
 
 # Formuliert: Erstprüfung, Rollenklärung und Mandatsziel

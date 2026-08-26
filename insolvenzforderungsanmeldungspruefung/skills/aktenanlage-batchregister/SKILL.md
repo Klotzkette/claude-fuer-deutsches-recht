@@ -1,6 +1,6 @@
 ---
 name: aktenanlage-batchregister
-description: "Wenn es um Aktenanlage und Batchregister in Insolvenzforderungsanmeldungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Aktenanlage und Batchregister: ordnet Akte, Belege und Lücken; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Aktenanlage und Batchregister

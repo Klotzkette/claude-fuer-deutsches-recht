@@ -1,6 +1,6 @@
 ---
 name: widerspruch-gegen-eilrechtsschutz
-description: "Wenn es um Widerspruch Gegen Verkehrszeichen in Straßenverkehrsrecht StVO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Widerspruch gegen Verkehrszeichen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Widerspruch Gegen Verkehrszeichen

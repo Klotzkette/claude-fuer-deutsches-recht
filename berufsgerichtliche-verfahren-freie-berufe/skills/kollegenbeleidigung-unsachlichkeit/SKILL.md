@@ -1,6 +1,6 @@
 ---
 name: kollegenbeleidigung-unsachlichkeit
-description: "Wenn es um Kollegenbeleidigung und Unsachlichkeit in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kollegenbeleidigung und Unsachlichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kollegenbeleidigung und Unsachlichkeit

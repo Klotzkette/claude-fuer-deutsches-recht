@@ -1,6 +1,6 @@
 ---
 name: duenge-ordnungswidrigkeit
-description: "Wenn es um Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ordnungswidrigkeit nach Düngeverordnung DüV verteidigen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen

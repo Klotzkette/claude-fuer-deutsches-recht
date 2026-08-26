@@ -1,6 +1,6 @@
 ---
 name: rom-101-zwoelftafelgesetz-prozess-und-vollstreckung
-description: "Wenn es um Zwölftafelgesetz - Prozess und Vollstreckung in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zwölftafelgesetz - Prozess und Vollstreckung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: rom-101-zwoelftafelgesetz-prozess-und-vollstreckung."
 ---
 
 # Zwölftafelgesetz - Prozess und Vollstreckung

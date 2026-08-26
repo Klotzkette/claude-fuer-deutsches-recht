@@ -1,6 +1,6 @@
 ---
 name: drv-statusfeststellung-paragraph-7a
-description: "Wenn es um DRV Statusfeststellung Paragraph 7a in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DRV Statusfeststellung Paragraph 7a: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Scheinselbstständigkeit und Status: Bereitet statusfeststellungsverfahren mit belegen und argumentmatrix vor

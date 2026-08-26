@@ -1,6 +1,6 @@
 ---
 name: brao-konformitaetspruefung
-description: "Wenn es um BRAO-Konformitätsprüfung in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BRAO-Konformitätsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # BRAO-Konformitätsprüfung

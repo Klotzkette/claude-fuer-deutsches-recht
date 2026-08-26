@@ -1,6 +1,6 @@
 ---
 name: luecken
-description: "Pflegt den aufsichtsrechtlichen Gap-Tracker ohne fachliche Befunde zu erfinden. Sortiert belegte Lücken nach Rechtsstatus, Risiko und Terminbasis und erzeugt Verantwortungs-, Eskalations- und Abschlussnachweise."
+description: "Für Aufsichtsrechtlichen Gap-Tracker führen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufsichtsrechtlichen Gap-Tracker führen

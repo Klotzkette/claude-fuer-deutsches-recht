@@ -7,19 +7,19 @@ Diese Vollprüfung enthält alle 14 Skills des Plugins `richter-landgericht-stra
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Richter Landgericht Strafkammer ein juristisches Arbeitsprodukt tragfähig begründet werden mu…
-2. **07-urteilsbegruendung-paragraf-267-lg** — Erstellt und prüft Urteilsgründe der Strafkammer nach Paragraf 267 StPO. Trennt persönliche Verhältnisse, Feststellungen…
-3. **99-finale-entscheidung-volltext** — Wenn es um Finale Entscheidung als Volltext (Urteil Strafkammer) in Strafkammer am Landgericht geht: ordnet Sachverhalt,…
-4. **10-entscheidungsvorschlag-strafkammer** — Wenn es um 10 Entscheidungsvorschlag Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislas…
-5. **05-strafzumessung-grosse-strafkammer** — Wenn es um 05 Strafzumessung Große Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast,…
-6. **06-massnahmen-paragraf-61-stgb** — Wenn es um 06 Maßnahmen Paragraf 61 Stgb in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
-7. **08-berufung-strafkammer** — Wenn es um 08 Berufung Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
-8. **01-eroeffnungsverfahren-strafkammer** — Wenn es um 01 Eröffnungsverfahren Strafkammer in Strafkammer am Landgericht geht: erstellt den passenden Entwurf aus Sac…
-9. **02-hauptverhandlung-grosse-strafkammer** — Wenn es um 02 Hauptverhandlung Große Strafkammer in Strafkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergle…
-10. **prozessuale-kniffe-und-rechtsprechungsanker** — Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Strafkammer am Landgericht geht: prüft Frist, Form, Zuständigk…
-11. **v392-praxisraster-richter-landgericht-strafkammer** — Wenn es um Praxisraster Landgericht Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast…
-12. **09-rechtsmittelbelehrung-strafkammer** — Wenn es um 09 Rechtsmittelbelehrung Strafkammer in Strafkammer am Landgericht geht: prüft Frist, Form, Zuständigkeit, Re…
-13. **03-beweisantraege-und-ablehnung** — Wenn es um 03 Beweisantraege und Ablehnung in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Geg…
-14. **04-beweiswuerdigung-strafkammer** — Wenn es um 04 Beweiswürdigung Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
+2. **prozessuale-kniffe-und-rechtsprechungsanker** — Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
+3. **99-finale-entscheidung-volltext** — Für Finale Entscheidung als Volltext (Urteil Strafkammer): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprod…
+4. **07-urteilsbegruendung-paragraf-267-lg** — Für 07 Urteilsbegründung nach Paragraf 267 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
+5. **10-entscheidungsvorschlag-strafkammer** — Für 10 Entscheidungsvorschlag Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko u…
+6. **09-rechtsmittelbelehrung-strafkammer** — Für 09 Rechtsmittelbelehrung Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+7. **v392-praxisraster-richter-landgericht-strafkammer** — Für Praxisraster Landgericht Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+8. **05-strafzumessung-grosse-strafkammer** — Für 05 Strafzumessung Große Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und…
+9. **01-eroeffnungsverfahren-strafkammer** — Für 01 Eröffnungsverfahren Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und …
+10. **02-hauptverhandlung-grosse-strafkammer** — Für 02 Hauptverhandlung Große Strafkammer: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskal…
+11. **06-massnahmen-paragraf-61-stgb** — Für 06 Maßnahmen Paragraf 61 Stgb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächs…
+12. **03-beweisantraege-und-ablehnung** — Für 03 Beweisanträge und Ablehnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierung…
+13. **04-beweiswuerdigung-strafkammer** — Für 04 Beweiswürdigung Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierung…
+14. **08-berufung-strafkammer** — Für 08 Berufung Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
 
 ---
 
@@ -145,86 +145,53 @@ Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Ei
 
 ---
 
-## Skill: `07-urteilsbegruendung-paragraf-267-lg`
+## Skill: `prozessuale-kniffe-und-rechtsprechungsanker`
 
-_Erstellt und prüft Urteilsgründe der Strafkammer nach Paragraf 267 StPO. Trennt persönliche Verhältnisse, Feststellungen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Maßregeln, Einziehung und Nebenentscheidungen und liefert einen revisionsfest gegliederten Entscheidungsentwurf._
+_Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Strafkammer am Landgericht._
 
-# 07 Urteilsbegründung nach Paragraf 267 StPO
+# Prozessuale Kniffe und Rechtsprechungsanker
 
-## Zweck
+Nutze diesen Skill, wenn die Hauptverhandlung aktiv, fair und revisionsfest geführt werden soll. Der Skill hilft bei Beweisanträgen, Hinweisen, Verständigung, Vorhalten, Einziehung, Strafzumessung und Urteilsgründen.
 
-Urteilsgründe nach Paragraf 267 StPO bei umfangreichen Strafverfahren: persönliche Verhältnisse, Tatfeststellungen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Maßregeln, Einziehung und Nebenentscheidungen.
+## Leitanker
 
-## Rolle
+- Paragraf 244 StPO: Aufklärungspflicht und Beweisantragsrecht sauber trennen.
+- Paragraf 261 StPO: Überzeugungsbildung nur aus dem Inbegriff der Hauptverhandlung.
+- Paragraf 265 StPO: rechtlicher Hinweis bei veränderter rechtlicher oder tatsächlicher Bewertung.
+- Paragraf 257c StPO: Verständigung nur transparent, protokolliert und ohne Aufgabe der Wahrheitsermittlung.
+- Paragraf 267 StPO: Urteilsgründe müssen Feststellungen, Beweiswürdigung und rechtliche Würdigung tragen.
+- BVerfG, 19.03.2013 - 2 BvR 2628/10: Verständigungspraxis braucht Transparenz, Dokumentation und Kontrolle.
 
+## Hauptverhandlungs-Kniffe
 
-Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf 74 GVG: Schwurgericht, Wirtschaftsstrafkammer, große Strafkammer; Berufungsstrafkammer Paragraf 74 Abs. 3 GVG). Schwerkriminalität, Wirtschaftsdelikte, Berufung gegen AG-Urteile.
+| Lage | Kniff | Fehlerbremse |
+| --- | --- | --- |
+| Verteidigung stellt Beweisantrag | Beweistatsache, Bedeutung und Ablehnungsgrund laut prüfen | kein bloßer Reflexbeschluss |
+| rechtliche Umwertung droht | Hinweis nach Paragraf 265 StPO mit Gelegenheit zur Verteidigung | keine Überraschung |
+| Einlassung wechselt | Widerspruch über Vorhalt sauber einführen | Inbegriff sichern |
+| Verständigung im Raum | Transparenz, Protokoll, Belehrung, keine informelle Nebenabrede | Revisionsfalle |
+| Strafzumessung | bestimmende Umstände pro und contra ausformulieren | Doppelverwertung vermeiden |
 
-## Rechtsrahmen
+## Arbeitsmodus
 
-StGB, StPO, GVG, JGG, BZRG, RVG
+1. Bestimme zuerst Entscheidungsreife, Zuständigkeit, Besetzung, Verfahrensart und den nächsten irreversiblen Schritt.
+2. Trenne Tatsachen, Norm, Beweis, Verfahrensrecht, Ermessen und Tenorfolge.
+3. Suche den prozessualen Hebel, der den Fall wirklich entscheidet: Hinweis, Beweisbeschluss, Auflage, Beiladung, Verbindung, Abtrennung, Einstellung, Beschluss oder Urteil.
+4. Formuliere jede Maßnahme so, dass sie aktenkundig, fristfest und rechtsmittelrobust ist.
+5. Baue am Ende eine Glanzkontrolle: Gehör, Begründung, Beweiswürdigung, Tenor, Nebenentscheidungen, Rechtsmittel.
 
-## Pflichtschritte
+## Output-Matrix
 
-1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
-2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
-3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
-4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
-5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+| Kniff | Normanker | Aktenbeleg | Risiko | Formulierung | nächster Schritt |
+| --- | --- | --- | --- | --- | --- |
+| Hinweis | | | Überraschung | | |
+| Beweis | | | Lücke | | |
+| Verfahrensleitung | | | Verzögerung | | |
+| Entscheidung | | | Rechtsmittel | | |
 
-## Output
+## Urteilsanker
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- BGH, Urteil vom 30.07.1999 - 1 StR 618/98, BGHSt 45, 164: Wird ausnahmsweise ein aussagepsychologisches Glaubhaftigkeitsgutachten eingeholt, muss es hypothesengeleitet, transparent und nach dem wissenschaftlichen Methodenstand alternative Entstehungserklärungen prüfen; kein allgemeiner Aussage-gegen-Aussage-Anker.
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung und revisionsfähige Kontrolle.
-- Ständige Rechtsprechung des BGH zum Beweisantragsrecht nach Paragraf 244 StPO: Ablehnungsgründe müssen im Einzelfall tragfähig subsumiert und revisionsfest begründet werden; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert.
-- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat nachvollziehbar geprüft werden können.
-
-## Prüfungsschema in Stufen
-
-1. Urteilsbegründung nach Paragraf 267 StPO: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
-2. Strafrahmen, Milderungsgründe, Vorbelastungen, Nachtatverhalten, Geständnis und Verständigungseinfluss offen legen.
-3. Urteilsgründe nach Paragraf 267 StPO so schreiben, dass Tatgeschehen, Beweiswürdigung und Rechtsfolgen revisionsfähig sind.
-4. Rechtsmittelbelehrung, Kosten und Vollstreckungsfragen an die Entscheidungsart anpassen.
-5. Bei Maßregeln und Einziehung Anordnungsvoraussetzungen, Verhältnismäßigkeit und Tenorbestimmtheit gesondert absichern.
-
-## Typische Fallstricke
-
-- Besetzungsrügen und Mitteilungen nach Paragraf 243 StPO werden zu spät bedacht.
-- Verständigungsgespraeche werden nicht vollständig protokolliert.
-- Mordmerkmale oder Rücktrittsfragen werden erst in der Strafzumessung behandelt.
-- Beratungs- und Aktengeheimnis nach Paragraf 353b StGB und Paragraf 43 DRiG begrenzen jede Werkzeugnutzung.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Es soll Beweis erhoben werden über [Beweisthema] durch Vernehmung des Zeugen [Name] und durch Verlesung der Urkunde [Bezeichnung], soweit die gesetzlichen Voraussetzungen vorliegen.
-```
-
-### Baustein B
-
-```text
-Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus tatsächlichen Gründen für die Entscheidung ohne Bedeutung ist; die Kammer stützt dies auf [konkrete Erwägung].
-```
-
-## Benachbarte Skills
-
-- **Davor**: `06-massnahmen-paragraf-61-stgb` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis zur Urteilsbegründung nach Paragraf 267 StPO trägt.
-- **Danach**: `08-berufung-strafkammer` - Folgeskill nutzen, sobald die Urteilsbegründung nach Paragraf 267 StPO entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Landgericht Strafkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Eröffnungsentscheidung, Hauptverhandlungsplan, Beschluss oder Strafurteil; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 74, 76 GVG sowie Paragrafen 199, 203, 229, 244, 257c, 261, 267 StPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+Feststellungen, Beweiswürdigung und rechtliche Würdigung werden getrennt geschrieben. Jede entscheidende Tatsache braucht ein eingeführtes Beweismittel oder eine tragfähige Würdigungslinie.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 
@@ -234,7 +201,7 @@ Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Ei
 
 ## Skill: `99-finale-entscheidung-volltext`
 
-_Wenn es um Finale Entscheidung als Volltext (Urteil Strafkammer) in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Finale Entscheidung als Volltext (Urteil Strafkammer): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Finale Entscheidung als Volltext (Urteil Strafkammer)
 
@@ -339,9 +306,96 @@ Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Ei
 
 ---
 
+## Skill: `07-urteilsbegruendung-paragraf-267-lg`
+
+_Für 07 Urteilsbegründung nach Paragraf 267 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# 07 Urteilsbegründung nach Paragraf 267 StPO
+
+## Zweck
+
+Urteilsgründe nach Paragraf 267 StPO bei umfangreichen Strafverfahren: persönliche Verhältnisse, Tatfeststellungen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Maßregeln, Einziehung und Nebenentscheidungen.
+
+## Rolle
+
+
+Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf 74 GVG: Schwurgericht, Wirtschaftsstrafkammer, große Strafkammer; Berufungsstrafkammer Paragraf 74 Abs. 3 GVG). Schwerkriminalität, Wirtschaftsdelikte, Berufung gegen AG-Urteile.
+
+## Rechtsrahmen
+
+StGB, StPO, GVG, JGG, BZRG, RVG
+
+## Pflichtschritte
+
+1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
+2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
+3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
+4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
+5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+## Anker-Rechtsprechung
+
+- BGH, Urteil vom 30.07.1999 - 1 StR 618/98, BGHSt 45, 164: Wird ausnahmsweise ein aussagepsychologisches Glaubhaftigkeitsgutachten eingeholt, muss es hypothesengeleitet, transparent und nach dem wissenschaftlichen Methodenstand alternative Entstehungserklärungen prüfen; kein allgemeiner Aussage-gegen-Aussage-Anker.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung und revisionsfähige Kontrolle.
+- Ständige Rechtsprechung des BGH zum Beweisantragsrecht nach Paragraf 244 StPO: Ablehnungsgründe müssen im Einzelfall tragfähig subsumiert und revisionsfest begründet werden; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert.
+- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat nachvollziehbar geprüft werden können.
+
+## Prüfungsschema in Stufen
+
+1. Urteilsbegründung nach Paragraf 267 StPO: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
+2. Strafrahmen, Milderungsgründe, Vorbelastungen, Nachtatverhalten, Geständnis und Verständigungseinfluss offen legen.
+3. Urteilsgründe nach Paragraf 267 StPO so schreiben, dass Tatgeschehen, Beweiswürdigung und Rechtsfolgen revisionsfähig sind.
+4. Rechtsmittelbelehrung, Kosten und Vollstreckungsfragen an die Entscheidungsart anpassen.
+5. Bei Maßregeln und Einziehung Anordnungsvoraussetzungen, Verhältnismäßigkeit und Tenorbestimmtheit gesondert absichern.
+
+## Typische Fallstricke
+
+- Besetzungsrügen und Mitteilungen nach Paragraf 243 StPO werden zu spät bedacht.
+- Verständigungsgespraeche werden nicht vollständig protokolliert.
+- Mordmerkmale oder Rücktrittsfragen werden erst in der Strafzumessung behandelt.
+- Beratungs- und Aktengeheimnis nach Paragraf 353b StGB und Paragraf 43 DRiG begrenzen jede Werkzeugnutzung.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Es soll Beweis erhoben werden über [Beweisthema] durch Vernehmung des Zeugen [Name] und durch Verlesung der Urkunde [Bezeichnung], soweit die gesetzlichen Voraussetzungen vorliegen.
+```
+
+### Baustein B
+
+```text
+Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus tatsächlichen Gründen für die Entscheidung ohne Bedeutung ist; die Kammer stützt dies auf [konkrete Erwägung].
+```
+
+## Benachbarte Skills
+
+- **Davor**: `06-massnahmen-paragraf-61-stgb` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis zur Urteilsbegründung nach Paragraf 267 StPO trägt.
+- **Danach**: `08-berufung-strafkammer` - Folgeskill nutzen, sobald die Urteilsbegründung nach Paragraf 267 StPO entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Landgericht Strafkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Eröffnungsentscheidung, Hauptverhandlungsplan, Beschluss oder Strafurteil; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 74, 76 GVG sowie Paragrafen 199, 203, 229, 244, 257c, 261, 267 StPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Einlassung, Beweismittel, rechtlicher Würdigung und Rechtsfolgenfrage. Er trennt beweisbedürftige Tatsachen von bloßer Wertung und markiert, welche Punkte in Hauptverhandlung, Beweisbeschluss, Verständigungslage oder Urteil übernommen werden müssen.
+
+---
+
 ## Skill: `10-entscheidungsvorschlag-strafkammer`
 
-_Wenn es um 10 Entscheidungsvorschlag Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für 10 Entscheidungsvorschlag Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # 10 Entscheidungsvorschlag Strafkammer
 
@@ -426,9 +480,125 @@ Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Ei
 
 ---
 
+## Skill: `09-rechtsmittelbelehrung-strafkammer`
+
+_Für 09 Rechtsmittelbelehrung Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# 09 Rechtsmittelbelehrung Strafkammer
+
+## Zweck
+
+Tenor Strafkammer, Rechtsmittelbelehrung Revision Paragrafen 333 ff. StPO, Annahmeberufung, Frist, Form, Begründungserfordernis Paragraf 344 StPO
+
+## Rolle
+
+
+Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf 74 GVG: Schwurgericht, Wirtschaftsstrafkammer, große Strafkammer; Berufungsstrafkammer Paragraf 74 Abs. 3 GVG). Schwerkriminalität, Wirtschaftsdelikte, Berufung gegen AG-Urteile.
+
+## Rechtsrahmen
+
+StGB, StPO, GVG, JGG, BZRG, RVG
+
+## Pflichtschritte
+
+1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
+2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
+3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
+4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
+5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+## Anker-Rechtsprechung
+
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung und revisionsfähige Kontrolle.
+- Ständige Rechtsprechung des BGH zum Beweisantragsrecht nach Paragraf 244 StPO: Ablehnungsgründe müssen im Einzelfall tragfähig subsumiert und revisionsfest begründet werden; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert.
+- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat nachvollziehbar geprüft werden können.
+
+## Prüfungsschema in Stufen
+
+1. Rechtsmittelbelehrung Strafkammer: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
+2. Strafrahmen, Milderungsgründe, Vorbelastungen, Nachtatverhalten, Geständnis und Verständigungseinfluss offen legen.
+3. Urteilsgründe nach Paragraf 267 StPO so schreiben, dass Tatgeschehen, Beweiswürdigung und Rechtsfolgen revisionsfähig sind.
+4. Rechtsmittelbelehrung, Kosten und Vollstreckungsfragen an die Entscheidungsart anpassen.
+5. Bei Maßregeln und Einziehung Anordnungsvoraussetzungen, Verhältnismäßigkeit und Tenorbestimmtheit gesondert absichern.
+
+## Typische Fallstricke
+
+- Besetzungsrügen und Mitteilungen nach Paragraf 243 StPO werden zu spät bedacht.
+- Verständigungsgespraeche werden nicht vollständig protokolliert.
+- Mordmerkmale oder Rücktrittsfragen werden erst in der Strafzumessung behandelt.
+- Beratungs- und Aktengeheimnis nach Paragraf 353b StGB und Paragraf 43 DRiG begrenzen jede Werkzeugnutzung.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Es soll Beweis erhoben werden über [Beweisthema] durch Vernehmung des Zeugen [Name] und durch Verlesung der Urkunde [Bezeichnung], soweit die gesetzlichen Voraussetzungen vorliegen.
+```
+
+### Baustein B
+
+```text
+Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus tatsächlichen Gründen für die Entscheidung ohne Bedeutung ist; die Kammer stützt dies auf [konkrete Erwägung].
+```
+
+## Benachbarte Skills
+
+- **Davor**: `08-berufung-strafkammer` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Rechtsmittelbelehrung Strafkammer trägt.
+- **Danach**: `10-entscheidungsvorschlag-strafkammer` - Folgeskill nutzen, sobald Rechtsmittelbelehrung Strafkammer entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Landgericht Strafkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Eröffnungsentscheidung, Hauptverhandlungsplan, Beschluss oder Strafurteil; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 74, 76 GVG sowie Paragrafen 199, 203, 229, 244, 257c, 261, 267 StPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Einlassung, Beweismittel, rechtlicher Würdigung und Rechtsfolgenfrage. Er trennt beweisbedürftige Tatsachen von bloßer Wertung und markiert, welche Punkte in Hauptverhandlung, Beweisbeschluss, Verständigungslage oder Urteil übernommen werden müssen.
+
+---
+
+## Skill: `v392-praxisraster-richter-landgericht-strafkammer`
+
+_Für Praxisraster Landgericht Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Praxisraster Landgericht Strafkammer
+
+## Einsatz
+
+Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch oder Ermittlungsstand ein gerichtliches oder staatsanwaltschaftliches Arbeitsprodukt entstehen soll.
+
+## Raster
+
+1. Verfahrensstand und Zuständigkeit bestimmen.
+2. Prozess- oder Verfahrensvoraussetzungen prüfen.
+3. Entscheidungserhebliche Tatsachen von Randstoff trennen.
+4. Vortrag, Ermittlungsstand, Beweisangebote und Beweislast ordnen.
+5. Tragende Normen und Gegenposition knapp würdigen.
+6. Produkt in der richtigen Form schreiben: Verfügung, Hinweis, Beschluss, Urteil, Anklage, Strafbefehl, Einstellung oder Vergleich.
+7. Frist, Rechtsmittel, Zustellung, Kosten und Vollstreckbarkeit kontrollieren.
+
+## Pflichtanker
+
+StPO Paragraf 199, 203, 207, 244, 257c, 261 und 267. Schwerpunkt sind Eröffnungsbeschluss, Besetzung, Verständigung, Beweisaufnahme, umfangreiche Beweiswürdigung, Strafzumessung und revisionsfeste Gründe.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Einlassung, Beweismittel, rechtlicher Würdigung und Rechtsfolgenfrage. Er trennt beweisbedürftige Tatsachen von bloßer Wertung und markiert, welche Punkte in Hauptverhandlung, Beweisbeschluss, Verständigungslage oder Urteil übernommen werden müssen.
+
+---
+
 ## Skill: `05-strafzumessung-grosse-strafkammer`
 
-_Wenn es um 05 Strafzumessung Große Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für 05 Strafzumessung Große Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # 05 Strafzumessung Große Strafkammer
 
@@ -516,190 +686,9 @@ Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Ei
 
 ---
 
-## Skill: `06-massnahmen-paragraf-61-stgb`
-
-_Wenn es um 06 Maßnahmen Paragraf 61 Stgb in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# 06 Maßnahmen Paragraf 61 Stgb
-
-## Zweck
-
-Maßnahmen der Besserung und Sicherung Paragraf 61 StGB: Unterbringung im psychiatrischen Krankenhaus Paragraf 63, Entziehungsanstalt Paragraf 64, Sicherungsverwahrung Paragraf 66, Fuehrungsaufsicht
-
-## Rolle
-
-
-Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf 74 GVG: Schwurgericht, Wirtschaftsstrafkammer, große Strafkammer; Berufungsstrafkammer Paragraf 74 Abs. 3 GVG). Schwerkriminalität, Wirtschaftsdelikte, Berufung gegen AG-Urteile.
-
-## Rechtsrahmen
-
-StGB, StPO, GVG, JGG, BZRG, RVG
-
-## Pflichtschritte
-
-1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
-2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
-3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
-4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
-5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung und revisionsfähige Kontrolle.
-- Ständige Rechtsprechung des BGH zum Beweisantragsrecht nach Paragraf 244 StPO: Ablehnungsgründe müssen im Einzelfall tragfähig subsumiert und revisionsfest begründet werden; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert.
-- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat nachvollziehbar geprüft werden können.
-
-## Prüfungsschema in Stufen
-
-1. Maßnahmen Paragraf 61 Stgb: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
-2. Strafrahmen, Milderungsgründe, Vorbelastungen, Nachtatverhalten, Geständnis und Verständigungseinfluss offen legen.
-3. Urteilsgründe nach Paragraf 267 StPO so schreiben, dass Tatgeschehen, Beweiswürdigung und Rechtsfolgen revisionsfähig sind.
-4. Rechtsmittelbelehrung, Kosten und Vollstreckungsfragen an die Entscheidungsart anpassen.
-5. Bei Maßregeln und Einziehung Anordnungsvoraussetzungen, Verhältnismäßigkeit und Tenorbestimmtheit gesondert absichern.
-
-## Typische Fallstricke
-
-- Besetzungsrügen und Mitteilungen nach Paragraf 243 StPO werden zu spät bedacht.
-- Verständigungsgespraeche werden nicht vollständig protokolliert.
-- Mordmerkmale oder Rücktrittsfragen werden erst in der Strafzumessung behandelt.
-- Beratungs- und Aktengeheimnis nach Paragraf 353b StGB und Paragraf 43 DRiG begrenzen jede Werkzeugnutzung.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Es soll Beweis erhoben werden über [Beweisthema] durch Vernehmung des Zeugen [Name] und durch Verlesung der Urkunde [Bezeichnung], soweit die gesetzlichen Voraussetzungen vorliegen.
-```
-
-### Baustein B
-
-```text
-Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus tatsächlichen Gründen für die Entscheidung ohne Bedeutung ist; die Kammer stützt dies auf [konkrete Erwägung].
-```
-
-## Benachbarte Skills
-
-- **Davor**: `05-strafzumessung-grosse-strafkammer` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Maßnahmen Paragraf 61 Stgb trägt.
-- **Danach**: `07-urteilsbegruendung-paragraf-267-lg` - Folgeskill nutzen, sobald Maßnahmen Paragraf 61 Stgb entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Landgericht Strafkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Eröffnungsentscheidung, Hauptverhandlungsplan, Beschluss oder Strafurteil; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 74, 76 GVG sowie Paragrafen 199, 203, 229, 244, 257c, 261, 267 StPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Einlassung, Beweismittel, rechtlicher Würdigung und Rechtsfolgenfrage. Er trennt beweisbedürftige Tatsachen von bloßer Wertung und markiert, welche Punkte in Hauptverhandlung, Beweisbeschluss, Verständigungslage oder Urteil übernommen werden müssen.
-
----
-
-## Skill: `08-berufung-strafkammer`
-
-_Wenn es um 08 Berufung Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# 08 Berufung Strafkammer
-
-## Zweck
-
-Berufung gegen Amtsgerichtsurteil (Kleine Strafkammer Paragraf 76 GVG), Prüfungsumfang Paragraf 327 StPO, Tatsacheninstanz, Verbot der Schlechterstellung Paragraf 331 StPO
-
-## Rolle
-
-
-Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf 74 GVG: Schwurgericht, Wirtschaftsstrafkammer, große Strafkammer; Berufungsstrafkammer Paragraf 74 Abs. 3 GVG). Schwerkriminalität, Wirtschaftsdelikte, Berufung gegen AG-Urteile.
-
-## Rechtsrahmen
-
-StGB, StPO, GVG, JGG, BZRG, RVG
-
-## Pflichtschritte
-
-1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
-2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
-3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
-4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
-5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Anker-Rechtsprechung
-
-- BGH, Urteil vom 30.07.1999 - 1 StR 618/98, BGHSt 45, 164: Wird ausnahmsweise ein aussagepsychologisches Glaubhaftigkeitsgutachten eingeholt, muss es hypothesengeleitet, transparent und nach dem wissenschaftlichen Methodenstand alternative Entstehungserklärungen prüfen; kein allgemeiner Aussage-gegen-Aussage-Anker.
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung und revisionsfähige Kontrolle.
-- Ständige Rechtsprechung des BGH zum Beweisantragsrecht nach Paragraf 244 StPO: Ablehnungsgründe müssen im Einzelfall tragfähig subsumiert und revisionsfest begründet werden; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert.
-- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat nachvollziehbar geprüft werden können.
-
-## Prüfungsschema in Stufen
-
-1. Berufung Strafkammer: Prüfen, ob die gewählte Verfahrensart gesetzlich eröffnet und angesichts Tatvorwurf, Beweislage und Rechtsfolge angemessen ist.
-2. Strafbefehl, beschleunigtes Verfahren oder Berufungskammer nur nutzen, wenn Zuständigkeit, Ladungsfristen und Verteidigungsrechte gesichert sind.
-3. Einspruch, Beschränkung, Säumnis und Rücknahmefolgen in die Terminverfügung aufnehmen.
-4. Beweisaufnahme auf das verfahrensspezifisch Erforderliche konzentrieren, ohne Aufklärungspflicht zu verkürzen.
-5. Entscheidung und Rechtsmittelbelehrung an die konkrete Verfahrenslage anpassen.
-
-## Typische Fallstricke
-
-- Besetzungsrügen und Mitteilungen nach Paragraf 243 StPO werden zu spät bedacht.
-- Verständigungsgespraeche werden nicht vollständig protokolliert.
-- Mordmerkmale oder Rücktrittsfragen werden erst in der Strafzumessung behandelt.
-- Beratungs- und Aktengeheimnis nach Paragraf 353b StGB und Paragraf 43 DRiG begrenzen jede Werkzeugnutzung.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Es soll Beweis erhoben werden über [Beweisthema] durch Vernehmung des Zeugen [Name] und durch Verlesung der Urkunde [Bezeichnung], soweit die gesetzlichen Voraussetzungen vorliegen.
-```
-
-### Baustein B
-
-```text
-Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus tatsächlichen Gründen für die Entscheidung ohne Bedeutung ist; die Kammer stützt dies auf [konkrete Erwägung].
-```
-
-## Benachbarte Skills
-
-- **Davor**: `07-urteilsbegruendung-paragraf-267-lg` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Berufung Strafkammer trägt.
-- **Danach**: `09-rechtsmittelbelehrung-strafkammer` - Folgeskill nutzen, sobald Berufung Strafkammer entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Landgericht Strafkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Eröffnungsentscheidung, Hauptverhandlungsplan, Beschluss oder Strafurteil; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 74, 76 GVG sowie Paragrafen 199, 203, 229, 244, 257c, 261, 267 StPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Einlassung, Beweismittel, rechtlicher Würdigung und Rechtsfolgenfrage. Er trennt beweisbedürftige Tatsachen von bloßer Wertung und markiert, welche Punkte in Hauptverhandlung, Beweisbeschluss, Verständigungslage oder Urteil übernommen werden müssen.
-
----
-
 ## Skill: `01-eroeffnungsverfahren-strafkammer`
 
-_Wenn es um 01 Eröffnungsverfahren Strafkammer in Strafkammer am Landgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für 01 Eröffnungsverfahren Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # 01 Eröffnungsverfahren Strafkammer
 
@@ -811,7 +800,7 @@ Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Ei
 
 ## Skill: `02-hauptverhandlung-grosse-strafkammer`
 
-_Wenn es um 02 Hauptverhandlung Große Strafkammer in Strafkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
+_Für 02 Hauptverhandlung Große Strafkammer: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie._
 
 # 02 Hauptverhandlung Große Strafkammer
 
@@ -896,99 +885,15 @@ Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Ei
 
 ---
 
-## Skill: `prozessuale-kniffe-und-rechtsprechungsanker`
+## Skill: `06-massnahmen-paragraf-61-stgb`
 
-_Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Strafkammer am Landgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für 06 Maßnahmen Paragraf 61 Stgb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Prozessuale Kniffe und Rechtsprechungsanker
-
-Nutze diesen Skill, wenn die Hauptverhandlung aktiv, fair und revisionsfest geführt werden soll. Der Skill hilft bei Beweisanträgen, Hinweisen, Verständigung, Vorhalten, Einziehung, Strafzumessung und Urteilsgründen.
-
-## Leitanker
-
-- Paragraf 244 StPO: Aufklärungspflicht und Beweisantragsrecht sauber trennen.
-- Paragraf 261 StPO: Überzeugungsbildung nur aus dem Inbegriff der Hauptverhandlung.
-- Paragraf 265 StPO: rechtlicher Hinweis bei veränderter rechtlicher oder tatsächlicher Bewertung.
-- Paragraf 257c StPO: Verständigung nur transparent, protokolliert und ohne Aufgabe der Wahrheitsermittlung.
-- Paragraf 267 StPO: Urteilsgründe müssen Feststellungen, Beweiswürdigung und rechtliche Würdigung tragen.
-- BVerfG, 19.03.2013 - 2 BvR 2628/10: Verständigungspraxis braucht Transparenz, Dokumentation und Kontrolle.
-
-## Hauptverhandlungs-Kniffe
-
-| Lage | Kniff | Fehlerbremse |
-| --- | --- | --- |
-| Verteidigung stellt Beweisantrag | Beweistatsache, Bedeutung und Ablehnungsgrund laut prüfen | kein bloßer Reflexbeschluss |
-| rechtliche Umwertung droht | Hinweis nach Paragraf 265 StPO mit Gelegenheit zur Verteidigung | keine Überraschung |
-| Einlassung wechselt | Widerspruch über Vorhalt sauber einführen | Inbegriff sichern |
-| Verständigung im Raum | Transparenz, Protokoll, Belehrung, keine informelle Nebenabrede | Revisionsfalle |
-| Strafzumessung | bestimmende Umstände pro und contra ausformulieren | Doppelverwertung vermeiden |
-
-## Arbeitsmodus
-
-1. Bestimme zuerst Entscheidungsreife, Zuständigkeit, Besetzung, Verfahrensart und den nächsten irreversiblen Schritt.
-2. Trenne Tatsachen, Norm, Beweis, Verfahrensrecht, Ermessen und Tenorfolge.
-3. Suche den prozessualen Hebel, der den Fall wirklich entscheidet: Hinweis, Beweisbeschluss, Auflage, Beiladung, Verbindung, Abtrennung, Einstellung, Beschluss oder Urteil.
-4. Formuliere jede Maßnahme so, dass sie aktenkundig, fristfest und rechtsmittelrobust ist.
-5. Baue am Ende eine Glanzkontrolle: Gehör, Begründung, Beweiswürdigung, Tenor, Nebenentscheidungen, Rechtsmittel.
-
-## Output-Matrix
-
-| Kniff | Normanker | Aktenbeleg | Risiko | Formulierung | nächster Schritt |
-| --- | --- | --- | --- | --- | --- |
-| Hinweis | | | Überraschung | | |
-| Beweis | | | Lücke | | |
-| Verfahrensleitung | | | Verzögerung | | |
-| Entscheidung | | | Rechtsmittel | | |
-
-## Urteilsanker
-
-Feststellungen, Beweiswürdigung und rechtliche Würdigung werden getrennt geschrieben. Jede entscheidende Tatsache braucht ein eingeführtes Beweismittel oder eine tragfähige Würdigungslinie.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Einlassung, Beweismittel, rechtlicher Würdigung und Rechtsfolgenfrage. Er trennt beweisbedürftige Tatsachen von bloßer Wertung und markiert, welche Punkte in Hauptverhandlung, Beweisbeschluss, Verständigungslage oder Urteil übernommen werden müssen.
-
----
-
-## Skill: `v392-praxisraster-richter-landgericht-strafkammer`
-
-_Wenn es um Praxisraster Landgericht Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix._
-
-# Praxisraster Landgericht Strafkammer
-
-## Einsatz
-
-Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch oder Ermittlungsstand ein gerichtliches oder staatsanwaltschaftliches Arbeitsprodukt entstehen soll.
-
-## Raster
-
-1. Verfahrensstand und Zuständigkeit bestimmen.
-2. Prozess- oder Verfahrensvoraussetzungen prüfen.
-3. Entscheidungserhebliche Tatsachen von Randstoff trennen.
-4. Vortrag, Ermittlungsstand, Beweisangebote und Beweislast ordnen.
-5. Tragende Normen und Gegenposition knapp würdigen.
-6. Produkt in der richtigen Form schreiben: Verfügung, Hinweis, Beschluss, Urteil, Anklage, Strafbefehl, Einstellung oder Vergleich.
-7. Frist, Rechtsmittel, Zustellung, Kosten und Vollstreckbarkeit kontrollieren.
-
-## Pflichtanker
-
-StPO Paragraf 199, 203, 207, 244, 257c, 261 und 267. Schwerpunkt sind Eröffnungsbeschluss, Besetzung, Verständigung, Beweisaufnahme, umfangreiche Beweiswürdigung, Strafzumessung und revisionsfeste Gründe.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Einlassung, Beweismittel, rechtlicher Würdigung und Rechtsfolgenfrage. Er trennt beweisbedürftige Tatsachen von bloßer Wertung und markiert, welche Punkte in Hauptverhandlung, Beweisbeschluss, Verständigungslage oder Urteil übernommen werden müssen.
-
----
-
-## Skill: `09-rechtsmittelbelehrung-strafkammer`
-
-_Wenn es um 09 Rechtsmittelbelehrung Strafkammer in Strafkammer am Landgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# 09 Rechtsmittelbelehrung Strafkammer
+# 06 Maßnahmen Paragraf 61 Stgb
 
 ## Zweck
 
-Tenor Strafkammer, Rechtsmittelbelehrung Revision Paragrafen 333 ff. StPO, Annahmeberufung, Frist, Form, Begründungserfordernis Paragraf 344 StPO
+Maßnahmen der Besserung und Sicherung Paragraf 61 StGB: Unterbringung im psychiatrischen Krankenhaus Paragraf 63, Entziehungsanstalt Paragraf 64, Sicherungsverwahrung Paragraf 66, Fuehrungsaufsicht
 
 ## Rolle
 
@@ -1021,7 +926,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Rechtsmittelbelehrung Strafkammer: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
+1. Maßnahmen Paragraf 61 Stgb: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
 2. Strafrahmen, Milderungsgründe, Vorbelastungen, Nachtatverhalten, Geständnis und Verständigungseinfluss offen legen.
 3. Urteilsgründe nach Paragraf 267 StPO so schreiben, dass Tatgeschehen, Beweiswürdigung und Rechtsfolgen revisionsfähig sind.
 4. Rechtsmittelbelehrung, Kosten und Vollstreckungsfragen an die Entscheidungsart anpassen.
@@ -1050,8 +955,8 @@ Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus ta
 
 ## Benachbarte Skills
 
-- **Davor**: `08-berufung-strafkammer` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Rechtsmittelbelehrung Strafkammer trägt.
-- **Danach**: `10-entscheidungsvorschlag-strafkammer` - Folgeskill nutzen, sobald Rechtsmittelbelehrung Strafkammer entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `05-strafzumessung-grosse-strafkammer` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Maßnahmen Paragraf 61 Stgb trägt.
+- **Danach**: `07-urteilsbegruendung-paragraf-267-lg` - Folgeskill nutzen, sobald Maßnahmen Paragraf 61 Stgb entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ## Gerichtliche Arbeitsprodukt-Schärfung
 
@@ -1068,7 +973,7 @@ Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Ei
 
 ## Skill: `03-beweisantraege-und-ablehnung`
 
-_Wenn es um 03 Beweisantraege und Ablehnung in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix._
+_Für 03 Beweisanträge und Ablehnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix._
 
 # 03 Beweisantraege und Ablehnung
 
@@ -1163,7 +1068,7 @@ Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Ei
 
 ## Skill: `04-beweiswuerdigung-strafkammer`
 
-_Wenn es um 04 Beweiswürdigung Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix._
+_Für 04 Beweiswürdigung Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix._
 
 # 04 Beweiswürdigung Strafkammer
 
@@ -1244,6 +1149,101 @@ Die Kammer hat sich nach Ausschöpfung aller Beweismittel nicht mit der für ein
 
 - **Davor**: `03-beweisantraege-und-ablehnung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beweiswürdigung Strafkammer trägt.
 - **Danach**: `05-strafzumessung-grosse-strafkammer` - Folgeskill nutzen, sobald Beweiswürdigung Strafkammer entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Landgericht Strafkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Eröffnungsentscheidung, Hauptverhandlungsplan, Beschluss oder Strafurteil; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 74, 76 GVG sowie Paragrafen 199, 203, 229, 244, 257c, 261, 267 StPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Einlassung, Beweismittel, rechtlicher Würdigung und Rechtsfolgenfrage. Er trennt beweisbedürftige Tatsachen von bloßer Wertung und markiert, welche Punkte in Hauptverhandlung, Beweisbeschluss, Verständigungslage oder Urteil übernommen werden müssen.
+
+---
+
+## Skill: `08-berufung-strafkammer`
+
+_Für 08 Berufung Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# 08 Berufung Strafkammer
+
+## Zweck
+
+Berufung gegen Amtsgerichtsurteil (Kleine Strafkammer Paragraf 76 GVG), Prüfungsumfang Paragraf 327 StPO, Tatsacheninstanz, Verbot der Schlechterstellung Paragraf 331 StPO
+
+## Rolle
+
+
+Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf 74 GVG: Schwurgericht, Wirtschaftsstrafkammer, große Strafkammer; Berufungsstrafkammer Paragraf 74 Abs. 3 GVG). Schwerkriminalität, Wirtschaftsdelikte, Berufung gegen AG-Urteile.
+
+## Rechtsrahmen
+
+StGB, StPO, GVG, JGG, BZRG, RVG
+
+## Pflichtschritte
+
+1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
+2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
+3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
+4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
+5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Anker-Rechtsprechung
+
+- BGH, Urteil vom 30.07.1999 - 1 StR 618/98, BGHSt 45, 164: Wird ausnahmsweise ein aussagepsychologisches Glaubhaftigkeitsgutachten eingeholt, muss es hypothesengeleitet, transparent und nach dem wissenschaftlichen Methodenstand alternative Entstehungserklärungen prüfen; kein allgemeiner Aussage-gegen-Aussage-Anker.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung und revisionsfähige Kontrolle.
+- Ständige Rechtsprechung des BGH zum Beweisantragsrecht nach Paragraf 244 StPO: Ablehnungsgründe müssen im Einzelfall tragfähig subsumiert und revisionsfest begründet werden; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert.
+- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat nachvollziehbar geprüft werden können.
+
+## Prüfungsschema in Stufen
+
+1. Berufung Strafkammer: Prüfen, ob die gewählte Verfahrensart gesetzlich eröffnet und angesichts Tatvorwurf, Beweislage und Rechtsfolge angemessen ist.
+2. Strafbefehl, beschleunigtes Verfahren oder Berufungskammer nur nutzen, wenn Zuständigkeit, Ladungsfristen und Verteidigungsrechte gesichert sind.
+3. Einspruch, Beschränkung, Säumnis und Rücknahmefolgen in die Terminverfügung aufnehmen.
+4. Beweisaufnahme auf das verfahrensspezifisch Erforderliche konzentrieren, ohne Aufklärungspflicht zu verkürzen.
+5. Entscheidung und Rechtsmittelbelehrung an die konkrete Verfahrenslage anpassen.
+
+## Typische Fallstricke
+
+- Besetzungsrügen und Mitteilungen nach Paragraf 243 StPO werden zu spät bedacht.
+- Verständigungsgespraeche werden nicht vollständig protokolliert.
+- Mordmerkmale oder Rücktrittsfragen werden erst in der Strafzumessung behandelt.
+- Beratungs- und Aktengeheimnis nach Paragraf 353b StGB und Paragraf 43 DRiG begrenzen jede Werkzeugnutzung.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Es soll Beweis erhoben werden über [Beweisthema] durch Vernehmung des Zeugen [Name] und durch Verlesung der Urkunde [Bezeichnung], soweit die gesetzlichen Voraussetzungen vorliegen.
+```
+
+### Baustein B
+
+```text
+Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus tatsächlichen Gründen für die Entscheidung ohne Bedeutung ist; die Kammer stützt dies auf [konkrete Erwägung].
+```
+
+## Benachbarte Skills
+
+- **Davor**: `07-urteilsbegruendung-paragraf-267-lg` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Berufung Strafkammer trägt.
+- **Danach**: `09-rechtsmittelbelehrung-strafkammer` - Folgeskill nutzen, sobald Berufung Strafkammer entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ## Gerichtliche Arbeitsprodukt-Schärfung
 

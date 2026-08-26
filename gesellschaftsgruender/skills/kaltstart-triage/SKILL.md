@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Gesellschaftsgründer Allgemein — leichter Kaltstart in gesellschaftsgründer — Gründungsassistent für deutsche geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschaftsgründer Allgemein — leichter Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschaftsgründer Allgemein — leichter Kaltstart

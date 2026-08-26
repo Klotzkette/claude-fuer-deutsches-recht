@@ -1,6 +1,6 @@
 ---
 name: sanktionen-und-mandatsannahme-kammerantwort-und-verfahren
-description: "Wenn es um Sanktionen Und Mandatsannahme Kammerantwort Und Verfahren in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Sanktionen und Mandatsannahme Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: sanktionen und mandatsannahme - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

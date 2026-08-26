@@ -1,6 +1,6 @@
 ---
 name: meeting-creditors-341
-description: "Wenn es um Meeting of Creditors Paragraf 341 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Meeting of Creditors Paragraf 341: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Meeting of Creditors § 341

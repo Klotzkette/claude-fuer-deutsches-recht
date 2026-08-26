@@ -1,6 +1,6 @@
 ---
 name: treuhandprivatisierung-chronologie-bau
-description: "Wenn es um Treuhandprivatisierung Chronologie Bau in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Treuhandprivatisierung Chronologie Bau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Treuhandprivatisierung Chronologie Bau

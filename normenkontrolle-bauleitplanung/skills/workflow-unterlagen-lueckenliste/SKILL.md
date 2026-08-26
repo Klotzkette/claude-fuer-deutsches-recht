@@ -1,6 +1,6 @@
 ---
 name: workflow-unterlagen-lueckenliste
-description: "Wenn es um Unterlagen- und Lückenliste in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Unterlagen- und Lückenliste

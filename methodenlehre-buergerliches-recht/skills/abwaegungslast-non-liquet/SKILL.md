@@ -1,6 +1,6 @@
 ---
 name: abwaegungslast-non-liquet
-description: "Wenn es um Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage

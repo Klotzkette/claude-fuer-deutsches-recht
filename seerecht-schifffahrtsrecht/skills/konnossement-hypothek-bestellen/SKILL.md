@@ -1,6 +1,6 @@
 ---
 name: konnossement-hypothek-bestellen
-description: "Wenn es um Konnossement – Schiffshypothek bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konnossement – Schiffshypothek bestellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konnossement – Schiffshypothek bestellen

@@ -1,6 +1,6 @@
 ---
 name: gewr-einstweilige-dpma-spezial-fristen
-description: "Wenn es um GewR: Einstweilige Verfügung – Eilverfahren Spezial in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GewR: Einstweilige Verfügung – Eilverfahren Spezial: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # GewR: Einstweilige Verfügung – Eilverfahren Spezial

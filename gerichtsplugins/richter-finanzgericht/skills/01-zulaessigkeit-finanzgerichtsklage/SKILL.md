@@ -1,6 +1,6 @@
 ---
 name: 01-zulaessigkeit-finanzgerichtsklage
-description: "Wenn es um 01 Zulässigkeit Finanzgerichtsklage in Finanzgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 01 Zulässigkeit Finanzgerichtsklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # 01 Zulässigkeit Finanzgerichtsklage

@@ -8,12 +8,12 @@ Diese Vollprüfung enthält top-8 von 160 Skills (gekürzt für das Arbeitsfenst
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Medizinrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
 2. **medizinprozess-versandmappe-endfertigen** — Endfertigt Arzthaftungs-, Krankenhaus-, Honorar- und medizinische Leistungsprozesse: liest Behandlungsakte, Aufklärung, …
-3. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Medizinrecht in Fachanwalt Medizinrecht geht: klärt Rolle, Ziel, Frist, Unterlag…
-4. **mandat-triage-medizinrecht** — Wenn es um Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate in Fachanwalt Medizinrecht geht: klärt Rolle, Zi…
-5. **fachanwalt-medizinrecht-orientierung** — Wenn es um Fachanwalt für Medizinrecht — Orientierung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit,…
-6. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Recht…
-7. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und…
-8. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Medizinrecht geht: klärt Rolle, Ziel, Fr…
+3. **einstieg-routing** — Für Anwalts-Dashboard Fachanwalt Medizinrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mi…
+4. **mandat-triage-medizinrecht** — Für Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate: routet Rolle, Frist, Unterlagen und Fachschritt; Ergeb…
+5. **orientierung-mandat-fachanwaltschaft** — Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+6. **fachanwalt-medizinrecht-orientierung** — Für Fachanwalt für Medizinrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ris…
+7. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+8. **erstpruefung-und-mandatsziel** — Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: T…
 
 ---
 
@@ -140,7 +140,7 @@ Ausgangspunkt für dieses Plugin: Patient oder Versicherter für Befund, Schaden
 
 ## Skill: `medizinprozess-versandmappe-endfertigen`
 
-_Endfertigt Arzthaftungs-, Krankenhaus-, Honorar- und medizinische Leistungsprozesse: liest Behandlungsakte, Aufklärung, Bildgebung, Befunde, Rechnungen, MD- oder Privatgutachten zuerst, prüft Antrag, Behandlungsverlauf, Fehler, Kausalität und Schaden, erstellt eine medizinische Fundstellenchronik und liefert geschützte beA-Einzeldateien mit Vollständigkeits- und Eingangskontrolle._
+_Endfertigt Arzthaftungs-, Krankenhaus-, Honorar- und medizinische Leistungsprozesse: liest Behandlungsakte, Aufklärung, Bildgebung, Befunde, Rechnungen, MD- oder Privatgutachten zuerst, prüft Antrag, Behandlungsverlauf, Fehler, Kausalität und Schaden, erstellt eine medizinische Fundstellenchronik und liefert geschützte beA-Einzeldateien mit._
 
 # Medizinprozess-Versandmappe endfertigen
 
@@ -162,7 +162,7 @@ Liefere Schriftsatz, Einzelanlagen, medizinische Chronik, Fehler-Kausalitäts-Ma
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Anwalts-Dashboard Fachanwalt Medizinrecht in Fachanwalt Medizinrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Anwalts-Dashboard Fachanwalt Medizinrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Anwalts-Dashboard Fachanwalt Medizinrecht
 
@@ -228,7 +228,7 @@ Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Man
 
 ## Skill: `mandat-triage-medizinrecht`
 
-_Wenn es um Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate in Fachanwalt Medizinrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate
 
@@ -400,128 +400,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ---
 
-## Skill: `fachanwalt-medizinrecht-orientierung`
-
-_Wenn es um Fachanwalt für Medizinrecht — Orientierung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Fachanwalt für Medizinrecht — Orientierung
-
-## FAO-Voraussetzungen
-
-- Lehrgang 120 Stunden + drei Klausuren.
-- 60 Fälle in den letzten drei Jahren, davon mindestens 15 streitige.
-
-## Wichtige Normen
-
-| Bereich | Norm |
-|---|---|
-| Patientenrechte | §§ 630a–630h BGB (Behandlungsvertrag Aufklärung Dokumentation Beweislast) |
-| Schadensrecht | §§ 249 ff. BGB §§ 823 ff. BGB Schmerzensgeld § 253 BGB |
-| Krankenversicherung | SGB V §§ 27 ff. (Leistungen) §§ 73 ff. (Vertragsärzte) |
-| Pflegeversicherung | SGB XI |
-| Berufsrecht Ärzte | Berufsordnung der Ärztekammern Heilberufsgesetze der Länder |
-| Krankenhaus | KHG KHEntgG |
-| Medizinprodukte | MPDG (EU-MDR) |
-| Apothekenrecht | ApoG ApBetrO Arzneimittelgesetz AMG |
-
-## Typische Mandate
-
-- Arzthaftung (Behandlungsfehler Aufklärungsfehler Dokumentationsmangel)
-- Patientenanspruch auf Krankenversicherung-Leistungen (siehe `fachanwalt-sozialrecht`)
-- Vertragsarztrecht (Zulassung Disziplinar Wirtschaftlichkeitsprüfung)
-- Ärztliche Berufsrechtsverfahren
-- Krankenhaus-Abrechnungsstreit (DRG)
-- Medizinprodukteanmeldung Marktüberwachung
-- Pflegeheim und Heimvertrag
-
-## Fristen
-
-- **Verjährung Schadensersatz Arzthaftung** regelmäßig drei Jahre ab Kenntnis (§ 195 BGB) Höchstfrist zehn Jahre (§ 199 Abs. 2 BGB).
-- **Widerspruchsfrist Krankenkasse** ein Monat (§ 84 SGG).
-- **Beschwerdefristen Ärztekammer** verfahrensrechtlich prüfen.
-- **Vertragsarztzulassung** Klagefrist gegen Beschluss des Zulassungsausschusses ein Monat (§ 96 Abs. 4 SGB V iVm SGG).
-
-## Hauptgerichte
-
-- Sozialgericht (Krankenversicherung).
-- Zivilgericht (Arzthaftung): Landgericht regelmäßig Streitwertgrenze 10.000 EUR (Streitwertgrenze AG ab 01.01.2026).
-- Verwaltungsgericht (Berufsrecht Krankenhausrecht).
-- BGH VI. Zivilsenat (Arzthaftung) und Bundessozialgericht.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Berufsverband
-
-- ARGE Medizinrecht DAV.
-- Deutsche Gesellschaft für Medizinrecht.
-
-## Schnittstellen
-
-- **fachanwalt-sozialrecht** bei SGB V SGB XI.
-- **kanzlei-allgemein** Fristen Versand.
-- **fachanwalt-strafrecht** bei Vorwurf Behandlungsfehler mit strafrechtlichem Bezug.
-
-## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Paragrafenkette
-
-Arzthaftung: §§ 630a, 630b, 630c, 630d, 630e, 630f, 630g, 630h BGB → § 823 Abs. 1 BGB → § 253 BGB (Schmerzensgeld) → §§ 195, 199 BGB (Verjährung)
-
-Vertragsarztrecht: §§ 95, 87b, 106, 106d, 81 Abs. 5 SGB V → § 51 SGG → §§ 84, 87 SGG
-
-Berufsrecht: § 5 BÄO (Widerruf Approbation) → §§ 6a, 8 BÄO → Heilberufsgesetze der Länder → MBO-Ä
-
-Krankenhausrecht: KHG, KHEntgG, § 108 SGB V (Zulassung) → DRG-Abrechnungsregelungen
-
-Medizinprodukte: MPDG (Umsetzung EU-MDR 2017/745) → § 97 AMG (Arzneimittelhaftung analog)
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-### Fristen-Übersicht
-
-| Mandatstyp | Frist | Norm |
-|---|---|---|
-| Arzthaftungs-Verjährung | 3 Jahre ab Kenntnis | §§ 195, 199 BGB |
-| Arzthaftungs-Höchstfrist (Personenschaden) | 30 Jahre | § 199 Abs. 2 BGB |
-| Widerspruch Krankenkasse / KV | 1 Monat | § 84 SGG |
-| Klage Sozialgericht | 1 Monat nach Widerspruchsbescheid | § 87 SGG |
-| Widerruf Approbation — Widerspruch VwGO | 1 Monat | § 70 VwGO |
-| Klage Verwaltungsgericht (Approbation) | 1 Monat | § 74 VwGO |
-
-## Triage — Sofortprüfung (Fachanwalt Medizinrecht — Orientierung)
-
-1. **Mandantenrolle klären:** Patient (Anspruchsteller), Arzt/Heilberufler (Verteidigungs-Mandat), Krankenhaus, Kasse?
-2. **Sachgebiet identifizieren:**
-   - Arzthaftung → `behandlungsfehler-anspruch-pruefen` oder `aufklaerungsfehler-beweisstrategie`
-   - Vertragsarztrecht → `fachanwalt-medizinrecht-kassenarztrecht`
-   - Approbationsrecht → `fachanwalt-medizinrecht-approbations-widerspruch`
-   - Off-Label / GKV-Leistungsrecht → `fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid`
-   - Schlichtung Ärztekammer → `fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung`
-3. **Eilbedürftigkeit prüfen:**
-   - Approbationsruhensanordnung sofort vollziehbar → Eilantrag § 80 Abs. 5 VwGO / § 86b SGG binnen 24 h.
-   - Verjährung läuft in < 4 Wochen → Hemmungshandlung sofort (Klage, Mahnbescheid, Anmeldung Schlichtungsstelle).
-4. **Rechtsweg bestimmen:** Sozialgericht (Vertragsarzt, KV, GKV), Zivilgericht (Arzthaftung, GOÄ), Verwaltungsgericht (Berufsrecht, Approbation), Landesberufsgericht (Berufsrecht).
-
-**Routing:**
-```
-Sachgebiet?
-├─ Behandlungsfehler / Aufklärung → behandlungsfehler-anspruch-pruefen
-├─ Vertragsarztrecht / KV → fachanwalt-medizinrecht-kassenarztrecht
-├─ Approbation / Widerruf → fachanwalt-medizinrecht-approbations-widerspruch
-├─ GKV-Leistungsstreit → fachanwalt-sozialrecht
-├─ Honorar GOÄ → fachanwalt-medizinrecht-honorarvertrag-kv
-└─ Schlichtung Ärztekammer → fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
 ## Skill: `orientierung-mandat-fachanwaltschaft`
 
-_Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Medizinrecht._
 
 # Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen verifizierbare Quellen
 
@@ -652,9 +533,128 @@ Sachgebiet?
 
 ---
 
+## Skill: `fachanwalt-medizinrecht-orientierung`
+
+_Für Fachanwalt für Medizinrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Fachanwalt für Medizinrecht — Orientierung
+
+## FAO-Voraussetzungen
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 60 Fälle in den letzten drei Jahren, davon mindestens 15 streitige.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| Patientenrechte | §§ 630a–630h BGB (Behandlungsvertrag Aufklärung Dokumentation Beweislast) |
+| Schadensrecht | §§ 249 ff. BGB §§ 823 ff. BGB Schmerzensgeld § 253 BGB |
+| Krankenversicherung | SGB V §§ 27 ff. (Leistungen) §§ 73 ff. (Vertragsärzte) |
+| Pflegeversicherung | SGB XI |
+| Berufsrecht Ärzte | Berufsordnung der Ärztekammern Heilberufsgesetze der Länder |
+| Krankenhaus | KHG KHEntgG |
+| Medizinprodukte | MPDG (EU-MDR) |
+| Apothekenrecht | ApoG ApBetrO Arzneimittelgesetz AMG |
+
+## Typische Mandate
+
+- Arzthaftung (Behandlungsfehler Aufklärungsfehler Dokumentationsmangel)
+- Patientenanspruch auf Krankenversicherung-Leistungen (siehe `fachanwalt-sozialrecht`)
+- Vertragsarztrecht (Zulassung Disziplinar Wirtschaftlichkeitsprüfung)
+- Ärztliche Berufsrechtsverfahren
+- Krankenhaus-Abrechnungsstreit (DRG)
+- Medizinprodukteanmeldung Marktüberwachung
+- Pflegeheim und Heimvertrag
+
+## Fristen
+
+- **Verjährung Schadensersatz Arzthaftung** regelmäßig drei Jahre ab Kenntnis (§ 195 BGB) Höchstfrist zehn Jahre (§ 199 Abs. 2 BGB).
+- **Widerspruchsfrist Krankenkasse** ein Monat (§ 84 SGG).
+- **Beschwerdefristen Ärztekammer** verfahrensrechtlich prüfen.
+- **Vertragsarztzulassung** Klagefrist gegen Beschluss des Zulassungsausschusses ein Monat (§ 96 Abs. 4 SGB V iVm SGG).
+
+## Hauptgerichte
+
+- Sozialgericht (Krankenversicherung).
+- Zivilgericht (Arzthaftung): Landgericht regelmäßig Streitwertgrenze 10.000 EUR (Streitwertgrenze AG ab 01.01.2026).
+- Verwaltungsgericht (Berufsrecht Krankenhausrecht).
+- BGH VI. Zivilsenat (Arzthaftung) und Bundessozialgericht.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- ARGE Medizinrecht DAV.
+- Deutsche Gesellschaft für Medizinrecht.
+
+## Schnittstellen
+
+- **fachanwalt-sozialrecht** bei SGB V SGB XI.
+- **kanzlei-allgemein** Fristen Versand.
+- **fachanwalt-strafrecht** bei Vorwurf Behandlungsfehler mit strafrechtlichem Bezug.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Paragrafenkette
+
+Arzthaftung: §§ 630a, 630b, 630c, 630d, 630e, 630f, 630g, 630h BGB → § 823 Abs. 1 BGB → § 253 BGB (Schmerzensgeld) → §§ 195, 199 BGB (Verjährung)
+
+Vertragsarztrecht: §§ 95, 87b, 106, 106d, 81 Abs. 5 SGB V → § 51 SGG → §§ 84, 87 SGG
+
+Berufsrecht: § 5 BÄO (Widerruf Approbation) → §§ 6a, 8 BÄO → Heilberufsgesetze der Länder → MBO-Ä
+
+Krankenhausrecht: KHG, KHEntgG, § 108 SGB V (Zulassung) → DRG-Abrechnungsregelungen
+
+Medizinprodukte: MPDG (Umsetzung EU-MDR 2017/745) → § 97 AMG (Arzneimittelhaftung analog)
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+### Fristen-Übersicht
+
+| Mandatstyp | Frist | Norm |
+|---|---|---|
+| Arzthaftungs-Verjährung | 3 Jahre ab Kenntnis | §§ 195, 199 BGB |
+| Arzthaftungs-Höchstfrist (Personenschaden) | 30 Jahre | § 199 Abs. 2 BGB |
+| Widerspruch Krankenkasse / KV | 1 Monat | § 84 SGG |
+| Klage Sozialgericht | 1 Monat nach Widerspruchsbescheid | § 87 SGG |
+| Widerruf Approbation — Widerspruch VwGO | 1 Monat | § 70 VwGO |
+| Klage Verwaltungsgericht (Approbation) | 1 Monat | § 74 VwGO |
+
+## Triage — Sofortprüfung (Fachanwalt Medizinrecht — Orientierung)
+
+1. **Mandantenrolle klären:** Patient (Anspruchsteller), Arzt/Heilberufler (Verteidigungs-Mandat), Krankenhaus, Kasse?
+2. **Sachgebiet identifizieren:**
+   - Arzthaftung → `behandlungsfehler-anspruch-pruefen` oder `aufklaerungsfehler-beweisstrategie`
+   - Vertragsarztrecht → `fachanwalt-medizinrecht-kassenarztrecht`
+   - Approbationsrecht → `fachanwalt-medizinrecht-approbations-widerspruch`
+   - Off-Label / GKV-Leistungsrecht → `fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid`
+   - Schlichtung Ärztekammer → `fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung`
+3. **Eilbedürftigkeit prüfen:**
+   - Approbationsruhensanordnung sofort vollziehbar → Eilantrag § 80 Abs. 5 VwGO / § 86b SGG binnen 24 h.
+   - Verjährung läuft in < 4 Wochen → Hemmungshandlung sofort (Klage, Mahnbescheid, Anmeldung Schlichtungsstelle).
+4. **Rechtsweg bestimmen:** Sozialgericht (Vertragsarzt, KV, GKV), Zivilgericht (Arzthaftung, GOÄ), Verwaltungsgericht (Berufsrecht, Approbation), Landesberufsgericht (Berufsrecht).
+
+**Routing:**
+```
+Sachgebiet?
+├─ Behandlungsfehler / Aufklärung → behandlungsfehler-anspruch-pruefen
+├─ Vertragsarztrecht / KV → fachanwalt-medizinrecht-kassenarztrecht
+├─ Approbation / Widerruf → fachanwalt-medizinrecht-approbations-widerspruch
+├─ GKV-Leistungsstreit → fachanwalt-sozialrecht
+├─ Honorar GOÄ → fachanwalt-medizinrecht-honorarvertrag-kv
+└─ Schlichtung Ärztekammer → fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung
+```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Medizinrecht._
 
 # Erstgespraeach und Mandatsannahme im Arzthaftungs- Berufs- und Vertragsarztrecht: Anwendungsfall Patient oder Arzt meldet sich mit unstrukturiertem Sachverhalt zu Behandlungsfehler Approbationsproblem oder KV-Streit
 
@@ -837,7 +837,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Skill: `erstpruefung-und-mandatsziel`
 
-_Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Medizinrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Fachanwalt Medizinrecht._
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 

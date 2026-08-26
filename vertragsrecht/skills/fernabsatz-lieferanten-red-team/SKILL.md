@@ -1,6 +1,6 @@
 ---
 name: fernabsatz-lieferanten-red-team
-description: "Wenn es um Fernabsatz: Formular, Portal und Einreichungslogik in Vertragsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fernabsatz: Formular, Portal und Einreichungslogik: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Fernabsatz: Formular, Portal und Einreichungslogik

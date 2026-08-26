@@ -1,6 +1,6 @@
 ---
 name: datenraum-nda-datenschutz-dsgvo-deutsches
-description: "Wenn es um Datenraum NDA Checkliste in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Datenraum NDA Checkliste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Datenraum NDA Checkliste

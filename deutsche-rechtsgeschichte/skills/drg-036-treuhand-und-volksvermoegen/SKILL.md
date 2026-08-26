@@ -1,6 +1,6 @@
 ---
 name: drg-036-treuhand-und-volksvermoegen
-description: "Wenn es um Treuhand Und Volksvermoegen in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Treuhand und Volksvermögen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuhand Und Volksvermoegen

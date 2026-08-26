@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-und-alttitel
-description: "Wenn es um Verjaehrung Und Alttitel in Verbraucherinsolvenz und Schuldenbereinigung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verjährung und Alttitel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verjährung und Alttitel: dreißigjähriger Titel, Zinsverjährung, Hemmung und Vergleichsverhandlung.

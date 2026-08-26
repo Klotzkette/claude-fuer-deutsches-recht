@@ -1,6 +1,6 @@
 ---
 name: garantieabruf-missbrauch-garantieprovision
-description: "Wenn es um Garantieabruf, Missbrauch und Zahlungsstopp in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Garantieabruf, Missbrauch und Zahlungsstopp: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Garantieabruf, Missbrauch und Zahlungsstopp

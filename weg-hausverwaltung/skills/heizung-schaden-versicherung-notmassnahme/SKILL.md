@@ -1,6 +1,6 @@
 ---
 name: heizung-schaden-versicherung-notmassnahme
-description: "Wenn es um Heizung, Schaden, Versicherung, Notmaßnahme in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Heizung, Schaden, Versicherung, Notmaßnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Heizung, Schaden, Versicherung, Notmaßnahme

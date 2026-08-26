@@ -1,6 +1,6 @@
 ---
 name: kooperationsgespraech
-description: "Wenn es um Kooperation mit geradem Rücken in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kooperation mit geradem Rücken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kooperation mit geradem Rücken

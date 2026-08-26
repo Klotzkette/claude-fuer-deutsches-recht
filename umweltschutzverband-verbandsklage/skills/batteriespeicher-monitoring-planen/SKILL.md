@@ -1,6 +1,6 @@
 ---
 name: batteriespeicher-monitoring-planen
-description: "Wenn es um Batteriespeicher Monitoring Planen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Batteriespeicher Monitoring Planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Batteriespeicher Monitoring Planen

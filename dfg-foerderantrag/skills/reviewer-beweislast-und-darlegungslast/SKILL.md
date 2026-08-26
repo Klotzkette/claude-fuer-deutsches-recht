@@ -1,6 +1,6 @@
 ---
 name: reviewer-beweislast-und-darlegungslast
-description: "Wenn es um Reviewer: Beweislast, Darlegungslast und Substantiierung in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Reviewer: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: DFG-Förderantrag. Route: reviewer-beweislast-und-darlegungslast."
 ---
 
 # Reviewer: Beweislast, Darlegungslast und Substantiierung

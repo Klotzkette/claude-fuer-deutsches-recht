@@ -1,6 +1,6 @@
 ---
 name: erwerbsmigration-fachkraefte-paragraf-18b-aufenthg
-description: "Routet akademische Fachkräfte zwischen Aufenthaltserlaubnis nach Paragraf 18b AufenthG und Blauer Karte EU nach Paragraf 18g. Liefert Qualifikations-, Gehalts- und Zustimmungsprüfung, Unterlagenplan, Behördenantrag und Strategie bei Verzögerung oder Ablehnung."
+description: "Routet akademische Fachkräfte zwischen Aufenthaltserlaubnis nach Paragraf 18b AufenthG und Blauer Karte EU nach Paragraf 18g."
 ---
 
 # 1. Akademische Fachkraft und Blaue Karte EU

@@ -1,6 +1,6 @@
 ---
 name: buergergeld-krankenversicherung-umschi
-description: "Wenn es um Buergergeld Krankenversicherung Umschi in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgergeld Krankenversicherung Umschi: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Buergergeld Krankenversicherung Umschi

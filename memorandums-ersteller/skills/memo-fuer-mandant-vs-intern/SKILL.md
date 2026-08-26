@@ -1,6 +1,6 @@
 ---
 name: memo-fuer-mandant-vs-intern
-description: "Wenn es um Mandantenmemo vs. internes Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mandantenmemo vs. internes Memo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mandantenmemo vs. internes Memo

@@ -1,6 +1,6 @@
 ---
 name: rmap-export-und-systemintegration
-description: "Wenn es um Export und Integration in Vollzugs-IT in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Export und Integration in Vollzugs-IT: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Export und Integration in Vollzugs-IT

@@ -1,6 +1,6 @@
 ---
 name: sitzungs-terminvorbereitung-strom-gas-telefon
-description: "Wenn es um Sitzungs- und Terminvorbereitung in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sitzungs- und Terminvorbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucher im Rechtsstaat Alltag."
 ---
 
 # Sitzungs- und Terminvorbereitung

@@ -1,6 +1,6 @@
 ---
 name: selbstanzeige-371-ao
-description: "Wenn es um Selbstanzeige — Paragraf 371 AO Wirksamkeit Sperrgruende und Strafmilderung in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Selbstanzeige — Paragraf 371 AO Wirksamkeit Sperrgründe und Strafmilderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Selbstanzeige — § 371 AO Wirksamkeit Sperrgruende und Strafmilderung

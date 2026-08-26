@@ -1,6 +1,6 @@
 ---
 name: flughafenausbau-klagefrist
-description: "Wenn es um Flughafenausbau Klagefrist Sichern in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Flughafenausbau Klagefrist Sichern: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Flughafenausbau Klagefrist Sichern

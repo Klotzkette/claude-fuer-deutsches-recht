@@ -1,6 +1,6 @@
 ---
 name: private-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Private: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Private: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Private: Dokumentenmatrix, Lückenliste und Nachforderung

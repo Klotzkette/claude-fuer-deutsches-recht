@@ -1,6 +1,6 @@
 ---
 name: performance-review-arbeitsvertrag-befristung
-description: "Wenn es um Performance Review Und Feedback in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Performance Review und Feedback: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Performance Review Und Feedback

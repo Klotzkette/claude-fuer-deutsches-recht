@@ -1,6 +1,6 @@
 ---
 name: krankheitskosten-beihilfe-pkv-widerspruch
-description: "Wenn es um krankheitskosten-beihilfe-pkv-widerspruch in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für krankheitskosten-beihilfe-pkv-widerspruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # krankheitskosten-beihilfe-pkv-widerspruch

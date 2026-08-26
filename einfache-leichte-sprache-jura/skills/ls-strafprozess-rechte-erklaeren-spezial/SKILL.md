@@ -1,6 +1,6 @@
 ---
 name: ls-strafprozess-rechte-erklaeren-spezial
-description: "Wenn es um LS: Strafprozess-Rechte in Einfache und Leichte Sprache für juristische Texte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für LS: Strafprozess-Rechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LS: Strafprozess-Rechte

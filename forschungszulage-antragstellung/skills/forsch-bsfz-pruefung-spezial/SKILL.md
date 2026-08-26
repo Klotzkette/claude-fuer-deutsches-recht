@@ -1,6 +1,6 @@
 ---
 name: forsch-bsfz-pruefung-spezial
-description: "Wenn es um Forsch: BSFZ-Prüfung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Forsch: BSFZ-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Forsch: BSFZ-Prüfung

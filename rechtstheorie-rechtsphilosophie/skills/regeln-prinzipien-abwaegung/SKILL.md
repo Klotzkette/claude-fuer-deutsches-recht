@@ -1,6 +1,6 @@
 ---
 name: regeln-prinzipien-abwaegung
-description: "Wenn es um Regeln, Prinzipien und Abwägung in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Regeln, Prinzipien und Abwägung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Regeln, Prinzipien und Abwägung

@@ -1,6 +1,6 @@
 ---
 name: entfristung-laie-oder-anwalt-frage
-description: "Wenn es um Statusabfrage Entfristungsklage: Anwalt oder Laie in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Statusabfrage Entfristungsklage: Anwalt oder Laie: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Statusabfrage Entfristungsklage: Anwalt oder Laie

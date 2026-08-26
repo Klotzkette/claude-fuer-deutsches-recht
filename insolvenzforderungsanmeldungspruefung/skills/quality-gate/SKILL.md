@@ -1,6 +1,6 @@
 ---
 name: quality-gate
-description: "Wenn es um Qualitätsgate und Plausibilitätskontrolle in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätsgate und Plausibilitätskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Qualitätsgate und Plausibilitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: bewertungen-google-plattform-und-rufschutz
-description: "Wenn es um Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz

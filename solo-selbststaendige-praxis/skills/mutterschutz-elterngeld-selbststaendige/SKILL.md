@@ -1,6 +1,6 @@
 ---
 name: mutterschutz-elterngeld-selbststaendige
-description: "Wenn es um Sozialversicherung und Vorsorge: Ordnet elterngeld in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sozialversicherung und Vorsorge: Ordnet elterngeld: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sozialversicherung und Vorsorge: Ordnet elterngeld

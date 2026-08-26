@@ -1,6 +1,6 @@
 ---
 name: tierarzneimittel-apothekenabgabe-versand-ab-2026
-description: "Wenn es um Tierarzneimittel Apothekenabgabe Versand ab 2026 in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Tierarzneimittel Apothekenabgabe Versand ab 2026: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tierarzneimittel Apothekenabgabe Versand ab 2026

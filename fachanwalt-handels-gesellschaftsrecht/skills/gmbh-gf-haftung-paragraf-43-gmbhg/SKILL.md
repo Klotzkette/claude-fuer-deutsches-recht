@@ -1,6 +1,6 @@
 ---
 name: gmbh-gf-haftung-paragraf-43-gmbhg
-description: "Wenn es um Gmbh gf Haftung Paragraf 43 GmbHG in Fachanwalt Handels- und Gesellschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GmbH gf Haftung Paragraf 43 GmbHG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gmbh gf Haftung § 43 GmbHG

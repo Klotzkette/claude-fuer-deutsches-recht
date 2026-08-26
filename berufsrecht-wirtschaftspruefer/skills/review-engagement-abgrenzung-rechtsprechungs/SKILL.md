@@ -1,6 +1,6 @@
 ---
 name: review-engagement-abgrenzung-rechtsprechungs
-description: "Wenn es um Review Engagement Abgrenzung Rechtsprechungs in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Review Engagement Abgrenzung Rechtsprechungs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: review engagement abgrenzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: spezial-freigegeben-red-team-und-qualitaetskontrolle
-description: "Wenn es um Freigegeben: Red-Team und Qualitätskontrolle in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freigegeben: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Freigegeben: Red-Team und Qualitätskontrolle

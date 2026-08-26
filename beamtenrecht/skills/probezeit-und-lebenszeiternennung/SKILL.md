@@ -1,6 +1,6 @@
 ---
 name: probezeit-und-lebenszeiternennung
-description: "Wenn es um Probezeit Und Lebenszeiternennung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Probezeit und Lebenszeiternennung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Probezeit Und Lebenszeiternennung

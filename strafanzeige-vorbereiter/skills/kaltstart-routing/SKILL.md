@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Wenn es um Strafanzeige: Kaltstart mit Sicherheitsbremse in Strafanzeige-Vorbereiter geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strafanzeige: Kaltstart mit Sicherheitsbremse: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafanzeige: Kaltstart mit Sicherheitsbremse

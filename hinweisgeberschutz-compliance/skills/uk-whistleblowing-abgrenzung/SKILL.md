@@ -1,6 +1,6 @@
 ---
 name: uk-whistleblowing-abgrenzung
-description: "Wenn es um Uk Whistleblowing Abgrenzung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Uk Whistleblowing Abgrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Uk Whistleblowing Abgrenzung

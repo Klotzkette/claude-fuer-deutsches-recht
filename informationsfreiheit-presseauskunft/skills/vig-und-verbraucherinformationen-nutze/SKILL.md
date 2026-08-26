@@ -1,6 +1,6 @@
 ---
 name: vig-und-verbraucherinformationen-nutze
-description: "Wenn es um Vig Und Verbraucherinformationen Nutze in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vig und Verbraucherinformationen Nutze: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vig Und Verbraucherinformationen Nutze

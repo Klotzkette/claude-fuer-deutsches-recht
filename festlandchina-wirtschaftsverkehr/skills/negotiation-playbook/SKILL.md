@@ -1,6 +1,6 @@
 ---
 name: negotiation-playbook
-description: "Wenn es um Verhandlungs-Playbook China: Kultur/Taktik/BATNA in China-Wirtschaftsverkehr geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verhandlungs-Playbook China: Kultur/Taktik/BATNA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verhandlungs-Playbook China: Kultur/Taktik/BATNA

@@ -1,6 +1,6 @@
 ---
 name: ropa-bdsg-besondere-art-9-categories
-description: "Wenn es um RoPA bei besonderen Datenkategorien – Art. 9 DSGVO, Paragraf 26 BDSG, Art. 10 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für RoPA bei besonderen Datenkategorien – Art. 9 DSGVO, Paragraf 26 BDSG, Art. 10 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # RoPA bei besonderen Datenkategorien – Art. 9 DSGVO, § 26 BDSG, Art. 10 DSGVO

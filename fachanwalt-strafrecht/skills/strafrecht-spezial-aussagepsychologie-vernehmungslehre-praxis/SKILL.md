@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsychologie-vernehmungslehre-praxis
-description: "Wenn es um Strafrecht Spezial Aussagepsychologie Vernehmungslehre Praxis in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Aussagepsychologie Vernehmungslehre Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vernehmungsmethodik: PEACE-Modell (Planung, Engagement, Account, Closure, Evaluate), Cognitive Interview, Reid-Technik und ihre methodischen Risiken

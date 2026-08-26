@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 95 Skills des Plugins `berufsrecht-ki-vertragspruefung`.
+Diese Vollprüfung enthält top-10 von 94 Skills des Plugins `berufsrecht-ki-vertragspruefung`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn Verträge über algorithmische Systeme berufsrechtlich geprüft und tragfähig begründet werden müss…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in anwaltlichem Berufsrecht und Vertragsprüfung geht: klärt Rolle, Ziel, Frist, Unterlag…
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in anwaltlichem Berufsrecht und Vertragsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen u…
-4. **consumer-ki-datentransfer-eu-erforderlichkeit** — Wenn es um Consumer-digitale Werkzeuge vs. Paragraf-43e-Dienstleister in anwaltlichem Berufsrecht und Vertragsprüfung ge…
-5. **consumer-ki-vs-43e-dienstleister** — Wenn es um Consumer-digitale Werkzeuge vs. Paragraf-43e-Dienstleister in anwaltlichem Berufsrecht und Vertragsprüfung ge…
-6. **ki-erforderlichkeit-no-training-mandanten** — Wenn es um Ex-ante-Vermerk zur Erforderlichkeit in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Akteninhalt…
-7. **ki-erforderlichkeit-ex-ante-vermerk** — Wenn es um Ex-ante-Vermerk zur Erforderlichkeit in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Akteninhalt…
-8. **art-50-ki-vo-schriftsatz-marketing-chatbot** — Wenn es um Art. 50 europäischer Technikregulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot in anwaltlic…
-9. **vorpruefung-fristen-form-zustaendigkeit-rechtsweg** — Wenn es um Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Form, Zus…
-10. **vorpruefung-fristen-form-und-zustaendigkeit** — Wenn es um Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Form, Zus…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+4. **stgb-internationaler-bezug-und-schnittstellen** — Für Stgb: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenk…
+5. **stgb-internationaler-bezug-schnittstellen** — Für Stgb: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenk…
+6. **berufsrechtliche-bnoto-interessen-brao** — Für Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: P…
+7. **spezial-vertraegen-dokumentenmatrix-und-lueckenliste** — Für Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatr…
+8. **klauseln-beweislast-verschwiegenheitsklausel** — Für Klauseln: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Bewei…
+9. **patentanwaelte-verhandlung-vergleich-und-eskalation** — Für Patentanwälte: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlu…
+10. **patentanwaelte-verhandlung-vergleich-eskalation** — Für Patentanwälte: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlu…
 
 ---
 
@@ -138,7 +138,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in anwaltlichem Berufsrecht und Vertragsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung._
 
 # Einstieg und Routing
 
@@ -182,7 +182,7 @@ Dieser Einstieg routet **Berufsrecht Ki Vertragspruefung** vom ersten Sachverhal
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in anwaltlichem Berufsrecht und Vertragsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -386,240 +386,11 @@ Kernproblem ist das Spannungsfeld zwischen dem Wunsch nach KI-Effizienzgewinnen 
 
 ---
 
-## Skill: `consumer-ki-datentransfer-eu-erforderlichkeit`
+## Skill: `stgb-internationaler-bezug-und-schnittstellen`
 
-_Wenn es um Consumer-digitale Werkzeuge vs. Paragraf-43e-Dienstleister in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Consumer Ki Datentransfer EU Erforderlichkeit; Arbeitsfeld: anwaltlichem Berufsrecht und Vertragsprüfung._
+_Für Stgb: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: stgb-internationaler-bezug-und-schnittstellen._
 
-# Consumer-KI vs. §-43e-Dienstleister
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 43e BRAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Ziel
-
-Dieser Skill verhindert den häufigsten Denkfehler: Nicht jede KI ist berufsrechtlich gleich. Ein öffentliches Frontend ohne berufsspezifische Verpflichtung ist etwas anderes als ein bewusst beauftragter Dienstleister, der in Textform auf Berufsgeheimnisse, strafrechtliche Folgen und Subunternehmerkontrolle verpflichtet wird.
-
-## Abfrage
-
-1. Welches Tool, welche Produktvariante, welcher Vertrag?
-2. Public Account, Team Account, Enterprise Contract, Kanzleisoftware oder eigene API?
-3. Welche Daten: anonym, pseudonym, Mandatsdaten, Geschäftsgeheimnisse, besondere Kategorien, Gegnerdaten?
-4. Nutzt der Anbieter Eingaben für Training, Produktverbesserung, Qualitätsanalyse, Support oder Abuse Monitoring?
-5. Wo sitzen Anbieter, Hosting, Subunternehmer, Support und Muttergesellschaft?
-6. Ist das Tool allgemeine Kanzleiinfrastruktur oder unmittelbar für ein Einzelmandat?
-
-## Einordnung
-
-| Typ | Mandatsdaten? | Kernprüfung |
-|---|---:|---|
-| Öffentliches Consumer-Tool | Nein, außer anonymisiert/abstrahiert | Keine §-43e-Verpflichtung; Geheimnisschutz durch Nichtoffenlegung. |
-| Enterprise-Tool ohne Berufsgeheimniszusatz | Nur nach Prüfung | Vertrag kann zu dünn sein; § 43e Abs. 3 konkret nachverhandeln. |
-| Kanzleisoftware mit KI-Modul | Möglich | Dienstleisterregelung, AVV, TOM, No-Training, Supportzugriff, Löschkonzept. |
-| §-43e-konform verpflichteter KI-Dienstleister | Möglich | Erforderlichkeit, Textform, Belehrung, Subunternehmer, Drittstaat, Endkontrolle. |
-| Mandatsspezifisches Expertentool | Möglich, aber sensibel | Zusätzlich Mandantenbezug und § 43e Abs. 5 prüfen. |
-
-## Entscheidungssatz
-
-Formuliere nie pauschal "KI mit Mandatsdaten ist verboten" oder "Enterprise reicht". Formuliere: Zulässig ist nur die konkret erforderliche Offenlegung an einen hinreichend gebundenen, kontrollierten und dokumentierten Dienstleister; alles andere bleibt anonymisierte Nutzung oder Sperrfall.
-
----
-
-## Skill: `consumer-ki-vs-43e-dienstleister`
-
-_Wenn es um Consumer-digitale Werkzeuge vs. Paragraf-43e-Dienstleister in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Consumer Ki Vs 43e Dienstleister; Arbeitsfeld: anwaltlichem Berufsrecht und Vertragsprüfung._
-
-# Consumer-KI vs. §-43e-Dienstleister
-
-## Ziel
-
-Dieser Skill verhindert den häufigsten Denkfehler: Nicht jede KI ist berufsrechtlich gleich. Ein öffentliches Frontend ohne berufsspezifische Verpflichtung ist etwas anderes als ein bewusst beauftragter Dienstleister, der in Textform auf Berufsgeheimnisse, strafrechtliche Folgen und Subunternehmerkontrolle verpflichtet wird.
-
-## Abfrage
-
-1. Welches Tool, welche Produktvariante, welcher Vertrag?
-2. Public Account, Team Account, Enterprise Contract, Kanzleisoftware oder eigene API?
-3. Welche Daten: anonym, pseudonym, Mandatsdaten, Geschäftsgeheimnisse, besondere Kategorien, Gegnerdaten?
-4. Nutzt der Anbieter Eingaben für Training, Produktverbesserung, Qualitätsanalyse, Support oder Abuse Monitoring?
-5. Wo sitzen Anbieter, Hosting, Subunternehmer, Support und Muttergesellschaft?
-6. Ist das Tool allgemeine Kanzleiinfrastruktur oder unmittelbar für ein Einzelmandat?
-
-## Einordnung
-
-| Typ | Mandatsdaten? | Kernprüfung |
-|---|---:|---|
-| Öffentliches Consumer-Tool | Nein, außer anonymisiert/abstrahiert | Keine §-43e-Verpflichtung; Geheimnisschutz durch Nichtoffenlegung. |
-| Enterprise-Tool ohne Berufsgeheimniszusatz | Nur nach Prüfung | Vertrag kann zu dünn sein; § 43e Abs. 3 konkret nachverhandeln. |
-| Kanzleisoftware mit KI-Modul | Möglich | Dienstleisterregelung, AVV, TOM, No-Training, Supportzugriff, Löschkonzept. |
-| §-43e-konform verpflichteter KI-Dienstleister | Möglich | Erforderlichkeit, Textform, Belehrung, Subunternehmer, Drittstaat, Endkontrolle. |
-| Mandatsspezifisches Expertentool | Möglich, aber sensibel | Zusätzlich Mandantenbezug und § 43e Abs. 5 prüfen. |
-
-## Entscheidungssatz
-
-Formuliere nie pauschal "KI mit Mandatsdaten ist verboten" oder "Enterprise reicht". Formuliere: Zulässig ist nur die konkret erforderliche Offenlegung an einen hinreichend gebundenen, kontrollierten und dokumentierten Dienstleister; alles andere bleibt anonymisierte Nutzung oder Sperrfall.
-
----
-
-## Skill: `ki-erforderlichkeit-no-training-mandanten`
-
-_Wenn es um Ex-ante-Vermerk zur Erforderlichkeit in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Ki Erforderlichkeit No Training Mandanten; Arbeitsfeld: anwaltlichem Berufsrecht und Vertragsprüfung._
-
-# Ex-ante-Vermerk zur Erforderlichkeit
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 43e BRAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Kern
-
-Erforderlichkeit meint nicht: "Könnte man theoretisch ohne KI arbeiten?" Maßgeblich ist, ob der Zugang zu Berufsgeheimnissen für die konkret beauftragte Dienstleistung in der gewählten, vertretbar organisierten Kanzleiumgebung benötigt wird. Genau das muss vor dem Einsatz dokumentiert werden.
-
-## Vermerkstruktur
-
-1. **Tool und Zweck:** Dokumentenanalyse, Recherche, Zusammenfassung, Übersetzung, Diktat, Fristenassistenz, Chatbot, RAG.
-2. **Datenklassen:** Welche Aktenbestandteile sind nötig, welche bleiben draußen?
-3. **Alternativen:** anonymisierte Nutzung, lokales Tool, manuelle Bearbeitung, anderes Enterprise-Angebot.
-4. **Datenminimierung:** Redaction, Mandantentrennung, Rollenrechte, keine Vollakte ohne Zweck.
-5. **Vertragliche Grundlage:** Textform, Verschwiegenheit, Belehrung, Subunternehmer, No-Training.
-6. **Drittstaat:** Hosting, Support, Muttergesellschaft, Zugriffsmöglichkeiten, zusätzliche Schutzmaßnahmen.
-7. **Mandatsbezug:** Kanzleiinfrastruktur oder Einzelmandat mit zusätzlicher Mandantenentscheidung?
-8. **Endkontrolle:** Wer prüft Output, Quellen, Fristen und taktische Aussage?
-
-## Musterentscheidung
-
-Nutze diese Logik, ohne Scheinsicherheit:
-
-- "Freigegeben für anonymisierte und interne Kanzleidaten."
-- "Freigegeben für Mandatsdaten der Klasse X nach Toolfreigabe und §-43e-Vertrag."
-- "Nur nach Mandanteninformation/Einwilligung."
-- "Nicht freigegeben, weil Training/Telemetrie/Subunternehmer/Drittstaat ungeklärt."
-
----
-
-## Skill: `ki-erforderlichkeit-ex-ante-vermerk`
-
-_Wenn es um Ex-ante-Vermerk zur Erforderlichkeit in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Ki Erforderlichkeit Ex Ante Vermerk; Arbeitsfeld: anwaltlichem Berufsrecht und Vertragsprüfung._
-
-# Ex-ante-Vermerk zur Erforderlichkeit
-
-## Kern
-
-Erforderlichkeit meint nicht: "Könnte man theoretisch ohne KI arbeiten?" Maßgeblich ist, ob der Zugang zu Berufsgeheimnissen für die konkret beauftragte Dienstleistung in der gewählten, vertretbar organisierten Kanzleiumgebung benötigt wird. Genau das muss vor dem Einsatz dokumentiert werden.
-
-## Vermerkstruktur
-
-1. **Tool und Zweck:** Dokumentenanalyse, Recherche, Zusammenfassung, Übersetzung, Diktat, Fristenassistenz, Chatbot, RAG.
-2. **Datenklassen:** Welche Aktenbestandteile sind nötig, welche bleiben draußen?
-3. **Alternativen:** anonymisierte Nutzung, lokales Tool, manuelle Bearbeitung, anderes Enterprise-Angebot.
-4. **Datenminimierung:** Redaction, Mandantentrennung, Rollenrechte, keine Vollakte ohne Zweck.
-5. **Vertragliche Grundlage:** Textform, Verschwiegenheit, Belehrung, Subunternehmer, No-Training.
-6. **Drittstaat:** Hosting, Support, Muttergesellschaft, Zugriffsmöglichkeiten, zusätzliche Schutzmaßnahmen.
-7. **Mandatsbezug:** Kanzleiinfrastruktur oder Einzelmandat mit zusätzlicher Mandantenentscheidung?
-8. **Endkontrolle:** Wer prüft Output, Quellen, Fristen und taktische Aussage?
-
-## Musterentscheidung
-
-Nutze diese Logik, ohne Scheinsicherheit:
-
-- "Freigegeben für anonymisierte und interne Kanzleidaten."
-- "Freigegeben für Mandatsdaten der Klasse X nach Toolfreigabe und §-43e-Vertrag."
-- "Nur nach Mandanteninformation/Einwilligung."
-- "Nicht freigegeben, weil Training/Telemetrie/Subunternehmer/Drittstaat ungeklärt."
-
----
-
-## Skill: `art-50-ki-vo-schriftsatz-marketing-chatbot`
-
-_Wenn es um Art. 50 europäischer Technikregulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot in anwaltlichem Berufsrecht und Vertragsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Art. 50 KI-VO: Schriftsatz, Marketing, Legal Update und Chatbot
-
-## Worum geht es
-
-Art. 50 KI-VO ist für Kanzleien vor allem eine Transparenz- und Kommunikationsfrage. Nicht jeder interne KI-Entwurf muss nach außen markiert werden. Anders sieht es aus, wenn Nutzer mit einem Chatbot sprechen oder synthetische Inhalte veröffentlicht werden.
-
-## Use-Case-Tabelle
-
-| Use Case | Vorläufige Bewertung | To-do |
-|---|---|---|
-| KI entwirft internen Schriftsatz, Anwalt prüft und reicht ein | Regelmäßig keine Offenlegung nur wegen KI-Nutzung | Endkontrollvermerk, Quellenprüfung, Haftungsprüfung. |
-| Mandantenchatbot beantwortet Erstfragen | Transparenzhinweis nötig | Klar sagen: KI-System, kein Mandat ohne Annahme, keine Fristprüfung ohne Anwalt. |
-| Newsletter/Legal Update mit KI-Text | Redaktionelle Verantwortung prüfen | Kennzeichnungspflicht und Ausnahme live prüfen; menschliche Schlussredaktion dokumentieren. |
-| KI-generiertes Bild/Video/Audio in Kanzleimarketing | Art.-50-Nähe hoch | Kennzeichnung und Irreführungsprüfung. |
-| Automatisierte Mandatsannahme/Scoring | Nicht nur Transparenz, sondern Berufs-/Datenschutz-/Diskriminierungsrisiko | Spezialprüfung. |
-
-## Zeitachse
-
-Prüfe den Geltungsstand live. Als Arbeitsstand gilt: Transparenzpflichten nach Art. 50 KI-VO werden für die praktische Kanzleiorganisation ab 02.08.2026 besonders relevant; Art. 4 KI-Kompetenz ist schon vorher als Governance-Thema einzuplanen.
-
-## Berufsrechtliche Ergänzung
-
-Ein Hinweis "KI-generiert" heilt keine ungeprüfte Rechtsauskunft, kein unzulässiges Mandatsversprechen und keinen Geheimnisverstoß. Berufsrecht, Mandatsvertrag, Datenschutz und Haftung laufen parallel.
-
-
-## Quellenkontrolle
-
-Berufsrecht, Geheimnisschutz und Datenschutz getrennt prüfen: Paragraf 43a Absatz 2 und Paragraf 43e BRAO, Paragraf 2 BORA, Paragraf 203 StGB sowie Artikel 28 und 32 DSGVO. Eine Gerichtsentscheidung nur einsetzen, wenn ihr Sachverhalt die konkrete Vertrags-, Verschwiegenheits- oder Sicherheitsfrage trägt; ein nicht erläutertes Aktenzeichen ist kein Rechtsanker.
-
----
-
-## Skill: `vorpruefung-fristen-form-zustaendigkeit-rechtsweg`
-
-_Wenn es um Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für die Auswahl: Vorpruefung Fristen Form Zuständigkeit Rechtsweg._
-
-# Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 535 Abs. 1 BGB` — Hauptpflichten des Mietvertrags.
-- `§ 536 Abs. 1 BGB` — Minderung.
-- `§ 543 Abs. 1 BGB` — ausserordentliche Kuendigung.
-- `§ 556 Abs. 1 BGB` — Betriebskostenvereinbarung.
-- `§ 556 Abs. 3 BGB` — Abrechnung und Einwendungsfrist.
-- `§ 558 Abs. 1 BGB` — Mieterhoehung bis ortsuebliche Vergleichsmiete.
-- `§ 559 Abs. 1 BGB` — Modernisierungsmieterhoehung.
-- `§ 573 Abs. 1 BGB` — ordentliche Vermieterkuendigung.
-- `§ 259 BGB` — Rechnungslegung.
-- `§ 2 BetrKV` — Betriebskostenarten.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vorpruefung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `vorpruefung-fristen-form-und-zustaendigkeit`
-
-_Wenn es um Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für die Auswahl: Vorpruefung Fristen Form Und Zuständigkeit._
-
-# Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg
+# Stgb: Internationaler Bezug und Schnittstellen
 
 ## Normenanker
 
@@ -646,7 +417,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg
+## Spezialwissen: Stgb: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
 
 ## Fallweichen
@@ -660,7 +431,308 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vorpruefung** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Stgb** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `stgb-internationaler-bezug-schnittstellen`
+
+_Für Stgb: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: stgb-internationaler-bezug-schnittstellen._
+
+# Stgb: Internationaler Bezug und Schnittstellen
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
+- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
+- `§ 2 HRG` — Aufgaben der Hochschulen.
+- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
+- `§ 7 HRG` — Ziel des Studiums.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
+- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Stgb: Internationaler Bezug und Schnittstellen
+- **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Stgb** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `berufsrechtliche-bnoto-interessen-brao`
+
+_Für Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: berufsrechtliche-bnoto-interessen-brao._
+
+# Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 43e BRAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel
+- **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Berufsrechtliche KI-Prüfung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Berufsrechtliche Erstprüfung: 6-Schritte-Diagnose
+1. **Berufsstand bestimmen:** Anwalt → BRAO, StB → StBerG, WP → WPO, Notar → BNotO, Patentanwalt → PAO. Bei interdisziplinärer Kanzlei alle einschlägigen Normen.
+2. **Tool identifizieren:** Welches konkrete Produkt? Welche Funktion (Recherche, Drafting, Mandantenkommunikation, Übersetzung)? Welche Datenflüsse?
+3. **Datenkategorien klassifizieren:** (a) keine Mandantendaten, (b) anonymisiert/pseudonymisiert, (c) identifizierbar — Default für (c) restriktiv.
+4. **Hosting prüfen:** EU/EWR vs. Drittstaat (insb. USA). Bei US-Cloud: DPF-Mitgliedschaft, SCC-Modul, TIA.
+5. **Vertragsprüfung:** Hauptvertrag, AVV (Art. 28 DSGVO), Mitwirkenden-Verpflichtung § 203 Abs. 4 StGB, SCC, TIA.
+6. **Mandatsziel klären:** Sofort-Freigabe? Bedingte Freigabe mit Auflagen? Sperrung? Kanzlei-Richtlinie nachjustieren?
+
+## Trade-off
+Schnelle Freigabe vs. berufsrechtliche Absicherung: bei knapper Zeit konservativ "vorläufig nicht freigeben" und parallel Detailprüfung, statt überstürzte Freigabe mit späterem Rückruf. § 203 StGB und § 43e BRAO sind strict liability — Vorsatz ist nicht erforderlich.
+
+---
+
+## Skill: `spezial-vertraegen-dokumentenmatrix-und-lueckenliste`
+
+_Für Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: spezial-vertraegen-dokumentenmatrix-und-lueckenliste._
+
+# Vertraegen: Dokumentenmatrix, Lückenliste und Nachforderung
+
+## Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `berufsrecht-ki-vertragspruefung`. Ausgangspunkt ist: Berufsrechtliche und strafrechtliche Vorprüfung von Vertraegen mit privaten Legal-AI-Anbietern. Für Anwaelte StB WP Patentanwaelte Notare. §§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO § 203 StGB. DAV-Stellungnahme. Gutachten Rückfragebrief Klauseln.
+
+Er führt durch **Dokumentenmatrix, Lückenliste und Nachforderung** im Themenfeld **Vertraegen**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Vertraegen.
+- **Arbeitsfokus:** Dokumentenmatrix, Lückenliste und Nachforderung.
+- **Plugin-Rahmen:** Berufsrechtliche und strafrechtliche Vorprüfung von Vertraegen mit privaten Legal-AI-Anbietern. Für Anwaelte StB WP Patentanwaelte Notare. §§ 43e BRAO 6....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+
+## Kaltstart
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vertraegen** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+---
+
+## Skill: `klauseln-beweislast-verschwiegenheitsklausel`
+
+_Für Klauseln: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: klauseln-beweislast-verschwiegenheitsklausel._
+
+# Klauseln: Beweislast, Darlegungslast und Substantiierung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 43e BRAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Klauseln: Beweislast, Darlegungslast und Substantiierung
+- **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vertragsklauseln Berufsrecht-KI** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Pflichtklauseln in AVV mit KI-Anbieter (Berufsrechtsperspektive)
+1. **Weisungsbindung Art. 28 Abs. 3 lit. a DSGVO:** Verarbeitung nur auf dokumentierte Weisung des Verantwortlichen.
+2. **Verschwiegenheit Art. 28 Abs. 3 lit. b DSGVO:** Mitarbeiter des Auftragsverarbeiters auf Verschwiegenheit verpflichtet.
+3. **§ 203 Abs. 4 StGB Mitwirkende-Verpflichtung:** Ausdrückliche Verpflichtung des Anbieter-Personals i.S.d. § 203 Abs. 4 — zwingend für Berufsträger mit Schweigepflicht.
+4. **TOM Art. 32 DSGVO** als Anlage mit konkreten Maßnahmen, nicht pauschal "Stand der Technik".
+5. **Unterauftragsverarbeiter Art. 28 Abs. 2 und Abs. 4 DSGVO:** Liste + Genehmigungsmechanismus.
+6. **Audit-Recht Art. 28 Abs. 3 lit. h DSGVO:** mind. einmal jährlich, ggf. durch Dritte.
+7. **Löschung/Rückgabe Art. 28 Abs. 3 lit. g DSGVO:** bei Vertragsende; Lösch-/Rückgabe-Nachweis.
+8. **Drittlandstransfer:** Modul-SCC + ggf. TIA + DPF-Erklärung bei US-Anbietern.
+
+## Beweislast und Darlegungslast
+- **Auf Anbieterseite:** Pflicht zur Vorlage von TOM, Subunternehmerlisten, ISO/SOC-Zertifikaten, Audit-Berichten.
+- **Auf Berufsträgerseite:** Pflicht zur Dokumentation der eigenen Auswahlentscheidung (sorgfältige Anbieter-Auswahl § 28 Abs. 1 DSGVO).
+- **Bei Streit:** Vorlagepflichten nach § 142 ZPO und Auskunftsanspruch Art. 15 DSGVO ergänzen klassische Beweislast.
+
+## Praxis-Tipp
+Eine AVV-Klausel "Mitarbeiter sind auf Verschwiegenheit i.S.d. § 203 StGB verpflichtet" ist Mindeststandard, nicht optional. Fehlt sie, bleibt das berufsrechtliche Risiko trotz Art. 28 DSGVO bestehen — § 203 StGB ist eigenständig neben DSGVO.
+
+---
+
+## Skill: `patentanwaelte-verhandlung-vergleich-und-eskalation`
+
+_Für Patentanwälte: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: patentanwaelte-verhandlung-vergleich-und-eskalation._
+
+# Patentanwälte: Verhandlung, Vergleich und Eskalation
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
+- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
+- `§ 2 HRG` — Aufgaben der Hochschulen.
+- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
+- `§ 7 HRG` — Ziel des Studiums.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
+- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 43e BRAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Patentanwälte: Verhandlung, Vergleich und Eskalation
+- **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Patentanwälte** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-patentanwaelte-verhandlung-vergleich-und-eskalation` beziehungsweise Patentanwaelte: Verhandlung, Vergleich und Eskalation: [die zusätzliche Vertiefung laden](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-ki-vertragspruefung/skills/patentanwaelte-verhandlung-vergleich-und-eskalation/references/vertiefung-spezial-patentanwaelte-verhandlung-vergleich-und-eskalation.md).
+
+---
+
+## Skill: `patentanwaelte-verhandlung-vergleich-eskalation`
+
+_Für Patentanwälte: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: patentanwaelte-verhandlung-vergleich-eskalation._
+
+# Patentanwälte: Verhandlung, Vergleich und Eskalation
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
+- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
+- `§ 2 HRG` — Aufgaben der Hochschulen.
+- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
+- `§ 7 HRG` — Ziel des Studiums.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
+- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Patentanwälte: Verhandlung, Vergleich und Eskalation
+- **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Patentanwälte** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

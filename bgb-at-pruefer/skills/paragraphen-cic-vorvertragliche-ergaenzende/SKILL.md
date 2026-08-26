@@ -1,6 +1,6 @@
 ---
 name: paragraphen-cic-vorvertragliche-ergaenzende
-description: "Wenn es um Fristenberechnung — Paragrafen 186 bis 193 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Paragraphen Cic Vorvertragliche Ergaenzende; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Fristenberechnung — Paragrafen 186 bis 193 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fristenberechnung — §§ 186 bis 193 BGB

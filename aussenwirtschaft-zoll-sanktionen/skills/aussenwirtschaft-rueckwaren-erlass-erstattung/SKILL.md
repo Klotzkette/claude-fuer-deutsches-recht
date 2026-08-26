@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-rueckwaren-erlass-erstattung
-description: "Wenn es um Rueckwaren: Zollerlass und Identitaetsnachweis nach UZK Art. 203 in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rückwaren: Zollerlass und Identitätsnachweis nach UZK Art. 203: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rueckwaren: Zollerlass und Identitaetsnachweis nach UZK Art. 203

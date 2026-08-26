@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-paragraf-80-vwgo
-description: "Wenn es um Eilrechtsschutz Paragraf 80 VwGO in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eilrechtsschutz Paragraf 80 VwGO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eilrechtsschutz § 80 VwGO

@@ -1,6 +1,6 @@
 ---
 name: wehruebungen-heranziehungsbescheid-weitere
-description: "Wenn es um Wehrübungen und Heranziehungsbescheid in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wehrübungen und Heranziehungsbescheid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wehrübungen und Heranziehungsbescheid

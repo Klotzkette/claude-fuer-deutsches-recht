@@ -1,6 +1,6 @@
 ---
 name: euipo-widerspruchsverfahren
-description: "Wenn es um EUIPO-Widerspruchsverfahren in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EUIPO-Widerspruchsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EUIPO-Widerspruchsverfahren

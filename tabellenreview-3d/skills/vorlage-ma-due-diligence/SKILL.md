@@ -1,6 +1,6 @@
 ---
 name: vorlage-ma-due-diligence
-description: "Wenn es um /tabellenreview-3d:vorlage-ma-due-diligence in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vorlage M&A Due Diligence; Arbeitsfeld: Tabellenreview 3D."
+description: "Für /tabellenreview-3d:vorlage-ma-due-diligence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tabellenreview 3D. Route: vorlage-ma-due-diligence."
 ---
 
 # /tabellenreview-3d:vorlage-ma-due-diligence

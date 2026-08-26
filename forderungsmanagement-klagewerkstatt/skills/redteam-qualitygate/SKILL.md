@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "Wenn es um Redteam Qualitygate in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Redteam Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Forderungsmanagement — Klagewerkstatt."
 ---
 
 # Redteam Qualitygate

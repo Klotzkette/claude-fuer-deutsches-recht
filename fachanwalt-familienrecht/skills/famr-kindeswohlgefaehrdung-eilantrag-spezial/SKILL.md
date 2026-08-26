@@ -1,6 +1,6 @@
 ---
 name: famr-kindeswohlgefaehrdung-eilantrag-spezial
-description: "Wenn es um Famr Kindeswohlgefaehrdung Eilantrag Spezial in Fachanwalt Familienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Famr Kindeswohlgefährdung Eilantrag Spezial: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Spezialfall Kindeswohlgefaehrdung und Eilantrag: Paragraf 1666 BGB, Anordnungen Familiengericht, einstweilige Anordnung Paragraf 49 FamFG, Inobhutnahme Jugendamt Paragraf 42 SGB VIII

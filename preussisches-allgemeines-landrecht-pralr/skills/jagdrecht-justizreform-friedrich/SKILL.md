@@ -1,6 +1,6 @@
 ---
 name: jagdrecht-justizreform-friedrich
-description: "Wenn es um Pralr Jagdrecht Und Fischerei in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Jagdrecht Justizreform Friedrich; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Jagdrecht und Fischerei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: jagdrecht-justizreform-friedrich."
 ---
 
 # Pralr Jagdrecht Und Fischerei

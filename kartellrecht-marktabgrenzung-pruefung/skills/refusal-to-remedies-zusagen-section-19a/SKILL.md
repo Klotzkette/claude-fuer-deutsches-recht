@@ -1,6 +1,6 @@
 ---
 name: refusal-to-remedies-zusagen-section-19a
-description: "Wenn es um Refusal to Supply Essential Facilities in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Refusal to Supply Essential Facilities: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Refusal to Supply Essential Facilities

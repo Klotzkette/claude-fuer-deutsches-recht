@@ -1,6 +1,6 @@
 ---
 name: bmz-entwicklungszusammenarbeit
-description: "Wenn es um Entwicklungszusammenarbeit und bilaterale Abkommen (BMZ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmz Entwicklungszusammenarbeit; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Entwicklungszusammenarbeit und bilaterale Abkommen (BMZ): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmz-entwicklungszusammenarbeit."
 ---
 
 # Entwicklungszusammenarbeit und bilaterale Abkommen (BMZ)

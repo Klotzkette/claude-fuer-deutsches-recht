@@ -1,6 +1,6 @@
 ---
 name: disziplinarverfahren-notar-kammerantwort-und-verfahrenss
-description: "Wenn es um Disziplinarverfahren Notar Kammerantwort Und Verfahrenss in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Disziplinarverfahren Notar Kammerantwort und Verfahrenss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: disziplinarverfahren notar - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

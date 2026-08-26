@@ -1,6 +1,6 @@
 ---
 name: tracking-pixel-cookies
-description: "Wenn es um Tracking Pixel Cookies in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tracking Pixel Cookies: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tracking Pixel Cookies

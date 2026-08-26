@@ -1,6 +1,6 @@
 ---
 name: urb-relationstechnik-entscheidungsgruende
-description: "Wenn es um Urb: Relationstechnik Bauleiter in Urteilsbauer und Relationsmacher geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Urb Relationstechnik Entscheidungsgruende; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Urb: Relationstechnik Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Urteilsbauer und Relationsmacher. Route: urb-relationstechnik-entscheidungsgruende."
 ---
 
 # Urb: Relationstechnik Bauleiter

@@ -1,6 +1,6 @@
 ---
 name: entscheidungsvorlage-frage-zeugen
-description: "Wenn es um Entscheidungsvorlage in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Schöffen und Handelsrichter Praxis."
 ---
 
 # Entscheidungsvorlage

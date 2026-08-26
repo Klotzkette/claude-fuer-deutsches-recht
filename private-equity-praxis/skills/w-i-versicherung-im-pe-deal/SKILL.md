@@ -1,6 +1,6 @@
 ---
 name: w-i-versicherung-im-pe-deal
-description: "Wenn es um W&I-Versicherung im PE-Deal in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für W&I-Versicherung im PE-Deal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # W&I-Versicherung im PE-Deal

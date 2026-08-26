@@ -1,6 +1,6 @@
 ---
 name: subsumtionshelfer-faelle-pattern
-description: "Wenn es um Subsumtionshelfer — 10 Pattern-Faelle in Verhältnismäßigkeitsprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Subsumtionshelfer — 10 Pattern-Fälle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Subsumtionshelfer — 10 Pattern-Faelle

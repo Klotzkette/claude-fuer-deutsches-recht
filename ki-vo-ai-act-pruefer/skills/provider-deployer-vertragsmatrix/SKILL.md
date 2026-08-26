@@ -1,6 +1,6 @@
 ---
 name: provider-deployer-vertragsmatrix
-description: "Wenn es um Provider-Deployer-Vertragsmatrix in europäischem Technikregulierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Provider-Deployer-Vertragsmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Provider-Deployer-Vertragsmatrix

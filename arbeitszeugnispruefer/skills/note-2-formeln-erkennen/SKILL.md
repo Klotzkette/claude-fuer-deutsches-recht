@@ -1,6 +1,6 @@
 ---
 name: note-2-formeln-erkennen
-description: "Wenn es um Note-2-Formeln erkennen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Note-2-Formeln erkennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Note-2-Formeln erkennen

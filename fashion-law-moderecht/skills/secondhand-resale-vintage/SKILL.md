@@ -1,6 +1,6 @@
 ---
 name: secondhand-resale-vintage
-description: "Wenn es um Secondhand Resale Vintage in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Secondhand Resale Vintage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Secondhand Resale Vintage

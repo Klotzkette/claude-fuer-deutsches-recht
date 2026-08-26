@@ -1,6 +1,6 @@
 ---
 name: vorbehaltsaufgaben-stberg
-description: "Wenn es um Vorbehaltsaufgaben Steuerberater — Paragraf 3 Paragraf 4 StBerG in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorbehaltsaufgaben Steuerberater — Paragraf 3 Paragraf 4 StBerG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorbehaltsaufgaben Steuerberater — § 3 § 4 StBerG

@@ -1,6 +1,6 @@
 ---
 name: datenminimierung-geheimnisschutz
-description: "Wenn es um Datenminimierung und Geheimnisschutz in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenminimierung und Geheimnisschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenminimierung und Geheimnisschutz

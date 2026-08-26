@@ -1,6 +1,6 @@
 ---
 name: chronologie-fuer-behoerde
-description: "Wenn es um Chronologie für Behörde in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Chronologie für Behörde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Chronologie für Behörde

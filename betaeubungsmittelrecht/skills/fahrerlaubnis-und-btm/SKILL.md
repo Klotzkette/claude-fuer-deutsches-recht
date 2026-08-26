@@ -1,6 +1,6 @@
 ---
 name: fahrerlaubnis-und-btm
-description: "Wenn es um Fahrerlaubnis Und Btm in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fahrerlaubnis und Btm: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fahrerlaubnis Und Btm

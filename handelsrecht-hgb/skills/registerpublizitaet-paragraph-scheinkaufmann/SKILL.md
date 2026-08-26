@@ -1,6 +1,6 @@
 ---
 name: registerpublizitaet-paragraph-scheinkaufmann
-description: "Wenn es um Registerpublizität Paragraf 15 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Registerpublizität Paragraf 15 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registerpublizität § 15 HGB

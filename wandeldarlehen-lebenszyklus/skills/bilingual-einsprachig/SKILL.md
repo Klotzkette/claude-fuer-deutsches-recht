@@ -1,6 +1,6 @@
 ---
 name: bilingual-einsprachig
-description: "Wenn es um Bilingual: Schriftsatz-, Brief- und Memo-Bausteine in Wandeldarlehen-Lebenszyklus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Bilingual: Schriftsatz-, Brief- und Memo-Bausteine: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bilingual: Schriftsatz-, Brief- und Memo-Bausteine

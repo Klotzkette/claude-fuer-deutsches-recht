@@ -1,6 +1,6 @@
 ---
 name: nutzungen-zinsen-fruechte-gebrauchsvorteile
-description: "Wenn es um Nutzungen, Zinsen, Früchte und Gebrauchsvorteile in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nutzungen, Zinsen, Früchte und Gebrauchsvorteile: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nutzungen, Zinsen, Früchte und Gebrauchsvorteile

@@ -1,6 +1,6 @@
 ---
 name: fall-fingerabdruck-und-schnelltriage
-description: "Wenn es um Fall-Fingerabdruck und Schnelltriage in Bauträgervertrag-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fall-Fingerabdruck und Schnelltriage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fall-Fingerabdruck und Schnelltriage

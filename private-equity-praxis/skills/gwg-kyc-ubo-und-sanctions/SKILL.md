@@ -1,6 +1,6 @@
 ---
 name: gwg-kyc-ubo-und-sanctions
-description: "Wenn es um GwG, KYC, UBO und Sanktionen in Private Equity Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für GwG, KYC, UBO und Sanktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GwG, KYC, UBO und Sanktionen

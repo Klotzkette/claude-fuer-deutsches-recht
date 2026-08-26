@@ -1,6 +1,6 @@
 ---
 name: ki-steuerkanzlei-kooperation
-description: "Wenn es um Ki Steuerkanzlei Kooperation in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Ki Steuerkanzlei Kooperation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: ki in der steuerkanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

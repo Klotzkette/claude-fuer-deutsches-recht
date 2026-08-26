@@ -1,6 +1,6 @@
 ---
 name: runway-und-milestone-monitor
-description: "Wenn es um Runway und Milestone Monitor in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Runway und Milestone Monitor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Runway und Milestone Monitor

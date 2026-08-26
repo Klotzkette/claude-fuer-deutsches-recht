@@ -1,6 +1,6 @@
 ---
 name: time-entry-hygiene
-description: "Wenn es um Time Entry Hygiene in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Time Entry Hygiene: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Time Entry Hygiene

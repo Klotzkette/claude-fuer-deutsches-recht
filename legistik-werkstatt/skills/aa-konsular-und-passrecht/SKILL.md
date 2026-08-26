@@ -1,6 +1,6 @@
 ---
 name: aa-konsular-und-passrecht
-description: "Wenn es um Konsularrecht und Passrecht (AA) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Aa Konsular Und Passrecht; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Konsularrecht und Passrecht (AA): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: aa-konsular-und-passrecht."
 ---
 
 # Konsularrecht und Passrecht (AA)

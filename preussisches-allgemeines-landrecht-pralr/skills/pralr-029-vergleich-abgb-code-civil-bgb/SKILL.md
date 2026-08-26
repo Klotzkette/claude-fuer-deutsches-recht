@@ -1,6 +1,6 @@
 ---
 name: pralr-029-vergleich-abgb-code-civil-bgb
-description: "Wenn es um Kodifikationsvergleich in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Pralr 029 Vergleich Abgb Code Civil BGB; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Kodifikationsvergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-029-vergleich-abgb-code-civil-bgb."
 ---
 
 # Kodifikationsvergleich

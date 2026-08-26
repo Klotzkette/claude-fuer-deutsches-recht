@@ -1,6 +1,6 @@
 ---
 name: lebensmittelrecht-gerichtstermin
-description: "Wenn es um Lebensmittelrecht Gerichtstermin Vorbe in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lebensmittelrecht Gerichtstermin Vorbe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lebensmittelrecht Gerichtstermin Vorbe

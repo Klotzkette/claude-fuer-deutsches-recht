@@ -1,6 +1,6 @@
 ---
 name: chn-049-cybersecurity-law-risk-map
-description: "Wenn es um Cybersecurity Law Risk Map in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cybersecurity Law Risk Map: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cybersecurity Law Risk Map

@@ -1,6 +1,6 @@
 ---
 name: atmp-chain-of-identity
-description: "Wenn es um Atmp Chain Of Identity in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Atmp Chain Of Identity: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ATMP Chain of Identity: moderner Medizinrechts-Skill für Autologe Zelltherapie: Patientenmaterial, Verwechslung, Transport, Kryokonservierung und Auditspur

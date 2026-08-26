@@ -1,6 +1,6 @@
 ---
 name: auslandsvertreter-und-correspondent-risk-kammera
-description: "Wenn es um Auslandsvertreter Und Correspondent Risk Kammera in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Auslandsvertreter und Correspondent Risk Kammera: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Patentanwälte: auslandsvertreter und correspondent risk - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: kokain-menge-einordnen
-description: "Wenn es um Kokain Menge Einordnen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kokain Menge Einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kokain Menge Einordnen

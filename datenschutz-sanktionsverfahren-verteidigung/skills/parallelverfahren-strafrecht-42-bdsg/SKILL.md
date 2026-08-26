@@ -1,6 +1,6 @@
 ---
 name: parallelverfahren-strafrecht-42-bdsg
-description: "Wenn es um Parallelverfahren Paragraf 42 BDSG und Strafrecht in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Parallelverfahren Paragraf 42 BDSG und Strafrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Parallelverfahren § 42 BDSG und Strafrecht

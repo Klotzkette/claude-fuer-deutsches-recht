@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-review-sonderfall-source-red-team-korrektur
-description: "Wenn es um Spezial: Tatbestand, Beweis und Belegaufbau im IP-Recht in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Spezial: Tatbestand, Beweis und Belegaufbau im IP-Recht: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Spezial: Tatbestand, Beweis und Belegaufbau im IP-Recht

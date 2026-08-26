@@ -1,6 +1,6 @@
 ---
 name: geas-2026-umstellung
-description: "Wenn es um GEAS-Umstellung 2026: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GEAS-Umstellung 2026: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GEAS-Umstellung 2026: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um GEAS-Umstellung 2026: Fachmodul im Migrationsrecht in F
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-geas-2026-umstellung` beziehungsweise GEAS-Umstellung 2026: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-geas-2026-umstellung.md).

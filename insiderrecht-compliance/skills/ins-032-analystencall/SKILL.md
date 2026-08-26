@@ -1,6 +1,6 @@
 ---
 name: ins-032-analystencall
-description: "Wenn es um Insiderrecht: Analystencall in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insiderrecht: Analystencall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Analystencall

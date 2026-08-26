@@ -1,6 +1,6 @@
 ---
 name: china-fdi-screening-deutschland-chinesische-investoren-critical
-description: "Wenn es um FDI-Screening Deutschland/EU: Verfahren bei chinesischen Investitionen in China-Wirtschaftsverkehr geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für FDI-Screening Deutschland/EU: Verfahren bei chinesischen Investitionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # FDI-Screening Deutschland/EU: Verfahren bei chinesischen Investitionen

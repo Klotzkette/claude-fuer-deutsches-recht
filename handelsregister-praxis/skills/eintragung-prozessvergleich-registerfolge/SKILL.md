@@ -1,6 +1,6 @@
 ---
 name: eintragung-prozessvergleich-registerfolge
-description: "Wenn es um Prozessvergleich mit Registerfolge in Handelsregister Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Prozessvergleich mit Registerfolge: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Prozessvergleich mit Registerfolge

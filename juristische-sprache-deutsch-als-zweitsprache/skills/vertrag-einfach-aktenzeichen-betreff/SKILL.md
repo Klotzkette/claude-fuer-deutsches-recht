@@ -1,6 +1,6 @@
 ---
 name: vertrag-einfach-aktenzeichen-betreff
-description: "Wenn es um Vertrag Einfach Verstehen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertrag Einfach Verstehen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertrag Einfach Verstehen

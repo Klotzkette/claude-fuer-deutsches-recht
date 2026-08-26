@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsychologie-gutachten-anforderungen
-description: "Wenn es um Strafrecht Spezial Aussagepsychologie Gutachten Anforderungen in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Aussagepsychologie Gutachten Anforderungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Methodische Mindestanforderungen an aussagepsychologische Sachverstaendigengutachten nach BGH-Vorgaben: Auftrag, Aktenlage, Exploration, Aussageinhalts-Analyse (CBCA), Konstanzanalyse, Suggestionspruefung, Hypothesenpruefung

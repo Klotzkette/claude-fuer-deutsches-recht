@@ -1,6 +1,6 @@
 ---
 name: versteigerungsteilnahme-mehrparteienkonflikt
-description: "Wenn es um Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix

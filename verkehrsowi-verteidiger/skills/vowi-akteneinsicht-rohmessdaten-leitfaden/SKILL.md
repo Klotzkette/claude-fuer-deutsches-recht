@@ -1,6 +1,6 @@
 ---
 name: vowi-akteneinsicht-rohmessdaten-leitfaden
-description: "Wenn es um Vowi Akteneinsicht Rohmessdaten Leitfaden in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vowi Akteneinsicht Rohmessdaten Leitfaden: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leitfaden Akteneinsicht und Rohmessdaten in OWi-Verfahren: BVerfG- und OLG-Rechtsprechung, Sachverstaendigengutachten, standardisiertes Messverfahren

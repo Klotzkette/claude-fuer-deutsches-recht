@@ -1,6 +1,6 @@
 ---
 name: entfristung-klageschrift-laie-baustein
-description: "Wenn es um Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Rubrum in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Rubrum: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Rubrum

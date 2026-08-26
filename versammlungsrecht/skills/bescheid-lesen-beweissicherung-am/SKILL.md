@@ -1,6 +1,6 @@
 ---
 name: bescheid-lesen-beweissicherung-am
-description: "Wenn es um Erst Bescheidtyp verstehen in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erst Bescheidtyp verstehen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Erst Bescheidtyp verstehen

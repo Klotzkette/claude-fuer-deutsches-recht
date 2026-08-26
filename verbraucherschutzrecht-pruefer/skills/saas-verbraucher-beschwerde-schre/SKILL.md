@@ -1,6 +1,6 @@
 ---
 name: saas-verbraucher-beschwerde-schre
-description: "Wenn es um Saas Für Verbraucher Agb Redlinen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Saas für Verbraucher AGB Redlinen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: saas-verbraucher-beschwerde-schre."
 ---
 
 # Saas Für Verbraucher Agb Redlinen

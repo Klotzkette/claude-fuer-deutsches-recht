@@ -1,6 +1,6 @@
 ---
 name: flughafen-pfaendung-genehmigung
-description: "Wenn es um Flughafen – Pfändung planen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Flughafen – Pfändung planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Flughafen – Pfändung planen

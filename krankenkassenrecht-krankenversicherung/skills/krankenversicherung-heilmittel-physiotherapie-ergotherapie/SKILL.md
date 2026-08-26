@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-heilmittel-physiotherapie-ergotherapie
-description: "Prüft Verordnung und Durchsetzung von Physiotherapie, Ergotherapie, Stimm-, Sprech-, Sprach- und Schlucktherapie, Podologie und Ernährungstherapie. Trennt orientierende Menge, langfristigen Heilmittelbedarf und besonderen Verordnungsbedarf."
+description: "Prüft Verordnung und Durchsetzung von Physiotherapie, Ergotherapie, Stimm-, Sprech-, Sprach- und Schlucktherapie, Podologie und Ernährungstherapie."
 ---
 
 # Heilmittel: Verordnung, Langzeitbedarf und Kostenerstattung

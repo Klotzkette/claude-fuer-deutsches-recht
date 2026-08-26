@@ -1,6 +1,6 @@
 ---
 name: wissenschaft-tdm-forschung
-description: "Wenn es um Wissenschaft, Forschung und TDM in Urheberrecht DE EU geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Wissenschaft, Forschung und TDM: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wissenschaft, Forschung und TDM

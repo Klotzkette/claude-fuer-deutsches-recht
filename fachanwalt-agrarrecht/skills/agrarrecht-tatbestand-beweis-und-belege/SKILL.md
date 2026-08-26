@@ -1,6 +1,6 @@
 ---
 name: agrarrecht-tatbestand-beweis-und-belege
-description: "Wenn es um Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Agrarrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

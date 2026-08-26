@@ -1,6 +1,6 @@
 ---
 name: einschaetzungspraerogative-kontrolldichte
-description: "Wenn es um Einschaetzungspraerogative und Kontrolldichte in Verhältnismäßigkeitsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Einschätzungsprärogative und Kontrolldichte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einschaetzungspraerogative und Kontrolldichte

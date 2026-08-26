@@ -1,6 +1,6 @@
 ---
 name: cloud-act-vs-dsgvo-art-48-dsgvo
-description: "Prüft Herausgabeverlangen einer Drittstaatsbehörde an Anbieter oder Konzerngesellschaften. Trennt Bindungswirkung, Artikel 48, Rechtsgrundlage, Drittlandtransfer, Datenpanne und Geheimnisschutz und liefert Hold-Notice, Antwortstrategie, Behördenweg und dokumentierte Transferentscheidung."
+description: "Prüft Herausgabeverlangen einer Drittstaatsbehörde an Anbieter oder Konzerngesellschaften."
 ---
 
 # Drittstaatliches Herausgabeverlangen datenschutzrechtlich prüfen

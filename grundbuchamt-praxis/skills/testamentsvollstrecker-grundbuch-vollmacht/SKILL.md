@@ -1,6 +1,6 @@
 ---
 name: testamentsvollstrecker-grundbuch-vollmacht
-description: "Wenn es um Testamentsvollstrecker im Grundbuch in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Testamentsvollstrecker im Grundbuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Testamentsvollstrecker im Grundbuch

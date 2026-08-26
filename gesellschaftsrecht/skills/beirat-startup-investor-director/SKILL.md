@@ -1,6 +1,6 @@
 ---
 name: beirat-startup-investor-director
-description: "Wenn es um Beirat Startup Investor Director in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beirat Startup Investor Director: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht."
 ---
 
 # Beirat Startup Investor Director

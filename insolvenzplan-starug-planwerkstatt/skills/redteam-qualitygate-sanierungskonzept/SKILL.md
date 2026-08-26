@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate-sanierungskonzept
-description: "Wenn es um Red Team und Quality Gate in Insolvenzplan- und StaRUG-Planwerkstatt geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red Team und Quality Gate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red Team und Quality Gate

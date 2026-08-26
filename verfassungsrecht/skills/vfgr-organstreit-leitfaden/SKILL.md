@@ -1,6 +1,6 @@
 ---
 name: vfgr-organstreit-leitfaden
-description: "Wenn es um VfgR: Organstreit in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für VfgR: Organstreit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VfgR: Organstreit

@@ -1,6 +1,6 @@
 ---
 name: arztbrief-begruendung-nachfordern
-description: "Wenn es um Arztbrief Begründung nachfordern in GOÄ Gebührenordnung für Ärzte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Arztbrief Begründung nachfordern: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Arztbrief Begründung nachfordern

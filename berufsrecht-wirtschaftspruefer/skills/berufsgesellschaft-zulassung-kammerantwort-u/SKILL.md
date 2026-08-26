@@ -1,6 +1,6 @@
 ---
 name: berufsgesellschaft-zulassung-kammerantwort-u
-description: "Wenn es um Berufsgesellschaft Zulassung Kammerantwort U in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Berufsgesellschaft Zulassung Kammerantwort U: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: berufsgesellschaft zulassung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

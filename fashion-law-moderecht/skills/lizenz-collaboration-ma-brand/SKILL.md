@@ -1,6 +1,6 @@
 ---
 name: lizenz-collaboration-ma-brand
-description: "Wenn es um Lizenz Collaboration Co Branding in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Lizenz Collaboration Co Branding: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lizenz Collaboration Co Branding

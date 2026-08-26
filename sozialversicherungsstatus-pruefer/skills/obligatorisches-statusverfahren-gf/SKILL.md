@@ -1,6 +1,6 @@
 ---
 name: obligatorisches-statusverfahren-gf
-description: "Wenn es um Obligatorisches Statusverfahren Geschäftsführer in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Obligatorisches Statusverfahren Geschäftsführer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Obligatorisches Statusverfahren Geschäftsführer

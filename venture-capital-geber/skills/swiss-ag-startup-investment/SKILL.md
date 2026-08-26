@@ -1,6 +1,6 @@
 ---
 name: swiss-ag-startup-investment
-description: "Wenn es um Schweizer Startup-Investment in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schweizer Startup-Investment: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schweizer Startup-Investment

@@ -1,6 +1,6 @@
 ---
 name: europa-menschenrechte-familie-partnerschaft
-description: "Wenn es um Europa und Menschenrechte in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Europa und Menschenrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Europa und Menschenrechte

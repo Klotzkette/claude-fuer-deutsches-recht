@@ -1,6 +1,6 @@
 ---
 name: rollen-und-harness-wahl
-description: "Wählt zwischen einfachem, qualifiziertem, Zwischen-, Ausbildungs- und Praktikumszeugnis und ordnet die richtige Rechtsgrundlage zu. Liefert eine knappe Inhalts- und Formmatrix, bevor der passende Spezialskill den Entwurf übernimmt."
+description: "Wählt zwischen einfachem, qualifiziertem, Zwischen-, Ausbildungs- und Praktikumszeugnis und ordnet die richtige Rechtsgrundlage zu."
 ---
 
 # Rollen und Harness-Wahl

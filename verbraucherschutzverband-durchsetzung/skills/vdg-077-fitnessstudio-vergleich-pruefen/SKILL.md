@@ -1,6 +1,6 @@
 ---
 name: vdg-077-fitnessstudio-vergleich-pruefen
-description: "Wenn es um Fitnessstudio Vergleich Pruefen in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Fitnessstudio Vergleich Prüfen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Verbraucherschutzverband Durchsetzung. Route: vdg-077-fitnessstudio-vergleich-pruefen."
 ---
 
 # Fitnessstudio Vergleich Pruefen

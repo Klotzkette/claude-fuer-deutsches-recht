@@ -1,6 +1,6 @@
 ---
 name: verlagsgesetz-kuendigung
-description: "Wenn es um Verl-044 · Verlagsgesetz: Paragraphen-Navigator in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-044 · Verlagsgesetz: Paragraphen-Navigator: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-044 · Verlagsgesetz: Paragraphen-Navigator

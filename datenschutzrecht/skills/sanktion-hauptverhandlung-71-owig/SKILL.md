@@ -1,6 +1,6 @@
 ---
 name: sanktion-hauptverhandlung-71-owig
-description: "Wenn es um Hauptverhandlung Paragraf 71 OWiG in Datenschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Hauptverhandlung Paragraf 71 OWiG: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Datenschutzrecht."
 ---
 
 # Hauptverhandlung § 71 OWiG
@@ -49,3 +49,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 - EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
 - Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-sanktion-hauptverhandlung-71-owig` beziehungsweise Datenschutzrecht-Brückenskill: Hauptverhandlung § 71 OWiG: Hauptverhandlung mit StPO-Logik, Beweisaufnahme, Zeugen, Sachverständigen und Anträgen vorbereiten: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-sanktion-hauptverhandlung-71-owig.md).

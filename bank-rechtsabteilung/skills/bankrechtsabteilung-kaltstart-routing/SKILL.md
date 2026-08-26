@@ -1,6 +1,6 @@
 ---
 name: bankrechtsabteilung-kaltstart-routing
-description: "Wenn es um Kaltstart-Routing in Bank-Rechtsabteilung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Kaltstart-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart-Routing

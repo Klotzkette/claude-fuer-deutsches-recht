@@ -1,6 +1,6 @@
 ---
 name: annahmen-sammeln-bilanzieller-status
-description: "Wenn es um Annahmen sammeln (Fortführung) in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Annahmen sammeln (Fortführung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Annahmen sammeln (Fortführung)

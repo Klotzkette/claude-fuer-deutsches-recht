@@ -1,6 +1,6 @@
 ---
 name: zitierweise-jura-fundstellen
-description: "Wenn es um Zitierweise in der juristischen Hausarbeit in hausarbeitenmacher — Didaktisches Plugin für juristische geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zitierweise in der juristischen Hausarbeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zitierweise in der juristischen Hausarbeit

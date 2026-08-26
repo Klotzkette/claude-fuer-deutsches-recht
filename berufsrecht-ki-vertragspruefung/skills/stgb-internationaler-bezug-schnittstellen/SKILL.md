@@ -1,6 +1,6 @@
 ---
 name: stgb-internationaler-bezug-schnittstellen
-description: "Wenn es um Stgb: Internationaler Bezug und Schnittstellen in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stgb: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: stgb-internationaler-bezug-schnittstellen."
 ---
 
 # Stgb: Internationaler Bezug und Schnittstellen

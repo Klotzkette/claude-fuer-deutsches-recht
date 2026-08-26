@@ -1,6 +1,6 @@
 ---
 name: sector-regulatory-dd
-description: "Wenn es um Sector Regulatory Dd in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sector Regulatory Dd: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sector Regulatory DD für regulierte Targets: prüft Erlaubnisse, Aufsicht, Change-of-Control, Inhaberqualifikation, Meldepflichten und regulatorische CPs.

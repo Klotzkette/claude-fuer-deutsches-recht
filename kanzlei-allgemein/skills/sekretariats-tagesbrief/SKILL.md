@@ -1,6 +1,6 @@
 ---
 name: sekretariats-tagesbrief
-description: "Wenn es um Sekretariats-Tagesbrief in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sekretariats-Tagesbrief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Sekretariats-Tagesbrief

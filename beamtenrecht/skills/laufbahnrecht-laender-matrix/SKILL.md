@@ -1,6 +1,6 @@
 ---
 name: laufbahnrecht-laender-matrix
-description: "Wenn es um Laufbahnrecht Laender Matrix in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laufbahnrecht Länder Matrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Beamtenrecht. Route: laufbahnrecht-laender-matrix."
 ---
 
 # Laufbahnrecht Laender Matrix

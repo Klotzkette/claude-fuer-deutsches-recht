@@ -1,6 +1,6 @@
 ---
 name: leaver-klauseln-mietvertrag-buero-mitarbeiter
-description: "Wenn es um Leaver-Klauseln in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leaver-Klauseln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leaver-Klauseln

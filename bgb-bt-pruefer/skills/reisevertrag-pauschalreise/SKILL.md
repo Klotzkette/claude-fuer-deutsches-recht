@@ -1,6 +1,6 @@
 ---
 name: reisevertrag-pauschalreise
-description: "Wenn es um Reisevertrag und Pauschalreise Paragrafen 651a ff. BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Reisevertrag und Pauschalreise Paragrafen 651a ff. BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reisevertrag und Pauschalreise §§ 651a ff. BGB

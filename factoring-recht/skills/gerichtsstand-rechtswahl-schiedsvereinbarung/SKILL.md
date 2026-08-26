@@ -1,6 +1,6 @@
 ---
 name: gerichtsstand-rechtswahl-schiedsvereinbarung
-description: "Wenn es um Gerichtsstand Rechtswahl Schiedsvereinbarung in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gerichtsstand Rechtswahl Schiedsvereinbarung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gerichtsstand Rechtswahl Schiedsvereinbarung

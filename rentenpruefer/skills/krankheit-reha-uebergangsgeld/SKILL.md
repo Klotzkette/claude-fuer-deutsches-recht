@@ -1,6 +1,6 @@
 ---
 name: krankheit-reha-uebergangsgeld
-description: "Wenn es um krankheit-reha-uebergangsgeld in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für krankheit-reha-übergangsgeld: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # krankheit-reha-uebergangsgeld

@@ -1,6 +1,6 @@
 ---
 name: look-feel-mandatsannahme-gwg
-description: "Wenn es um Look and Feel in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Look and Feel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Look and Feel

@@ -1,6 +1,6 @@
 ---
 name: satellite-cable-security-interests
-description: "Wenn es um Cable und Satellite Licenses in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cable und Satellite Licenses: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cable und Satellite Licenses

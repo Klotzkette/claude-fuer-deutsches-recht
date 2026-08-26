@@ -1,6 +1,6 @@
 ---
 name: foerdermittel-bescheid
-description: "Wenn es um Fördermittel-Bescheid in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fördermittel-Bescheid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fördermittel-Bescheid

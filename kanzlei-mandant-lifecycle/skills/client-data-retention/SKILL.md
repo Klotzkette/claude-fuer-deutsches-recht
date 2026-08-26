@@ -1,6 +1,6 @@
 ---
 name: client-data-retention
-description: "Wenn es um Client Data Retention in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Client Data Retention: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Client Data Retention

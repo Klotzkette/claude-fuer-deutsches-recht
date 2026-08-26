@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-verkehrsstrafrecht-323a-stgb-rauschtat
-description: "Wenn es um Vollrausch nach Paragraph 323a StGB als Auffangtatbestand bei schuldunfaehiger Rauschtat in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vollrausch nach Paragraph 323a StGB als Auffangtatbestand bei schuldunfähiger Rauschtat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollrausch nach Paragraph 323a StGB als Auffangtatbestand bei schuldunfaehiger Rauschtat

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-vob-a-bauvergabe
-description: "Wenn es um VOB-A-Bauvergabe (Abschnitte 1 und 2) in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für VOB-A-Bauvergabe (Abschnitte 1 und 2): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VOB-A-Bauvergabe (Abschnitte 1 und 2)

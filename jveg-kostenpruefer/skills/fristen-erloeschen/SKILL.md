@@ -1,6 +1,6 @@
 ---
 name: fristen-erloeschen
-description: "Wenn es um JVEG-Fristen-Erloeschen in JVEG-Kostenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für JVEG-Fristen-Erlöschen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # JVEG-Fristen-Erloeschen

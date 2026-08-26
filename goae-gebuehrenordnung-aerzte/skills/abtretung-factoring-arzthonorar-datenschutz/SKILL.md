@@ -1,6 +1,6 @@
 ---
 name: abtretung-factoring-arzthonorar-datenschutz
-description: "Wenn es um Abtretung Factoring Arzthonorar Datenschutz in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Abtretung Factoring Arzthonorar Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abtretung Factoring Arzthonorar Datenschutz

@@ -1,6 +1,6 @@
 ---
 name: pralr-spez-zwitterrecht-historisch-medizinisch-rechtsfolgen
-description: "Wenn es um Zwitterrecht ALR — historisch-medizinische Dimension in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zwitterrecht ALR — historisch-medizinische Dimension: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zwitterrecht ALR — historisch-medizinische Dimension

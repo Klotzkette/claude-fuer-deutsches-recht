@@ -1,6 +1,6 @@
 ---
 name: plattformarbeit
-description: "Wenn es um Scheinselbstständigkeit und Status: Prüft plattformvorgaben in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Scheinselbstständigkeit und Status: Prüft plattformvorgaben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Scheinselbstständigkeit und Status: Prüft plattformvorgaben

@@ -1,6 +1,6 @@
 ---
 name: credit-bidding-363k
-description: "Wenn es um Credit Bidding Paragraf 363(k) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Credit Bidding Paragraf 363(k): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Credit Bidding § 363(k)

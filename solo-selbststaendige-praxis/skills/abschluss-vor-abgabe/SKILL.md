@@ -1,6 +1,6 @@
 ---
 name: abschluss-vor-abgabe
-description: "Wenn es um Grenzen Compliance und Selbstschutz: Macht den finalen selbstcheck vor vertrag in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grenzen Compliance und Selbstschutz: Macht den finalen selbstcheck vor vertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzen Compliance und Selbstschutz: Macht den finalen selbstcheck vor vertrag

@@ -1,6 +1,6 @@
 ---
 name: landpacht-anzeige-beanstandung-pachtzins
-description: "Prüft Landpachtvertrag, Anzeigepflicht, behördliche Beanstandung und Anpassung des Pachtzinses. Unterscheidet Agrarstrukturkontrolle nach LPachtVG von der zivilrechtlichen Vertragsanpassung nach Paragraf 593 BGB und erstellt Fristenplan, Vergleichsdatensatz und Antrag an das Landwirtschaftsgericht."
+description: "Prüft Landpachtvertrag, Anzeigepflicht, behördliche Beanstandung und Anpassung des Pachtzinses."
 ---
 
 # Landpacht und Pachtzins prüfen

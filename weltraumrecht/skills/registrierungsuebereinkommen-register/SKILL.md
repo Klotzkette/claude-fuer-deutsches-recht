@@ -1,6 +1,6 @@
 ---
 name: registrierungsuebereinkommen-register
-description: "Wenn es um Weltraumrecht: Registrierungsübereinkommen: Register, Staat, Zuständigkeit, Kontrolle in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Registrierungsübereinkommen: Register, Staat, Zuständigkeit, Kontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Weltraumrecht: Registrierungsübereinkommen: Register, Staat, Zuständigkeit, Kontrolle

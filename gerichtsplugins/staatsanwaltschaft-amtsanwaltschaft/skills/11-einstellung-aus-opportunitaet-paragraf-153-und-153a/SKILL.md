@@ -1,6 +1,6 @@
 ---
 name: 11-einstellung-aus-opportunitaet-paragraf-153-und-153a
-description: "Wenn es um 11 Einstellung Aus Opportunitaet Paragraf 153 und 153a in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 11 Einstellung aus Opportunität Paragraf 153 und 153a: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 11 Einstellung Aus Opportunitaet Paragraf 153 und 153a

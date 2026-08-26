@@ -1,6 +1,6 @@
 ---
 name: familienrecht-erstgespraech
-description: "Wenn es um ELS-J Familienrecht-Erstgespraech in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ELS-J Familienrecht-Erstgespräch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: familienrecht-erstgespraech."
 ---
 
 # ELS-J Familienrecht-Erstgespraech

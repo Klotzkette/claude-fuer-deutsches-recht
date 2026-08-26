@@ -1,6 +1,6 @@
 ---
 name: susa-vorperiode-vergleich
-description: "Wenn es um SuSa-Periodenvergleich — Vormonat und Vorjahres-Periode in Steuerrecht – Steuerberater und Anwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für SuSa-Periodenvergleich — Vormonat und Vorjahres-Periode: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # SuSa-Periodenvergleich — Vormonat und Vorjahres-Periode

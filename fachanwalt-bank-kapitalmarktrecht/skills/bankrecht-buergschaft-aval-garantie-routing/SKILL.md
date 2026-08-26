@@ -1,6 +1,6 @@
 ---
 name: bankrecht-buergschaft-aval-garantie-routing
-description: "Wenn es um Bankrecht Buergschaft Aval Garantie Routing in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bankrecht Bürgschaft Aval Garantie Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen: Bürge, Bank, Begünstigter oder Kunde

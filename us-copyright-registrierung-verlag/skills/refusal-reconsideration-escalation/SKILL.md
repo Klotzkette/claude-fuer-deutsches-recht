@@ -1,6 +1,6 @@
 ---
 name: refusal-reconsideration-escalation
-description: "Wenn es um Refusal, Reconsideration und Eskalation in US Copyright Act und Registrierung für deutsche Verlage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Refusal, Reconsideration und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Refusal, Reconsideration und Eskalation

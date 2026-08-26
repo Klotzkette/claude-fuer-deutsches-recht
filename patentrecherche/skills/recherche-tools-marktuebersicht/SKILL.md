@@ -1,6 +1,6 @@
 ---
 name: recherche-tools-marktuebersicht
-description: "Wenn es um Recherche-Tools: Marktuebersicht in patentrecherche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Recherche-Tools: Marktübersicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Recherche-Tools: Marktuebersicht

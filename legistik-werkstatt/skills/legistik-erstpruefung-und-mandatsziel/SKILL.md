@@ -1,6 +1,6 @@
 ---
 name: legistik-erstpruefung-und-mandatsziel
-description: "Wenn es um Legistik: Erstprüfung, Rollenklärung und Mandatsziel in Legistik-Werkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Legistik Erstpruefung Und Mandatsziel; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Legistik: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Legistik-Werkstatt. Route: legistik-erstpruefung-und-mandatsziel."
 ---
 
 # Legistik: Erstprüfung, Rollenklärung und Mandatsziel

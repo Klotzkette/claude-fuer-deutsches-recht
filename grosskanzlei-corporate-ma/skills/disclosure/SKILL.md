@@ -1,6 +1,6 @@
 ---
 name: disclosure
-description: "Wenn es um Disclosure Schedules in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Disclosure; Arbeitsfeld: Großkanzlei Corporate/M&A."
+description: "Für Disclosure Schedules: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: disclosure."
 ---
 
 # Disclosure Schedules

@@ -1,6 +1,6 @@
 ---
 name: agb-klauselkontrolle-beweislast-und-tatsachenbestaetigung
-description: "Wenn es um AGB-Klauselkontrolle, Beweislast und Tatsachenbestätigung in Bauträgervertrag-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB-Klauselkontrolle, Beweislast und Tatsachenbestätigung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # AGB-Klauselkontrolle, Beweislast und Tatsachenbestätigung

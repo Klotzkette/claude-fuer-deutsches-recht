@@ -1,6 +1,6 @@
 ---
 name: chn-092-union-and-labour-touchpoints
-description: "Wenn es um Union And Labour Touchpoints in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Union And Labour Touchpoints: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Union And Labour Touchpoints

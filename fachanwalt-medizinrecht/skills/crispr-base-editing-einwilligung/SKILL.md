@@ -1,6 +1,6 @@
 ---
 name: crispr-base-editing-einwilligung
-description: "Wenn es um Crispr Base Editing Einwilligung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Crispr Base Editing Einwilligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CRISPR/Base-Editing Einwilligung: moderner Medizinrechts-Skill für Genomeditierung, irreversible Risiken, Off-target-Risiken, Langzeitnachbeobachtung und Aufklärungstiefe

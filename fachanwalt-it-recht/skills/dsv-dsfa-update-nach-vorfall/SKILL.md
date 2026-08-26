@@ -1,6 +1,6 @@
 ---
 name: dsv-dsfa-update-nach-vorfall
-description: "Wenn es um Aktualisiert die Datenschutz-Folgenabschätzung nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktualisiert die Datenschutz-Folgenabschätzung nach Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktualisiert die Datenschutz-Folgenabschätzung nach Art

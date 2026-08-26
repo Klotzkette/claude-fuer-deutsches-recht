@@ -1,6 +1,6 @@
 ---
 name: regulatorisches-richtlinien-neufassung
-description: "Wenn es um Praxisprofil anpassen in Regulatorisches Recht – Plugin für deutsches geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Praxisprofil anpassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Praxisprofil anpassen

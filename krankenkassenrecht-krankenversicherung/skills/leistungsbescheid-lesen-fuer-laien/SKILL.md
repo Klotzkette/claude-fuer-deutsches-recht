@@ -1,6 +1,6 @@
 ---
 name: leistungsbescheid-lesen-fuer-laien
-description: "Wenn es um Leistungsbescheid lesen für Laien in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leistungsbescheid lesen für Laien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leistungsbescheid lesen für Laien

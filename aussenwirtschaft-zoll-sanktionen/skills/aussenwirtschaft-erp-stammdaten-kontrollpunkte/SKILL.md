@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-erp-stammdaten-kontrollpunkte
-description: "Wenn es um ERP-Stammdaten für Exportkontrolle: Konfiguration und Qualitaetssicherung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ERP-Stammdaten für Exportkontrolle: Konfiguration und Qualitätssicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ERP-Stammdaten für Exportkontrolle: Konfiguration und Qualitaetssicherung

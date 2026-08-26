@@ -1,6 +1,6 @@
 ---
 name: appeal-decision-gate
-description: "Wenn es um Rechtsmittel Decision Gate in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsmittel Decision Gate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsmittel Decision Gate

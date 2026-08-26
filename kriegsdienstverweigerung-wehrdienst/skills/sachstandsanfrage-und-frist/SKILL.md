@@ -1,6 +1,6 @@
 ---
 name: sachstandsanfrage-und-frist
-description: "Wenn es um Sachstandsanfrage mit Frist in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachstandsanfrage mit Frist: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Sachstandsanfrage mit Frist

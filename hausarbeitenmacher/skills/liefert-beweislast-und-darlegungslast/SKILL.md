@@ -1,6 +1,6 @@
 ---
 name: liefert-beweislast-und-darlegungslast
-description: "Wenn es um Liefert: Beweislast, Darlegungslast und Substantiierung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Liefert: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Liefert: Beweislast, Darlegungslast und Substantiierung

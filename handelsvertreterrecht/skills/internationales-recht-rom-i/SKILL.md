@@ -1,6 +1,6 @@
 ---
 name: internationales-recht-rom-i
-description: "Wenn es um Anwendbares Recht auf Handelsvertreterverträge nach Rom-I-Verordnung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anwendbares Recht auf Handelsvertreterverträge nach Rom-I-Verordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anwendbares Recht auf Handelsvertreterverträge nach Rom-I-Verordnung

@@ -1,6 +1,6 @@
 ---
 name: lieferantenvertrag-pruefung
-description: "Wenn es um Lieferanten-/Dienstleistervertrag-Prüfung in Vertragsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Lieferanten-/Dienstleistervertrag-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Lieferanten-/Dienstleistervertrag-Prüfung

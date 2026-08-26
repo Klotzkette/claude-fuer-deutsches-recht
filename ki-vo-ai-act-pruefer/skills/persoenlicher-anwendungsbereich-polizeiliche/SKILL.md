@@ -1,6 +1,6 @@
 ---
 name: persoenlicher-anwendungsbereich-polizeiliche
-description: "Wenn es um Persönlicher Anwendungsbereich — Rollen nach Art. 3 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Persoenlicher Anwendungsbereich Polizeiliche; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für Persönlicher Anwendungsbereich — Rollen nach Art. 3 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: persoenlicher-anwendungsbereich-polizeiliche."
 ---
 
 # Persönlicher Anwendungsbereich — Rollen nach Art. 3 KI-VO

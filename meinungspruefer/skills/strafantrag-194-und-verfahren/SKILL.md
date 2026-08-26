@@ -1,6 +1,6 @@
 ---
 name: strafantrag-194-und-verfahren
-description: "Wenn es um Strafantrag und Verfahren in Meinungsprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafantrag und Verfahren: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Strafantrag und Verfahren

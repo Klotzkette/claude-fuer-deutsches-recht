@@ -1,6 +1,6 @@
 ---
 name: datev-zugriff-nach-mandatsende-rechtsprechungsche
-description: "Wenn es um Datev Zugriff Nach Mandatsende Rechtsprechungsche in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für DATEV Zugriff nach Mandatsende Rechtsprechungsche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: datev zugriff nach mandatsende - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

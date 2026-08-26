@@ -1,6 +1,6 @@
 ---
 name: lucid-verpackg-maschinen-ce
-description: "Wenn es um LUCID Registrierung und Datenmeldung in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für LUCID Registrierung und Datenmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LUCID Registrierung und Datenmeldung

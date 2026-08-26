@@ -1,6 +1,6 @@
 ---
 name: db-035-data-act-und-zugang-zu-iot-daten
-description: "Wenn es um Datenbankrecht: Data Act und Zugang zu IoT-Daten in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Data Act und Zugang zu IoT-Daten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Data Act und Zugang zu IoT-Daten

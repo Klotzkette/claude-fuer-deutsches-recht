@@ -1,6 +1,6 @@
 ---
 name: familiengesellschaft-conflict-check-rechtsprechun
-description: "Wenn es um Familiengesellschaft Conflict Check Rechtsprechun in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Familiengesellschaft Conflict Check Rechtsprechun: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: familiengesellschaft conflict check - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

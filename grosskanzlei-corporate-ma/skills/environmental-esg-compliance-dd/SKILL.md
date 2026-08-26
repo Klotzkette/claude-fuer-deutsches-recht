@@ -1,6 +1,6 @@
 ---
 name: environmental-esg-compliance-dd
-description: "Wenn es um Environmental Esg Compliance Dd in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Environmental Esg Compliance Dd: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Environmental, ESG und Compliance DD für M&A: prüft Umweltgenehmigungen, Lieferketten, Sanktionen, Anti-Korruption, ESG-Offenlegung und Reputationsrisiken.

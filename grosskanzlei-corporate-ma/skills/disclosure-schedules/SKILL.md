@@ -1,6 +1,6 @@
 ---
 name: disclosure-schedules
-description: "Wenn es um Disclosure Schedules in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Disclosure Schedules; Arbeitsfeld: Großkanzlei Corporate/M&A."
+description: "Für Disclosure Schedules: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: disclosure-schedules."
 ---
 
 # Disclosure Schedules und Guarantees-Abgleich im SPA/APA: Anwendungsfall Verkaeufer-Anwalt erstellt Disclosure Schedules zur Einschraenkung von Reps and Warranties oder Kaeufer prüft ob Disclosure ausreichend ist

@@ -1,6 +1,6 @@
 ---
 name: btr-zwangsmedikation-genehmigung-spezial
-description: "Wenn es um Btr: Zwangsmedikation in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Btr: Zwangsmedikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Btr: Zwangsmedikation

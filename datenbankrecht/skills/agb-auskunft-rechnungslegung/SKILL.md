@@ -1,6 +1,6 @@
 ---
 name: agb-auskunft-rechnungslegung
-description: "Wenn es um Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung

@@ -1,6 +1,6 @@
 ---
 name: anmeldung-strategie-portfolio
-description: "Wenn es um Anmeldestrategie & Markenportfolio für Luxus-Modehäuser in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anmeldestrategie & Markenportfolio für Luxus-Modehäuser: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Anmeldestrategie & Markenportfolio für Luxus-Modehäuser

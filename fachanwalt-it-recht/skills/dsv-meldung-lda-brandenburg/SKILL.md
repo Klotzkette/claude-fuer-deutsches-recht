@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-lda-brandenburg
-description: "Wenn es um Reicht eine Meldung nach Art in Fachanwalt It Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Reicht eine Meldung nach Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt It Recht. Route: dsv-meldung-lda-brandenburg."
 ---
 
 # Reicht eine Meldung nach Art

@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 122 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Bank Rechtsabteilung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbind…
-2. **kaltstart-triage** — Wenn es um Rechtsabteilung-Kommandocenter in Bank-Rechtsabteilung geht: klärt Rolle, Ziel, Frist, Unterlagen und den pas…
-3. **rechtsabteilung-schufa-score-und-automatisierte-kreditentscheidu** — Wenn es um Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung in Bank-Rechtsabteilung geht: ordnet Sach…
-4. **rechtsabteilung-npl-verkauf-mit-datenschutz-und-bankgeheimnis** — Wenn es um Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis in Bank-Rechtsabteilung geht: ordnet Sachverha…
-5. **anzahlungs-gewaehrleistungs-und-erfuellungsgarantien** — Wenn es um Anzahlungs-, Gewährleistungs- und Erfüllungsgarantien in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm,…
-6. **zag-finanztransfergeschaeft-money-remittance** — Wenn es um Finanztransfergeschäft / Money Remittance nach ZAG in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Be…
-7. **buergschaft-privatperson-gesellschafter-ehegatte** — Wenn es um Buergschaft Privatperson Gesellschafter Ehegatte in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Bewe…
-8. **zag-kontoinformationsdienst-ais** — Wenn es um Kontoinformationsdienst (AIS) nach ZAG und PSD2 in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Bewei…
+2. **kaltstart-triage** — Für Rechtsabteilung-Kommandocenter: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko un…
+3. **rechtsabteilung-schufa-score-und-automatisierte-kreditentscheidu** — Für Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung: ordnet Norm, Beweislast und Gegenargument; Erge…
+4. **rechtsabteilung-dora-auslagerung-ewpg** — Für Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister: ordnet Norm, Beweislast und Gegenargument; Ergeb…
+5. **rechtsabteilung-npl-verkauf-mit-datenschutz-und-bankgeheimnis** — Für Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
+6. **inhkontrollv-bedeutende-beteiligung-bank** — Für InhKontrollV: Bedeutende Beteiligung an Banken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenk…
+7. **rechtsabteilung-psd2-strong-customer-authentication-fall** — Für Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüf…
+8. **rechtsabteilung-ewpg-tokenisierung-und-registerrisiko** — Für Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreic…
 
 ---
 
@@ -137,7 +137,7 @@ Ausgangspunkt für dieses Plugin: Kunde für Beratungssituation, Schaden und Kau
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Rechtsabteilung-Kommandocenter in Bank-Rechtsabteilung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Rechtsabteilung-Kommandocenter: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Rechtsabteilung-Kommandocenter
 
@@ -364,7 +364,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## Skill: `rechtsabteilung-schufa-score-und-automatisierte-kreditentscheidu`
 
-_Wenn es um Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung
 
@@ -412,9 +412,67 @@ Kreditprozesse werden darauf geprüft, ob der Score nur Hilfsinformation oder fa
 
 ---
 
+## Skill: `rechtsabteilung-dora-auslagerung-ewpg`
+
+_Für Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister
+- **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
+- **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Spezialkern: Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister
+
+- **Konkretes Problem:** ICT-Verträge, Exit-Pläne, Register of Information und Vorstandsvorlagen werden in einem Stresscheck zusammengeführt.
+- **Norm-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA, CRR/CRD, GwG, BGB/AGB, HGB, InsO/StaRUG und BaFin-/Bundesbank-Praxis.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
+
+## Norm- und Rechtsprechungsanker
+
+VO EU 2022/2554 DORA; EBA-Outsourcing-Leitlinien; KWG § 25b
+
+## Sofortprüfung
+
+1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
+2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
+3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
+4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
+5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
+
+## Fachlicher Zuschnitt
+
+ICT-Verträge, Exit-Pläne, Register of Information und Vorstandsvorlagen werden in einem Stresscheck zusammengeführt.
+
+## Output für die Rechtsabteilung
+
+- One-page legal memo mit Risikoampel und klarer Empfehlung.
+- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
+- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
+- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
 ## Skill: `rechtsabteilung-npl-verkauf-mit-datenschutz-und-bankgeheimnis`
 
-_Wenn es um Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis
 
@@ -462,11 +520,11 @@ Notleidende Forderungen werden für Abtretung, Datenraum, Schuldnerinformation u
 
 ---
 
-## Skill: `anzahlungs-gewaehrleistungs-und-erfuellungsgarantien`
+## Skill: `inhkontrollv-bedeutende-beteiligung-bank`
 
-_Wenn es um Anzahlungs-, Gewährleistungs- und Erfüllungsgarantien in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für InhKontrollV: Bedeutende Beteiligung an Banken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Anzahlungs-, Gewährleistungs- und Erfüllungsgarantien
+# InhKontrollV: Bedeutende Beteiligung an Banken
 
 ## Arbeitsweg
 
@@ -475,74 +533,112 @@ _Wenn es um Anzahlungs-, Gewährleistungs- und Erfüllungsgarantien in Bank-Rech
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Anzahlungs-, Gewährleistungs- und Erfüllungsgarantien
+## Sofortweichen
+
+| Weiche | Prüffrage |
+| --- | --- |
+| Zielunternehmen | Kreditinstitut, Finanzdienstleistungsinstitut, Versicherer, Pensionsfonds oder anderes reguliertes Unternehmen? |
+| Erwerber | natürliche Person, SPV, Fonds, Holding, Treuhänder, Family Office, Konzern, ausländische Einheit? |
+| Beteiligung | direkt, indirekt, Stimmrechte, Kapital, Kontrolle, Vetorechte, Poolvertrag, Side Letter? |
+| Schwelle | 10 %, 20 %, 30 %, 50 %, Kontrolle, Verringerung oder Aufgabe? |
+| Finanzierung | Eigenmittel, Fremdkapital, Verkäuferdarlehen, Sicherheiten, Herkunft der Mittel? |
+| Aufsicht | BaFin, Bundesbank, EZB/SSM, ausländische Aufsicht, parallele FDI-/Kartell-/Sanktionsprüfung? |
+
+## Unterlagenlogik
+
+Baue eine Deal-Map:
+
+- Erwerberstruktur mit jeder Ebene bis zu den wirtschaftlich Berechtigten.
+- Beteiligungs- und Stimmrechtsquoten vor und nach Closing.
+- Kontrollrechte, Vetorechte, Stimmbindungen, Optionen, Wandlungen.
+- Finanzierungsquellen und Zahlungsströme.
+- Erwerberzuverlässigkeit, Reputation, Straf-/Aufsichtsverfahren, Sanktionsscreening.
+- Geschäftsplan und Einfluss auf das Zielinstitut.
+- Governance nach Closing: Organbesetzung, Ressort, Risk Appetite, Kapitalplanung.
+- Übersetzungen und Sprachfassung, wenn Unterlagen nicht deutsch sind.
+
+## Red-Team der BaFin/Bundesbank
+
+1. Ist die Erwerberkette wirklich lückenlos?
+2. Gibt es verdeckte Kontrolle durch Nebenabreden?
+3. Ist die Finanzierung sauber, tragfähig und AML-/Sanktionsfest?
+4. Können Erwerber oder Gruppe das Institut solide und aufsichtsfähig halten?
+5. Entsteht eine intransparente oder schwer beaufsichtigbare Struktur?
+6. Werden Fit-and-Proper-Fragen bei Organwechseln parallel sauber angezeigt?
+7. Passt der Closing-Zeitplan zur behördlichen Prüfung, oder droht Vollzug vor Freigabe?
+
+## Closing-Mechanik
+
+Empfiehl regelmäßig:
+
+- Inhaberkontrolle als CP mit ausreichend Long Stop Date.
+- Kein Vollzug und keine faktische Kontrollausübung vor aufsichtsrechtlicher Klärung.
+- Separate Anzeige- und Dokumentenverantwortliche.
+- Q&A-Tracker für Nachforderungen.
+- Board-/Investment-Committee-Vorlage mit regulatorischem Zeitpuffer.
+- Parallelcheck Kartell, Außenwirtschaft, Sanktionen, Datenschutz, Börsenrecht und Gruppenaufsicht.
+
+## Quellenanker
+
+Prüfe aktuelle InhKontrollV, § 2c KWG, BaFin-Inhaberkontrollhinweise und bei Wertpapierinstituten die WpI-Inhaberkontrollregeln. Keine Schwellen oder Formulare aus alten Transaktionschecklisten übernehmen.
+
+---
+
+## Skill: `rechtsabteilung-psd2-strong-customer-authentication-fall`
+
+_Für Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
 - **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Typische Konstellationen
+## Spezialkern: Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall
 
-- Maschinenbaukunde erhält Anzahlung und braucht Anzahlungsbürgschaft.
-- Bauunternehmen muss Vertragserfüllungs- oder Mängelansprüche absichern.
-- Lieferant soll Gewährleistungsgarantie mit langer Nachhaftung stellen.
-- Öffentlicher Auftraggeber verlangt Formulartext.
-- Generalunternehmer reicht Avalkosten und Sicherheiten entlang der Kette weiter.
+- **Konkretes Problem:** Haftung bei nicht autorisierten Zahlungsvorgängen wird mit Beweislast, Authentifizierungslog und Kulanzstrategie geprüft.
+- **Norm-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA, CRR/CRD, GwG, BGB/AGB, HGB, InsO/StaRUG und BaFin-/Bundesbank-Praxis.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
-## Prüfmatrix
+## Norm- und Rechtsprechungsanker
 
-| Garantieart | Kernrisiko | Bankfrage |
-| --- | --- | --- |
-| Anzahlungsaval | Kunde liefert nicht, Anzahlung muss zurück | Ist Mittelverwendung überwacht und Regress realistisch? |
-| Vertragserfüllungsaval | Nicht-/Schlechterfüllung | Ist Abruf an Vertragsverletzung oder nur Erklärung gebunden? |
-| Gewährleistungsaval | lange Nachlaufzeit, Mängelstreit | Gibt es Reduzierung, Rückgabe und klare Laufzeit? |
-| Bietungsaval | Ausschreibungsphase | Betrag/Laufzeit klein, aber Frist und Formular streng |
-| Zoll-/Steueraval | öffentliche Hand | Sonderformulare und öffentlich-rechtliche Schnittstelle prüfen |
+ZAG, PSD2, RTS SCA; BGB §§ 675u ff.
 
-## Normen- und Vertragspunkte
+## Sofortprüfung
 
-- Bürgschaftsrecht §§ 765 ff. BGB.
-- Kaufmännische Sonderregeln §§ 349, 350 HGB.
-- AGB-Kontrolle §§ 305 ff. BGB bei Formulartexten.
-- Werk-/Bau-/Liefervertrag als Grundverhältnis, ohne die Bank zum materiellen Schiedsrichter zu machen.
-- InsO-/StaRUG-Schnittstelle bei Projektkrise, Rückzahlungspflicht oder drohender Inanspruchnahme.
+1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
+2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
+3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
+4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
+5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
 
-## Arbeitsgang
+## Fachlicher Zuschnitt
 
-1. **Grundvertrag lesen:** Welche Pflicht wird abgesichert?
-2. **Avaltext mappen:** Betrag, Frist, Abruf, Dokumente, Reduzierung, Erlöschen.
-3. **Projektstatus erfassen:** Anzahlung erhalten? Leistung begonnen? Abnahme? Mängel? Streit?
-4. **Liquiditätseffekt berechnen:** ersetzte Barkaution, Avalprovision, Linie, erwarteter Abruf.
-5. **Rückgabeplan bauen:** wann reduziert sich die Garantie, wer fordert Original zurück, wer trackt?
+Haftung bei nicht autorisierten Zahlungsvorgängen wird mit Beweislast, Authentifizierungslog und Kulanzstrategie geprüft.
 
-## Ergebnis
+## Output für die Rechtsabteilung
 
-Liefere eine Tabelle:
-
-| Entscheidung | Begründung | Auflage | Owner |
-| --- | --- | --- | --- |
-| Text freigeben / ändern / ablehnen | ... | ... | ... |
-
-Ergänze:
-
-- Formulierungsvorschläge für Reduzierung, Laufzeit und Rückgabe.
-- Liste fehlender Projektunterlagen.
-- Regress- und Sicherheitencheck.
-- Wiedervorlagen für Ablauf und Reduzierung.
-
-## Anschluss-Skills
-
-- `avalrahmenlinie-kautionsaval-praxis`
-- `buergschaft-auf-erste-anforderung-bank`
-- `garantieabruf-missbrauch-und-zahlungsstopp`
-- `kreditentscheidung-weiterfinanzierung`
+- One-page legal memo mit Risikoampel und klarer Empfehlung.
+- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
+- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
+- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
 ---
 
-## Skill: `zag-finanztransfergeschaeft-money-remittance`
+## Skill: `rechtsabteilung-ewpg-tokenisierung-und-registerrisiko`
 
-_Wenn es um Finanztransfergeschäft / Money Remittance nach ZAG in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck._
 
-# Finanztransfergeschäft / Money Remittance nach ZAG
+# Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko
 
 ## Arbeitsweg
 
@@ -551,137 +647,40 @@ _Wenn es um Finanztransfergeschäft / Money Remittance nach ZAG in Bank-Rechtsab
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Worum es geht
+## Fachkern: Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko
+- **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
+- **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-Prüft das Finanztransfergeschäft nach § 1 Abs. 1 Satz 2 Nr. 6 ZAG (Money Remittance): Weiterleitung von Geldbeträgen ohne Eröffnung eines Zahlungskontos. Er deckt Erlaubnisanforderungen, Geldwäscheprävention, FATF-Vorgaben und die Travel-Rule-Pflichten ab. Besonderheiten bei Bargeld, Krypto-Remittance und Agentennetzen werden adressiert.
+## Spezialkern: Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko
 
-## Kernnormen
+- **Konkretes Problem:** Tokenisierte Wertpapiere werden auf Registerführung, Verwahrung, Vertrieb und Prospekt-/MiCAR-Schnittstelle geprüft.
+- **Norm-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA, CRR/CRD, GwG, BGB/AGB, HGB, InsO/StaRUG und BaFin-/Bundesbank-Praxis.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
-- **§ 1 Abs. 1 Satz 2 Nr. 6 ZAG** – Finanztransfergeschäft: Dienst zur Übermittlung von Geldbeträgen; kein Zahlungskonto erforderlich; Ausführung der Transaktion über das Netz des Anbieters
-- **§ 10 ZAG** – Erlaubnispflicht; Anfangskapital nach § 17 ZAG: 20 TEUR (geringstes Anfangskapital aller Zahlungsdienste); Geschäftsplan, Sicherungskonzept, Organigramm
-- **§ 17 ZAG** – Anfangskapital 20 TEUR für Finanztransfer; laufende Eigenmittel Methode A, B oder C nach Zahlungsvolumen
-- **§ 25 ZAG** – Agenten: Registrierung, Haftung des Hauptinstituts, Schulungspflichten, AML-Einbindung; Eintrag im BaFin-Agenten-Register
-- **GwG §§ 3–10** – KYC-Pflichten: Identifizierung ab 15 Euro Bargeldtransaktion (§ 10 Abs. 3 Nr. 2 GwG), vereinfachte Sorgfalt nicht anwendbar beim Finanztransfer
-- **GwG § 15** – Verstärkte Sorgfaltspflichten: Hochrisiko-Länder (FATF-Liste), PEP-Kunden, ungewöhnliche Transaktionsmuster; Transaktionsmonitoring
-- **FATF Recommendation 16 (Travel Rule)** – Pflicht zur Übermittlung von Auftraggeber- und Empfängerinformationen bei Überweisungen; Umsetzung in EU durch Geldtransfer-VO 2015/847 (ab 2024 MiCA-Erweiterung VO 2023/1113)
-- **GwG § 43** – Verdachtsmeldepflicht bei Geldwäscheverdacht; FIU-Meldung; Durchführungsverbot vor FIU-Freigabe
+## Norm- und Rechtsprechungsanker
 
-## Prüfschritte
+eWpG; MiCAR; DepotG; KWG-Erlaubnistatbestände live prüfen
 
-1. **Dienst-Klassifikation** (§ 1 Abs. 1 Satz 2 Nr. 6 ZAG): Wird Geld weitergeleitet ohne eigenes Zahlungskonto des Empfängers? Bargeld-zu-Bargeld, Bargeld-zu-Konto, Online-Remittance?
-2. **Erlaubnisantrag** (§ 10 ZAG): Anfangskapital 20 TEUR; Geschäftsplan mit Volumen-Projektion, Agentenstruktur, AML-Konzept.
-3. **KYC-Pflichten** (GwG §§ 3–10): Identifizierung aller Auftraggeber; ab 1000 Euro erhöhte Sorgfalt; bei Bargeld-Einzahlung ab 15 Euro Identifizierungspflicht.
-4. **Travel Rule** (Geldtransfer-VO 2015/847): Auftraggeber-Daten (Name, Konto/IBAN oder eindeutige Kennung, Adresse) mit jeder Überweisung übermitteln; Empfängerinstitut prüft Vollständigkeit.
-5. **Hochrisiko-Check** (GwG § 15, FATF-Länderliste): Transaktionen in/aus Hochrisikoländern; verstärkte Sorgfalt; ggf. Einzel-Genehmigung GF.
-6. **Agentennetz** (§ 25 ZAG): Jeder Agent registrieren; Schulung AML/KYC; Haftung des Instituts sicherstellen; Monitoring der Agentenaktivitäten.
-7. **Verdachtsmeldung** (GwG § 43): Transaktionsmonitoring-System; Schwellenwerte und Muster festlegen; FIU-Meldung innerhalb Frist.
-8. **Krypto-Remittance**: Ab VO 2023/1113 gilt Travel Rule auch für Kryptowert-Transfers; VASP-Status nach MiCAR prüfen.
+## Sofortprüfung
 
-## Typische Fallkonstellationen
+1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
+2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
+3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
+4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
+5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
 
-- Western-Union-Modell (Bargeld-Einzahlung, Auszahlung im Ausland): § 1 Abs. 1 Satz 2 Nr. 6 ZAG, § 10 ZAG Erlaubnis, GwG KYC, Travel Rule
-- Online-Remittance-Plattform (Bank-zu-Bank ohne eigenes Konto): § 1 Abs. 1 Satz 2 Nr. 6 ZAG; Abgrenzung zu Zahlungsgeschäft Nr. 3 (Kundenkonto vorhanden = Nr. 3)
-- Krypto-Remittance (BTC-Überweisung als Geldwert): MiCAR VASP + VO 2023/1113 Travel Rule; ggf. ZAG-Erlaubnis parallel
-- Transaktionen in FATF-gelistetes Land: GwG § 15 verstärkte Sorgfalt; Einzelgenehmigung Geschäftsleitung; Transaktionslimit erwägen
-- Agentenausfall mit Kundengeldverlust: § 25 ZAG Institut-Haftung, § 16 ZAG Sicherungspflicht, BaFin-Meldepflicht
+## Fachlicher Zuschnitt
 
----
+Tokenisierte Wertpapiere werden auf Registerführung, Verwahrung, Vertrieb und Prospekt-/MiCAR-Schnittstelle geprüft.
 
-## Skill: `buergschaft-privatperson-gesellschafter-ehegatte`
+## Output für die Rechtsabteilung
 
-_Wenn es um Buergschaft Privatperson Gesellschafter Ehegatte in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Buergschaft Privatperson Gesellschafter Ehegatte
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm
-
-- **§§ 765-778 BGB**: Buergschaft.
-- **§ 766 BGB**: Schriftformerfordernis.
-- **§ 138 BGB**: Sittenwidrigkeit.
-
-## Drei Konstellationen
-
-### Gesellschafter-Buergschaft
-- Gesellschafter buergt für Kredit der eigenen GmbH/AG.
-- Wirksam, weil unmittelbares Eigeninteresse.
-
-### Ehegatten-Buergschaft
-- Ehegatte buergt für Kredit des anderen Ehegatten oder seines Unternehmens.
-- **BGH XI ZR 56/93** (19.01.1999) zur Sittenwidrigkeit bei "krasser Vermögensueberforderung".
-- Voraussetzungen:
- - Buergin/Buerge hat kein nennenswertes Einkommen / Vermögen.
- - Buergschaft uebersteigt Pfaendungsmoeglichkeit drastisch.
- - Buergin emotional verbunden mit Hauptschuldner.
-
-### Drittbuergschaft (z. B. Eltern für Kinder)
-- Aehnliche Prüfung wie Ehegatte.
-
-## Sittenwidrigkeit § 138 BGB
-
-- BGH-Linie: ca. 1 Prozent monatliche Tilgungsfaehigkeit als Schwelle.
-- Bei Unterschreitung: vermutung Sittenwidrigkeit.
-
-## Prüfraster
-
-1. Verhältnis Buerge - Hauptschuldner?
-2. Eigeninteresse?
-3. Tilgungsfaehigkeit?
-4. Sittenwidrigkeit?
-
----
-
-## Skill: `zag-kontoinformationsdienst-ais`
-
-_Wenn es um Kontoinformationsdienst (AIS) nach ZAG und PSD2 in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Kontoinformationsdienst (AIS) nach ZAG und PSD2
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-
-Prüft Kontoinformationsdienste (Account Information Services, AIS) nach § 1 Abs. 1 Satz 2 Nr. 8 ZAG und Art. 67 PSD2. AIS-Provider unterliegen einem Light-Registrierungsregime (§ 34 ZAG) statt einer vollständigen Erlaubnis. Datenzugriffsrechte, Consent-Management, Haftungskette und die Anforderungen aus RTS-SCA Art. 36 (dedizierte Schnittstellen) werden normseitig verankert.
-
-## Kernnormen
-
-- **§ 1 Abs. 1 Satz 2 Nr. 8 ZAG** – Definition Kontoinformationsdienst: Online-Dienst zur Bereitstellung konsolidierter Informationen über ein oder mehrere Zahlungskonten; kein Zahlungsvorgang, nur Datenabruf
-- **§ 34 ZAG** – Registrierungspflicht (nicht Erlaubnis); erleichtertes Verfahren; Mindestanforderungen: Berufshaftpflichtversicherung oder gleichwertige Garantie
-- **§ 50 ZAG** – Zugangsrecht des AIS-Providers zu Kontoinformationen beim kontoführenden Zahlungsdienstleister; Nicht-Diskriminierungsgebot
-- **§ 51 ZAG** – Haftungskette: AIS-Provider haftet für Schäden durch unbefugten Datenzugriff oder Datenweitergabe; Nachweis autorisierter Sitzung Voraussetzung
-- **§ 46 ZAG i.V.m. RTS-SCA Art. 10** – SCA auch beim AIS-Datenabruf: erstmaliger Zugang und alle 90 Tage erneute SCA (Art. 10 Abs. 2 RTS-SCA VO 2018/389)
-- **Art. 67 PSD2** (Richtlinie 2015/2366) – Rechte und Pflichten des AIS-Providers: Zugang nur auf explizite Zustimmung des Nutzers, Verbot der Verwendung für andere Zwecke als Informationsbereitstellung, keine Datenanreicherung ohne Einwilligung
-- **RTS-SCA Art. 36** (VO 2018/389) – AIS-spezifische Schnittstellenanforderungen: kontoführender PSP muss AIS denselben Zugang gewähren wie dem Kontoinhaber; Fallback-Mechanismus
-- **DSGVO Art. 6 Abs. 1 lit. a** – Rechtsgrundlage Einwilligung für AIS-Datenzugriff; Zweckbindung, Datensparsamkeit; Schnittstelle zu § 25 DSGVO Datenschutz by Design
-
-## Prüfschritte
-
-1. **Dienst-Klassifikation** (§ 1 Abs. 1 Satz 2 Nr. 8 ZAG): Nur Kontoinfos oder auch Zahlungsauslösung? Kombi-Dienst erfordert PIS-Erlaubnis (§ 10 ZAG) zusätzlich.
-2. **Registrierung** (§ 34 ZAG): Berufshaftpflichtversicherung beschaffen (EBA-Mindestdeckung: 0,5 Mio. Euro pro Schaden); Registrierungsantrag BaFin.
-3. **Consent-Mechanismus**: Explizite Einwilligung des Nutzers nach Art. 67 Abs. 2 lit. a PSD2; DSGVO-konforme Consent-UI; Scope klar begrenzen.
-4. **SCA-Implementierung** (§ 46 ZAG, RTS-SCA Art. 10): 90-Tage-Erneuerungs-SCA; erstmaliger Zugang mit vollständiger SCA.
-5. **API-Anforderungen** (RTS-SCA Art. 36, § 50 ZAG): Kontoführer muss Zugang ermöglichen; Qualitätsmessung gem. EBA-Leitlinie EBA/GL/2018/07 (jetzt RTS Art. 32).
-6. **Datenschutz-Check** (DSGVO, Bundesdatenschutzgesetz): Zweckbindung (nur Kontoinformation), Speicherbegrenzung, Auskunftsrechte des Nutzers.
-7. **Haftung** (§ 51 ZAG): Schadensersatzpflicht bei unbefugtem Zugriff; Nachweis gültiger Sitzung und Nutzer-Consent als Haftungsbefreiung.
-
-## Typische Fallkonstellationen
-
-- PFM-App (Personal Finance Management): § 1 Abs. 1 Satz 2 Nr. 8 ZAG, § 34 Registrierung, DSGVO Consent, 90-Tage-SCA-Erneuerung
-- White-Label AIS für Kreditprüfung: § 50 ZAG Datenzugang, DSGVO Art. 22 Profilierungsverbot prüfen, Zweckbindung dokumentieren
-- Kontoführer verweigert AIS-Zugang: § 50 ZAG Diskriminierungsverbot, RTS-SCA Art. 36, EBA-Eskalationsverfahren
-- AIS-Dienstleister gibt Daten weiter: § 51 ZAG Haftung, DSGVO Art. 83 Abs. 4 Bußgeld bis 10 Mio. Euro
-- Kombi AIS+PIS: Erlaubnis § 10 ZAG (PIS) + Registrierung § 34 ZAG (AIS) kombinieren
+- One-page legal memo mit Risikoampel und klarer Empfehlung.
+- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
+- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
+- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
 ---
 

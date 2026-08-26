@@ -1,6 +1,6 @@
 ---
 name: schriftform-textform
-description: "Wenn es um Schriftform Textform in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schriftform Textform: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schriftform Textform

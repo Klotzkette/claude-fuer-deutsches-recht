@@ -1,6 +1,6 @@
 ---
 name: handeltreiben-oder-besitz
-description: "Wenn es um Handeltreiben Oder Besitz in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handeltreiben oder Besitz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handeltreiben Oder Besitz

@@ -1,6 +1,6 @@
 ---
 name: pflichtteilsergaenzung-2325
-description: "Wenn es um Pflichtteilsergaenzung 2325 in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pflichtteilsergänzung 2325: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen wenn Erblasser Schenkungen gemacht hat

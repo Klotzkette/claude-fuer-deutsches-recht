@@ -1,6 +1,6 @@
 ---
 name: open-source-plain
-description: "Wenn es um Open-Source-Check Startup in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Open-Source-Check Startup: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Open-Source-Check Startup

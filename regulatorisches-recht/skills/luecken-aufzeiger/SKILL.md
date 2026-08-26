@@ -1,6 +1,6 @@
 ---
 name: luecken-aufzeiger
-description: "Vergleicht interne Richtlinien mit dem aktuell anwendbaren Aufsichtsrahmen. Trennt verbindliches Recht, Verwaltungspraxis und Orientierungshilfen und liefert eine belegte Gap-Matrix mit Priorität, Verantwortlichem und umsetzbarer Maßnahme."
+description: "Für Gap-Analyse für interne Richtlinien: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gap-Analyse für interne Richtlinien

@@ -1,6 +1,6 @@
 ---
 name: kundenservice-chatbot-lieferzeiten
-description: "Wenn es um Kundenservice Chatbot digitale Werkzeuge Act Transparenz in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kundenservice Chatbot digitale Werkzeuge Act Transparenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kundenservice Chatbot AI Act Transparenz

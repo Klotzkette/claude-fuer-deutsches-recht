@@ -1,6 +1,6 @@
 ---
 name: eigenschaftsirrtum-paragraph-einseitige
-description: "Wenn es um Eigenschaftsirrtum — Paragraf 119 Abs. 2 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Eigenschaftsirrtum Paragraph Einseitige; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Eigenschaftsirrtum — Paragraf 119 Abs. 2 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: eigenschaftsirrtum-paragraph-einseitige."
 ---
 
 # Eigenschaftsirrtum — § 119 Abs. 2 BGB

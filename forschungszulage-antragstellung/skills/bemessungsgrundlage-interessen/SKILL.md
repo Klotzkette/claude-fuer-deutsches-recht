@@ -1,6 +1,6 @@
 ---
 name: bemessungsgrundlage-interessen
-description: "Wenn es um Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Forschungszulage-Antragstellung. Route: bemessungsgrundlage-interessen."
 ---
 
 # Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix

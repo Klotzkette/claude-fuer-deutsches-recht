@@ -1,6 +1,6 @@
 ---
 name: honorarvereinbarung-erfolgshonorar-praevention
-description: "Wenn es um Honorarvereinbarung und Erfolgshonorar: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Honorarvereinbarung und Erfolgshonorar: Präventions- und Organisationspaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Honorarvereinbarung und Erfolgshonorar: Präventions- und Organisationspaket

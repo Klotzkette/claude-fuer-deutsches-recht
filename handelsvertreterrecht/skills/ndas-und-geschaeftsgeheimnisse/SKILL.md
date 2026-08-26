@@ -1,6 +1,6 @@
 ---
 name: ndas-und-geschaeftsgeheimnisse
-description: "Wenn es um Geschäftsgeheimnisse und NDA im Handelsvertretervertrag nach Paragraf 88 HGB und GeschGehG in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geschäftsgeheimnisse und NDA im Handelsvertretervertrag nach Paragraf 88 HGB und GeschGehG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschäftsgeheimnisse und NDA im Handelsvertretervertrag nach § 88 HGB und GeschGehG

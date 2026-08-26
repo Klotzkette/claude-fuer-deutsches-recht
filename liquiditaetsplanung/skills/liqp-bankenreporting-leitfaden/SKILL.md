@@ -1,6 +1,6 @@
 ---
 name: liqp-bankenreporting-leitfaden
-description: "Wenn es um LiqP: Bankenreporting in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LiqP: Bankenreporting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LiqP: Bankenreporting

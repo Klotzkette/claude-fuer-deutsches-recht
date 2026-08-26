@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen-livecheck-arbeitsrecht
-description: "Wenn es um Rechtsquellen Livecheck Arbeitsrecht Datenschutz in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Rechtsquellen Livecheck Arbeitsrecht Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsquellen Livecheck Arbeitsrecht Datenschutz

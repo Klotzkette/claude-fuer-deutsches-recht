@@ -1,6 +1,6 @@
 ---
 name: mandanten-beteiligtenkommunikation-notar
-description: "Wenn es um Beteiligtenkommunikation in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Beteiligtenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Beteiligtenkommunikation

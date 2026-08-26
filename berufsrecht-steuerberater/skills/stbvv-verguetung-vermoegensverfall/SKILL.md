@@ -1,6 +1,6 @@
 ---
 name: stbvv-verguetung-vermoegensverfall
-description: "Wenn es um Stbvv Verguetung Vermoegensverfall in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Stbvv Vergütung Vermögensverfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: stbvv vergütung und transparenz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

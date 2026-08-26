@@ -1,6 +1,6 @@
 ---
 name: plattform-notice-upload-art17
-description: "Wenn es um Notice, Takedown und Restore in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notice, Takedown und Restore: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notice, Takedown und Restore

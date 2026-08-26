@@ -1,6 +1,6 @@
 ---
 name: kosten-versorgungstraeger-teilungskosten
-description: "Wenn es um Kosten Versorgungstraeger Teilungskosten in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kosten Versorgungsträger Teilungskosten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kosten Versorgungsträger Teilungskosten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

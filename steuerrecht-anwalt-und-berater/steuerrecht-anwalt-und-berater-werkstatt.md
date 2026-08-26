@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Einspruch, Klage, Stellungnahme, Risikomatrix oder 
 | --- | --- | --- | --- |
 | Fallkern | Saldenabstimmung und externe Bestätigung | AO Paragraf 85 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | AO Paragraf 88 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Haftungsbescheid — Paragraf 69 AO Paragraf 71 AO und Verfahren Paragraf 191 AO | AO Paragraf 88 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Doppelbesteuerung und OECD-Musterabkommen — Auslegung deutscher DBA | AO Paragraf 88 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -150,7 +150,7 @@ Arbeitsgriff Arbeitsprodukt: Einspruch, Klage, Stellungnahme, Risikomatrix oder 
 10.5. Beweislast: Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei Schätzungsbefugnis, Mitwirkungspflicht und Festsetzungsverjährung an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Saldenabstimmung und externe Bestätigung, Haftungsbescheid — Paragraf 69 AO Paragraf 71 AO und Verfahren Paragraf 191 AO, Stundung Paragraf 222 AO / Erlass Paragraf 227 AO / Vollstreckungsaufschub Paragraf 258 AO, Anteilstausch — Paragraf 21 UmwStG Voraussetzungen und Sperrfrist: Kurzvermerk.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Saldenabstimmung und externe Bestätigung, Doppelbesteuerung und OECD-Musterabkommen — Auslegung deutscher DBA, Haftungsbescheid — Paragraf 69 AO Paragraf 71 AO und Verfahren Paragraf 191 AO, Anteilstausch — Paragraf 21 UmwStG Voraussetzungen und Sperrfrist: Kurzvermerk, Prüfmatrix, Entwurf.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BFH, Urteil vom 04.11.2021 - VI R 22/19; BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -186,14 +186,14 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Saldenabstimmung und externe Bestätigung | Bearbeite Saldenabstimmung und externe Bestätigung: bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Fachvotum zu Saldenabstimmung und externe Bestätigung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Doppelbesteuerung und OECD-Musterabkommen — Auslegung deutscher DBA | A Satz 2 EStG, Paragraf 17 EStG, Paragraf 34c EStG, Paragraf 50d EStG, Paragraf 2 AO, Artikel 4, Artikel 13 Absatz 4, Artikel 15, Artikel 23A/B und Artikel 25 OECD-MA. | Fachvotum zu Doppelbesteuerung und OECD-Musterabkommen — Auslegung deutscher DBA mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 | Haftungsbescheid — Paragraf 69 AO Paragraf 71 AO und Verfahren Paragraf 191 AO | Wer ist Haftungsschuldner und welcher Tatbestand wird herangezogen (Paragraf 69 Paragraf 71 Paragraf 73 Paragraf 74 AO oder Paragraf 42d EStG)? | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Stundung Paragraf 222 AO / Erlass Paragraf 227 AO / Vollstreckungsaufschub Paragraf 258 AO | Strafverfahren steuerlich anhängig (Auswirkung auf Paragraf 227 AO-Würdigung)? | Fachvotum zu Stundung Paragraf 222 AO / Erlass Paragraf 227 AO / Vollstreckungsaufschub Paragraf 258 AO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster. |
 | Anteilstausch — Paragraf 21 UmwStG Voraussetzungen und Sperrfrist | Welcher Wertansatz wird gewählt — Antragsvoraussetzungen Paragraf 21 Absatz 1 S. 2 UmwStG? Sperrfristen Paragraf 22 UmwStG beachten — vor allem bei späteren Umstrukturierungen? | Fristenblatt zu Anteilstausch — Paragraf 21 UmwStG Voraussetzungen und Sperrfrist mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 | Bilanzberichtigung und Bilanzänderung — Paragraf 4 Abs. 2 EStG | Liegt eine fehlerhafte Bilanz vor (Bilanzberichtigung Paragraf 4 Absatz 2 S. 1 EStG)? Soll ein Wahlrecht in der Bilanz nachträglich anders ausgeübt werden (Bilanzänderung Paragraf 4 Absatz 2 S. 2 EStG)? | Fachvotum zu Bilanzberichtigung und Bilanzänderung — Paragraf 4 Abs. 2 EStG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
+| E-Rechnung: USt, Formatfehler, Übergang, Prozesse und Betriebsprüfung | Bearbeite E-Rechnung: USt, Formatfehler, Übergang, Prozesse und Betriebsprüfung: bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| Erbschaftsteuerliche Verschonung Betriebsvermögen — Paragrafen 13a 13b ErbStG | Liegt begueenstigtes Vermögen iSd Paragraf 13b Absatz 1 ErbStG vor (Betrieb Mitunternehmeranteil Anteile an KapGes ab 25 Prozent)? Wie hoch ist der Anteil Verwaltungsvermögen Paragraf 13b Absatz 4 ErbStG? | Fachvotum zu Erbschaftsteuerliche Verschonung Betriebsvermögen — Paragrafen 13a 13b ErbStG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 | Klage zum Finanzgericht | (Voraussetzung Paragraf 44 FGO) — Ja: Klagefrist 1 Monat läuft / Nein: Untätigkeitsklage nach 6 Monaten möglich (Paragraf 46 FGO) 2. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | Lohnsteuerhaftung des Arbeitgebers — Paragraf 42d EStG | Greift Pauschalierung Paragraf 40 Paragraf 40a Paragraf 40b EStG und befreit insoweit von der Haftung? Wurde Ermessen nach Paragraf 42d Absatz 3 EStG fehlerfrei ausgeübt — Auswahl Arbeitnehmer Arbeitgeber Dritter? | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Steuerbescheid lesen — die ersten 10 Minuten | Steht er unter Vorbehalt der Nachprüfung Paragraf 164 AO oder vorläufig Paragraf 165 AO? Gibt es eine ordnungsgemäße Rechtsbehelfsbelehrung (sonst Jahresfrist Paragraf 356 Absatz 2 AO)? | Fachvotum zu Steuerbescheid lesen — die ersten 10 Minuten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Kapitalflussrechnung nach DRS 21 indirekte Methode | Die Kapitalflussrechnung ist nach DRS 21 Pflichtbestandteil des Konzernabschlusses (Paragraf 297 HGB) und freiwillig für Einzelabschlüsse. | Fachvotum zu Kapitalflussrechnung nach DRS 21 indirekte Methode mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -206,15 +206,15 @@ Prüfschritte: Wesentlichkeit, Stichprobe und Auswahlgrund aus Auftrag, Risikoan
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: Wesentlichkeit, Stichprobe und Auswahlgrund aus Auftrag, Risikoanalyse und anwendbaren Prüfungsstandards ableiten und dokumentieren; Paragraf 238 HGB: Pflicht zu nachvollziehbarer Buchführung; Paragraf 240 HGB: Inventar und vollständige Erfassung von Vermögensgegenständen und Schulden.
 Lieferstück: Fachvotum zu Saldenabstimmung und externe Bestätigung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.2. Haftungsbescheid — Paragraf 69 AO Paragraf 71 AO und Verfahren Paragraf 191 AO
+### 16.2. Doppelbesteuerung und OECD-Musterabkommen — Auslegung deutscher DBA
+
+Bearbeitungsauftrag: A Satz 2 EStG, Paragraf 17 EStG, Paragraf 34c EStG, Paragraf 50d EStG, Paragraf 2 AO, Artikel 4, Artikel 13 Absatz 4, Artikel 15, Artikel 23A/B und Artikel 25 OECD-MA. Welche Einkunftsart wird beansprucht und welcher Artikel im DBA ist einschlägig? Methode der Vermeidung der Doppelbesteuerung im konkreten DBA — Freistellung oder Anrechnung?
+Lieferstück: Fachvotum zu Doppelbesteuerung und OECD-Musterabkommen — Auslegung deutscher DBA mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.3. Haftungsbescheid — Paragraf 69 AO Paragraf 71 AO und Verfahren Paragraf 191 AO
 
 Bearbeitungsauftrag: Wer ist Haftungsschuldner und welcher Tatbestand wird herangezogen (Paragraf 69 Paragraf 71 Paragraf 73 Paragraf 74 AO oder Paragraf 42d EStG)? Liegt zumindest grobe Fahrlässigkeit oder Vorsatz vor (Paragraf 69 AO setzt grobe Fahrlässigkeit voraus)? Ermessensausübung des FA prüfen — Auswahl- und Entschließungsermessen Paragraf 191 Absatz 1 AO?
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.3. Stundung Paragraf 222 AO / Erlass Paragraf 227 AO / Vollstreckungsaufschub Paragraf 258 AO
-
-Bearbeitungsauftrag: Strafverfahren steuerlich anhängig (Auswirkung auf Paragraf 227 AO-Würdigung)? Paragraf 222 AO — Stundung: Finanzbehörde kann Anspruch ganz oder teilweise stunden, wenn Einziehung erhebliche Härte wäre und Anspruch durch die Stundung nicht gefährdet wird; in der Regel gegen Sicherheitsleistung und mit Verzinsung Paragraf 234 AO. Paragraf 227 AO — Erlass aus Billigkeitsgründen (sachlich oder persönlich).
-Lieferstück: Fachvotum zu Stundung Paragraf 222 AO / Erlass Paragraf 227 AO / Vollstreckungsaufschub Paragraf 258 AO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. Anteilstausch — Paragraf 21 UmwStG Voraussetzungen und Sperrfrist
 
@@ -226,38 +226,39 @@ Lieferstück: Fristenblatt zu Anteilstausch — Paragraf 21 UmwStG Voraussetzung
 Bearbeitungsauftrag: Liegt eine fehlerhafte Bilanz vor (Bilanzberichtigung Paragraf 4 Absatz 2 S. 1 EStG)? Soll ein Wahlrecht in der Bilanz nachträglich anders ausgeübt werden (Bilanzänderung Paragraf 4 Absatz 2 S. 2 EStG)? Welche Verfahrensänderung kommt im Steuerbescheid in Betracht (Paragraf 164 Paragraf 173 AO)?
 Lieferstück: Fachvotum zu Bilanzberichtigung und Bilanzänderung — Paragraf 4 Abs. 2 EStG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Klage zum Finanzgericht
+### 16.6. E-Rechnung: USt, Formatfehler, Übergang, Prozesse und Betriebsprüfung
+
+Bearbeitungsauftrag: Bearbeite E-Rechnung: USt, Formatfehler, Übergang, Prozesse und Betriebsprüfung: bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Belege, Buchführung, Rechnung, DBA und unionsrechtliche Sperren trennen.
+Prüfschritte: Paragraf 14 UStG, UStAE, BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung: Formatfehler können dazu führen, dass keine E-Rechnung im strukturierten Format vorliegt; Validierung und Prozessdokumentation werden prüfungsrelevant.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 14 UStG, UStAE, BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung: Formatfehler können dazu führen, dass keine E-Rechnung im strukturierten Format vorliegt; Validierung und Prozessdokumentation werden prüfungsrelevant.
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+
+### 16.7. Erbschaftsteuerliche Verschonung Betriebsvermögen — Paragrafen 13a 13b ErbStG
+
+Bearbeitungsauftrag: Liegt begueenstigtes Vermögen iSd Paragraf 13b Absatz 1 ErbStG vor (Betrieb Mitunternehmeranteil Anteile an KapGes ab 25 Prozent)? Wie hoch ist der Anteil Verwaltungsvermögen Paragraf 13b Absatz 4 ErbStG? Verschonungsbedarfsprüfung Paragraf 28a ErbStG bei Grossvermögen über 26 Mio.
+Lieferstück: Fachvotum zu Erbschaftsteuerliche Verschonung Betriebsvermögen — Paragrafen 13a 13b ErbStG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.8. Klage zum Finanzgericht
 
 Bearbeitungsauftrag: (Voraussetzung Paragraf 44 FGO) — Ja: Klagefrist 1 Monat läuft / Nein: Untätigkeitsklage nach 6 Monaten möglich (Paragraf 46 FGO) 2. (1 Monat ab Bekanntgabe Einspruchsentscheidung, Paragraf 47 FGO — vier Tage Bekanntgabefiktion Paragraf 122 Absatz 2 AO) 3. → parallel Antrag nach Paragraf 69 Absatz 3 FGO stellen.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.7. Lohnsteuerhaftung des Arbeitgebers — Paragraf 42d EStG
+### 16.9. Lohnsteuerhaftung des Arbeitgebers — Paragraf 42d EStG
 
 Bearbeitungsauftrag: Greift Pauschalierung Paragraf 40 Paragraf 40a Paragraf 40b EStG und befreit insoweit von der Haftung? Wurde Ermessen nach Paragraf 42d Absatz 3 EStG fehlerfrei ausgeübt — Auswahl Arbeitnehmer Arbeitgeber Dritter? Bruttoabwälzung oder Nettoabwälzung im Falle einer Pauschalierung?
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.8. Steuerbescheid lesen — die ersten 10 Minuten
+### 16.10. Steuerbescheid lesen — die ersten 10 Minuten
 
 Bearbeitungsauftrag: Steht er unter Vorbehalt der Nachprüfung Paragraf 164 AO oder vorläufig Paragraf 165 AO? Gibt es eine ordnungsgemäße Rechtsbehelfsbelehrung (sonst Jahresfrist Paragraf 356 Absatz 2 AO)? Wann ist Bekanntgabe bewirkt (Stempel, Drei-Tages-Fiktion Paragraf 122 Absatz 2 AO, ELSTER-Bereitstellung Paragraf 122a AO)?
 Lieferstück: Fachvotum zu Steuerbescheid lesen — die ersten 10 Minuten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Kapitalflussrechnung nach DRS 21 indirekte Methode
+### 16.11. Energie- und Stromsteuerentlastung — EnergieStG und StromStG
 
-Bearbeitungsauftrag: Die Kapitalflussrechnung ist nach DRS 21 Pflichtbestandteil des Konzernabschlusses (Paragraf 297 HGB) und freiwillig für Einzelabschlüsse. Die indirekte Methode leitet den Cashflow aus dem Jahresüberschuss durch Eliminierung nicht-zahlungswirksamer Posten und Berücksichtigung von Bilanzveränderungen ab. Sie ist Bank-Standard, Bestandteil von Sanierungskonzepten nach IDW S 6 und Grundlage der Fortbestehensprognose nach Paragraf 19 InsO.
-Lieferstück: Fachvotum zu Kapitalflussrechnung nach DRS 21 indirekte Methode mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Welche Entlastung wird beantragt (Paragraf 9b Paragraf 10 StromStG; Paragraf 53 Paragraf 54 Paragraf 55 EnergieStG)? Erfüllt das Unternehmen die Voraussetzungen produzierendes Gewerbe iSd Paragraf 2 Nummer 3 StromStG? Sind De-minimis- und EU-Beihilferegeln gewahrt?
+Lieferstück: Fachvotum zu Energie- und Stromsteuerentlastung — EnergieStG und StromStG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. BMF-Schreiben-Radar 2026: E-Rechnung, Forschungszulage, Mindeststeuer, GrESt und UmwSt
+### 16.12. Arbeitsvertrag aus lohnrelevanter Sicht prüfen
 
-Bearbeitungsauftrag: BMF-Portal Forschungszulage: wirtschaftsjahrbezogener Antrag, BSFZ-Bescheinigung, Antrag über Mein ELSTER, Anrechnung/Erstattung; BMF-Schreiben vom 07.02.2023 als Grundschreiben. BMF/BZSt, 05.08.2025: Datensatz und Datensatzbeschreibung für Mindeststeuer-Berichte (GIR-XML-Schema). BMF, 25.05.2023: Anwendung Paragraf 6a GrEStG.
-Prüfschritte: BMF, 15.10.2025: Einführung der obligatorischen elektronischen Rechnung bei Umsätzen zwischen inländischen Unternehmern ab 01.01.2025.
-Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
-
-### 16.11. Datentransfer Mandant-Cloud — Datenschutz-Grundverordnung-Aspekte
-
-Bearbeitungsauftrag: Beim Datentransfer zwischen Mandant, StB und Cloud-Dienstleistern muss Datenschutz-Grundverordnung-Konformität sichergestellt sein. Wesentliche Aspekte: AVV nach Artikel 28 Datenschutz-Grundverordnung mit jedem Auftragsverarbeiter, TOM (technisch-organisatorische Maßnahmen), Drittlandtransfer-Prüfung (USA-Server problematisch), Einhaltung der Daten-Minimierung. Welche Cloud-Dienstleister sind im Einsatz (DATEV, BuchhaltungsButler, sevDesk, Microsoft, Google)?
+Bearbeitungsauftrag: Bevor ein Arbeitsvertrag in die Lohnabrechnung übernommen wird, prüft der Steuerberater die lohn- und sv-rechtlich relevanten Klauseln: Gehalt brutto/netto, Mehrarbeitsregelung, Sachbezüge, Dienstwagen, JobRad, bAV, Vermögenswirksame Leistungen, Sonderzahlungen, Befristung. Welche Tarifverträge oder Betriebsvereinbarungen sind anzuwenden? Paragraf 611a BGB — Arbeitsvertrag-Definition.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.12. DRV-Prüfung, Lohnsteuer-Außenprüfung, StB-Haftung
-
-Bearbeitungsauftrag: Die DRV-Sozialversicherungsprüfung (alle 4 Jahre) und Lohnsteuer-Außenprüfung des FA (anlassbezogen oder routinemaessig) sind die zentralen externen Prüfungen der Lohnbuchhaltung. Prüfthemen: SV-Status-Klassifikation, BBG-Einhaltung, Sachbezüge, Pauschalierungen, Aufzeichnungspflichten, Reisekosten. Bei Prüfungsfehlern haftet der StB aus Mandantenvertrag (Paragraf 280 BGB).
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.

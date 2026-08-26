@@ -1,6 +1,6 @@
 ---
 name: human-oversight-in-physischer-robotik
-description: "Wenn es um Human Oversight in Robotik in robotik-recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Human Oversight in Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Human Oversight in Robotik

@@ -1,6 +1,6 @@
 ---
 name: produkthaftung-reparatur-update-und-lifecycle
-description: "Wenn es um Produkthaftung: Reparatur, Update und Lifecycle in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Produkthaftung: Reparatur, Update und Lifecycle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produkthaftung: Reparatur, Update und Lifecycle

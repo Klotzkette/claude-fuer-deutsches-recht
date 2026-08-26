@@ -1,6 +1,6 @@
 ---
 name: europarecht-wettbewerb-kartell
-description: "Wenn es um EU-Wettbewerb und Kartellrecht in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU-Wettbewerb und Kartellrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-Wettbewerb und Kartellrecht

@@ -1,6 +1,6 @@
 ---
 name: homeoffice-und-arbeitszimmer
-description: "Wenn es um Steuern und Buchhaltung: Prüft häusliche arbeitsstätte in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuern und Buchhaltung: Prüft häusliche arbeitsstätte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuern und Buchhaltung: Prüft häusliche arbeitsstätte

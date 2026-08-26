@@ -1,6 +1,6 @@
 ---
 name: verwaltungsprozess-modus
-description: "Wenn es um Verwaltungsprozess-Modus (VwGO) in aktenauszug-gerichtsverfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verwaltungsprozess-Modus (VwGO): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwaltungsprozess-Modus (VwGO)

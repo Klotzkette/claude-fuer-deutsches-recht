@@ -1,6 +1,6 @@
 ---
 name: klageschrift-anlagen-bezeichnen
-description: "Wenn es um Anlagen zur Klage richtig bezeichnen in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anlagen zur Klage richtig bezeichnen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Anlagen zur Klage richtig bezeichnen

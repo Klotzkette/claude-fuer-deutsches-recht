@@ -1,6 +1,6 @@
 ---
 name: cross-selling
-description: "Wenn es um Cross-Selling und Multi-Produkt-Provision im Handelsvertretervertrag in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cross-Selling und Multi-Produkt-Provision im Handelsvertretervertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cross-Selling und Multi-Produkt-Provision im Handelsvertretervertrag

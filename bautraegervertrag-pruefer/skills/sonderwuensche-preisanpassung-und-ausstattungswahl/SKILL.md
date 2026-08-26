@@ -1,6 +1,6 @@
 ---
 name: sonderwuensche-preisanpassung-und-ausstattungswahl
-description: "Wenn es um Sonderwünsche, Bemusterung und Ausstattungswahl in Bauträgervertrag-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sonderwünsche, Bemusterung und Ausstattungswahl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sonderwünsche, Bemusterung und Ausstattungswahl

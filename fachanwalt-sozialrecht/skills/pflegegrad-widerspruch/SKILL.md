@@ -1,6 +1,6 @@
 ---
 name: pflegegrad-widerspruch
-description: "Wenn es um Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse verweigert Pflegegrad in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse verweigert Pflegegrad: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse verweigert Pflegegrad

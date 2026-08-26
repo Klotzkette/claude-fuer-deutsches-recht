@@ -1,6 +1,6 @@
 ---
 name: nationales-verfahren-vorlageverfahren-art
-description: "Wenn es um Nationales Verfahren und Effektivität in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nationales Verfahren und Effektivität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nationales Verfahren und Effektivität

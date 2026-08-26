@@ -1,6 +1,6 @@
 ---
 name: eu-datenbank-registrierung-art-49-und-71
-description: "Wenn es um EU-Datenbank-Registrierung — Art. 49 und 71 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für EU-Datenbank-Registrierung — Art. 49 und 71 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-Datenbank-Registrierung — Art. 49 und 71 KI-VO

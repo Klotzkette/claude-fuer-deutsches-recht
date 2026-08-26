@@ -1,6 +1,6 @@
 ---
 name: starlink-oneweb-iris2-und-oeffentliche-beschaffung
-description: "Wenn es um Weltraumrecht: Starlink, OneWeb, IRIS² und öffentliche Beschaffung in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Starlink, OneWeb, IRIS² und öffentliche Beschaffung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Starlink, OneWeb, IRIS² und öffentliche Beschaffung

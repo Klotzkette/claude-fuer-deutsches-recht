@@ -1,6 +1,6 @@
 ---
 name: aml-kryptotransaktionen-mica-spezial
-description: "Wenn es um AML: Krypto Travel Rule in Geldwäscheprävention, AML und KYC geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für AML: Krypto Travel Rule: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AML: Krypto Travel Rule

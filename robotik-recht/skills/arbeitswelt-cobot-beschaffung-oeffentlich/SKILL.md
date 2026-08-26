@@ -1,6 +1,6 @@
 ---
 name: arbeitswelt-cobot-beschaffung-oeffentlich
-description: "Wenn es um Arbeitswelt Cobot Check in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Arbeitswelt Cobot Beschaffung Oeffentlich; Arbeitsfeld: robotik-recht."
+description: "Für Arbeitswelt Cobot Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: arbeitswelt-cobot-beschaffung-oeffentlich."
 ---
 
 # Arbeitswelt Cobot Check

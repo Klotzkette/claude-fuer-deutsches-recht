@@ -1,6 +1,6 @@
 ---
 name: mandantenpadlet-vergabe-canvas
-description: "Wenn es um Mandantenpadlet Vergabe Canvas in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandantenpadlet Vergabe Canvas: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Interaktives Vergabe-Padlet als Canvas erstellen: Rollen, Fristen, Dokumente, Rugepunkte, Bewertungsfehler, Rechtsweg, Risiken, Aufgaben und offene Fragen.

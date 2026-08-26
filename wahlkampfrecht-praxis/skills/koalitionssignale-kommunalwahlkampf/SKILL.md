@@ -1,6 +1,6 @@
 ---
 name: koalitionssignale-kommunalwahlkampf
-description: "Wenn es um Koalitionssignale Und Rote Linien in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Koalitionssignale und Rote Linien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Koalitionssignale Und Rote Linien

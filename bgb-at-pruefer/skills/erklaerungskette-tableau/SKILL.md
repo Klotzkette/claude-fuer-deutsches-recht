@@ -1,6 +1,6 @@
 ---
 name: erklaerungskette-tableau
-description: "Wenn es um Erklärungsketten-Tableau — Willenserklärungen und Vertretungsketten in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Erklärungsketten-Tableau — Willenserklärungen und Vertretungsketten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erklärungsketten-Tableau — Willenserklärungen und Vertretungsketten

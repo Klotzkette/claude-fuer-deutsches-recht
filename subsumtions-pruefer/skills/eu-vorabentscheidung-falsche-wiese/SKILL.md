@@ -1,6 +1,6 @@
 ---
 name: eu-vorabentscheidung-falsche-wiese
-description: "Wenn es um EU-Vorabentscheidung prüfen (Art. 267 AEUV) in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für EU-Vorabentscheidung prüfen (Art. 267 AEUV): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-Vorabentscheidung prüfen (Art. 267 AEUV)

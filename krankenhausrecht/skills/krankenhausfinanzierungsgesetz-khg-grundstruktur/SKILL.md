@@ -1,6 +1,6 @@
 ---
 name: krankenhausfinanzierungsgesetz-khg-grundstruktur
-description: "Wenn es um Krankenhausfinanzierungsgesetz KHG Grundstruktur in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Krankenhausfinanzierungsgesetz KHG Grundstruktur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenhausfinanzierungsgesetz KHG Grundstruktur

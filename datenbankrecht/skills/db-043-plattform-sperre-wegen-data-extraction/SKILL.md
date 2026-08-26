@@ -1,6 +1,6 @@
 ---
 name: db-043-plattform-sperre-wegen-data-extraction
-description: "Wenn es um Datenbankrecht: Plattform-Sperre wegen Data Extraction in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Plattform-Sperre wegen Data Extraction: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Plattform-Sperre wegen Data Extraction

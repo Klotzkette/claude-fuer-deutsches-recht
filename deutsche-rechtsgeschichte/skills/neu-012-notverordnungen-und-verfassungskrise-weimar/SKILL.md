@@ -1,6 +1,6 @@
 ---
 name: neu-012-notverordnungen-und-verfassungskrise-weimar
-description: "Wenn es um Deutsche Rechtsgeschichte: 012 Notverordnungen Und Verfassungskrise Weimar in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: 012 Notverordnungen und Verfassungskrise Weimar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: 012 Notverordnungen Und Verfassungskrise Weimar

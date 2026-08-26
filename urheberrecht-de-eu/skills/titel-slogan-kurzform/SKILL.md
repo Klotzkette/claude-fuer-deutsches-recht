@@ -1,6 +1,6 @@
 ---
 name: titel-slogan-kurzform
-description: "Wenn es um Titel, Slogan und Kurzform in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Titel, Slogan und Kurzform: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Titel, Slogan und Kurzform

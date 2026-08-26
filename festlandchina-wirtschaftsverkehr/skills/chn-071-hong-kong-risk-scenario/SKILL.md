@@ -1,6 +1,6 @@
 ---
 name: chn-071-hong-kong-risk-scenario
-description: "Wenn es um Hong Kong Risk Scenario in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hong Kong Risk Scenario: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hong Kong Risk Scenario

@@ -1,6 +1,6 @@
 ---
 name: textform-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Textform: Dokumentenmatrix, Lückenliste und Nachforderung in Schriftform und Textform im BGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Textform: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Textform: Dokumentenmatrix, Lückenliste und Nachforderung

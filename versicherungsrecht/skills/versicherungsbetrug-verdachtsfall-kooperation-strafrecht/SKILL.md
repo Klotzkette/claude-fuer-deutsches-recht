@@ -1,6 +1,6 @@
 ---
 name: versicherungsbetrug-verdachtsfall-kooperation-strafrecht
-description: "Wenn es um Verdacht Versicherungsbetrug und Kooperation mit Strafrecht in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verdacht Versicherungsbetrug und Kooperation mit Strafrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verdacht Versicherungsbetrug und Kooperation mit Strafrecht

@@ -1,6 +1,6 @@
 ---
 name: versorgungswerk-befreiung-angestellt
-description: "Wenn es um Versorgungswerk-Befreiung bei Angestellten in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versorgungswerk-Befreiung bei Angestellten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versorgungswerk-Befreiung bei Angestellten

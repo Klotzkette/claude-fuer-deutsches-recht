@@ -1,6 +1,6 @@
 ---
 name: betriebspruefung-strategie
-description: "Wenn es um FZ: Betriebspruefungs-Strategie in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für FZ: Betriebsprüfungs-Strategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # FZ: Betriebspruefungs-Strategie

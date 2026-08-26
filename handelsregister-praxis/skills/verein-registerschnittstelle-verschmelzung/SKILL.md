@@ -1,6 +1,6 @@
 ---
 name: verein-registerschnittstelle-verschmelzung
-description: "Wenn es um Vereinsregister-Schnittstelle in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Vereinsregister-Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Vereinsregister-Schnittstelle

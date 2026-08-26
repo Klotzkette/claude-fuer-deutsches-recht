@@ -1,6 +1,6 @@
 ---
 name: grossakte-konfliktlandkarte
-description: "Wenn es um Großakte und Konfliktlandkarte in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Großakte und Konfliktlandkarte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Großakte und Konfliktlandkarte

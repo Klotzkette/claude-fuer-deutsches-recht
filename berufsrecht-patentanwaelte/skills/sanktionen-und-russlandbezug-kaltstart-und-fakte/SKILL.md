@@ -1,6 +1,6 @@
 ---
 name: sanktionen-und-russlandbezug-kaltstart-und-fakte
-description: "Wenn es um Sanktionen Und Russlandbezug Kaltstart Und Fakte in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanktionen und Russlandbezug Kaltstart und Fakte: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: sanktionen und russlandbezug - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-unterlagen-sortieren
-description: "Wenn es um Laienhilfe: Unterlagen Sortieren in Fachanwalt Sozialrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Laienhilfe: Unterlagen Sortieren: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Laienhilfe: Unterlagen Sortieren

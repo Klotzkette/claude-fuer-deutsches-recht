@@ -1,6 +1,6 @@
 ---
 name: notariat-035-aufgebotsverfahren-verlorener-grundschuldbrief
-description: "Wenn es um Notariat im Alltag: Aufgebotsverfahren verlorener Grundschuldbrief in Notariat im Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Aufgebotsverfahren verlorener Grundschuldbrief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Notariat im Alltag: Aufgebotsverfahren verlorener Grundschuldbrief

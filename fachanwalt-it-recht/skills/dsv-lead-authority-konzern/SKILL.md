@@ -1,6 +1,6 @@
 ---
 name: dsv-lead-authority-konzern
-description: "Wenn es um Dsv Lead Authority Konzern in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dsv Lead Authority Konzern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bestimmt die federführende Aufsichtsbehörde bei grenzüberschreitender Verarbeitung im Konzern nach Art

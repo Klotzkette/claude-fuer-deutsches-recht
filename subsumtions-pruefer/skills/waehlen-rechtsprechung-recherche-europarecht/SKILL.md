@@ -1,6 +1,6 @@
 ---
 name: waehlen-rechtsprechung-recherche-europarecht
-description: "Wenn es um Rechtsprechung, Recherche und Europarechtsbezug wählen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsprechung, Recherche und Europarechtsbezug wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsprechung, Recherche und Europarechtsbezug wählen

@@ -1,6 +1,6 @@
 ---
 name: simulation-training-verjaehrung-zustellung
-description: "Wenn es um Simulationstraining OWi-Mandate in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Simulationstraining OWi-Mandate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Simulationstraining OWi-Mandate

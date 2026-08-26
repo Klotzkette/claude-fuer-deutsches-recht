@@ -1,6 +1,6 @@
 ---
 name: ruege-und-gegenvorstellung-kaltstart-und-faktenmatrix
-description: "Wenn es um Ruege Und Gegenvorstellung Kaltstart Und Faktenmatrix in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rüge und Gegenvorstellung Kaltstart und Faktenmatrix: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: ruege und gegenvorstellung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

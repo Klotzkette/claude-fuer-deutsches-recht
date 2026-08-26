@@ -1,6 +1,6 @@
 ---
 name: beweisangebot-anlage-emails-chats-excel
-description: "Wenn es um Beweisangebot über Anlagen (Zeugen) in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beweisangebot über Anlagen (Zeugen): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Anlagen zu Schriftsätzen. Route: beweisangebot-anlage-emails-chats-excel."
 ---
 
 # Beweisangebot über Anlagen (Zeugen)

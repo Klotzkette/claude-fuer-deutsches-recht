@@ -1,6 +1,6 @@
 ---
 name: verfahren-akteneinsicht-drittbeteiligte
-description: "Wenn es um Verfahren: Akteneinsicht Drittbeteiligte in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verfahren: Akteneinsicht Drittbeteiligte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfahren: Akteneinsicht Drittbeteiligte

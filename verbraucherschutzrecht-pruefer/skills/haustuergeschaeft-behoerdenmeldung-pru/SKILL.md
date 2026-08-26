@@ -1,6 +1,6 @@
 ---
 name: haustuergeschaeft-behoerdenmeldung-pru
-description: "Wenn es um Haustuergeschaeft Behördenmeldung Pru in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haustürgeschäft Behördenmeldung Pru: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: haustuergeschaeft-behoerdenmeldung-pru."
 ---
 
 # Haustuergeschaeft Behördenmeldung Pru

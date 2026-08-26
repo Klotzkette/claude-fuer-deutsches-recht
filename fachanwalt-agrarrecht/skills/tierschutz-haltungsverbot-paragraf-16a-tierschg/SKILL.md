@@ -1,6 +1,6 @@
 ---
 name: tierschutz-haltungsverbot-paragraf-16a-tierschg
-description: "Prüft ein Tierhaltungs- oder Betreuungsverbot nach Paragraf 16a TierSchG. Ordnet jeden Verstoß, erhebliche oder länger anhaltende Folgen für Tiere, Wiederholungsprognose, Tierartenumfang, Fortnahme, Veräußerung, Sofortvollzug und mildere Mittel und erstellt Beweismatrix und Eilantrag."
+description: "Für Tierhaltungsverbot rechtlich und tatsächlich prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tierhaltungsverbot rechtlich und tatsächlich prüfen

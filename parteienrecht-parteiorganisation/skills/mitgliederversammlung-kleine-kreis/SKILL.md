@@ -1,6 +1,6 @@
 ---
 name: mitgliederversammlung-kleine-kreis
-description: "Wenn es um Kleine Partei Praxis in Parteienrecht und Parteiorganisation geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kleine Partei Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: mitgliederversammlung-kleine-kreis."
 ---
 
 # Kleine Partei Praxis

@@ -1,6 +1,6 @@
 ---
 name: zuschlagskriterien-wertungsschema
-description: "Wenn es um Zuschlagskriterien Wertungsschema in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zuschlagskriterien Wertungsschema: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmatrix

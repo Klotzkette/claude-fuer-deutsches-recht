@@ -1,6 +1,6 @@
 ---
 name: polizei-zusammenarbeit-ermittlungsauftrag
-description: "Wenn es um Zusammenarbeit mit der Polizei in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Zusammenarbeit mit der Polizei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Staatsanwaltschaft Praxis-Einstieg. Route: polizei-zusammenarbeit-ermittlungsauftrag."
 ---
 
 # Zusammenarbeit mit der Polizei

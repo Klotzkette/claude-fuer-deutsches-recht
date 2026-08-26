@@ -1,6 +1,6 @@
 ---
 name: spezial-verfahren-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Verfahren: Livequellen- und Rechtsprechungscheck in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfahren: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfahren: Livequellen- und Rechtsprechungscheck

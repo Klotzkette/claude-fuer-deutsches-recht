@@ -1,6 +1,6 @@
 ---
 name: uebersetzung-und-verantwortung-rechtsprechungscheck
-description: "Wenn es um Uebersetzung Und Verantwortung Rechtsprechungscheck in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Übersetzung und Verantwortung Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: übersetzung und verantwortung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

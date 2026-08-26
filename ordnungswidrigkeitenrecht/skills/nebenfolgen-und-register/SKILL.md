@@ -1,6 +1,6 @@
 ---
 name: nebenfolgen-und-register
-description: "Wenn es um Nebenfolgen Und Register in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nebenfolgen und Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Nebenfolgen Und Register

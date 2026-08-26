@@ -1,6 +1,6 @@
 ---
 name: schatten-ki-aufdeckung
-description: "Wenn es um Schatten-digitale Werkzeuge Aufdeckung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Schatten-digitale Werkzeuge Aufdeckung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schatten-KI Aufdeckung

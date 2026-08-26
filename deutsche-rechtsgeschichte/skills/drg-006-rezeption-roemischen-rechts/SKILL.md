@@ -1,6 +1,6 @@
 ---
 name: drg-006-rezeption-roemischen-rechts
-description: "Wenn es um Rezeption Roemischen Rechts in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rezeption Römischen Rechts: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rezeption Roemischen Rechts

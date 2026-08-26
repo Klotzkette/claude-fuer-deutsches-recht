@@ -1,6 +1,6 @@
 ---
 name: personalhaushalt-umschichtung-simulier
-description: "Wenn es um Personalhaushalt Umschichtung Simulier in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Personalhaushalt Umschichtung Simulier: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personalhaushalt Umschichtung Simulier

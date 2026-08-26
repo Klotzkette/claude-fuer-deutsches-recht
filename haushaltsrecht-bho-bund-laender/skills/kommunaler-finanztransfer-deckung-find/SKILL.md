@@ -1,6 +1,6 @@
 ---
 name: kommunaler-finanztransfer-deckung-find
-description: "Wenn es um Kommunaler Finanztransfer Deckung Find in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunaler Finanztransfer Deckung Find: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunaler Finanztransfer Deckung Find

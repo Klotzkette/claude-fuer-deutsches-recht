@@ -1,6 +1,6 @@
 ---
 name: schlussmemo-und-lessons-learned
-description: "Wenn es um Schlussmemo und Lessons Learned in Datenschutz-Sanktionsverfahren und Verteidigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schlussmemo und Lessons Learned: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Schlussmemo und Lessons Learned

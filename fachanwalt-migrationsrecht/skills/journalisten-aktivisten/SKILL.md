@@ -1,6 +1,6 @@
 ---
 name: journalisten-aktivisten
-description: "Wenn es um Journalisten/Aktivisten: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Journalisten/Aktivisten: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Journalisten/Aktivisten: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Journalisten/Aktivisten: Fachmodul im Migrationsrecht i
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-journalisten-aktivisten` beziehungsweise Journalisten/Aktivisten: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-journalisten-aktivisten.md).

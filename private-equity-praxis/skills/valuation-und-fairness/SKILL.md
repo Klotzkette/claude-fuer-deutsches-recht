@@ -1,6 +1,6 @@
 ---
 name: valuation-und-fairness
-description: "Wenn es um Valuation, Fairness und Bewertungsstreit in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Valuation, Fairness und Bewertungsstreit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Valuation, Fairness und Bewertungsstreit

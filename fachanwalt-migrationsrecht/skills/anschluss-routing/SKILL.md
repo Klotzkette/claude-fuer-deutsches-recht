@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Leitet eine begonnene Migrationsakte anhand von Status, Stichtag, Frist und Ziel in den passenden Fachskill weiter. Berücksichtigt die seit 12. Juni 2026 geltende GEAS-Reform und liefert einen begründeten Hauptpfad mit höchstens zwei notwendigen Nebenspuren."
+description: "Leitet eine begonnene Migrationsakte anhand von Status, Stichtag, Frist und Ziel in den passenden Fachskill weiter."
 ---
 
 # 1. Anschluss-Routing im Migrationsrecht

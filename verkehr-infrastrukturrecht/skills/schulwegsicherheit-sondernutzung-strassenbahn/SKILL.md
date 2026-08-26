@@ -1,6 +1,6 @@
 ---
 name: schulwegsicherheit-sondernutzung-strassenbahn
-description: "Wenn es um Schulwegsicherheit in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulwegsicherheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulwegsicherheit

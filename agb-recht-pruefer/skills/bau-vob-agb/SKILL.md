@@ -1,6 +1,6 @@
 ---
 name: bau-vob-agb
-description: "Wenn es um Bau VOB/B AGB in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Bau VOB/B AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bau VOB/B AGB

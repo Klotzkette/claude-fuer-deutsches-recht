@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-hilfsmittel-krankenkasse
-description: "Wenn es um Laienhilfe: Hilfsmittel Krankenkasse in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laienhilfe: Hilfsmittel Krankenkasse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laienhilfe: Hilfsmittel Krankenkasse

@@ -1,6 +1,6 @@
 ---
 name: strafprozess-pflichtverteidigung-beiordnung-und-wechsel
-description: "Wenn es um Strafprozess Pflichtverteidigung Beiordnung Und Wechsel in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Strafprozess Pflichtverteidigung Beiordnung und Wechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflichtverteidigung operativ prüfen und durchsetzen: notwendige Verteidigung, Beiordnungsantrag, Vorschlagsrecht, Eilbestellung, Verteidigerwechsel, Entpflichtung, Interessenkollision und Mandantenkommunikation nach §§ 140 ff

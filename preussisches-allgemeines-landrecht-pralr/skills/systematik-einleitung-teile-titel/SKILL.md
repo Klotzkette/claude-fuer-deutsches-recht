@@ -1,6 +1,6 @@
 ---
 name: systematik-einleitung-teile-titel
-description: "Wenn es um Systematik in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Systematik Einleitung Teile Titel; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Systematik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: systematik-einleitung-teile-titel."
 ---
 
 # Systematik

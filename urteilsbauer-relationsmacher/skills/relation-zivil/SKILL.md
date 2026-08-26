@@ -1,6 +1,6 @@
 ---
 name: relation-zivil
-description: "Wenn es um Relation Zivilprozess - Vollrelation nach deutschem Standard in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Relation Zivilprozess - Vollrelation nach deutschem Standard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Relation Zivilprozess - Vollrelation nach deutschem Standard

@@ -1,6 +1,6 @@
 ---
 name: kameradschaft-achtungs-und-vertrauenspflicht
-description: "Wenn es um Kameradschaft, Achtungs- und Vertrauenspflicht in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kameradschaft, Achtungs- und Vertrauenspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kameradschaft, Achtungs- und Vertrauenspflicht

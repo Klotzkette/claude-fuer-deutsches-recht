@@ -1,6 +1,6 @@
 ---
 name: schultraeger-gebaeude-und-ausstattung
-description: "Wenn es um Schultraeger Gebaeude Und Ausstattung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulträger Gebäude und Ausstattung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schultraeger Gebaeude Und Ausstattung

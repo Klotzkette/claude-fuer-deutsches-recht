@@ -1,6 +1,6 @@
 ---
 name: lph-bim-belegakte-fachplaner
-description: "Wenn es um LPH 4 Genehmigungsplanung: Ordnet digitale modelle in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für LPH 4 Genehmigungsplanung: Ordnet digitale modelle: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 4 Genehmigungsplanung: Ordnet digitale modelle

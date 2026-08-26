@@ -1,6 +1,6 @@
 ---
 name: healthcare-bankruptcy
-description: "Wenn es um Health Care Business Bankruptcy in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Health Care Business Bankruptcy: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Health Care Business Bankruptcy

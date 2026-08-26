@@ -1,6 +1,6 @@
 ---
 name: compliance-integritaet-formeln
-description: "Formuliert Integrität, Diskretion, Zuverlässigkeit und Regelkonformität nur dort, wo Funktion und Belege dies tragen. Prüft Kassen-, Finanz-, Personal- und Vertrauenspositionen auf sachgerechte Hervorhebung und vermeidet verdächtig isolierte Ehrlichkeitscodes."
+description: "Formuliert Integrität, Diskretion, Zuverlässigkeit und Regelkonformität nur dort, wo Funktion und Belege dies tragen."
 ---
 
 # Compliance- und Integritäts-Formeln

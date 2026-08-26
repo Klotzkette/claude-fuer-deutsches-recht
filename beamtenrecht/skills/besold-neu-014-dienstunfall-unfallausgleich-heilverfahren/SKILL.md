@@ -1,6 +1,6 @@
 ---
 name: besold-neu-014-dienstunfall-unfallausgleich-heilverfahren
-description: "Wenn es um Besold Dienstunfall Unfallausgleich Heilverfahren in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besold Dienstunfall Unfallausgleich Heilverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Besold Dienstunfall Unfallausgleich Heilverfahren

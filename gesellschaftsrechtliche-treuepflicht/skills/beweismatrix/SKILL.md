@@ -1,6 +1,6 @@
 ---
 name: beweismatrix
-description: "Wenn es um Beweismatrix in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweismatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweismatrix

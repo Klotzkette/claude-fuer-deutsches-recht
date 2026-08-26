@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-im-asset-deal-vs-share-deal
-description: "Wenn es um Strukturvergleich Asset Deal vs in Großkanzlei Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Strukturvergleich Asset Deal vs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strukturvergleich Asset Deal vs

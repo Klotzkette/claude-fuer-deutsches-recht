@@ -1,6 +1,6 @@
 ---
 name: beweisprotokoll-verletzung-china-nda-clause
-description: "Wenn es um Beweisprotokoll Verletzung in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweisprotokoll Verletzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweisprotokoll Verletzung

@@ -1,6 +1,6 @@
 ---
 name: verhandlung-mediation-erbengemeinschaft
-description: "Wenn es um Streit in der Erbengemeinschaft durch Verhandlung oder Mediation lösen in Fachanwalt Erbrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Streit in der Erbengemeinschaft durch Verhandlung oder Mediation lösen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Streit in der Erbengemeinschaft durch Verhandlung oder Mediation lösen

@@ -1,6 +1,6 @@
 ---
 name: bess-marktrollen-bilanzkreis
-description: "Wenn es um Marktrollen, Bilanzkreis und Redispatch in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Marktrollen, Bilanzkreis und Redispatch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Marktrollen, Bilanzkreis und Redispatch

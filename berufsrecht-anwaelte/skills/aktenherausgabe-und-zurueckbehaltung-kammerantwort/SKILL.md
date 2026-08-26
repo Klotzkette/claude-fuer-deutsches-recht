@@ -1,6 +1,6 @@
 ---
 name: aktenherausgabe-und-zurueckbehaltung-kammerantwort
-description: "Wenn es um Aktenherausgabe Und Zurueckbehaltung Kammerantwort in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Aktenherausgabe und Zurückbehaltung Kammerantwort: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: aktenherausgabe und zurueckbehaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

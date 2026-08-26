@@ -1,6 +1,6 @@
 ---
 name: rechtsstand-mai-2026-faktenbank
-description: "Wenn es um Rechtsstand Mai 2026 — Faktenbank Steuerrecht in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsstand Mai 2026 — Faktenbank Steuerrecht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsstand Mai 2026 — Faktenbank Steuerrecht

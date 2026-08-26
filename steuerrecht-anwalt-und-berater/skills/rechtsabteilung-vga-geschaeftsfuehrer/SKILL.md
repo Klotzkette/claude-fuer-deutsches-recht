@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-vga-geschaeftsfuehrer
-description: "Wenn es um Rechtsabteilung: vGA bei Geschäftsführer- und Beiratsvergütung in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Rechtsabteilung Vga Geschäftsführer; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Rechtsabteilung: vGA bei Geschäftsführer- und Beiratsvergütung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: rechtsabteilung-vga-geschaeftsfuehrer."
 ---
 
 # Rechtsabteilung: vGA bei Geschäftsführer- und Beiratsvergütung

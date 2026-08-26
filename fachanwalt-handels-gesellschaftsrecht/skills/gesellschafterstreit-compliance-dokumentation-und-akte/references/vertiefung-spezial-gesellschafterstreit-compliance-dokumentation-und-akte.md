@@ -1,0 +1,55 @@
+## Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk
+
+Auswahlsignal: Wenn es um Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten.
+
+### Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk
+
+#### Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-handels-gesellschaftsrecht`. Ausgangspunkt ist: Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung §§ 43 GmbHG 93 AktG. Gesellschafterstreit Beschlussanfechtung. Handelsvertreterausgleich § 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein.
+
+Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Gesellschafterstreit**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+#### Fachlicher Zuschnitt
+
+- **Thema:** Gesellschafterstreit.
+- **Arbeitsfokus:** Compliance-Dokumentation und Aktenvermerk.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung §§ 43 GmbHG 93 AktG. Gesell....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+
+#### Kaltstart
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+#### Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Typische Streitachsen:** Beschlussanfechtung (Anfechtungs-/Nichtigkeitsklage analog § 246 AktG für GmbH BGH ständige Rechtsprechung, Frist 1 Monat); Auskunfts- und Einsichtsrecht § 51a GmbHG (jeder Gesellschafter, Verweigerung nur bei drohendem nicht unerheblichem Nachteil); Einberufungsverlangen § 50 GmbHG (Minderheit von 10 %); Ausschluss aus wichtigem Grund § 34 GmbHG (Einziehung Geschäftsanteil) bzw. § 140 HGB analog für Personengesellschaften.
+3. **Compliance-Dokumentation:** Trennen zwischen Mandantenkommunikation (privilegiert § 43a BRAO, § 53 StPO) und gesellschaftsinterner Dokumentation. Bei Gesellschafterversammlung: notarielles Protokoll bei Beurkundungspflicht (§ 53 GmbHG Satzungsänderung), sonst eigenhändiges Protokoll mit Unterschrift Versammlungsleiter. Aktenvermerke konkretisieren Datum, Anwesende, Beschlussvorschläge, Stimmen, Ergebnis, Widersprüche.
+4. **Beweislast und Belege:** Bei Beschlussanfechtung Anfechtender muss Mangel darlegen, Gesellschaft trägt Beweislast für ordnungsgemäße Beschlussfassung (BGH ständige Rechtsprechung). Bei Auskunftsverlangen § 51a GmbHG: Verweigerungsbeschluss notwendig, sonst Anspruch verbindlich. Bei Einziehung gewichtige Pflichtverletzung + Abmahnung erforderlich.
+5. **Anschluss:** Anwendbar gleichzeitig `spezial-beschlussanfechtung-mehrparteien-konflikt-und-interessen`; einstweiliger Rechtsschutz Registersperre § 16 Abs. 1 HGB; ADR-Optionen (Mediation, Schiedsklauseln) als Trade-off zur Klagewelle.
+
+#### Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+#### Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.

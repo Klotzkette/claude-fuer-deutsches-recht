@@ -1,6 +1,6 @@
 ---
 name: spezial-proz-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Proz: Livequellen- und Rechtsprechungscheck in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Proz: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Proz: Livequellen- und Rechtsprechungscheck

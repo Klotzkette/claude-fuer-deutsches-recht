@@ -1,6 +1,6 @@
 ---
 name: ki-governance-berufsrecht
-description: "Wenn es um digitale Werkzeuge-Governance und Berufsrecht in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge-Governance und Berufsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # KI-Governance und Berufsrecht

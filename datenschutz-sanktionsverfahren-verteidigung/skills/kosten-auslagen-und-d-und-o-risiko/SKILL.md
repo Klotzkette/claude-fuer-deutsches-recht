@@ -1,6 +1,6 @@
 ---
 name: kosten-auslagen-und-d-und-o-risiko
-description: "Wenn es um Kosten Auslagen und D&O-Risiko in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kosten Auslagen und D&O-Risiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Kosten Auslagen und D&O-Risiko

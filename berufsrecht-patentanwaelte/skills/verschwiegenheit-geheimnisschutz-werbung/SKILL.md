@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-geheimnisschutz-werbung
-description: "Wenn es um Verschwiegenheit und Geheimnisschutz in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verschwiegenheit und Geheimnisschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Patentanwälte."
 ---
 
 # Verschwiegenheit und Geheimnisschutz

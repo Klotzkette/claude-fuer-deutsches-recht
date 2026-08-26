@@ -1,6 +1,6 @@
 ---
 name: bess-abstandsflaechen-baurecht-brandenburg
-description: "Wenn es um Abstandsflächen, Containerlayout und Nachbarschaft in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abstandsflächen, Containerlayout und Nachbarschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abstandsflächen, Containerlayout und Nachbarschaft

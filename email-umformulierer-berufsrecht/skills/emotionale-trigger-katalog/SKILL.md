@@ -1,6 +1,6 @@
 ---
 name: emotionale-trigger-katalog
-description: "Wenn es um Emotionaler Trigger-Katalog in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Emotionale Trigger Katalog; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für Emotionaler Trigger-Katalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: E-Mail-Umformulierer. Route: emotionale-trigger-katalog."
 ---
 
 # Emotionaler Trigger-Katalog

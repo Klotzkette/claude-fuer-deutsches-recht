@@ -1,6 +1,6 @@
 ---
 name: mauergrundstueck-berechtigte-ermitteln
-description: "Wenn es um Mauergrundstueck Berechtigte Ermitteln in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mauergrundstück Berechtigte Ermitteln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mauergrundstueck Berechtigte Ermitteln

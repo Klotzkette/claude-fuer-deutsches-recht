@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-beschluss-heilung-nachtraeglich
-description: "Wenn es um Betriebsrat Beschluss Heilung Nachtraeglich in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebsrat Beschluss Heilung Nachträglich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsrat Beschluss Heilung Nachtraeglich: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

@@ -1,6 +1,6 @@
 ---
 name: hv-lessons-learned
-description: "Wenn es um HV Lessons Learned in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HV Lessons Learned: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HV Lessons Learned

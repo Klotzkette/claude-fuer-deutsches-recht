@@ -1,6 +1,6 @@
 ---
 name: darstellender-quellenkarte
-description: "Wenn es um Darstellender Quellenkarte in Insolvenzplan- und StaRUG-Planwerkstatt geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Darstellender Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Darstellender Quellenkarte

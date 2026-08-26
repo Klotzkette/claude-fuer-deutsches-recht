@@ -1,6 +1,6 @@
 ---
 name: zivilrecht-unterlassung-abmahnung
-description: "Wenn es um Zivilrechtliche Äußerungsansprüche in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zivilrechtliche Äußerungsansprüche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zivilrechtliche Äußerungsansprüche

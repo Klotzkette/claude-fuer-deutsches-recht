@@ -1,6 +1,6 @@
 ---
 name: schiedsgericht
-description: "Wenn es um Schiedsklausel im Handelsvertretervertrag nach Paragrafen 1029 ff. ZPO und Paragraf 92c HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schiedsklausel im Handelsvertretervertrag nach Paragrafen 1029 ff. ZPO und Paragraf 92c HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiedsklausel im Handelsvertretervertrag nach §§ 1029 ff. ZPO und § 92c HGB

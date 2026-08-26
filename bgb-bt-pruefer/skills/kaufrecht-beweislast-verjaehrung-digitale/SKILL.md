@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-beweislast-verjaehrung-digitale
-description: "Wenn es um Kaufrecht: Beweislast, Verjährung und digitale Elemente in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaufrecht: Beweislast, Verjährung und digitale Elemente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: BGB BT Prüfer. Route: kaufrecht-beweislast-verjaehrung-digitale."
 ---
 
 # Kaufrecht: Beweislast, Verjährung und digitale Elemente

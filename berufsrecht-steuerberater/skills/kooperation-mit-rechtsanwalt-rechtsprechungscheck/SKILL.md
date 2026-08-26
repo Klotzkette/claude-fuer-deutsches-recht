@@ -1,6 +1,6 @@
 ---
 name: kooperation-mit-rechtsanwalt-rechtsprechungscheck
-description: "Wenn es um Kooperation Mit Rechtsanwalt Rechtsprechungscheck in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Kooperation mit Rechtsanwalt Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: kooperation mit rechtsanwalt - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

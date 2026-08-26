@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-tagessaetze-und-nebenfolgen
-description: "Wenn es um Strafbefehl: Tagessätze, Nebenfolgen und Einspruchsrisiko in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Strafbefehl: Tagessätze, Nebenfolgen und Einspruchsrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafbefehl: Tagessätze, Nebenfolgen und Einspruchsrisiko

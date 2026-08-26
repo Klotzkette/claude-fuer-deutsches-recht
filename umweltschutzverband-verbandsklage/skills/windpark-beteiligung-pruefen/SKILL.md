@@ -1,6 +1,6 @@
 ---
 name: windpark-beteiligung-pruefen
-description: "Wenn es um Windpark Beteiligung Prüfen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Windpark Beteiligung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Umweltschutzverband Verbandsklage. Route: windpark-beteiligung-pruefen."
 ---
 
 # Windpark Beteiligung Prüfen

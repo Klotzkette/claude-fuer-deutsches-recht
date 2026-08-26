@@ -1,6 +1,6 @@
 ---
 name: pflicht-treuen-politische-betaetigung
-description: "Wenn es um Pflicht zum treuen Dienen (Paragraf 7 SG) in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pflicht zum treuen Dienen (Paragraf 7 SG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Pflicht zum treuen Dienen (§ 7 SG)

@@ -1,6 +1,6 @@
 ---
 name: stellio-schmuggel-roemische
-description: "Wenn es um Rom 133 Stellio Und Schmuggel Roemische Zollordnung in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Stellio Schmuggel Roemische; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 133 Stellio und Schmuggel Römische Zollordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: stellio-schmuggel-roemische."
 ---
 
 # Rom 133 Stellio Und Schmuggel Roemische Zollordnung

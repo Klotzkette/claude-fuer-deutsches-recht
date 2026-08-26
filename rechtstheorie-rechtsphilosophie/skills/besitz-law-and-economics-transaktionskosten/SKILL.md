@@ -1,6 +1,6 @@
 ---
 name: besitz-law-and-economics-transaktionskosten
-description: "Wenn es um Besitz und Law & Economics: Transaktionskosten in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Besitz und Law & Economics: Transaktionskosten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besitz und Law & Economics: Transaktionskosten

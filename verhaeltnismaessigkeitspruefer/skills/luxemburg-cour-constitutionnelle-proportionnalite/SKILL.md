@@ -1,6 +1,6 @@
 ---
 name: luxemburg-cour-constitutionnelle-proportionnalite
-description: "Wenn es um Luxemburg Cour Constitutionnelle Proportionnalite in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Luxemburg Cour Constitutionnelle Proportionnalite: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Luxemburg Cour Constitutionnelle Proportionnalite

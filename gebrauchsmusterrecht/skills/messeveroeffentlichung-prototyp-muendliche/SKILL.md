@@ -1,6 +1,6 @@
 ---
 name: messeveroeffentlichung-prototyp-muendliche
-description: "Wenn es um Messeveroeffentlichung Und Prototyp in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Messeveröffentlichung und Prototyp: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Messeveroeffentlichung Und Prototyp

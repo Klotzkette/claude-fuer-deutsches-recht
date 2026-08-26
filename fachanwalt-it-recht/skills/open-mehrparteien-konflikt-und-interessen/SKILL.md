@@ -1,6 +1,6 @@
 ---
 name: open-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Open: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Open: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Open: Mehrparteienkonflikt und Interessenmatrix

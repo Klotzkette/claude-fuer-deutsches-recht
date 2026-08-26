@@ -1,6 +1,6 @@
 ---
 name: automatisierte-entscheidung-dsgvo-art-22
-description: "Wenn es um europäischer Technikregulierungsrahmen und DSGVO Art. 22 in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Automatisierte Entscheidung Dsgvo Art 22; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für europäischer Technikregulierungsrahmen und DSGVO Art. 22: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: automatisierte-entscheidung-dsgvo-art-22."
 ---
 
 # KI-VO und DSGVO Art. 22

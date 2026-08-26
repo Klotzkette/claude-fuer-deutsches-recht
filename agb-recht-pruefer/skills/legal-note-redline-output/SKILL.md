@@ -1,6 +1,6 @@
 ---
 name: legal-note-redline-output
-description: "Wenn es um Legal Note Redline Output in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Legal Note Redline Output: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Legal Note Redline Output

@@ -1,6 +1,6 @@
 ---
 name: gebuehren-paygov-deposit-account
-description: "Wenn es um Gebühren, Pay.gov und Deposit Account in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Gebühren, Pay.gov und Deposit Account: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Gebühren, Pay.gov und Deposit Account

@@ -1,6 +1,6 @@
 ---
 name: rainmaker-abhaengigkeit-remote-hybrid
-description: "Wenn es um Rainmaker-Abhängigkeit in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rainmaker-Abhängigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rainmaker-Abhängigkeit

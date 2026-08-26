@@ -1,6 +1,6 @@
 ---
 name: gerichtliche-nachforderung
-description: "Wenn es um Gerichtliche Nachforderung in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gerichtliche Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gerichtliche Nachforderung: Frist, Ergänzung, unvollständiger Antrag, Wiedervorlage und Belegdisziplin.

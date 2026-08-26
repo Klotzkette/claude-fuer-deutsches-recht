@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-haertefall-fahrverbot
-description: "Wenn es um Haertefall-Argumentation beim Fahrverbot — Paragraf 25 StVG in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Härtefall-Argumentation beim Fahrverbot — Paragraf 25 StVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haertefall-Argumentation beim Fahrverbot — § 25 StVG

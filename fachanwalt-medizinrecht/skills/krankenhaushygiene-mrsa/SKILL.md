@@ -1,6 +1,6 @@
 ---
 name: krankenhaushygiene-mrsa
-description: "Wenn es um Krankenhaushygiene Mrsa in Fachanwalt Medizinrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenhaushygiene Mrsa: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenhaushygiene Mrsa

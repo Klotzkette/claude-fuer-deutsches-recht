@@ -1,6 +1,6 @@
 ---
 name: fallzahlen-schaetzung-bandbreiten
-description: "Wenn es um NKR-Fallzahlen — Schaetzung und Bandbreiten in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für NKR-Fallzahlen — Schätzung und Bandbreiten: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # NKR-Fallzahlen — Schaetzung und Bandbreiten

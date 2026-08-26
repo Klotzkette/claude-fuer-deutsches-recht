@@ -1,6 +1,6 @@
 ---
 name: legw-bmi-auslaender-und-staatsangehoerigkeitsrecht
-description: "Wenn es um Auslaender- und Staatsangehoerigkeitsrecht (BMI) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Ausländer- und Staatsangehörigkeitsrecht (BMI): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: legw-bmi-auslaender-und-staatsangehoerigkeitsrecht."
 ---
 
 # Auslaender- und Staatsangehoerigkeitsrecht (BMI)

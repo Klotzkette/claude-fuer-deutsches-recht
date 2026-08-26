@@ -1,6 +1,6 @@
 ---
 name: handelsrichter-gesellschafterstreit-orientierung
-description: "Wenn es um Handelsrichter Gesellschafterstreit: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Handelsrichter Gesellschafterstreit: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsrichter Gesellschafterstreit: Orientierung

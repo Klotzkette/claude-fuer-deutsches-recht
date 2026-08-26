@@ -1,6 +1,6 @@
 ---
 name: datenpanne-schriftsatz-brief-memo-bausteine
-description: "Wenn es um Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Datenschutzrecht. Route: datenpanne-schriftsatz-brief-memo-bausteine."
 ---
 
 # Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine

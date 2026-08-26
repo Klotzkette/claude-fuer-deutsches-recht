@@ -1,6 +1,6 @@
 ---
 name: gefahrstoffverzeichnis-gefstoffv
-description: "Wenn es um Gefahrstoffverzeichnis und Arbeitsschutz in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gefahrstoffverzeichnis und Arbeitsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gefahrstoffverzeichnis und Arbeitsschutz

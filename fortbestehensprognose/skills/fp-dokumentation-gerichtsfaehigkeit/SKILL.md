@@ -1,6 +1,6 @@
 ---
 name: fp-dokumentation-gerichtsfaehigkeit
-description: "Wenn es um FP: Dokumentation-Gerichtsfaehigkeit in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für FP: Dokumentation-Gerichtsfähigkeit: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FP: Dokumentation-Gerichtsfaehigkeit

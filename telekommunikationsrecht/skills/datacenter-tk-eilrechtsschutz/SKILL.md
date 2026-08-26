@@ -1,6 +1,6 @@
 ---
 name: datacenter-tk-eilrechtsschutz
-description: "Wenn es um Datacenter Connectivity und Carrier Meet-Me in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Datacenter Connectivity und Carrier Meet-Me: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datacenter Connectivity und Carrier Meet-Me

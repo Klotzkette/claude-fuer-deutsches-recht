@@ -1,6 +1,6 @@
 ---
 name: strassenbau-akteneinsicht-erzwingen
-description: "Wenn es um Strassenbau Akteneinsicht Erzwingen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strassenbau Akteneinsicht Erzwingen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strassenbau Akteneinsicht Erzwingen

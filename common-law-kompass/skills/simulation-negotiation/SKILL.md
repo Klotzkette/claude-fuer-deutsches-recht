@@ -1,6 +1,6 @@
 ---
 name: simulation-negotiation
-description: "Wenn es um Simulation und Verhandlungstraining in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Simulation und Verhandlungstraining: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Simulation und Verhandlungstraining

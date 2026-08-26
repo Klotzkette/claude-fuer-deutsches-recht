@@ -1,6 +1,6 @@
 ---
 name: iap-aussonderung-absonderung-spezial
-description: "Wenn es um IAP: Aussonderung Absonderung in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IAP: Aussonderung Absonderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IAP: Aussonderung Absonderung

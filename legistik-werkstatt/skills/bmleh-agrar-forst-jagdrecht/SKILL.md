@@ -1,6 +1,6 @@
 ---
 name: bmleh-agrar-forst-jagdrecht
-description: "Wenn es um Agrar- und Förderungsrecht (GAK; GAP) (BMLEH) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmleh Agrar Forst Jagdrecht; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Agrar- und Förderungsrecht (GAK; GAP) (BMLEH): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmleh-agrar-forst-jagdrecht."
 ---
 
 # Agrar- und Förderungsrecht (GAK; GAP) (BMLEH)

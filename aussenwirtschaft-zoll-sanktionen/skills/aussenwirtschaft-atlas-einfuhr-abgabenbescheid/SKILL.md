@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-atlas-einfuhr-abgabenbescheid
-description: "Wenn es um ATLAS-Einfuhr-Abgabenbescheid: Prüfen und Anfechten in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für ATLAS-Einfuhr-Abgabenbescheid: Prüfen und Anfechten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ATLAS-Einfuhr-Abgabenbescheid: Prüfen und Anfechten

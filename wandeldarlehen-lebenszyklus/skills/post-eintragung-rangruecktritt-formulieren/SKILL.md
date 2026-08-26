@@ -1,6 +1,6 @@
 ---
 name: post-eintragung-rangruecktritt-formulieren
-description: "Wenn es um Post-Eintragung-Checkliste in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Post-Eintragung-Checkliste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Post-Eintragung-Checkliste

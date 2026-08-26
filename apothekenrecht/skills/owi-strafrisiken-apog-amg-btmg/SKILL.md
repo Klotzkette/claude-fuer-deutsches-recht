@@ -1,6 +1,6 @@
 ---
 name: owi-strafrisiken-apog-amg-btmg
-description: "Wenn es um OWi Strafrisiken ApoG AMG BtMG in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für OWi Strafrisiken ApoG AMG BtMG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # OWi Strafrisiken ApoG AMG BtMG

@@ -1,6 +1,6 @@
 ---
 name: haertefall-574-bgb
-description: "Wenn es um Härtefall Paragraf 574 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Härtefall Paragraf 574 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Härtefall § 574 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht
@@ -44,3 +44,7 @@ description: "Wenn es um Härtefall Paragraf 574 BGB: Fachmodul im Miet- und Woh
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-haertefall-574-bgb` beziehungsweise Härtefall § 574 BGB: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-haertefall-574-bgb.md).

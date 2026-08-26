@@ -1,6 +1,6 @@
 ---
 name: containerschiff-arrest-vorbereiten
-description: "Wenn es um Containerschiff – Arrest vorbereiten in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Containerschiff – Arrest vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Containerschiff – Arrest vorbereiten

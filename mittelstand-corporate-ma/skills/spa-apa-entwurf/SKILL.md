@@ -1,6 +1,6 @@
 ---
 name: spa-apa-entwurf
-description: "Wenn es um SPA/APA-Entwurf in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für SPA/APA-Entwurf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # SPA/APA-Entwurf

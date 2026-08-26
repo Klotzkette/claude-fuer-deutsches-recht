@@ -1,6 +1,6 @@
 ---
 name: gruendung-nicht-eingetragen
-description: "Wenn es um Nicht eingetragener Verein in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Nicht eingetragener Verein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nicht eingetragener Verein

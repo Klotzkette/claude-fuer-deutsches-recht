@@ -1,6 +1,6 @@
 ---
 name: lizenz-gebrauchsmuster-gebrmg
-description: "Wenn es um Lizenz Gebrauchsmuster (GebrMG) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Lizenz Gebrauchsmuster (GebrMG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lizenz Gebrauchsmuster (GebrMG)

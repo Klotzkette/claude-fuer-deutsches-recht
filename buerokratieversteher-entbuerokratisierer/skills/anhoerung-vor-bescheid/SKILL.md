@@ -1,6 +1,6 @@
 ---
 name: anhoerung-vor-bescheid
-description: "Wenn es um Anhörung vor Bescheid in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Anhörung vor Bescheid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anhörung vor Bescheid

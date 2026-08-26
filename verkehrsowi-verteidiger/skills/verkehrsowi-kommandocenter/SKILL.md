@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-kommandocenter
-description: "Wenn es um VerkehrsOWi-Verteidiger — Kommandocenter in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für VerkehrsOWi-Verteidiger — Kommandocenter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VerkehrsOWi-Verteidiger — Kommandocenter

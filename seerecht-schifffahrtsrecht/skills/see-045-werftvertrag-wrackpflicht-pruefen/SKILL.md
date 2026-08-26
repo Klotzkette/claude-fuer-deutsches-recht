@@ -1,6 +1,6 @@
 ---
 name: see-045-werftvertrag-wrackpflicht-pruefen
-description: "Wenn es um Werftvertrag Wrackpflicht Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Werftvertrag Wrackpflicht Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Werftvertrag Wrackpflicht Pruefen

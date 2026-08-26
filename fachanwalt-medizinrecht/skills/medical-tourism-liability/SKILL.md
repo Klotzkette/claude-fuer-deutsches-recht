@@ -1,6 +1,6 @@
 ---
 name: medical-tourism-liability
-description: "Wenn es um Medical Tourism Liability in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Medical Tourism Liability: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Medical Tourism Liability: moderner Medizinrechts-Skill für Ästhetik-/Zahn-/Fertilitätsbehandlung im Ausland, Vermittler, Nachbehandlung und Gerichtsstand

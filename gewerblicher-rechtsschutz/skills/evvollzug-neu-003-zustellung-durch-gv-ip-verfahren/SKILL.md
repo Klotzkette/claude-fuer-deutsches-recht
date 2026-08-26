@@ -1,6 +1,6 @@
 ---
 name: evvollzug-neu-003-zustellung-durch-gv-ip-verfahren
-description: "Wenn es um Gewerblicher Rechtsschutz: Zustellung durch Gerichtsvollzieher im IP-Verfahren in Plugin: Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gewerblicher Rechtsschutz: Zustellung durch Gerichtsvollzieher im IP-Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gewerblicher Rechtsschutz: Zustellung durch Gerichtsvollzieher im IP-Verfahren

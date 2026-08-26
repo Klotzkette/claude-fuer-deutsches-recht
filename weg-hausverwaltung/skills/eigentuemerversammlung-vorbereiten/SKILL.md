@@ -1,6 +1,6 @@
 ---
 name: eigentuemerversammlung-vorbereiten
-description: "Wenn es um Eigentümerversammlung Vorbereiten in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Eigentümerversammlung Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eigentümerversammlung Vorbereiten

@@ -1,6 +1,6 @@
 ---
 name: vollmacht-mitreisende
-description: "Wenn es um Vollmacht für Mitreisende in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vollmacht für Mitreisende: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollmacht für Mitreisende

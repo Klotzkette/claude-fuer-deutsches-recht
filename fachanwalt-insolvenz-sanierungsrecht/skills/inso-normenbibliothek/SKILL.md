@@ -1,6 +1,6 @@
 ---
 name: inso-normenbibliothek
-description: "Erschließt eine konkret bezeichnete Vorschrift der Insolvenzordnung mit aktuellem Wortlaut, Systemstelle, Tatbestandsmerkmalen, Rechtsfolge, Fristen, Belegen und Verfahrensbezug. Verwenden für eine Einzelnorm oder Normsuche; lädt nur den einschlägigen Bereich und verweist bei vertiefter Fallbearbeitung auf den passenden Fachworkflow."
+description: "Erschließt eine konkret bezeichnete Vorschrift der Insolvenzordnung mit aktuellem Wortlaut, Systemstelle, Tatbestandsmerkmalen, Rechtsfolge, Fristen, Belegen und Verfahrensbezug."
 ---
 
 # 1. Vorschriften der Insolvenzordnung gezielt erschließen

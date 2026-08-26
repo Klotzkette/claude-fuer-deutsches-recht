@@ -1,6 +1,6 @@
 ---
 name: nutztierhaltung-kontrolle
-description: "Wenn es um Nutztierhaltung Kontrolle in Tierschutzrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nutztierhaltung Kontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Nutztierhaltung Kontrolle

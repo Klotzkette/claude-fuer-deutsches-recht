@@ -1,6 +1,6 @@
 ---
 name: personenverzeichnis-aufbau
-description: "Wenn es um Personenverzeichnis aufbauen in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Personenverzeichnis aufbauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personenverzeichnis aufbauen

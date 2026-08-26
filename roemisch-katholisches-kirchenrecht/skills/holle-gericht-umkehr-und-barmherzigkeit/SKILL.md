@@ -1,6 +1,6 @@
 ---
 name: holle-gericht-umkehr-und-barmherzigkeit
-description: "Wenn es um Hölle, Gericht, Umkehr und Barmherzigkeit in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Hölle, Gericht, Umkehr und Barmherzigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: holle-gericht-umkehr-und-barmherzigkeit."
 ---
 
 # Hölle, Gericht, Umkehr und Barmherzigkeit

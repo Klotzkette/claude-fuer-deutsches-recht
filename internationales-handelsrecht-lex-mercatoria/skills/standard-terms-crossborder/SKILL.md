@@ -1,6 +1,6 @@
 ---
 name: standard-terms-crossborder
-description: "Wenn es um Standard Terms im grenzüberschreitenden Handel in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Standard Terms im grenzüberschreitenden Handel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Standard Terms im grenzüberschreitenden Handel

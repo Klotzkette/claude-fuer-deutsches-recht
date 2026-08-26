@@ -1,6 +1,6 @@
 ---
 name: zeitleiste
-description: "Wenn es um Zeitleiste des Datenschutzvorfalls — minutiöse Rekonstruktion in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zeitleiste des Datenschutzvorfalls — minutiöse Rekonstruktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zeitleiste des Datenschutzvorfalls — minutiöse Rekonstruktion
@@ -41,3 +41,7 @@ Wichtig: Kenntnisbegriff sauber dokumentieren — ein bloßer Verdacht oder Hinw
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-zeitleiste` beziehungsweise Erstellt eine minutiös rekonstruierte Zeitleiste vom Eintritt der Verletzung bis zur Meldung und Benachrichtigung: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-zeitleiste.md).

@@ -1,6 +1,6 @@
 ---
 name: betrkv-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Betrkv Mehrparteien Konflikt Und Interessen in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betrkv Mehrparteien Konflikt und Interessen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betrkv: Mehrparteienkonflikt und Interessenmatrix im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -51,3 +51,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Einwendungsfrist Mieter (§ 556 Abs. 3 S. 5 BGB):** Zwölf Monate nach Zugang der Abrechnung. Danach ist der Mieter mit formellen Einwänden präkludiert; materielle Einwände können in seltenen Fällen länger geltend gemacht werden (BGH ständige Rspr.).
 - **Verteilungsmaßstab:** Default § 556a BGB - Wohnfläche; verbrauchsabhängige Kosten zwingend nach Verbrauch (HeizKV: 50-70% Verbrauch, Rest Fläche). Abweichende Vereinbarung möglich, ändert die Verteilung aber nur prospektiv.
 - **Stolperfallen:** Falsch ausgewiesene Vorauszahlungen, fehlende Belegseinsicht, Aufnahme von Verwaltungs- oder Instandhaltungskosten in die Abrechnung (nicht umlagefähig), unzulässige Umlage von Reparaturen über Wartungsverträge.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-betrkv-mehrparteien-konflikt-und-interessen` beziehungsweise Betrkv: Mehrparteienkonflikt und Interessenmatrix: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-betrkv-mehrparteien-konflikt-und-interessen.md).

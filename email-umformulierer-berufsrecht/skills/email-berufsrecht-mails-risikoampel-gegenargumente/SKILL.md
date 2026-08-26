@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-mails-risikoampel-gegenargumente
-description: "Wenn es um Mails: Risikoampel, Gegenargumente und Verteidigungslinien in E-Mail-Umformulierer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Mails Risikoampel Gegenargumente; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für Mails: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel. Fachgebiet: E-Mail-Umformulierer. Route: email-berufsrecht-mails-risikoampel-gegenargumente."
 ---
 
 # Mails: Risikoampel, Gegenargumente und Verteidigungslinien

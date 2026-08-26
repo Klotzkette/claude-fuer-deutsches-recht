@@ -1,6 +1,6 @@
 ---
 name: bmftr-hochschul-und-wissenschaftsrecht
-description: "Wenn es um Hochschulrecht und Wissenschaftsrecht (BMFTR) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Hochschulrecht und Wissenschaftsrecht (BMFTR): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hochschulrecht und Wissenschaftsrecht (BMFTR)

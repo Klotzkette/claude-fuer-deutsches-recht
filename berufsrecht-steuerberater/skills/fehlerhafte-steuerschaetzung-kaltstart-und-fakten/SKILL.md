@@ -1,6 +1,6 @@
 ---
 name: fehlerhafte-steuerschaetzung-kaltstart-und-fakten
-description: "Wenn es um Fehlerhafte Steuerschaetzung Kaltstart Und Fakten in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fehlerhafte Steuerschätzung Kaltstart und Fakten: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: fehlerhafte steuerschätzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

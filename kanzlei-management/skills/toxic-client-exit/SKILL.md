@@ -1,6 +1,6 @@
 ---
 name: toxic-client-exit
-description: "Wenn es um Toxic Client Exit in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Toxic Client Exit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Toxic Client Exit

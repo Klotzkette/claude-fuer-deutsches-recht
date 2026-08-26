@@ -1,6 +1,6 @@
 ---
 name: rom-102-zwoelftafelgesetz-familie-erbe-nachbarschaft
-description: "Wenn es um Zwölftafelgesetz - Familie, Erbe und Nachbarschaft in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zwölftafelgesetz - Familie, Erbe und Nachbarschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: rom-102-zwoelftafelgesetz-familie-erbe-nachbarschaft."
 ---
 
 # Zwölftafelgesetz - Familie, Erbe und Nachbarschaft

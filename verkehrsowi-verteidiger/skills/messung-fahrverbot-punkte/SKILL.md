@@ -1,6 +1,6 @@
 ---
 name: messung-fahrverbot-punkte
-description: "Wenn es um Messung, Punkte, Fahrverbot und Verteidigungsziel im Verkehrs-OWi in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Messung, Punkte, Fahrverbot und Verteidigungsziel im Verkehrs-OWi: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Messung, Punkte, Fahrverbot und Verteidigungsziel im Verkehrs-OWi

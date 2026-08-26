@@ -1,6 +1,6 @@
 ---
 name: email-an-behoerde
-description: "Wenn es um E-Mail an Behörde in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für E-Mail an Behörde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E-Mail an Behörde

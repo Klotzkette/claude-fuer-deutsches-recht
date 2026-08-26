@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-aktenplan-infrastruktur
-description: "Wenn es um Eilrechtsschutz Gegen Bau in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eilrechtsschutz gegen Bau: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eilrechtsschutz Gegen Bau

@@ -1,6 +1,6 @@
 ---
 name: eu-kartellrecht-self-preferencing-google-shopping
-description: "Prüft Self-Preferencing marktbeherrschender Plattformen nach Artikel 102 AEUV. Liefert Markt- und Dominanzmatrix, Vergleich der Behandlungsbedingungen, Wirkungs- und Kausalitätsanalyse, Beweisplan sowie einen belastbaren Beschwerde- oder Verteidigungskern."
+description: "Für 1. Self-Preferencing nach Artikel 102 AEUV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # 1. Self-Preferencing nach Artikel 102 AEUV

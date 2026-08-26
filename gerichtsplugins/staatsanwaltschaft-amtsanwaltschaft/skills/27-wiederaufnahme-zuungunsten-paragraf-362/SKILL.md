@@ -1,6 +1,6 @@
 ---
 name: 27-wiederaufnahme-zuungunsten-paragraf-362
-description: "Wenn es um 27 Wiederaufnahme Zuungunsten Paragraf 362 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 27 Wiederaufnahme Zuungunsten Paragraf 362: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 27 Wiederaufnahme Zuungunsten Paragraf 362

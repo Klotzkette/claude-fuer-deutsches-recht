@@ -1,6 +1,6 @@
 ---
 name: zahlstelle-bote-vertreter-und-treuhand
-description: "Wenn es um Zahlstelle, Bote, Vertreter und Treuhand in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zahlstelle, Bote, Vertreter und Treuhand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zahlstelle, Bote, Vertreter und Treuhand

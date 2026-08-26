@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-rechenzentrum-rz-klima
-description: "Wenn es um Bauueberwachung Rechenzentrum RZ-Klima (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Rechenzentrum RZ-Klima (LPH 8): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Rechenzentrum RZ-Klima (LPH 8)

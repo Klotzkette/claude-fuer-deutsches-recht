@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-mds-stellungnahme
-description: "Wenn es um Krankenkassen Mds Stellungnahme in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenkassen Mds Stellungnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenkassen Mds Stellungnahme

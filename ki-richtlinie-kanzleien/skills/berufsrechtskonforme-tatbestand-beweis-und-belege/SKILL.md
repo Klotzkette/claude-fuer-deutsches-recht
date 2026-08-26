@@ -1,6 +1,6 @@
 ---
 name: berufsrechtskonforme-tatbestand-beweis-und-belege
-description: "Wenn es um Berufsrechtskonforme Tatbestand Beweis Und Belege in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Berufsrechtskonforme Tatbestand Beweis und Belege: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 Eine KI-Nutzung in der Kanzlei ist berufsrechtskonform, wenn kumulativ erfüllt:
 - **Verschwiegenheit gewahrt** (§ 43a Abs. 2 BRAO, § 2 BORA): Mandantenbezogene Daten werden nicht an Dritte offenbart, soweit nicht durch Befreiung oder gesetzliche Pflicht gerechtfertigt.

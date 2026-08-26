@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-founder-vesting-und-leaver-streit
-description: "Wenn es um Rechtsabteilung: Founder Vesting und Leaver-Streit in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Rechtsabteilung: Founder Vesting und Leaver-Streit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Founder Vesting und Leaver-Streit

@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-solarpark-trafostation
-description: "Wenn es um Bauueberwachung Solarpark und Trafostation in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Solarpark und Trafostation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Solarpark und Trafostation

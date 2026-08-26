@@ -1,6 +1,6 @@
 ---
 name: orphan-atmp-zugang
-description: "Wenn es um Orphan Atmp Zugang in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Orphan Atmp Zugang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Orphan ATMP Zugang: moderner Medizinrechts-Skill für Seltene Erkrankung, Orphan-Status, Studienzugang, Registerdaten und Kostenträgerstrategie

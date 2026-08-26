@@ -1,6 +1,6 @@
 ---
 name: verhaeltnismaessigkeit-einstieg
-description: "Wenn es um Verhältnismäßigkeit Einstieg in Verhältnismäßigkeitsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verhältnismäßigkeit Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verhältnismäßigkeit Einstieg

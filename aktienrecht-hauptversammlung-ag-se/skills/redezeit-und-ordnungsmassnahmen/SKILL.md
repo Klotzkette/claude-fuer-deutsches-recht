@@ -1,6 +1,6 @@
 ---
 name: redezeit-und-ordnungsmassnahmen
-description: "Wenn es um Redezeit Und Ordnungsmassnahmen in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Redezeit und Ordnungsmassnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Redezeit Und Ordnungsmassnahmen

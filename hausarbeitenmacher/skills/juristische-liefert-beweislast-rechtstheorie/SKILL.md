@@ -1,6 +1,6 @@
 ---
 name: juristische-liefert-beweislast-rechtstheorie
-description: "Wenn es um Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage in hausarbeitenmacher — Didaktisches Plugin für juristische geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage

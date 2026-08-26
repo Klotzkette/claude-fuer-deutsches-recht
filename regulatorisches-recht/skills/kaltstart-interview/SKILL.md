@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Wenn es um Ersteinrichtung – Regulatorisches Recht in Regulatorisches Recht – Plugin für deutsches geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ersteinrichtung – Regulatorisches Recht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ersteinrichtung – Regulatorisches Recht

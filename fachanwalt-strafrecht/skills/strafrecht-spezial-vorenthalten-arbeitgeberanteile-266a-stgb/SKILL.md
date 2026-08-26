@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-vorenthalten-arbeitgeberanteile-266a-stgb
-description: "Wenn es um Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB

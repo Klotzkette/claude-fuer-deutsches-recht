@@ -1,6 +1,6 @@
 ---
 name: besondere-leistungen-projekte
-description: "Verdichtet konkrete Projekte, Verbesserungen, Umsätze, Einsparungen oder Krisenbeiträge zu glaubwürdigen Zeugnispassagen. Trennt persönlichen Anteil, Teamleistung und messbares Ergebnis und verhindert unbelegte Superlative oder Schaufenstertext."
+description: "Verdichtet konkrete Projekte, Verbesserungen, Umsätze, Einsparungen oder Krisenbeiträge zu glaubwürdigen Zeugnispassagen."
 ---
 
 # Besondere Leistungen und Projekte

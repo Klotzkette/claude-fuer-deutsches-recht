@@ -1,6 +1,6 @@
 ---
 name: unterlagenherausgabe-und-zurueckbehaltung-organis
-description: "Wenn es um Unterlagenherausgabe Und Zurueckbehaltung Organis in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unterlagenherausgabe und Zurückbehaltung Organis: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Steuerberater: unterlagenherausgabe und zurueckbehaltung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

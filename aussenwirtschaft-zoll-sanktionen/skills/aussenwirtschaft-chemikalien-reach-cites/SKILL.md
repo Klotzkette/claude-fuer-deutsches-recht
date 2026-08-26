@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-chemikalien-reach-cites
-description: "Wenn es um REACH und PIC: Chemikalien-Compliance im Aussenhandel in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für REACH und PIC: Chemikalien-Compliance im Außenhandel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # REACH und PIC: Chemikalien-Compliance im Aussenhandel

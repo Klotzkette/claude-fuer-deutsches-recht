@@ -1,6 +1,6 @@
 ---
 name: nachgereichter-schriftsatz-296a-zpo
-description: "Wenn es um Nachgereichter Schriftsatz nach Schluss der Verhandlung in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Nachgereichter Schriftsatz nach Schluss der Verhandlung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Nachgereichter Schriftsatz nach Schluss der Verhandlung

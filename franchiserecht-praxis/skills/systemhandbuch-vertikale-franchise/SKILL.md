@@ -1,6 +1,6 @@
 ---
 name: systemhandbuch-vertikale-franchise
-description: "Wenn es um Franchise: Systemhandbuch-Änderungen ohne AGB-Absturz in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Franchise: Systemhandbuch-Änderungen ohne AGB-Absturz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise: Systemhandbuch-Änderungen ohne AGB-Absturz

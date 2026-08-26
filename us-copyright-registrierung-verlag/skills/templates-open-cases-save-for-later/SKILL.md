@@ -1,6 +1,6 @@
 ---
 name: templates-open-cases-save-for-later
-description: "Wenn es um Templates, Open Cases und Save for Later in US Copyright Act und Registrierung für deutsche Verlage geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Templates, Open Cases und Save for Later: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Templates, Open Cases und Save for Later

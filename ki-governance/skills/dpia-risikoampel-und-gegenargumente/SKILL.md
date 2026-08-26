@@ -1,6 +1,6 @@
 ---
 name: dpia-risikoampel-und-gegenargumente
-description: "Wenn es um Dpia: Risikoampel, Gegenargumente und Verteidigungslinien in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dpia: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Dpia: Risikoampel, Gegenargumente und Verteidigungslinien

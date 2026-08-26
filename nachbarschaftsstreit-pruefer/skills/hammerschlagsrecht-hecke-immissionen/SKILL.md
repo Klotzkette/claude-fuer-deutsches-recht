@@ -1,6 +1,6 @@
 ---
 name: hammerschlagsrecht-hecke-immissionen
-description: "Wenn es um Hammerschlagsrecht: Formular, Portal und Einreichungslogik in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hammerschlagsrecht: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hammerschlagsrecht: Formular, Portal und Einreichungslogik

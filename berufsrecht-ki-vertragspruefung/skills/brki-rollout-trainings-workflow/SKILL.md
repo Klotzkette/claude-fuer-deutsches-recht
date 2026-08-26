@@ -1,6 +1,6 @@
 ---
 name: brki-rollout-trainings-workflow
-description: "Wenn es um BRKI: Rollout-Trainings in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BRKI: Rollout-Trainings: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BRKI: Rollout-Trainings

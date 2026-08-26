@@ -1,6 +1,6 @@
 ---
 name: berufung-amtsgericht-511-zpo
-description: "Wenn es um Berufung gegen AG-Urteil: Was geht und was nicht in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berufung gegen AG-Urteil: Was geht und was nicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berufung gegen AG-Urteil: Was geht und was nicht

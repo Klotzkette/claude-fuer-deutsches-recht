@@ -1,6 +1,6 @@
 ---
 name: gute-wissenschaftliche-praxis-verfahren
-description: "Wenn es um Gute wissenschaftliche Praxis Verfahren in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gute wissenschaftliche Praxis Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gute wissenschaftliche Praxis Verfahren

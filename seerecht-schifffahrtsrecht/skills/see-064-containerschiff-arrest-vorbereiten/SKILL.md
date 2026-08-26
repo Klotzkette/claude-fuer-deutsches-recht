@@ -1,6 +1,6 @@
 ---
 name: see-064-containerschiff-arrest-vorbereiten
-description: "Wenn es um Containerschiff Arrest Vorbereiten in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Containerschiff Arrest Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Containerschiff Arrest Vorbereiten

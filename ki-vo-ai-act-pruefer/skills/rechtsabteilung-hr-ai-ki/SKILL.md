@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-hr-ai-ki
-description: "Wenn es um Rechtsabteilung: HR-digitale Werkzeuge als Hochrisikosystem in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt Stichwort für die Auswahl: Rechtsabteilung Hr Ai Ki."
+description: "Für Rechtsabteilung: HR-digitale Werkzeuge als Hochrisikosystem: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: rechtsabteilung-hr-ai-ki."
 ---
 
 # Rechtsabteilung: HR-AI als Hochrisikosystem

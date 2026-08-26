@@ -1,6 +1,6 @@
 ---
 name: verbraucherverband-abo-modell-betroffenenformular-beweisplan
-description: "Wenn es um Abo Modell Betroffenenformular Bauen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abo Modell Betroffenenformular Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Abo Modell Betroffenenformular Bauen

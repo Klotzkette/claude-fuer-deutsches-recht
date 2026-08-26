@@ -1,6 +1,6 @@
 ---
 name: fristenversaeumnis-epo-restitutio-rechtsprechung
-description: "Wenn es um Fristenversaeumnis Epo Restitutio Rechtsprechung in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristenversäumnis Epo Restitutio Rechtsprechung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Patentanwälte: fristenversaeumnis epo restitutio - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

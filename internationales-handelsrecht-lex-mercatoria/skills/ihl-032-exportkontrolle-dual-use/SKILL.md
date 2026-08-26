@@ -1,6 +1,6 @@
 ---
 name: ihl-032-exportkontrolle-dual-use
-description: "Wenn es um Exportkontrolle Dual Use in Internationales Handelsrecht und Lex Mercatoria geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Exportkontrolle Dual Use: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Exportkontrolle Dual Use

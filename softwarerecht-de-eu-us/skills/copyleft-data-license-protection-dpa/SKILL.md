@@ -1,6 +1,6 @@
 ---
 name: copyleft-data-license-protection-dpa
-description: "Wenn es um Copyleft Compliance in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Copyleft Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Copyleft Compliance

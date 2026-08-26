@@ -1,6 +1,6 @@
 ---
 name: diozesanbischof-visitation-und-leitung
-description: "Wenn es um Diözesanbischof, Visitation und Leitung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Diözesanbischof, Visitation und Leitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Diözesanbischof, Visitation und Leitung

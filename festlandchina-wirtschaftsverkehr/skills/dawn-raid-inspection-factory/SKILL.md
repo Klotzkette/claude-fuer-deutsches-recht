@@ -1,6 +1,6 @@
 ---
 name: dawn-raid-inspection-factory
-description: "Wenn es um Dawn Raid China: Notfallprotokoll und Behördeninspektion in China-Wirtschaftsverkehr geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Dawn Raid China: Notfallprotokoll und Behördeninspektion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dawn Raid China: Notfallprotokoll und Behördeninspektion

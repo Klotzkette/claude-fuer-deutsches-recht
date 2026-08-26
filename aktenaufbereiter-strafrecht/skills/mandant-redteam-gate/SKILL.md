@@ -1,6 +1,6 @@
 ---
 name: mandant-redteam-gate
-description: "Wenn es um Mandantenkommunikation in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Aktenaufbereiter Strafrecht."
 ---
 
 # Mandantenkommunikation

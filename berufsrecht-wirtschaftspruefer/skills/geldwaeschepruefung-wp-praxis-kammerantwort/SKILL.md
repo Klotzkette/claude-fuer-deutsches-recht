@@ -1,6 +1,6 @@
 ---
 name: geldwaeschepruefung-wp-praxis-kammerantwort
-description: "Wenn es um Geldwaeschepruefung Wp Praxis Kammerantwort in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Geldwäscheprüfung Wp Praxis Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: geldwaeschepruefung wp praxis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

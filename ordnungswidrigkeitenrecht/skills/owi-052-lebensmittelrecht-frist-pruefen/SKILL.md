@@ -1,6 +1,6 @@
 ---
 name: owi-052-lebensmittelrecht-frist-pruefen
-description: "Wenn es um Lebensmittelrecht Frist Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lebensmittelrecht Frist Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Ordnungswidrigkeitenrecht. Route: owi-052-lebensmittelrecht-frist-pruefen."
 ---
 
 # Lebensmittelrecht Frist Pruefen

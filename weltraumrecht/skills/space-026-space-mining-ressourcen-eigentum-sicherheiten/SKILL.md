@@ -1,6 +1,6 @@
 ---
 name: space-026-space-mining-ressourcen-eigentum-sicherheiten
-description: "Wenn es um Weltraumrecht: Space Mining Ressourcenrechte Eigentum und Sicherheiten in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Space Mining Ressourcenrechte Eigentum und Sicherheiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Space Mining Ressourcenrechte Eigentum und Sicherheiten

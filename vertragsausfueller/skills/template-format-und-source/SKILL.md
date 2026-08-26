@@ -1,6 +1,6 @@
 ---
 name: template-format-und-source
-description: "Wenn es um VAF: Template-Format und Quelle in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für VAF: Template-Format und Quelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VAF: Template-Format und Quelle

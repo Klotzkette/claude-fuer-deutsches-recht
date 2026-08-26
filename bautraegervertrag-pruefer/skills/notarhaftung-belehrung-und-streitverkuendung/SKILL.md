@@ -1,6 +1,6 @@
 ---
 name: notarhaftung-belehrung-und-streitverkuendung
-description: "Wenn es um Notarhaftung, Belehrung und Streitverkündung in Bauträgervertrag-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Notarhaftung, Belehrung und Streitverkündung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notarhaftung, Belehrung und Streitverkündung

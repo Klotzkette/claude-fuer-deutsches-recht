@@ -1,6 +1,6 @@
 ---
 name: unterlagen-sortieren
-description: "Wenn es um Unterlagen sortieren in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Unterlagen sortieren: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Unterlagen sortieren

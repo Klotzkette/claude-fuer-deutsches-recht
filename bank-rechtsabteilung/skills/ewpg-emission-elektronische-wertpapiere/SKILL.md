@@ -1,6 +1,6 @@
 ---
 name: ewpg-emission-elektronische-wertpapiere
-description: "Wenn es um eWpG-Emission in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für eWpG-Emission: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # eWpG-Emission

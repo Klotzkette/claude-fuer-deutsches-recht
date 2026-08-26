@@ -1,6 +1,6 @@
 ---
 name: sanierungsrecht-fristen-form-und-zustaendigkeit
-description: "Wenn es um Sanierungsrecht Fristen Form Und Zuständigkeit in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungsrecht Fristen Form und Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Sanierungsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -42,3 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-sanierungsrecht-fristen-form-und-zustaendigkeit` beziehungsweise Sanierungsrecht: Fristen, Form, Zuständigkeit und Rechtsweg: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-sanierungsrecht-fristen-form-und-zustaendigkeit.md).

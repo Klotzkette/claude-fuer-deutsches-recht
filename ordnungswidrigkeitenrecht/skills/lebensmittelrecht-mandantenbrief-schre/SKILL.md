@@ -1,6 +1,6 @@
 ---
 name: lebensmittelrecht-mandantenbrief-schre
-description: "Wenn es um Lebensmittelrecht Mandantenbrief Schre in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Lebensmittelrecht Mandantenbrief Schre: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Lebensmittelrecht Mandantenbrief Schre

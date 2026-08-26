@@ -1,6 +1,6 @@
 ---
 name: sanierungsgutachten-idw-s6-bewertung
-description: "Wenn es um Sanierungsgutachten bewerten in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sanierungsgutachten bewerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgutachten bewerten

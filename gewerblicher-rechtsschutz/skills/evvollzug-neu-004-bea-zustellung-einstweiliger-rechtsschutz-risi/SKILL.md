@@ -1,6 +1,6 @@
 ---
 name: evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi
-description: "Wenn es um EV-Vollzug 004: beA-Zustellung im Einstweiligen Rechtsschutz – Risiken und Praxis in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EV-Vollzug 004: beA-Zustellung im Einstweiligen Rechtsschutz – Risiken und Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EV-Vollzug 004: beA-Zustellung im Einstweiligen Rechtsschutz – Risiken und Praxis

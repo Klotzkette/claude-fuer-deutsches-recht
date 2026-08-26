@@ -1,6 +1,6 @@
 ---
 name: leasing-in-sanierungsgutachten
-description: "Wenn es um Leasing im Sanierungsgutachten (IDW S6) in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Leasing im Sanierungsgutachten (IDW S6): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasing im Sanierungsgutachten (IDW S6)

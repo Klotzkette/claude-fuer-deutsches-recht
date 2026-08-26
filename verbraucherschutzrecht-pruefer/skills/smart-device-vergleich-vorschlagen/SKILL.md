@@ -1,6 +1,6 @@
 ---
 name: smart-device-vergleich-vorschlagen
-description: "Wenn es um Smart Device Vergleich Vorschlagen in Verbraucherschutzrecht Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Smart Device Vergleich Vorschlagen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Smart Device Vergleich Vorschlagen

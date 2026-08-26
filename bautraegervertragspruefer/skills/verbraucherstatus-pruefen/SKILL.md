@@ -1,6 +1,6 @@
 ---
 name: verbraucherstatus-pruefen
-description: "Wenn es um Verbraucherstatus prüfen in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbraucherstatus prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbraucherstatus prüfen

@@ -1,6 +1,6 @@
 ---
 name: athletenvertrag-fristennotiz-und-naechster-schritt
-description: "Wenn es um Athletenvertrag: Fristennotiz und nächster Schritt in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Athletenvertrag: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Athletenvertrag: Fristennotiz und nächster Schritt

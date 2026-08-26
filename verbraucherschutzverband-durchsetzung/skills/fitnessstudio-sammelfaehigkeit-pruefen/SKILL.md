@@ -1,6 +1,6 @@
 ---
 name: fitnessstudio-sammelfaehigkeit-pruefen
-description: "Wenn es um Fitnessstudio Sammelfaehigkeit Prüfen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fitnessstudio Sammelfähigkeit Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzverband Durchsetzung. Route: fitnessstudio-sammelfaehigkeit-pruefen."
 ---
 
 # Fitnessstudio Sammelfaehigkeit Prüfen

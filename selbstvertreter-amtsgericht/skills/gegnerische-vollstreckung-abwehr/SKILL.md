@@ -1,6 +1,6 @@
 ---
 name: gegnerische-vollstreckung-abwehr
-description: "Wenn es um Wenn Sie verlieren: Vollstreckung abwehren oder mildern in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wenn Sie verlieren: Vollstreckung abwehren oder mildern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wenn Sie verlieren: Vollstreckung abwehren oder mildern

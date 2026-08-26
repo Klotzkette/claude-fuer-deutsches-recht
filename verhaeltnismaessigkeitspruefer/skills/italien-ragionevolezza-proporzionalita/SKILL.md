@@ -1,6 +1,6 @@
 ---
 name: italien-ragionevolezza-proporzionalita
-description: "Wenn es um Italien Ragionevolezza und Proporzionalita in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Italien Ragionevolezza und Proporzionalita: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Italien Ragionevolezza und Proporzionalita

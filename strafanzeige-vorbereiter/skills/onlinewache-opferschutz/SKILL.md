@@ -1,6 +1,6 @@
 ---
 name: onlinewache-opferschutz
-description: "Wenn es um Onlinewache oder Staatsanwaltschaft? in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Onlinewache oder Staatsanwaltschaft?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Onlinewache oder Staatsanwaltschaft?

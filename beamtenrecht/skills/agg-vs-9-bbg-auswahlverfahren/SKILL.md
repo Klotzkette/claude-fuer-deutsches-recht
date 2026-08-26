@@ -1,6 +1,6 @@
 ---
 name: agg-vs-9-bbg-auswahlverfahren
-description: "Wenn es um AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AGG und § 9 BBG — Anspruchskonkurrenz im Auswahlverfahren

@@ -1,6 +1,6 @@
 ---
 name: muendliche-verhandlung-dpma
-description: "Wenn es um Muendliche Verhandlung Dpma in gebrauchsmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Mündliche Verhandlung Dpma: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Muendliche Verhandlung Dpma

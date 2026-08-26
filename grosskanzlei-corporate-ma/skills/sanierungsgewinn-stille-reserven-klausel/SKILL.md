@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-stille-reserven-klausel
-description: "Wenn es um Sanierungsgewinn – Stille-Reserven-Klausel Paragraf 8c Abs. 4 KStG und Paragraf 8d KStG in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sanierungsgewinn – Stille-Reserven-Klausel Paragraf 8c Abs. 4 KStG und Paragraf 8d KStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn – Stille-Reserven-Klausel Paragraf 8c Abs. 4 KStG und Paragraf 8d KStG

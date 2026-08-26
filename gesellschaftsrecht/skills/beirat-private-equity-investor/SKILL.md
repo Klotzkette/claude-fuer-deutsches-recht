@@ -1,6 +1,6 @@
 ---
 name: beirat-private-equity-investor
-description: "Wenn es um Beirat Private Equity Investor in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beirat Private Equity Investor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beirat Private Equity Investor

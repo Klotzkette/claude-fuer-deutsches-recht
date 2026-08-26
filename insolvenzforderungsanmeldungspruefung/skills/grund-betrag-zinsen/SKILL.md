@@ -1,6 +1,6 @@
 ---
 name: grund-betrag-zinsen
-description: "Wenn es um Grund, Betrag und Zinsen in Insolvenzforderungsanmeldungsprüfung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Grund, Betrag und Zinsen: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Grund, Betrag und Zinsen

@@ -1,6 +1,6 @@
 ---
 name: apotheken-urteil-bverfge-7-377
-description: "Wenn es um Apotheken Urteil BVerfGE 7 377 in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Apotheken Urteil BVerfGE 7 377: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Apotheken Urteil BVerfGE 7 377

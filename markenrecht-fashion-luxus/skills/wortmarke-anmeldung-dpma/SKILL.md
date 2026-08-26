@@ -1,6 +1,6 @@
 ---
 name: wortmarke-anmeldung-dpma
-description: "Wenn es um Wortmarken-Anmeldung beim DPMA in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wortmarken-Anmeldung beim DPMA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wortmarken-Anmeldung beim DPMA

@@ -1,6 +1,6 @@
 ---
 name: hundehaltung-anordnung-angreifen
-description: "Wenn es um Hundehaltung Anordnung Angreifen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hundehaltung Anordnung Angreifen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hundehaltung Anordnung Angreifen

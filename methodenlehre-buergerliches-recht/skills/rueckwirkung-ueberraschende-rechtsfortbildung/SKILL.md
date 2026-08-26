@@ -1,6 +1,6 @@
 ---
 name: rueckwirkung-ueberraschende-rechtsfortbildung
-description: "Wenn es um Rückwirkung und überraschende Rechtsfortbildung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rückwirkung und überraschende Rechtsfortbildung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rückwirkung und überraschende Rechtsfortbildung

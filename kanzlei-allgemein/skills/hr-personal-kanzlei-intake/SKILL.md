@@ -1,6 +1,6 @@
 ---
 name: hr-personal-kanzlei-intake
-description: "Wenn es um HR und Personalverwaltung in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HR und Personalverwaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HR und Personalverwaltung

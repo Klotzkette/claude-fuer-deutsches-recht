@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung
-description: "Wenn es um Geschaeftsfuehrerhaftung Zahlen Schwellen Und Berechnung in Fachanwalt Handels- und Gesellschaftsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Geschäftsführerhaftung Zahlen Schwellen und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Geschäftsführerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -42,3 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Schadensberechnung:** Differenzhypothese (Schaden = Vermögenslage ohne Pflichtverletzung minus aktuelle Vermögenslage); bei Insolvenzverschleppung Quotenschaden für Altgläubiger, Vertrauensschaden für Neugläubiger (BGH ständige Rechtsprechung). Cap durch D&O-Versicherung (in der Praxis: Selbstbehalt § 93 Abs. 2 Satz 3 AktG mindestens 10 % bis 1,5fache Jahresfestvergütung).
 4. **Verjährung:** § 43 Abs. 4 GmbHG 5 Jahre ab Entstehung; § 93 Abs. 6 AktG 5 Jahre, börsennotierte AG 10 Jahre. Kenntnisunabhängig.
 5. **Business Judgment Rule (§ 93 Abs. 1 Satz 2 AktG analog für GmbH-Geschäftsführer):** unternehmerische Entscheidung, freier Pflichtenkonflikt, hinreichende Information, Handeln zum Wohl der Gesellschaft, Gutgläubigkeit. Anschluss: Beschluss zur Geltendmachung (§ 46 Nr. 8 GmbHG bzw. § 147 AktG), Klage zuständig LG Kammer für Handelssachen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung` beziehungsweise Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung.md).

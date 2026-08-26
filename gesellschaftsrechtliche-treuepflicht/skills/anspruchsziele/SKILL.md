@@ -1,6 +1,6 @@
 ---
 name: anspruchsziele
-description: "Wenn es um Anspruchsziele in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Anspruchsziele: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Anspruchsziele

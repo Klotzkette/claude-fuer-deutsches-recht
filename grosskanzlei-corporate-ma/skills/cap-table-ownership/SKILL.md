@@ -1,6 +1,6 @@
 ---
 name: cap-table-ownership
-description: "Wenn es um Cap Table Ownership Chain in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Cap Table Ownership Chain: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: cap-table-ownership."
 ---
 
 # Cap Table Ownership Chain

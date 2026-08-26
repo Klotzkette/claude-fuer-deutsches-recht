@@ -1,6 +1,6 @@
 ---
 name: behoerdenformular-verstehen-bescheid
-description: "Wenn es um Behördenformular verstehen in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Behördenformular verstehen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Behördenformular verstehen

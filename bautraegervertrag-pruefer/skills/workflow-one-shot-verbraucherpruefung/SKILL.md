@@ -1,6 +1,6 @@
 ---
 name: workflow-one-shot-verbraucherpruefung
-description: "Wenn es um One-Shot-Verbraucherprüfung Bauträgervertrag in Bauträgervertrag-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für One-Shot-Verbraucherprüfung Bauträgervertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # One-Shot-Verbraucherprüfung Bauträgervertrag

@@ -1,6 +1,6 @@
 ---
 name: algorithmic-collusion-ai-pricing
-description: "Wenn es um Algorithmic Collusion und digitale Werkzeuge Pricing in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Algorithmic Collusion und digitale Werkzeuge Pricing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Algorithmic Collusion und AI Pricing

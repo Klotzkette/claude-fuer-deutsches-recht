@@ -1,6 +1,6 @@
 ---
 name: notariat-053-immobilienfinanzierung-bankauflagen-treuhandauftrag
-description: "Wenn es um Notariat im Alltag: Immobilienfinanzierung Bankauflagen und Treuhandauftrag in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Immobilienfinanzierung Bankauflagen und Treuhandauftrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notariat im Alltag: Immobilienfinanzierung Bankauflagen und Treuhandauftrag

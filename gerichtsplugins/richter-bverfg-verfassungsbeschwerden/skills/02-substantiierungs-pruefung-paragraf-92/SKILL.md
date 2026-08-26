@@ -1,6 +1,6 @@
 ---
 name: 02-substantiierungs-pruefung-paragraf-92
-description: "Wenn es um 02 Substantiierungs Prüfung Paragraf 92 in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 02 Substantiierungs Prüfung Paragraf 92: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # 02 Substantiierungs Prüfung Paragraf 92

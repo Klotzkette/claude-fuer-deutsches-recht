@@ -1,6 +1,6 @@
 ---
 name: musikschullehrer-herrenberg-nebenberuf
-description: "Wenn es um Musikschullehrer und Herrenberg-Folgen in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Musikschullehrer und Herrenberg-Folgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Musikschullehrer und Herrenberg-Folgen

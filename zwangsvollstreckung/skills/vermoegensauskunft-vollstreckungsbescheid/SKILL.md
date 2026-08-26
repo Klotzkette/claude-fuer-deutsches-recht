@@ -1,6 +1,6 @@
 ---
 name: vermoegensauskunft-vollstreckungsbescheid
-description: "Wenn es um Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung in Zwangsvollstreckung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: redaktionsmemo-jahresplanung
-description: "Wenn es um Redaktionsmemo Jahresplanung in Verlagsredaktion geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Redaktionsmemo Jahresplanung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Redaktionsmemo Jahresplanung

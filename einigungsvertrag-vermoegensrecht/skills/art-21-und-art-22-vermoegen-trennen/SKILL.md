@@ -1,6 +1,6 @@
 ---
 name: art-21-und-art-22-vermoegen-trennen
-description: "Wenn es um Art 21 Und Art 22 Vermögen Trennen in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Art 21 und Art 22 Vermögen Trennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: art-21-und-art-22-vermoegen-trennen."
 ---
 
 # Art 21 Und Art 22 Vermögen Trennen

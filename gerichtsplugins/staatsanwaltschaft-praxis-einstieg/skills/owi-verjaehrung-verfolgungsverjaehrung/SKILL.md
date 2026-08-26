@@ -1,6 +1,6 @@
 ---
 name: owi-verjaehrung-verfolgungsverjaehrung
-description: "Wenn es um Verjährung im OWi-Verfahren: Verfolgungsverjährung, Unterbrechung und Aktenkalender in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verjährung im OWi-Verfahren: Verfolgungsverjährung, Unterbrechung und Aktenkalender: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verjährung im OWi-Verfahren: Verfolgungsverjährung, Unterbrechung und Aktenkalender

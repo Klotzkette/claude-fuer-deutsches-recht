@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 102 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Sozialversicherungsstatus Prüfer ein juristisches Arbeitsprodukt tragfähig begründet werden m…
-2. **kaltstart-triage** — Wenn es um Kaltstart Sozialversicherungsstatus in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: klärt …
-3. **statusfeststellung-geschaeftsfuehrer-lehrer-freelancer** — Wenn es um Statusfeststellung: Geschäftsführer, Lehrer, Freelancer und Scheinselbstständigkeit in Sozialversicherungssta…
-4. **gitarrenlehrer-und-instrumentalunterricht** — Wenn es um Gitarrenlehrer und Instrumentalunterricht in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: …
-5. **hybride-beschaeftigung** — Wenn es um Hybride Beschäftigung und Selbständigkeit in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: …
-6. **rentenversicherungspflicht-selbststaendige** — Wenn es um Rentenversicherungspflicht Selbständiger in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: o…
-7. **vertragswirklichkeit-gelebte-praxis** — Wenn es um Vertragswirklichkeit vs. gelebte Praxis in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: or…
-8. **gruppenfeststellung-gleichartige-auftraege** — Wenn es um Gruppenfeststellung gleichartige Aufträge in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: …
+2. **kaltstart-triage** — Für Kaltstart Sozialversicherungsstatus: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risi…
+3. **statusfeststellung-geschaeftsfuehrer-lehrer-freelancer** — Für Statusfeststellung: Geschäftsführer, Lehrer, Freelancer und Scheinselbstständigkeit: ordnet Norm, Beweislast und Geg…
+4. **steuerberater-wp-freier-mitarbeiter** — Für Freier Mitarbeiter Steuerberater/WP: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zu…
+5. **uebergangsregelung-127-sgbiv-lehrtaetigkeit** — Für Übergangsregelung Paragraf 127 SGB IV Lehrkräfte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt m…
+6. **obligatorisches-statusverfahren-gf** — Für Obligatorisches Statusverfahren Geschäftsführer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mi…
+7. **kranken-pflege-arbeitslosenversicherung** — Für Kranken-, Pflege- und Arbeitslosenversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit…
+8. **selbststaendige-lehrer-sozialgericht-klage** — Für Selbständige Lehrer Paragraf 2 SGB VI: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Be…
 
 ---
 
@@ -137,7 +137,7 @@ Ausgangspunkt für dieses Plugin: Rentenversicherung oder Einzugsstelle für Ges
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Sozialversicherungsstatus in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Kaltstart Sozialversicherungsstatus: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Kaltstart Sozialversicherungsstatus
 
@@ -205,7 +205,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## Skill: `statusfeststellung-geschaeftsfuehrer-lehrer-freelancer`
 
-_Wenn es um Statusfeststellung: Geschäftsführer, Lehrer, Freelancer und Scheinselbstständigkeit in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Statusfeststellung: Geschäftsführer, Lehrer, Freelancer und Scheinselbstständigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Statusfeststellung: Geschäftsführer, Lehrer, Freelancer und Scheinselbstständigkeit
 
@@ -231,11 +231,11 @@ _Wenn es um Statusfeststellung: Geschäftsführer, Lehrer, Freelancer und Schein
 
 ---
 
-## Skill: `gitarrenlehrer-und-instrumentalunterricht`
+## Skill: `steuerberater-wp-freier-mitarbeiter`
 
-_Wenn es um Gitarrenlehrer und Instrumentalunterricht in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Freier Mitarbeiter Steuerberater/WP: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Gitarrenlehrer und Instrumentalunterricht
+# Freier Mitarbeiter Steuerberater/WP
 
 ## Arbeitsweg
 
@@ -246,156 +246,92 @@ _Wenn es um Gitarrenlehrer und Instrumentalunterricht in Sozialversicherungsstat
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gitarrenlehrer und Instrumentalunterricht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freier Mitarbeiter Steuerberater/WP` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Fachkern: Gitarrenlehrer und Instrumentalunterricht
+## Fachkern: Freier Mitarbeiter Steuerberater/WP
 - **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
 - **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
 
 ## Rechts- und Quellenanker
 
 - SGB IV § 7
-- SGB VI § 2
+- StBerG/WPO Schnittstellen
+
+Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
+
+## Intake-Fragen
+
+- Wer trägt Mandatsverantwortung und Haftung?
+- Ist die Person in Kanzleiorganisation, Fristen, Software und Weisungen integriert?
+- Hat sie eigene Mandanten, Büro, Mitarbeiter oder nur Stundenhonorar?
+- Welche Berufsrechts- und Datenschutzfragen laufen parallel?
+
+## Workflow
+
+1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
+2. Rechtsanker und zwingende Vorfragen live prüfen.
+3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
+4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
+
+## Tiefencheck für die Akte
+
+- Wer trägt Mandatsverantwortung und Haftung?
+- Ist die Person in Kanzleiorganisation, Fristen, Software und Weisungen integriert?
+- Hat sie eigene Mandanten, Büro, Mitarbeiter oder nur Stundenhonorar?
+- Welche Berufsrechts- und Datenschutzfragen laufen parallel?
+
+**Mindest-Output:** StB/WP-Statuscheck mit Kanzleipraxis, Haftung und Eingliederung.
+
+## Qualitäts- und Risikofilter
+
+- Vertragsetiketten nie übernehmen: Entscheidend ist die Gesamtwürdigung aus Vertrag und gelebter Praxis.
+- Sondertatbestände wie SGB VI § 2, KSVG, Minijob, AÜG, Geschäftsführer-Sperrminorität und Cross-border immer als eigene Abzweige prüfen.
+- BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell überprüfbarer Quelle verwenden; bei Unsicherheit als Rechercheauftrag markieren.
+- Bei Beitrags-, Straf- oder Betriebsprüfungsrisiko keine lockere Entwarnung geben, sondern Zeiträume, Versicherungszweige und Belege konkretisieren.
+
+---
+
+## Skill: `uebergangsregelung-127-sgbiv-lehrtaetigkeit`
+
+_Für Übergangsregelung Paragraf 127 SGB IV Lehrkräfte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Übergangsregelung § 127 SGB IV Lehrkräfte
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: SGB IV §§ 7, 7a, 28a, 28p, SGB VI § 2 Nr. 9, BGH und BSG zur Scheinselbstständigkeit — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Übergangsregelung § 127 SGB IV Lehrkräfte` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
+- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Fachkern: Übergangsregelung § 127 SGB IV Lehrkräfte
+- **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
+- **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
+
+## Rechts- und Quellenanker
+
 - SGB IV § 127
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Wer akquiriert Schüler und legt Preise fest?
-- Wer stellt Räume, Instrumente, Stundenplan, Vertretung und Unterrichtsmaterial?
-- Ist Unterricht pädagogisch frei oder institutionell eingebunden?
-- Welche Rentenversicherungspflicht kann trotz Selbständigkeit bestehen?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Wer akquiriert Schüler und legt Preise fest?
-- Wer stellt Räume, Instrumente, Stundenplan, Vertretung und Unterrichtsmaterial?
-- Ist Unterricht pädagogisch frei oder institutionell eingebunden?
-- Welche Rentenversicherungspflicht kann trotz Selbständigkeit bestehen?
-
-**Mindest-Output:** Instrumentallehrer-Check mit Eingliederung, eigener Marktposition und SGB-VI-Pflicht.
-
-## Qualitäts- und Risikofilter
-
-- Vertragsetiketten nie übernehmen: Entscheidend ist die Gesamtwürdigung aus Vertrag und gelebter Praxis.
-- Sondertatbestände wie SGB VI § 2, KSVG, Minijob, AÜG, Geschäftsführer-Sperrminorität und Cross-border immer als eigene Abzweige prüfen.
-- BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell überprüfbarer Quelle verwenden; bei Unsicherheit als Rechercheauftrag markieren.
-- Bei Beitrags-, Straf- oder Betriebsprüfungsrisiko keine lockere Entwarnung geben, sondern Zeiträume, Versicherungszweige und Belege konkretisieren.
-
----
-
-## Skill: `hybride-beschaeftigung`
-
-_Wenn es um Hybride Beschäftigung und Selbständigkeit in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Hybride Beschäftigung und Selbständigkeit
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB IV §§ 7, 7a, 28a, 28p, SGB VI § 2 Nr. 9, BGH und BSG zur Scheinselbstständigkeit — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Hybride Beschäftigung und Selbständigkeit` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
-- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Hybride Beschäftigung und Selbständigkeit
-- **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
-- **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
-
-## Rechts- und Quellenanker
-
 - SGB IV § 7
-- Arbeitsrecht
-- Konzernkontext
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Sind Rollen, Zeiten, Vergütung und Weisungsketten wirklich trennbar?
-- Nutzen beide Rollen gleiche Tools, Vorgesetzte und Aufgaben?
-- Welche Rolle prägt die Tätigkeit im relevanten Zeitraum?
-- Wie wird Doppelrolle dokumentiert und abgerechnet?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Sind Rollen, Zeiten, Vergütung und Weisungsketten wirklich trennbar?
-- Nutzen beide Rollen gleiche Tools, Vorgesetzte und Aufgaben?
-- Welche Rolle prägt die Tätigkeit im relevanten Zeitraum?
-- Wie wird Doppelrolle dokumentiert und abgerechnet?
-
-**Mindest-Output:** Hybridrollen-Matrix mit Trennbarkeit, Überschneidungen und Sanierung.
-
-## Qualitäts- und Risikofilter
-
-- Vertragsetiketten nie übernehmen: Entscheidend ist die Gesamtwürdigung aus Vertrag und gelebter Praxis.
-- Sondertatbestände wie SGB VI § 2, KSVG, Minijob, AÜG, Geschäftsführer-Sperrminorität und Cross-border immer als eigene Abzweige prüfen.
-- BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell überprüfbarer Quelle verwenden; bei Unsicherheit als Rechercheauftrag markieren.
-- Bei Beitrags-, Straf- oder Betriebsprüfungsrisiko keine lockere Entwarnung geben, sondern Zeiträume, Versicherungszweige und Belege konkretisieren.
-
----
-
-## Skill: `rentenversicherungspflicht-selbststaendige`
-
-_Wenn es um Rentenversicherungspflicht Selbständiger in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Rentenversicherungspflicht Selbständiger
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB IV §§ 7, 7a, 28a, 28p, SGB VI § 2 Nr. 9, BGH und BSG zur Scheinselbstständigkeit — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rentenversicherungspflicht Selbständiger` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
-- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Rentenversicherungspflicht Selbständiger
-- **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
-- **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
-
-## Rechts- und Quellenanker
-
 - SGB VI § 2
-- SGB IV § 7
 
 Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
 
 ## Intake-Fragen
 
-- Ist die Person selbständig, aber kraft Sondertatbestand rentenversicherungspflichtig?
-- Beschäftigt sie versicherungspflichtige Arbeitnehmer?
-- Gibt es im Wesentlichen nur einen Auftraggeber?
-- Welche Befreiungs-, Melde- und Beitragsfragen bestehen?
+- Fällt die konkrete Lehrtätigkeit sachlich und zeitlich unter die Übergangsregelung?
+- Welche Zustimmungserfordernisse und Dokumentationspflichten bestehen?
+- Was passiert nach Ende der Übergangsphase?
+- Welche Beitrags- und Statusrisiken bleiben trotz Übergangsregelung?
 
 ## Workflow
 
@@ -406,75 +342,12 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## Tiefencheck für die Akte
 
-- Ist die Person selbständig, aber kraft Sondertatbestand rentenversicherungspflichtig?
-- Beschäftigt sie versicherungspflichtige Arbeitnehmer?
-- Gibt es im Wesentlichen nur einen Auftraggeber?
-- Welche Befreiungs-, Melde- und Beitragsfragen bestehen?
+- Fällt die konkrete Lehrtätigkeit sachlich und zeitlich unter die Übergangsregelung?
+- Welche Zustimmungserfordernisse und Dokumentationspflichten bestehen?
+- Was passiert nach Ende der Übergangsphase?
+- Welche Beitrags- und Statusrisiken bleiben trotz Übergangsregelung?
 
-**Mindest-Output:** SGB-VI-Sonderpflichtencheck mit Tatbestand, Meldung und Beitrag.
-
-## Qualitäts- und Risikofilter
-
-- Vertragsetiketten nie übernehmen: Entscheidend ist die Gesamtwürdigung aus Vertrag und gelebter Praxis.
-- Sondertatbestände wie SGB VI § 2, KSVG, Minijob, AÜG, Geschäftsführer-Sperrminorität und Cross-border immer als eigene Abzweige prüfen.
-- BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell überprüfbarer Quelle verwenden; bei Unsicherheit als Rechercheauftrag markieren.
-- Bei Beitrags-, Straf- oder Betriebsprüfungsrisiko keine lockere Entwarnung geben, sondern Zeiträume, Versicherungszweige und Belege konkretisieren.
-
----
-
-## Skill: `vertragswirklichkeit-gelebte-praxis`
-
-_Wenn es um Vertragswirklichkeit vs. gelebte Praxis in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Vertragswirklichkeit vs. gelebte Praxis
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB IV §§ 7, 7a, 28a, 28p, SGB VI § 2 Nr. 9, BGH und BSG zur Scheinselbstständigkeit — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vertragswirklichkeit vs. gelebte Praxis` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
-- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Vertragswirklichkeit vs. gelebte Praxis
-- **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
-- **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
-
-## Rechts- und Quellenanker
-
-- SGB IV § 7
-- BSG Gesamtwürdigung
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Welche Vertragsklauseln werden täglich missachtet?
-- Welche faktischen Weisungen, Meetings, Tools, Urlaubsregeln und Vertretungen gibt es?
-- Was sagen Rechnungen, Chat, Tickets, Organigramm und Zeiterfassung?
-- Welche Indizien lassen sich durch echte Prozessänderung sanieren?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Welche Vertragsklauseln werden täglich missachtet?
-- Welche faktischen Weisungen, Meetings, Tools, Urlaubsregeln und Vertretungen gibt es?
-- Was sagen Rechnungen, Chat, Tickets, Organigramm und Zeiterfassung?
-- Welche Indizien lassen sich durch echte Prozessänderung sanieren?
-
-**Mindest-Output:** Reality-Check mit Vertrags-/Praxis-Abweichungen und Sanierungsoptionen.
+**Mindest-Output:** §-127-Check mit Anwendungsbereich, Voraussetzungen, Restpflichten und Fristenplan.
 
 ## Qualitäts- und Risikofilter
 
@@ -485,11 +358,11 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ---
 
-## Skill: `gruppenfeststellung-gleichartige-auftraege`
+## Skill: `obligatorisches-statusverfahren-gf`
 
-_Wenn es um Gruppenfeststellung gleichartige Aufträge in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Obligatorisches Statusverfahren Geschäftsführer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Gruppenfeststellung gleichartige Aufträge
+# Obligatorisches Statusverfahren Geschäftsführer
 
 ## Arbeitsweg
 
@@ -500,28 +373,29 @@ _Wenn es um Gruppenfeststellung gleichartige Aufträge in Sozialversicherungssta
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gruppenfeststellung gleichartige Aufträge` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Obligatorisches Statusverfahren Geschäftsführer` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Fachkern: Gruppenfeststellung gleichartige Aufträge
+## Fachkern: Obligatorisches Statusverfahren Geschäftsführer
 - **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
 - **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
 
 ## Rechts- und Quellenanker
 
 - SGB IV § 7a
-- DRV Praxis live prüfen
+- DRV Meldeverfahren
+- GmbHG
 
 Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
 
 ## Intake-Fragen
 
-- Sind Tätigkeiten, Verträge und gelebte Praxis wirklich gleichartig?
-- Welche Abweichungen zerstören die Übertragbarkeit?
-- Welche Dokumentationslogik braucht das Unternehmen für viele Freelancer?
-- Wie werden neue Fälle gegen das Muster geprüft?
+- Ist eine neue Geschäftsführertätigkeit melde-/prüfpflichtig?
+- Welche Beteiligung, Sperrminorität und Organstellung bestehen?
+- Welche Arbeitgebermeldung und Krankenkassen-/DRV-Kommunikation läuft?
+- Welche Folgen hat ein fehlender oder falscher Status?
 
 ## Workflow
 
@@ -532,12 +406,140 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## Tiefencheck für die Akte
 
-- Sind Tätigkeiten, Verträge und gelebte Praxis wirklich gleichartig?
-- Welche Abweichungen zerstören die Übertragbarkeit?
-- Welche Dokumentationslogik braucht das Unternehmen für viele Freelancer?
-- Wie werden neue Fälle gegen das Muster geprüft?
+- Ist eine neue Geschäftsführertätigkeit melde-/prüfpflichtig?
+- Welche Beteiligung, Sperrminorität und Organstellung bestehen?
+- Welche Arbeitgebermeldung und Krankenkassen-/DRV-Kommunikation läuft?
+- Welche Folgen hat ein fehlender oder falscher Status?
 
-**Mindest-Output:** Gruppenmatrix mit Gleichartigkeitskriterien, Ausnahmen und Rollout-Prozess.
+**Mindest-Output:** GF-Statuspaket mit Beteiligungsdaten, Meldeweg, Risiken und Bescheidstrategie.
+
+## Qualitäts- und Risikofilter
+
+- Vertragsetiketten nie übernehmen: Entscheidend ist die Gesamtwürdigung aus Vertrag und gelebter Praxis.
+- Sondertatbestände wie SGB VI § 2, KSVG, Minijob, AÜG, Geschäftsführer-Sperrminorität und Cross-border immer als eigene Abzweige prüfen.
+- BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell überprüfbarer Quelle verwenden; bei Unsicherheit als Rechercheauftrag markieren.
+- Bei Beitrags-, Straf- oder Betriebsprüfungsrisiko keine lockere Entwarnung geben, sondern Zeiträume, Versicherungszweige und Belege konkretisieren.
+
+---
+
+## Skill: `kranken-pflege-arbeitslosenversicherung`
+
+_Für Kranken-, Pflege- und Arbeitslosenversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Kranken-, Pflege- und Arbeitslosenversicherung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: SGB IV §§ 7, 7a, 28a, 28p, SGB VI § 2 Nr. 9, BGH und BSG zur Scheinselbstständigkeit — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kranken-, Pflege- und Arbeitslosenversicherung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
+- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Fachkern: Kranken-, Pflege- und Arbeitslosenversicherung
+- **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
+- **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
+
+## Rechts- und Quellenanker
+
+- SGB V
+- SGB XI
+- SGB III
+- SGB IV
+
+Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
+
+## Intake-Fragen
+
+- Welche Versicherungszweige sind vom Bescheid betroffen?
+- Gibt es Sonderregeln, Befreiungen, Vorversicherungen oder freiwillige Versicherung?
+- Wie wirken Beiträge und Leistungsansprüche rückwirkend?
+- Welche Stelle muss beteiligt werden?
+
+## Workflow
+
+1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
+2. Rechtsanker und zwingende Vorfragen live prüfen.
+3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
+4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
+
+## Tiefencheck für die Akte
+
+- Welche Versicherungszweige sind vom Bescheid betroffen?
+- Gibt es Sonderregeln, Befreiungen, Vorversicherungen oder freiwillige Versicherung?
+- Wie wirken Beiträge und Leistungsansprüche rückwirkend?
+- Welche Stelle muss beteiligt werden?
+
+**Mindest-Output:** Versicherungszweig-Matrix mit Statusfolge, Beitrag und Zuständigkeit.
+
+## Qualitäts- und Risikofilter
+
+- Vertragsetiketten nie übernehmen: Entscheidend ist die Gesamtwürdigung aus Vertrag und gelebter Praxis.
+- Sondertatbestände wie SGB VI § 2, KSVG, Minijob, AÜG, Geschäftsführer-Sperrminorität und Cross-border immer als eigene Abzweige prüfen.
+- BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell überprüfbarer Quelle verwenden; bei Unsicherheit als Rechercheauftrag markieren.
+- Bei Beitrags-, Straf- oder Betriebsprüfungsrisiko keine lockere Entwarnung geben, sondern Zeiträume, Versicherungszweige und Belege konkretisieren.
+
+---
+
+## Skill: `selbststaendige-lehrer-sozialgericht-klage`
+
+_Für Selbständige Lehrer Paragraf 2 SGB VI: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
+
+# Selbständige Lehrer § 2 SGB VI
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: SGB IV §§ 7, 7a, 28a, 28p, SGB VI § 2 Nr. 9, BGH und BSG zur Scheinselbstständigkeit — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Selbständige Lehrer § 2 SGB VI` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
+- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Fachkern: Selbständige Lehrer § 2 SGB VI
+- **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
+- **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
+
+## Rechts- und Quellenanker
+
+- SGB VI § 2
+- SGB IV § 7
+
+Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
+
+## Intake-Fragen
+
+- Ist die Person tatsächlich selbständig, aber rentenversicherungspflichtig als Lehrer/Erzieher?
+- Beschäftigt sie versicherungspflichtige Arbeitnehmer?
+- Welche Unterrichtsform, Auftraggeber und Einkünfte sind betroffen?
+- Welche Melde- und Beitragsfolgen bestehen auch ohne Scheinselbständigkeit?
+
+## Workflow
+
+1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
+2. Rechtsanker und zwingende Vorfragen live prüfen.
+3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
+4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
+
+## Tiefencheck für die Akte
+
+- Ist die Person tatsächlich selbständig, aber rentenversicherungspflichtig als Lehrer/Erzieher?
+- Beschäftigt sie versicherungspflichtige Arbeitnehmer?
+- Welche Unterrichtsform, Auftraggeber und Einkünfte sind betroffen?
+- Welche Melde- und Beitragsfolgen bestehen auch ohne Scheinselbständigkeit?
+
+**Mindest-Output:** Lehrer-SGB-VI-Check mit Status, Pflichtversicherung und Beitragsfolge.
 
 ## Qualitäts- und Risikofilter
 

@@ -1,6 +1,6 @@
 ---
 name: angestellter-nebentaetigkeit
-description: "Wenn es um Angestellter Nebentaetigkeit in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Angestellter Nebentätigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: angestellter steuerberater nebentaetigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: it-cloud-ki-und-outsourcing
-description: "Wenn es um IT, Cloud, digitale Werkzeuge und Outsourcing in Berufsrecht Steuerberater geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IT, Cloud, digitale Werkzeuge und Outsourcing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Steuerberater."
 ---
 
 # IT, Cloud, KI und Outsourcing

@@ -1,6 +1,6 @@
 ---
 name: bauzeitenplan-verzug
-description: "Wenn es um Bauzeitenplan und Verzug in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauzeitenplan und Verzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauzeitenplan und Verzug

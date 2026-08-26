@@ -1,6 +1,6 @@
 ---
 name: umgang-mit-provokateuren
-description: "Wenn es um Umgang Mit Provokateuren in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umgang mit Provokateuren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Umgang Mit Provokateuren

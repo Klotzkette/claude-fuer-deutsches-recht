@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-in-f-and-e-projekten-rechtsprechungscheck
-description: "Wenn es um Verschwiegenheit In F And E Projekten Rechtsprechungscheck in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Verschwiegenheit in F And E Projekten Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: verschwiegenheit in f and e projekten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

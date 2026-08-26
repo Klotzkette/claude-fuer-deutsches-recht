@@ -1,6 +1,6 @@
 ---
 name: hgr-aktionsbindungsvertrag-spezial
-description: "Wenn es um Hgr Aktionsbindungsvertrag Spezial in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hgr Aktionsbindungsvertrag Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Aktionsbindungsvertrag bei AG: zulaessige Stimmbindungen, Sperrwirkung gegenueber Satzung, Prüfung BGH-Rechtsprechung

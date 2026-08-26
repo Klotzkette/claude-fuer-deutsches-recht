@@ -1,6 +1,6 @@
 ---
 name: revision-rechtsfehler-aktenaufbereiter
-description: "Wenn es um Revision: Rechtsfehler-Katalog in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Revision: Rechtsfehler-Katalog: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Revision: Rechtsfehler-Katalog

@@ -1,6 +1,6 @@
 ---
 name: seeunglueck-versicherung-und-risiko
-description: "Wenn es um Rom 131 Seeunglueck Versicherung Und Risiko in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom 131 Seeunglück Versicherung und Risiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rom 131 Seeunglueck Versicherung Und Risiko

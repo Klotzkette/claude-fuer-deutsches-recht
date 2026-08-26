@@ -1,6 +1,6 @@
 ---
 name: todesfall-gesellschafter-register
-description: "Wenn es um Todesfall eines Gesellschafters in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Todesfall eines Gesellschafters: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Todesfall eines Gesellschafters

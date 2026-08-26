@@ -1,6 +1,6 @@
 ---
 name: preferred-equity-hybrid-finance
-description: "Wenn es um Preferred Equity und hybride Finanzierung in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Preferred Equity und hybride Finanzierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Preferred Equity und hybride Finanzierung

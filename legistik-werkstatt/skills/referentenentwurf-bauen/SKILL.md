@@ -1,6 +1,6 @@
 ---
 name: referentenentwurf-bauen
-description: "Wenn es um Referentenentwurf bauen in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Referentenentwurf bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Referentenentwurf bauen

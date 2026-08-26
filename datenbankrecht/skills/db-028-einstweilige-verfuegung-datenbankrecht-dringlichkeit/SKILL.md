@@ -1,6 +1,6 @@
 ---
 name: db-028-einstweilige-verfuegung-datenbankrecht-dringlichkeit
-description: "Wenn es um Datenbankrecht: Einstweilige Verfügung Datenbankrecht Dringlichkeit in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Einstweilige Verfügung Datenbankrecht Dringlichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Einstweilige Verfügung Datenbankrecht Dringlichkeit

@@ -1,6 +1,6 @@
 ---
 name: schulessen-und-ganztag
-description: "Wenn es um Schulessen Und Ganztag in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulessen und Ganztag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulessen Und Ganztag

@@ -1,6 +1,6 @@
 ---
 name: dolmetscher-und-uebersetzung
-description: "Wenn es um Dolmetscher und Übersetzung in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Dolmetscher und Übersetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Bürokratieversteher und Entbürokratisierer."
 ---
 
 # Dolmetscher und Übersetzung

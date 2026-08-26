@@ -1,6 +1,6 @@
 ---
 name: output-antrag-beschwerde-klageschrift
-description: "Wenn es um Output: Antrag, Beschwerde, Klageschrift in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Output: Antrag, Beschwerde, Klageschrift: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Output: Antrag, Beschwerde, Klageschrift

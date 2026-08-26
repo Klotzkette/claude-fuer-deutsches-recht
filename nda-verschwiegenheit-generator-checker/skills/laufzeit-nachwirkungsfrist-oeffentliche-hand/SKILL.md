@@ -1,6 +1,6 @@
 ---
 name: laufzeit-nachwirkungsfrist-oeffentliche-hand
-description: "Wenn es um Laufzeit Und Nachwirkungsfrist in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laufzeit und Nachwirkungsfrist: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Laufzeit Und Nachwirkungsfrist

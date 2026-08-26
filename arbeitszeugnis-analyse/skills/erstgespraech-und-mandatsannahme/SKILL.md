@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-und-mandatsannahme
-description: "Wenn es um Erstgespräch und Mandatsannahme im Zeugnisrecht in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erstgespräch und Mandatsannahme im Zeugnisrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erstgespräch und Mandatsannahme im Zeugnisrecht

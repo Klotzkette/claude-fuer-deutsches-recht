@@ -1,6 +1,6 @@
 ---
 name: soldatinnen-und-kdv
-description: "Wenn es um Soldatinnen und KDV in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Soldatinnen und KDV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Soldatinnen und KDV

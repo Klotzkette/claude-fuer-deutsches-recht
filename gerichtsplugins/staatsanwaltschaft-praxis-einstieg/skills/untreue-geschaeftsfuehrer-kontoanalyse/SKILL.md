@@ -1,6 +1,6 @@
 ---
 name: untreue-geschaeftsfuehrer-kontoanalyse
-description: "Wenn es um Untreue des Geschäftsführers: Kontoanalyse und Pflichtwidrigkeit in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Untreue des Geschäftsführers: Kontoanalyse und Pflichtwidrigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Untreue des Geschäftsführers: Kontoanalyse und Pflichtwidrigkeit

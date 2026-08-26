@@ -1,6 +1,6 @@
 ---
 name: beziehungen-spezial-chronologie-ergaenzbar
-description: "Wenn es um Beziehungen: Zahlen, Schwellenwerte und Berechnung in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Beziehungen: Zahlen, Schwellenwerte und Berechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Beziehungen: Zahlen, Schwellenwerte und Berechnung

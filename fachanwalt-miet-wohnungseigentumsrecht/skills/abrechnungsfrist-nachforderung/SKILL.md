@@ -1,6 +1,6 @@
 ---
 name: abrechnungsfrist-nachforderung
-description: "Wenn es um Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Abrechnungsfrist und Nachforderung aus Betriebskosten: § 556 Abs
@@ -55,3 +55,7 @@ description: "Wenn es um Abrechnungsfrist und Nachforderung aus Betriebskosten: 
 ## Quellen- und Sicherheitsregel
 
 § 556 Abs. 3 BGB aktuell prüfen. BGH, Urteil vom 12.11.2014 - VIII ZR 112/14 als Zugangswarnung nur mit frei prüfbarer Quelle verwenden. Keine Blindfundstellen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-abrechnungsfrist-nachforderung` beziehungsweise Abrechnungsfrist/Nachforderung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-abrechnungsfrist-nachforderung.md).

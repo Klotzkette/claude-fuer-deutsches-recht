@@ -1,6 +1,6 @@
 ---
 name: bussgeldverteidigung
-description: "Wenn es um DSA und DMA: Bussgeldverteidigung in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für DSA und DMA: Bussgeldverteidigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSA und DMA: Bussgeldverteidigung

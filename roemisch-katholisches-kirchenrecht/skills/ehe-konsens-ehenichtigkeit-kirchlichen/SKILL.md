@@ -1,6 +1,6 @@
 ---
 name: ehe-konsens-ehenichtigkeit-kirchlichen
-description: "Wenn es um Ehe: Konsens, Form und Hindernisse in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ehe Konsens Ehenichtigkeit Kirchlichen; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
+description: "Für Ehe: Konsens, Form und Hindernisse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: ehe-konsens-ehenichtigkeit-kirchlichen."
 ---
 
 # Ehe: Konsens, Form und Hindernisse

@@ -1,6 +1,6 @@
 ---
 name: emergency-arbitrator
-description: "Wenn es um Notfallschiedsrichter (Emergency Arbitrator) in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notfallschiedsrichter (Emergency Arbitrator): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notfallschiedsrichter (Emergency Arbitrator)

@@ -1,6 +1,6 @@
 ---
 name: briefwahlkommunikation
-description: "Wenn es um Briefwahlkommunikation in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Briefwahlkommunikation: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Briefwahlkommunikation

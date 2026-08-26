@@ -1,6 +1,6 @@
 ---
 name: luftfracht-monteral-uebereinkommen
-description: "Wenn es um Luftfracht Monteral Uebereinkommen in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Luftfracht Monteral Übereinkommen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Luftfracht Monteral Uebereinkommen

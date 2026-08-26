@@ -1,6 +1,6 @@
 ---
 name: digitaler-nachlass-facebook-bgh-iii-zr-183-17
-description: "Setzt Ansprüche auf Zugang zu digitalen Konten im Erbfall durch. Trennt Vertragsnachfolge, Legitimationsnachweis, Kommunikationsinhalte, aktive Kontonutzung, Datenschutz und Vollstreckung und liefert Auskunftsverlangen, Klageantrag sowie einen technisch bestimmten Vollstreckungsplan."
+description: "Für Digitalen Nachlass erschließen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitalen Nachlass erschließen

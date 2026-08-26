@@ -1,6 +1,6 @@
 ---
 name: mindestmengen-zentrumsbildung
-description: "Wenn es um Mindestmengen Zentrumsbildung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mindestmengen Zentrumsbildung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mindestmengen und Zentrumsbildung: moderner Medizinrechts-Skill für Komplexe Eingriffe, Mindestmengen, Zentrumsbildung, Verlegungspflicht und Patientensicherheit

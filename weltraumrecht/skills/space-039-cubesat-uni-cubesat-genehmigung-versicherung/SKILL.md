@@ -1,6 +1,6 @@
 ---
 name: space-039-cubesat-uni-cubesat-genehmigung-versicherung
-description: "Wenn es um Weltraumrecht: Kleinsatellit Universität CubeSat Genehmigung und Versicherung in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Kleinsatellit Universität CubeSat Genehmigung und Versicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Kleinsatellit Universität CubeSat Genehmigung und Versicherung

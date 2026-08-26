@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-transaktionsmonitoring
-description: "Wenn es um Transaktionsmonitoring und Red Flags in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transaktionsmonitoring und Red Flags: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transaktionsmonitoring und Red Flags

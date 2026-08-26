@@ -1,6 +1,6 @@
 ---
 name: auskunft-schadensersatz-geheimhaltung
-description: "Wenn es um Auskunft Schadensersatz Und Rechnungslegung in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Auskunft Schadensersatz und Rechnungslegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auskunft Schadensersatz Und Rechnungslegung

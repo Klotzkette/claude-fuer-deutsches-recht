@@ -1,6 +1,6 @@
 ---
 name: open-source-software-dd
-description: "Wenn es um Open Source und Software-DD in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Open Source und Software-DD: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Open Source und Software-DD

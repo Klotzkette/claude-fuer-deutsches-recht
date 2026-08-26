@@ -1,6 +1,6 @@
 ---
 name: bautraeger-selbstvornahme-und-vorschussklage
-description: "Wenn es um Selbstvornahme und Vorschussklage gegen den Bautraeger in Fachanwalt Bau Architektenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Selbstvornahme und Vorschussklage gegen den Bauträger: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Selbstvornahme und Vorschussklage gegen den Bautraeger

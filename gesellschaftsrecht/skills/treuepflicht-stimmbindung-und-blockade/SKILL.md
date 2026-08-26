@@ -1,6 +1,6 @@
 ---
 name: treuepflicht-stimmbindung-und-blockade
-description: "Wenn es um Treuepflicht, Stimmbindung und Blockade in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Treuepflicht, Stimmbindung und Blockade: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 # Treuepflicht, Stimmbindung und Blockade
 

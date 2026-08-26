@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 239 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Seerecht Schifffahrtsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; v…
-2. **kaltstart-triage** — Wenn es um See- und Schifffahrtsrecht - Allgemeiner Einstieg in See- und Schifffahrtsrecht geht: klärt Rolle, Ziel, Fris…
-3. **itlos-hamburg-und-unclos** — Wenn es um ITLOS Hamburg und UNCLOS – Internationale Seerechtstreitigkeiten in See- und Schifffahrtsrecht geht: erstellt…
-4. **hafenrecht-und-liegegeld** — Wenn es um Hafenrecht und Liegegeld – Demurrage-Berechnung und Hafenstreit in See- und Schifffahrtsrecht geht: erstellt …
-5. **yachtkauf-versicherung-local-counsel** — Wenn es um Yachtkauf – Schadensfall bei Versicherung melden in See- und Schifffahrtsrecht geht: ordnet Sachverhalt, Norm…
-6. **havarie-und-kollision** — Wenn es um Havarie und Kollision – Erstbericht und Haftungsklärung in See- und Schifffahrtsrecht geht: erstellt den pass…
-7. **containerschiff-closing-planen** — Wenn es um Containerschiff – Closing planen in See- und Schifffahrtsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
-8. **schiffshypothek-closing-planen** — Wenn es um Schiffshypothek – Closing planen in See- und Schifffahrtsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
+2. **kaltstart-triage** — Für See- und Schifffahrtsrecht - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfpr…
+3. **auslandsflagge-local-insolvenz-reederei** — Für Auslandsflagge und Local Counsel – Flaggenstaat-Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Sch…
+4. **kreuzfahrtschiff-versicherung-melden** — Für Kreuzfahrtschiff – Schadensfall bei Versicherung melden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnit…
+5. **kreuzfahrtschiff-wrackpflicht** — Für Kreuzfahrtschiff – Wrackbeseitigungspflicht prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstel…
+6. **itlos-hamburg-und-unclos** — Für ITLOS Hamburg und UNCLOS – Internationale Seerechtstreitigkeiten: ordnet Norm, Beweislast und Gegenargument; Ergebni…
+7. **hafenrecht-und-liegegeld** — Für Hafenrecht und Liegegeld – Demurrage-Berechnung und Hafenstreit: ordnet Norm, Beweislast und Gegenargument; Ergebnis…
+8. **bermuda-struktur-seeschiff** — Für Bermuda-Struktur prüfen – Holding-Struktur und Haftungsrisiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
 
 ---
 
@@ -134,7 +134,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Anknüpfung, Zuständigke
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um See- und Schifffahrtsrecht - Allgemeiner Einstieg in See- und Schifffahrtsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für See- und Schifffahrtsrecht - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # See- und Schifffahrtsrecht - Allgemeiner Einstieg
 
@@ -189,9 +189,302 @@ Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen
 
 ---
 
+## Skill: `auslandsflagge-local-insolvenz-reederei`
+
+_Für Auslandsflagge und Local Counsel – Flaggenstaat-Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Auslandsflagge und Local Counsel – Flaggenstaat-Compliance
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+Eine deutsche Reederei betreibt ihre Flotte unter Panama-Flagge und bekommt Port-State-Control-Mängel; Local Counsel in Panama City soll koordiniert werden. Ein Schiff unter Marshall-Islands-Flagge soll in Deutschland mit einer Hypothek belastet werden. Ein Reeder möchte von der Panama-Flagge zur Deutschen Flagge wechseln; Kosten und Anforderungen sind unklar.
+
+## Erste Schritte
+1. Flaggenregime prüfen: welches nationale Recht gilt für Schiffseigentumsrecht; Hypotheken und Seeurteile?
+2. UNCLOS Art. 91-94 checken: echte Verbindung (genuine link) zwischen Schiff und Flaggenstaat.
+3. ISM-DOC der Flaggenstaatsbehörde: Panama Maritime Authority; RMRS (Marshall Islands) als Ansprechpartner für DOC-Ausstellung.
+4. Local-Counsel-Briefing erstellen: Registerfragen; Hypothekenrecht des Flaggenstaats; Port-State-Control-Verfahren.
+5. Flaggenwechsel-Ablauf: FlaggRG §§ 3-5 für Umflaggung nach Deutschland; Abmeldung im Auslandsregister.
+6. Compliance-Checkliste: SOLAS/ISM; MARPOL-Zertifikate; MLC-Zertifikat; ISPS-Code; alle unter neuer Flagge erneuern.
+
+## Rechtsrahmen
+- UNCLOS Art. 91-94: Staatsangehörigkeit von Schiffen; Flaggenstaatspflichten; genuine-link-Grundsatz.
+- FlaggRG §§ 1-10: Deutsche Flagge; Berechtigung; Pflichten; Umflaggungsvoraussetzungen.
+- SchRegO §§ 3-8: Eintragung im deutschen Seeschiffsregister als Voraussetzung für deutsche Flagge.
+- ISM-Code Kapitel 1-13: DOC-Ausstellung durch Flaggenstaat; SMC durch Klassifikationsgesellschaft.
+- MLC 2006 Titel 5 Reg. 5.1: Flaggenstaatkontrolle über MLC-Compliance.
+- Paris MOU: Port-State-Control in Europa; Banning von Schiffen mit wiederholten Mängeln.
+
+## Prüfraster
+- Besteht genuine link zwischen Reeder und Flaggenstaat (UNCLOS Art. 91)?
+- Hat die Flaggenstaatsbehörde alle Pflicht-Zertifikate (DOC; SMC; ISSC; DMLC) ausgestellt?
+- Sind Port-State-Control-Mängel (Paris MOU / Tokyo MOU) bekannt?
+- Welches Recht gilt für Schiffshypotheken im Flaggenstaat?
+- Gibt es Verbote für Flaggenwechsel während laufender Zwangsvollstreckung?
+
+## Typische Fallstricke
+- Registrierung unter Auslandsflagge hebt nicht alle deutschen Schutzrechte auf; Lex registri gilt für Hypotheken.
+- Hypotheken unter deutschem Recht sind im Auslandsregister nicht automatisch anerkannt.
+- DOC muss auf das operativ verantwortliche Unternehmen ausgestellt sein.
+- Paris-MOU-Banning kann alle europäischen Häfen sperren.
+
+## Checkliste Local-Counsel-Beauftragung
+- [ ] Local Counsel ausgewählt (Empfehlung P&I-Club-Korrespondent)
+- [ ] Erfahrung des LoC mit Seerecht im Hafenstaat bestätigt
+- [ ] Vollmacht ausgestellt und übermittelt
+- [ ] Briefing-Dokument erstellt: Schiffsdaten; Sachverhalt; deutsches Recht
+- [ ] Budgetrahmen genehmigt (P&I-Club-Approval)
+- [ ] Berichtspflichten und Eskalationsweg definiert
+- [ ] Prüfung ob LOU des P&I-Clubs den Arrest entbehrlich macht
+- [ ] ISAC-1952-Status des Hafenstaats geprüft
+
+## Relevante Rechtsprechung
+- ITLOS Arctic Sunrise Case No. 22 (Netherlands v. Russia 2013): einstweilige Maßnahmen nach UNCLOS Art. 290; Freilassung des Schiffes.
+- ITLOS Juno Trader Case No. 13 (Saint Vincent v. Guinea-Bissau 2004): Prompt Release nach Art. 292; angemessene Sicherheitsleistung.
+- EuGH zur EuGVVO 2012; gegenseitige Anerkennung von Vollstreckungstiteln in der EU.
+
+## Normen im Überblick
+- ISAC 1952 Art. 1-8: Seeforderungen; Arrest; Verfahren; Vertragsstaat-Liste.
+- EuGVVO 2012 Recast Art. 35-57: Vollstreckung ausländischer Titel in der EU.
+- UNCLOS Art. 292: Prompt Release; Schiff und Crew freizulassen gegen angemessene Sicherheit.
+- ZPO §§ 722-723: Vollstreckbarerklärung ausländischer Urteile in Deutschland.
+- Anerkennungs- und Vollstreckungsausführungsgesetz (AVAG): nationale Umsetzung EuGVVO.
+
+## Erweiterte Normengrundlage
+
+### Flaggenrecht
+- UNCLOS Art. 91-94: Staatszugehörigkeit; genuine link; Flaggenstaat-Pflichten.
+- FlaggRG §§ 1-23: deutsche Flagge; Berechtigung; Pflichten; Entziehung.
+- MAR-Register / Zweitregister: Flaggenrecht für Wirtschaftlichkeit ohne deutsche Arbeitnehmer-Quotes.
+
+### Local Counsel
+- ISAC 1952 Art. 1-8: Seeforderungen; Zuständigkeit; Verfahren im Ausland.
+- EuGVVO 2012 Recast Art. 35-57: EU-weite Vollstreckung; Zuständigkeit.
+- NYÜ 1958: Anerkennung ausländischer Schiedssprüche.
+
+## Checkliste Auslandsflagge / Local Counsel
+- [ ] Flaggenstaat identifiziert; Registerbehörde bekannt
+- [ ] Genuine-Link-Anforderungen geprüft; erfüllt?
+- [ ] Local Counsel im Flaggenstaat oder Hafenstaat beauftragt
+- [ ] Vollmacht übermittelt; Briefing-Memo erstellt
+- [ ] P&I-Club-Approval für Local-Counsel-Budget eingeholt
+- [ ] ISAC-1952-Status des Hafenstaats geprüft
+
+## Relevante Rechtsprechung
+- ITLOS M/V Saiga No. 2 (Saint Vincent v. Guinea 1999): genuine link; Flaggenstaat-Verantwortung.
+- ITLOS Arctic Sunrise No. 22 (Netherlands v. Russia 2013): einstweilige Maßnahmen nach UNCLOS Art. 290.
+- EuGH zur EuGVVO 2012; gegenseitige Anerkennung von Vollstreckungstiteln in der EU.
+
+## Quellen
+- UNCLOS Art. 91-94: https://www.un.org/Depts/los/convention_agreements/texts/unclos/unclos_e.pdf
+- FlaggRG: https://www.gesetze-im-internet.de/flaggrg/
+- BSH ISM: https://www.bsh.de/DE/THEMEN/Schifffahrt/ISM_Code/ism_code_node.html
+- Paris MOU: https://www.parismou.org
+- ITLOS M/V Saiga: https://www.itlos.org/en/main/cases/list-of-cases/
+
+---
+
+## Skill: `kreuzfahrtschiff-versicherung-melden`
+
+_Für Kreuzfahrtschiff – Schadensfall bei Versicherung melden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Kreuzfahrtschiff – Schadensfall bei Versicherung melden
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+Ein Kreuzfahrtschiff oder großes Fahrgastschiff erleidet Kollisionsschäden; P&I-Club und H&M-Versicherer werden koordiniert informiert. Ein Reeder verzögert die Schadensmeldung; Versicherer beruft sich auf VVG § 28 Obliegenheitsverletzung. Eine Bank aktiviert MII-Police nach Totalverlust eines hypothekenbelasteten Kreuzfahrtschiff oder großes Fahrgastschiff.
+
+## Erste Schritte
+1. P&I-Club sofort informieren; Korrespondenten vor Ort aktivieren.
+2. H&M-Versicherer (Kasko) unverzueglich benachrichtigen; DTV-Fristen beachten.
+3. MII-Police der Bank aktivieren, sofern Hypothekenglaeubigerbank betroffen.
+4. Schadensdokumentation: Fotos; Sachverstaendige; Logbuecher; Klassenachricht sichern.
+5. Schadensminderungspflicht (VVG § 82): Notmassnahmen veranlassen und dokumentieren.
+6. Alle Beteiligten koordinieren: P&I; H&M; MII; Klassifikator; Versicherungsmakler.
+
+## Rechtsrahmen
+- VVG §§ 28-30 Obliegenheiten; VVG § 82 Schadensminderung; DTV-Klauseln Kasko 2009; IGP&I Club Rules.
+
+## Prüfraster
+- Ist Meldung fristgerecht an alle Versicherer erfolgt?
+- Sind Schadensminderungsmassnahmen dokumentiert?
+- Greift MII-Police der Bank; sind alle Voraussetzungen erfuellt?
+- Liegt ein Deckungswiderspruch zwischen H&M und P&I vor?
+- Ist der Klassifikator informiert; droht Klasse-Suspension?
+
+## Typische Fallstricke
+- Verspaetete P&I-Meldung fuehrt zu Deckungsverlust (Club Rule: prompt notification).
+- MII greift nur wenn Bank nicht als Mitversicherter in H&M-Police steht.
+- H&M deckt nur 3/4 der Kollisionshaftung; P&I nimmt 1/4.
+
+## Vertiefung: P&I-Club-Meldesystem
+P&I-Clubs arbeiten nach dem Mutual-Insurance-Prinzip: Mitglieder (Reeder) sichern sich gegenseitig ab; Prämien werden nachträglich angepasst. Für die Deckungsauslösung entscheidend ist die prompte Meldung an den zuständigen Club-Korrespondenten im Hafenstaat. Alle 13 IG-Clubs haben weltweite Korrespondentennetzwerke; im Schadenfall sofort aktivieren.
+
+## Koordination mehrerer Versicherer
+Bei einem Schiffsunfall sind typischerweise beteiligt: H&M-Versicherer (Schaden am eigenen Schiff); P&I-Club (Drittschäden; Personenschäden; Umwelt); ggf. War-Risk-Versicherer (politische Risiken); Cargo-Versicherer der Ladung (vom Befrachter beauftragt). Koordination ist essenziell um Deckungslücken und Doppelerstattungen zu vermeiden.
+
+## Beweissicherung nach Schadensereignis
+Unmittelbare Maßnahmen: Unfallstelle fotografieren; beschädigte Teile sichern; Zeugenaussagen protokollieren; Logbücher und Stundenbücher sofort sichern und beglaubigen lassen. Externe Gutachter (Havariekommissar; Klasseninspektor; P&I-Club-Surveyor) sind unverzüglich zu bestellen. Digitale Daten (AIS; VDR; ECDIS) sichern und auf Backup-Medien kopieren.
+
+## Checkliste Schadensmeldung
+- [ ] P&I-Club-Korrespondent am Schadensort informiert (innerhalb 24 Stunden)
+- [ ] H&M-Versicherer unverzüglich benachrichtigt; DTV-Fristen eingehalten
+- [ ] MII-Police der Bank aktiviert (wenn Hypothekengläubiger betroffen)
+- [ ] Schadensdokumentation vollständig: Fotos; Gutachter; Logbücher; Zeugenaussagen
+- [ ] Schadensminderungsmaßnahmen veranlasst und dokumentiert (VVG § 82)
+- [ ] Klasseninspektor bestellt; ggf. Klasse-Suspension akzeptiert
+- [ ] Alle Versicherer koordiniert; Deckungsüberschneidungen geklärt
+- [ ] Aufräumungskosten aus P&I-Pollution-Deckung angemeldet
+
+## Relevante Rechtsprechung
+- BGH zur Obliegenheitsverletzung (VVG § 28) bei Schiffsversicherung; Kausalitätsgegenbeweis.
+- OLG Hamburg zu P&I-Deckungsversagung bei verspäteter Meldung; Club-Rule-Auslegung.
+- BGH zu Mortgagee's Interest Insurance; Verhältnis zur H&M-Police; Schutzbereich.
+
+## Normen im Überblick
+- VVG § 28: Verletzung vertraglicher Obliegenheiten; Leistungsfreiheit bei Vorsatz; Leistungskürzung bei grober Fahrlässigkeit.
+- VVG § 78: Mehrfachversicherung; Gesamtschuldner der Versicherer; Ausgleich.
+- VVG § 82: Schadensminderungsobliegenheit; Aufwendungsersatz für Rettungskosten.
+- VVG §§ 130-136: Haftpflichtversicherung; Direktklagerecht des Geschädigten.
+- DTV-Klauseln Kasko 2009 § 2: versicherte Gefahren und Schäden; Selbstbehalte.
+
+## Vertiefung Schadensmeldung
+
+### Koordination der Versicherer
+Bei einem Kaskoschaden sind in der Regel mehrere Versicherer betroffen: H&M-Versicherer für den Sachschaden; P&I-Club für die Haftpflicht gegenüber Dritten; MII für den Hypothekengläubiger. Die Koordination ist Aufgabe des Schiffsanwalts.
+
+### Subrogation
+Der H&M-Versicherer, der den Schaden reguliert hat, tritt in die Forderungen des Reeders gegen den Schädiger ein (VVG § 86). Der P&I-Club zahlt nur nach dem Pay-to-be-Paid-Prinzip; der Reeder muss den Schaden erst selbst zahlen und wird dann vom Club erstattet.
+
+## Normen-Synopse Versicherung
+| Norm | Inhalt |
+|------|--------|
+| VVG § 28 | Obliegenheitsverletzung |
+| VVG § 82 | Schadensminderung |
+| VVG § 86 | Forderungsübergang |
+| DTV-Kasko 2009 | Versicherte Gefahren |
+
+## Quellen
+- VVG §§ 28-30: https://www.gesetze-im-internet.de/vvg/__28.html
+- DTV-Klauseln Kasko: https://www.deutscher-transport-versicherungsverband.de
+- IGP&I: https://www.igpandi.org
+- openjur P&I-Streit: https://www.openjur.de
+
+---
+
+## Skill: `kreuzfahrtschiff-wrackpflicht`
+
+_Für Kreuzfahrtschiff – Wrackbeseitigungspflicht prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Kreuzfahrtschiff – Wrackbeseitigungspflicht prüfen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+Ein Kreuzfahrtschiff oder großes Fahrgastschiff sinkt in deutschen Gewässern; WSA ordnet Beseitigung an; Eigentümer fragt nach Haftung. Die finanzierende Bank fragt, ob sie als Hypothekengläubigerin haftet. Ein Reeder ist insolvent; Behörde will Kosten beim letzten Eigentümer eintreiben.
+
+## Erste Schritte
+1. WRC 2007 / WSG Anwendbarkeit prüfen: Kreuzfahrtschiff oder großes Fahrgastschiff ab 300 BRZ in deutschen Gewaessern.
+2. Verantwortlichen identifizieren: WSG § 2 - Eigentümer des {vessel} haftet primaer.
+3. Behoerdliche Meldepflicht (WRC Art. 5 / WSG § 4): unverzuegliche Meldung beim WSA.
+4. Versicherungsnachweis (WRC Art. 12): Pflicht ab 300 BRZ; P&I-Club-Zertifikat vorlegen.
+5. Kostenschaetzung einholen: Bergungsunternehmen; Umweltschadensrisiko bewerten.
+6. Notfallmassnahmen koordinieren: BSH-Schadstoffabwehr; Buenker-Oelbergung.
+
+## Rechtsrahmen
+- WSG §§ 1-12 Wrackbeseitigungsgesetz; WRC 2007 Nairobi Art. 1-12; MARPOL Annex I Reg. 26.
+
+## Prüfraster
+- Ist der Eigentümer des Kreuzfahrtschiff oder großes Fahrgastschiff bekannt und zahlungsfaehig?
+- Greift WRC 2007 (Schiff ab 300 BRZ; Gewaesser eines Vertragsstaats)?
+- Ist Wrackbeseitigungs-Versicherung vorhanden (WRC Art. 12)?
+- Ueberschreiten Wrackkosten den Schiffswert?
+- Bestehen Umweltschadensrisiken (Bunkeröl/Chemikalien) beim Kreuzfahrtschiff oder großes Fahrgastschiff?
+
+## Typische Fallstricke
+- WRC gilt auch für Freizeitjachten ab 14 Meter Laenge.
+- Behoerdliche Ersatzvornahme begründet Kostenerstattungsanspruch mit Vorrang.
+- Bei Kreuzfahrtschiff oder großes Fahrgastschiff unter Auslandsflagge kommen Flaggenstaat-Pflichten hinzu.
+
+## Vertiefung: Nairobi WRC 2007 im Überblick
+Das Nairobi Wrack-Übereinkommen (WRC 2007) trat international 2015 in Kraft; Deutschland hat es 2013 ratifiziert und durch das Wrackbeseitigungsgesetz (WSG) umgesetzt. Es gilt für Wracks in der AWZ und dem Küstenmeer von Vertragsstaaten; für Wracks auf der Hohen See gelten nur nationale Normen. Kernpflicht: Eigentümer muss das Wrack melden; markieren; und beseitigen oder beseitigen lassen.
+
+## Haftungsstruktur
+Primär haftet der eingetragene Eigentümer; sekundär können Hypothekengläubiger oder faktische Betreiber herangezogen werden. Die Haftung ist nicht automatisch durch Schiffswert begrenzt; das Haftungsbeschränkungsrecht nach HGB §§ 611-617 oder LLMC 1976/1996 kann aber Obergrenzen setzen. P&I-Clubs decken Wrackbeseitigungskosten typischerweise im Rahmen der Pollution-Deckung ab.
+
+## Behördliche Zuständigkeit
+In Deutschland ist das Wasserstraßen- und Schifffahrtsamt (WSA) die zuständige Behörde (§ 4 WSG). Bei Gefahr für Menschenleben oder Umwelt kann das WSA sofortige Maßnahmen anordnen und auf Kosten des Eigentümers durchführen. Das BSH koordiniert Schadstoffabwehrmaßnahmen auf See.
+
+## Checkliste Wrackpflicht-Prüfung
+- [ ] Lage des Wracks bestimmt: AWZ; Küstenmeer; Binnengewässer
+- [ ] Anwendbarkeit WRC 2007 / WSG geprüft: Schiff ab 300 BRZ; Vertragsstaaten-Gewässer
+- [ ] Eigentümer identifiziert; Kontakt aufgenommen
+- [ ] Meldung beim WSA erfolgt (WSG § 4 / WRC Art. 5)
+- [ ] Wrackbeseitigungs-Versicherungsnachweis angefordert (WRC Art. 12)
+- [ ] Kostenschätzung für Bergung eingeholt
+- [ ] Umweltgefährdung durch Bunkeröl oder Schadstoffe bewertet
+- [ ] BSH Schadstoffabwehr informiert
+- [ ] Haftungsstruktur analysiert: Eigentümer; Hypothekengläubiger; Versicherer
+
+## Relevante Rechtsprechung
+- BGH zur Ersatzvornahme bei Wrackbeseitigung; Kostenerstattungsanspruch der Behörde gegen Eigentümer.
+- VG Hamburg und VG Stade zur Behördenzuständigkeit für Wrackbeseitigung in der AWZ.
+- ITLOS Advisory Opinion No. 17 (Seabed Disputes Chamber 2011): Pflichten der Sponsoring States für Tätigkeiten im Meeresgebiet.
+
+## Normen im Überblick
+- WSG §§ 1-12: Wrackbeseitigungsgesetz; Pflichten des Eigentümers; Behördenzuständigkeit; Kosten.
+- WRC 2007 Art. 1-16: Definitionen; Anwendungsbereich; Meldepflichten; Versicherungspflicht; Haftung.
+- MARPOL Annex I Reg. 26: Bunkeröl-Sicherheitsmaßnahmen bei Schiffskatastrophen.
+- HGB § 611: Haftungsbeschränkung des Schiffseigentümers nach LLMC 1976/1996.
+- InsO §§ 49-51: Absonderungsrecht des Hypothekengläubigers; Haftungsfreistellung.
+
+## Vertiefung Wrackbeseitigung
+
+### Behördliche Struktur
+In der AWZ ist das BSH (Bundesamt für Seeschifffahrt und Hydrographie) zuständig; im Küstenmeer und den Seewasserstraßen die WSA (Wasserstraßen- und Schifffahrtsämter). Die Zuständigkeit ist für die Einschätzung des Vollzugsrisikos entscheidend.
+
+### Versicherungspflicht nach WRC 2007
+Ab 300 BRZ besteht eine Pflichtversicherung für Wrackbeseitigungskosten (WRC Art. 12); der Nachweis muss an Bord mitgeführt werden. Deutschland hat das WRC 2007 ratifiziert (BGBl. 2013 II Nr. 22).
+
+## Normen-Synopse Wrackbeseitigung
+| Norm | Inhalt |
+|------|--------|
+| WSG § 1 | Anwendungsbereich |
+| WSG § 4 | Meldepflicht |
+| WRC Art. 12 | Versicherungspflicht |
+| MARPOL Annex I | Bunkerölsicherheit |
+
+## Quellen
+- WSG: https://www.gesetze-im-internet.de/wsg/
+- WRC 2007 IMO: https://www.imo.org/en/About/Conventions/Pages/Nairobi-International-Convention-on-the-Removal-of-Wrecks.aspx
+- BSH: https://www.bsh.de
+- MARPOL IMO: https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Prevention-of-Pollution-from-Ships-(MARPOL).aspx
+
+---
+
 ## Skill: `itlos-hamburg-und-unclos`
 
-_Wenn es um ITLOS Hamburg und UNCLOS – Internationale Seerechtstreitigkeiten in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für ITLOS Hamburg und UNCLOS – Internationale Seerechtstreitigkeiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # ITLOS Hamburg und UNCLOS – Internationale Seerechtstreitigkeiten
 
@@ -274,7 +567,7 @@ Ein Fischereifahrzeug eines Vertragsstaats wird von einem anderen Staat beschlag
 
 ## Skill: `hafenrecht-und-liegegeld`
 
-_Wenn es um Hafenrecht und Liegegeld – Demurrage-Berechnung und Hafenstreit in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Hafenrecht und Liegegeld – Demurrage-Berechnung und Hafenstreit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Hafenrecht und Liegegeld – Demurrage-Berechnung und Hafenstreit
 
@@ -355,106 +648,11 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 
 ---
 
-## Skill: `yachtkauf-versicherung-local-counsel`
+## Skill: `bermuda-struktur-seeschiff`
 
-_Wenn es um Yachtkauf – Schadensfall bei Versicherung melden in See- und Schifffahrtsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Bermuda-Struktur prüfen – Holding-Struktur und Haftungsrisiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Yachtkauf – Schadensfall bei Versicherung melden
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-Ein Segel- oder Motorjacht erleidet Kollisionsschäden; P&I-Club und H&M-Versicherer werden koordiniert informiert. Ein Reeder verzögert die Schadensmeldung; Versicherer beruft sich auf VVG § 28 Obliegenheitsverletzung. Eine Bank aktiviert MII-Police nach Totalverlust eines hypothekenbelasteten Segel- oder Motorjacht.
-
-## Erste Schritte
-1. P&I-Club sofort informieren; Korrespondenten vor Ort aktivieren.
-2. H&M-Versicherer (Kasko) unverzueglich benachrichtigen; DTV-Fristen beachten.
-3. MII-Police der Bank aktivieren, sofern Hypothekenglaeubigerbank betroffen.
-4. Schadensdokumentation: Fotos; Sachverstaendige; Logbuecher; Klassenachricht sichern.
-5. Schadensminderungspflicht (VVG § 82): Notmassnahmen veranlassen und dokumentieren.
-6. Alle Beteiligten koordinieren: P&I; H&M; MII; Klassifikator; Versicherungsmakler.
-
-## Rechtsrahmen
-- VVG §§ 28-30 Obliegenheiten; VVG § 82 Schadensminderung; DTV-Klauseln Kasko 2009; IGP&I Club Rules.
-
-## Prüfraster
-- Ist Meldung fristgerecht an alle Versicherer erfolgt?
-- Sind Schadensminderungsmassnahmen dokumentiert?
-- Greift MII-Police der Bank; sind alle Voraussetzungen erfuellt?
-- Liegt ein Deckungswiderspruch zwischen H&M und P&I vor?
-- Ist der Klassifikator informiert; droht Klasse-Suspension?
-
-## Typische Fallstricke
-- Verspaetete P&I-Meldung fuehrt zu Deckungsverlust (Club Rule: prompt notification).
-- MII greift nur wenn Bank nicht als Mitversicherter in H&M-Police steht.
-- H&M deckt nur 3/4 der Kollisionshaftung; P&I nimmt 1/4.
-
-## Vertiefung: P&I-Club-Meldesystem
-P&I-Clubs arbeiten nach dem Mutual-Insurance-Prinzip: Mitglieder (Reeder) sichern sich gegenseitig ab; Prämien werden nachträglich angepasst. Für die Deckungsauslösung entscheidend ist die prompte Meldung an den zuständigen Club-Korrespondenten im Hafenstaat. Alle 13 IG-Clubs haben weltweite Korrespondentennetzwerke; im Schadenfall sofort aktivieren.
-
-## Koordination mehrerer Versicherer
-Bei einem Schiffsunfall sind typischerweise beteiligt: H&M-Versicherer (Schaden am eigenen Schiff); P&I-Club (Drittschäden; Personenschäden; Umwelt); ggf. War-Risk-Versicherer (politische Risiken); Cargo-Versicherer der Ladung (vom Befrachter beauftragt). Koordination ist essenziell um Deckungslücken und Doppelerstattungen zu vermeiden.
-
-## Beweissicherung nach Schadensereignis
-Unmittelbare Maßnahmen: Unfallstelle fotografieren; beschädigte Teile sichern; Zeugenaussagen protokollieren; Logbücher und Stundenbücher sofort sichern und beglaubigen lassen. Externe Gutachter (Havariekommissar; Klasseninspektor; P&I-Club-Surveyor) sind unverzüglich zu bestellen. Digitale Daten (AIS; VDR; ECDIS) sichern und auf Backup-Medien kopieren.
-
-## Checkliste Schadensmeldung
-- [ ] P&I-Club-Korrespondent am Schadensort informiert (innerhalb 24 Stunden)
-- [ ] H&M-Versicherer unverzüglich benachrichtigt; DTV-Fristen eingehalten
-- [ ] MII-Police der Bank aktiviert (wenn Hypothekengläubiger betroffen)
-- [ ] Schadensdokumentation vollständig: Fotos; Gutachter; Logbücher; Zeugenaussagen
-- [ ] Schadensminderungsmaßnahmen veranlasst und dokumentiert (VVG § 82)
-- [ ] Klasseninspektor bestellt; ggf. Klasse-Suspension akzeptiert
-- [ ] Alle Versicherer koordiniert; Deckungsüberschneidungen geklärt
-- [ ] Aufräumungskosten aus P&I-Pollution-Deckung angemeldet
-
-## Relevante Rechtsprechung
-- BGH zur Obliegenheitsverletzung (VVG § 28) bei Schiffsversicherung; Kausalitätsgegenbeweis.
-- OLG Hamburg zu P&I-Deckungsversagung bei verspäteter Meldung; Club-Rule-Auslegung.
-- BGH zu Mortgagee's Interest Insurance; Verhältnis zur H&M-Police; Schutzbereich.
-
-## Normen im Überblick
-- VVG § 28: Verletzung vertraglicher Obliegenheiten; Leistungsfreiheit bei Vorsatz; Leistungskürzung bei grober Fahrlässigkeit.
-- VVG § 78: Mehrfachversicherung; Gesamtschuldner der Versicherer; Ausgleich.
-- VVG § 82: Schadensminderungsobliegenheit; Aufwendungsersatz für Rettungskosten.
-- VVG §§ 130-136: Haftpflichtversicherung; Direktklagerecht des Geschädigten.
-- DTV-Klauseln Kasko 2009 § 2: versicherte Gefahren und Schäden; Selbstbehalte.
-
-## Vertiefung Schadensmeldung
-
-### Koordination der Versicherer
-Bei einem Kaskoschaden sind in der Regel mehrere Versicherer betroffen: H&M-Versicherer für den Sachschaden; P&I-Club für die Haftpflicht gegenüber Dritten; MII für den Hypothekengläubiger. Die Koordination ist Aufgabe des Schiffsanwalts.
-
-### Subrogation
-Der H&M-Versicherer, der den Schaden reguliert hat, tritt in die Forderungen des Reeders gegen den Schädiger ein (VVG § 86). Der P&I-Club zahlt nur nach dem Pay-to-be-Paid-Prinzip; der Reeder muss den Schaden erst selbst zahlen und wird dann vom Club erstattet.
-
-## Normen-Synopse Versicherung
-| Norm | Inhalt |
-|------|--------|
-| VVG § 28 | Obliegenheitsverletzung |
-| VVG § 82 | Schadensminderung |
-| VVG § 86 | Forderungsübergang |
-| DTV-Kasko 2009 | Versicherte Gefahren |
-
-## Quellen
-- VVG §§ 28-30: https://www.gesetze-im-internet.de/vvg/__28.html
-- DTV-Klauseln Kasko: https://www.deutscher-transport-versicherungsverband.de
-- IGP&I: https://www.igpandi.org
-- openjur P&I-Streit: https://www.openjur.de
-
----
-
-## Skill: `havarie-und-kollision`
-
-_Wenn es um Havarie und Kollision – Erstbericht und Haftungsklärung in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Havarie und Kollision – Erstbericht und Haftungsklärung
+# Bermuda-Struktur prüfen – Holding-Struktur und Haftungsrisiken
 
 ## Arbeitsweg
 
@@ -465,267 +663,72 @@ _Wenn es um Havarie und Kollision – Erstbericht und Haftungsklärung in See- u
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Ein Containerschiff rammt im Hamburger Hafen einen Tanker; beide Schiffe haben Schäden; der Kapitän steht im Verdacht der Trunkenheit. Ein Reeder fordert nach Sturm-Notfall auf See eine Große-Havarie-Verteilung: Ladung wurde über Bord geworfen um das Schiff zu retten. Ein Schiff erleidet bei Nebel eine Kollision mit einem unbekannten Fahrzeug.
+Ein Schiffsfonds hält seine Schiffe über Cayman-SPVs; nach einem Totalverlust fragt der Insolvenzverwalter wer wirklich Reeder und haftbar ist. Eine Bank finanziert ein Schiff das einer BVI-Gesellschaft gehört; der Reeder operiert aus Deutschland. Die Steuerbehörde prüft ob die Bermuda-Struktur BEPS-konform ist.
 
 ## Erste Schritte
-1. Schadens- und Hergangsermittlung: VHF-Aufzeichnungen; AIS-Daten; Brückenbuch; Maschinenlogbuch beschaffen und sichern.
-2. Kollisionstyp bestimmen: Seeschiff/Seeschiff (KSÜ 1910); Seeschiff/Binnenschiff (BinSchG § 92); Seeschiff/Hafenanlagen.
-3. Große Havarie vs. Besondere Havarie prüfen: HGB §§ 571-574 – Große Havarie = gemeinschaftliche Opfer zur Rettung des Abenteuers.
-4. Dispache-Auftrag vorbereiten: York-Antwerp Rules (YAR 2016) oder abweichende vertragliche Vereinbarung.
-5. P&I-Club und H&M-Versicherer sofort informieren; Letters of Undertaking zur Arrestvermeidung sichern.
-6. Straf- und ordnungswidrigkeitenrechtliche Aspekte sichern: Wasser- und Schifffahrtsamt; BG Verkehr; Staatsanwaltschaft.
+1. Gesellschafts-Kaskade aufzeichnen: Eigentümer (BVI/Cayman-SPV); Reeder (HGB § 476); Ausrüster (HGB § 477).
+2. Substanzprüfung der Offshore-Einheiten: Sitz; Mitarbeiter; Geschäftsführung; BEPS Action 6/13 Anforderungen.
+3. ISM-Code-Verantwortung klären: ISM § 1.1.2 – Unternehmen = wer betriebliche Kontrolle hat; nicht zwingend Registereigentümer.
+4. Steuerliche Analyse: AStG §§ 7-14 Hinzurechnungsbesteuerung; § 49 EStG; § 8b KStG.
+5. Durchgriffshaftungsrisiko bewerten: Konzernhaftung nur in Ausnahmefällen; UNCLOS Art. 94 kann wirtschaftlichen Eigentümer identifizieren.
+6. Restrukturierungsoptionen aufzeigen: BEPS-konforme Substanzschaffung.
 
 ## Rechtsrahmen
-- HGB §§ 571-574: Große Havarie; Begriff; Beitragspflicht; Verteilung.
-- HGB §§ 575-594: Dispache; Haverei-Verfahren; Beitragsberechnung.
-- KSÜ 1910 (Kollisionsübereinkommen): internationale Haftungsverteilung; Verschuldensquoten.
-- SeeUG §§ 1-6: Seeunfalluntersuchung durch Bundesstelle für Seeunfalluntersuchung (BSU).
-- York-Antwerp Rules 2016: Vertragsstandard für Große-Havarie-Verteilung.
-- UNCLOS Art. 97: kein Strafrecht durch Drittstaaten bei Hochseekollisionen.
+- HGB § 476: Reeder = Betreiber auf eigene Rechnung; auch Offshore-Eigentümer kann Reeder sein.
+- HGB § 477: Ausrüster = wer fremdes Schiff auf eigene Rechnung betreibt; haftet wie Reeder.
+- AStG §§ 7-14: Hinzurechnungsbesteuerung für passive Offshore-Einkünfte.
+- KStG § 8 Abs. 2: Ort der Geschäftsleitung als Anknüpfungspunkt.
+- UNCLOS Art. 94: Flaggenstaat verpflichtet zur Kontrolle; darf nicht an formale Eigentumsstruktur anknüpfen.
+- ISM-Code Kap. 1.1.2: Unternehmensdefinition; betriebliche Kontrolle entscheidend.
 
 ## Prüfraster
-- Liegt ein gemeinschaftliches Opfer vor das Große Havarie begründet?
-- Welches Verschulden trifft welchen Reeder; KSÜ-Verschuldensquoten?
-- Sind alle Ladungsinteressenten für Beitragspflicht identifiziert?
-- Ist der P&I-Club bereit ein Letter of Undertaking statt Arrest zu stellen?
-- Hat die BSU Untersuchungen eingeleitet?
+- Hat jede Gesellschaft in der Kaskade echte wirtschaftliche Substanz?
+- Ist klar wer ISM-Code-Unternehmen ist?
+- Greift die Hinzurechnungsbesteuerung (AStG § 7) für Schifffahrtseinkünfte?
+- Gibt es Haftungsdurchgriff auf die Holding-Ebene?
+- Sind alle Gesellschaften im UBO-Register offengelegt?
 
 ## Typische Fallstricke
-- Unterschied Große Havarie vs. Besondere Havarie: nicht jeder Schaden rechtfertigt YAR-Verteilung.
-- UNCLOS Art. 97 schützt Kapitän vor ausländischer Strafverfolgung bei Hochseekollision; gilt nicht in Küstengewässern.
-- BSU-Ergebnisse haben keine Bindungswirkung in Zivilprozessen; werden aber als Beweismittel verwendet.
-- P&I-Club trägt Kollisionshaftung gegen andere Schiffe nur bis zu 3/4; 1/4 liegt bei H&M.
+- Irrige Annahme der Offshore-SPV isoliere vollständig von Haftungsrisiken.
+- Fehlende Substanz der Bermuda-Gesellschaft; BFH bejaht Hinzurechnung.
+- ISM-DOC ausgestellt auf Managementfirma aber wirtschaftlicher Betreiber ist anders.
+- KYC/AML-Anforderungen verlangen zunehmend UBO-Transparenz.
 
 ## Erweiterte Normengrundlage
 
-### Kollisionsrecht
-- HGB §§ 570-586: Schiffszusammenstoß; Schuldhaftung; Mittäterschaft; Sacheigentümerhaftung.
-- HGB § 572: Kollisionshaftung; Verschuldensprinzip; Mitverschulden.
-- COLREG 1972: Kollisionsverhütungsregeln; Ausweichpflichten; Anwendung als Sorgfaltsmaßstab.
+### Gesellschaftsrecht
+- BGB §§ 705-740: Gesellschaft bürgerlichen Rechts; Grundstruktur von SPV-Strukturen.
+- GmbHG §§ 1-88: GmbH als Einschiffgesellschaft; Haftungsbegrenzung.
+- Companies Act 1981 (Bermuda): Bermuda-Gesellschaftsrecht; Exempted Companies.
 
-### Große Havarie
-- HGB §§ 588-597: Große Havarie; York-Antwerp-Rules (YAR) als lex specialis.
-- YAR 2016: Dispacheurverfahren; Beitragsberechnung; Ladungsgläubigerrecht.
-- HGB § 591: Dispache; Verbindlichkeit nach Rechtskraft.
+### Steuerrecht
+- AO §§ 12-13: Betriebsstätte; Beschränkte Steuerpflicht.
+- UmwStG: Einbringung in Kapitalgesellschaft; Entstrickungsbesteuerung.
+- DBA Deutschland-Bermuda: kein vollständiges DBA; Anwendung nationalen Steuerrechts.
 
-## Checkliste Havarie-/Kollisionsfall
-- [ ] Unfallhergang zeitlich dokumentiert; Zeugen benennt
-- [ ] Logbuch und AIS-Daten gesichert
-- [ ] Sea Protest (Seeprotest) vor Notar erklärt
-- [ ] P&I-Korrespondent und Klasseninspektor am Schadensort informiert
-- [ ] Schuldfrage vorläufig bewertet; COLREG-Verstoß analysiert
-- [ ] Average Bond und Average Guarantee (Große Havarie) eingeholt
-- [ ] Dispacheur benannt; Average Adjustment eingeleitet
+## Checkliste Bermuda-Struktur
+- [ ] Gesellschaftsstruktur vollständig aufgenommen (Organogramm)
+- [ ] Beneficial Owner identifiziert; UBO-Transparenz geprüft (GwG)
+- [ ] Steuerliche Ansässigkeit jeder Gesellschaft bestimmt
+- [ ] Substanz-Anforderungen der Bermuda-Gesellschaft geprüft
+- [ ] Bankkonten und Cash-Flow-Struktur aufgenommen
+- [ ] Compliance mit FATF/FATCA/CRS dokumentiert
 
 ## Relevante Rechtsprechung
-- BGH zur Abgrenzung von kleiner und großer Havarie; Opfertheorie nach YAR.
-- OLG Hamburg zur Kollisionshaftung; COLREG-Verletzung als Indiz für Verschulden.
-- BGH zu Average-Guarantee-Klauseln; Bindungswirkung des Dispache-Beschlusses.
+- BGH zur Durchgriffshaftung bei Einschiff-SPV-Strukturen; Unterkapitalisierung.
+- BFH zur Besteuerung von Bermuda-Schiffen; beschränkte Steuerpflicht inländischer Einkünfte.
+- BVerwG zum Geldwäschegesetz; Transparenzregister-Pflicht für Schiffs-SPV.
 
 ## Praxishinweis
 
 Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestaltung sind ergänzend folgende Quellen heranzuziehen: (1) aktuelle BSH-Rundschreiben und Bekanntmachungen (abrufbar unter bsh.de); (2) Verwaltungsvorschriften der zuständigen Wasser- und Schifffahrtsverwaltung; (3) aktuelle Entscheidungen des LG und OLG Hamburg zu seerechtlichen Fragen (openjur.de); (4) ITLOS-Rechtsprechungsdatenbank (itlos.org). Bei internationalem Bezug ist stets zu prüfen, ob der betreffende Staat UNCLOS-, MLC- oder MARPOL-Vertragsstaat ist und ob ISAC 1952 gilt.
 
 ## Quellen
-- HGB §§ 571-594: https://dejure.org/gesetze/HGB/571.html
-- KSÜ 1910: https://www.gesetze-im-internet.de/intv_ks_1910/
-- BSU Seeunfalluntersuchung: https://www.bsu-bund.de
-- SeeUG: https://www.gesetze-im-internet.de/seeug/
-- YAR 2016 BIMCO: https://www.bimco.org
-
----
-
-## Skill: `containerschiff-closing-planen`
-
-_Wenn es um Containerschiff – Closing planen in See- und Schifffahrtsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Containerschiff – Closing planen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-Der Kauf eines Containerlinienfrachtschiff soll abgeschlossen werden; Hypotheken sind abzulösen. Ein Käufer besteht auf lastenfreier Lieferung mit gültiger Klasse und MLC-Zertifikat. Eine Bank koordiniert das Closing bei syndizierten Finanzierungen.
-
-## Erste Schritte
-1. Ablosebetraege aller Hypothekenglaeubiger anfordern; Stichtag abstimmen.
-2. Loeschungsbewilligungen (SchRG § 19) beschaffen; zeitlich koordinieren.
-3. Escrow-Konto einrichten: Kaufpreis gegen Loeschungsbestaetigung.
-4. Eigentumsuebergang (SchRG § 2) und Hypothekenloesung gleichzeitig für Containerlinienfrachtschiff.
-5. Zertifikate (Klasse; ISM; MLC; ISPS) auf neuen Eigentümer ummelden.
-6. Registerauszug nach Closing beschaffen; Closing-Memo erstellen.
-
-## Rechtsrahmen
-- SchRG §§ 2/19; SchRegO §§ 13-19; FlaggRG §§ 3-5; ISM-Code Kap. 3 SMC-Neuzertifizierung.
-
-## Prüfraster
-- Sind alle Loeschungsbewilligungen zeitlich koordiniert?
-- Ist der Escrow-Mechanismus wasserdicht gegen Insolvenz des Verkaeufers?
-- Sind alle Zertifikate für Containerlinienfrachtschiff auf neuen Eigentümer vorbereitet?
-- Ist der Flaggenwechsel (wenn vorgesehen) vorbereitet?
-- Ist die Vollmacht für den Registerantrag aktuell?
-
-## Typische Fallstricke
-- Zahlung ohne simultane Loeschung: Hypothek bleibt trotz Zahlung eingetragen.
-- ISM-/MLC-Luecke nach Eigentumsuebergang; Port-State-Detention droht.
-- Nachranghypotheken blockieren Closing wenn Erstrangglaeubigerbank nicht kooperiert.
-
-## Vertiefung: Closing-Mechanismus im Schiffskauf
-Das Closing eines Schiffskaufs ist der Moment wo Eigentum und Risiko auf den Käufer übergehen. Technisch besteht das Closing aus: (1) Zahlung des Kaufpreises (oder freigabe aus Escrow); (2) Übergabe der Delivery Documents; (3) Eintragung des Eigentumsübergangs im Schiffsregister (SchRG § 2). Alle drei Schritte sollen simultan erfolgen; in der Praxis nutzt man Softclose-Mechanismen.
-
-## Delivery Documents Checkliste
-Folgende Originalunterlagen müssen beim Closing übergeben werden: Klasse-Zertifikat; Delivery and Acceptance Certificate; Protokoll zur Übergabe von Bunker und Schmieröl; alle Schiffszertifikate (IOPP; IAPP; MLC; ISSC; BSH-Fahrterlaubnis); Logbücher; technische Handbücher. Kopien werden bei der abgebenden Reederei archiviert.
-
-## Nachsorge nach dem Closing
-Nach dem Closing: Neuanmeldung beim Flaggenregister; Beantragung neuer DOC beim ISM-Code-Unternehmen; MLC-Erneuerung; P&I-Club-Eintritt des Käufers; Benachrichtigung aller Charterer und Hafenbehörden über den Eigentümerwechsel. Closing-Memo erstellen mit Datum; Kaufpreis; alle übergebenen Dokumente; Beteiligten.
-
-## Checkliste Closing-Vorbereitung
-- [ ] Ablösebeträge aller Hypothekengläubiger angefordert; Stichtag fixiert
-- [ ] Löschungsbewilligungen (SchRG § 19) von allen Gläubigern vorliegend
-- [ ] Escrow-Konto eingerichtet; Escrow-Agent benannt
-- [ ] Eigentumsübergang (SchRG § 2) und Hypothekenlöschung zeitlich koordiniert
-- [ ] Alle Zertifikate (Klasse; ISM/DOC/SMC; MLC/DMLC; ISSC; BSH) auf neuen Eigentümer vorbereitet
-- [ ] P&I-Club-Eintritt des Käufers bestätigt
-- [ ] Delivery and Acceptance Certificate vorbereitet
-- [ ] Registerauszug nach Closing beauftragt
-- [ ] Closing-Memo-Vorlage bereitgestellt
-
-## Relevante Rechtsprechung
-- BGH zur Wirksamkeit des Eigentumsübergangs an Schiffen; Einigung und Eintragung als konstitutive Voraussetzungen.
-- OLG Hamburg zur Auslegung von Closing-Conditions in MOA-Verträgen; Delivery-Condition-Klauseln.
-- BGH zur Haftung des Verkäufers für nach Closing entstehende Schiffsgläubigerrechte; Freistellungspflicht.
-
-## Normen im Überblick
-- SchRG § 2: Eigentumsübergang durch Einigung und Eintragung; nicht durch Besitzübergabe.
-- SchRG § 19: Löschung der Hypothek; Form; Zeitpunkt; Wirkung.
-- SchRegO §§ 13-19: Eintragungsverfahren; Antragsteller; Fristen.
-- FlaggRG §§ 3-5: Berechtigung zur Flagge; Pflichten bei Eigentumsübergang.
-- ISM-Code Kap. 3: SMC-Gültigkeit und Neuausstellung nach Eigentümerwechsel.
-- MLC 2006 Reg. 5.1.3: Neuausstellung MLC-Zertifikat nach Eigentumsübergang und Flaggenwechsel.
-
-## Vertiefung Closing
-
-### Simultaneous Closing
-Das "simultaneous closing" (Zug-um-Zug-Abwicklung) ist bei Schiffsverkäufen mit Kreditfinanzierung Standard. Ablöse der Altfinanzierung; Neuhypothek für den Käufer; Eigentumsumschreibung; Kaufpreiszahlung — alles erfolgt zeitgleich über ein Escrow-Konto.
-
-### Zertifikatsübergang
-Klasse- und ISM-Zertifikate bleiben nicht automatisch mit dem Schiff verbunden; sie sind personengebunden (SMC an den Reeder; DOC an den Betreiber). Der Käufer muss rechtzeitig seine eigene ISM-Zulassung (DOC) und das SMC für das Schiff beantragen.
-
-## Normen-Synopse Closing
-| Norm | Inhalt |
-|------|--------|
-| SchRG § 2 | Eigentumsübergang |
-| SchRG § 19 | Hypothekenlöschung |
-| FlaggRG § 3 | Flagge bei Eigentümerwechsel |
-| MLC Reg. 5.1.3 | MLC-Zertifikat |
-
-## Quellen
-- SchRG §§ 2/19: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
-- FlaggRG: https://www.gesetze-im-internet.de/flaggrg/
-- BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
-- SchRegO: https://dejure.org/gesetze/SchRegO
-
----
-
-## Skill: `schiffshypothek-closing-planen`
-
-_Wenn es um Schiffshypothek – Closing planen in See- und Schifffahrtsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Schiffshypothek – Closing planen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-Der Kauf eines hypothekenbelastetes Seeschiff soll abgeschlossen werden; Hypotheken sind abzulösen. Ein Käufer besteht auf lastenfreier Lieferung mit gültiger Klasse und MLC-Zertifikat. Eine Bank koordiniert das Closing bei syndizierten Finanzierungen.
-
-## Erste Schritte
-1. Ablosebetraege aller Hypothekenglaeubiger anfordern; Stichtag abstimmen.
-2. Loeschungsbewilligungen (SchRG § 19) beschaffen; zeitlich koordinieren.
-3. Escrow-Konto einrichten: Kaufpreis gegen Loeschungsbestaetigung.
-4. Eigentumsuebergang (SchRG § 2) und Hypothekenloesung gleichzeitig für hypothekenbelastetes Seeschiff.
-5. Zertifikate (Klasse; ISM; MLC; ISPS) auf neuen Eigentümer ummelden.
-6. Registerauszug nach Closing beschaffen; Closing-Memo erstellen.
-
-## Rechtsrahmen
-- SchRG §§ 2/19; SchRegO §§ 13-19; FlaggRG §§ 3-5; ISM-Code Kap. 3 SMC-Neuzertifizierung.
-
-## Prüfraster
-- Sind alle Loeschungsbewilligungen zeitlich koordiniert?
-- Ist der Escrow-Mechanismus wasserdicht gegen Insolvenz des Verkaeufers?
-- Sind alle Zertifikate für hypothekenbelastetes Seeschiff auf neuen Eigentümer vorbereitet?
-- Ist der Flaggenwechsel (wenn vorgesehen) vorbereitet?
-- Ist die Vollmacht für den Registerantrag aktuell?
-
-## Typische Fallstricke
-- Zahlung ohne simultane Loeschung: Hypothek bleibt trotz Zahlung eingetragen.
-- ISM-/MLC-Luecke nach Eigentumsuebergang; Port-State-Detention droht.
-- Nachranghypotheken blockieren Closing wenn Erstrangglaeubigerbank nicht kooperiert.
-
-## Vertiefung: Closing-Mechanismus im Schiffskauf
-Das Closing eines Schiffskaufs ist der Moment wo Eigentum und Risiko auf den Käufer übergehen. Technisch besteht das Closing aus: (1) Zahlung des Kaufpreises (oder freigabe aus Escrow); (2) Übergabe der Delivery Documents; (3) Eintragung des Eigentumsübergangs im Schiffsregister (SchRG § 2). Alle drei Schritte sollen simultan erfolgen; in der Praxis nutzt man Softclose-Mechanismen.
-
-## Delivery Documents Checkliste
-Folgende Originalunterlagen müssen beim Closing übergeben werden: Klasse-Zertifikat; Delivery and Acceptance Certificate; Protokoll zur Übergabe von Bunker und Schmieröl; alle Schiffszertifikate (IOPP; IAPP; MLC; ISSC; BSH-Fahrterlaubnis); Logbücher; technische Handbücher. Kopien werden bei der abgebenden Reederei archiviert.
-
-## Nachsorge nach dem Closing
-Nach dem Closing: Neuanmeldung beim Flaggenregister; Beantragung neuer DOC beim ISM-Code-Unternehmen; MLC-Erneuerung; P&I-Club-Eintritt des Käufers; Benachrichtigung aller Charterer und Hafenbehörden über den Eigentümerwechsel. Closing-Memo erstellen mit Datum; Kaufpreis; alle übergebenen Dokumente; Beteiligten.
-
-## Checkliste Closing-Vorbereitung
-- [ ] Ablösebeträge aller Hypothekengläubiger angefordert; Stichtag fixiert
-- [ ] Löschungsbewilligungen (SchRG § 19) von allen Gläubigern vorliegend
-- [ ] Escrow-Konto eingerichtet; Escrow-Agent benannt
-- [ ] Eigentumsübergang (SchRG § 2) und Hypothekenlöschung zeitlich koordiniert
-- [ ] Alle Zertifikate (Klasse; ISM/DOC/SMC; MLC/DMLC; ISSC; BSH) auf neuen Eigentümer vorbereitet
-- [ ] P&I-Club-Eintritt des Käufers bestätigt
-- [ ] Delivery and Acceptance Certificate vorbereitet
-- [ ] Registerauszug nach Closing beauftragt
-- [ ] Closing-Memo-Vorlage bereitgestellt
-
-## Relevante Rechtsprechung
-- BGH zur Wirksamkeit des Eigentumsübergangs an Schiffen; Einigung und Eintragung als konstitutive Voraussetzungen.
-- OLG Hamburg zur Auslegung von Closing-Conditions in MOA-Verträgen; Delivery-Condition-Klauseln.
-- BGH zur Haftung des Verkäufers für nach Closing entstehende Schiffsgläubigerrechte; Freistellungspflicht.
-
-## Normen im Überblick
-- SchRG § 2: Eigentumsübergang durch Einigung und Eintragung; nicht durch Besitzübergabe.
-- SchRG § 19: Löschung der Hypothek; Form; Zeitpunkt; Wirkung.
-- SchRegO §§ 13-19: Eintragungsverfahren; Antragsteller; Fristen.
-- FlaggRG §§ 3-5: Berechtigung zur Flagge; Pflichten bei Eigentumsübergang.
-- ISM-Code Kap. 3: SMC-Gültigkeit und Neuausstellung nach Eigentümerwechsel.
-- MLC 2006 Reg. 5.1.3: Neuausstellung MLC-Zertifikat nach Eigentumsübergang und Flaggenwechsel.
-
-## Vertiefung Closing
-
-### Simultaneous Closing
-Das "simultaneous closing" (Zug-um-Zug-Abwicklung) ist bei Schiffsverkäufen mit Kreditfinanzierung Standard. Ablöse der Altfinanzierung; Neuhypothek für den Käufer; Eigentumsumschreibung; Kaufpreiszahlung — alles erfolgt zeitgleich über ein Escrow-Konto.
-
-### Zertifikatsübergang
-Klasse- und ISM-Zertifikate bleiben nicht automatisch mit dem Schiff verbunden; sie sind personengebunden (SMC an den Reeder; DOC an den Betreiber). Der Käufer muss rechtzeitig seine eigene ISM-Zulassung (DOC) und das SMC für das Schiff beantragen.
-
-## Normen-Synopse Closing
-| Norm | Inhalt |
-|------|--------|
-| SchRG § 2 | Eigentumsübergang |
-| SchRG § 19 | Hypothekenlöschung |
-| FlaggRG § 3 | Flagge bei Eigentümerwechsel |
-| MLC Reg. 5.1.3 | MLC-Zertifikat |
-
-## Quellen
-- SchRG §§ 2/19: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
-- FlaggRG: https://www.gesetze-im-internet.de/flaggrg/
-- BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
-- SchRegO: https://dejure.org/gesetze/SchRegO
+- HGB §§ 476/477: https://dejure.org/gesetze/HGB/476.html
+- AStG §§ 7-14: https://www.gesetze-im-internet.de/astg/__7.html
+- UNCLOS Art. 94: https://www.un.org/Depts/los/convention_agreements/texts/unclos/unclos_e.pdf
+- ISM-Code: https://www.bsh.de/DE/THEMEN/Schifffahrt/ISM_Code/ism_code_node.html
+- BFH: https://www.bfh.de
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Allgemein in US Copyright Act und Registrierung für deutsche Verlage geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: US Copyright Act und Registrierung für deutsche Verlage."
 ---
 
 # Allgemein

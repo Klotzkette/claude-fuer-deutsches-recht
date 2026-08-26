@@ -1,6 +1,6 @@
 ---
 name: jveg-zeugenentschaedigung
-description: "Wenn es um JVEG-Zeugenentschaedigung in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für JVEG-Zeugenentschädigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # JVEG-Zeugenentschaedigung

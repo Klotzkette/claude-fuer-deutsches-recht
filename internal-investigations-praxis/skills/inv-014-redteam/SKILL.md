@@ -1,6 +1,6 @@
 ---
 name: inv-014-redteam
-description: "Wenn es um Investigation Red-Team in Internal Investigations Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Investigation Red-Team: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Investigation Red-Team

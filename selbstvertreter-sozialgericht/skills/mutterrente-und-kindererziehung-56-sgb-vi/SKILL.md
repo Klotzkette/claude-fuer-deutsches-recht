@@ -1,6 +1,6 @@
 ---
 name: mutterrente-und-kindererziehung-56-sgb-vi
-description: "Wenn es um Mutterrente Und Kindererziehung 56 Sgb Vi in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mutterrente und Kindererziehung 56 SGB Vi: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mutterrente Und Kindererziehung 56 Sgb Vi

@@ -1,6 +1,6 @@
 ---
 name: baugruppen-gbr-beurkundung-mopeg-und-mabv-abgrenzung
-description: "Wenn es um Baugruppen-GbR, Beurkundung, MoPeG und MaBV-Abgrenzung in Bauträgervertrag-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Baugruppen-GbR, Beurkundung, MoPeG und MaBV-Abgrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Baugruppen-GbR, Beurkundung, MoPeG und MaBV-Abgrenzung

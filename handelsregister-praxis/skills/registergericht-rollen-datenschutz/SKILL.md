@@ -1,6 +1,6 @@
 ---
 name: registergericht-rollen-datenschutz
-description: "Wenn es um Rechtspfleger, Registerrichter, Geschäftsstelle in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Rechtspfleger, Registerrichter, Geschäftsstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Rechtspfleger, Registerrichter, Geschäftsstelle

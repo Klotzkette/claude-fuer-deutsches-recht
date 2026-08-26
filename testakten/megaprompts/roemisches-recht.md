@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 285 Skills (gekürzt für das Arbeitsfenster) des Plugins `roemisches-recht`.
+Diese Vollprüfung enthält top-8 von 281 Skills (gekürzt für das Arbeitsfenster) des Plugins `roemisches-recht`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Römisches Recht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet ko…
-2. **kaltstart-triage** — Wenn es um Römisches Recht - Allgemeiner Einstieg in Römisches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den …
-3. **interdictum-fraudatorium-und-restitutio-in-integrum** — Wenn es um Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum in Römisches Recht geht: prüft Frist, Form, Zustä…
-4. **testamentum-per-aes-et-libram-mancipationstestament** — Wenn es um Rom 143 Testamentum Per Aes Et Libram Mancipationstestament in Römisches Recht geht: prüft Frist, Form, Zustä…
-5. **tutela-fiduciaria-und-pflegevormundschaft-vermoegen** — Wenn es um Rom 140 Tutela Fiduciaria Und Pflegevormundschaft Vermögen in Römisches Recht geht: prüft Frist, Form, Zustän…
-6. **buergschaftstypen-sponsio-fidepromissio-fideiussio** — Wenn es um Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio in Römisches Recht geht: prüft Frist, Form, Zustän…
-7. **konkursrechtliche-stellung-des-magister-bonorum** — Wenn es um Rom 119 Konkursrechtliche Stellung Des Magister Bonorum in Römisches Recht geht: prüft Frist, Form, Zuständig…
-8. **testamentum-praetorium-tabulae-septies-signatae** — Wenn es um Rom 144 Testamentum Praetorium Tabulae Septies Signatae in Römisches Recht geht: prüft Frist, Form, Zuständig…
+2. **kaltstart-triage** — Für Römisches Recht - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit R…
+3. **rom-neu-029-zwoelftafeln-heutiger-didaktik-ohne-scheinsicherheit** — Für Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit: ordnet Norm, Beweislast und Gegenargume…
+4. **rom-neu-002-zwoelftafelgesetz-textzeugen-rekonstruktion-vorsicht** — Für Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht: ordnet Norm, Beweislast und Gegenargument;…
+5. **rom-neu-020-rezeption-deutschland-rkg-usus-modernus** — Für Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus: ordnet Norm, Beweislast und Gegenar…
+6. **002-zwoelftafelgesetz-textzeugen** — Für Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht: ordnet Norm, Beweislast und Gegenargument;…
+7. **020-rezeption-deutschland** — Für Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus: ordnet Norm, Beweislast und Gegenar…
+8. **029-zwoelftafelrecht-heutiger** — Für Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit: ordnet Norm, Beweislast und Gegenargume…
 
 ---
 
@@ -140,7 +140,7 @@ Ausgangspunkt für dieses Plugin: Bearbeiter für Textzeuge, Fassung, Übersetzu
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Römisches Recht - Allgemeiner Einstieg in Römisches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Römisches Recht - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Römisches Recht - Allgemeiner Einstieg
 
@@ -202,315 +202,248 @@ Lateinische Maximen nie unbesehen als geltendes Recht zitieren — 'pacta sunt s
 
 ---
 
-## Skill: `interdictum-fraudatorium-und-restitutio-in-integrum`
+## Skill: `rom-neu-029-zwoelftafeln-heutiger-didaktik-ohne-scheinsicherheit`
 
-_Wenn es um Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Interdictum Fraudatorium Und Restitutio In Integrum; Arbeitsfeld: Römisches Recht._
+_Für Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisches Recht. Route: rom-neu-029-zwoelftafeln-heutiger-didaktik-ohne-scheinsicherheit._
 
-# Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum
+# Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit
 
-## Arbeitsweg
+## Aufgabe
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Skill bearbeitet **Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit** im Bereich **Römisches Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
-## Interdictum fraudatorium
+## Kaltstart in 6 Fragen
 
-- Praetorisches Eilinstrument zur Sicherung des Status quo.
-- Inhalt: der Praetor verbietet dem Empfaenger des fraudulenten Vermögens die weitere Verfuegung.
-- D. 42.8 ergaenzt um diese Verfahrensseite.
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
-## Restitutio in integrum
+## Prüfprogramm
 
-- "Wiedereinsetzung in den vorigen Stand".
-- Praetorisches Gesamtinstitut, das den Schuldigen oder Geschaedigten in seinen vorherigen Vermögenszustand zurueckversetzt.
-- Faelle: minderjaehriger Vertragspartner (ob aetatem), arglistige Taeuschung (ob dolum), Furcht (ob metum), Gläubigerbenachteiligung (ob fraudem).
-- D. 4.6 (De in integrum restitutionibus).
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Normtext und aktuelle Rechtsprechung live prüfen
+- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
+- Keine BeckRS- oder Literatur-Blindzitate
+- Ergebnis immer in Handlungsschritt übersetzen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
-## Verzahnung
+## Typische Fallen
 
-- Restitutio in integrum ob fraudem ist die uebergeordnete Lehre.
-- Actio Pauliana ist die spezifische Aktion für Gläubigeranfechtung.
-- Interdictum fraudatorium sichert den Anspruch waehrend der Verfahrensdauer.
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-## Vergleich zu modernem Recht
+## Output
 
-- Einstweilige Verfuegung nach §§ 935 ff. ZPO als Sicherungsinstrument.
-- Anfechtungsklage nach AnfG als Hauptverfahren.
-- Restitutio-Wirkung in § 143 InsO (Rueckgewaehrungsanspruch nach Insolvenzanfechtung).
-
-## Prüfraster
-
-1. Welches Instrument einschlaegig?
-2. Schutzbedarf wegen Vermögensentzug?
-3. Beweislage hinreichend?
-
----
-
-## Skill: `testamentum-per-aes-et-libram-mancipationstestament`
-
-_Wenn es um Rom 143 Testamentum Per Aes Et Libram Mancipationstestament in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Testamentum Per Aes Et Libram Mancipationstestament; Arbeitsfeld: Römisches Recht._
-
-# Rom 143 Testamentum Per Aes Et Libram Mancipationstestament
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Rechtsquelle
-
-- Gaius, Institutiones II.103 ff.
-- D. 28.1.
-
-## Mancipationsritual
-
-- Beteiligte: testator, libripens (Waagehalter), 5 Zeugen, familiae emptor (Schein-Erbe), heres (eigentlicher Erbe).
-- Familiae emptor uebernimmt formal das Vermögen mit dem Treuhandauftrag (fiducia), es dem Erben nach Tod des Testators zu uebertragen.
-
-## Heredis institutio
-
-- Einsetzung des Erben.
-- Erforderlich im Eingang des Testaments.
-
-## Nuncupatio
-
-- Muendliche Bestaetigung des testamentum durch den testator.
-
-## Verdraengung
-
-- Praetorisches Tabula-Testament: 7 Zeugen siegeln das Testament; Nuncupatio entfaellt.
-- Justinian: Tabula-Testament mit 7 Zeugen, im Termin oder zerstreut möglich.
-
-## Vergleich zu modernem Recht
-
-- §§ 2229 ff. BGB Testament.
-- § 2247 BGB eigenhaendiges Testament.
-
-## Prüfraster
-
-1. Mancipationsritual eingehalten?
-2. Heredis institutio?
-3. Zeugen?
+- Memo
+- Checkliste
+- Mustertext
+- Fristenplan
+- Red-Team
 
 ---
 
-## Skill: `tutela-fiduciaria-und-pflegevormundschaft-vermoegen`
+## Skill: `rom-neu-002-zwoelftafelgesetz-textzeugen-rekonstruktion-vorsicht`
 
-_Wenn es um Rom 140 Tutela Fiduciaria Und Pflegevormundschaft Vermögen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tutela Fiduciaria Und Pflegevormundschaft Vermoegen; Arbeitsfeld: Römisches Recht._
+_Für Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisches Recht. Route: rom-neu-002-zwoelftafelgesetz-textzeugen-rekonstruktion-vorsicht._
 
-# Rom 140 Tutela Fiduciaria Und Pflegevormundschaft Vermögen
+# Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht
 
-## Arbeitsweg
+## Aufgabe
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Skill bearbeitet **Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht** im Bereich **Römisches Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
-## Tutela impuberum
+## Kaltstart in 6 Fragen
 
-- Vormundschaft für Minderjaehrige (impuberes) bis 14 Jahre (Knaben) / 12 Jahre (Maedchen).
-- Tutor verwaltet das Vermögen.
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
-## Tutela mulierum
+## Prüfprogramm
 
-- Vormundschaft für erwachsene Frauen (mulieres sui iuris).
-- Eingeschraenkt auf Vermögensverfuegungen (auctoritas).
-- Praktisch bedeutungslos ab dem Prinzipat.
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Normtext und aktuelle Rechtsprechung live prüfen
+- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
+- Keine BeckRS- oder Literatur-Blindzitate
+- Ergebnis immer in Handlungsschritt übersetzen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
-## Cura minorum
+## Typische Fallen
 
-- Pflegevormundschaft für 14-25-Jaehrige.
-- Optional.
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-## Actio tutelae
+## Output
 
-- Klage des Muendels gegen Tutor wegen Pflichtverletzung.
-- Actio tutelae directa: Muendel klagt gegen Tutor.
-- Actio tutelae contraria: Tutor klagt gegen Muendel auf Aufwendungsersatz.
-
-## Schutzbestimmungen
-
-- Verbot der Eigengeschaefte des Tutors mit dem Muendelvermoegen.
-- Hypothek auf das Vermögen des Tutors (tacita hypotheca) zugunsten des Muendels.
-
-## Vergleich zu modernem Recht
-
-- §§ 1773 ff. BGB Vormundschaft.
-- § 1837 BGB Genehmigung durch Vormundschaftsgericht.
-- § 1908i BGB Betreuung.
-
-## Prüfraster
-
-1. Tutela oder cura?
-2. Pflichtverletzung des Tutor?
-3. Klage?
+- Memo
+- Checkliste
+- Mustertext
+- Fristenplan
+- Red-Team
 
 ---
 
-## Skill: `buergschaftstypen-sponsio-fidepromissio-fideiussio`
+## Skill: `rom-neu-020-rezeption-deutschland-rkg-usus-modernus`
 
-_Wenn es um Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Buergschaftstypen Sponsio Fidepromissio Fideiussio; Arbeitsfeld: Römisches Recht._
+_Für Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisches Recht. Route: rom-neu-020-rezeption-deutschland-rkg-usus-modernus._
 
-# Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio
+# Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus
 
-## Arbeitsweg
+## Aufgabe
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Skill bearbeitet **Rezeption in Deutschland Reichskammergericht und Usus modernus** im Bereich **Römisches Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
-## Sponsio
+## Kaltstart in 6 Fragen
 
-- Aelteste Form, beschraenkt auf cives Romani.
-- Per stipulationem geschlossen.
-- Aktionierbar nur für Gläubiger gegen Buergen (sponsor).
-- Konnte nicht vererbt werden.
-- Geltung erloschen mit dem Tod des Hauptschuldners.
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
-## Fidepromissio
+## Prüfprogramm
 
-- Hellenistisch beeinflusste Form, offen für Peregrini.
-- Geringere Strenge.
-- Erhielt sich neben der sponsio.
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Normtext und aktuelle Rechtsprechung live prüfen
+- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
+- Keine BeckRS- oder Literatur-Blindzitate
+- Ergebnis immer in Handlungsschritt übersetzen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
-## Fideiussio
+## Typische Fallen
 
-- Klassische Form ab dem Prinzipat.
-- Offen für alle.
-- Vererbbar.
-- Galt nicht nur für Stipulations-Verbindlichkeiten.
-- Justinian machte fideiussio zur einzigen Standardform.
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-## Rechtsquelle
+## Output
 
-- Gaius, Institutiones III.115-127.
-- D. 46.1 (De fideiussoribus et mandatoribus).
-
-## Sonderbestimmungen
-
-- Lex Furia (limitierte Buergenzahl).
-- Lex Cicereia (Buergeninformation).
-- Lex Cornelia (limitierte Buergschaftshoehe).
-
-## Vergleich zu modernem Recht
-
-- §§ 765-778 BGB Buergschaft.
-- § 766 BGB Schriftform.
-- § 768 BGB Einreden der Buergen.
-
-## Prüfraster
-
-1. Welche Buergschaftsform?
-2. Welcher Personenkreis?
-3. Welche Akzessorietaetsfragen?
+- Memo
+- Checkliste
+- Mustertext
+- Fristenplan
+- Red-Team
 
 ---
 
-## Skill: `konkursrechtliche-stellung-des-magister-bonorum`
+## Skill: `002-zwoelftafelgesetz-textzeugen`
 
-_Wenn es um Rom 119 Konkursrechtliche Stellung Des Magister Bonorum in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Konkursrechtliche Stellung Des Magister Bonorum; Arbeitsfeld: Römisches Recht._
+_Für Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisches Recht. Route: 002-zwoelftafelgesetz-textzeugen._
 
-# Rom 119 Konkursrechtliche Stellung Des Magister Bonorum
+# Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht
 
-## Arbeitsweg
+## Quellenanker
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- **Tafel I (Ladung)** — si in ius vocat, ito — Selbsthilfe-geprägter Prozessbeginn
+- **Tafel III (Schuldvollstreckung)** — tertiis nundinis partis secanto — drastische Personalexekution (umstritten: wörtlich oder symbolisch)
+- **Tafel VIII** — Deliktstatbestände: membrum ruptum (Talion), os fractum (feste Bußen), iniuria (25 As)
+- **Cicero, de legibus 2.59** — Schulkinder lernten die XII Tafeln auswendig (carmen necessarium)
+- **Livius 3.32-37** — Decemvirat 451/450 v. Chr.; Überlieferungsrahmen mit Vorsicht
 
-## Magister bonorum
+## Kernregeln
 
-- Bestellt von den Gläubigern.
-- Hauptaufgabe: Vorbereitung und Durchfuehrung der bonorum venditio.
-- Klagebefugnis: actio Rutiliana, actio Serviana, actio utiles, actio Pauliana.
-- D. 42.5; Gaius IV.35.
+Die XII Tafeln (451/450 v. Chr.) sind kein Gesetzbuch, sondern punktuelle Fixierung umstrittenen Gewohnheitsrechts — Prozessrecht, Vollstreckung, Familien-, Erb-, Nachbar- und Deliktsrecht in knappen Imperativen. Kein Originaltext erhalten: Rekonstruktion aus Zitaten bei Cicero, Gellius, Festus und den Juristen — jede moderne Tafel-Nummerierung ist Konvention (Standardrekonstruktion: Schöll/FIRA). Vorformen italischen Rechts (etruskisch, oskisch — tabula Bantina, faliskisch) sind epigraphisch greifbar und zeigen: Rom war Teil einer italischen Rechtskoine. Pompejis Wände (Wahlaufrufe, Geschäftsurkunden des Iucundus) liefern Alltagsrechtspraxis.
 
-## Curator bonorum
+## Moderne Parallele
 
-- Bestellt vom Praetor.
-- Hauptaufgabe: Verwaltung des Vermögens bei bonorum distractio.
-- Verwaltungsbefugnisse weitergehend als der magister, weil Einzelverkauf laenger dauert.
-- D. 42.7.
+Methodisch wie heute mit fragmentarischer Überlieferung umgehen: Rekonstruktionsgrad stets offenlegen (gesichert / wahrscheinlich / spekulativ), Zitierkonvention nennen. Wer 'Tafel 8.4' zitiert, zitiert eine moderne Hypothese — wie bei jeder kritischen Edition.
 
-## Vergleich zum modernen Insolvenzverwalter
+## Typische Fehler
 
-- §§ 56 ff. InsO Bestellung durch Insolvenzgericht.
-- Verwaltungs- und Verfuegungsbefugnis § 80 InsO.
-- Klagebefugnis für Insolvenzanfechtung § 129 ff. InsO.
-- Strukturparallel zum curator bonorum.
+XII-Tafel-Sätze nicht als wörtliche Zitate ausgeben, wenn nur der Inhalt bezeugt ist; die Nummerierung nicht für antik halten. Und Livius' Erzählung vom Decemvirat ist Literatur, keine Urkunde.
 
-## Vertretungsbefugnis
+## Arbeitsweise
 
-- Pro creditoribus bei magister.
-- Pro debitore et creditoribus bei curator (treuhaenderisch).
-
-## Prüfraster
-
-1. Welche Person und Funktion?
-2. Welche Befugnisse?
-3. Welche Aktionen stehen zur Verfuegung?
-4. Quellenmatrix.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.
 
 ---
 
-## Skill: `testamentum-praetorium-tabulae-septies-signatae`
+## Skill: `020-rezeption-deutschland`
 
-_Wenn es um Rom 144 Testamentum Praetorium Tabulae Septies Signatae in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Testamentum Praetorium Tabulae Septies Signatae; Arbeitsfeld: Römisches Recht._
+_Für Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisches Recht. Route: 020-rezeption-deutschland._
 
-# Rom 144 Testamentum Praetorium Tabulae Septies Signatae
+# Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus
 
-## Arbeitsweg
+## Quellenanker
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- **Accursius, Glossa ordinaria (ca. 1230)** — Standardglosse: quicquid non agnoscit glossa, non agnoscit curia
+- **Bartolus de Saxoferrato (1313-1357)** — Kommentatoren: nemo iurista nisi Bartolista — Praxisanpassung des römischen Rechts
+- **Reichskammergerichtsordnung 1495** — Rezeption: Urteil 'nach des Reichs gemeinen Rechten'
+- **Windscheid, Pandektenrecht (1862 ff.)** — Pandektistik: Anspruchsbegriff, Rechtsgeschäftslehre — direkte BGB-Vorlage
 
-## Rechtsquelle
+## Kernregeln
 
-- Praetorisches Edikt (de bonorum possessione secundum tabulas).
-- D. 37.11 (De bonorum possessione contra tabulas).
-- Gaius, Institutiones II.119-122.
+Wirkungsgeschichte in Stufen: Glossatoren (Bologna, ab ca. 1100) erschließen den wiederentdeckten Digestentext philologisch (Glossen, Summen); Kommentatoren (Bartolus, Baldus) machen ihn praxistauglich (Statutentheorie als IPR-Geburt, Handelsrecht); mos italicus (praktisch) vs. mos gallicus (humanistisch-historisch, Cujas) markieren den Methodenstreit des 16. Jh.; usus modernus pandectarum wendet selektiv an ('heutiger Gebrauch'); Pandektenwissenschaft des 19. Jh. (Savigny, Puchta, Windscheid) baut das Begriffssystem, das 1900 BGB wird. Kanonisches Recht steuert bei: pacta sunt servanda, Zinsverbot-Diskussion, Prozessrecht.
 
-## Tatbestand
+## Moderne Parallele
 
-- Testament in Form von tabulae (Wachstafeln).
-- 7 Zeugen siegeln.
-- Nuncupatio entfaellt.
+Das BGB ist geronnene Pandektistik: Rechtsgeschäft, Willenserklärung, Anspruch (§ 194), Trennungs- und Abstraktionsprinzip sind Wissenschaftsschöpfungen des 19. Jh. auf römischem Material. Wer BGB-AT versteht, liest Windscheid; wer Windscheid prüft, braucht die Digesten.
 
-## Bonorum possessio secundum tabulas
+## Typische Fehler
 
-- Praetor gewaehrt dem im Testament eingesetzten Erben die Vermögensbesitzbestaetigung, auch wenn die strenge zivilrechtliche Form fehlt.
-- "Praetorische Erbschaftseinweisung" mit Wirkung gegen alle ausser den iure civili-Erben.
+Rezeption nicht als 'Import 1495' datieren — sie war ein Jahrhunderte langer Prozess (Frühreseption über kirchliche Gerichte, Juristenausbildung). Und: 'römisch' im usus modernus heißt oft 'bartolistisch gefiltert', nicht klassisch.
 
-## Folge
+## Arbeitsweise
 
-- Praktische Aufweichung der Strenge des mancipationstestaments.
-- Testament als reine Urkundenform setzte sich durch.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.
 
-## Vergleich zu modernem Recht
+---
 
-- §§ 2231 ff. BGB.
-- § 2356 BGB Erbschein.
+## Skill: `029-zwoelftafelrecht-heutiger`
 
-## Prüfraster
+_Für Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisches Recht. Route: 029-zwoelftafelrecht-heutiger._
 
-1. Tabulae-Form?
-2. 7 Zeugen gesiegelt?
-3. Praetorische Bestaetigung erteilt?
+# Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit
+
+## Quellenanker
+
+- **Tafel I (Ladung)** — si in ius vocat, ito — Selbsthilfe-geprägter Prozessbeginn
+- **Tafel III (Schuldvollstreckung)** — tertiis nundinis partis secanto — drastische Personalexekution (umstritten: wörtlich oder symbolisch)
+- **Tafel VIII** — Deliktstatbestände: membrum ruptum (Talion), os fractum (feste Bußen), iniuria (25 As)
+- **Cicero, de legibus 2.59** — Schulkinder lernten die XII Tafeln auswendig (carmen necessarium)
+- **Livius 3.32-37** — Decemvirat 451/450 v. Chr.; Überlieferungsrahmen mit Vorsicht
+
+## Kernregeln
+
+Die XII Tafeln (451/450 v. Chr.) sind kein Gesetzbuch, sondern punktuelle Fixierung umstrittenen Gewohnheitsrechts — Prozessrecht, Vollstreckung, Familien-, Erb-, Nachbar- und Deliktsrecht in knappen Imperativen. Kein Originaltext erhalten: Rekonstruktion aus Zitaten bei Cicero, Gellius, Festus und den Juristen — jede moderne Tafel-Nummerierung ist Konvention (Standardrekonstruktion: Schöll/FIRA). Vorformen italischen Rechts (etruskisch, oskisch — tabula Bantina, faliskisch) sind epigraphisch greifbar und zeigen: Rom war Teil einer italischen Rechtskoine. Pompejis Wände (Wahlaufrufe, Geschäftsurkunden des Iucundus) liefern Alltagsrechtspraxis.
+
+## Moderne Parallele
+
+Methodisch wie heute mit fragmentarischer Überlieferung umgehen: Rekonstruktionsgrad stets offenlegen (gesichert / wahrscheinlich / spekulativ), Zitierkonvention nennen. Wer 'Tafel 8.4' zitiert, zitiert eine moderne Hypothese — wie bei jeder kritischen Edition.
+
+## Typische Fehler
+
+XII-Tafel-Sätze nicht als wörtliche Zitate ausgeben, wenn nur der Inhalt bezeugt ist; die Nummerierung nicht für antik halten. Und Livius' Erzählung vom Decemvirat ist Literatur, keine Urkunde.
+
+## Arbeitsweise
+
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.
 
 ---
 

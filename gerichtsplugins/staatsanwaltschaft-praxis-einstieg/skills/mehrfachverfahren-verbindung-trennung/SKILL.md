@@ -1,6 +1,6 @@
 ---
 name: mehrfachverfahren-verbindung-trennung
-description: "Wenn es um Mehrfachverfahren: Verbindung, Trennung und Übersicht in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Mehrfachverfahren: Verbindung, Trennung und Übersicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mehrfachverfahren: Verbindung, Trennung und Übersicht

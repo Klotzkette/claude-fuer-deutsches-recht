@@ -1,6 +1,6 @@
 ---
 name: prozessrecht-ago-1793
-description: "Wenn es um Pralr Prozessrecht Ago 1793 in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pralr Prozessrecht Ago 1793: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pralr Prozessrecht Ago 1793

@@ -1,6 +1,6 @@
 ---
 name: employment-creatives-fashion
-description: "Wenn es um Employment Creatives Fashion in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Employment Creatives Fashion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Employment Creatives Fashion

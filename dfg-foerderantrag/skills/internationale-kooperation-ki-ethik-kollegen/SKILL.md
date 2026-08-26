@@ -1,6 +1,6 @@
 ---
 name: internationale-kooperation-ki-ethik-kollegen
-description: "Wenn es um DFG: Internationale Kooperation in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Internationale Kooperation Ki Ethik Kollegen; Arbeitsfeld: DFG-Förderantrag."
+description: "Für DFG: Internationale Kooperation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: DFG-Förderantrag. Route: internationale-kooperation-ki-ethik-kollegen."
 ---
 
 # DFG: Internationale Kooperation

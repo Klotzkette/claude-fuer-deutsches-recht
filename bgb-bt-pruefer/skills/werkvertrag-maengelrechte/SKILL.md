@@ -1,6 +1,6 @@
 ---
 name: werkvertrag-maengelrechte
-description: "Wenn es um Werkvertrag Mängelrechte Paragrafen 633-638 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Werkvertrag Maengelrechte; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Werkvertrag Mängelrechte Paragrafen 633-638 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: werkvertrag-maengelrechte."
 ---
 
 # Werkvertrag Mängelrechte §§ 633-638 BGB

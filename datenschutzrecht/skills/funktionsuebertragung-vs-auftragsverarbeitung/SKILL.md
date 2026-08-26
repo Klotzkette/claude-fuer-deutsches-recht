@@ -1,6 +1,6 @@
 ---
 name: funktionsuebertragung-vs-auftragsverarbeitung
-description: "Wenn es um Funktionsuebertragung versus Auftragsverarbeitung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Funktionsübertragung versus Auftragsverarbeitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Funktionsuebertragung versus Auftragsverarbeitung

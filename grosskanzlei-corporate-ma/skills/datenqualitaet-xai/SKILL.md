@@ -1,6 +1,6 @@
 ---
 name: datenqualitaet-xai
-description: "Wenn es um Datenqualität und XAI-Qualitätskontrolle in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenqualität und XAI-Qualitätskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Datenqualität und XAI-Qualitätskontrolle

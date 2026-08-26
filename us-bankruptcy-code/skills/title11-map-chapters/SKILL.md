@@ -1,6 +1,6 @@
 ---
 name: title11-map-chapters
-description: "Wenn es um Title 11 Chapters Map in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Title 11 Chapters Map: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Title 11 Chapters Map

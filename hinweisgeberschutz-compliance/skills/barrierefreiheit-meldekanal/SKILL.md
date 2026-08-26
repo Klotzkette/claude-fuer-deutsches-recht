@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-meldekanal
-description: "Wenn es um Barrierefreiheit Meldekanal in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Barrierefreiheit Meldekanal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Barrierefreiheit Meldekanal

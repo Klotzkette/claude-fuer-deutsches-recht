@@ -1,6 +1,6 @@
 ---
 name: insolvenz-glaeubigerverhandlung-sanierung
-description: "Wenn es um Sanierungs-Verhandlung mit Gläubigern vor und in der Insolvenz nach StaRUG und InsO in Fachanwalt Insolvenz- und Sanierungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Sanierungs-Verhandlung mit Gläubigern vor und in der Insolvenz nach StaRUG und InsO: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Sanierungs-Verhandlung mit Gläubigern vor und in der Insolvenz nach StaRUG und InsO

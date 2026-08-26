@@ -1,6 +1,6 @@
 ---
 name: bodenreformland-akte-anfordern
-description: "Wenn es um Bodenreformland Akte Anfordern in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bodenreformland Akte Anfordern: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bodenreformland Akte Anfordern

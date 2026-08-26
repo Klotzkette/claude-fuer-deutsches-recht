@@ -1,6 +1,6 @@
 ---
 name: tradition-zivilrecht-subsumtionslehre
-description: "Wenn es um Tradition: Dokumentenmatrix, Lückenliste und Nachforderung in Jurastudium geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Tradition: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Tradition: Dokumentenmatrix, Lückenliste und Nachforderung

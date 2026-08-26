@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-sexueller-uebergriff-177-i-stgb
-description: "Wenn es um Sexueller Uebergriff nach Paragraf 177 Abs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sexueller Übergriff nach Paragraf 177 Abs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sexueller Uebergriff nach § 177 Abs

@@ -1,6 +1,6 @@
 ---
 name: see-024-schiffshypothek-arrest-vorbereiten
-description: "Wenn es um Schiffshypothek Arrest Vorbereiten in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiffshypothek Arrest Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiffshypothek Arrest Vorbereiten

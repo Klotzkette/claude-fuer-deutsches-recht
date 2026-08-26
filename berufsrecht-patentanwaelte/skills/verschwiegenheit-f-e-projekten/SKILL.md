@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-f-e-projekten
-description: "Wenn es um Verschwiegenheit F E Projekten in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verschwiegenheit F E Projekten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: verschwiegenheit in f and e projekten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

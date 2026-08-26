@@ -1,6 +1,6 @@
 ---
 name: lease-033-datenschutz-telematik-im-fahrzeugleasing
-description: "Wenn es um Leasingrecht: Datenschutz Telematik im Fahrzeugleasing in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Datenschutz Telematik im Fahrzeugleasing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Leasingrecht: Datenschutz Telematik im Fahrzeugleasing

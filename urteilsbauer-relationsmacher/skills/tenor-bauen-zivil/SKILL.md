@@ -1,6 +1,6 @@
 ---
 name: tenor-bauen-zivil
-description: "Wenn es um Tenor bauen Zivilurteil in Urteilsbauer und Relationsmacher geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Tenor bauen Zivilurteil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tenor bauen Zivilurteil

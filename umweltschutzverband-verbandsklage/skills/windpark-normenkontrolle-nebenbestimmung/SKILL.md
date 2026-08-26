@@ -1,6 +1,6 @@
 ---
 name: windpark-normenkontrolle-nebenbestimmung
-description: "Wenn es um Windpark Normenkontrolle Skizzieren in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Windpark Normenkontrolle Skizzieren: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Windpark Normenkontrolle Skizzieren

@@ -1,6 +1,6 @@
 ---
 name: lease-042-schieds-oder-gerichtsstand-leasing
-description: "Wenn es um Leasingrecht: Schieds- oder Gerichtsstand Leasing in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Schieds- oder Gerichtsstand Leasing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Schieds- oder Gerichtsstand Leasing

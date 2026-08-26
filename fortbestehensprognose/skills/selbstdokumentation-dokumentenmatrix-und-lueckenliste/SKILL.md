@@ -1,6 +1,6 @@
 ---
 name: selbstdokumentation-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Selbstdokumentation: Dokumentenmatrix, Lückenliste und Nachforderung in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Selbstdokumentation: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Selbstdokumentation: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: auslandsfactoring-import-export-two-factor-system
-description: "Wenn es um Auslandsfactoring Import Export Two-Factor-System in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Auslandsfactoring Import Export Two-Factor-System: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auslandsfactoring Import Export Two-Factor-System

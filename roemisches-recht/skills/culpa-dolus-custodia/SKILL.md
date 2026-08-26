@@ -1,6 +1,6 @@
 ---
 name: culpa-dolus-custodia
-description: "Wenn es um Culpa Dolus Custodia in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Culpa Dolus Custodia: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Culpa Dolus Custodia

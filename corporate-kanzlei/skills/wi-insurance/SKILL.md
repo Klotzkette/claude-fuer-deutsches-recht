@@ -1,6 +1,6 @@
 ---
 name: wi-insurance
-description: "Wenn es um W&I-Versicherung (Warranty & Indemnity Insurance) in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für W&I-Versicherung (Warranty & Indemnity Insurance): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # W&I-Versicherung (Warranty & Indemnity Insurance)

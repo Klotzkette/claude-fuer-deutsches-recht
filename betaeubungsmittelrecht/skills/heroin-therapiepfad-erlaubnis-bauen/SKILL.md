@@ -1,6 +1,6 @@
 ---
 name: heroin-therapiepfad-erlaubnis-bauen
-description: "Wenn es um Heroin Therapiepfad Prüfen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Heroin Therapiepfad Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betäubungsmittelrecht. Route: heroin-therapiepfad-erlaubnis-bauen."
 ---
 
 # Heroin Therapiepfad Prüfen

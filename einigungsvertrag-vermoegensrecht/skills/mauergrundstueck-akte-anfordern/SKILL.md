@@ -1,6 +1,6 @@
 ---
 name: mauergrundstueck-akte-anfordern
-description: "Wenn es um Mauergrundstueck Akte Anfordern in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mauergrundstück Akte Anfordern: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mauergrundstueck Akte Anfordern

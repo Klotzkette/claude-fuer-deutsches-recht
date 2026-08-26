@@ -1,6 +1,6 @@
 ---
 name: orientierung-selbstvertreter-amtsgericht
-description: "Wenn es um Orientierung: Sie wollen sich selbst vor dem Amtsgericht vertreten in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Orientierung: Sie wollen sich selbst vor dem Amtsgericht vertreten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Orientierung: Sie wollen sich selbst vor dem Amtsgericht vertreten

@@ -1,6 +1,6 @@
 ---
 name: internationales-geheimnisschutz
-description: "Wenn es um Internationales Geheimnisschutz in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internationales Geheimnisschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anwälte: internationales mandat und geheimnisschutz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

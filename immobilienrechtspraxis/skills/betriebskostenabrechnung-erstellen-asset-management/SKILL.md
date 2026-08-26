@@ -1,6 +1,6 @@
 ---
 name: betriebskostenabrechnung-erstellen-asset-management
-description: "Wenn es um Betriebskostenabrechnung erstellen in Immobilienrechtspraxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Betriebskostenabrechnung erstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebskostenabrechnung erstellen

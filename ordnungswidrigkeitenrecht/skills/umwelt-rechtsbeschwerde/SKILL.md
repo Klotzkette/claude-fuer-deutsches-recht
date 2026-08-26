@@ -1,6 +1,6 @@
 ---
 name: umwelt-rechtsbeschwerde
-description: "Wenn es um Umwelt Owi Rechtsbeschwerde Prüfen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umwelt Owi Rechtsbeschwerde Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Ordnungswidrigkeitenrecht. Route: umwelt-rechtsbeschwerde."
 ---
 
 # Umwelt Owi Rechtsbeschwerde Prüfen

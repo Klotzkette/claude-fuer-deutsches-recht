@@ -1,6 +1,6 @@
 ---
 name: rdg-fristen-form-und-zustaendigkeit
-description: "Wenn es um RDG: Fristen, Form, Zuständigkeit und Rechtsweg in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für RDG: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # RDG: Fristen, Form, Zuständigkeit und Rechtsweg

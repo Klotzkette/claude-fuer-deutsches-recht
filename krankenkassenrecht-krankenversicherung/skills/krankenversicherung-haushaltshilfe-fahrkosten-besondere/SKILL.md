@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-haushaltshilfe-fahrkosten-besondere
-description: "Prüft Haushaltshilfe und Fahrkosten nach Anspruchsweg, Behandlungsanlass, Haushaltsausfall, Mobilität und Beförderungsmittel. Erstellt bedarfsgerechte Anträge, Fahrtennachweise, Widersprüche und eine saubere Abgrenzung zu Pflege- und Rehaleistungen."
+description: "Prüft Haushaltshilfe und Fahrkosten nach Anspruchsweg, Behandlungsanlass, Haushaltsausfall, Mobilität und Beförderungsmittel."
 ---
 
 # Haushaltshilfe und Fahrkosten in besonderen Lebenslagen

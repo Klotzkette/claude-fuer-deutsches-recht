@@ -1,6 +1,6 @@
 ---
 name: reporting-pflichten
-description: "Wenn es um Berichtspflichten des Handelsvertreters nach Paragraf 86 Abs. 2 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Berichtspflichten des Handelsvertreters nach Paragraf 86 Abs. 2 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berichtspflichten des Handelsvertreters nach § 86 Abs. 2 HGB

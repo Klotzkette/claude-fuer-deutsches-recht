@@ -1,6 +1,6 @@
 ---
 name: inso-gesellschafterdarlehen-grundtatbestand
-description: "Wenn es um Gesellschafterdarlehen — Paragraf 135 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Inso Gesellschafterdarlehen Grundtatbestand; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Gesellschafterdarlehen — Paragraf 135 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Gesellschafterdarlehen — § 135 InsO

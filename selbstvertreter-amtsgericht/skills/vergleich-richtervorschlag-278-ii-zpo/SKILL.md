@@ -1,6 +1,6 @@
 ---
 name: vergleich-richtervorschlag-278-ii-zpo
-description: "Wenn es um Vergleich: Das Gericht schlaegt einen Vergleich vor — annehmen oder nicht? in selbstvertreter-amtsgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich: das Gericht schlägt einen Vergleich vor — annehmen oder nicht?: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleich: Das Gericht schlaegt einen Vergleich vor — annehmen oder nicht?

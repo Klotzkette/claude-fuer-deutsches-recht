@@ -1,6 +1,6 @@
 ---
 name: spezial-tabellarische-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Tabellarische: Livequellen- und Rechtsprechungscheck in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tabellarische: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tabellarische: Livequellen- und Rechtsprechungscheck

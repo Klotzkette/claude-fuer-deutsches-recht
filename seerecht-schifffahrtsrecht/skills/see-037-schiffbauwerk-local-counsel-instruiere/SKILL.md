@@ -1,6 +1,6 @@
 ---
 name: see-037-schiffbauwerk-local-counsel-instruiere
-description: "Wenn es um Schiffbauwerk Local Counsel Instruiere in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiffbauwerk Local Counsel Instruiere: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiffbauwerk Local Counsel Instruiere

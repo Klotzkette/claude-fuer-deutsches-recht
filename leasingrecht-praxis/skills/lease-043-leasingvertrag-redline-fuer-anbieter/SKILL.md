@@ -1,6 +1,6 @@
 ---
 name: lease-043-leasingvertrag-redline-fuer-anbieter
-description: "Wenn es um Leasingrecht: Leasingvertrag Redline für Anbieter in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Leasingvertrag Redline für Anbieter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Leasingvertrag Redline für Anbieter

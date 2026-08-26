@@ -1,6 +1,6 @@
 ---
 name: kammerbeschwerde-patentanwalt-organisationspflic
-description: "Wenn es um Kammerbeschwerde Patentanwalt Organisationspflic in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kammerbeschwerde Patentanwalt Organisationspflic: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: kammerbeschwerde patentanwalt - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

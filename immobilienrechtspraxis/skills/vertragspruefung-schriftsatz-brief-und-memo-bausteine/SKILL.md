@@ -1,6 +1,6 @@
 ---
 name: vertragspruefung-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Vertragspruefung: Schriftsatz-, Brief- und Memo-Bausteine in Immobilienrechtspraxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vertragsprüfung: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Vertragspruefung: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-baumassnahmen-und-sperrpausen
-description: "Wenn es um Baumaßnahmen und Sperrpausen im Schienennetz in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Baumaßnahmen und Sperrpausen im Schienennetz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Baumaßnahmen und Sperrpausen im Schienennetz

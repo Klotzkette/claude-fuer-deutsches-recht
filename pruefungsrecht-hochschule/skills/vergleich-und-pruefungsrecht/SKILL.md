@@ -1,6 +1,6 @@
 ---
 name: vergleich-und-pruefungsrecht
-description: "Wenn es um Vergleich Und Pruefungsrecht in Prüfungsrecht an Hochschulen und Universitäten geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich und Prüfungsrecht: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleich Und Pruefungsrecht

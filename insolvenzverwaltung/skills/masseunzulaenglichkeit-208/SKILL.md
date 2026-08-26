@@ -1,6 +1,6 @@
 ---
 name: masseunzulaenglichkeit-208
-description: "Wenn es um Anzeige der Masseunzulänglichkeit Paragraf 208 InsO in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anzeige der Masseunzulänglichkeit Paragraf 208 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anzeige der Masseunzulänglichkeit § 208 InsO

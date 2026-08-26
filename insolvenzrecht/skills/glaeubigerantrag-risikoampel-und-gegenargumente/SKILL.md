@@ -1,6 +1,6 @@
 ---
 name: glaeubigerantrag-risikoampel-und-gegenargumente
-description: "Wenn es um Gläubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gläubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Gläubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -46,3 +46,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Rechtsmissbrauch:** Antrag zur Erzwingung der Zahlung einer streitigen Forderung kann nach § 14 Abs. 1 Satz 2 InsO bzw. § 226 BGB als rechtsmissbräuchlich abgewiesen werden — Forderung nicht ernsthaft bestritten muss aber zwingend dargetan sein.
 - **Sicherheit § 14 Abs. 2 InsO:** Bei zurückgewiesenem Antrag haftet Antragsteller bei vorsätzlicher oder grob fahrlässiger Pflichtverletzung — Schadensersatzrisiko.
 - **Praxis:** Drei-Säulen-Verteidigung: (1) Forderung erschüttern, (2) Eröffnungsgrund bestreiten, (3) Eigenantrag mit Eigenverwaltung als Gegenstrategie (verhindert Fremdverwalter).
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-glaeubigerantrag-risikoampel-und-gegenargumente` beziehungsweise Glaeubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-glaeubigerantrag-risikoampel-und-gegenargumente.md).

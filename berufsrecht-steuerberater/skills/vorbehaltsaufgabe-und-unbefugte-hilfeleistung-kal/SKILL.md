@@ -1,6 +1,6 @@
 ---
 name: vorbehaltsaufgabe-und-unbefugte-hilfeleistung-kal
-description: "Wenn es um Vorbehaltsaufgabe Und Unbefugte Hilfeleistung Kal in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorbehaltsaufgabe und Unbefugte Hilfeleistung Kal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: vorbehaltsaufgabe und unbefugte hilfeleistung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: fristversaeumnis-wiedereinsetzung
-description: "Wenn es um Fristversaeumnis Wiedereinsetzung in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristversäumnis Wiedereinsetzung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Anwälte: fristversaeumnis und wiedereinsetzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

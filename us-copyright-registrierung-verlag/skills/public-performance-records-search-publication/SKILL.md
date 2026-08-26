@@ -1,6 +1,6 @@
 ---
 name: public-performance-records-search-publication
-description: "Wenn es um Public Performance, Display und Paragraf 110 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Public Performance, Display und Paragraf 110: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Public Performance, Display und § 110

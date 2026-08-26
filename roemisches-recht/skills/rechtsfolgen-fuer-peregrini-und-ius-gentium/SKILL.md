@@ -1,6 +1,6 @@
 ---
 name: rechtsfolgen-fuer-peregrini-und-ius-gentium
-description: "Wenn es um Rom 156 Rechtsfolgen Für Peregrini Und Ius Gentium in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom 156 Rechtsfolgen für Peregrini und Ius Gentium: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 156 Rechtsfolgen Für Peregrini Und Ius Gentium

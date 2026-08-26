@@ -1,6 +1,6 @@
 ---
 name: ip-an-weltraumerfindungen-an-bord
-description: "Wenn es um Weltraumrecht: IP an Weltraumerfindungen an Bord in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: IP an Weltraumerfindungen an Bord: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: IP an Weltraumerfindungen an Bord

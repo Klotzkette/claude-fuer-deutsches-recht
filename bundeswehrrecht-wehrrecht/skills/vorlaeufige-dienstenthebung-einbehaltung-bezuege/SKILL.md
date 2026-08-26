@@ -1,6 +1,6 @@
 ---
 name: vorlaeufige-dienstenthebung-einbehaltung-bezuege
-description: "Wenn es um Vorläufige Dienstenthebung und Einbehaltung von Bezügen in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorläufige Dienstenthebung und Einbehaltung von Bezügen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vorläufige Dienstenthebung und Einbehaltung von Bezügen

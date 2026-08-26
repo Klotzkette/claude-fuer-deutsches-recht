@@ -1,6 +1,6 @@
 ---
 name: technokratie-industriegesellschaft-und-grundrechte
-description: "Wenn es um Technokratie Industriegesellschaft Und Grundrechte in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Technokratie Industriegesellschaft und Grundrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung.

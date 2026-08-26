@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-red-team-runde
-description: "Wenn es um HOAI Querschnitt: Sucht fehler in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für HOAI Querschnitt: Sucht fehler: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # HOAI Querschnitt: Sucht fehler

@@ -1,6 +1,6 @@
 ---
 name: lieferzeiten-verfuegbarkeit-dropshipping
-description: "Wenn es um Lieferzeiten Verfügbarkeit Dropshipping in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Lieferzeiten Verfügbarkeit Dropshipping: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lieferzeiten Verfügbarkeit Dropshipping

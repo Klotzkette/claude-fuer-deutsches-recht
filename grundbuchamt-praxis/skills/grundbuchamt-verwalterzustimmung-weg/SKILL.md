@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-verwalterzustimmung-weg
-description: "Wenn es um WEG-Verwalterzustimmung in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für WEG-Verwalterzustimmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # WEG-Verwalterzustimmung

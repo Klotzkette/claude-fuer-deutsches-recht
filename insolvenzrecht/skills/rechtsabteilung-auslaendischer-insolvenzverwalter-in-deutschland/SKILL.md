@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-auslaendischer-insolvenzverwalter-in-deutschland
-description: "Wenn es um Rechtsabteilung: Ausländischer Insolvenzverwalter in Deutschland in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsabteilung: Ausländischer Insolvenzverwalter in Deutschland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsabteilung: Ausländischer Insolvenzverwalter in Deutschland

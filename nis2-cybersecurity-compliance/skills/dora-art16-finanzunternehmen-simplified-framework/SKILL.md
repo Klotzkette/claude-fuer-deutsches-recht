@@ -1,6 +1,6 @@
 ---
 name: dora-art16-finanzunternehmen-simplified-framework
-description: "Wenn es um DORA Artikel 16 für Finanzunternehmen in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für DORA Artikel 16 für Finanzunternehmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DORA Artikel 16 für Finanzunternehmen

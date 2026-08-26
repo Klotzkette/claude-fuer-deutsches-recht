@@ -1,6 +1,6 @@
 ---
 name: sozialer-humanoider-roboter
-description: "Wenn es um Sozialer humanoider Roboter in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sozialer humanoider Roboter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sozialer humanoider Roboter

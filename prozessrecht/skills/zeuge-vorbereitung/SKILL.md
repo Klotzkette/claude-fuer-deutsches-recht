@@ -1,6 +1,6 @@
 ---
 name: zeuge-vorbereitung
-description: "Wenn es um Zeugenvernehmung-Vorbereitung in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zeugenvernehmung-Vorbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zeugenvernehmung-Vorbereitung

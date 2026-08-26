@@ -1,6 +1,6 @@
 ---
 name: anschluss-router
-description: "Wenn es um Kanzlei-Builder-Hub — Allgemein in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kanzlei-Builder-Hub — Allgemein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kanzlei-Builder-Hub — Allgemein

@@ -1,6 +1,6 @@
 ---
 name: powerpoint-verwurstung-zu-text
-description: "Wenn es um Powerpoint-Verwurstung zu Text in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Powerpoint-Verwurstung zu Text: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Powerpoint-Verwurstung zu Text

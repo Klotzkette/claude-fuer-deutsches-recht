@@ -1,6 +1,6 @@
 ---
 name: irrefuehrende-systemwerbung-und-franchise-sales
-description: "Wenn es um Franchise: Irreführende Systemwerbung und Franchise Sales in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Franchise: Irreführende Systemwerbung und Franchise Sales: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise: Irreführende Systemwerbung und Franchise Sales

@@ -1,6 +1,6 @@
 ---
 name: konzentrationsrisiken-debitorenlimit-und-portfolio-covenants
-description: "Wenn es um Konzentrationsrisiken Debitorenlimit und Portfolio Covenants in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Konzentrationsrisiken Debitorenlimit und Portfolio Covenants: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konzentrationsrisiken Debitorenlimit und Portfolio Covenants

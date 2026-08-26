@@ -1,6 +1,6 @@
 ---
 name: fuehren-interessen-mappen-nachfrage
-description: "Wenn es um Fuehren: Mehrparteienkonflikt und Interessenmatrix in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Führen: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fuehren: Mehrparteienkonflikt und Interessenmatrix

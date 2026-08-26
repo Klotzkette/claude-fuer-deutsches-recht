@@ -1,6 +1,6 @@
 ---
 name: kfz-haftpflicht-kasko-grobe-krankentagegeld
-description: "Wenn es um Kfz-Haftpflicht: Regress bei Alkohol, Flucht, Obliegenheit in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kfz-Haftpflicht: Regress bei Alkohol, Flucht, Obliegenheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kfz-Haftpflicht: Regress bei Alkohol, Flucht, Obliegenheit

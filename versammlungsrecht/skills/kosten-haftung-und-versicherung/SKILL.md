@@ -1,6 +1,6 @@
 ---
 name: kosten-haftung-und-versicherung
-description: "Wenn es um Kosten nicht überschätzen, Haftung nicht ignorieren in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kosten nicht überschätzen, Haftung nicht ignorieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kosten nicht überschätzen, Haftung nicht ignorieren

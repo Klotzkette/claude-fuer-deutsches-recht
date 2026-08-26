@@ -1,6 +1,6 @@
 ---
 name: buergschaft-verbraucherdarlehen-und-andere-strenge-formen
-description: "Wenn es um Bürgschaft, Verbraucherdarlehen und andere strenge Formen in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgschaft, Verbraucherdarlehen und andere strenge Formen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bürgschaft, Verbraucherdarlehen und andere strenge Formen

@@ -1,6 +1,6 @@
 ---
 name: wandelereignis-trigger-wandlung-kommunikation
-description: "Wenn es um Master-Dispatcher Wandelereignis in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Master-Dispatcher Wandelereignis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Master-Dispatcher Wandelereignis

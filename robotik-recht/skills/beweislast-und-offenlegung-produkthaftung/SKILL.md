@@ -1,6 +1,6 @@
 ---
 name: beweislast-und-offenlegung-produkthaftung
-description: "Wenn es um Beweislast und Offenlegung in der Robotik-Produkthaftung in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Beweislast und Offenlegung in der Robotik-Produkthaftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweislast und Offenlegung in der Robotik-Produkthaftung

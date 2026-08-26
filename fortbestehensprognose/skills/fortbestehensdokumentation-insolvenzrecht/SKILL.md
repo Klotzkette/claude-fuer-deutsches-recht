@@ -1,6 +1,6 @@
 ---
 name: fortbestehensdokumentation-insolvenzrecht
-description: "Wenn es um Fortbestehensdokumentation mit insolvenzrechtlicher Tragfähigkeit in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Fortbestehensdokumentation mit insolvenzrechtlicher Tragfähigkeit: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fortbestehensdokumentation mit insolvenzrechtlicher Tragfähigkeit

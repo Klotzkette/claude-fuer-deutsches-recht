@@ -1,6 +1,6 @@
 ---
 name: autobahnprojekt-risiko-kontrolle-sichern
-description: "Wenn es um Autobahnprojekt Risiko Verteilen in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Autobahnprojekt Risiko Verteilen: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Autobahnprojekt Risiko Verteilen

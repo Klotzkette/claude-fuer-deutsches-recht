@@ -1,6 +1,6 @@
 ---
 name: fremdgeschaeftsfuehrer-gmbh-geringfuegigkeit
-description: "Wenn es um Fremdgeschäftsführer GmbH in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fremdgeschäftsführer GmbH: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fremdgeschäftsführer GmbH

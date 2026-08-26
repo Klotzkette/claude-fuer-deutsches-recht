@@ -1,6 +1,6 @@
 ---
 name: informationspflichten-vertragsschluss
-description: "Wenn es um Informationspflichten vor Vertragsschluss Art. 246a EGBGB in E-Commerce-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Informationspflichten vor Vertragsschluss Art. 246a EGBGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Informationspflichten vor Vertragsschluss Art. 246a EGBGB

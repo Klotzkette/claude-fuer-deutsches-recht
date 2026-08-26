@@ -1,6 +1,6 @@
 ---
 name: forschungsdaten-und-open-science
-description: "Wenn es um Forschungsdaten Und Open Science in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Forschungsdaten und Open Science: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forschungsdaten Und Open Science

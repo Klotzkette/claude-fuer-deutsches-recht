@@ -1,6 +1,6 @@
 ---
 name: werbung-und-amtsbezeichnung-rechtsprechungscheck
-description: "Wenn es um Werbung Und Amtsbezeichnung Rechtsprechungscheck in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Werbung und Amtsbezeichnung Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: werbung und amtsbezeichnung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

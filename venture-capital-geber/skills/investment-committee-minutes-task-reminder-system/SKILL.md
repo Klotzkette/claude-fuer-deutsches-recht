@@ -1,6 +1,6 @@
 ---
 name: investment-committee-minutes-task-reminder-system
-description: "Wenn es um Investment Committee Minutes in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Investment Committee Minutes: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Investment Committee Minutes

@@ -1,6 +1,6 @@
 ---
 name: versorgungswerk-befreiung-rentenantrag
-description: "Wenn es um versorgungswerk-befreiung-6-sgb-vi in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für versorgungswerk-befreiung-6-SGB-vi: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # versorgungswerk-befreiung-6-sgb-vi

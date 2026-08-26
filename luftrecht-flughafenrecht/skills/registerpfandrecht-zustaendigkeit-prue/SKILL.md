@@ -1,6 +1,6 @@
 ---
 name: registerpfandrecht-zustaendigkeit-prue
-description: "Wenn es um Registerpfandrecht – Zuständigkeit prüfen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Registerpfandrecht – Zuständigkeit prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registerpfandrecht – Zuständigkeit prüfen

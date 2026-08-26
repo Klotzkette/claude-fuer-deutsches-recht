@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-lasten
-description: "Wenn es um Öffentliche Lasten und grundstücksbezogene Abgaben in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Öffentliche Lasten und grundstücksbezogene Abgaben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Öffentliche Lasten und grundstücksbezogene Abgaben

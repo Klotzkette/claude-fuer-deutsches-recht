@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Wenn es um JVEG-Kostenpruefer — Allgemein in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für JVEG-Kostenprüfer — Allgemein: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # JVEG-Kostenpruefer — Allgemein

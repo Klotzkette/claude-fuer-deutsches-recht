@@ -1,6 +1,6 @@
 ---
 name: prokura-paragraphen-48-53-hgb
-description: "Wenn es um Prokura Paragrafen 48-53 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prokura Paragrafen 48-53 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prokura §§ 48-53 HGB

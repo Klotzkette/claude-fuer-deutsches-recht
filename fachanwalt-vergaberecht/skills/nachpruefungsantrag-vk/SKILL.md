@@ -1,6 +1,6 @@
 ---
 name: nachpruefungsantrag-vk
-description: "Wenn es um Nachprüfungsantrag bei der Vergabekammer nach Paragrafen 160 ff in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Nachprüfungsantrag bei der Vergabekammer nach Paragrafen 160 ff: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Nachprüfungsantrag bei der Vergabekammer nach §§ 160 ff

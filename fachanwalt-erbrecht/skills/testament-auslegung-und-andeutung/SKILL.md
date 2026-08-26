@@ -1,6 +1,6 @@
 ---
 name: testament-auslegung-und-andeutung
-description: "Wenn es um Testament Auslegung Und Andeutung in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Testament Auslegung und Andeutung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Testamentsauslegung: Andeutung, Erblasserwille, Wortlautgrenzen, laienhafte Begriffe und Beweisquellen.

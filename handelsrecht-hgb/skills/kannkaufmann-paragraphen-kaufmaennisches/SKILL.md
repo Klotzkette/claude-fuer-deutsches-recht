@@ -1,6 +1,6 @@
 ---
 name: kannkaufmann-paragraphen-kaufmaennisches
-description: "Wenn es um Kannkaufmann Paragrafen 2. 3 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kannkaufmann Paragrafen 2. 3 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kannkaufmann §§ 2, 3 HGB

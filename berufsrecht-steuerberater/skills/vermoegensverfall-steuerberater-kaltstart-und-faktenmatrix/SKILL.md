@@ -1,6 +1,6 @@
 ---
 name: vermoegensverfall-steuerberater-kaltstart-und-faktenmatrix
-description: "Wenn es um Vermoegensverfall Steuerberater Kaltstart Und Faktenmatrix in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vermögensverfall Steuerberater Kaltstart und Faktenmatrix: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: vermögensverfall steuerberater - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

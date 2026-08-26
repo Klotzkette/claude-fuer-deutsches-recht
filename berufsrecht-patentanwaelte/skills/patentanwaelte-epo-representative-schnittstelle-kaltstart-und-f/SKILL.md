@@ -1,6 +1,6 @@
 ---
 name: patentanwaelte-epo-representative-schnittstelle-kaltstart-und-f
-description: "Wenn es um Patentanwaelte Epo Representative Schnittstelle Kaltstart Und F in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Patentanwälte Epo Representative Schnittstelle Kaltstart und F: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: epo representative schnittstelle - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

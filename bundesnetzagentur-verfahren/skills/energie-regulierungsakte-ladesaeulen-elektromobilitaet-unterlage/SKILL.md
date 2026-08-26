@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-ladesaeulen-elektromobilitaet-unterlage
-description: "Wenn es um Energie-Regulierungsakte: Ladesäulen Elektromobilität — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: Ladesäulen Elektromobilität — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Energie-Regulierungsakte: Ladesäulen Elektromobilität — Unterlagenanforderung

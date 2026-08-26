@@ -1,6 +1,6 @@
 ---
 name: vergaberechtliche-vorpruefung
-description: "Wenn es um Vergaberechtliche Vorpruefung in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vergaberechtliche Vorprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Vergaberechtliche Vorpruefung

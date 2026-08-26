@@ -1,6 +1,6 @@
 ---
 name: stakeholder-zusammenfassung
-description: "Wenn es um Mandantenzusammenfassung Vertragsrecht in Vertragsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mandantenzusammenfassung Vertragsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandantenzusammenfassung Vertragsrecht

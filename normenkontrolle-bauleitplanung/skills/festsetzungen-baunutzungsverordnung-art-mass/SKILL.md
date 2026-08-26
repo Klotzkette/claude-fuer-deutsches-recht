@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-baunutzungsverordnung-art-mass
-description: "Wenn es um BauNVO: Art und Maß der baulichen Nutzung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für BauNVO: Art und Maß der baulichen Nutzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BauNVO: Art und Maß der baulichen Nutzung

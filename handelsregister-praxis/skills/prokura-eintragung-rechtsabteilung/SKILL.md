@@ -1,6 +1,6 @@
 ---
 name: prokura-eintragung-rechtsabteilung
-description: "Wenn es um Prokura anmelden und löschen in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prokura anmelden und löschen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prokura anmelden und löschen

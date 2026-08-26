@@ -1,6 +1,6 @@
 ---
 name: exporteur-deutschland-nach-china
-description: "Wenn es um Exporteur Deutschland nach China: Exportkontrolle und Genehmigungen in China-Wirtschaftsverkehr geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Exporteur Deutschland nach China: Exportkontrolle und Genehmigungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Exporteur Deutschland nach China: Exportkontrolle und Genehmigungen

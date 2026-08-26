@@ -1,6 +1,6 @@
 ---
 name: treuepflicht-geheimhaltung-und-datenraum
-description: "Wenn es um Treuepflicht Geheimhaltung Und Datenraum in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Treuepflicht Geheimhaltung und Datenraum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuepflicht Geheimhaltung Und Datenraum

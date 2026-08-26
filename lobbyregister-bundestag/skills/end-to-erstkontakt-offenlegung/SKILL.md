@@ -1,6 +1,6 @@
 ---
 name: end-to-erstkontakt-offenlegung
-description: "Wenn es um End-to-End Registrierungswizard in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für End-to-End Registrierungswizard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # End-to-End Registrierungswizard

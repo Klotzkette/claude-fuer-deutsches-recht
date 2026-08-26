@@ -1,6 +1,6 @@
 ---
 name: nis2-quellenkarte
-description: "Wenn es um Nis2 Quellenkarte in Fachanwalt It Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Nis2 Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nis2 Quellenkarte

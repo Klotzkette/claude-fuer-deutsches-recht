@@ -1,6 +1,6 @@
 ---
 name: planablehnung-und-naechster-schritt
-description: "Wenn es um Planablehnung Und Naechster Schritt in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Planablehnung und Nächster Schritt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen.

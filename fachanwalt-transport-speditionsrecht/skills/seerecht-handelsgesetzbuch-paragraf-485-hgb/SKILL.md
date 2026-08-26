@@ -1,6 +1,6 @@
 ---
 name: seerecht-handelsgesetzbuch-paragraf-485-hgb
-description: "Wenn es um Seerecht Handelsgesetzbuch Paragraf 485 HGB in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Seerecht Handelsgesetzbuch Paragraf 485 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Seerecht Handelsgesetzbuch § 485 HGB

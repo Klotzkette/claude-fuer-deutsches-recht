@@ -1,6 +1,6 @@
 ---
 name: youtube-uploader-paragraf-97-urhg-eugh-c-682-18
-description: "Prüft Urheberrechtsverletzungen durch Nutzeruploads und die Haftung von Plattform, Uploader und weiteren Beteiligten. Trennt Alt- und Neurecht, öffentliche Wiedergabe, UrhDaG, Kenntnis, Blockierung, Nutzerrechte, Auskunft und Schaden und liefert Notice, Klage und Verteidigung."
+description: "Prüft Urheberrechtsverletzungen durch Nutzeruploads und die Haftung von Plattform, Uploader und weiteren Beteiligten."
 ---
 
 # Plattformhaftung für Nutzeruploads prüfen

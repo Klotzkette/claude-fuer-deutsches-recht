@@ -1,6 +1,6 @@
 ---
 name: datenraum-dokumentenintake-aktenlog
-description: "Wenn es um Datenraum in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Datenraum: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Wirtschaftsprüfer."
 ---
 
 # Datenraum

@@ -1,6 +1,6 @@
 ---
 name: mehrarbeitsverguetung-88-bbg
-description: "Wenn es um Mehrarbeitsverguetung nach Paragraf 88 BBG in Beamtenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mehrarbeitsvergütung nach Paragraf 88 BBG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mehrarbeitsverguetung nach § 88 BBG

@@ -1,6 +1,6 @@
 ---
 name: agrar-tierhaltung-spezial-tieg
-description: "Wenn es um Agrar Tierhaltung Spezial Tieg in Fachanwalt Agrarrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Agrar Tierhaltung Spezial Tieg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Tierhaltung TierSchG, TierSchNutztV, BImSchG Genehmigung: Bestandsobergrenzen, Stallneubau, Umnutzung

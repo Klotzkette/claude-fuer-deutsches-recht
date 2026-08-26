@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-grenzbeschlagnahme-gegen-faelschungen
-description: "Wenn es um Rechtsabteilung: Grenzbeschlagnahme gegen Fälschungen in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Rechtsabteilung: Grenzbeschlagnahme gegen Fälschungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Grenzbeschlagnahme gegen Fälschungen

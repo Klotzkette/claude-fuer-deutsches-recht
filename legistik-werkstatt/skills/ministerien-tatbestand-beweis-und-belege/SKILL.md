@@ -1,6 +1,6 @@
 ---
 name: ministerien-tatbestand-beweis-und-belege
-description: "Wenn es um Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage

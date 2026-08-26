@@ -1,6 +1,6 @@
 ---
 name: fristversaeumnis-und-wiedereinsetzung-rechtsprechungsc
-description: "Wenn es um Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristversäumnis und Wiedereinsetzung Rechtsprechungsc: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Anwälte: fristversaeumnis und wiedereinsetzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

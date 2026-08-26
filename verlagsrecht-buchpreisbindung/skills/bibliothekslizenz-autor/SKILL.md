@@ -1,6 +1,6 @@
 ---
 name: bibliothekslizenz-autor
-description: "Wenn es um Verl-033 · Bibliothekslizenz, E-Lending und Zugriff in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-033 · Bibliothekslizenz, E-Lending und Zugriff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-033 · Bibliothekslizenz, E-Lending und Zugriff

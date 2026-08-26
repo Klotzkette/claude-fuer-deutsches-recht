@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-beweis-anlagen
-description: "Steuert vertrauliche Fassungen, Anlagenverzeichnis, Geschäftsgeheimnisse, Beweisangebote, Aktenauszüge und Schwärzungen in Verfahren vor Gerichtshof, Gericht und Beschwerdekammern. Aktivieren bei e-Curia-Einreichung, Art.-103-Vertraulichkeit, Interventionsakten, EUIPO-Folgewegen, Sicherheitsinformationen, Anlagenlücken oder Streit über Akteneinsicht."
+description: "Steuert vertrauliche Fassungen, Anlagenverzeichnis, Geschäftsgeheimnisse, Beweisangebote, Aktenauszüge und Schwärzungen in Verfahren vor Gerichtshof, Gericht und Beschwerdekammern."
 ---
 # Vertraulichkeit, Beweis und Anlagen
 

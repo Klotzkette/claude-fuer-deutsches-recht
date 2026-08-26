@@ -1,6 +1,6 @@
 ---
 name: schnittstellen-compliance-dokumentation-und-akte
-description: "Wenn es um Schnittstellen: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Bank Kapitalmarktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Schnittstellen: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Fachanwalt Bank Kapitalmarktrecht."
 ---
 
 # Schnittstellen: Compliance-Dokumentation und Aktenvermerk

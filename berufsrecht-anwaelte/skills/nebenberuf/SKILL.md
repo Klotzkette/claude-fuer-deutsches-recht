@@ -1,6 +1,6 @@
 ---
 name: nebenberuf
-description: "Wenn es um Nebenberuf in Berufsrecht Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Nebenberuf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Anwälte."
 ---
 
 # Nebenberuf

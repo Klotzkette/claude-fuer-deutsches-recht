@@ -1,6 +1,6 @@
 ---
 name: designg-behoerden-gericht-und-registerweg
-description: "Steuert nationale und unionsweite Designverfahren vom Registercheck über Anmeldung und Nichtigkeit bis zur Verletzungsklage. Trennt DPMA, EUIPO, Bundespatentgericht, EU-Gerichte und Designgerichte und liefert Fristenplan, Anträge, Belegmatrix und den nächsten verfahrensfesten Schritt."
+description: "Steuert nationale und unionsweite Designverfahren vom Registercheck über Anmeldung und Nichtigkeit bis zur Verletzungsklage."
 ---
 
 # 1. Designverfahren und Registerweg
@@ -89,3 +89,7 @@ Liefere in dieser Reihenfolge:
 - `eu-design-schutzumfang-gesamteindruck-pruefen` für den unionsweiten Gesamteindruck.
 - `designverletzung` für Anspruch und Verteidigung.
 - `spezial-designverletzung-red-team-und-qualitaetskontrolle` für den Gegenangriff vor Versand.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-designg-behoerden-gericht-und-registerweg` beziehungsweise Designg: Behörden-, Gerichts- oder Registerweg: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-designg-behoerden-gericht-und-registerweg.md).

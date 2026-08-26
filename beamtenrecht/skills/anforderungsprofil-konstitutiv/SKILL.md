@@ -1,6 +1,6 @@
 ---
 name: anforderungsprofil-konstitutiv
-description: "Wenn es um Anforderungsprofil — konstitutiv oder deklaratorisch in Beamtenrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Anforderungsprofil — konstitutiv oder deklaratorisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anforderungsprofil — konstitutiv oder deklaratorisch

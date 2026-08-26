@@ -1,6 +1,6 @@
 ---
 name: kv-007-heilmittel-physiotherapie-ergotherapie-und-genehmigung
-description: "Wenn es um Krankenversicherung: Heilmittel Physiotherapie Ergotherapie und Genehmigung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Heilmittel Physiotherapie Ergotherapie und Genehmigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Heilmittel Physiotherapie Ergotherapie und Genehmigung

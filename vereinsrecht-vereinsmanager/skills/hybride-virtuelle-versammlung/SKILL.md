@@ -1,6 +1,6 @@
 ---
 name: hybride-virtuelle-versammlung
-description: "Wenn es um Hybride und virtuelle Versammlung in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hybride und virtuelle Versammlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hybride und virtuelle Versammlung

@@ -1,6 +1,6 @@
 ---
 name: kuendigung-ordentlich
-description: "Wenn es um Kündigung Ordentlich in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kündigung Ordentlich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kündigung Ordentlich

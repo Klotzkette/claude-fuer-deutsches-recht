@@ -1,6 +1,6 @@
 ---
 name: tastatur-fokus-ueberwachungsstelle
-description: "Wenn es um Tastatur, Fokus, Navigation in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Tastatur, Fokus, Navigation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tastatur, Fokus, Navigation

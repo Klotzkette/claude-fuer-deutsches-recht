@@ -1,6 +1,6 @@
 ---
 name: eskalation-anwalt-amtsgericht
-description: "Wenn es um Eskalation: Anwalt und Amtsgericht in WEG- und Hausverwaltung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eskalation: Anwalt und Amtsgericht: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Eskalation: Anwalt und Amtsgericht

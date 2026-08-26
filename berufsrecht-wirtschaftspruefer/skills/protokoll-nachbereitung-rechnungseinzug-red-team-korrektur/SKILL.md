@@ -1,6 +1,6 @@
 ---
 name: protokoll-nachbereitung-rechnungseinzug-red-team-korrektur
-description: "Wenn es um Protokoll und Nachbereitung in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Protokoll und Nachbereitung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Berufsrecht Wirtschaftsprüfer."
 ---
 
 # Protokoll und Nachbereitung

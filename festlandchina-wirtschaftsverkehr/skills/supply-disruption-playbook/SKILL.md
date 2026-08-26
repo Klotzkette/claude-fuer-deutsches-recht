@@ -1,6 +1,6 @@
 ---
 name: supply-disruption-playbook
-description: "Wenn es um Supply-Disruption-Playbook China: Notfallprotokoll und Eskalation in China-Wirtschaftsverkehr geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Supply-Disruption-Playbook China: Notfallprotokoll und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Supply-Disruption-Playbook China: Notfallprotokoll und Eskalation

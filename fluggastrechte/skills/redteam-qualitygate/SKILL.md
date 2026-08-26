@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "Wenn es um Red-Team Qualitygate in Fluggastrechte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Redteam Qualitygate; Arbeitsfeld: Fluggastrechte."
+description: "Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Fluggastrechte. Route: redteam-qualitygate."
 ---
 
 # Red-Team Qualitygate

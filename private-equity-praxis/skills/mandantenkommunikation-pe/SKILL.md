@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation-pe
-description: "Wenn es um Mandantenkommunikation im PE-Deal in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandantenkommunikation im PE-Deal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Mandantenkommunikation im PE-Deal

@@ -1,6 +1,6 @@
 ---
 name: long-covid-krankengeld-aussteuerung-nahtlosigkeit
-description: "Wenn es um Long Covid Krankengeld Aussteuerung Nahtlosigkeit in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Long Covid Krankengeld Aussteuerung Nahtlosigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Long-Covid, Krankengeld und Aussteuerung: Arbeitsunfähigkeit, MD-Prüfung, Nahtlosigkeit, Reha-Antrag und Übergang in EM-Rente.

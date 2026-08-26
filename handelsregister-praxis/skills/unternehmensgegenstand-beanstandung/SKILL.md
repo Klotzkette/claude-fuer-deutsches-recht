@@ -1,6 +1,6 @@
 ---
 name: unternehmensgegenstand-beanstandung
-description: "Wenn es um Unternehmensgegenstand entwerfen in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unternehmensgegenstand entwerfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unternehmensgegenstand entwerfen

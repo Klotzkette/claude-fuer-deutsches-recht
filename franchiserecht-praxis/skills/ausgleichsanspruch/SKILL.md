@@ -1,6 +1,6 @@
 ---
 name: ausgleichsanspruch
-description: "Wenn es um Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten

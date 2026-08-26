@@ -1,6 +1,6 @@
 ---
 name: verfahrenszusammenfassung-absatz
-description: "Wenn es um Verfahrenszusammenfassung — Absatz in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Verfahrenszusammenfassung — Absatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfahrenszusammenfassung — Absatz

@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Wenn es um Zwangsverwaltung ZVG — Allgemein in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Zwangsverwaltung ZVG — Allgemein: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Zwangsverwaltung ZVG — Allgemein

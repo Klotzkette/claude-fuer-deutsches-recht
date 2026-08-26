@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-aml-kyc-sanktionen
-description: "Wenn es um AML, KYC und Sanktions-Compliance in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AML, KYC und Sanktions-Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AML, KYC und Sanktions-Compliance

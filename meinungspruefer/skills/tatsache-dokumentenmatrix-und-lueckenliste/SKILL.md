@@ -1,6 +1,6 @@
 ---
 name: tatsache-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Tatsache: Dokumentenmatrix, Lückenliste und Nachforderung in Meinungsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Tatsache: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Tatsache: Dokumentenmatrix, Lückenliste und Nachforderung

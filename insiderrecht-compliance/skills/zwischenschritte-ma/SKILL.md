@@ -1,6 +1,6 @@
 ---
 name: zwischenschritte-ma
-description: "Wenn es um Zwischenschritte bei mehrstufigen Prozessen (M&A / Restrukturierung) in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Zwischenschritte bei mehrstufigen Prozessen (M&A / Restrukturierung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zwischenschritte bei mehrstufigen Prozessen (M&A / Restrukturierung)

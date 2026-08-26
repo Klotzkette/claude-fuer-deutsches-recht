@@ -1,6 +1,6 @@
 ---
 name: infrastruktur-foerderung-nachhaltige
-description: "Wenn es um Infrastruktur-Förderung in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Infrastruktur-Förderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verkehrs- und Infrastrukturrecht. Route: infrastruktur-foerderung-nachhaltige."
 ---
 
 # Infrastruktur-Förderung

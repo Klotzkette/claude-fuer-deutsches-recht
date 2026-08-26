@@ -1,6 +1,6 @@
 ---
 name: bea-versand-pruefen
-description: "Prüft einen konkreten elektronischen Gerichtsversand vor und nach dem Absenden: bestimmt Verfahrensordnung, Empfänger und Frist, trennt qualifizierte Signatur vom persönlichen sicheren Übermittlungsweg, kontrolliert Hauptdokument und Anhänge, sichert Prüfvermerk und gerichtliche Eingangsbestätigung und routet technische Störungen in eine belegte Ersatzeinreichung."
+description: "Prüft einen konkreten elektronischen Gerichtsversand vor und nach dem Absenden: bestimmt Verfahrensordnung, Empfänger und Frist, trennt qualifizierte Signatur vom persönlichen sicheren Übermittlungsweg, kontrolliert Hauptdokument und Anhänge, sichert Prüfvermerk und gerichtliche Eingangsbestätigung und routet technische Störungen in eine belegte."
 ---
 
 # beA-Versand prüfen

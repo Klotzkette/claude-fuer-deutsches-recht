@@ -1,6 +1,6 @@
 ---
 name: 06-urteil-grosses-zivilurteil
-description: "Wenn es um 06 Urteil Großes Zivilurteil in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 06 Urteil Großes Zivilurteil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 06 Urteil Großes Zivilurteil

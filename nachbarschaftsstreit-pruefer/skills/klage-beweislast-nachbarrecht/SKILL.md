@@ -1,6 +1,6 @@
 ---
 name: klage-beweislast-nachbarrecht
-description: "Wenn es um Klage: Beweislast, Darlegungslast und Substantiierung in Nachbarschaftsstreit-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klage: Beweislast, Darlegungslast und Substantiierung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klage: Beweislast, Darlegungslast und Substantiierung

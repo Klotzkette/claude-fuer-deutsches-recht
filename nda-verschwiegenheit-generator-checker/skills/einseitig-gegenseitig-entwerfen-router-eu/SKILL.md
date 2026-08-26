@@ -1,6 +1,6 @@
 ---
 name: einseitig-gegenseitig-entwerfen-router-eu
-description: "Wenn es um Einseitig Gegenseitig Multilateral in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Einseitig Gegenseitig Multilateral: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Einseitig Gegenseitig Multilateral

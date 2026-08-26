@@ -1,6 +1,6 @@
 ---
 name: wandlungsmechanik-konzipieren
-description: "Wenn es um Wandlungsmechanik konzipieren in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wandlungsmechanik konzipieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wandlungsmechanik konzipieren

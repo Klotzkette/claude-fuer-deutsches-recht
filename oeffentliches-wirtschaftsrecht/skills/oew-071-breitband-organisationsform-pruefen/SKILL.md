@@ -1,6 +1,6 @@
 ---
 name: oew-071-breitband-organisationsform-pruefen
-description: "Wenn es um Breitband Organisationsform Pruefen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Breitband Organisationsform Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Öffentliches Wirtschaftsrecht. Route: oew-071-breitband-organisationsform-pruefen."
 ---
 
 # Breitband Organisationsform Pruefen

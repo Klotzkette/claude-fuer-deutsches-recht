@@ -1,6 +1,6 @@
 ---
 name: online-pruefung-identitaet
-description: "Wenn es um Online-Prüfung und Identität in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Online-Prüfung und Identität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Online-Prüfung und Identität

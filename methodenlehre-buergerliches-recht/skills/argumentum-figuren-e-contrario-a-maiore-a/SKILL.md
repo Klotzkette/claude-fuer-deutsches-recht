@@ -1,6 +1,6 @@
 ---
 name: argumentum-figuren-e-contrario-a-maiore-a
-description: "Wenn es um Argumentum-Figuren: e contrario, a maiore ad minus, a fortiori in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Argumentum-Figuren: e contrario, a maiore ad minus, a fortiori: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Argumentum-Figuren: e contrario, a maiore ad minus, a fortiori

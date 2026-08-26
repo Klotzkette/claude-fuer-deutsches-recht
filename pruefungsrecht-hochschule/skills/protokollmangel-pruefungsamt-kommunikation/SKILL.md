@@ -1,6 +1,6 @@
 ---
 name: protokollmangel-pruefungsamt-kommunikation
-description: "Wenn es um Protokollmangel in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Protokollmangel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Protokollmangel

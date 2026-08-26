@@ -1,6 +1,6 @@
 ---
 name: einreden-compliance-dokumentation-und-akte
-description: "Wenn es um Einreden: Compliance-Dokumentation und Aktenvermerk in Subsumtions-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einreden: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einreden: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen
-description: "Wenn es um Rechtsquellen: Abschlussprodukt und Übergabe in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsquellen: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Miet- und Wohnungseigentumsrecht."
 ---
 
 # Rechtsquellen: Abschlussprodukt und Übergabe

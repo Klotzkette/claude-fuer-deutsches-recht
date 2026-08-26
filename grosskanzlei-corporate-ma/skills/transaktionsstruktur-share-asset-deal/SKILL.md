@@ -1,6 +1,6 @@
 ---
 name: transaktionsstruktur-share-asset-deal
-description: "Wenn es um Transaktionsstrukturierung in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transaktionsstrukturierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A."
 ---
 
 # Transaktionsstrukturierung

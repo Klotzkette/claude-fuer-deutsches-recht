@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-financial-institutions
-description: "Wenn es um Korrespondenzbankgeschaeft: Sanktions-Compliance und Transaktionsscreening in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Korrespondenzbankgeschäft: Sanktions-Compliance und Transaktionsscreening: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Korrespondenzbankgeschaeft: Sanktions-Compliance und Transaktionsscreening

@@ -1,6 +1,6 @@
 ---
 name: chn-055-contract-language-and-governing-law
-description: "Wenn es um Contract Language And Governing Law in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Contract Language And Governing Law: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Contract Language And Governing Law

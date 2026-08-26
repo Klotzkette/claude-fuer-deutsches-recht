@@ -1,6 +1,6 @@
 ---
 name: infl-048-krisenkommunikation-shitstorm-und-richtigstellung
-description: "Wenn es um Influencer-Recht: Krisenkommunikation Shitstorm und Richtigstellung in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Krisenkommunikation Shitstorm und Richtigstellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Krisenkommunikation Shitstorm und Richtigstellung

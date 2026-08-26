@@ -1,6 +1,6 @@
 ---
 name: kueschk-guetetermin-strategie-und-sprechzettel
-description: "Wenn es um Guetetermin nach Paragraf 54 ArbGG: Ablauf und Funktion in Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Gütetermin nach Paragraf 54 ArbGG: Ablauf und Funktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Guetetermin nach Paragraf 54 ArbGG: Ablauf und Funktion

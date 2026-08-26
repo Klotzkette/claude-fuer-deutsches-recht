@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `rechtsberatungsste
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Rechtsberatungsstelle ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbin…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Plugin für die studentische Rechtsberatungsstelle geht: klärt Rolle, Ziel, Frist, Unt…
-3. **bono-erstpruefung-und-mandatsziel** — Wenn es um Bono: Erstprüfung, Rollenklärung und Mandatsziel in Plugin für die studentische Rechtsberatungsstelle geht: k…
-4. **einfache-sprache-briefe** — Wenn es um [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant` in Plugin für die st…
-5. **rechtsberatungsstellen** — Wenn es um Rechtsberatungsstelle: Compliance-Dokumentation und Aktenvermerk in Plugin für die studentische Rechtsberatun…
-6. **status** — Wenn es um Fallstatus: Zielgruppengerechte Fallzusammenfassung in Plugin für die studentische Rechtsberatungsstelle geht…
-7. **spezial-uebergabe-schriftsatz-brief-und-memo-bausteine** — Wenn es um Uebergabe: Schriftsatz-, Brief- und Memo-Bausteine in Plugin für die studentische Rechtsberatungsstelle geht:…
-8. **erstberatung-rdg-grenzen-und-triage** — Wenn es um Erstberatung mit RDG-Grenzen und Triage in Plugin für die studentische Rechtsberatungsstelle geht: klärt Roll…
-9. **mandantenfreundliche-quellenkarte-check** — Wenn es um Mandantenfreundliche Quellenkarte Check in Plugin für die studentische Rechtsberatungsstelle geht: ordnet Sac…
-10. **rechtsberatung-uebergabe-schriftsatz-brief-memo-bausteine-status** — Wenn es um Übergabe: Schriftsatz-, Brief- und Memo-Bausteine in Plugin für die studentische Rechtsberatungsstelle geht: …
-11. **erzeugung-leitfaden-erstellen-mandanten** — Wenn es um [VERALTET] Formularerstellung → siehe `/entwurf` in Plugin für die studentische Rechtsberatungsstelle geht: e…
-12. **mandantenintake-mandatsuebergabe** — Wenn es um Mandantenintake: Risikoampel, Gegenargumente und Verteidigungslinien in Plugin für die studentische Rechtsber…
-13. **briefe-erstberatung-rdg-konform** — Wenn es um Briefe: Zahlen, Schwellenwerte und Berechnung in Plugin für die studentische Rechtsberatungsstelle geht: erst…
-14. **entwurf-einarbeitung-einfache-sprache** — Wenn es um Schriftsatzentwurf: Erstentwurf-Erstellung in Plugin für die studentische Rechtsberatungsstelle geht: erstell…
-15. **memo** — Wenn es um Internes Rechtsgutachten: Gutachten-Gerüst in Plugin für die studentische Rechtsberatungsstelle geht: erstell…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **bono-erstpruefung-und-mandatsziel** — Für Bono: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbest…
+4. **rechtsberatung-uebergabe-schriftsatz-brief-memo-bausteine-status** — Für Übergabe: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schrif…
+5. **spezial-uebergabe-schriftsatz-brief-und-memo-bausteine** — Für Übergabe: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schrif…
+6. **sonderfall-edge-case** — Für Kaltstart: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
+7. **einfache-sprache-briefe** — Für [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant`: erstellt Entwurf mit Antra…
+8. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+9. **kaltstart-interview** — Für /kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+10. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+11. **workflow-anschluss-skills-router** — Für Anschluss-Skills Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+12. **workflow-mandantenkommunikation** — Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvo…
+13. **workflow-redteam-qualitygate** — Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristench…
+14. **workflow-chronologie-und-belegmatrix** — Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix…
+15. **output-waehlen** — Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fac…
 
 ---
 
@@ -147,7 +147,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Plugin für die studentische Rechtsberatungsstelle geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle._
 
 # Einstieg und Routing
 
@@ -191,7 +191,7 @@ Dieser Einstieg routet **Rechtsberatungsstelle** vom ersten Sachverhalt zu Rolle
 
 ## Skill: `bono-erstpruefung-und-mandatsziel`
 
-_Wenn es um Bono: Erstprüfung, Rollenklärung und Mandatsziel in Plugin für die studentische Rechtsberatungsstelle geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Bono: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Bono: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -256,9 +256,159 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `rechtsberatung-uebergabe-schriftsatz-brief-memo-bausteine-status`
+
+_Für Übergabe: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle. Route: rechtsberatung-uebergabe-schriftsatz-brief-memo-bausteine-status._
+
+# Übergabe: Schriftsatz-, Brief- und Memo-Bausteine
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Übergabe: Schriftsatz-, Brief- und Memo-Bausteine
+- **Normen-/Quellenanker:** RDG.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Übergabe** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `spezial-uebergabe-schriftsatz-brief-und-memo-bausteine`
+
+_Für Übergabe: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle. Route: spezial-uebergabe-schriftsatz-brief-und-memo-bausteine._
+
+# Uebergabe: Schriftsatz-, Brief- und Memo-Bausteine
+
+## Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `rechtsberatungsstelle`. Ausgangspunkt ist: Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe.
+
+Er führt durch **Schriftsatz-, Brief- und Memo-Bausteine** im Themenfeld **Uebergabe**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Uebergabe.
+- **Arbeitsfokus:** Schriftsatz-, Brief- und Memo-Bausteine.
+- **Plugin-Rahmen:** Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe.
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+
+## Kaltstart
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Uebergabe** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+---
+
+## Skill: `sonderfall-edge-case`
+
+_Für Kaltstart: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle._
+
+# Kaltstart: Sonderfall und Edge-Case-Prüfung
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Kaltstart: Sonderfall und Edge-Case-Prüfung
+- **Normen-/Quellenanker:** RDG.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Kaltstart** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
 ## Skill: `einfache-sprache-briefe`
 
-_Wenn es um [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant` in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant`: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant`
 
@@ -348,319 +498,56 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ---
 
-## Skill: `rechtsberatungsstellen`
+## Skill: `workflow-kaltstart-und-routing`
 
-_Wenn es um Rechtsberatungsstelle: Compliance-Dokumentation und Aktenvermerk in Plugin für die studentische Rechtsberatungsstelle geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle._
 
-# Rechtsberatungsstelle: Compliance-Dokumentation und Aktenvermerk
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Rechtsberatungsstelle: Compliance-Dokumentation und Aktenvermerk
-- **Normen-/Quellenanker:** RDG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsberatungsstelle** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `status`
-
-_Wenn es um Fallstatus: Zielgruppengerechte Fallzusammenfassung in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Fallstatus: Zielgruppengerechte Fallzusammenfassung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-- **Zielgruppe:** `mandant`, `intern` oder `gericht`
-- **Fallnotizen** — Fakten und Verfahrensstand des Falls
-- **Aktueller Verfahrensstand** — wo im Verfahren befindet sich der Fall?
-
-## Rechtlicher Rahmen
-
-### Kernvorschriften
-
-- **Paragraf 6 Absatz 2 RDG** — Die unentgeltliche Rechtsdienstleistung außerhalb enger persönlicher Beziehungen wird durch eine befugte Person, eine Person mit Befähigung zum Richteramt oder unter deren Anleitung erbracht; Art und Umfang der Mitwirkung richten sich nach dem Einzelfall.
-- **Paragraf 43a Absatz 2 BRAO** — Der anleitende Rechtsanwalt wahrt die Verschwiegenheit und verpflichtet mitwirkende Hilfspersonen in Textform, soweit die gesetzlichen Voraussetzungen vorliegen.
-- **Paragraf 11 BORA sowie Paragrafen 675 und 666 BGB** — Im anwaltlich geführten Mandat sind wesentliche Vorgänge angemessen mitzuteilen und Auskünfte über den Bearbeitungsstand zu erteilen.
-- **Paragrafen 130, 130a und 130d ZPO** — Für einen gerichtlichen Schriftsatz sind Inhalt, elektronische Form und der vorgeschriebene Übermittlungsweg gesondert zu prüfen; ein bloßer interner Statusbericht ist noch kein Gerichtsschriftsatz.
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Ablauf
-
-### Modus: Mandantengerichtet
-
-**Leser/-in:** Der Mandant/die Mandantin. Möglicherweise unter Stress. Vielleicht mit dem rechtlichen Verfahren wenig vertraut. Lesbarkeitsniveau entsprechend den Klinik-Verständlichkeitsstandards (Standard: Hauptschulniveau, kurze Sätze, keine Fachbegriffe ohne Erläuterung).
-
-**Einzubeziehen:**
-- Was ist seit dem letzten Kontakt passiert
-- Was als nächstes passiert und wann
-- Was der Mandant/die Mandantin tun muss (konkret)
-- Wie die Beratungsstelle zu erreichen ist
-
-**Nicht einzubeziehen:**
-- Rechtliche Analyse (das IRSE-Schema interessiert den Mandanten nicht)
-- Schwächen des Falls (es sei denn, es ist Zeit für dieses Gespräch — das entscheidet der Supervisor, nicht ein Statusupdate)
-- Fachjargon
-
-*Prüfvermerk für den Studentenn (nicht für den Mandanten — vor Versand entfernen):*
-`[ENTWURF — erfordert fachliche Prüfung und den vorgesehenen Anleitungsschritt]`
-
-Verfahrensrechtlicher Hinweis: Manche Beratungsstellen (insb. unter BRAO-Aufsicht) haben spezifische Unterschriftsblöcke für Briefe unter Studentenn-Aufsicht. Anforderungen mit dem Supervisor klären.
-
-```markdown
-Sehr geehrte/r [Mandant/-in],
-
-ich möchte Sie über den aktuellen Stand Ihres Falls informieren.
-
-**Was passiert ist:** [Klares Deutsch. "Wir haben Ihren Widerspruch am [Datum]
-beim Amt eingereicht" — nicht "Der fristwahrende Schriftsatz wurde übermittelt."]
-
-**Was als nächstes passiert:** [Was und wann. "Das Amt hat jetzt 3 Monate Zeit,
-über Ihren Widerspruch zu entscheiden. Wir erwarten bis spätestens [Datum]
-eine Antwort. Falls nichts kommt, melden wir uns."]
-
-**Was Sie tun müssen:** [Konkret und klar. Oder: "Im Moment müssen Sie nichts
-tun. Wir melden uns, sobald wir etwas von Ihnen brauchen."]
-
-**So erreichen Sie uns:** [Telefon, Sprechzeiten, Name des Studentenn]
-
-Mit freundlichen Grüßen
-
-[Name des Studentenn]
-Studentische/-r Rechtsberater/-in
-unter Aufsicht von [Supervisorenname, Rechtsanwalt/-anwältin]
-[Name der Beratungsstelle]
-```
-
-**Vor Versand:** Das Versenden eines Mandantenstatus ist eine folgenschwere Handlung. Die nach Paragraf 6 Absatz 2 RDG erforderliche Anleitung und Mitwirkung müssen dokumentiert sein. Alle internen Vermerke wie `[ENTWURF]` oder `[PRÜFEN]` sind aus der Mandantenversion zu entfernen.
-
-### Modus: Intern (für den Supervisor)
-
-**Leser/-in:** Der begleitende Supervisor. Kennt das Recht. Will wissen, wo der Fall steht und was der Studenten von ihm/ihr braucht.
-
-**Einzubeziehen:**
-- Verfahrensstand (wo im Verfahren)
-- Was seit dem letzten Check-in getan wurde
-- Was als nächstes kommt (Fristen, Termine)
-- Fragen, die Supervisoren-Input erfordern
-- Einschätzung des Studentenn (wie läuft es, Bedenken)
-
-```markdown
-### Fallstatus: [Mandant] — [Gegenstand] — [Datum]
-
-**Studentenr:** [Name] | **Verfahrensstand:** [Vorberatung / Widerspruch eingereicht /
-Klage erhoben / Verhandlung ausstehend / etc.]
-
-## Seit dem letzten Check-in
-
-- [Was wurde getan]
-
-## Kommende Termine und Fristen
-
-| Datum | Was | Handlung erforderlich durch |
-|---|---|---|
-| [Datum] | [Frist/Termin] | [Studentenr/Supervisor/beide] |
-
-## Supervisoren-Input benötigt
-
-- [Konkrete Frage oder Entscheidungspunkt]
-
-## Einschätzung des Studentenn
-
-[Wie läuft es. Stärken, Bedenken, strategische Fragen. Hier zeigt sich das Denken
-des Studentenn.]
-
----
-[KI-GESTÜTZTER ENTWURF — Studentenr sollte insb. den Abschnitt Einschätzung
-selbst formulieren; das ist sein/ihr Denken, keine Notizenzusammenfassung]
-```
-
-### Modus: Gerichts-/Behördengerichtet
-
-**Leser/-in:** Richter/-in, Rechtspfleger/-in oder Sachbearbeiter/-in der Behörde. Formal. Spezifisch für das Gerichtsbedürfnis (oft auf Anforderung des Gerichts, nach § 273 ZPO oder Ladung zur Statuskonferenz nach § 278a ZPO / behördliche Anforderung nach § 24 VwVfG).
-
-**Einzubeziehen:**
-- Verfahrensgeschichte (kurz)
-- Aktueller Stand (Beweisaufnahme/Anträge/außergerichtliche Einigung)
-- Offene Punkte
-- Vorgeschlagene nächste Schritte (soweit gefragt)
-
-**Format:** Nach Verfahrensordnung und örtlichen Gepflogenheiten. Rubrum, Schriftsatzform, Unterschriftsblock, ggf. Zustellungsnachweis.
-
-```
-═══════════════════════════════════════════════════════════════════════
- KI-GESTÜTZTER ENTWURF — erfordert studentische Analyse und Supervisoren-Prüfung
- Gerichtliche und behördliche Schriftstücke IMMER vor Einreichung mit Supervisor
- abstimmen (§ 6 Abs. 2 RDG)
-═══════════════════════════════════════════════════════════════════════
-
-[Rubrum nach Verfahrensordnung — PRÜFEN gegen aktuelle Gerichts-/Behördenregeln]
-
-SACHSTANDSBERICHT / STATUSMITTEILUNG
-
-[Partei/Antragsteller] zeigt den Verfahrensstand gemäß [Anforderung des Gerichts
-vom [Datum] / § [X] ZPO/VwGO/VwVfG / im Hinblick auf den Termin vom [Datum]] an.
-
-1. Verfahrensgeschichte: [kurz]
-
-2. Aktueller Stand: [Beweisaufnahme / Antragsstand / Einigungsgespräche]
-
-3. Offene Punkte: [was ausstehend ist]
-
-4. Vorgeschlagene nächste Schritte: [soweit relevant]
-
-[Unterschriftsblock — Studentenr unter Aufsicht von [Supervisor, Rechtsanwalt/-anwältin]]
-
-[Zustellungsnachweis falls eingereicht]
-
----
-
-[PRÜFEN: Rubrum, örtliche Formvorgaben für Statusberichte, Zustellungserfordernisse
-— nach aktuellen Regeln des zuständigen Gerichts / der zuständigen Behörde]
-```
-
-## Supervisionen-Routing
-
-Entsprechend der Klinik-Konfiguration:
-- Mandantengerichtet → in der Regel Flag-Trigger (Mandantenkommunikation)
-- Intern → kein Flag (geht ohnehin an den Supervisor)
-- Gerichts-/Behördengerichtet → immer geflaggt, wenn formelle Prüfwarteschlange aktiviert (gerichtliche/behördliche Einreichungen)
-
-## Beispiel
-
-**Szenario:** Mandantin Erdem, Widerspruch gegen Nebenkostennachforderung. Widerspruch eingereicht 01.04.2026. Bestätigung vom Vermieter erwartet.
-
-- `/status mandant` → "Wir haben Ihren Widerspruch gegen die Nebenkostenabrechnung am 01.04.2026 beim Vermieter eingereicht. Der Vermieter hat jetzt zwei Monate Zeit zu antworten. Sie müssen bis dahin nichts tun."
-- `/status intern` → Verfahrensstand: Widerspruch eingereicht; Frist Vermieter-Antwort ca. 01.06.2026; Supervisoren-Input: Soll Klage vorbereitet werden, falls keine Antwort kommt?
-- `/status gericht` → (noch nicht relevant, da kein Gerichtsverfahren)
-
-## Risiken und typische Fehler
-
-- **Mandantenbrief mit Fachjargon:** Formulierungen wie "Der Schuldner ist mit der Leistung in Verzug" sind für Mandanten unverständlich. Konkrete, einfache Sprache verwenden.
-- **Strategische Hinweise an Mandanten ohne Supervisorengespräch:** Schlechte Nachrichten (z. B. geringer Erfolgsaussichten) oder strategische Optionen gehören in das Supervisorengespräch, nicht in einen Statusbrief.
-- **Gerichtlicher Statusbericht ohne Supervisoren-Freigabe:** Verstoß gegen § 6 Abs. 2 RDG. Jedes nach außen gehende Schriftstück wird vom Supervisor freigegeben.
-- **Falsche Datumsangaben:** Fristen- und Terminangaben im Mandantenbrief müssen mit `deadlines.yaml` abgeglichen werden.
-- **Studentische Einschätzung im internen Bericht KI-generiert:** Der Abschnitt "Einschätzung des Studentenn" ist persönliches Denken. Die KI kann ihn strukturieren; schreiben muss ihn der Studenten selbst.
-
-## Quellenpflicht
-
-Statusberichte enthalten keine zitierten Normen als Primärbelege — das obliegt den zugrunde liegenden Gutachten (`/memo`). Rechtliche Behauptungen in Statusberichten müssen durch verifizierte Gutachten gedeckt sein, auf die der Bericht verweist. Kein Status-Schriftstück enthält ungeprüfte Rechtsbehauptungen.
-
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `spezial-uebergabe-schriftsatz-brief-und-memo-bausteine`
-
-_Wenn es um Uebergabe: Schriftsatz-, Brief- und Memo-Bausteine in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Uebergabe: Schriftsatz-, Brief- und Memo-Bausteine
+# Kaltstart und Routing
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `rechtsberatungsstelle`. Ausgangspunkt ist: Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe.
-
-Er führt durch **Schriftsatz-, Brief- und Memo-Bausteine** im Themenfeld **Uebergabe**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Uebergabe.
-- **Arbeitsfokus:** Schriftsatz-, Brief- und Memo-Bausteine.
-- **Plugin-Rahmen:** Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe.
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Uebergabe** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Beratungsstellen-Kaltstart
+- **Beratungshilfe (BerHG):** Voraussetzungen § 1 BerHG (PKH-bedürftig, kein Beistand zumutbar, andere Hilfe nicht erreichbar); Antrag beim AG (§ 4 BerHG); Berechtigungsschein.
+- **Prozesskostenhilfe §§ 114 ff. ZPO:** Erfolgsaussicht und finanzielle Bedürftigkeit; PKH-Formular vollständig (Unterlagen Nachweis Einkommen/Vermögen/Belastungen).
+- **Rechtsberatung außerhalb der Anwaltschaft:** RDG (Rechtsdienstleistungsgesetz) — gemeinnützige Beratung nach § 6 RDG (z. B. Verbraucherzentrale, DGB, Caritas), Behörden nach § 7 RDG, Mietervereine § 7 Abs. 2 RDG, Studienberatung an Universitäten.
+- **Zuständigkeit Beratungsstellen:** Verbraucherzentrale (Vertrag, Versicherung), Mieterverein, Sozialverband (VdK, SoVD), Schuldnerberatung, MBE (Migrationsberatung), JMD (Jugendmigrationsdienst), Frauenhaus/-beratungsstelle.
+- **Eskalation:** Bei Klagefrist oder komplexem Sachverhalt → Verweis an Anwalt (PKH-Antrag mit anwaltlichem Beistand) oder Berufungsstelle.
+- Falle: Beratung außerhalb § 6 RDG (Vergütung, gewerblich) verstößt gegen RDG, kann mit Bußgeld bis 5.000 EUR (§ 20 RDG) geahndet werden.
 
 ---
 
-## Skill: `erstberatung-rdg-grenzen-und-triage`
+## Skill: `kaltstart-interview`
 
-_Wenn es um Erstberatung mit RDG-Grenzen und Triage in Plugin für die studentische Rechtsberatungsstelle geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für /kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle._
 
-# Erstberatung mit RDG-Grenzen und Triage
+# /kaltstart-interview
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -677,648 +564,370 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 
 Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
-## Arbeitsweg
+## Triage zu Beginn
+1. Handelt es sich um eine Neugründung oder eine grundlegende Neuausrichtung der bestehenden Beratungsstelle?
+2. Welche Rechtsgrundlage gilt für die Beratungsstellenarbeit: § 6 Abs. 2 Nr. 2 RDG, § 8 RDG oder Tätigkeit unter zugelassenem Anwalt?
+3. Welche Fachbereiche sollen von Anfang an eingerichtet werden (Mietrecht, Sozialrecht, Aufenthaltsrecht)?
+4. Ist bereits eine CLAUDE.md vorhanden, die abschnittsweise ueberarbeitet werden soll?
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Zentrale Normen
+- § 6 Abs. 2 Nr. 2 RDG — Voraussetzungen für erlaubnisfreie Rechtsberatung in Beratungsstellen: Anleitungserfordernis und Unentgeltlichkeit
+- § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des Anleiters: muss von Beginn an organisatorisch sichergestellt werden
+- § 203 Abs. 4 StGB — Einbeziehung Dritter (Studenten): Verschwiegenheitsvereinbarungen als Pflichtbestandteil der Ersteinrichtung
+- Art. 30 DSGVO — Verarbeitungsverzeichnis: muss vor Beginn der Datenverarbeitung erstellt werden
 
-## Einstieg
-Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
+## Berufsrechtlicher Rahmen
 
-1. Wer handelt in welcher Rolle und gegen wen?
-2. Welches praktische Ziel soll erreicht werden?
-3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
-4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
-5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
-
-## Arbeitsworkflow
-1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
-2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
-3. **Materielle Weichen:** Die Kernfragen zu **Erstberatung mit RDG-Grenzen und Triage** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
-4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
-5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `mandantenfreundliche-quellenkarte-check`
-
-_Wenn es um Mandantenfreundliche Quellenkarte Check in Plugin für die studentische Rechtsberatungsstelle geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Mandantenfreundliche Quellenkarte Check
-
-## Zweck
-
-Diese Quellenkarte sichert für **Rechtsberatungsstelle (RDG)** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
-
-## Tragende Normen (live prüfen)
-
-- **RDG** — amtlichen Stand vor tragender Aussage prüfen
-- **BeratungshilfeG** — amtlichen Stand vor tragender Aussage prüfen
-- **Prozesskostenhilfe ZPO §§ 114 ff.** — amtlichen Stand vor tragender Aussage prüfen
-
-## Zuständige Spruchkörper und Behörden
-
-- Amtsgericht
-- Beratungsstelle
-
-## Amtliche und frei zugängliche Datenbanken
-
-- gesetze-im-internet.de (Bundesrecht amtlich)
-- rechtsprechung-im-internet.de
-- dejure.org / openJur (frei zugängliche Rechtsprechung)
-
-## Fristen mit Quellenrelevanz
-
-- Beratungshilfe-Antrag vor Tätigkeit
-
-## Prüfroute
-
-1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
-2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
-3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
-4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
-
-## Fehlerbremse
-
-- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.
-
----
-
-## Skill: `rechtsberatung-uebergabe-schriftsatz-brief-memo-bausteine-status`
-
-_Wenn es um Übergabe: Schriftsatz-, Brief- und Memo-Bausteine in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Übergabe: Schriftsatz-, Brief- und Memo-Bausteine
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Übergabe: Schriftsatz-, Brief- und Memo-Bausteine
-- **Normen-/Quellenanker:** RDG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Übergabe** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `erzeugung-leitfaden-erstellen-mandanten`
-
-_Wenn es um [VERALTET] Formularerstellung → siehe `/entwurf` in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# [VERALTET] Formularerstellung → siehe `/entwurf`
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-Diese Skill akzeptiert keine Eingaben. Für alle Formular- und Schriftstückaufgaben: `/entwurf [Schriftstücktyp]`.
-
-## Rechtlicher Rahmen
-
-### Hintergrund der Zusammenführung
-
-Die Trennung zwischen "Formularerstellung" und "Schriftsatzerstellung" war in der Praxis studentischer Rechtsberatungsstellen künstlich: Ein Beratungshilfe-Antrag (BerH 1) ist juristisch kein anderes Arbeitsergebnis als ein Widerspruchsschreiben — beide erfordern Sachverhaltsaufnahme, Normprüfung und Supervisoren-Freigabe nach § 6 Abs. 2 RDG.
-
-### Relevante Normen für die Nachfolge-Skill `/entwurf`
-
-- **§ 1 BerHG** — Voraussetzungen der Beratungshilfe: BerH 1-Antrag ist vor Leistungserbringung beim Amtsgericht einzureichen; Studenten müssen die Voraussetzungen (Bedürftigkeit, keine anderweitige Beratungsmöglichkeit) prüfen.
-- **§ 117 ZPO** — PKH-Antrag: Einreichung mit Klage oder gesondertem Schriftsatz; wirtschaftliche Verhältnisse vollständig darlegen (Erklärung über persönliche und wirtschaftliche Verhältnisse, Formular bewilligen PKH-Schein).
-- **§ 6 Abs. 2 RDG** — Aufsichtspflicht: Ausgefüllte Formulare, die Rechtspositionen des Mandanten begründen oder geltend machen, sind keine formale Routineaufgabe — sie erfordern inhaltliche Supervisoren-Prüfung.
-- **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht: Formulare enthalten sensitive Mandantendaten; strenge Vertraulichkeit.
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- § 6 Abs. 2 Nr. 2 RDG: Die Organisation der Anleitungsstruktur muss sicherstellen, dass der Volljurist tatsächlich in der Lage ist, die Studentenn anzuleiten. "Formelle" Aufsicht ohne tatsächliche Prüfung genügt nicht; vgl. Krenzler, in: Krenzler (Hrsg.), RDG, 2. Aufl. 2021, § 6 Rn. 52.
+- § 43a Abs. 2 BRAO: Verschwiegenheitsorganisation muss bereits bei Einrichtung der Beratungsstelle mitgedacht werden (kein Mandantendaten-Upload in nicht abgesicherte Systeme).
+- § 203 Abs. 4 StGB: Einbeziehung Dritter (Studenten, externe IT) erfordert vertragliche Absicherung.
 
 ## Ablauf
 
-**Stattdessen `/entwurf [Schriftstücktyp]` verwenden.**
+### Schritt 0: Bestehendes Profil prüfen
 
-```
-/entwurf beratungshilfe-antrag
-/entwurf pkh-antrag
-/entwurf widerspruch-nebenkostenabrechnung
-/entwurf mahnschreiben
-```
+Ist eine `CLAUDE.md` vorhanden?
+- Ja: "Ihr Profil ist bereits eingerichtet. Möchten Sie (a) das Profil anzeigen, (b) einen Abschnitt überarbeiten, oder (c) komplett neu starten (`--redo`)?"
+- Nein: Mit Schritt 1 beginnen.
 
-Vollständiger Ablauf in `skills/entwurf/SKILL.md`:
+### Schritt 1: Beratungsstellentyp
 
-1. Schriftstücktyp identifizieren und dem Musterbestand zuordnen
-2. Sachverhalt aufnehmen; fehlende Angaben kennzeichnen (`[TATSACHE FEHLT: ...]`)
-3. Formvorschriften und Einreichungsweg prüfen
-4. Entwurf erstellen mit `[PRÜFEN]`- und `[UNSICHER]`-Flags
-5. Supervisoren-Routing nach § 6 Abs. 2 RDG
+> Welche Art von Beratungsstelle richten Sie ein?
 
-## Beispiel
+Optionen (Mehrfachauswahl möglich):
+1. **Universitäre Refugee Law Clinic (RLC)** – Schwerpunkt Asyl/Aufenthaltsrecht; § 6 II Nr. 2 RDG
+2. **Studentische Rechtsberatung allgemein** – SGB II, Mietrecht, Verbraucherrecht; § 6 II Nr. 2 RDG
+3. **AnwVer / DAV Pro-Bono-Programm** – Zugelassene Anwälte, kein RDG-Problem
+4. **Verbraucherzentrale** – § 8 Abs. 1 Nr. 4 RDG (Sondererlaubnis)
+5. **Wohlfahrtsverband / Sozialberatung** (AWO, Caritas, Diakonie, DRK, Paritätischer) – § 8 Abs. 1 Nr. 4 RDG
+6. **Sonstiges** – Bitte beschreiben.
 
-Statt `/formular-erzeugung beratungshilfeantrag`:
+Erfasse auch: Hochschule / Trägerin, Stadt, seit wann aktiv, Anzahl aktiver Studentenr pro Semester.
 
-```
-/entwurf beratungshilfe-antrag
-```
+### Schritt 2: Rechtsgrundlage bestätigen
 
-Der Befehl `/entwurf` füllt das Formular BerH 1 aus den Fallnotizen, kennzeichnet fehlende Pflichtangaben mit `[TATSACHE FEHLT: ...]` (z. B. Kontonummer für Bedürftigkeitsnachweis), und leitet nach Fertigstellung in die Supervisoren-Prüfung.
+Je nach Typ aus Schritt 1:
 
-## Risiken und typische Fehler
-
-- **Verweis auf diese Skill in älteren Unterlagen:** Bestehende Handreichungen, Semesterskripte oder Tutorenmaterialien, die auf `/formular-erzeugung` verweisen, auf `/entwurf` umschreiben.
-- **Formularausfüllung als Routineaufgabe unterschätzen:** Formulare, die Rechtspositionen des Mandanten geltend machen (PKH, Beratungshilfe, Widerspruch), sind rechtliche Arbeitsergebnisse und unterliegen der Supervisoren-Prüfpflicht nach § 6 Abs. 2 RDG.
-- **Falsche Angaben im BerH 1-Antrag:** Unvollständige oder unrichtige Angaben zur Bedürftigkeit können zu Ablehnung und ggf. zur Rückforderung bereits gewährter Beratungshilfe führen (§ 9 BerHG).
-
-## Quellenpflicht
-
-Nicht anwendbar (Weiterleitungs-Skill). Für alle Quellenangaben bei konkreten Schriftstücken und Formularen: `skills/entwurf/SKILL.md`, Sektion "Quellenpflicht".
-
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-
----
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `mandantenintake-mandatsuebergabe`
-
-_Wenn es um Mandantenintake: Risikoampel, Gegenargumente und Verteidigungslinien in Plugin für die studentische Rechtsberatungsstelle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Mandantenintake: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Direktstart: lesen, entscheiden, liefern
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
-
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
-
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
-
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
-
-Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Mandantenintake: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** RDG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Mandantenintake** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `briefe-erstberatung-rdg-konform`
-
-_Wenn es um Briefe: Zahlen, Schwellenwerte und Berechnung in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Briefe: Zahlen, Schwellenwerte und Berechnung
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Briefe: Zahlen, Schwellenwerte und Berechnung
-- **Normen-/Quellenanker:** RDG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Briefe** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `entwurf-einarbeitung-einfache-sprache`
-
-_Wenn es um Schriftsatzentwurf: Erstentwurf-Erstellung in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Schriftsatzentwurf: Erstentwurf-Erstellung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Studenten wenden erhebliche Zeit auf Erstentwürfe von Schriftstücken auf, deren Bildungswert in der rechtlichen Analyse und Strategie liegt — nicht im Abtippen eines Rubrum oder im Formulieren von "Sehr geehrte Damen und Herren". Diese Skill erstellt den Erstentwurf aus Fallnotizen und Rechtsgebiet-spezifischen Mustern, damit die studentische Arbeitszeit dem eigentlichen juristischen Denken zugute kommt.
-
-**Jeder Entwurf ist ausdrücklich ein Ausgangspunkt.** Kein fertiges Arbeitsergebnis. Der/die Studenten analysiert und überarbeitet; der Supervisor prüft, bevor das Schriftstück die Beratungsstelle verlässt.
-
-Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studenten erfolgen nach § 6 Abs. 1 RDG als unentgeltliche Rechtsdienstleistung unter Aufsicht eines zur Rechtsanwaltschaft zugelassenen Supervisors (§ 6 Abs. 2 RDG). Alle nach außen gehenden Schriftstücke sind ohne Supervisoren-Freigabe nicht zu versenden.
-
-## Eingaben
-
-- **Schriftstücktyp** — z. B. `widerspruch`, `klageschrift-ag`, `mahnschreiben`, `beratungshilfe-antrag`, `pkh-antrag`, `mietrechtliches-kündigungsschreiben`
-- **Sachverhaltsnotizen / Aktennotiz** — Fakten des Falls; fehlende Angaben werden markiert, nie erfunden
-- **Rechtsgebiet** — Mietrecht, Arbeitsrecht, Verwaltungsrecht, Verbraucherrecht u. a.
-- **Zuständiges Gericht / Behörde** (falls bekannt) — für Rubrum und Formvorschriften
-- **Frist** — ob eine Einreichungsfrist läuft und bis wann
-
-## Rechtlicher Rahmen
-
-### Kernvorschriften
-
-- **§ 6 RDG** — Unentgeltliche Rechtsdienstleistung: zulässig durch Rechtsberatungsstellen unter anwaltlicher Aufsicht; die Aufsicht muss durch eine zur Rechtsanwaltschaft zugelassene Person ausgeübt werden.
-- **§ 43a Abs. 2 BRAO** — Mandatsgeheimnis/Verschwiegenheitspflicht: gilt sinngemäß für Studenten der Beratungsstelle; keine Informationen aus dem Mandat nach außen.
-- **§ 203 Abs. 3 StGB** — Strafbarkeit der Verletzung von Privatgeheimnissen; Studenten sind als "berufsmäßig tätige Gehilfen" i. S. d. § 203 Abs. 3 S. 2 StGB zu behandeln.
-- **§§ 114 ff. ZPO** — Prozesskostenhilfe (PKH): Entwürfe für PKH-Anträge müssen wirtschaftliche Verhältnisse vollständig darlegen; Prüfung hinreichender Erfolgsaussichten (§ 114 Abs. 1 S. 1 ZPO).
-- **§§ 1, 2 BerHG** — Beratungshilfe: Voraussetzungen, Bewilligung vor Erbringung der Leistung.
-- **§§ 17, 18, 23 VwVfG** — Form von Widersprüchen und Verwaltungsverfahrensschreiben.
-- **§ 70 VwGO** — Form des Widerspruchs (schriftlich oder zur Niederschrift); Einreichungsfrist nach §§ 70, 58, 74 VwGO.
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Ablauf
-
-### Schritt 1: Welches Schriftstück?
-
-Den Anforderungstyp dem Musterbestand der Beratungsstelle zuordnen. Typischer Bestand nach Rechtsgebiet:
-
-| Rechtsgebiet | Schriftstücke |
-|---|---|
-| **Mietrecht** | Widerspruch gegen Kündigung, Mängelrüge mit Fristsetzung, Klage auf Kaution, Antrag auf einstweiligen Rechtsschutz |
-| **Arbeitsrecht** | Kündigungsschutzklage (AG), Abmahnungsrüge, Zeugnisverlangen, Lohnrückstandsschreiben |
-| **Verwaltungsrecht** | Widerspruchsschreiben, Klage beim Verwaltungsgericht (Entwurf), Antrag auf aufschiebende Wirkung (§ 80 Abs. 4, 5 VwGO) |
-| **Verbraucherrecht** | Widerrufserklärung (§ 355 BGB), Mahnschreiben, Antwort auf Inkassoschreiben, Antrag auf Lastschriftrückgabe |
-| **Allgemein** | Beratungshilfe-Antrag (BerH 1), PKH-Antrag (ZPO 117), Vollmacht, Empfangsbekenntnis |
-
-Falls das angeforderte Schriftstück nicht im Musterbestand vorhanden ist: "Der Musterbestand der Beratungsstelle enthält kein Muster für [X]. Ich kann einen Entwurf nach allgemeinen Grundsätzen versuchen, aber dieser muss besonders sorgfältig geprüft werden — er wurde nicht auf das Rechtsgebiet und die zuständige Behörde/das Gericht abgestimmt. Besser wäre, den Supervisor zu fragen, ob ein bewährtes Muster vorliegt."
-
-### Schritt 2: Sachverhalt aufnehmen
-
-Fallnotizen und Aktennotiz lesen. Für jeden Aspekt, den das Schriftstück benötigt: Liegt die Information vor?
-
-| Schriftstück braucht | Vorhanden? | Quelle |
+| Typ | Rechtsgrundlage | Pflichten |
 |---|---|---|
-| [Tatsache] | Ja / Nein | [Aktennotiz / Mandantenunterlage / noch zu beschaffen] |
+| RLC / studentische Beratung | § 6 Abs. 2 Nr. 2 RDG | Unentgeltlichkeit, Anleitung durch Volljurist zwingend |
+| Verbraucherzentrale | § 8 Abs. 1 Nr. 4 RDG | Trägergebundene Erlaubnis; keine Einzelfallklage |
+| Sozialberatung (Verbände) | § 8 Abs. 1 Nr. 4 RDG | Satzungsgemäßer Auftrag erforderlich |
+| Pro-Bono (zugelassene Anwälte) | § 1 BRAO (volle Zulassung) | BRAO/BORA voll anwendbar |
 
-Fehlende notwendige Tatsachen → nicht erfinden. Markierung: `[TATSACHE FEHLT: Zustellungsdatum der Kündigung — aus Briefumschlag oder Postzustellungsurkunde entnehmen]`.
+> Bestätigen Sie: "Alle Beratungsleistungen erfolgen unentgeltlich. Die Studentenn stehen unter meiner tatsächlichen Anleitung. Ich nehme meine Aufsichtspflicht wahr." (§ 6 II Nr. 2 RDG)
 
-### Schritt 3: Zuständiges Gericht / Behörde und Formvorschriften
+### Schritt 3: Fachbereiche
 
-- **Rubrum:** Gericht, Aktenzeichen (falls vorhanden), Parteien, Bevollmächtigte/r (Studentenr unter Aufsicht des Supervisors)
-- **Formvorschriften:** Schriftform, Unterschrift, Einreichungsweg (post, Fax, beA, elektronisch)
-- Sind örtliche Besonderheiten nicht bekannt: `[PRÜFEN: Einreichungsweg beim zuständigen Gericht / der zuständigen Behörde überprüfen]`
+> Welche Rechtsgebiete deckt Ihre Beratungsstelle ab?
 
-### Schritt 4: Entwerfen
+Optionen (Mehrfachauswahl):
+- [ ] Asyl- und Flüchtlingsrecht (AsylG, AufenthG)
+- [ ] Aufenthaltsrecht allgemein (AufenthG, FreizügG/EU)
+- [ ] SGB II / Bürgergeld
+- [ ] SGB XII / Grundsicherung im Alter
+- [ ] SGB IX / Eingliederungshilfe (inkl. § 76b SGB IX Geflüchtete)
+- [ ] Rentenrecht / SGB VI
+- [ ] Mietrecht (privat)
+- [ ] Mietrecht (Sozialwohnung / WoBindG)
+- [ ] Verbraucherrecht / AGB
+- [ ] Arbeitsrecht (Kündigung, KSchG)
+- [ ] Familienrecht (Unterhalt, Sorgerecht)
+- [ ] Strafrecht (nur eingeschränkt – an Fachanwälte verweisen)
+- [ ] Sonstiges: [Freitext]
 
-Das Rechtsgebiet-Muster verwenden. Füllen, was aus den Fakten befüllt werden kann. Platzhalter explizit lassen — niemals mit plausibel klingendem Inhalt füllen.
+### Schritt 4: Aufsichtsmodell
 
-**Wo immer der Entwurf eine Rechtsbehauptung aufstellt:** Diese Behauptung ist eine Hypothese, die der/die Studenten überprüft, keine Schlussfolgerung, auf die der Entwurf sich verlässt. Entsprechend markieren.
+> Wie möchten Sie das Aufsichtsmodell einrichten?
 
-### Schritt 5: Unsicherheiten kennzeichnen
+**Prüfungsgates (Default, anpassbar):**
 
-Drei Arten von Markierungen, direkt im Text:
+| Dokument | Default-Gate |
+|---|---|
+| Widerspruch (Fristen < 2 Wochen) | Sofortige Anleiterkonsultation |
+| Widerspruch (Frist > 2 Wochen) | Anleiter prüft vor Versand |
+| Klageschrift | Anleiter prüft und gibt frei (zwingend) |
+| Mandantenbrief mit Rechtsrat | Anleiter prüft vor Versand |
+| Intake-Protokoll | Anleiter nimmt Kenntnis |
+| Memo / Rechtsgutachten | Anleiter prüft inhaltlich |
+| Semesterübergabe | Anleiter muss bestätigen |
 
-- `[TATSACHE FEHLT: ...]` — das Schriftstück benötigt eine Tatsache, die die Fallnotizen nicht enthalten
-- `[PRÜFEN: ...]` — eine Rechts- oder Tatsachenbehauptung, die vor Einreichung überprüft werden muss
-- `[UNSICHER: ...]` — der Skill ist genuinely unsicher und sagt dies, anstatt zu raten
+Anleiter kann Gates verschärfen (z. B. alle Dokumente) oder – für erfahrene Studenten – für bestimmte Routinedokumente lockern.
 
-### Schritt 6: Supervisoren-Routing
+### Schritt 5: Pädagogikhaltung
 
-Ein Schriftstück bei Gericht oder einer Behörde einzureichen ist eine folgenschwere Handlung. Das Gate ist das Supervisionsmodell der Beratungsstelle, verstärkt durch die Grundvoraussetzung, dass ein zugelassener Rechtsanwalt/eine zugelassene Rechtsanwältin die Aufsicht innehat (§ 6 Abs. 2 RDG). Gerichtliche und behördliche Einreichungen gehen immer durch die Supervisoren-Prüfung, unabhängig vom gewählten Supervisionsmodell.
+> Wie lernen Studenten bei Ihnen am besten?
 
-- **Formelle Prüfwarteschlange:** Entwurf geht in die Warteschlange; Studentenr sieht "in Warteschlange für [Supervisor]"
-- **Konfigurierbare Flags:** Wenn dieser Schriftstücktyp ein Flag auslöst (gerichtliche Einreichungen in der Regel immer), enthält der Output: "VOR DER EINREICHUNG MIT [SUPERVISOR] ABSPRECHEN"
-- **Leichtere Begleitung:** Standard-Sicherheitslabel; keine zusätzliche Schranke — aber gerichtliche Einreichungen gehen per Klinikverfahren dennoch an den Supervisor vor Einreichung
+| Haltung | Beschreibung | Geeignet für |
+|---|---|---|
+| **Ausführen** | Das System erstellt vollständige Entwürfe; Studenten analysieren und übergeben | Erfahrene Studenten (3.–5. Sem.), Routinedokumente |
+| **Anleiten** | Das System gibt Struktur und Schlüsselpunkte; Studenten füllen aus | Mittelstufe (2.–3. Sem.) |
+| **Lehren** | Das System stellt nur Fragen; Studenten erarbeiten Lösung | Anfangssemester, neue Fachgebiete |
 
-```markdown
-## Prüfliste für Studenten
+Default für gesamte Beratungsstelle + ggf. Übersteuern je Fachbereich / Dokumenttyp.
 
-Vor Vorlage an [Supervisor]:
+### Schritt 6: Verschwiegenheitsorganisation
 
-- [ ] Das Schriftstück vollständig lesen. Sagt es das, was ausgedrückt werden soll?
-- [ ] Jede Tatsache: stimmt sie mit den tatsächlichen Mandantenunterlagen überein?
-- [ ] Jedes [PRÜFEN]-Flag: durch Recherche aufgelöst oder gestrichen
-- [ ] Jedes [TATSACHE FEHLT]-Flag: mit verifizierten Informationen gefüllt oder Abschnitt entfernt
-- [ ] Rechtsgrundlage: ist dies die richtige Argumentation? Gibt es bessere Ansätze? (Das ist die Analyse des Studentenn, nicht des Entwurfs.)
-- [ ] Formvorschriften: Rubrum, Einreichungsweg, Format nach aktuellen Vorschriften korrekt?
-- [ ] [Supervisionsschritt per Klinik-Konfiguration]
-```
+> Wie ist die IT-Infrastruktur organisiert?
 
-## Beispiel
+- Werden Mandantendaten in einem Cloud-System verarbeitet? → Auftragsverarbeitungsvertrag (AVV) nach Art. 28 DSGVO erforderlich.
+- Wer hat Zugang zu den Mandantenakten?
+- Wie werden Akten nach 5 Jahren gelöscht (§ 50 BRAO Aufbewahrungspflicht)?
+- Einweisung der Studentenn in Verschwiegenheitspflichten? → Empfehlung: Schriftliche Verpflichtungserklärung zu § 203 StGB.
 
-**Szenario:** Mandantin Erdem erhält eine fristlose Kündigung ihres Arbeitsverhältnisses. Kündigung zugestellt am 15.04.2026. Studentenr Müller soll einen Entwurf der Kündigungsschutzklage beim Arbeitsgericht Berlin erstellen.
+### Schritt 7: Örtliche Besonderheiten
 
-```
-/entwurf kündigungsschutzklage-ag
-Fall: Erdem-Arbeitsrecht-2026
-Frist: 06.05.2026 (3 Wochen ab 15.04.2026, § 4 KSchG)
-Arbeitgeber: Beispiel GmbH, Musterstraße 1, 10115 Berlin
-```
+> Welche örtlichen Kontexte sind wichtig?
 
-Entwurf enthält: Rubrum (AG Berlin), Anträge, Klagebegründung mit `[PRÜFEN: Beschäftigungsdauer und Betriebsgröße für Anwendbarkeit KSchG]`, `[TATSACHE FEHLT: Datum des Arbeitsvertragsabschlusses]`.
+- Zuständige BAMF-Außenstelle?
+- Zuständige Ausländerbehörde?
+- Jobcenter-Bezirke / Träger (kommunal oder BA)?
+- Sozialgerichte / Verwaltungsgerichte mit Zuständigkeit?
+- Kooperationspartner (Dolmetscherdienste, andere Beratungsstellen, Pro-Bono-Initiativen)?
+- Qualifizierter Mietspiegel vorhanden? (Relevant: Berlin, Hamburg, München, Frankfurt, Köln)
 
-## Risiken und typische Fehler
+### Schritt 8: CLAUDE.md schreiben
 
-- **Frist nicht beachtet:** Der Entwurf weist auf erkannte Fristen hin, berechnet sie aber nicht selbst. Studenten müssen die Dreiwochenfrist des § 4 KSchG, die Widerspruchsfrist (§ 70 VwGO), Verjährungsfristen (§ 195 BGB) eigenständig prüfen und in `/fristen` eintragen.
-- **Rubrum falsch:** Zuständigkeit, Parteibezeichnungen, Aktenzeichen müssen überprüft werden. Fehlerhaftes Rubrum kann zur Unzulässigkeit führen.
-- **PKH-Antrag vergessen:** Wenn die Mandantin/der Mandant nicht zahlungsfähig ist, muss gleichzeitig mit der Klage ein PKH-Antrag (§ 117 ZPO) eingereicht werden.
-- **Entwurf verlässt Klinik ohne Freigabe:** § 6 Abs. 2 RDG verlangt anwaltliche Aufsicht. Kein Entwurf wird dem Mandanten oder einer Behörde/einem Gericht ohne Supervisoren-Freigabe zugeleitet.
-- **Falsche Rechtsgrundlagen:** Rechtsbehauptungen im Entwurf sind Hypothesen. Der/die Studenten verifiziert jede Norm und Rechtsprechung, bevor der Entwurf weitergereicht wird.
+Ausgabe: vollständige, aktualisierte `CLAUDE.md` mit allen erhobenen Konfigurationswerten. Struktur wie im CLAUDE.md-Template vorgegeben.
 
-## Quellenpflicht
+Anschließend empfehlen:
+- `/rechtsberatungsstelle:leitfaden-erstellen` für jeden konfigurierten Fachbereich
+- `/rechtsberatungsstelle:einarbeitung` – Testlauf aus Studentenn-Perspektive
 
-Jede Rechtsbehauptung im Entwurf ist mit der einschlägigen Norm oder Entscheidung zu belegen. Vorgeschlagene Quellen aus dem Modell sind mit `[Modellwissen — verifizieren]` zu kennzeichnen und vor Verwendung gegen aktuelle Datenbanken (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang, dejure) zu prüfen. Niemals ohne Quellangabe und Supervisoren-Freigabe einreichen.
+## Risiken / typische Fehler
 
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+- **Anleitungsstruktur nur auf dem Papier:** § 6 Abs. 2 Nr. 2 RDG verlangt tatsächliche, nicht nur formelle Anleitung. Ein Anleiter, der monatlich einmal ins Büro schaut, genügt nicht.
+- **Fachbereiche zu weit gefasst:** Eine Beratungsstelle, die alles anbietet, kann nichts gut anbieten. Lieber weniger Bereiche mit klarer Gate-Struktur als viele Bereiche mit Qualitätslücken.
+- **IT-Sicherheit nicht mitgedacht:** Cloud-Systeme ohne AVV verletzen DSGVO Art. 28. Besonders kritisch bei Asylsuchenden (Art. 9 DSGVO: besondere Kategorien).
+- **Semesterwechsel nicht organisiert:** Ohne klare Übergaberegeln fallen Mandate zwischen den Semestern durch. `/rechtsberatungsstelle:semester-übergabe` muss im Ablaufplan verankert sein.
+
+---
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
-## Skill: `memo`
+## Skill: `quellen-livecheck`
 
-_Wenn es um Internes Rechtsgutachten: Gutachten-Gerüst in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle._
 
-# Internes Rechtsgutachten: Gutachten-Gerüst
+# Rechtsquellen-Livecheck
+
+## Einsatzlage
+
+Dieser Quellen-Livecheck für **Rechtsberatungsstelle** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
+
+## Fachlandkarte dieses Plugins
+
+- `anlaufstellen-beweislast-anleiter-bono` — Anlaufstellen Beweislast Anleiter Bono
+- `anleiter-formular-portal-und-einreichung` — Anleiter Formular Portal und Einreichung
+- `anleiter-pruefwarteschlange` — Anleiter Prüfwarteschlange
+- `anpassen` — Anpassen
+- `anschluss-router` — Anschluss Router
+- `bono-erstpruefung-und-mandatsziel` — Bono Erstpruefung und Mandatsziel
+- `briefe-erstberatung-rdg-konform` — Briefe Erstberatung RDG Konform
+- `einarbeitung` — Einarbeitung
+- `einfache-sprache-briefe` — Einfache Sprache Briefe
+- `entwurf-einarbeitung-einfache-sprache` — Entwurf Einarbeitung Einfache Sprache
+- `erstberatung-rdg-grenzen-und-triage` — Erstberatung RDG Grenzen und Triage
+- `erzeugung-leitfaden-erstellen-mandanten` — Erzeugung Leitfaden Erstellen Mandanten
+- `fristen-fristenkontrolle-rdg` — Fristen Fristenkontrolle RDG
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Tragende Normen (RDG) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
+- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
+- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
+- Dynamische Bereiche im Rechtsberatungsstelle (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
+- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
 
-## Eingaben
+## Qualitätsanker
 
-- **Sachverhaltsnotizen / Aktennotiz** — Fakten des Falls; fehlende Angaben werden markiert
-- **Rechtsgebiet** — z. B. Mietrecht, Arbeitsrecht, Verwaltungsrecht, Verbraucherrecht
-- **Spezifische Rechtsfrage** (optional) — falls der Fokus auf einer bestimmten Frage liegen soll
-- **Forschungsstand** (optional) — bereits recherchierte Normen oder Urteile, die eingeflossen sind
-
-## Rechtlicher Rahmen
-
-### Kernvorschriften
-
-- **§ 6 RDG** — Rechtsdienstleistungen durch studentische Beratungsstellen: zulässig als unentgeltliche Rechtsdienstleistung unter anwaltlicher Aufsicht. Das Gutachten ist ein internes Arbeitsmittel und kein Rechtsgutachten im Sinne eines anwaltlichen Leistungsprodukts.
-- **§ 43a Abs. 2 BRAO / § 203 StGB** — Mandatsgeheimnis: Das Gutachten enthält vertrauliche Mandanteninformationen und darf die Beratungsstelle nicht ohne Supervisoren-Freigabe verlassen.
-- Materialrecht des jeweiligen Rechtsgebiets (wird im Gutachten konkretisiert).
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Ablauf
-
-### Schritt 1: Rechtsfragen formulieren
-
-Aus den Fallnotizen: Welche rechtlichen Fragen stellt dieser Fall?
-
-Jede Frage als Obersatz formulieren. Nicht "Mietrecht" — sondern: "Kann die Mandantin die Miete mindern, weil die Heizung seit November defekt ist, und wenn ja, in welcher Höhe?"
-
-Wenn mehrere Fragen vorliegen, bekommt jede ihren eigenen Prüfungsblock.
-
-### Schritt 2: Gutachten-Gerüst aufbauen
-
-Für jede Frage:
-
-**Obersatz:** Als Fragesatz formuliert (aus Schritt 1).
-
-**Norm/Definition:** Dies ist eine Recherche-Lücke, keine Schlussfolgerung. Was der/die Studenten finden muss:
-
-> `[RECHERCHE ERFORDERLICH: § 536 BGB — Mietminderung wegen Sachmangel;
-> Voraussetzungen: erheblicher Mangel, Anzeige durch Mieter (§ 536c BGB),
-> keine Kenntnis bei Vertragsschluss (§ 536b BGB). Starten Sie mit:
-> § 536 BGB, dann Rspr. zu Heizungsausfall als erheblicher Mangel.
-> Vgl. /recherche-start für einen Recherchefahrplan.]`
-
-Falls der Skill einen allgemeinen Normrahmen mit hoher Sicherheit kennt, kann dieser als Ausgangspunkt benannt werden — aber ausdrücklich als ungeprüft markiert:
-
-> *Normrahmen (ungeprüft — für [Bundesland/Gericht] verifizieren):* § 536 Abs. 1 BGB
-> gibt dem Mieter einen Anspruch auf verhältnismäßige Herabsetzung der Miete,
-> wenn die Mietsache zu Mietbeginn oder während der Mietzeit mit einem Mangel
-> behaftet ist, der ihre Tauglichkeit zum vertragsmäßigen Gebrauch aufhebt oder
-> mindert. Die Minderung tritt kraft Gesetzes ein; einer Erklärung bedarf es nicht.
-> `[PRÜFEN: aktuelle Fassung und einschlägige Rspr. für diesen Sachverhalt]`
-
-**Subsumtion:** Hier steht die Analyse des Studentenn. Gerüst strukturieren, nicht ausfüllen:
-
-> `[STUDENTISCHE ANALYSE: Norm auf Sachverhalt anwenden. Relevante Tatsachen:
-> - Heizung seit November defekt — seit wann ist dies ein "erheblicher" Mangel?
-> - Wann und wie hat die Mandantin den Vermieter informiert (§ 536c BGB)?
-> - Ist ein Minderungsausschluss nach § 536b BGB möglich?
-> - Wie hoch ist der Minderungsprozentsatz (Rspr. zu Heizungsausfall prüfen)?]`
-
-**Ergebnis:** Bewusst offen lassen:
-
-> `[STUDENTISCHES ERGEBNIS: Welche Schlussfolgerung ergibt sich aus Norm und
-> Subsumtion? Wie stark ist der Anspruch? Welche Gegenargumente sind zu erwarten?]`
-
-### Schritt 3: Stärken, Schwächen, offene Fragen
-
-Separater Abschnitt nach den Prüfungsblöcken:
-
-**Stärken (aus dem Sachverhalt — Studenten/-r soll diese testen):**
-- [Hilfreiche Tatsache und warum]
-
-**Schwächen (aus dem Sachverhalt — Studenten/-r soll Gewicht abschätzen):**
-- [Problematische Tatsache und warum]
-- `[UNSICHER: ob [X] tatsächlich eine Schwäche ist — hängt von [Norm/Rspr.] zu [Y] ab]`
-
-**Offene Fragen (aus dem Gutachten nicht beantwortbar):**
-- Sachverhaltlich: [Was wissen wir nicht über den Mandanten/die Mandantin?]
-- Rechtlich: [Was erfordert Recherche?]
-- Strategisch: [Ermessensentscheidungen für Studentenn/Supervisor]
-
-```markdown
-## Kurzergebnis
-
-[Mandat annehmen / Ablehnen, weil X / Weitere Informationen zu Y erforderlich —
-nächster Schritt: Z]
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 ---
 
-## Geprüfte Fragen
+## Skill: `workflow-anschluss-skills-router`
 
-1. [Frage als Obersatz]
-2. [Frage als Obersatz]
+_Für Anschluss-Skills Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle._
 
----
+# Anschluss-Skills Router
 
-## Frage 1: [Obersatz]
+## Arbeitsauftrag
 
-### Norm / Definition
+Dieser Arbeitsgang macht **Anschluss-Skills Router** im Bereich **rechtsberatungsstelle** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
 
-[Normrahmen als Ausgangspunkt mit PRÜFEN-Flags und RECHERCHE ERFORDERLICH-Blöcken]
+## Aktenstart ohne Leerlauf
 
-### Subsumtion
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
 
-[STUDENTISCHE ANALYSE — Gerüst mit den relevanten Tatsachen]
+## Fachliche Anker
 
-### Ergebnis
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
 
-[STUDENTISCHES ERGEBNIS — bewusst offen]
+## Arbeitsprodukt
 
----
-
-[Wiederholung für jede weitere Frage]
-
----
-
-## Stärken
-
-[Liste mit Vorbehalten]
-
-## Schwächen
-
-[Liste mit UNSICHER-Flags, wo zutreffend]
-
-## Offene Fragen
-
-**Sachverhaltlich:** [Liste]
-**Rechtlich:** [Liste — diese fließen in /recherche-start ein]
-**Strategisch:** [Liste — dies ist die Agenda für das Supervisorengespräch]
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
 
 ---
 
-## Recherchelücken-Zusammenfassung
+## Skill: `workflow-mandantenkommunikation`
 
-[Alle RECHERCHE ERFORDERLICH-Blöcke in einer Liste, damit der/die Studenten
-sie systematisch abarbeiten kann — und /recherche-start für jede starten kann]
+_Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle._
 
-═══════════════════════════════════════════════════════════════════════
-```
+# Mandantenkommunikation
 
-## Beispiel
+## Arbeitsauftrag
 
-**Szenario:** Mandant Koch, Mieter einer 3-Zimmer-Wohnung. Heizung defekt seit 01.11.2025. Vermieter nach mündlicher Anzeige vom 05.11.2025 untätig. Mandant zahlt weiter volle Miete 1.200 €/Monat.
+Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **rechtsberatungsstelle** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
 
-Obersatz: "Hat Herr Koch einen Anspruch auf Mietminderung nach § 536 Abs. 1 BGB und wenn ja, in welcher Höhe?"
+## Aktenstart ohne Leerlauf
 
-Normblock enthält: `[RECHERCHE ERFORDERLICH: § 536 BGB, § 536c BGB (Anzeigepflicht), Rspr. zu Heizungsausfall als erheblicher Mangel — AG/LG München, AG Hamburg; Höhe des Minderungsprozentsatzes]`. Subsumtionsblock enthält: `[STUDENTISCHE ANALYSE: Anzeigepflicht am 05.11.2025 erfüllt? Schriftform? Wie viele Monate betroffen?]`. Ergebnisblock offen.
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
 
-## Risiken und typische Fehler
+## Fachliche Anker
 
-- **Analyse ohne Recherche ausfüllen:** Die RECHERCHE ERFORDERLICH-Blöcke sind keine Formalität. Ein Gutachten mit ungefüllten oder voreilig abgehakten Normblöcken ist noch kein Gutachten.
-- **Unsicherheiten stillschweigend übergehen:** Wenn ein UNSICHER-Flag gesetzt ist, ist das ein Hinweis zur Recherche oder zum Supervisorengespräch, kein Tippfehler.
-- **Kurzergebnis ohne Analyse:** Das Kurzergebnis am Anfang des Gutachtens ist eine Orientierung; es muss durch die Prüfungsblöcke belegt sein.
-- **Gutachten verlässt Klinik ohne Freigabe:** Das interne Gutachten enthält vertrauliche Mandanteninformationen (§ 203 StGB, § 43a Abs. 2 BRAO). Kein Versand ohne Supervisoren-Freigabe.
-- **Falsches Prüfungsschema:** Das Gerüst folgt der üblichen deutschen Gutachtenreihenfolge. Abweichende Prüfungsreihenfolgen (z. B. Prozessvoraussetzungen zuerst im Verwaltungsrecht) müssen vom Studentenn eigenständig berücksichtigt werden.
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
 
-## Quellenpflicht
+## Arbeitsprodukt
 
-Jeder im Gerüst vorgeschlagene Normrahmen oder Entscheidungshinweis ist mit der Herkunft zu kennzeichnen: `[juris]`, `[beck-online]`, `[dejure]` für datenbankgestützte Belege; `[Modellwissen — verifizieren]` für aus dem Modell stammende Hinweise. Hinweise mit "verifizieren" tragen ein höheres Fehlerrisiko und sind zuerst zu prüfen. Tags nicht entfernen — sie sind das schnellste Signal für den Supervisor, welche Stellen besonderer Aufmerksamkeit bedürfen.
-
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
 
 ---
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+## Skill: `workflow-redteam-qualitygate`
+
+_Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle._
+
+# Red-Team Qualitygate
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Red-Team Qualitygate** im Bereich **rechtsberatungsstelle** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+---
+
+## Skill: `workflow-chronologie-und-belegmatrix`
+
+_Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle._
+
+# Chronologie und Belegmatrix
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Chronologie und Belegmatrix** im Bereich **rechtsberatungsstelle** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+---
+
+## Skill: `output-waehlen`
+
+_Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle._
+
+# Output wählen
+
+## Einsatzlage
+
+Diese Output-Weiche für **Rechtsberatungsstelle** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
+
+## Fachlandkarte dieses Plugins
+
+- `anlaufstellen-beweislast-anleiter-bono` — Anlaufstellen Beweislast Anleiter Bono
+- `anleiter-formular-portal-und-einreichung` — Anleiter Formular Portal und Einreichung
+- `anleiter-pruefwarteschlange` — Anleiter Prüfwarteschlange
+- `anpassen` — Anpassen
+- `anschluss-router` — Anschluss Router
+- `bono-erstpruefung-und-mandatsziel` — Bono Erstpruefung und Mandatsziel
+- `briefe-erstberatung-rdg-konform` — Briefe Erstberatung RDG Konform
+- `einarbeitung` — Einarbeitung
+- `einfache-sprache-briefe` — Einfache Sprache Briefe
+- `entwurf-einarbeitung-einfache-sprache` — Entwurf Einarbeitung Einfache Sprache
+- `erstberatung-rdg-grenzen-und-triage` — Erstberatung RDG Grenzen und Triage
+- `erzeugung-leitfaden-erstellen-mandanten` — Erzeugung Leitfaden Erstellen Mandanten
+- `fristen-fristenkontrolle-rdg` — Fristen Fristenkontrolle RDG
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
+
+## Arbeitsweg
+
+- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Rechtsberatungsstelle (RDG) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 ---
 

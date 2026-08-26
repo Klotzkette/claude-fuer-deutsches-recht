@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Wenn es um Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren

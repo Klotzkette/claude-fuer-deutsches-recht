@@ -1,6 +1,6 @@
 ---
 name: transparenz-kontrolle
-description: "Wenn es um Transparenz Und Kontrolle in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transparenz und Kontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Transparenz Und Kontrolle

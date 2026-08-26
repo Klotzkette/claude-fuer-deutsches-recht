@@ -1,6 +1,6 @@
 ---
 name: auswirkungen-marktanteile-marktbeherrschung
-description: "Wenn es um Auswirkungen auf Marktanteile und Marktbeherrschung in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auswirkungen auf Marktanteile und Marktbeherrschung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auswirkungen auf Marktanteile und Marktbeherrschung

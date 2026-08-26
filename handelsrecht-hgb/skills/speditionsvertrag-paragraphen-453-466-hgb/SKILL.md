@@ -1,6 +1,6 @@
 ---
 name: speditionsvertrag-paragraphen-453-466-hgb
-description: "Wenn es um Speditionsvertrag Paragrafen 453 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Speditionsvertrag Paragrafen 453 ff. HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Speditionsvertrag §§ 453 ff. HGB

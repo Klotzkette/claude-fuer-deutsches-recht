@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-schadensersatz-aufwendungsersatz
-description: "Wenn es um Kaufrecht: Schadensersatz und Aufwendungsersatz in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaufrecht: Schadensersatz und Aufwendungsersatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaufrecht: Schadensersatz und Aufwendungsersatz

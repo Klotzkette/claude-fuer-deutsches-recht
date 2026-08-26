@@ -1,6 +1,6 @@
 ---
 name: parteivernehmung-445-ff-zpo
-description: "Wenn es um Parteivernehmung: Wenn Sie selbst aussagen in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parteivernehmung: Wenn Sie selbst aussagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parteivernehmung: Wenn Sie selbst aussagen

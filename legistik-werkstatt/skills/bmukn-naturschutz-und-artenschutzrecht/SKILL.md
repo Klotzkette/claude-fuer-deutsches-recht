@@ -1,6 +1,6 @@
 ---
 name: bmukn-naturschutz-und-artenschutzrecht
-description: "Wenn es um Naturschutz- und Artenschutzrecht (BMUKN) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Naturschutz- und Artenschutzrecht (BMUKN): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Naturschutz- und Artenschutzrecht (BMUKN)

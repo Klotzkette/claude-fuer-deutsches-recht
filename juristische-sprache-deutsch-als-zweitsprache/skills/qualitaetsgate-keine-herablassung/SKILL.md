@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-keine-herablassung
-description: "Wenn es um Qualitaetsgate Keine Herablassung in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätsgate Keine Herablassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitaetsgate Keine Herablassung

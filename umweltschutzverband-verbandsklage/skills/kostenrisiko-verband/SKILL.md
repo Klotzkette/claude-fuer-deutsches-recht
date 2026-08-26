@@ -1,6 +1,6 @@
 ---
 name: kostenrisiko-verband
-description: "Wenn es um Kostenrisiko Verband in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kostenrisiko Verband: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kostenrisiko Verband

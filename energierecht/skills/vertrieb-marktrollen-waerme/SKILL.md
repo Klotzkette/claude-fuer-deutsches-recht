@@ -1,6 +1,6 @@
 ---
 name: vertrieb-marktrollen-waerme
-description: "Wenn es um Vertrieb und Marktrollen in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertrieb und Marktrollen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertrieb und Marktrollen

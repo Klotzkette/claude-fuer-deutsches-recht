@@ -1,6 +1,6 @@
 ---
 name: rom-089-red-team-modernisierung
-description: "Wenn es um Red Team Modernisierung in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red Team Modernisierung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red Team Modernisierung

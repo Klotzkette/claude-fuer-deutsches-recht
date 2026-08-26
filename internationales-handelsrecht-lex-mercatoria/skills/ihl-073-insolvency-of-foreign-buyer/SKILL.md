@@ -1,6 +1,6 @@
 ---
 name: ihl-073-insolvency-of-foreign-buyer
-description: "Wenn es um Insolvency Of Foreign Buyer in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvency Of Foreign Buyer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvency Of Foreign Buyer

@@ -1,6 +1,6 @@
 ---
 name: serviceroboter-haushalt-gpsr
-description: "Wenn es um Serviceroboter und GPSR in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Serviceroboter und GPSR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Serviceroboter und GPSR

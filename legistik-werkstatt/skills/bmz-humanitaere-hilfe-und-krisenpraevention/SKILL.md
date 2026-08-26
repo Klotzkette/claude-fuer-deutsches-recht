@@ -1,6 +1,6 @@
 ---
 name: bmz-humanitaere-hilfe-und-krisenpraevention
-description: "Wenn es um Humanitaere Hilfe und Krisenpraevention (BMZ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmz Humanitaere Hilfe Und Krisenpraevention; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Humanitäre Hilfe und Krisenprävention (BMZ): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmz-humanitaere-hilfe-und-krisenpraevention."
 ---
 
 # Humanitaere Hilfe und Krisenpraevention (BMZ)

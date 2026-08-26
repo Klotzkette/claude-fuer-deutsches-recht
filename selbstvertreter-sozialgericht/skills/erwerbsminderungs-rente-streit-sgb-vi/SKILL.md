@@ -1,6 +1,6 @@
 ---
 name: erwerbsminderungs-rente-streit-sgb-vi
-description: "Wenn es um Erwerbsminderungs-Rente — Streit mit der Rentenversicherung in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erwerbsminderungs-Rente — Streit mit der Rentenversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erwerbsminderungs-Rente — Streit mit der Rentenversicherung

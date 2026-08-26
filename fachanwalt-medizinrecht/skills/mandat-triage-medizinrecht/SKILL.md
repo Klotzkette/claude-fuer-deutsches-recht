@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-medizinrecht
-description: "Wenn es um Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate in Fachanwalt Medizinrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate

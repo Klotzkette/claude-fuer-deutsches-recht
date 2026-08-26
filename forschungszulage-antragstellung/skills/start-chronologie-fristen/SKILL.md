@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Wenn es um Forschungszulage — Allgemein in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Forschungszulage — Allgemein: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Forschungszulage — Allgemein

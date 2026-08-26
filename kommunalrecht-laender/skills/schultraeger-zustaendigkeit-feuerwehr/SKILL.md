@@ -1,6 +1,6 @@
 ---
 name: schultraeger-zustaendigkeit-feuerwehr
-description: "Wenn es um Schultraeger Zuständigkeit Prüfen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulträger Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schultraeger Zuständigkeit Prüfen

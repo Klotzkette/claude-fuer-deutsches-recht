@@ -1,6 +1,6 @@
 ---
 name: multiple-choice-nachteilsausgleich
-description: "Wenn es um Multiple Choice Und Antwortwahl in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Multiple Choice und Antwortwahl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Multiple Choice Und Antwortwahl

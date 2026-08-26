@@ -1,6 +1,6 @@
 ---
 name: 28-internationale-rechtshilfe-und-eu-haftbefehl
-description: "Wenn es um 28 Internationale Rechtshilfe und EU Haftbefehl in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 28 Internationale Rechtshilfe und EU Haftbefehl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # 28 Internationale Rechtshilfe und EU Haftbefehl

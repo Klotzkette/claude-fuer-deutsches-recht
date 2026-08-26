@@ -1,6 +1,6 @@
 ---
 name: hoai-qualitaetscheck-vor-release
-description: "Wenn es um HOAI Querschnitt: Prüft in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für HOAI Querschnitt: Prüft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # HOAI Querschnitt: Prüft

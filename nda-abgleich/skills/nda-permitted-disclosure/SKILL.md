@@ -1,6 +1,6 @@
 ---
 name: nda-permitted-disclosure
-description: "Wenn es um NDA: Permitted Disclosure in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NDA: Permitted Disclosure: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA: Permitted Disclosure

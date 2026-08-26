@@ -1,6 +1,6 @@
 ---
 name: ki-verordnung-compliance
-description: "Wenn es um digitale Werkzeuge-Verordnung — Compliance-Prüfung in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für digitale Werkzeuge-Verordnung — Compliance-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Verordnung — Compliance-Prüfung

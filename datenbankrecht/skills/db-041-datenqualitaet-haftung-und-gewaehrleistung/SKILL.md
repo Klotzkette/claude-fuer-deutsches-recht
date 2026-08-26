@@ -1,6 +1,6 @@
 ---
 name: db-041-datenqualitaet-haftung-und-gewaehrleistung
-description: "Wenn es um Datenbankrecht: Datenqualität Haftung und Gewährleistung in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Datenqualität Haftung und Gewährleistung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Datenbankrecht: Datenqualität Haftung und Gewährleistung

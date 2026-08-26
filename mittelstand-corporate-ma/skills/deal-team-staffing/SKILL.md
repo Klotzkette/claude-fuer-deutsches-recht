@@ -1,6 +1,6 @@
 ---
 name: deal-team-staffing
-description: "Wenn es um Deal-Team und Staffing in Mittelstands-Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Deal-Team und Staffing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Deal-Team und Staffing

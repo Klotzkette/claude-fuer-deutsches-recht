@@ -1,6 +1,6 @@
 ---
 name: einstellung-fahrerlaubnis
-description: "Wenn es um Einstellung: Compliance-Dokumentation und Aktenvermerk in Strafbefehl-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Einstellung: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstellung: Compliance-Dokumentation und Aktenvermerk

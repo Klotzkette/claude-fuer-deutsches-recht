@@ -1,6 +1,6 @@
 ---
 name: verwaltungsgerichtliche-versandmappe-endfertigen
-description: "Endfertigt Anfechtungs-, Verpflichtungs-, Feststellungs- und Leistungsklage sowie Anträge nach VwGO Paragraf 80 Absatz 5 oder Paragraf 123: liest Bescheid, Widerspruchsbescheid und Behördenakte zuerst, prüft Klageart, Antrag, Zuständigkeit, Zustellung und Eilgrund, ordnet Verwaltungsvorgänge und Beweise zu und liefert beA-fertige Einzel-PDFs samt Eingangsprüfung."
+description: "Endfertigt Anfechtungs-, Verpflichtungs-, Feststellungs- und Leistungsklage sowie Anträge nach VwGO Paragraf 80 Absatz 5 oder Paragraf 123: liest Bescheid, Widerspruchsbescheid und Behördenakte zuerst, prüft Klageart, Antrag, Zuständigkeit, Zustellung und Eilgrund, ordnet Verwaltungsvorgänge und Beweise zu und liefert beA-fertige Einzel-PDFs samt."
 ---
 
 # Verwaltungsgerichtliche Versandmappe endfertigen

@@ -1,6 +1,6 @@
 ---
 name: verl-029-fachzeitschrift-peer-review-und-haftung
-description: "Wenn es um Verlagsrecht: Fachzeitschrift Peer Review und Haftung in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Fachzeitschrift Peer Review und Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Fachzeitschrift Peer Review und Haftung

@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-bei-finanzmarktdaten
-description: "Wenn es um Datenbankrecht bei Finanzmarktdaten — Börsen, Kurse und Marktdaten in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht bei Finanzmarktdaten — Börsen, Kurse und Marktdaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht bei Finanzmarktdaten — Börsen, Kurse und Marktdaten

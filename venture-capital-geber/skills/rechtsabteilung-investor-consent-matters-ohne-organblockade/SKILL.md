@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-investor-consent-matters-ohne-organblockade
-description: "Wenn es um Rechtsabteilung: Investor Consent Matters ohne Organblockade in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Rechtsabteilung: Investor Consent Matters ohne Organblockade: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Investor Consent Matters ohne Organblockade

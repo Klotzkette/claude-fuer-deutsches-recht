@@ -1,6 +1,6 @@
 ---
 name: iwr-cisg-anwendbarkeit
-description: "Wenn es um Iwr Cisg Anwendbarkeit in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Iwr Cisg Anwendbarkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unternehmen hat grenzüberschreitenden Warenkauf und fragt: Gilt UN-Kaufrecht automatisch oder können wir es ausschließen? CISG Anwendbarkeit Art

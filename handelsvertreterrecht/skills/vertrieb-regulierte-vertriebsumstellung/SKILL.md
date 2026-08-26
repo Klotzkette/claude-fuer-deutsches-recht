@@ -1,6 +1,6 @@
 ---
 name: vertrieb-regulierte-vertriebsumstellung
-description: "Wenn es um Handelsvertreter regulierter Produkte — Zulassung und berufsrechtliche Pflichten in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsvertreter regulierter Produkte — Zulassung und berufsrechtliche Pflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsvertreter regulierter Produkte — Zulassung und berufsrechtliche Pflichten

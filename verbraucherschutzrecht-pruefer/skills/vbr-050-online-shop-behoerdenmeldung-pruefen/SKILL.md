@@ -1,6 +1,6 @@
 ---
 name: vbr-050-online-shop-behoerdenmeldung-pruefen
-description: "Wenn es um Online Shop Behoerdenmeldung Pruefen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Online Shop Behördenmeldung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: vbr-050-online-shop-behoerdenmeldung-pruefen."
 ---
 
 # Online Shop Behoerdenmeldung Pruefen

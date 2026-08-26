@@ -1,6 +1,6 @@
 ---
 name: ki-registerakte-nachlass
-description: "Wenn es um digitale Werkzeuge-Halluzinationsschutz in Registerakten in Handelsregister Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für digitale Werkzeuge-Halluzinationsschutz in Registerakten: ordnet Akte, Belege und Lücken; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # KI-Halluzinationsschutz in Registerakten

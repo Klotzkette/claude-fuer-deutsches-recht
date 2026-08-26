@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-campusnetze-5g
-description: "Wenn es um Telekommunikation: Campusnetze 5G in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Telekommunikation: Campusnetze 5G: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telekommunikation: Campusnetze 5G

@@ -1,6 +1,6 @@
 ---
 name: eugv-zustaendigkeit-art-7-eugvvo
-description: "Wenn es um Eugv Zustaendigkeit art 7 EuGVVO in Fachanwalt Internationales Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eugv Zuständigkeit art 7 EuGVVO: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Eugv Zustaendigkeit art 7 EuGVVO

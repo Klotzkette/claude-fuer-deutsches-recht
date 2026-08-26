@@ -1,6 +1,6 @@
 ---
 name: krankenkassenprozess-versandmappe-endfertigen
-description: "Endfertigt sozialgerichtliche Leistungs-, Hilfsmittel-, Arzneimittel- und Krankengeldverfahren gegen Krankenkasse oder Pflegekasse: liest Bescheidkette, MD-Gutachten, Verordnung, Befunde, Kostenangebot und Widerspruchsakte zuerst, prüft Antrag und Eilbedarf, ordnet medizinische Tatsachen zu und liefert geschützte Einzel-PDFs mit SGG-Form- und Eingangskontrolle."
+description: "Endfertigt sozialgerichtliche Leistungs-, Hilfsmittel-, Arzneimittel- und Krankengeldverfahren gegen Krankenkasse oder Pflegekasse: liest Bescheidkette, MD-Gutachten, Verordnung, Befunde, Kostenangebot und Widerspruchsakte zuerst, prüft Antrag und Eilbedarf, ordnet medizinische Tatsachen zu und liefert geschützte Einzel-PDFs mit SGG-Form- und."
 ---
 
 # Krankenkassenprozess-Versandmappe endfertigen

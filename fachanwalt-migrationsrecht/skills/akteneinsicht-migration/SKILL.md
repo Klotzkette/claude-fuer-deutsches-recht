@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-migration
-description: "Wenn es um Akteneinsicht Migration: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Akteneinsicht Migration: Fachmodul im Migrationsrecht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Akteneinsicht Migration: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Akteneinsicht Migration: Fachmodul im Migrationsrecht i
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-akteneinsicht-migration` beziehungsweise Akteneinsicht Migration: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-akteneinsicht-migration.md).

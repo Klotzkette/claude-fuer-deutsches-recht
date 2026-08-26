@@ -1,6 +1,6 @@
 ---
 name: konfliktdeeskalation-formulierungen
-description: "Wenn es um Konfliktdeeskalation: Formulierungsbausteine in E-Mail-Umformulierer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Konfliktdeeskalation: Formulierungsbausteine: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Konfliktdeeskalation: Formulierungsbausteine

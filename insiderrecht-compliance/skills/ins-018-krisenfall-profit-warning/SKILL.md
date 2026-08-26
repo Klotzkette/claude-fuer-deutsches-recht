@@ -1,6 +1,6 @@
 ---
 name: ins-018-krisenfall-profit-warning
-description: "Wenn es um Profit Warning und Krise in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Profit Warning und Krise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Profit Warning und Krise

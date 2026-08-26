@@ -1,6 +1,6 @@
 ---
 name: begriff-vorformuliert-digitalen-produkten-iso
-description: "Wenn es um AGB Begriff Vorformuliert 305 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Begriff Vorformuliert Digitalen Produkten Iso; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für AGB Begriff Vorformuliert 305: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: begriff-vorformuliert-digitalen-produkten-iso."
 ---
 
 # AGB Begriff Vorformuliert 305

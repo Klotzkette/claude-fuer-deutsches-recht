@@ -1,6 +1,6 @@
 ---
 name: planfeststellung
-description: "Wenn es um Planfeststellung und Plangenehmigung — Verkehrsinfrastruktur in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Planfeststellung und Plangenehmigung — Verkehrsinfrastruktur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Planfeststellung und Plangenehmigung — Verkehrsinfrastruktur

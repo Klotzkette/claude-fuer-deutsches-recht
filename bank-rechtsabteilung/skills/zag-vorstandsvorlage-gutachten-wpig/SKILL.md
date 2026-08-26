@@ -1,6 +1,6 @@
 ---
 name: zag-vorstandsvorlage-gutachten-wpig
-description: "Wenn es um Vorstandsvorlage in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorstandsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorstandsvorlage

@@ -1,6 +1,6 @@
 ---
 name: pferdestall-behoerdenantrag-schreiben
-description: "Wenn es um Pferdestall Behördenantrag Schreiben in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Pferdestall Behördenantrag Schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Tierschutzrecht. Route: pferdestall-behoerdenantrag-schreiben."
 ---
 
 # Pferdestall Behördenantrag Schreiben

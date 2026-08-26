@@ -1,6 +1,6 @@
 ---
 name: lease-047-leasing-in-sanierungsgutachten
-description: "Wenn es um Leasingrecht: Leasing in Sanierungsgutachten in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Leasing in Sanierungsgutachten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Leasing in Sanierungsgutachten

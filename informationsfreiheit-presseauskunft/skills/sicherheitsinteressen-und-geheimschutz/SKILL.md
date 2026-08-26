@@ -1,6 +1,6 @@
 ---
 name: sicherheitsinteressen-und-geheimschutz
-description: "Wenn es um Sicherheitsinteressen Und Geheimschutz in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sicherheitsinteressen und Geheimschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sicherheitsinteressen Und Geheimschutz

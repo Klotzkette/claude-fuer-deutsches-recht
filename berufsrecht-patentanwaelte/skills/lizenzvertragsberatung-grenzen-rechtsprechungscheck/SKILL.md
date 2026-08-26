@@ -1,6 +1,6 @@
 ---
 name: lizenzvertragsberatung-grenzen-rechtsprechungscheck
-description: "Wenn es um Lizenzvertragsberatung Grenzen Rechtsprechungscheck in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Lizenzvertragsberatung Grenzen Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: lizenzvertragsberatung grenzen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: mehrere-verstoesse-und-art-83-3
-description: "Wenn es um Mehrere Verstöße und Art. 83 Abs. 3 in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mehrere Verstöße und Art. 83 Abs. 3: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mehrere Verstöße und Art. 83 Abs. 3

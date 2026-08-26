@@ -1,6 +1,6 @@
 ---
 name: rechtsmittelfrist-517-zpo
-description: "Wenn es um Berufungsfrist: 1 Monat — keine Verlaengerung in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berufungsfrist: 1 Monat — keine Verlängerung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Berufungsfrist: 1 Monat — keine Verlaengerung

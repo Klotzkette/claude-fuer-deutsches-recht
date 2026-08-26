@@ -1,6 +1,6 @@
 ---
 name: ki-hochrisiko-anhang-iii-pruefen
-description: "Wenn es um Hochrisiko-digitale Werkzeuge Anhang III in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Hochrisiko-digitale Werkzeuge Anhang III: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hochrisiko-KI Anhang III

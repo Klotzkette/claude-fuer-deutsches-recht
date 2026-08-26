@@ -1,6 +1,6 @@
 ---
 name: forderungsschreiben-mahnung-klage-amtsgericht
-description: "Wenn es um Forderungsschreiben — Mahnung (zweite Stufe) in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Forderungsschreiben Mahnung Klage Amtsgericht; Arbeitsfeld: Fluggastrechte."
+description: "Für Forderungsschreiben — Mahnung (zweite Stufe): erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Forderungsschreiben — Mahnung (zweite Stufe)

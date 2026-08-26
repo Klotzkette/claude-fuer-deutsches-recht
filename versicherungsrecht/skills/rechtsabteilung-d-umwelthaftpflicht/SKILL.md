@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-d-umwelthaftpflicht
-description: "Wenn es um Rechtsabteilung: D&O-Deckung bei Organhaftung in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: D&O-Deckung bei Organhaftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: D&O-Deckung bei Organhaftung

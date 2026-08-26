@@ -1,6 +1,6 @@
 ---
 name: pecl-und-soft-law-vergleich
-description: "Wenn es um PECL, DCFR und PICC: Soft-Law-Vergleich in Internationales Handelsrecht und Lex Mercatoria geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für PECL, DCFR und PICC: Soft-Law-Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # PECL, DCFR und PICC: Soft-Law-Vergleich

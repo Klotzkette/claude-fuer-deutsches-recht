@@ -1,6 +1,6 @@
 ---
 name: versammlungsrecht-schnittstelle
-description: "Wenn es um Versammlungsrecht Schnittstelle in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versammlungsrecht Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versammlungsrecht Schnittstelle

@@ -1,6 +1,6 @@
 ---
 name: charterparty-arrest-vorbereiten
-description: "Wenn es um Charterparty – Arrest vorbereiten in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Charterparty – Arrest vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Charterparty – Arrest vorbereiten

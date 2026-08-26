@@ -1,6 +1,6 @@
 ---
 name: schwerbehinderte-bewerber-165-sgb-9
-description: "Wenn es um Schwerbehinderte Bewerber im oeffentlichen Dienst — Paragraf 165 SGB IX in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schwerbehinderte Bewerber im öffentlichen Dienst — Paragraf 165 SGB IX: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Beamtenrecht. Route: schwerbehinderte-bewerber-165-sgb-9."
 ---
 
 # Schwerbehinderte Bewerber im oeffentlichen Dienst — § 165 SGB IX

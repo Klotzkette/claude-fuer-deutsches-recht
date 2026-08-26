@@ -1,6 +1,6 @@
 ---
 name: einreichung-mein-justizpostfach-mjp-sozialgericht
-description: "Wenn es um Mein Justizpostfach (MJP) für Buerger seit 2024 in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mein Justizpostfach (MJP) für Bürger seit 2024: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Mein Justizpostfach (MJP) für Buerger seit 2024

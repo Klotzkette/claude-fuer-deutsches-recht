@@ -1,6 +1,6 @@
 ---
 name: quoten-sonderfall-edge-case
-description: "Wenn es um Quoten: Sonderfall und Edge-Case-Prüfung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quoten: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quoten: Sonderfall und Edge-Case-Prüfung

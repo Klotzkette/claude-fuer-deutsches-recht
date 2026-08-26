@@ -1,6 +1,6 @@
 ---
 name: grundrechte-digitaler-staat-polizei-ueberwachung
-description: "Wenn es um Digitaler Staat, Polizei und Überwachung in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitaler Staat, Polizei und Überwachung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitaler Staat, Polizei und Überwachung

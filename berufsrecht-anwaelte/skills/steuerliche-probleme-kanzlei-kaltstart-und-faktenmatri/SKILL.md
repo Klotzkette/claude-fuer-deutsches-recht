@@ -1,6 +1,6 @@
 ---
 name: steuerliche-probleme-kanzlei-kaltstart-und-faktenmatri
-description: "Wenn es um Steuerliche Probleme Kanzlei Kaltstart Und Faktenmatri in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuerliche Probleme Kanzlei Kaltstart und Faktenmatri: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anwälte: steuerliche probleme kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

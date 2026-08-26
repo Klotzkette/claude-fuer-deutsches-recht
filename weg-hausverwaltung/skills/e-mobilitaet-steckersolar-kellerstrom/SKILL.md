@@ -1,6 +1,6 @@
 ---
 name: e-mobilitaet-steckersolar-kellerstrom
-description: "Wenn es um E-Mobilität, Steckersolar und Kellerstrom in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für E-Mobilität, Steckersolar und Kellerstrom: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E-Mobilität, Steckersolar und Kellerstrom

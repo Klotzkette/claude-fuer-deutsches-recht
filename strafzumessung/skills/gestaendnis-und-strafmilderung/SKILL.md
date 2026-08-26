@@ -1,6 +1,6 @@
 ---
 name: gestaendnis-und-strafmilderung
-description: "Wenn es um Gestaendnis und Strafmilderung in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geständnis und Strafmilderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gestaendnis und Strafmilderung

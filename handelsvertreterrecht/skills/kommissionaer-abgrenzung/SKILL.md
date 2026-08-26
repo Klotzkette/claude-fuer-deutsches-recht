@@ -1,6 +1,6 @@
 ---
 name: kommissionaer-abgrenzung
-description: "Wenn es um Abgrenzung Handelsvertreter vom Kommissionär nach Paragrafen 383 ff. HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Abgrenzung Handelsvertreter vom Kommissionär nach Paragrafen 383 ff. HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abgrenzung Handelsvertreter vom Kommissionär nach §§ 383 ff. HGB

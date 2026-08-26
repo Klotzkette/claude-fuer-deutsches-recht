@@ -1,6 +1,6 @@
 ---
 name: beauty-filter-und-irrefuehrung
-description: "Wenn es um Influencer-Recht: Beauty-Filter und Irreführung in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Influencer-Recht: Beauty-Filter und Irreführung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Beauty-Filter und Irreführung

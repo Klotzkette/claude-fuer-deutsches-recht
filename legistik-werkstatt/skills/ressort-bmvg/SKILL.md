@@ -1,6 +1,6 @@
 ---
 name: ressort-bmvg
-description: "Wenn es um Ressort-Heranfuehrung BMVg in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ressort Bmvg; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Ressort-Heranführung BMVg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: ressort-bmvg."
 ---
 
 # Ressort-Heranfuehrung BMVg

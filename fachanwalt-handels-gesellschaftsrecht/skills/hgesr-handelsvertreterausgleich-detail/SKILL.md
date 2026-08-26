@@ -1,6 +1,6 @@
 ---
 name: hgesr-handelsvertreterausgleich-detail
-description: "Wenn es um Hgesr Handelsvertreterausgleich Detail in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hgesr Handelsvertreterausgleich Detail: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsvertreterausgleich § 89b HGB detailliert: Voraussetzungen Nichtwirksamwerden des Vertrags, Unternehmervorteile bestehen fort, Provisionsverluste, Billigkeit

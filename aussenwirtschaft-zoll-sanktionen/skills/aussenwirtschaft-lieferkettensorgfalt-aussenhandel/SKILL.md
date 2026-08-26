@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-lieferkettensorgfalt-aussenhandel
-description: "Wenn es um Lieferkettensorgfaltspflichten im Aussenhandel: LkSG und CSDDD in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Lieferkettensorgfaltspflichten im Außenhandel: LkSG und CSDDD: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lieferkettensorgfaltspflichten im Aussenhandel: LkSG und CSDDD

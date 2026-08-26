@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Urheberrecht DE/EU Kaltstart und Routing in Urheberrecht DE EU geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urheberrecht DE/EU Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urheberrecht DE/EU Kaltstart und Routing

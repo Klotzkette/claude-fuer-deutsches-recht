@@ -1,6 +1,6 @@
 ---
 name: bilanzstatus-risikoampel-und-gegenargumente
-description: "Wenn es um Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien in Fortbestehensprognose geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien

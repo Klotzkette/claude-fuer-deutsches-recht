@@ -1,6 +1,6 @@
 ---
 name: vzta-antrag-warennummer-hs-wto-handelspolitik
-description: "Wenn es um vZTA-Antrag: Qualitaetsgate für verbindliche Zolltarifauskuenfte in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für vZTA-Antrag: Qualitätsgate für verbindliche Zolltarifauskünfte: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # vZTA-Antrag: Qualitaetsgate für verbindliche Zolltarifauskuenfte

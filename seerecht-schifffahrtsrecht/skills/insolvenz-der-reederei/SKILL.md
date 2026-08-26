@@ -1,6 +1,6 @@
 ---
 name: insolvenz-der-reederei
-description: "Wenn es um Insolvenz der Reederei – Gläubigerrechte und Verwertung in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenz der Reederei – Gläubigerrechte und Verwertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenz der Reederei – Gläubigerrechte und Verwertung

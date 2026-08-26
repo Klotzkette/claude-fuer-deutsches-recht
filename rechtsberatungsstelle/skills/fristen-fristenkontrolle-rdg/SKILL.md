@@ -1,6 +1,6 @@
 ---
 name: fristen-fristenkontrolle-rdg
-description: "Wenn es um Fristenverwaltung in Plugin für die studentische Rechtsberatungsstelle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristenverwaltung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristenverwaltung

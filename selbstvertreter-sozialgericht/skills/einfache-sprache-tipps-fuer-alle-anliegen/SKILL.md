@@ -1,6 +1,6 @@
 ---
 name: einfache-sprache-tipps-fuer-alle-anliegen
-description: "Wenn es um Klar schreiben — Tipps für Schriftsaetze in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klar schreiben — Tipps für Schriftsätze: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klar schreiben — Tipps für Schriftsaetze

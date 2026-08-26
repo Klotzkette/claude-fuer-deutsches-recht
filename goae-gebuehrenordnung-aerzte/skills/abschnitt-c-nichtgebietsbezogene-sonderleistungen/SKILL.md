@@ -1,6 +1,6 @@
 ---
 name: abschnitt-c-nichtgebietsbezogene-sonderleistungen
-description: "Wenn es um Abschnitt C nichtgebietsbezogene Sonderleistungen in GOÄ Gebührenordnung für Ärzte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abschnitt C nichtgebietsbezogene Sonderleistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abschnitt C nichtgebietsbezogene Sonderleistungen

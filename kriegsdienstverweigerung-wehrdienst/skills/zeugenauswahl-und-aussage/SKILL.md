@@ -1,6 +1,6 @@
 ---
 name: zeugenauswahl-und-aussage
-description: "Wenn es um Zeugen und Auskunftspersonen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zeugen und Auskunftspersonen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zeugen und Auskunftspersonen

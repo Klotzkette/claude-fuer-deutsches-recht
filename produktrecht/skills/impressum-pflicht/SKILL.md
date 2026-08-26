@@ -1,6 +1,6 @@
 ---
 name: impressum-pflicht
-description: "Wenn es um Impressumspflicht (Paragrafen 5. 6 DDG, Paragraf 18 MStV) in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Impressumspflicht (Paragrafen 5. 6 DDG, Paragraf 18 MStV): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Impressumspflicht (§§ 5, 6 DDG, § 18 MStV)

@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 106 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Venture Capital Geber ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbin…
-2. **kaltstart-triage** — Wenn es um Kaltstart und Fallrouting in Venture Capital Geber geht: klärt Rolle, Ziel, Frist, Unterlagen und den passend…
-3. **rechtsabteilung-safe-wandeldarlehen-rookie-modus-begriffe** — Wenn es um Rechtsabteilung: SAFE und Wandeldarlehen nach deutschem Recht in Venture Capital Geber geht: ordnet Akteninha…
-4. **rechtsabteilung-investor-consent-matters-ohne-organblockade** — Wenn es um Rechtsabteilung: Investor Consent Matters ohne Organblockade in Venture Capital Geber geht: ordnet Akteninhal…
-5. **vc-097-tokenisierung-digital-shares** — Wenn es um Vc 097 Tokenisierung Digital Shares in Venture Capital Geber geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
-6. **ic-memo-generator** — Wenn es um Investment Committee Memo in Venture Capital Geber geht: erstellt den passenden Entwurf aus Sachverhalt, Norm…
-7. **rechtsabteilung-data-room-update-und-insider-governance** — Wenn es um Rechtsabteilung: Data Room Update und Insider-Governance in Venture Capital Geber geht: ordnet Akteninhalt, B…
-8. **scout-advisor-agreements-angelsyndikat-lead-investor** — Wenn es um Scout- und Advisor Agreements in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforde…
+2. **kaltstart-triage** — Für Kaltstart und Fallrouting: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und näc…
+3. **rechtsabteilung-safe-wandeldarlehen-rookie-modus-begriffe** — Für Rechtsabteilung: SAFE und Wandeldarlehen nach deutschem Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: …
+4. **rechtsabteilung-investor-consent-matters-ohne-organblockade** — Für Rechtsabteilung: Investor Consent Matters ohne Organblockade: ordnet Norm, Beweislast und Gegenargument; Ergebnis: P…
+5. **rechtsabteilung-data-room-update-und-insider-governance** — Für Rechtsabteilung: Data Room Update und Insider-Governance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
+6. **rechtsabteilung-founder-vesting-und-leaver-streit** — Für Rechtsabteilung: Founder Vesting und Leaver-Streit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt…
+7. **rechtsabteilung-down-round-und-anti-dilution** — Für Rechtsabteilung: Down Round und Anti-Dilution: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit …
+8. **investorprofil-family-office-fonds-angel** — Für Investorprofil: Family Office, Fonds, Angel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
 
 ---
 
@@ -136,7 +136,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Pflichtverletzung, Schade
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart und Fallrouting in Venture Capital Geber geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart und Fallrouting: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Kaltstart und Fallrouting
 
@@ -195,7 +195,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## Skill: `rechtsabteilung-safe-wandeldarlehen-rookie-modus-begriffe`
 
-_Wenn es um Rechtsabteilung: SAFE und Wandeldarlehen nach deutschem Recht in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste._
+_Für Rechtsabteilung: SAFE und Wandeldarlehen nach deutschem Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Rechtsabteilung: SAFE und Wandeldarlehen nach deutschem Recht
 
@@ -241,7 +241,7 @@ VC prüft, ob US-Templates in deutsche GmbH-Finanzierung passen.
 
 ## Skill: `rechtsabteilung-investor-consent-matters-ohne-organblockade`
 
-_Wenn es um Rechtsabteilung: Investor Consent Matters ohne Organblockade in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste._
+_Für Rechtsabteilung: Investor Consent Matters ohne Organblockade: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Rechtsabteilung: Investor Consent Matters ohne Organblockade
 
@@ -285,118 +285,9 @@ Zustimmungskataloge werden zwischen Schutzrecht und faktischer Geschäftsführun
 
 ---
 
-## Skill: `vc-097-tokenisierung-digital-shares`
-
-_Wenn es um Vc 097 Tokenisierung Digital Shares in Venture Capital Geber geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
-
-# Prüft tokenisierte Investments, eWpG, MiCAR, Wallets, Register, Verwahrung und Anlegerkommunikation.
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Term-Sheet-Exklusivität typ. 30–60 Tage, Due-Diligence-Window 4–8 Wochen, GmbHG § 16 Abs. 1 Listenwirkung nach Übermittlung, KAGB § 343 Übergangsfristen.
-- Tragende Normen verifizieren: BGB §§ 311b Abs. 1, 145 ff., GmbHG §§ 5, 15, 16, 17, 53, 55, AktG §§ 182, 186, 192, 202, UmwG, KAGB §§ 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG §§ 6, 50d, EStG §§ 17, 20 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet, Beteiligungsvertrag (SHA), Gesellschaftsvertrag (Satzung), Wandeldarlehen (CLN/SAFE), ESOP/VSOP-Programm, Due-Diligence-Bericht, Cap Table, Closing-Memorandum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Prüft tokenisierte Investments, eWpG, MiCAR, Wallets, Register, Verwahrung und Anlegerkommunikation.
-
-### Tokenisierung und digitale Beteiligung
-
-## Arbeitsfokus
-
-Digitale VC-Strukturen regulatorisch einordnen.
-
-## Intake-Fragen
-
-1. Welche Rolle hat der Nutzer: Angel, Family Office, Fonds, SPV, Corporate VC, Scout oder Co-Investor?
-2. Welche Deal-Phase und welches Instrument liegen vor?
-3. Welche Unterlagen sind hochgeladen oder fehlen noch?
-4. Welche Entscheidung soll jetzt fallen und bis wann?
-5. Welche roten Linien bestehen bei Aufsicht, KYC, Steuer, Daten, IP, Wettbewerb oder Founder-Konflikt?
-
-## Workflow
-
-1. Sachverhalt und Dokumente in eine Deal-Akte sortieren.
-2. Wirtschaftliche These, rechtliche Struktur und operative nächste Schritte trennen.
-3. Zahlen, Cap Table, Fristen und Zusagen in Tabellenform festhalten.
-4. Rechtliche Aussagen nur mit Quellenanker oder als Prüfauftrag formulieren.
-5. Am Ende konkrete Entscheidungsvorlage, offene Fragen und nächste Nachricht erzeugen.
-
-## Typische Ausgaben
-
-- Token-Risikoampel
-- Custody-Fragen
-- Structure Memo
-
-## Red Flags
-
-- keine unmarkierten Annahmen
-- keine ungeprüften Marktstandards
-- keine rechtlichen Schwellen ohne Live-Check
-
-## Quellen- und Qualitätsregel
-
-Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Kartellrecht, Datenschutz, AI Act oder internationale Securities-Themen berührt sind, nicht aus Modellwissen final entscheiden. Aktuelle amtliche Quellen oder lokale Counsel verlangen und die Ausgabe als Struktur-/Prüfvermerk kennzeichnen.
-
----
-
-## Skill: `ic-memo-generator`
-
-_Wenn es um Investment Committee Memo in Venture Capital Geber geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Investment Committee Memo
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Term-Sheet-Exklusivität typ. 30–60 Tage, Due-Diligence-Window 4–8 Wochen, GmbHG § 16 Abs. 1 Listenwirkung nach Übermittlung, KAGB § 343 Übergangsfristen.
-- Tragende Normen verifizieren: BGB §§ 311b Abs. 1, 145 ff., GmbHG §§ 5, 15, 16, 17, 53, 55, AktG §§ 182, 186, 192, 202, UmwG, KAGB §§ 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG §§ 6, 50d, EStG §§ 17, 20 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet, Beteiligungsvertrag (SHA), Gesellschaftsvertrag (Satzung), Wandeldarlehen (CLN/SAFE), ESOP/VSOP-Programm, Due-Diligence-Bericht, Cap Table, Closing-Memorandum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Arbeitsfokus
-
-Entscheidungen dokumentierbar machen.
-
-## Intake-Fragen
-
-1. Welche Rolle hat der Nutzer: Angel, Family Office, Fonds, SPV, Corporate VC, Scout oder Co-Investor?
-2. Welche Deal-Phase und welches Instrument liegen vor?
-3. Welche Unterlagen sind hochgeladen oder fehlen noch?
-4. Welche Entscheidung soll jetzt fallen und bis wann?
-5. Welche roten Linien bestehen bei Aufsicht, KYC, Steuer, Daten, IP, Wettbewerb oder Founder-Konflikt?
-
-## Workflow
-
-1. Sachverhalt und Dokumente in eine Deal-Akte sortieren.
-2. Wirtschaftliche These, rechtliche Struktur und operative nächste Schritte trennen.
-3. Zahlen, Cap Table, Fristen und Zusagen in Tabellenform festhalten.
-4. Rechtliche Aussagen nur mit Quellenanker oder als Prüfauftrag formulieren.
-5. Am Ende konkrete Entscheidungsvorlage, offene Fragen und nächste Nachricht erzeugen.
-
-## Typische Ausgaben
-
-- IC-Memo
-- Beschlussvorlage
-- Open-Items
-
-## Red Flags
-
-- keine unmarkierten Annahmen
-- keine ungeprüften Marktstandards
-- keine rechtlichen Schwellen ohne Live-Check
-
-## Quellen- und Qualitätsregel
-
-Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Kartellrecht, Datenschutz, AI Act oder internationale Securities-Themen berührt sind, nicht aus Modellwissen final entscheiden. Aktuelle amtliche Quellen oder lokale Counsel verlangen und die Ausgabe als Struktur-/Prüfvermerk kennzeichnen.
-
----
-
 ## Skill: `rechtsabteilung-data-room-update-und-insider-governance`
 
-_Wenn es um Rechtsabteilung: Data Room Update und Insider-Governance in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste._
+_Für Rechtsabteilung: Data Room Update und Insider-Governance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Rechtsabteilung: Data Room Update und Insider-Governance
 
@@ -440,11 +331,103 @@ Updates, Privilege, Confidentiality und Follow-on-Risiko werden getrackt.
 
 ---
 
-## Skill: `scout-advisor-agreements-angelsyndikat-lead-investor`
+## Skill: `rechtsabteilung-founder-vesting-und-leaver-streit`
 
-_Wenn es um Scout- und Advisor Agreements in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Rechtsabteilung: Founder Vesting und Leaver-Streit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Scout- und Advisor Agreements
+# Rechtsabteilung: Founder Vesting und Leaver-Streit
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Term-Sheet-Exklusivität typ. 30–60 Tage, Due-Diligence-Window 4–8 Wochen, GmbHG § 16 Abs. 1 Listenwirkung nach Übermittlung, KAGB § 343 Übergangsfristen.
+- Tragende Normen verifizieren: BGB §§ 311b Abs. 1, 145 ff., GmbHG §§ 5, 15, 16, 17, 53, 55, AktG §§ 182, 186, 192, 202, UmwG, KAGB §§ 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG §§ 6, 50d, EStG §§ 17, 20 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet, Beteiligungsvertrag (SHA), Gesellschaftsvertrag (Satzung), Wandeldarlehen (CLN/SAFE), ESOP/VSOP-Programm, Due-Diligence-Bericht, Cap Table, Closing-Memorandum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialkern: Rechtsabteilung: Founder Vesting und Leaver-Streit
+
+- **Konkretes Problem:** Good/Bad Leaver wird auf Durchsetzbarkeit, Steuer und Motivationsrisiko geprüft.
+- **Norm-/Quellenanker:** GmbHG, AktG, BGB, WpHG/MAR bei Insiderlagen, Beurkundungsrecht, Investment Terms, Wandeldarlehen/SAFE-Mechanik, Steuer- und Außenwirtschaftsschnittstellen.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
+
+## Norm- und Rechtsprechungsanker
+
+BGB, GmbHG, § 138 BGB, AGB-Recht, arbeitsrechtliche Schnittstelle
+
+## Sofortprüfung
+
+1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
+2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
+3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
+4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
+5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
+
+## Fachlicher Zuschnitt
+
+Good/Bad Leaver wird auf Durchsetzbarkeit, Steuer und Motivationsrisiko geprüft.
+
+## Output für die Rechtsabteilung
+
+- One-page legal memo mit Risikoampel und klarer Empfehlung.
+- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
+- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
+- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+
+---
+
+## Skill: `rechtsabteilung-down-round-und-anti-dilution`
+
+_Für Rechtsabteilung: Down Round und Anti-Dilution: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Rechtsabteilung: Down Round und Anti-Dilution
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Term-Sheet-Exklusivität typ. 30–60 Tage, Due-Diligence-Window 4–8 Wochen, GmbHG § 16 Abs. 1 Listenwirkung nach Übermittlung, KAGB § 343 Übergangsfristen.
+- Tragende Normen verifizieren: BGB §§ 311b Abs. 1, 145 ff., GmbHG §§ 5, 15, 16, 17, 53, 55, AktG §§ 182, 186, 192, 202, UmwG, KAGB §§ 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG §§ 6, 50d, EStG §§ 17, 20 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet, Beteiligungsvertrag (SHA), Gesellschaftsvertrag (Satzung), Wandeldarlehen (CLN/SAFE), ESOP/VSOP-Programm, Due-Diligence-Bericht, Cap Table, Closing-Memorandum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialkern: Rechtsabteilung: Down Round und Anti-Dilution
+
+- **Konkretes Problem:** Weighted Average, Full Ratchet und Cap Table werden rechtlich und wirtschaftlich übersetzt.
+- **Norm-/Quellenanker:** GmbHG, AktG, BGB, WpHG/MAR bei Insiderlagen, Beurkundungsrecht, Investment Terms, Wandeldarlehen/SAFE-Mechanik, Steuer- und Außenwirtschaftsschnittstellen.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
+
+## Norm- und Rechtsprechungsanker
+
+GmbHG, Gesellschaftervereinbarung, Treuepflicht
+
+## Sofortprüfung
+
+1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
+2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
+3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
+4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
+5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
+
+## Fachlicher Zuschnitt
+
+Weighted Average, Full Ratchet und Cap Table werden rechtlich und wirtschaftlich übersetzt.
+
+## Output für die Rechtsabteilung
+
+- One-page legal memo mit Risikoampel und klarer Empfehlung.
+- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
+- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
+- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+
+---
+
+## Skill: `investorprofil-family-office-fonds-angel`
+
+_Für Investorprofil: Family Office, Fonds, Angel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Investorprofil: Family Office, Fonds, Angel
 
 ## Arbeitsweg
 
@@ -456,7 +439,7 @@ _Wenn es um Scout- und Advisor Agreements in Venture Capital Geber geht: ordnet 
 
 ## Arbeitsfokus
 
-Dealquellen vergüten, ohne Regulierungsfallen.
+Klärt, ob als Privatperson, Family Office, SPV, Fonds, Syndikat oder Corporate VC gehandelt wird.
 
 ## Intake-Fragen
 
@@ -476,9 +459,9 @@ Dealquellen vergüten, ohne Regulierungsfallen.
 
 ## Typische Ausgaben
 
-- Scout-Vertrag-Check
-- Conflict-Map
-- Fee-Notiz
+- Investorprofil
+- No-Go-Liste
+- Investmentthese
 
 ## Red Flags
 

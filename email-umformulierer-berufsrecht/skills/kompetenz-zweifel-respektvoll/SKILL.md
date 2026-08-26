@@ -1,6 +1,6 @@
 ---
 name: kompetenz-zweifel-respektvoll
-description: "Wenn es um Kompetenz-Zweifel respektvoll formulieren in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kompetenz-Zweifel respektvoll formulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kompetenz-Zweifel respektvoll formulieren

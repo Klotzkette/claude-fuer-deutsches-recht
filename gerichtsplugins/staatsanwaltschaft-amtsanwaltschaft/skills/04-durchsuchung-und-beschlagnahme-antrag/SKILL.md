@@ -1,6 +1,6 @@
 ---
 name: 04-durchsuchung-und-beschlagnahme-antrag
-description: "Wenn es um 04 Durchsuchung und Beschlagnahme Antrag in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 04 Durchsuchung und Beschlagnahme Antrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # 04 Durchsuchung und Beschlagnahme Antrag

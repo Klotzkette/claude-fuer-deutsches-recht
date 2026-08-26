@@ -1,6 +1,6 @@
 ---
 name: bussgeld-vermeidung-heilung
-description: "Wenn es um Bußgeldvermeidung und Heilung in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bußgeldvermeidung und Heilung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bußgeldvermeidung und Heilung

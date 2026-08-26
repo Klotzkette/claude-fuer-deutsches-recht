@@ -1,6 +1,6 @@
 ---
 name: subsumtion-obersatz-rewrite-klausurton-triage
-description: "Wenn es um Subsumtion: Obersatz – Definition – Untersatz – Ergebnis in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Subsumtion: Obersatz – Definition – Untersatz – Ergebnis: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Subsumtion: Obersatz – Definition – Untersatz – Ergebnis

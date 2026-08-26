@@ -1,6 +1,6 @@
 ---
 name: chronologie-compliance-dokumentation-und-akte
-description: "Wenn es um Chronologie: Compliance-Dokumentation und Aktenvermerk in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Chronologie: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Chronologie: Compliance-Dokumentation und Aktenvermerk

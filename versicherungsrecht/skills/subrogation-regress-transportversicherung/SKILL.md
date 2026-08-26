@@ -1,6 +1,6 @@
 ---
 name: subrogation-regress-transportversicherung
-description: "Wenn es um Regress und Legalzession Paragraf 86 VVG in Versicherungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Regress und Legalzession Paragraf 86 VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Regress und Legalzession § 86 VVG

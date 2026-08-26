@@ -1,6 +1,6 @@
 ---
 name: ecommerce-marketplace
-description: "Wenn es um E-Commerce und Marketplace-Vertrieb im Handelsvertreterrecht nach Paragrafen 84 und 87 HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für E-Commerce und Marketplace-Vertrieb im Handelsvertreterrecht nach Paragrafen 84 und 87 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E-Commerce und Marketplace-Vertrieb im Handelsvertreterrecht nach §§ 84 und 87 HGB

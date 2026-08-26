@@ -1,6 +1,6 @@
 ---
 name: luft-085-luftfracht-genehmigung-pruefen
-description: "Wenn es um Luftfracht Genehmigung Pruefen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Luftfracht Genehmigung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Luftfracht Genehmigung Pruefen

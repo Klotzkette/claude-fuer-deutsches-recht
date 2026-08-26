@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-risk-committee
-description: "Wenn es um Mandatsannahme Risk Committee in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandatsannahme Risk Committee: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandatsannahme Risk Committee

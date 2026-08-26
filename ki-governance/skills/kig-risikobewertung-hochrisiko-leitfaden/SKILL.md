@@ -1,6 +1,6 @@
 ---
 name: kig-risikobewertung-hochrisiko-leitfaden
-description: "Wenn es um KIG: Risikobewertung Hochrisiko in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für KIG: Risikobewertung Hochrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KIG: Risikobewertung Hochrisiko

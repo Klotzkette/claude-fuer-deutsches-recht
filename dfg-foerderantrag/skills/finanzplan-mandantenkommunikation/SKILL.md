@@ -1,6 +1,6 @@
 ---
 name: finanzplan-mandantenkommunikation
-description: "Wenn es um Finanzplan: Mandantenkommunikation und Entscheidungsvorlage in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Finanzplan: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: DFG-Förderantrag. Route: finanzplan-mandantenkommunikation."
 ---
 
 # Finanzplan: Mandantenkommunikation und Entscheidungsvorlage

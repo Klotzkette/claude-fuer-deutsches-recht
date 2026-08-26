@@ -1,6 +1,6 @@
 ---
 name: neuheitsschonfrist-eigene-offenbarung
-description: "Wenn es um Neuheitsschonfrist Eigene Offenbarung in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Neuheitsschonfrist Eigene Offenbarung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Neuheitsschonfrist Eigene Offenbarung

@@ -1,6 +1,6 @@
 ---
 name: rechtsinhalt-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Rechtsinhalt: Mehrparteienkonflikt und Interessenmatrix in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rechtsinhalt Mehrparteien Konflikt Und Interessen; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
+description: "Für Rechtsinhalt: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: rechtsinhalt-mehrparteien-konflikt-und-interessen."
 ---
 
 # Rechtsinhalt: Mehrparteienkonflikt und Interessenmatrix

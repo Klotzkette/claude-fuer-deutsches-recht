@@ -1,6 +1,6 @@
 ---
 name: strafrahmen-und-strafzumessungsstufen
-description: "Wenn es um Strafrahmen und Strafzumessungsstufen in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrahmen und Strafzumessungsstufen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafrahmen und Strafzumessungsstufen

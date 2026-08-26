@@ -1,6 +1,6 @@
 ---
 name: wochen-fristen-form-zustaendigkeit-rechtsweg
-description: "Wenn es um Wochen: Fristen, Form, Zuständigkeit und Rechtsweg in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wochen: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Wochen: Fristen, Form, Zuständigkeit und Rechtsweg

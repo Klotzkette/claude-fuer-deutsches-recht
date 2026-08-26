@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Kaltstart Internal Investigation in Internal Investigations Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kaltstart Triage; Arbeitsfeld: Internal Investigations Praxis."
+description: "Für Kaltstart Internal Investigation: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart Internal Investigation

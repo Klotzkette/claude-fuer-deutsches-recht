@@ -1,6 +1,6 @@
 ---
 name: ihl-065-joint-venture-trade
-description: "Wenn es um Joint Venture Trade in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Joint Venture Trade: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Joint Venture Trade

@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-register-pruefen
-description: "Wenn es um Offshore-Schiff – Registerprüfung in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Offshore-Schiff – Registerprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Offshore-Schiff – Registerprüfung

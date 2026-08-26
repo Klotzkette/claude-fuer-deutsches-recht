@@ -1,6 +1,6 @@
 ---
 name: kindergeld-kinderzuschlag-bescheid
-description: "Wenn es um Kindergeld und Kinderzuschlag Bescheid in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kindergeld und Kinderzuschlag Bescheid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kindergeld und Kinderzuschlag Bescheid

@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-verkehrs-und-gruenflaechen
-description: "Wenn es um Verkehrs-, Grün- und Versorgungsflächen in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verkehrs-, Grün- und Versorgungsflächen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verkehrs-, Grün- und Versorgungsflächen

@@ -1,6 +1,6 @@
 ---
 name: disclosure-exit-entbranding-franchise
-description: "Wenn es um Franchise: Disclosure-Fail bei Phantom-Umsatzzahlen in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Franchise: Disclosure-Fail bei Phantom-Umsatzzahlen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise: Disclosure-Fail bei Phantom-Umsatzzahlen

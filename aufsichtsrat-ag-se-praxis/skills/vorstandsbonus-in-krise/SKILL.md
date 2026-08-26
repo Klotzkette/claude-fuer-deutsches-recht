@@ -1,6 +1,6 @@
 ---
 name: vorstandsbonus-in-krise
-description: "Wenn es um Vorstandsbonus In Krise in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vorstandsbonus in Krise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorstandsbonus In Krise

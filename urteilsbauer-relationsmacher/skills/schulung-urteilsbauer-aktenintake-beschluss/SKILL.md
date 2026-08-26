@@ -1,6 +1,6 @@
 ---
 name: schulung-urteilsbauer-aktenintake-beschluss
-description: "Wenn es um Trainer-Leitfaden Schulung Urteilsbauer in Urteilsbauer und Relationsmacher geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Schulung Urteilsbauer Aktenintake Beschluss; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Trainer-Leitfaden Schulung Urteilsbauer: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trainer-Leitfaden Schulung Urteilsbauer

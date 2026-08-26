@@ -1,6 +1,6 @@
 ---
 name: haftungswarn-15a-inso-mandant
-description: "Wenn es um Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht) in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Haftungswarn 15a Inso Mandant; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: haftungswarn-15a-inso-mandant."
 ---
 
 # Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht)

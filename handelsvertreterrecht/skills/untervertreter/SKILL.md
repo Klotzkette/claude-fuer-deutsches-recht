@@ -1,6 +1,6 @@
 ---
 name: untervertreter
-description: "Wenn es um Untervertreter im Handelsvertreterrecht — Zulässigkeit und Haftung nach Paragraf 84 HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Untervertreter im Handelsvertreterrecht — Zulässigkeit und Haftung nach Paragraf 84 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Untervertreter im Handelsvertreterrecht — Zulässigkeit und Haftung nach § 84 HGB

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-befristung-tzbfg
-description: "Wenn es um Befristung nach TzBfG (Teilzeit- und Befristungsgesetz) in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Befristung nach TzBfG (Teilzeit- und Befristungsgesetz): prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Befristung nach TzBfG (Teilzeit- und Befristungsgesetz)

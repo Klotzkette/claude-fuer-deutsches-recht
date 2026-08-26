@@ -1,6 +1,6 @@
 ---
 name: it-cloud-kammeraufsicht-ruege
-description: "Wenn es um IT, Cloud, digitale Werkzeuge und Outsourcing in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für IT, Cloud, digitale Werkzeuge und Outsourcing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Notare."
 ---
 
 # IT, Cloud, KI und Outsourcing

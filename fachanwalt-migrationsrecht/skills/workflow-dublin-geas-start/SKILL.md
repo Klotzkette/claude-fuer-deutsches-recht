@@ -1,6 +1,6 @@
 ---
 name: workflow-dublin-geas-start
-description: "Wenn es um Dublin/GEAS Start: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dublin/GEAS Start: Prüfungslinie für Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dublin/GEAS Start: Prüfungslinie für Migrationsrecht

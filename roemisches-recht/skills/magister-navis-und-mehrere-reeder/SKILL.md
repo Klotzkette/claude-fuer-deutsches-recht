@@ -1,6 +1,6 @@
 ---
 name: magister-navis-und-mehrere-reeder
-description: "Wenn es um Rom 127 Magister Navis Und Mehrere Reeder in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom 127 Magister Navis und Mehrere Reeder: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 127 Magister Navis Und Mehrere Reeder

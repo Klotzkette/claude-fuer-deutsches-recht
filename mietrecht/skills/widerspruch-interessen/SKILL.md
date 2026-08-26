@@ -1,6 +1,6 @@
 ---
 name: widerspruch-interessen
-description: "Wenn es um Widerspruch: Mehrparteienkonflikt und Interessenmatrix in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Widerspruch: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Widerspruch: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: wohnhaus-ddr-enteignung-akte-anfordern
-description: "Wenn es um Wohnhaus Ddr Enteignung Akte Anfordern in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wohnhaus Ddr Enteignung Akte Anfordern: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wohnhaus Ddr Enteignung Akte Anfordern

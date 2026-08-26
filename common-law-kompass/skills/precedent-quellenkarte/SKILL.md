@@ -1,6 +1,6 @@
 ---
 name: precedent-quellenkarte
-description: "Wenn es um Precedent Quellenkarte in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Precedent Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Precedent Quellenkarte

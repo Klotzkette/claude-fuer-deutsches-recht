@@ -1,6 +1,6 @@
 ---
 name: betriebspruefung-rollenabgrenzung-organisationspf
-description: "Wenn es um Betriebspruefung Rollenabgrenzung Organisationspf in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebsprüfung Rollenabgrenzung Organisationspf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Steuerberater: betriebspruefung rollenabgrenzung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

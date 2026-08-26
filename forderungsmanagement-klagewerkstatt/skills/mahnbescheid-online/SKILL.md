@@ -1,6 +1,6 @@
 ---
 name: mahnbescheid-online
-description: "Wenn es um Mahnbescheid online in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mahnbescheid online: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Forderungsmanagement — Klagewerkstatt."
 ---
 
 # Mahnbescheid online

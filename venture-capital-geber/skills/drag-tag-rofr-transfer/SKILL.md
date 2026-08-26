@@ -1,6 +1,6 @@
 ---
 name: drag-tag-rofr-transfer
-description: "Wenn es um Drag, Tag, ROFR und Transfers in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Drag, Tag, ROFR und Transfers: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drag, Tag, ROFR und Transfers

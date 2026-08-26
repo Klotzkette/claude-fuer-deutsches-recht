@@ -240,7 +240,6 @@ Lieferstück: Fachvotum zu Genehmigung Tierhaltungsanlagen nach Paragraf 4 BImSc
 ### 16.9. Tierhaltungsverbot rechtlich und tatsächlich prüfen
 
 Bearbeitungsauftrag: Der schwere Eingriff darf nicht auf die Generalklausel gestützt werden, wenn die besonderen Voraussetzungen des Haltungsverbots fehlen. B 16.24: Für ein Haltungsverbot gelten hohe tatbestandliche Hürden. Erforderlich sind wiederholte oder grobe Verstöße gegen Paragraf 2 TierSchG, dadurch verursachte erhebliche oder länger anhaltende Schmerzen, Leiden oder erhebliche Schäden und Tatsachen für die Prognose weiterer entsprechender Verstöße; die Generalklausel darf diese Voraussetzungen nicht umgehen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe ein Tierhaltungs- oder Betreuungsverbot nach Paragraf 16a TierSchG.
 Lieferstück: Fachvotum zu Tierhaltungsverbot rechtlich und tatsächlich prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.10. Vergleichsverhandlungs-Strategie für Agrar-, Forst- und Lebensmittelrecht

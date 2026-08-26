@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-fruehstellungnahme-vor-bussgeldbescheid
-description: "Wenn es um Dsv Sanktion Fruehstellungnahme Vor Bussgeldbescheid in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dsv Sanktion Frühstellungnahme vor Bussgeldbescheid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutzrecht-Brückenskill: Frühstellungnahme vor Bußgeldbescheid: Vor Bescheid mit gesicherten Tatsachen Einstellung, Verwarnung oder milde Maßnahme erreichen

@@ -1,6 +1,6 @@
 ---
 name: entgeltgleichheit-paarvergleich-agg-entgtranspg
-description: "Wenn es um Entgeltgleichheit Paarvergleich Agg Entgtranspg in Fachanwalt Arbeitsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Entgeltgleichheit Paarvergleich Agg Entgtranspg: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Prüffür Equal Pay, variable Vergütung, Vergleichsperson, Paragraf 22 AGG, EntgTranspG und Dokumentationsstrategie um.

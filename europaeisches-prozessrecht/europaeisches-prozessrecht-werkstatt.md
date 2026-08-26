@@ -184,7 +184,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Zulässigkeit | Frist, anfechtbarer Akt, unmittelbare und individuelle Betroffenheit, Rechtsschutzinteresse, Vertretung, Sprache und Antrag sichern | Entscheidungsbaustein zu Zulässigkeit mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
 | Einreichung und Anlagen | E-Curia, Dateibenennung, Anlagenverzeichnis, vertrauliche Fassung, Schwärzung und Zustellungsnachweise vorbereiten | Entscheidungsbaustein zu Einreichung und Anlagen mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
 | Begründung und Gegenposition | Klagegründe, Verteidigung, Beweisangebot, Unionsgrundrechte, Verhältnismäßigkeit und stärkstes Gegenargument ordnen | Entscheidungsbaustein zu Begründung und Gegenposition mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
-| Unionsamtshaftung | Prüfe Schadensersatzklagen wegen außervertraglicher Haftung der Union nach Artikel 268 und 340 AEUV mit qualifiziertem Rechtsverstoß, Schaden | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| Unionsamtshaftung | Beginne mit einem Arbeitsprodukt, nicht mit einer Materialinventur | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -235,7 +235,7 @@ Lieferstück: Entscheidungsbaustein zu Begründung und Gegenposition mit Antrag,
 
 ### 16.9. Unionsamtshaftung
 
-Bearbeitungsauftrag: Prüfe Schadensersatzklagen wegen außervertraglicher Haftung der Union nach Artikel 268 und 340 AEUV mit qualifiziertem Rechtsverstoß, Schaden.
+Bearbeitungsauftrag: Beginne mit einem Arbeitsprodukt, nicht mit einer Materialinventur.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.10. Nichtigkeitsklage nach Art. 263 AEUV
@@ -248,7 +248,7 @@ Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, 
 Bearbeitungsauftrag: Berechne unionsprozessuale Fristen, Entfernungsfrist, Verfahrenssprache, Zustellungsfolgen und interne Review-Termine für EuGH- und EuG-Verfahren.
 Lieferstück: Fristenblatt zu Fristen und Verfahrenssprache mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.12. Klagebefugnis Privater
+### 16.12. Untätigkeitsklage nach Art. 265 AEUV
 
-Bearbeitungsauftrag: Prüfe individuelle und unmittelbare Betroffenheit Privater nach Artikel 263 AEUV, einschließlich Plaumann-Linie, regulatorischer Akt.
+Bearbeitungsauftrag: Bereitet Untätigkeitsklagen gegen Organe, Einrichtungen und sonstige Stellen der Union vor, mit Aufforderung zum Tätigwerden, Fristenkontrolle.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.

@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-technische-dokumentation-art-11-und-anhang-iv
-description: "Wenn es um Technische Dokumentation — Art. 11 und Anhang IV europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für Technische Dokumentation — Art. 11 und Anhang IV europäischer Technikregulierungsrahmen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Technische Dokumentation — Art. 11 und Anhang IV KI-VO

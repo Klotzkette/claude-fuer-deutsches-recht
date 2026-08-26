@@ -1,6 +1,6 @@
 ---
 name: currency-risk-cny-eur-usd
-description: "Wenn es um Währungsrisiko CNY/EUR/USD: Absicherung im China-Handel in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Währungsrisiko CNY/EUR/USD: Absicherung im China-Handel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Währungsrisiko CNY/EUR/USD: Absicherung im China-Handel

@@ -1,6 +1,6 @@
 ---
 name: strategien-internationaler-bezug
-description: "Wenn es um Strategien: Internationaler Bezug und Schnittstellen in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strategien: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: DFG-Förderantrag. Route: strategien-internationaler-bezug."
 ---
 
 # Strategien: Internationaler Bezug und Schnittstellen

@@ -1,6 +1,6 @@
 ---
 name: influencer-social-media-kampagne
-description: "Wenn es um Influencer Social Media Kampagne in fashion-law-moderecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Influencer Social Media Kampagne: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer Social Media Kampagne

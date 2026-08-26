@@ -1,6 +1,6 @@
 ---
 name: anti-coercion-instrument-eu
-description: "Wenn es um EU Anti-Coercion Instrument: Schutz gegen chinesische Wirtschaftszwangsmaßnahmen in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU Anti-Coercion Instrument: Schutz gegen chinesische Wirtschaftszwangsmaßnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU Anti-Coercion Instrument: Schutz gegen chinesische Wirtschaftszwangsmaßnahmen

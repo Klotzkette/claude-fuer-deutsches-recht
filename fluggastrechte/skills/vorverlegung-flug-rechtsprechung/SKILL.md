@@ -1,6 +1,6 @@
 ---
 name: vorverlegung-flug-rechtsprechung
-description: "Wenn es um Vorverlegung als Annullierung in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorverlegung als Annullierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorverlegung als Annullierung

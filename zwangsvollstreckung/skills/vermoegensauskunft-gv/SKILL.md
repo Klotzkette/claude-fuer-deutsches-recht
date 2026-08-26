@@ -1,6 +1,6 @@
 ---
 name: vermoegensauskunft-gv
-description: "Wenn es um Vermögensauskunft in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vermögensauskunft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vermögensauskunft

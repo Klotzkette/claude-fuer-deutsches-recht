@@ -1,6 +1,6 @@
 ---
 name: schleichwerbung-redaktionscontent-und-kooperation
-description: "Wenn es um Influencer-Recht: Schleichwerbung – Redaktionscontent und Kooperation in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Schleichwerbung – Redaktionscontent und Kooperation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Schleichwerbung – Redaktionscontent und Kooperation

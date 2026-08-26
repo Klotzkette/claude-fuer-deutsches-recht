@@ -1,6 +1,6 @@
 ---
 name: treuhand-und-volksvermoegen
-description: "Wenn es um Treuhandanstalt und DDR-Volksvermoegen in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Treuhandanstalt und DDR-Volksvermögen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuhandanstalt und DDR-Volksvermoegen

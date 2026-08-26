@@ -1,6 +1,6 @@
 ---
 name: auskunft-und-rechnungslegung
-description: "Wenn es um Auskunft Und Rechnungslegung in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Auskunft und Rechnungslegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auskunft Und Rechnungslegung

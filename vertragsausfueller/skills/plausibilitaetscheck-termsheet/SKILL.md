@@ -1,6 +1,6 @@
 ---
 name: plausibilitaetscheck-termsheet
-description: "Wenn es um Plausibilitätscheck in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Plausibilitätscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plausibilitätscheck

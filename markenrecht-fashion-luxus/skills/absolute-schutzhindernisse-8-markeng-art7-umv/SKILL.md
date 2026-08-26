@@ -1,6 +1,6 @@
 ---
 name: absolute-schutzhindernisse-8-markeng-art7-umv
-description: "Wenn es um Absolute Schutzhindernisse in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Absolute Schutzhindernisse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Absolute Schutzhindernisse

@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-corporate-legal-english
-description: "Wenn es um Qualitätstor Corporate Legal English in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Qualitätstor Corporate Legal English: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitätstor Corporate Legal English

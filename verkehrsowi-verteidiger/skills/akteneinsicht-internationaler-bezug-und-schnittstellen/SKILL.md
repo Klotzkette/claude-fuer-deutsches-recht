@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-internationaler-bezug-und-schnittstellen
-description: "Wenn es um Akteneinsicht: Internationaler Bezug und Schnittstellen in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Akteneinsicht: Internationaler Bezug und Schnittstellen: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Akteneinsicht: Internationaler Bezug und Schnittstellen

@@ -1,6 +1,6 @@
 ---
 name: einsprachig-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Einsprachig: Verhandlung, Vergleich und Eskalation in Wandeldarlehen-Lebenszyklus geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Einsprachig: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Einsprachig: Verhandlung, Vergleich und Eskalation

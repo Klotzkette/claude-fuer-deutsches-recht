@@ -1,6 +1,6 @@
 ---
 name: haustuergeschaeft-vergleich-vorschlage
-description: "Wenn es um Haustuergeschaeft Vergleich Vorschlage in Verbraucherschutzrecht Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Haustürgeschäft Vergleich Vorschlage: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Haustuergeschaeft Vergleich Vorschlage

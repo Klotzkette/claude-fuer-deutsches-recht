@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-erwerbsminderungsrente-antrag
-description: "Wenn es um Laienhilfe: Erwerbsminderungsrente Antrag in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Laienhilfe: Erwerbsminderungsrente Antrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Laienhilfe: Erwerbsminderungsrente Antrag

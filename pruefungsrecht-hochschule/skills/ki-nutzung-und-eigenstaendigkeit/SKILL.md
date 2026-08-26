@@ -1,6 +1,6 @@
 ---
 name: ki-nutzung-und-eigenstaendigkeit
-description: "Wenn es um digitale Werkzeuge Nutzung Und Eigenstaendigkeit in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für digitale Werkzeuge Nutzung und Eigenständigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI Nutzung Und Eigenstaendigkeit

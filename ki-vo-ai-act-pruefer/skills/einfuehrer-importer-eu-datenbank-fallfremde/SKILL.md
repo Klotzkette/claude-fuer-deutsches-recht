@@ -1,6 +1,6 @@
 ---
 name: einfuehrer-importer-eu-datenbank-fallfremde
-description: "Wenn es um Einführer-Pflichten (Importer) — Art. 23 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Einführer-Pflichten (Importer) — Art. 23 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Einführer-Pflichten (Importer) — Art. 23 KI-VO

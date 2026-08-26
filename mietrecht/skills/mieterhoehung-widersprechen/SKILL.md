@@ -1,6 +1,6 @@
 ---
 name: mieterhoehung-widersprechen
-description: "Wenn es um Mieterhöhung prüfen und widersprechen in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mieterhöhung prüfen und widersprechen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mieterhöhung prüfen und widersprechen

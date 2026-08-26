@@ -1,6 +1,6 @@
 ---
 name: kuendigung-zugang-beweiswerkstatt
-description: "Wenn es um Kuendigung Zugang Beweiswerkstatt in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kündigung Zugang Beweiswerkstatt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Prüft den sicheren Zugang arbeitsrechtlicher Kündigungen nach Paragraf 623 BGB und Paragraf 130 BGB: Bote, Einwurf, Einschreiben, Krankheit, Urlaub, Empfangsverweigerung, Dreiwochenfrist, Beweis des konkreten Inhalts und prozessfeste Zustellmatrix.

@@ -1,6 +1,6 @@
 ---
 name: sozietaet-mit-rechtsanwaelten-kammerantwort
-description: "Wenn es um Sozietaet Mit Rechtsanwaelten Kammerantwort in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Sozietät mit Rechtsanwälten Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: sozietaet mit rechtsanwaelten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

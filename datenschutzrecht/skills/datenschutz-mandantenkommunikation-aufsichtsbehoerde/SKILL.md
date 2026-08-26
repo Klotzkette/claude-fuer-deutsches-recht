@@ -1,6 +1,6 @@
 ---
 name: datenschutz-mandantenkommunikation-aufsichtsbehoerde
-description: "Wenn es um Datenschutz Mandantenkommunikation Aufsichtsbehoerde in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz Mandantenkommunikation Aufsichtsbehörde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Kommunikation mit Aufsichtsbehoerden BfDI und Landesbehoerden inhaltlich und taktisch fuehren

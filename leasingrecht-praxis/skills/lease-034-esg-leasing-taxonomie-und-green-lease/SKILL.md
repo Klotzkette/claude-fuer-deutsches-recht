@@ -1,6 +1,6 @@
 ---
 name: lease-034-esg-leasing-taxonomie-und-green-lease
-description: "Wenn es um Leasingrecht: ESG Leasing Taxonomie und Green Lease in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: ESG Leasing Taxonomie und Green Lease: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: ESG Leasing Taxonomie und Green Lease

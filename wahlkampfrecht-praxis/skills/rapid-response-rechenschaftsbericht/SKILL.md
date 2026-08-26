@@ -1,6 +1,6 @@
 ---
 name: rapid-response-rechenschaftsbericht
-description: "Wenn es um Rapid Response Room in Wahlkampfrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rapid Response Room: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rapid Response Room

@@ -1,6 +1,6 @@
 ---
 name: staedtebaulicher-vertrag-formfehler-und-nichtigkeit
-description: "Wenn es um Formfehler und Nichtigkeit städtebaulicher Verträge in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Formfehler und Nichtigkeit städtebaulicher Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Formfehler und Nichtigkeit städtebaulicher Verträge

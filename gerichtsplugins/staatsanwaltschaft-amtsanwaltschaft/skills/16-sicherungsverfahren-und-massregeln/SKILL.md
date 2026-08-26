@@ -1,6 +1,6 @@
 ---
 name: 16-sicherungsverfahren-und-massregeln
-description: "Wenn es um 16 Sicherungsverfahren und Maßregeln in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 16 Sicherungsverfahren und Maßregeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 16 Sicherungsverfahren und Maßregeln

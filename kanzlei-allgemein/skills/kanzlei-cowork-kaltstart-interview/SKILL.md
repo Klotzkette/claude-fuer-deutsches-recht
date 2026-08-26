@@ -1,6 +1,6 @@
 ---
 name: kanzlei-cowork-kaltstart-interview
-description: "Wenn es um /kanzlei-allgemein:kanzlei-cowork-kaltstart-interview in Kanzlei-Allgemein geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für /kanzlei-allgemein:kanzlei-cowork-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /kanzlei-allgemein:kanzlei-cowork-kaltstart-interview

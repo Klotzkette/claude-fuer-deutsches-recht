@@ -1,6 +1,6 @@
 ---
 name: liquidated-damages-us-uk-vergleich
-description: "Wenn es um Liquidated Damages US Uk Vergleich in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Liquidated Damages US Uk Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Liquidated Damages US Uk Vergleich

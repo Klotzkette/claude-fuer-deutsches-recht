@@ -1,6 +1,6 @@
 ---
 name: kueschk-kammertermin-sprechzettel
-description: "Wenn es um Kueschk Kammertermin Sprechzettel in Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Kueschk Kammertermin Sprechzettel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kammertermin Hauptverhandlung im Kündigungsschutzprozess: Sprechzettel mit Anträgen und Reaktionsmustern

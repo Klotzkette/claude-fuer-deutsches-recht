@@ -1,6 +1,6 @@
 ---
 name: vbr-080-digitale-inhalte-behoerdenmeldung-prue
-description: "Wenn es um Digitale Inhalte Behoerdenmeldung Prue in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitale Inhalte Behördenmeldung Prü: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: vbr-080-digitale-inhalte-behoerdenmeldung-prue."
 ---
 
 # Digitale Inhalte Behoerdenmeldung Prue

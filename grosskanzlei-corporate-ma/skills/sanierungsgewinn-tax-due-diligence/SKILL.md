@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-tax-due-diligence
-description: "Wenn es um Sanierungsgewinn – Tax Due Diligence im Distressed M&A in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungsgewinn – Tax Due Diligence im Distressed M&A: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn – Tax Due Diligence im Distressed M&A

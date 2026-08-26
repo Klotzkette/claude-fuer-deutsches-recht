@@ -1,6 +1,6 @@
 ---
 name: berufssoldaten-kdv
-description: "Wenn es um Berufssoldaten und KDV in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Berufssoldaten und KDV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berufssoldaten und KDV

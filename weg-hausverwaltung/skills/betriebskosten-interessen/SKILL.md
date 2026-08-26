@@ -1,6 +1,6 @@
 ---
 name: betriebskosten-interessen
-description: "Wenn es um Betriebskosten: Mehrparteienkonflikt und Interessenmatrix in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebskosten: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebskosten: Mehrparteienkonflikt und Interessenmatrix

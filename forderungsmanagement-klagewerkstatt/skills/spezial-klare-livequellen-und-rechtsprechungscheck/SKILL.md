@@ -1,6 +1,6 @@
 ---
 name: spezial-klare-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Klare: Livequellen- und Rechtsprechungscheck in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klare: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klare: Livequellen- und Rechtsprechungscheck

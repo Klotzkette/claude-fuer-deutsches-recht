@@ -1,6 +1,6 @@
 ---
 name: umweltinformationen-abgrenzen-verbraucherinformationen-nutze
-description: "Wenn es um Uig Und Umweltinformationen Abgrenzen in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Uig und Umweltinformationen Abgrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Uig Und Umweltinformationen Abgrenzen

@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-cloud-werbung
-description: "Wenn es um Verschwiegenheit Cloud Werbung in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verschwiegenheit Cloud Werbung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: verschwiegenheit cloud und datev - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

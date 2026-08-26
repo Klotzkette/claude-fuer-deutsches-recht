@@ -1,6 +1,6 @@
 ---
 name: gesamtstrafenbildung-stgb-gestaendnis
-description: "Wenn es um Gesamtstrafenbildung — Paragrafen 53 und 54 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesamtstrafenbildung — Paragrafen 53 und 54 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesamtstrafenbildung — §§ 53 und 54 StGB

@@ -1,6 +1,6 @@
 ---
 name: regulated-bank-fintech-target
-description: "Wenn es um Bank-/FinTech-Target im PE-Deal in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bank-/FinTech-Target im PE-Deal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bank-/FinTech-Target im PE-Deal

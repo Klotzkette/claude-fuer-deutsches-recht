@@ -1,6 +1,6 @@
 ---
 name: lph2-variantenuntersuchung-wirtschaftlichkeit
-description: "Wenn es um LPH 2 Variantenuntersuchung Und Wirtschaftlichkeit in HOAI Leistungsphasen Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für LPH 2 Variantenuntersuchung und Wirtschaftlichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 2 Variantenuntersuchung Und Wirtschaftlichkeit

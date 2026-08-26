@@ -1,6 +1,6 @@
 ---
 name: usa-tiers-of-scrutiny
-description: "Wenn es um USA Tiers of Scrutiny in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für USA Tiers of Scrutiny: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # USA Tiers of Scrutiny

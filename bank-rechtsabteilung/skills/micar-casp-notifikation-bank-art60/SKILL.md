@@ -1,6 +1,6 @@
 ---
 name: micar-casp-notifikation-bank-art60
-description: "Wenn es um MiCAR CASP für Banken in Bank-Rechtsabteilung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für MiCAR CASP für Banken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MiCAR CASP für Banken

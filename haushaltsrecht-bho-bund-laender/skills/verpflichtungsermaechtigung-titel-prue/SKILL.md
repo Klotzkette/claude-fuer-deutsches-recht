@@ -1,6 +1,6 @@
 ---
 name: verpflichtungsermaechtigung-titel-prue
-description: "Wenn es um Verpflichtungsermaechtigung Titel Prue in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verpflichtungsermächtigung Titel Prü: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verpflichtungsermaechtigung Titel Prue

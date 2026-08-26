@@ -1,6 +1,6 @@
 ---
 name: infl-021-green-claims-nachhaltigkeitswerbung
-description: "Wenn es um Influencer-Recht: Green Claims Nachhaltigkeitswerbung in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Green Claims Nachhaltigkeitswerbung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Green Claims Nachhaltigkeitswerbung

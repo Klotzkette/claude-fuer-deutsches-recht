@@ -1,6 +1,6 @@
 ---
 name: kv-061-versorgungsbezuege-und-doppelverbeitragung
-description: "Wenn es um Krankenversicherung: Versorgungsbezüge und Doppelverbeitragung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Versorgungsbezüge und Doppelverbeitragung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Versorgungsbezüge und Doppelverbeitragung

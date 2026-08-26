@@ -1,6 +1,6 @@
 ---
 name: beurteilung-konkurrentenstreit-auswahlentscheidung
-description: "Wenn es um Beurteilung, Konkurrentenstreit und Auswahlentscheidung in Bundeswehrrecht und Wehrrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Beurteilung, Konkurrentenstreit und Auswahlentscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beurteilung, Konkurrentenstreit und Auswahlentscheidung

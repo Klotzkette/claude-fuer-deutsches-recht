@@ -1,6 +1,6 @@
 ---
 name: dma-gatekeeper-schwellen-und-kernplattformdienste
-description: "Wenn es um DMA — Gatekeeper-Schwellen und Kernplattformdienste in DSA, DMA und Digitalregulierung der EU geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für DMA — Gatekeeper-Schwellen und Kernplattformdienste: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # DMA — Gatekeeper-Schwellen und Kernplattformdienste

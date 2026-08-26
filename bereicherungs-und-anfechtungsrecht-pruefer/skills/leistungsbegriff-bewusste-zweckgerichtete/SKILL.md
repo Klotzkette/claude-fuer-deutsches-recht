@@ -1,6 +1,6 @@
 ---
 name: leistungsbegriff-bewusste-zweckgerichtete
-description: "Wenn es um Leistungsbegriff: Bewusste und zweckgerichtete Mehrung in bereicherungs-und-anfechtungsrecht-prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Leistungsbegriff: Bewusste und zweckgerichtete Mehrung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: leistungsbegriff-bewusste-zweckgerichtete."
 ---
 
 # Leistungsbegriff: Bewusste und zweckgerichtete Mehrung

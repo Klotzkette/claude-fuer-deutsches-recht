@@ -1,6 +1,6 @@
 ---
 name: freedom-gewerblicher-markenrecherche
-description: "Wenn es um Spezial: Freedom – Schriftsatz, Brief und Memo-Bausteine in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Spezial: Freedom – Schriftsatz, Brief und Memo-Bausteine: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezial: Freedom – Schriftsatz, Brief und Memo-Bausteine

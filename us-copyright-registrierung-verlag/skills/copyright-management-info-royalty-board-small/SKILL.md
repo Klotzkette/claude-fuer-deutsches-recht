@@ -1,6 +1,6 @@
 ---
 name: copyright-management-info-royalty-board-small
-description: "Wenn es um Copyright Management Information Paragraf 1202 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Copyright Management Information Paragraf 1202: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Copyright Management Information § 1202

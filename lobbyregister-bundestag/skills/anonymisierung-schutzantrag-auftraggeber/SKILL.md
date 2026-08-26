@@ -1,6 +1,6 @@
 ---
 name: anonymisierung-schutzantrag-auftraggeber
-description: "Wenn es um Anonymisierung und Schutzantrag in Lobbyregister Bundestag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anonymisierung und Schutzantrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Anonymisierung und Schutzantrag

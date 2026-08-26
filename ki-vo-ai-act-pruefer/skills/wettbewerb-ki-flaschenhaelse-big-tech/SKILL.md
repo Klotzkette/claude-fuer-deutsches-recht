@@ -1,6 +1,6 @@
 ---
 name: wettbewerb-ki-flaschenhaelse-big-tech
-description: "Wenn es um digitale Werkzeuge-Flaschenhälse, Big Tech und Wettbewerb in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge-Flaschenhälse, Big Tech und Wettbewerb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Flaschenhälse, Big Tech und Wettbewerb

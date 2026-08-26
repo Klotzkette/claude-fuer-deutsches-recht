@@ -1,6 +1,6 @@
 ---
 name: board-special-committee
-description: "Wenn es um Board Special Committee und Sonderuntersuchungsausschuss in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Board Special Committee und Sonderuntersuchungsausschuss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Board Special Committee und Sonderuntersuchungsausschuss

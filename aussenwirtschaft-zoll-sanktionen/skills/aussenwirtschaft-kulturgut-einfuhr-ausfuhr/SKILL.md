@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-kulturgut-einfuhr-ausfuhr
-description: "Wenn es um Kulturgutschutz: Einfuhr- und Ausfuhranforderungen für Kunstwerke und Antiquitaeten in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Kulturgutschutz: Einfuhr- und Ausfuhranforderungen für Kunstwerke und Antiquitäten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kulturgutschutz: Einfuhr- und Ausfuhranforderungen für Kunstwerke und Antiquitaeten

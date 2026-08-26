@@ -1,6 +1,6 @@
 ---
 name: agb-begriff-vorformuliert-305
-description: "Wenn es um AGB Begriff Vorformuliert 305 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Agb Begriff Vorformuliert 305; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für AGB Begriff Vorformuliert 305: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: agb-begriff-vorformuliert-305."
 ---
 
 # AGB Begriff Vorformuliert 305

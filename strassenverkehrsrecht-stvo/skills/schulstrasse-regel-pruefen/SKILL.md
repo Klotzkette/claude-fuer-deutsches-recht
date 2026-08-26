@@ -1,6 +1,6 @@
 ---
 name: schulstrasse-regel-pruefen
-description: "Wenn es um Schulstrasse Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulstrasse Regel Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenverkehrsrecht StVO. Route: schulstrasse-regel-pruefen."
 ---
 
 # Schulstrasse Regel Prüfen

@@ -1,6 +1,6 @@
 ---
 name: kom-006-satzung-entwerfen-und-pruefen
-description: "Wenn es um Satzung Entwerfen Und Pruefen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Satzung Entwerfen und Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kommunalrecht der Länder. Route: kom-006-satzung-entwerfen-und-pruefen."
 ---
 
 # Satzung Entwerfen Und Pruefen

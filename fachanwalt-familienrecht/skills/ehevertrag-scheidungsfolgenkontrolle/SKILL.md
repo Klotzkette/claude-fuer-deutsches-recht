@@ -1,6 +1,6 @@
 ---
 name: ehevertrag-scheidungsfolgenkontrolle
-description: "Wenn es um Ehevertrag Scheidungsfolgenkontrolle in Fachanwalt Familienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ehevertrag Scheidungsfolgenkontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Ehevertrag und Scheidungsfolgenkontrolle: Wirksamkeit, Ausübungskontrolle, Kernbereichslehre und Verhandlungsdokumentation.

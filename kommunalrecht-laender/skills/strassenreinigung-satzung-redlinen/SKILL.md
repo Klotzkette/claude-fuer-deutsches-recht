@@ -1,6 +1,6 @@
 ---
 name: strassenreinigung-satzung-redlinen
-description: "Wenn es um Strassenreinigung Satzung Redlinen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenreinigung Satzung Redlinen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strassenreinigung Satzung Redlinen

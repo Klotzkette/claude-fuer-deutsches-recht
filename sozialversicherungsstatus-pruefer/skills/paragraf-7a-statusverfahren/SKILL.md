@@ -1,6 +1,6 @@
 ---
 name: paragraf-7a-statusverfahren
-description: "Wenn es um Paragraf 7a SGB IV Statusfeststellung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Paragraf 7a SGB IV Statusfeststellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 7a SGB IV Statusfeststellung

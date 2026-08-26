@@ -1,6 +1,6 @@
 ---
 name: handwerkerrecht-und-zunftordnung
-description: "Wenn es um Pralr Handwerkerrecht Und Zunftordnung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pralr Handwerkerrecht und Zunftordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pralr Handwerkerrecht Und Zunftordnung

@@ -1,6 +1,6 @@
 ---
 name: duesseldorfer-tabelle-unterhalt
-description: "Berechnet Kindesunterhalt zeitraumbezogen und quellenfest. Verarbeitet Einkommen, Betreuungsmodell, Rang, Mehrbedarf, Kindergeld, Leistungsfähigkeit, Rückstand und Titel; trennt Residenz-, Wechsel- und Volljährigenfälle und liefert Rechenblatt, Belegmatrix, Anspruchszeitstrahl sowie Schriftsatz- oder Vergleichsbausteine."
+description: "Für Kindesunterhalt mit der Düsseldorfer Tabelle berechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kindesunterhalt mit der Düsseldorfer Tabelle berechnen

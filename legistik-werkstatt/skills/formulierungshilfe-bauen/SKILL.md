@@ -1,6 +1,6 @@
 ---
 name: formulierungshilfe-bauen
-description: "Wenn es um Formulierungshilfe und parlamentarische Vorlage bauen in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Formulierungshilfe und parlamentarische Vorlage bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Formulierungshilfe und parlamentarische Vorlage bauen

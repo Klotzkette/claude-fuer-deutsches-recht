@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 130 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Notariat Alltag ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet ko…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Notariat im Alltag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten …
-3. **032-kapitalerhoehung-barkapital-sachkapital-bezugsrecht** — Steuert Barkapital- und Sachkapitalerhöhungen bei GmbH und AG vom Beschluss über Übernahme oder Zeichnung und Einlage bi…
-4. **054-auslandsbeteiligte-steuerliche-hinweise-und-grenzen** — Prüft bei notariellen Vorgängen mit Auslandsbeteiligung Identität, Vertretungsnachweis, anwendbares Recht, steuerliche W…
-5. **grundbuchantrag-rangstelle-notarielle** — Wenn es um Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung, Nachreichung in Notariat im Alltag geht:…
-6. **021-urkundsentwurf-mandantenkorrektur-und-belehrungsdok** — Wenn es um Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur, Belehrungsdokumentation in Notariat im Alltag geht: o…
-7. **050-grundbuchauszug-lesen-abteilung-ii-und-iii** — Wenn es um Notariat im Alltag: Grundbuchauszug lesen – Abt. II und III in Notariat im Alltag geht: ordnet Sachverhalt, N…
-8. **notariat-065-aktenabschluss-archivierung-und-offene-vollzugsrest** — Wenn es um Notariat im Alltag: Aktenabschluss, Archivierung und offene Vollzugsreste in Notariat im Alltag geht: ordnet …
+2. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+3. **notariat-041-konflikttraechtige-mandanten-neutrale-amtsfuehrung** — Für Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung: ordnet Norm, Beweislast und Gegenargument;…
+4. **041-konflikttraechtige-mandanten-und-neutrale-amtsfuehr** — Für Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung: ordnet Norm, Beweislast und Gegenargument;…
+5. **054-auslandsbeteiligte-steuerliche-hinweise-und-grenzen** — Prüft bei notariellen Vorgängen mit Auslandsbeteiligung Identität, Vertretungsnachweis, anwendbares Recht, steuerliche W…
+6. **notariat-058-sanierungs-insolvenzbezug-anteils** — Für Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen: ordnet Norm, Beweislast und…
+7. **notariat-062-gerichts-behoerdenkommunikation-notariat** — Für Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat: ordnet Norm, Beweislast und Gegenargument;…
+8. **sanierungs-insolvenzbezug** — Für Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen: ordnet Norm, Beweislast und…
 
 ---
 
@@ -140,7 +140,7 @@ Ausgangspunkt für dieses Plugin: Antragsteller für Antrag, Bewilligung, Vertre
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Notariat im Alltag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Notariat im Alltag._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -181,97 +181,178 @@ Tragende Anker: BNotO, BeurkG, GNotKG, GBO. Tatsächliche Fundstellen werden üb
 
 ---
 
-## Skill: `032-kapitalerhoehung-barkapital-sachkapital-bezugsrecht`
+## Skill: `notariat-041-konflikttraechtige-mandanten-neutrale-amtsfuehrung`
 
-_Steuert Barkapital- und Sachkapitalerhöhungen bei GmbH und AG vom Beschluss über Übernahme oder Zeichnung und Einlage bis zur Registereintragung. Prüft Mehrheit, notarielle Form, Bezugsrecht, Sacheinlage, Versicherungen und Vollzugsunterlagen und liefert Beschluss-, Erklärungs- und Anmeldepaket._
+_Für Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Notariat im Alltag. Route: notariat-041-konflikttraechtige-mandanten-neutrale-amtsfuehrung._
 
-# Notariat im Alltag: Kapitalerhöhung, Sacheinlage und Bezugsrecht
+# Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung
 
-## 1. Direktstart
+## Aufgabe
 
-Lies zuerst Satzung, aktuellen Registerauszug, Gesellschafterliste oder Aktionärsstruktur, Finanzierungsvereinbarung, Bewertungsunterlagen und Entwürfe. Ermittle Rechtsform, Erhöhungsart, Ausgangs- und Zielkapital, neue Nennbeträge, Übernehmer, Gegenleistung, Bezugsrechtslage und gewünschten Vollzugstermin. Frage nur nach einer Angabe, die Beschluss, Form oder Anmeldung tatsächlich verändert.
+Dieser Skill bearbeitet **Konfliktträchtige Mandanten und neutrale Amtsführung** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
-## 2. GmbH: Beschluss und notarielle Form
+## Kaltstart in 6 Fragen
 
-Eine Erhöhung des Stammkapitals ändert den Gesellschaftsvertrag. Prüfe deshalb:
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
-1. Beschlusskompetenz und Beschlussgegenstand nach den Paragrafen 53 und 55 GmbHG.
-2. Dreiviertelmehrheit der abgegebenen Stimmen nach Paragraf 53 Absatz 2 GmbHG sowie strengere Satzungsvorgaben und Stimmverbote.
-3. Notarielle Beurkundung des Beschlusses nach Paragraf 53 Absatz 3 GmbHG. Bei einer einstimmigen Beschlussfassung ist die dort angeordnete Verweisung auf Paragraf 2 Absatz 3 GmbHG für die Online-Beurkundung gesondert zu prüfen.
-4. Genaue Neufassung von Stammkapital, Zahl und Nennbeträgen der Geschäftsanteile sowie etwaiger Agio-, Nebenleistungs- oder Sonderrechtsregelungen.
-5. Vollständigen Satzungswortlaut und notarielle Bescheinigung für die Anmeldung nach Paragraf 54 GmbHG.
+## Prüfprogramm
 
-## 3. GmbH: Übernahme und Einlage
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
+- Form, Belehrung, Identität, Vertretung und Vollzug trennen
+- Register- und Grundbuchtauglichkeit gesondert prüfen
+- Kosten und Fristen sichtbar dokumentieren
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
-Für jeden neuen Geschäftsanteil ist nach Paragraf 55 Absatz 1 GmbHG eine notariell aufgenommene oder beglaubigte Übernahmeerklärung erforderlich. Diese Form gilt unabhängig davon, ob ein bestehender oder neuer Gesellschafter übernimmt; eine bloße Schriftform oder eine Analogie zu Paragraf 15 Absatz 3 GmbHG genügt nicht.
+## Typische Fallen
 
-Die Übernahmeerklärung muss Übernehmer, Nennbetrag und die übernommenen weiteren Leistungen erkennen lassen. Gleiche sie mit Beschluss, Satzung und Zeichnungsliste ab. Prüfe bei Bareinlagen die Leistungsvoraussetzungen des Paragraf 57 Absatz 2 GmbHG in Verbindung mit den dort in Bezug genommenen Gründungsvorschriften. Unterstelle keinen pauschalen Mindestzahlbetrag ohne Kenntnis des bereits eingezahlten Stammkapitals und der konkreten Einforderung.
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-Arbeitsprodukt: Übernahmematrix mit Person, neuem Geschäftsanteil, Nennbetrag, Agio, Form, Unterzeichnungsdatum, Einlage, Zahlungsbeleg und offener Bedingung.
+## Output
 
-## 4. GmbH: Sacheinlage und verdeckte Sacheinlage
+- Vollzugsliste
+- Mandantenmail
+- Register-/Grundbuchantwort
+- Kostencheck
+- Fristenplan
+- Red-Team
 
-Bei Sacheinlagen sind Gegenstand und Nennbetrag nach Paragraf 56 GmbHG im Beschluss festzusetzen. Prüfe Eigentum, Verfügungsbefugnis, Übertragungsakt, Bewertungsstichtag, Werthaltigkeit, Belastungen, Nutzungsübergang und tatsächliche freie Verfügung der Geschäftsführung. Trenne offene Sacheinlage, verdeckte Sacheinlage und Hin-und-her-Zahlen. Ein Wertgutachten ersetzt weder die genaue Festsetzung noch den dinglichen Vollzug.
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
-Arbeitsprodukt: Sacheinlagenakte mit Beschreibung, Rechtsinhaber, Bewertung, Übertragungsdokument, Belastung, Einbringungszeitpunkt, Registerbeleg und Differenzrisiko.
+## Notariatsvertiefung
 
-## 5. GmbH: Anmeldung und Wirksamkeit
+Bei **Konfliktträchtige Mandanten und neutrale Amtsführung** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
 
-Bereite die Anmeldung nach Paragraf 57 GmbHG erst vor, wenn Beschluss, Übernahmen und erforderliche Leistungen deckungsgleich belegt sind. Prüfe:
+**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
 
-1. Vertretungs- und Unterzeichnungsberechtigung aller Geschäftsführer.
-2. Versicherungen und beizufügende Unterlagen in der aktuellen Gesetzesfassung.
-3. Zahlungs- oder Übertragungsbelege ohne unzulässige Scheinsicherheit.
-4. Vollständigen Satzungswortlaut mit Bescheinigung nach Paragraf 54 Absatz 1 GmbHG.
-5. Aktualisierte Gesellschafterliste nach Paragraf 40 GmbHG und ihren richtigen Einreichungszeitpunkt.
-6. Wirksamkeit der Satzungsänderung erst mit Registereintragung nach Paragraf 54 Absatz 3 GmbHG.
+---
 
-## 6. AG: ordentliche Kapitalerhöhung
+## Skill: `041-konflikttraechtige-mandanten-und-neutrale-amtsfuehr`
 
-Bei der AG führe Hauptversammlungsbeschluss, notarielle Niederschrift, Zeichnung, Einlage und Anmeldung als getrennte Stationen:
+_Für Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Notariat im Alltag. Route: 041-konflikttraechtige-mandanten-und-neutrale-amtsfuehr._
 
-1. Beschluss und Mehrheit nach Paragraf 182 AktG; notarielle Niederschrift nach Paragraf 130 AktG.
-2. Bezugsrecht, Bezugsfrist und ein möglicher Ausschluss nach Paragraf 186 AktG einschließlich Bericht, sachlicher Rechtfertigung und Ausgabebetrag.
-3. Zeichnung der neuen Aktien in der gesetzlich vorgeschriebenen Form.
-4. Bareinlage oder Sacheinlage, Prüfungsunterlagen und Werthaltigkeit.
-5. Anmeldung und Eintragung nach den Paragrafen 188 und 189 AktG.
+# Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung
 
-Bei genehmigtem Kapital sind Ermächtigungsrahmen, Laufzeit, Restbetrag, Zustimmung des Aufsichtsrats, Bezugsrechtskompetenz und Satzungsanpassung nach den Paragrafen 202 bis 206 AktG gesondert zu prüfen.
+## Arbeitsweg
 
-## 7. Bezugsrechts- und Verwässerungskontrolle
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-Rechne Altbestand, Bezugsverhältnis, Ausgabebetrag, Agio, Zielbeteiligung und Verwässerung für jede Variante. Trenne gesetzliches Bezugsrecht, wirksamen Ausschluss, vertragliches Beteiligungsrecht, Stimmbindung und schuldrechtliche Verwässerungsschutzklausel. Ein gesellschaftsrechtlich wirksamer Beschluss kann daneben einen Beteiligungsvertrag verletzen.
+## Zweck und Anwendungsbereich
 
-## 8. Vollzugspaket
+Streitige Situationen zwischen Beteiligten, Druck auf den Notar oder Unsicherheit über die Freiwilligkeit einer Willenserklärung sind Alltagsrealität im Notariat. Strukturiere die notariellen Pflichten und Rechte bei konfliktträchtigen Situationen.
 
-Liefere je nach Rechtsform:
+Rechtsgrundlagen: § 17 BeurkG (Willensermittlung, Belehrung), § 4 BeurkG (Ablehnung), § 14 BNotO (Unparteilichkeit), § 15 BNotO (Verschwiegenheit), § 17 Abs. 3 BeurkG (Missverhältnis der Verhandlungsstärken), BGH-Rechtsprechung zu § 17 BeurkG.
 
-- beurkundungsreifen Beschluss mit präziser Satzungsänderung;
-- Übernahme- oder Zeichnungserklärungen;
-- Einlage- und Sacheinlagenmatrix;
-- notarielle Handelsregisteranmeldung mit Anlagenindex;
-- aktualisierte Gesellschafterliste oder Satzungsfassung;
-- Vollzugskalender mit Unterzeichnung, Zahlung, Anmeldung, Zwischenverfügung, Eintragung und Benachrichtigung.
+## Unparteilichkeitspflicht (§ 14 BNotO)
 
-## 9. Schlusskontrolle
+Der Notar ist unparteiischer Betreuer aller Beteiligten. Er darf keine Seite bevorzugen, keine Interessen einer Partei gegen die andere durchsetzen und keine einseitigen Formulierungsvorschläge machen, die einer Partei schaden.
 
-1. Stimmen Ausgangskapital, Erhöhungsbetrag, Zielkapital und Summe der neuen Nennbeträge centgenau überein?
-2. Sind Mehrheit nach Paragraf 53 Absatz 2 GmbHG und notarielle Form nach Absatz 3 getrennt richtig behandelt?
-3. Liegt für jeden GmbH-Geschäftsanteil eine formgerechte Übernahmeerklärung nach Paragraf 55 Absatz 1 GmbHG vor?
-4. Ist jede Sacheinlage konkret bezeichnet, bewertet und tatsächlich übertragbar?
-5. Sind Beschluss, Satzung, Übernahme, Anmeldung und Gesellschafterliste widerspruchsfrei?
-6. Wird die Registereintragung nicht mit einer bloßen Anmeldung verwechselt?
+Praktische Anforderung: Wenn ein Anwalt einer Seite den Entwurf geliefert hat, prüft der Notar den Entwurf auf Ausgewogenheit. Er muss die benachteiligte Partei auf ungünstige Klauseln hinweisen (§ 17 BeurkG).
 
-## 10. Amtliche Quellen
+## Ablehnung der Beurkundung (§ 4 BeurkG)
 
-- Paragraf 53 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__53.html
-- Paragraf 55 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__55.html
-- Paragraf 57 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__57.html
-- Paragraf 182 AktG: https://www.gesetze-im-internet.de/aktg/__182.html
-- Paragraf 186 AktG: https://www.gesetze-im-internet.de/aktg/__186.html
-- **Mandantenmail** (Ablauf, Einzahlungspflicht, Registerfrist)
+Der Notar kann die Beurkundung ablehnen, wenn:
+- Die Beurkundung unzulässig ist (z.B. Verstoß gegen Gesetz oder gute Sitten)
+- Einer der Beteiligten erkennbar unter unzulässigem Druck steht
+- Die Geschäftsfähigkeit eines Beteiligten ernsthaft zweifelhaft ist
+- Das Rechtsgeschäft einer strafbaren Handlung dient
+
+**Muss nicht abgelehnt werden:** Nur weil ein Beteiligter schwächerer Verhandlungspartner ist. Der Notar hat eine ausgleichende Funktion.
+
+## Willenserklärung unter Druck
+
+Erkennbare Zeichen von Druck oder Nötigung:
+- Beteiligter weint, ist sichtlich verängstigt
+- Dritter im Raum gibt dem Beteiligten sichtlich Anweisungen
+- Beteiligter erklärt, er unterschreibt nur, weil er sonst Nachteile fürchtet
+- Beteiligter kann keine eigene Aussage machen, spricht nur nach Vorlage
+
+**Maßnahmen:** Einzelgespräch mit dem betroffenen Beteiligten ohne Dritte (§ 17 Abs. 1 S. 2 BeurkG), Unterbrechung der Beurkundung, im Extremfall Ablehnung (§ 4 BeurkG).
+
+## Sittenwidrigkeit erkennen
+
+Der Notar muss bei offensichtlicher Sittenwidrigkeit (§ 138 BGB) die Beurkundung ablehnen oder den Beteiligten darauf hinweisen. Beispiele:
+- Knebelungsvertrag (Kernbereichslehre im Ehevertrag)
+- Wucherischer Kaufpreis
+- Verdecktes Scheingeschäft
+
+## Streit im Beurkundungstermin
+
+Kommt es während der Beurkundung zum Streit zwischen den Beteiligten:
+1. Beurkundung unterbrechen
+2. Parteien getrennt befragen
+3. Prüfen, ob Einigkeit noch herstellbar ist
+4. Beurkundung abbrechen, wenn kein gemeinsamer Wille feststellbar
+5. Abbruchsvermerk in der Akte dokumentieren
+
+## Interessenkonflikt des Notars
+
+Wenn der Notar in einem Interessenkonflikt steht (persönliche Beziehung zu einem Beteiligten, wirtschaftliches Interesse), muss er die Beurkundung ablehnen (§ 7 BeurkG: Ausschluss).
+
+Ausschluss: Notar selbst oder Angehörige sind Beteiligte oder bevollmächtigte Vertreter.
+
+## Prüfprogramm
+
+- Gibt es Anzeichen von Druck, Nötigung oder Geschäftsunfähigkeit?
+- Ist der Notar selbst in einem Interessenkonflikt?
+- Ist das Rechtsgeschäft offensichtlich sittenwidrig?
+- Einzelgespräch angeboten/durchgeführt, wenn nötig?
+- Abbruchsvermerk dokumentiert, wenn Beurkundung nicht fortgeführt werden konnte?
+
+## Typische Fallen
+
+- Notar beurkundet trotz erkennbarem Druck → Amtspflichtverletzung.
+- Kein Einzelgespräch trotz erkennbarer Beeinflussungszeichen.
+- Sittenwidrigkeit nicht erkannt → Haftung.
+- Interessenkonflikt übersehen (Angehöriger Beteiligter).
+- Abbruch ohne Dokumentation → keine Beweis für Notarhandeln.
+
+## Rechtsquellen
+
+- § 4 BeurkG: https://dejure.org/gesetze/BeurkG/4.html
+- § 17 BeurkG: https://dejure.org/gesetze/BeurkG/17.html
+- § 14 BNotO: https://dejure.org/gesetze/BNotO/14.html
+- § 138 BGB: https://dejure.org/gesetze/BGB/138.html
+- BGH zum Notar bei Druck: https://www.bgh.de
+- BNotK Berufsrecht: https://www.bnotk.de
+
+## Output-Formate
+
+- **Abbruchsvermerk** (Muster)
+- **Einzelgespräch-Protokoll** (Muster)
+- **Sittenwidrigkeits-Checkliste**
+- **Interessenkonflikt-Prüfbogen**
+- **Mandantenhinweis** (warum Beurkundung abgelehnt wurde)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
@@ -375,11 +456,119 @@ Quellenkontrolle: https://www.gesetze-im-internet.de | https://www.rechtsprechun
 
 ---
 
-## Skill: `grundbuchantrag-rangstelle-notarielle`
+## Skill: `notariat-058-sanierungs-insolvenzbezug-anteils`
 
-_Wenn es um Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung, Nachreichung in Notariat im Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Notariat im Alltag. Route: notariat-058-sanierungs-insolvenzbezug-anteils._
 
-# Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung, Nachreichung
+# Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
+- Form, Belehrung, Identität, Vertretung und Vollzug trennen
+- Register- und Grundbuchtauglichkeit gesondert prüfen
+- Kosten und Fristen sichtbar dokumentieren
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Vollzugsliste
+- Mandantenmail
+- Register-/Grundbuchantwort
+- Kostencheck
+- Fristenplan
+- Red-Team
+
+## Notariatsvertiefung
+
+Bei **Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+
+**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
+
+---
+
+## Skill: `notariat-062-gerichts-behoerdenkommunikation-notariat`
+
+_Für Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Notariat im Alltag. Route: notariat-062-gerichts-behoerdenkommunikation-notariat._
+
+# Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Gerichts- und Behördenkommunikation aus dem Notariat** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
+- Form, Belehrung, Identität, Vertretung und Vollzug trennen
+- Register- und Grundbuchtauglichkeit gesondert prüfen
+- Kosten und Fristen sichtbar dokumentieren
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Vollzugsliste
+- Mandantenmail
+- Register-/Grundbuchantwort
+- Kostencheck
+- Fristenplan
+- Red-Team
+
+## Notariatsvertiefung
+
+Bei **Gerichts- und Behördenkommunikation aus dem Notariat** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+
+**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
+
+---
+
+## Skill: `sanierungs-insolvenzbezug`
+
+_Für Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Notariat im Alltag. Route: sanierungs-insolvenzbezug._
+
+# Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen
 
 ## Arbeitsweg
 
@@ -391,80 +580,72 @@ _Wenn es um Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügu
 
 ## Zweck und Anwendungsbereich
 
-Der Grundbuchantrag ist das prozessuale Werkzeug für jede Änderung im Grundbuch. Dieser Skill erklärt das Antragsprinzip, das Rangprinzip, den Umgang mit Zwischenverfügungen und die fristgerechte Nachreichung fehlender Unterlagen.
+Insolvenz eines Beteiligten macht jedes Grundstücks- oder Gesellschaftsgeschäft kompliziert. Kläre die Konsequenzen von Insolvenzvermerken, die Rolle des Insolvenzverwalters und die Risiken der Insolvenzanfechtung.
 
-Rechtsgrundlagen: §§ 13–30 GBO (Antragsgrundsatz, Form, Inhalt), § 17 GBO (Rangprinzip), §§ 18–19 GBO (Zwischenverfügung, Eintragungsbewilligung), § 20 GBO (Auflassung), §§ 29–30 GBO (Form der Bewilligungen), § 71 GBO (Beschwerde), GBV (Grundbuchverfügung), FamFG §§ 380–410 (Grundbuchsachen).
+Rechtsgrundlagen: §§ 80–147 InsO (Insolvenzmasse, Insolvenzverwalter), §§ 129–147 InsO (Insolvenzanfechtung), § 24 Abs. 1 InsO (Wirkung Insolvenzeröffnung), § 91 InsO (Verfügungsbeschränkung), GBO § 32 (Insolvenzvermerk), § 12 GBO (Grundbucheinsicht), § 311b BGB (Form), § 17 BeurkG (Belehrungspflicht).
 
-## Antragsgrundsatz (§ 13 GBO)
+## Insolvenzvermerk im Grundbuch (§ 32 GBO)
 
-Eine Eintragung erfolgt nur auf Antrag. Der Antrag kann von jedem gestellt werden, dessen Recht betroffen ist. Der Notar stellt regelmäßig den Antrag namens der Beteiligten (§ 15 GBO). Der Antrag muss den Eintragungsgegenstand eindeutig bezeichnen (Grundstück, Recht, Berechtigter).
+Wenn über das Vermögen des Grundstückseigentümers das Insolvenzverfahren eröffnet wird, trägt das Grundbuchamt von Amts wegen einen Insolvenzvermerk in Abt. II ein. Dieser macht die Verfügungsbeschränkung publik.
 
-## Rangprinzip (§ 17 GBO)
+**Konsequenz:** Der Eigentümer kann nach Insolvenzeröffnung nicht mehr wirksam über das Grundstück verfügen (§ 80 InsO). Nur der Insolvenzverwalter ist verfügungsbefugt.
 
-Anträge werden in der Reihenfolge ihres Eingangs beim Grundbuchamt bearbeitet. Der Eingang begründet den Rang für das beantragte Recht. Bei mehreren gleichzeitig eingehenden Anträgen entscheidet die Reihenfolge im Tagebuch. Rangvorbehalt (§ 881 BGB) und Rangänderung (§ 880 BGB) sind möglich.
+## Insolvenzverwalter als Vertragspartei
 
-## Checkliste Antragsinhalte
+Wenn der Insolvenzverwalter ein Grundstück aus der Insolvenzmasse veräußert:
+- Insolvenzverwalter legt Bestellungsurkunde des Insolvenzgerichts vor (§ 56 InsO)
+- Insolvenzverwalter unterschreibt im Namen der Masse (nicht als Privatperson)
+- Keine persönliche Haftung des Insolvenzverwalters (§ 61 InsO: nur bei Pflichtverletzung)
+- Notarielle Prüfung: Legitimationsnachweis aktuell und vollständig?
 
-- Bezeichnung des Grundbuchs (Amtsgericht, Grundbuchbezirk, Band/Blatt oder Grundstücksnummer)
-- Art der begehrten Eintragung (Eigentumsumschreibung, Grundschuldbestellung, Löschung, Vormerkung)
-- Eintragungsbewilligung oder Eintragungsantrag des Berechtigten (§ 19 GBO)
-- Beilagen: Auflassung/Bewilligung in beglaubigter Form (§§ 29–30 GBO)
-- Steuerliche Unbedenklichkeit (§ 22 GrEStG) bei Eigentumsumschreibung
-- Erbschein/ENZ bei Erbfolge als Legitimationsnachweis
+## Insolvenzanfechtung (§§ 129–147 InsO)
 
-## Zwischenverfügung (§ 18 GBO)
+Rechtshandlungen des Schuldners vor Insolvenzeröffnung können vom Insolvenzverwalter angefochten werden:
+- **§ 130 InsO:** Kongruente Deckung (vereinbarte Leistung) innerhalb 3 Monate: anfechtbar wenn Insolvenzkenntnis
+- **§ 133 InsO:** Vorsatzanfechtung innerhalb 10 Jahre: anfechtbar wenn Schuldner Gläubiger benachteiligen wollte
+- **§ 134 InsO:** Unentgeltliche Leistungen (Schenkungen) innerhalb 4 Jahre: anfechtbar
 
-Wenn der Antrag noch nicht vollständig ist, ergeht eine Zwischenverfügung. Der Eingang des Antrags bleibt als Rangdatum erhalten. Der Notar hat die fehlenden Unterlagen innerhalb der gesetzten Frist (üblicherweise 1–3 Monate) nachzureichen. Nach Ablauf kann das Grundbuchamt den Antrag zurückweisen.
+**Notar muss hinweisen:** Wenn Anzeichen für nahe Insolvenz bestehen und der Kaufpreis ungewöhnlich niedrig ist.
 
-**Typische Zwischenverfügungsgründe:**
-- Fehlende steuerliche Unbedenklichkeit
-- Unvollständige oder fehlende Vollmacht
-- Fehlender Erbnachweis
-- Formfehler in der Bewilligung
-- Fehlende Löschungsbewilligung eingetragener Rechte
-- Fehlende Genehmigung (Betreuer, Familiengericht)
+## Vorinsolvenzliche GmbH-Anteilsabtretung
+
+Wenn GmbH-Anteile kurz vor Insolvenz abgetreten werden, besteht erhöhtes Anfechtungsrisiko. Der Notar sollte auf dieses Risiko hinweisen und Geldwäscheprüfung besonders sorgfältig durchführen.
+
+## StaRUG (Sanierungsrecht)
+
+Das Unternehmensstabilisierungs- und -restrukturierungsgesetz (StaRUG) ermöglicht Restrukturierungen außerhalb der formellen Insolvenz. Notar kann bei der Beurkundung von Sanierungsvereinbarungen eingeschaltet sein.
 
 ## Prüfprogramm
 
-- Ist das Grundbuch aktiv? (Keine Grundstücksverschmelzung, kein Berichtigungsverfahren anhängig?)
-- Liegt die Eintragungsbewilligung in richtiger Form vor? (§ 29 GBO: öffentlich beglaubigte Unterschrift)
-- Auflassung in der Urkunde enthalten oder separat? (§ 925 BGB, § 20 GBO)
-- Rangverhältnis: Bestehende Belastungen in Abt. II/III geprüft?
-- Löschungsbewilligungen der abzulösenden Rechte vollständig?
-- Vertretungsnachweis (Vollmacht, Gesellschaftsvertrag, Registerauszug) aktuell?
-
-## Nachreichungsfristen verwalten
-
-Sofort bei Zwischenverfügungseingang: Frist im Vollzugskalender vermerken, Mandant informieren, fehlende Unterlagen anfordern. Fristversäumnis → Antragszurückweisung → Rangrelevanz. Fristverlängerungsantrag vor Ablauf stellen (§ 18 Abs. 2 GBO).
-
-## Beschwerde (§ 71 GBO)
-
-Gegen Zwischenverfügungen und Zurückweisungen ist die Beschwerde nach § 71 GBO statthaft (Beschwerdegericht: Landgericht). Frist: keine gesetzliche, aber faktisch zeitkritisch wegen Rangverlust.
+- Liegt ein Insolvenzvermerk im Grundbuch vor?
+- Ist der Vertragspartner möglicherweise in Zahlungsschwierigkeiten (ungewöhnlicher Preis, Zeitdruck)?
+- Insolvenzverwalter: Bestellungsurkunde aktuell und vollständig?
+- Kaufpreis: angemessen für Anfechtungsschutz?
+- GwG: erhöhtes Risiko bei Sanierungskontext?
 
 ## Typische Fallen
 
-- Rangverlust durch verspätete Nachreichung → neuer Antrag mit schlechterem Rang.
-- Steuerliche Unbedenklichkeit beantragt, aber GrESt-Bescheid noch nicht erlassen.
-- Löschungsbewilligung auf falschen Namen ausgestellt.
-- Auflassung ohne Einigung (§ 873 BGB) – formell unvollständig.
-- Unklare Bezeichnung des Grundstücks (Flurstücksnummer veraltet).
+- Insolvenzvermerk in Abt. II übersehen → Eigentumsumschreibung scheitert.
+- Insolvenzverwalter ohne aktuellen Bestellungsnachweis → fehlende Legitimation.
+- Kaufpreis zu niedrig → § 133/134 InsO-Anfechtungsrisiko.
+- Vorinsolvent-Schenkung ohne GwG-Screening.
 
 ## Rechtsquellen
 
-- GBO §§ 13–30: https://dejure.org/gesetze/GBO/13.html
-- § 17 GBO (Rang): https://dejure.org/gesetze/GBO/17.html
-- § 18 GBO (Zwischenverfügung): https://dejure.org/gesetze/GBO/18.html
-- GBV: https://www.gesetze-im-internet.de/gbv/
-- BGH zu Grundbuchverfahren: https://www.bgh.de
-- BNotK Grundbuchhinweise: https://www.bnotk.de
+- § 80 InsO: https://dejure.org/gesetze/InsO/80.html
+- §§ 129–134 InsO: https://dejure.org/gesetze/InsO/129.html
+- § 32 GBO (Insolvenzvermerk): https://dejure.org/gesetze/GBO/32.html
+- StaRUG: https://www.gesetze-im-internet.de/starug/
+- BGH zur Insolvenzanfechtung: https://www.bgh.de
+- BNotK Insolvenzhinweise: https://www.bnotk.de
 
 ## Output-Formate
 
-- **Antragsentwurf** (strukturiert nach GBO-Anforderungen)
-- **Zwischenverfügungsantwort** (Muster, fristwahrend)
-- **Rangtabelle** (bestehende Belastungen, neue Eintragung)
-- **Vollzugscockpit** (offene Nachreichungen, Fristen, Verantwortliche)
-- **Mandantenmail** (Statusbericht Grundbuchverfahren)
+- **Insolvenz-Risikocheck** (Vermerk, Insolvenzverwalter, Anfechtungsrisiko)
+- **Insolvenzverwalter-Legitimationsprüfung** (Checkliste)
+- **Anfechtungsrisiko-Einschätzung** (§§ 129–134 InsO-Raster)
+- **GwG-Sanierungskontext** (erhöhte Sorgfalt)
+- **Mandantenhinweis** (Insolvenzrechtliche Risiken)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
 
@@ -476,342 +657,26 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
----
+## Kostenhinweise und Besonderheiten
 
-## Skill: `021-urkundsentwurf-mandantenkorrektur-und-belehrungsdok`
+Bei Verträgen mit insolvenzrechtlichem Bezug entstehen häufig erhöhte Beratungsaufwände:
 
-_Wenn es um Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur, Belehrungsdokumentation in Notariat im Alltag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur, Belehrungsdokumentation
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck und Anwendungsbereich
-
-Die Entwurfsphase ist rechtlich und haftungsrechtlich kritisch. Strukturiere den Entwurfsprozess, die Mandantenkommunikation, den Entwurfsversand mit Fristberechnung und die Dokumentation der Belehrung nach § 17 BeurkG.
-
-Rechtsgrundlagen: § 17 BeurkG (Belehrungspflicht, Entwurfsversand, Wartefrist), § 17 Abs. 2a BeurkG (Verbraucherwartefrist 14 Tage), § 14 BNotO (Unparteilichkeit), § 15 BeurkG (Niederschrift), DONot §§ 13–19 (Urkundsführung, Aufbewahrung), GNotKG § 8 (Auslagenpauschale Entwurf).
-
-## Entwurfsphase: Schritte
-
-1. **Erstbeauftragung:** Welche Unterlagen benötigt das Notariat? (Grundbuchauszug, Handelsregisterauszug, Personalien, Gesellschaftsvertrag)
-2. **Sachverhaltsaufnahme:** Telefonisch, schriftlich oder im Vorgespräch. Ziel: vollständiger Sachverhalt, keine Unklarheiten.
-3. **Rechtliche Vorprüfung:** Form- und Registertauglichkeit, GwG-Erstprüfung, Kostenschätzung.
-4. **Entwurfserstellung:** Rechtlich vollständiger Entwurf, alle Beteiligten korrekt bezeichnet.
-5. **Entwurfsversand:** Schriftlich an alle Beteiligten (§ 17 Abs. 2a BeurkG).
-6. **Wartefrist:** Bei Verbraucherimmobilienkäufen: 14 Tage zwischen Entwurfsversand und Beurkundungstermin.
-7. **Korrekturphase:** Einarbeitung von Änderungswünschen, neue Entwurfsversion, erneuter Versand bei wesentlichen Änderungen.
-8. **Terminvereinbarung:** Erst nach Ablauf der Wartefrist.
-9. **Belehrung beim Termin:** § 17 BeurkG, vollständige Dokumentation.
-
-## Verbraucherwartefrist (§ 17 Abs. 2a BeurkG)
-
-Bei Grundstückskaufverträgen, an denen mindestens eine Vertragspartei Verbraucher (§ 13 BGB) ist und die andere Partei Unternehmer (§ 14 BGB), muss der Notar den Entwurf mindestens 14 Tage vor dem Beurkundungstermin an den Verbraucher versenden. Versand per E-Mail, Fax oder Post; Empfangsnachweis empfohlen.
-
-Ausnahmen: beide Parteien Verbraucher (str.), reine Unternehmerverträge, ausdrücklicher Verzicht des Verbrauchers (zulässig, aber risikoreich; Dokumentation zwingend).
-
-## Belehrungspflicht (§ 17 BeurkG)
-
-Der Notar muss:
-- Den Willen der Beteiligten erforschen
-- Den Sachverhalt klären
-- Über die rechtliche Bedeutung des Geschäfts belehren
-- Zweifelhaften Rechtslagen hinweisen
-- Ausdruck des Willens in klarer und bestimmter Fassung sichern
-
-**Dokumentation:** Die Belehrung ist im Protokoll zu vermerken; bei komplexen Vorgängen: separate Belehrungsnotiz im Akt.
-
-## Korrekturmanagement
-
-- Korrekturwünsche von Beteiligten schriftlich aufnehmen.
-- Änderungen klar kennzeichnen (Tracking-Changes oder Vergleichsdatei).
-- Bei inhaltlich wesentlichen Änderungen: erneuter Entwurfsversand mit Neustart der Wartefrist?
-- Mehrere Entwurfsversionen in der Akte dokumentieren (wer hat was wann bestätigt).
-- Notar muss neutral bleiben; Entwürfe nur nach Auftrag aller Beteiligten anpassen.
-
-## Dokumentation und Aktenführung
-
-- Datum des Entwurfsversands mit Übermittlungsweg (E-Mail-Kopie, Fax-Bericht, Postaufgabe).
-- Zeitpunkt und Inhalt von Korrekturwünschen.
-- Belehrungsinhalt und -zeitpunkt beim Termin.
-- Verzicht auf Wartefrist (wenn erklärt): Unterschrift beider Parteien.
-
-## Prüfprogramm
-
-- Alle Beteiligten korrekt mit vollständigen Personalien im Entwurf?
-- Wartefrist 14 Tage eingehalten oder Verzicht dokumentiert?
-- Sind inhaltliche Korrekturen nach erneutem Entwurfsversand neu geprüft?
-- Belehrungsprotokoll vollständig?
-- Entwurfsgebühr berechnet? (KV Nr. 24101 GNotKG: 0,5 Gebühr bei nicht zur Ausführung gekommenem Entwurf)
-
-## Typische Fallen
-
-- Wartefrist nicht eingehalten → § 17 Abs. 2a BeurkG-Verstoß; keine automatische Nichtigkeit, aber Haftungsrisiko.
-- Entwurfsversand nur an eine Partei → andere Partei nicht ausreichend informiert.
-- Belehrung beim Termin nicht dokumentiert → Nachweisproblem bei Haftungsfall.
-- Notar ändert Entwurf einseitig ohne Beauftragung aller Parteien → Unparteilichkeitsverstoß.
-- Entwurfsgebühr nicht berechnet → Unterkosten.
-
-## Rechtsquellen
-
-- § 17 BeurkG: https://dejure.org/gesetze/BeurkG/17.html
-- § 17 Abs. 2a BeurkG (Wartefrist): https://dejure.org/gesetze/BeurkG/17.html
-- § 14 BNotO: https://dejure.org/gesetze/BNotO/14.html
-- GNotKG KV Nr. 24101: https://www.gesetze-im-internet.de/gnotkg/
-- BGH zur Belehrungspflicht: https://www.bgh.de
-- BNotK Urkundsführung: https://www.bnotk.de
-
-## Output-Formate
-
-- **Entwurfsversand-Protokoll** (Datum, Empfänger, Inhalt)
-- **Fristberechnung** (14-Tage-Wartefrist, Terminblock)
-- **Belehrungsprotokoll-Muster** (§ 17 BeurkG)
-- **Korrekturtracking-Tabelle**
-- **Mandantenmail** (Entwurfsversand, Frist, nächste Schritte)
-
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `050-grundbuchauszug-lesen-abteilung-ii-und-iii`
-
-_Wenn es um Notariat im Alltag: Grundbuchauszug lesen – Abt. II und III in Notariat im Alltag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Notariat im Alltag: Grundbuchauszug lesen – Abt. II und III
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck und Anwendungsbereich
-
-Ein aktueller Grundbuchauszug ist Ausgangspunkt jedes Grundstücksgeschäfts. Führe durch die systematische Lektüre aller drei Abteilungen und zeigt, welche Eintragungen vollzugsrelevant sind.
-
-Rechtsgrundlagen: GBO §§ 2–15 (Grundbuchinhalt), GBV §§ 1–21 (Grundbuchverfügung), §§ 873–902 BGB (Grundstücksrechte), §§ 1030–1093 BGB (Dienstbarkeiten), §§ 1094–1104 BGB (Vorkaufsrechte), §§ 1105–1112 BGB (Reallasten), §§ 1113–1203 BGB (Grundpfandrechte).
-
-## Aufbau des Grundbuchs
-
-| Abteilung | Inhalt |
+| Aspekt | Kostenrelevanz |
 |---|---|
-| Bestandsverzeichnis | Grundstücksbezeichnung (Gemarkung, Flur, Flurstück), Fläche |
-| Abteilung I | Eigentümer (Name, Geburtsdatum, Anteil bei Miteigentum) |
-| Abteilung II | Lasten und Beschränkungen (außer Grundpfandrechte) |
-| Abteilung III | Grundpfandrechte (Hypotheken, Grundschulden, Rentenschulden) |
+| Insolvenzverwalter-Legitimationsprüfung | Zusätzliche Prüfzeit, kein gesonderter Gebührentatbestand |
+| StaRUG-Sanierungsvereinbarung | Geschäftswert nach Nominalwert der Forderungen / Anteile |
+| Anfechtungsrisikoanalyse | Beratungsleistung, nicht gesondert nach GNotKG |
+| GwG-Intensivprüfung | Dokumentationsaufwand intern |
 
-## Abteilung I: Eigentümer
+## Zusammenspiel mit Gläubigerausschuss und Insolvenzplan
 
-- Eintragung von Name, Geburtsdatum, ggf. Anschrift
-- Anteil bei Miteigentum (Bruchteil)
-- Bezeichnung des Erwerbsgrundes (Auflassung, Erbfolge, Zuschlagsbeschluss)
-- Achtung: Voreintragungserfordernis bei GbR nach MoPeG (§ 707 BGB n.F.)
+In größeren Insolvenzverfahren kann ein Gläubigerausschuss (§ 68 InsO) oder ein bestätigter Insolvenzplan (§§ 217 ff. InsO) relevant sein. Der notarielle Vollzug eines Grundstücksverkaufs durch den Insolvenzverwalter setzt voraus, dass kein Zustimmungsvorbehalt des Gläubigerausschusses besteht (§ 160 InsO: wichtige Rechtshandlungen).
 
-## Abteilung II: Lasten und Beschränkungen
-
-Typische Eintragungen:
-- **Auflassungsvormerkung** (§ 883 BGB): sichert Kaufanspruch
-- **Dienstbarkeiten** (§§ 1018–1029 BGB): Grunddienstbarkeit (z.B. Wegerecht)
-- **Beschränkte persönliche Dienstbarkeit** (§ 1090 BGB): Wohnungsrecht, Nießbrauch
-- **Reallast** (§§ 1105–1112 BGB): wiederkehrende Leistungen (z.B. Altenteil)
-- **Vorkaufsrecht** (§§ 1094–1104 BGB): dingliches Vorkaufsrecht
-- **Verfügungsbeschränkungen** (z.B. Insolvenzvermerk, Testamentsvollstreckervermerk)
-
-**Vollzugsrelevanz:** Jede Eintragung in Abt. II muss geprüft werden, ob sie bei Verkauf gelöscht werden soll oder auf den Käufer übergeht.
-
-## Abteilung III: Grundpfandrechte
-
-Typische Eintragungen:
-- **Grundschuld** (§ 1191 BGB): häufigste Kreditsicherung; Inhaber, Betrag, Zinsen
-- **Hypothek** (§§ 1113–1190 BGB): akzessorisch; selten geworden
-- **Rentenschuld** (§§ 1199–1203 BGB): verzinsliche Geldrente
-
-**Brief- vs. Buchgrundschuld:** Grundbuch vermerkt ob „Brief" ausgegeben oder „Ohne Brief" (Buchgrundschuld).
-
-**Rangfolge:** Reihenfolge der Nummern in Abt. III = Rangfolge. Bei Zwangsversteigerung: Rangplatz entscheidend.
-
-## Vollzugsanalyse des Grundbuchauszugs
-
-**Für Grundstückskauf:**
-1. Abt. I: Ist der Verkäufer als Eigentümer eingetragen?
-2. Abt. II: Welche Belastungen gehen über? (Dienstbarkeiten bleiben oft bestehen)
-3. Abt. II: Welche müssen gelöscht werden? (Auflassungsvormerkungen, Verfügungsbeschränkungen)
-4. Abt. III: Welche Grundschulden müssen abgelöst und gelöscht werden?
-5. Alle Löschungsunterlagen für Abt. III anfordern
-
-## Aktueller Auszug: Wichtigkeit
-
-Grundbuchauszüge veralten schnell. Für Beurkundung: Auszug nicht älter als 3 Monate. Für Vollzug: Auszug direkt vor Einreichung beantragen (bei elektronischem Grundbuch: Online-Abruf).
-
-## Prüfprogramm
-
-- Ist der Eigentümer der tatsächliche Verkäufer (Abt. I)?
-- Welche Abt. II-Eintragungen sind löschungsbedürftig vs. kaufmitübernommen?
-- Alle Abt. III-Grundschulden mit Valuta-Status und Löschungsbedarf erfasst?
-- Verfügungsbeschränkungen (Testamentsvollstrecker, Insolvenz) vorhanden?
-- Auszug aktuell genug?
-
-## Typische Fallen
-
-- Veralteter Grundbuchauszug → Zwischeneintragungen übersehen.
-- Abt. II-Dienstbarkeit übersehen → Käufer kauft belastetes Grundstück.
-- Abt. III-Rangstelle falsch gelesen → Finanzierung scheitert.
-- Testamentsvollstreckervermerk übersehen → Eigentümer verfügungsbeschränkt.
-
-## Rechtsquellen
-
-- GBO §§ 2–15: https://dejure.org/gesetze/GBO/2.html
-- §§ 873–902 BGB: https://dejure.org/gesetze/BGB/873.html
-- §§ 1018–1029 BGB (Dienstbarkeit): https://dejure.org/gesetze/BGB/1018.html
-- §§ 1191–1203 BGB (Grundschuld): https://dejure.org/gesetze/BGB/1191.html
-- GBV: https://www.gesetze-im-internet.de/gbv/
-
-## Output-Formate
-
-- **Grundbuchauszug-Analyse** (tabellarisch: Abt. I/II/III, Status, Handlungsbedarf)
-- **Löschungsbedarfs-Übersicht** (je Eintragung: löschen / übernehmen / prüfen)
-- **Vollzugsrisiko-Ampel** (was blockiert den Vollzug)
-- **Mandantenmail** (Grundbuchlage, Belastungsüberblick)
-- **Auszug-Anforderungsschreiben** (an Grundbuchamt)
-
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-
----
-
-## Skill: `notariat-065-aktenabschluss-archivierung-und-offene-vollzugsrest`
-
-_Wenn es um Notariat im Alltag: Aktenabschluss, Archivierung und offene Vollzugsreste in Notariat im Alltag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Notariat im Alltag: Aktenabschluss, Archivierung und offene Vollzugsreste
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Notariat im Alltag: Aktenabschluss, Archivierung und offene Vollzugsreste. Ordnungsgemäßer Abschluss eines Vorgangs nach vollständigem Vollzug, Archivierungsanforderungen und Behandlung offener Vollzugsreste.
-
-### Notariat im Alltag: Aktenabschluss, Archivierung, offene Vollzugsreste
-
-## Zweck und Anwendungsbereich
-
-Der Aktenabschluss ist der letzte Schritt eines Urkundsvorgangs. Er setzt voraus, dass alle Vollzugshandlungen abgeschlossen sind, alle Kosten bezahlt wurden und keine offenen Restpunkte mehr existieren. Strukturiere den ordnungsgemäßen Abschlussprozess.
-
-Rechtsgrundlagen: DONot §§ 9–56 (Aktenführung, Aufbewahrung), § 18 BNotO (Aufbewahrungspflicht), §§ 44–64 BeurkG (Urkundensammlung), GwG § 8 (5-Jahres-Aufbewahrung), DSGVO Art. 17 (Löschungsrecht), GNotKG § 19 (Kostenforderung), GBO § 35 (Vollständigkeit der Grundbucheintragungen).
-
-## Aktenabschluss: Voraussetzungen
-
-Ein Vorgang kann nur abgeschlossen werden, wenn:
-- [ ] Alle Vollzugshandlungen durchgeführt (Grundbucheintragung, HR-Anmeldung, Genehmigungen)
-- [ ] Alle Bestätigungen eingegangen (Eintragungsnachricht Grundbuchamt, HR-Eintragungsnachweis)
-- [ ] Steuerliche Meldungen erledigt (GrESt-Anzeige, ErbSt-Meldung)
-- [ ] Kosten vollständig bezahlt
-- [ ] GwG-Dokumentation vollständig und archiviert
-- [ ] Alle Originalunterlagen in die Urkundensammlung eingefügt
-- [ ] Alle Ausfertigungen und beglaubigte Abschriften an Berechtigte versandt
-
-## Abschlussprotokoll
-
-Ein Aktenabschlussprotokoll bestätigt, dass alle Punkte erfüllt sind. Inhalt:
-- Urkundenrolle-Nummer
-- Datum des Abschlusses
-- Vollzugshandlungen im Überblick
-- Archivierungs-Verweise
-- Verantwortliche Person
-
-## Archivierung
-
-**Urkundensammlung (§ 9 DONot):**
-- Urschriften: dauerhaft beim Notar oder nach Amtsende beim Amtsgericht
-- Aufbewahrungsfrist: 100 Jahre
-- Keine Vernichtung zulässig
-
-**Nebenakten (§ 50 DONot):**
-- Schriftverkehr, Entwürfe, Vollzugsdokumentation
-- Aufbewahrungsfrist: 30 Jahre
-
-**GwG-Dokumentation (§ 8 Abs. 4 GwG):**
-- Identifizierungsnachweise, Risikovermerk, Transparenzregister-Abfrage
-- Aufbewahrungsfrist: 5 Jahre
-- Getrennt archivierbar (§ 8 Abs. 4 S. 2 GwG)
-
-## Offene Vollzugsreste
-
-Manchmal ist ein Vorgang formal abgeschlossen, aber es gibt noch offene Punkte (z.B. Nießbrauchsrückübertragung nach Todesfall). Diese müssen im System als „Wiedervorlage nach Ereignis" markiert werden.
-
-**Typische offene Vollzugsreste:**
-- Auflage aus familiengerichtlicher Genehmigung erfüllt?
-- Löschung des Nießbrauchs nach Tod des Berechtigten
-- Bedingungseintritt bei aufschiebend bedingten Verträgen
-- Rückforderungsklausel-Aktivierung prüfen
-
-## Mandantenschlusskorrespondenz
-
-Nach Aktenabschluss erhält der Mandant:
-- Bestätigung des Vollzugsabschlusses
-- Originalunterlagen (soweit auszuhändigen)
-- Hinweis auf Aufbewahrungsempfehlung
-- Hinweis auf künftige Ereignisse (Nießbrauch-Löschung nach Tod, Nachmeldepflichten)
-
-## DSGVO beim Aktenabschluss
-
-Nach Ablauf der gesetzlichen Aufbewahrungsfristen sind personenbezogene Daten grundsätzlich zu löschen (DSGVO Art. 17). Dies gilt nicht für Urschriften (gesetzliche Aufbewahrungspflicht geht vor). Für Nebenakten: nach 30 Jahren löschen (soweit keine aktive Forderung mehr).
-
-## Prüfprogramm
-
-- Alle Vollzugsvoraussetzungen erfüllt und bestätigt?
-- Kostenrechnung bezahlt?
-- GwG-Dokumentation komplett und archiviert?
-- Abschlussprotokoll erstellt?
-- Mandant über Abschluss informiert?
-- Offene Vollzugsreste als Wiedervorlage gesetzt?
-
-## Typische Fallen
-
-- Akte vorzeitig abgeschlossen, Eintragungsnachweis fehlt noch.
-- Kosten nicht vollständig eingenommen → Aktenabschluss unvollständig.
-- GwG-Dokumentation nicht separat archiviert → 5-Jahres-Frist unklar.
-- Nießbrauchsrückfall nach Tod vergessen → Grundbuch bleibt belastet.
-- DSGVO-Löschungsrecht nach Aufbewahrungsfrist nicht umgesetzt.
-
-## Rechtsquellen
-
-- DONot §§ 9–56: https://www.bnotk.de/notare/berufsrecht/dienstordnung/
-- § 18 BNotO: https://dejure.org/gesetze/BNotO/18.html
-- GwG § 8: https://dejure.org/gesetze/GwG/8.html
-- DSGVO Art. 17: https://dejure.org/gesetze/DSGVO/17.html
-- GNotKG § 19: https://dejure.org/gesetze/GNotKG/19.html
-- BNotK Archivierungshinweise: https://www.bnotk.de
-
-## Output-Formate
-
-- **Aktenabschluss-Protokoll** (Muster)
-- **Abschluss-Checkliste** (alle Voraussetzungen)
-- **Archivierungs-Fristen-Übersicht** (Urschrift / Nebenakte / GwG)
-- **Mandanten-Schlussschreiben** (mit Aufbewahrungshinweis)
-- **Wiedervorlage-Offene-Reste** (Tabelle für Folgeereignisse)
-
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+**Checkliste für Insolvenzverwalter-Transaktion:**
+- Bestellungsbeschluss des Insolvenzgerichts (§ 56 InsO) vorlegen
+- Zustimmung Gläubigerausschuss nach § 160 InsO prüfen
+- Insolvenzvermerk Abt. II des Grundbuchs verifizieren
+- Vollzugssperre beachten: keine Eintragung ohne Freigabe durch Verwalter
 
 ---
 

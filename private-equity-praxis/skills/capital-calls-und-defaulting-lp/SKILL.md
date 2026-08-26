@@ -1,6 +1,6 @@
 ---
 name: capital-calls-und-defaulting-lp
-description: "Wenn es um Capital Calls und Defaulting LP in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Capital Calls und Defaulting LP: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Capital Calls und Defaulting LP

@@ -1,6 +1,6 @@
 ---
 name: kassenaufsicht-beschwerde-und-bmg-bas
-description: "Wenn es um Kassenaufsicht: Beschwerde und BMG/BAS in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kassenaufsicht: Beschwerde und BMG/BAS: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kassenaufsicht: Beschwerde und BMG/BAS

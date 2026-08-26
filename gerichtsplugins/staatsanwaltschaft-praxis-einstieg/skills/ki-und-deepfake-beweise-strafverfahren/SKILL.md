@@ -1,6 +1,6 @@
 ---
 name: ki-und-deepfake-beweise-strafverfahren
-description: "Wenn es um digitale Werkzeuge- und Deepfake-Beweise im Strafverfahren in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Ki Und Deepfake Beweise Strafverfahren; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
+description: "Für digitale Werkzeuge- und Deepfake-Beweise im Strafverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # KI- und Deepfake-Beweise im Strafverfahren

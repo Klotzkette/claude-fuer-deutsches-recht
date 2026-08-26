@@ -1,6 +1,6 @@
 ---
 name: unternehmen-internal-investigation
-description: "Wenn es um Unternehmen und Internal Investigation in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Unternehmen und Internal Investigation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unternehmen und Internal Investigation

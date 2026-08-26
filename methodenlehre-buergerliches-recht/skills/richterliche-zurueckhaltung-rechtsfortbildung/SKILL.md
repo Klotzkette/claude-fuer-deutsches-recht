@@ -1,6 +1,6 @@
 ---
 name: richterliche-zurueckhaltung-rechtsfortbildung
-description: "Wenn es um Richterliche Zurückhaltung und Rechtsfortbildung: Methodische Grenzziehung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Richterliche Zurückhaltung und Rechtsfortbildung: Methodische Grenzziehung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Richterliche Zurückhaltung und Rechtsfortbildung: Methodische Grenzziehung

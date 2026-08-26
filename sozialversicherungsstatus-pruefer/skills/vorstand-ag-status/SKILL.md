@@ -1,6 +1,6 @@
 ---
 name: vorstand-ag-status
-description: "Wenn es um AG-Vorstand und Sozialversicherung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AG-Vorstand und Sozialversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AG-Vorstand und Sozialversicherung

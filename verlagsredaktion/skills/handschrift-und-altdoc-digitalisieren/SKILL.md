@@ -1,6 +1,6 @@
 ---
 name: handschrift-und-altdoc-digitalisieren
-description: "Wenn es um Handschrift und Altdokumente digitalisieren in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Handschrift und Altdokumente digitalisieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handschrift und Altdokumente digitalisieren

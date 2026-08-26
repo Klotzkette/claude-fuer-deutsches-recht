@@ -1,6 +1,6 @@
 ---
 name: betriebsgenehmigung-airline
-description: "Wenn es um Betriebsgenehmigung Airline – Antrag, Änderung und Widerruf in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebsgenehmigung Airline – Antrag, Änderung und Widerruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsgenehmigung Airline – Antrag, Änderung und Widerruf

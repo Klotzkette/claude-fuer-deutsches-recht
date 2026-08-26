@@ -1,6 +1,6 @@
 ---
 name: infl-068-qualitaetsgate-veroeffentlichung
-description: "Wenn es um Influencer-Recht: Qualitätsgate Veröffentlichung in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Qualitätsgate Veröffentlichung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Influencer-Recht: Qualitätsgate Veröffentlichung

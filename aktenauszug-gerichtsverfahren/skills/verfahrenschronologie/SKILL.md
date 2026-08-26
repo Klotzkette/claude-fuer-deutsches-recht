@@ -1,6 +1,6 @@
 ---
 name: verfahrenschronologie
-description: "Wenn es um Verfahrenschronologie in aktenauszug-gerichtsverfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Verfahrenschronologie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Verfahrenschronologie

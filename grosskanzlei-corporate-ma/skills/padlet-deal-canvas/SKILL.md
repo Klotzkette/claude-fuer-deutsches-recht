@@ -1,6 +1,6 @@
 ---
 name: padlet-deal-canvas
-description: "Wenn es um Padlet Deal Canvas in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Padlet Deal Canvas: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Padlet Deal Canvas

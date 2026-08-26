@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaftsembargo
-description: "Wenn es um Aussenwirtschaftsrecht — AWG und Sanktionen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Außenwirtschaftsrecht — AWG und Sanktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aussenwirtschaftsrecht — AWG und Sanktionen

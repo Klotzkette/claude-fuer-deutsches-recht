@@ -1,6 +1,6 @@
 ---
 name: gegenueberstellung-parteivortraege
-description: "Wenn es um Gegenueberstellung: Zahlen, Schwellenwerte und Berechnung in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Gegenüberstellung: Zahlen, Schwellenwerte und Berechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gegenueberstellung: Zahlen, Schwellenwerte und Berechnung

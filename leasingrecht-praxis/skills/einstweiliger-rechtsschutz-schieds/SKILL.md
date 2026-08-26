@@ -1,6 +1,6 @@
 ---
 name: einstweiliger-rechtsschutz-schieds
-description: "Wenn es um Einstweiliger Rechtsschutz: Herausgabe des Leasingobjekts in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Einstweiliger Rechtsschutz: Herausgabe des Leasingobjekts: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstweiliger Rechtsschutz: Herausgabe des Leasingobjekts

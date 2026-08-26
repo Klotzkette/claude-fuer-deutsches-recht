@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-kaufvertrag-scopen
-description: "Wenn es um Kreuzfahrtschiff – Kaufvertrag scopen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kreuzfahrtschiff – Kaufvertrag scopen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kreuzfahrtschiff – Kaufvertrag scopen

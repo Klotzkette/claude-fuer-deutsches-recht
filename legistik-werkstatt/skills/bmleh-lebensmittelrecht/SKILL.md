@@ -1,6 +1,6 @@
 ---
 name: bmleh-lebensmittelrecht
-description: "Wenn es um Lebensmittel- und Futtermittelrecht (BMLEH) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmleh Lebensmittelrecht; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Lebensmittel- und Futtermittelrecht (BMLEH): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmleh-lebensmittelrecht."
 ---
 
 # Lebensmittel- und Futtermittelrecht (BMLEH)

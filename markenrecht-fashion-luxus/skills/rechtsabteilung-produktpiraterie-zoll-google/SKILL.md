@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-produktpiraterie-zoll-google
-description: "Wenn es um Produktpiraterie und Zollbeschlagnahme in markenrecht-fashion-luxus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Produktpiraterie und Zollbeschlagnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produktpiraterie und Zollbeschlagnahme

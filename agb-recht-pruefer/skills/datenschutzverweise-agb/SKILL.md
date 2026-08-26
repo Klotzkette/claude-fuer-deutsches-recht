@@ -1,6 +1,6 @@
 ---
 name: datenschutzverweise-agb
-description: "Wenn es um Datenschutzverweise AGB in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutzverweise AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutzverweise AGB

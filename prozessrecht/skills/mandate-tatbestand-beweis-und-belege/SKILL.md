@@ -1,6 +1,6 @@
 ---
 name: mandate-tatbestand-beweis-und-belege
-description: "Wenn es um Mandate: Tatbestandsmerkmale, Beweisfragen und Beleglage in Prozessrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Mandate: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Mandate: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 54 Skills des Plugins `meinungspruefer`.
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Meinungsprüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet kon…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Meinungsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten …
-3. **kaltstart-triage** — Wenn es um Meinungsprüfer - Allgemein in Meinungsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näc…
-4. **meinungspruefer-erstpruefung-und-mandatsziel** — Wenn es um Meinungspruefer: Erstprüfung, Rollenklärung und Mandatsziel in Meinungsprüfer geht: klärt Rolle, Ziel, Frist,…
-5. **wahrnehmung-berechtigter-zitat** — Wenn es um Paragraf 193 StGB - Wahrnehmung berechtigter Interessen in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Bew…
-6. **olg-kg-rechtsprechungsbank-verifiziert** — Wenn es um OLG-/KG-Praxis zur Äußerungsprüfung in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
-7. **nachrede-tatsache** — Wenn es um Nachrede: Schriftsatz-, Brief- und Memo-Bausteine in Meinungsprüfer geht: erstellt den passenden Entwurf aus …
-8. **zivilrecht-unterlassung-abmahnung** — Wenn es um Zivilrechtliche Äußerungsansprüche in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumen…
-9. **beleidigung-meinungspruefer** — Wenn es um Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien in Meinungsprüfer geht: zerlegt Ergebnis, Fr…
-10. **egmr-art-eugh-grch** — Wenn es um EGMR-Art.-10-Rechtsprechung in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und …
-11. **abwaegung-art-arbeitgeber-betrieb** — Wenn es um Art. 5 GG - Abwägung in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächste…
-12. **kommunalrecht-buergermeister-machtkritik** — Wenn es um Kommunalrechtlicher Grenzfall: Bürgermeister und Bauprojekt in Meinungsprüfer geht: prüft Frist, Form, Zustän…
-13. **meinung-strafantrag-verfahren** — Wenn es um Meinung: Fristen, Form, Zuständigkeit und Rechtsweg in Meinungsprüfer geht: erstellt den passenden Entwurf au…
-14. **eugh-grch-art-11-rechtsprechung** — Wenn es um EuGH und Art. 11 GRCh in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächst…
-15. **verleumdung-verhandlung-vergleich-und-eskalation** — Wenn es um Verleumdung: Verhandlung, Vergleich und Eskalation in Meinungsprüfer geht: entwickelt Verhandlungsziel, Vergl…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **kaltstart-triage** — Für Meinungsprüfer - Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nä…
+4. **meinungspruefer-erstpruefung-und-mandatsziel** — Für Meinungsprüfer: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebni…
+5. **beleidigung-meinungspruefer** — Für Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebni…
+6. **chronologie-fristen** — Für Chronologie und Belegmatrix: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Wi…
+7. **soziale-medien-aeusserungsrecht** — Für Soziale Medien: X, LinkedIn, Bewertungsportale: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenk…
+8. **kommunalrecht-buergermeister-machtkritik** — Für Kommunalrechtlicher Grenzfall: Bürgermeister und Bauprojekt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
+9. **meinung-strafantrag-verfahren** — Für Meinung: Fristen, Form, Zuständigkeit und Rechtsweg: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schr…
+10. **ueble-verleumdung** — Für Üble: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkart…
+11. **wahrnehmung-berechtigter-zitat** — Für Paragraf 193 StGB - Wahrnehmung berechtigter Interessen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpr…
+12. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+13. **europarecht-emrk-gegendarstellung** — Für Europarecht: EMRK und Grundrechtecharta: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mi…
+14. **schmaehkritik-formalbeleidigung-schnelltriage** — Für Schmähkritik, Formalbeleidigung, Menschenwürde: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodu…
+15. **personen-politisches-presserecht-plattformen** — Für Paragraf 188 StGB - Personen des politischen Lebens: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfproduk…
 
 ---
 
@@ -144,7 +144,7 @@ Ausgangspunkt für dieses Plugin: Beschwerdeführer für Grundrechtsbetroffenhei
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Meinungsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Meinungsprüfer._
 
 # Einstieg und Routing
 
@@ -188,7 +188,7 @@ Dieser Einstieg routet **Meinungspruefer** vom ersten Sachverhalt zu Rollen, Fri
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Meinungsprüfer - Allgemein in Meinungsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Meinungsprüfer - Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Meinungsprüfer - Allgemein
 
@@ -293,7 +293,7 @@ Stand: 05/2026. Kernnormen: Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, §§ 185-188,
 
 ## Skill: `meinungspruefer-erstpruefung-und-mandatsziel`
 
-_Wenn es um Meinungspruefer: Erstprüfung, Rollenklärung und Mandatsziel in Meinungsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Meinungsprüfer: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Meinungspruefer: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -341,9 +341,237 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `beleidigung-meinungspruefer`
+
+_Für Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien
+- **Normen-/Quellenanker:** Art. 5, GG, Art. 10, EMRK, Art. 11, EGMR, OLG, US.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Beleidigung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `chronologie-fristen`
+
+_Für Chronologie und Belegmatrix: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: Meinungsprüfer._
+
+# Chronologie und Belegmatrix
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Chronologie und Belegmatrix** im Bereich **meinungspruefer** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+---
+
+## Skill: `soziale-medien-aeusserungsrecht`
+
+_Für Soziale Medien: X, LinkedIn, Bewertungsportale: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Soziale Medien: X, LinkedIn, Bewertungsportale
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Besonderheit
+
+Online-Äußerungen sind schnell, dauerhaft, kopierbar und häufig aus dem Kontext gerissen. Reichweite, Tags, Screenshots und Wiederholungen sind in der Abwägung wichtig.
+
+## Prüfpunkte
+
+- Plattform und Accounttyp.
+- Followerzahl und tatsächliche Reichweite.
+- öffentliche Sichtbarkeit oder geschlossene Gruppe.
+- Tags, Bildnisse, Klarnamen, Arbeitgeberbezug.
+- Thread-Kontext und vorherige Provokation.
+- Löschung, Bearbeitung, Entschuldigung.
+- Plattformmeldung oder staatliches Verfahren.
+- Hyperlinks: eigener Aussagegehalt, Einbettung, Billigung oder bloßer Nachweis.
+- Drittkommentare: Accountinhaberrolle, Moderationsmöglichkeit, Kenntnis, Reaktionszeit und Schwere.
+- Plattformmaßnahme: Löschung, Sperrung, Label, Shadowban, De-Referenzierung oder Wiederherstellung.
+
+## Prangerwirkung
+
+Erhöhe das Risiko, wenn:
+
+- eine Person gezielt markiert wird,
+- Bild oder Arbeitsplatz genannt wird,
+- der Beitrag mehrfach gepostet wird,
+- zur Kontaktaufnahme oder Beschwerdewelle aufgerufen wird,
+- der Vorwurf schwer und unbelegt ist.
+
+## Europäisches Routing
+
+- Bei Hyperlinks und Kommentarspalten `egmr-art-10-rechtsprechung` hinzunehmen.
+- Bei Plattformlöschung, Suchmaschinen, Labeln, DSA oder Datenschutz `eugh-grch-art-11-rechtsprechung` hinzunehmen.
+- Bei Unterlassung gegen künftige gleichwertige Inhalte `olg-kg-praxis-rechtsprechung` und `presserecht-plattformen-loeschung-dsa` hinzunehmen.
+
+---
+
+## Skill: `kommunalrecht-buergermeister-machtkritik`
+
+_Für Kommunalrechtlicher Grenzfall: Bürgermeister und Bauprojekt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Kommunalrechtlicher Grenzfall: Bürgermeister und Bauprojekt
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Typischer Fall
+
+In der Bürgerversammlung, auf X oder im Leserbrief wird der Bürgermeister wegen eines Bauprojekts scharf kritisiert. Das kann starke Machtkritik sein, aber auch zur persönlichen Herabsetzung kippen.
+
+## Prüfschritte
+
+1. **Amtsbezug:** Geht es um Bauprojekt, Ratsvorlage, Verwaltungshandeln, Vergabe, Transparenz?
+2. **Rolle:** Bürgermeister als Amtsträger und politische Figur, nicht nur Privatperson.
+3. **Wortwahl:** Spott, Werturteil, Tatsachenvorwurf, Schimpfwort.
+4. **Reichweite:** Bürgerversammlung, lokale Presse, Social Media.
+5. **Tatsachenkern:** Korruption, Lüge, Vetternwirtschaft, Inkompetenz.
+6. **§ 188 StGB:** nur bei Basisdelikt und Eignung zur erheblichen Erschwerung des öffentlichen Wirkens.
+
+## Beispiel
+
+"Ich halte die Kommunikation des Bürgermeisters zum Bauprojekt für eitel, abgehoben und fachlich schwach" ist anders zu prüfen als ein unbelegter konkreter Bestechungsvorwurf.
+
+## Schneller Arbeitsmodus
+
+- Starte mit Wortlaut, Medium, Adressat, Anlass, Vor- und Nachgeschichte, Reichweite, Betroffenem und vorhandenen Belegen.
+- Trenne strikt: Tatsachenbehauptung, Werturteil, gemischte Aeusserung, Satire/Spott, Schmähungs- oder Prangerkontext.
+- Gewichte meinungsfreiheitsfreundlich, aber nicht blind: Sachbezug, Machtkritik, Beleglage, Formalbeleidigung, Privatbereich und Eskalationsrisiko getrennt ausweisen.
+- Keine erfundene Rechtsprechung. Entscheidungen nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle nennen; sonst Recherchebedarf markieren.
+
+---
+
+## Skill: `meinung-strafantrag-verfahren`
+
+_Für Meinung: Fristen, Form, Zuständigkeit und Rechtsweg: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
+
+# Meinung: Fristen, Form, Zuständigkeit und Rechtsweg
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Meinung: Fristen, Form, Zuständigkeit und Rechtsweg
+- **Normen-/Quellenanker:** Art. 5, GG, Art. 10, EMRK, Art. 11, EGMR, OLG, US.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Meinung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `ueble-verleumdung`
+
+_Für Üble: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Ueble: Behörden-, Gerichts- oder Registerweg
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Ueble: Behörden-, Gerichts- oder Registerweg
+- **Normen-/Quellenanker:** Art. 5, GG, Art. 10, EMRK, Art. 11, EGMR, OLG, US.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Ueble** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
 ## Skill: `wahrnehmung-berechtigter-zitat`
 
-_Wenn es um Paragraf 193 StGB - Wahrnehmung berechtigter Interessen in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Paragraf 193 StGB - Wahrnehmung berechtigter Interessen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # § 193 StGB - Wahrnehmung berechtigter Interessen
 
@@ -385,90 +613,56 @@ _Wenn es um Paragraf 193 StGB - Wahrnehmung berechtigter Interessen in Meinungsp
 
 ---
 
-## Skill: `olg-kg-rechtsprechungsbank-verifiziert`
+## Skill: `workflow-kaltstart-und-routing`
 
-_Wenn es um OLG-/KG-Praxis zur Äußerungsprüfung in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Meinungsprüfer._
 
-# OLG-/KG-Praxis zur Äußerungsprüfung
+# Kaltstart und Routing
 
-## Arbeitsbereich
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-Nutzt obergerichtliche Praxis zu Äußerungen: OLG Frankfurt, OLG München, OLG Köln, OLG Düsseldorf, KG Berlin, Social Media, Unterlassung und Sinnermittlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
 
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Arbeitsprogramm
-
-1. **Antrag/Tenor zuerst:** Was genau soll verboten werden? Ist die Deutungsvariante zu weit?
-2. **Sinnermittlung:** Durchschnittsverständnis, Kontext, begleitende Indizien, Mehrdeutigkeit.
-3. **Tatsachenkern:** Gibt es tatsächliche Anknüpfungspunkte oder nur Verdacht/Schluss?
-4. **Äußerungsform:** Bericht, Gutachten, Post, Kommentar, Label, Suchtreffer, Gegendarstellung.
-5. **Prozesslage:** Eilverfahren, Wiederholungsgefahr, Glaubhaftmachung, Dringlichkeit, Klarstellung.
-6. **Risikoausgabe:** Was ist am wahrscheinlichsten: Verbot, Teilverbot, Abweisung, Klarstellung, Vergleich?
-
-## Verifizierte Praxisanker
-
-- **OLG Frankfurt am Main, Urteil vom 30.11.2023 - 16 U 206/21:** Gutachterliche Bewertung über einen Schiedsrichter; Werturteil, Sinnermittlung und Schutz fachlicher Kritik.
-- **OLG München, Endurteil vom 23.05.2023 - 18 U 3399/22 Pre:** Werturteil kann unzulässig werden, wenn die tatsächliche Grundlage für schwerwiegende Schlussfolgerungen fehlt.
-- **OLG München, Endurteil vom 05.03.2024 - 18 U 2827/23 Pre:** Verdachtsberichterstattung, wahre Tatsachen, Meinungsäußerung und identifizierende Berichterstattung sauber trennen.
-- **OLG München, Endurteil vom 09.04.2024 - 18 U 4603/22 Pre:** Plattformlabel "Falschinformation" braucht tragfähige vertragliche Grundlage und darf Nutzerrechte nicht verfahrenslos verkürzen.
-- **OLG Köln, Urteil vom 13.06.2024 - 15 U 70/23:** Bei inneren Tatsachen wie Motiv, Absicht oder Kenntnis genau zwischen beweisbarer Tatsache, Verdachtsäußerung und wertender Schlussfolgerung unterscheiden.
-- **OLG Köln, Urteil vom 27.06.2024 - 15 U 221/22:** Persönlichkeitsrecht und Meinungsfreiheit im Einzelfall austarieren; EGMR-Werturteilslinie und deutsche Sinnermittlung zusammendenken.
-- **OLG Düsseldorf, Beschluss vom 10.07.2006 - III-5 Ss 101/05 - 53/05 I:** Beleidigungsprüfung darf nicht aus dem Kontext gerissene Ausschnitte bewerten; Schmähkritik verlangt Gesamtwürdigung.
-- **KG Berlin, Beschluss vom 11.03.2020 - 10 W 13/20:** Datenherausgabe wegen beleidigender Onlineäußerungen verlangt Prüfung, ob die Äußerung strafbar und die Herausgabe erforderlich ist.
-
----
-
-## Skill: `nachrede-tatsache`
-
-_Wenn es um Nachrede: Schriftsatz-, Brief- und Memo-Bausteine in Meinungsprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Nachrede: Schriftsatz-, Brief- und Memo-Bausteine
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Nachrede: Schriftsatz-, Brief- und Memo-Bausteine
-- **Normen-/Quellenanker:** Art. 5, GG, Art. 10, EMRK, Art. 11, EGMR, OLG, US.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Nachrede** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Äußerungsrecht — Kaltstart-Weichen
+- **Werturteil oder Tatsachenbehauptung?** Wahlfreiheit der Meinung Art. 5 Abs. 1 GG; bei Tatsachen Beweisbarkeit prüfen (BVerfG ständige Rspr.). Mehrdeutigkeit → Stolpe-Linie: jede Deutungsvariante muss bei Unterlassung verboten werden können (BVerfGE 114, 339).
+- **Schmähkritik vs. zulässige Meinungsäußerung:** Schmähkritik nur bei reiner Diffamierung ohne Sachbezug (BVerfG ständige Rspr.); ansonsten Abwägung Persönlichkeitsrecht (Art. 2 I, 1 I GG) vs. Art. 5 GG.
+- **Personenkreis:** Privatperson, Politiker (§ 188 StGB), Amtsträger; Machtkritik genießt erhöhten Schutz, aber kein Freibrief.
+- **Forum:** Print, Rundfunk, Soziale Medien (DSA-Pflichten), Betrieb (BetrVG-Bezug?). Plattformlöschung nach DSA Art. 16-17 prüfen.
+- **Frist:** Unterlassungsanspruch (§§ 823, 1004 BGB analog) und Gegendarstellung (Landespressegesetze, idR unverzüglich, max. 3 Monate).
+- Falle: Persönliches Empfinden des Mandanten als Schmähkritik bezeichnen — der Begriff ist nach BVerfG eng auszulegen.
 
 ---
 
-## Skill: `zivilrecht-unterlassung-abmahnung`
+## Skill: `europarecht-emrk-gegendarstellung`
 
-_Wenn es um Zivilrechtliche Äußerungsansprüche in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Europarecht: EMRK und Grundrechtecharta: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Zivilrechtliche Äußerungsansprüche
-
-## Arbeitsbereich
-
-Prüft zivilrechtliche Ansprüche bei Äußerungen: Unterlassung, Beseitigung, Widerruf, Richtigstellung, Geldentschädigung, § 823 BGB, § 824 BGB und § 1004 BGB analog. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+# Europarecht: EMRK und Grundrechtecharta
 
 ## Arbeitsweg
 
@@ -478,38 +672,66 @@ Prüft zivilrechtliche Ansprüche bei Äußerungen: Unterlassung, Beseitigung, W
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Anspruchslandkarte
+## Leitplanken
 
-- **Unterlassung:** Wiederholungsgefahr, rechtswidrige Verletzung des allgemeinen Persönlichkeitsrechts oder Unternehmenspersönlichkeitsrechts.
-- **Beseitigung/Löschung:** fortwirkende Beeinträchtigung.
-- **Widerruf/Richtigstellung:** vor allem bei unwahren Tatsachenbehauptungen.
-- **Geldentschädigung:** nur bei schwerwiegenden Persönlichkeitsrechtsverletzungen.
-- **§ 824 BGB:** kreditgefährdende unwahre Tatsachen über Unternehmen oder berufliches Fortkommen.
-- **§ 823 Abs. 2 BGB:** Schutzgesetze wie §§ 185 ff. StGB.
+Art. 10 EMRK schützt Freiheit der Meinungsäußerung; Einschränkungen müssen gesetzlich vorgesehen, legitim und in einer demokratischen Gesellschaft notwendig sein. Art. 11 GRCh schützt Freiheit der Meinungsäußerung und Informationsfreiheit im Unionsrecht.
 
-## Prüfung
+Die europäische Ebene ist keine Dekoration. Sie soll prüfen, ob die deutsche Lösung konventions- und unionsrechtsfreundlich ist:
 
-1. Äußerungstyp.
-2. Rechtsgut.
-3. Rechtswidrigkeit durch Abwägung.
-4. Wiederholungs- oder Erstbegehungsgefahr.
-5. Anspruchsziel.
-6. Beweislast und Belege.
+- EGMR: demokratische Notwendigkeit, Werturteil/Tatsachengrundlage, Art.-8-/Art.-10-Abwägung, Sanktion und chilling effect.
+- EuGH/GRCh: Plattformen, Suchmaschinen, Datenschutz, DSA, Uploadfilter, journalistische Zwecke, Art. 7, 8, 11 und 16 GRCh.
 
-## Schneller Arbeitsmodus
+## Wann relevant?
 
-- Starte mit Wortlaut, Medium, Adressat, Anlass, Vor- und Nachgeschichte, Reichweite, Betroffenem und vorhandenen Belegen.
-- Trenne strikt: Tatsachenbehauptung, Werturteil, gemischte Aeusserung, Satire/Spott, Schmähungs- oder Prangerkontext.
-- Gewichte meinungsfreiheitsfreundlich, aber nicht blind: Sachbezug, Machtkritik, Beleglage, Formalbeleidigung, Privatbereich und Eskalationsrisiko getrennt ausweisen.
-- Keine erfundene Rechtsprechung. Entscheidungen nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle nennen; sonst Recherchebedarf markieren.
+- Plattformregulierung, DSA, unionsrechtlicher Kontext.
+- Presse, Journalismus, öffentliche Debatte.
+- Staatliche Sanktion oder gerichtliche Unterlassung mit europarechtlichem Bezug.
+- Grundrechtsfreundliche Auslegung im Lichte der EMRK.
+- Suchmaschinen-De-Referenzierung oder Löschung angeblich falscher Inhalte.
+- Veröffentlichung personenbezogener Daten, Video, Screenshot oder Namensnennung.
+
+## Prüfpunkte
+
+1. Schutzbereich und Kommunikationswert.
+2. Eingriff oder private Plattformmaßnahme mit rechtlichem Rahmen.
+3. gesetzliche Grundlage oder unionsrechtlicher Anker.
+4. legitimer Zweck: Rechte anderer, Reputation, Privatleben, Datenschutz, Ordnung, Sicherheit.
+5. Notwendigkeit und Verhältnismäßigkeit.
+6. Rolle der betroffenen Person und Beitrag zu öffentlicher Debatte.
+7. Tatsachengrundlage bei Werturteilen.
+8. Reichweite der Sanktion: Verurteilung, Unterlassung, Löschung, De-Referenzierung, Label, Sperre.
+
+## Spezialrouting
+
+| Befund | Nächster Skill |
+|---|---|
+| EGMR-Art.-10-Rechtsprechung wird tragend | `egmr-art-10-rechtsprechung` |
+| Plattform, Suchmaschine, DSGVO, DSA oder Uploadfilter | `eugh-grch-art-11-rechtsprechung` |
+| Deutsche Instanzpraxis, Verbotstenor oder Eilverfahren | `olg-kg-praxis-rechtsprechung` |
+| Internationaler Vergleich mit USA | `rechtsvergleich-usa-supreme-court` |
 
 ---
 
-## Skill: `beleidigung-meinungspruefer`
+## Skill: `schmaehkritik-formalbeleidigung-schnelltriage`
 
-_Wenn es um Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien in Meinungsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Schmähkritik, Formalbeleidigung, Menschenwürde: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien
+# Schmähkritik, Formalbeleidigung, Menschenwürde
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -519,32 +741,48 @@ _Wenn es um Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien in 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** Art. 5, GG, Art. 10, EMRK, Art. 11, EGMR, OLG, US.
+## Ausgangspunkt
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Diese Kategorien sind Ausnahmen. Sie dürfen nicht als Abkürzung genutzt werden, nur weil eine Äußerung grob, unhöflich oder verletzend ist. Im Normalfall bleibt eine Abwägung erforderlich.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+## Schmähkritik
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Beleidigung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+Schmähung liegt erst nahe, wenn die Diffamierung der Person im Vordergrund steht und der Sachbezug praktisch wegfällt. Ein äußerer Anlass reicht nicht, wenn er nur vorgeschoben ist. Umgekehrt verhindert ein echter Sachbezug regelmäßig den vorschnellen Schmähkritik-Stempel.
+
+## Formalbeleidigung
+
+Formalbeleidigung meint besonders krasse, aus sich heraus herabwürdigende und gesellschaftlich tabuisierte Beschimpfungen. Kontext ist nicht völlig egal, aber die Form kann so stark sein, dass sie kaum noch grundrechtlich tragfähig ist.
+
+## Menschenwürdeangriff
+
+Das ist die engste und schwerste Kategorie: Der Person wird der Würdekern abgesprochen, nicht nur Ehre oder soziale Anerkennung verletzt.
+
+## Prüffragen
+
+- Gibt es einen nachvollziehbaren Sachanlass?
+- Wird noch ein Vorgang kritisiert oder nur die Person vernichtet?
+- Ist die Wortwahl gesellschaftlich absolut tabuisiert?
+- Wird der Mensch als Mensch herabgesetzt?
+- Wurde die Einordnung konkret begründet?
+- Sollte hilfsweise trotzdem abgewogen werden?
+
+## BVerfG-Linie und Trade-offs
+
+- **BVerfG-Linie:** Schmähung, Formalbeleidigung und Menschenwürdeangriff sind eng begrenzte Ausnahmen vom Regelfall der konkreten Abwägung. BVerfG, Beschluss vom 19.05.2020 - 1 BvR 2397/19 - ordnet die Maßstäbe anhand ehrverletzender Blogangriffe auf Richter; BVerfG, Beschluss vom 19.12.2021 - 1 BvR 1073/20 - beanstandet eine verkürzte Würdigung von Äußerungen über eine Politikerin und verlangt die grundrechtlich angeleitete Abwägung.
+- **Formalbeleidigung (§ 192 StGB Schranke):** Hier hat BVerfG die Kategorie geschärft — Bezug zur Person, Form, gesellschaftliche Tabuisierung. Auch hier keine pauschale Sperre für Abwägung.
+- **Menschenwürdeangriff (Art. 1 I GG):** Absolute Grenze. Beispiele: NS-Vergleiche mit Vernichtungsbezug, Entmenschlichung. Bei Menschenwürdeangriff entfällt jede Abwägung.
+- **Stolpe-Linie (BVerfGE 114, 339):** Bei Mehrdeutigkeit gilt für Unterlassungsklage: jede vertretbare Variante muss bei Unterlassung verboten werden können — engerer Maßstab als bei Schadensersatz.
+- **Echo (Persönlichkeit, Recht am eigenen Bild, allgemeines Persönlichkeitsrecht):** Art. 2 I iVm Art. 1 I GG; abzuwägen gegen Art. 5 I GG.
+- **§ 188 StGB (Personen des politischen Lebens):** ab 22.09.2021 verschärft; Strafrahmen bis 5 Jahre Freiheitsstrafe.
+- Falle: "Schmähkritik" wird vorgerichtlich oder im Schriftsatz als Kürzel verwendet, BVerfG fordert aber detaillierte Subsumtion. Bei Verstoß: Aufhebung durch BVerfG (Verfassungsbeschwerde lohnt regelmäßig).
 
 ---
 
-## Skill: `egmr-art-eugh-grch`
+## Skill: `personen-politisches-presserecht-plattformen`
 
-_Wenn es um EGMR-Art.-10-Rechtsprechung in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Paragraf 188 StGB - Personen des politischen Lebens: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# EGMR-Art.-10-Rechtsprechung
+# § 188 StGB - Personen des politischen Lebens
 
 ## Arbeitsweg
 
@@ -554,243 +792,36 @@ _Wenn es um EGMR-Art.-10-Rechtsprechung in Meinungsprüfer geht: ordnet Sachverh
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Wann einsetzen?
+## Leitfrage
 
-- öffentlicher Diskurs, Kommunalpolitik, Behördenkritik oder berufliche Machtkritik.
-- Streit über Meinung/Tatsache, Werturteil und tatsächliche Grundlage.
-- Presse, Blog, Social Media, Hyperlink oder Kommentarspalte.
-- Unterlassung, Strafurteil, Geldentschädigung oder Plattformhaftung mit chilling-effect-Risiko.
-- Fälle, in denen Art. 8 EMRK und Art. 10 EMRK kollidieren.
+Nicht jede scharfe Kritik an einem Bürgermeister, Ratsmitglied oder Ministerialbeamten ist § 188 StGB. Die Norm verlangt zusätzliche Voraussetzungen und bleibt an Art. 5 GG gebunden.
 
 ## Prüfprogramm
 
-1. **Speech-Kategorie:** politischer Diskurs, Frage öffentlichen Interesses, Presse/Watchdog, anwaltliche Kritik, Verbraucheräußerung, private Kränkung.
-2. **Werturteil/Tatsache:** Werturteile sind nicht wahrheitsbeweisfähig, brauchen aber je nach Schwere eine hinreichende Tatsachengrundlage.
-3. **Status der betroffenen Person:** Amtsträger, Politiker, public figure, Unternehmen, Privatperson; je öffentlicher die Rolle, desto weiter die Kritikgrenze.
-4. **Form und Schärfe:** verletzend, satirisch, polemisch, persönlich, aber noch diskursbezogen?
-5. **Kontext:** Anlass, Vorgeschichte, Replik, hitzige Debatte, begrenzter Empfängerkreis, journalistische Sorgfalt.
-6. **Sanktion:** Strafrecht, zivilrechtliches Verbot, Schadensersatz, Plattformlöschung; Intensität und Abschreckungswirkung dokumentieren.
-7. **Art.-8-Gegengewicht:** Reputation, Privatleben, Prangerwirkung, Schutz Minderjähriger, Rechte Dritter.
-
-## Leitentscheidungen für die Arbeit
-
-- **EGMR, Urteil vom 07.12.1976 - 5493/72, Handyside/Vereinigtes Königreich:** Art. 10 schützt auch störende, schockierende und verletzende Äußerungen; Einschränkungen brauchen demokratische Notwendigkeit.
-- **EGMR, Urteil vom 08.07.1986 - 9815/82, Lingens/Österreich:** Politiker müssen weitergehende Kritik hinnehmen; Werturteile dürfen nicht wie Tatsachen bewiesen werden müssen.
-- **EGMR, Urteil vom 01.07.1997 - 20834/92, Oberschlick/Österreich Nr. 2:** Auch grobe Einzelbegriffe können im politischen Kontext geschützt sein, wenn sie als Reaktion und Werturteil verstanden werden.
-- **EGMR, Urteil vom 27.02.2001 - 26958/95, Jerusalem/Österreich:** Werturteile brauchen bei schwerem Vorwurf eine ausreichende faktische Grundlage.
-- **EGMR, Urteil vom 07.02.2012 - 39954/08, Axel Springer AG/Deutschland:** Art. 8/Art. 10-Abwägung mit Beitrag zur öffentlichen Debatte, Bekanntheit, Vorverhalten, Inhalt/Form/Folgen und Sanktion.
-- **EGMR, Urteil vom 23.04.2015 - 29369/10, Morice/Frankreich:** Anwaltliche und justizbezogene Kritik kann geschützt sein, wenn sie auf einer Tatsachengrundlage beruht und eine öffentliche Debatte betrifft.
-- **EGMR, Urteil vom 04.12.2018 - 11257/16, Magyar Jeti Zrt/Ungarn:** Hyperlinkhaftung braucht differenzierte Prüfung; Link ist nicht automatisch Billigung des verlinkten Inhalts.
-- **EGMR, Urteil vom 15.05.2023 - 45581/15, Sanchez/Frankreich:** Verantwortlichkeit für Drittkommentare kann in engen Kontexten möglich sein; Rolle des Accountinhabers, Kenntnis, Reaktionszeit und Schwere des Inhalts prüfen.
-
-## Grenzen
-
-Keine automatische Übertragung amerikanischer free-speech-Standards. Der EGMR erlaubt Ehrschutz und Reputationsschutz stärker als die US-Linie, verlangt aber eine echte, kontextbezogene Verhältnismäßigkeitsprüfung.
-
----
-
-## Skill: `abwaegung-art-arbeitgeber-betrieb`
-
-_Wenn es um Art. 5 GG - Abwägung in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Art. 5 GG - Abwägung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Leitbild
-
-Art. 5 GG schützt auch scharfe, polemische und verletzende Meinungen. Das bedeutet nicht, dass Ehrschutz verdrängt wird. Es bedeutet: Im Normalfall muss konkret abgewogen werden.
-
-## Abwägungsmatrix
-
-| Faktor | Gewicht zugunsten Äußernder | Gewicht zugunsten Betroffener |
-|---|---|---|
-| Sachbezug | hoher Sachbezug stärkt Art. 5 | reiner Personenangriff schwächt Art. 5 |
-| Öffentlichkeit | öffentliche Debatte kann schützen | Prangerwirkung kann belasten |
-| Person | Amt/Machtrolle weiter Kritikraum | Privatperson engerer Schutz |
-| Form | spontan, emotional, Kampf ums Recht | vorbedacht, wiederholt, drastisch |
-| Belege | Tatsachenkern tragfähig | unbelegt oder widerlegt |
-| Medium | kleiner Kreis | dauerhaft, viral, bildgestützt |
-
-## Arbeitsanweisung
-
-1. Prüfe Schutzbereich.
-2. Prüfe gesetzliche Schranke.
-3. Prüfe Sinnermittlung.
-4. Prüfe Ausnahmen.
-5. Wäge konkret.
-6. Formuliere Ergebnis als Risiko, nicht als absolute Gewissheit, wenn der Sachverhalt offen ist.
-
-## Schneller Arbeitsmodus
-
-- Starte mit Wortlaut, Medium, Adressat, Anlass, Vor- und Nachgeschichte, Reichweite, Betroffenem und vorhandenen Belegen.
-- Trenne strikt: Tatsachenbehauptung, Werturteil, gemischte Aeusserung, Satire/Spott, Schmähungs- oder Prangerkontext.
-- Gewichte meinungsfreiheitsfreundlich, aber nicht blind: Sachbezug, Machtkritik, Beleglage, Formalbeleidigung, Privatbereich und Eskalationsrisiko getrennt ausweisen.
-- Keine erfundene Rechtsprechung. Entscheidungen nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle nennen; sonst Recherchebedarf markieren.
-
----
-
-## Skill: `kommunalrecht-buergermeister-machtkritik`
-
-_Wenn es um Kommunalrechtlicher Grenzfall: Bürgermeister und Bauprojekt in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Kommunalrechtlicher Grenzfall: Bürgermeister und Bauprojekt
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Typischer Fall
-
-In der Bürgerversammlung, auf X oder im Leserbrief wird der Bürgermeister wegen eines Bauprojekts scharf kritisiert. Das kann starke Machtkritik sein, aber auch zur persönlichen Herabsetzung kippen.
-
-## Prüfschritte
-
-1. **Amtsbezug:** Geht es um Bauprojekt, Ratsvorlage, Verwaltungshandeln, Vergabe, Transparenz?
-2. **Rolle:** Bürgermeister als Amtsträger und politische Figur, nicht nur Privatperson.
-3. **Wortwahl:** Spott, Werturteil, Tatsachenvorwurf, Schimpfwort.
-4. **Reichweite:** Bürgerversammlung, lokale Presse, Social Media.
-5. **Tatsachenkern:** Korruption, Lüge, Vetternwirtschaft, Inkompetenz.
-6. **§ 188 StGB:** nur bei Basisdelikt und Eignung zur erheblichen Erschwerung des öffentlichen Wirkens.
-
-## Beispiel
-
-"Ich halte die Kommunikation des Bürgermeisters zum Bauprojekt für eitel, abgehoben und fachlich schwach" ist anders zu prüfen als ein unbelegter konkreter Bestechungsvorwurf.
-
-## Schneller Arbeitsmodus
-
-- Starte mit Wortlaut, Medium, Adressat, Anlass, Vor- und Nachgeschichte, Reichweite, Betroffenem und vorhandenen Belegen.
-- Trenne strikt: Tatsachenbehauptung, Werturteil, gemischte Aeusserung, Satire/Spott, Schmähungs- oder Prangerkontext.
-- Gewichte meinungsfreiheitsfreundlich, aber nicht blind: Sachbezug, Machtkritik, Beleglage, Formalbeleidigung, Privatbereich und Eskalationsrisiko getrennt ausweisen.
-- Keine erfundene Rechtsprechung. Entscheidungen nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle nennen; sonst Recherchebedarf markieren.
-
----
-
-## Skill: `meinung-strafantrag-verfahren`
-
-_Wenn es um Meinung: Fristen, Form, Zuständigkeit und Rechtsweg in Meinungsprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Meinung: Fristen, Form, Zuständigkeit und Rechtsweg
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Meinung: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Normen-/Quellenanker:** Art. 5, GG, Art. 10, EMRK, Art. 11, EGMR, OLG, US.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Meinung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `eugh-grch-art-11-rechtsprechung`
-
-_Wenn es um EuGH und Art. 11 GRCh in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# EuGH und Art. 11 GRCh
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann einsetzen?
-
-- Plattform soll löschen, wiederherstellen, sperren, labeln oder de-referenzieren.
-- Suchmaschine zeigt angeblich falsche Inhalte.
-- Datenschutzrecht wird gegen Veröffentlichung, Video, Screenshot oder Namensnennung eingesetzt.
-- Uploadfilter, urheberrechtliche Sperre oder Zitat/Satire im Netz.
-- Grenzüberschreitender Dienst, irischer Plattformanbieter oder unionsrechtliche Verordnung/Richtlinie.
-
-## Prüfprogramm
-
-1. **Unionsanker:** DSGVO, DSA, e-Commerce-Altregime, Urheberrecht, Plattformvertrag, Suchmaschinenlistung.
-2. **Grundrechtekollision:** Art. 7 und 8 GRCh gegen Art. 11 GRCh und ggf. Art. 16 GRCh.
-3. **Aussageart:** Tatsachenbehauptung, Werturteil, journalistische Verarbeitung, Nutzerkommentar, Hyperlink, Suchtreffer.
-4. **Technische Maßnahme:** Löschung, Sperre, Label, De-Referenzierung, Uploadfilter, Wiederherstellung.
-5. **Schutzvorkehrungen:** Beschwerdeweg, Anhörung, gerichtliche Kontrolle, keine überbreite Filterung, keine allgemeine Überwachung.
-6. **Dokumentation:** Welche Norm, welcher Dienst, welcher konkrete Inhalt, welche Entscheidung des Anbieters?
-
-## Leitentscheidungen für die Arbeit
-
-- **EuGH, Urteil vom 16.12.2008 - C-73/07, Satakunnan Markkinapörssi und Satamedia:** Journalistische Zwecke sind funktional zu verstehen; Datenschutz darf öffentliche Information nicht pauschal ersticken.
-- **EuGH, Urteil vom 14.02.2019 - C-345/17, Buivids:** Auch Einzelpersonen können journalistische Zwecke verfolgen; Veröffentlichung von Polizeivideo braucht Abwägung mit Datenschutz.
-- **EuGH, Urteil vom 24.09.2019 - C-507/17, Google/CNIL:** De-Referenzierung muss räumlich und grundrechtlich austariert werden; kein Automatismus weltweiter Löschung.
-- **EuGH, Urteil vom 03.10.2019 - C-18/18, Glawischnig-Piesczek/Facebook Ireland:** Gerichte können Plattformen zur Entfernung identischer und unter Umständen gleichwertiger rechtswidriger Inhalte verpflichten; keine allgemeine Überwachung.
-- **EuGH, Urteil vom 26.04.2022 - C-401/19, Polen/Parlament und Rat:** Uploadfilter-Regime brauchen wirksame Schutzvorkehrungen für rechtmäßige Kommunikation, einschließlich Zitat, Kritik, Rezension, Karikatur, Parodie und Pastiche.
-- **EuGH, Urteil vom 08.12.2022 - C-460/20, Google:** Bei De-Referenzierung angeblich unrichtiger Inhalte kommt es auf hinreichenden Nachweis offensichtlicher Unrichtigkeit und die Grundrechtsbalance an.
-
-## Warnhinweise
-
-- Art. 11 GRCh ersetzt Art. 5 GG nicht, sondern wirkt im Anwendungsbereich des Unionsrechts.
-- Plattformlöschung ist nicht automatisch staatlicher Grundrechtseingriff, kann aber über DSA, Vertrag, AGB-Kontrolle, mittelbare Drittwirkung und Verfahrensschutz relevant werden.
-- De-Referenzierung ist nicht dasselbe wie Löschung der Originalquelle.
-
----
-
-## Skill: `verleumdung-verhandlung-vergleich-und-eskalation`
-
-_Wenn es um Verleumdung: Verhandlung, Vergleich und Eskalation in Meinungsprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
-
-# Verleumdung: Verhandlung, Vergleich und Eskalation
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Verleumdung: Verhandlung, Vergleich und Eskalation
-- **Normen-/Quellenanker:** Art. 5, GG, Art. 10, EMRK, Art. 11, EGMR, OLG, US.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Verleumdung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. **Person des politischen Lebens:** Mandat, Amt, Kandidatur, herausgehobene politische Funktion oder vergleichbare öffentliche Rolle.
+2. **Äußerungsdelikt:** Beleidigung, üble Nachrede oder Verleumdung.
+3. **Öffentlichkeit:** öffentlich, in Versammlung oder durch Verbreiten eines Inhalts.
+4. **Motivzusammenhang:** Beweggründe hängen mit der Stellung im öffentlichen Leben zusammen.
+5. **Eignung:** öffentliches Wirken erheblich zu erschweren.
+6. **Art. 5 GG:** Machtkritik und öffentliche Debatte besonders gewichten.
+
+## Abgrenzung
+
+- Kritik an Amtsführung, Bauprojekt, Verwaltungspraxis oder Ratsentscheidung spricht für Sachbezug.
+- Reine Privatbeleidigung ohne Debattenbezug spricht gegen Schutz.
+- Drohungen, gezielte Kampagnen und Prangerwirkung erhöhen Risiko.
+- Kleine kommunale Öffentlichkeit kann trotzdem Öffentlichkeit sein.
+
+## Norm-Stand und Praxisprobleme
+
+- **§ 188 StGB Fassung 22.09.2021:** Strafrahmen Freiheitsstrafe bis 5 Jahre oder Geldstrafe; bei § 188 II StGB qualifiziert.
+- **Anwendungsbereich erweitert:** seit 22.09.2021 nicht nur "Personen des politischen Lebens des Volkes", sondern auch des Landes oder einer Kommune einschließlich Ratsmitgliedern und kommunalen Mandatsträgern.
+- **Basisdelikt:** Beleidigung § 185 StGB, üble Nachrede § 186 StGB, Verleumdung § 187 StGB. § 188 setzt eines dieser Grunddelikte voraus.
+- **Eignung zur Erschwerung öffentlichen Wirkens:** objektiver Maßstab; persönliche Verletztheit des Mandatsträgers reicht nicht.
+- **Strafantragserfordernis § 194 III StGB:** auch Vorgesetzte / Behörde können Strafantrag stellen; Privatklage möglich (§ 374 I Nr. 2 StPO).
+- **Verhältnis Art. 5 GG:** BVerfG ständige Rspr. — Machtkritik im politischen Diskurs hat erhöhten Schutz; pauschale Anwendung § 188 StGB ohne Abwägung verstößt regelmäßig gegen Art. 5 I GG.
+- **Strafverteidigung:** Sachbezug herausarbeiten; bei kommunaler Politik Auseinandersetzung mit der Amtsführung dokumentieren; bei Soziale-Medien-Posts Kontext (Thread, Kommentarstrang) sichern.
+- Falle: Frühe Annahme § 188 ohne Subsumtion der Eignungs-Voraussetzung führt regelmäßig zu Aufhebung. Sorgfältig prüfen: Wäre der Mandatsträger ohne diese Äußerung weiterhin in seinem Wirken nennenswert beeinträchtigt?
 
 ---
 

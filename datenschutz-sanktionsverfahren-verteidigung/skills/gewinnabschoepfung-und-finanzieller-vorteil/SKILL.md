@@ -1,6 +1,6 @@
 ---
 name: gewinnabschoepfung-und-finanzieller-vorteil
-description: "Wenn es um Finanzieller Vorteil und Gewinnabschöpfung in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Finanzieller Vorteil und Gewinnabschöpfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finanzieller Vorteil und Gewinnabschöpfung

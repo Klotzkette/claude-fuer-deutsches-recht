@@ -1,6 +1,6 @@
 ---
 name: testat-widerruf-oder-ergaenzung-organisation
-description: "Wenn es um Testat Widerruf Oder Ergaenzung Organisation in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Testat Widerruf oder Ergänzung Organisation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: testat widerruf oder ergänzung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

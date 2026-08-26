@@ -1,6 +1,6 @@
 ---
 name: logging-und-traceability-robotik
-description: "Wenn es um Logging und Traceability in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Logging Und Traceability Robotik; Arbeitsfeld: robotik-recht."
+description: "Für Logging und Traceability: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: logging-und-traceability-robotik."
 ---
 
 # Logging und Traceability

@@ -1,6 +1,6 @@
 ---
 name: collections-offene-calendar-laterale-partner
-description: "Wenn es um Collections und offene Posten in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Collections und offene Posten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Collections und offene Posten

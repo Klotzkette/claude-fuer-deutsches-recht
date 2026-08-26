@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-kommunikation-konkurrierende
-description: "Wenn es um Schreiben an das Grundbuchamt in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schreiben an das Grundbuchamt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schreiben an das Grundbuchamt

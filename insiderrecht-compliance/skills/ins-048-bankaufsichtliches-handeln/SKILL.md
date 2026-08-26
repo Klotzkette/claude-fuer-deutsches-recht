@@ -1,6 +1,6 @@
 ---
 name: ins-048-bankaufsichtliches-handeln
-description: "Wenn es um Insiderrecht: Bankaufsichtliches Handeln in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Insiderrecht: Bankaufsichtliches Handeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Bankaufsichtliches Handeln

@@ -1,6 +1,6 @@
 ---
 name: stundung-moratorium-unidroit-fci
-description: "Wenn es um Stundung Moratorium Factoring und Sanierung in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Stundung Moratorium Factoring und Sanierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stundung Moratorium Factoring und Sanierung

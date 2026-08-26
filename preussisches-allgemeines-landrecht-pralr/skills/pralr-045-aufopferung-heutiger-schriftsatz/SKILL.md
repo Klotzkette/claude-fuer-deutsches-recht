@@ -1,6 +1,6 @@
 ---
 name: pralr-045-aufopferung-heutiger-schriftsatz
-description: "Wenn es um Aufopferung im Schriftsatz in Preußisches Allgemeines Landrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Pralr 045 Aufopferung Heutiger Schriftsatz; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Aufopferung im Schriftsatz: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-045-aufopferung-heutiger-schriftsatz."
 ---
 
 # Aufopferung im Schriftsatz

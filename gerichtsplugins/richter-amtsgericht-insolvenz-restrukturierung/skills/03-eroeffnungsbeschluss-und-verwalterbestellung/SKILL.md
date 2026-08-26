@@ -1,6 +1,6 @@
 ---
 name: 03-eroeffnungsbeschluss-und-verwalterbestellung
-description: "Wenn es um 03 Eröffnungsbeschluss und Verwalterbestellung in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für 03 Eröffnungsbeschluss und Verwalterbestellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 03 Eröffnungsbeschluss und Verwalterbestellung

@@ -1,6 +1,6 @@
 ---
 name: immobilien-formular-portal-einreichungslogik
-description: "Wenn es um Immobilien: Formular, Portal und Einreichungslogik in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Immobilien Formular Portal Einreichungslogik; Arbeitsfeld: Tabellenreview 3D."
+description: "Für Immobilien: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Tabellenreview 3D. Route: immobilien-formular-portal-einreichungslogik."
 ---
 
 # Immobilien: Formular, Portal und Einreichungslogik

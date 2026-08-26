@@ -1,6 +1,6 @@
 ---
 name: rom-neu-003-zwoelftafeln-familie-erbrecht-nachbarschaft
-description: "Wenn es um Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft

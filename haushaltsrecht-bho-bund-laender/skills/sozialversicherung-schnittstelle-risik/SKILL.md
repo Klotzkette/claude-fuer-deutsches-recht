@@ -1,6 +1,6 @@
 ---
 name: sozialversicherung-schnittstelle-risik
-description: "Wenn es um Sozialversicherung Schnittstelle Risik in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sozialversicherung Schnittstelle Risik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sozialversicherung Schnittstelle Risik

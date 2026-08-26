@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation
-description: "Wenn es um Mandantenkommunikation im OWi-Mandat in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandantenkommunikation im OWi-Mandat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Mandantenkommunikation im OWi-Mandat

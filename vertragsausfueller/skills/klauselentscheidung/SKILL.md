@@ -1,6 +1,6 @@
 ---
 name: klauselentscheidung
-description: "Wenn es um Klauselentscheidungen in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klauselentscheidungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klauselentscheidungen

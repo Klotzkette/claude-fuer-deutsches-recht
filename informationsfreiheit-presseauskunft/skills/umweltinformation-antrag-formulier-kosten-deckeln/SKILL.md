@@ -1,6 +1,6 @@
 ---
 name: umweltinformation-antrag-formulier-kosten-deckeln
-description: "Wenn es um Uig Umweltinformation Antrag Formulier in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Uig Umweltinformation Antrag Formulier: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Uig Umweltinformation Antrag Formulier

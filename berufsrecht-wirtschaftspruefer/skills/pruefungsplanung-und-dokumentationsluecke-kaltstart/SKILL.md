@@ -1,6 +1,6 @@
 ---
 name: pruefungsplanung-und-dokumentationsluecke-kaltstart
-description: "Wenn es um Pruefungsplanung Und Dokumentationsluecke Kaltstart in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungsplanung und Dokumentationslücke Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: prüfungsplanung und dokumentationsluecke - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: beweissicherung-am-versammlungstag
-description: "Wenn es um Wer später Recht will, braucht Fakten in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wer später Recht will, braucht Fakten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Wer später Recht will, braucht Fakten

@@ -1,6 +1,6 @@
 ---
 name: einigungsvertrag-und-rechtsueberleitung
-description: "Wenn es um Einigungsvertrag und Rechtsueberleitung (1990) in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einigungsvertrag und Rechtsüberleitung (1990): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einigungsvertrag und Rechtsueberleitung (1990)

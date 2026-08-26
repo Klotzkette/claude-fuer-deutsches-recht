@@ -1,6 +1,6 @@
 ---
 name: deutsch-englischer-vertrag
-description: "Wenn es um Deutsch Englischer Vertrag in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsch Englischer Vertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationales und Auslandskunden: Warnt vor false friends und legt deutsches recht sauber fest

@@ -1,6 +1,6 @@
 ---
 name: beweismatrix-bezugsrecht-verwaesserung
-description: "Wenn es um Beweis Und Dokumentation in Gesellschaftsrechtliche Treuepflicht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweis und Dokumentation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweis Und Dokumentation

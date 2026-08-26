@@ -1,6 +1,6 @@
 ---
 name: parteitag-redteam
-description: "Wenn es um Parteitag Red-Team in Parteienrecht und Parteiorganisation geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parteitag Red-Team: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parteitag Red-Team

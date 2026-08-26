@@ -1,6 +1,6 @@
 ---
 name: beweiswuerdigung-zeugen-deal-verstaendigung
-description: "Wenn es um Beweiswürdigung von Zeugen in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweiswürdigung von Zeugen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweiswürdigung von Zeugen

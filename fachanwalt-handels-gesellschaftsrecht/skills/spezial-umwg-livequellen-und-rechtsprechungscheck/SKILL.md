@@ -1,6 +1,6 @@
 ---
 name: spezial-umwg-livequellen-und-rechtsprechungscheck
-description: "Wenn es um UmwG: Livequellen- und Rechtsprechungscheck in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für UmwG: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # UmwG: Livequellen- und Rechtsprechungscheck

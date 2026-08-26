@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-eilantrag-notfall
-description: "Wenn es um Laienhilfe: Eilantrag Notfall in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Laienhilfe: Eilantrag Notfall: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Laienhilfe: Eilantrag Notfall

@@ -1,6 +1,6 @@
 ---
 name: lebensversicherung-ueberschussbeteiligung-bewertungsreserven
-description: "Wenn es um Überschussbeteiligung und Bewertungsreserven in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Überschussbeteiligung und Bewertungsreserven: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Überschussbeteiligung und Bewertungsreserven

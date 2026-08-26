@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-trade-finance-lc-guarantees
-description: "Wenn es um Trade Finance und Sanktionen: Akkreditive Garantien und Finanzhilfe-Verbote in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Trade Finance und Sanktionen: Akkreditive Garantien und Finanzhilfe-Verbote: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trade Finance und Sanktionen: Akkreditive Garantien und Finanzhilfe-Verbote

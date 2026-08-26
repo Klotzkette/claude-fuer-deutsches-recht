@@ -1,6 +1,6 @@
 ---
 name: gbr-egbr-grundbuch
-description: "Wenn es um GbR/eGbR im Grundbuch in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GbR/eGbR im Grundbuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GbR/eGbR im Grundbuch

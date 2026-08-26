@@ -1,6 +1,6 @@
 ---
 name: excel-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Excel-Anlagen und Zahlenbausteine in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Excel Schriftsatz Brief Und Memo Bausteine; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Excel-Anlagen und Zahlenbausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Excel-Anlagen und Zahlenbausteine

@@ -1,6 +1,6 @@
 ---
 name: wohnadresse-geschaeftsadresse
-description: "Wenn es um Anmeldung und Behörden: Klärt ladungsfähige anschrift in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anmeldung und Behörden: Klärt ladungsfähige anschrift: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anmeldung und Behörden: Klärt ladungsfähige anschrift

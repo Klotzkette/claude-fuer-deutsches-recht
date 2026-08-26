@@ -1,6 +1,6 @@
 ---
 name: befangenheit-richter-schoeffen
-description: "Wenn es um Befangenheit von Richtern und Schöffen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Befangenheit von Richtern und Schöffen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Befangenheit von Richtern und Schöffen

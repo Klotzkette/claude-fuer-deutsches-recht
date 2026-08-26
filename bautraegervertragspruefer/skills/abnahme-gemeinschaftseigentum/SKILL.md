@@ -1,6 +1,6 @@
 ---
 name: abnahme-gemeinschaftseigentum
-description: "Wenn es um Abnahme Gemeinschaftseigentum in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abnahme Gemeinschaftseigentum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abnahme Gemeinschaftseigentum

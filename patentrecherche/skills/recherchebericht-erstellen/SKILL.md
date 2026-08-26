@@ -1,6 +1,6 @@
 ---
 name: recherchebericht-erstellen
-description: "Wenn es um recherchebericht-erstellen in patentrecherche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für recherchebericht-erstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # recherchebericht-erstellen

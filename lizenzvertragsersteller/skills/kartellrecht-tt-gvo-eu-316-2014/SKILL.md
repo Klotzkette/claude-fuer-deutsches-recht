@@ -1,6 +1,6 @@
 ---
 name: kartellrecht-tt-gvo-eu-316-2014
-description: "Prüft Technologielizenzverträge nach Artikel 101 AEUV und der seit 1. Mai 2026 geltenden Verordnung (EU) 2026/877. Ordnet Wettbewerbsverhältnis, Technologie- und Produktmärkte, Marktanteile, Kernbeschränkungen, ausgeschlossene Klauseln und Einzelfreistellung; liefert TTBER-Matrix und belastbare Klauselkorrekturen."
+description: "Für Kartellrechtliche Prüfung nach der TTBER 2026: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kartellrechtliche Prüfung nach der TTBER 2026

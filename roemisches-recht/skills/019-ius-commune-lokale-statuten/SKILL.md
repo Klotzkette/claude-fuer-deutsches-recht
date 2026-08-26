@@ -1,6 +1,6 @@
 ---
 name: 019-ius-commune-lokale-statuten
-description: "Wenn es um Rom Ius Commune Lokale Statuten Und Gelehrtes Recht in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom Ius Commune Lokale Statuten und Gelehrtes Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom Ius Commune Lokale Statuten Und Gelehrtes Recht

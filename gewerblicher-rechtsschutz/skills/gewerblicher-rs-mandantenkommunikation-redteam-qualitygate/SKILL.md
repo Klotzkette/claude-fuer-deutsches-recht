@@ -1,6 +1,6 @@
 ---
 name: gewerblicher-rs-mandantenkommunikation-redteam-qualitygate
-description: "Wenn es um Workflow: Mandantenkommunikation in Plugin: Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Workflow: Mandantenkommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Workflow: Mandantenkommunikation

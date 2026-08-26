@@ -1,6 +1,6 @@
 ---
 name: erstpruefung-rollenklaerung-mandatsziel
-description: "Wenn es um DFG: Erstprüfung, Rollenklärung und Mandatsziel in DFG-Förderantrag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erstpruefung Rollenklaerung Mandatsziel; Arbeitsfeld: DFG-Förderantrag."
+description: "Für DFG: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: DFG-Förderantrag. Route: erstpruefung-rollenklaerung-mandatsziel."
 ---
 
 # DFG: Erstprüfung, Rollenklärung und Mandatsziel

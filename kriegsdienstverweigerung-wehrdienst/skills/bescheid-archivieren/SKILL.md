@@ -1,6 +1,6 @@
 ---
 name: bescheid-archivieren
-description: "Wenn es um Anerkennungsbescheid archivieren in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anerkennungsbescheid archivieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anerkennungsbescheid archivieren

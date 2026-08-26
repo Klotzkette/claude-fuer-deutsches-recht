@@ -1,6 +1,6 @@
 ---
 name: pflegekasse-pflegehilfsmittel-40-sgb-xi
-description: "Wenn es um Pflegekasse Pflegehilfsmittel 40 Sgb Xi in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pflegekasse Pflegehilfsmittel 40 SGB Xi: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflegekasse Pflegehilfsmittel 40 Sgb Xi

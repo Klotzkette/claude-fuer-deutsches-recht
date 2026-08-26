@@ -1,6 +1,6 @@
 ---
 name: social-media-kanzleimarketing-kammerantwort-und-verfahren
-description: "Wenn es um Social Media Kanzleimarketing Kammerantwort Und Verfahren in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Social Media Kanzleimarketing Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: social media kanzleimarketing - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

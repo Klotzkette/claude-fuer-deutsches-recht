@@ -1,6 +1,6 @@
 ---
 name: nda-bei-arbeitnehmer-kuendigung
-description: "Wenn es um Post-Termination-NDA Arbeitnehmer in NDA-Abgleich geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Post-Termination-NDA Arbeitnehmer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Post-Termination-NDA Arbeitnehmer

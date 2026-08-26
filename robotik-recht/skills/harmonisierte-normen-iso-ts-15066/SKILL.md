@@ -1,6 +1,6 @@
 ---
 name: harmonisierte-normen-iso-ts-15066
-description: "Wenn es um Harmonisierte Normen und ISO/TS 15066 in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Harmonisierte Normen Iso Ts 15066; Arbeitsfeld: robotik-recht."
+description: "Für Harmonisierte Normen und ISO/TS 15066: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: robotik-recht. Route: harmonisierte-normen-iso-ts-15066."
 ---
 
 # Harmonisierte Normen und ISO/TS 15066

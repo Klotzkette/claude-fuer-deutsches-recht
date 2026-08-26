@@ -1,6 +1,6 @@
 ---
 name: disziplinarverfahren-notar-rechtsprechungscheck
-description: "Wenn es um Disziplinarverfahren Notar Rechtsprechungscheck in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Disziplinarverfahren Notar Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: disziplinarverfahren notar - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

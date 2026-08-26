@@ -1,6 +1,6 @@
 ---
 name: transfer-quellenkarte
-description: "Wenn es um Transfer Quellenkarte in Datenschutzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Transfer Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transfer Quellenkarte

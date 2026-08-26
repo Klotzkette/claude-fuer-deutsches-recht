@@ -1,6 +1,6 @@
 ---
 name: betriebskosten-nebenkostenabrechnung
-description: "Wenn es um Betriebskosten und Nebenkosten in der WEG-Verwaltung in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Betriebskosten und Nebenkosten in der WEG-Verwaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebskosten und Nebenkosten in der WEG-Verwaltung

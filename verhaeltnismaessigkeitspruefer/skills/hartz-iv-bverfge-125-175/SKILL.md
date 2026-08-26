@@ -1,6 +1,6 @@
 ---
 name: hartz-iv-bverfge-125-175
-description: "Wenn es um Hartz Iv BVerfGE 125 175 in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Hartz Iv BVerfGE 125 175: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hartz Iv BVerfGE 125 175

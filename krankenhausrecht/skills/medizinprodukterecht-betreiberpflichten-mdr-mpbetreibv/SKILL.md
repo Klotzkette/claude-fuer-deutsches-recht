@@ -1,6 +1,6 @@
 ---
 name: medizinprodukterecht-betreiberpflichten-mdr-mpbetreibv
-description: "Wenn es um Medizinprodukterecht Betreiberpflichten MDR MPBetreibV in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Medizinprodukterecht Betreiberpflichten MDR MPBetreibV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Medizinprodukterecht Betreiberpflichten MDR MPBetreibV

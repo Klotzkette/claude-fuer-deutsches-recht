@@ -1,6 +1,6 @@
 ---
 name: bea-versandmappe-endfertigung
-description: "Endfertigung gerichtlicher Schriftsätze und Anlagen für beA und E-Akte: liest zuerst den vorhandenen Aktenordner, prüft Anträge, Belegbezüge, Signaturweg und ERVV, konvertiert Anlagen kontrolliert in PDF, stempelt jede Anlagenseite, vergibt fortlaufende K-, B-, AST- oder AG-Nummern und liefert Versandmappe, Anlagenverzeichnis, Freigabevermerk und Eingangskontrolle."
+description: "Endfertigung gerichtlicher Schriftsätze und Anlagen für beA und E-Akte: liest zuerst den vorhandenen Aktenordner, prüft Anträge, Belegbezüge, Signaturweg und ERVV, konvertiert Anlagen kontrolliert in PDF, stempelt jede Anlagenseite, vergibt fortlaufende K-, B-, AST- oder AG-Nummern und liefert Versandmappe, Anlagenverzeichnis, Freigabevermerk und."
 ---
 
 # beA-Versandmappe endfertigen

@@ -1,6 +1,6 @@
 ---
 name: onboarding-mandantenkommunikation
-description: "Wenn es um Onboarding: Mandantenkommunikation und Entscheidungsvorlage in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Onboarding Mandantenkommunikation; Arbeitsfeld: Tabellenreview 3D."
+description: "Für Onboarding: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Tabellenreview 3D. Route: onboarding-mandantenkommunikation."
 ---
 
 # Onboarding: Mandantenkommunikation und Entscheidungsvorlage

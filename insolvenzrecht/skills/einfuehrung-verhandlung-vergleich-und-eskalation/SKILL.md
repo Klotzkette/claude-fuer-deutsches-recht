@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Einfuehrung: Verhandlung, Vergleich und Eskalation in Insolvenzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Einführung: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Einfuehrung: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: grundsicherung-sgb-xii
-description: "Wenn es um Grundsicherung im Alter und bei Erwerbsminderung — SGB XII in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundsicherung im Alter und bei Erwerbsminderung — SGB XII: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grundsicherung im Alter und bei Erwerbsminderung — SGB XII

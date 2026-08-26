@@ -1,6 +1,6 @@
 ---
 name: patentprozess-claim-construction-de-en
-description: "Wenn es um Patentprozess: Claim Construction DE/EN in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Patentprozess: Claim Construction DE/EN: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentprozess: Claim Construction DE/EN

@@ -1,6 +1,6 @@
 ---
 name: erfinderbenennung-arbeitnehmererfindung
-description: "Wenn es um Erfinderbenennung und Arbeitnehmererfindung in patentrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Erfinderbenennung und Arbeitnehmererfindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erfinderbenennung und Arbeitnehmererfindung

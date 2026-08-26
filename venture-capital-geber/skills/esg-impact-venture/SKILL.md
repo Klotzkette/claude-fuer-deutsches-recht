@@ -1,6 +1,6 @@
 ---
 name: esg-impact-venture
-description: "Wenn es um ESG, Impact und Mission in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ESG, Impact und Mission: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ESG, Impact und Mission

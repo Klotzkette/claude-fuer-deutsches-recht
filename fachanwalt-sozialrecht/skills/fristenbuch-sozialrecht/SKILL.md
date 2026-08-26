@@ -1,6 +1,6 @@
 ---
 name: fristenbuch-sozialrecht
-description: "Wenn es um Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren erfassen und ueberwachen in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren erfassen und überwachen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren erfassen und ueberwachen

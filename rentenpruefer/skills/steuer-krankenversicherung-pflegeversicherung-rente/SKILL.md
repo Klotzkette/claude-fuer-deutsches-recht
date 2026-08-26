@@ -1,6 +1,6 @@
 ---
 name: steuer-krankenversicherung-pflegeversicherung-rente
-description: "Wenn es um steuer-krankenversicherung-pflegeversicherung-rente in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für steuer-krankenversicherung-pflegeversicherung-rente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # steuer-krankenversicherung-pflegeversicherung-rente

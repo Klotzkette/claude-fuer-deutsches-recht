@@ -1,6 +1,6 @@
 ---
 name: start-up-und-personengesellschaft
-description: "Wenn es um FZ: Start-up und Personenges. in Forschungszulage-Antragstellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für FZ: Start-up und Personenges: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FZ: Start-up und Personenges.

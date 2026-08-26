@@ -1,6 +1,6 @@
 ---
 name: schutzplan-betreute-person-risikoampel
-description: "Wenn es um Schutzplan und Risikoampel in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schutzplan und Risikoampel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Schutzplan und Risikoampel

@@ -1,6 +1,6 @@
 ---
 name: deutschem-tatbestand-beweis-und-belege
-description: "Wenn es um Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage in Strafzumessung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage

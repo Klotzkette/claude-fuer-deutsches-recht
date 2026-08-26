@@ -1,6 +1,6 @@
 ---
 name: datenschutz-krankenhaus-patientenakte-forschung
-description: "Wenn es um Datenschutz Krankenhaus Patientenakte Forschung in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Datenschutz Krankenhaus Patientenakte Forschung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Krankenhaus Patientenakte Forschung

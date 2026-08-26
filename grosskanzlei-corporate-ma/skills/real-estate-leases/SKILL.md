@@ -1,6 +1,6 @@
 ---
 name: real-estate-leases
-description: "Wenn es um Real Estate Leases Sites in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Real Estate Leases Sites: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: real-estate-leases."
 ---
 
 # Real Estate Leases Sites

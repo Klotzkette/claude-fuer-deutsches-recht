@@ -1,6 +1,6 @@
 ---
 name: tk-marktregulierung-marktmacht-rechtsmittel
-description: "Wenn es um TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Rechtsmittel-Check in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Rechtsmittel-Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Rechtsmittel-Check

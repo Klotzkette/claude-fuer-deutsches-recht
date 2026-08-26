@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-kritische-infrastruktur-investment
-description: "Wenn es um KRITIS-Investitionspruefung: Drittstaatserwerb in kritischer Infrastruktur in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für KRITIS-Investitionsprüfung: Drittstaatserwerb in kritischer Infrastruktur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KRITIS-Investitionspruefung: Drittstaatserwerb in kritischer Infrastruktur

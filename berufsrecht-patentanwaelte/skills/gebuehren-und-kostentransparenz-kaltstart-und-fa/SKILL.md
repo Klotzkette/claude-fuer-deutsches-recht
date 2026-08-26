@@ -1,6 +1,6 @@
 ---
 name: gebuehren-und-kostentransparenz-kaltstart-und-fa
-description: "Wenn es um Gebuehren Und Kostentransparenz Kaltstart Und Fa in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gebühren und Kostentransparenz Kaltstart und Fa: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Patentanwälte: gebuehren und kostentransparenz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

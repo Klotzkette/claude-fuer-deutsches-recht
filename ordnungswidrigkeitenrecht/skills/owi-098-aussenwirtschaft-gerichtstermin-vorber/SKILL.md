@@ -1,6 +1,6 @@
 ---
 name: owi-098-aussenwirtschaft-gerichtstermin-vorber
-description: "Wenn es um Aussenwirtschaft Gerichtstermin Vorber in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Außenwirtschaft Gerichtstermin Vorber: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Ordnungswidrigkeitenrecht. Route: owi-098-aussenwirtschaft-gerichtstermin-vorber."
 ---
 
 # Aussenwirtschaft Gerichtstermin Vorber

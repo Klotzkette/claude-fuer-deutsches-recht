@@ -1,6 +1,6 @@
 ---
 name: behandlungsfehler-anspruch-pruefen
-description: "Wenn es um Strukturierte Prüfung von Ansprüchen wegen Behandlungsfehler nach Paragrafen 630a ff in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strukturierte Prüfung von Ansprüchen wegen Behandlungsfehler nach Paragrafen 630a ff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Strukturierte Prüfung von Ansprüchen wegen Behandlungsfehler nach §§ 630a ff

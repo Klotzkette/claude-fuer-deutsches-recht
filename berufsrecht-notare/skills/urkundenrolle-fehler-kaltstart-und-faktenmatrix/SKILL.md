@@ -1,6 +1,6 @@
 ---
 name: urkundenrolle-fehler-kaltstart-und-faktenmatrix
-description: "Wenn es um Urkundenrolle Fehler Kaltstart Und Faktenmatrix in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urkundenrolle Fehler Kaltstart und Faktenmatrix: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: urkundenrolle fehler - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 117 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Betreuungsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet ko…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Betreuungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten…
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Betreuungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fac…
-4. **betreuungsrechtliche-erstpruefung-und-mandatsziel** — Wenn es um Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel in Betreuungsrecht geht: klärt Rolle, Ziel, …
-5. **familienbetreuer-erste-48-stunden-notfallmappe** — Wenn es um Familienbetreuer: erste 48 Stunden und Notfallmappe in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweis…
-6. **familienbetreuer-bankkonto-und-rechnungslegung-einfach** — Wenn es um Familienbetreuer: Bankkonto und einfache Rechnungslegung in Betreuungsrecht geht: ordnet Akteninhalt, Belege,…
-7. **familienbetreuer-erste-48-stunden** — Wenn es um Familienbetreuer: erste 48 Stunden und Notfallmappe in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweis…
-8. **familienbetreuer-wohnungsaufloesung-genehmigung** — Wenn es um Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung in Betreuungsrecht geht: ordnet Akteninhalt, Belege, …
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+4. **betreuungsrechtliche-erstpruefung-und-mandatsziel** — Für Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; E…
+5. **familienbetreuer-digitaler-betrug-fernwartung-stoppen** — Für Familienbetreuer: digitaler Betrug und Fernwartung stoppen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Sch…
+6. **familienbetreuer-bankkonto-und-rechnungslegung-einfach** — Für Familienbetreuer: Bankkonto und einfache Rechnungslegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schni…
+7. **familienbetreuer-digitaler-betrug-fernwartung** — Für Familienbetreuer: digitaler Betrug und Fernwartung stoppen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Sch…
+8. **familienbetreuer-wohnungsaufloesung-genehmigung** — Für Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnit…
 
 ---
 
@@ -143,7 +143,7 @@ Ausgangspunkt für dieses Plugin: Gericht ermittelt von Amts wegen; Betreuer und
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Betreuungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betreuungsrecht._
 
 # Einstieg und Routing
 
@@ -204,7 +204,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Betreuungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betreuungsrecht._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -429,7 +429,7 @@ Dieses Plugin unterstützt ehrenamtliche Familienbetreuer, berufliche Betreuer, 
 
 ## Skill: `betreuungsrechtliche-erstpruefung-und-mandatsziel`
 
-_Wenn es um Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel in Betreuungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -494,11 +494,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `familienbetreuer-erste-48-stunden-notfallmappe`
+## Skill: `familienbetreuer-digitaler-betrug-fernwartung-stoppen`
 
-_Wenn es um Familienbetreuer: erste 48 Stunden und Notfallmappe in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Familienbetreuer Erste 48 Stunden Notfallmappe; Arbeitsfeld: Betreuungsrecht._
+_Für Familienbetreuer: digitaler Betrug und Fernwartung stoppen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: familienbetreuer-digitaler-betrug-fernwartung-stoppen._
 
-# Familienbetreuer: erste 48 Stunden und Notfallmappe
+# Familienbetreuer: digitaler Betrug und Fernwartung stoppen
 
 ## Arbeitsweg
 
@@ -510,7 +510,7 @@ _Wenn es um Familienbetreuer: erste 48 Stunden und Notfallmappe in Betreuungsrec
 
 ## Normenanker
 
-Arbeitsfokus: **Familienbetreuer: erste 48 Stunden und Notfallmappe**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Familienbetreuer: digitaler Betrug und Fernwartung stoppen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 1814 Abs. 1 BGB` — Erforderlichkeit der Betreuung.
 - `§ 1815 Abs. 1 BGB` — Aufgabenkreis.
@@ -527,9 +527,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Red Flags
 
-- Aufgabenkreis überschritten
-- zu viele Gesundheitsdaten verteilt
-- Bankvollmacht mit Betreuung verwechselt
+- Handy einfach wegnehmen
+- Beweise gelöscht
+- Bank zu spät informiert
 
 ## Arbeitsstil
 
@@ -539,7 +539,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## Skill: `familienbetreuer-bankkonto-und-rechnungslegung-einfach`
 
-_Wenn es um Familienbetreuer: Bankkonto und einfache Rechnungslegung in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Familienbetreuer Bankkonto Und Rechnungslegung Einfach; Arbeitsfeld: Betreuungsrecht._
+_Für Familienbetreuer: Bankkonto und einfache Rechnungslegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: familienbetreuer-bankkonto-und-rechnungslegung-einfach._
 
 # Familienbetreuer: Bankkonto und einfache Rechnungslegung
 
@@ -580,15 +580,15 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ---
 
-## Skill: `familienbetreuer-erste-48-stunden`
+## Skill: `familienbetreuer-digitaler-betrug-fernwartung`
 
-_Wenn es um Familienbetreuer: erste 48 Stunden und Notfallmappe in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Familienbetreuer Erste 48 Stunden; Arbeitsfeld: Betreuungsrecht._
+_Für Familienbetreuer: digitaler Betrug und Fernwartung stoppen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: familienbetreuer-digitaler-betrug-fernwartung._
 
-# Familienbetreuer: erste 48 Stunden und Notfallmappe
+# Familienbetreuer: digitaler Betrug und Fernwartung stoppen
 
 ## Normenanker
 
-Arbeitsfokus: **Familienbetreuer: erste 48 Stunden und Notfallmappe**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Familienbetreuer: digitaler Betrug und Fernwartung stoppen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 1814 Abs. 1 BGB` — Erforderlichkeit der Betreuung.
 - `§ 1815 Abs. 1 BGB` — Aufgabenkreis.
@@ -605,9 +605,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Red Flags
 
-- Aufgabenkreis überschritten
-- zu viele Gesundheitsdaten verteilt
-- Bankvollmacht mit Betreuung verwechselt
+- Handy einfach wegnehmen
+- Beweise gelöscht
+- Bank zu spät informiert
 
 ## Arbeitsstil
 
@@ -615,7 +615,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## Powersprint-Vertiefung
 
-- **Alltagsdurchführung:** Zerlege `Familienbetreuer: erste 48 Stunden und Notfallmappe` in konkrete nächste Handlungen für ehrenamtliche Betreuer: anrufen, scannen, ablegen, nachfragen, Gericht informieren, Frist notieren.
+- **Alltagsdurchführung:** Zerlege `Familienbetreuer: digitaler Betrug und Fernwartung stoppen` in konkrete nächste Handlungen für ehrenamtliche Betreuer: anrufen, scannen, ablegen, nachfragen, Gericht informieren, Frist notieren.
 - **Gerichts- und Beleglogik:** Halte Wunsch der betreuten Person, Vertretungsmacht, Einwilligung, Vermögensschutz, Gesundheitsdaten und Nachweis gegenüber dem Betreuungsgericht getrennt.
 - **Fehlerbremse:** Keine Vermischung eigener und fremder Gelder, keine unnötige Offenlegung sensibler Daten, keine medizinische Entscheidung ohne Zuständigkeit und dokumentierten Wunsch bzw. mutmaßlichen Willen.
 - **Output:** Tagesplan, Belegliste, kurzer Gerichtstext, Telefonnotiz und Wiedervorlage in einfacher Sprache.
@@ -624,7 +624,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## Skill: `familienbetreuer-wohnungsaufloesung-genehmigung`
 
-_Wenn es um Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Familienbetreuer Wohnungsaufloesung Genehmigung; Arbeitsfeld: Betreuungsrecht._
+_Für Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: familienbetreuer-wohnungsaufloesung-genehmigung._
 
 # Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung
 

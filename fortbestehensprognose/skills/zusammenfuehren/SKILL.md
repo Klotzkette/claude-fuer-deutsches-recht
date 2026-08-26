@@ -1,6 +1,6 @@
 ---
 name: zusammenfuehren
-description: "Wenn es um Fortbestehensprognose zusammenführen in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fortbestehensprognose zusammenführen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fortbestehensprognose zusammenführen

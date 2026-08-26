@@ -1,6 +1,6 @@
 ---
 name: ai-output-authorship-title17
-description: "Wenn es um digitale Werkzeuge Output und Copyrightability in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für digitale Werkzeuge Output und Copyrightability: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AI Output und Copyrightability

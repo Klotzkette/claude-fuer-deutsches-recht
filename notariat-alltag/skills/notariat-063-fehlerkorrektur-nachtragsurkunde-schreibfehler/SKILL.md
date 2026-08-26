@@ -1,6 +1,6 @@
 ---
 name: notariat-063-fehlerkorrektur-nachtragsurkunde-schreibfehler
-description: "Wenn es um Notariat 063 Fehlerkorrektur Nachtragsurkunde Schreibfehler in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat 063 Fehlerkorrektur Nachtragsurkunde Schreibfehler: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Fehlerkorrektur Nachtragsurkunde Schreibfehler und offensichtliche Unrichtigkeit

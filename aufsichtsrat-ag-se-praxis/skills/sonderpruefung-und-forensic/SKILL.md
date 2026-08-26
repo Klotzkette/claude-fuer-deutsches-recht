@@ -1,6 +1,6 @@
 ---
 name: sonderpruefung-und-forensic
-description: "Wenn es um Sonderpruefung Und Forensic in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Sonderprüfung und Forensic: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Sonderpruefung Und Forensic

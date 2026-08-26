@@ -1,6 +1,6 @@
 ---
 name: verfassung-bund-laender-streit
-description: "Wenn es um Bund-Länder-Streit in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bund-Länder-Streit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bund-Länder-Streit

@@ -1,6 +1,6 @@
 ---
 name: avv-grenzpruefung-datenschutz
-description: "Wenn es um AVV-Grenzprüfung Datenschutz in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl: Avv Grenzpruefung Datenschutz."
+description: "Für AVV-Grenzprüfung Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # AVV-Grenzprüfung Datenschutz

@@ -1,6 +1,6 @@
 ---
 name: richterliche-zurueckhaltung-und-rechtsfortbildung
-description: "Wenn es um Richterliche Zurueckhaltung Und Rechtsfortbildung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Richterliche Zurückhaltung und Rechtsfortbildung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Analysiert das Prinzip richterlicher Zurückhaltung als methodisches Gebot im Zivilrecht und klärt, wann Gerichte trotz offener Normfragen die Entscheidung dem Gesetzgeber überlassen sollten

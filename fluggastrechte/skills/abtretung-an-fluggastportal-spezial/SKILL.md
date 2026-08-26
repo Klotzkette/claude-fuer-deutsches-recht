@@ -1,6 +1,6 @@
 ---
 name: abtretung-an-fluggastportal-spezial
-description: "Wenn es um Abtretung an Fluggastportale in Fluggastrechte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Abtretung an Fluggastportale: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Abtretung an Fluggastportale

@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-ki-schriftsatz-falle-vermeiden
-description: "Wenn es um Strafr Dysfunk Ki Schriftsatz Falle Vermeiden in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strafr Dysfunk Ki Schriftsatz Falle Vermeiden: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Einsatz KI-gestuetzter Schriftsaetze in der Strafverteidigung ohne Eroeffnung des Vorwurfs der dysfunktionalen Verteidigung

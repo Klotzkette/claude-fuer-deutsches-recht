@@ -1,6 +1,6 @@
 ---
 name: institutionelle-foerderung-vollzug-tra
-description: "Wenn es um Institutionelle Förderung Vollzug Tra in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Institutionelle Förderung Vollzug Tra: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Institutionelle Förderung Vollzug Tra

@@ -1,6 +1,6 @@
 ---
 name: spezial-steuer-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Steuer: Livequellen- und Rechtsprechungscheck in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuer: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuer: Livequellen- und Rechtsprechungscheck

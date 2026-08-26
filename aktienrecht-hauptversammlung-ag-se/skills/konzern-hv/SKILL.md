@@ -1,6 +1,6 @@
 ---
 name: konzern-hv
-description: "Wenn es um Konzern HV in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konzern HV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konzern HV

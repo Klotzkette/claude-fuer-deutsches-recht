@@ -1,6 +1,6 @@
 ---
 name: workflow-kindeswohl-familie
-description: "Wenn es um Kindeswohl/Familie: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kindeswohl/Familie: Prüfungslinie für Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kindeswohl/Familie: Prüfungslinie für Migrationsrecht

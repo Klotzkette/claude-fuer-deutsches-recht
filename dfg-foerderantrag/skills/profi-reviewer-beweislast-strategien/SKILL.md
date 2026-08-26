@@ -1,6 +1,6 @@
 ---
 name: profi-reviewer-beweislast-strategien
-description: "Wenn es um Profi: Behörden-, Gerichts- oder Registerweg in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Profi: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Profi: Behörden-, Gerichts- oder Registerweg

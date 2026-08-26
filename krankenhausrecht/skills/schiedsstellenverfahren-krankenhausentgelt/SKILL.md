@@ -1,6 +1,6 @@
 ---
 name: schiedsstellenverfahren-krankenhausentgelt
-description: "Wenn es um Schiedsstellenverfahren Krankenhausentgelt in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schiedsstellenverfahren Krankenhausentgelt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiedsstellenverfahren Krankenhausentgelt

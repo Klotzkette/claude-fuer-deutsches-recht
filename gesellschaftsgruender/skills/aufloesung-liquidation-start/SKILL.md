@@ -1,6 +1,6 @@
 ---
 name: aufloesung-liquidation-start
-description: "Wenn es um Auflösung und Liquidation Start in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auflösung und Liquidation Start: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auflösung und Liquidation Start

@@ -1,6 +1,6 @@
 ---
 name: bmf-rundschreiben-livecheck
-description: "Wenn es um Bmf Rundschreiben Livecheck in Haushaltsrecht BHO Bund und Länder geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bmf Rundschreiben Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bmf Rundschreiben Livecheck

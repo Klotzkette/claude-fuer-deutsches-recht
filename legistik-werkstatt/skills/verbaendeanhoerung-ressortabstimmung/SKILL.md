@@ -1,6 +1,6 @@
 ---
 name: verbaendeanhoerung-ressortabstimmung
-description: "Wenn es um Verbändeanhörung und Ressortabstimmung in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbändeanhörung und Ressortabstimmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbändeanhörung und Ressortabstimmung

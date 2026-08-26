@@ -1,6 +1,6 @@
 ---
 name: dba-lizenzgebuehren-art-12-bzst
-description: "Wenn es um Lizenzgebuehren (Art. 12 OECD-MA) in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Lizenzgebühren (Art. 12 OECD-MA): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Lizenzgebuehren (Art. 12 OECD-MA)

@@ -1,6 +1,6 @@
 ---
 name: erster-titel-erwerb-eigentum
-description: "Wenn es um Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pralr Erster Teil Titel 7 Gewahrsam Besitz und Eigentums: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums

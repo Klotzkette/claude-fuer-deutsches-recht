@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 56 Skills des Plugins `juristische-sprach
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Juristische Sprache Deutsch Als Zweitsprache ein juristisches Arbeitsprodukt tragfähig begrün…
-2. **kaltstart-triage** — Wenn es um Allgemein in Juristische Sprache Deutsch als Zweitsprache geht: klärt Rolle, Ziel, Frist, Unterlagen und den …
-3. **zustellung-brief-postfach** — Wenn es um Hilft bei Zustellung Brief Postfach für Menschen mit Deutsch als Zweitsprache in Juristische Sprache Deutsch …
-4. **email-an-behoerde-verstehen-und-schreiben** — Wenn es um E-Mail An Behörde Verstehen Und Schreiben in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den …
-5. **antrag-stellungnahme-erklaerung** — Wenn es um Antrag Stellungnahme Erklaerung in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden …
-6. **grammatik-korrektur-begriffe-uebersetzen** — Wenn es um Grammatik Korrektur Ohne Inhaltsverlust in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Fo…
-7. **keine-falschen-klage-einfach** — Wenn es um Keine Falschen Zugestaendnisse in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden E…
-8. **sprachprofil-speichern-strafrechtliche** — Wenn es um Sprachprofil Speichern Ohne Stigma in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Z…
-9. **telefonat-mit-behoerde-vorbereiten** — Wenn es um Telefonat Mit Behoerde Vorbereiten in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Z…
-10. **klage-einfach-formulieren** — Wenn es um Klage Einfach Formulieren in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwur…
-11. **qualitaetsgate-keine-herablassung** — Wenn es um Qualitaetsgate Keine Herablassung in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zu…
-12. **telefonat-behoerde-unterschrift-vollmacht** — Wenn es um Telefonat Mit Behörde Vorbereiten in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zu…
-13. **eigene-worte-email-an** — Wenn es um Eigene Worte Zu Formalem Deutsch in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zus…
-14. **juristische-begriffe-uebersetzen** — Wenn es um Juristische Begriffe Uebersetzen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zus…
-15. **passiv-und-nominalstil-verstehen** — Wenn es um Passiv Und Nominalstil Verstehen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zus…
+2. **kaltstart-triage** — Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. F…
+3. **telefonat-behoerde-unterschrift-vollmacht** — Für Telefonat mit Behörde Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und n…
+4. **telefonat-mit-behoerde-vorbereiten** — Für Telefonat mit Behörde Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und n…
+5. **auslaenderrecht-warnwoerter-barrierefreie** — Für Ausländerrecht Warnwörter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem …
+6. **behoerdenpflichten-mitwirkung-bescheid** — Für Behördenpflichten Mitwirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächst…
+7. **behoerdenpflichten-mitwirkung** — Für Behördenpflichten Mitwirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächst…
+8. **auslaenderrecht-warnwoerter** — Für Ausländerrecht Warnwörter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem …
+9. **dolmetscher-und-uebersetzung** — Für Dolmetscher und Übersetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+10. **zustellung-brief-postfach** — Für Hilft bei Zustellung Brief Postfach für Menschen mit Deutsch als Zweitsprache: erstellt Entwurf mit Antrag, Beweis u…
+11. **email-an-behoerde-verstehen-und-schreiben** — Für E-Mail an Behörde Verstehen und Schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risi…
+12. **lernmodus-juristendeutsch-mehrsprachige** — Für Lernmodus Juristendeutsch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkei…
+13. **grammatik-korrektur-begriffe-uebersetzen** — Für Grammatik Korrektur ohne Inhaltsverlust: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko…
+14. **antrag-stellungnahme-erklaerung** — Für Antrag Stellungnahme Erklärung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründun…
+15. **satzbau-juristendeutsch-sozialrecht** — Für Satzbau Juristendeutsch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits…
 
 ---
 
@@ -147,7 +147,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Allgemein in Juristische Sprache Deutsch als Zweitsprache geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Juristische Sprache Deutsch als Zweitsprache._
 
 # Allgemein
 
@@ -204,9 +204,448 @@ Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsa
 
 ---
 
+## Skill: `telefonat-behoerde-unterschrift-vollmacht`
+
+_Für Telefonat mit Behörde Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Juristische Sprache Deutsch als Zweitsprache. Route: telefonat-behoerde-unterschrift-vollmacht._
+
+# Telefonat Mit Behörde Vorbereiten
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: StPO § 187 Abs. 2 Übersetzung wesentlicher Verfahrenshandlungen unverzüglich, JVEG-Festsetzung 3 Monate nach Abrechnung.
+- Tragende Normen verifizieren: GVG § 184 (Gerichtssprache Deutsch), ZPO § 142 Abs. 3 (Dolmetscher), StPO §§ 185, 187 (Dolmetscher und Übersetzung), JVEG §§ 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung, Dolmetscherprotokoll, Glossar, Mandanteninfo in einfacher Sprache, Übersetzte Belehrung nach §§ 136, 163a StPO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Start
+
+- Welches Dokument oder welche Situation liegt vor?
+- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
+- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
+
+## Ausgabe
+
+**Einfach erklaert**
+- Das bedeutet der Text.
+- Das ist wichtig.
+- Das kann passieren.
+
+**Formale Fassung**
+Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
+
+**Check vor Absenden**
+- Aktenzeichen richtig?
+- Datum und Frist richtig?
+- Anlagen genannt?
+- Keine falsche Zustimmung?
+- Sprache klar und respektvoll?
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Qualitaetsgate
+
+Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
+
+---
+
+## Skill: `telefonat-mit-behoerde-vorbereiten`
+
+_Für Telefonat mit Behörde Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Juristische Sprache Deutsch als Zweitsprache. Route: telefonat-mit-behoerde-vorbereiten._
+
+# Telefonat Mit Behoerde Vorbereiten
+
+## Zweck
+
+Dieser Skill unterstuetzt bei **Telefonat Mit Behoerde Vorbereiten**, wenn deutsche Alltagssprache und deutsche Juristensprache gleichzeitig schwierig sind. Er behandelt die Nutzerin oder den Nutzer als erwachsene, handlungsfaehige Person und erklaert nur die sprachlichen und verfahrensbezogenen Huerden.
+
+## Start
+
+- Welches Dokument oder welche Situation liegt vor?
+- Wer schreibt oder spricht: Gericht, Behoerde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
+- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhoerung?
+- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+
+## Arbeitsweise
+
+1. Schwierige Woerter markieren und kurz erklaeren.
+2. Den Satz in normale Reihenfolge bringen: Wer tut was, warum, bis wann, mit welcher Folge?
+3. Warnwoerter hervorheben: Anerkenntnis, Verzicht, Ruecknahme, Zustimmung, Frist, sofort, bestandskraeftig, unanfechtbar.
+4. Eigene Worte des Nutzers sammeln und ohne Bedeutungsverlust in gutes Deutsch uebertragen.
+5. Bei Unsicherheit genau eine Rueckfrage stellen.
+
+## Ausgabe
+
+**Einfach erklaert**
+- Das bedeutet der Text.
+- Das ist wichtig.
+- Das kann passieren.
+
+**Formale Fassung**
+Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
+
+**Check vor Absenden**
+- Aktenzeichen richtig?
+- Datum und Frist richtig?
+- Anlagen genannt?
+- Keine falsche Zustimmung?
+- Sprache klar und respektvoll?
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Qualitaetsgate
+
+Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+---
+
+## Skill: `auslaenderrecht-warnwoerter-barrierefreie`
+
+_Für Ausländerrecht Warnwörter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Juristische Sprache Deutsch als Zweitsprache. Route: auslaenderrecht-warnwoerter-barrierefreie._
+
+# Ausländerrecht Warnwoerter
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: StPO § 187 Abs. 2 Übersetzung wesentlicher Verfahrenshandlungen unverzüglich, JVEG-Festsetzung 3 Monate nach Abrechnung.
+- Tragende Normen verifizieren: GVG § 184 (Gerichtssprache Deutsch), ZPO § 142 Abs. 3 (Dolmetscher), StPO §§ 185, 187 (Dolmetscher und Übersetzung), JVEG §§ 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung, Dolmetscherprotokoll, Glossar, Mandanteninfo in einfacher Sprache, Übersetzte Belehrung nach §§ 136, 163a StPO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Warnwoerter mit hoher Tragweite
+- **Ausreiseaufforderung**: Pflicht zum Verlassen Deutschlands binnen Frist.
+- **Abschiebungsandrohung (§ 59 AufenthG)**: nach Frist droht zwangsweise Rueckfuehrung.
+- **Duldung (§ 60a AufenthG)**: vorläufige Aussetzung der Abschiebung -- kein Aufenthaltstitel.
+- **Bestandskraft / Unanfechtbarkeit**: Bescheid kann nicht mehr angefochten werden, wenn Frist versaeumt.
+- **Widerruf / Rücknahme des Aufenthaltstitels (§§ 51, 52 AufenthG)**.
+- **Verzicht auf Anhörungsrecht** im Asylverfahren: Nie verzichten -- Anhörung ist Kernstueck (§ 25 AsylG).
+- **Folgeantrag**: nur unter engen Voraussetzungen (§ 71 AsylG); Beratung nutzen.
+- **Mitwirkungspflicht (§ 15 AsylG / § 82 AufenthG)**: aktive Mitwirkung an Identitaetsklaerung, Reisepass besorgen.
+- **"freiwillige Ausreise"**: zaehlt im Verfahren als Verzicht auf Aufenthalt; Folgen prüfen.
+- **Eingangsdatum Bescheid**: ist Beginn der Klagefrist (§ 74 AsylG: 1 oder 2 Wochen; bei AufenthG: 1 Monat § 74 VwGO).
+
+## Vor jeder Unterschrift / Erklaerung
+- Habe ich Anspruch auf einen kostenlosen Anwalt? Bei VG-Klage Prozesskostenhilfe prüfen.
+- Habe ich das Dokument verstanden? Recht auf Dolmetscher im Asylverfahren (§ 17 AsylG).
+- Frist im Bescheid genau markieren. Klagefrist nicht verstreichen lassen.
+- Beratung bei Caritas, Diakonie, Fluechtlingsrat, Verfahrensberatung.
+
+## Start
+
+- Welches Dokument oder welche Situation liegt vor?
+- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
+- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
+
+## Ausgabe
+
+**Einfach erklaert**
+- Das bedeutet der Text.
+- Das ist wichtig.
+- Das kann passieren.
+
+**Formale Fassung**
+Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
+
+**Check vor Absenden**
+- Aktenzeichen richtig?
+- Datum und Frist richtig?
+- Anlagen genannt?
+- Keine falsche Zustimmung?
+- Sprache klar und respektvoll?
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Qualitaetsgate
+
+Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
+
+---
+
+## Skill: `behoerdenpflichten-mitwirkung-bescheid`
+
+_Für Behördenpflichten Mitwirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Juristische Sprache Deutsch als Zweitsprache. Route: behoerdenpflichten-mitwirkung-bescheid._
+
+# Behördenpflichten Mitwirkung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: StPO § 187 Abs. 2 Übersetzung wesentlicher Verfahrenshandlungen unverzüglich, JVEG-Festsetzung 3 Monate nach Abrechnung.
+- Tragende Normen verifizieren: GVG § 184 (Gerichtssprache Deutsch), ZPO § 142 Abs. 3 (Dolmetscher), StPO §§ 185, 187 (Dolmetscher und Übersetzung), JVEG §§ 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung, Dolmetscherprotokoll, Glossar, Mandanteninfo in einfacher Sprache, Übersetzte Belehrung nach §§ 136, 163a StPO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Start
+
+- Welches Dokument oder welche Situation liegt vor?
+- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
+- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
+
+## Ausgabe
+
+**Einfach erklaert**
+- Das bedeutet der Text.
+- Das ist wichtig.
+- Das kann passieren.
+
+**Formale Fassung**
+Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
+
+**Check vor Absenden**
+- Aktenzeichen richtig?
+- Datum und Frist richtig?
+- Anlagen genannt?
+- Keine falsche Zustimmung?
+- Sprache klar und respektvoll?
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Qualitaetsgate
+
+Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
+
+---
+
+## Skill: `behoerdenpflichten-mitwirkung`
+
+_Für Behördenpflichten Mitwirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Juristische Sprache Deutsch als Zweitsprache. Route: behoerdenpflichten-mitwirkung._
+
+# Behoerdenpflichten Mitwirkung
+
+## Zweck
+
+Dieser Skill unterstuetzt bei **Behoerdenpflichten Mitwirkung**, wenn deutsche Alltagssprache und deutsche Juristensprache gleichzeitig schwierig sind. Er behandelt die Nutzerin oder den Nutzer als erwachsene, handlungsfaehige Person und erklaert nur die sprachlichen und verfahrensbezogenen Huerden.
+
+## Start
+
+- Welches Dokument oder welche Situation liegt vor?
+- Wer schreibt oder spricht: Gericht, Behoerde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
+- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhoerung?
+- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+
+## Arbeitsweise
+
+1. Schwierige Woerter markieren und kurz erklaeren.
+2. Den Satz in normale Reihenfolge bringen: Wer tut was, warum, bis wann, mit welcher Folge?
+3. Warnwoerter hervorheben: Anerkenntnis, Verzicht, Ruecknahme, Zustimmung, Frist, sofort, bestandskraeftig, unanfechtbar.
+4. Eigene Worte des Nutzers sammeln und ohne Bedeutungsverlust in gutes Deutsch uebertragen.
+5. Bei Unsicherheit genau eine Rueckfrage stellen.
+
+## Ausgabe
+
+**Einfach erklaert**
+- Das bedeutet der Text.
+- Das ist wichtig.
+- Das kann passieren.
+
+**Formale Fassung**
+Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
+
+**Check vor Absenden**
+- Aktenzeichen richtig?
+- Datum und Frist richtig?
+- Anlagen genannt?
+- Keine falsche Zustimmung?
+- Sprache klar und respektvoll?
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Qualitaetsgate
+
+Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+---
+
+## Skill: `auslaenderrecht-warnwoerter`
+
+_Für Ausländerrecht Warnwörter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Juristische Sprache Deutsch als Zweitsprache. Route: auslaenderrecht-warnwoerter._
+
+# Auslaenderrecht Warnwoerter
+
+## Zweck
+
+Dieser Skill markiert **Warnwoerter im Auslaenderrecht** (Aufenthaltsrecht, Asyl). Falsche Erklaerungen koennen Aufenthaltstitel kosten oder Abschiebung beschleunigen. Er hilft Menschen mit Deutsch als Zweitsprache, ihre Rechte zu verstehen.
+
+## Warnwoerter mit hoher Tragweite
+- **Ausreiseaufforderung**: Pflicht zum Verlassen Deutschlands binnen Frist.
+- **Abschiebungsandrohung (§ 59 AufenthG)**: nach Frist droht zwangsweise Rueckfuehrung.
+- **Duldung (§ 60a AufenthG)**: vorlaeufige Aussetzung der Abschiebung -- kein Aufenthaltstitel.
+- **Bestandskraft / Unanfechtbarkeit**: Bescheid kann nicht mehr angefochten werden, wenn Frist versaeumt.
+- **Widerruf / Ruecknahme des Aufenthaltstitels (§§ 51, 52 AufenthG)**.
+- **Verzicht auf Anhoerungsrecht** im Asylverfahren: Nie verzichten -- Anhoerung ist Kernstueck (§ 25 AsylG).
+- **Folgeantrag**: nur unter engen Voraussetzungen (§ 71 AsylG); Beratung nutzen.
+- **Mitwirkungspflicht (§ 15 AsylG / § 82 AufenthG)**: aktive Mitwirkung an Identitaetsklaerung, Reisepass besorgen.
+- **"freiwillige Ausreise"**: zaehlt im Verfahren als Verzicht auf Aufenthalt; Folgen pruefen.
+- **Eingangsdatum Bescheid**: ist Beginn der Klagefrist (§ 74 AsylG: 1 oder 2 Wochen; bei AufenthG: 1 Monat § 74 VwGO).
+
+## Vor jeder Unterschrift / Erklaerung
+- Habe ich Anspruch auf einen kostenlosen Anwalt? Bei VG-Klage Prozesskostenhilfe pruefen.
+- Habe ich das Dokument verstanden? Recht auf Dolmetscher im Asylverfahren (§ 17 AsylG).
+- Frist im Bescheid genau markieren. Klagefrist nicht verstreichen lassen.
+- Beratung bei Caritas, Diakonie, Fluechtlingsrat, Verfahrensberatung.
+
+## Start
+
+- Welches Dokument oder welche Situation liegt vor?
+- Wer schreibt oder spricht: Gericht, Behoerde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
+- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhoerung?
+- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+
+## Arbeitsweise
+
+1. Schwierige Woerter markieren und kurz erklaeren.
+2. Den Satz in normale Reihenfolge bringen: Wer tut was, warum, bis wann, mit welcher Folge?
+3. Warnwoerter hervorheben: Anerkenntnis, Verzicht, Ruecknahme, Zustimmung, Frist, sofort, bestandskraeftig, unanfechtbar.
+4. Eigene Worte des Nutzers sammeln und ohne Bedeutungsverlust in gutes Deutsch uebertragen.
+5. Bei Unsicherheit genau eine Rueckfrage stellen.
+
+## Ausgabe
+
+**Einfach erklaert**
+- Das bedeutet der Text.
+- Das ist wichtig.
+- Das kann passieren.
+
+**Formale Fassung**
+Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
+
+**Check vor Absenden**
+- Aktenzeichen richtig?
+- Datum und Frist richtig?
+- Anlagen genannt?
+- Keine falsche Zustimmung?
+- Sprache klar und respektvoll?
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Qualitaetsgate
+
+Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+---
+
+## Skill: `dolmetscher-und-uebersetzung`
+
+_Für Dolmetscher und Übersetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Juristische Sprache Deutsch als Zweitsprache._
+
+# Dolmetscher Und Übersetzung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: StPO § 187 Abs. 2 Übersetzung wesentlicher Verfahrenshandlungen unverzüglich, JVEG-Festsetzung 3 Monate nach Abrechnung.
+- Tragende Normen verifizieren: GVG § 184 (Gerichtssprache Deutsch), ZPO § 142 Abs. 3 (Dolmetscher), StPO §§ 185, 187 (Dolmetscher und Übersetzung), JVEG §§ 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung, Dolmetscherprotokoll, Glossar, Mandanteninfo in einfacher Sprache, Übersetzte Belehrung nach §§ 136, 163a StPO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Start
+
+- Welches Dokument oder welche Situation liegt vor?
+- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
+- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
+
+## Ausgabe
+
+**Einfach erklaert**
+- Das bedeutet der Text.
+- Das ist wichtig.
+- Das kann passieren.
+
+**Formale Fassung**
+Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
+
+**Check vor Absenden**
+- Aktenzeichen richtig?
+- Datum und Frist richtig?
+- Anlagen genannt?
+- Keine falsche Zustimmung?
+- Sprache klar und respektvoll?
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Qualitaetsgate
+
+Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
+
+---
+
 ## Skill: `zustellung-brief-postfach`
 
-_Wenn es um Hilft bei Zustellung Brief Postfach für Menschen mit Deutsch als Zweitsprache in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Hilft bei Zustellung Brief Postfach für Menschen mit Deutsch als Zweitsprache: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # Hilft bei Zustellung Brief Postfach für Menschen mit Deutsch als Zweitsprache
 
@@ -263,7 +702,7 @@ Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsa
 
 ## Skill: `email-an-behoerde-verstehen-und-schreiben`
 
-_Wenn es um E-Mail An Behörde Verstehen Und Schreiben in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für E-Mail an Behörde Verstehen und Schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # E-Mail An Behörde Verstehen Und Schreiben
 
@@ -345,11 +784,11 @@ Respektvoll, knapp, nicht unterwürfig. Keine Drohungen. Keine langen Erklärung
 
 ---
 
-## Skill: `antrag-stellungnahme-erklaerung`
+## Skill: `lernmodus-juristendeutsch-mehrsprachige`
 
-_Wenn es um Antrag Stellungnahme Erklaerung in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Lernmodus Juristendeutsch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Antrag Stellungnahme Erklaerung
+# Lernmodus Juristendeutsch
 
 ## Arbeitsweg
 
@@ -399,7 +838,7 @@ Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsa
 
 ## Skill: `grammatik-korrektur-begriffe-uebersetzen`
 
-_Wenn es um Grammatik Korrektur Ohne Inhaltsverlust in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Grammatik Korrektur ohne Inhaltsverlust: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Grammatik Korrektur Ohne Inhaltsverlust
 
@@ -449,63 +888,11 @@ Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsa
 
 ---
 
-## Skill: `keine-falschen-klage-einfach`
+## Skill: `antrag-stellungnahme-erklaerung`
 
-_Wenn es um Keine Falschen Zugestaendnisse in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Antrag Stellungnahme Erklärung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
-# Keine Falschen Zugestaendnisse
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 187 Abs. 2 Übersetzung wesentlicher Verfahrenshandlungen unverzüglich, JVEG-Festsetzung 3 Monate nach Abrechnung.
-- Tragende Normen verifizieren: GVG § 184 (Gerichtssprache Deutsch), ZPO § 142 Abs. 3 (Dolmetscher), StPO §§ 185, 187 (Dolmetscher und Übersetzung), JVEG §§ 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung, Dolmetscherprotokoll, Glossar, Mandanteninfo in einfacher Sprache, Übersetzte Belehrung nach §§ 136, 163a StPO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Start
-
-- Welches Dokument oder welche Situation liegt vor?
-- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
-- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
-
-## Ausgabe
-
-**Einfach erklaert**
-- Das bedeutet der Text.
-- Das ist wichtig.
-- Das kann passieren.
-
-**Formale Fassung**
-Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
-
-**Check vor Absenden**
-- Aktenzeichen richtig?
-- Datum und Frist richtig?
-- Anlagen genannt?
-- Keine falsche Zustimmung?
-- Sprache klar und respektvoll?
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Qualitaetsgate
-
-Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
-
----
-
-## Skill: `sprachprofil-speichern-strafrechtliche`
-
-_Wenn es um Sprachprofil Speichern Ohne Stigma in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Sprachprofil Speichern Ohne Stigma
+# Antrag Stellungnahme Erklaerung
 
 ## Arbeitsweg
 
@@ -553,336 +940,11 @@ Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsa
 
 ---
 
-## Skill: `telefonat-mit-behoerde-vorbereiten`
+## Skill: `satzbau-juristendeutsch-sozialrecht`
 
-_Wenn es um Telefonat Mit Behoerde Vorbereiten in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Satzbau Juristendeutsch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Telefonat Mit Behoerde Vorbereiten
-
-## Zweck
-
-Dieser Skill unterstuetzt bei **Telefonat Mit Behoerde Vorbereiten**, wenn deutsche Alltagssprache und deutsche Juristensprache gleichzeitig schwierig sind. Er behandelt die Nutzerin oder den Nutzer als erwachsene, handlungsfaehige Person und erklaert nur die sprachlichen und verfahrensbezogenen Huerden.
-
-## Start
-
-- Welches Dokument oder welche Situation liegt vor?
-- Wer schreibt oder spricht: Gericht, Behoerde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
-- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhoerung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
-
-## Arbeitsweise
-
-1. Schwierige Woerter markieren und kurz erklaeren.
-2. Den Satz in normale Reihenfolge bringen: Wer tut was, warum, bis wann, mit welcher Folge?
-3. Warnwoerter hervorheben: Anerkenntnis, Verzicht, Ruecknahme, Zustimmung, Frist, sofort, bestandskraeftig, unanfechtbar.
-4. Eigene Worte des Nutzers sammeln und ohne Bedeutungsverlust in gutes Deutsch uebertragen.
-5. Bei Unsicherheit genau eine Rueckfrage stellen.
-
-## Ausgabe
-
-**Einfach erklaert**
-- Das bedeutet der Text.
-- Das ist wichtig.
-- Das kann passieren.
-
-**Formale Fassung**
-Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
-
-**Check vor Absenden**
-- Aktenzeichen richtig?
-- Datum und Frist richtig?
-- Anlagen genannt?
-- Keine falsche Zustimmung?
-- Sprache klar und respektvoll?
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Qualitaetsgate
-
-Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
----
-
-## Skill: `klage-einfach-formulieren`
-
-_Wenn es um Klage Einfach Formulieren in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Klage Einfach Formulieren
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 187 Abs. 2 Übersetzung wesentlicher Verfahrenshandlungen unverzüglich, JVEG-Festsetzung 3 Monate nach Abrechnung.
-- Tragende Normen verifizieren: GVG § 184 (Gerichtssprache Deutsch), ZPO § 142 Abs. 3 (Dolmetscher), StPO §§ 185, 187 (Dolmetscher und Übersetzung), JVEG §§ 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung, Dolmetscherprotokoll, Glossar, Mandanteninfo in einfacher Sprache, Übersetzte Belehrung nach §§ 136, 163a StPO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Start
-
-- Welches Dokument oder welche Situation liegt vor?
-- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
-- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
-
-## Ausgabe
-
-**Einfach erklaert**
-- Das bedeutet der Text.
-- Das ist wichtig.
-- Das kann passieren.
-
-**Formale Fassung**
-Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
-
-**Check vor Absenden**
-- Aktenzeichen richtig?
-- Datum und Frist richtig?
-- Anlagen genannt?
-- Keine falsche Zustimmung?
-- Sprache klar und respektvoll?
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Qualitaetsgate
-
-Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
-
----
-
-## Skill: `qualitaetsgate-keine-herablassung`
-
-_Wenn es um Qualitaetsgate Keine Herablassung in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Qualitaetsgate Keine Herablassung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 187 Abs. 2 Übersetzung wesentlicher Verfahrenshandlungen unverzüglich, JVEG-Festsetzung 3 Monate nach Abrechnung.
-- Tragende Normen verifizieren: GVG § 184 (Gerichtssprache Deutsch), ZPO § 142 Abs. 3 (Dolmetscher), StPO §§ 185, 187 (Dolmetscher und Übersetzung), JVEG §§ 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung, Dolmetscherprotokoll, Glossar, Mandanteninfo in einfacher Sprache, Übersetzte Belehrung nach §§ 136, 163a StPO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Start
-
-- Welches Dokument oder welche Situation liegt vor?
-- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
-- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
-
-## Ausgabe
-
-**Einfach erklaert**
-- Das bedeutet der Text.
-- Das ist wichtig.
-- Das kann passieren.
-
-**Formale Fassung**
-Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
-
-**Check vor Absenden**
-- Aktenzeichen richtig?
-- Datum und Frist richtig?
-- Anlagen genannt?
-- Keine falsche Zustimmung?
-- Sprache klar und respektvoll?
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Qualitaetsgate
-
-Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
-
----
-
-## Skill: `telefonat-behoerde-unterschrift-vollmacht`
-
-_Wenn es um Telefonat Mit Behörde Vorbereiten in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Telefonat Mit Behörde Vorbereiten
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 187 Abs. 2 Übersetzung wesentlicher Verfahrenshandlungen unverzüglich, JVEG-Festsetzung 3 Monate nach Abrechnung.
-- Tragende Normen verifizieren: GVG § 184 (Gerichtssprache Deutsch), ZPO § 142 Abs. 3 (Dolmetscher), StPO §§ 185, 187 (Dolmetscher und Übersetzung), JVEG §§ 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung, Dolmetscherprotokoll, Glossar, Mandanteninfo in einfacher Sprache, Übersetzte Belehrung nach §§ 136, 163a StPO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Start
-
-- Welches Dokument oder welche Situation liegt vor?
-- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
-- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
-
-## Ausgabe
-
-**Einfach erklaert**
-- Das bedeutet der Text.
-- Das ist wichtig.
-- Das kann passieren.
-
-**Formale Fassung**
-Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
-
-**Check vor Absenden**
-- Aktenzeichen richtig?
-- Datum und Frist richtig?
-- Anlagen genannt?
-- Keine falsche Zustimmung?
-- Sprache klar und respektvoll?
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Qualitaetsgate
-
-Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
-
----
-
-## Skill: `eigene-worte-email-an`
-
-_Wenn es um Eigene Worte Zu Formalem Deutsch in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Eigene Worte Zu Formalem Deutsch
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 187 Abs. 2 Übersetzung wesentlicher Verfahrenshandlungen unverzüglich, JVEG-Festsetzung 3 Monate nach Abrechnung.
-- Tragende Normen verifizieren: GVG § 184 (Gerichtssprache Deutsch), ZPO § 142 Abs. 3 (Dolmetscher), StPO §§ 185, 187 (Dolmetscher und Übersetzung), JVEG §§ 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung, Dolmetscherprotokoll, Glossar, Mandanteninfo in einfacher Sprache, Übersetzte Belehrung nach §§ 136, 163a StPO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Start
-
-- Welches Dokument oder welche Situation liegt vor?
-- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
-- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
-
-## Ausgabe
-
-**Einfach erklaert**
-- Das bedeutet der Text.
-- Das ist wichtig.
-- Das kann passieren.
-
-**Formale Fassung**
-Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
-
-**Check vor Absenden**
-- Aktenzeichen richtig?
-- Datum und Frist richtig?
-- Anlagen genannt?
-- Keine falsche Zustimmung?
-- Sprache klar und respektvoll?
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Qualitaetsgate
-
-Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
-
----
-
-## Skill: `juristische-begriffe-uebersetzen`
-
-_Wenn es um Juristische Begriffe Uebersetzen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Juristische Begriffe Übersetzen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 187 Abs. 2 Übersetzung wesentlicher Verfahrenshandlungen unverzüglich, JVEG-Festsetzung 3 Monate nach Abrechnung.
-- Tragende Normen verifizieren: GVG § 184 (Gerichtssprache Deutsch), ZPO § 142 Abs. 3 (Dolmetscher), StPO §§ 185, 187 (Dolmetscher und Übersetzung), JVEG §§ 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung, Dolmetscherprotokoll, Glossar, Mandanteninfo in einfacher Sprache, Übersetzte Belehrung nach §§ 136, 163a StPO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Start
-
-- Welches Dokument oder welche Situation liegt vor?
-- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
-- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
-
-## Ausgabe
-
-**Einfach erklaert**
-- Das bedeutet der Text.
-- Das ist wichtig.
-- Das kann passieren.
-
-**Formale Fassung**
-Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
-
-**Check vor Absenden**
-- Aktenzeichen richtig?
-- Datum und Frist richtig?
-- Anlagen genannt?
-- Keine falsche Zustimmung?
-- Sprache klar und respektvoll?
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Qualitaetsgate
-
-Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
-
----
-
-## Skill: `passiv-und-nominalstil-verstehen`
-
-_Wenn es um Passiv Und Nominalstil Verstehen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Passiv Und Nominalstil Verstehen
+# Satzbau Juristendeutsch
 
 ## Arbeitsweg
 

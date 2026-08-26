@@ -1,6 +1,6 @@
 ---
 name: 09-sachverstaendige-und-koerperliche-untersuchung
-description: "Wenn es um 09 Sachverstaendige und Koerperliche Untersuchung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 09 Sachverständige und Körperliche Untersuchung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 09 Sachverstaendige und Koerperliche Untersuchung

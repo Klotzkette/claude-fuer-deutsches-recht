@@ -1,6 +1,6 @@
 ---
 name: gutachtenstil-und-klausurtechnik
-description: "Wenn es um Gutachtenstil und Klausurtechnik — Zivilrecht BGB AT in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Gutachtenstil und Klausurtechnik — Zivilrecht BGB AT: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gutachtenstil und Klausurtechnik — Zivilrecht BGB AT

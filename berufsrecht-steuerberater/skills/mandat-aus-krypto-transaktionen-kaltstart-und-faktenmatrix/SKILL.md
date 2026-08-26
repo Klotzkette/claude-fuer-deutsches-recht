@@ -1,6 +1,6 @@
 ---
 name: mandat-aus-krypto-transaktionen-kaltstart-und-faktenmatrix
-description: "Wenn es um Mandat Aus Krypto Transaktionen Kaltstart Und Faktenmatrix in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandat aus Krypto Transaktionen Kaltstart und Faktenmatrix: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: mandat aus krypto transaktionen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

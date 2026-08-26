@@ -1,6 +1,6 @@
 ---
 name: rehabilitations-exoskelett-remote-update
-description: "Wenn es um Reha- und Exoskelett-Robotik in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Reha- und Exoskelett-Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: rehabilitations-exoskelett-remote-update."
 ---
 
 # Reha- und Exoskelett-Robotik

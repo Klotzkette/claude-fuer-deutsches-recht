@@ -1,6 +1,6 @@
 ---
 name: datenqualitaet-xai-qualitaetskontrolle
-description: "Wenn es um Datenqualität und XAI-Qualitätskontrolle in Mittelstands-Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Datenqualität und XAI-Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Datenqualität und XAI-Qualitätskontrolle

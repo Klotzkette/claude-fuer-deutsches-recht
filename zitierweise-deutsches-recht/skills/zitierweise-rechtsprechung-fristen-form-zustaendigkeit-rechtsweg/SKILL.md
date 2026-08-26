@@ -1,6 +1,6 @@
 ---
 name: zitierweise-rechtsprechung-fristen-form-zustaendigkeit-rechtsweg
-description: "Wenn es um Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitierweise Rechtsprechung Fristen Form Zuständigkeit Rechtsweg; Arbeitsfeld: Zitierweise deutsches Recht."
+description: "Für Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg

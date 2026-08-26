@@ -1,6 +1,6 @@
 ---
 name: quellen-und-rechtsprechungscheck
-description: "Wenn es um Quellen- und Rechtsprechungscheck in Berufsrecht Patentanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Patentanwälte."
 ---
 
 # Quellen- und Rechtsprechungscheck

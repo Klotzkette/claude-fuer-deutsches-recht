@@ -1,6 +1,6 @@
 ---
 name: bewertungen-rezensionen-und-fake-reviews
-description: "Wenn es um Influencer-Recht: Bewertungen, Rezensionen und Fake Reviews in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Influencer-Recht: Bewertungen, Rezensionen und Fake Reviews: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Bewertungen, Rezensionen und Fake Reviews

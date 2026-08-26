@@ -1,6 +1,6 @@
 ---
 name: selbstanzeige-371
-description: "Wenn es um Selbstanzeige nach Paragraf 371 AO in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Selbstanzeige nach Paragraf 371 AO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Selbstanzeige nach § 371 AO

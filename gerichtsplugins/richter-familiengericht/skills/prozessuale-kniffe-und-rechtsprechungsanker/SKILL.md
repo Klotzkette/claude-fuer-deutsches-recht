@@ -1,6 +1,6 @@
 ---
 name: prozessuale-kniffe-und-rechtsprechungsanker
-description: "Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Familiengericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Familiengericht."
 ---
 # Prozessuale Kniffe und Rechtsprechungsanker
 

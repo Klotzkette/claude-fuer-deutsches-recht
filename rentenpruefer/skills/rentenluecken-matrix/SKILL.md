@@ -1,6 +1,6 @@
 ---
 name: rentenluecken-matrix
-description: "Wenn es um rentenluecken-matrix in Rentenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für rentenlücken-matrix: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # rentenluecken-matrix

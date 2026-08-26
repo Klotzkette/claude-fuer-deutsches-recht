@@ -1,6 +1,6 @@
 ---
 name: schuelerzeitung-pressefreiheit-schulaufnahme
-description: "Wenn es um Schülerzeitung und Pressefreiheit in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schülerzeitung und Pressefreiheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schülerzeitung und Pressefreiheit

@@ -1,6 +1,6 @@
 ---
 name: kartellrecht-schnittstelle-gwb-eu
-description: "Wenn es um Kartellrechtliche Schnittstelle GWB/EU in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Kartellrechtliche Schnittstelle GWB/EU: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kartellrechtliche Schnittstelle GWB/EU

@@ -1,6 +1,6 @@
 ---
 name: see-108-konnossement-closing-planen
-description: "Wenn es um Konnossement Closing Planen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konnossement Closing Planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konnossement Closing Planen

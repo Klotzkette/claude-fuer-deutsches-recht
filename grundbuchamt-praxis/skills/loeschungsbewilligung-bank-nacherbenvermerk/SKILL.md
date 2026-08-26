@@ -1,6 +1,6 @@
 ---
 name: loeschungsbewilligung-bank-nacherbenvermerk
-description: "Wenn es um Löschungsbewilligung Bank in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Löschungsbewilligung Bank: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Löschungsbewilligung Bank

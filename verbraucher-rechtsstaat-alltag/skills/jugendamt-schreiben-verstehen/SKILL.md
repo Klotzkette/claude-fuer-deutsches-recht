@@ -1,6 +1,6 @@
 ---
 name: jugendamt-schreiben-verstehen
-description: "Wenn es um Jugendamt-Schreiben verstehen in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Jugendamt-Schreiben verstehen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Jugendamt-Schreiben verstehen

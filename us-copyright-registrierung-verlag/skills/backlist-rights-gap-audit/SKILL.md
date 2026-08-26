@@ -1,6 +1,6 @@
 ---
 name: backlist-rights-gap-audit
-description: "Wenn es um Backlist Rights Gap Audit in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Backlist Rights Gap Audit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Backlist Rights Gap Audit

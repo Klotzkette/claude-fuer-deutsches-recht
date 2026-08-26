@@ -1,6 +1,6 @@
 ---
 name: chronologischer-registerauszug
-description: "Wenn es um Chronologischen Auszug auswerten in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Chronologischen Auszug auswerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Chronologischen Auszug auswerten

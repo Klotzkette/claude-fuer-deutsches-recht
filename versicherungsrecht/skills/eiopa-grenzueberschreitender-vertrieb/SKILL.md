@@ -1,6 +1,6 @@
 ---
 name: eiopa-grenzueberschreitender-vertrieb
-description: "Wenn es um EIOPA und grenzüberschreitender Versicherungsvertrieb in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für EIOPA und grenzüberschreitender Versicherungsvertrieb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EIOPA und grenzüberschreitender Versicherungsvertrieb

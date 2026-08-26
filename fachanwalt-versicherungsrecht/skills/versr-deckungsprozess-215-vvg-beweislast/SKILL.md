@@ -1,6 +1,6 @@
 ---
 name: versr-deckungsprozess-215-vvg-beweislast
-description: "Wenn es um Versr Deckungsprozess 215 VVG Beweislast in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Versr Deckungsprozess 215 VVG Beweislast: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Deckungsklage: Gerichtsstand § 215 VVG, Klageart, Beweislast, Sachverständige, Streitwert und Vergleichsfenster.

@@ -1,6 +1,6 @@
 ---
 name: diskriminierung-und-kundenwahl
-description: "Wenn es um Diskriminierung Und Kundenwahl in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Diskriminierung und Kundenwahl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzen Compliance und Selbstschutz: Prüft agg-/hausrechts-/vertragsfreiheit bei schwierigen kunden

@@ -1,6 +1,6 @@
 ---
 name: agrar-jagdpacht-streit-spezial
-description: "Wenn es um Agrar Jagdpacht Streit Spezial in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Agrar Jagdpacht Streit Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Jagdpachtstreit: Bundesjagdgesetz BJagdG, Landesjagdgesetze, Kuendigungsgruende, Wildschaden, Ausfuehrungspflichten

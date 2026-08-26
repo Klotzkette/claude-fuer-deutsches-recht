@@ -1,6 +1,6 @@
 ---
 name: schulung-urteilsbauer
-description: "Wenn es um Trainer-Leitfaden Schulung Urteilsbauer in Urteilsbauer und Relationsmacher geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Schulung Urteilsbauer; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Trainer-Leitfaden Schulung Urteilsbauer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trainer-Leitfaden Schulung Urteilsbauer

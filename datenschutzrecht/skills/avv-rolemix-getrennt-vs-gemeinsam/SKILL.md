@@ -1,6 +1,6 @@
 ---
 name: avv-rolemix-getrennt-vs-gemeinsam
-description: "Wenn es um Rollenmix – Getrennt versus gemeinsam versus Auftragsverarbeitung in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rollenmix – Getrennt versus gemeinsam versus Auftragsverarbeitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rollenmix – Getrennt versus gemeinsam versus Auftragsverarbeitung

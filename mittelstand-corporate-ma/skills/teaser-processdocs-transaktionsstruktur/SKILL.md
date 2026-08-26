@@ -1,6 +1,6 @@
 ---
 name: teaser-processdocs-transaktionsstruktur
-description: "Wenn es um Teaser, IM und Prozessdokumente in Mittelstands-Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Teaser, IM und Prozessdokumente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Teaser, IM und Prozessdokumente

@@ -1,6 +1,6 @@
 ---
 name: spezial-beurkundungspruefung-livequellen-check
-description: "Wenn es um Beurkundungspruefung: Livequellen- und Rechtsprechungscheck in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beurkundungsprüfung: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beurkundungspruefung: Livequellen- und Rechtsprechungscheck

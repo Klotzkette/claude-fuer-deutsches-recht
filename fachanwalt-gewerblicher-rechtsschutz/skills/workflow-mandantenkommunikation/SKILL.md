@@ -1,6 +1,6 @@
 ---
 name: workflow-mandantenkommunikation
-description: "Wenn es um Workflow Mandantenkommunikation in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Workflow Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Fachanwalt Gewerblicher Rechtsschutz."
 ---
 
 # Mandantenkommunikation im gewerblichen Rechtsschutz: Mandantenbriefe, Entscheidungsvorlagen, Statusberichte, Kostenaufklärung, Beratungsprotokoll, Tonalität und BRAO-Informationspflichten

@@ -1,6 +1,6 @@
 ---
 name: abmahnung-97a-response
-description: "Wenn es um Abmahnung nach Paragraf 97a UrhG beantworten in Urheberrecht DE EU geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Abmahnung nach Paragraf 97a UrhG beantworten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abmahnung nach § 97a UrhG beantworten

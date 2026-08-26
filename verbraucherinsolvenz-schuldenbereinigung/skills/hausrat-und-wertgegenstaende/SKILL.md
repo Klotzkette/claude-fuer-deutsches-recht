@@ -1,6 +1,6 @@
 ---
 name: hausrat-und-wertgegenstaende
-description: "Wenn es um Hausrat Und Wertgegenstaende in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hausrat und Wertgegenstände: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen.

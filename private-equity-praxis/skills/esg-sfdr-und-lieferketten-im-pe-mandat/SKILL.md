@@ -1,6 +1,6 @@
 ---
 name: esg-sfdr-und-lieferketten-im-pe-mandat
-description: "Wenn es um ESG, SFDR und Lieferketten im PE-Mandat in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ESG, SFDR und Lieferketten im PE-Mandat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ESG, SFDR und Lieferketten im PE-Mandat

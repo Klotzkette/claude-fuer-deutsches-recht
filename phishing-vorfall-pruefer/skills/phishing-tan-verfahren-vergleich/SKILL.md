@@ -1,6 +1,6 @@
 ---
 name: phishing-tan-verfahren-vergleich
-description: "Wenn es um TAN-Verfahren und Haftung in Phishing-Vorfall-Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für TAN-Verfahren und Haftung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # TAN-Verfahren und Haftung

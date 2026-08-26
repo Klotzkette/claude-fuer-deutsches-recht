@@ -1,6 +1,6 @@
 ---
 name: bankabschluss-und-regulatorik-rechtsprechung
-description: "Wenn es um Bankabschluss Und Regulatorik Rechtsprechung in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Bankabschluss und Regulatorik Rechtsprechung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: bankabschluss und regulatorik - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

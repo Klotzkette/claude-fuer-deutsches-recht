@@ -1,6 +1,6 @@
 ---
 name: bankrecht-kaufmaennische-buergschaft-hgb-349-350
-description: "Wenn es um Bankrecht Kaufmaennische Buergschaft HGB 349 350 in Fachanwalt Bank Kapitalmarktrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Bankrecht Kaufmännische Bürgschaft HGB 349 350: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaufmännische Bürgschaft prüfen: Handelsgeschäft des Bürgen, § 349 HGB ohne Vorausklage, § 350 HGB ohne BGB-Schriftform, Abgrenzung zu privater Mithaftung, AGB und Prozessstrategie.

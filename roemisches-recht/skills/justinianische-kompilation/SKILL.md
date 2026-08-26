@@ -1,6 +1,6 @@
 ---
 name: justinianische-kompilation
-description: "Wenn es um Justinianische Kompilation in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Justinianische Kompilation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Justinianische Kompilation

@@ -1,6 +1,6 @@
 ---
 name: personenbezogene-daten-und-schwaerzung
-description: "Wenn es um Personenbezogene Daten Und Schwaerzung in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Personenbezogene Daten und Schwärzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personenbezogene Daten Und Schwaerzung

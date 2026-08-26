@@ -1,6 +1,6 @@
 ---
 name: pen-test-red-team
-description: "Wenn es um Pen Test Red Team in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pen Test Red Team: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Pen Test Red Team

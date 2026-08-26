@@ -1,6 +1,6 @@
 ---
 name: patentverletzung-claim-patr2
-description: "Wenn es um Claim Chart in patentrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Claim Chart: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Claim Chart

@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-inkasso-mahnung-einordnen-gewaehrleistung
-description: "Wenn es um Inkasso Und Mahnung Einordnen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Inkasso und Mahnung Einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Inkasso Und Mahnung Einordnen

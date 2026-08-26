@@ -1,6 +1,6 @@
 ---
 name: anfaenger-risikoampel-gegenargumente
-description: "Wenn es um Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfaenger Risikoampel Gegenargumente; Arbeitsfeld: DFG-Förderantrag."
+description: "Für Anfänger: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien

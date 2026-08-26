@@ -1,6 +1,6 @@
 ---
 name: mandantenreport-regulatorische-risikolage
-description: "Wenn es um Mandantenreport regulatorische Risikolage in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandantenreport regulatorische Risikolage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandantenreport regulatorische Risikolage

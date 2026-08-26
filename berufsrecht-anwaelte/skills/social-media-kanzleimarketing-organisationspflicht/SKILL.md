@@ -1,6 +1,6 @@
 ---
 name: social-media-kanzleimarketing-organisationspflicht
-description: "Wenn es um Social Media Kanzleimarketing Organisationspflicht in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Social Media Kanzleimarketing Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: social media kanzleimarketing - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

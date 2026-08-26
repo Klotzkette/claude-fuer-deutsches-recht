@@ -1,6 +1,6 @@
 ---
 name: ueble-verleumdung
-description: "Wenn es um Ueble: Behörden-, Gerichts- oder Registerweg in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Üble: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Ueble: Behörden-, Gerichts- oder Registerweg

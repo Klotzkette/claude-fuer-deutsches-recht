@@ -1,6 +1,6 @@
 ---
 name: marketplace-anspruch-pruefen
-description: "Wenn es um Marketplace Anspruch Prüfen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Marketplace Anspruch Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: marketplace-anspruch-pruefen."
 ---
 
 # Marketplace Anspruch Prüfen

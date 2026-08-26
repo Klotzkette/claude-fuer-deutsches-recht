@@ -1,6 +1,6 @@
 ---
 name: estate-property-541
-description: "Wenn es um Property of the Estate Paragraf 541 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Property of the Estate Paragraf 541: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Property of the Estate § 541

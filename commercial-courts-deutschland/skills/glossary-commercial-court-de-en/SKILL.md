@@ -1,6 +1,6 @@
 ---
 name: glossary-commercial-court-de-en
-description: "Wenn es um Commercial Court Glossary in commercial-courts-deutschland geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Commercial Court Glossary: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Commercial Court Glossary

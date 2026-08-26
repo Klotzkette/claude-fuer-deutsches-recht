@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg
-description: "Wenn es um Autonome LKW-Konvois – Haftung Paragraf 1d StVG und CMR in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Autonome LKW-Konvois – Haftung Paragraf 1d StVG und CMR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Autonome LKW-Konvois – Haftung § 1d StVG und CMR

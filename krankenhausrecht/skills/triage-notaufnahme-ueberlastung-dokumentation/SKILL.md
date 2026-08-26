@@ -1,6 +1,6 @@
 ---
 name: triage-notaufnahme-ueberlastung-dokumentation
-description: "Steuert Routine- und Überlastungstriage in der Notaufnahme nach aktuellem Rechtsstand. Trennt Ersteinschätzung, Re-Triage, Ressourcenknappheit, Organisationsverantwortung und Haftungsaufarbeitung; berücksichtigt die Nichtigkeit des Paragraf 5c IfSG und liefert SOP, Ereignischronologie, Beweismatrix und Maßnahmenplan."
+description: "Steuert Routine- und Überlastungstriage in der Notaufnahme nach aktuellem Rechtsstand."
 ---
 
 # Triage, Überlastung und Dokumentation in der Notaufnahme

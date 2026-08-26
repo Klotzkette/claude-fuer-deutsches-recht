@@ -1,6 +1,6 @@
 ---
 name: aufsicht-bafin-bank-strategie-banking-app
-description: "Wenn es um BaFin-Beschwerde gegen Bank in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BaFin-Beschwerde gegen Bank: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # BaFin-Beschwerde gegen Bank

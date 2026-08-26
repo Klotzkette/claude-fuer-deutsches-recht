@@ -1,6 +1,6 @@
 ---
 name: interdictum-fraudatorium-und-restitutio-in-integrum
-description: "Wenn es um Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Interdictum Fraudatorium Und Restitutio In Integrum; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 117 Interdictum Fraudatorium und Restitutio in Integrum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: interdictum-fraudatorium-und-restitutio-in-integrum."
 ---
 
 # Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum

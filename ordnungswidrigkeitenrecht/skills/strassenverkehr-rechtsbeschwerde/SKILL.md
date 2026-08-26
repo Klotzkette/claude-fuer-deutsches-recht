@@ -1,6 +1,6 @@
 ---
 name: strassenverkehr-rechtsbeschwerde
-description: "Wenn es um Strassenverkehr Rechtsbeschwerde Prüf in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenverkehr Rechtsbeschwerde Prüf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Ordnungswidrigkeitenrecht. Route: strassenverkehr-rechtsbeschwerde."
 ---
 
 # Strassenverkehr Rechtsbeschwerde Prüf

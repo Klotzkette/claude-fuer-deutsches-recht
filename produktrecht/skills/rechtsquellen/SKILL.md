@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen
-description: "Wenn es um Rechtsquellen: Internationaler Bezug und Schnittstellen in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsquellen: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsquellen: Internationaler Bezug und Schnittstellen

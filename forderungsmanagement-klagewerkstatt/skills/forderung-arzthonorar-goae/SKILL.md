@@ -1,6 +1,6 @@
 ---
 name: forderung-arzthonorar-goae
-description: "Wenn es um Arzthonorar nach GOAE und GOZ in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Arzthonorar nach GOÄ und GOZ: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arzthonorar nach GOAE und GOZ

@@ -1,6 +1,6 @@
 ---
 name: verfahrenswahl-kompass
-description: "Wenn es um Verfahrenswahl Kompass in Fachanwalt Vergaberecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verfahrenswahl Kompass: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfahrensart waehlen und begruenden: offen, nichtoffen, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft, UVgO-Verfahren, VOB/A und Direktvergabe.

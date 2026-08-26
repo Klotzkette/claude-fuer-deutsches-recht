@@ -1,6 +1,6 @@
 ---
 name: vergleichskorridor
-description: "Wenn es um Vergleichskorridor in Gesellschaftsrechtliche Treuepflicht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleichskorridor: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleichskorridor

@@ -1,6 +1,6 @@
 ---
 name: owi-verbandsgeldbusse-30-130
-description: "Wenn es um Owi Verbandsgeldbusse 30 130 in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Owi Verbandsgeldbusse 30 130: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unternehmens- und Aufsichtspflicht-Ordnungswidrigkeiten: Paragrafen 30 und 130 OWiG in der Praxis

@@ -1,6 +1,6 @@
 ---
 name: sicherungslizenz-pfandrecht-an-immaterialguetern
-description: "Wenn es um Sicherungslizenz und Pfandrecht an Immaterialguetern in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sicherungslizenz und Pfandrecht an Immaterialgütern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sicherungslizenz und Pfandrecht an Immaterialguetern

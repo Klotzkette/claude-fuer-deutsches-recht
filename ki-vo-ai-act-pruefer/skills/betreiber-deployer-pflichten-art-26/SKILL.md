@@ -1,6 +1,6 @@
 ---
 name: betreiber-deployer-pflichten-art-26
-description: "Wenn es um Betreiber-Pflichten (Deployer) — Art. 26 und 27 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Betreiber Deployer Pflichten Art 26; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für Betreiber-Pflichten (Deployer) — Art. 26 und 27 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: betreiber-deployer-pflichten-art-26."
 ---
 
 # Betreiber-Pflichten (Deployer) — Art. 26 und 27 KI-VO

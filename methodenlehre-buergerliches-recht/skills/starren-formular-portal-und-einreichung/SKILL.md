@@ -1,6 +1,6 @@
 ---
 name: starren-formular-portal-und-einreichung
-description: "Wenn es um Starren Formular Portal Und Einreichung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Starren Formular Portal und Einreichung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Dieses Skill behandelt die methodisch korrekte Handhabung von starren Formularvordrucken, elektronischen Gerichtsportalen und behördlichen Einreichungsverfahren im bürgerlichen Recht
@@ -98,3 +98,7 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-starren-formular-portal-und-einreichung` beziehungsweise Starren: Formular, Portal und Einreichungslogik: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-starren-formular-portal-und-einreichung.md).

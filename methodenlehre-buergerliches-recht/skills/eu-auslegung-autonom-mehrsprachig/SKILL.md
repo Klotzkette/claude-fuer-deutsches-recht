@@ -1,6 +1,6 @@
 ---
 name: eu-auslegung-autonom-mehrsprachig
-description: "Wenn es um EU-Auslegung: Autonom und mehrsprachig in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU-Auslegung: Autonom und mehrsprachig: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-Auslegung: Autonom und mehrsprachig

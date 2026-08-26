@@ -1,6 +1,6 @@
 ---
 name: eskalationsmatrix
-description: "Wenn es um Eskalationsmatrix Datenschutzvorfall in Datenschutzrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Eskalationsmatrix Datenschutzvorfall: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Eskalationsmatrix Datenschutzvorfall
@@ -45,3 +45,7 @@ Erreichbarkeit: Hauptkontakt + zwei Stellvertreter je Stufe; 24/7-Rufbereitschaf
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-eskalationsmatrix` beziehungsweise Definiert eine Eskalationsmatrix vom Erstmelder über Service-Desk und Datenschutzbeauftragten bis zur Geschäftsleitung und externen Beratern: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-eskalationsmatrix.md).

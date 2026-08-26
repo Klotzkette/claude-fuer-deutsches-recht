@@ -1,6 +1,6 @@
 ---
 name: steuerstrafrechtliche-schnittstelle-kaltstart
-description: "Wenn es um Steuerstrafrechtliche Schnittstelle Kaltstart in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuerstrafrechtliche Schnittstelle Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: steuerstrafrechtliche schnittstelle - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

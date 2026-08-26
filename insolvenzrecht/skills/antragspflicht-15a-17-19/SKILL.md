@@ -1,6 +1,6 @@
 ---
 name: antragspflicht-15a-17-19
-description: "Wenn es um Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung

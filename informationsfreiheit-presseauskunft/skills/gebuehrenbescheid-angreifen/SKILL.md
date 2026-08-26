@@ -1,6 +1,6 @@
 ---
 name: gebuehrenbescheid-angreifen
-description: "Wenn es um Gebührenbescheid Angreifen in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Gebührenbescheid Angreifen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Informationsfreiheit und Presseauskunft. Route: gebuehrenbescheid-angreifen."
 ---
 
 # Gebührenbescheid Angreifen

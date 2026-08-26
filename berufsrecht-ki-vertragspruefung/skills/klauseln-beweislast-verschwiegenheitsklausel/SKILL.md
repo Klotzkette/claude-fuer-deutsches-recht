@@ -1,6 +1,6 @@
 ---
 name: klauseln-beweislast-verschwiegenheitsklausel
-description: "Wenn es um Klauseln: Beweislast, Darlegungslast und Substantiierung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Klauseln: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: klauseln-beweislast-verschwiegenheitsklausel."
 ---
 
 # Klauseln: Beweislast, Darlegungslast und Substantiierung

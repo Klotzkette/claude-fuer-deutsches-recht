@@ -1,6 +1,6 @@
 ---
 name: fallloesung-im-institutionensystem
-description: "Wenn es um Fallloesung Im Institutionensystem in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Falllösung im Institutionensystem: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fallloesung Im Institutionensystem

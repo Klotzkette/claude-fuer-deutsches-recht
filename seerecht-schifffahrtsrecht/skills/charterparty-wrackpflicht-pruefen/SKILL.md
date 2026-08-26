@@ -1,6 +1,6 @@
 ---
 name: charterparty-wrackpflicht-pruefen
-description: "Wenn es um Charterparty – Wrackbeseitigungspflicht prüfen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Charterparty – Wrackbeseitigungspflicht prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Charterparty – Wrackbeseitigungspflicht prüfen

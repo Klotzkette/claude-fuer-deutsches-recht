@@ -1,6 +1,6 @@
 ---
 name: aufloesung-liquidation-beschlussvorlagen
-description: "Wenn es um Auflösung und Liquidation in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auflösung und Liquidation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auflösung und Liquidation

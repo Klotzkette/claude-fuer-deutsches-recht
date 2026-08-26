@@ -1,6 +1,6 @@
 ---
 name: track-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Track: Mandantenkommunikation und Entscheidungsvorlage in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Track: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Track: Mandantenkommunikation und Entscheidungsvorlage

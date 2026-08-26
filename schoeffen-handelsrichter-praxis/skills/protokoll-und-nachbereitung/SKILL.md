@@ -1,6 +1,6 @@
 ---
 name: protokoll-und-nachbereitung
-description: "Wenn es um Protokoll und Nachbereitung in Schöffen und Handelsrichter Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Protokoll und Nachbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Schöffen und Handelsrichter Praxis."
 ---
 
 # Protokoll und Nachbereitung

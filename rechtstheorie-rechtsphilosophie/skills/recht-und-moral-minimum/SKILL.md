@@ -1,6 +1,6 @@
 ---
 name: recht-und-moral-minimum
-description: "Wenn es um Recht und Moral in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Recht und Moral: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Recht und Moral

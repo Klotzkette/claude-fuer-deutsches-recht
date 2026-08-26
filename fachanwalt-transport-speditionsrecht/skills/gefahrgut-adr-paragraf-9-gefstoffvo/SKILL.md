@@ -1,6 +1,6 @@
 ---
 name: gefahrgut-adr-paragraf-9-gefstoffvo
-description: "Wenn es um Gefahrgut adr Paragraf 9 Gefstoffvo in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gefahrgut adr Paragraf 9 Gefstoffvo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gefahrgut adr § 9 Gefstoffvo

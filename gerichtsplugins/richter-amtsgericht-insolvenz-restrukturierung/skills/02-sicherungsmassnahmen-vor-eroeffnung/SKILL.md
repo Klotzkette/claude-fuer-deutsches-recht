@@ -1,6 +1,6 @@
 ---
 name: 02-sicherungsmassnahmen-vor-eroeffnung
-description: "Wenn es um 02 Sicherungsmaßnahmen Vor Eröffnung in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 02 Sicherungsmaßnahmen vor Eröffnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 02 Sicherungsmaßnahmen Vor Eröffnung

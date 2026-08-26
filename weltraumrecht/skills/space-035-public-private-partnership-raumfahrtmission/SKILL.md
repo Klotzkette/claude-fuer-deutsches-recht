@@ -1,6 +1,6 @@
 ---
 name: space-035-public-private-partnership-raumfahrtmission
-description: "Wenn es um Weltraumrecht: Public Private Partnership Raumfahrtmission in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Public Private Partnership Raumfahrtmission: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Public Private Partnership Raumfahrtmission

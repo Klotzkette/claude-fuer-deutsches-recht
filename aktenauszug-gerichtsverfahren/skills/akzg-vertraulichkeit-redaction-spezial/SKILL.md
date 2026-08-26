@@ -1,6 +1,6 @@
 ---
 name: akzg-vertraulichkeit-redaction-spezial
-description: "Wenn es um AkzG: Vertraulichkeit Redaction in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für AkzG: Vertraulichkeit Redaction: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AkzG: Vertraulichkeit Redaction

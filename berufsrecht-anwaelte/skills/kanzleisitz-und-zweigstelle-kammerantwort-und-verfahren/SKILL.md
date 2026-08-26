@@ -1,6 +1,6 @@
 ---
 name: kanzleisitz-und-zweigstelle-kammerantwort-und-verfahren
-description: "Wenn es um Kanzleisitz Und Zweigstelle Kammerantwort Und Verfahren in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Kanzleisitz und Zweigstelle Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: kanzleisitz und zweigstelle - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

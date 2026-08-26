@@ -1,6 +1,6 @@
 ---
 name: fristversaeumnis-und-wiedereinsetzung-organisationspfl
-description: "Wenn es um Fristversaeumnis Und Wiedereinsetzung Organisationspfl in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristversäumnis und Wiedereinsetzung Organisationspfl: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Anwälte: fristversaeumnis und wiedereinsetzung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

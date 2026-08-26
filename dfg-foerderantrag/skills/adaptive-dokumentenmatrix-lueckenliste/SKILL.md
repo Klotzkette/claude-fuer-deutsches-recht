@@ -1,6 +1,6 @@
 ---
 name: adaptive-dokumentenmatrix-lueckenliste
-description: "Wenn es um Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: DFG-Förderantrag. Route: adaptive-dokumentenmatrix-lueckenliste."
 ---
 
 # Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung

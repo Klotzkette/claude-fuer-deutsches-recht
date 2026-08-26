@@ -1,6 +1,6 @@
 ---
 name: staatshaftung-alr-rechtsstaat
-description: "Wenn es um Pralr Staatshaftung Im Alr Und Rechtsstaat in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Staatshaftung Alr Rechtsstaat; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Staatshaftung im Alr und Rechtsstaat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: staatshaftung-alr-rechtsstaat."
 ---
 
 # Pralr Staatshaftung Im Alr Und Rechtsstaat

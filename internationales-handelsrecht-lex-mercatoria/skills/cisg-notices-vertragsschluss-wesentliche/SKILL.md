@@ -1,6 +1,6 @@
 ---
 name: cisg-notices-vertragsschluss-wesentliche
-description: "Wenn es um Fristen und Notices: Untersuchung und Rüge (CISG Art. 38-44) in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen und Notices: Untersuchung und Rüge (CISG Art. 38-44): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fristen und Notices: Untersuchung und Rüge (CISG Art. 38-44)

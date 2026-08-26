@@ -1,6 +1,6 @@
 ---
 name: scope-cut-behoerdenfragen-einhegen
-description: "Wenn es um Scope Cut Behördenfragen einhegen in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Scope Cut Behördenfragen einhegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Scope Cut Behördenfragen einhegen

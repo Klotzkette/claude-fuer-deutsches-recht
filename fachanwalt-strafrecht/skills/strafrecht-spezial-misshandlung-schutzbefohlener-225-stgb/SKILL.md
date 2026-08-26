@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-misshandlung-schutzbefohlener-225-stgb
-description: "Wenn es um Misshandlung Schutzbefohlener nach Paragraf 225 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Misshandlung Schutzbefohlener nach Paragraf 225 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Misshandlung Schutzbefohlener nach § 225 StGB

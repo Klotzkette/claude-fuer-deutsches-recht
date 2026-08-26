@@ -1,6 +1,6 @@
 ---
 name: data-digitalregulierung-dora
-description: "Wenn es um Data: Dokumentenmatrix, Lückenliste und Nachforderung in DSA, DMA und Digitalregulierung der EU geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Data: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Data: Dokumentenmatrix, Lückenliste und Nachforderung

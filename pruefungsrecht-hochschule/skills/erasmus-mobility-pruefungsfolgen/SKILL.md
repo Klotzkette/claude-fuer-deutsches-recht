@@ -1,6 +1,6 @@
 ---
 name: erasmus-mobility-pruefungsfolgen
-description: "Wenn es um Erasmus/Mobility und Prüfungsfolgen in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erasmus/Mobility und Prüfungsfolgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Erasmus/Mobility und Prüfungsfolgen

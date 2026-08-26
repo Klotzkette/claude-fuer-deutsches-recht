@@ -1,6 +1,6 @@
 ---
 name: rolle-anbieter-pruefen-art-3-nr-3
-description: "Wenn es um Rolle-Check: Anbieter — Art. 3 Nr. 3 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rolle-Check: Anbieter — Art. 3 Nr. 3 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rolle-Check: Anbieter — Art. 3 Nr. 3 KI-VO

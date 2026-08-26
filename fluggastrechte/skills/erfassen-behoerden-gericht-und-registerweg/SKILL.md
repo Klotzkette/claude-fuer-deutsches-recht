@@ -1,6 +1,6 @@
 ---
 name: erfassen-behoerden-gericht-und-registerweg
-description: "Wenn es um Erfassen: Behörden-, Gerichts- oder Registerweg in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erfassen Behoerden Gericht Und Registerweg; Arbeitsfeld: Fluggastrechte."
+description: "Für Erfassen: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Fluggastrechte. Route: erfassen-behoerden-gericht-und-registerweg."
 ---
 
 # Erfassen: Behörden-, Gerichts- oder Registerweg

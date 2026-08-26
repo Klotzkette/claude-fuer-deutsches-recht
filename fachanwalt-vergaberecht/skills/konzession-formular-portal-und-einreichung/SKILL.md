@@ -1,6 +1,6 @@
 ---
 name: konzession-formular-portal-und-einreichung
-description: "Wenn es um Konzession: Formular, Portal und Einreichungslogik in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konzession: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Konzession: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: dma-schnittstelle-kartellrecht
-description: "Wenn es um DMA Schnittstelle Kartellrecht in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für DMA Schnittstelle Kartellrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DMA Schnittstelle Kartellrecht

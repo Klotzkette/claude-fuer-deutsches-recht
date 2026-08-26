@@ -1,6 +1,6 @@
 ---
 name: space-law-opinion-fuer-investoren
-description: "Wenn es um Weltraumrecht: Space Law Opinion für Investoren in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Space Law Opinion für Investoren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Space Law Opinion für Investoren

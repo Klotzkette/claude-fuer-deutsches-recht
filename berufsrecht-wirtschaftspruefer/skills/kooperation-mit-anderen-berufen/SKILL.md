@@ -1,6 +1,6 @@
 ---
 name: kooperation-mit-anderen-berufen
-description: "Wenn es um Kooperation mit anderen Berufen in Berufsrecht Wirtschaftsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kooperation mit anderen Berufen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Wirtschaftsprüfer."
 ---
 
 # Kooperation mit anderen Berufen

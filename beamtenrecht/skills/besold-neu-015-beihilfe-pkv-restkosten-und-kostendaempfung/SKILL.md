@@ -1,6 +1,6 @@
 ---
 name: besold-neu-015-beihilfe-pkv-restkosten-und-kostendaempfung
-description: "Wenn es um Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung in Beamtenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung

@@ -1,6 +1,6 @@
 ---
 name: lease-004-restwertgarantie-andienungsrecht-und-mehrerloesklausel
-description: "Wenn es um Leasingrecht: Restwertgarantie Andienungsrecht und Mehrerlösklausel in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Restwertgarantie Andienungsrecht und Mehrerlösklausel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Restwertgarantie Andienungsrecht und Mehrerlösklausel

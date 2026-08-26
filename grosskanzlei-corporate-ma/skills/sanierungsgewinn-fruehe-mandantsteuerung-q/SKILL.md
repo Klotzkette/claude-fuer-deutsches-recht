@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-fruehe-mandantsteuerung-q
-description: "Wenn es um Sanierungsgewinn – Frühe Mandantsteuerung Q-12 in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungsgewinn – Frühe Mandantsteuerung Q-12: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Sanierungsgewinn – Frühe Mandantsteuerung Q-12

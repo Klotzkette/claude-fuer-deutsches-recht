@@ -1,6 +1,6 @@
 ---
 name: red-team-gegneransicht-agb
-description: "Wenn es um Red Team Gegneransicht AGB in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Red Team Gegneransicht AGB: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red Team Gegneransicht AGB

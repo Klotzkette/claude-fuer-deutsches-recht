@@ -1,6 +1,6 @@
 ---
 name: ip-klausel-pruefung
-description: "Wenn es um IP-Klausel-Prüfung in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IP-Klausel-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # IP-Klausel-Prüfung

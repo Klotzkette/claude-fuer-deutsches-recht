@@ -1,6 +1,6 @@
 ---
 name: vers-fristen-verjaehrung-klagefrist-fallkalender
-description: "Wenn es um Fristenkalender für Versicherungsfälle in Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristenkalender für Versicherungsfälle: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristenkalender für Versicherungsfälle

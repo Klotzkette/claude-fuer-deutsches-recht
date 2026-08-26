@@ -1,6 +1,6 @@
 ---
 name: sbom-und-cyber-dokumentation
-description: "Wenn es um SBOM und Cyber-Dokumentation in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für SBOM und Cyber-Dokumentation: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SBOM und Cyber-Dokumentation

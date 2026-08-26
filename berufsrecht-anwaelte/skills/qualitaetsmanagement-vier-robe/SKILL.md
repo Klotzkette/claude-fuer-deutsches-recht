@@ -1,6 +1,6 @@
 ---
 name: qualitaetsmanagement-vier-robe
-description: "Wenn es um Qualitaetsmanagement Vier Robe in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätsmanagement Vier Robe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Anwälte: qualitaetsmanagement fristen und vier augen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

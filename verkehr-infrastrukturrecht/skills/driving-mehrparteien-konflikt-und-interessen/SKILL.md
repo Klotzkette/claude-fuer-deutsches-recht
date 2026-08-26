@@ -1,6 +1,6 @@
 ---
 name: driving-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Driving: Mehrparteienkonflikt und Interessenmatrix in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Driving: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Driving: Mehrparteienkonflikt und Interessenmatrix

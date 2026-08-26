@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheitsklausel-pruefen
-description: "Wenn es um Verschwiegenheitsklausel prüfen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Verschwiegenheitsklausel prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verschwiegenheitsklausel prüfen

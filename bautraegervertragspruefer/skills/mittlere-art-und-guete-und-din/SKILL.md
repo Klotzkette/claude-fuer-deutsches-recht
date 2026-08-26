@@ -1,6 +1,6 @@
 ---
 name: mittlere-art-und-guete-und-din
-description: "Wenn es um Mittlere Art und Güte und DIN-Normen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mittlere Art und Güte und DIN-Normen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mittlere Art und Güte und DIN-Normen

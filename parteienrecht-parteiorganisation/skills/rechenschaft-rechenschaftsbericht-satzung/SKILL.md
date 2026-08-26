@@ -1,6 +1,6 @@
 ---
 name: rechenschaft-rechenschaftsbericht-satzung
-description: "Wenn es um Prüfung Rechenschaft in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rechenschaft Rechenschaftsbericht Satzung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Prüfung Rechenschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüfung Rechenschaft

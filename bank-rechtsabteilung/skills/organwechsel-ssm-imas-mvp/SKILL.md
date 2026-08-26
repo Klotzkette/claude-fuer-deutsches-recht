@@ -1,6 +1,6 @@
 ---
 name: organwechsel-ssm-imas-mvp
-description: "Wenn es um Organwechsel Einreichkanal in Bank-Rechtsabteilung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Organwechsel Einreichkanal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Organwechsel Einreichkanal

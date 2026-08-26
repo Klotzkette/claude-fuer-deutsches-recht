@@ -1,6 +1,6 @@
 ---
 name: miet-kuendigungsschutz-mietminderung
-description: "Wenn es um Miet: Kuendigungsschutz in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Miet: Kündigungsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Miet: Kuendigungsschutz

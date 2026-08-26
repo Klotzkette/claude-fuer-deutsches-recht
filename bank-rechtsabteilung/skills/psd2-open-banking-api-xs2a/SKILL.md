@@ -1,6 +1,6 @@
 ---
 name: psd2-open-banking-api-xs2a
-description: "Wenn es um PSD2 Open Banking API in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für PSD2 Open Banking API: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PSD2 Open Banking API

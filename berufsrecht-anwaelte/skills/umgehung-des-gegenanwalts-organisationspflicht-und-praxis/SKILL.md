@@ -1,6 +1,6 @@
 ---
 name: umgehung-des-gegenanwalts-organisationspflicht-und-praxis
-description: "Wenn es um Umgehung Des Gegenanwalts Organisationspflicht Und Praxis in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umgehung des Gegenanwalts Organisationspflicht und Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: umgehung des gegenanwalts - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

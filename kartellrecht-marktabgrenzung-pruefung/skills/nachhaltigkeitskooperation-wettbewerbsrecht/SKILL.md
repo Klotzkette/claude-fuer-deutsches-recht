@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeitskooperation-wettbewerbsrecht
-description: "Wenn es um Nachhaltigkeitskooperation Wettbewerbsrecht in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Nachhaltigkeitskooperation Wettbewerbsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachhaltigkeitskooperation Wettbewerbsrecht

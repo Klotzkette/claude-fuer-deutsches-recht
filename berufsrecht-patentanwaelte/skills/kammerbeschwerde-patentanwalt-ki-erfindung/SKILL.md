@@ -1,6 +1,6 @@
 ---
 name: kammerbeschwerde-patentanwalt-ki-erfindung
-description: "Wenn es um Kammerbeschwerde Patentanwalt Ki Erfindung in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kammerbeschwerde Patentanwalt Ki Erfindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: kammerbeschwerde patentanwalt - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

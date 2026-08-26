@@ -1,6 +1,6 @@
 ---
 name: verbraucherforderungen-und-besondere-schutzvorschriften
-description: "Wenn es um Verbraucherforderungen und besondere Schutzvorschriften in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verbraucherforderungen und besondere Schutzvorschriften: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbraucherforderungen und besondere Schutzvorschriften

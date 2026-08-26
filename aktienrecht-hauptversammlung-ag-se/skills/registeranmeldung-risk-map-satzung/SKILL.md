@@ -1,6 +1,6 @@
 ---
 name: registeranmeldung-risk-map-satzung
-description: "Wenn es um Registeranmeldung in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Registeranmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registeranmeldung

@@ -1,6 +1,6 @@
 ---
 name: verbraucherklage-rdg-grenzen
-description: "Wenn es um Verbraucherklage RDG-Grenzen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verbraucherklage RDG-Grenzen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Verbraucherklage RDG-Grenzen

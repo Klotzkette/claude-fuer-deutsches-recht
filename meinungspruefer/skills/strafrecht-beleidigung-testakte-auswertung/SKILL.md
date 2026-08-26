@@ -1,6 +1,6 @@
 ---
 name: strafrecht-beleidigung-testakte-auswertung
-description: "Wenn es um Paragraf 185 StGB - Beleidigung in Meinungsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Paragraf 185 StGB - Beleidigung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 185 StGB - Beleidigung

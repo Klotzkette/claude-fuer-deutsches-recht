@@ -1,6 +1,6 @@
 ---
 name: verfuegung-nichtberechtigter-paragraph-185
-description: "Wenn es um Verfügung des Nichtberechtigten — Paragraf 185 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verfügung des Nichtberechtigten — Paragraf 185 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfügung des Nichtberechtigten — § 185 BGB

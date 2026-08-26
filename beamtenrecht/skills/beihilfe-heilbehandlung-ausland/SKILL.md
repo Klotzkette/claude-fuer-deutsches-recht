@@ -1,6 +1,6 @@
 ---
 name: beihilfe-heilbehandlung-ausland
-description: "Wenn es um Beihilfe Heilbehandlung im Ausland in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beihilfe Heilbehandlung im Ausland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beihilfe Heilbehandlung im Ausland

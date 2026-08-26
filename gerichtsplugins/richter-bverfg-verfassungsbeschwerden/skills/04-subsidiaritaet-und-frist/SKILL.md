@@ -1,6 +1,6 @@
 ---
 name: 04-subsidiaritaet-und-frist
-description: "Wenn es um 04 Subsidiaritaet und Frist in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 04 Subsidiarität und Frist: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # 04 Subsidiaritaet und Frist

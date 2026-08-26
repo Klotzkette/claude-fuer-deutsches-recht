@@ -1,6 +1,6 @@
 ---
 name: einkommensteuer-betriebseinnahme
-description: "Wenn es um Influencer-Recht: Einkommensteuer – Betriebseinnahme und private Nutzung in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Influencer-Recht: Einkommensteuer – Betriebseinnahme und private Nutzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Influencer-Recht: Einkommensteuer – Betriebseinnahme und private Nutzung

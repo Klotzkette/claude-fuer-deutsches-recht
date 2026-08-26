@@ -1,6 +1,6 @@
 ---
 name: dfg-praeregistrierung-replication-studies
-description: "Wenn es um Praeregistrierung und Replikation in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Präregistrierung und Replikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praeregistrierung und Replikation

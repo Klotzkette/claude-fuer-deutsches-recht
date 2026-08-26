@@ -1,6 +1,6 @@
 ---
 name: dienstleister-due-diligence
-description: "Wenn es um Dienstleister Due Diligence in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Dienstleister Due Diligence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dienstleister Due Diligence

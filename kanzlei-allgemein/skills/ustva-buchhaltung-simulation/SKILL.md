@@ -1,6 +1,6 @@
 ---
 name: ustva-buchhaltung-simulation
-description: "Wenn es um UStVA, Eingangsrechnungen und Kanzlei-Buchhaltung in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für UStVA, Eingangsrechnungen und Kanzlei-Buchhaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # UStVA, Eingangsrechnungen und Kanzlei-Buchhaltung

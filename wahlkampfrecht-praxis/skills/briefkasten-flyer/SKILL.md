@@ -1,6 +1,6 @@
 ---
 name: briefkasten-flyer
-description: "Wenn es um Briefkasten Flyer in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Briefkasten Flyer: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Briefkasten Flyer

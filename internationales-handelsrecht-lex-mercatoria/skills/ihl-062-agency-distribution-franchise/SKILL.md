@@ -1,6 +1,6 @@
 ---
 name: ihl-062-agency-distribution-franchise
-description: "Wenn es um Agency Distribution Franchise in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Agency Distribution Franchise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agency Distribution Franchise

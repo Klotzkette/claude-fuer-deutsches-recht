@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-netzneutralitaet-open-internet
-description: "Wenn es um Telekommunikation: Netzneutralität Open Internet in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Telekommunikation: Netzneutralität Open Internet: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Telekommunikation: Netzneutralität Open Internet

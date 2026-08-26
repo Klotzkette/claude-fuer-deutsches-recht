@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 389 Skills (gekürzt für das Arbeitsfenster) des Plugins `hoai-leistungsphasen-praxis`.
+Diese Vollprüfung enthält top-8 von 151 Skills (gekürzt für das Arbeitsfenster) des Plugins `hoai-leistungsphasen-praxis`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in HOAI Leistungsphasen Praxis ein juristisches Arbeitsprodukt tragfähig begründet werden muss; …
-2. **lph-05-genehmigungen-und-auflagen** — Wenn es um LPH 5 Ausführungsplanung: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten in HOAI Leistungsphase…
-3. **bauunternehmen-perspektive** — Wenn es um HOAI Querschnitt: Übersetzt hoai-planungsstand in ausführungsrisiko und nachtragschance in HOAI Leistungsphas…
-4. **gesamtschuld-bgb-650t** — Wenn es um HOAI Querschnitt: Ordnet haftung architekt/bauunternehmer und vorrang der nacherfüllung in HOAI Leistungsphas…
-5. **lph-06-sachverstaendigen-pruefung** — Wenn es um LPH 6 Vorbereitung der Vergabe: Übersetzt den lph-stand in gutachterfragen und prüfspur in HOAI Leistungsphas…
-6. **teilabnahme-bgb-650s** — Wenn es um HOAI Querschnitt: Prüft teilabnahme ab letzter unternehmerleistung und haftungsfolgen in HOAI Leistungsphasen…
-7. **sonderkuendigung-bgb-650r** — Wenn es um HOAI Querschnitt: Prüft sonderkündigungsrecht nach planungsgrundlage und belehrung in HOAI Leistungsphasen Pr…
-8. **altvertrag-mindestsatzstreit** — Wenn es um HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken in HOAI Leistungsphasen Prax…
+2. **lph-06-arbeitsrouter** — Für HOAI-Leistungsphase 6 Vorbereitung der Vergabe: routet Leistungsbeschreibung, Mengen, Leistungsverzeichnis, Kostenan…
+3. **lph-08-arbeitsrouter** — Für HOAI-Leistungsphase 8 Objektüberwachung: routet Bauüberwachung, Bautagebuch, Mängel, Nachträge, Rechnungen, Abnahme …
+4. **lph-07-arbeitsrouter** — Für HOAI-Leistungsphase 7 Mitwirkung bei der Vergabe: routet Angebotsprüfung, Preisspiegel, Bietergespräch, Vergabevorsc…
+5. **lph-01-arbeitsrouter** — Für HOAI-Leistungsphase 1 Grundlagenermittlung: routet Bedarf, Aufgabenstellung, Ortsbesichtigung, Beratung und Entschei…
+6. **lph-09-arbeitsrouter** — Für HOAI-Leistungsphase 9 Objektbetreuung: routet Gewährleistungsfristen, Mängelverfolgung, Objektbegehung und Abschluss…
+7. **lph-05-arbeitsrouter** — Für HOAI-Leistungsphase 5 Ausführungsplanung: routet ausführungsreife Pläne, Detailkoordination, Versionierung und Planf…
+8. **lph-04-arbeitsrouter** — Für HOAI-Leistungsphase 4 Genehmigungsplanung: routet Genehmigungsunterlagen, Anträge, Nachforderungen, Auflagen und Bes…
 
 ---
 
@@ -141,250 +141,234 @@ Ausgangspunkt für dieses Plugin: Planer für beauftragte und erbrachte Leistung
 
 ---
 
-## Skill: `lph-05-genehmigungen-und-auflagen`
+## Skill: `lph-06-arbeitsrouter`
 
-_Wenn es um LPH 5 Ausführungsplanung: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für HOAI-Leistungsphase 6 Vorbereitung der Vergabe: routet Leistungsbeschreibung, Mengen, Leistungsverzeichnis, Kostenanschlag und Vergabereife; lädt nur das einschlägige Fachmodul und liefert den nächsten prüffähigen Projektbaustein._
 
-# LPH 5 Ausführungsplanung: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten
+# Leistungsphase 6: Vorbereitung der Vergabe
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Arbeite ausschließlich in Leistungsphase 6 (Vorbereitung der Vergabe), solange Unterlagen und Auftrag keine belastbare Schnittstelle zu einer anderen Phase zeigen. Leistungsbeschreibung, Mengen, Leistungsverzeichnis, Kostenanschlag und Vergabereife bilden den Einstieg.
 
-## Ergebnis
+1. Vorhandene Unterlagen zuerst lesen und bereits erkennbare Angaben übernehmen.
+2. Sachthema, Zeitraum, Verfahrensstand und gewünschtes Arbeitsprodukt bestimmen.
+3. Genau eine passende Referenz aus der folgenden Tabelle laden; nur bei einer echten Schnittstelle eine zweite.
+4. Nach der Vertiefung unmittelbar das Arbeitsprodukt erstellen und nur entscheidungserhebliche Lücken nachfragen.
 
-- LPH-5-Prüfmatrix
-- fehlende Unterlagen und offene Entscheidungen
-- Honorar-/Nachtragsnotiz
-- kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
+## 2. Bedarfsgeladene Vertiefungen
 
-## Quellen- und Qualitätsregeln
+| Fallgruppe | Referenz | Nur laden bei |
+| --- | --- | --- |
+| Auftrag und Schnittstellen | [auftrag-und-schnittstellen.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-06-arbeitsrouter/references/auftrag-und-schnittstellen.md) | Auftrag, Leistungsbild, Honorar, Bauherr oder Fachplaner; enthält Strukturiert freigabeentscheidung, Koordiniert architekt, Grenzt hoai-grundleistung, Prüft bewertungsanteil, Prüft eingaben und 3 weitere Module |
+| Steuerung und Nachweise | [steuerung-und-nachweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-06-arbeitsrouter/references/steuerung-und-nachweise.md) | Kosten, Termine, Planung, Genehmigung, BIM, Kommunikation oder Förderung; enthält Sichert protokolle, Prüft fördermittelbedingungen, Ordnet öffentlich-rechtliche auflagen und genehmigungslasten, Formuliert klare e-mails an bauherr, Prüft kostenermittlung und 2 weitere Module |
+| Risiko und Output | [risiko-und-output.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-06-arbeitsrouter/references/risiko-und-output.md) | Mangel, Nachtrag, Haftung, Abnahme, Rechnung, Streit, Qualität oder Bericht; enthält Ordnet abnahme, Erstellt anwaltliches kurzmemorandum zum lph-stand, Identifiziert typische haftungsrisiken und beweisvorsorge, Erstellt verständlichen statusbericht mit ampel und nächstem schritt, Sichert spätere mängel und 8 weitere Module |
 
-- HOAI § 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen.
-- BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
+## 3. Arbeitsprodukt
 
-## Besonderer Blick in LPH 5
+Liefere je nach Auftrag einen Prüfvermerk, eine Freigabevorlage, ein Protokoll, eine Kosten- oder Terminentscheidung, einen Nachtrags- oder Mangelbaustein beziehungsweise ein phasengerechtes Abschlussblatt mit Belegen und offenem nächsten Schritt.
 
-- Phase: Ausführungsplanung
-- Praktischer Kern: durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung
-- Bewertungsanker Gebäude/Innenräume: 25 % Gebäude / 30 % Innenräume
-- Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
+## 4. Geschwindigkeitsregel
+
+Nicht den gesamten Referenzbestand lesen. Sobald Norm, Beleg, Gegenposition und gewünschter Output tragfähig feststehen, schreiben; weitere Vertiefungen nur für eine konkret benannte Lücke öffnen.
 
 ---
 
-## Skill: `bauunternehmen-perspektive`
+## Skill: `lph-08-arbeitsrouter`
 
-_Wenn es um HOAI Querschnitt: Übersetzt hoai-planungsstand in ausführungsrisiko und nachtragschance in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für HOAI-Leistungsphase 8 Objektüberwachung: routet Bauüberwachung, Bautagebuch, Mängel, Nachträge, Rechnungen, Abnahme und Dokumentation; lädt nur das einschlägige Fachmodul und liefert den nächsten prüffähigen Projektbaustein._
 
-# HOAI Querschnitt: Übersetzt hoai-planungsstand in ausführungsrisiko und nachtragschance
+# Leistungsphase 8: Objektüberwachung
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Arbeite ausschließlich in Leistungsphase 8 (Objektüberwachung), solange Unterlagen und Auftrag keine belastbare Schnittstelle zu einer anderen Phase zeigen. Bauüberwachung, Bautagebuch, Mängel, Nachträge, Rechnungen, Abnahme und Dokumentation bilden den Einstieg.
 
-## Ergebnis
+1. Vorhandene Unterlagen zuerst lesen und bereits erkennbare Angaben übernehmen.
+2. Sachthema, Zeitraum, Verfahrensstand und gewünschtes Arbeitsprodukt bestimmen.
+3. Genau eine passende Referenz aus der folgenden Tabelle laden; nur bei einer echten Schnittstelle eine zweite.
+4. Nach der Vertiefung unmittelbar das Arbeitsprodukt erstellen und nur entscheidungserhebliche Lücken nachfragen.
 
-- LPH-/Vertragsmatrix
-- Risikoregister
-- konkreter Text- oder Tabellenbaustein
-- nächste Prüfschritte
+## 2. Bedarfsgeladene Vertiefungen
 
-## Quellen- und Qualitätsregeln
+| Fallgruppe | Referenz | Nur laden bei |
+| --- | --- | --- |
+| Auftrag und Schnittstellen | [auftrag-und-schnittstellen.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-08-arbeitsrouter/references/auftrag-und-schnittstellen.md) | Auftrag, Leistungsbild, Honorar, Bauherr oder Fachplaner; enthält Strukturiert freigabeentscheidung, Koordiniert architekt, Grenzt hoai-grundleistung, Prüft bewertungsanteil, Prüft eingaben und 2 weitere Module |
+| Steuerung und Nachweise | [steuerung-und-nachweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-08-arbeitsrouter/references/steuerung-und-nachweise.md) | Kosten, Termine, Planung, Genehmigung, BIM, Kommunikation oder Förderung; enthält Ordnet digitale modelle, Prüft fördermittelbedingungen, Ordnet öffentlich-rechtliche auflagen und genehmigungslasten, Formuliert klare e-mails an bauherr, Prüft kostenermittlung und 2 weitere Module |
+| Risiko und Output | [risiko-und-output.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-08-arbeitsrouter/references/risiko-und-output.md) | Mangel, Nachtrag, Haftung, Abnahme, Rechnung, Streit, Qualität oder Bericht; enthält Ordnet abnahme, Identifiziert typische haftungsrisiken und beweisvorsorge, Erstellt verständlichen statusbericht mit ampel und nächstem schritt, Sichert spätere mängel, Erkennt planungsänderung und 7 weitere Module |
 
-- HOAI-Text, insbesondere § 34 und Anlage 10, live gegen Gesetze im Internet prüfen.
-- BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
+## 3. Arbeitsprodukt
 
-## Fachbezogene Rechtsgrundlagen
+Liefere je nach Auftrag einen Prüfvermerk, eine Freigabevorlage, ein Protokoll, eine Kosten- oder Terminentscheidung, einen Nachtrags- oder Mangelbaustein beziehungsweise ein phasengerechtes Abschlussblatt mit Belegen und offenem nächsten Schritt.
 
-- Zuerst den Vertragsschluss datieren und die anwendbare HOAI-Fassung bestimmen. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen.
-- Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7 für die Honorarvereinbarung in Textform; ergänzend Paragrafen 8 bis 13 und das konkrete Leistungsbild samt Anlage prüfen.
-- Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t, Vergütung und Abschläge ergänzend nach BGB Paragrafen 631, 632 und 632a prüfen.
-- Die VOB/B gilt nicht automatisch für Planungsleistungen. Sie nur einbeziehen, wenn sie wirksam vereinbart und für eine konkrete Bauleistung oder Schnittstelle tatsächlich einschlägig ist.
+## 4. Geschwindigkeitsregel
+
+Nicht den gesamten Referenzbestand lesen. Sobald Norm, Beleg, Gegenposition und gewünschter Output tragfähig feststehen, schreiben; weitere Vertiefungen nur für eine konkret benannte Lücke öffnen.
 
 ---
 
-## Skill: `gesamtschuld-bgb-650t`
+## Skill: `lph-07-arbeitsrouter`
 
-_Wenn es um HOAI Querschnitt: Ordnet haftung architekt/bauunternehmer und vorrang der nacherfüllung in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für HOAI-Leistungsphase 7 Mitwirkung bei der Vergabe: routet Angebotsprüfung, Preisspiegel, Bietergespräch, Vergabevorschlag und Auftrag; lädt nur das einschlägige Fachmodul und liefert den nächsten prüffähigen Projektbaustein._
 
-# HOAI Querschnitt: Ordnet haftung architekt/bauunternehmer und vorrang der nacherfüllung
+# Leistungsphase 7: Mitwirkung bei der Vergabe
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Arbeite ausschließlich in Leistungsphase 7 (Mitwirkung bei der Vergabe), solange Unterlagen und Auftrag keine belastbare Schnittstelle zu einer anderen Phase zeigen. Angebotsprüfung, Preisspiegel, Bietergespräch, Vergabevorschlag und Auftrag bilden den Einstieg.
 
-## Ergebnis
+1. Vorhandene Unterlagen zuerst lesen und bereits erkennbare Angaben übernehmen.
+2. Sachthema, Zeitraum, Verfahrensstand und gewünschtes Arbeitsprodukt bestimmen.
+3. Genau eine passende Referenz aus der folgenden Tabelle laden; nur bei einer echten Schnittstelle eine zweite.
+4. Nach der Vertiefung unmittelbar das Arbeitsprodukt erstellen und nur entscheidungserhebliche Lücken nachfragen.
 
-- LPH-/Vertragsmatrix
-- Risikoregister
-- konkreter Text- oder Tabellenbaustein
-- nächste Prüfschritte
+## 2. Bedarfsgeladene Vertiefungen
 
-## Quellen- und Qualitätsregeln
+| Fallgruppe | Referenz | Nur laden bei |
+| --- | --- | --- |
+| Auftrag und Schnittstellen | [auftrag-und-schnittstellen.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-07-arbeitsrouter/references/auftrag-und-schnittstellen.md) | Auftrag, Leistungsbild, Honorar, Bauherr oder Fachplaner; enthält Strukturiert freigabeentscheidung, Koordiniert architekt, Grenzt hoai-grundleistung, Prüft bewertungsanteil, Prüft eingaben und 2 weitere Module |
+| Steuerung und Nachweise | [steuerung-und-nachweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-07-arbeitsrouter/references/steuerung-und-nachweise.md) | Kosten, Termine, Planung, Genehmigung, BIM, Kommunikation oder Förderung; enthält Ordnet digitale modelle, Sichert protokolle, Prüft fördermittelbedingungen, Ordnet öffentlich-rechtliche auflagen und genehmigungslasten, Formuliert klare e-mails an bauherr und 2 weitere Module |
+| Risiko und Output | [risiko-und-output.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-07-arbeitsrouter/references/risiko-und-output.md) | Mangel, Nachtrag, Haftung, Abnahme, Rechnung, Streit, Qualität oder Bericht; enthält Ordnet abnahme, Erstellt anwaltliches kurzmemorandum zum lph-stand, Identifiziert typische haftungsrisiken und beweisvorsorge, Erstellt verständlichen statusbericht mit ampel und nächstem schritt, Sichert spätere mängel und 7 weitere Module |
 
-- HOAI-Text, insbesondere § 34 und Anlage 10, live gegen Gesetze im Internet prüfen.
-- BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
+## 3. Arbeitsprodukt
 
-## Fachbezogene Rechtsgrundlagen
+Liefere je nach Auftrag einen Prüfvermerk, eine Freigabevorlage, ein Protokoll, eine Kosten- oder Terminentscheidung, einen Nachtrags- oder Mangelbaustein beziehungsweise ein phasengerechtes Abschlussblatt mit Belegen und offenem nächsten Schritt.
 
-- Zuerst den Vertragsschluss datieren und die anwendbare HOAI-Fassung bestimmen. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen.
-- Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7 für die Honorarvereinbarung in Textform; ergänzend Paragrafen 8 bis 13 und das konkrete Leistungsbild samt Anlage prüfen.
-- Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t, Vergütung und Abschläge ergänzend nach BGB Paragrafen 631, 632 und 632a prüfen.
-- Die VOB/B gilt nicht automatisch für Planungsleistungen. Sie nur einbeziehen, wenn sie wirksam vereinbart und für eine konkrete Bauleistung oder Schnittstelle tatsächlich einschlägig ist.
+## 4. Geschwindigkeitsregel
+
+Nicht den gesamten Referenzbestand lesen. Sobald Norm, Beleg, Gegenposition und gewünschter Output tragfähig feststehen, schreiben; weitere Vertiefungen nur für eine konkret benannte Lücke öffnen.
 
 ---
 
-## Skill: `lph-06-sachverstaendigen-pruefung`
+## Skill: `lph-01-arbeitsrouter`
 
-_Wenn es um LPH 6 Vorbereitung der Vergabe: Übersetzt den lph-stand in gutachterfragen und prüfspur in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für HOAI-Leistungsphase 1 Grundlagenermittlung: routet Bedarf, Aufgabenstellung, Ortsbesichtigung, Beratung und Entscheidungsgrundlage; lädt nur das einschlägige Fachmodul und liefert den nächsten prüffähigen Projektbaustein._
 
-# LPH 6 Vorbereitung der Vergabe: Übersetzt den lph-stand in gutachterfragen und prüfspur
+# Leistungsphase 1: Grundlagenermittlung
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Arbeite ausschließlich in Leistungsphase 1 (Grundlagenermittlung), solange Unterlagen und Auftrag keine belastbare Schnittstelle zu einer anderen Phase zeigen. Bedarf, Aufgabenstellung, Ortsbesichtigung, Beratung und Entscheidungsgrundlage bilden den Einstieg.
 
-## Ergebnis
+1. Vorhandene Unterlagen zuerst lesen und bereits erkennbare Angaben übernehmen.
+2. Sachthema, Zeitraum, Verfahrensstand und gewünschtes Arbeitsprodukt bestimmen.
+3. Genau eine passende Referenz aus der folgenden Tabelle laden; nur bei einer echten Schnittstelle eine zweite.
+4. Nach der Vertiefung unmittelbar das Arbeitsprodukt erstellen und nur entscheidungserhebliche Lücken nachfragen.
 
-- LPH-6-Prüfmatrix
-- fehlende Unterlagen und offene Entscheidungen
-- Honorar-/Nachtragsnotiz
-- kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
+## 2. Bedarfsgeladene Vertiefungen
 
-## Quellen- und Qualitätsregeln
+| Fallgruppe | Referenz | Nur laden bei |
+| --- | --- | --- |
+| Auftrag und Schnittstellen | [auftrag-und-schnittstellen.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-01-arbeitsrouter/references/auftrag-und-schnittstellen.md) | Auftrag, Leistungsbild, Honorar, Bauherr oder Fachplaner; enthält Strukturiert freigabeentscheidung, Koordiniert architekt, Grenzt hoai-grundleistung, Prüft eingaben, Berücksichtigt vergabe und 2 weitere Module |
+| Steuerung und Nachweise | [steuerung-und-nachweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-01-arbeitsrouter/references/steuerung-und-nachweise.md) | Kosten, Termine, Planung, Genehmigung, BIM, Kommunikation oder Förderung; enthält Ordnet digitale modelle, Prüft fördermittelbedingungen, Ordnet öffentlich-rechtliche auflagen und genehmigungslasten, Formuliert klare e-mails an bauherr, Prüft planindex und 1 weitere Module |
+| Risiko und Output | [risiko-und-output.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-01-arbeitsrouter/references/risiko-und-output.md) | Mangel, Nachtrag, Haftung, Abnahme, Rechnung, Streit, Qualität oder Bericht; enthält Ordnet abnahme, Erstellt anwaltliches kurzmemorandum zum lph-stand, Identifiziert typische haftungsrisiken und beweisvorsorge, Erstellt verständlichen statusbericht mit ampel und nächstem schritt, Sichert spätere mängel und 9 weitere Module |
 
-- HOAI § 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen.
-- BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
+## 3. Arbeitsprodukt
 
-## Besonderer Blick in LPH 6
+Liefere je nach Auftrag einen Prüfvermerk, eine Freigabevorlage, ein Protokoll, eine Kosten- oder Terminentscheidung, einen Nachtrags- oder Mangelbaustein beziehungsweise ein phasengerechtes Abschlussblatt mit Belegen und offenem nächsten Schritt.
 
-- Phase: Vorbereitung der Vergabe
-- Praktischer Kern: Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur
-- Bewertungsanker Gebäude/Innenräume: 10 % Gebäude / 7 % Innenräume
-- Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
+## 4. Geschwindigkeitsregel
+
+Nicht den gesamten Referenzbestand lesen. Sobald Norm, Beleg, Gegenposition und gewünschter Output tragfähig feststehen, schreiben; weitere Vertiefungen nur für eine konkret benannte Lücke öffnen.
 
 ---
 
-## Skill: `teilabnahme-bgb-650s`
+## Skill: `lph-09-arbeitsrouter`
 
-_Wenn es um HOAI Querschnitt: Prüft teilabnahme ab letzter unternehmerleistung und haftungsfolgen in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für HOAI-Leistungsphase 9 Objektbetreuung: routet Gewährleistungsfristen, Mängelverfolgung, Objektbegehung und Abschlussdokumentation; lädt nur das einschlägige Fachmodul und liefert den nächsten prüffähigen Projektbaustein._
 
-# HOAI Querschnitt: Prüft teilabnahme ab letzter unternehmerleistung und haftungsfolgen
+# Leistungsphase 9: Objektbetreuung
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Arbeite ausschließlich in Leistungsphase 9 (Objektbetreuung), solange Unterlagen und Auftrag keine belastbare Schnittstelle zu einer anderen Phase zeigen. Gewährleistungsfristen, Mängelverfolgung, Objektbegehung und Abschlussdokumentation bilden den Einstieg.
 
-## Ergebnis
+1. Vorhandene Unterlagen zuerst lesen und bereits erkennbare Angaben übernehmen.
+2. Sachthema, Zeitraum, Verfahrensstand und gewünschtes Arbeitsprodukt bestimmen.
+3. Genau eine passende Referenz aus der folgenden Tabelle laden; nur bei einer echten Schnittstelle eine zweite.
+4. Nach der Vertiefung unmittelbar das Arbeitsprodukt erstellen und nur entscheidungserhebliche Lücken nachfragen.
 
-- LPH-/Vertragsmatrix
-- Risikoregister
-- konkreter Text- oder Tabellenbaustein
-- nächste Prüfschritte
+## 2. Bedarfsgeladene Vertiefungen
 
-## Quellen- und Qualitätsregeln
+| Fallgruppe | Referenz | Nur laden bei |
+| --- | --- | --- |
+| Auftrag und Schnittstellen | [auftrag-und-schnittstellen.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-09-arbeitsrouter/references/auftrag-und-schnittstellen.md) | Auftrag, Leistungsbild, Honorar, Bauherr oder Fachplaner; enthält Strukturiert freigabeentscheidung, Koordiniert architekt, Grenzt hoai-grundleistung, Prüft bewertungsanteil, Prüft eingaben und 3 weitere Module |
+| Steuerung und Nachweise | [steuerung-und-nachweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-09-arbeitsrouter/references/steuerung-und-nachweise.md) | Kosten, Termine, Planung, Genehmigung, BIM, Kommunikation oder Förderung; enthält Ordnet digitale modelle, Sichert protokolle, Prüft fördermittelbedingungen, Ordnet öffentlich-rechtliche auflagen und genehmigungslasten, Formuliert klare e-mails an bauherr und 2 weitere Module |
+| Risiko und Output | [risiko-und-output.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-09-arbeitsrouter/references/risiko-und-output.md) | Mangel, Nachtrag, Haftung, Abnahme, Rechnung, Streit, Qualität oder Bericht; enthält Ordnet abnahme, Erstellt anwaltliches kurzmemorandum zum lph-stand, Erstellt verständlichen statusbericht mit ampel und nächstem schritt, Sichert spätere mängel, Erkennt planungsänderung und 8 weitere Module |
 
-- HOAI-Text, insbesondere § 34 und Anlage 10, live gegen Gesetze im Internet prüfen.
-- BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
+## 3. Arbeitsprodukt
 
----
+Liefere je nach Auftrag einen Prüfvermerk, eine Freigabevorlage, ein Protokoll, eine Kosten- oder Terminentscheidung, einen Nachtrags- oder Mangelbaustein beziehungsweise ein phasengerechtes Abschlussblatt mit Belegen und offenem nächsten Schritt.
 
-## Skill: `sonderkuendigung-bgb-650r`
+## 4. Geschwindigkeitsregel
 
-_Wenn es um HOAI Querschnitt: Prüft sonderkündigungsrecht nach planungsgrundlage und belehrung in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# HOAI Querschnitt: Prüft sonderkündigungsrecht nach planungsgrundlage und belehrung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Ergebnis
-
-- LPH-/Vertragsmatrix
-- Risikoregister
-- konkreter Text- oder Tabellenbaustein
-- nächste Prüfschritte
-
-## Quellen- und Qualitätsregeln
-
-- HOAI-Text, insbesondere § 34 und Anlage 10, live gegen Gesetze im Internet prüfen.
-- BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
+Nicht den gesamten Referenzbestand lesen. Sobald Norm, Beleg, Gegenposition und gewünschter Output tragfähig feststehen, schreiben; weitere Vertiefungen nur für eine konkret benannte Lücke öffnen.
 
 ---
 
-## Skill: `altvertrag-mindestsatzstreit`
+## Skill: `lph-05-arbeitsrouter`
 
-_Wenn es um HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für HOAI-Leistungsphase 5 Ausführungsplanung: routet ausführungsreife Pläne, Detailkoordination, Versionierung und Planfreigabe; lädt nur das einschlägige Fachmodul und liefert den nächsten prüffähigen Projektbaustein._
 
-# HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken
+# Leistungsphase 5: Ausführungsplanung
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Arbeite ausschließlich in Leistungsphase 5 (Ausführungsplanung), solange Unterlagen und Auftrag keine belastbare Schnittstelle zu einer anderen Phase zeigen. Ausführungsreife Pläne, Detailkoordination, Versionierung und Planfreigabe bilden den Einstieg.
 
-## Ergebnis
+1. Vorhandene Unterlagen zuerst lesen und bereits erkennbare Angaben übernehmen.
+2. Sachthema, Zeitraum, Verfahrensstand und gewünschtes Arbeitsprodukt bestimmen.
+3. Genau eine passende Referenz aus der folgenden Tabelle laden; nur bei einer echten Schnittstelle eine zweite.
+4. Nach der Vertiefung unmittelbar das Arbeitsprodukt erstellen und nur entscheidungserhebliche Lücken nachfragen.
 
-- LPH-/Vertragsmatrix
-- Risikoregister
-- konkreter Text- oder Tabellenbaustein
-- nächste Prüfschritte
+## 2. Bedarfsgeladene Vertiefungen
 
-## Quellen- und Qualitätsregeln
+| Fallgruppe | Referenz | Nur laden bei |
+| --- | --- | --- |
+| Auftrag und Schnittstellen | [auftrag-und-schnittstellen.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-05-arbeitsrouter/references/auftrag-und-schnittstellen.md) | Auftrag, Leistungsbild, Honorar, Bauherr oder Fachplaner; enthält Strukturiert freigabeentscheidung, Koordiniert architekt, Grenzt hoai-grundleistung, Prüft bewertungsanteil, Prüft eingaben und 3 weitere Module |
+| Steuerung und Nachweise | [steuerung-und-nachweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-05-arbeitsrouter/references/steuerung-und-nachweise.md) | Kosten, Termine, Planung, Genehmigung, BIM, Kommunikation oder Förderung; enthält Ordnet digitale modelle, Sichert protokolle, Prüft fördermittelbedingungen, Ordnet öffentlich-rechtliche auflagen und genehmigungslasten, Formuliert klare e-mails an bauherr und 2 weitere Module |
+| Risiko und Output | [risiko-und-output.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-05-arbeitsrouter/references/risiko-und-output.md) | Mangel, Nachtrag, Haftung, Abnahme, Rechnung, Streit, Qualität oder Bericht; enthält Ordnet abnahme, Erstellt anwaltliches kurzmemorandum zum lph-stand, Identifiziert typische haftungsrisiken und beweisvorsorge, Erstellt verständlichen statusbericht mit ampel und nächstem schritt, Sichert spätere mängel und 9 weitere Module |
 
-- HOAI-Text, insbesondere § 34 und Anlage 10, live gegen Gesetze im Internet prüfen.
-- BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
+## 3. Arbeitsprodukt
 
-## Fachbezogene Rechtsgrundlagen
+Liefere je nach Auftrag einen Prüfvermerk, eine Freigabevorlage, ein Protokoll, eine Kosten- oder Terminentscheidung, einen Nachtrags- oder Mangelbaustein beziehungsweise ein phasengerechtes Abschlussblatt mit Belegen und offenem nächsten Schritt.
 
-- Zuerst den Vertragsschluss datieren und die anwendbare HOAI-Fassung bestimmen. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen.
-- Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7 für die Honorarvereinbarung in Textform; ergänzend Paragrafen 8 bis 13 und das konkrete Leistungsbild samt Anlage prüfen.
-- Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t, Vergütung und Abschläge ergänzend nach BGB Paragrafen 631, 632 und 632a prüfen.
-- Die VOB/B gilt nicht automatisch für Planungsleistungen. Sie nur einbeziehen, wenn sie wirksam vereinbart und für eine konkrete Bauleistung oder Schnittstelle tatsächlich einschlägig ist.
+## 4. Geschwindigkeitsregel
 
-## Rechtsprechung für den Altvertragsstreit
+Nicht den gesamten Referenzbestand lesen. Sobald Norm, Beleg, Gegenposition und gewünschter Output tragfähig feststehen, schreiben; weitere Vertiefungen nur für eine konkret benannte Lücke öffnen.
 
-- EuGH, Urteil vom 4. Juli 2019, C-377/17: Die verbindlichen Mindest- und Höchstsätze der damaligen HOAI verstießen gegen die Dienstleistungsrichtlinie. Den Anker nur für den unionsrechtlichen Ausgangspunkt verwenden; daraus folgt noch nicht ohne Weiteres, wie ein Rechtsstreit zwischen Privatpersonen zu entscheiden ist.
-- BGH, Urteil vom 2. Juni 2022, VII ZR 174/19: In einem Rechtsstreit zwischen Privatpersonen gebietet das Unionsrecht nicht, Paragraf 7 HOAI 2013 unangewendet zu lassen. Vor jeder Schlussfolgerung deshalb Vertragsdatum, Parteien, vereinbarte Vergütung, Abrechnung und die einschlägige HOAI-Fassung feststellen.
+---
 
-## Arbeitsprodukt
+## Skill: `lph-04-arbeitsrouter`
 
-Erstelle eine Zeitleiste mit Vertragsschluss, Leistungsänderungen, Abschlägen und Schlussrechnung sowie eine Synopse aus vereinbarter Vergütung, nach der einschlägigen Fassung berechnetem Honorar, bereits gezahlten Beträgen und streitigem Saldo. Trenne dabei Anspruchsgrundlage, Einwendungen, Verjährung und prozessuale Darlegungslast.
+_Für HOAI-Leistungsphase 4 Genehmigungsplanung: routet Genehmigungsunterlagen, Anträge, Nachforderungen, Auflagen und Bescheide; lädt nur das einschlägige Fachmodul und liefert den nächsten prüffähigen Projektbaustein._
+
+# Leistungsphase 4: Genehmigungsplanung
+
+## 1. Direktstart
+
+Arbeite ausschließlich in Leistungsphase 4 (Genehmigungsplanung), solange Unterlagen und Auftrag keine belastbare Schnittstelle zu einer anderen Phase zeigen. Genehmigungsunterlagen, Anträge, Nachforderungen, Auflagen und Bescheide bilden den Einstieg.
+
+1. Vorhandene Unterlagen zuerst lesen und bereits erkennbare Angaben übernehmen.
+2. Sachthema, Zeitraum, Verfahrensstand und gewünschtes Arbeitsprodukt bestimmen.
+3. Genau eine passende Referenz aus der folgenden Tabelle laden; nur bei einer echten Schnittstelle eine zweite.
+4. Nach der Vertiefung unmittelbar das Arbeitsprodukt erstellen und nur entscheidungserhebliche Lücken nachfragen.
+
+## 2. Bedarfsgeladene Vertiefungen
+
+| Fallgruppe | Referenz | Nur laden bei |
+| --- | --- | --- |
+| Auftrag und Schnittstellen | [auftrag-und-schnittstellen.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-04-arbeitsrouter/references/auftrag-und-schnittstellen.md) | Auftrag, Leistungsbild, Honorar, Bauherr oder Fachplaner; enthält Strukturiert freigabeentscheidung, Koordiniert architekt, Grenzt hoai-grundleistung, Prüft bewertungsanteil, Prüft eingaben und 3 weitere Module |
+| Steuerung und Nachweise | [steuerung-und-nachweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-04-arbeitsrouter/references/steuerung-und-nachweise.md) | Kosten, Termine, Planung, Genehmigung, BIM, Kommunikation oder Förderung; enthält Sichert protokolle, Prüft fördermittelbedingungen, Ordnet öffentlich-rechtliche auflagen und genehmigungslasten, Formuliert klare e-mails an bauherr, Prüft kostenermittlung und 2 weitere Module |
+| Risiko und Output | [risiko-und-output.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-04-arbeitsrouter/references/risiko-und-output.md) | Mangel, Nachtrag, Haftung, Abnahme, Rechnung, Streit, Qualität oder Bericht; enthält Ordnet abnahme, Erstellt anwaltliches kurzmemorandum zum lph-stand, Erstellt verständlichen statusbericht mit ampel und nächstem schritt, Sichert spätere mängel, Erkennt planungsänderung und 7 weitere Module |
+
+## 3. Arbeitsprodukt
+
+Liefere je nach Auftrag einen Prüfvermerk, eine Freigabevorlage, ein Protokoll, eine Kosten- oder Terminentscheidung, einen Nachtrags- oder Mangelbaustein beziehungsweise ein phasengerechtes Abschlussblatt mit Belegen und offenem nächsten Schritt.
+
+## 4. Geschwindigkeitsregel
+
+Nicht den gesamten Referenzbestand lesen. Sobald Norm, Beleg, Gegenposition und gewünschter Output tragfähig feststehen, schreiben; weitere Vertiefungen nur für eine konkret benannte Lücke öffnen.
 
 ---
 

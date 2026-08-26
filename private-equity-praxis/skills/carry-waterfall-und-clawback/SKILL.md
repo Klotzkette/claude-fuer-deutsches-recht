@@ -1,6 +1,6 @@
 ---
 name: carry-waterfall-und-clawback
-description: "Wenn es um Carry, Waterfall und Clawback in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Carry, Waterfall und Clawback: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Carry, Waterfall und Clawback

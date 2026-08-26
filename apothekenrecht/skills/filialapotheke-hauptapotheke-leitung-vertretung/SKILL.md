@@ -1,6 +1,6 @@
 ---
 name: filialapotheke-hauptapotheke-leitung-vertretung
-description: "Wenn es um Filialapotheke Hauptapotheke Leitung Vertretung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Filialapotheke Hauptapotheke Leitung Vertretung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Filialapotheke Hauptapotheke Leitung Vertretung

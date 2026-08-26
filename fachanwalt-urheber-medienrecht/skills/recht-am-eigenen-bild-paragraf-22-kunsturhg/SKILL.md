@@ -1,6 +1,6 @@
 ---
 name: recht-am-eigenen-bild-paragraf-22-kunsturhg
-description: "Wenn es um Recht am Eigenen Bild Paragraf 22 KunstUrhG in Fachanwalt Urheber Medienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Recht am Eigenen Bild Paragraf 22 KunstUrhG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Recht am Eigenen Bild § 22 KunstUrhG

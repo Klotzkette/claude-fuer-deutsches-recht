@@ -1,6 +1,6 @@
 ---
 name: urheberrechts-versand-interessen-streitwert
-description: "Wenn es um Spezial: Urheberrecht – Zahlen, Schwellen und Berechnung in Plugin: Gewerblicher Rechtsschutz geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Spezial: Urheberrecht – Zahlen, Schwellen und Berechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezial: Urheberrecht – Zahlen, Schwellen und Berechnung

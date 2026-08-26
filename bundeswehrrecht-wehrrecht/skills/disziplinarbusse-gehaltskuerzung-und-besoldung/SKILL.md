@@ -1,6 +1,6 @@
 ---
 name: disziplinarbusse-gehaltskuerzung-und-besoldung
-description: "Wenn es um Disziplinarbuße, Gehaltskürzung und Besoldung in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Disziplinarbuße, Gehaltskürzung und Besoldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Disziplinarbuße, Gehaltskürzung und Besoldung

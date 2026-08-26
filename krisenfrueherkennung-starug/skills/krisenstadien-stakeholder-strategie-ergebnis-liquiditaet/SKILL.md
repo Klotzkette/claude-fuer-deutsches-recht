@@ -1,6 +1,6 @@
 ---
 name: krisenstadien-stakeholder-strategie-ergebnis-liquiditaet
-description: "Wenn es um Krisenstadien-Diagnostik — IDW S 6 Stadienlehre in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krisenstadien-Diagnostik — IDW S 6 Stadienlehre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Krisenstadien-Diagnostik — IDW S 6 Stadienlehre

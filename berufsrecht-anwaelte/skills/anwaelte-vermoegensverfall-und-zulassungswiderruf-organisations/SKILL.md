@@ -1,6 +1,6 @@
 ---
 name: anwaelte-vermoegensverfall-und-zulassungswiderruf-organisations
-description: "Wenn es um Anwaelte Vermoegensverfall Und Zulassungswiderruf Organisations in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anwälte Vermögensverfall und Zulassungswiderruf Organisations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: vermoegensverfall und zulassungswiderruf - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

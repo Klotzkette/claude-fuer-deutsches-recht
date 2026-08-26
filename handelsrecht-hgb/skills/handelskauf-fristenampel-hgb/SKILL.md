@@ -1,6 +1,6 @@
 ---
 name: handelskauf-fristenampel-hgb
-description: "Wenn es um Handelskauf-Fristenampel in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelskauf-Fristenampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Handelskauf-Fristenampel

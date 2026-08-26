@@ -1,6 +1,6 @@
 ---
 name: regr-mifid2-regrecht-einfuehrung-internal
-description: "Wenn es um RegR: MiFID II MAR in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für RegR: MiFID II MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # RegR: MiFID II MAR

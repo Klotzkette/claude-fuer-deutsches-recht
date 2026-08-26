@@ -1,6 +1,6 @@
 ---
 name: insolvenzrecht-liqui-sonderfall
-description: "Wenn es um Insolvenzrecht Liqui Sonderfall in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenzrecht Liqui Sonderfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenzrecht Liqui Sonderfall

@@ -1,6 +1,6 @@
 ---
 name: regulatorisches-internationaler-bezug-und-schnittstellen
-description: "Wenn es um Regulatorisches: Internationaler Bezug und Schnittstellen in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Regulatorisches: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Regulatorisches: Internationaler Bezug und Schnittstellen

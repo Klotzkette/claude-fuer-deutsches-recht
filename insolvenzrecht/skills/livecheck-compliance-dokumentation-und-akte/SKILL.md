@@ -1,6 +1,6 @@
 ---
 name: livecheck-compliance-dokumentation-und-akte
-description: "Wenn es um Livecheck: Compliance-Dokumentation und Aktenvermerk in Insolvenzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Livecheck: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Livecheck: Compliance-Dokumentation und Aktenvermerk

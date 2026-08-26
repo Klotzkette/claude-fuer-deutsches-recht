@@ -1,6 +1,6 @@
 ---
 name: benennt-compliance-dokumentation-und-akte
-description: "Wenn es um Benennt: Compliance-Dokumentation und Aktenvermerk in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Benennt: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: benennt-compliance-dokumentation-und-akte."
 ---
 
 # Benennt: Compliance-Dokumentation und Aktenvermerk

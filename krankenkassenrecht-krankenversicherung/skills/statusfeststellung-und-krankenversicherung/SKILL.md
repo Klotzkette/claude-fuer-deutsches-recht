@@ -1,6 +1,6 @@
 ---
 name: statusfeststellung-und-krankenversicherung
-description: "Prüft Beschäftigung oder Selbstständigkeit nach den Paragrafen 7 und 7a SGB IV und leitet daraus Krankenversicherungs- und Beitragsfolgen ab. Liefert Tätigkeitsmatrix, Verfahrensstrategie, Beitragszeitraum, Widerspruchskern und einen belastbaren Nachweisplan."
+description: "Prüft Beschäftigung oder Selbstständigkeit nach den Paragrafen 7 und 7a SGB IV und leitet daraus Krankenversicherungs- und Beitragsfolgen ab."
 ---
 
 # 1. Erwerbsstatus und Krankenversicherung

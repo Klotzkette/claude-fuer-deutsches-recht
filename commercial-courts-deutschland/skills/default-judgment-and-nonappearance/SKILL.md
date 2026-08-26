@@ -1,6 +1,6 @@
 ---
 name: default-judgment-and-nonappearance
-description: "Wenn es um Default and Nonappearance in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Default and Nonappearance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Default and Nonappearance

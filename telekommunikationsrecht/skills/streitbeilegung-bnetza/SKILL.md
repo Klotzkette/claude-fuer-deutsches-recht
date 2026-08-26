@@ -1,6 +1,6 @@
 ---
 name: streitbeilegung-bnetza
-description: "Wenn es um BNetzA-Streitbeilegung zwischen Unternehmen in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BNetzA-Streitbeilegung zwischen Unternehmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BNetzA-Streitbeilegung zwischen Unternehmen

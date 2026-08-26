@@ -1,6 +1,6 @@
 ---
 name: leistungsbeschreibung-neutralitaet-funktional
-description: "Wenn es um Leistungsbeschreibung Neutralitaet Funktional in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Leistungsbeschreibung Neutralität Funktional: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Leistungsbeschreibung produktneutral, funktional oder konstruktiv erstellen und angreifen: Mindestanforderungen, Gleichwertigkeit, Leitfabrikate, Alleinstellungsmerkmale und Dokumentation.

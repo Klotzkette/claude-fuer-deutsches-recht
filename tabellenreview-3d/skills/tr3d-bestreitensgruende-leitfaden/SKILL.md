@@ -1,6 +1,6 @@
 ---
 name: tr3d-bestreitensgruende-leitfaden
-description: "Wenn es um TR3D: Bestreitensgruende in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für TR3D: Bestreitensgründe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TR3D: Bestreitensgruende

@@ -1,6 +1,6 @@
 ---
 name: partner-austritt-client-transition
-description: "Wenn es um Partneraustritt und Mandantenübergabe in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Partneraustritt und Mandantenübergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Partneraustritt und Mandantenübergabe

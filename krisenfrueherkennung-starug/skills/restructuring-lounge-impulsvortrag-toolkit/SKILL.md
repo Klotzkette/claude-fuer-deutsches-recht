@@ -1,6 +1,6 @@
 ---
 name: restructuring-lounge-impulsvortrag-toolkit
-description: "Wenn es um Impulsvortrag-Toolkit — StaRUG und Krisenfrüherkennung in Krisenfrüherkennung und StaRUG-Management geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Impulsvortrag-Toolkit — StaRUG und Krisenfrüherkennung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Impulsvortrag-Toolkit — StaRUG und Krisenfrüherkennung

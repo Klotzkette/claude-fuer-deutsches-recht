@@ -1,6 +1,6 @@
 ---
 name: strassenverkehr-verjaehrung-berechnen
-description: "Wenn es um Strassenverkehr Verjährung Berechnen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenverkehr Verjährung Berechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Ordnungswidrigkeitenrecht. Route: strassenverkehr-verjaehrung-berechnen."
 ---
 
 # Strassenverkehr Verjährung Berechnen

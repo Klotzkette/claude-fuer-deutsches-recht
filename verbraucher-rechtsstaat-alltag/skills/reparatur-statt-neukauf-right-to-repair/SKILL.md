@@ -1,6 +1,6 @@
 ---
 name: reparatur-statt-neukauf-right-to-repair
-description: "Wenn es um Reparatur statt Neukauf und Right to Repair in Verbraucher im Rechtsstaat Alltag geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Reparatur statt Neukauf und Right to Repair: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Reparatur statt Neukauf und Right to Repair

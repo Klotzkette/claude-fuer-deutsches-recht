@@ -1,6 +1,6 @@
 ---
 name: bereicherungsrecht-entreicherung-und-saldotheorie
-description: "Wenn es um Bereicherungsrecht: Entreicherung und Saldotheorie in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bereicherungsrecht Entreicherung Und Saldotheorie; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Bereicherungsrecht: Entreicherung und Saldotheorie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: bereicherungsrecht-entreicherung-und-saldotheorie."
 ---
 
 # Bereicherungsrecht: Entreicherung und Saldotheorie

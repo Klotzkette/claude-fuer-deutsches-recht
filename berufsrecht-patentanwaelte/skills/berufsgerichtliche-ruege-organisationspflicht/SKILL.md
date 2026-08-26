@@ -1,6 +1,6 @@
 ---
 name: berufsgerichtliche-ruege-organisationspflicht
-description: "Wenn es um Berufsgerichtliche Ruege Organisationspflicht in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berufsgerichtliche Rüge Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: berufsgerichtliche ruege - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

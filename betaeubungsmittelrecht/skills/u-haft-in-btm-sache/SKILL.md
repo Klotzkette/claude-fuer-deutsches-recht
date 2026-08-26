@@ -1,6 +1,6 @@
 ---
 name: u-haft-in-btm-sache
-description: "Wenn es um U Haft In Btm Sache in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für U Haft in Btm Sache: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # U Haft In Btm Sache

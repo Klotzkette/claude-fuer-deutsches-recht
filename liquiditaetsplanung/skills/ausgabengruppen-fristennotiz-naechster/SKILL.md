@@ -1,6 +1,6 @@
 ---
 name: ausgabengruppen-fristennotiz-naechster
-description: "Wenn es um Ausgabengruppen: Fristennotiz und nächster Schritt in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausgabengruppen: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Ausgabengruppen: Fristennotiz und nächster Schritt

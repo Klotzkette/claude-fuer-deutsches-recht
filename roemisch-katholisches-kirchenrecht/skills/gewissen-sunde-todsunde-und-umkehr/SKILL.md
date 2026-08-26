@@ -1,6 +1,6 @@
 ---
 name: gewissen-sunde-todsunde-und-umkehr
-description: "Wenn es um Gewissen, Sünde, Todsünde und Umkehr in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gewissen, Sünde, Todsünde und Umkehr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gewissen, Sünde, Todsünde und Umkehr

@@ -1,6 +1,6 @@
 ---
 name: festpreis-change-request
-description: "Wenn es um Festpreis und Change Request in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Festpreis und Change Request: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Festpreis und Change Request

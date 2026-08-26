@@ -1,6 +1,6 @@
 ---
 name: output-zweisprachig-bilingual-deutsch-englisch
-description: "Wenn es um Output: Zweisprachiger Lizenzvertrag DE/EN in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Output: Zweisprachiger Lizenzvertrag DE/EN: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Output: Zweisprachiger Lizenzvertrag DE/EN

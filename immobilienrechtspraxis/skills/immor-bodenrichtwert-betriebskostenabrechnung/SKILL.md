@@ -1,6 +1,6 @@
 ---
 name: immor-bodenrichtwert-betriebskostenabrechnung
-description: "Wenn es um ImmoR: Bodenrichtwert-Bewertung in Immobilienrechtspraxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für ImmoR: Bodenrichtwert-Bewertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ImmoR: Bodenrichtwert-Bewertung

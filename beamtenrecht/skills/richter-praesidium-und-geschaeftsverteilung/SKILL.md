@@ -1,6 +1,6 @@
 ---
 name: richter-praesidium-und-geschaeftsverteilung
-description: "Wenn es um Richter Praesidium Und Geschäftsverteilung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Richter Präsidium und Geschäftsverteilung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Richter Praesidium Und Geschäftsverteilung

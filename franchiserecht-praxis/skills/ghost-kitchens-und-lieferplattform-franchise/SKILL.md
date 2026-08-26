@@ -1,6 +1,6 @@
 ---
 name: ghost-kitchens-und-lieferplattform-franchise
-description: "Wenn es um Franchise: Ghost Kitchens und Lieferplattform-Franchise in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Franchise: Ghost Kitchens und Lieferplattform-Franchise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise: Ghost Kitchens und Lieferplattform-Franchise

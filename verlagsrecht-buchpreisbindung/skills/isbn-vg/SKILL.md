@@ -1,6 +1,6 @@
 ---
 name: isbn-vg
-description: "Wenn es um Verl-016 · ISBN, Metadaten, VLB und Meldeprozesse in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-016 · ISBN, Metadaten, VLB und Meldeprozesse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-016 · ISBN, Metadaten, VLB und Meldeprozesse

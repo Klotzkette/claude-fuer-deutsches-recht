@@ -1,6 +1,6 @@
 ---
 name: fachbezeichnung-fortbildung-geldwaesche-kyc
-description: "Wenn es um Fachbezeichnung in Berufsrecht Steuerberater geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Fachbezeichnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Steuerberater."
 ---
 
 # Fachbezeichnung

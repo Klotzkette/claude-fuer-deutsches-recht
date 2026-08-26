@@ -1,6 +1,6 @@
 ---
 name: veterinaeramt-bussgeldverfahren-tierschg
-description: "Wenn es um Veterinaeramt Zuständigkeit in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Veterinäramt Zuständigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Veterinaeramt Zuständigkeit

@@ -1,6 +1,6 @@
 ---
 name: saeumnis-im-termin-330-zpo
-description: "Wenn es um Saeumnis im Termin: Konsequenzen und was Sie tun können in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Säumnis im Termin: Konsequenzen und was Sie tun können: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Saeumnis im Termin: Konsequenzen und was Sie tun können

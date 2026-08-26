@@ -1,6 +1,6 @@
 ---
 name: minority-shareholdings-competition
-description: "Wenn es um Minderheitsbeteiligungen und Competition in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Minderheitsbeteiligungen und Competition: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Minderheitsbeteiligungen und Competition

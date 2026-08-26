@@ -1,6 +1,6 @@
 ---
 name: tempozone-und-beschilderung
-description: "Wenn es um Tempozone Und Beschilderung in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tempozone und Beschilderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tempozone Und Beschilderung

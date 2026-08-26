@@ -1,6 +1,6 @@
 ---
 name: zugang-neu-006-kuendigung-per-bea-e-mail-fax-schriftformfallen
-description: "Wenn es um Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen in Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen

@@ -1,6 +1,6 @@
 ---
 name: 009-samnitische-rechtskultur
-description: "Wenn es um Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung

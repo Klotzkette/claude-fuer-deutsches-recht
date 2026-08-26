@@ -1,6 +1,6 @@
 ---
 name: presse-und-kampagnenrisiko
-description: "Wenn es um Presse Und Kampagnenrisiko in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Presse und Kampagnenrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Presse Und Kampagnenrisiko

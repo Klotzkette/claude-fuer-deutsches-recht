@@ -1,6 +1,6 @@
 ---
 name: untermassverbot-schutzpflicht-dimension
-description: "Wenn es um Untermassverbot: die andere Seite der Schranken-Schranke in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Untermassverbot: die andere Seite der Schranken-Schranke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Untermassverbot: die andere Seite der Schranken-Schranke

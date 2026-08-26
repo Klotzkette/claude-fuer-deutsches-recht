@@ -1,6 +1,6 @@
 ---
 name: oesterreich-geheimhaltung-offenlegung-pitch
-description: "Wenn es um Oesterreich Geheimhaltung in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Österreich Geheimhaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Oesterreich Geheimhaltung

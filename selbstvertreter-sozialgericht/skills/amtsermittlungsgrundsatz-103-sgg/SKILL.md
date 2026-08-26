@@ -1,6 +1,6 @@
 ---
 name: amtsermittlungsgrundsatz-103-sgg
-description: "Wenn es um Das Gericht ermittelt für Sie — Paragraf 103 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Das Gericht ermittelt für Sie — Paragraf 103 SGG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Das Gericht ermittelt für Sie — § 103 SGG

@@ -1,6 +1,6 @@
 ---
 name: kfz-kasko-grobe-fahrlaessigkeit-entwendung
-description: "Wenn es um Kfz-Kasko: Entwendung, Unfall, grobe Fahrlässigkeit in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kfz-Kasko: Entwendung, Unfall, grobe Fahrlässigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kfz-Kasko: Entwendung, Unfall, grobe Fahrlässigkeit

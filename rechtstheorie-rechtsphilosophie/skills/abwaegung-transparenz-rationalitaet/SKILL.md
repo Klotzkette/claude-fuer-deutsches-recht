@@ -1,6 +1,6 @@
 ---
 name: abwaegung-transparenz-rationalitaet
-description: "Wenn es um Abwägung und Rationalität in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abwägung und Rationalität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abwägung und Rationalität

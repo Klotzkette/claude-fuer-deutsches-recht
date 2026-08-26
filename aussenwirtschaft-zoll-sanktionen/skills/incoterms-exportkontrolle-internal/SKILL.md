@@ -1,6 +1,6 @@
 ---
 name: incoterms-exportkontrolle-internal
-description: "Wenn es um Incoterms und Exportkontrolle: Verantwortung und Haftungsluecken in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Incoterms und Exportkontrolle: Verantwortung und Haftungslücken: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Incoterms und Exportkontrolle: Verantwortung und Haftungsluecken

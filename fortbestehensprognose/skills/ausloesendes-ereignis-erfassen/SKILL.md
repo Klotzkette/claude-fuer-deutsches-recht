@@ -1,6 +1,6 @@
 ---
 name: ausloesendes-ereignis-erfassen
-description: "Wenn es um Auslösendes Ereignis erfassen in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auslösendes Ereignis erfassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auslösendes Ereignis erfassen

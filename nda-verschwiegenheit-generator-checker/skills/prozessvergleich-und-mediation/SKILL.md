@@ -1,6 +1,6 @@
 ---
 name: prozessvergleich-und-mediation
-description: "Wenn es um Prozessvergleich Und Mediation in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Prozessvergleich und Mediation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Prozessvergleich Und Mediation

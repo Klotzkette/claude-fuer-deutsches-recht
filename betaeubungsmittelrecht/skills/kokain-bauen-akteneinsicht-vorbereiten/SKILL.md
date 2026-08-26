@@ -1,6 +1,6 @@
 ---
 name: kokain-bauen-akteneinsicht-vorbereiten
-description: "Wenn es um Kokain Compliance Bauen in Betäubungsmittelrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Kokain Compliance Bauen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kokain Compliance Bauen

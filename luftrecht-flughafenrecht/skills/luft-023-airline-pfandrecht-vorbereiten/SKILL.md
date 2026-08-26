@@ -1,6 +1,6 @@
 ---
 name: luft-023-airline-pfandrecht-vorbereiten
-description: "Wenn es um Airline Pfandrecht Vorbereiten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Airline Pfandrecht Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Airline Pfandrecht Vorbereiten

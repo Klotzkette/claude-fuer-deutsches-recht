@@ -1,6 +1,6 @@
 ---
 name: anlagen-zur-substantiierung-pflicht
-description: "Wenn es um Anlagen vs. Substantiierungspflicht in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Anlagen vs. Substantiierungspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Anlagen vs. Substantiierungspflicht

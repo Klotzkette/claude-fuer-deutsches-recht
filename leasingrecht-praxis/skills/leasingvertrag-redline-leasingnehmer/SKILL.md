@@ -1,6 +1,6 @@
 ---
 name: leasingvertrag-redline-leasingnehmer
-description: "Wenn es um Leasingvertrag-Redline: Anbieterperspektive (Leasinggeber) in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Leasingvertrag-Redline: Anbieterperspektive (Leasinggeber): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingvertrag-Redline: Anbieterperspektive (Leasinggeber)

@@ -1,6 +1,6 @@
 ---
 name: see-118-charterparty-closing-planen
-description: "Wenn es um Charterparty Closing Planen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Charterparty Closing Planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Charterparty Closing Planen

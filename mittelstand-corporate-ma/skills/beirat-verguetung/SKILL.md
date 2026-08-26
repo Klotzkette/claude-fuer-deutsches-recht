@@ -1,6 +1,6 @@
 ---
 name: beirat-verguetung
-description: "Wenn es um Beirat: Vergütung, Auslagen, D&O Und Interessenkonflikte in Mittelstands-Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Beirat: Vergütung, Auslagen, D&O und Interessenkonflikte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beirat: Vergütung, Auslagen, D&O Und Interessenkonflikte

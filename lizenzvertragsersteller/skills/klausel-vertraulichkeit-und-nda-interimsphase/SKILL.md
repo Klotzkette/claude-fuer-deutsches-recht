@@ -1,6 +1,6 @@
 ---
 name: klausel-vertraulichkeit-und-nda-interimsphase
-description: "Wenn es um Klausel Vertraulichkeit + NDA-Interimsphase in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Klausel Vertraulichkeit + NDA-Interimsphase: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klausel Vertraulichkeit + NDA-Interimsphase

@@ -1,6 +1,6 @@
 ---
 name: annaeherung-quellenkarte
-description: "Wenn es um Annaeherung Quellenkarte in Einfache und Leichte Sprache für juristische Texte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Annäherung Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Annaeherung Quellenkarte

@@ -1,6 +1,6 @@
 ---
 name: negative-campaigning-grenzen
-description: "Wenn es um Negative Campaigning Grenzen in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Negative Campaigning Grenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Negative Campaigning Grenzen

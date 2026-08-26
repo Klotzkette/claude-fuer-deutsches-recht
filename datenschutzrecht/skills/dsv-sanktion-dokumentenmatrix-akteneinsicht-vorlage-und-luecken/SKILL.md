@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-dokumentenmatrix-akteneinsicht-vorlage-und-luecken
-description: "Wenn es um Dsv Sanktion Dokumentenmatrix Akteneinsicht Vorlage Und Lücken in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Dsv Sanktion Dokumentenmatrix Akteneinsicht Vorlage und Lücken: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Datenschutzrecht-Brückenskill: Dokumentenmatrix vor Akteneinsicht: VVT, DSFA, TOM, AVV, Löschkonzept, Incident-Timeline, DSB-Vermerke, Schulungen und Logs einsammeln

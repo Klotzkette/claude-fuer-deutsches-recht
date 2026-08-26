@@ -1,6 +1,6 @@
 ---
 name: technology-transfer-risk
-description: "Wenn es um Technologietransfer China: Risiken und Schutzmaßnahmen in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Technologietransfer China: Risiken und Schutzmaßnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Technologietransfer China: Risiken und Schutzmaßnahmen

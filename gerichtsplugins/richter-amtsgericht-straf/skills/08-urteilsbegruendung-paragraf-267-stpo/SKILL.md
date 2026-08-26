@@ -1,6 +1,6 @@
 ---
 name: 08-urteilsbegruendung-paragraf-267-stpo
-description: "Wenn es um 08 Urteilsbegründung Paragraf 267 Stpo in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 08 Urteilsbegründung Paragraf 267 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 08 Urteilsbegründung Paragraf 267 Stpo

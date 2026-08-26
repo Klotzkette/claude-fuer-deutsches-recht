@@ -1,6 +1,6 @@
 ---
 name: parallelverfahren-art-82-massenklagen
-description: "Wenn es um Parallelverfahren Art. 82 DSGVO und Massenklagen in Datenschutz-Sanktionsverfahren und Verteidigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Parallelverfahren Art. 82 DSGVO und Massenklagen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Parallelverfahren Art. 82 DSGVO und Massenklagen

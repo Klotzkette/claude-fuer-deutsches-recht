@@ -1,6 +1,6 @@
 ---
 name: verhaeltnismaessigkeit-aufsichtsmassnahme
-description: "Wenn es um Verhältnismäßigkeit der Aufsichtsmaßnahme in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verhältnismäßigkeit der Aufsichtsmaßnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verhältnismäßigkeit der Aufsichtsmaßnahme

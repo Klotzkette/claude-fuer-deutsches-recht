@@ -1,6 +1,6 @@
 ---
 name: ust-vorsteuerabzug-15-ustg
-description: "Wenn es um Vorsteuerabzug — Paragraf 15 UStG materielle und formelle Voraussetzungen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorsteuerabzug — Paragraf 15 UStG materielle und formelle Voraussetzungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vorsteuerabzug — § 15 UStG materielle und formelle Voraussetzungen

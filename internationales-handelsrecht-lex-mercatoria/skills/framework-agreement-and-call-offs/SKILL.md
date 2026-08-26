@@ -1,6 +1,6 @@
 ---
 name: framework-agreement-and-call-offs
-description: "Wenn es um Rahmenvertrag und Abrufaufträge in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rahmenvertrag und Abrufaufträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rahmenvertrag und Abrufaufträge

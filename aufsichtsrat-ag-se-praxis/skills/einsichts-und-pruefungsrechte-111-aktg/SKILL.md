@@ -1,6 +1,6 @@
 ---
 name: einsichts-und-pruefungsrechte-111-aktg
-description: "Wenn es um Einsichts Und Prüfungsrechte 111 Aktg in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Einsichts und Prüfungsrechte 111 Aktg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Einsichts Und Prüfungsrechte 111 Aktg

@@ -1,6 +1,6 @@
 ---
 name: erschwerniszulage-vollzugsdienst
-description: "Wenn es um Erschwerniszulage Vollzugsdienst und Sonderdienste in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erschwerniszulage Vollzugsdienst und Sonderdienste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erschwerniszulage Vollzugsdienst und Sonderdienste

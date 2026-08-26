@@ -1,6 +1,6 @@
 ---
 name: kennzahlenset-und-ampelsystem-starug-konform
-description: "Wenn es um Kennzahlenset und Ampelsystem — StaRUG-konform in Krisenfrüherkennung und StaRUG-Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Kennzahlenset und Ampelsystem — StaRUG-konform: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Kennzahlenset und Ampelsystem — StaRUG-konform

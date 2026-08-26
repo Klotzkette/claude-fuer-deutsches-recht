@@ -1,6 +1,6 @@
 ---
 name: verdachtsvertraege-behoerden-gericht-und-registerweg
-description: "Wenn es um Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Verdachtsvertraege Behoerden Gericht Und Registerweg; Arbeitsfeld: Betreuungsrecht."
+description: "Für Verdachtsverträge: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg

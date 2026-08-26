@@ -1,6 +1,6 @@
 ---
 name: bescheid-in-einfacher-sprache
-description: "Wenn es um Bescheid In Einfacher Sprache in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bescheid in Einfacher Sprache: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bescheid In Einfacher Sprache

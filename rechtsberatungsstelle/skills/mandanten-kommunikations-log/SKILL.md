@@ -1,6 +1,6 @@
 ---
 name: mandanten-kommunikations-log
-description: "Wenn es um /mandanten-kommunikations-log in Plugin für die studentische Rechtsberatungsstelle geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für /mandanten-kommunikations-log: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /mandanten-kommunikations-log

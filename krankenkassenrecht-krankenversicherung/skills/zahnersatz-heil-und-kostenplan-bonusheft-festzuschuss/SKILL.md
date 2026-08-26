@@ -1,6 +1,6 @@
 ---
 name: zahnersatz-heil-und-kostenplan-bonusheft-festzuschuss
-description: "Wenn es um Zahnersatz: Heil- und Kostenplan, Bonusheft, Festzuschuss in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zahnersatz: Heil- und Kostenplan, Bonusheft, Festzuschuss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zahnersatz: Heil- und Kostenplan, Bonusheft, Festzuschuss

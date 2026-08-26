@@ -1,6 +1,6 @@
 ---
 name: anschluss
-description: "Wenn es um Kartellrecht-Marktabgrenzungs-Prüfer — Allgemein in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kartellrecht-Marktabgrenzungs-Prüfer — Allgemein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kartellrecht-Marktabgrenzungs-Prüfer — Allgemein

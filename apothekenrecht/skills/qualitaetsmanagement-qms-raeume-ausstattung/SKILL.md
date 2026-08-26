@@ -1,6 +1,6 @@
 ---
 name: qualitaetsmanagement-qms-raeume-ausstattung
-description: "Wenn es um Qualitätsmanagement QMS SOPs in Apothekenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätsmanagement QMS SOPs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitätsmanagement QMS SOPs

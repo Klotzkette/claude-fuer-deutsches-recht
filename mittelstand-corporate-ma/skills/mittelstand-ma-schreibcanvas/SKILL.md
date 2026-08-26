@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-schreibcanvas
-description: "Wenn es um Freistehender Corporate-Schreibcanvas in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Freistehender Corporate-Schreibcanvas: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Freistehender Corporate-Schreibcanvas

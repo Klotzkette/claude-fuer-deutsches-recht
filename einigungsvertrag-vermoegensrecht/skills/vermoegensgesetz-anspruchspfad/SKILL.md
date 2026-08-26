@@ -1,6 +1,6 @@
 ---
 name: vermoegensgesetz-anspruchspfad
-description: "Wenn es um Vermögensgesetz Anspruchspfad in Einigungsvertrag und Vermögensrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vermögensgesetz Anspruchspfad: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: vermoegensgesetz-anspruchspfad."
 ---
 
 # Vermögensgesetz Anspruchspfad

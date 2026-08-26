@@ -1,6 +1,6 @@
 ---
 name: notfallmodus-es-brennt
-description: "Wenn es um Kaltstart und Orientierung: Ordnet mahnung in Solo-Selbstständige Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart und Orientierung: Ordnet mahnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart und Orientierung: Ordnet mahnung

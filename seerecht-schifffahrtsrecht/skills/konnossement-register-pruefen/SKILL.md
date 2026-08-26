@@ -1,6 +1,6 @@
 ---
 name: konnossement-register-pruefen
-description: "Wenn es um Konnossement – Registerprüfung in See- und Schifffahrtsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Konnossement – Registerprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Konnossement – Registerprüfung

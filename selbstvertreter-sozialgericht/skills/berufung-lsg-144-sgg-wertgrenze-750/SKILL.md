@@ -1,6 +1,6 @@
 ---
 name: berufung-lsg-144-sgg-wertgrenze-750
-description: "Wenn es um Berufung zum LSG — Paragraf 144 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berufung zum LSG — Paragraf 144 SGG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berufung zum LSG — § 144 SGG

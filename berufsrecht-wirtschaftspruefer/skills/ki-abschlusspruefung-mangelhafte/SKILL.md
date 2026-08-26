@@ -1,6 +1,6 @@
 ---
 name: ki-abschlusspruefung-mangelhafte
-description: "Wenn es um Ki Abschlusspruefung Mangelhafte in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Ki Abschlussprüfung Mangelhafte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: ki in abschlusspruefung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

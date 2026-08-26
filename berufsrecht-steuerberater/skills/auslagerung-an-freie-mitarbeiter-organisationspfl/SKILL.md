@@ -1,6 +1,6 @@
 ---
 name: auslagerung-an-freie-mitarbeiter-organisationspfl
-description: "Wenn es um Auslagerung An Freie Mitarbeiter Organisationspfl in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auslagerung an Freie Mitarbeiter Organisationspfl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: auslagerung an freie mitarbeiter - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

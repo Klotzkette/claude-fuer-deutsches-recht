@@ -1,6 +1,6 @@
 ---
 name: evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung
-description: "Wenn es um Gewerblicher Rechtsschutz: Urteilsverfügung Beschlussverfügung und Zustellweg in Plugin: Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gewerblicher Rechtsschutz: Urteilsverfügung Beschlussverfügung und Zustellweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gewerblicher Rechtsschutz: Urteilsverfügung Beschlussverfügung und Zustellweg

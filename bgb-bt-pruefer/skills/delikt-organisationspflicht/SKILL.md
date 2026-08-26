@@ -1,6 +1,6 @@
 ---
 name: delikt-organisationspflicht
-description: "Wenn es um Delikt: Organisationspflicht in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Delikt Organisationspflicht; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Delikt: Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: delikt-organisationspflicht."
 ---
 
 # Delikt: Organisationspflicht

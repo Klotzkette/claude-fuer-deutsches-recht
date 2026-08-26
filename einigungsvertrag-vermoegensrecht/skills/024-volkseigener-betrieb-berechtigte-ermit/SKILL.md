@@ -1,6 +1,6 @@
 ---
 name: 024-volkseigener-betrieb-berechtigte-ermit
-description: "Wenn es um Volkseigener Betrieb Berechtigte Ermit in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Volkseigener Betrieb Berechtigte Ermit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Volkseigener Betrieb Berechtigte Ermit

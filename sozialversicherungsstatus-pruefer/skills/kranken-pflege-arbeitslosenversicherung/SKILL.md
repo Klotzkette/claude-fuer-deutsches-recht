@@ -1,6 +1,6 @@
 ---
 name: kranken-pflege-arbeitslosenversicherung
-description: "Wenn es um Kranken-, Pflege- und Arbeitslosenversicherung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kranken-, Pflege- und Arbeitslosenversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kranken-, Pflege- und Arbeitslosenversicherung

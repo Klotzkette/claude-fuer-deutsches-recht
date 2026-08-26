@@ -1,6 +1,6 @@
 ---
 name: db-042-datenbankrecht-in-agb-klauseln
-description: "Wenn es um Datenbankrecht: Datenbankrecht in AGB-Klauseln in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Datenbankrecht in AGB-Klauseln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Datenbankrecht in AGB-Klauseln

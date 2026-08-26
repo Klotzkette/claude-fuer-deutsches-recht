@@ -1,6 +1,6 @@
 ---
 name: artenschutz-naturschutz-planung
-description: "Wenn es um Artenschutz und Naturschutz in der Bauleitplanung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Artenschutz Naturschutz Planung; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
+description: "Für Artenschutz und Naturschutz in der Bauleitplanung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO. Route: artenschutz-naturschutz-planung."
 ---
 
 # Artenschutz und Naturschutz in der Bauleitplanung

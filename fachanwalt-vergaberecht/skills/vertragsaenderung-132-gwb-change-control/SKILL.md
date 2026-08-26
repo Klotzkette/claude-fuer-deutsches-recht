@@ -1,6 +1,6 @@
 ---
 name: vertragsaenderung-132-gwb-change-control
-description: "Wenn es um Vertragsaenderung 132 Gwb Change Control in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Vertragsänderung 132 GWB Change Control: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertragsaenderungen nach Paragraph 132 GWB und Change-Control prüfen: wesentliche Änderung, Schwellen, Optionen, Zusatzleistungen, Laufzeit, Preisrevision und Dokumentation.

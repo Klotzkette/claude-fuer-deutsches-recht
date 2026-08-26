@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-wasserstoffnetz-regulierung-unterlagena
-description: "Wenn es um Energie-Regulierungsakte: Wasserstoffnetz Regulierung — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: Wasserstoffnetz Regulierung — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: Wasserstoffnetz Regulierung — Unterlagenanforderung

@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 148 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Verbraucherschutzrecht Prüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss…
-2. **kaltstart-triage** — Wenn es um Verbraucherschutzrecht Prüfer - Allgemeiner Einstieg in Verbraucherschutzrecht Prüfer geht: klärt Rolle, Ziel…
-3. **verbraucherrecht-verbandsklage-musterfeststellung** — Wenn es um Verbraucherrecht Verbandsklage Musterfeststellung in Verbraucherschutzrecht Prüfer geht: erstellt den passend…
-4. **haustuergeschaeft-klagepfad-skizzieren** — Wenn es um Haustuergeschaeft Klagepfad Skizzieren in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf …
-5. **vbr-088-saas-fuer-verbraucher-klagepfad-skizzi** — Wenn es um Saas Fuer Verbraucher Klagepfad Skizzi in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf …
-6. **digitale-inhalte-klagepfad-skizzieren** — Wenn es um Digitale Inhalte Klagepfad Skizzieren in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf a…
-7. **saas-fuer-verbraucher-klagepfad-skizzi** — Wenn es um Saas Für Verbraucher Klagepfad Skizzi in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf a…
-8. **verbraucherrecht-haustuergeschaeft-schlichtung-waehlen-klagepfad** — Wenn es um Haustuergeschaeft Schlichtung Wählen in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf au…
+2. **kaltstart-triage** — Für Verbraucherschutzrecht Prüfer - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prü…
+3. **vbr-088-saas-fuer-verbraucher-klagepfad-skizzi** — Für Saas für Verbraucher Klagepfad Skizzi: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Be…
+4. **verbraucherrecht-saas-verbraucher-vergleich-behoerdenmeldung** — Für Saas für Verbraucher Vergleich Vorsch: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskal…
+5. **saas-fuer-verbraucher-klagepfad-skizzi** — Für Saas für Verbraucher Klagepfad Skizzi: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Be…
+6. **vbr-082-saas-fuer-verbraucher-widerruf-formuli** — Für Saas für Verbraucher Widerruf Formuli: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko u…
+7. **vbr-086-saas-fuer-verbraucher-beschwerde-schre** — Für Saas für Verbraucher Beschwerde Schre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko u…
+8. **vbr-087-saas-fuer-verbraucher-schlichtung-waeh** — Für Saas für Verbraucher Schlichtung Waeh: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko u…
 
 ---
 
@@ -140,7 +140,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Vertrag, Pflichtverletzun
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Verbraucherschutzrecht Prüfer - Allgemeiner Einstieg in Verbraucherschutzrecht Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Verbraucherschutzrecht Prüfer - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Verbraucherschutzrecht Prüfer - Allgemeiner Einstieg
 
@@ -212,106 +212,9 @@ Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen
 
 ---
 
-## Skill: `verbraucherrecht-verbandsklage-musterfeststellung`
-
-_Wenn es um Verbraucherrecht Verbandsklage Musterfeststellung in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Verbraucherverbandsdurchsetzung: Unterlassung, Musterfeststellung, Abhilfeklage, Sammelinteressen und Beweissicherung.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 13 BGB` — Verbraucherbegriff.
-- `§ 14 BGB` — Unternehmerbegriff.
-- `§ 312c BGB` — Fernabsatzvertrag.
-- `§ 312d BGB` — Informationspflichten.
-- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
-- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
-- `§ 434 BGB` — Sachmangel.
-- `§ 475 BGB` — Verbrauchsgüterkauf.
-- `§ 477 BGB` — Beweislastumkehr.
-- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 312 ff., 355, 357, 491 ff., UWG §§ 3, 5, 6, 7, RDG, VBVG, EU-Verbraucherrechts-RL 2011/83; UKlaG; VSBG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Verbraucherverbandsdurchsetzung: Unterlassung, Musterfeststellung, Abhilfeklage, Sammelinteressen und Beweissicherung.
-
-- **Verbraucherproblem (Verbraucherverbandsdurchsetzung: Unterlassung, Musterfeststellung, Abhilfeklage, Sammelinteressen und Beweissicherung.):** Unterlassung, Musterfeststellung, Abhilfeklage, Sammelinteressen und Beweissicherung.
-- **Beleganker:** Vertrag, Screenshot, Rechnung, Widerrufsbelehrung, AGB, Plattformseite, Zahlungsfluss und Kommunikation müssen als Anspruchsbelege geordnet werden.
-- **Normenanker:** BGB-Verbraucherrecht, EGBGB-Informationspflichten, UWG/UKlaG, DSGVO-Schnittstellen und Spezialrecht live prüfen.
-- **Arbeitsprodukt:** Verbraucher-Check, Anspruchsziel, Beweisfragen und kurzer Textbaustein ohne unnötige Selbstbelastung.
-
-## Normanker
-
-UKlaG; VDuG; ZPO; UWG. Der aktuelle Normtext, insbesondere BGB/EGBGB und Spezialrecht, ist bei frist- oder anspruchstragenden Punkten live zu prüfen.
-
-## Prüfprogramm
-
-1. Verbraucherstatus, Unternehmerseite, Vertragstyp und Zeitpunkt klären.
-2. Pflichtinformation, Einwilligung, Widerruf, Preis, Lieferung/Bereitstellung und Mangel trennen.
-3. Beweis sichern: Screenshot mit URL/Datum, Rechnung, Chat, E-Mail, Tracking, Produktfoto, Updatehistorie.
-4. Anspruchsziel wählen: Rücktritt, Minderung, Nacherfüllung, Widerruf, Unterlassung, Beschwerde, Schlichtung oder Klage.
-5. Textbaustein erstellen, der keine unnötigen Tatsachen zugibt und Fristen sauber setzt.
-
----
-
-## Skill: `haustuergeschaeft-klagepfad-skizzieren`
-
-_Wenn es um Haustuergeschaeft Klagepfad Skizzieren in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Haustuergeschaeft Klagepfad Skizzieren
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 312 ff., 355, 357, 491 ff., UWG §§ 3, 5, 6, 7, RDG, VBVG, EU-Verbraucherrechts-RL 2011/83; UKlaG; VSBG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 13 BGB` — Verbraucherbegriff.
-- `§ 14 BGB` — Unternehmerbegriff.
-- `§ 312c BGB` — Fernabsatzvertrag.
-- `§ 312d BGB` — Informationspflichten.
-- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
-- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
-- `§ 434 BGB` — Sachmangel.
-- `§ 475 BGB` — Verbrauchsgüterkauf.
-- `§ 477 BGB` — Beweislastumkehr.
-- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- BGB-Verbrauchervertragsrecht, Widerruf, digitale Produkte
-- UWG, UKlaG, VSBG, PAngV, Fernabsatz, E-Commerce
-- Produktsicherheit, Right to Repair, Gewährleistung
-- EU-Verbraucherrecht live gegen EUR-Lex/Bundesrecht prüfen
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
 ## Skill: `vbr-088-saas-fuer-verbraucher-klagepfad-skizzi`
 
-_Wenn es um Saas Fuer Verbraucher Klagepfad Skizzi in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Saas für Verbraucher Klagepfad Skizzi: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: vbr-088-saas-fuer-verbraucher-klagepfad-skizzi._
 
 # Saas Fuer Verbraucher Klagepfad Skizzi
 
@@ -376,11 +279,11 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ---
 
-## Skill: `digitale-inhalte-klagepfad-skizzieren`
+## Skill: `verbraucherrecht-saas-verbraucher-vergleich-behoerdenmeldung`
 
-_Wenn es um Digitale Inhalte Klagepfad Skizzieren in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Saas für Verbraucher Vergleich Vorsch: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: verbraucherrecht-saas-verbraucher-vergleich-behoerdenmeldung._
 
-# Digitale Inhalte Klagepfad Skizzieren
+# Saas Für Verbraucher Vergleich Vorsch
 
 ## Arbeitsweg
 
@@ -423,7 +326,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Skill: `saas-fuer-verbraucher-klagepfad-skizzi`
 
-_Wenn es um Saas Für Verbraucher Klagepfad Skizzi in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Saas für Verbraucher Klagepfad Skizzi: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: saas-fuer-verbraucher-klagepfad-skizzi._
 
 # Saas Für Verbraucher Klagepfad Skizzi
 
@@ -466,36 +369,25 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `verbraucherrecht-haustuergeschaeft-schlichtung-waehlen-klagepfad`
+## Skill: `vbr-082-saas-fuer-verbraucher-widerruf-formuli`
 
-_Wenn es um Haustuergeschaeft Schlichtung Wählen in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Saas für Verbraucher Widerruf Formuli: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: vbr-082-saas-fuer-verbraucher-widerruf-formuli._
 
-# Haustuergeschaeft Schlichtung Wählen
+# Saas Fuer Verbraucher Widerruf Formuli
 
-## Arbeitsweg
+## Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 312 ff., 355, 357, 491 ff., UWG §§ 3, 5, 6, 7, RDG, VBVG, EU-Verbraucherrechts-RL 2011/83; UKlaG; VSBG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Saas Fuer Verbraucher Widerruf Formuli wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Verbraucherschutzrecht allgemein: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
-## Normenanker
+## Einstieg ohne Leerlauf
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-- `§ 13 BGB` — Verbraucherbegriff.
-- `§ 14 BGB` — Unternehmerbegriff.
-- `§ 312c BGB` — Fernabsatzvertrag.
-- `§ 312d BGB` — Informationspflichten.
-- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
-- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
-- `§ 434 BGB` — Sachmangel.
-- `§ 475 BGB` — Verbrauchsgüterkauf.
-- `§ 477 BGB` — Beweislastumkehr.
-- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
+## Norm- und Quellenanker
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - BGB-Verbrauchervertragsrecht, Widerruf, digitale Produkte
 - UWG, UKlaG, VSBG, PAngV, Fernabsatz, E-Commerce
 - Produktsicherheit, Right to Repair, Gewährleistung
@@ -508,6 +400,157 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Verbraucherrechte-Ampel
+- Anspruchs- und Fristenmatrix
+- Anschreiben an Unternehmer/Plattform
+- Beweis- und Screenshotplan
+
+## Red-Team-Fragen
+
+- B2C/B2B-Rolle unklar
+- Widerrufsfrist/Beweislast falsch gerechnet
+- Plattform- und Händlerrolle vermischt
+- AGB-Kontrolle ohne Einbeziehungskontrolle
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+---
+
+## Skill: `vbr-086-saas-fuer-verbraucher-beschwerde-schre`
+
+_Für Saas für Verbraucher Beschwerde Schre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: vbr-086-saas-fuer-verbraucher-beschwerde-schre._
+
+# Saas Fuer Verbraucher Beschwerde Schre
+
+## Arbeitsauftrag
+
+Saas Fuer Verbraucher Beschwerde Schre wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Verbraucherschutzrecht allgemein: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- BGB-Verbrauchervertragsrecht, Widerruf, digitale Produkte
+- UWG, UKlaG, VSBG, PAngV, Fernabsatz, E-Commerce
+- Produktsicherheit, Right to Repair, Gewährleistung
+- EU-Verbraucherrecht live gegen EUR-Lex/Bundesrecht prüfen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Verbraucherrechte-Ampel
+- Anspruchs- und Fristenmatrix
+- Anschreiben an Unternehmer/Plattform
+- Beweis- und Screenshotplan
+
+## Red-Team-Fragen
+
+- B2C/B2B-Rolle unklar
+- Widerrufsfrist/Beweislast falsch gerechnet
+- Plattform- und Händlerrolle vermischt
+- AGB-Kontrolle ohne Einbeziehungskontrolle
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+---
+
+## Skill: `vbr-087-saas-fuer-verbraucher-schlichtung-waeh`
+
+_Für Saas für Verbraucher Schlichtung Waeh: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: vbr-087-saas-fuer-verbraucher-schlichtung-waeh._
+
+# Saas Fuer Verbraucher Schlichtung Waeh
+
+## Arbeitsauftrag
+
+Saas Fuer Verbraucher Schlichtung Waeh wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Verbraucherschutzrecht allgemein: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- BGB-Verbrauchervertragsrecht, Widerruf, digitale Produkte
+- UWG, UKlaG, VSBG, PAngV, Fernabsatz, E-Commerce
+- Produktsicherheit, Right to Repair, Gewährleistung
+- EU-Verbraucherrecht live gegen EUR-Lex/Bundesrecht prüfen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Verbraucherrechte-Ampel
+- Anspruchs- und Fristenmatrix
+- Anschreiben an Unternehmer/Plattform
+- Beweis- und Screenshotplan
+
+## Red-Team-Fragen
+
+- B2C/B2B-Rolle unklar
+- Widerrufsfrist/Beweislast falsch gerechnet
+- Plattform- und Händlerrolle vermischt
+- AGB-Kontrolle ohne Einbeziehungskontrolle
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
 
 ---
 

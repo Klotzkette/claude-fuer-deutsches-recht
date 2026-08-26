@@ -1,6 +1,6 @@
 ---
 name: paragraf-309-nr-12-bgb-tatsachenbestaetigung
-description: "Wenn es um Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast

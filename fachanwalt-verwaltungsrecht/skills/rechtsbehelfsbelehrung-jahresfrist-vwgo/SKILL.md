@@ -1,6 +1,6 @@
 ---
 name: rechtsbehelfsbelehrung-jahresfrist-vwgo
-description: "Prüft Rechtsbehelfsbelehrung, Bekanntgabe und Frist im Verwaltungsprozess. Trennt Pflichtinhalt, unschädliche Zusätze, irreführende Formangaben, Monats- und Jahresfrist sowie Wiedereinsetzung und liefert Fristenberechnung, Zulässigkeitsvermerk und sofort einreichbaren Rechtsbehelf."
+description: "Für Rechtsbehelfsbelehrung und Jahresfrist prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Rechtsbehelfsbelehrung und Jahresfrist prüfen

@@ -1,6 +1,6 @@
 ---
 name: see-056-yachtkauf-versicherung-melden
-description: "Wenn es um Yachtkauf Versicherung Melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Yachtkauf Versicherung Melden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Yachtkauf Versicherung Melden

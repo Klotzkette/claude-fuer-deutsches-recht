@@ -1,6 +1,6 @@
 ---
 name: eingangskorb-heftplanung-interessen
-description: "Wenn es um Eingangskorb: Risikoampel, Gegenargumente und Verteidigungslinien in Verlagsredaktion geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eingangskorb: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eingangskorb: Risikoampel, Gegenargumente und Verteidigungslinien

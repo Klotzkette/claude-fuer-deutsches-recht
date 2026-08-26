@@ -1,6 +1,6 @@
 ---
 name: haftungscap-summe
-description: "Wenn es um Haftungscap Summe in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftungscap Summe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haftungscap Summe

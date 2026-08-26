@@ -1,6 +1,6 @@
 ---
 name: rechtsnormen-einfach
-description: "Wenn es um ELS-J: Rechtsnormen einfach in Einfache und Leichte Sprache für juristische Texte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für ELS-J: Rechtsnormen einfach: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # ELS-J: Rechtsnormen einfach

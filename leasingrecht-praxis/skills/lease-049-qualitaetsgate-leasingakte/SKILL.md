@@ -1,6 +1,6 @@
 ---
 name: lease-049-qualitaetsgate-leasingakte
-description: "Wenn es um Leasingrecht: Qualitätsgate Leasingakte in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Qualitätsgate Leasingakte: ordnet Akte, Belege und Lücken; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Leasingrecht: Qualitätsgate Leasingakte

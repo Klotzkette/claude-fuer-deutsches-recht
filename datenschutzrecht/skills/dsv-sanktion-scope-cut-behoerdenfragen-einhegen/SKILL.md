@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-scope-cut-behoerdenfragen-einhegen
-description: "Wenn es um Dsv Sanktion Scope Cut Behoerdenfragen Einhegen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dsv Sanktion Scope Cut Behördenfragen Einhegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutzrecht-Brückenskill: Scope Cut Behördenfragen einhegen: Zu weite Behördenfragen nach Zeitraum, System, Datenart, Gesellschaft und Betroffenenkreis begrenzen

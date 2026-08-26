@@ -1,6 +1,6 @@
 ---
 name: zoll-tarif-ursprung-mode
-description: "Wenn es um Zoll Tarif Ursprung Mode in fashion-law-moderecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Zoll Tarif Ursprung Mode: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zoll Tarif Ursprung Mode

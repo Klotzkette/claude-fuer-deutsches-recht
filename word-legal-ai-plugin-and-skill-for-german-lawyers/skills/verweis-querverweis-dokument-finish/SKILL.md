@@ -1,6 +1,6 @@
 ---
 name: verweis-querverweis-dokument-finish
-description: "Wenn es um Verweis- und Querverweis-Technik in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verweis- und Querverweis-Technik: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verweis- und Querverweis-Technik

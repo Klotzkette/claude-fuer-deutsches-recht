@@ -1,6 +1,6 @@
 ---
 name: ropa-fuer-ki-anwendungen-besonderheiten
-description: "Wenn es um RoPA für digitale Werkzeuge-Anwendungen – Besonderheiten in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für RoPA für digitale Werkzeuge-Anwendungen – Besonderheiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # RoPA für KI-Anwendungen – Besonderheiten

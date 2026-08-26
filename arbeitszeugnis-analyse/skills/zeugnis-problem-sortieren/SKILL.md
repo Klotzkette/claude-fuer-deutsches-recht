@@ -1,6 +1,6 @@
 ---
 name: zeugnis-problem-sortieren
-description: "Wenn es um Zeugnisproblem Sortieren in Arbeitszeugnis-Analyse geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Zeugnisproblem Sortieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zeugnisproblem Sortieren

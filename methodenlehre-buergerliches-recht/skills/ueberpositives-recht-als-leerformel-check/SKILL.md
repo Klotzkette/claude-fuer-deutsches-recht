@@ -1,6 +1,6 @@
 ---
 name: ueberpositives-recht-als-leerformel-check
-description: "Wenn es um Überpositives Recht als Leerformel: Methodischer Check in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Überpositives Recht als Leerformel: Methodischer Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Überpositives Recht als Leerformel: Methodischer Check

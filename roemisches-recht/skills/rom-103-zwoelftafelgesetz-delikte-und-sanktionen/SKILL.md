@@ -1,6 +1,6 @@
 ---
 name: rom-103-zwoelftafelgesetz-delikte-und-sanktionen
-description: "Wenn es um Zwölftafelgesetz - Delikte und Sanktionen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rom 103 Zwoelftafelgesetz Delikte Und Sanktionen; Arbeitsfeld: Römisches Recht."
+description: "Für Zwölftafelgesetz - Delikte und Sanktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: rom-103-zwoelftafelgesetz-delikte-und-sanktionen."
 ---
 
 # Zwölftafelgesetz - Delikte und Sanktionen

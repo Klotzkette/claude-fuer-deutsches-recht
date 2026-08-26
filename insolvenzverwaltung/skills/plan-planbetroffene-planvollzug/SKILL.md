@@ -1,6 +1,6 @@
 ---
 name: plan-planbetroffene-planvollzug
-description: "Wenn es um IV-integrierte Auswahl der Planbetroffenen in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IV-integrierte Auswahl der Planbetroffenen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IV-integrierte Auswahl der Planbetroffenen

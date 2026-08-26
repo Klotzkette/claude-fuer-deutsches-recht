@@ -1,6 +1,6 @@
 ---
 name: dolmetscher-und-sprachrisiko-organisationspflicht-und-pr
-description: "Wenn es um Dolmetscher Und Sprachrisiko Organisationspflicht Und Pr in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dolmetscher und Sprachrisiko Organisationspflicht und Pr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: dolmetscher und sprachrisiko - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

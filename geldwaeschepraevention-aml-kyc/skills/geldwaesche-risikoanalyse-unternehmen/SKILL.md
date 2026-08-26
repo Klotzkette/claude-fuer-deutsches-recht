@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-risikoanalyse-unternehmen
-description: "Wenn es um Unternehmensweite Risikoanalyse in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unternehmensweite Risikoanalyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unternehmensweite Risikoanalyse

@@ -1,6 +1,6 @@
 ---
 name: plausibilisierung-gleicher-gesamtnoten
-description: "Wenn es um Plausibilisierung gleicher Gesamtnoten in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Plausibilisierung gleicher Gesamtnoten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plausibilisierung gleicher Gesamtnoten

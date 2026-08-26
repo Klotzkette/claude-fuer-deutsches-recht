@@ -1,6 +1,6 @@
 ---
 name: interne-dokumentation-art-33-abs-5
-description: "Wenn es um Interne Dokumentation Art. 33 Abs. 5 DSGVO — Vorfallregister in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Interne Dokumentation Art. 33 Abs. 5 DSGVO — Vorfallregister: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Interne Dokumentation Art. 33 Abs. 5 DSGVO — Vorfallregister
@@ -43,3 +43,7 @@ Versionierung: jede Änderung mit Datum und Bearbeiter; alte Versionen revisions
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-vvt-update-nach-vorfall` deckt die Aktualisierung des VVT ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-interne-dokumentation-art-33-abs-5` beziehungsweise Pflegt das interne Vorfallregister nach Art: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-interne-dokumentation-art-33-abs-5.md).

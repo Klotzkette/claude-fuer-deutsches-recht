@@ -1,6 +1,6 @@
 ---
 name: haltverbot-antrag-schreiben
-description: "Wenn es um Haltverbot Antrag Schreiben in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Haltverbot Antrag Schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Haltverbot Antrag Schreiben

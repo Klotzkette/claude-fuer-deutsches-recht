@@ -1,6 +1,6 @@
 ---
 name: europarecht-vertragsverletzung-durchsetzung
-description: "Wenn es um Vertragsverletzung und Durchsetzung in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vertragsverletzung und Durchsetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vertragsverletzung und Durchsetzung

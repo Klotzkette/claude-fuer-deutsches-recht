@@ -1,6 +1,6 @@
 ---
 name: pflegebudget-vereinbarung
-description: "Wenn es um Pflegebudget Vereinbarung Nachweis Risiken in Krankenhausrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Pflegebudget Vereinbarung Nachweis Risiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflegebudget Vereinbarung Nachweis Risiken

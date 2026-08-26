@@ -1,6 +1,6 @@
 ---
 name: 004-zwoelftafelrecht-delikt-busse-talion-und-komposition
-description: "Wenn es um Rom Zwoelftafelrecht Delikt Busse Talion Und Komposition in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom Zwölftafelrecht Delikt Busse Talion und Komposition: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom Zwoelftafelrecht Delikt Busse Talion Und Komposition
@@ -45,3 +45,7 @@ A beleidigt B öffentlich.
 1. Welches Delikt?
 2. Talion oder Komposition?
 3. Heutiges Pendant?
+
+## Vertiefung bei Bedarf
+
+- Bei `rom-neu-004-zwoelftafelrecht-delikt-busse-talion-und-komposition` beziehungsweise Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition: [die zusätzliche Vertiefung laden](./references/vertiefung-rom-neu-004-zwoelftafelrecht-delikt-busse-talion-und-komposition.md).

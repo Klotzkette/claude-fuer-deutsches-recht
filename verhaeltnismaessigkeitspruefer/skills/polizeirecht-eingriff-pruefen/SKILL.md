@@ -1,6 +1,6 @@
 ---
 name: polizeirecht-eingriff-pruefen
-description: "Wenn es um Polizeirecht Eingriff Prüfen in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Polizeirecht Eingriff Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Polizeirecht Eingriff Prüfen

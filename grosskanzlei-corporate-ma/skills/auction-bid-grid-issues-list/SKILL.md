@@ -1,6 +1,6 @@
 ---
 name: auction-bid-grid-issues-list
-description: "Wenn es um Auction Bid Grid und Issues List in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Auction Bid Grid und Issues List: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Auction Bid Grid und Issues List
 

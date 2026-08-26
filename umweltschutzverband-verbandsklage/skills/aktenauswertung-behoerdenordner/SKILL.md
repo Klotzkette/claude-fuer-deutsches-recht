@@ -1,6 +1,6 @@
 ---
 name: aktenauswertung-behoerdenordner
-description: "Wenn es um Aktenauswertung Behördenordner in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Aktenauswertung Behördenordner: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Umweltschutzverband Verbandsklage. Route: aktenauswertung-behoerdenordner."
 ---
 
 # Aktenauswertung Behördenordner

@@ -1,6 +1,6 @@
 ---
 name: online-vertrieb-konflikt
-description: "Wenn es um Online-Vertriebskonflikt — Bezirksschutz vs. E-Commerce nach Paragraf 87 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Online-Vertriebskonflikt — Bezirksschutz vs. E-Commerce nach Paragraf 87 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Online-Vertriebskonflikt — Bezirksschutz vs. E-Commerce nach § 87 HGB

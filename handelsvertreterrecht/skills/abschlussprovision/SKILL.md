@@ -1,6 +1,6 @@
 ---
 name: abschlussprovision
-description: "Wenn es um Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abschlussprovision des Abschlussvertreters nach §§ 87 und 87a HGB

@@ -1,6 +1,6 @@
 ---
 name: miet-mietvertrag-bauleiter
-description: "Wenn es um Miet: Mietvertrag Bauleiter in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Miet: Mietvertrag Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Miet: Mietvertrag Bauleiter

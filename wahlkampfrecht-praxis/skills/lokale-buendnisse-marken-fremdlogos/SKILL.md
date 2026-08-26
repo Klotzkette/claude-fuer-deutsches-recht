@@ -1,6 +1,6 @@
 ---
 name: lokale-buendnisse-marken-fremdlogos
-description: "Wenn es um Lokale Buendnisse Und Listen in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lokale Bündnisse und Listen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lokale Buendnisse Und Listen

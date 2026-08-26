@@ -1,6 +1,6 @@
 ---
 name: landespressegesetz-zustaendigkeit-prue-frist-setzen
-description: "Wenn es um Landespressegesetz Zuständigkeit Prue in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landespressegesetz Zuständigkeit Prü: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Landespressegesetz Zuständigkeit Prue

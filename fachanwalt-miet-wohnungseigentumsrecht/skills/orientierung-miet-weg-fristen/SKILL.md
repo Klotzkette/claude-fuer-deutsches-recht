@@ -1,6 +1,6 @@
 ---
 name: orientierung-miet-weg-fristen
-description: "Wenn es um Orientierung Miet Weg Fristen in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Orientierung Miet WEG Fristen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fachanwalt Miet Wohnungseigentumsrecht Orientierung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

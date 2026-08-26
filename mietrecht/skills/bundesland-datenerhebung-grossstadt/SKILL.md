@@ -1,6 +1,6 @@
 ---
 name: bundesland-datenerhebung-grossstadt
-description: "Wenn es um Bundesland: Verhandlung, Vergleich und Eskalation in Mietrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Bundesland: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bundesland: Verhandlung, Vergleich und Eskalation

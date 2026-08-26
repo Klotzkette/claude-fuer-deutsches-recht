@@ -1,6 +1,6 @@
 ---
 name: maengelhaftung-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Maengelhaftung: Verhandlung, Vergleich und Eskalation in Fachanwalt Bau Architektenrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Mängelhaftung: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Maengelhaftung: Verhandlung, Vergleich und Eskalation

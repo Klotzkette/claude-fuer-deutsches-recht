@@ -1,6 +1,6 @@
 ---
 name: warnschreiben-krisensignale
-description: "Erstellt für den Steuerberater einen konkreten Hinweis bei Krisensignalen und prüft zuerst, ob Paragraf 102 StaRUG wegen eines Jahresabschlussauftrags greift. Trennt Buchführungsbefund, möglichen Insolvenzgrund und anwaltliche Insolvenzreifeprüfung; liefert Schreiben, Belegmatrix, Zugangsplan und Wiedervorlage."
+description: "Erstellt für den Steuerberater einen konkreten Hinweis bei Krisensignalen und prüft zuerst, ob Paragraf 102 StaRUG wegen eines Jahresabschlussauftrags greift."
 ---
 
 # 1. Warnschreiben bei Krisensignalen

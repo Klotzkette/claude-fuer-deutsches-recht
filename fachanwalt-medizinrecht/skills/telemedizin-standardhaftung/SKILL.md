@@ -1,6 +1,6 @@
 ---
 name: telemedizin-standardhaftung
-description: "Wenn es um Telemedizin Standardhaftung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Telemedizin Standardhaftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telemedizin Standardhaftung: moderner Medizinrechts-Skill für Fernbehandlung, Grenzen ohne körperliche Untersuchung, Triage, Videoausfall und Dokumentation

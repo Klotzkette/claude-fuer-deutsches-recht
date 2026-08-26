@@ -1,6 +1,6 @@
 ---
 name: gewerbeanmeldung-paragraph-14-gewo
-description: "Wenn es um Anmeldung und Behörden: Führt durch anzeige nach Paragraf 14 gewo in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anmeldung und Behörden: Führt durch anzeige nach Paragraf 14 gewo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anmeldung und Behörden: Führt durch anzeige nach § 14 gewo

@@ -1,6 +1,6 @@
 ---
 name: lph-verbraucher-maengelmanagement-end
-description: "Wenn es um LPH 7 Mitwirkung bei der Vergabe: Erklärt pflichten in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für LPH 7 Mitwirkung bei der Vergabe: Erklärt pflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Erklärt pflichten

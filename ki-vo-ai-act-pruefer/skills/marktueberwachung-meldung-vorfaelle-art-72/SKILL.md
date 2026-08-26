@@ -1,6 +1,6 @@
 ---
 name: marktueberwachung-meldung-vorfaelle-art-72
-description: "Wenn es um Marktüberwachung und Vorfallmeldung — Art. 72 bis 79 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Marktüberwachung und Vorfallmeldung — Art. 72 bis 79 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Marktüberwachung und Vorfallmeldung — Art. 72 bis 79 KI-VO

@@ -1,6 +1,6 @@
 ---
 name: kammeraufsicht-kammerantwort
-description: "Wenn es um Kammeraufsicht Kammerantwort in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Kammeraufsicht Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: vergleich mit kammeraufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

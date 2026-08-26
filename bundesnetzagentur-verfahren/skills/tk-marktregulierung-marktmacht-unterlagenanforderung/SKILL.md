@@ -1,6 +1,6 @@
 ---
 name: tk-marktregulierung-marktmacht-unterlagenanforderung
-description: "Wenn es um TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Unterlagenanforderung

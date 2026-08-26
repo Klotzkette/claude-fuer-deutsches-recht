@@ -1,6 +1,6 @@
 ---
 name: privat-oeffentlich-abgrenzen
-description: "Wenn es um Öffentlichkeit sauber bestimmen in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Öffentlichkeit sauber bestimmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Öffentlichkeit sauber bestimmen

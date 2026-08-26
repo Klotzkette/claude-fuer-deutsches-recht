@@ -1,6 +1,6 @@
 ---
 name: weg-unterlassungsklage
-description: "Wenn es um WEG Unterlassungsklage: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für WEG Unterlassungsklage: Fachmodul im Miet- und Wohnungseigentumsrecht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # WEG Unterlassungsklage: Fachmodul im Miet- und Wohnungseigentumsrecht
@@ -44,3 +44,7 @@ description: "Wenn es um WEG Unterlassungsklage: Fachmodul im Miet- und Wohnungs
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-weg-unterlassungsklage` beziehungsweise WEG Unterlassungsklage: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-weg-unterlassungsklage.md).

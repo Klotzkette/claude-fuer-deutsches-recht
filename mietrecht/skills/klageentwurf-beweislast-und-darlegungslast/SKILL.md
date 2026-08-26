@@ -1,6 +1,6 @@
 ---
 name: klageentwurf-beweislast-und-darlegungslast
-description: "Wenn es um Klageentwurf: Beweislast, Darlegungslast und Substantiierung in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klageentwurf: Beweislast, Darlegungslast und Substantiierung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klageentwurf: Beweislast, Darlegungslast und Substantiierung

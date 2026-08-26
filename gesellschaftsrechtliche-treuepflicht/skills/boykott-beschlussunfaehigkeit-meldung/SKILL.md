@@ -1,6 +1,6 @@
 ---
 name: boykott-beschlussunfaehigkeit-meldung
-description: "Wenn es um Boykott Beschlussunfaehigkeit in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Boykott Beschlussunfähigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Boykott Beschlussunfaehigkeit

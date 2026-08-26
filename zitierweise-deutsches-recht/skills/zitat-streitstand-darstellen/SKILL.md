@@ -1,6 +1,6 @@
 ---
 name: zitat-streitstand-darstellen
-description: "Wenn es um Streitstand darstellen in Zitierweise deutsches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Streitstand darstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Streitstand darstellen

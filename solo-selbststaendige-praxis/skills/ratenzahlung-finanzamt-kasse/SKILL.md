@@ -1,6 +1,6 @@
 ---
 name: ratenzahlung-finanzamt-kasse
-description: "Wenn es um Krise Schulden und Neustart: Erstellt vorsichtige stundungs-/ratenzahlungsunterlagen in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krise Schulden und Neustart: Erstellt vorsichtige stundungs-/ratenzahlungsunterlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krise Schulden und Neustart: Erstellt vorsichtige stundungs-/ratenzahlungsunterlagen

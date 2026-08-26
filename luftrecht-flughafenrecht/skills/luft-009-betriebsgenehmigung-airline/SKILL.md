@@ -1,6 +1,6 @@
 ---
 name: luft-009-betriebsgenehmigung-airline
-description: "Wenn es um Betriebsgenehmigung Airline in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebsgenehmigung Airline: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsgenehmigung Airline

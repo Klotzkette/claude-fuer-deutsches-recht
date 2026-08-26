@@ -1,6 +1,6 @@
 ---
 name: druckmuster-schluessel-vormerkung-und-zahlung
-description: "Wenn es um Druckmuster, Schlüssel, Vormerkung und Zahlung in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Druckmuster, Schlüssel, Vormerkung und Zahlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Druckmuster, Schlüssel, Vormerkung und Zahlung

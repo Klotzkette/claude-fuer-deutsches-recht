@@ -1,6 +1,6 @@
 ---
 name: kindesunterhalt-mindestsatz-paragraf-1612a-bgb
-description: "Berechnet Minderjährigenunterhalt nach Paragraf 1612a BGB periodengenau. Verknüpft Mindestunterhaltsverordnung, Düsseldorfer Tabelle, Kindergeld, Einkommen, Betreuungsmodell, Mehrbedarf, Leistungsfähigkeit und Mangelfall und erstellt eine belegte Berechnung sowie Jugendamtsurkunden-, Auskunfts- oder Zahlungsanträge."
+description: "Für Mindestunterhalt eines minderjährigen Kindes berechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mindestunterhalt eines minderjährigen Kindes berechnen

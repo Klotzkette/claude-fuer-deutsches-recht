@@ -1,6 +1,6 @@
 ---
 name: signing-closing-conditions-cp-tracker
-description: "Wenn es um Signing-Closing-Conditions und CP-Tracker in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Signing-Closing-Conditions und CP-Tracker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Signing-Closing-Conditions und CP-Tracker
 

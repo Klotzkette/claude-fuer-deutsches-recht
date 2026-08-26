@@ -1,6 +1,6 @@
 ---
 name: res-sachen-und-einteilungen
-description: "Wenn es um Res Sachen Und Einteilungen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Res Sachen und Einteilungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Res Sachen Und Einteilungen

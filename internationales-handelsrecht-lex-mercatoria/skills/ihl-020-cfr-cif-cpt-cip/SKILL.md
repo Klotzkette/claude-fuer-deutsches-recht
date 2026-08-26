@@ -1,6 +1,6 @@
 ---
 name: ihl-020-cfr-cif-cpt-cip
-description: "Wenn es um Cfr Cif Cpt Cip in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cfr Cif Cpt Cip: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cfr Cif Cpt Cip

@@ -1,6 +1,6 @@
 ---
 name: grundschuld-buchgrundschuld-treuhand
-description: "Wenn es um Grundschuld Buchgrundschuld Treuhand in Notariat im Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Grundschuld Buchgrundschuld Treuhand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notariat im Alltag: Grundschuld – Brief- oder Buchgrundschuld, Unterwerfung, Sicherungszweck

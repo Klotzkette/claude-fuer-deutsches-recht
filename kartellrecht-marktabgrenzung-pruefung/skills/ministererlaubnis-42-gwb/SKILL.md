@@ -1,6 +1,6 @@
 ---
 name: ministererlaubnis-42-gwb
-description: "Wenn es um Ministererlaubnis Paragraf 42 GWB in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Ministererlaubnis Paragraf 42 GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ministererlaubnis § 42 GWB

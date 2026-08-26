@@ -1,6 +1,6 @@
 ---
 name: verl-abstimmung-mit-lektorat-format
-description: "Wenn es um Abstimmung Lektorat / Redaktion (Format-Klaerung) in Verlagsredaktion geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Abstimmung Lektorat / Redaktion (Format-Klärung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verlagsredaktion. Route: verl-abstimmung-mit-lektorat-format."
 ---
 
 # Abstimmung Lektorat / Redaktion (Format-Klaerung)

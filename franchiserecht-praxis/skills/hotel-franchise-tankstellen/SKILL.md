@@ -1,6 +1,6 @@
 ---
 name: hotel-franchise-tankstellen
-description: "Wenn es um Franchiserecht: Hotel-Franchise und Managementvertrag – Abgrenzung in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Hotel-Franchise und Managementvertrag – Abgrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Hotel-Franchise und Managementvertrag – Abgrenzung

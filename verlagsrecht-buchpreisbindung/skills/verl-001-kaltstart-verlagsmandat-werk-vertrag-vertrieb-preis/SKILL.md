@@ -1,6 +1,6 @@
 ---
 name: verl-001-kaltstart-verlagsmandat-werk-vertrag-vertrieb-preis
-description: "Wenn es um Verlagsrecht: Kaltstart Verlagsmandat Werk Vertrag Vertrieb Preis in Verlagsrecht und Buchpreisbindung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Kaltstart Verlagsmandat Werk Vertrag Vertrieb Preis: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Kaltstart Verlagsmandat Werk Vertrag Vertrieb Preis

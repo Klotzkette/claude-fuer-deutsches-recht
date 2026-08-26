@@ -1,6 +1,6 @@
 ---
 name: trade-defence-anti-dumping
-description: "Wenn es um EU Anti-Dumping China: Verfahren und laufende Maßnahmen in China-Wirtschaftsverkehr geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für EU Anti-Dumping China: Verfahren und laufende Maßnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EU Anti-Dumping China: Verfahren und laufende Maßnahmen

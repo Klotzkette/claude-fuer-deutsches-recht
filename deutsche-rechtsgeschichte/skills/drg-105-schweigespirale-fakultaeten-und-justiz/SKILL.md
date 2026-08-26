@@ -1,6 +1,6 @@
 ---
 name: drg-105-schweigespirale-fakultaeten-und-justiz
-description: "Wenn es um Schweigespirale in Fakultäten und Justiz in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schweigespirale in Fakultäten und Justiz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: drg-105-schweigespirale-fakultaeten-und-justiz."
 ---
 # Schweigespirale in Fakultäten und Justiz
 

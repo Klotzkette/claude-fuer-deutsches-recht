@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-general-purpose-ai-konzern
-description: "Wenn es um Rechtsabteilung: General Purpose digitale Werkzeuge im Konzern und Zweckbestimmung in diesem Spezialbereich geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt Stichwort für die Auswahl: Rechtsabteilung General Purpose Ai Konzern."
+description: "Für Rechtsabteilung: General Purpose digitale Werkzeuge im Konzern und Zweckbestimmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: rechtsabteilung-general-purpose-ai-konzern."
 ---
 
 # Rechtsabteilung: General Purpose AI im Konzern und Zweckbestimmung

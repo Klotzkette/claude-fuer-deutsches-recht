@@ -1,6 +1,6 @@
 ---
 name: freilassung-freiheitsstatus-sklaverei
-description: "Wenn es um Freilassung (manumissio) und Freiheitsstatus - historisch-kritisch in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freilassung (manumissio) und Freiheitsstatus - historisch-kritisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freilassung (manumissio) und Freiheitsstatus - historisch-kritisch

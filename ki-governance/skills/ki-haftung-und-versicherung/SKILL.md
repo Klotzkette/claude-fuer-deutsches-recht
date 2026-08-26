@@ -1,6 +1,6 @@
 ---
 name: ki-haftung-und-versicherung
-description: "Wenn es um digitale Werkzeuge-Haftung und Versicherung in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge-Haftung und Versicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Haftung und Versicherung

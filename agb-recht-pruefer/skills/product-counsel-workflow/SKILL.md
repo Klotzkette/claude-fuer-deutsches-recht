@@ -1,6 +1,6 @@
 ---
 name: product-counsel-workflow
-description: "Wenn es um Product Counsel Workflow in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Product Counsel Workflow: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Product Counsel Workflow

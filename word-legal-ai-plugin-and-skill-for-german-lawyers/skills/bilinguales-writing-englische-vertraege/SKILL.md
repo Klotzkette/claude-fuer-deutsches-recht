@@ -1,6 +1,6 @@
 ---
 name: bilinguales-writing-englische-vertraege
-description: "Wenn es um Bilinguales Legal Writing für deutsche Anwälte in Word-Workflows für deutsche Juristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Bilinguales Legal Writing für deutsche Anwälte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bilinguales Legal Writing für deutsche Anwälte

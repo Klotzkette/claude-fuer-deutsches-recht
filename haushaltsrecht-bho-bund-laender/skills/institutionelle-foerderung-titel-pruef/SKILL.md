@@ -1,6 +1,6 @@
 ---
 name: institutionelle-foerderung-titel-pruef
-description: "Wenn es um Institutionelle Förderung Titel Prüf in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Institutionelle Förderung Titel Prüf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Institutionelle Förderung Titel Prüf

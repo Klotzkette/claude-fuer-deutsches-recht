@@ -1,6 +1,6 @@
 ---
 name: insolvenz-leasinggeber-eigentum-und-refinanzierung
-description: "Wenn es um Insolvenz des Leasinggebers: Nutzungsrecht und Refinanzierung in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Insolvenz des Leasinggebers: Nutzungsrecht und Refinanzierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenz des Leasinggebers: Nutzungsrecht und Refinanzierung

@@ -7,18 +7,18 @@ Diese Vollprüfung enthält alle 13 Skills des Plugins `richter-amtsgericht-hand
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Richter Amtsgericht Handelsregister ein juristisches Arbeitsprodukt tragfähig begründet werde…
-2. **05-kapitalerhoehung-und-kapitalherabsetzung** — Wenn es um 05 Kapitalerhoehung und Kapitalherabsetzung in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt…
-3. **99-finale-entscheidung-volltext** — Wenn es um Finale Entscheidung als Volltext (Beschluss Handelsregister) in Handelsregisterrichter am Amtsgericht geht: o…
-4. **03-gesellschaftsvertrag-pruefen-gmbh** — Wenn es um 03 Gesellschaftsvertrag Prüfen Gmbh in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, …
-5. **04-vertretungsmacht-und-prokura** — Wenn es um 04 Vertretungsmacht und Prokura in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Bewe…
-6. **01-anmeldung-pruefen-zustaendigkeit** — Wenn es um 01 Anmeldung Prüfen Zuständigkeit in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständig…
-7. **08-loeschung-von-amts-wegen** — Wenn es um 08 Löschung Von Amts Wegen in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislas…
-8. **09-vereins-und-genossenschaftsregister** — Wenn es um 09 Vereins und Genossenschaftsregister in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Nor…
-9. **10-entscheidungsvorschlag-register** — Wenn es um 10 Entscheidungsvorschlag Register in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, B…
-10. **prozessuale-kniffe-und-rechtsprechungsanker** — Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form,…
-11. **07-zwischenverfuegung-und-beschwerde** — Wenn es um 07 Zwischenverfügung und Beschwerde in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständ…
-12. **06-umwandlung-eintragen** — Wenn es um 06 Umwandlung Eintragen in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rech…
-13. **02-firmenrecht-pruefen** — Wenn es um 02 Firmenrecht Prüfen in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechts…
+2. **prozessuale-kniffe-und-rechtsprechungsanker** — Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
+3. **99-finale-entscheidung-volltext** — Für Finale Entscheidung als Volltext (Beschluss Handelsregister): ordnet Norm, Beweislast und Gegenargument; Ergebnis: P…
+4. **05-kapitalerhoehung-und-kapitalherabsetzung** — Für 05 Kapitalerhöhung und Kapitalherabsetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ris…
+5. **09-vereins-und-genossenschaftsregister** — Für 09 Vereins und Genossenschaftsregister: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Fo…
+6. **01-anmeldung-pruefen-zustaendigkeit** — Für 01 Anmeldung Prüfen Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko …
+7. **03-gesellschaftsvertrag-pruefen-gmbh** — Für 03 Gesellschaftsvertrag Prüfen GmbH: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und…
+8. **07-zwischenverfuegung-und-beschwerde** — Für 07 Zwischenverfügung und Beschwerde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und…
+9. **10-entscheidungsvorschlag-register** — Für 10 Entscheidungsvorschlag Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- …
+10. **04-vertretungsmacht-und-prokura** — Für 04 Vertretungsmacht und Prokura: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und näc…
+11. **08-loeschung-von-amts-wegen** — Für 08 Löschung von Amts Wegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+12. **06-umwandlung-eintragen** — Für 06 Umwandlung Eintragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+13. **02-firmenrecht-pruefen** — Für 02 Firmenrecht Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schr…
 
 ---
 
@@ -143,86 +143,50 @@ Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkund
 
 ---
 
-## Skill: `05-kapitalerhoehung-und-kapitalherabsetzung`
+## Skill: `prozessuale-kniffe-und-rechtsprechungsanker`
 
-_Wenn es um 05 Kapitalerhoehung und Kapitalherabsetzung in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Handelsregisterrichter am Amtsgericht._
 
-# 05 Kapitalerhoehung und Kapitalherabsetzung
+# Prozessuale Kniffe und Rechtsprechungsanker
 
-## Zweck
+Nutze diesen Skill, wenn das Registergericht nicht nur verwaltet, sondern sauber prüft, kommuniziert und beschwerdefest entscheidet.
 
-Prüfung Kapitalerhoehung GmbH Paragrafen 55-57 GmbHG, AG Paragrafen 182-191 AktG; Kapitalherabsetzung Paragrafen 58-58f GmbHG; Werthaltigkeit Sacheinlage Paragraf 9 GmbHG
+## Leitanker
 
-## Rolle
+- FamFG und HGB-Registerrecht: Amtsermittlung, Zwischenverfügung, Eintragung und Zurückweisung trennen.
+- Paragraf 382 FamFG: Zwischenverfügung nur bei behebbaren Hindernissen.
+- Paragraf 58 ff. FamFG: Beschwerde und Abhilfeentscheidung mit vollständiger Begründung.
+- Artikel 103 Absatz 1 GG: rechtliches Gehör vor belastender Entscheidung sichern.
 
+## Kniffe
 
-Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2 RPflG. Eintragung, Zwischenverfügung, Zurückweisung, FamFG-Beschwerde.
+| Lage | Kniff | Fehlerbremse |
+| --- | --- | --- |
+| Mangel behebbar | Zwischenverfügung mit genauer Behebung | keine versteckte Zurückweisung |
+| Mangel unbehebbar | Zurückweisung begründen | keine Endlosschleife |
+| Listen- oder Registerlage streitig | Prüfungsumfang eng bestimmen | keine materielle Zivilklage ersetzen |
+| Beschwerde | Abhilfe ernsthaft prüfen | keine Textbausteinverwerfung |
 
-## Rechtsrahmen
+## Arbeitsmodus
 
-HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
+1. Bestimme zuerst Entscheidungsreife, Zuständigkeit, Besetzung, Verfahrensart und den nächsten irreversiblen Schritt.
+2. Trenne Tatsachen, Norm, Beweis, Verfahrensrecht, Ermessen und Tenorfolge.
+3. Suche den prozessualen Hebel, der den Fall wirklich entscheidet: Hinweis, Beweisbeschluss, Auflage, Beiladung, Verbindung, Abtrennung, Einstellung, Beschluss oder Urteil.
+4. Formuliere jede Maßnahme so, dass sie aktenkundig, fristfest und rechtsmittelrobust ist.
+5. Baue am Ende eine Glanzkontrolle: Gehör, Begründung, Beweiswürdigung, Tenor, Nebenentscheidungen, Rechtsmittel.
 
-## Pflichtschritte
+## Output-Matrix
 
-1. Anmeldung und Eintragungsgrundlage prüfen; Form und notarielle Beglaubigung (Paragraf 12 HGB) sowie Vertretungsnachweis kontrollieren.
-2. Materielle Eintragungsfähigkeit und Firmenrecht (Paragrafen 17 ff. HGB) prüfen.
-3. Bei behebbaren Hindernissen Zwischenverfügung mit angemessener Frist erlassen.
-4. Eintragungsverfügung erlassen oder Anmeldung mit Begründung zurückweisen.
-5. Bei Verstößen Zwangsgeldverfahren (Paragraf 14 HGB, Paragrafen 388 ff. FamFG) einleiten.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+| Kniff | Normanker | Aktenbeleg | Risiko | Formulierung | nächster Schritt |
+| --- | --- | --- | --- | --- | --- |
+| Hinweis | | | Überraschung | | |
+| Beweis | | | Lücke | | |
+| Verfahrensleitung | | | Verzögerung | | |
+| Entscheidung | | | Rechtsmittel | | |
 
-## Output
+## Entscheidungsanker
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure/openJur: Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ersetzt aber keine umfassende zivilrechtliche Streitentscheidung.
-- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure/openJur: Registerrechtliche Formprüfung, materielle Eintragungsvoraussetzungen und Beschwerdegegenstand sind getrennt zu behandeln.
-- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure/openJur: Die Gesellschafterliste hat registerrechtliche Legitimationswirkung, klärt aber die materielle Anteilsinhaberschaft nicht endgültig.
-- Ständige Rechtsprechung zu Paragrafen 382 ff. FamFG: Zwischenverfügung, Zurückweisung und Beschwerde sind streng nach behebbaren und unbehebbaren Eintragungshindernissen zu trennen; konkretes Aktenzeichen vor Verwendung über das Bundesrechtsprechungsportal verifizieren.
-
-## Prüfungsschema in Stufen
-
-1. Kapitalerhoehung und Kapitalherabsetzung: Anmeldung, Registerblatt, Gesellschaftsform und einzutragende Tatsache zuerst bestimmen.
-2. Formelle Voraussetzungen prüfen: elektronische Einreichung, notarielle Beglaubigung, Vertretungsmacht, Vollmacht und Urkundenlage.
-3. Materielle Eintragungsfähigkeit anhand HGB, GmbHG, AktG, UmwG, GenG oder Vereinsrecht abarbeiten.
-4. Bei Zweifeln nur registerrelevante Tatsachen aufklären; zivilrechtliche Binnenstreitigkeiten nicht als Hauptsacheprozess entscheiden.
-5. Eintragung, Zwischenverfügung oder Zurückweisung mit konkretem Registervollzug abschließen.
-
-## Typische Fallstricke
-
-- Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
-- Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
-- Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
-- Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Es wird darauf hingewiesen, dass der Eintragung derzeit [konkretes Hindernis] entgegensteht. Das Hindernis kann binnen [Frist] durch Vorlage von [Unterlage] in registerfähiger Form behoben werden.
-```
-
-### Baustein B
-
-```text
-Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwischenverfügung vom [Datum] nicht nachgewiesen ist.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `04-vertretungsmacht-und-prokura` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kapitalerhoehung und Kapitalherabsetzung trägt.
-- **Danach**: `06-umwandlung-eintragen` - Folgeskill nutzen, sobald Kapitalerhoehung und Kapitalherabsetzung entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Registergericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Zwischenverfügung, Eintragung, Zurückweisung oder Beschwerdevorlage; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 8, 12, 16 HGB, Paragrafen 382 ff. FamFG und Paragrafen 40, 78 GmbHG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+Jede Verfügung sagt: welches Hindernis, welche Norm, welches Dokument, wie behebbar, welche Frist und welche Folge bei Nichtbehebung.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 
@@ -232,7 +196,7 @@ Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkund
 
 ## Skill: `99-finale-entscheidung-volltext`
 
-_Wenn es um Finale Entscheidung als Volltext (Beschluss Handelsregister) in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
+_Für Finale Entscheidung als Volltext (Beschluss Handelsregister): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Finale Entscheidung als Volltext (Beschluss Handelsregister)
 
@@ -335,111 +299,15 @@ Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkund
 
 ---
 
-## Skill: `03-gesellschaftsvertrag-pruefen-gmbh`
+## Skill: `05-kapitalerhoehung-und-kapitalherabsetzung`
 
-_Wenn es um 03 Gesellschaftsvertrag Prüfen Gmbh in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für 05 Kapitalerhöhung und Kapitalherabsetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# 03 Gesellschaftsvertrag Prüfen Gmbh
-
-## Zweck
-
-Prüfung GmbH-Satzung Paragraf 3 GmbHG: Mindestinhalt, Stammkapital, Geschaeftsfuehrervertretung, Gegenstand des Unternehmens, Satzungsstrenge bei Aktiengesellschaft
-
-## Rolle
-
-
-Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2 RPflG. Eintragung, Zwischenverfügung, Zurückweisung, FamFG-Beschwerde.
-
-## Rechtsrahmen
-
-HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
-
-## Pflichtschritte
-
-1. Anmeldung und Eintragungsgrundlage prüfen; Form und notarielle Beglaubigung (Paragraf 12 HGB) sowie Vertretungsnachweis kontrollieren.
-2. Materielle Eintragungsfähigkeit und Firmenrecht (Paragrafen 17 ff. HGB) prüfen.
-3. Bei behebbaren Hindernissen Zwischenverfügung mit angemessener Frist erlassen.
-4. Eintragungsverfügung erlassen oder Anmeldung mit Begründung zurückweisen.
-5. Bei Verstößen Zwangsgeldverfahren (Paragraf 14 HGB, Paragrafen 388 ff. FamFG) einleiten.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Anker-Rechtsprechung
-
-- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure: Registergerichtliche Prüfung bleibt auf eintragungsrelevante Tatsachen beschränkt und ersetzt keine umfassende zivilrechtliche Streitentscheidung.
-- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure und BGH-Zitierung in II ZB 11/24: Ausländische Notare können registerrechtlich relevante GmbH-Unterlagen nur bei Gleichwertigkeit der Beurkundung einreichen.
-- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure: Die Gesellschafterliste wirkt registerrechtlich legitimierend, ohne die materielle Anteilsinhaberschaft endgültig zu klären.
-- Ständige Rechtsprechung zu Paragraf 3 GmbHG und Paragraf 9c GmbHG: Firma, Sitz, Unternehmensgegenstand und Stammkapital müssen eintragungsfähig, bestimmt und satzungskonform belegt sein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
-- Ständige Rechtsprechung zu Paragraf 382 FamFG: Eine Zwischenverfügung darf nur behebbarer Hindernisse wegen ergehen; unbehebbare Satzungsmängel führen zur Zurückweisung.
-
-## Prüfungsschema in Stufen
-
-1. Registeranmeldung und notarielle Form prüfen: elektronische Einreichung, Beglaubigung, Vertretung der anmeldenden Geschäftsführer und Vollständigkeit der Gründungsunterlagen.
-2. Mindestinhalt nach Paragraf 3 GmbHG abarbeiten: Firma, Sitz, Gegenstand, Stammkapital, Geschäftsanteile und etwaige Sacheinlagen einzeln mit dem Satzungstext abgleichen.
-3. Eintragungsfähigkeit des Unternehmensgegenstands prüfen: hinreichende Bestimmtheit, keine evident erlaubnispflichtige oder verbotene Tätigkeit ohne Nachweis, keine irreführende Branchenbeschreibung.
-4. Kapital- und Geschäftsführerangaben mit Paragrafen 5, 6, 7, 8 und 9c GmbHG abgleichen; Versicherungen der Geschäftsführer nur auf registerrechtliche Plausibilität, nicht als Hauptsachebeweis, würdigen.
-5. Bei behebbaren Satzungs- oder Nachweismängeln eine konkrete Zwischenverfügung fassen; bei unbehebbarem Mangel zurückweisen und die Beschwerdemöglichkeit nach FamFG sauber eröffnen.
-
-## Typische Fallstricke
-
-- Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
-- Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
-- Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
-- Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Es wird darauf hingewiesen, dass der Eintragung derzeit [konkretes Hindernis] entgegensteht. Das Hindernis kann binnen [Frist] durch Vorlage von [Unterlage] in registerfähiger Form behoben werden.
-```
-
-### Baustein B
-
-```text
-Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwischenverfügung vom [Datum] nicht nachgewiesen ist.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `02-firmenrecht-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Gesellschaftsvertrag Prüfen Gmbh trägt.
-- **Danach**: `04-vertretungsmacht-und-prokura` - Folgeskill nutzen, sobald Gesellschaftsvertrag Prüfen Gmbh entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Registergericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Zwischenverfügung, Eintragung, Zurückweisung oder Beschwerdevorlage; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 8, 12, 16 HGB, Paragrafen 382 ff. FamFG und Paragrafen 40, 78 GmbHG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkunde, Vertretungsnachweis, Registerstand, Eintragungshindernis und Zwischenverfügung. Er trennt behebbare Formmängel von materiellen Hindernissen und benennt die nächste Registerverfügung.
-
----
-
-## Skill: `04-vertretungsmacht-und-prokura`
-
-_Wenn es um 04 Vertretungsmacht und Prokura in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# 04 Vertretungsmacht und Prokura
+# 05 Kapitalerhoehung und Kapitalherabsetzung
 
 ## Zweck
 
-Eintragung Geschaeftsfuehrer Paragraf 39 GmbHG, Vorstand Paragraf 81 AktG, Prokura Paragrafen 48-53 HGB (Erteilung, Erloeschen, Gesamtprokura), Handlungsvollmacht Paragraf 54
+Prüfung Kapitalerhoehung GmbH Paragrafen 55-57 GmbHG, AG Paragrafen 182-191 AktG; Kapitalherabsetzung Paragrafen 58-58f GmbHG; Werthaltigkeit Sacheinlage Paragraf 9 GmbHG
 
 ## Rolle
 
@@ -473,7 +341,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Vertretungsmacht und Prokura: Anmeldung, Registerblatt, Gesellschaftsform und einzutragende Tatsache zuerst bestimmen.
+1. Kapitalerhoehung und Kapitalherabsetzung: Anmeldung, Registerblatt, Gesellschaftsform und einzutragende Tatsache zuerst bestimmen.
 2. Formelle Voraussetzungen prüfen: elektronische Einreichung, notarielle Beglaubigung, Vertretungsmacht, Vollmacht und Urkundenlage.
 3. Materielle Eintragungsfähigkeit anhand HGB, GmbHG, AktG, UmwG, GenG oder Vereinsrecht abarbeiten.
 4. Bei Zweifeln nur registerrelevante Tatsachen aufklären; zivilrechtliche Binnenstreitigkeiten nicht als Hauptsacheprozess entscheiden.
@@ -502,8 +370,96 @@ Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwisch
 
 ## Benachbarte Skills
 
-- **Davor**: `03-gesellschaftsvertrag-pruefen-gmbh` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Vertretungsmacht und Prokura trägt.
-- **Danach**: `05-kapitalerhoehung-und-kapitalherabsetzung` - Folgeskill nutzen, sobald Vertretungsmacht und Prokura entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `04-vertretungsmacht-und-prokura` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kapitalerhoehung und Kapitalherabsetzung trägt.
+- **Danach**: `06-umwandlung-eintragen` - Folgeskill nutzen, sobald Kapitalerhoehung und Kapitalherabsetzung entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Registergericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Zwischenverfügung, Eintragung, Zurückweisung oder Beschwerdevorlage; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 8, 12, 16 HGB, Paragrafen 382 ff. FamFG und Paragrafen 40, 78 GmbHG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkunde, Vertretungsnachweis, Registerstand, Eintragungshindernis und Zwischenverfügung. Er trennt behebbare Formmängel von materiellen Hindernissen und benennt die nächste Registerverfügung.
+
+---
+
+## Skill: `09-vereins-und-genossenschaftsregister`
+
+_Für 09 Vereins und Genossenschaftsregister: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck._
+
+# 09 Vereins und Genossenschaftsregister
+
+## Zweck
+
+Vereinsregister Paragrafen 55-79 BGB: Anmeldung Paragraf 59, Eintragung, Vorstandsbestellung, Wahrnehmung wirtschaftlicher Geschaefte (BGH Wertungen); Genossenschaftsregister Paragrafen 156 ff. GenG
+
+## Rolle
+
+
+Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2 RPflG. Eintragung, Zwischenverfügung, Zurückweisung, FamFG-Beschwerde.
+
+## Rechtsrahmen
+
+HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
+
+## Pflichtschritte
+
+1. Anmeldung und Eintragungsgrundlage prüfen; Form und notarielle Beglaubigung (Paragraf 12 HGB) sowie Vertretungsnachweis kontrollieren.
+2. Materielle Eintragungsfähigkeit und Firmenrecht (Paragrafen 17 ff. HGB) prüfen.
+3. Bei behebbaren Hindernissen Zwischenverfügung mit angemessener Frist erlassen.
+4. Eintragungsverfügung erlassen oder Anmeldung mit Begründung zurückweisen.
+5. Bei Verstößen Zwangsgeldverfahren (Paragraf 14 HGB, Paragrafen 388 ff. FamFG) einleiten.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+## Anker-Rechtsprechung
+
+- BGH, Beschluss vom 16.05.2017 - II ZB 7/16, frei nachweisbar über dejure: Der Betrieb mehrerer Kindertagesstätten schließt die Einordnung als Idealverein nicht schon wegen wirtschaftlicher Betätigung aus, wenn der ideelle Zweck prägend bleibt.
+- BGH, Beschluss vom 16.05.2017 - II ZB 6/16, frei nachweisbar über dejure: Für Paragraf 21 BGB kommt es auf den prägenden Vereinszweck und die Zuordnung wirtschaftlicher Tätigkeiten zum ideellen Hauptzweck an.
+- BGH, Beschluss vom 16.05.2017 - II ZB 9/16, frei nachweisbar über dejure: Amtslöschung eines Vereins verlangt eine tragfähige Prüfung, ob der wirtschaftliche Geschäftsbetrieb den Idealverein verdrängt.
+- Ständige Rechtsprechung zu Paragrafen 55 bis 79 BGB: Satzungsänderungen, Vorstandswahlen und Vertretungsregelungen müssen aus Protokoll, Einladung und Satzung registerfähig nachvollziehbar sein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Ständige Rechtsprechung zu GenG und Genossenschaftsregister: Prüfungsverband, Satzung, Vorstand und Aufsichtsrat sind vor Eintragung anhand der gesetzlichen Registervoraussetzungen getrennt zu prüfen.
+
+## Prüfungsschema in Stufen
+
+1. Vereins- oder Genossenschaftsanmeldung einordnen: Neuanmeldung, Satzungsänderung, Vorstandswechsel, Löschung oder Genossenschaftseintragung getrennt behandeln.
+2. Beim Verein Satzung, Einladung, Beschlussfähigkeit, Beschlussfassung und Vertretungsregel nach Paragrafen 57, 58, 59, 67 und 71 BGB aktenfest prüfen.
+3. Beim wirtschaftlichen Geschäftsbetrieb den prägenden Vereinszweck herausarbeiten und wirtschaftliche Nebentätigkeit vom wirtschaftlichen Hauptzweck abgrenzen.
+4. Bei Genossenschaften Satzung, Mitgliederzahl, Prüfungsverband, Vorstand, Aufsichtsrat und Gründungsprüfung anhand GenG und Registerunterlagen gesondert abhaken.
+5. Zwischenverfügung nur für konkret behebbare Nachweise; bei nicht registerfähiger Satzung oder fehlendem Idealvereinscharakter begründete Zurückweisung vorbereiten.
+
+## Typische Fallstricke
+
+- Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
+- Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
+- Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
+- Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Es wird darauf hingewiesen, dass der Eintragung derzeit [konkretes Hindernis] entgegensteht. Das Hindernis kann binnen [Frist] durch Vorlage von [Unterlage] in registerfähiger Form behoben werden.
+```
+
+### Baustein B
+
+```text
+Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwischenverfügung vom [Datum] nicht nachgewiesen ist.
+```
+
+## Benachbarte Skills
+
+- **Davor**: `08-loeschung-von-amts-wegen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Vereins und Genossenschaftsregister trägt.
+- **Danach**: `10-entscheidungsvorschlag-register` - Folgeskill nutzen, sobald Vereins und Genossenschaftsregister entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ## Gerichtliche Arbeitsprodukt-Schärfung
 
@@ -520,7 +476,7 @@ Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkund
 
 ## Skill: `01-anmeldung-pruefen-zustaendigkeit`
 
-_Wenn es um 01 Anmeldung Prüfen Zuständigkeit in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für 01 Anmeldung Prüfen Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # 01 Anmeldung Prüfen Zuständigkeit
 
@@ -620,15 +576,15 @@ Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkund
 
 ---
 
-## Skill: `08-loeschung-von-amts-wegen`
+## Skill: `03-gesellschaftsvertrag-pruefen-gmbh`
 
-_Wenn es um 08 Löschung Von Amts Wegen in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für 03 Gesellschaftsvertrag Prüfen GmbH: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# 08 Löschung Von Amts Wegen
+# 03 Gesellschaftsvertrag Prüfen Gmbh
 
 ## Zweck
 
-Löschung wegen Vermögenslosigkeit Paragraf 394 FamFG; Löschung wegen Mangel des Gesellschaftsvertrags Paragraf 397 FamFG; Anhörung Steuerverwaltung
+Prüfung GmbH-Satzung Paragraf 3 GmbHG: Mindestinhalt, Stammkapital, Geschaeftsfuehrervertretung, Gegenstand des Unternehmens, Satzungsstrenge bei Aktiengesellschaft
 
 ## Rolle
 
@@ -663,18 +619,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure/openJur: Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ersetzt aber keine umfassende zivilrechtliche Streitentscheidung.
-- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure/openJur: Registerrechtliche Formprüfung, materielle Eintragungsvoraussetzungen und Beschwerdegegenstand sind getrennt zu behandeln.
-- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure/openJur: Die Gesellschafterliste hat registerrechtliche Legitimationswirkung, klärt aber die materielle Anteilsinhaberschaft nicht endgültig.
-- Ständige Rechtsprechung zu Paragrafen 382 ff. FamFG: Zwischenverfügung, Zurückweisung und Beschwerde sind streng nach behebbaren und unbehebbaren Eintragungshindernissen zu trennen; konkretes Aktenzeichen vor Verwendung über das Bundesrechtsprechungsportal verifizieren.
+- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure: Registergerichtliche Prüfung bleibt auf eintragungsrelevante Tatsachen beschränkt und ersetzt keine umfassende zivilrechtliche Streitentscheidung.
+- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure und BGH-Zitierung in II ZB 11/24: Ausländische Notare können registerrechtlich relevante GmbH-Unterlagen nur bei Gleichwertigkeit der Beurkundung einreichen.
+- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure: Die Gesellschafterliste wirkt registerrechtlich legitimierend, ohne die materielle Anteilsinhaberschaft endgültig zu klären.
+- Ständige Rechtsprechung zu Paragraf 3 GmbHG und Paragraf 9c GmbHG: Firma, Sitz, Unternehmensgegenstand und Stammkapital müssen eintragungsfähig, bestimmt und satzungskonform belegt sein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Ständige Rechtsprechung zu Paragraf 382 FamFG: Eine Zwischenverfügung darf nur behebbarer Hindernisse wegen ergehen; unbehebbare Satzungsmängel führen zur Zurückweisung.
 
 ## Prüfungsschema in Stufen
 
-1. Löschung Von Amts Wegen: Registerzweck, Publizitätswirkung und konkreten Entscheidungstyp festlegen.
-2. Anhörung, Amtslöschung, Zwangsgeld oder Beschwerde nicht vermengen.
-3. Eintragungshindernisse nach behebbar, unbehebbar und beweisbedürftig ordnen.
-4. Entscheidungssatz registerfähig, knapp und vollzugsorientiert formulieren.
-5. Rechtsmittel, Abhilfe und Geschäftsstelle mit klarer Wiedervorlage steuern.
+1. Registeranmeldung und notarielle Form prüfen: elektronische Einreichung, Beglaubigung, Vertretung der anmeldenden Geschäftsführer und Vollständigkeit der Gründungsunterlagen.
+2. Mindestinhalt nach Paragraf 3 GmbHG abarbeiten: Firma, Sitz, Gegenstand, Stammkapital, Geschäftsanteile und etwaige Sacheinlagen einzeln mit dem Satzungstext abgleichen.
+3. Eintragungsfähigkeit des Unternehmensgegenstands prüfen: hinreichende Bestimmtheit, keine evident erlaubnispflichtige oder verbotene Tätigkeit ohne Nachweis, keine irreführende Branchenbeschreibung.
+4. Kapital- und Geschäftsführerangaben mit Paragrafen 5, 6, 7, 8 und 9c GmbHG abgleichen; Versicherungen der Geschäftsführer nur auf registerrechtliche Plausibilität, nicht als Hauptsachebeweis, würdigen.
+5. Bei behebbaren Satzungs- oder Nachweismängeln eine konkrete Zwischenverfügung fassen; bei unbehebbarem Mangel zurückweisen und die Beschwerdemöglichkeit nach FamFG sauber eröffnen.
 
 ## Typische Fallstricke
 
@@ -699,8 +656,8 @@ Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwisch
 
 ## Benachbarte Skills
 
-- **Davor**: `07-zwischenverfuegung-und-beschwerde` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Löschung Von Amts Wegen trägt.
-- **Danach**: `09-vereins-und-genossenschaftsregister` - Folgeskill nutzen, sobald Löschung Von Amts Wegen entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `02-firmenrecht-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Gesellschaftsvertrag Prüfen Gmbh trägt.
+- **Danach**: `04-vertretungsmacht-und-prokura` - Folgeskill nutzen, sobald Gesellschaftsvertrag Prüfen Gmbh entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ## Gerichtliche Arbeitsprodukt-Schärfung
 
@@ -715,15 +672,15 @@ Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkund
 
 ---
 
-## Skill: `09-vereins-und-genossenschaftsregister`
+## Skill: `07-zwischenverfuegung-und-beschwerde`
 
-_Wenn es um 09 Vereins und Genossenschaftsregister in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
+_Für 07 Zwischenverfügung und Beschwerde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# 09 Vereins und Genossenschaftsregister
+# 07 Zwischenverfügung und Beschwerde
 
 ## Zweck
 
-Vereinsregister Paragrafen 55-79 BGB: Anmeldung Paragraf 59, Eintragung, Vorstandsbestellung, Wahrnehmung wirtschaftlicher Geschaefte (BGH Wertungen); Genossenschaftsregister Paragrafen 156 ff. GenG
+Zwischenverfügung Paragraf 382 FamFG, Frist setzen, Hinweisbeschluss; Beschwerde Paragrafen 58-72 FamFG, Abhilfe; Rechtsbeschwerde Paragrafen 70 ff.
 
 ## Rolle
 
@@ -750,26 +707,25 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Beschluss vom 16.05.2017 - II ZB 7/16, frei nachweisbar über dejure: Der Betrieb mehrerer Kindertagesstätten schließt die Einordnung als Idealverein nicht schon wegen wirtschaftlicher Betätigung aus, wenn der ideelle Zweck prägend bleibt.
-- BGH, Beschluss vom 16.05.2017 - II ZB 6/16, frei nachweisbar über dejure: Für Paragraf 21 BGB kommt es auf den prägenden Vereinszweck und die Zuordnung wirtschaftlicher Tätigkeiten zum ideellen Hauptzweck an.
-- BGH, Beschluss vom 16.05.2017 - II ZB 9/16, frei nachweisbar über dejure: Amtslöschung eines Vereins verlangt eine tragfähige Prüfung, ob der wirtschaftliche Geschäftsbetrieb den Idealverein verdrängt.
-- Ständige Rechtsprechung zu Paragrafen 55 bis 79 BGB: Satzungsänderungen, Vorstandswahlen und Vertretungsregelungen müssen aus Protokoll, Einladung und Satzung registerfähig nachvollziehbar sein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
-- Ständige Rechtsprechung zu GenG und Genossenschaftsregister: Prüfungsverband, Satzung, Vorstand und Aufsichtsrat sind vor Eintragung anhand der gesetzlichen Registervoraussetzungen getrennt zu prüfen.
+- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure/openJur: Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ersetzt aber keine umfassende zivilrechtliche Streitentscheidung.
+- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure/openJur: Registerrechtliche Formprüfung, materielle Eintragungsvoraussetzungen und Beschwerdegegenstand sind getrennt zu behandeln.
+- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure/openJur: Die Gesellschafterliste hat registerrechtliche Legitimationswirkung, klärt aber die materielle Anteilsinhaberschaft nicht endgültig.
+- Ständige Rechtsprechung zu Paragrafen 382 ff. FamFG: Zwischenverfügung, Zurückweisung und Beschwerde sind streng nach behebbaren und unbehebbaren Eintragungshindernissen zu trennen; konkretes Aktenzeichen vor Verwendung über das Bundesrechtsprechungsportal verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Vereins- oder Genossenschaftsanmeldung einordnen: Neuanmeldung, Satzungsänderung, Vorstandswechsel, Löschung oder Genossenschaftseintragung getrennt behandeln.
-2. Beim Verein Satzung, Einladung, Beschlussfähigkeit, Beschlussfassung und Vertretungsregel nach Paragrafen 57, 58, 59, 67 und 71 BGB aktenfest prüfen.
-3. Beim wirtschaftlichen Geschäftsbetrieb den prägenden Vereinszweck herausarbeiten und wirtschaftliche Nebentätigkeit vom wirtschaftlichen Hauptzweck abgrenzen.
-4. Bei Genossenschaften Satzung, Mitgliederzahl, Prüfungsverband, Vorstand, Aufsichtsrat und Gründungsprüfung anhand GenG und Registerunterlagen gesondert abhaken.
-5. Zwischenverfügung nur für konkret behebbare Nachweise; bei nicht registerfähiger Satzung oder fehlendem Idealvereinscharakter begründete Zurückweisung vorbereiten.
+1. Zwischenverfügung und Beschwerde: Behebbares Eintragungshindernis und endgültigen Zurückweisungsgrund strikt auseinanderhalten.
+2. Anmeldung, notarielle Form, Vertretungsnachweis, Registerzuständigkeit und konkrete Eintragungstatsache einzeln prüfen.
+3. Zwischenverfügung nur mit genau bezeichnetem Hindernis, behebbarer Handlung, Frist und Rechtsfolge formulieren.
+4. Bei Beschwerde Abhilfe prüfen: neuer Vortrag, nachgereichte Urkunden und registerrechtliche Bindungen getrennt bewerten.
+5. Zurückweisung oder Abhilfe so begründen, dass Rechtsbeschwerde- und Aktenklarheit gewährleistet sind.
 
 ## Typische Fallstricke
 
 - Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
-- Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
-- Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
-- Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
+- Die Beschwerde wird ohne Abhilfeprüfung an das Obergericht gegeben.
+- Materielle Gesellschafterstreitigkeiten werden registerrechtlich überentschieden.
+- Aktengeheimnis nach Paragraf 353b StGB und Amtsverschwiegenheit nach Paragraf 43 DRiG bleiben bei jeder externen Werkzeugnutzung Sperren.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
@@ -787,8 +743,8 @@ Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwisch
 
 ## Benachbarte Skills
 
-- **Davor**: `08-loeschung-von-amts-wegen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Vereins und Genossenschaftsregister trägt.
-- **Danach**: `10-entscheidungsvorschlag-register` - Folgeskill nutzen, sobald Vereins und Genossenschaftsregister entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `06-umwandlung-eintragen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Zwischenverfügung und Beschwerde trägt.
+- **Danach**: `08-loeschung-von-amts-wegen` - Folgeskill nutzen, sobald Zwischenverfügung und Beschwerde entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ## Gerichtliche Arbeitsprodukt-Schärfung
 
@@ -805,7 +761,7 @@ Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkund
 
 ## Skill: `10-entscheidungsvorschlag-register`
 
-_Wenn es um 10 Entscheidungsvorschlag Register in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
+_Für 10 Entscheidungsvorschlag Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck._
 
 # 10 Entscheidungsvorschlag Register
 
@@ -898,66 +854,15 @@ Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkund
 
 ---
 
-## Skill: `prozessuale-kniffe-und-rechtsprechungsanker`
+## Skill: `04-vertretungsmacht-und-prokura`
 
-_Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für 04 Vertretungsmacht und Prokura: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Prozessuale Kniffe und Rechtsprechungsanker
-
-Nutze diesen Skill, wenn das Registergericht nicht nur verwaltet, sondern sauber prüft, kommuniziert und beschwerdefest entscheidet.
-
-## Leitanker
-
-- FamFG und HGB-Registerrecht: Amtsermittlung, Zwischenverfügung, Eintragung und Zurückweisung trennen.
-- Paragraf 382 FamFG: Zwischenverfügung nur bei behebbaren Hindernissen.
-- Paragraf 58 ff. FamFG: Beschwerde und Abhilfeentscheidung mit vollständiger Begründung.
-- Artikel 103 Absatz 1 GG: rechtliches Gehör vor belastender Entscheidung sichern.
-
-## Kniffe
-
-| Lage | Kniff | Fehlerbremse |
-| --- | --- | --- |
-| Mangel behebbar | Zwischenverfügung mit genauer Behebung | keine versteckte Zurückweisung |
-| Mangel unbehebbar | Zurückweisung begründen | keine Endlosschleife |
-| Listen- oder Registerlage streitig | Prüfungsumfang eng bestimmen | keine materielle Zivilklage ersetzen |
-| Beschwerde | Abhilfe ernsthaft prüfen | keine Textbausteinverwerfung |
-
-## Arbeitsmodus
-
-1. Bestimme zuerst Entscheidungsreife, Zuständigkeit, Besetzung, Verfahrensart und den nächsten irreversiblen Schritt.
-2. Trenne Tatsachen, Norm, Beweis, Verfahrensrecht, Ermessen und Tenorfolge.
-3. Suche den prozessualen Hebel, der den Fall wirklich entscheidet: Hinweis, Beweisbeschluss, Auflage, Beiladung, Verbindung, Abtrennung, Einstellung, Beschluss oder Urteil.
-4. Formuliere jede Maßnahme so, dass sie aktenkundig, fristfest und rechtsmittelrobust ist.
-5. Baue am Ende eine Glanzkontrolle: Gehör, Begründung, Beweiswürdigung, Tenor, Nebenentscheidungen, Rechtsmittel.
-
-## Output-Matrix
-
-| Kniff | Normanker | Aktenbeleg | Risiko | Formulierung | nächster Schritt |
-| --- | --- | --- | --- | --- | --- |
-| Hinweis | | | Überraschung | | |
-| Beweis | | | Lücke | | |
-| Verfahrensleitung | | | Verzögerung | | |
-| Entscheidung | | | Rechtsmittel | | |
-
-## Entscheidungsanker
-
-Jede Verfügung sagt: welches Hindernis, welche Norm, welches Dokument, wie behebbar, welche Frist und welche Folge bei Nichtbehebung.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkunde, Vertretungsnachweis, Registerstand, Eintragungshindernis und Zwischenverfügung. Er trennt behebbare Formmängel von materiellen Hindernissen und benennt die nächste Registerverfügung.
-
----
-
-## Skill: `07-zwischenverfuegung-und-beschwerde`
-
-_Wenn es um 07 Zwischenverfügung und Beschwerde in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# 07 Zwischenverfügung und Beschwerde
+# 04 Vertretungsmacht und Prokura
 
 ## Zweck
 
-Zwischenverfügung Paragraf 382 FamFG, Frist setzen, Hinweisbeschluss; Beschwerde Paragrafen 58-72 FamFG, Abhilfe; Rechtsbeschwerde Paragrafen 70 ff.
+Eintragung Geschaeftsfuehrer Paragraf 39 GmbHG, Vorstand Paragraf 81 AktG, Prokura Paragrafen 48-53 HGB (Erteilung, Erloeschen, Gesamtprokura), Handlungsvollmacht Paragraf 54
 
 ## Rolle
 
@@ -991,18 +896,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Zwischenverfügung und Beschwerde: Behebbares Eintragungshindernis und endgültigen Zurückweisungsgrund strikt auseinanderhalten.
-2. Anmeldung, notarielle Form, Vertretungsnachweis, Registerzuständigkeit und konkrete Eintragungstatsache einzeln prüfen.
-3. Zwischenverfügung nur mit genau bezeichnetem Hindernis, behebbarer Handlung, Frist und Rechtsfolge formulieren.
-4. Bei Beschwerde Abhilfe prüfen: neuer Vortrag, nachgereichte Urkunden und registerrechtliche Bindungen getrennt bewerten.
-5. Zurückweisung oder Abhilfe so begründen, dass Rechtsbeschwerde- und Aktenklarheit gewährleistet sind.
+1. Vertretungsmacht und Prokura: Anmeldung, Registerblatt, Gesellschaftsform und einzutragende Tatsache zuerst bestimmen.
+2. Formelle Voraussetzungen prüfen: elektronische Einreichung, notarielle Beglaubigung, Vertretungsmacht, Vollmacht und Urkundenlage.
+3. Materielle Eintragungsfähigkeit anhand HGB, GmbHG, AktG, UmwG, GenG oder Vereinsrecht abarbeiten.
+4. Bei Zweifeln nur registerrelevante Tatsachen aufklären; zivilrechtliche Binnenstreitigkeiten nicht als Hauptsacheprozess entscheiden.
+5. Eintragung, Zwischenverfügung oder Zurückweisung mit konkretem Registervollzug abschließen.
 
 ## Typische Fallstricke
 
 - Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
-- Die Beschwerde wird ohne Abhilfeprüfung an das Obergericht gegeben.
-- Materielle Gesellschafterstreitigkeiten werden registerrechtlich überentschieden.
-- Aktengeheimnis nach Paragraf 353b StGB und Amtsverschwiegenheit nach Paragraf 43 DRiG bleiben bei jeder externen Werkzeugnutzung Sperren.
+- Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
+- Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
+- Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
@@ -1020,8 +925,103 @@ Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwisch
 
 ## Benachbarte Skills
 
-- **Davor**: `06-umwandlung-eintragen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Zwischenverfügung und Beschwerde trägt.
-- **Danach**: `08-loeschung-von-amts-wegen` - Folgeskill nutzen, sobald Zwischenverfügung und Beschwerde entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `03-gesellschaftsvertrag-pruefen-gmbh` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Vertretungsmacht und Prokura trägt.
+- **Danach**: `05-kapitalerhoehung-und-kapitalherabsetzung` - Folgeskill nutzen, sobald Vertretungsmacht und Prokura entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Registergericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Zwischenverfügung, Eintragung, Zurückweisung oder Beschwerdevorlage; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 8, 12, 16 HGB, Paragrafen 382 ff. FamFG und Paragrafen 40, 78 GmbHG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkunde, Vertretungsnachweis, Registerstand, Eintragungshindernis und Zwischenverfügung. Er trennt behebbare Formmängel von materiellen Hindernissen und benennt die nächste Registerverfügung.
+
+---
+
+## Skill: `08-loeschung-von-amts-wegen`
+
+_Für 08 Löschung von Amts Wegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# 08 Löschung Von Amts Wegen
+
+## Zweck
+
+Löschung wegen Vermögenslosigkeit Paragraf 394 FamFG; Löschung wegen Mangel des Gesellschaftsvertrags Paragraf 397 FamFG; Anhörung Steuerverwaltung
+
+## Rolle
+
+
+Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2 RPflG. Eintragung, Zwischenverfügung, Zurückweisung, FamFG-Beschwerde.
+
+## Rechtsrahmen
+
+HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
+
+## Pflichtschritte
+
+1. Anmeldung und Eintragungsgrundlage prüfen; Form und notarielle Beglaubigung (Paragraf 12 HGB) sowie Vertretungsnachweis kontrollieren.
+2. Materielle Eintragungsfähigkeit und Firmenrecht (Paragrafen 17 ff. HGB) prüfen.
+3. Bei behebbaren Hindernissen Zwischenverfügung mit angemessener Frist erlassen.
+4. Eintragungsverfügung erlassen oder Anmeldung mit Begründung zurückweisen.
+5. Bei Verstößen Zwangsgeldverfahren (Paragraf 14 HGB, Paragrafen 388 ff. FamFG) einleiten.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Anker-Rechtsprechung
+
+- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure/openJur: Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ersetzt aber keine umfassende zivilrechtliche Streitentscheidung.
+- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure/openJur: Registerrechtliche Formprüfung, materielle Eintragungsvoraussetzungen und Beschwerdegegenstand sind getrennt zu behandeln.
+- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure/openJur: Die Gesellschafterliste hat registerrechtliche Legitimationswirkung, klärt aber die materielle Anteilsinhaberschaft nicht endgültig.
+- Ständige Rechtsprechung zu Paragrafen 382 ff. FamFG: Zwischenverfügung, Zurückweisung und Beschwerde sind streng nach behebbaren und unbehebbaren Eintragungshindernissen zu trennen; konkretes Aktenzeichen vor Verwendung über das Bundesrechtsprechungsportal verifizieren.
+
+## Prüfungsschema in Stufen
+
+1. Löschung Von Amts Wegen: Registerzweck, Publizitätswirkung und konkreten Entscheidungstyp festlegen.
+2. Anhörung, Amtslöschung, Zwangsgeld oder Beschwerde nicht vermengen.
+3. Eintragungshindernisse nach behebbar, unbehebbar und beweisbedürftig ordnen.
+4. Entscheidungssatz registerfähig, knapp und vollzugsorientiert formulieren.
+5. Rechtsmittel, Abhilfe und Geschäftsstelle mit klarer Wiedervorlage steuern.
+
+## Typische Fallstricke
+
+- Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
+- Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
+- Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
+- Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Es wird darauf hingewiesen, dass der Eintragung derzeit [konkretes Hindernis] entgegensteht. Das Hindernis kann binnen [Frist] durch Vorlage von [Unterlage] in registerfähiger Form behoben werden.
+```
+
+### Baustein B
+
+```text
+Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwischenverfügung vom [Datum] nicht nachgewiesen ist.
+```
+
+## Benachbarte Skills
+
+- **Davor**: `07-zwischenverfuegung-und-beschwerde` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Löschung Von Amts Wegen trägt.
+- **Danach**: `09-vereins-und-genossenschaftsregister` - Folgeskill nutzen, sobald Löschung Von Amts Wegen entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ## Gerichtliche Arbeitsprodukt-Schärfung
 
@@ -1038,7 +1038,7 @@ Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkund
 
 ## Skill: `06-umwandlung-eintragen`
 
-_Wenn es um 06 Umwandlung Eintragen in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für 06 Umwandlung Eintragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # 06 Umwandlung Eintragen
 
@@ -1125,7 +1125,7 @@ Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkund
 
 ## Skill: `02-firmenrecht-pruefen`
 
-_Wenn es um 02 Firmenrecht Prüfen in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für 02 Firmenrecht Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # 02 Firmenrecht Prüfen
 

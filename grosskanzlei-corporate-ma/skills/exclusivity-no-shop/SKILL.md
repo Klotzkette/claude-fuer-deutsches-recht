@@ -1,6 +1,6 @@
 ---
 name: exclusivity-no-shop
-description: "Wenn es um Exclusivity No Shop Process Discipline in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Exclusivity No Shop Process Discipline: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: exclusivity-no-shop."
 ---
 
 # Exclusivity No Shop Process Discipline

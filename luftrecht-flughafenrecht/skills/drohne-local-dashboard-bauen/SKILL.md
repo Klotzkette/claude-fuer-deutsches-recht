@@ -1,6 +1,6 @@
 ---
 name: drohne-local-dashboard-bauen
-description: "Wenn es um Drohne – Local Counsel briefen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Drohne – Local Counsel briefen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drohne – Local Counsel briefen

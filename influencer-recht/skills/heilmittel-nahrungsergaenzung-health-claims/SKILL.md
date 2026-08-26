@@ -1,6 +1,6 @@
 ---
 name: heilmittel-nahrungsergaenzung-health-claims
-description: "Wenn es um Influencer-Recht: Heilmittel, Nahrungsergänzung und Health Claims in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Heilmittel, Nahrungsergänzung und Health Claims: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Heilmittel, Nahrungsergänzung und Health Claims

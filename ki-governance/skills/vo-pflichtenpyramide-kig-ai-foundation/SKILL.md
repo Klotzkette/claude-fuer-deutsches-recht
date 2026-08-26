@@ -1,6 +1,6 @@
 ---
 name: vo-pflichtenpyramide-kig-ai-foundation
-description: "Wenn es um europäischer Technikregulierungsrahmen Pflichtenpyramide in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für europäischer Technikregulierungsrahmen Pflichtenpyramide: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-VO Pflichtenpyramide

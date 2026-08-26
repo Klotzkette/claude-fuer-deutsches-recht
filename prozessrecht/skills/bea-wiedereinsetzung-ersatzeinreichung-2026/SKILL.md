@@ -1,6 +1,6 @@
 ---
 name: bea-wiedereinsetzung-ersatzeinreichung-2026
-description: "Prüft beA-Störung, Ersatzeinreichung und Wiedereinsetzung anhand einer belegten Minutenchronologie: trennt technische Unmöglichkeit von Bedienungs- und Organisationsfehlern, ordnet ZPO Paragraf 130a Absatz 6 und Paragraf 130d richtig zu, bewertet Glaubhaftmachung und Nachholung und liefert sofort einen einreichungsfähigen Ersatz- oder Wiedereinsetzungsbaustein."
+description: "Prüft beA-Störung, Ersatzeinreichung und Wiedereinsetzung anhand einer belegten Minutenchronologie: trennt technische Unmöglichkeit von Bedienungs- und Organisationsfehlern, ordnet ZPO Paragraf 130a Absatz 6 und Paragraf 130d richtig zu, bewertet Glaubhaftmachung und Nachholung und liefert sofort einen einreichungsfähigen Ersatz- oder."
 ---
 
 # beA, Ersatzeinreichung und Wiedereinsetzung

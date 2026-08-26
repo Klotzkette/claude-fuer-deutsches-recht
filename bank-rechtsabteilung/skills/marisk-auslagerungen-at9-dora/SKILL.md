@@ -1,6 +1,6 @@
 ---
 name: marisk-auslagerungen-at9-dora
-description: "Wenn es um Auslagerung und DORA in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Auslagerung und DORA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auslagerung und DORA

@@ -1,6 +1,6 @@
 ---
 name: auslandsrechte-rezensionsexemplar
-description: "Wenn es um Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle

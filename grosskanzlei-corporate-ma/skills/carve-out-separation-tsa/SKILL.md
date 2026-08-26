@@ -1,6 +1,6 @@
 ---
 name: carve-out-separation-tsa
-description: "Wenn es um Carve Out Separation Tsa in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Carve Out Separation Tsa: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Carve-out Separation und TSA Deep Dive: plant Herausloesung von Geschäftsbereichen, Assets, Mitarbeitern, IT, Daten, Genehmigungen und Uebergangsleistungen.

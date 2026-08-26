@@ -1,6 +1,6 @@
 ---
 name: subject-matter-102-scope
-description: "Wenn es um Subject Matter und Paragraf 102 Scope in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Subject Matter und Paragraf 102 Scope: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Subject Matter und § 102 Scope

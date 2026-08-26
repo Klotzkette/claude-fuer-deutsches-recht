@@ -1,6 +1,6 @@
 ---
 name: debt-equity-swap-pe
-description: "Wenn es um Debt-Equity-Swap in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Debt-Equity-Swap: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Debt-Equity-Swap

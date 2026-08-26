@@ -1,6 +1,6 @@
 ---
 name: honorarabhaengigkeit-non-non
-description: "Wenn es um Honorarabhaengigkeit Non Non in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Honorarabhängigkeit Non Non: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

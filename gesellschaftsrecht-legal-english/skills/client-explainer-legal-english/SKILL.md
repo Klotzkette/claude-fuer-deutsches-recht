@@ -1,6 +1,6 @@
 ---
 name: client-explainer-legal-english
-description: "Wenn es um Client Explainer in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Client Explainer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Client Explainer

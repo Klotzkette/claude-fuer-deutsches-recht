@@ -1,6 +1,6 @@
 ---
 name: spezial-entschliessungsantraege-red-team-und-qualitaetskontrolle
-description: "Wenn es um Entschliessungsantraege: Red-Team und Qualitätskontrolle in Legistik-Werkstatt geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entschließungsanträge: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Entschliessungsantraege: Red-Team und Qualitätskontrolle

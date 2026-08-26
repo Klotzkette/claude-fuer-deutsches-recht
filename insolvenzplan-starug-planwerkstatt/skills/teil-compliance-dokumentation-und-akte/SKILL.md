@@ -1,6 +1,6 @@
 ---
 name: teil-compliance-dokumentation-und-akte
-description: "Wenn es um Teil: Compliance-Dokumentation und Aktenvermerk in Insolvenzplan- und StaRUG-Planwerkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Teil: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Teil: Compliance-Dokumentation und Aktenvermerk

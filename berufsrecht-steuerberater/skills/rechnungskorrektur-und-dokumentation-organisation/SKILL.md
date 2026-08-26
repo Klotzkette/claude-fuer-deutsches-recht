@@ -1,6 +1,6 @@
 ---
 name: rechnungskorrektur-und-dokumentation-organisation
-description: "Wenn es um Rechnungskorrektur Und Dokumentation Organisation in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechnungskorrektur und Dokumentation Organisation: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: rechnungskorrektur und dokumentation - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

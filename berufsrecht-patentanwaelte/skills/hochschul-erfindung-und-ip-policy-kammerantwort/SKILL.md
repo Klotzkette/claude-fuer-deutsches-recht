@@ -1,6 +1,6 @@
 ---
 name: hochschul-erfindung-und-ip-policy-kammerantwort
-description: "Wenn es um Hochschul Erfindung Und Ip Policy Kammerantwort in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Hochschul Erfindung und Ip Policy Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: hochschul erfindung und ip policy - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

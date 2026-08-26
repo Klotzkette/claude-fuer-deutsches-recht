@@ -1,6 +1,6 @@
 ---
 name: fusion-foerderung-beihilfe
-description: "Wenn es um Fusion: Förderung, Beihilfe und IP in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fusion: Förderung, Beihilfe und IP: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fusion: Förderung, Beihilfe und IP

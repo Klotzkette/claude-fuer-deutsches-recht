@@ -1,6 +1,6 @@
 ---
 name: klageantrag-zahlung-herausgabe-zug-um-zug
-description: "Wenn es um Klageantrag: Zahlung, Herausgabe, Zug um Zug in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Klageantrag Zahlung Herausgabe Zug Um Zug; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Klageantrag: Zahlung, Herausgabe, Zug um Zug: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: klageantrag-zahlung-herausgabe-zug-um-zug."
 ---
 
 # Klageantrag: Zahlung, Herausgabe, Zug um Zug

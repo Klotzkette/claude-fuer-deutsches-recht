@@ -1,6 +1,6 @@
 ---
 name: dividend-recap-und-refinancing
-description: "Wenn es um Dividend Recap und Refinancing in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dividend Recap und Refinancing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dividend Recap und Refinancing

@@ -1,6 +1,6 @@
 ---
 name: schoeffe-digitale-beweise-orientierung
-description: "Wenn es um Digitale Beweise verstehen: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Digitale Beweise verstehen: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Digitale Beweise verstehen: Orientierung

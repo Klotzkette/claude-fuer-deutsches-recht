@@ -1,6 +1,6 @@
 ---
 name: workflow-livequellen-rechtsstand
-description: "Wenn es um Livequellen- und Rechtsstandscheck BGB BT in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Livequellen- und Rechtsstandscheck BGB BT: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Livequellen- und Rechtsstandscheck BGB BT
 

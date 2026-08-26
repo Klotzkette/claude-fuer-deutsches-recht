@@ -1,6 +1,6 @@
 ---
 name: wiederholungsleistungen-planungsaenderung
-description: "Wenn es um Wiederholungsleistungen Und Planungsänderung in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wiederholungsleistungen und Planungsänderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wiederholungsleistungen Und Planungsänderung

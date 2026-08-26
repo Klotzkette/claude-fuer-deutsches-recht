@@ -1,6 +1,6 @@
 ---
 name: v392-praxisraster-staatsanwaltschaft-amtsanwaltschaft
-description: "Wenn es um Praxisraster Staatsanwaltschaft und Amtsanwaltschaft in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Praxisraster Staatsanwaltschaft und Amtsanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praxisraster Staatsanwaltschaft und Amtsanwaltschaft

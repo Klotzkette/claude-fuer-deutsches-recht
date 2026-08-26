@@ -1,6 +1,6 @@
 ---
 name: fahrradreparatur-nachbesserung-fake-shop
-description: "Wenn es um Fahrradreparatur und Nachbesserung in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fahrradreparatur und Nachbesserung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fahrradreparatur und Nachbesserung

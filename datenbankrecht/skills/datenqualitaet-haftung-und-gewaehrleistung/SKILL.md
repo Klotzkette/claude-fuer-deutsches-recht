@@ -1,6 +1,6 @@
 ---
 name: datenqualitaet-haftung-und-gewaehrleistung
-description: "Wenn es um Datenqualität, Haftung und Gewährleistung bei Datenbankfehlern in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenqualität, Haftung und Gewährleistung bei Datenbankfehlern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Datenqualität, Haftung und Gewährleistung bei Datenbankfehlern

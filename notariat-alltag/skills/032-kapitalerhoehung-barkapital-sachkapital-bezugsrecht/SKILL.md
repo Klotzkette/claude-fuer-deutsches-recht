@@ -1,6 +1,6 @@
 ---
 name: 032-kapitalerhoehung-barkapital-sachkapital-bezugsrecht
-description: "Steuert Barkapital- und Sachkapitalerhöhungen bei GmbH und AG vom Beschluss über Übernahme oder Zeichnung und Einlage bis zur Registereintragung. Prüft Mehrheit, notarielle Form, Bezugsrecht, Sacheinlage, Versicherungen und Vollzugsunterlagen und liefert Beschluss-, Erklärungs- und Anmeldepaket."
+description: "Steuert Barkapital- und Sachkapitalerhöhungen bei GmbH und AG vom Beschluss über Übernahme oder Zeichnung und Einlage bis zur Registereintragung."
 ---
 
 # Notariat im Alltag: Kapitalerhöhung, Sacheinlage und Bezugsrecht

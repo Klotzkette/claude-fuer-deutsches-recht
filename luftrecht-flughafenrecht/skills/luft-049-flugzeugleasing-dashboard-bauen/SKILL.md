@@ -1,6 +1,6 @@
 ---
 name: luft-049-flugzeugleasing-dashboard-bauen
-description: "Wenn es um Flugzeugleasing Dashboard Bauen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Flugzeugleasing Dashboard Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Flugzeugleasing Dashboard Bauen

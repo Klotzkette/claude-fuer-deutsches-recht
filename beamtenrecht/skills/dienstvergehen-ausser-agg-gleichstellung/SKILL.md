@@ -1,6 +1,6 @@
 ---
 name: dienstvergehen-ausser-agg-gleichstellung
-description: "Wenn es um Dienstvergehen ausser Dienst nach Paragraf 47 BeamtStG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dienstvergehen ausser Dienst nach Paragraf 47 BeamtStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dienstvergehen ausser Dienst nach § 47 BeamtStG

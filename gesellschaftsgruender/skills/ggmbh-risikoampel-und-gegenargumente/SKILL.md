@@ -1,6 +1,6 @@
 ---
 name: ggmbh-risikoampel-und-gegenargumente
-description: "Wenn es um Ggmbh: Risikoampel, Gegenargumente und Verteidigungslinien in gesellschaftsgründer — Gründungsassistent für deutsche geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ggmbh: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Ggmbh: Risikoampel, Gegenargumente und Verteidigungslinien

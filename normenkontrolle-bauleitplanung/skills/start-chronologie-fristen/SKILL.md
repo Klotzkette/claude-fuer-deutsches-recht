@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Wenn es um Normenkontrolle Bauleitplanung — Allgemein in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Normenkontrolle Bauleitplanung — Allgemein: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Normenkontrolle Bauleitplanung — Allgemein

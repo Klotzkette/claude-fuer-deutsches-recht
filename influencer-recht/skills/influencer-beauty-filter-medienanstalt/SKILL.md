@@ -1,6 +1,6 @@
 ---
 name: influencer-beauty-filter-medienanstalt
-description: "Wenn es um Influencer-Recht: Influencer als Testimonial in Kapitalmarktkommunikation in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Influencer als Testimonial in Kapitalmarktkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Influencer als Testimonial in Kapitalmarktkommunikation

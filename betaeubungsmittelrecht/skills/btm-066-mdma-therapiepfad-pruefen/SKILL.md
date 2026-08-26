@@ -1,6 +1,6 @@
 ---
 name: btm-066-mdma-therapiepfad-pruefen
-description: "Wenn es um Mdma Therapiepfad Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mdma Therapiepfad Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betäubungsmittelrecht. Route: btm-066-mdma-therapiepfad-pruefen."
 ---
 
 # Mdma Therapiepfad Pruefen

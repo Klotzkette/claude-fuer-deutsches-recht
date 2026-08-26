@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-endverwendung-endverwender-euc
-description: "Wenn es um Endverwender-Prüfung und EUC: Authentizitaet und Risikoeinschaetzung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Endverwender-Prüfung und EUC: Authentizität und Risikoeinschätzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Endverwender-Prüfung und EUC: Authentizitaet und Risikoeinschaetzung

@@ -1,6 +1,6 @@
 ---
 name: anklageschrift-zerlegen
-description: "Wenn es um Anklageschrift zerlegen in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anklageschrift zerlegen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Anklageschrift zerlegen

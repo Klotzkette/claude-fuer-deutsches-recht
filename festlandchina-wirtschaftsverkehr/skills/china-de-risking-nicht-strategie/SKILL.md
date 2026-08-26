@@ -1,6 +1,6 @@
 ---
 name: china-de-risking-nicht-strategie
-description: "Wenn es um De-risking statt Decoupling: Strategie und operative Umsetzung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für De-risking statt Decoupling: Strategie und operative Umsetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # De-risking statt Decoupling: Strategie und operative Umsetzung

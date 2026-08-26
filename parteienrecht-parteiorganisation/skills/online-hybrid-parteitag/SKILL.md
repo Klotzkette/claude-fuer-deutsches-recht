@@ -1,6 +1,6 @@
 ---
 name: online-hybrid-parteitag
-description: "Wenn es um Online/Hybrid Parteitag in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Online/Hybrid Parteitag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Online/Hybrid Parteitag

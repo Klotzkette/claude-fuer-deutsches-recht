@@ -1,6 +1,6 @@
 ---
 name: e-scooter-und-mikromobilitaet
-description: "Wenn es um E Scooter Und Mikromobilitaet in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für E Scooter und Mikromobilität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E Scooter Und Mikromobilitaet

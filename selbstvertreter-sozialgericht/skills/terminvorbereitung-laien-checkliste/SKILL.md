@@ -1,6 +1,6 @@
 ---
 name: terminvorbereitung-laien-checkliste
-description: "Wenn es um Terminvorbereitung — Checkliste für Laien in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Terminvorbereitung — Checkliste für Laien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Terminvorbereitung — Checkliste für Laien

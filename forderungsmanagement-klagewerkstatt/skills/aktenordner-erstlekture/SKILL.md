@@ -1,6 +1,6 @@
 ---
 name: aktenordner-erstlekture
-description: "Wenn es um Aktenordner-Erstlektüre in Forderungsmanagement — Klagewerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktenordner-Erstlektüre: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenordner-Erstlektüre

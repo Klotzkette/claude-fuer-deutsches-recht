@@ -1,6 +1,6 @@
 ---
 name: 07-kammer-und-senat-zustaendigkeit
-description: "Wenn es um 07 Kammer und Senat Zuständigkeit in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 07 Kammer und Senat Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 07 Kammer und Senat Zuständigkeit

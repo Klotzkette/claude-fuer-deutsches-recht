@@ -1,6 +1,6 @@
 ---
 name: familienkonflikt-grenzen-und-rollen
-description: "Wenn es um Familienkonflikt, Grenzen und Rollen in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Familienkonflikt, Grenzen und Rollen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Familienkonflikt, Grenzen und Rollen

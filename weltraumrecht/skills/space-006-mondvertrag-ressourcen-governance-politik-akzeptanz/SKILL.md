@@ -1,6 +1,6 @@
 ---
 name: space-006-mondvertrag-ressourcen-governance-politik-akzeptanz
-description: "Wenn es um Weltraumrecht: Mondvertrag Ressourcen Governance und politische Akzeptanz in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Mondvertrag Ressourcen Governance und politische Akzeptanz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Mondvertrag Ressourcen Governance und politische Akzeptanz

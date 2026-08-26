@@ -1,6 +1,6 @@
 ---
 name: gerichtliche-ki-assistenz-hochrisiko-justiz
-description: "Wenn es um Gerichtliche digitale Werkzeuge-Assistenz und Anhang III in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt Stichwort für die Auswahl: Gerichtliche Ki Assistenz Hochrisiko Justiz."
+description: "Für Gerichtliche digitale Werkzeuge-Assistenz und Anhang III: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: gerichtliche-ki-assistenz-hochrisiko-justiz."
 ---
 
 # Gerichtliche KI-Assistenz und Anhang III

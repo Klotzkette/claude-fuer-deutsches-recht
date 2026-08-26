@@ -1,6 +1,6 @@
 ---
 name: lohn-sv-kanzlei-rechnung
-description: "Wenn es um Lohn, Sozialversicherung und Payroll in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lohn, Sozialversicherung und Payroll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lohn, Sozialversicherung und Payroll

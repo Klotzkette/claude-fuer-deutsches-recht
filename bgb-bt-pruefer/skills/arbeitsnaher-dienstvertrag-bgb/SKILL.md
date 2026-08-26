@@ -1,6 +1,6 @@
 ---
 name: arbeitsnaher-dienstvertrag-bgb
-description: "Wenn es um Arbeitsnaher Dienstvertrag im BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsnaher Dienstvertrag im BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: arbeitsnaher-dienstvertrag-bgb."
 ---
 
 # Arbeitsnaher Dienstvertrag im BGB

@@ -1,6 +1,6 @@
 ---
 name: telefonat-behoerde-unterschrift-vollmacht
-description: "Wenn es um Telefonat Mit Behörde Vorbereiten in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Telefonat mit Behörde Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Juristische Sprache Deutsch als Zweitsprache. Route: telefonat-behoerde-unterschrift-vollmacht."
 ---
 
 # Telefonat Mit Behörde Vorbereiten

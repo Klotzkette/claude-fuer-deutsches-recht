@@ -1,6 +1,6 @@
 ---
 name: wesentlicher-teil-qualitativ-quantitativ-bestimmen
-description: "Wenn es um Wesentlicher Teil einer Datenbank: qualitativ und quantitativ bestimmen in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wesentlicher Teil einer Datenbank: qualitativ und quantitativ bestimmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wesentlicher Teil einer Datenbank: qualitativ und quantitativ bestimmen

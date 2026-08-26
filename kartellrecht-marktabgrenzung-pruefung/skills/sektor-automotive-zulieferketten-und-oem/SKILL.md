@@ -1,6 +1,6 @@
 ---
 name: sektor-automotive-zulieferketten-und-oem
-description: "Wenn es um Sektor Automotive, Zulieferketten und OEMs in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sektor Automotive, Zulieferketten und OEMs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sektor Automotive, Zulieferketten und OEMs

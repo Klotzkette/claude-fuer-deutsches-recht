@@ -1,6 +1,6 @@
 ---
 name: spezial-abstand-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Abstand: Livequellen- und Rechtsprechungscheck in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abstand: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abstand: Livequellen- und Rechtsprechungscheck

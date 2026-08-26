@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 82 Skills des Plugins `schoeffen-handelsr
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Schöffen Handelsrichter Praxis ein juristisches Arbeitsprodukt tragfähig begründet werden mus…
-2. **handelsrichter-kfh-rolle-orientierung** — Wenn es um Handelsrichter in der Kammer für Handelssachen: Orientierung in Schöffen und Handelsrichter Praxis geht: ordn…
-3. **ladung-erhalten-erste-orientierung-orientierung** — Wenn es um Ladung erhalten: erste Orientierung: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverh…
-4. **deal-verstaendigung-schoeffe-orientierung** — Wenn es um Verständigung im Strafverfahren: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt,…
-5. **ehrenamtlicher-richter-baurecht-orientierung** — Wenn es um Ehrenamtlicher Richter Baurecht: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt,…
-6. **ehrenamtlicher-richter-beamtenrecht-orientierung** — Wenn es um Ehrenamtlicher Richter Beamtenrecht: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverh…
-7. **handelsrichter-gesellschafterstreit-orientierung** — Wenn es um Handelsrichter Gesellschafterstreit: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverh…
-8. **schoeffe-sitzungsordnung-orientierung** — Wenn es um Sitzungsordnung und Auftreten: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, N…
-9. **schoeffe-ermuedung-komplexverfahren-orientierung** — Wenn es um Ermüdung im Komplexverfahren: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, No…
-10. **bilanzstreit-orientierung-sitzung** — Wenn es um Handelsrichter Bilanzstreit: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Nor…
+2. **handelsrichter-kfh-rolle-orientierung** — Für Handelsrichter in der Kammer für Handelssachen: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: P…
+3. **ehrenamtlicher-richter-vg-orientierung** — Für Ehrenamtlicher Richter Verwaltungsgericht: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpr…
+4. **schoeffe-haeusliche-gewalt-orientierung** — Für Häusliche Gewalt Verfahren: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte m…
+5. **frage-an-zeugen-stellen-orientierung** — Für Fragen an Zeugen stellen: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit…
+6. **schoeffe-opferzeugenschutz-orientierung** — Für Opfer- und Zeugenschutz: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit …
+7. **schoeffe-wirtschaftsstrafverfahren-orientierung** — Für Wirtschaftsstrafverfahren für Schöffen: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodu…
+8. **schoeffe-polizeizeuge-orientierung-sitzung** — Für Polizeizeuge würdigen: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zu…
+9. **ehrenamtlicher-richter-beamtenrecht-orientierung** — Für Ehrenamtlicher Richter Beamtenrecht: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt …
+10. **handelsrichter-gesellschafterstreit-orientierung** — Für Handelsrichter Gesellschafterstreit: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt …
 
 ---
 
@@ -144,7 +144,7 @@ Ausgangspunkt für dieses Plugin: Gericht sichert Besetzung und Verfahren; der e
 
 ## Skill: `handelsrichter-kfh-rolle-orientierung`
 
-_Wenn es um Handelsrichter in der Kammer für Handelssachen: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Handelsrichter in der Kammer für Handelssachen: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Handelsrichter in der Kammer für Handelssachen: Orientierung
 
@@ -204,11 +204,11 @@ Konkret zu prüfen:
 
 ---
 
-## Skill: `ladung-erhalten-erste-orientierung-orientierung`
+## Skill: `ehrenamtlicher-richter-vg-orientierung`
 
-_Wenn es um Ladung erhalten: erste Orientierung: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Ehrenamtlicher Richter Verwaltungsgericht: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Ladung erhalten: erste Orientierung: Orientierung
+# Ehrenamtlicher Richter Verwaltungsgericht: Orientierung
 
 ## Arbeitsweg
 
@@ -218,7 +218,7 @@ _Wenn es um Ladung erhalten: erste Orientierung: Orientierung in Schöffen und H
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Ladung erhalten: erste Orientierung: Orientierung
+## Fachkern: Ehrenamtlicher Richter Verwaltungsgericht: Orientierung
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -233,7 +233,7 @@ _Wenn es um Ladung erhalten: erste Orientierung: Orientierung in Schöffen und H
 
 ## Prüfprogramm
 
-- **Normen- und Quellenanker:** GVG, DRiG, JVEG, Gerichtshinweise und landesrechtliche Merkblätter live prüfen
+- **Normen- und Quellenanker:** VwGO, DRiG, GVG und landesrechtliche Hinweise live prüfen
 - **Tatsachenmatrix:** sichere Tatsachen, streitige Tatsachen, fehlende Dokumente und Beweisrisiken getrennt ausgeben.
 - **Kommunikationsstrategie:** sachlich, knapp, fristwahrend; keine unnötigen Zusatzinformationen, keine vorschnellen Schuldanerkenntnisse.
 - **Gegenposition:** die stärkste plausible Gegenseite darstellen und sagen, welche Unterlage oder Norm sie trägt oder entkräftet.
@@ -265,11 +265,60 @@ Konkret zu prüfen:
 
 ---
 
-## Skill: `deal-verstaendigung-schoeffe-orientierung`
+## Skill: `schoeffe-haeusliche-gewalt-orientierung`
 
-_Wenn es um Verständigung im Strafverfahren: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Häusliche Gewalt Verfahren: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Verständigung im Strafverfahren: Orientierung
+# Häusliche Gewalt Verfahren: Orientierung
+
+## Einsatz
+
+Nutze diesen Skill im Plugin **Schöffen und Handelsrichter Praxis**, wenn genau diese Lage auftaucht oder der Kaltstart dorthin routet. Antworte nicht mit einer allgemeinen Rechtskunde, sondern baue aus den Unterlagen eine handhabbare Fallsteuerung: Was ist sicher, was ist offen, was muss heute getan werden und welche Information darf noch nicht vorschnell preisgegeben werden?
+
+**Fokus:** Aussageverhalten, Rücknahme Strafantrag, Schutzanordnung und Beziehungsdynamik - Orientierung
+
+## Sofortsortierung
+
+1. Beteiligte, Rolle und Kommunikationskanal klären: Verbraucher, Behörde, Kammer, Gericht, Plattform, Bank, Kammer oder Verfahrensgegner.
+2. Fristen, Zustellungen, Aktenzeichen, Anhörungen, Mahnungen, Bescheide und Vollstreckungsdrohungen zuerst isolieren.
+3. Zahlungen, Anerkenntnisse, Aussagen gegenüber Polizei/Behörde/Kammer und irreversible Handlungen als rote Zone markieren.
+4. Fehlende Belege konkret nachfordern: Vertrag, Rechnung, AGB, Screenshot, Sendungsnummer, Bescheid, Protokoll, Vollmacht, Zustellnachweis.
+5. Den kleinsten sicheren nächsten Schritt formulieren, bevor ein großer Streit eröffnet wird.
+
+## Prüfprogramm
+
+- **Normen- und Quellenanker:** StGB, StPO, GewSchG, Opferschutz und Aussagepsychologie live prüfen
+- **Tatsachenmatrix:** sichere Tatsachen, streitige Tatsachen, fehlende Dokumente und Beweisrisiken getrennt ausgeben.
+- **Kommunikationsstrategie:** sachlich, knapp, fristwahrend; keine unnötigen Zusatzinformationen, keine vorschnellen Schuldanerkenntnisse.
+- **Gegenposition:** die stärkste plausible Gegenseite darstellen und sagen, welche Unterlage oder Norm sie trägt oder entkräftet.
+- **Entscheidungspfad:** sofort handeln, nachfordern, zahlen unter Vorbehalt, widersprechen, Beschwerde, Rechtsbehelf, Vergleich oder professionelle Hilfe.
+
+## Typische Stolperstellen
+
+- Eigene Vorinformationen und private Recherchen nicht unkontrolliert in die Beratung tragen.
+- Beratungsgeheimnis und Unabhängigkeit strikt schützen.
+- Unsicherheit früh in der Sitzung sachlich über den Vorsitz klären.
+
+## Arbeitsprodukte
+
+Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Termin geklärt werden sollen; immer mit Befangenheitswarnung, Do/Don’t-Liste, Quellencheck und Nachbereitung.
+
+## Prompts, die dieser Skill stellen soll
+
+- Welches Gericht und welche Rolle?
+- Geht es um Vorbereitung, laufende Sitzung, Beratung oder Nachbereitung?
+
+## Quellenhygiene
+
+Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei Behörden-, Berufs-, Verbraucher- und Verfahrensrecht zuerst die aktuelle amtliche Normfassung und die zuständige öffentliche Stelle prüfen.
+
+---
+
+## Skill: `frage-an-zeugen-stellen-orientierung`
+
+_Für Fragen an Zeugen stellen: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Fragen an Zeugen stellen: Orientierung
 
 ## Arbeitsweg
 
@@ -279,7 +328,7 @@ _Wenn es um Verständigung im Strafverfahren: Orientierung in Schöffen und Hand
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Verständigung im Strafverfahren: Orientierung
+## Fachkern: Fragen an Zeugen stellen: Orientierung
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -294,7 +343,7 @@ _Wenn es um Verständigung im Strafverfahren: Orientierung in Schöffen und Hand
 
 ## Prüfprogramm
 
-- **Normen- und Quellenanker:** StPO § 257c, BVerfG-Rechtsprechung nur verifiziert und Protokollpflichten live prüfen
+- **Normen- und Quellenanker:** StPO/ZPO, Vorsitzendenleitung, Zeugenschutz und Beweisrecht live prüfen
 - **Tatsachenmatrix:** sichere Tatsachen, streitige Tatsachen, fehlende Dokumente und Beweisrisiken getrennt ausgeben.
 - **Kommunikationsstrategie:** sachlich, knapp, fristwahrend; keine unnötigen Zusatzinformationen, keine vorschnellen Schuldanerkenntnisse.
 - **Gegenposition:** die stärkste plausible Gegenseite darstellen und sagen, welche Unterlage oder Norm sie trägt oder entkräftet.
@@ -326,11 +375,11 @@ Konkret zu prüfen:
 
 ---
 
-## Skill: `ehrenamtlicher-richter-baurecht-orientierung`
+## Skill: `schoeffe-opferzeugenschutz-orientierung`
 
-_Wenn es um Ehrenamtlicher Richter Baurecht: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Opfer- und Zeugenschutz: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Ehrenamtlicher Richter Baurecht: Orientierung
+# Opfer- und Zeugenschutz: Orientierung
 
 ## Arbeitsweg
 
@@ -340,7 +389,7 @@ _Wenn es um Ehrenamtlicher Richter Baurecht: Orientierung in Schöffen und Hande
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Ehrenamtlicher Richter Baurecht: Orientierung
+## Fachkern: Opfer- und Zeugenschutz: Orientierung
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -355,7 +404,129 @@ _Wenn es um Ehrenamtlicher Richter Baurecht: Orientierung in Schöffen und Hande
 
 ## Prüfprogramm
 
-- **Normen- und Quellenanker:** BauGB, Landesbauordnung, VwGO und kommunale Satzungen live prüfen
+- **Normen- und Quellenanker:** StPO, JGG, Zeugenschutz, Opferschutz und Persönlichkeitsrechte live prüfen
+- **Tatsachenmatrix:** sichere Tatsachen, streitige Tatsachen, fehlende Dokumente und Beweisrisiken getrennt ausgeben.
+- **Kommunikationsstrategie:** sachlich, knapp, fristwahrend; keine unnötigen Zusatzinformationen, keine vorschnellen Schuldanerkenntnisse.
+- **Gegenposition:** die stärkste plausible Gegenseite darstellen und sagen, welche Unterlage oder Norm sie trägt oder entkräftet.
+- **Entscheidungspfad:** sofort handeln, nachfordern, zahlen unter Vorbehalt, widersprechen, Beschwerde, Rechtsbehelf, Vergleich oder professionelle Hilfe.
+
+## Typische Stolperstellen
+
+- Eigene Vorinformationen und private Recherchen nicht unkontrolliert in die Beratung tragen.
+- Beratungsgeheimnis und Unabhängigkeit strikt schützen.
+- Unsicherheit früh in der Sitzung sachlich über den Vorsitz klären.
+
+## Arbeitsprodukte
+
+Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Termin geklärt werden sollen; immer mit Befangenheitswarnung, Do/Don’t-Liste, Quellencheck und Nachbereitung.
+
+## Prompts, die dieser Skill stellen soll
+
+- Welches Gericht und welche Rolle?
+- Geht es um Vorbereitung, laufende Sitzung, Beratung oder Nachbereitung?
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 31-45 GVG (Schöffen)
+- GG Artikel 101 Absatz 1 Satz 2 (gesetzlicher Richter und ordnungsgemäße Besetzung)
+- §§ 105-109 GVG (Handelsrichter)
+- BVerfGE 14, 56 (Schöffen als Richter)
+
+---
+
+## Skill: `schoeffe-wirtschaftsstrafverfahren-orientierung`
+
+_Für Wirtschaftsstrafverfahren für Schöffen: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Wirtschaftsstrafverfahren für Schöffen: Orientierung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GVG §§ 28-77, 116, StPO §§ 30 ff., LRiStAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Wirtschaftsstrafverfahren für Schöffen: Orientierung
+- **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
+- **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Sofortsortierung
+
+1. Beteiligte, Rolle und Kommunikationskanal klären: Verbraucher, Behörde, Kammer, Gericht, Plattform, Bank, Kammer oder Verfahrensgegner.
+2. Fristen, Zustellungen, Aktenzeichen, Anhörungen, Mahnungen, Bescheide und Vollstreckungsdrohungen zuerst isolieren.
+3. Zahlungen, Anerkenntnisse, Aussagen gegenüber Polizei/Behörde/Kammer und irreversible Handlungen als rote Zone markieren.
+4. Fehlende Belege konkret nachfordern: Vertrag, Rechnung, AGB, Screenshot, Sendungsnummer, Bescheid, Protokoll, Vollmacht, Zustellnachweis.
+5. Den kleinsten sicheren nächsten Schritt formulieren, bevor ein großer Streit eröffnet wird.
+
+## Prüfprogramm
+
+- **Normen- und Quellenanker:** StGB Wirtschaftsstrafrecht, AO-Schnittstellen, InsO und Beweiswürdigung live prüfen
+- **Tatsachenmatrix:** sichere Tatsachen, streitige Tatsachen, fehlende Dokumente und Beweisrisiken getrennt ausgeben.
+- **Kommunikationsstrategie:** sachlich, knapp, fristwahrend; keine unnötigen Zusatzinformationen, keine vorschnellen Schuldanerkenntnisse.
+- **Gegenposition:** die stärkste plausible Gegenseite darstellen und sagen, welche Unterlage oder Norm sie trägt oder entkräftet.
+- **Entscheidungspfad:** sofort handeln, nachfordern, zahlen unter Vorbehalt, widersprechen, Beschwerde, Rechtsbehelf, Vergleich oder professionelle Hilfe.
+
+## Typische Stolperstellen
+
+- Eigene Vorinformationen und private Recherchen nicht unkontrolliert in die Beratung tragen.
+- Beratungsgeheimnis und Unabhängigkeit strikt schützen.
+- Unsicherheit früh in der Sitzung sachlich über den Vorsitz klären.
+
+## Arbeitsprodukte
+
+Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Termin geklärt werden sollen; immer mit Befangenheitswarnung, Do/Don’t-Liste, Quellencheck und Nachbereitung.
+
+## Prompts, die dieser Skill stellen soll
+
+- Welches Gericht und welche Rolle?
+- Geht es um Vorbereitung, laufende Sitzung, Beratung oder Nachbereitung?
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 31-45 GVG (Schöffen)
+- GG Artikel 101 Absatz 1 Satz 2 (gesetzlicher Richter und ordnungsgemäße Besetzung)
+- §§ 105-109 GVG (Handelsrichter)
+- BVerfGE 14, 56 (Schöffen als Richter)
+
+---
+
+## Skill: `schoeffe-polizeizeuge-orientierung-sitzung`
+
+_Für Polizeizeuge würdigen: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Polizeizeuge würdigen: Orientierung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GVG §§ 28-77, 116, StPO §§ 30 ff., LRiStAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Polizeizeuge würdigen: Orientierung
+- **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
+- **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Sofortsortierung
+
+1. Beteiligte, Rolle und Kommunikationskanal klären: Verbraucher, Behörde, Kammer, Gericht, Plattform, Bank, Kammer oder Verfahrensgegner.
+2. Fristen, Zustellungen, Aktenzeichen, Anhörungen, Mahnungen, Bescheide und Vollstreckungsdrohungen zuerst isolieren.
+3. Zahlungen, Anerkenntnisse, Aussagen gegenüber Polizei/Behörde/Kammer und irreversible Handlungen als rote Zone markieren.
+4. Fehlende Belege konkret nachfordern: Vertrag, Rechnung, AGB, Screenshot, Sendungsnummer, Bescheid, Protokoll, Vollmacht, Zustellnachweis.
+5. Den kleinsten sicheren nächsten Schritt formulieren, bevor ein großer Streit eröffnet wird.
+
+## Prüfprogramm
+
+- **Normen- und Quellenanker:** StPO, Beweiswürdigung, Aktenvorhalt und verifizierte Rechtsprechung live prüfen
 - **Tatsachenmatrix:** sichere Tatsachen, streitige Tatsachen, fehlende Dokumente und Beweisrisiken getrennt ausgeben.
 - **Kommunikationsstrategie:** sachlich, knapp, fristwahrend; keine unnötigen Zusatzinformationen, keine vorschnellen Schuldanerkenntnisse.
 - **Gegenposition:** die stärkste plausible Gegenseite darstellen und sagen, welche Unterlage oder Norm sie trägt oder entkräftet.
@@ -389,7 +560,7 @@ Konkret zu prüfen:
 
 ## Skill: `ehrenamtlicher-richter-beamtenrecht-orientierung`
 
-_Wenn es um Ehrenamtlicher Richter Beamtenrecht: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Ehrenamtlicher Richter Beamtenrecht: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Ehrenamtlicher Richter Beamtenrecht: Orientierung
 
@@ -450,7 +621,7 @@ Konkret zu prüfen:
 
 ## Skill: `handelsrichter-gesellschafterstreit-orientierung`
 
-_Wenn es um Handelsrichter Gesellschafterstreit: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Handelsrichter Gesellschafterstreit: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Handelsrichter Gesellschafterstreit: Orientierung
 
@@ -504,189 +675,6 @@ Konkret zu prüfen:
 
 - § 95 GVG (Kammer für Handelssachen)
 - §§ 105-109 GVG (Handelsrichter)
-
----
-
-## Skill: `schoeffe-sitzungsordnung-orientierung`
-
-_Wenn es um Sitzungsordnung und Auftreten: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Sitzungsordnung und Auftreten: Orientierung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GVG §§ 28-77, 116, StPO §§ 30 ff., LRiStAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Sitzungsordnung und Auftreten: Orientierung
-- **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
-- **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Sofortsortierung
-
-1. Beteiligte, Rolle und Kommunikationskanal klären: Verbraucher, Behörde, Kammer, Gericht, Plattform, Bank, Kammer oder Verfahrensgegner.
-2. Fristen, Zustellungen, Aktenzeichen, Anhörungen, Mahnungen, Bescheide und Vollstreckungsdrohungen zuerst isolieren.
-3. Zahlungen, Anerkenntnisse, Aussagen gegenüber Polizei/Behörde/Kammer und irreversible Handlungen als rote Zone markieren.
-4. Fehlende Belege konkret nachfordern: Vertrag, Rechnung, AGB, Screenshot, Sendungsnummer, Bescheid, Protokoll, Vollmacht, Zustellnachweis.
-5. Den kleinsten sicheren nächsten Schritt formulieren, bevor ein großer Streit eröffnet wird.
-
-## Prüfprogramm
-
-- **Normen- und Quellenanker:** GVG, StPO/ZPO, Hausordnung des Gerichts und praktische Leitlinien live prüfen
-- **Tatsachenmatrix:** sichere Tatsachen, streitige Tatsachen, fehlende Dokumente und Beweisrisiken getrennt ausgeben.
-- **Kommunikationsstrategie:** sachlich, knapp, fristwahrend; keine unnötigen Zusatzinformationen, keine vorschnellen Schuldanerkenntnisse.
-- **Gegenposition:** die stärkste plausible Gegenseite darstellen und sagen, welche Unterlage oder Norm sie trägt oder entkräftet.
-- **Entscheidungspfad:** sofort handeln, nachfordern, zahlen unter Vorbehalt, widersprechen, Beschwerde, Rechtsbehelf, Vergleich oder professionelle Hilfe.
-
-## Typische Stolperstellen
-
-- Eigene Vorinformationen und private Recherchen nicht unkontrolliert in die Beratung tragen.
-- Beratungsgeheimnis und Unabhängigkeit strikt schützen.
-- Unsicherheit früh in der Sitzung sachlich über den Vorsitz klären.
-
-## Arbeitsprodukte
-
-Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Termin geklärt werden sollen; immer mit Befangenheitswarnung, Do/Don’t-Liste, Quellencheck und Nachbereitung.
-
-## Prompts, die dieser Skill stellen soll
-
-- Welches Gericht und welche Rolle?
-- Geht es um Vorbereitung, laufende Sitzung, Beratung oder Nachbereitung?
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- §§ 31-45 GVG (Schöffen)
-- GG Artikel 101 Absatz 1 Satz 2 (gesetzlicher Richter und ordnungsgemäße Besetzung)
-- §§ 105-109 GVG (Handelsrichter)
-- BVerfGE 14, 56 (Schöffen als Richter)
-
----
-
-## Skill: `schoeffe-ermuedung-komplexverfahren-orientierung`
-
-_Wenn es um Ermüdung im Komplexverfahren: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Ermüdung im Komplexverfahren: Orientierung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GVG §§ 28-77, 116, StPO §§ 30 ff., LRiStAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Ermüdung im Komplexverfahren: Orientierung
-- **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
-- **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Sofortsortierung
-
-1. Beteiligte, Rolle und Kommunikationskanal klären: Verbraucher, Behörde, Kammer, Gericht, Plattform, Bank, Kammer oder Verfahrensgegner.
-2. Fristen, Zustellungen, Aktenzeichen, Anhörungen, Mahnungen, Bescheide und Vollstreckungsdrohungen zuerst isolieren.
-3. Zahlungen, Anerkenntnisse, Aussagen gegenüber Polizei/Behörde/Kammer und irreversible Handlungen als rote Zone markieren.
-4. Fehlende Belege konkret nachfordern: Vertrag, Rechnung, AGB, Screenshot, Sendungsnummer, Bescheid, Protokoll, Vollmacht, Zustellnachweis.
-5. Den kleinsten sicheren nächsten Schritt formulieren, bevor ein großer Streit eröffnet wird.
-
-## Prüfprogramm
-
-- **Normen- und Quellenanker:** GVG, StPO/ZPO, Fürsorge, Sitzungspolizei und praktische Justizhinweise live prüfen
-- **Tatsachenmatrix:** sichere Tatsachen, streitige Tatsachen, fehlende Dokumente und Beweisrisiken getrennt ausgeben.
-- **Kommunikationsstrategie:** sachlich, knapp, fristwahrend; keine unnötigen Zusatzinformationen, keine vorschnellen Schuldanerkenntnisse.
-- **Gegenposition:** die stärkste plausible Gegenseite darstellen und sagen, welche Unterlage oder Norm sie trägt oder entkräftet.
-- **Entscheidungspfad:** sofort handeln, nachfordern, zahlen unter Vorbehalt, widersprechen, Beschwerde, Rechtsbehelf, Vergleich oder professionelle Hilfe.
-
-## Typische Stolperstellen
-
-- Eigene Vorinformationen und private Recherchen nicht unkontrolliert in die Beratung tragen.
-- Beratungsgeheimnis und Unabhängigkeit strikt schützen.
-- Unsicherheit früh in der Sitzung sachlich über den Vorsitz klären.
-
-## Arbeitsprodukte
-
-Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Termin geklärt werden sollen; immer mit Befangenheitswarnung, Do/Don’t-Liste, Quellencheck und Nachbereitung.
-
-## Prompts, die dieser Skill stellen soll
-
-- Welches Gericht und welche Rolle?
-- Geht es um Vorbereitung, laufende Sitzung, Beratung oder Nachbereitung?
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- §§ 31-45 GVG (Schöffen)
-- GG Artikel 101 Absatz 1 Satz 2 (gesetzlicher Richter und ordnungsgemäße Besetzung)
-- §§ 105-109 GVG (Handelsrichter)
-- BVerfGE 14, 56 (Schöffen als Richter)
-
----
-
-## Skill: `bilanzstreit-orientierung-sitzung`
-
-_Wenn es um Handelsrichter Bilanzstreit: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Handelsrichter Bilanzstreit: Orientierung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GVG §§ 28-77, 116, StPO §§ 30 ff., LRiStAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Handelsrichter Bilanzstreit: Orientierung
-- **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
-- **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Sofortsortierung
-
-1. Beteiligte, Rolle und Kommunikationskanal klären: Verbraucher, Behörde, Kammer, Gericht, Plattform, Bank, Kammer oder Verfahrensgegner.
-2. Fristen, Zustellungen, Aktenzeichen, Anhörungen, Mahnungen, Bescheide und Vollstreckungsdrohungen zuerst isolieren.
-3. Zahlungen, Anerkenntnisse, Aussagen gegenüber Polizei/Behörde/Kammer und irreversible Handlungen als rote Zone markieren.
-4. Fehlende Belege konkret nachfordern: Vertrag, Rechnung, AGB, Screenshot, Sendungsnummer, Bescheid, Protokoll, Vollmacht, Zustellnachweis.
-5. Den kleinsten sicheren nächsten Schritt formulieren, bevor ein großer Streit eröffnet wird.
-
-## Prüfprogramm
-
-- **Normen- und Quellenanker:** HGB, BGB, ZPO, Bilanzrecht und Sachverständigenfragen live prüfen
-- **Tatsachenmatrix:** sichere Tatsachen, streitige Tatsachen, fehlende Dokumente und Beweisrisiken getrennt ausgeben.
-- **Kommunikationsstrategie:** sachlich, knapp, fristwahrend; keine unnötigen Zusatzinformationen, keine vorschnellen Schuldanerkenntnisse.
-- **Gegenposition:** die stärkste plausible Gegenseite darstellen und sagen, welche Unterlage oder Norm sie trägt oder entkräftet.
-- **Entscheidungspfad:** sofort handeln, nachfordern, zahlen unter Vorbehalt, widersprechen, Beschwerde, Rechtsbehelf, Vergleich oder professionelle Hilfe.
-
-## Typische Stolperstellen
-
-- Eigene Vorinformationen und private Recherchen nicht unkontrolliert in die Beratung tragen.
-- Beratungsgeheimnis und Unabhängigkeit strikt schützen.
-- Unsicherheit früh in der Sitzung sachlich über den Vorsitz klären.
-
-## Arbeitsprodukte
-
-Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Termin geklärt werden sollen; immer mit Befangenheitswarnung, Do/Don’t-Liste, Quellencheck und Nachbereitung.
-
-## Prompts, die dieser Skill stellen soll
-
-- Welches Gericht und welche Rolle?
-- Geht es um Vorbereitung, laufende Sitzung, Beratung oder Nachbereitung?
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- §§ 31-45 GVG (Schöffen)
-- GG Artikel 101 Absatz 1 Satz 2 (gesetzlicher Richter und ordnungsgemäße Besetzung)
-- §§ 105-109 GVG (Handelsrichter)
-- BVerfGE 14, 56 (Schöffen als Richter)
 
 ---
 

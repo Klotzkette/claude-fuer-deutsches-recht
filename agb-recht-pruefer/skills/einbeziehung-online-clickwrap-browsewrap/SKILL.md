@@ -1,6 +1,6 @@
 ---
 name: einbeziehung-online-clickwrap-browsewrap
-description: "Wenn es um Einbeziehung Online Clickwrap Browsewrap in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Einbeziehung Online Clickwrap Browsewrap: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einbeziehung Online Clickwrap Browsewrap

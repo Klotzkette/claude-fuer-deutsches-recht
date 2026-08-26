@@ -1,6 +1,6 @@
 ---
 name: grundrecht-art-4-abs-3
-description: "Wenn es um Art. 4 Abs. 3 GG loyal nutzen in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Art. 4 Abs. 3 GG loyal nutzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Art. 4 Abs. 3 GG loyal nutzen

@@ -1,6 +1,6 @@
 ---
 name: branchen-spezifische-formulierungen
-description: "Wenn es um Branchenspezifische Formulierungen in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Branchenspezifische Formulierungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Branchenspezifische Formulierungen

@@ -1,6 +1,6 @@
 ---
 name: festsetzung-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Festsetzung: Mehrparteienkonflikt und Interessenmatrix in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Festsetzung: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Festsetzung: Mehrparteienkonflikt und Interessenmatrix

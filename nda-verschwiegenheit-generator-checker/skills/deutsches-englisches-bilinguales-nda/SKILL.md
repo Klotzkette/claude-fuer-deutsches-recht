@@ -1,6 +1,6 @@
 ---
 name: deutsches-englisches-bilinguales-nda
-description: "Wenn es um Deutsches Englisches Bilinguales NDA in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Deutsches Englisches Bilinguales NDA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsches Englisches Bilinguales NDA

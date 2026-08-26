@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `zwangsverwaltung-z
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Zwangsverwaltung Zvg ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbind…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: klärt Rolle, Ziel, Frist, Unterlagen u…
-3. **zwangsverwaltung-erstpruefung-und-mandatsziel** — Wenn es um Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht…
-4. **beschlagnahme-mietverwaltung-start** — Wenn es um Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart in ZVG-Zwangsverwaltung - Verwalter-Co…
-5. **bieterangebote-mieten-oeffentliche** — Wenn es um Bieterangebote: Compliance-Dokumentation und Aktenvermerk in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: o…
-6. **berichte-beschlagnahme-mietverwaltung-besitz** — Wenn es um Berichte: Schriftsatz-, Brief- und Memo-Bausteine in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: erstellt …
-7. **betriebskosten-hausgeld-bieterangebot** — Wenn es um Betriebskosten, Hausgeld und laufende Objektkosten in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: rechnet …
-8. **oeffentliche-lasten** — Wenn es um Öffentliche Lasten und grundstücksbezogene Abgaben in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: rechnet …
-9. **recherche-zahlen-schwellen-und-berechnung** — Wenn es um Recherche: Zahlen, Schwellenwerte und Berechnung in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: rechnet Sc…
-10. **versteigerungsteilnahme-mehrparteienkonflikt** — Wenn es um Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix in ZVG-Zwangsverwaltung - Verwalter-Cockpi…
-11. **mieten-risikoampel-und-gegenargumente** — Wenn es um Mieten: Risikoampel, Gegenargumente und Verteidigungslinien in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht:…
-12. **oeffentliche-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage in ZVG-Zwangsverwaltung - Verwalter-Cockpit geh…
-13. **anschluss-routing** — Wenn es um Anschluss-Routing in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: klärt Rolle, Ziel, Frist, Unterlagen und …
-14. **beschlagnahme-fristen-form-und-zustaendigkeit** — Wenn es um Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: p…
-15. **rechnungslegung-internationaler-bezug-und-schnittstellen** — Wenn es um Rechnungslegung: Internationaler Bezug und Schnittstellen in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: p…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **zwangsverwaltung-erstpruefung-und-mandatsziel** — Für Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergeb…
+4. **spezial-gate-red-team-und-qualitaetskontrolle** — Für Gate: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Bewe…
+5. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+6. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+7. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+8. **gate-fehlerkatalog** — Für Gate Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt…
+9. **rechnungslegung-internationaler-bezug-und-schnittstellen** — Für Rechnungslegung: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schn…
+10. **workflow-chronologie-und-belegmatrix** — Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix…
+11. **beschlagnahme-mietverwaltung-start** — Für Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart: ordnet Norm, Beweislast und Gegenargument; E…
+12. **glaeubiger-schuldner-kommunikation** — Für Gläubiger-, Schuldner- und Drittschuldnerkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnitt…
+13. **output-waehlen** — Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fac…
+14. **treuhandkonto-versteigerung** — Für Treuhandkonto: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittst…
+15. **workflow-unterlagen-lueckenliste** — Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fac…
 
 ---
 
@@ -147,7 +147,7 @@ Ausgangspunkt für dieses Plugin: Gläubiger für Titel, Klausel, Zustellung und
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: ZVG-Zwangsverwaltung - Verwalter-Cockpit._
 
 # Einstieg und Routing
 
@@ -191,7 +191,7 @@ Dieser Einstieg routet **Zwangsverwaltung Zvg** vom ersten Sachverhalt zu Rollen
 
 ## Skill: `zwangsverwaltung-erstpruefung-und-mandatsziel`
 
-_Wenn es um Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -256,73 +256,27 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `beschlagnahme-mietverwaltung-start`
+## Skill: `spezial-gate-red-team-und-qualitaetskontrolle`
 
-_Wenn es um Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Gate: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: ZVG-Zwangsverwaltung - Verwalter-Cockpit._
 
-# Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart
+# Gate: Red-Team und Qualitätskontrolle
 
-## Arbeitsweg
+## Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `zwangsverwaltung-zvg`. Ausgangspunkt ist: Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme, Besitz, Mieten, Treuhandkonto, Berichte, Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: ZVG § 149 Beschlagnahme mit Anordnung, Rechnungslegung 12 Monate, Verteilungstermin nach Plan, sofortige Beschwerde 2 Wochen.
-- Tragende Normen verifizieren: ZVG §§ 146-161 (Zwangsverwaltung), 1-150 (Zwangsversteigerung), §§ 869-882 ZPO, GVKostG, RPflG, GBO §§ 19, 20, 53 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Er führt durch **Red-Team und Qualitätskontrolle** im Themenfeld **Gate**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
-## Einstieg
-Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
-1. Wer handelt in welcher Rolle und gegen wen?
-2. Welches praktische Ziel soll erreicht werden?
-3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
-4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
-5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
+## Fachlicher Zuschnitt
 
-## Arbeitsworkflow
-1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
-2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
-3. **Materielle Weichen:** Die Kernfragen zu **Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
-4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
-5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+- **Thema:** Gate.
+- **Arbeitsfokus:** Red-Team und Qualitätskontrolle.
+- **Plugin-Rahmen:** Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme, Besitz, Mieten, Treuhandkonto, Berichte, Verteilung, ZVG-Portal-Recherch....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
----
-
-## Skill: `bieterangebote-mieten-oeffentliche`
-
-_Wenn es um Bieterangebote: Compliance-Dokumentation und Aktenvermerk in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Bieterangebote: Compliance-Dokumentation und Aktenvermerk
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 535 Abs. 1 BGB` — Hauptpflichten des Mietvertrags.
-- `§ 536 Abs. 1 BGB` — Minderung.
-- `§ 543 Abs. 1 BGB` — ausserordentliche Kuendigung.
-- `§ 556 Abs. 1 BGB` — Betriebskostenvereinbarung.
-- `§ 556 Abs. 3 BGB` — Abrechnung und Einwendungsfrist.
-- `§ 558 Abs. 1 BGB` — Mieterhoehung bis ortsuebliche Vergleichsmiete.
-- `§ 559 Abs. 1 BGB` — Modernisierungsmieterhoehung.
-- `§ 573 Abs. 1 BGB` — ordentliche Vermieterkuendigung.
-- `§ 259 BGB` — Rechnungslegung.
-- `§ 2 BetrKV` — Betriebskostenarten.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: ZVG § 149 Beschlagnahme mit Anordnung, Rechnungslegung 12 Monate, Verteilungstermin nach Plan, sofortige Beschwerde 2 Wochen.
-- Tragende Normen verifizieren: ZVG §§ 146-161 (Zwangsverwaltung), 1-150 (Zwangsversteigerung), §§ 869-882 ZPO, GVKostG, RPflG, GBO §§ 19, 20, 53 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Bieterangebote: Compliance-Dokumentation und Aktenvermerk
-- **Normen-/Quellenanker:** ZVG.
-
-## Fallweichen
+## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
@@ -333,103 +287,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Bieterangebote** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gate** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
----
-
-## Skill: `berichte-beschlagnahme-mietverwaltung-besitz`
-
-_Wenn es um Berichte: Schriftsatz-, Brief- und Memo-Bausteine in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Berichte: Schriftsatz-, Brief- und Memo-Bausteine
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 535 Abs. 1 BGB` — Hauptpflichten des Mietvertrags.
-- `§ 536 Abs. 1 BGB` — Minderung.
-- `§ 543 Abs. 1 BGB` — ausserordentliche Kuendigung.
-- `§ 556 Abs. 1 BGB` — Betriebskostenvereinbarung.
-- `§ 556 Abs. 3 BGB` — Abrechnung und Einwendungsfrist.
-- `§ 558 Abs. 1 BGB` — Mieterhoehung bis ortsuebliche Vergleichsmiete.
-- `§ 559 Abs. 1 BGB` — Modernisierungsmieterhoehung.
-- `§ 573 Abs. 1 BGB` — ordentliche Vermieterkuendigung.
-- `§ 259 BGB` — Rechnungslegung.
-- `§ 2 BetrKV` — Betriebskostenarten.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: ZVG § 149 Beschlagnahme mit Anordnung, Rechnungslegung 12 Monate, Verteilungstermin nach Plan, sofortige Beschwerde 2 Wochen.
-- Tragende Normen verifizieren: ZVG §§ 146-161 (Zwangsverwaltung), 1-150 (Zwangsversteigerung), §§ 869-882 ZPO, GVKostG, RPflG, GBO §§ 19, 20, 53 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Berichte: Schriftsatz-, Brief- und Memo-Bausteine
-- **Normen-/Quellenanker:** ZVG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Berichte** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `betriebskosten-hausgeld-bieterangebot`
-
-_Wenn es um Betriebskosten, Hausgeld und laufende Objektkosten in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
-
-# Betriebskosten, Hausgeld und laufende Objektkosten
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: ZVG § 149 Beschlagnahme mit Anordnung, Rechnungslegung 12 Monate, Verteilungstermin nach Plan, sofortige Beschwerde 2 Wochen.
-- Tragende Normen verifizieren: ZVG §§ 146-161 (Zwangsverwaltung), 1-150 (Zwangsversteigerung), §§ 869-882 ZPO, GVKostG, RPflG, GBO §§ 19, 20, 53 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Startet bei
-
-- WEG-Hausgeld, Betriebskosten oder Versorgerrechnungen eingehen
-- Abrechnungen erstellt oder geprüft werden müssen
-- Liquiditätsengpass bei laufender Verwaltung entsteht
-
-## Eingaben
-
-- Hausgeldabrechnung, Wirtschaftsplan, Versorgerverträge
-- Betriebskostenbelege, Dienstleisterrechnungen
-- Mieter-Vorauszahlungen und Leerstände
-
-## Workflow
-
-1. **Kosten erfassen** - laufende Kosten, öffentliche Lasten, Hausgeld, Dienstleister und Versorger trennen.
-2. **Umlage prüfen** - umlagefähige und nicht umlagefähige Positionen markieren.
-3. **Liquidität** - Fälligkeiten mit Mieten und Vorschussbedarf abgleichen.
-4. **Abrechnung** - Betriebskosten- oder WEG-Schnittstellen für Bericht vorbereiten.
-
-## Ausgabe
-
-- Kostenmatrix
-- Zahlungsplan
-- Abrechnungsvorbereitung
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
@@ -439,345 +306,54 @@ _Wenn es um Betriebskosten, Hausgeld und laufende Objektkosten in ZVG-Zwangsverw
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Qualitätsgates
-
-- öffentliche Lasten separat
-- Umlagefähigkeit geprüft
-- Fälligkeit belegt
-
-## Rote Schwellen
-
-- Versorgungssperre
-- Hausgeldrückstand mit Verwalterdruck
-- unwirtschaftlicher Dienstleister
-
-## Interne Vorlagen
-
-- assets/templates/betriebskosten-hausgeld.md
-- assets/templates/konto-kassenbuch.md
-
-## Amtliche Erstquellen
-
-- §§ 9, 13, 15 ZwVwV
-- § 155 ZVG
-
-## Paragrafenkette Betriebskosten/Hausgeld
-
-§ 153 ZVG (laufende Ausgaben) → § 155 ZVG (Verteilungsplan) → § 10 Abs. 1 Nr. 2 ZVG (Rangklasse Hausgeld) → §§ 8-10 ZwVwV (Ausgaben Verwaltung) → § 16 Abs. 2 WEG (Kostentragung Wohnungseigentuemer) → §§ 556-556d BGB (Betriebskosten Mietverhältnis)
-
-## Triage Betriebskosten/Hausgeld
-
-1. Handelt es sich um eine WEG-Einheit? (Hausgeld-Rückstände haben Vorrang in § 10 ZVG)
-2. Sind laufende Betriebskostenvorauszahlungen in den Mietverträgen ausgewiesen?
-3. Welche Betriebskosten zahlt der Zwangsverwalter direkt? (Versicherung Grundsteuer Energie)
-4. Liegen Hausgeld-Rückstände aus der Zeit vor Beschlagnahme vor?
-
-## Schritt-für-Schritt-Betriebskostenabrechnung ZVG
-
-1. Alle Kostenpositionen mit Belegen erfassen (Heizung Wasser Müll Hausmeister)
-2. Umlageschlüssel aus Mietverträgen und WEG-Beschlüssen prüfen
-3. Abrechnungszeitraum festlegen (Kalenderjahr oder Verwaltungszeitraum)
-4. Soll-Vorauszahlungen der Mieter gegen tatsächliche Kosten abgleichen
-5. Nachzahlungen oder Guthaben berechnen und Mieter informieren
-6. Überschüsse in Verteilungsplan nach § 155 ZVG einbeziehen
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
 ---
 
-## Skill: `oeffentliche-lasten`
+## Skill: `workflow-kaltstart-und-routing`
 
-_Wenn es um Öffentliche Lasten und grundstücksbezogene Abgaben in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: ZVG-Zwangsverwaltung - Verwalter-Cockpit._
 
-# Öffentliche Lasten und grundstücksbezogene Abgaben
+# Kaltstart und Routing
 
-## Arbeitsbereich
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-Öffentliche Lasten und grundstuecksbezogene Abgaben in der Zwangsverwaltung. Anwendungsfall Grundsteuer Erschließungsgebuhren oder Beitraege werden fällig und Zwangsverwalter muss prüfen ob und in welchem Rang zu zahlen ist. Normen § 10 ZVG Rangklassen § 12 GrStG Grundsteuerschuldner § 155 ZVG Ausgaben. Prüfraster Grundsteuer Abgaben Rang Fälligkeiten Zahlung Nachweis Belegpflicht. Output Lasten-Übersicht mit Rangfolge Zahlungsplan und Nachweis für Gerichtsbericht. Abgrenzung zu zvg-konten-kassenführung und zvg-rechnungslegung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
 
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: ZVG § 149 Beschlagnahme mit Anordnung, Rechnungslegung 12 Monate, Verteilungstermin nach Plan, sofortige Beschwerde 2 Wochen.
-- Tragende Normen verifizieren: ZVG §§ 146-161 (Zwangsverwaltung), 1-150 (Zwangsversteigerung), §§ 869-882 ZPO, GVKostG, RPflG, GBO §§ 19, 20, 53 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Startet bei
-
-- Grundsteuer, Gebühren oder Beitragsbescheide eingehen
-- Lasten im Besitzerlangungsbericht fehlen
-- Verteilung oder Rechnungslegung vorbereitet wird
-
-## Eingaben
-
-- Bescheide, Lastenregister, Kontoauszüge
-- Objektdaten, Grundsteuer, Gebühren, WEG-Unterlagen
-- Fälligkeiten und Zahlungsnachweise
-
-## Workflow
-
-1. **Lasten erfassen** - Art, Zeitraum, Betrag, Fälligkeit und Behörde aufnehmen.
-2. **Rang und Zweck** - öffentliche Last, Betriebskosten, Verwaltungsausgabe oder Schuldneraltlast trennen.
-3. **Zahlungsplan** - Liquidität, Vorschussbedarf und Verteilungsauswirkung prüfen.
-4. **Nachhalten** - Bescheide, Widerspruchsfristen und Belege ablegen.
-
-## Ausgabe
-
-- Lastenregister
-- Zahlungsplan
-- Berichtsbaustein
-
-## Qualitätsgates
-
-- Zeitraum sauber abgegrenzt
-- Fälligkeit belegt
-- Zahlung buchhalterisch zugeordnet
-
-## Rote Schwellen
-
-- Zwangsmaßnahmen der Kommune
-- Doppelzahlung
-- Beitragsbescheid mit kurzer Frist
-
-## Interne Vorlagen
-
-- assets/templates/versicherung-und-lasten.md
-- assets/templates/konto-kassenbuch.md
-
-## Amtliche Erstquellen
-
-- § 3 Abs. 1 Nr. 5 ZwVwV
-- § 15 ZwVwV
-
-## Paragrafenkette Öffentliche Lasten
-
-§ 10 Abs. 1 Nr. 3 ZVG (Vorrang öffentlicher Lasten) → § 12 GrStG (Grundsteuerpflicht) → §§ 10-12 ZwVwV (Ausgaben und Rangfolge) → § 155 ZVG (Verteilungsplan) → § 80 AO (Steuerpflichten bei Vermögensverwaltung)
-
-## Triage Öffentliche Lasten
-
-1. Ist die laufende Grundsteuer erfasst und im Zahlungsplan aufgenommen?
-2. Bestehen Rückstände bei öffentlichen Lasten aus der Zeit vor Beschlagnahme?
-3. Liegen weitere öffentliche Lasten vor (Anliegerbeiträge Erschließungskosten)?
-4. Ist eine Umsatzsteueroption für das Grundstück vorhanden? (Auswirkung auf Vorsteuer)
-
-## Ausgaben-Checkliste Öffentliche Lasten
-
-| Posten | Fälligkeit | Betrag | Bezahlt |
-|---|---|---|---|
-| Grundsteuer Q1 | 15.02. | [...] | [ ] |
-| Grundsteuer Q2 | 15.05. | [...] | [ ] |
-| Grundsteuer Q3 | 15.08. | [...] | [ ] |
-| Grundsteuer Q4 | 15.11. | [...] | [ ] |
-| Erschließungs-/Anliegerbeiträge | gem. Bescheid | [...] | [ ] |
-| Müllgebühren/Straßenreinigung | gem. Bescheid | [...] | [ ] |
-| Kanalgebühren/Wasserversorgung | gem. Bescheid | [...] | [ ] |
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `recherche-zahlen-schwellen-und-berechnung`
-
-_Wenn es um Recherche: Zahlen, Schwellenwerte und Berechnung in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
-
-# Recherche: Zahlen, Schwellenwerte und Berechnung
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: ZVG § 149 Beschlagnahme mit Anordnung, Rechnungslegung 12 Monate, Verteilungstermin nach Plan, sofortige Beschwerde 2 Wochen.
-- Tragende Normen verifizieren: ZVG §§ 146-161 (Zwangsverwaltung), 1-150 (Zwangsversteigerung), §§ 869-882 ZPO, GVKostG, RPflG, GBO §§ 19, 20, 53 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Recherche: Zahlen, Schwellenwerte und Berechnung
-- **Normen-/Quellenanker:** ZVG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Recherche** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
----
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
-## Skill: `versteigerungsteilnahme-mehrparteienkonflikt`
-
-_Wenn es um Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: ZVG § 149 Beschlagnahme mit Anordnung, Rechnungslegung 12 Monate, Verteilungstermin nach Plan, sofortige Beschwerde 2 Wochen.
-- Tragende Normen verifizieren: ZVG §§ 146-161 (Zwangsverwaltung), 1-150 (Zwangsversteigerung), §§ 869-882 ZPO, GVKostG, RPflG, GBO §§ 19, 20, 53 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix
-- **Normen-/Quellenanker:** ZVG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Versteigerungsteilnahme** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `mieten-risikoampel-und-gegenargumente`
-
-_Wenn es um Mieten: Risikoampel, Gegenargumente und Verteidigungslinien in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Mieten: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: ZVG § 149 Beschlagnahme mit Anordnung, Rechnungslegung 12 Monate, Verteilungstermin nach Plan, sofortige Beschwerde 2 Wochen.
-- Tragende Normen verifizieren: ZVG §§ 146-161 (Zwangsverwaltung), 1-150 (Zwangsversteigerung), §§ 869-882 ZPO, GVKostG, RPflG, GBO §§ 19, 20, 53 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Mieten: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** ZVG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Mieten** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Materielle Weichen Mieten in der Zwangsverwaltung
-- **Erfassung Mieten (§ 148 Abs. 1 ZVG):** Mieten und sonstige Nutzungen sind durch die Beschlagnahme erfasst. Der Zwangsverwalter zieht die Mietzinsen ein - der Schuldner hat keine Verfügungsbefugnis mehr.
-- **Mitteilungspflicht an Mieter (§ 152 ZVG):** Zwangsverwalter muss Mieter informieren - ab Mitteilung erfolgt Zahlung schuldbefreiend nur an den Verwalter. Bei Zahlung an den Schuldner trotz Mitteilung: Mieter muss erneut an Verwalter zahlen.
-- **Bestand der Mietverträge:** Mietverhältnisse bleiben bestehen (§ 152 Abs. 1 ZVG); Zwangsverwalter tritt in die Position des Vermieters ein, kann aber den Vertrag nicht ohne Weiteres ändern.
-- **Mieterhöhung und Mietminderung:** Zwangsverwalter kann zur ordnungsgemäßen Bewirtschaftung Mieterhöhung gem. § 558 BGB betreiben, soweit Voraussetzungen erfüllt. Mietminderung des Mieters wirkt fort - Verwalter trägt die Last der Mängelbeseitigung im Rahmen der Bewirtschaftung.
-- **Kündigung durch Verwalter:** Bei Pflichtverletzungen des Mieters (Zahlungsverzug) kann Verwalter kündigen (§ 543 BGB). Vorprozessuale Mahnung sinnvoll; Räumungsklage durch Zwangsverwalter im eigenen Namen (Prozessstandschaft, § 152 Abs. 1 ZVG).
-- **Vorausverfügungen des Schuldners (§ 1124 BGB):** Abtretungen von Mietzinsen oder Vorauszahlungsvereinbarungen vor Beschlagnahme bleiben in den Schranken des § 1124 BGB wirksam, nach Beschlagnahme unwirksam gegenüber den Gläubigern.
-- **Treuhandkonto (§ 156 Abs. 1 ZVG):** Vereinnahmte Mieten werden auf separates Treuhandkonto eingezahlt; Verwalter trennt Vermögen Schuldner und Verwaltungsvermögen.
-- **Verteilung Mieten (§ 155 ZVG i.V.m. § 156 ZVG):** Mieten dienen zuerst den Bewirtschaftungskosten (laufende Kosten, Steuern, Verwaltervergütung), dann den dinglichen Gläubigern nach Rang.
-- **Wohnungseigentum:** Bei WEG-Objekten muss Verwalter Hausgeld an die GdWE laufend zahlen (§ 16 Abs. 2 WEG i.V.m. § 152 Abs. 2 ZVG) - sonst Beitritt der GdWE zum Versteigerungsverfahren möglich.
-
----
-
-## Skill: `oeffentliche-mandantenkommunikation-entscheidungsvorlage`
-
-_Wenn es um Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1353 Abs. 1 BGB` — eheliche Lebensgemeinschaft.
-- `§ 1360 BGB` — Familienunterhalt.
-- `§ 1565 Abs. 1 BGB` — Scheidung.
-- `§ 1570 BGB` — Betreuungsunterhalt.
-- `§ 1601 BGB` — Verwandtenunterhalt.
-- `§ 1626 Abs. 1 BGB` — elterliche Sorge.
-- `§ 1671 BGB` — Sorgerechtsuebertragung.
-- `§ 1684 BGB` — Umgangsrecht.
-- `§ 23a Abs. 1 GVG` — Familiengerichtsbarkeit.
-- `§ 113 FamFG` — Verfahrensregeln in Familienstreitsachen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: ZVG § 149 Beschlagnahme mit Anordnung, Rechnungslegung 12 Monate, Verteilungstermin nach Plan, sofortige Beschwerde 2 Wochen.
-- Tragende Normen verifizieren: ZVG §§ 146-161 (Zwangsverwaltung), 1-150 (Zwangsversteigerung), §§ 869-882 ZPO, GVKostG, RPflG, GBO §§ 19, 20, 53 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage
-- **Normen-/Quellenanker:** ZVG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Oeffentliche** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ---
 
 ## Skill: `anschluss-routing`
 
-_Wenn es um Anschluss-Routing in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: ZVG-Zwangsverwaltung - Verwalter-Cockpit._
 
 # Anschluss-Routing
 
@@ -819,55 +395,119 @@ Dieses Anschluss-Routing für **Zwangsverwaltung Zvg** wählt nach dem ersten Er
 
 ---
 
-## Skill: `beschlagnahme-fristen-form-und-zustaendigkeit`
+## Skill: `quellen-livecheck`
 
-_Wenn es um Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: ZVG-Zwangsverwaltung - Verwalter-Cockpit._
 
-# Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg
+# Rechtsquellen-Livecheck
+
+## Einsatzlage
+
+Dieser Quellen-Livecheck für **Zwangsverwaltung Zvg** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
+
+## Fachlandkarte dieses Plugins
+
+- `aktenanlage-objektcockpit` — Aktenanlage Objektcockpit
+- `berichte-beschlagnahme-mietverwaltung-besitz` — Berichte Beschlagnahme Mietverwaltung Besitz
+- `berichtswesen-besitzuebernahme-bestellung` — Berichtswesen Besitzuebernahme Bestellung
+- `beschlagnahme-fristen-form-und-zustaendigkeit` — Beschlagnahme Fristen Form und Zustaendigkeit
+- `beschlagnahme-mietverwaltung-start` — Beschlagnahme Mietverwaltung Start
+- `beschlagnahme-oeffentliche-lasten` — Beschlagnahme Oeffentliche Lasten
+- `besitz-dokumentenmatrix-und-lueckenliste` — Besitz Dokumentenmatrix und Lueckenliste
+- `besitzuebernahme` — Besitzuebernahme
+- `bestellung-beschlagnahme` — Bestellung Beschlagnahme
+- `betriebskosten-hausgeld-bieterangebot` — Betriebskosten Hausgeld Bieterangebot
+- `bieterangebot-bewertung` — Bieterangebot Bewertung
+- `bieterangebote-mieten-oeffentliche` — Bieterangebote Mieten Oeffentliche
+- `gate-fehlerkatalog` — Gate Fehlerkatalog
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: ZVG § 149 Beschlagnahme mit Anordnung, Rechnungslegung 12 Monate, Verteilungstermin nach Plan, sofortige Beschwerde 2 Wochen.
-- Tragende Normen verifizieren: ZVG §§ 146-161 (Zwangsverwaltung), 1-150 (Zwangsversteigerung), §§ 869-882 ZPO, GVKostG, RPflG, GBO §§ 19, 20, 53 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Tragende Normen (ZVG) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
+- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
+- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
+- Dynamische Bereiche im Zwangsverwaltung Zvg (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
+- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
 
-## Spezialwissen: Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Normen-/Quellenanker:** ZVG.
+## Qualitätsanker
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+---
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Beschlagnahme** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Skill: `gate-fehlerkatalog`
 
-## Materielle Weichen Beschlagnahme im ZVG
-- **Wirkung der Beschlagnahme (§ 20 ZVG):** Mit der Beschlagnahme erfasst werden Grundstück mit Bestandteilen und Zubehör (§ 21 ZVG), Mietzinsen/Pachtzinsen und sonstige Nutzungen (§ 21 Abs. 2 ZVG). Verfügungsverbot zugunsten der Gläubiger (§ 23 ZVG): Eigentümer darf nicht mehr veräußern oder belasten; Verfügungen sind relativ unwirksam.
-- **Beginn der Beschlagnahme (§ 22 ZVG):** Mit Zustellung des Anordnungsbeschlusses an den Schuldner; bei Anordnung der Zwangsverwaltung mit Inbesitznahme durch den Verwalter.
-- **Eintragung im Grundbuch (§ 19 Abs. 2 ZVG):** Versteigerungsvermerk wird als Sicherungseintragung von Amts wegen im Grundbuch eingetragen; macht die Beschlagnahme öffentlich.
-- **Schutzwirkung Beschlagnahme:** Vor der Beschlagnahme bestehende Rechte bleiben in der Rangfolge unverändert; nach Beschlagnahme erworbene Rechte sind gegenüber dem Versteigerungserlös in der Rangfolge nachrangig (§ 23 ZVG).
-- **Mieter und neue Mietverträge (§ 57b ZVG):** Vor Beschlagnahme abgeschlossene Mietverträge bestehen fort. Nach Beschlagnahme abgeschlossene Verträge dürfen nicht zu Lasten der Berechtigten gehen (§ 57b ZVG); Wirkungslosigkeit gegenüber Gläubigern, soweit nachteilig.
-- **Vereinbarungen über Miete:** Vorausverfügungen des Schuldners über Miete (z. B. Abtretung) sind nur in den Schranken des § 1124 BGB i.V.m. § 21 Abs. 2 ZVG zulässig - max. für den laufenden Mietzeitraum.
-- **Aufhebung (§ 28 ZVG):** Der Schuldner kann durch Antrag die einstweilige Einstellung erreichen, wenn er glaubhaft macht, dass die Versteigerung eine unbillige Härte bedeuten würde (§ 30a ZVG - sechsmonatige Schutzfrist möglich).
-- **Verhältnis zu anderen Vollstreckungen:** Pfändung von Mietzinsen ist nach Beschlagnahme grundsätzlich überholt (§ 21 Abs. 2 ZVG); andere Vollstreckungsmaßnahmen wirken nicht auf die beschlagnahmten Gegenstände.
-- **Praktiker-Tipp:** Zustellung des Anordnungsbeschlusses ist die zentrale Datumsgrenze; alle danach erfolgten Verfügungen sind risikobehaftet. Im Schuldner-Beraterkontext: Anfechtungsverfahren prüfen und Antrag auf einstweilige Einstellung (§ 30a ZVG) frühzeitig stellen.
+_Für Gate Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: ZVG-Zwangsverwaltung - Verwalter-Cockpit._
+
+# Gate Fehlerkatalog
+
+## Zweck
+
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Zwangsverwaltung ZVG** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
+
+## Fehlerkatalog
+
+### 1. Frist falsch berechnet oder übersehen (Beschwerde gegen Anordnung)
+
+- **Symptom:** Frist falsch berechnet oder übersehen (Beschwerde gegen Anordnung)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
+
+### 2. Parallelfrist vergessen (Rechnungslegung)
+
+- **Symptom:** Parallelfrist vergessen (Rechnungslegung)
+- **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
+- **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
+
+### 3. Falsche Zuständigkeit adressiert (richtig: Amtsgericht Vollstreckungsgericht)
+
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: Amtsgericht Vollstreckungsgericht)
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
+
+### 4. Beweismittel nicht gesichert (Mieteinnahmen)
+
+- **Symptom:** Beweismittel nicht gesichert (Mieteinnahmen)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
+
+### 5. Schlüsseldokument fehlt oder veraltet (Anordnungsbeschluss)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Anordnungsbeschluss)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 6. Normzitat ohne Fassungsprüfung (ZVG §§ 146 ff.)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (ZVG §§ 146 ff.)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 7. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 8. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.
 
 ---
 
 ## Skill: `rechnungslegung-internationaler-bezug-und-schnittstellen`
 
-_Wenn es um Rechnungslegung: Internationaler Bezug und Schnittstellen in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Rechnungslegung: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Rechnungslegung: Internationaler Bezug und Schnittstellen
 
@@ -912,6 +552,326 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `workflow-chronologie-und-belegmatrix`
+
+_Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: ZVG-Zwangsverwaltung - Verwalter-Cockpit._
+
+# Chronologie und Belegmatrix
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Chronologie und Belegmatrix** im Bereich **zwangsverwaltung-zvg** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+---
+
+## Skill: `beschlagnahme-mietverwaltung-start`
+
+_Für Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: ZVG § 149 Beschlagnahme mit Anordnung, Rechnungslegung 12 Monate, Verteilungstermin nach Plan, sofortige Beschwerde 2 Wochen.
+- Tragende Normen verifizieren: ZVG §§ 146-161 (Zwangsverwaltung), 1-150 (Zwangsversteigerung), §§ 869-882 ZPO, GVKostG, RPflG, GBO §§ 19, 20, 53 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Einstieg
+Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
+
+1. Wer handelt in welcher Rolle und gegen wen?
+2. Welches praktische Ziel soll erreicht werden?
+3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
+4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
+5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
+
+## Arbeitsworkflow
+1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
+2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
+3. **Materielle Weichen:** Die Kernfragen zu **Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
+4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
+5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `glaeubiger-schuldner-kommunikation`
+
+_Für Gläubiger-, Schuldner- und Drittschuldnerkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Gläubiger-, Schuldner- und Drittschuldnerkommunikation
+
+## Arbeitsbereich
+
+Schriftwechsel in der Zwangsverwaltung mit Schuldner Gläubiger Mieter Gericht Versicherern und Dienstleistern. Anwendungsfall Zwangsverwalter muss formgerechte Schreiben an alle Beteiligten erstellen. Normen §§ 150 151 ZVG § 154 ZVG Pflichten § 543 BGB Kündigung § 535 BGB Mietrecht. Prüfraster Adressat Anlass Normbezug Ton Fristen Dokumentation. Output Schreibenpaket mit Vorlagen für alle typischen Kommunikationsanlaesse in der Zwangsverwaltung. Abgrenzung zu zvg-berichtswesen-gericht (nur Gericht) und zvg-miet-und-pachtverwaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: ZVG § 149 Beschlagnahme mit Anordnung, Rechnungslegung 12 Monate, Verteilungstermin nach Plan, sofortige Beschwerde 2 Wochen.
+- Tragende Normen verifizieren: ZVG §§ 146-161 (Zwangsverwaltung), 1-150 (Zwangsversteigerung), §§ 869-882 ZPO, GVKostG, RPflG, GBO §§ 19, 20, 53 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Startet bei
+
+- Mieter, Schuldner, Gläubiger oder Behörden informiert werden müssen
+- Konflikte über Zutritt, Mieten oder Maßnahmen entstehen
+- Gerichtskommunikation vorbereitet wird
+
+## Eingaben
+
+- Rolle und Adressat
+- Beschluss, Objekt, Anlass, gewünschte Reaktion
+- Frist, Belege und Tonalität
+
+## Workflow
+
+1. **Adressat klären** - Rolle, Rechte, Pflichten und Zustellweg bestimmen.
+2. **Kernbotschaft** - Was ist passiert, was wird verlangt, bis wann, mit welcher Folge.
+3. **Belege** - Beschluss, Bestallung, Konto, Fotos oder Tabellen beifügen.
+4. **Nachhalten** - Wiedervorlage, Antwortauswertung und Eskalation setzen.
+
+## Ausgabe
+
+- Schreibenentwurf
+- Anlagenliste
+- Wiedervorlage
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Qualitätsgates
+
+- keine Drohung ohne Grundlage
+- Zahlstelle eindeutig
+- Adressat nicht verwechselt
+
+## Rote Schwellen
+
+- Schuldner blockiert Objektzugang
+- Mieter zahlen falsch
+- Gläubiger drängt auf unzulässige Sonderzahlung
+
+## Interne Vorlagen
+
+- assets/templates/schuldner-glaeubiger-kommunikation.md
+- assets/templates/mieterliste-rent-roll.md
+
+## Amtliche Erstquellen
+
+- § 4 ZwVwV
+- § 16 ZwVwV
+
+## Paragrafenkette Gläubiger-Schuldner-Kommunikation
+
+§ 154 ZVG (Aufsicht durch Gericht) → § 153 Abs. 2 ZVG (Auskunftspflicht) → §§ 13-15 ZwVwV (Buchführung Rechnungslegung) → § 20 ZwVwV (Vergütung und Rechenschaft) → § 242 BGB (Treu und Glauben, Auskunftsanspruch analog)
+
+## Triage Kommunikation
+
+1. Wer ist betreibender Gläubiger? (Alle Gläubiger in Rangklassen nach § 10 ZVG erfassen)
+2. Liegt eine Bevollmächtigung des Gläubigers vor? (Ansprechpartner/Kanzlei)
+3. Kommuniziert der Schuldner kooperativ? (Verweigerung → Gerichtsantrag)
+4. Haben weitere Gläubiger beigetreten?
+
+## Output-Template Gläubigerinfo-Schreiben (Auszug)
+
+**Adressat:** Betreibender Gläubiger — Tonfall formell-berichtend
+
+```
+An [GLÄUBIGER / BEVOLLMÄCHTIGTE KANZLEI]
+[ADRESSE]
+
+Zwangsverwaltung [ADRESSE], AZ [X]
+Quartalsbericht [QUARTAL/JAHR]
+
+Sehr geehrte Damen und Herren,
+
+zum Stand der Zwangsverwaltung berichte ich:
+
+Einnahmen [QUARTAL]: [BETRAG]
+Ausgaben [QUARTAL]: [BETRAG]
+Kontostand per [DATUM]: [BETRAG]
+Ausschüttungsfähiger Betrag nach Rücklage: [BETRAG]
+
+Besondere Vorkommnisse: [LEERSTAND REPARATUR RECHTSTREIT]
+
+Nächster Auszahlungsantrag: [DATUM]
+
+[UNTERSCHRIFT ZWANGSVERWALTER]
+```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `output-waehlen`
+
+_Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: ZVG-Zwangsverwaltung - Verwalter-Cockpit._
+
+# Output wählen
+
+## Einsatzlage
+
+Diese Output-Weiche für **Zwangsverwaltung Zvg** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
+
+## Fachlandkarte dieses Plugins
+
+- `aktenanlage-objektcockpit` — Aktenanlage Objektcockpit
+- `berichte-beschlagnahme-mietverwaltung-besitz` — Berichte Beschlagnahme Mietverwaltung Besitz
+- `berichtswesen-besitzuebernahme-bestellung` — Berichtswesen Besitzuebernahme Bestellung
+- `beschlagnahme-fristen-form-und-zustaendigkeit` — Beschlagnahme Fristen Form und Zustaendigkeit
+- `beschlagnahme-mietverwaltung-start` — Beschlagnahme Mietverwaltung Start
+- `beschlagnahme-oeffentliche-lasten` — Beschlagnahme Oeffentliche Lasten
+- `besitz-dokumentenmatrix-und-lueckenliste` — Besitz Dokumentenmatrix und Lueckenliste
+- `besitzuebernahme` — Besitzuebernahme
+- `bestellung-beschlagnahme` — Bestellung Beschlagnahme
+- `betriebskosten-hausgeld-bieterangebot` — Betriebskosten Hausgeld Bieterangebot
+- `bieterangebot-bewertung` — Bieterangebot Bewertung
+- `bieterangebote-mieten-oeffentliche` — Bieterangebote Mieten Oeffentliche
+- `gate-fehlerkatalog` — Gate Fehlerkatalog
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
+
+## Arbeitsweg
+
+- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Zwangsverwaltung Zvg (ZVG) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `treuhandkonto-versteigerung`
+
+_Für Treuhandkonto: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Treuhandkonto: Behörden-, Gerichts- oder Registerweg
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: ZVG § 149 Beschlagnahme mit Anordnung, Rechnungslegung 12 Monate, Verteilungstermin nach Plan, sofortige Beschwerde 2 Wochen.
+- Tragende Normen verifizieren: ZVG §§ 146-161 (Zwangsverwaltung), 1-150 (Zwangsversteigerung), §§ 869-882 ZPO, GVKostG, RPflG, GBO §§ 19, 20, 53 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Treuhandkonto: Behörden-, Gerichts- oder Registerweg
+- **Normen-/Quellenanker:** ZVG.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Treuhandkonto** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `workflow-unterlagen-lueckenliste`
+
+_Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: ZVG-Zwangsverwaltung - Verwalter-Cockpit._
+
+# Unterlagen- und Lückenliste
+
+## Aufgabe
+Nutze diesen Workflow-Skill für Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ---
 

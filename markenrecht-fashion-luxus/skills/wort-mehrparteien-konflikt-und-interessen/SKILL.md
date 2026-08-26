@@ -1,6 +1,6 @@
 ---
 name: wort-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Wort: Mehrparteienkonflikt und Interessenmatrix in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wort: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wort: Mehrparteienkonflikt und Interessenmatrix

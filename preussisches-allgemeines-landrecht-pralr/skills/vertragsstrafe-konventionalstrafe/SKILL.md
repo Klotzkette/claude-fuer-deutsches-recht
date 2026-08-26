@@ -1,6 +1,6 @@
 ---
 name: vertragsstrafe-konventionalstrafe
-description: "Wenn es um Pralr Vertragsstrafe Und Konventionalstrafe in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vertragsstrafe Konventionalstrafe; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Vertragsstrafe und Konventionalstrafe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: vertragsstrafe-konventionalstrafe."
 ---
 
 # Pralr Vertragsstrafe Und Konventionalstrafe

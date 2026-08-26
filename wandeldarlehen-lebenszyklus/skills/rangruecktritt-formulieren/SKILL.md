@@ -1,6 +1,6 @@
 ---
 name: rangruecktritt-formulieren
-description: "Wenn es um Qualifizierten Rangrücktritt formulieren in Wandeldarlehen-Lebenszyklus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Qualifizierten Rangrücktritt formulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Qualifizierten Rangrücktritt formulieren

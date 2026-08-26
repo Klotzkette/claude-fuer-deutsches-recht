@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Wenn es um Erstes Einrichtungsgespräch (Kaltstart-Interview) in Jurastudium geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erstes Einrichtungsgespräch (Kaltstart-Interview): routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erstes Einrichtungsgespräch (Kaltstart-Interview)

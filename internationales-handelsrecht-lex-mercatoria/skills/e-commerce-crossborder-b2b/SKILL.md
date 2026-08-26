@@ -1,6 +1,6 @@
 ---
 name: e-commerce-crossborder-b2b
-description: "Wenn es um Grenzüberschreitender B2B-E-Commerce in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grenzüberschreitender B2B-E-Commerce: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzüberschreitender B2B-E-Commerce

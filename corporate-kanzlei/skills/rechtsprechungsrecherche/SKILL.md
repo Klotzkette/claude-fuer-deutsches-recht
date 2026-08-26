@@ -1,6 +1,6 @@
 ---
 name: rechtsprechungsrecherche
-description: "Wenn es um Corporate-Rechtsprechungsrecherche in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Corporate-Rechtsprechungsrecherche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: rechtsprechungsrecherche."
 ---
 
 # Corporate-Rechtsprechungsrecherche

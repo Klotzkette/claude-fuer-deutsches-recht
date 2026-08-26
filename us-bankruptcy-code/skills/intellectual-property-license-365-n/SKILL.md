@@ -1,6 +1,6 @@
 ---
 name: intellectual-property-license-365-n
-description: "Wenn es um Intellectual Property License Paragraf 365(n) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Intellectual Property License Paragraf 365(n): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Intellectual Property License § 365(n)

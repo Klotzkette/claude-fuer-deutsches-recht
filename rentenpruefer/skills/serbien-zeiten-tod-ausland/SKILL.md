@@ -1,6 +1,6 @@
 ---
 name: serbien-zeiten-tod-ausland
-description: "Wenn es um serbien-zeiten-und-nachweise in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für serbien-zeiten-und-nachweise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # serbien-zeiten-und-nachweise

@@ -1,6 +1,6 @@
 ---
 name: zitierweise-aktenzeichen-schriftsatz-brief-memo-bausteine
-description: "Wenn es um Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine in Zitierweise deutsches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Zitierweise deutsches Recht. Route: zitierweise-aktenzeichen-schriftsatz-brief-memo-bausteine."
 ---
 
 # Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine

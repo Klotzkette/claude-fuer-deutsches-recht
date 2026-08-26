@@ -1,6 +1,6 @@
 ---
 name: wohnungs-erbbaurecht-und-weg
-description: "Wenn es um Wohnungserbbaurecht in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wohnungserbbaurecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wohnungserbbaurecht

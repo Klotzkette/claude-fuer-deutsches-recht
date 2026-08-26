@@ -1,6 +1,6 @@
 ---
 name: rare-earths-and-critical-raw-materials
-description: "Wenn es um Seltene Erden und kritische Rohstoffe: Risiken und Diversifizierung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Seltene Erden und kritische Rohstoffe: Risiken und Diversifizierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Seltene Erden und kritische Rohstoffe: Risiken und Diversifizierung

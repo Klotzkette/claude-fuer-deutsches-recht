@@ -1,6 +1,6 @@
 ---
 name: excel-reiter-1-ueberblick
-description: "Wenn es um Reiter 1 Überblick Statuslage in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Reiter 1 Überblick Statuslage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reiter 1 Überblick Statuslage

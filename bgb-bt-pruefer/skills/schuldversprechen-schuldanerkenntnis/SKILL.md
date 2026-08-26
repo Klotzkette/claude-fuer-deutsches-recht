@@ -1,6 +1,6 @@
 ---
 name: schuldversprechen-schuldanerkenntnis
-description: "Wenn es um Schuldversprechen und Schuldanerkenntnis Paragrafen 780 und 781 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schuldversprechen und Schuldanerkenntnis Paragrafen 780 und 781 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schuldversprechen und Schuldanerkenntnis §§ 780 und 781 BGB

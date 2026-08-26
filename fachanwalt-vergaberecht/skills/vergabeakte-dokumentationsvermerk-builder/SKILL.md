@@ -1,6 +1,6 @@
 ---
 name: vergabeakte-dokumentationsvermerk-builder
-description: "Wenn es um Vergabeakte Dokumentationsvermerk Builder in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vergabeakte Dokumentationsvermerk Builder: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vergabeakte und Dokumentationsvermerk für Auftraggeber aufbauen: Beschaffungsbedarf, Markterkundung, Verfahrenswahl, Eignung, Wertung, Kommunikation, Entscheidungen und Nachvollziehbarkeit.

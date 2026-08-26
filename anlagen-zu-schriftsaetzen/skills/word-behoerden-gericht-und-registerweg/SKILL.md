@@ -1,6 +1,6 @@
 ---
 name: word-behoerden-gericht-und-registerweg
-description: "Wenn es um Word/PDF-Umwandlung für Gericht und Behörden in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Word/PDF-Umwandlung für Gericht und Behörden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Word/PDF-Umwandlung für Gericht und Behörden

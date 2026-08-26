@@ -1,6 +1,6 @@
 ---
 name: anlagen-abschlussprodukt-und-uebergabe
-description: "Wenn es um Anlagen: Abschlussprodukt und Übergabe in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anlagen: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagen: Abschlussprodukt und Übergabe

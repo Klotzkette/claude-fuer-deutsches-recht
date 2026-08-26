@@ -1,6 +1,6 @@
 ---
 name: audio-transkript-zu-fachbeitrag
-description: "Wenn es um Audio-Transkript zu Fachbeitrag in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Audio-Transkript zu Fachbeitrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Audio-Transkript zu Fachbeitrag

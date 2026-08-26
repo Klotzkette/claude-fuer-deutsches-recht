@@ -1,6 +1,6 @@
 ---
 name: copyrightability-idea-facts-methods
-description: "Wenn es um Copyrightability, Ideen, Fakten und Methoden in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Copyrightability, Ideen, Fakten und Methoden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Copyrightability, Ideen, Fakten und Methoden

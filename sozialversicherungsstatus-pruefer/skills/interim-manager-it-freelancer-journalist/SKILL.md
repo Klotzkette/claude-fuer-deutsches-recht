@@ -1,6 +1,6 @@
 ---
 name: interim-manager-it-freelancer-journalist
-description: "Wenn es um Interim Manager in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Interim Manager: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Interim Manager

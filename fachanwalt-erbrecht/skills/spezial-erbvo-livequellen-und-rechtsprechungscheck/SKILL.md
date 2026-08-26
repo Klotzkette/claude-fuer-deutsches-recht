@@ -1,6 +1,6 @@
 ---
 name: spezial-erbvo-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Erbvo: Livequellen- und Rechtsprechungscheck in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erbvo: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbvo: Livequellen- und Rechtsprechungscheck

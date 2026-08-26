@@ -1,6 +1,6 @@
 ---
 name: whistleblower-channel-china-supply
-description: "Wenn es um Whistleblower-Kanäle China: HinSchG und lokale Einschränkungen in China-Wirtschaftsverkehr geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Whistleblower-Kanäle China: HinSchG und lokale Einschränkungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Whistleblower-Kanäle China: HinSchG und lokale Einschränkungen

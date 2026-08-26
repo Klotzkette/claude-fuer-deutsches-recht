@@ -1,6 +1,6 @@
 ---
 name: management-report-schreiben
-description: "Wenn es um Management Report schreiben in Kanzlei Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Management Report schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Management Report schreiben

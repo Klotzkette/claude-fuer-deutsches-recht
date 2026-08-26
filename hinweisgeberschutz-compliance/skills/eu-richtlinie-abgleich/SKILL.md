@@ -1,6 +1,6 @@
 ---
 name: eu-richtlinie-abgleich
-description: "Wenn es um EU Richtlinie Abgleich in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für EU Richtlinie Abgleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU Richtlinie Abgleich

@@ -1,6 +1,6 @@
 ---
 name: strassenrecht-verkehrs-verkehrswende
-description: "Wenn es um Strassenrecht: Internationaler Bezug und Schnittstellen in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenrecht: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strassenrecht: Internationaler Bezug und Schnittstellen

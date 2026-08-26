@@ -1,6 +1,6 @@
 ---
 name: t-rezept-besondere-arzneimittel
-description: "Wenn es um T-Rezept besondere Arzneimittel in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für T-Rezept besondere Arzneimittel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # T-Rezept besondere Arzneimittel

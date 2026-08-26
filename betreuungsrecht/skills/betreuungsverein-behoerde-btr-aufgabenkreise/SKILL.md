@@ -1,6 +1,6 @@
 ---
 name: betreuungsverein-behoerde-btr-aufgabenkreise
-description: "Wenn es um Hilfe holen: Betreuungsverein, Behörde, Gericht in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Betreuungsverein Behoerde Btr Aufgabenkreise; Arbeitsfeld: Betreuungsrecht."
+description: "Für Hilfe holen: Betreuungsverein, Behörde, Gericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: betreuungsverein-behoerde-btr-aufgabenkreise."
 ---
 
 # Hilfe holen: Betreuungsverein, Behörde, Gericht

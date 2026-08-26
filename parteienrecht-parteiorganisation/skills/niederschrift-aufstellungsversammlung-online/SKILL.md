@@ -1,6 +1,6 @@
 ---
 name: niederschrift-aufstellungsversammlung-online
-description: "Wenn es um Niederschrift Aufstellungsversammlung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Niederschrift Aufstellungsversammlung Online; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Niederschrift Aufstellungsversammlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: niederschrift-aufstellungsversammlung-online."
 ---
 
 # Niederschrift Aufstellungsversammlung

@@ -1,6 +1,6 @@
 ---
 name: logging-siem-soc
-description: "Wenn es um Logging SIEM SOC in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Logging SIEM SOC: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Logging SIEM SOC

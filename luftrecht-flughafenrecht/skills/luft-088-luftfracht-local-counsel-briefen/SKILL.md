@@ -1,6 +1,6 @@
 ---
 name: luft-088-luftfracht-local-counsel-briefen
-description: "Wenn es um Luftfracht Local Counsel Briefen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Luftfracht Local Counsel Briefen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Luftfracht Local Counsel Briefen

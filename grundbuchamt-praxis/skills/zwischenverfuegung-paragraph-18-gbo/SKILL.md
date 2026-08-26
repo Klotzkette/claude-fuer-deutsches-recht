@@ -1,6 +1,6 @@
 ---
 name: zwischenverfuegung-paragraph-18-gbo
-description: "Wenn es um Zwischenverfügung beantworten in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zwischenverfügung beantworten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zwischenverfügung beantworten

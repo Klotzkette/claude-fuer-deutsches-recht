@@ -1,6 +1,6 @@
 ---
 name: standardkostenmodell-skm
-description: "Wenn es um NKR-Standardkostenmodell (SKM) in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für NKR-Standardkostenmodell (SKM): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NKR-Standardkostenmodell (SKM)

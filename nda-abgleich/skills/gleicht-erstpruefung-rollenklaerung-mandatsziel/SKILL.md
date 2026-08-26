@@ -1,6 +1,6 @@
 ---
 name: gleicht-erstpruefung-rollenklaerung-mandatsziel
-description: "Wenn es um Gleicht: Erstprüfung, Rollenklärung und Mandatsziel in NDA-Abgleich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gleicht Erstpruefung Rollenklaerung Mandatsziel; Arbeitsfeld: NDA-Abgleich."
+description: "Für Gleicht: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: NDA-Abgleich. Route: gleicht-erstpruefung-rollenklaerung-mandatsziel."
 ---
 
 # Gleicht: Erstprüfung, Rollenklärung und Mandatsziel

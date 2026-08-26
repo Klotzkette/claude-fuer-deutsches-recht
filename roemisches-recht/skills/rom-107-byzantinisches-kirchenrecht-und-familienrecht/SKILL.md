@@ -1,6 +1,6 @@
 ---
 name: rom-107-byzantinisches-kirchenrecht-und-familienrecht
-description: "Wenn es um Byzantinisches Kirchenrecht und Familienrecht in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Byzantinisches Kirchenrecht und Familienrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: rom-107-byzantinisches-kirchenrecht-und-familienrecht."
 ---
 
 # Byzantinisches Kirchenrecht und Familienrecht

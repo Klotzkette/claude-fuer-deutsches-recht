@@ -1,6 +1,6 @@
 ---
 name: spenden-zuwendungsbestaetigung-sportverein
-description: "Wenn es um Spenden und Zuwendungsbestätigung in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Spenden und Zuwendungsbestätigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spenden und Zuwendungsbestätigung

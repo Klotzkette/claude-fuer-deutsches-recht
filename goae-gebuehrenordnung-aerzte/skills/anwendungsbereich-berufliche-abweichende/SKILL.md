@@ -1,6 +1,6 @@
 ---
 name: anwendungsbereich-berufliche-abweichende
-description: "Wenn es um GOÄ Paragraf 1 Anwendungsbereich berufliche Leistungen in GOÄ Gebührenordnung für Ärzte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GOÄ Paragraf 1 Anwendungsbereich berufliche Leistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GOÄ § 1 Anwendungsbereich berufliche Leistungen

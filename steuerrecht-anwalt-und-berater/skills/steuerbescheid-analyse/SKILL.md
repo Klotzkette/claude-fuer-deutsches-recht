@@ -1,6 +1,6 @@
 ---
 name: steuerbescheid-analyse
-description: "Wenn es um Steuerbescheid-Analyse in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuerbescheid-Analyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerbescheid-Analyse

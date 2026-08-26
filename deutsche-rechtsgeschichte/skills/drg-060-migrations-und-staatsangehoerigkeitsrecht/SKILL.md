@@ -1,6 +1,6 @@
 ---
 name: drg-060-migrations-und-staatsangehoerigkeitsrecht
-description: "Wenn es um Migrations Und Staatsangehoerigkeitsrecht in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Migrations und Staatsangehörigkeitsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Migrations Und Staatsangehoerigkeitsrecht

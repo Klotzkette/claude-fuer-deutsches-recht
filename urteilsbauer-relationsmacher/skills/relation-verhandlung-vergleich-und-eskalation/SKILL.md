@@ -1,6 +1,6 @@
 ---
 name: relation-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Relation: Verhandlung, Vergleich und Eskalation in Urteilsbauer und Relationsmacher geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Relation: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Urteilsbauer und Relationsmacher. Route: relation-verhandlung-vergleich-und-eskalation."
 ---
 
 # Relation: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-bestaetigt-end-to-end-roadmap
-description: "Wenn es um Hochrisiko-digitale Werkzeuge bestätigt — die End-to-End-Roadmap in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für die Auswahl: Hochrisiko Bestaetigt End To End Roadmap."
+description: "Für Hochrisiko-digitale Werkzeuge bestätigt — die End-to-End-Roadmap: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: hochrisiko-bestaetigt-end-to-end-roadmap."
 ---
 
 # Hochrisiko-KI bestätigt — die End-to-End-Roadmap

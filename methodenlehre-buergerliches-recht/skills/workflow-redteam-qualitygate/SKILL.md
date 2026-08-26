@@ -1,6 +1,6 @@
 ---
 name: workflow-redteam-qualitygate
-description: "Wenn es um Workflow Redteam Qualitygate in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Workflow Redteam Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Methodenlehre bürgerliches Recht."
 ---
 
 # Dieses Skill strukturiert das Red-Team-Quality-Gate als systematischen Qualitätssicherungsprozess vor der finalen Einreichung oder Übergabe juristischer Arbeitsergebnisse

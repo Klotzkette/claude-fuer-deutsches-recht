@@ -1,6 +1,6 @@
 ---
 name: cloud-saas-company-mobile-cra-produkte
-description: "Wenn es um Cloud Saas Einfuehrung Slack in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cloud Saas Einführung Slack: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cloud Saas Einfuehrung Slack

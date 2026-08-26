@@ -1,6 +1,6 @@
 ---
 name: praesidium-ausschuesse-protokollbaustein
-description: "Wenn es um Praesidium Und Ausschuesse in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Präsidium und Ausschüsse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praesidium Und Ausschuesse

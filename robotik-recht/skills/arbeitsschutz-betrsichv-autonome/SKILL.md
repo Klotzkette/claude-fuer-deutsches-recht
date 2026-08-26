@@ -1,6 +1,6 @@
 ---
 name: arbeitsschutz-betrsichv-autonome
-description: "Wenn es um Arbeitsschutz und BetrSichV in der Robotik in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Arbeitsschutz und BetrSichV in der Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: arbeitsschutz-betrsichv-autonome."
 ---
 
 # Arbeitsschutz und BetrSichV in der Robotik

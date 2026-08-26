@@ -1,6 +1,6 @@
 ---
 name: anfrage-eingang-parser
-description: "Wenn es um Anfrage-Eingang-Parser in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anfrage-Eingang-Parser: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anfrage-Eingang-Parser

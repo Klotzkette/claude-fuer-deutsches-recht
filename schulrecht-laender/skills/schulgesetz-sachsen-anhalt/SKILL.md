@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-sachsen-anhalt
-description: "Wenn es um Schulgesetz Sachsen Anhalt in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulgesetz Sachsen Anhalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulgesetz Sachsen Anhalt

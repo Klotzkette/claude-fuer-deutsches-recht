@@ -1,6 +1,6 @@
 ---
 name: import-einzelimport-73-amg
-description: "Wenn es um Import Einzelimport Paragraf 73 AMG in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Import Einzelimport Paragraf 73 AMG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Import Einzelimport § 73 AMG

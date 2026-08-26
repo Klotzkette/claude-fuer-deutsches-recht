@@ -1,6 +1,6 @@
 ---
 name: wandlung-kommunikation-paketverteilung
-description: "Wenn es um Wandlung – Kommunikation und Paketverteilung in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wandlung – Kommunikation und Paketverteilung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wandlung – Kommunikation und Paketverteilung

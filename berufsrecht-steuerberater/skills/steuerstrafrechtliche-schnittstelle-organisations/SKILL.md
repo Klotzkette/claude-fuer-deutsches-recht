@@ -1,6 +1,6 @@
 ---
 name: steuerstrafrechtliche-schnittstelle-organisations
-description: "Wenn es um Steuerstrafrechtliche Schnittstelle Organisations in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuerstrafrechtliche Schnittstelle Organisations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: steuerstrafrechtliche schnittstelle - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

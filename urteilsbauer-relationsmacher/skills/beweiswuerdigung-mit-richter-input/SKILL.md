@@ -1,6 +1,6 @@
 ---
 name: beweiswuerdigung-mit-richter-input
-description: "Wenn es um Beweiswürdigung mit haendischem Richter-Input in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Beweiswuerdigung Mit Richter Input; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Beweiswürdigung mit händischem Richter-Input: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Urteilsbauer und Relationsmacher. Route: beweiswuerdigung-mit-richter-input."
 ---
 
 # Beweiswürdigung mit haendischem Richter-Input

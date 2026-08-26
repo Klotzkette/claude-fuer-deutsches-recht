@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-nis2-cybersecurity-rollen-ziel
-description: "Wenn es um Aufsichtsrat NIS2 Cybersecurity in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Aufsichtsrat NIS2 Cybersecurity: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufsichtsrat NIS2 Cybersecurity

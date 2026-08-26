@@ -1,6 +1,6 @@
 ---
 name: bautraeger-rechtswidrige-anpassungsklauseln
-description: "Wenn es um Rechtswidrige Anpassungsklauseln im Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtswidrige Anpassungsklauseln im Bauträgervertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtswidrige Anpassungsklauseln im Bautraegervertrag

@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheitsklauseln-redline
-description: "Wenn es um Verschwiegenheitsklauseln Redline in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verschwiegenheitsklauseln Redline: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verschwiegenheitsklauseln Redline

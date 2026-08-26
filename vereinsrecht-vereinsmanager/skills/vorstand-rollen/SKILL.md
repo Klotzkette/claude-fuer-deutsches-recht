@@ -1,6 +1,6 @@
 ---
 name: vorstand-rollen
-description: "Wenn es um Vorstand und Rollen in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vorstand und Rollen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorstand und Rollen

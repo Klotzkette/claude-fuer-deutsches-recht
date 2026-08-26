@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-legal
-description: "Wenn es um Gesellschaftsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Gesellschaftsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschaftsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

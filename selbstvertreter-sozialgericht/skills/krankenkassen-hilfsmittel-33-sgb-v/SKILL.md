@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-hilfsmittel-33-sgb-v
-description: "Wenn es um Krankenkassen Hilfsmittel 33 Sgb V in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenkassen Hilfsmittel 33 SGB V: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenkassen Hilfsmittel 33 Sgb V

@@ -1,6 +1,6 @@
 ---
 name: gebuehren-und-kostentransparenz-organisationspfl
-description: "Wenn es um Gebuehren Und Kostentransparenz Organisationspfl in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gebühren und Kostentransparenz Organisationspfl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Patentanwälte: gebuehren und kostentransparenz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

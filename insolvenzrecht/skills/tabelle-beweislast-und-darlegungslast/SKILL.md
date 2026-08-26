@@ -1,6 +1,6 @@
 ---
 name: tabelle-beweislast-und-darlegungslast
-description: "Wenn es um Tabelle: Beweislast, Darlegungslast und Substantiierung in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tabelle: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Tabelle: Beweislast, Darlegungslast und Substantiierung

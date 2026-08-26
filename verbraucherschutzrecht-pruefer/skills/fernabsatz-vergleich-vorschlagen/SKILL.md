@@ -1,6 +1,6 @@
 ---
 name: fernabsatz-vergleich-vorschlagen
-description: "Wenn es um Fernabsatz Vergleich Vorschlagen in Verbraucherschutzrecht Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Fernabsatz Vergleich Vorschlagen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Fernabsatz Vergleich Vorschlagen

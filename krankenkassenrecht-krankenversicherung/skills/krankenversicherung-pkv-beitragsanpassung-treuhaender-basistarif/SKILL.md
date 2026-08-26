@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-pkv-beitragsanpassung-treuhaender-basistarif
-description: "Wenn es um PKV-Beitragsanpassung: Treuhänder, Begründung und Verjährung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PKV-Beitragsanpassung: Treuhänder, Begründung und Verjährung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # PKV-Beitragsanpassung: Treuhänder, Begründung und Verjährung

@@ -1,6 +1,6 @@
 ---
 name: legistik-europarechtskonformitaet-notifizierung
-description: "Wenn es um Europarechtskonformität in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Legistik Europarechtskonformitaet Notifizierung; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Europarechtskonformität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Legistik-Werkstatt. Route: legistik-europarechtskonformitaet-notifizierung."
 ---
 
 # Europarechtskonformität

@@ -1,6 +1,6 @@
 ---
 name: verwaltungsakt-paragraf-35-vwvfg
-description: "Wenn es um Verwaltungsakt Paragraf 35 VwVfG in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verwaltungsakt Paragraf 35 VwVfG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwaltungsakt § 35 VwVfG

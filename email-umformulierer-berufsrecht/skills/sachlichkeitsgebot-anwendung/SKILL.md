@@ -1,6 +1,6 @@
 ---
 name: sachlichkeitsgebot-anwendung
-description: "Wenn es um Sachlichkeitsgebot-Anwendung in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachlichkeitsgebot-Anwendung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sachlichkeitsgebot-Anwendung

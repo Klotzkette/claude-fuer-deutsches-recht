@@ -1,6 +1,6 @@
 ---
 name: haftpflicht-und-schadenanzeige-organisations
-description: "Wenn es um Haftpflicht Und Schadenanzeige Organisations in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftpflicht und Schadenanzeige Organisations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: haftpflicht und schadenanzeige - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

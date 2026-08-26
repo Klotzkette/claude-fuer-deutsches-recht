@@ -1,6 +1,6 @@
 ---
 name: bankentgelte-vergleich-pruefen
-description: "Wenn es um Bankentgelte Vergleich Prüfen in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Bankentgelte Vergleich Prüfen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Verbraucherschutzverband Durchsetzung. Route: bankentgelte-vergleich-pruefen."
 ---
 
 # Bankentgelte Vergleich Prüfen

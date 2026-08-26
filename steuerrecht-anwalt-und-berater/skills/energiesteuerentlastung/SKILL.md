@@ -1,6 +1,6 @@
 ---
 name: energiesteuerentlastung
-description: "Wenn es um Energie- und Stromsteuerentlastung — EnergieStG und StromStG in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energie- und Stromsteuerentlastung — EnergieStG und StromStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Energie- und Stromsteuerentlastung — EnergieStG und StromStG

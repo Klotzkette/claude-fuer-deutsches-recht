@@ -1,6 +1,6 @@
 ---
 name: livecheck-sonderfall-und-edge-case
-description: "Wenn es um Livecheck: Sonderfall und Edge-Case-Prüfung in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Livecheck: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Europarecht-Kompass für deutsche Juristen."
 ---
 
 # Livecheck: Sonderfall und Edge-Case-Prüfung

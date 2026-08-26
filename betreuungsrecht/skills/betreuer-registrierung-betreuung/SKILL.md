@@ -1,6 +1,6 @@
 ---
 name: betreuer-registrierung-betreuung
-description: "Wenn es um Betreuer als Erbe und Beschenkter in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuer Registrierung Betreuung; Arbeitsfeld: Betreuungsrecht."
+description: "Für Betreuer als Erbe und Beschenkter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: betreuer-registrierung-betreuung."
 ---
 
 # Betreuer als Erbe und Beschenkter

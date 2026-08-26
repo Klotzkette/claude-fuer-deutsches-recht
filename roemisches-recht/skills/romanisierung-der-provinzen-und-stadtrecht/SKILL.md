@@ -1,6 +1,6 @@
 ---
 name: romanisierung-der-provinzen-und-stadtrecht
-description: "Wenn es um Rom 159 Romanisierung Der Provinzen Und Stadtrecht in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom 159 Romanisierung der Provinzen und Stadtrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 159 Romanisierung Der Provinzen Und Stadtrecht

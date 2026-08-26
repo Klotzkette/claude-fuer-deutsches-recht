@@ -1,6 +1,6 @@
 ---
 name: agrarinvestitionsfoerderung-widerruf-rueckforderung
-description: "Prüft Widerruf und Rückforderung einer Agrarinvestitionsförderung. Trennt Rechtswidrigkeit, Zweckverfehlung und Auflagenverstoß, ordnet Unions-, Bundes-, Landes- und Bescheidrecht, prüft Anhörung, Ermessen, Verhältnismäßigkeit, Vertrauensschutz, Zinsen und erstellt Gegenrechnung und Rechtsbehelf."
+description: "Für Agrarinvestitionsförderung verteidigen oder zurückfordern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agrarinvestitionsförderung verteidigen oder zurückfordern

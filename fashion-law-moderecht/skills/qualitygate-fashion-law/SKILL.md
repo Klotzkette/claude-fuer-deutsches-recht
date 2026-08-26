@@ -1,6 +1,6 @@
 ---
 name: qualitygate-fashion-law
-description: "Wenn es um Qualitygate Fashion Law in fashion-law-moderecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Qualitygate Fashion Law: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitygate Fashion Law

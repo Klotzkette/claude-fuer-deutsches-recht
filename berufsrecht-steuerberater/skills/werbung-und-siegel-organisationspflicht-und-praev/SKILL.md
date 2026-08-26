@@ -1,6 +1,6 @@
 ---
 name: werbung-und-siegel-organisationspflicht-und-praev
-description: "Wenn es um Werbung Und Siegel Organisationspflicht Und Praev in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Werbung und Siegel Organisationspflicht und Praev: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: werbung und siegel - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

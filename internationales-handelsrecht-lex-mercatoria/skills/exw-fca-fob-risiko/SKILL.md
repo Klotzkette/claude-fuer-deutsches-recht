@@ -1,6 +1,6 @@
 ---
 name: exw-fca-fob-risiko
-description: "Wenn es um EXW, FCA, FOB: Risikoübergang und Pflichten in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EXW, FCA, FOB: Risikoübergang und Pflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EXW, FCA, FOB: Risikoübergang und Pflichten

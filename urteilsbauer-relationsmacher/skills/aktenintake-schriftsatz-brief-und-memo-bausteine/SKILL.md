@@ -1,6 +1,6 @@
 ---
 name: aktenintake-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine in Urteilsbauer und Relationsmacher geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Aktenintake Schriftsatz Brief Und Memo Bausteine; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Urteilsbauer und Relationsmacher. Route: aktenintake-schriftsatz-brief-und-memo-bausteine."
 ---
 
 # Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine

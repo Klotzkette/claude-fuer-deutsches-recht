@@ -1,6 +1,6 @@
 ---
 name: fao-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um FAO-Dokumentenmatrix: Nachweise für Fachanwaltschaft gewerblicher Rechtsschutz Paragraf 14k FAO in Fachanwalt Gewerblicher Rechtsschutz geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für FAO-Dokumentenmatrix: Nachweise für Fachanwaltschaft gewerblicher Rechtsschutz Paragraf 14k FAO: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # FAO-Dokumentenmatrix: Nachweise für Fachanwaltschaft gewerblicher Rechtsschutz § 14k FAO
@@ -111,3 +111,7 @@ description: "Wenn es um FAO-Dokumentenmatrix: Nachweise für Fachanwaltschaft g
 ## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Aussage über FAO-Anforderungen ohne Live-Prüfung (RAK und BRAK).
 - Kein Ersatz für Beratung durch RAK oder Fachanwaltskommission.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-fao-dokumentenmatrix-und-lueckenliste` beziehungsweise FAO: Dokumentenmatrix, Lückenliste und Nachforderung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-fao-dokumentenmatrix-und-lueckenliste.md).

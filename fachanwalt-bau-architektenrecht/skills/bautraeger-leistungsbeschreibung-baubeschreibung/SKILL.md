@@ -1,6 +1,6 @@
 ---
 name: bautraeger-leistungsbeschreibung-baubeschreibung
-description: "Wenn es um Leistungsbeschreibung und Baubeschreibung beim Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leistungsbeschreibung und Baubeschreibung beim Bauträgervertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leistungsbeschreibung und Baubeschreibung beim Bautraegervertrag

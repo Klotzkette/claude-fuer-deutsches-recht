@@ -1,6 +1,6 @@
 ---
 name: social-media-leak
-description: "Wenn es um Social-Media-Leak – Insiderrecht und Ad-hoc-Reaktion in Insiderrecht Compliance geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Social-Media-Leak – Insiderrecht und Ad-hoc-Reaktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Social-Media-Leak – Insiderrecht und Ad-hoc-Reaktion

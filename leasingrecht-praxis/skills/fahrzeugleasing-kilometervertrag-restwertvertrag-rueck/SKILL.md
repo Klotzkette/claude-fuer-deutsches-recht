@@ -1,6 +1,6 @@
 ---
 name: fahrzeugleasing-kilometervertrag-restwertvertrag-rueck
-description: "Wenn es um Kfz-Leasing: Kilometervertrag, Restwertvertrag, Rückgabe in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kfz-Leasing: Kilometervertrag, Restwertvertrag, Rückgabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kfz-Leasing: Kilometervertrag, Restwertvertrag, Rückgabe

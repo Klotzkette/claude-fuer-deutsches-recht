@@ -1,6 +1,6 @@
 ---
 name: forced-labour-risk-xinjiang
-description: "Wenn es um Zwangsarbeit Xinjiang: EU-Forced-Labour-VO und LkSG in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zwangsarbeit Xinjiang: EU-Forced-Labour-VO und LkSG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zwangsarbeit Xinjiang: EU-Forced-Labour-VO und LkSG

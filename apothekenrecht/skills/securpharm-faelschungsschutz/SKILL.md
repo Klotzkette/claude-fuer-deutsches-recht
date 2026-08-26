@@ -1,6 +1,6 @@
 ---
 name: securpharm-faelschungsschutz
-description: "Wenn es um Securpharm Fälschungsschutz in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Securpharm Fälschungsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Securpharm Fälschungsschutz

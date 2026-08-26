@@ -1,6 +1,6 @@
 ---
 name: vollstreckung-und-gnadenschnittstelle
-description: "Wenn es um Vollstreckung und Gnadenschnittstelle in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Vollstreckung und Gnadenschnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollstreckung und Gnadenschnittstelle

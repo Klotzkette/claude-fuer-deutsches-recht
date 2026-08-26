@@ -1,6 +1,6 @@
 ---
 name: reise-flug-reparatur-statt-vermerk-mustertext
-description: "Wenn es um Reise, Flug und Zug Problem in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reise, Flug und Zug Problem: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reise, Flug und Zug Problem

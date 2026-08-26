@@ -1,6 +1,6 @@
 ---
 name: dsa-art-34-systemische-risikobewertung
-description: "Wenn es um DSA — Systemische Risikobewertung nach Art. 34 in DSA, DMA und Digitalregulierung der EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für DSA — Systemische Risikobewertung nach Art. 34: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSA — Systemische Risikobewertung nach Art. 34

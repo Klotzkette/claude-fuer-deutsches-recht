@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-formular-portal-und-einreichung
-description: "Wenn es um Qualitaetsgate: Formular, Portal und Einreichungslogik in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Qualitaetsgate Formular Portal Und Einreichung; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
+description: "Für Qualitätsgate: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: qualitaetsgate-formular-portal-und-einreichung."
 ---
 
 # Qualitaetsgate: Formular, Portal und Einreichungslogik

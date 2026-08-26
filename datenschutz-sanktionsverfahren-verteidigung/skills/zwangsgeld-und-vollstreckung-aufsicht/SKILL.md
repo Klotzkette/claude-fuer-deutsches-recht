@@ -1,6 +1,6 @@
 ---
 name: zwangsgeld-und-vollstreckung-aufsicht
-description: "Wenn es um Zwangsgeld und Vollstreckung der Aufsicht in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zwangsgeld und Vollstreckung der Aufsicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zwangsgeld und Vollstreckung der Aufsicht

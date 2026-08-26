@@ -1,6 +1,6 @@
 ---
 name: bescheinigung-305-inso
-description: "Wenn es um Bescheinigung 305 Inso in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Bescheinigung 305 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.

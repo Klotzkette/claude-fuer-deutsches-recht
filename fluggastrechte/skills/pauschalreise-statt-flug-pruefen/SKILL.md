@@ -1,6 +1,6 @@
 ---
 name: pauschalreise-statt-flug-pruefen
-description: "Wenn es um Pauschalreise gegen Einzelflug in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pauschalreise gegen Einzelflug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pauschalreise gegen Einzelflug

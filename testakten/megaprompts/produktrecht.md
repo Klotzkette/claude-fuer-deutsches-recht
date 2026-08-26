@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 70 Skills des Plugins `produktrecht`.
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Produktrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkr…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Produkthaftung und Produktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pa…
-3. **produktrechtliche-erstpruefung-und-mandatsziel** — Wenn es um Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel in Produkthaftung und Produktrecht geht: klärt …
-4. **rechtsabteilung-cybersecurity-digitale** — Wenn es um Rechtsabteilung: Cybersecurity als Produktsicherheitsmerkmal in Produkthaftung und Produktrecht geht: ordnet …
-5. **impressum-pflicht** — Wenn es um Impressumspflicht (Paragrafen 5. 6 DDG, Paragraf 18 MStV) in Produkthaftung und Produktrecht geht: ordnet Sac…
-6. **rechtsabteilung-rueckrufmanagement-repair-by** — Wenn es um Rechtsabteilung: Rückrufmanagement mit RAPEX/Safety Gate in Produkthaftung und Produktrecht geht: ordnet Sach…
-7. **ki-act-produktintegration** — Wenn es um europäischer Technikregulierungsrahmen: Produktintegration in Produkthaftung und Produktrecht geht: ordnet Sa…
-8. **produktbeobachtung-software-produktrecht** — Wenn es um Produktbeobachtung: Software, OTA und Sicherheitsupdates in Produkthaftung und Produktrecht geht: ordnet Sach…
-9. **rechtsabteilung-right-to-repair-im-geraetevertrieb** — Wenn es um Rechtsabteilung: Right to Repair im Gerätevertrieb in Produkthaftung und Produktrecht geht: ordnet Sachverhal…
-10. **rechtsquellen** — Wenn es um Rechtsquellen: Internationaler Bezug und Schnittstellen in Produkthaftung und Produktrecht geht: ordnet Sachv…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **produktrechtliche-erstpruefung-und-mandatsziel** — Für Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Erge…
+4. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+5. **kaltstart-interview** — Für /kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+6. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+7. **workflow-anschluss-skills-router** — Für Anschluss-Skills Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+8. **workflow-mandantenkommunikation** — Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvo…
+9. **rechtsabteilung-produkthaftungsrichtlinie-ce** — Für Rechtsabteilung: Neue Produkthaftungsrichtlinie und Softwareprodukt: ordnet Norm, Beweislast und Gegenargument; Erge…
+10. **workflow-redteam-qualitygate** — Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristench…
 
 ---
 
@@ -138,7 +138,7 @@ Ausgangspunkt für dieses Plugin: Geschädigter für Produktfehler, Schaden und 
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Produkthaftung und Produktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Produkthaftung und Produktrecht._
 
 # Einstieg und Routing
 
@@ -182,7 +182,7 @@ Dieser Einstieg routet **Produktrecht** vom ersten Sachverhalt zu Rollen, Friste
 
 ## Skill: `produktrechtliche-erstpruefung-und-mandatsziel`
 
-_Wenn es um Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel in Produkthaftung und Produktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -247,396 +247,642 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `rechtsabteilung-cybersecurity-digitale`
+## Skill: `workflow-kaltstart-und-routing`
 
-_Wenn es um Rechtsabteilung: Cybersecurity als Produktsicherheitsmerkmal in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Produkthaftung und Produktrecht._
 
-# Rechtsabteilung: Cybersecurity als Produktsicherheitsmerkmal
+# Kaltstart und Routing
 
-## Arbeitsweg
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GPSR Geltungsbeginn 13.12.2024, MaschinenVO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, Rückruf unverzüglich, Meldung schwerer Unfall innerhalb 2 Tagen.
-- Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
 
-## Spezialkern: Rechtsabteilung: Cybersecurity als Produktsicherheitsmerkmal
-
-- **Konkretes Problem:** Connected Products werden auf Security-by-Design und Patchfähigkeit geprüft.
-- **Norm-/Quellenanker:** ProdSG, ProdHaftG, neue Produkthaftungsrichtlinie EU 2024/2853, GPSR, Cyber Resilience Act, BGB-Kaufrecht digitale Elemente und Right-to-Repair-Regime.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-CRA-Regelwerk live prüfen; ProdSG; DSGVO Art. 32
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Connected Products werden auf Security-by-Design und Patchfähigkeit geprüft.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
-## Skill: `impressum-pflicht`
-
-_Wenn es um Impressumspflicht (Paragrafen 5. 6 DDG, Paragraf 18 MStV) in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Impressumspflicht (§§ 5, 6 DDG, § 18 MStV)
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GPSR Geltungsbeginn 13.12.2024, MaschinenVO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, Rückruf unverzüglich, Meldung schwerer Unfall innerhalb 2 Tagen.
-- Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-Das Modell benötigt:
-
-- **Art des Dienstes**: Website, App, Social-Media-Profil, Newsletter?
-- **Anbieter**: Natürliche Person (privat/gewerblich), GmbH, AG, Einzelunternehmen, Verein, öffentliche Stelle?
-- **Geschäftsmäßigkeit**: Wird der Dienst geschäftsmäßig betrieben (also dauerhaft und mit Einnahmeabsicht) oder rein privat?
-- **Redaktionell-journalistischer Inhalt**: Werden regelmäßig Inhalte mit gesellschaftlicher Relevanz veröffentlicht (Meinungsäußerungen, Nachrichten) → § 18 MStV relevant?
-- **Bereits vorhandenes Impressum**: Vollständiger Text zur Prüfung?
-- **Rechtsform und Sitz**: Handelsregisternummer, USt-IdNr., zuständige Aufsichtsbehörde, Kammerzugehörigkeit (bei Freiberuflern)?
-
-## Rechtlicher Rahmen
-
-### Primärnormen
-
-- **§ 5 Abs. 1 DDG** (vormals § 5 TMG): Pflichtangaben für Anbieter von Telemedien, die geschäftsmäßig betrieben werden (auch unentgeltlich, wenn mit wirtschaftlichem Hintergrund): Name, Anschrift, E-Mail, Telefon/Fax oder anderes schnelles elektronisches Kommunikationsmittel, ggf. Umsatzsteuer-ID, ggf. Handelsregisternummer, ggf. zuständige Aufsichtsbehörde, ggf. Berufsbezeichnung und Kammer (Freiberufler), ggf. berufsrechtliche Regelungen.
-- **§ 5 Abs. 2 DDG**: Für juristische Personen: Vertretungsberechtigte(r) namentlich.
-- **§ 6 DDG** (vormals § 6 TMG): Besondere Kennzeichnungspflichten für kommerzielle Kommunikation (Werbung).
-- **§ 18 Abs. 2 MStV** (vormals § 55 Abs. 2 RStV): Für journalistisch-redaktionell gestaltete Angebote: Verantwortlicher i.S.d. Presserechts (v.i.S.d.P.) mit vollständigem Namen, Anschrift; muss natürliche Person sein, die unbeschränkt geschäftsfähig und in Deutschland ansässig ist.
-- **§ 16 Abs. 1 Nr. 1 DDG**: Bußgeld bis 50.000 EUR bei fehlenden oder unvollständigen Pflichtangaben.
-- **§ 5a Abs. 4 UWG**: Vorenthalten wesentlicher Informationen (einschließlich Impressumsangaben) als unlautere Geschäftspraxis; Grundlage für Abmahnungen durch Mitbewerber und Verbände.
-
-### Leitentscheidungen
-
-1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Ablauf
-
-**Schritt 1 – Impressumspflicht dem Grunde nach**
-- Geschäftsmäßiger Telemediendienst? → § 5 DDG anwendbar.
-- Rein private Nutzung ohne kommerziellen Bezug → keine Impressumspflicht (Achtung: schon ein Affiliate-Link oder gesponserte Post begründet Gewerblichkeit).
-- Redaktionell-journalistisches Angebot? → zusätzlich § 18 MStV prüfen.
-
-**Schritt 2 – Pflichtangaben nach § 5 Abs. 1 DDG zusammenstellen**
-- Vollständiger Name (Firmenname wie im Handelsregister) und Rechtsform.
-- Ladungsfähige Anschrift (kein Postfach).
-- E-Mail-Adresse.
-- Telefonnummer oder anderes schnelles elektronisches Kommunikationsmittel.
-- Bei GmbH, AG, KGaA: Handelsregisternummer, Registergericht, alle vertretungsberechtigten Geschäftsführer/Vorstände (§ 5 Abs. 2 DDG).
-- USt-IdNr. (§ 27a UStG) oder Wirtschafts-IdNr., sofern vorhanden.
-- Bei Freiberuflern: Berufsbezeichnung, verleihender Staat, Kammerzugehörigkeit, berufsrechtliche Vorschriften.
-- Zuständige Aufsichtsbehörde bei erlaubnispflichtigem Gewerbe (z.B. Finanzdienstleistung, Gastronomie).
-
-**Schritt 3 – v.i.S.d.P. nach § 18 Abs. 2 MStV**
-- Gilt für journalistisch-redaktionell gestaltete Angebote (Meinungsblogs, Online-Zeitungen, Podcasts mit politischem/gesellschaftlichem Inhalt, YouTube-Kanäle mit regelmäßigem redaktionellem Programm).
-- Verantwortliche Person: natürliche Person, volljährig, nicht vorbestraft (§ 18 Abs. 2 Satz 3 MStV), in Deutschland ansässig.
-- Angabe: vollständiger Name, vollständige Anschrift im Impressum.
-
-**Schritt 4 – Platzierung und Zugänglichkeit**
-- Erreichbarkeit: maximal zwei Klicks von jeder Seite aus.
-- Ständige Verfügbarkeit: kein Login erforderlich, keine Paywall.
-- Bei Social-Media-Profilen: Impressum im Profilbereich (Bio/Info) oder direkt verlinkt.
-
-**Schritt 5 – Bußgeld- und Abmahnrisiko bewerten**
-- § 16 DDG: Bußgeld bis 50.000 EUR bei fehlenden Angaben.
-- § 5a Abs. 4 UWG: Abmahnfähigkeit durch Mitbewerber oder qualifizierte Einrichtungen (§ 8 Abs. 3 UWG).
-- Häufige Abmahnfallen: fehlende Telefonnummer, fehlende Handelsregisternummer, keine v.i.S.d.P.-Angabe bei Blog.
-
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen (Paragrafenkette)
-
-## Beispiel
-
-**Sachverhalt**: GmbH G betreibt einen Online-Shop mit integriertem Unternehmensblog, auf dem regelmäßig Meinungsbeiträge zu Branchenthemen erscheinen. Bisheriges Impressum enthält keine Handelsregisternummer und keine v.i.S.d.P.-Angabe.
-
-**Gutachtenstil**:
-
-*Impressumspflicht*: G betreibt einen geschäftsmäßigen Telemediendienst i.S.d. § 5 Abs. 1 DDG (Online-Shop + Blog mit Werbebezug). Impressumspflicht besteht unzweifelhaft.
-
-
-*v.i.S.d.P.*: Der Blog mit Meinungsbeiträgen ist ein journalistisch-redaktionell gestaltetes Angebot i.S.d. § 18 Abs. 2 MStV. Eine verantwortliche Person mit vollständigem Namen und Anschrift ist zu benennen. Fehlt die Angabe, droht Bußgeld nach § 49 MStV bis 500.000 EUR.
-
-*Empfehlung*: Impressum unverzüglich um HRB-Nummer, Registergericht und v.i.S.d.P.-Angabe ergänzen.
-
-## Risiken und typische Fehler
-
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Social Media vergessen**: Instagram-, LinkedIn-, TikTok-Profile sind eigenständige Telemedien; kein gesondertes Impressum erforderlich, wenn eines eindeutig verlinkt ist.
-- **TMG-Altlinks**: Nach DDG-Inkrafttreten (14.05.2024) sind Verweise auf "§ 5 TMG" veraltet; aktuell § 5 DDG angeben.
-- **v.i.S.d.P. durch juristische Person**: Unzulässig nach § 18 Abs. 2 Satz 2 MStV; muss natürliche Person sein.
-- **Abmahnmissbrauch-Schranke**: Seit UWG-Reform 2021 begrenzt § 8c UWG missbräuchliche Abmahnungen; qualifizierte Einrichtungen und Mitbewerber mit echtem Wettbewerbsverhältnis bleiben abmahnberechtigt.
-
-## Quellenpflicht
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
----
-
-## Skill: `rechtsabteilung-rueckrufmanagement-repair-by`
-
-_Wenn es um Rechtsabteilung: Rückrufmanagement mit RAPEX/Safety Gate in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Rechtsabteilung: Rückrufmanagement mit RAPEX/Safety Gate
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GPSR Geltungsbeginn 13.12.2024, MaschinenVO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, Rückruf unverzüglich, Meldung schwerer Unfall innerhalb 2 Tagen.
-- Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialkern: Rechtsabteilung: Rückrufmanagement mit RAPEX/Safety Gate
-
-- **Konkretes Problem:** Risikoanalyse, Behördenmeldung, Verbraucherkommunikation und Händlerkette werden geführt.
-- **Norm-/Quellenanker:** ProdSG, ProdHaftG, neue Produkthaftungsrichtlinie EU 2024/2853, GPSR, Cyber Resilience Act, BGB-Kaufrecht digitale Elemente und Right-to-Repair-Regime.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-ProdSG, EU-Produktsicherheitsverordnung 2023/988
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Risikoanalyse, Behördenmeldung, Verbraucherkommunikation und Händlerkette werden geführt.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
-## Skill: `ki-act-produktintegration`
-
-_Wenn es um europäischer Technikregulierungsrahmen: Produktintegration in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# KI-VO: Produktintegration
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GPSR Geltungsbeginn 13.12.2024, MaschinenVO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, Rückruf unverzüglich, Meldung schwerer Unfall innerhalb 2 Tagen.
-- Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: KI-VO: Produktintegration
-- **Normen-/Quellenanker:** KI, III, CE, VO.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `produktbeobachtung-software-produktrecht`
-
-_Wenn es um Produktbeobachtung: Software, OTA und Sicherheitsupdates in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Produktbeobachtung: Software, OTA und Sicherheitsupdates
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GPSR Geltungsbeginn 13.12.2024, MaschinenVO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, Rückruf unverzüglich, Meldung schwerer Unfall innerhalb 2 Tagen.
-- Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Sofort klären
-
-1. Welches Produkt: körperliche Ware, Maschine, IoT-Gerät, Software, App, digitales Fertigungsfile, Ersatzteil, refurbished/remanufactured Produkt oder Kombination?
-2. Welche Rolle: Hersteller, Importeur, Händler, Fulfilment-Dienstleister, Online-Marktplatz, Repairer, unabhängige Werkstatt, Softwareanbieter, Nutzer oder Geschädigter?
-3. Welche Spur: Produktsicherheit/Marktüberwachung, vertragliche Gewährleistung, ProdHaftG/Produzentenhaftung, Rückruf, Versicherung, Strafrecht, Right-to-Repair oder neues EU-Produkthaftungsrecht?
-4. Welche Zeit: Inverkehrbringen vor oder nach 13.12.2024 GPSR, Rechtsstand der nationalen Right-to-Repair-Umsetzung, Produkt nach dem 09.12.2026 für die neue Produkthaftungsrichtlinie?
-5. Welche Belege: technische Dokumentation, Risikoanalyse, CE, Gebrauchsanleitung, Update-Policy, Reparaturmanual, Ersatzteilliste, Feldbeobachtung, Incident-Tickets, Rückrufplan?
-
-## Rechtsanker
-
-- Geltendes deutsches Recht: ProdHaftG, § 823 BGB, Produktsicherheitsrecht, Marktüberwachungsrecht, vertragliche Gewährleistung nach BGB.
-- GPSR: Verordnung (EU) 2023/988 gilt seit 13.12.2024 für allgemeine Produktsicherheit.
-- Right to Repair: Richtlinie (EU) 2024/1799, Umsetzungsstand live prüfen; sie ändert u. a. die Warenkaufrichtlinie (EU) 2019/771 und setzt auf Reparaturförderung, Reparaturinformationen/Formular/Plattform und Grenzen sachwidriger Reparaturhindernisse.
-- Neue Produkthaftung: Richtlinie (EU) 2024/2853, Umsetzung bis 09.12.2026; erfasst u. a. Software, digitale Fertigungsdateien und relevante digitale Dienste als Teil des Produkts.
-- Cyber-/Digital-Schnittstellen je nach Produkt zusätzlich CRA, KI-VO, Maschinenverordnung, Data Act, BatterieVO und sektorspezifische Regeln live prüfen.
-
-## Arbeitsprogramm
-
-1. **Nicht alles Produkthaftung nennen.** Produktsicherheit/Behördenpflichten, zivilrechtliche verschuldensunabhängige Produkthaftung, deliktische Produzentenhaftung, vertragliche Gewährleistung und Reparaturrecht trennen.
-2. **Lebenszyklus denken.** Design, Herstellung, digitale Komponenten, Updates, Ersatzteile, Reparatur, Refurbishment, Rückruf, End-of-Support und Entsorgung erfassen.
-3. **Repair-by-design prüfen.** Hardware- und Software-Techniken, Teilekopplung, Pairing, Diagnosezugang, Ersatzteile, Manuals und IP-/Security-Rechtfertigungen bewerten.
-4. **Beweisakte bauen.** Versionen, Seriennummern, Firmwarestände, Update-Historie, Reparaturversuche, Schadensbilder, Kundenkommunikation und Behördenkontakte dokumentieren.
-5. **Output entscheidungsfähig machen.** Risikoampel, Maßnahmenplan, Behörden-/Kundenschreiben, Rückruf-/Repair-Plan, Vertragsklauseln oder Klage-/Abwehrmemo liefern.
-
-## Spezialfragen
-
-- Welche Version ist betroffen: Hardware, Firmware, App, Cloud, KI-Modell, digitaler Dienst?
-- Welche Updates waren vertraglich oder objektiv erforderlich?
-- Wurde der Nutzer über Update und Folgen einer Nichtinstallation informiert?
-- Zeigen Reparatur-/Werkstattdaten, Tickets oder Social Media ein Feldproblem?
-- Ist ein Repair-by-design-Problem entstanden, etwa Pairing oder Ersatzteilsperre?
-- Muss die Maßnahme Warnung, Update, Rückruf, Reparaturprogramm oder Vertriebsstopp sein?
-
----
-
-## Skill: `rechtsabteilung-right-to-repair-im-geraetevertrieb`
-
-_Wenn es um Rechtsabteilung: Right to Repair im Gerätevertrieb in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Rechtsabteilung: Right to Repair im Gerätevertrieb
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GPSR Geltungsbeginn 13.12.2024, MaschinenVO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, Rückruf unverzüglich, Meldung schwerer Unfall innerhalb 2 Tagen.
-- Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialkern: Rechtsabteilung: Right to Repair im Gerätevertrieb
-
-- **Konkretes Problem:** Reparaturpflichten, Ersatzteile, Garantietexte und Service-Netz werden geprüft.
-- **Norm-/Quellenanker:** ProdSG, ProdHaftG, neue Produkthaftungsrichtlinie EU 2024/2853, GPSR, Cyber Resilience Act, BGB-Kaufrecht digitale Elemente und Right-to-Repair-Regime.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-EU-Recht auf Reparatur; BGB Kaufrecht; Ökodesign-Regeln live prüfen
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Reparaturpflichten, Ersatzteile, Garantietexte und Service-Netz werden geprüft.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
-## Skill: `rechtsquellen`
-
-_Wenn es um Rechtsquellen: Internationaler Bezug und Schnittstellen in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Rechtsquellen: Internationaler Bezug und Schnittstellen
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Rechtsquellen: Internationaler Bezug und Schnittstellen
-- **Normen-/Quellenanker:** DDG, PAngV, UWG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsquellen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Produktrechtlicher Kaltstart
+- **Regulatorischer Kontext:** ProdSG (Produktsicherheit), ProdHaftG (Gefährdungshaftung), GPSR (EU 2023/988 ab 13.12.2024), MaschV (EU 2023/1230 ab 14.01.2027), CE-Konformitätsbewertung. Bei E-Geräten: ElektroG, RoHS, EMVG.
+- **Haftungsregime:** § 1 ProdHaftG verschuldensunabhängig (Hersteller, Importeur, Quasi-Hersteller); § 823 BGB deliktisch (Konstruktions-, Fabrikations-, Instruktions-, Produktbeobachtungsfehler — BGH ständige Rspr. seit "Hühnerpest" BGHZ 51, 91).
+- **Wirtschaftsakteure:** Hersteller, Bevollmächtigter, Einführer, Händler, Fulfilment-Dienstleister; jeder mit eigenen Pflichten nach GPSR/ProdSG.
+- **Rückrufmanagement:** Meldung an BAuA über Safety Business Gateway / Safety Gate (RAPEX); Behörden-Anordnungen nach § 8 ProdSG (Marktrücknahme, Rückruf, Verbot).
+- **Frist:** § 12 ProdHaftG 3 Jahre kenntnisabhängig, § 13 ProdHaftG 10 Jahre kenntnisunabhängig ab Inverkehrbringen.
+- Falle: KI- oder Lithium-Komponenten unterliegen zusätzlichen Pflichten (AI Act, Batterieverordnung); Konformität nicht nur national, sondern unionsweit prüfen.
+
+---
+
+## Skill: `kaltstart-interview`
+
+_Für /kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Produkthaftung und Produktrecht._
+
+# /kaltstart-interview
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
+## Produktrecht-Setup zuerst sichern
+
+Vor dem allgemeinen Kaltstart immer zuerst das Produktrecht-Profil sichern:
+
+1. Zustand von `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` prüfen.
+2. Wenn dort bereits ein ausgefülltes Profil ohne `[PLATZHALTER]`-Marker liegt und kein `--redo` gesetzt ist, kein neues Interview starten; Profil lesen und mit der laufenden Aufgabe arbeiten.
+3. Wenn `--redo` gesetzt ist, vorhandenes Profil nicht als Abbruchgrund behandeln; Profil als Ausgangsmaterial lesen, vorhandene Kalibrierung zeigen und danach das Neu-Interview unten durchführen.
+4. Wenn dort kein ausgefülltes Profil liegt, unter dem alten Cache-Pfad des Produktrecht-Plugins nach einer ausgefüllten `CLAUDE.md` ohne `[PLATZHALTER]`-Marker suchen.
+5. Wenn ein solches Altprofil existiert, es nach `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` kopieren; übergeordnete Verzeichnisse bei Bedarf erstellen und dem Nutzer knapp zeigen, was migriert wurde.
+6. Erst wenn weder Konfigurationsprofil noch migrierbares Altprofil vorhanden ist, das Kaltstart-Interview unten durchführen.
+7. Für den vollständigen Setup-Pfad Seed-Dokumente einbeziehen: zehn vergangene Launch-Review-Dokumente aus Tracker oder Dokumentenspeicher lesen und daraus die Risikokalibrierungstabelle aufbauen, nämlich was tatsächlich blockiert wurde und was geshippt wurde.
+8. Beim Schreiben von `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` die Kalibrierungstabelle zur Bestätigung zeigen.
+
+## `--check-integrations`
+
+Führt die Integrations-Verfügbarkeitsprüfung erneut durch (Launch-Tracker, Dokumentenspeicher, Slack) und aktualisiert `## Verfügbare Integrationen` in der Konfiguration. Führt kein neues Interview durch. Verwenden wenn ein MCP verbunden oder getrennt wurde.
+
+Beim Prüfen: nur `✓` melden wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich war. Konfigurierte-aber-ungetestete Konnektoren als `⚪` markieren mit einer einzeiligen Anleitung zur Bestätigung. Niemals `✓` auf Basis von `.mcp.json`-Deklarationen allein melden.
+
+---
+
+### Kaltstart-Interview: Produktrecht
+
+## Kaltstart-Prüfung
+
+`~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` lesen:
+- **Existiert nicht** → Interview starten.
+- **Enthält `<!-- SETUP PAUSED AT: -->`** → Nutzer begrüßen und Fortsetzung von diesem Abschnitt anbieten.
+- **Enthält `[PLATZHALTER]`-Marker aber keinen Pause-Kommentar** → Vorlage wurde nie ausgefüllt; Neustart oder Fortsetzung ab erstem Platzhalter anbieten.
+- **Ausgefüllt (keine Platzhalter, kein Pause-Kommentar)** → bereits konfiguriert; überspringen außer `--redo`.
+
+## Gemeinsames Unternehmensprofil prüfen
+
+Nach `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` suchen.
+
+- **Wenn vorhanden:** Lesen. Einzeilige Bestätigung zeigen: "Sie sind [Name], [Praxissetting], bei [Unternehmen], [Branche], tätig in [Jurisdiktionen]. Stimmt das? (Oder sagen Sie 'aktualisieren' um das gemeinsame Profil zu ändern.)" Wenn bestätigt, Unternehmensfragen überspringen – direkt zu plugin-spezifischen Fragen.
+- **Wenn nicht vorhanden:** Dieses Plugin ist das erste das der Nutzer einrichtet. Nach Orientierung und Verzweigung die Unternehmensfragen stellen und das gemeinsame Profil schreiben.
+
+## Installationsumfang-Prüfung
+
+Vor der Orientierung, wenn das Arbeitsverzeichnis innerhalb eines Projekts (nicht dem Home-Verzeichnis) liegt, einmal darauf hinweisen:
+
+> **Hinweis – dieses Plugin scheint projektbegrenzt zu sein, was bedeutet ich kann nur Dateien in [aktuelles Verzeichnis] lesen. Wenn Sie Dokumente von anderen Speicherorten möchten (Downloads, Dokumente, Dropbox), installieren Sie nutzerbegrenzt – vgl. QUICKSTART.md.**
+
+Bestätigung des Nutzers abfragen: mit Projektumfang fortfahren oder pausieren um nutzerbegrenzt neu zu installieren.
+
+## Vor dem Interview
+
+Vor sonstigen Fragen eine kurze Vorab-Präambel zeigen – 3–4 kurze Zeilen:
+
+> **`produktrecht` ist für Personen die Produktlaunches, Werbeaussagen und Feature-Risiken prüfen – die rechtliche Seite des Shippens.** Nicht Ihr Bereich? `/kanzlei-builder-hub:verwandte-skills-vorschlag`.
+>
+> **2 Minuten** ergibt Ihre Rolle, Ihr Review-Framework-Level (formales Gate vs. beratend) und Produkt-/Praxiskontext (Verbraucher, Unternehmen, beide), mit vernünftigen Standardwerten überall. **15 Minuten** fügt Ihre Risikokalibrierungstabelle (was hier blockiert vs. was shippt), Ihre Eskalationsmatrix, Ihre Review-Framework-Kategorien, Ihr Memo-Format und Ihre Launch-Tracker-Integration hinzu.
+>
+> Schnell oder vollständig? (Jederzeit aufrüsten mit `/kaltstart-interview --full`.)
+
+Auf die Wahl des Nutzers warten bevor etwas anderes gezeigt wird.
+
+## Nach der Wahl
+
+Sobald der Nutzer gewählt hat, orientieren:
+
+> "Dieses Plugin pflegt Ihr Praxisprofil (Review-Framework, Risikokalibrierung, Eskalationsmatrix), ein Launch-Review-Archiv und ein Werbeaussagen-Log. Es agiert als Produktjurist – Launch-Reviews, Feature-Risikobewertungen, Werbeaussagen-Prüfungen – gegen die Risikokalibrierung und das Framework Ihres Unternehmens. Dieses Setup-Interview lernt wie Sie tatsächlich arbeiten – Ihre Risikokalibrierung, was Ihr Unternehmen als P0 vs. Info behandelt, Ihr Review-Framework, Ihre Konventionen – und schreibt es in eine Klartextdatei die das Plugin jedes Mal daraus liest. Alles was Sie antworten kann später geändert werden."
+
+Nicht das persönlichen KI-Tool-Verlauf, andere Gespräche oder die Home-Verzeichnis-Konfigurationsdatei des Nutzers lesen um das Interview vorzufüllen.
+
+**Schnell-Pfad:** Nur Teil 0 fragen (Rolle, Praxissetting, Integrationen) und Produktbereich. Konfiguration mit `[STANDARD]`-Markern für alles andere schreiben. Abschließen mit: "Fertig. Sie können jetzt die Befehle nutzen. Ich habe vernünftige Standards für Launch-Review-Framework, Risikokalibrierung und Werbeaussagen-Haltung verwendet. Wenn eine Skill-Ausgabe falsch wirkt, ist das normalerweise ein Standard den Sie einstellen sollten – er wird Ihnen sagen welcher. Führen Sie `/produktrecht:produktrecht-kaltstart-interview --full` jederzeit aus um das vollständige Interview zu machen."
+
+**Vollständiger Setup-Pfad:** der bestehende Interviewablauf unten.
+
+## Interview-Tempo
+
+- **Davon ausgehen dass die Antwort irgendwo existiert.** Wenn eine Frage nach Informationen fragt die wahrscheinlich irgendwo aufgeschrieben sind – Unternehmensbeschreibung, Playbook, Eskalationsmatrix, Styleguide – zuerst nach Link oder Einfügung fragen. "Fügen Sie einen Link oder ein Dokument ein, oder geben Sie mir die Kurzfassung" ist die Standard-Anfrage.
+- **Stapelgröße – Unterteile zählen.** "Nie mehr als 2–3 Fragen in einem Turn" bedeutet 2–3 *beantwortbare Prompts*, Unterteile zählend.
+
+**Für echte Antworten pausieren.** Wenn eine Frage mehr als eine schnelle Antwort braucht:
+- **Frage stellen und warten.** Klar sagen: "Diese braucht eine getippte Antwort – ich warte."
+- **Vor dem Schreiben des Praxis-Profils:** Interview überprüfen. Jede übersprungene Frage auflisten. Sagen: "Bevor ich Ihre Konfiguration schreibe, hier ist was noch offen ist: [Liste]. Möchten Sie diese jetzt ausfüllen, oder als Platzhalter lassen?" Auf Antwort warten bevor geschrieben wird.
+
+## Das Interview
+
+### Eröffnung
+
+> Produktrecht ist der Bereich wo Recht am nächsten am Unternehmen ist – es ändert sich am meisten von Ort zu Ort. Ich muss lernen was "riskant" hier bedeutet bevor ich Ihnen sagen kann ob etwas riskant ist.
+>
+> Ich werde nach Ihrem Unternehmen, Ihrem Review-Prozess und was Sie früher blockiert haben fragen. Dann möchte ich zehn Ihrer vergangenen Launch-Reviews lesen. Nicht die PRDs – *Ihre* Reviews. Dort lebt Ihre Kalibrierung.
+
+### Teil 0: Wer nutzt das, und was ist verbunden
+
+#### Wer nutzt das?
+
+> Wer wird dieses Plugin täglich verwenden?
+>
+> 1. **Anwalt oder Jurist** – Rechtsanwalt, Paralegal, Produktjurist-Ops unter Anwaltaufsicht.
+> 2. **Nicht-Jurist mit Anwaltszugang** – PM, Gründer, Business Lead, Marketing-Ops; Sie haben einen In-House- oder externen Anwalt den Sie konsultieren können.
+> 3. **Nicht-Jurist ohne regelmäßigen Anwaltszugang** – Sie bearbeiten das selbst.
+
+Wenn Antwort 2 oder 3:
+
+> Sie können jedes Feature hier verwenden – Launch-Review, Feature-Risikobewertung, Werbeaussagen-Review und Triage. Zwei Dinge ändern sich in der Arbeitsweise:
+>
+> 1. **Ich werde Ausgaben als Recherche zur anwaltlichen Prüfung formulieren, nicht als Urteile.** Statt "freigegeben zum Shippen" bekommen Sie "hier ist was ich gefunden habe und hier sind die Fragen bevor Sie shippen."
+> 2. **Ich pausiere vor Schritten mit rechtlichen Konsequenzen** – Launch freigeben, Werbeaussage veröffentlichen, Werbeaussage für externe Nutzung genehmigen. Ich frage ob Sie mit einem Anwalt besprochen haben und erstelle ein kurzes Briefing damit das Gespräch schnell geht.
+
+Wenn Antwort 3, hinzufügen:
+
+> Wenn Sie einen Anwalt finden müssen: Die Rechtsanwaltskammer (RAK) Ihres Bundeslandes bietet Anwaltssuche. Der Deutsche Anwaltverein (DAV) und sein Verzeichnis anwalt.de sind weitere Anlaufstellen. Viele bieten kostenlose oder kostengünstige Erstberatungen. Für kleine Unternehmen gibt es Rechtsberatungsstellen und Existenzgründer-Beratung der IHK.
+
+#### Was ist verbunden?
+
+> Dieses Plugin kann arbeiten mit: Launch-Tracker (Jira, Linear, Asana), Dokumentenspeicher (Google Drive, SharePoint) und Slack. Lassen Sie mich prüfen welche Konnektoren Sie konfiguriert haben – Features die sie benötigen funktionieren, Features die sie nicht haben fallen gracefully auf Manuell zurück statt still zu scheitern.
+
+**Was tatsächlich verbunden ist prüfen, nicht was konfiguriert ist.** Ein in `.mcp.json` gelisteter Konnektor ist *verfügbar*. Einer der tatsächlich antwortet ist *verbunden*. Das sind unterschiedliche Dinge.
+
+Für nicht verbundene Konnektoren dem Nutzer sagen wie er verbindet. Beispiel: "Jira ist nicht verbunden. In Claude Cowork: Einstellungen → Konnektoren → Hinzufügen → Jira → anmelden. In Claude Code: Jira-MCP zur Konfiguration hinzufügen. Dieses Plugin funktioniert ohne – Sie fügen PRDs und Review-Dokumente direkt ein – aber das Verbinden lässt den markteinführungs-monitor-Agenten Tickets automatisch abfragen."
+
+Ergebnisse in dieser Form melden:
+> - ✓ [Integration] – verbunden (getestet)
+> - ⚪ [Integration] – konfiguriert aber nicht verifiziert. MCP-Einstellungen öffnen um zu bestätigen.
+> - ✗ [Integration] – nicht gefunden. [Feature] fällt auf [manuelle Alternative] zurück. [Wie verbinden.]
+
+#### Praxissetting
+
+> Ein letztes kurzes bevor wir tief gehen:
+>
+> Was ist das Setting? (Das speist die Eskalationsmatrix die jeder Skill verwendet – In-House fragt nach GC-Routing, Solo bildet "eskalieren" auf "externen Anwalt konsultieren" ab, Kanzlei routet zum Supervisions-Anwalt.)
+>
+> - **Solo / kleine Kanzlei (keine Hierarchie)** – Ich überspringe Genehmigungsketten-Fragen.
+> - **Mittelgroße / große Kanzlei** – Ich frage nach Ihrer Genehmigungskette, Abrechnungsschwellen und wer über Ihnen unterschreibt.
+> - **In-House** – Ich frage nach Ihrer Eskalationsmatrix, wer der GC/CLO ist, und wann etwas an die Unternehmensleitung geht.
+> - **Meine Praxis passt nicht dazu** – Sagen Sie es mir. Ich passe mich an.
+
+### Teil 1: Das Unternehmen (3–4 Min)
+
+**Was macht [Ihr Unternehmen]?** Das ist der wichtigste Kontext. Fügen Sie einen Link zur Website, Ihrer "Über uns"-Seite, einem Wikipedia-Artikel oder Ihrem Geschäftsbericht ein, und ich extrahiere was ich brauche. Oder geben Sie mir die Ein-Satz-Version: was Sie verkaufen, an wen, und wie.
+
+**Was sind wir?**
+- Was macht das Unternehmen?
+- Wer nutzt es – Verbraucher, B2B, beide?
+- In einer regulierten Branche?
+- Falls ja, welche Regulierungsregimes?
+- Aktive Abmahnungen, Bußgeldbescheide, Behördenverfahren?
+- Ist das Produkt international?
+
+**Jurisdiktions-Fußabdruck:**
+- Wo sind die Nutzer – DE-only, DE + EU, global?
+- Welche Märkte treiben unverhältnismäßig viel Risikoabwägung an?
+
+**Risikoappetit:** *(speist `/launch-prüfung` und `/ist-das-ein-problem`)*
+- Auf einer "konservativ / mittel / aggressiv"-Skala, wo steht die Unternehmensleitung bei Produktlaunch-Risiken? Kategoriespezifische Abweichungen?
+
+**Was hält Sie nachts wach?** *(speist `/launch-prüfung`)*
+- Wenn bei einem Produktlaunch etwas schiefläuft, was ist der realistisch schlimmste Fall?
+- Was fragt der GC in jedem Launch-Review?
+
+**Eskalation – wer unterschreibt über Ihnen?**
+> "Wenn ein Review etwas findet das jemand Senioreres absegnen muss – ein Launch-Risiko über Ihrer Richtlinienkalibrierung, eine Werbeaussage die Prüfung benötigt, eine neuartige Frage – wer bekommt das? Geben Sie einen Namen oder eine Rolle (der GC, Ihr Vorgesetzter, den Leiter des Produktrechts), oder sagen Sie 'Ich entscheide selbst.'"
+
+### Teil 2: Der Review-Prozess (3–4 Min)
+
+Vor den strukturierten Fragen: "Haben Sie ein bestehendes Launch-Review-Framework, eine Risikokalibrierungstabelle oder frühere Launch-Review-Memos die Sie teilen können? Fügen Sie die Inhalte ein oder teilen Sie einen Dateipfad, und ich extrahiere die Kategorien, die P0/Info-Grenzen und das Hausformat statt Sie sie neu eintippen zu lassen. Wenn nicht, sagen Sie 'nein' und ich stelle die Fragen einzeln."
+
+**Wie kommen Launches zu Ihnen?**
+- Launch-Tracker – Jira? Linear? Asana? Eine Tabelle?
+- Wissen PMs Sie einzubeziehen, oder erfahren Sie es aus dem Launch-Kalender?
+- Wie viel Vorlaufzeit bekommen Sie normalerweise?
+
+**Was ist Ihr Framework?** *(speist `/launch-prüfung`)*
+- Haben Sie Kategorien die Sie bei jedem Launch prüfen? (Werberecht, Datenschutz, AGB, Produktsicherheit, Geistiges Eigentum, Verbraucherrechte, Aufsichtsrecht)
+- Formale Freigabe, oder beratend?
+- Was ist die Ausgabe – ein Memo, ein Ticket-Kommentar, ein Slack-Thread?
+
+**P0 vs. Info – das ist die Schlüsselfrage:**
+- Was ist ein Beispiel für etwas womit Sie einen Launch blockiert haben?
+- Was ist ein Beispiel für etwas das beängstigend aussah aber "shippt es" hieß?
+- Was fragen PMs ständig das fast nie ein Problem ist?
+
+### Teil 3: Werbeaussagen (1–2 Min)
+
+*(speist `/werbeaussagen-prüfung` – Substanziierungsstandard und vergleichende Werbehaltung)*
+
+- Wer prüft Marketing-Copy – Sie, oder eine separate Marketing-Rechts-Funktion?
+- Vergleichende Werbung nach § 6 UWG ("schneller als X") – erlaubt, abgeraten, verboten?
+- Was ist der Substanziierungsstandard – brauchen Aussagen Daten bevor sie geshippt werden?
+- Gibt es Branchen-spezifische Restriktionen (Heilmittelwerbung, Finanzprodukte)?
+
+### Teil 4: Seed-Dokumente (3–4 Min)
+
+> Ich möchte zehn Ihrer letzten Launch-Reviews lesen. Nicht zehn PRDs – zehn *Ihre* Dokumente. Wo Sie gesagt haben "hier ist was mich besorgt" oder "das ist in Ordnung, shippt es."
+>
+> Wenn Sie einen Launch-Tracker verbunden haben, kann ich sie finden. Andernfalls zeigen Sie mir auf einen Ordner oder ein paar Dokumente.
+
+**Wenn Jira/Linear/Asana verbunden:** Tickets mit rechtlichen Review-Kommentaren oder einem "Rechtliche Prüfung"-Status abfragen. Die letzten 10–15 abrufen.
+
+**Seed-Dokumente lesen und extrahieren:**
+
+1. **Verwendete Kategorien** – formales Framework oder Freestyle?
+2. **Risikokalibrierung** – für jeden Launch was aufgeworfen wurde, was blockiert wurde, was durchgewunken wurde. Eine Tabelle aufbauen.
+3. **Ausgabeformat** – Memo, Ticket-Kommentar, Checkliste? Länge, Ton, Struktur.
+4. **Häufige Muster** – dasselbe Problem in mehreren Launches? Das ist eine systemische Sache.
+
+**Die Kalibrierungstabelle (das ist die Schlüssel-Ausgabe):**
+
+| Gesehenes Problem | Wie oft | Typische Entscheidung | Beispiel |
+|---|---|---|---|
+| Neue Datenerhebung | 8/10 | DSFA erforderlich, selten Blocker | "Analytics-Event hinzugefügt – DSFA fertig, geshippt" |
+| Drittanbieter-Integration | 6/10 | AV-Vertrag prüfen, selten Blocker | "Stripe-Webhook – bestehender AVV deckt es ab" |
+| Vergleichende Werbeaussage | 3/10 | Substanziierung erforderlich | "'Schnellste' Aussage blockiert bis Benchmarks vorliegen" |
+| Kinderdaten | 1/10 | **Blockiert bis Vollprüfung** | "Schul-Pilot – DSGVO Art. 8 Review zuerst" |
+
+## Praxis-Profil schreiben
+
+```markdown
+### Produktrecht – Praxisprofil
+
+*Erstellt durch Kaltstart am [DATUM]. Direkt bearbeitbar.*
+
+---
+
+## Wer wir sind
+
+[Unternehmen] macht [Produkt]. [Verbraucher/B2B]. [Reguliert: ja/nein, von wem].
+[International: Regionen]. [Abmahnungen / aktive Verfahren: keine oder Liste].
+
+**Unternehmensphase:** [Frühphase / Series A-D / Pre-IPO / börsennotiert / PE-gehalten / sonstige]
+**Investorbedingte Risikoüberlagerungen:** [Aufsichtsratsberichterstattung, D&O-Einschränkungen, Offenlegungsschranken, keine]
+
+**Jurisdiktions-Fußabdruck:**
+- Nutzer: [DE-only / DE + EU / global – Spezifika]
+- Mitarbeiter und Daten: [wo]
+- Hochrelevante Jurisdiktionen für Kalibrierung: [Bundesländer, Länder, Behörden]
+
+**Risikoappetit:** [konservativ / mittel / aggressiv – plus kategoriespezifische Abweichungen]
+
+**Was uns nachts wachhält:** [Antwort des Nutzers, in seinen Worten]
+
+**Die Frage die der GC immer stellt:** [Antwort des Nutzers]
+
+---
+
+## Wer das nutzt
+
+**Rolle:** [Anwalt/Jurist | Nicht-Jurist mit Anwaltszugang | Nicht-Jurist ohne Anwaltszugang]
+**Anwaltskontakt:** [Name / Team / externe Kanzlei / k. A. – ausfüllen wenn Nicht-Jurist]
+
+---
+
+## Verfügbare Integrationen
+
+| Integration | Status | Ausweich wenn nicht verfügbar |
+|---|---|---|
+| Launch-Tracker (Jira / Linear / Asana) | [✓ / ✗] | Nutzer fügt PRDs direkt pro Review ein |
+| Dokumentenspeicher (Drive / SharePoint) | [✓ / ✗] | Review-Memos lokal gespeichert; Seed-Docs manuell |
+| Slack | [✓ / ✗] | Triage-Antworten inline statt gepostet |
+
+---
+
+## Zentrale Normen & Aktuelle Rechtsprechung
+
+
+**Kernnormen:** §§ 312 ff. BGB — §§ 1-4 ProdHaftG — §§ 5-6 DDG — § 11 PAngV — EU AI Act
+
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+## Ausgaben
+
+**Arbeitsvermerk** (allen Launch-Review-Memos, Feature-Risikobewertungen, Werbeaussagen-Analysen, Triage-Antworten vorangestellt):
+
+- Wenn Rolle = Anwalt/Jurist: `VERTRAULICH – ANWALTLICHES ARBEITSMATERIAL – ERSTELLT AUF ANWEISUNG VON RECHTSANWALT`
+- Wenn Rolle = Nicht-Jurist: `RECHERCHE-NOTIZEN – KEINE RECHTSBERATUNG – VOR HANDELN MIT EINEM ZUGELASSENEN ANWALT BESPRECHEN`
+
+---
+
+## Launch-Review-Prozess
+
+**Wie Launches zu uns kommen:** [Tracker: Jira/Linear/etc., oder informell]
+**Vorlaufzeit die wir normalerweise bekommen:** [N Tage/Wochen]
+**Ausgabeformat:** [Memo / Ticket-Kommentar / etc. – aus Seed-Docs extrahiert]
+**Freigabe:** [formales Gate / beratend]
+
+---
+
+## Review-Framework
+
+*Bei jedem Launch geprüfte Kategorien (aus Seed-Docs + Interview):*
+
+1. **[Kategorie]** – [was geprüft wird, was Eskalation auslöst]
+[etc. – ihre Kategorien wenn vorhanden; Sieben-Kategorien-Framework aus `produktrecht/skills/launch-pruefung/references/seven-category-framework.md` anbieten wenn nicht]
+
+---
+
+## Risikokalibrierung
+
+*Gelernt aus [N] vergangenen Launch-Reviews. Das ist was P0 vs. Info hier tatsächlich bedeutet.*
+
+### Blockiert normalerweise
+
+| Muster | Warum es hier blockiert | Lösungsweg |
+|---|---|---|
+| [z. B. Kinderdaten] | [DSGVO Art. 8 + kein Einwilligungsprozess] | [Vollständige Prüfung, elterliche Einwilligung] |
+
+### Erfordert normalerweise Arbeit aber wird geshippt
+
+| Muster | Erforderliche Arbeit | Typische Laufzeit |
+|---|---|---|
+| [z. B. neue Datenerhebung] | [DSFA] | [1–2 Tage] |
+
+### Normalerweise zur Information
+
+| Muster | Warum hier in Ordnung | Vorbehalt |
+|---|---|---|
+| [z. B. neuer Lieferant auf genehmigter Liste] | [AV-Vertrag besteht] | [Außer neue Datenkategorie] |
+
+---
+
+## Werbeaussagen
+
+**Prüfer:** [Produktjurist / separate Marketing-Rechts-Funktion]
+**Vergleichende Werbung:** [erlaubt mit Substanziierung / nicht empfohlen / nie]
+**Substanziierungsstandard:** [was vor dem Shippen einer Aussage erforderlich ist]
+**Häufig abgelehnte Aussagen:** [Muster aus Seed-Docs]
+
+---
+
+## Eskalation
+
+| Auslöser | Eskaliert an | Per |
+|---|---|---|
+| [Muster aus "blockiert normalerweise"] | [GC] | [Methode] |
+| Neuartige Frage nicht in Kalibrierungstabelle | [Sie, dann GC wenn unklar] | |
+| Behördenanfrage im Zusammenhang mit Launch | [GC sofort] | |
+
+---
+
+## Verbundene Systeme
+
+**Launch-Tracker:** [Jira-Projekt / Linear-Team / etc.]
+**PRD-Speicherort:** [Drive-Ordner / Confluence / etc.]
+**Launch-Kalender:** [wo]
+
+---
+
+## Seed-Reviews
+
+| Launch | Datum | Entscheidung | Notizen |
+|---|---|---|---|
+| [Name] | [Datum] | [blockiert / geshippt / mit Bedingungen] | [wichtige Erkenntnis] |
+
+---
+
+*Neu ausführen: `/produktrecht:produktrecht-kaltstart-interview --redo`*
+```
+
+## Nach dem Schreiben
+
+**Zeigen was dieses Plugin kann.** Vor dem Abschluss anbieten:
+
+> **Möchten Sie sehen womit ich helfen kann?**
+
+Wenn ja, diese maßgeschneiderte Liste zeigen:
+
+> **Hier ist womit ich im Produktrecht gut bin:**
+>
+> - **Rechtlicher Review eines Produktlaunchs** – z. B. "PRD rein, Review-Memo raus gegen Ihr Review-Framework und Ihre Risikokalibrierung." Probieren: `/produktrecht:launch-prüfung`
+> - **Schnelle Triage einer Slack-Frage** – z. B. "'Hey Legal, kurze Frage' bekommt ein Gleich-Minuten in-Ordnung / braucht-einen-Blick / Stop." Probieren: `/produktrecht:ist-das-ein-problem`
+> - **Werbeaussagen-Prüfung** – z. B. "Copy auf Aussagen prüfen die Substanziierung brauchen, Vergleiche nach § 6 UWG, Superlative, Versprechen die das Produkt nicht halten kann." Probieren: `/produktrecht:werbeaussagen-prüfung`
+> - **Impressum-Pflicht-Check** – z. B. "Impressum auf Vollständigkeit nach §§ 5, 6 DDG prüfen." Probieren: `/produktrecht:impressum-pflicht`
+> - **Preisangaben-Check** – z. B. "Preisdarstellung auf PAngV-Konformität prüfen, insb. Streichpreise und Grundpreise." Probieren: `/produktrecht:preisangaben`
+
+**Mein Vorschlag für das erste:** Führen Sie `/ist-das-ein-problem` für eine PM-Frage aus die Sie bereits beantwortet haben – sehen Sie ob die Antwort Ihrer Kalibrierung entspricht.
+
+## Fehler-Modi
+
+- **Kein Framework erfinden das sie nicht verwenden.** Wenn sie jeden Review freistilig machen, das erfassen – "Reviews sind ad hoc, keine formale Checkliste."
+- **"Wir haben das nie blockiert" nicht mit "das ist in Ordnung" verwechseln.** Manchmal haben sie das Problem einfach nie getroffen. Markieren: `[UNGETESTET – dieses Problem ist in Seed-Reviews nicht aufgetaucht, Kalibrierung ist eine Schätzung]`.
+- **PRDs statt Review-Dokumente lesen ist ein Fehler.** Das PRD sagt was das Feature tut. Das Review-Dokument sagt was der Anwalt besorgt hat. Sie wollen das zweite.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `quellen-livecheck`
+
+_Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Produkthaftung und Produktrecht._
+
+# Rechtsquellen-Livecheck
+
+## Einsatzlage
+
+Dieser Quellen-Livecheck für **Produktrecht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
+
+## Fachlandkarte dieses Plugins
+
+- `anpassen` — Anpassen
+- `anschluss-router` — Anschluss Router
+- `belegmatrix-mandantenkommunikation-entscheidungsvorlage` — Belegmatrix Mandantenkommunikation Entscheidungsvorlage
+- `bewertungen-red-team-impressumspflicht` — Bewertungen RED Team Impressumspflicht
+- `ce-kennzeichnung-routenplan` — CE Kennzeichnung Routenplan
+- `chronologie-red-team-und-qualitaetskontrolle` — Chronologie RED Team und Qualitaetskontrolle
+- `dual-use-produktrecht` — Dual USE Produktrecht
+- `eu-produktsicherheitsverordnung-feature` — EU Produktsicherheitsverordnung Feature
+- `feature-risikobewertung` — Feature Risikobewertung
+- `fristen-risikoampel-mandantenkommunikation` — Fristen Risikoampel Mandantenkommunikation
+- `impressum-pflicht` — Impressum Pflicht
+- `impressumspflicht-dokumentenmatrix-und-lueckenliste` — Impressumspflicht Dokumentenmatrix und Lueckenliste
+- `ist-ki-act-marktueberwachung-kommunikation` — IST KI ACT Marktueberwachung Kommunikation
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
+
+## Arbeitsweg
+
+- Tragende Normen (ProdHaftG) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
+- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
+- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
+- Dynamische Bereiche im Produktrecht (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
+- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `workflow-anschluss-skills-router`
+
+_Für Anschluss-Skills Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Produkthaftung und Produktrecht._
+
+# Anschluss-Skills Router
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Anschluss-Skills Router** im Bereich **produktrecht** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- UrhG, MarkenG, PatG, DesignG, UWG, GeschGehG, Produkthaftungsrecht/ProdHaftG und EU-Verordnungen je nach Schutzrecht/Produkt.
+- Schutzgegenstand, Inhaberschaft, Priorität, Benutzung/Nutzung, Verletzung, Schranke, Anspruch und Beweis getrennt prüfen.
+- Rechtsprechung nur mit frei prüfbarem Gericht, Datum, Aktenzeichen und Quelle einsetzen.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+---
+
+## Skill: `workflow-mandantenkommunikation`
+
+_Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Produkthaftung und Produktrecht._
+
+# Mandantenkommunikation
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **produktrecht** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- UrhG, MarkenG, PatG, DesignG, UWG, GeschGehG, Produkthaftungsrecht/ProdHaftG und EU-Verordnungen je nach Schutzrecht/Produkt.
+- Schutzgegenstand, Inhaberschaft, Priorität, Benutzung/Nutzung, Verletzung, Schranke, Anspruch und Beweis getrennt prüfen.
+- Rechtsprechung nur mit frei prüfbarem Gericht, Datum, Aktenzeichen und Quelle einsetzen.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+---
+
+## Skill: `rechtsabteilung-produkthaftungsrichtlinie-ce`
+
+_Für Rechtsabteilung: Neue Produkthaftungsrichtlinie und Softwareprodukt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Rechtsabteilung: Neue Produkthaftungsrichtlinie und Softwareprodukt
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: GPSR Geltungsbeginn 13.12.2024, MaschinenVO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, Rückruf unverzüglich, Meldung schwerer Unfall innerhalb 2 Tagen.
+- Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialkern: Rechtsabteilung: Neue Produkthaftungsrichtlinie und Softwareprodukt
+
+- **Konkretes Problem:** Software, Updates, KI und Beweislast werden für Product Counsel operationalisiert.
+- **Norm-/Quellenanker:** ProdSG, ProdHaftG, neue Produkthaftungsrichtlinie EU 2024/2853, GPSR, Cyber Resilience Act, BGB-Kaufrecht digitale Elemente und Right-to-Repair-Regime.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
+
+## Norm- und Rechtsprechungsanker
+
+Richtlinie EU 2024/2853; ProdHaftG; BGB Kaufrecht
+
+## Sofortprüfung
+
+1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
+2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
+3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
+4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
+5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
+
+## Fachlicher Zuschnitt
+
+Software, Updates, KI und Beweislast werden für Product Counsel operationalisiert.
+
+## Output für die Rechtsabteilung
+
+- One-page legal memo mit Risikoampel und klarer Empfehlung.
+- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
+- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
+- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+
+---
+
+## Skill: `workflow-redteam-qualitygate`
+
+_Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Produkthaftung und Produktrecht._
+
+# Red-Team Qualitygate
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Red-Team Qualitygate** im Bereich **produktrecht** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- UrhG, MarkenG, PatG, DesignG, UWG, GeschGehG, Produkthaftungsrecht/ProdHaftG und EU-Verordnungen je nach Schutzrecht/Produkt.
+- Schutzgegenstand, Inhaberschaft, Priorität, Benutzung/Nutzung, Verletzung, Schranke, Anspruch und Beweis getrennt prüfen.
+- Rechtsprechung nur mit frei prüfbarem Gericht, Datum, Aktenzeichen und Quelle einsetzen.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: materialkosten-auslagen-abgrenzung-10-goae
-description: "Wenn es um Materialkosten Auslagen Abgrenzung Paragraf 10 GOÄ in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Materialkosten Auslagen Abgrenzung Paragraf 10 GOÄ: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Materialkosten Auslagen Abgrenzung § 10 GOÄ

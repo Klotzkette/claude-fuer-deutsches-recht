@@ -1,6 +1,6 @@
 ---
 name: going-concern-warnsignale-rechtsprechungsche
-description: "Wenn es um Going Concern Warnsignale Rechtsprechungsche in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Going Concern Warnsignale Rechtsprechungsche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: going concern warnsignale - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

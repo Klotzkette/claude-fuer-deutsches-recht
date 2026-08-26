@@ -1,6 +1,6 @@
 ---
 name: kreditausfallversicherung-warenkredit
-description: "Wenn es um Kreditausfallversicherung und Warenkreditversicherung in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Kreditausfallversicherung und Warenkreditversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kreditausfallversicherung und Warenkreditversicherung

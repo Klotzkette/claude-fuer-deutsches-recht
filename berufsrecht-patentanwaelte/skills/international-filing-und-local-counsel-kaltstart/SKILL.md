@@ -1,6 +1,6 @@
 ---
 name: international-filing-und-local-counsel-kaltstart
-description: "Wenn es um International Filing Und Local Counsel Kaltstart in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für International Filing und Local Counsel Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Patentanwälte: international filing und local counsel - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

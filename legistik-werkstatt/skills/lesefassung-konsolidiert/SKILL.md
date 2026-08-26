@@ -1,6 +1,6 @@
 ---
 name: lesefassung-konsolidiert
-description: "Wenn es um Lesefassung konsolidiert in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lesefassung konsolidiert: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lesefassung konsolidiert

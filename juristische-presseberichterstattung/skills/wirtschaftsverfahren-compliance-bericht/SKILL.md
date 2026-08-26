@@ -1,6 +1,6 @@
 ---
 name: wirtschaftsverfahren-compliance-bericht
-description: "Wenn es um Wirtschaftsverfahren Compliance Bericht in Juristische Presseberichterstattung geht: bereitet komplexe Wirtschafts-, Insolvenz-, Aufsichts- und Compliance-Verfahren als verständlichen Bericht auf."
+description: "Für Wirtschaftsverfahren Compliance Bericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsverfahren Compliance Bericht

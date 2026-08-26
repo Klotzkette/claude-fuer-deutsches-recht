@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-007-erster-teil-titel-4-willen-vertraege
-description: "Wenn es um PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge in Preußisches Allgemeines Landrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge

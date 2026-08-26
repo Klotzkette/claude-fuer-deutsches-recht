@@ -1,6 +1,6 @@
 ---
 name: eur-mandant-uebersicht-zustaendigkeiten
-description: "Wenn es um EU: Zuständigkeiten in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU: Zuständigkeiten: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU: Zuständigkeiten

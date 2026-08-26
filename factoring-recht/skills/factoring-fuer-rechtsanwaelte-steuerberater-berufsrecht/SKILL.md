@@ -1,6 +1,6 @@
 ---
 name: factoring-fuer-rechtsanwaelte-steuerberater-berufsrecht
-description: "Wenn es um Factoring für Rechtsanwälte Steuerberater Berufsrecht in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Factoring für Rechtsanwälte Steuerberater Berufsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Factoring für Rechtsanwälte Steuerberater Berufsrecht

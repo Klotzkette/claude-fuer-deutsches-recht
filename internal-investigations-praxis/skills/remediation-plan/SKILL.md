@@ -1,6 +1,6 @@
 ---
 name: remediation-plan
-description: "Wenn es um Remediation-Plan nach Internal Investigation in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Remediation-Plan nach Internal Investigation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Remediation-Plan nach Internal Investigation

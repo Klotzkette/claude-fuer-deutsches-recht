@@ -1,6 +1,6 @@
 ---
 name: brao-zahlen-schwellen-und-berechnung
-description: "Wenn es um Brao: Zahlen, Schwellenwerte und Berechnung in diesem Spezialbereich geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für BRAO: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: brao-zahlen-schwellen-und-berechnung."
 ---
 
 # Brao: Zahlen, Schwellenwerte und Berechnung

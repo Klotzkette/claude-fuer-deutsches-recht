@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-bem-verfahren
-description: "Wenn es um BEM-Verfahren Paragraf 167 II SGB IX in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BEM-Verfahren Paragraf 167 II SGB IX: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BEM-Verfahren Paragraf 167 II SGB IX

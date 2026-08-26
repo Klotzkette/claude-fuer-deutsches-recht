@@ -1,6 +1,6 @@
 ---
 name: zahlungsunfaehigkeit-tatbestand-beweis-und-belege
-description: "Wenn es um Zahlungsunfaehigkeit: Tatbestandsmerkmale, Beweisfragen und Beleglage in Insolvenzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Zahlungsunfähigkeit: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Zahlungsunfaehigkeit: Tatbestandsmerkmale, Beweisfragen und Beleglage

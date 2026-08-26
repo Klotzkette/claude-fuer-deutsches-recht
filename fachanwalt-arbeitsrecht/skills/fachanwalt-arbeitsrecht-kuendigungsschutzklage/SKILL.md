@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-kuendigungsschutzklage
-description: "Wenn es um Kündigungsschutzklage (Paragraf 4 KSchG) in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kündigungsschutzklage (Paragraf 4 KSchG): erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Kündigungsschutzklage (Paragraf 4 KSchG)

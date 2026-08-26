@@ -1,6 +1,6 @@
 ---
 name: interessen-und-vorhabenbereiche
-description: "Wenn es um Interessen- und Vorhabenbereiche in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Interessen- und Vorhabenbereiche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Interessen- und Vorhabenbereiche

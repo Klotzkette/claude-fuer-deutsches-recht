@@ -1,6 +1,6 @@
 ---
 name: verdachtsvertraege-pruefung
-description: "Wenn es um Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Verdachtsvertraege Prüfung; Arbeitsfeld: Betreuungsrecht."
+description: "Für Verdachtsverträge: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg

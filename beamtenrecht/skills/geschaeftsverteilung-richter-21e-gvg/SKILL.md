@@ -1,6 +1,6 @@
 ---
 name: geschaeftsverteilung-richter-21e-gvg
-description: "Wenn es um Geschäftsverteilung Richter Paragraf 21e GVG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geschäftsverteilung Richter Paragraf 21e GVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschäftsverteilung Richter § 21e GVG

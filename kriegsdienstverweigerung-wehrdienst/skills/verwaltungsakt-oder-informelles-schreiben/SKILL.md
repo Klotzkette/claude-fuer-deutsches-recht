@@ -1,6 +1,6 @@
 ---
 name: verwaltungsakt-oder-informelles-schreiben
-description: "Wenn es um Verwaltungsakt oder Hinweis in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verwaltungsakt oder Hinweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwaltungsakt oder Hinweis

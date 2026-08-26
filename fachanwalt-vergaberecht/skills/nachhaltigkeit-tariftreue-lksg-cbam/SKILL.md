@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeit-tariftreue-lksg-cbam
-description: "Wenn es um Nachhaltigkeit Tariftreue Lksg Cbam in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachhaltigkeit Tariftreue Lksg Cbam: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Nachhaltigkeit, soziale Kriterien, Tariftreue, Lieferkette und CO2-Bezug in Vergaben gestalten: Eignung, Ausfuehrungsbedingungen, Zuschlagskriterien und Nachweise.

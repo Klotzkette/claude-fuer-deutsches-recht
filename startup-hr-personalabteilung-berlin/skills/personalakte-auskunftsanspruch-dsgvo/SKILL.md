@@ -1,6 +1,6 @@
 ---
 name: personalakte-auskunftsanspruch-dsgvo
-description: "Wenn es um Personalakte Auskunftsanspruch DSGVO in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Personalakte Auskunftsanspruch DSGVO: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Personalakte Auskunftsanspruch DSGVO

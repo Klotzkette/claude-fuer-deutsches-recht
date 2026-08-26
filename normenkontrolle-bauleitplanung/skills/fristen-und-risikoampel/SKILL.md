@@ -1,6 +1,6 @@
 ---
 name: fristen-und-risikoampel
-description: "Wenn es um Fristen- und Risikoampel in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Fristen- und Risikoampel

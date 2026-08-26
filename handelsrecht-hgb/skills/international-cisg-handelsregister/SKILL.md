@@ -1,6 +1,6 @@
 ---
 name: international-cisg-handelsregister
-description: "Wenn es um Internationaler Bezug und CISG-Schnittstelle in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internationaler Bezug und CISG-Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Internationaler Bezug und CISG-Schnittstelle

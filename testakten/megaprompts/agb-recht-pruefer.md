@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 304 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Agb Recht Prüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet k…
-2. **kaltstart-triage** — Wenn es um AGB-Recht Kommandocenter in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näc…
-3. **rechtsabteilung-preisanpassung-bei-dauervertraegen-nach-energiek** — Wenn es um Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock in AGB-Recht-Prüfer geht: zerleg…
-4. **rechtsabteilung-vertragsstrafe-in-einheitspreis-und-liefervertra** — Wenn es um Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen in AGB-Recht-Prüfer geht: zerlegt Ergeb…
-5. **vergaberechtliche-vertragsbedingungen-vertragsstrafe** — Wenn es um Vergaberechtliche Vertragsbedingungen in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenar…
-6. **rechtsabteilung-haftungsdeckel-fuer-daten-und-ki-schaeden** — Wenn es um Rechtsabteilung: Haftungsdeckel für Daten- und digitale Werkzeuge-Schäden in AGB-Recht-Prüfer geht: ordnet Ak…
-7. **rechtsabteilung-vertragsstrafe-einheitspreis** — Wenn es um Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen in AGB-Recht-Prüfer geht: zerlegt Ergeb…
-8. **unternehmerverkehr-abs1-schnellcheck-user** — Wenn es um Unternehmerverkehr 310 Abs. 1 in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente …
+2. **kaltstart-triage** — Für AGB-Recht Kommandocenter: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und näch…
+3. **rechtsabteilung-preisanpassung-bei-dauervertraegen-nach-energiek** — Für Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock: ordnet Norm, Beweislast und Gegenargum…
+4. **rechtsabteilung-vertragsstrafe-in-einheitspreis-und-liefervertra** — Für Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen: ordnet Norm, Beweislast und Gegenargument; Er…
+5. **rechtsabteilung-haftungsdeckel-fuer-daten-und-ki-schaeden** — Für Rechtsabteilung: Haftungsdeckel für Daten- und digitale Werkzeuge-Schäden: ordnet Norm, Beweislast und Gegenargument…
+6. **rechtsabteilung-vertragsstrafe-einheitspreis** — Für Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen: ordnet Norm, Beweislast und Gegenargument; Er…
+7. **rechtsabteilung-haftungsdeckel-daten-ki** — Für Rechtsabteilung: Haftungsdeckel für Daten- und digitale Werkzeuge-Schäden: ordnet Norm, Beweislast und Gegenargument…
+8. **rechtsabteilung-zustimmungsfiktion-nach-bank-agb-urteil** — Für Rechtsabteilung: Zustimmungsfiktion nach Bank-AGB-Urteil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
 
 ---
 
@@ -143,7 +143,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Vertrag, Pflichtverletzun
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um AGB-Recht Kommandocenter in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten._
+_Für AGB-Recht Kommandocenter: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # AGB-Recht Kommandocenter
 
@@ -216,7 +216,7 @@ Frage höchstens eine wirklich entscheidende Rückfrage. Wenn genug Material vor
 
 ## Skill: `rechtsabteilung-preisanpassung-bei-dauervertraegen-nach-energiek`
 
-_Wenn es um Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Rechtsabteilung Preisanpassung Bei Dauervertraegen Nach Energiek; Arbeitsfeld: AGB-Recht-Prüfer._
+_Für Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-preisanpassung-bei-dauervertraegen-nach-energiek._
 
 # Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock
 
@@ -265,7 +265,7 @@ _Wenn es um Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekost
 
 ## Skill: `rechtsabteilung-vertragsstrafe-in-einheitspreis-und-liefervertra`
 
-_Wenn es um Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Rechtsabteilung Vertragsstrafe In Einheitspreis Und Liefervertra; Arbeitsfeld: AGB-Recht-Prüfer._
+_Für Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-vertragsstrafe-in-einheitspreis-und-liefervertra._
 
 # Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen
 
@@ -312,45 +312,9 @@ BGH, Urteil vom 15.02.2024 - VII ZR 42/22; §§ 307, 309 Nr. 6 BGB; § 339 BGB
 
 ---
 
-## Skill: `vergaberechtliche-vertragsbedingungen-vertragsstrafe`
-
-_Wenn es um Vergaberechtliche Vertragsbedingungen in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Vergaberechtliche Vertragsbedingungen Vertragsstrafe; Arbeitsfeld: AGB-Recht-Prüfer._
-
-# Vergaberechtliche Vertragsbedingungen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Vergaberechtliche Vertragsbedingungen
-
-- **Klauselproblem (Vergaberechtliche Vertragsbedingungen):** prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Vergaberechtliche Vertragsbedingungen besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
----
-
 ## Skill: `rechtsabteilung-haftungsdeckel-fuer-daten-und-ki-schaeden`
 
-_Wenn es um Rechtsabteilung: Haftungsdeckel für Daten- und digitale Werkzeuge-Schäden in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Auswahlstichwort: Rechtsabteilung Haftungsdeckel für Daten Und Ki Schaeden; Arbeitsfeld: AGB-Recht-Prüfer._
+_Für Rechtsabteilung: Haftungsdeckel für Daten- und digitale Werkzeuge-Schäden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-haftungsdeckel-fuer-daten-und-ki-schaeden._
 
 # Rechtsabteilung: Haftungsdeckel für Daten- und KI-Schäden
 
@@ -391,7 +355,7 @@ _Wenn es um Rechtsabteilung: Haftungsdeckel für Daten- und digitale Werkzeuge-S
 
 ## Skill: `rechtsabteilung-vertragsstrafe-einheitspreis`
 
-_Wenn es um Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Rechtsabteilung Vertragsstrafe Einheitspreis; Arbeitsfeld: AGB-Recht-Prüfer._
+_Für Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-vertragsstrafe-einheitspreis._
 
 # Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen
 
@@ -431,11 +395,45 @@ BGH, Urteil vom 15.02.2024 - VII ZR 42/22; §§ 307, 309 Nr. 6 BGB; § 339 BGB
 
 ---
 
-## Skill: `unternehmerverkehr-abs1-schnellcheck-user`
+## Skill: `rechtsabteilung-haftungsdeckel-daten-ki`
 
-_Wenn es um Unternehmerverkehr 310 Abs. 1 in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Unternehmerverkehr Abs1 Schnellcheck User; Arbeitsfeld: AGB-Recht-Prüfer._
+_Für Rechtsabteilung: Haftungsdeckel für Daten- und digitale Werkzeuge-Schäden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-haftungsdeckel-daten-ki._
 
-# Unternehmerverkehr 310 Abs. 1
+# Rechtsabteilung: Haftungsdeckel für Daten- und KI-Schäden
+
+## Fachkern: Rechtsabteilung: Haftungsdeckel für Daten- und KI-Schäden
+
+- **Klauselproblem (Rechtsabteilung: Haftungsdeckel für Daten- und KI-Schäden):** Liability Caps bei Software, Daten, KI und Outsourcing werden so geprüft, dass Kardinalpflichten und Personenschäden nicht versehentlich abgeschnitten werden.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+
+## Norm- und Rechtsprechungsanker
+
+§§ 307, 309 Nr. 7 BGB; ProdHaftG; Richtlinie EU 2024/2853 als künftiger Rahmen
+
+## Sofortprüfung
+
+1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
+2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
+3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
+4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
+5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
+
+## Output für die Rechtsabteilung
+
+- One-page legal memo mit Risikoampel und klarer Empfehlung.
+- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
+- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
+- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+
+---
+
+## Skill: `rechtsabteilung-zustimmungsfiktion-nach-bank-agb-urteil`
+
+_Für Rechtsabteilung: Zustimmungsfiktion nach Bank-AGB-Urteil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-zustimmungsfiktion-nach-bank-agb-urteil._
+
+# Rechtsabteilung: Zustimmungsfiktion nach Bank-AGB-Urteil
 
 ## Arbeitsweg
 
@@ -444,26 +442,39 @@ _Wenn es um Unternehmerverkehr 310 Abs. 1 in AGB-Recht-Prüfer geht: ordnet Sach
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Unternehmerverkehr 310 Abs. 1
+## Fachkern: Rechtsabteilung: Zustimmungsfiktion nach Bank-AGB-Urteil
 
-- **Klauselproblem (Unternehmerverkehr 310 Abs. 1):** prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
+- **Klauselproblem (Rechtsabteilung: Zustimmungsfiktion nach Bank-AGB-Urteil):** Klauseln, die Schweigen oder bloße Weiternutzung als Zustimmung behandeln, werden für Preis- und Leistungsänderungen in B2C und B2B auseinandergenommen.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
-## Prüfpfad
+## Norm- und Rechtsprechungsanker
 
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Unternehmerverkehr 310 Abs. 1 besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+BGH, Urteil vom 27.04.2021 - XI ZR 26/20; §§ 305, 307 BGB; Zahlungsdienste zusätzlich §§ 675g, 675o BGB
 
-## Quellenanker
+## Sofortprüfung
 
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
+1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
+2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
+3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
+4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
+5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
+
+## Output für die Rechtsabteilung
+
+- One-page legal memo mit Risikoampel und klarer Empfehlung.
+- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
+- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
+- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 

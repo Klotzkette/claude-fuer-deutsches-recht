@@ -1,6 +1,6 @@
 ---
 name: probeabo-widerruf-verbandsstrategie
-description: "Wenn es um VDG 104 Probeabo Widerruf Verbandsstrategie in Verbraucherschutzverband Durchsetzung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für VDG 104 Probeabo Widerruf Verbandsstrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # VDG 104 Probeabo Widerruf Verbandsstrategie

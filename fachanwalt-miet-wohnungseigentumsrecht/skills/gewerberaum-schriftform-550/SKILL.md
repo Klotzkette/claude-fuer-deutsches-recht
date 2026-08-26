@@ -44,3 +44,7 @@ Textform nach Paragraf 126b BGB erfordert eine lesbare Erklärung auf dauerhafte
 Liefere einen Formstatus nach Dokument und Rechtsstand, die stärkste Gegenposition, den frühestmöglichen Kündigungstermin, konkrete Beweisangebote und entweder einen bereinigenden Nachtrag in Textform oder einen Schriftsatzbaustein zur Wirksamkeit beziehungsweise Kündbarkeit. Formmangel, materielle Vertragsauslegung und Beweisproblem bleiben getrennte Prüfungsebenen.
 
 > Quellenregel: Tragende Normen und Entscheidungen vor Außenverwendung anhand amtlicher Quellen verifizieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-gewerberaum-schriftform-550` beziehungsweise Gewerberaum: Streit um Formmangel und Kündigung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-gewerberaum-schriftform-550.md).

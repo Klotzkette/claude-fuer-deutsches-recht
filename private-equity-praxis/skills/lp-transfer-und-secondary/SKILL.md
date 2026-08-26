@@ -1,6 +1,6 @@
 ---
 name: lp-transfer-und-secondary
-description: "Wenn es um LP-Transfer und Secondary Interest Sale in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LP-Transfer und Secondary Interest Sale: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LP-Transfer und Secondary Interest Sale

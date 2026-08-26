@@ -1,6 +1,6 @@
 ---
 name: infl-027-dsa-plattformbeschwerde-und-account-sperre
-description: "Wenn es um Influencer-Recht: DSA Plattformbeschwerde und Account Sperre in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: DSA Plattformbeschwerde und Account Sperre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: DSA Plattformbeschwerde und Account Sperre

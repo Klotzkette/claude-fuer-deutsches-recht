@@ -1,6 +1,6 @@
 ---
 name: datenschutz-newsletter-community-und-discord
-description: "Wenn es um Influencer-Recht: Datenschutz – Newsletter, Community und Discord in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Datenschutz – Newsletter, Community und Discord: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Datenschutz – Newsletter, Community und Discord

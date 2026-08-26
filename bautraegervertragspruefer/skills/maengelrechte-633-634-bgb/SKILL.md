@@ -1,6 +1,6 @@
 ---
 name: maengelrechte-633-634-bgb
-description: "Wenn es um Mängelrechte Paragrafen 633 und 634 BGB in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mängelrechte Paragrafen 633 und 634 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mängelrechte Paragrafen 633 und 634 BGB

@@ -1,6 +1,6 @@
 ---
 name: grad-der-behinderung-gdb-sgb-ix
-description: "Wenn es um Grad der Behinderung (GdB) — Streit mit dem Versorgungsamt in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grad der Behinderung (GdB) — Streit mit dem Versorgungsamt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grad der Behinderung (GdB) — Streit mit dem Versorgungsamt

@@ -1,6 +1,6 @@
 ---
 name: qualitaetsaudit-filiale-und-sanktionen
-description: "Wenn es um Franchiserecht: Qualitätsaudit, Filialprüfung und Sanktionen in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Franchiserecht: Qualitätsaudit, Filialprüfung und Sanktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Franchiserecht: Qualitätsaudit, Filialprüfung und Sanktionen

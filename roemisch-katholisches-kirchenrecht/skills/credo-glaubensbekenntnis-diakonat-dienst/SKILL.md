@@ -1,6 +1,6 @@
 ---
 name: credo-glaubensbekenntnis-diakonat-dienst
-description: "Wenn es um Credo und Glaubensbekenntnis in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Credo Glaubensbekenntnis Diakonat Dienst; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
+description: "Für Credo und Glaubensbekenntnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: credo-glaubensbekenntnis-diakonat-dienst."
 ---
 
 # Credo und Glaubensbekenntnis

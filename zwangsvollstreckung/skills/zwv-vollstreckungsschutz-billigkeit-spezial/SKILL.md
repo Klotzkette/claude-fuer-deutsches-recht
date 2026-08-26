@@ -1,6 +1,6 @@
 ---
 name: zwv-vollstreckungsschutz-billigkeit-spezial
-description: "Wenn es um ZwV: Vollstreckungsschutz Billigkeit in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ZwV: Vollstreckungsschutz Billigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ZwV: Vollstreckungsschutz Billigkeit

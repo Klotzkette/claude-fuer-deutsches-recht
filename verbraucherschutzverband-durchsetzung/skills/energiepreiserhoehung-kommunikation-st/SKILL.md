@@ -1,6 +1,6 @@
 ---
 name: energiepreiserhoehung-kommunikation-st
-description: "Wenn es um Energiepreiserhoehung Kommunikation St in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energiepreiserhöhung Kommunikation St: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energiepreiserhoehung Kommunikation St

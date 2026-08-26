@@ -1,6 +1,6 @@
 ---
 name: pignus-conventum-hypotheca-praxisfaelle
-description: "Wenn es um Rom 137 Pignus Conventum Hypotheca Praxisfaelle in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pignus Conventum Hypotheca Praxisfaelle; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 137 Pignus Conventum Hypotheca Praxisfälle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: pignus-conventum-hypotheca-praxisfaelle."
 ---
 
 # Rom 137 Pignus Conventum Hypotheca Praxisfaelle

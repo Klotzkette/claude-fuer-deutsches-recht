@@ -1,6 +1,6 @@
 ---
 name: tierschutz-strafanzeige-vorbereiten
-description: "Wenn es um Tierschutz Strafanzeige Vorbereiten in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tierschutz Strafanzeige Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tierschutz Strafanzeige Vorbereiten

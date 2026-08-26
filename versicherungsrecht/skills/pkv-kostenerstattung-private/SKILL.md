@@ -1,6 +1,6 @@
 ---
 name: pkv-kostenerstattung-private
-description: "Wenn es um PKV: Kostenerstattung und medizinische Notwendigkeit in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für PKV: Kostenerstattung und medizinische Notwendigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PKV: Kostenerstattung und medizinische Notwendigkeit

@@ -1,6 +1,6 @@
 ---
 name: going-concern-warnsignale-kaltstart-und-fakt
-description: "Wenn es um Going Concern Warnsignale Kaltstart Und Fakt in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Going Concern Warnsignale Kaltstart und Fakt: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: going concern warnsignale - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

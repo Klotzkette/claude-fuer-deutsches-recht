@@ -1,6 +1,6 @@
 ---
 name: windpark-akteneinsicht-erzwingen
-description: "Wenn es um Windpark Akteneinsicht Erzwingen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Windpark Akteneinsicht Erzwingen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Windpark Akteneinsicht Erzwingen

@@ -1,6 +1,6 @@
 ---
 name: grest-signing-insolvenzreife-inso-klage
-description: "Wenn es um GrESt: Signing, Closing und Doppelfestsetzung in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für GrESt: Signing, Closing und Doppelfestsetzung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # GrESt: Signing, Closing und Doppelfestsetzung

@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-notar-und-grundbuchkosten
-description: "Wenn es um Notar-, Grundbuch- und Transaktionskosten in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Notar-, Grundbuch- und Transaktionskosten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notar-, Grundbuch- und Transaktionskosten

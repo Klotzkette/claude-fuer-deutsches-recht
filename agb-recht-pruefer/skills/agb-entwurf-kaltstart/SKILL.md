@@ -1,6 +1,6 @@
 ---
 name: agb-entwurf-kaltstart
-description: "Wenn es um AGB Entwurf Kaltstart in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für AGB Entwurf Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AGB Entwurf Kaltstart

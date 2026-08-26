@@ -1,6 +1,6 @@
 ---
 name: vorbehaltsaufgabe-und-unbefugte-hilfeleistung-rechtspr-check
-description: "Wenn es um Vorbehaltsaufgabe Und Unbefugte Hilfeleistung Rechtspr Check in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Vorbehaltsaufgabe und Unbefugte Hilfeleistung Rechtspr Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: vorbehaltsaufgabe und unbefugte hilfeleistung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

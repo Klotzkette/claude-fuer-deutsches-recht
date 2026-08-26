@@ -1,6 +1,6 @@
 ---
 name: freistehender-erstpruefung-und-mandatsziel
-description: "Wenn es um Freistehender: Erstprüfung, Rollenklärung und Mandatsziel in Phishing-Vorfall-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freistehender: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Phishing-Vorfall-Prüfer."
 ---
 
 # Freistehender: Erstprüfung, Rollenklärung und Mandatsziel

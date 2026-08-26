@@ -1,6 +1,6 @@
 ---
 name: anfg-grundtatbestand-und-anfechtungsberechtigte
-description: "Wenn es um AnfG-Grundtatbestand und Anfechtungsberechtigte in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfg Grundtatbestand Und Anfechtungsberechtigte; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für AnfG-Grundtatbestand und Anfechtungsberechtigte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: anfg-grundtatbestand-und-anfechtungsberechtigte."
 ---
 
 # AnfG-Grundtatbestand und Anfechtungsberechtigte

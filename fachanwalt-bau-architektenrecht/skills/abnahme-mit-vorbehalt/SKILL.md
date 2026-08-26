@@ -1,6 +1,6 @@
 ---
 name: abnahme-mit-vorbehalt
-description: "Wenn es um Abnahme Mit Vorbehalt in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abnahme mit Vorbehalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Bau Architektenrecht. Route: abnahme-mit-vorbehalt."
 ---
 
 # Abnahme des Bauwerks unter Vorbehalt von Maengeln erklären: Maengelvorbehalt, Sicherungsrechte

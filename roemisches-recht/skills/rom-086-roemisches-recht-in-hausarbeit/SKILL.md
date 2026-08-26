@@ -1,6 +1,6 @@
 ---
 name: rom-086-roemisches-recht-in-hausarbeit
-description: "Wenn es um Roemisches Recht In Hausarbeit in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht in Hausarbeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Roemisches Recht In Hausarbeit

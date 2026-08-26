@@ -1,6 +1,6 @@
 ---
 name: ins-042-social-media-leak
-description: "Wenn es um Insiderrecht: Social Media Leak in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Insiderrecht: Social Media Leak: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Social Media Leak

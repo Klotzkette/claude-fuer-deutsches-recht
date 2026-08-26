@@ -1,6 +1,6 @@
 ---
 name: absturz-in-deutschland-bergung-eigentum-beweis-und-staatshaftung
-description: "Wenn es um Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung

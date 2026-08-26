@@ -1,6 +1,6 @@
 ---
 name: workflow-zweckbestimmung-und-usecase
-description: "Wenn es um Zweckbestimmung und Use Case in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zweckbestimmung und Use Case: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: workflow-zweckbestimmung-und-usecase."
 ---
 
 # Zweckbestimmung und Use Case

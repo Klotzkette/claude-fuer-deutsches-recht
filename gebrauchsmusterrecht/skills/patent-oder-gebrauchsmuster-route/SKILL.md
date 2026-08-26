@@ -1,6 +1,6 @@
 ---
 name: patent-oder-gebrauchsmuster-route
-description: "Wenn es um Patent Oder Gebrauchsmuster Route in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Patent oder Gebrauchsmuster Route: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patent Oder Gebrauchsmuster Route

@@ -1,6 +1,6 @@
 ---
 name: kommunalvermoegen-berechtigte-ermittel
-description: "Wenn es um Kommunalvermoegen Berechtigte Ermittel in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunalvermögen Berechtigte Ermittel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunalvermoegen Berechtigte Ermittel

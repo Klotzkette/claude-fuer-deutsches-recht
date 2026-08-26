@@ -1,6 +1,6 @@
 ---
 name: forderungsanmeldung-glaeubiger-174-177-inso
-description: "Wenn es um Forderungsanmeldung im Insolvenzverfahren — Gläubiger-Sicht (Paragrafen 174-177 InsO) in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Forderungsanmeldung im Insolvenzverfahren — Gläubiger-Sicht (Paragrafen 174-177 InsO): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Forderungsanmeldung im Insolvenzverfahren — Gläubiger-Sicht (§§ 174-177 InsO)

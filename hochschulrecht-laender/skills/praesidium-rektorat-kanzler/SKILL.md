@@ -1,6 +1,6 @@
 ---
 name: praesidium-rektorat-kanzler
-description: "Wenn es um Praesidium Rektorat Kanzler in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Präsidium Rektorat Kanzler: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praesidium Rektorat Kanzler

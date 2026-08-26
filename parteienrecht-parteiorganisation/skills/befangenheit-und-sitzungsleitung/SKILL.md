@@ -1,6 +1,6 @@
 ---
 name: befangenheit-und-sitzungsleitung
-description: "Wenn es um Befangenheit und Sitzungsleitung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Befangenheit und Sitzungsleitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Befangenheit und Sitzungsleitung

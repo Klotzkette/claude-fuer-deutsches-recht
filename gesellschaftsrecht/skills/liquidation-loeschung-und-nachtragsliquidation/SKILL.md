@@ -1,6 +1,6 @@
 ---
 name: liquidation-loeschung-und-nachtragsliquidation
-description: "Wenn es um Liquidation, Löschung und Nachtragsliquidation in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Liquidation, Löschung und Nachtragsliquidation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Liquidation, Löschung und Nachtragsliquidation
 

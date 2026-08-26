@@ -1,6 +1,6 @@
 ---
 name: anliegergebrauch-abgrenzen
-description: "Wenn es um Anliegergebrauch Abgrenzen in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anliegergebrauch Abgrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anliegergebrauch Abgrenzen

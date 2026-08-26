@@ -1,6 +1,6 @@
 ---
 name: neu-010-november-1918-uebergangsrecht-revolution-und-kontinu
-description: "Wenn es um Deutsche Rechtsgeschichte: 010 November 1918 Uebergangsrecht Revolution Und Kontinu in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: 010 November 1918 Übergangsrecht Revolution und Kontinu: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: 010 November 1918 Uebergangsrecht Revolution Und Kontinu

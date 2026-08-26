@@ -1,6 +1,6 @@
 ---
 name: muster-anzeige-eilantrag
-description: "Wenn es um Formular und Freitext in einem in Versammlungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Formular und Freitext in einem: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Formular und Freitext in einem

@@ -1,6 +1,6 @@
 ---
 name: notfrist-compliance-dokumentation-und-akte
-description: "Wenn es um Notfrist: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notfrist: Compliance-Dokumentation und Aktenvermerk: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Notfrist: Compliance-Dokumentation und Aktenvermerk

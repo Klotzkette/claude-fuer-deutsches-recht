@@ -1,6 +1,6 @@
 ---
 name: agrar-logistik-cyberincident
-description: "Wenn es um Datenbankrecht für Agrar- und Sensordaten — Präzisionslandwirtschaft und IoT in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht für Agrar- und Sensordaten — Präzisionslandwirtschaft und IoT: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht für Agrar- und Sensordaten — Präzisionslandwirtschaft und IoT

@@ -1,6 +1,6 @@
 ---
 name: deckungspruefung-obliegenheiten-regress
-description: "Wenn es um Deckungspruefung Obliegenheiten Regress in Fachanwalt Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Deckungsprüfung Obliegenheiten Regress: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Deckungsprüfung, Obliegenheiten und Regressrisiko: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
@@ -50,3 +50,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 3. **Materielle Weichen:** Die Kernfragen zu **Deckungsprüfung, Obliegenheiten und Regressrisiko** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
 4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
 5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-deckungspruefung-obliegenheiten-regress` beziehungsweise Deckungsprüfung, Obliegenheiten und Regressrisiko: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-deckungspruefung-obliegenheiten-regress.md).

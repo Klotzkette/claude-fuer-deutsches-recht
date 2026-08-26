@@ -1,6 +1,6 @@
 ---
 name: livecheck-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Livecheck: Mehrparteienkonflikt und Interessenmatrix in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Livecheck: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Livecheck: Mehrparteienkonflikt und Interessenmatrix

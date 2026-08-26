@@ -1,6 +1,6 @@
 ---
 name: entfristung-schriftform-14-abs-4-erkennen
-description: "Wenn es um Entfristung wegen Schriftformmangel nach Paragraf 14 Absatz 4 TzBfG in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entfristung wegen Schriftformmangel nach Paragraf 14 Absatz 4 TzBfG: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Entfristung wegen Schriftformmangel nach Paragraf 14 Absatz 4 TzBfG

@@ -1,6 +1,6 @@
 ---
 name: scheinprivatisierung-erkennen-oepp
-description: "Wenn es um Scheinprivatisierung Erkennen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Scheinprivatisierung Erkennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Scheinprivatisierung Erkennen

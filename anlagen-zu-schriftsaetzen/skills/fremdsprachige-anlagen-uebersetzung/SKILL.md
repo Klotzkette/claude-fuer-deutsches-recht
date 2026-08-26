@@ -1,6 +1,6 @@
 ---
 name: fremdsprachige-anlagen-uebersetzung
-description: "Wenn es um Fremdsprachige Anlagen und Übersetzung in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Fremdsprachige Anlagen und Übersetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fremdsprachige Anlagen und Übersetzung

@@ -1,6 +1,6 @@
 ---
 name: begrenzte-dienstfaehigkeit-27-bbg
-description: "Wenn es um Begrenzte Dienstfaehigkeit nach Paragraf 27 BBG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Begrenzte Dienstfähigkeit nach Paragraf 27 BBG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Begrenzte Dienstfaehigkeit nach § 27 BBG

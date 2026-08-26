@@ -1,6 +1,6 @@
 ---
 name: bmf-zoll-und-aussenwirtschaftsrecht
-description: "Wenn es um Zollrecht und Aussenwirtschaftsrecht (BMF) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Zollrecht und Außenwirtschaftsrecht (BMF): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zollrecht und Aussenwirtschaftsrecht (BMF)

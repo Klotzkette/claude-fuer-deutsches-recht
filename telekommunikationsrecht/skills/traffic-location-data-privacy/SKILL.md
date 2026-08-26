@@ -1,6 +1,6 @@
 ---
 name: traffic-location-data-privacy
-description: "Wenn es um Verkehrs- und Standortdaten in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verkehrs- und Standortdaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verkehrs- und Standortdaten

@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-untaetigkeitsklage-krankenkasse
-description: "Trennt Untätigkeitsklage, Genehmigungsfiktion, Eilrechtsschutz und Akteneinsicht bei verzögerter Kassenentscheidung. Berechnet die richtigen Fristen, prüft zureichende Verzögerungsgründe und erstellt Sachstandsschreiben, Akteneinsichtsantrag oder Klage."
+description: "Trennt Untätigkeitsklage, Genehmigungsfiktion, Eilrechtsschutz und Akteneinsicht bei verzögerter Kassenentscheidung."
 ---
 
 # Untätigkeitsklage, Genehmigungsfiktion und Akteneinsicht

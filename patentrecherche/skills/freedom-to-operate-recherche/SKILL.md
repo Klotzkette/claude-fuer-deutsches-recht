@@ -1,6 +1,6 @@
 ---
 name: freedom-to-operate-recherche
-description: "Wenn es um freedom-to-operate-recherche in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für freedom-to-operate-recherche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # freedom-to-operate-recherche

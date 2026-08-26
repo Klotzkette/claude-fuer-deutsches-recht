@@ -1,6 +1,6 @@
 ---
 name: 09-einwendungen-einreden-pruefen
-description: "Wenn es um 09 Einwendungen Einreden Prüfen in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 09 Einwendungen Einreden Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 09 Einwendungen Einreden Prüfen

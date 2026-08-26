@@ -1,6 +1,6 @@
 ---
 name: ifg-016-gebuehrenbescheid-angreifen
-description: "Wenn es um Gebuehrenbescheid Angreifen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gebührenbescheid Angreifen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Informationsfreiheit und Presseauskunft. Route: ifg-016-gebuehrenbescheid-angreifen."
 ---
 
 # Gebuehrenbescheid Angreifen

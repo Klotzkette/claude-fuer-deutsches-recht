@@ -1,6 +1,6 @@
 ---
 name: ki-einsatz-lohnsteuer
-description: "Wenn es um digitale Werkzeuge zum Ausfüllen und Validieren nutzen in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge zum Ausfüllen und Validieren nutzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI zum Ausfüllen und Validieren nutzen

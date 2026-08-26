@@ -1,6 +1,6 @@
 ---
 name: finanzierung-und-covenant-waiver
-description: "Wenn es um Finanzierung Und Covenant Waiver in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Finanzierung und Covenant Waiver: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finanzierung Und Covenant Waiver

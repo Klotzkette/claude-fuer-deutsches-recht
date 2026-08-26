@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-verkehrszeichen
-description: "Wenn es um Eilrechtsschutz Verkehrszeichen in Straßenverkehrsrecht StVO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eilrechtsschutz Verkehrszeichen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eilrechtsschutz Verkehrszeichen

@@ -1,6 +1,6 @@
 ---
 name: fideicommissa-substitutionsformen-civitas
-description: "Wenn es um Rom 149 Fideicommissa Und Substitutionsformen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fideicommissa Substitutionsformen Civitas; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 149 Fideicommissa und Substitutionsformen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: fideicommissa-substitutionsformen-civitas."
 ---
 
 # Rom 149 Fideicommissa Und Substitutionsformen

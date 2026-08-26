@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmererfinder-und-verschwiegenheit-organi
-description: "Wenn es um Arbeitnehmererfinder Und Verschwiegenheit Organi in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitnehmererfinder und Verschwiegenheit Organi: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

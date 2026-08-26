@@ -1,6 +1,6 @@
 ---
 name: anpassen
-description: "Wenn es um /anpassen — Kanzleiprofil und Einstellungen anpassen in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für /anpassen — Kanzleiprofil und Einstellungen anpassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /anpassen — Kanzleiprofil und Einstellungen anpassen

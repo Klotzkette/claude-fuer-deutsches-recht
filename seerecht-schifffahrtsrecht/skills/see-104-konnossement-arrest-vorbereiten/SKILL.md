@@ -1,6 +1,6 @@
 ---
 name: see-104-konnossement-arrest-vorbereiten
-description: "Wenn es um Konnossement Arrest Vorbereiten in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konnossement Arrest Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konnossement Arrest Vorbereiten

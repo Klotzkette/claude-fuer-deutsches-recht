@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-aufbau-ergebnis
-description: "Wenn es um NKR-Stellungnahme — Aufbau und Format in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Stellungnahme Aufbau Ergebnis; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
+description: "Für NKR-Stellungnahme — Aufbau und Format: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrollrat (NKR) — Prüfung von Gesetzentwürfen. Route: stellungnahme-aufbau-ergebnis."
 ---
 
 # NKR-Stellungnahme — Aufbau und Format

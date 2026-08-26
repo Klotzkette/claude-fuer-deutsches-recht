@@ -1,6 +1,6 @@
 ---
 name: landwirtschaftliche-flaeche-klage-skiz
-description: "Wenn es um Landwirtschaftliche Flaeche Klage Skiz in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Landwirtschaftliche Fläche Klage Skiz: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Landwirtschaftliche Flaeche Klage Skiz

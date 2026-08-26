@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-nordrhein-westfalen
-description: "Wenn es um Prüfungsrecht Nordrhein Westfalen in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungsrecht Nordrhein Westfalen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfungsrecht Nordrhein Westfalen

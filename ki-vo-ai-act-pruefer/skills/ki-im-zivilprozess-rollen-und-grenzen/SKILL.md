@@ -1,6 +1,6 @@
 ---
 name: ki-im-zivilprozess-rollen-und-grenzen
-description: "Wenn es um digitale Werkzeuge im Zivilprozess in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für digitale Werkzeuge im Zivilprozess: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI im Zivilprozess

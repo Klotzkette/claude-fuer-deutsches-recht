@@ -1,6 +1,6 @@
 ---
 name: vollzugs-checkliste
-description: "Wenn es um Vollzugscheckliste M&A in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vollzugscheckliste M&A: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollzugscheckliste M&A

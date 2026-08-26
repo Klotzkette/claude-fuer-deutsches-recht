@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-innenentwicklung-13a-13b-baugb
-description: "Wenn es um Innenentwicklung nach BauGB Paragraf 13a und Anschlussfragen zu Paragraf 13b in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Innenentwicklung nach BauGB Paragraf 13a und Anschlussfragen zu Paragraf 13b: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Innenentwicklung nach BauGB Paragraf 13a und Anschlussfragen zu Paragraf 13b

@@ -1,6 +1,6 @@
 ---
 name: dora-art16-vereinfachter-ikt-rahmen
-description: "Wenn es um DORA Artikel 16: Vereinfachter IKT-Rahmen in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für DORA Artikel 16: Vereinfachter IKT-Rahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DORA Artikel 16: Vereinfachter IKT-Rahmen

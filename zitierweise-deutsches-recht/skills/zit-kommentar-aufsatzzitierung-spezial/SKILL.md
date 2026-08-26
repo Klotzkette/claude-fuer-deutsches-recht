@@ -1,6 +1,6 @@
 ---
 name: zit-kommentar-aufsatzzitierung-spezial
-description: "Wenn es um Zit: Kommentar Aufsatz in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zit: Kommentar Aufsatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zit: Kommentar Aufsatz

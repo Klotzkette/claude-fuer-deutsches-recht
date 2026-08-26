@@ -1,6 +1,6 @@
 ---
 name: bautraeger-elektronische-notarverkuendung-2023
-description: "Wenn es um Elektronische notarielle Verkuendung beim Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Elektronische notarielle Verkündung beim Bauträgervertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Elektronische notarielle Verkuendung beim Bautraegervertrag

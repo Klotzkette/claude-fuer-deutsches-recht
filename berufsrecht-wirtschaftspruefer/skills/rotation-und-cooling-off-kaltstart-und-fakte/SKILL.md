@@ -1,6 +1,6 @@
 ---
 name: rotation-und-cooling-off-kaltstart-und-fakte
-description: "Wenn es um Rotation Und Cooling Off Kaltstart Und Fakte in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rotation und Cooling Off Kaltstart und Fakte: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: rotation und cooling off - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

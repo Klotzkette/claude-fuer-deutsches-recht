@@ -1,6 +1,6 @@
 ---
 name: sportrecht-tatbestand-beweis-und-belege
-description: "Wenn es um Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Sportrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

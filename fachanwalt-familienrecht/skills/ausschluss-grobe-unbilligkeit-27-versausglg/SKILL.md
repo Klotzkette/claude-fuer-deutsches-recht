@@ -1,6 +1,6 @@
 ---
 name: ausschluss-grobe-unbilligkeit-27-versausglg
-description: "Wenn es um Ausschluss Grobe Unbilligkeit 27 Versausglg in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausschluss Grobe Unbilligkeit 27 Versausglg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausschluss grobe Unbilligkeit Paragraf 27 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

@@ -1,6 +1,6 @@
 ---
 name: erweiterung-hyperlinks
-description: "Wenn es um Erweiterung Hyperlinks zur Ablage in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Erweiterung Hyperlinks zur Ablage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erweiterung Hyperlinks zur Ablage

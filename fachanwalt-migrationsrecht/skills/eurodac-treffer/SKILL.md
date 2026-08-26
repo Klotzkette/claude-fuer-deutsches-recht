@@ -1,6 +1,6 @@
 ---
 name: eurodac-treffer
-description: "Wenn es um EURODAC-Treffer: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EURODAC-Treffer: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EURODAC-Treffer: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um EURODAC-Treffer: Fachmodul im Migrationsrecht in Fachan
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-eurodac-treffer` beziehungsweise EURODAC-Treffer: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-eurodac-treffer.md).

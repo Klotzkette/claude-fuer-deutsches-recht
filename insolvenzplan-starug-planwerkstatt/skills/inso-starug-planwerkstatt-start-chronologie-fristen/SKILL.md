@@ -1,6 +1,6 @@
 ---
 name: inso-starug-planwerkstatt-start-chronologie-fristen
-description: "Wenn es um Insolvenzplan und StaRUG-Planwerkstatt — Allgemein in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Insolvenzplan und StaRUG-Planwerkstatt — Allgemein: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Insolvenzplan und StaRUG-Planwerkstatt — Allgemein

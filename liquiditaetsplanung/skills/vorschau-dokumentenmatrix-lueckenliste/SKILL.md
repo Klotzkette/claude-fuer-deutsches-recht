@@ -1,6 +1,6 @@
 ---
 name: vorschau-dokumentenmatrix-lueckenliste
-description: "Wenn es um Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung

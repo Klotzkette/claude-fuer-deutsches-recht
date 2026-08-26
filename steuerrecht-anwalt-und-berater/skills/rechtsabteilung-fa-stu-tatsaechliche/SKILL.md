@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-fa-stu-tatsaechliche
-description: "Wenn es um Finanzgerichtsklage — Aufbau Frist und Akteneinsicht Paragraf 78 FGO in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rechtsabteilung Fa Stu Tatsaechliche; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Finanzgerichtsklage — Aufbau Frist und Akteneinsicht Paragraf 78 FGO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finanzgerichtsklage — Aufbau Frist und Akteneinsicht § 78 FGO

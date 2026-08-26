@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 177 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Kommunalrecht Länder ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbind…
-2. **kaltstart-triage** — Wenn es um Kommunalrecht der Länder - Allgemeiner Einstieg in Kommunalrecht der Länder geht: klärt Rolle, Ziel, Frist, U…
-3. **kommunalaufsicht-eilantrag-vorbereiten** — Wenn es um Kommunalaufsicht Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus S…
-4. **strassenreinigung-eilantrag-vorbereite** — Wenn es um Strassenreinigung Eilantrag Vorbereite in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus S…
-5. **buergermeister-eilantrag-vorbereiten** — Wenn es um Buergermeister Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sac…
-6. **kommunalabgabe-eilantrag-vorbereiten** — Wenn es um Kommunalabgabe Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sac…
-7. **ortschaftsrat-eilantrag-vorbereiten** — Wenn es um Ortschaftsrat Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sach…
-8. **kita-satzung-eilantrag-vorbereiten** — Wenn es um Kita Satzung Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachv…
+2. **kaltstart-triage** — Für Kommunalrecht der Länder - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprod…
+3. **kom-158-feuerwehr-zustaendigkeit-pruefen** — Für Feuerwehr Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Schnittstellenkarte mit Zu…
+4. **kom-108-kommunalaufsicht-zustaendigkeit-pruefe** — Für Kommunalaufsicht Zuständigkeit Prüfe: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risi…
+5. **kom-128-strassenreinigung-zustaendigkeit-pruef** — Für Strassenreinigung Zuständigkeit Prüf: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risi…
+6. **kom-118-kommunalabgabe-zustaendigkeit-pruefen** — Für Kommunalabgabe Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risik…
+7. **kom-068-buergermeister-zustaendigkeit-pruefen** — Für Bürgermeister Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko…
+8. **kom-098-ortschaftsrat-zustaendigkeit-pruefen** — Für Ortschaftsrat Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko…
 
 ---
 
@@ -136,7 +136,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kommunalrecht der Länder - Allgemeiner Einstieg in Kommunalrecht der Länder geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kommunalrecht der Länder - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Kommunalrecht der Länder - Allgemeiner Einstieg
 
@@ -208,36 +208,25 @@ Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen
 
 ---
 
-## Skill: `kommunalaufsicht-eilantrag-vorbereiten`
+## Skill: `kom-158-feuerwehr-zustaendigkeit-pruefen`
 
-_Wenn es um Kommunalaufsicht Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Feuerwehr Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Kommunalrecht der Länder. Route: kom-158-feuerwehr-zustaendigkeit-pruefen._
 
-# Kommunalaufsicht Eilantrag Vorbereiten
+# Feuerwehr Zustaendigkeit Pruefen
 
-## Arbeitsweg
+## Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GO der Länder, KomVG, KAG, GG Art. 28, BauGB, VwGO, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Feuerwehr Zustaendigkeit Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Kommunalrecht der Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
-## Normenanker
+## Einstieg ohne Leerlauf
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-- `Art. 28 Abs. 2 GG` — kommunale Selbstverwaltung.
-- `§ 35 Satz 1 VwVfG` — Verwaltungsakt als Handlungsform.
-- `§ 40 VwVfG` — Ermessensausübung.
-- `§ 47 Abs. 1 VwGO` — Normenkontrolle gegen Satzungen, soweit landesrechtlich eroeffnet.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 74 Abs. 1 VwGO` — Klagefrist.
-- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
-- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
+## Norm- und Quellenanker
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
 - Rat/Kreistag, Bürgermeister/Landrat, Ausschüsse, Bürgerbegehren
 - Kommunalaufsicht, Haushalt, Abgaben, Daseinsvorsorge, Satzungen
@@ -250,39 +239,53 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Landesrechts-Navigator
+- Beschluss-/Satzungscheck
+- Bürgerbegehren-Fristenmatrix
+- Kommunalaufsichts- und Haushaltsrisikoampel
+
+## Red-Team-Fragen
+
+- falsches Bundesland
+- Organrolle verwechselt
+- Satzungsbekanntmachung/Öffentlichkeit fehlt
+- kommunale Finanzierung übersehen
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
 
 ---
 
-## Skill: `strassenreinigung-eilantrag-vorbereite`
+## Skill: `kom-108-kommunalaufsicht-zustaendigkeit-pruefe`
 
-_Wenn es um Strassenreinigung Eilantrag Vorbereite in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Kommunalaufsicht Zuständigkeit Prüfe: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kommunalrecht der Länder. Route: kom-108-kommunalaufsicht-zustaendigkeit-pruefe._
 
-# Strassenreinigung Eilantrag Vorbereite
+# Kommunalaufsicht Zustaendigkeit Pruefe
 
-## Arbeitsweg
+## Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GO der Länder, KomVG, KAG, GG Art. 28, BauGB, VwGO, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Kommunalaufsicht Zustaendigkeit Pruefe wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Kommunalrecht der Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
-## Normenanker
+## Einstieg ohne Leerlauf
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-- `Art. 28 Abs. 2 GG` — kommunale Selbstverwaltung.
-- `§ 35 Satz 1 VwVfG` — Verwaltungsakt als Handlungsform.
-- `§ 40 VwVfG` — Ermessensausübung.
-- `§ 47 Abs. 1 VwGO` — Normenkontrolle gegen Satzungen, soweit landesrechtlich eroeffnet.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 74 Abs. 1 VwGO` — Klagefrist.
-- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
-- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
+## Norm- und Quellenanker
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
 - Rat/Kreistag, Bürgermeister/Landrat, Ausschüsse, Bürgerbegehren
 - Kommunalaufsicht, Haushalt, Abgaben, Daseinsvorsorge, Satzungen
@@ -295,39 +298,53 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Landesrechts-Navigator
+- Beschluss-/Satzungscheck
+- Bürgerbegehren-Fristenmatrix
+- Kommunalaufsichts- und Haushaltsrisikoampel
+
+## Red-Team-Fragen
+
+- falsches Bundesland
+- Organrolle verwechselt
+- Satzungsbekanntmachung/Öffentlichkeit fehlt
+- kommunale Finanzierung übersehen
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
 
 ---
 
-## Skill: `buergermeister-eilantrag-vorbereiten`
+## Skill: `kom-128-strassenreinigung-zustaendigkeit-pruef`
 
-_Wenn es um Buergermeister Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Strassenreinigung Zuständigkeit Prüf: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kommunalrecht der Länder. Route: kom-128-strassenreinigung-zustaendigkeit-pruef._
 
-# Buergermeister Eilantrag Vorbereiten
+# Strassenreinigung Zustaendigkeit Pruef
 
-## Arbeitsweg
+## Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GO der Länder, KomVG, KAG, GG Art. 28, BauGB, VwGO, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Strassenreinigung Zustaendigkeit Pruef wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Kommunalrecht der Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
-## Normenanker
+## Einstieg ohne Leerlauf
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-- `Art. 28 Abs. 2 GG` — kommunale Selbstverwaltung.
-- `§ 35 Satz 1 VwVfG` — Verwaltungsakt als Handlungsform.
-- `§ 40 VwVfG` — Ermessensausübung.
-- `§ 47 Abs. 1 VwGO` — Normenkontrolle gegen Satzungen, soweit landesrechtlich eroeffnet.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 74 Abs. 1 VwGO` — Klagefrist.
-- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
-- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
+## Norm- und Quellenanker
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
 - Rat/Kreistag, Bürgermeister/Landrat, Ausschüsse, Bürgerbegehren
 - Kommunalaufsicht, Haushalt, Abgaben, Daseinsvorsorge, Satzungen
@@ -340,39 +357,53 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Landesrechts-Navigator
+- Beschluss-/Satzungscheck
+- Bürgerbegehren-Fristenmatrix
+- Kommunalaufsichts- und Haushaltsrisikoampel
+
+## Red-Team-Fragen
+
+- falsches Bundesland
+- Organrolle verwechselt
+- Satzungsbekanntmachung/Öffentlichkeit fehlt
+- kommunale Finanzierung übersehen
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
 
 ---
 
-## Skill: `kommunalabgabe-eilantrag-vorbereiten`
+## Skill: `kom-118-kommunalabgabe-zustaendigkeit-pruefen`
 
-_Wenn es um Kommunalabgabe Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Kommunalabgabe Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kommunalrecht der Länder. Route: kom-118-kommunalabgabe-zustaendigkeit-pruefen._
 
-# Kommunalabgabe Eilantrag Vorbereiten
+# Kommunalabgabe Zustaendigkeit Pruefen
 
-## Arbeitsweg
+## Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GO der Länder, KomVG, KAG, GG Art. 28, BauGB, VwGO, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Kommunalabgabe Zustaendigkeit Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Kommunalrecht der Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
-## Normenanker
+## Einstieg ohne Leerlauf
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-- `Art. 28 Abs. 2 GG` — kommunale Selbstverwaltung.
-- `§ 35 Satz 1 VwVfG` — Verwaltungsakt als Handlungsform.
-- `§ 40 VwVfG` — Ermessensausübung.
-- `§ 47 Abs. 1 VwGO` — Normenkontrolle gegen Satzungen, soweit landesrechtlich eroeffnet.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 74 Abs. 1 VwGO` — Klagefrist.
-- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
-- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
+## Norm- und Quellenanker
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
 - Rat/Kreistag, Bürgermeister/Landrat, Ausschüsse, Bürgerbegehren
 - Kommunalaufsicht, Haushalt, Abgaben, Daseinsvorsorge, Satzungen
@@ -385,39 +416,53 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Landesrechts-Navigator
+- Beschluss-/Satzungscheck
+- Bürgerbegehren-Fristenmatrix
+- Kommunalaufsichts- und Haushaltsrisikoampel
+
+## Red-Team-Fragen
+
+- falsches Bundesland
+- Organrolle verwechselt
+- Satzungsbekanntmachung/Öffentlichkeit fehlt
+- kommunale Finanzierung übersehen
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
 
 ---
 
-## Skill: `ortschaftsrat-eilantrag-vorbereiten`
+## Skill: `kom-068-buergermeister-zustaendigkeit-pruefen`
 
-_Wenn es um Ortschaftsrat Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Bürgermeister Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kommunalrecht der Länder. Route: kom-068-buergermeister-zustaendigkeit-pruefen._
 
-# Ortschaftsrat Eilantrag Vorbereiten
+# Buergermeister Zustaendigkeit Pruefen
 
-## Arbeitsweg
+## Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GO der Länder, KomVG, KAG, GG Art. 28, BauGB, VwGO, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Buergermeister Zustaendigkeit Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Kommunalrecht der Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
-## Normenanker
+## Einstieg ohne Leerlauf
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-- `Art. 28 Abs. 2 GG` — kommunale Selbstverwaltung.
-- `§ 35 Satz 1 VwVfG` — Verwaltungsakt als Handlungsform.
-- `§ 40 VwVfG` — Ermessensausübung.
-- `§ 47 Abs. 1 VwGO` — Normenkontrolle gegen Satzungen, soweit landesrechtlich eroeffnet.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 74 Abs. 1 VwGO` — Klagefrist.
-- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
-- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
+## Norm- und Quellenanker
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
 - Rat/Kreistag, Bürgermeister/Landrat, Ausschüsse, Bürgerbegehren
 - Kommunalaufsicht, Haushalt, Abgaben, Daseinsvorsorge, Satzungen
@@ -430,39 +475,53 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Landesrechts-Navigator
+- Beschluss-/Satzungscheck
+- Bürgerbegehren-Fristenmatrix
+- Kommunalaufsichts- und Haushaltsrisikoampel
+
+## Red-Team-Fragen
+
+- falsches Bundesland
+- Organrolle verwechselt
+- Satzungsbekanntmachung/Öffentlichkeit fehlt
+- kommunale Finanzierung übersehen
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
 
 ---
 
-## Skill: `kita-satzung-eilantrag-vorbereiten`
+## Skill: `kom-098-ortschaftsrat-zustaendigkeit-pruefen`
 
-_Wenn es um Kita Satzung Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Ortschaftsrat Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kommunalrecht der Länder. Route: kom-098-ortschaftsrat-zustaendigkeit-pruefen._
 
-# Kita Satzung Eilantrag Vorbereiten
+# Ortschaftsrat Zustaendigkeit Pruefen
 
-## Arbeitsweg
+## Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GO der Länder, KomVG, KAG, GG Art. 28, BauGB, VwGO, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Ortschaftsrat Zustaendigkeit Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Kommunalrecht der Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
-## Normenanker
+## Einstieg ohne Leerlauf
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-- `Art. 28 Abs. 2 GG` — kommunale Selbstverwaltung.
-- `§ 35 Satz 1 VwVfG` — Verwaltungsakt als Handlungsform.
-- `§ 40 VwVfG` — Ermessensausübung.
-- `§ 47 Abs. 1 VwGO` — Normenkontrolle gegen Satzungen, soweit landesrechtlich eroeffnet.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 74 Abs. 1 VwGO` — Klagefrist.
-- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
-- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
+## Norm- und Quellenanker
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
 - Rat/Kreistag, Bürgermeister/Landrat, Ausschüsse, Bürgerbegehren
 - Kommunalaufsicht, Haushalt, Abgaben, Daseinsvorsorge, Satzungen
@@ -475,6 +534,31 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Landesrechts-Navigator
+- Beschluss-/Satzungscheck
+- Bürgerbegehren-Fristenmatrix
+- Kommunalaufsichts- und Haushaltsrisikoampel
+
+## Red-Team-Fragen
+
+- falsches Bundesland
+- Organrolle verwechselt
+- Satzungsbekanntmachung/Öffentlichkeit fehlt
+- kommunale Finanzierung übersehen
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
 
 ---
 

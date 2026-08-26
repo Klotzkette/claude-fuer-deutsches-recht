@@ -1,6 +1,6 @@
 ---
 name: per-post-buergergeld-jobcenter-behoerde
-description: "Wenn es um Brief, Post und Nachweis in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Brief, Post und Nachweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Brief, Post und Nachweis

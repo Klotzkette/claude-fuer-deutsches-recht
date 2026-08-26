@@ -1,6 +1,6 @@
 ---
 name: strafzumessungs-tatsachen-46-ii-stgb
-description: "Wenn es um Strafzumessungstatsachen — Paragraf 46 Abs. 2 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafzumessungstatsachen — Paragraf 46 Abs. 2 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafzumessungstatsachen — § 46 Abs. 2 StGB

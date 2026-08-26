@@ -1,6 +1,6 @@
 ---
 name: regulierung-start-chronologie-fristen
-description: "Wenn es um DSA DMA und Digitalregulierung EU — Allgemein in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für DSA DMA und Digitalregulierung EU — Allgemein: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # DSA DMA und Digitalregulierung EU — Allgemein

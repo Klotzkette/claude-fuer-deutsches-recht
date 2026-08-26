@@ -1,6 +1,6 @@
 ---
 name: online-portal-datev-mandantenshop
-description: "Wenn es um DATEV Unternehmen Online — Mandantenshop in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DATEV Unternehmen Online — Mandantenshop: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # DATEV Unternehmen Online — Mandantenshop

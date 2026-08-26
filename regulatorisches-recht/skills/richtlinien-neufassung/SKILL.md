@@ -1,6 +1,6 @@
 ---
 name: richtlinien-neufassung
-description: "Überführt eine belegte aufsichtsrechtliche Lücke in eine vollständige interne Richtlinie oder Redline. Liefert normgenaue Regelungen, Rollen, Kontrollen, Nachweise, Freigabeschritte und eine umsetzbare Inkraftsetzungsfassung."
+description: "Überführt eine belegte aufsichtsrechtliche Lücke in eine vollständige interne Richtlinie oder Redline."
 ---
 
 # Aufsichtsrechtliche Richtlinie neu fassen

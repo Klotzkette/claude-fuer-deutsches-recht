@@ -1,6 +1,6 @@
 ---
 name: steuerpruefung-creator-buchhaltung-datev
-description: "Wenn es um Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator in Influencer-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator

@@ -1,6 +1,6 @@
 ---
 name: anfechtungsklage-243-aktg
-description: "Wenn es um Anfechtungsklage 243 Aktg in Hauptversammlung AG und SE geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anfechtungsklage 243 Aktg: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Anfechtungsklage 243 Aktg

@@ -1,6 +1,6 @@
 ---
 name: kernplattformdienste-sonderfall-klagewege
-description: "Wenn es um Kernplattformdienste: Sonderfall und Edge-Case-Prüfung in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kernplattformdienste: Sonderfall und Edge-Case-Prüfung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Kernplattformdienste: Sonderfall und Edge-Case-Prüfung

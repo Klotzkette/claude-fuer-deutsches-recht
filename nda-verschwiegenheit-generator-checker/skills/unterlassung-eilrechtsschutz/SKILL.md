@@ -1,6 +1,6 @@
 ---
 name: unterlassung-eilrechtsschutz
-description: "Wenn es um Unterlassung Eilrechtsschutz in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Unterlassung Eilrechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unterlassung Eilrechtsschutz

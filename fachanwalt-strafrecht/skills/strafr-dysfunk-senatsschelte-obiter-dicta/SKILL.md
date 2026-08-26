@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-senatsschelte-obiter-dicta
-description: "Wenn es um Strafr Dysfunk Senatsschelte Obiter Dicta in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafr Dysfunk Senatsschelte Obiter Dicta: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Senatsschelte und obiter dicta in Strafurteilen und Revisionsentscheidungen als Verteidiger filtern und einordnen

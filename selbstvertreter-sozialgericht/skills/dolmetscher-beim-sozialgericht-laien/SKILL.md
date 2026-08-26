@@ -1,6 +1,6 @@
 ---
 name: dolmetscher-beim-sozialgericht-laien
-description: "Wenn es um Dolmetscher beim SG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Dolmetscher beim SG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dolmetscher beim SG

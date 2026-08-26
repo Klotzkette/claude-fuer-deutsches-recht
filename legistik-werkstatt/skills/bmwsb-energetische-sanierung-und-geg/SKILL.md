@@ -1,6 +1,6 @@
 ---
 name: bmwsb-energetische-sanierung-und-geg
-description: "Wenn es um Energetische Sanierung (GEG) (BMWSB) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Energetische Sanierung (GEG) (BMWSB): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energetische Sanierung (GEG) (BMWSB)

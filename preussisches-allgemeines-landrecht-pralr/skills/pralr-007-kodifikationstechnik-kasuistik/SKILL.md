@@ -1,6 +1,6 @@
 ---
 name: pralr-007-kodifikationstechnik-kasuistik
-description: "Wenn es um Kasuistik und Richterbindung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 007 Kodifikationstechnik Kasuistik; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Kasuistik und Richterbindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-007-kodifikationstechnik-kasuistik."
 ---
 
 # Kasuistik und Richterbindung

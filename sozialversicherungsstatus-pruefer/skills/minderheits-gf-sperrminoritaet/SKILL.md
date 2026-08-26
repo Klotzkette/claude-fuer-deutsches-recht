@@ -1,6 +1,6 @@
 ---
 name: minderheits-gf-sperrminoritaet
-description: "Wenn es um Minderheits-GF mit Sperrminorität in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Minderheits-GF mit Sperrminorität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Minderheits-GF mit Sperrminorität

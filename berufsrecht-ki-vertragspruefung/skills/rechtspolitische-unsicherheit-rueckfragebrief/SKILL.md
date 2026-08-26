@@ -1,6 +1,6 @@
 ---
 name: rechtspolitische-unsicherheit-rueckfragebrief
-description: "Wenn es um Rechtsunsicherheit zu Paragraf 43e BRAO dokumentieren in anwaltlichem Berufsrecht und Vertragsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rechtsunsicherheit zu Paragraf 43e BRAO dokumentieren: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Rechtsunsicherheit zu § 43e BRAO dokumentieren

@@ -1,6 +1,6 @@
 ---
 name: ce-kennzeichnung-und-produktsicherheit-china-import-compliance
-description: "Wenn es um CE-Kennzeichnung und Produktsicherheit: China-Import-Compliance in China-Wirtschaftsverkehr geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für CE-Kennzeichnung und Produktsicherheit: China-Import-Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CE-Kennzeichnung und Produktsicherheit: China-Import-Compliance

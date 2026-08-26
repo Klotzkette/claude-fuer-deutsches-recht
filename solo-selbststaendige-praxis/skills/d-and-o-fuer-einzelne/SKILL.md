@@ -1,6 +1,6 @@
 ---
 name: d-and-o-fuer-einzelne
-description: "Wenn es um D And O für Einzelne in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für D And O für Einzelne: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versicherung Haftung und Risiko: Klärt wann d&o/managementhaftung bei ug/gmbh sinnvoll wird

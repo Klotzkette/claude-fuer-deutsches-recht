@@ -1,6 +1,6 @@
 ---
 name: fbp-stresstest-szenarien-leitfaden
-description: "Wenn es um FBP: Stresstest-Szenarien in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für FBP: Stresstest-Szenarien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FBP: Stresstest-Szenarien

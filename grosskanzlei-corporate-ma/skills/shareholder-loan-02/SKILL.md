@@ -1,6 +1,6 @@
 ---
 name: shareholder-loan-02
-description: "Wenn es um Shareholder Loans Subordination in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Shareholder Loans Subordination: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: shareholder-loan-02."
 ---
 
 # Shareholder Loans Subordination

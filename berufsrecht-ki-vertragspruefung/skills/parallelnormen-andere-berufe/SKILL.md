@@ -1,6 +1,6 @@
 ---
 name: parallelnormen-andere-berufe
-description: "Wenn es um Parallelnormen — alle fünf Berufe in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl: Parallelnormen Andere Berufe."
+description: "Für Parallelnormen — alle fünf Berufe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: parallelnormen-andere-berufe."
 ---
 
 # Parallelnormen — alle fünf Berufe

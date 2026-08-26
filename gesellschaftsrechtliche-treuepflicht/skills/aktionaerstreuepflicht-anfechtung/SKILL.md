@@ -1,6 +1,6 @@
 ---
 name: aktionaerstreuepflicht-anfechtung
-description: "Wenn es um Aktionaerstreuepflicht in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Aktionärstreuepflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Aktionaerstreuepflicht

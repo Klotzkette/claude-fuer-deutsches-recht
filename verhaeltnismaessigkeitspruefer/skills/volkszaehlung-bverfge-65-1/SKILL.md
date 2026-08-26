@@ -1,6 +1,6 @@
 ---
 name: volkszaehlung-bverfge-65-1
-description: "Wenn es um Volkszaehlung BVerfGE 65 1 in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Volkszählung BVerfGE 65 1: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Volkszaehlung BVerfGE 65 1

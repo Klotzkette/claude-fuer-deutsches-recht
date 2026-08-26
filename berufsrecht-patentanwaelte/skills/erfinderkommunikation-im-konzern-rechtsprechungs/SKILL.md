@@ -1,6 +1,6 @@
 ---
 name: erfinderkommunikation-im-konzern-rechtsprechungs
-description: "Wenn es um Erfinderkommunikation Im Konzern Rechtsprechungs in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Erfinderkommunikation im Konzern Rechtsprechungs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: erfinderkommunikation im konzern - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

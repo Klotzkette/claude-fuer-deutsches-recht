@@ -1,6 +1,6 @@
 ---
 name: notarbelehrung-paragraf-14-bnoto-17-beurkg
-description: "Wenn es um Notarbelehrung Paragraf 14 BNotO und Paragraf 17 BeurkG in Bauträgervertragspruefer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Notarbelehrung Paragraf 14 BNotO und Paragraf 17 BeurkG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notarbelehrung Paragraf 14 BNotO und Paragraf 17 BeurkG

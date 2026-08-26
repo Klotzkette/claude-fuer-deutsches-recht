@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-oeffentliches-strafrecht
-description: "Wenn es um Methodenlehre — Öffentliches Recht in Jurastudium geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Methodenlehre — Öffentliches Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Methodenlehre — Öffentliches Recht

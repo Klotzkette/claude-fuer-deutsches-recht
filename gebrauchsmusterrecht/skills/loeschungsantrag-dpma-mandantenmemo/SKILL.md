@@ -1,6 +1,6 @@
 ---
 name: loeschungsantrag-dpma-mandantenmemo
-description: "Wenn es um Loeschungsantrag Dpma in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Löschungsantrag Dpma: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Loeschungsantrag Dpma

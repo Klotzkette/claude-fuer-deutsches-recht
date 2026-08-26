@@ -1,6 +1,6 @@
 ---
 name: beteiligung-frueh-buergerversammlung
-description: "Wenn es um Beteiligung — frühzeitig und förmlich in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Beteiligung Frueh Buergerversammlung; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
+description: "Für Beteiligung — frühzeitig und förmlich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO. Route: beteiligung-frueh-buergerversammlung."
 ---
 
 # Beteiligung — frühzeitig und förmlich

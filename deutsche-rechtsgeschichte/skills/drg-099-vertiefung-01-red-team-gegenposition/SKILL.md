@@ -1,6 +1,6 @@
 ---
 name: drg-099-vertiefung-01-red-team-gegenposition
-description: "Wenn es um Vertiefung 01 Red Team Gegenposition in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertiefung 01 Red Team Gegenposition: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Deutsche Rechtsgeschichte."
 ---
 
 # Vertiefung 01 Red Team Gegenposition

@@ -1,6 +1,6 @@
 ---
 name: vdg-067-abo-modell-vergleich-pruefen
-description: "Wenn es um Abo Modell Vergleich Pruefen in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Abo Modell Vergleich Prüfen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Verbraucherschutzverband Durchsetzung. Route: vdg-067-abo-modell-vergleich-pruefen."
 ---
 
 # Abo Modell Vergleich Pruefen

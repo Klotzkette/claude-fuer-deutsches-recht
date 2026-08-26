@@ -1,6 +1,6 @@
 ---
 name: ai-act-aktenherausgabe-zurueckbehaltung
-description: "Wenn es um europäischer Technikregulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz in Berufsrecht Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für europäischer Technikregulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-VO-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz

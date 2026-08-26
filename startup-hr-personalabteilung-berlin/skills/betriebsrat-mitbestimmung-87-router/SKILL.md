@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-mitbestimmung-87-router
-description: "Wenn es um Betriebsrat Mitbestimmung 87 Router in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Betriebsrat Mitbestimmung 87 Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsrat Mitbestimmung 87 Router

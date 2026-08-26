@@ -1,6 +1,6 @@
 ---
 name: nebenkostenabrechnung-erstellen-faktenbank
-description: "Wenn es um Betriebskostenabrechnung erstellen in Mietrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebskostenabrechnung erstellen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebskostenabrechnung erstellen

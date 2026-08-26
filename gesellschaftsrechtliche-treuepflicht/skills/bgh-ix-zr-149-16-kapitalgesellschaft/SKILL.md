@@ -1,6 +1,6 @@
 ---
 name: bgh-ix-zr-149-16-kapitalgesellschaft
-description: "Wenn es um BGH IX ZR 149 16 Kapitalgesellschaft in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für BGH IX ZR 149 16 Kapitalgesellschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BGH IX ZR 149 16 Kapitalgesellschaft

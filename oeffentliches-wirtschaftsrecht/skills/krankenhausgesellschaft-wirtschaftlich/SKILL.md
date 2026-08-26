@@ -1,6 +1,6 @@
 ---
 name: krankenhausgesellschaft-wirtschaftlich
-description: "Wenn es um Krankenhausgesellschaft Wirtschaftlich in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenhausgesellschaft Wirtschaftlich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenhausgesellschaft Wirtschaftlich

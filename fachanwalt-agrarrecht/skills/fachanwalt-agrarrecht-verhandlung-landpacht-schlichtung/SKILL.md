@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-verhandlung-landpacht-schlichtung
-description: "Steuert die anwaltliche Vergleichsstrategie in Landpacht- und Hofkonflikten. Verknüpft Rechtsposition, Fristen, Beweisrisiko, Betriebswirtschaft und Vollzug zu Verhandlungsmandat, Gesprächsdrehbuch, Angebot und belastbarem Vergleich; freiwillige Schlichtung und gerichtlicher Rückfallweg bleiben sauber getrennt."
+description: "Für Landpachtvergleich anwaltlich steuern: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Landpachtvergleich anwaltlich steuern

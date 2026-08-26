@@ -1,6 +1,6 @@
 ---
 name: component-auditor-koordination-rechtsprechun
-description: "Wenn es um Component Auditor Koordination Rechtsprechun in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Component Auditor Koordination Rechtsprechun: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: component auditor koordination - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

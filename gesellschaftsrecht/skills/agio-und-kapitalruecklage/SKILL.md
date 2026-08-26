@@ -1,6 +1,6 @@
 ---
 name: agio-und-kapitalruecklage
-description: "Wenn es um Agio und Kapitalrücklage in der GmbH in Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Agio und Kapitalrücklage in der GmbH: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Agio und Kapitalrücklage in der GmbH

@@ -1,6 +1,6 @@
 ---
 name: eu-richtlinien-umsetzung-und-goldplating
-description: "Wenn es um NKR-EU-Richtlinienumsetzung und Goldplating-Vermeidung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NKR-EU-Richtlinienumsetzung und Goldplating-Vermeidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # NKR-EU-Richtlinienumsetzung und Goldplating-Vermeidung

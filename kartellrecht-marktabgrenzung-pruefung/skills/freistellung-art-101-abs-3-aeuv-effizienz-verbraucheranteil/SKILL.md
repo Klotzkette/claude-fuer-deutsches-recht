@@ -1,6 +1,6 @@
 ---
 name: freistellung-art-101-abs-3-aeuv-effizienz-verbraucheranteil
-description: "Wenn es um Freistellung Art 101 Abs 3 AEUV Effizienz Verbraucheranteil in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Freistellung Art 101 Abs 3 AEUV Effizienz Verbraucheranteil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Freistellung Art 101 Abs 3 AEUV Effizienz Verbraucheranteil

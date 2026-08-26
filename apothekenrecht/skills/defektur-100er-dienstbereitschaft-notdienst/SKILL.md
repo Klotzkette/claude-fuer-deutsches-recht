@@ -1,6 +1,6 @@
 ---
 name: defektur-100er-dienstbereitschaft-notdienst
-description: "Wenn es um Defektur 100er-Regel Qualitätssicherung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Defektur 100er-Regel Qualitätssicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Defektur 100er-Regel Qualitätssicherung

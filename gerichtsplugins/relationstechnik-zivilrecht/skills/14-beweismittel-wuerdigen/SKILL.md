@@ -1,6 +1,6 @@
 ---
 name: 14-beweismittel-wuerdigen
-description: "Wenn es um 14 Beweismittel Wuerdigen in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 14 Beweismittel Würdigen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # 14 Beweismittel Wuerdigen

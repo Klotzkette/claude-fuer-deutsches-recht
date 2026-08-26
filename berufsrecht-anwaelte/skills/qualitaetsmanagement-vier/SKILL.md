@@ -1,6 +1,6 @@
 ---
 name: qualitaetsmanagement-vier
-description: "Wenn es um Qualitaetsmanagement Vier in Berufsrecht Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätsmanagement Vier: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Anwälte: qualitaetsmanagement fristen und vier augen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

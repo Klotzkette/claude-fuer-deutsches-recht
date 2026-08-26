@@ -1,6 +1,6 @@
 ---
 name: feststellungsklage-55-sgg
-description: "Wenn es um Die Feststellungsklage — Paragraf 55 SGG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Die Feststellungsklage — Paragraf 55 SGG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Die Feststellungsklage — § 55 SGG

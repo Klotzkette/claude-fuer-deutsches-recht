@@ -1,6 +1,6 @@
 ---
 name: bmleh
-description: "Wenn es um Legistik-Werkstatt — Allgemein in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Legistik-Werkstatt — Allgemein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Legistik-Werkstatt — Allgemein

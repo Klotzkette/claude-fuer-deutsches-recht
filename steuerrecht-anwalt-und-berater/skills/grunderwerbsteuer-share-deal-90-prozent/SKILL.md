@@ -1,6 +1,6 @@
 ---
 name: grunderwerbsteuer-share-deal-90-prozent
-description: "Wenn es um Grunderwerbsteuer bei Share Deals — 90-%-Schwelle, Anzeigepflicht, Gestaltung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grunderwerbsteuer bei Share Deals — 90-%-Schwelle, Anzeigepflicht, Gestaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grunderwerbsteuer bei Share Deals — 90-%-Schwelle, Anzeigepflicht, Gestaltung

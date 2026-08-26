@@ -1,6 +1,6 @@
 ---
 name: handelskauf-paragraphen-handelsmakler
-description: "Wenn es um Handelskauf Paragrafen 373-381 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelskauf Paragrafen 373-381 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelskauf §§ 373-381 HGB

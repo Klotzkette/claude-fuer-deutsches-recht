@@ -1,6 +1,6 @@
 ---
 name: see-117-charterparty-local-counsel-instruieren
-description: "Wenn es um Charterparty Local Counsel Instruieren in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Charterparty Local Counsel Instruieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Charterparty Local Counsel Instruieren

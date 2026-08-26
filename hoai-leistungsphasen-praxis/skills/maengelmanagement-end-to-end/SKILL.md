@@ -1,6 +1,6 @@
 ---
 name: maengelmanagement-end-to-end
-description: "Wenn es um HOAI Querschnitt: Ordnet mangelanzeige in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HOAI Querschnitt: Ordnet mangelanzeige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI Querschnitt: Ordnet mangelanzeige

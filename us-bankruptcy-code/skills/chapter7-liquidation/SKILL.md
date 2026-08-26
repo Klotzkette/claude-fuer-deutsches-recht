@@ -1,6 +1,6 @@
 ---
 name: chapter7-liquidation
-description: "Wenn es um Chapter 7 Liquidation Workflow in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Chapter 7 Liquidation Workflow: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Chapter 7 Liquidation Workflow

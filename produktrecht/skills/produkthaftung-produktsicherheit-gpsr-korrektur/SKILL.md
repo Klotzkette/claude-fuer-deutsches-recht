@@ -1,6 +1,6 @@
 ---
 name: produkthaftung-produktsicherheit-gpsr-korrektur
-description: "Wenn es um Produktsicherheit GPSR richtig routen in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Produktsicherheit GPSR richtig routen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produktsicherheit GPSR richtig routen

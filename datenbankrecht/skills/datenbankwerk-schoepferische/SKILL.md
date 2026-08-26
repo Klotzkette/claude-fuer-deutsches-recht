@@ -1,6 +1,6 @@
 ---
 name: datenbankwerk-schoepferische
-description: "Wenn es um Datenbankwerk: Schöpferische Auswahl oder Anordnung (Paragraf 4 Abs. 2 UrhG) in Datenbankrecht und Datenbankherstellerrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Datenbankwerk: Schöpferische Auswahl oder Anordnung (Paragraf 4 Abs. 2 UrhG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankwerk: Schöpferische Auswahl oder Anordnung (§ 4 Abs. 2 UrhG)

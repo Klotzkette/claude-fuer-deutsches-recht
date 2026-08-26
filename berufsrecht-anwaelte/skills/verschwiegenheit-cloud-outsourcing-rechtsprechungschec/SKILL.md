@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-cloud-outsourcing-rechtsprechungschec
-description: "Wenn es um Verschwiegenheit Cloud Outsourcing Rechtsprechungschec in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Verschwiegenheit Cloud Outsourcing Rechtsprechungschec: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: verschwiegenheit cloud outsourcing - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

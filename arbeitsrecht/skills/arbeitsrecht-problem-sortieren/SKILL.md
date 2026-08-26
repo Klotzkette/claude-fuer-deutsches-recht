@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-problem-sortieren
-description: "Wenn es um Arbeitsrecht - Problem Sortieren in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsrecht - Problem Sortieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsrecht - Problem Sortieren

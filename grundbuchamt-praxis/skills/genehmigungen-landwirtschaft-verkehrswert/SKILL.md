@@ -1,6 +1,6 @@
 ---
 name: genehmigungen-landwirtschaft-verkehrswert
-description: "Wenn es um Landwirtschaft und Genehmigungen in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landwirtschaft und Genehmigungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landwirtschaft und Genehmigungen

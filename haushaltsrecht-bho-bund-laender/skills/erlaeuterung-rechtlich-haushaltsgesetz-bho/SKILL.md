@@ -1,6 +1,6 @@
 ---
 name: erlaeuterung-rechtlich-haushaltsgesetz-bho
-description: "Wenn es um Erläuterung Rechtlich Bewerten in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Erläuterung Rechtlich Bewerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Erläuterung Rechtlich Bewerten

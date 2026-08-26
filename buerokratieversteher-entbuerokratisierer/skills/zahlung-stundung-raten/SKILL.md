@@ -1,6 +1,6 @@
 ---
 name: zahlung-stundung-raten
-description: "Wenn es um Zahlung, Stundung, Raten in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Zahlung, Stundung, Raten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zahlung, Stundung, Raten

@@ -1,6 +1,6 @@
 ---
 name: studentische-krankenversicherung-altersgrenzen
-description: "Wenn es um Studentische Krankenversicherung: Altersgrenzen in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Studentische Krankenversicherung: Altersgrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Studentische Krankenversicherung: Altersgrenzen

@@ -1,6 +1,6 @@
 ---
 name: hybride-beschaeftigung
-description: "Wenn es um Hybride Beschäftigung und Selbständigkeit in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Hybride Beschäftigung und Selbständigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hybride Beschäftigung und Selbständigkeit

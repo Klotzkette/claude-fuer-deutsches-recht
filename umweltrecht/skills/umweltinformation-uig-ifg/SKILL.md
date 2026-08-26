@@ -1,6 +1,6 @@
 ---
 name: umweltinformation-uig-ifg
-description: "Wenn es um Umweltinformation nach UIG und IFG in Umweltrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umweltinformation nach UIG und IFG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umweltinformation nach UIG und IFG

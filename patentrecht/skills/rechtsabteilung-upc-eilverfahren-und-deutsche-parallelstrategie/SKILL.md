@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-upc-eilverfahren-und-deutsche-parallelstrategie
-description: "Wenn es um Rechtsabteilung: UPC-Eilverfahren und deutsche Parallelstrategie in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rechtsabteilung: UPC-Eilverfahren und deutsche Parallelstrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Rechtsabteilung: UPC-Eilverfahren und deutsche Parallelstrategie

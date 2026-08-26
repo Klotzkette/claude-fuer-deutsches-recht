@@ -1,6 +1,6 @@
 ---
 name: workflow-rechtsmittel-vg
-description: "Wenn es um Rechtsmittel VG: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsmittel VG: Prüfungslinie für Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsmittel VG: Prüfungslinie für Migrationsrecht

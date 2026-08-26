@@ -1,6 +1,6 @@
 ---
 name: richtlinien-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: routing-internationaler-bezug-und-schnittstellen
-description: "Wenn es um Routing: Internationaler Bezug und Schnittstellen in Energierecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Routing: Internationaler Bezug und Schnittstellen: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Routing: Internationaler Bezug und Schnittstellen

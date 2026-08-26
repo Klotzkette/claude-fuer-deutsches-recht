@@ -1,6 +1,6 @@
 ---
 name: treuhaender-kommunikation
-description: "Wenn es um Treuhaender Kommunikation in Verbraucherinsolvenz und Schuldenbereinigung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Treuhänder Kommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten.

@@ -1,6 +1,6 @@
 ---
 name: abschlussmemo-historische-tragfaehigkeit
-description: "Wenn es um Abschlussmemo historische Tragfaehigkeit in Deutsche Rechtsgeschichte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Abschlussmemo historische Tragfähigkeit: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Abschlussmemo historische Tragfaehigkeit

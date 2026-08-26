@@ -1,6 +1,6 @@
 ---
 name: litigation-roadmap-client
-description: "Wenn es um Litigation Roadmap für Mandanten in Kanzlei-Mandant Lifecycle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Litigation Roadmap für Mandanten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Litigation Roadmap für Mandanten

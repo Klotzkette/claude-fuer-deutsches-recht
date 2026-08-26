@@ -1,6 +1,6 @@
 ---
 name: turbo-zeitnarrative
-description: "Wenn es um Schriftsatz-Turbo: Klage, Replik, Antrag in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schriftsatz-Turbo: Klage, Replik, Antrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schriftsatz-Turbo: Klage, Replik, Antrag

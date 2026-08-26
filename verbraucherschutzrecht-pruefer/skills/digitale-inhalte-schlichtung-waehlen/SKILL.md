@@ -1,6 +1,6 @@
 ---
 name: digitale-inhalte-schlichtung-waehlen
-description: "Wenn es um Digitale Inhalte Beschwerde Schreiben in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitale Inhalte Beschwerde Schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitale Inhalte Beschwerde Schreiben

@@ -1,6 +1,6 @@
 ---
 name: gebaeudeversicherung-paragraf-86-vvg
-description: "Wenn es um Gebaeudeversicherung Paragraf 86 VVG in Fachanwalt Versicherungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gebäudeversicherung Paragraf 86 VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gebaeudeversicherung § 86 VVG

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-krypto-zahlungsdienstleister-kyc
-description: "Wenn es um AML/KYC-Kommandocenter in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AML/KYC-Kommandocenter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AML/KYC-Kommandocenter

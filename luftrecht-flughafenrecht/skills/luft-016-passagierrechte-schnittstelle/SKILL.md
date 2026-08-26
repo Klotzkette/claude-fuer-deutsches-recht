@@ -1,6 +1,6 @@
 ---
 name: luft-016-passagierrechte-schnittstelle
-description: "Wenn es um Passagierrechte Schnittstelle in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Passagierrechte Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Passagierrechte Schnittstelle

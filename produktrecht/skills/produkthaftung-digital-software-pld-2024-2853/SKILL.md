@@ -1,6 +1,6 @@
 ---
 name: produkthaftung-digital-software-pld-2024-2853
-description: "Wenn es um Produkthaftung für Software und digitale Komponenten in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Produkthaftung für Software und digitale Komponenten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produkthaftung für Software und digitale Komponenten

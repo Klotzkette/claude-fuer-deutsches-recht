@@ -1,6 +1,6 @@
 ---
 name: schoeffe-polizeizeuge-orientierung-sitzung
-description: "Wenn es um Polizeizeuge würdigen: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Polizeizeuge würdigen: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Polizeizeuge würdigen: Orientierung

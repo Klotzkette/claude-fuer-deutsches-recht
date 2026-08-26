@@ -1,6 +1,6 @@
 ---
 name: rechteclearing-sync-film-game
-description: "Wenn es um Rechteclearing für Film, Game und Werbung in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechteclearing für Film, Game und Werbung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechteclearing für Film, Game und Werbung

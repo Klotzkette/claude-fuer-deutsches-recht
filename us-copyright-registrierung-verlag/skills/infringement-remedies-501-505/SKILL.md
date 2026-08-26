@@ -1,6 +1,6 @@
 ---
 name: infringement-remedies-501-505
-description: "Wenn es um Infringement und Remedies Paragrafen 501-505 in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Infringement und Remedies Paragrafen 501-505: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Infringement und Remedies §§ 501-505

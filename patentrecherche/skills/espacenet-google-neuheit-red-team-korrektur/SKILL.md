@@ -1,6 +1,6 @@
 ---
 name: espacenet-google-neuheit-red-team-korrektur
-description: "Wenn es um Espacenet: Dokumentenmatrix, Lückenliste und Nachforderung in patentrecherche geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Espacenet: Dokumentenmatrix, Lückenliste und Nachforderung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Espacenet: Dokumentenmatrix, Lückenliste und Nachforderung

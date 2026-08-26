@@ -1,6 +1,6 @@
 ---
 name: ticket-und-reisedaten-erfassen
-description: "Wenn es um Ticket- und Reisedaten erfassen in Fahrgastrechte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Ticket- und Reisedaten erfassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ticket- und Reisedaten erfassen

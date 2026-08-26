@@ -1,6 +1,6 @@
 ---
 name: pension-buyout-strukturierung-und-de-risking
-description: "Wenn es um Pension Buyout Strukturierung und De-Risking in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Pension Buyout Strukturierung und De-Risking: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pension Buyout Strukturierung und De-Risking

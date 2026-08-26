@@ -1,6 +1,6 @@
 ---
 name: ampel-zahlen-schwellenwerte-berechnung
-description: "Wenn es um Ampel: Zahlen, Schwellenwerte und Berechnung in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ampel: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Ampel: Zahlen, Schwellenwerte und Berechnung

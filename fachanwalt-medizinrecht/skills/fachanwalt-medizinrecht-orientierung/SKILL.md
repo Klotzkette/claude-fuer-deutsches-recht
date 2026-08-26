@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-orientierung
-description: "Wenn es um Fachanwalt für Medizinrecht — Orientierung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachanwalt für Medizinrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fachanwalt für Medizinrecht — Orientierung

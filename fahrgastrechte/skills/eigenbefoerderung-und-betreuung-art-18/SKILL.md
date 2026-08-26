@@ -1,6 +1,6 @@
 ---
 name: eigenbefoerderung-und-betreuung-art-18
-description: "Wenn es um Eigenbeförderung und Betreuung (Art. 18. 20 VO; Paragraf 11 EVO) in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eigenbeförderung und Betreuung (Art. 18. 20 VO; Paragraf 11 EVO): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Eigenbeförderung und Betreuung (Art. 18, 20 VO; § 11 EVO)

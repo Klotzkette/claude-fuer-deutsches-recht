@@ -1,6 +1,6 @@
 ---
 name: haltverbot-zeichen-anordnung-angreifen
-description: "Wenn es um Haltverbot Zeichen Auslegen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haltverbot Zeichen Auslegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haltverbot Zeichen Auslegen

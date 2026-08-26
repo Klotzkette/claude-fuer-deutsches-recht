@@ -1,6 +1,6 @@
 ---
 name: baurecht-einstellung-anregen
-description: "Wenn es um Baurecht Einstellung Anregen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Baurecht Einstellung Anregen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Baurecht Einstellung Anregen

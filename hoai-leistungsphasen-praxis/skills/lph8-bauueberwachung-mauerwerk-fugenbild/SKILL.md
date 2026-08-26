@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-mauerwerk-fugenbild
-description: "Wenn es um Bauueberwachung Mauerwerk und Fugenbild in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Mauerwerk und Fugenbild: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Mauerwerk und Fugenbild

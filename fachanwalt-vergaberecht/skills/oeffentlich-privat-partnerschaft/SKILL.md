@@ -1,6 +1,6 @@
 ---
 name: oeffentlich-privat-partnerschaft
-description: "Wenn es um Öffentlich Privat Partnerschaft in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Öffentlich Privat Partnerschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Öffentlich Privat Partnerschaft

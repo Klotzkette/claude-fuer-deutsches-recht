@@ -1,6 +1,6 @@
 ---
 name: employee-wages-benefits-warn
-description: "Wenn es um Employees Wages Benefits and WARN in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Employees Wages Benefits and WARN: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Employees Wages Benefits and WARN

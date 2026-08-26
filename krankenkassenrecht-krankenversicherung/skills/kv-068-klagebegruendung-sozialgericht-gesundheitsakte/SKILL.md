@@ -1,6 +1,6 @@
 ---
 name: kv-068-klagebegruendung-sozialgericht-gesundheitsakte
-description: "Wenn es um Krankenversicherung: Klagebegründung Sozialgericht Gesundheitsakte in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Klagebegründung Sozialgericht Gesundheitsakte: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Krankenversicherung: Klagebegründung Sozialgericht Gesundheitsakte

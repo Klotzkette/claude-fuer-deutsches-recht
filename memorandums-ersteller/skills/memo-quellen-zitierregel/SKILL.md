@@ -1,6 +1,6 @@
 ---
 name: memo-quellen-zitierregel
-description: "Wenn es um Memo: Quellen-Zitierregel in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Memo: Quellen-Zitierregel: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Memo: Quellen-Zitierregel

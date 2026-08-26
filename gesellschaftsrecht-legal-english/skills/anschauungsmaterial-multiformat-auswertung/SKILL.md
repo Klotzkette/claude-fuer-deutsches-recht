@@ -1,6 +1,6 @@
 ---
 name: anschauungsmaterial-multiformat-auswertung
-description: "Wenn es um Anschauungsmaterial Multi-Format-Auswertung in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Anschauungsmaterial Multi-Format-Auswertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anschauungsmaterial Multi-Format-Auswertung

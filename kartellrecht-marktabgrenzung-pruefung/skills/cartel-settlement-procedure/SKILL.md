@@ -1,6 +1,6 @@
 ---
 name: cartel-settlement-procedure
-description: "Wenn es um Settlement in Kartellverfahren in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Settlement in Kartellverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Settlement in Kartellverfahren

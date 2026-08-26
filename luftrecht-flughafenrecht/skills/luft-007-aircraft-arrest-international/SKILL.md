@@ -1,6 +1,6 @@
 ---
 name: luft-007-aircraft-arrest-international
-description: "Wenn es um Aircraft Arrest International in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aircraft Arrest International: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Aircraft Arrest International

@@ -1,6 +1,6 @@
 ---
 name: haltverbot-regel-pruefen
-description: "Wenn es um Haltverbot Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haltverbot Regel Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenverkehrsrecht StVO. Route: haltverbot-regel-pruefen."
 ---
 
 # Haltverbot Regel Prüfen

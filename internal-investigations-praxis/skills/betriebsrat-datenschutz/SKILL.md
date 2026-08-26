@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-datenschutz
-description: "Wenn es um Betriebsrat und Mitbestimmung in Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Betriebsrat und Mitbestimmung in Internal Investigations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsrat und Mitbestimmung in Internal Investigations

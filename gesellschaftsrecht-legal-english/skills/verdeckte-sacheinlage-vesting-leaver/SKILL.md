@@ -1,6 +1,6 @@
 ---
 name: verdeckte-sacheinlage-vesting-leaver
-description: "Wenn es um Verdeckte Sacheinlage und Hin-und-Her-Zahlung in Didaktisches Gesellschaftsrecht — English Business Terms geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verdeckte Sacheinlage und Hin-und-Her-Zahlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verdeckte Sacheinlage und Hin-und-Her-Zahlung

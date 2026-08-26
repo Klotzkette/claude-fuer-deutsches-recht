@@ -1,6 +1,6 @@
 ---
 name: ferienbefreiung-reise-foerderausschuss
-description: "Wenn es um Ferienbefreiung und Reise in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ferienbefreiung und Reise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ferienbefreiung und Reise

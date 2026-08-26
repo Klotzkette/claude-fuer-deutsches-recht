@@ -1,6 +1,6 @@
 ---
 name: verfassung-grundrechte-juristische-uebersicht
-description: "Wenn es um Grundrechte jur. Personen in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Grundrechte jur. Personen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grundrechte jur. Personen

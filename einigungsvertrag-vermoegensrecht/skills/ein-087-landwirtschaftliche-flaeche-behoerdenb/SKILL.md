@@ -1,6 +1,6 @@
 ---
 name: ein-087-landwirtschaftliche-flaeche-behoerdenb
-description: "Wenn es um Landwirtschaftliche Flaeche Behoerdenb in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Landwirtschaftliche Fläche Behördenb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: ein-087-landwirtschaftliche-flaeche-behoerdenb."
 ---
 
 # Landwirtschaftliche Flaeche Behoerdenb

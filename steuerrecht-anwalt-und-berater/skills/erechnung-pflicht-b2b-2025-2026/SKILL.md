@@ -1,6 +1,6 @@
 ---
 name: erechnung-pflicht-b2b-2025-2026
-description: "Wenn es um eRechnung-Pflicht B2B seit 01.01.2025 in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für eRechnung-Pflicht B2B seit 01.01.2025: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # eRechnung-Pflicht B2B seit 01.01.2025

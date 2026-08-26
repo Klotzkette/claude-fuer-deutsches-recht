@@ -1,6 +1,6 @@
 ---
 name: schultraeger-aufsichtsbeschwerde-schre
-description: "Wenn es um Schultraeger Aufsichtsbeschwerde Schre in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulträger Aufsichtsbeschwerde Schre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schultraeger Aufsichtsbeschwerde Schre

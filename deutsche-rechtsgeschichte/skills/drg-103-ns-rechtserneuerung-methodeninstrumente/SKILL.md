@@ -1,6 +1,6 @@
 ---
 name: drg-103-ns-rechtserneuerung-methodeninstrumente
-description: "Wenn es um Methodeninstrumente der NS-Rechtserneuerung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Drg 103 Ns Rechtserneuerung Methodeninstrumente; Arbeitsfeld: Deutsche Rechtsgeschichte."
+description: "Für Methodeninstrumente der NS-Rechtserneuerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Deutsche Rechtsgeschichte. Route: drg-103-ns-rechtserneuerung-methodeninstrumente."
 ---
 # Methodeninstrumente der NS-Rechtserneuerung
 

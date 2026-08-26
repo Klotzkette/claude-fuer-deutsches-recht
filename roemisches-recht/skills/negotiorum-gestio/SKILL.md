@@ -1,6 +1,6 @@
 ---
 name: negotiorum-gestio
-description: "Wenn es um Negotiorum Gestio in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Negotiorum Gestio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Negotiorum Gestio

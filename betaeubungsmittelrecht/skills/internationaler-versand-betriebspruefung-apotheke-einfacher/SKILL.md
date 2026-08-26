@@ -1,6 +1,6 @@
 ---
 name: internationaler-versand-betriebspruefung-apotheke-einfacher
-description: "Wenn es um Internationaler Versand in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internationaler Versand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationaler Versand

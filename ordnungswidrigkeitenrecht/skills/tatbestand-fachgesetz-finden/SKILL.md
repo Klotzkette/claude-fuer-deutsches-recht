@@ -1,6 +1,6 @@
 ---
 name: tatbestand-fachgesetz-finden
-description: "Wenn es um Tatbestand Fachgesetz Finden in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tatbestand Fachgesetz Finden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Tatbestand Fachgesetz Finden

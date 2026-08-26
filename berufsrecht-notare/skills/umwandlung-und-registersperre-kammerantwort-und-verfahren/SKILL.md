@@ -1,6 +1,6 @@
 ---
 name: umwandlung-und-registersperre-kammerantwort-und-verfahren
-description: "Wenn es um Umwandlung Und Registersperre Kammerantwort Und Verfahren in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Umwandlung und Registersperre Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Notare: umwandlung und registersperre - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

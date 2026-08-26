@@ -1,6 +1,6 @@
 ---
 name: quasihersteller-private-label-robotik
-description: "Wenn es um Quasihersteller und Private Label in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quasihersteller und Private Label: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quasihersteller und Private Label

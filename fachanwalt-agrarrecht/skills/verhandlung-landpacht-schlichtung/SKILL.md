@@ -1,6 +1,6 @@
 ---
 name: verhandlung-landpacht-schlichtung
-description: "Bereitet eine außergerichtliche Lösung im Landpachtstreit aktennah vor. Trennt Anpassung, Beendigung, Fortsetzung, Bewirtschaftung und Beanstandung, berechnet den Verhandlungskorridor und liefert Anschreiben, Gesprächsplan und vollziehbaren Vergleich, ohne einen nicht bestehenden Schlichtungszwang zu unterstellen."
+description: "Für Landpachtstreit verhandeln und beilegen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Landpachtstreit verhandeln und beilegen

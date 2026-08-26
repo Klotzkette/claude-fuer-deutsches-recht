@@ -1,6 +1,6 @@
 ---
 name: kontenpfaendung-notar-interessen-online
-description: "Wenn es um Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken

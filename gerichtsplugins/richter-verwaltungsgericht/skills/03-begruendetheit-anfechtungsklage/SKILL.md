@@ -1,6 +1,6 @@
 ---
 name: 03-begruendetheit-anfechtungsklage
-description: "Wenn es um 03 Begründetheit Anfechtungsklage in Verwaltungsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 03 Begründetheit Anfechtungsklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # 03 Begründetheit Anfechtungsklage

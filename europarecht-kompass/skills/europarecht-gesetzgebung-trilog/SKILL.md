@@ -1,6 +1,6 @@
 ---
 name: europarecht-gesetzgebung-trilog
-description: "Wenn es um EU-Gesetzgebung und Trilog in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für EU-Gesetzgebung und Trilog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-Gesetzgebung und Trilog

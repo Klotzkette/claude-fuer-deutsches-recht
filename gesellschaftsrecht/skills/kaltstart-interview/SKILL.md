@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Wenn es um Ersteinrichtungs-Interview in Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ersteinrichtungs-Interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ersteinrichtungs-Interview

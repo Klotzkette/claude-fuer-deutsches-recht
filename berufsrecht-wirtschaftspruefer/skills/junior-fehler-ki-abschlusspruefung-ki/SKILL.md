@@ -1,6 +1,6 @@
 ---
 name: junior-fehler-ki-abschlusspruefung-ki
-description: "Wenn es um Junior Fehler Ki Abschlusspruefung Ki in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Junior Fehler Ki Abschlussprüfung Ki: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: junior fehler und supervision - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

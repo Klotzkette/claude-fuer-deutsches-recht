@@ -1,6 +1,6 @@
 ---
 name: vorlaeufige-dienstenthebung-bezuege
-description: "Wenn es um Vorlaeufige Dienstenthebung Bezuege in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorläufige Dienstenthebung Bezüge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vorlaeufige Dienstenthebung Bezuege

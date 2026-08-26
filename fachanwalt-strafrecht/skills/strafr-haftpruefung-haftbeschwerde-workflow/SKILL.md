@@ -1,6 +1,6 @@
 ---
 name: strafr-haftpruefung-haftbeschwerde-workflow
-description: "Wenn es um Haftpruefung und Haftbeschwerde Paragrafen 117 ff in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftprüfung und Haftbeschwerde Paragrafen 117 ff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Haftpruefung und Haftbeschwerde §§ 117 ff

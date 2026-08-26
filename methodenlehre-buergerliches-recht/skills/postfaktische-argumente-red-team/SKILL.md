@@ -1,6 +1,6 @@
 ---
 name: postfaktische-argumente-red-team
-description: "Wenn es um Postfaktische Argumente: Red-Team-Analyse und Dekonstruktion in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Postfaktische Argumente: Red-Team-Analyse und Dekonstruktion: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Postfaktische Argumente: Red-Team-Analyse und Dekonstruktion

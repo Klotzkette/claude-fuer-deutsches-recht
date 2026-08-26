@@ -1,6 +1,6 @@
 ---
 name: qa-kanzleiweit-templating-praxis-verwalter
-description: "Wenn es um Skill-QA kanzleiweit in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Skill-QA kanzleiweit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Skill-QA kanzleiweit

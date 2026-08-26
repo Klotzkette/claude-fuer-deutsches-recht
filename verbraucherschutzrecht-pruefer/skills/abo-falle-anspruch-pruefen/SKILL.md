@@ -1,6 +1,6 @@
 ---
 name: abo-falle-anspruch-pruefen
-description: "Wenn es um Abo Falle Anspruch Prüfen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abo Falle Anspruch Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: abo-falle-anspruch-pruefen."
 ---
 
 # Abo Falle Anspruch Prüfen

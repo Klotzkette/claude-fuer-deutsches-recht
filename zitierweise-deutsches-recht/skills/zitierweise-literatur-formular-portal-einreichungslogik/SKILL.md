@@ -1,6 +1,6 @@
 ---
 name: zitierweise-literatur-formular-portal-einreichungslogik
-description: "Wenn es um Literatur: Formular, Portal und Einreichungslogik in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitierweise Literatur Formular Portal Einreichungslogik; Arbeitsfeld: Zitierweise deutsches Recht."
+description: "Für Literatur: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Literatur: Formular, Portal und Einreichungslogik

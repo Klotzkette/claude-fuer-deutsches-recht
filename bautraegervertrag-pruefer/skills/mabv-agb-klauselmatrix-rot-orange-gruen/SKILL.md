@@ -1,6 +1,6 @@
 ---
 name: mabv-agb-klauselmatrix-rot-orange-gruen
-description: "Wenn es um MaBV-/AGB-Klauselmatrix Rot-Orange-Grün in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für MaBV-/AGB-Klauselmatrix Rot-Orange-Grün: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MaBV-/AGB-Klauselmatrix Rot-Orange-Grün

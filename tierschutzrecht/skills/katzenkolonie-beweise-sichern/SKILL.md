@@ -1,6 +1,6 @@
 ---
 name: katzenkolonie-beweise-sichern
-description: "Wenn es um Katzenkolonie Beweise Sichern in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Katzenkolonie Beweise Sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Katzenkolonie Beweise Sichern

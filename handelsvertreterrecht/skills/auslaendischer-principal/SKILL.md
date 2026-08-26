@@ -1,6 +1,6 @@
 ---
 name: auslaendischer-principal
-description: "Wenn es um Handelsvertretervertrag mit ausländischem Unternehmer — Internationales Privatrecht in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsvertretervertrag mit ausländischem Unternehmer — Internationales Privatrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsvertretervertrag mit ausländischem Unternehmer — Internationales Privatrecht

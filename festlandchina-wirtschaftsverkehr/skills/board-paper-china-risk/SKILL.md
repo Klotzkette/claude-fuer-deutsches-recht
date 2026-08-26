@@ -1,6 +1,6 @@
 ---
 name: board-paper-china-risk
-description: "Wenn es um Board-Paper China-Risiken: Struktur und Inhalte für Aufsichtsrat in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Board-Paper China-Risiken: Struktur und Inhalte für Aufsichtsrat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Board-Paper China-Risiken: Struktur und Inhalte für Aufsichtsrat

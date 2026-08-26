@@ -1,6 +1,6 @@
 ---
 name: wortlaut-quellenkarte
-description: "Wenn es um Wortlaut Quellenkarte in Methodenlehre bürgerliches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Wortlaut Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wortlaut Quellenkarte

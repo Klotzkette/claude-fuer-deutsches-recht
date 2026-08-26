@@ -1,6 +1,6 @@
 ---
 name: boesglaeubige-anmeldung-und-sperrmarke
-description: "Wenn es um Bösgläubige Anmeldung und Sperrmarke in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Bösgläubige Anmeldung und Sperrmarke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bösgläubige Anmeldung und Sperrmarke

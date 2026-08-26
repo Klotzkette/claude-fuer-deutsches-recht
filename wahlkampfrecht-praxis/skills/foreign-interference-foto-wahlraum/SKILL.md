@@ -1,6 +1,6 @@
 ---
 name: foreign-interference-foto-wahlraum
-description: "Wenn es um Foreign Interference Lage in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Foreign Interference Lage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Foreign Interference Lage

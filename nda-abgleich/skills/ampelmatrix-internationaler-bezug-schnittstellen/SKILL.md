@@ -1,6 +1,6 @@
 ---
 name: ampelmatrix-internationaler-bezug-schnittstellen
-description: "Wenn es um Ampelmatrix: Internationaler Bezug und Schnittstellen in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ampelmatrix Internationaler Bezug Schnittstellen; Arbeitsfeld: NDA-Abgleich."
+description: "Für Ampelmatrix: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: NDA-Abgleich. Route: ampelmatrix-internationaler-bezug-schnittstellen."
 ---
 
 # Ampelmatrix: Internationaler Bezug und Schnittstellen

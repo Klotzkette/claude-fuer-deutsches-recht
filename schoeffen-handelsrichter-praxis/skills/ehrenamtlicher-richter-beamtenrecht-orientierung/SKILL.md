@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-richter-beamtenrecht-orientierung
-description: "Wenn es um Ehrenamtlicher Richter Beamtenrecht: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Ehrenamtlicher Richter Beamtenrecht: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ehrenamtlicher Richter Beamtenrecht: Orientierung

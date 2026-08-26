@@ -1,6 +1,6 @@
 ---
 name: betriebsrente-private-krankheit-reha
-description: "Wenn es um betriebsrente-und-private-vorsorge-schnittstelle in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für betriebsrente-und-private-vorsorge-schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # betriebsrente-und-private-vorsorge-schnittstelle

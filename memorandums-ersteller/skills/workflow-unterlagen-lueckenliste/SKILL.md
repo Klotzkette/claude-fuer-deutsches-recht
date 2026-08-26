@@ -1,6 +1,6 @@
 ---
 name: workflow-unterlagen-lueckenliste
-description: "Wenn es um Unterlagen- und Lückenliste in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Memorandums-Ersteller."
 ---
 
 # Unterlagen- und Lückenliste

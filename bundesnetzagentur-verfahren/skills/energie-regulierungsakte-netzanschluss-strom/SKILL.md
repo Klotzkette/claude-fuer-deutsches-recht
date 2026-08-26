@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-netzanschluss-strom
-description: "Wenn es um Energie-Regulierungsakte: Netzanschluss Strom — Rechtsmittel-Check in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie-Regulierungsakte: Netzanschluss Strom — Rechtsmittel-Check: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: Netzanschluss Strom — Rechtsmittel-Check

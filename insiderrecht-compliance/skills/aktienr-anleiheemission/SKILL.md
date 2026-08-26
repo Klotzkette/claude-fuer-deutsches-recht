@@ -1,6 +1,6 @@
 ---
 name: aktienr-anleiheemission
-description: "Wenn es um Aktienrückkaufprogramme – MAR Safe Harbour und Compliance in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Aktienrückkaufprogramme – MAR Safe Harbour und Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktienrückkaufprogramme – MAR Safe Harbour und Compliance

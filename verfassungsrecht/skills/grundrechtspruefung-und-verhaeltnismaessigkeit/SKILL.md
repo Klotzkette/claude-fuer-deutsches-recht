@@ -1,6 +1,6 @@
 ---
 name: grundrechtspruefung-und-verhaeltnismaessigkeit
-description: "Wenn es um Grundrechtsprüfung und Verhältnismäßigkeit in verfassungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Grundrechtsprüfung und Verhältnismäßigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Grundrechtsprüfung und Verhältnismäßigkeit

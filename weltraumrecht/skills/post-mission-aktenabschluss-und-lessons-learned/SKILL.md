@@ -1,6 +1,6 @@
 ---
 name: post-mission-aktenabschluss-und-lessons-learned
-description: "Wenn es um Weltraumrecht: Post-Mission: Aktenabschluss und Lessons Learned in Weltraumrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Weltraumrecht: Post-Mission: Aktenabschluss und Lessons Learned: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Post-Mission: Aktenabschluss und Lessons Learned

@@ -1,6 +1,6 @@
 ---
 name: agg-pruefung-bewerber-und-beschaeftigte
-description: "Wenn es um Agg Prüfung Bewerber Und Beschaeftigte in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Agg Prüfung Bewerber und Beschäftigte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale Paragraf 1 AGG, Benachteiligungsverbot Paragraf 7 AGG, Entschädigungs- und Schadensersatzansprüche Paragraf 15 AGG, Beweislastumkehr Paragraf 22 AGG, Geltendmachungsfrist Paragraf 15 Abs

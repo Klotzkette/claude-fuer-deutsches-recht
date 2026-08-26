@@ -1,6 +1,6 @@
 ---
 name: konkurrentenschutz-auswahlvermerk-und-akteneinsicht
-description: "Wenn es um konkurrentenschutz-auswahlvermerk-und-akteneinsicht in Beamtenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für konkurrentenschutz-auswahlvermerk-und-akteneinsicht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # konkurrentenschutz-auswahlvermerk-und-akteneinsicht

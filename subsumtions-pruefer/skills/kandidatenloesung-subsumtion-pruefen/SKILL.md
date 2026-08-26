@@ -1,6 +1,6 @@
 ---
 name: kandidatenloesung-subsumtion-pruefen
-description: "Wenn es um Kandidatenlösung auf Subsumtion prüfen in Subsumtions-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kandidatenlösung auf Subsumtion prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Kandidatenlösung auf Subsumtion prüfen

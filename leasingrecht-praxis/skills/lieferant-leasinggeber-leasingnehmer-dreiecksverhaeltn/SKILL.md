@@ -1,6 +1,6 @@
 ---
 name: lieferant-leasinggeber-leasingnehmer-dreiecksverhaeltn
-description: "Wenn es um Das Leasingdreieck: Lieferant, Leasinggeber, Leasingnehmer in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Das Leasingdreieck: Lieferant, Leasinggeber, Leasingnehmer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Das Leasingdreieck: Lieferant, Leasinggeber, Leasingnehmer

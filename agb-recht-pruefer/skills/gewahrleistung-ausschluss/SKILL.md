@@ -1,6 +1,6 @@
 ---
 name: gewahrleistung-ausschluss
-description: "Wenn es um Gewährleistung Ausschluss in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gewährleistung Ausschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gewährleistung Ausschluss

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-kameras-digitaler-zwilling-dronen
-description: "Wenn es um Datenschutz Sensorik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenschutz Kameras Digitaler Zwilling Dronen; Arbeitsfeld: robotik-recht."
+description: "Für Datenschutz Sensorik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: datenschutz-kameras-digitaler-zwilling-dronen."
 ---
 
 # Datenschutz Sensorik

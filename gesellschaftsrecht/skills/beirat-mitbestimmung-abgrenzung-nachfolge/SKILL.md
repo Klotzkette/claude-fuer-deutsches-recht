@@ -1,6 +1,6 @@
 ---
 name: beirat-mitbestimmung-abgrenzung-nachfolge
-description: "Wenn es um Beirat Mitbestimmung Abgrenzung in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beirat Mitbestimmung Abgrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht."
 ---
 
 # Beirat Mitbestimmung Abgrenzung

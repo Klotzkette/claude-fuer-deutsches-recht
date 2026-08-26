@@ -1,6 +1,6 @@
 ---
 name: gr-einfuehrung-saeulen
-description: "Wenn es um Gr Einfuehrung Saeulen in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gr Einführung Säulen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Einführung in den gewerblichen Rechtsschutz: Fünf Säulen (Markenrecht, Patentrecht, Designrecht, Urheberrecht, Lauterkeitsrecht/UWG), FAO-Anforderungen § 14k, Behördenübersicht DPMA/EUIPO/EPA, Verfahrensarten, Schutzrechts-Portfolio.

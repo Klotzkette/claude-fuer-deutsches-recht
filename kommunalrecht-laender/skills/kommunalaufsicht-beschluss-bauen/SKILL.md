@@ -1,6 +1,6 @@
 ---
 name: kommunalaufsicht-beschluss-bauen
-description: "Wenn es um Kommunalaufsicht Beschluss Bauen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunalaufsicht Beschluss Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunalaufsicht Beschluss Bauen

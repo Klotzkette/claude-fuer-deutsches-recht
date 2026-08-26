@@ -1,6 +1,6 @@
 ---
 name: haftung-sanktionen-grobe-fahrlaessigkeit
-description: "Wenn es um Compliance Sanktionen in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Haftung Sanktionen Grobe Fahrlaessigkeit; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Compliance Sanktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: haftung-sanktionen-grobe-fahrlaessigkeit."
 ---
 
 # Compliance Sanktionen

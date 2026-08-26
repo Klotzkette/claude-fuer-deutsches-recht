@@ -1,6 +1,6 @@
 ---
 name: uebergangsregelung-127-sgbiv-lehrtaetigkeit
-description: "Wenn es um Übergangsregelung Paragraf 127 SGB IV Lehrkräfte in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Übergangsregelung Paragraf 127 SGB IV Lehrkräfte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Übergangsregelung § 127 SGB IV Lehrkräfte

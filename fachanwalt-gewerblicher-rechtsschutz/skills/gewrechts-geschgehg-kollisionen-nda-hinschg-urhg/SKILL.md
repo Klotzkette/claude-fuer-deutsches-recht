@@ -1,6 +1,6 @@
 ---
 name: gewrechts-geschgehg-kollisionen-nda-hinschg-urhg
-description: "Wenn es um Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden

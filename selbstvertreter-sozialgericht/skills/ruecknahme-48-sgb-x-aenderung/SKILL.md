@@ -1,6 +1,6 @@
 ---
 name: ruecknahme-48-sgb-x-aenderung
-description: "Wenn es um Rücknahme 48 Sgb X Änderung in selbstvertreter-sozialgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rücknahme 48 SGB X Änderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rücknahme 48 Sgb X Änderung

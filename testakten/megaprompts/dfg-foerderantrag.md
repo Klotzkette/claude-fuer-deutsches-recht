@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 85 Skills des Plugins `dfg-foerderantrag`
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Dfg Förderantrag ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet k…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in DFG-Förderantrag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächste…
-3. **kaltstart-triage** — Wenn es um DFG-Förderantrag — Allgemein in DFG-Förderantrag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden…
-4. **dfg-erstpruefung-und-mandatsziel** — Wenn es um DFG: Erstprüfung, Rollenklärung und Mandatsziel in DFG-Förderantrag geht: klärt Rolle, Ziel, Frist, Unterlage…
-5. **forschungsdaten-fristennotiz-und-naechster-schritt** — Wenn es um Forschungsdaten: Fristennotiz und nächster Schritt in DFG-Förderantrag geht: erstellt den passenden Entwurf a…
-6. **foerderstrategie-schnell-grossgeraete-cluster** — Wenn es um DFG-Förderstrategie: schnell, schlank oder groß? in DFG-Förderantrag geht: ordnet Sachverhalt, Norm, Beweisla…
-7. **anfaenger-risikoampel-gegenargumente** — Wenn es um Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien in DFG-Förderantrag geht: erstellt den passend…
-8. **sachbeihilfe-fristen-form-zustaendigkeit** — Wenn es um Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg in DFG-Förderantrag geht: erstellt den passenden Ent…
-9. **internationale-kooperation-ki-ethik-kollegen** — Wenn es um DFG: Internationale Kooperation in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Nor…
-10. **dfg-foerderstrategie-schnell-oder-gross** — Wenn es um DFG-Förderstrategie: schnell, schlank oder groß? in DFG-Förderantrag geht: ordnet Sachverhalt, Norm, Beweisla…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **kaltstart-triage** — Für DFG-Förderantrag — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und …
+4. **dfg-erstpruefung-und-mandatsziel** — Für DFG: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbesta…
+5. **foerderantragssteller-formalia-red-fuehrung** — Für Förderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage: erstellt Entwurf mit Antrag, Beweis und Anlag…
+6. **finanzplan-mandantenkommunikation-entscheidungsvorlage** — Für Finanzplan: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Ma…
+7. **fuehrung-schriftsatz-brief-und-memo-bausteine** — Für Führung: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schrift…
+8. **erstantrag-projektlogik** — Für Förderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage: erstellt Entwurf mit Antrag, Beweis und Anlag…
+9. **koselleck-mehrparteien-konflikt-und-interessen** — Für Koselleck: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodu…
+10. **fuehrung-schriftsatz-brief-memo-bausteine** — Für Führung: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schrift…
 
 ---
 
@@ -138,7 +138,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in DFG-Förderantrag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: DFG-Förderantrag._
 
 # Einstieg und Routing
 
@@ -199,7 +199,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um DFG-Förderantrag — Allgemein in DFG-Förderantrag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für DFG-Förderantrag — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # DFG-Förderantrag — Allgemein
 
@@ -368,7 +368,7 @@ Keine alten 100.000-Euro-Schwellen ungeprüft fortschreiben. Vor Empfehlung Verf
 
 ## Skill: `dfg-erstpruefung-und-mandatsziel`
 
-_Wenn es um DFG: Erstprüfung, Rollenklärung und Mandatsziel in DFG-Förderantrag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dfg Erstpruefung Und Mandatsziel; Arbeitsfeld: DFG-Förderantrag._
+_Für DFG: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: DFG-Förderantrag. Route: dfg-erstpruefung-und-mandatsziel._
 
 # DFG: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -469,26 +469,26 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `forschungsdaten-fristennotiz-und-naechster-schritt`
+## Skill: `foerderantragssteller-formalia-red-fuehrung`
 
-_Wenn es um Forschungsdaten: Fristennotiz und nächster Schritt in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Forschungsdaten Fristennotiz Und Naechster Schritt; Arbeitsfeld: DFG-Förderantrag._
+_Für Förderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: DFG-Förderantrag. Route: foerderantragssteller-formalia-red-fuehrung._
 
-# Forschungsdaten: Fristennotiz und nächster Schritt
+# Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Regelungs- und Quellenanker
 
-Arbeitsfokus: **Forschungsdaten: Fristennotiz und nächster Schritt**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Ausgangspunkt.
-- `Art. 89 Abs. 1 DSGVO` — Garantien für wissenschaftliche Forschungszwecke.
-- `Art. 9 Abs. 2 lit. j DSGVO` — besondere Kategorien personenbezogener Daten in Forschungskontexten.
-- `§ 27 Abs. 1 BDSG` — Datenverarbeitung zu wissenschaftlichen Forschungszwecken.
-- `§ 7 Abs. 1 TierSchG` — Tierversuche nur bei gesetzlich anerkanntem Zweck und Erforderlichkeit.
-- `§ 8 Abs. 1 TierSchG` — Genehmigungspflichtiger Tierversuch.
-- `§ 69a UrhG` — Computerprogramme als Schutzgegenstand bei Forschungssoftware.
-- `DFG-Kodex Leitlinie 10` — rechtliche und ethische Rahmenbedingungen.
-- `DFG-Kodex Leitlinie 13` — Herstellung von öffentlichem Zugang zu Forschungsergebnissen.
-- `DFG-Kodex Leitlinie 14` — Autorschaft und Verantwortung.
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 91b Abs. 1 GG` — Forschungsförderung im Bund-Länder-System.
+- `§ 23 BHO` — Zuwendungsvoraussetzungen.
+- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Prüfung.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
+- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
+- `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
+- `DFG-Kodex Leitlinie 1` — Redlichkeit.
+- `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
+- `DFG-Kodex Leitlinie 14` — Autorschaft.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -500,7 +500,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Principal Investigator), DFG-Fachkollegien, DFG-Geschäftsstelle, Hochschulverwaltung/Forschungsreferat, BMBF/BMWK, Gutachter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Antragsformular elan, Projektbeschreibung, Lebenslauf mit Publikationsliste, Finanzplan, Letter of Intent, Verwendungsnachweis, Zwischenbericht, Abschlussbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Forschungsdaten: Fristennotiz und nächster Schritt
+## Spezialwissen: Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** DFG, KI.
 
 ## Fallweichen
@@ -514,73 +514,61 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Forschungsdaten** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Foerderantragssteller** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## DFG-Forschungsdaten: Anforderungen (live auf dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten verifizieren)
+## Antragsberechtigte: zentrale Tatbestandsmerkmale
 
-Pflichtbestandteil jedes Antrags: **Forschungsdatenmanagement-Plan / DMP** als Anlage.
+| Merkmal | Nachweis | Häufige Fragen |
+|---|---|---|
+| Promotion abgeschlossen | Promotionsurkunde, Lebenslauf | bei kurz nach Abschluss: 2-Jahre-Frist Walter Benjamin |
+| Tätigkeit an Forschungseinrichtung in Deutschland | Anstellungsnachweis, Affiliation | reine Gastaufenthalte begründungsbedürftig |
+| Eigenständige Forschung | Publikationsliste, Lebenslauf | DFG-Definition vs. Habilitationsschrift |
+| Nicht Grundausstattung | Funktionsbeschreibung der Stelle | reine Daueraufgabe ist nicht förderfähig |
+| Keine Doppelförderung | Drittmittelverzeichnis | mehrere Drittmittel zum gleichen Vorhaben sind auszuschließen |
 
-| Punkt im DMP | Inhalt |
-|---|---|
-| Datentypen | quantitativ / qualitativ, Formate, Größenordnung |
-| Erhebungs- / Generierungsverfahren | Methoden, Geräte, Software |
-| Metadaten / Standards | fachspezifische Standards, ggf. RDA-konform |
-| Speicherung während Projektlauf | Backup, Versionierung, Zugriffsrechte |
-| Archivierung nach Projektende | Repositorium (fachspezifisch oder generisch wie Zenodo, RADAR-Service), Mindestaufbewahrung 10 Jahre nach Kodex 2022 |
-| Open Access | FAIR-Prinzipien, Zeitpunkt der Veröffentlichung |
-| Schutz personenbezogener Daten | DSGVO-Konformität, Einwilligungen, Anonymisierung |
-| Ethik / Tierdaten | Genehmigungen mit AZ |
+## Wichtige DFG-Quellen
 
-## Fristen / Zeitachse
-
-- DMP ist mit Antragseinreichung vorzulegen, nicht später.
-- DFG-Kodex Leitlinie 13: Forschungsdaten 10 Jahre nach Abschluss aufbewahren.
-- Datenmanagement-Pflicht beginnt mit Projektbewilligung; bis zu Projektende ist regelmäßig fortlaufende Pflege notwendig.
+- **DFG-Verfahrensordnung** (vor Ausgabe live auf dfg.de verifizieren): regelt Antragsberechtigung, Begutachtung, Förderzusage, Widerspruch.
+- **Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis"** (2022): jede antragstellende Forschungsperson hat ihn einzuhalten und das in der Forschungseinrichtung implementierte Verfahren zu beachten.
+- **DFG-Vordruck 1.02** (Leitfaden für die Antragstellung Sachbeihilfen): formale Struktur, Anlagen.
 
 ## Praktischer Tipp
 
-- Repositorium **frühzeitig identifizieren** (nicht erst zum Projektabschluss). re3data.org ist das zentrale Register. Disziplin-Repositorien (z. B. Dryad für Biologie, PsychData für Psychologie, GESIS für Sozialwissenschaften) sind regelmäßig vorzuziehen.
-- DOI-Vergabe sicherstellen: nur dann zitierfähige Veröffentlichung. Eigene Institutsserver ohne DOI reichen für FAIR-Konformität nicht aus.
-- Bei personenbezogenen Daten: gestufter Zugriff über Datenzugangskommittees ("controlled access") statt Open Access, wenn Einwilligung das vorgibt.
+- "Eigenständige Forschung" ist nicht identisch mit "Habilitation". DFG erkennt eine eigenständige Forschungspersönlichkeit auch ohne Habilitation an, wenn Publikationsliste, Drittmitteleinwerbung oder vergleichbare Indikatoren das belegen. Habilitierte sind aber regelmäßig im Vorteil bei Reviewer-Bewertung.
+- Lebenslauf-Schwerpunkt auf die letzten 5 Jahre setzen, frühere Stationen knapp. DFG-Vorgabe: max. 3 Seiten - das ist eine harte Grenze.
+- Publikationsliste: max. 10 "wichtigste" Publikationen mit DOI; nicht die vollständige Publikationsliste anhängen. Auswahl mit Begründung der Relevanz für das Vorhaben empfehlenswert.
 
-## Norm-/Quellenbezug konkret
+## Beweislage / Anlagen für den Antrag
 
-- DFG-Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis" (2022), insbesondere Leitlinie 13 (Archivierung).
-- Verwendungsrichtlinien DFG.
-- DSGVO Art. 5, 6, 9, 32, 89 - rechtliche Grundlagen für Datenverarbeitung in der Forschung.
-- BDSG § 27 (Sonderfall Forschung).
-- DSGVO Art. 89 i.V.m. Erwägungsgrund 159: Sondervorschriften zur Forschung.
-
-## Beispiel-Mustertext (Kurz-DMP Sachbeihilfe)
-
-> 1. Datentypen: [quantitative Messdaten in csv-Format, ca. 200 GB; qualitative Interviewdaten, ca. 30 Transkripte].
-> 2. Erhebungsverfahren: [Beschreibung].
-> 3. Metadaten: nach [Standard, z. B. Dublin Core, DataCite].
-> 4. Speicherung während Projekt: institutionelles Netzlaufwerk [Bezeichnung] mit täglichem Backup; Zugriff über autorisiertes Personal.
-> 5. Archivierung: nach Projektende werden anonymisierte Datensätze in [Repositorium, z. B. Zenodo / RADAR] unter CC-BY-4.0-Lizenz öffentlich verfügbar gemacht; Rohdaten bleiben 10 Jahre am Institut gespeichert.
-> 6. Datenschutz: alle Probanden haben informierte Einwilligung (Anlage [n]) erteilt; Pseudonymisierung erfolgt nach [Methode].
-> 7. Ethik: Votum der Ethikkommission [Name] vom [Datum, AZ].
+- Promotionsurkunde / Habilitationsurkunde (Scan).
+- Lebenslauf (akademisch, max. 3 Seiten).
+- Publikationsliste (max. 10, mit DOI).
+- Ggf. Ethikvotum / Tierversuchsantrag (mit Aktenzeichen, Stelle).
+- Datenmanagementplan.
+- Letter of Intent ggf. von Kooperationspartnern (mit Unterschrift, Datum).
+- Drittmittelverzeichnis (laufende und beantragte).
 
 ## Typische Fehler
 
-- Verweis auf "institutsinternes Datenarchiv" ohne FAIR-Konformität.
-- Personenbezogene Daten ohne ausreichende Einwilligung "open access" stellen wollen - DSGVO-Verstoß.
-- 10-Jahres-Aufbewahrung vergessen; nach Projektende sofortige Löschung würde Kodex verletzen.
+- Publikationsliste enthält 20+ Einträge - Verstoß gegen Vorgabe.
+- Lebenslauf 5 Seiten lang - formale Beanstandung.
+- Drittmittelverzeichnis unvollständig - Vertrauensbruch bei späterer Aufdeckung von Doppelförderung; DFG-Kodex-Verstoß möglich.
+- Letter of Intent ohne konkrete Verpflichtungserklärung des Kooperationspartners ("wir würden gerne kooperieren" reicht nicht).
 
 ---
 
-## Skill: `foerderstrategie-schnell-grossgeraete-cluster`
+## Skill: `finanzplan-mandantenkommunikation-entscheidungsvorlage`
 
-_Wenn es um DFG-Förderstrategie: schnell, schlank oder groß? in DFG-Förderantrag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Foerderstrategie Schnell Grossgeraete Cluster; Arbeitsfeld: DFG-Förderantrag._
+_Für Finanzplan: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: DFG-Förderantrag. Route: finanzplan-mandantenkommunikation-entscheidungsvorlage._
 
-# DFG-Förderstrategie: schnell, schlank oder groß?
+# Finanzplan: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Regelungs- und Quellenanker
 
-Arbeitsfokus: **DFG-Förderstrategie: schnell, schlank oder groß?**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Finanzplan: Mandantenkommunikation und Entscheidungsvorlage**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit, Sparsamkeit und plausibler Mitteleinsatz.
 - `§ 23 BHO` — Zuwendungszweck und erhebliches Bundesinteresse als Förderlogik.
@@ -601,140 +589,81 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Principal Investigator), DFG-Fachkollegien, DFG-Geschäftsstelle, Hochschulverwaltung/Forschungsreferat, BMBF/BMWK, Gutachter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Antragsformular elan, Projektbeschreibung, Lebenslauf mit Publikationsliste, Finanzplan, Letter of Intent, Verwendungsnachweis, Zwischenbericht, Abschlussbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Worum geht es
+## Spezialwissen: Finanzplan: Mandantenkommunikation und Entscheidungsvorlage
+- **Normen-/Quellenanker:** DFG, KI.
 
-Dieser Skill verhindert den typischen Erstantragsfehler, aus jedem guten Forschungsprojekt sofort einen zu großen Antrag zu machen. Er liefert die strategische Wegentscheidung: Welche Programmschiene passt zur Projektreife, zum Karrierestand und zum Zeithorizont? Was ist der schnellste belastbare Förderweg, der wissenschaftlich nicht zu klein denkt?
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-**Alte-Hasen-Faustregel:** Der Spatz in der Hand ist die schnelle Sachbeihilfe mit klarer Kernfrage. Die Taube auf dem Dach ist der Großantrag, der nach 9 Monaten gekürzt zurückkommt oder ganz scheitert. Wer DFG-frisch ist, sollte zunächst eine bewilligte Sachbeihilfe vorweisen können, bevor er Koselleck oder SPP-Initiierung anstrebt.
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-## Wann dieses Modul hilft / Kaltstart-Fragen
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Finanzplan** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-Sie brauchen diesen Skill, wenn die Programmroute noch offen ist, wenn der Antragsteller schwankt zwischen "kleinem schnellen Antrag" und "großem Wurf", oder wenn das Vorhaben zu groß für Sachbeihilfe und zu wenig visionär für Koselleck wirkt.
+## DFG-Finanzplan: Strukturpositionen (Verwendungsrichtlinien vor Ausgabe live verifizieren)
 
-Kaltstartfragen:
+| Position | Hinweis |
+|---|---|
+| Personalmittel - Postdoc / wiss. MA | Pauschalsätze nach DFG-Tabelle (vor Ausgabe verifizieren) |
+| Personalmittel - Promovierende | 65 %- oder 75 %-Pauschale typisch nach Disziplin |
+| Studentische Hilfskräfte (SHK) | Stunden- oder Monatspauschale |
+| Sachmittel | Verbrauchsmittel, Reagenzien, Materialien |
+| Reisemittel | Konferenzen, Feldforschung, Kollaborationsbesuche |
+| Geräte > 10.000 EUR netto | Einzelbegründung mit Marktvergleich, Angeboten |
+| Publikationskosten | Open Access Publikationskostenpauschale |
+| Programmpauschale | 22 % auf direkte Mittel (für Universitäten, vor Ausgabe verifizieren) |
 
-1. **Karrierestand exakt:** Promotionsjahr, Habilitationsstand, Berufung, frühere DFG-Bewilligungen.
-2. **Projektreife:** Wie viele referierte Vorarbeiten zur Frage gibt es bereits? Stand 0, Stand "Pilot vorhanden", Stand "in einschlägigen Journalen publiziert"?
-3. **Geldbedarf realistisch:** Welche Summe reicht für eine publikationsfähige Antwort (Minimalvariante)? Was ist die Ausbauvariante?
-4. **Zeitdruck:** Stelle läuft aus? Datenfenster? Gerätebeschaffung?
-5. **Profilstärke:** Wie sieht der Track Record im Verhältnis zur eingespielten Konkurrenz im Fach aus?
+## Norm-/Quellenbezug konkret
 
-## Programm- bzw. Sachrahmen
+- DFG-Verwendungsrichtlinien Allgemeine Bedingungen für Sachbeihilfen (DFG-Vordruck 2.00 oder Folgevordruck).
+- BHO § 44 / Allgemeine Nebenbestimmungen für Zuwendungen (ANBest-P) - regelmäßig nicht direkt, sondern modifiziert durch DFG-Verwendungsrichtlinien.
+- TVöD-Bund / TV-L als Personalkostengrundlage (Pauschalsätze nach DFG).
 
-**Sachbeihilfe** ist die themenoffene Einzelförderung — jederzeit einreichbar, ein bis drei Jahre Laufzeit (Verlängerung möglich), Module nach Bedarf kombinierbar. Die Mehrheit aller DFG-Anträge läuft hier.
+## Praktischer Tipp
 
-**Walter Benjamin** richtet sich an Postdocs in der frühen Phase, eigene Stelle plus Sachmittel, auch im Ausland.
+- **Personalmittelpauschale** abrufen statt selbst rechnen; DFG akzeptiert die eigenen Tabellenwerte. Eigene Berechnungen führen häufig zu Rückfragen.
+- **Programmpauschale**: nur bei Universitäten und vergleichbaren Einrichtungen, nicht bei reinen Forschungsinstituten (variiert). 22 % auf direkte Mittel ist regelmäßig pauschaler Aufschlag; die Einrichtung erhält ihn nicht zur Verfügung der Forschungsperson, sondern zur Deckung von Overhead.
+- **Geräte > 10.000 EUR**: Einzelbegründung muss enthalten: technische Anforderung, drei (Vergleichs-)Angebote, Mitnutzung anderer Forschender, Aufstellungsort, Wartung.
 
-**Emmy Noether** ist die Nachwuchsgruppenleitung für die frühe Postdoc-Phase — 6 Jahre, eigene Stelle plus Personal — verlangt aber besondere Selbstständigkeit und meist Auslandserfahrung.
+## Trade-off: Vollzeit-Postdoc vs. zwei Promovierende
 
-**Heisenberg-Programm** ist die Brücke nach der Habilitation bis zur Lebenszeitprofessur, 5 Jahre eigene Stelle plus Forschungsmittel.
+| Pfad | Vorteil | Nachteil |
+|---|---|---|
+| 1 x 100 % Postdoc | hohe Expertise, schnelle Ergebnisse | hohe Kosten, abhängig von einer Person |
+| 2 x 65 % Promovierende | Nachwuchsförderung, Risikodiversifikation | längere Einarbeitungszeit, weniger Output |
+| Mix (1 Postdoc + 1 Promovierende) | Skalierung, Mentoring | komplexere Personalführung |
 
-**Reinhart-Koselleck-Projekt** ist die Risiko-Vision-Schiene: 500.000 bis 1.250.000 Euro, 5 Jahre, in Stufen von 250.000 Euro, für herausragende Forschende mit besonders innovativen oder positiv risikobehafteten Vorhaben. Mehrere erfolgreich abgeschlossene DFG-Projekte sind ein starkes Praxisindiz für den nötigen Vertrauensvorschuss, aber nicht als starre formale Eingangsschwelle behaupten.
+Empfehlung: Vom Projektprofil abhängig - methodisch anspruchsvolle Pilotprojekte eher Postdoc; thematisch breite, mehrjährige Forschungsfragen eher mehrere Promovierende.
 
-**Schwerpunktprogramm (SPP)** und **Sonderforschungsbereich (SFB)** sind Verbundinstrumente mit langer Vorlaufzeit — eigenes Spielfeld, nicht durch diesen Skill abgedeckt.
+## Beispiel-Mustertext (Geräte-Einzelbegründung)
 
-## Praxisleitfaden
-
-**Begutachtungsdichte und Zeit zur Genehmigung.** Faustwerte aus der Praxis (Stand 2025/26, abhängig vom Fachkollegium):
-
-- Sachbeihilfe unter 200.000 Euro: 1 bis 2 Gutachten, Bescheid in 5 bis 7 Monaten.
-- Sachbeihilfe über 200.000 Euro: 2 bis 4 Gutachten, Bescheid in 6 bis 9 Monaten.
-- Koselleck: regelmäßig 3 bis 4 Gutachten plus Hauptausschuss-Logik, Bescheid in 9 bis 12 Monaten.
-- SPP-Initiierung: 12 bis 18 Monate Vorlauf bis Programmstart.
-- ENP-Einzelanträge (innerhalb SPP): typisch 6 Monate Bescheid.
-
-**Was schnelle Genehmigung produziert.** Programmroute matchen zur Projektreife. Wer eine Pilotstudie und zwei referierte Vorarbeiten hat, soll keinen Koselleck-Antrag stellen — die Begutachter erwarten dort etablierte Spitzenposition. Wer dagegen vier hochrangige Vorarbeiten und eine prüfbare Großthese hat, der sollte nicht in der schmalen Sachbeihilfe verkrümmen.
-
-**Was Reviewer triggert beim Programm-Mismatch.** "Antrag passt eher in [anderes Programm]" — fatal, der Antrag wandert nicht automatisch um. "Größenordnung nicht angemessen" — passiert, wenn 600.000-Euro-Sachbeihilfe ohne Großantragsbegründung kommt. "Antragsteller könnte Koselleck wählen" — wenn ein etablierter Profilantragsteller sich in die Sachbeihilfe quetscht, wirkt das wie Risikoaversion.
-
-**Schreiben passend zum Programm.** Sachbeihilfe verlangt ein **machbares** Arbeitsprogramm mit klar definierten Meilensteinen. Koselleck verlangt eine **Vision**, deren Machbarkeit nicht detailliert ausgewiesen sein muss — aber das Risiko muss produktiv beschrieben sein, nicht als Management-Risiko. Walter Benjamin verlangt ein **persönliches Entwicklungsnarrativ** — was lernt der Antragsteller, das ihm später hilft? Emmy Noether verlangt eine **Gruppen-Vision** — eigene Linie plus Nachwuchsführung.
-
-**Kürzungsrisiko-Logik.** Großanträge werden häufiger gekürzt als kleine. Wenn die Begutachter "im Prinzip ja, aber..." schreiben, kürzt der Hauptausschuss gerne 20 bis 40 Prozent — was beim Großantrag eine Stelle weniger bedeutet, beim Kleinantrag dagegen kaum spürbar ist. Daraus folgt: **Wenn eine Arbeitspaketstreichung tödlich wäre, ist der Antrag entweder zu groß angesetzt oder die Pakete sind nicht modular gedacht.**
-
-## Trade-off-Matrix
-
-| Trade-off | Pfad A | Pfad B | Empfehlung |
-| --- | --- | --- | --- |
-| Schnell vs. groß | Sachbeihilfe unter 200k, 1 Gutachten möglich | Sachbeihilfe über 200k oder Koselleck | Bei DFG-Erstantrag Pfad A; nach erstem Erfolg Pfad B |
-| Programm-Karrierestand-Match | Sachbeihilfe (jeder mit Promotion) | Karriereprogramm (Walter Benjamin, Emmy Noether, Heisenberg, Koselleck) | Match exakt prüfen — Programmverwechslung kostet Monate |
-| Solo vs. SPP-Andocken | Einzelantrag Sachbeihilfe | SPP-Einzelantrag (ENP) | Wenn passendes SPP läuft, Andocken — bessere Begutachtungs-Logik |
-| Erstantrag vs. Großvision | Erstantrag schlank | Vision-Antrag groß | Vor erstem DFG-Erfolg keinen Koselleck |
-| Großantrag jetzt vs. zwei kleine | Ein 800k-Antrag | Zwei aufeinanderfolgende 300k-Anträge | Bei methodischer Stufung zwei kleine — bessere Lernkurve und Resilienz |
-
-## Entscheidungsmotor
-
-Wenn die Nutzerseite mehrere Wege will, immer drei Varianten nebeneinanderlegen:
-
-| Variante | Frage | Typischer Nutzen |
-| --- | --- | --- |
-| **Minimal förderfähig** | Was ist die kleinste wissenschaftlich ehrliche Antwort? | schnell, kürzungsfest, gut für Erstantrag |
-| **Optimal wissenschaftlich** | Was wäre fachlich am stärksten, wenn Zeit und Profil reichen? | besserer Erkenntnisgewinn, mehr Risiko |
-| **Prestige / Vision** | Ist das Vorhaben wirklich jenseits normaler Planung? | Koselleck/SPP/SFB nur bei Profil und Vorlauf |
-
-Danach eine klare Empfehlung ausgeben, nicht alle Wege gleichwertig nebeneinander stehen lassen. Wenn ein Weg eitel, aber unklug ist, höflich klar sagen.
-
-## Schritt für Schritt
-
-1. **Karrierestand und Vorprojekte erfassen.** GEPRIS-Suche nach allen DFG-Vorhaben des Antragstellers.
-2. **Projektreife einstufen:** Pilot, einschlägige Publikation, Spitzenpublikation.
-3. **Minimal- und Idealvariante rechnen.** Was kostet die Antwort auf die Kernfrage minimal? Was wäre ideal?
-4. **Programmroute matchen** mit der Trade-off-Matrix.
-5. **Begutachtungsdichte und Zeit zum Bescheid budgetieren.** Stellt der Antragsteller die Stelle in 6 Monaten an? Dann Pfad A.
-6. **Empfehlung mit drei Alternativen ausformulieren** (siehe Output unten).
-7. **Vor Einreichung: Telefonat mit DFG-Geschäftsstelle** durch Antragsteller, nicht durch Sie.
-
-## Mustertexte / Vorlagen
-
-**Routing-Empfehlung an Antragsteller** (Vorlage):
-
-> "Nach Sichtung Ihres Profils [drei Sätze Profil: Karrierestand, Vorarbeiten, Methodenstärke] empfehle ich folgende Förderstrategie:
->
-> **Empfehlung A (schnellster tragfähiger Weg):** Sachbeihilfe mit Volumen [Zahl] Euro, 3 Jahre, Begutachtung absehbar [Monate]. Risiko: gering, Kürzungstoleranz: hoch.
->
-> **Empfehlung B (wissenschaftlich ideale Ausbaustufe):** [Sachbeihilfe größer / Koselleck / SPP-Andocken] mit Volumen [Zahl] Euro, [Laufzeit]. Voraussetzung: [zusätzliche Vorarbeit / zweites Drittmittelprojekt / Beratungsschleife mit Geschäftsstelle].
->
-> **Empfehlung C (was wir gerade nicht tun):** [Großantrag / Koselleck], weil [Profilstärke / Vorarbeitenlage / fehlende Vorprojekte] aktuell gegen Vertrauensvorschuss spricht.
->
-> Vorgehensvorschlag: Wir starten Pfad A in den nächsten 10 Arbeitstagen — Skizze, dann Volltext. Falls Sie auf Pfad B drängen, lege ich die Risikoampel offen."
-
-**Begutachtungsrisiko-Ampel:**
-
-| Aspekt | Grün | Gelb | Rot |
-| --- | --- | --- | --- |
-| Vorarbeiten-Match | drei einschlägige Volltexte | zwei Volltexte | nur Konferenzbeiträge |
-| Profil-Programm-Match | klar | grenzwertig | Programmverwechslung |
-| Budgetlogik | jede Position AP-funktional | eine bis zwei Positionen weich | Wunschliste sichtbar |
-| Methodik | Triangulation begründet | Single-Method nicht begründet | Methode nicht spezifiziert |
+> Für die Durchführung des Vorhabens wird ein [Gerätetyp, Modell] mit einem Anschaffungswert von EUR [...] netto benötigt. Das Gerät dient [konkreter Methodenschritt, z. B. "der Quantifizierung von X-Konzentrationen im Bereich Y nmol/L"]. Eine Nutzung vorhandener Geräte der Einrichtung ist nicht möglich, weil [konkrete technische Begründung]. Drei Vergleichsangebote (Anlage [n], [n+1], [n+2]) wurden eingeholt; gewählt wird das Angebot der Firma [...] aufgrund [Spezifikation, Preis-Leistung]. Das Gerät wird in [Räumlichkeit] aufgestellt und steht nach Projektende weiteren Nutzern der Einrichtung zur Verfügung.
 
 ## Typische Fehler
 
-- "Lieber gleich groß beantragen, dann hat man Puffer für Kürzung" — Reviewer erkennen das und kürzen stärker.
-- Koselleck als "größere Sachbeihilfe" verkaufen — Begutachter merken sofort, ob das echte Risiko-Vision-Vorhaben ist oder nur ein normales Großprojekt mit Etikett.
-- Walter Benjamin und Emmy Noether parallel beantragen — gilt als unklare Karriereplanung.
-- SPP-Andocken ignorieren, obwohl ein passendes Programm läuft — Reviewer fragen explizit nach.
-- "Wir warten auf den nächsten Hauptausschuss" — Sachbeihilfe ist jederzeit einreichbar, das Warten kostet Monate.
-
-## Quellen Stand 05/2026
-
-- DFG-Programmübersicht (Einzelförderung): dfg.de
-- DFG-FAQ Begutachtung (Schwellen-Logik 200k): dfg.de
-- DFG-Hinweise Antragstellung: dfg.de
-- Reinhart-Koselleck-Seite: dfg.de
-- GEPRIS für Karrierestand-Kalibrierung: gepris.dfg.de
-
-Alle Schwellen und Programmregeln **live** an der DFG-Seite zum Einreichtag prüfen — Verfahrensregeln ändern sich.
+- Personalmittel zu konkret beziffert ("Postdoc Frau X, TV-L E 13"), statt die DFG-Pauschalen zu nutzen - bei Mitarbeiter-Wechsel Anpassungsbedarf.
+- Geräteanschaffung ohne Verfügbarkeitsprüfung vorhandener Geräte; Reviewer schlagen "Mitnutzung" vor und kürzen.
+- Programmpauschale fehlt oder ist falsch berechnet.
 
 ---
 
-## Skill: `anfaenger-risikoampel-gegenargumente`
+## Skill: `fuehrung-schriftsatz-brief-und-memo-bausteine`
 
-_Wenn es um Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfaenger Risikoampel Gegenargumente; Arbeitsfeld: DFG-Förderantrag._
+_Für Führung: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: DFG-Förderantrag. Route: fuehrung-schriftsatz-brief-und-memo-bausteine._
 
-# Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien
+# Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Regelungs- und Quellenanker
 
-Arbeitsfokus: **Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
 - `Art. 91b Abs. 1 GG` — Forschungsförderung im Bund-Länder-System.
@@ -746,94 +675,6 @@ Arbeitsfokus: **Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien**
 - `DFG-Kodex Leitlinie 1` — Redlichkeit.
 - `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
 - `DFG-Kodex Leitlinie 14` — Autorschaft.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** DFG, KI.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Anfaenger** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `sachbeihilfe-fristen-form-zustaendigkeit`
-
-_Wenn es um Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sachbeihilfe Fristen Form Zuständigkeit; Arbeitsfeld: DFG-Förderantrag._
-
-# Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg
-
-## Regelungs- und Quellenanker
-
-Arbeitsfokus: **Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
-
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 91b Abs. 1 GG` — Forschungsförderung im Bund-Länder-System.
-- `§ 23 BHO` — Zuwendungsvoraussetzungen.
-- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Prüfung.
-- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
-- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
-- `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
-- `DFG-Kodex Leitlinie 1` — Redlichkeit.
-- `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
-- `DFG-Kodex Leitlinie 14` — Autorschaft.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Normen-/Quellenanker:** DFG, KI.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Sachbeihilfe** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `internationale-kooperation-ki-ethik-kollegen`
-
-_Wenn es um DFG: Internationale Kooperation in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Internationale Kooperation Ki Ethik Kollegen; Arbeitsfeld: DFG-Förderantrag._
-
-# DFG: Internationale Kooperation
-
-## Regelungs- und Quellenanker
-
-Arbeitsfokus: **DFG: Internationale Kooperation**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
-
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Ausgangspunkt.
-- `Art. 89 Abs. 1 DSGVO` — Garantien für wissenschaftliche Forschungszwecke.
-- `Art. 9 Abs. 2 lit. j DSGVO` — besondere Kategorien personenbezogener Daten in Forschungskontexten.
-- `§ 27 Abs. 1 BDSG` — Datenverarbeitung zu wissenschaftlichen Forschungszwecken.
-- `§ 7 Abs. 1 TierSchG` — Tierversuche nur bei gesetzlich anerkanntem Zweck und Erforderlichkeit.
-- `§ 8 Abs. 1 TierSchG` — Genehmigungspflichtiger Tierversuch.
-- `§ 69a UrhG` — Computerprogramme als Schutzgegenstand bei Forschungssoftware.
-- `DFG-Kodex Leitlinie 10` — rechtliche und ethische Rahmenbedingungen.
-- `DFG-Kodex Leitlinie 13` — Herstellung von öffentlichem Zugang zu Forschungsergebnissen.
-- `DFG-Kodex Leitlinie 14` — Autorschaft und Verantwortung.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -845,174 +686,36 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Principal Investigator), DFG-Fachkollegien, DFG-Geschäftsstelle, Hochschulverwaltung/Forschungsreferat, BMBF/BMWK, Gutachter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Antragsformular elan, Projektbeschreibung, Lebenslauf mit Publikationsliste, Finanzplan, Letter of Intent, Verwendungsnachweis, Zwischenbericht, Abschlussbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: DFG: Internationale Kooperation
-- **Normen-/Quellenanker:** DFG, CH, DACH, SNF, FWF, NSF, JSPS, ISF, NSFC.
+## Spezialwissen: Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine
+- **Normen-/Quellenanker:** DFG, KI.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Fuehrung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `dfg-foerderstrategie-schnell-oder-gross`
+## Skill: `erstantrag-projektlogik`
 
-_Wenn es um DFG-Förderstrategie: schnell, schlank oder groß? in DFG-Förderantrag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Dfg Foerderstrategie Schnell Oder Gross; Arbeitsfeld: DFG-Förderantrag._
+_Für Förderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: DFG-Förderantrag. Route: erstantrag-projektlogik._
 
-# DFG-Förderstrategie: schnell, schlank oder groß?
-
-## Worum geht es
-
-Dieser Skill verhindert den typischen Erstantragsfehler, aus jedem guten Forschungsprojekt sofort einen zu großen Antrag zu machen. Er liefert die strategische Wegentscheidung: Welche Programmschiene passt zur Projektreife, zum Karrierestand und zum Zeithorizont? Was ist der schnellste belastbare Förderweg, der wissenschaftlich nicht zu klein denkt?
-
-**Alte-Hasen-Faustregel:** Der Spatz in der Hand ist die schnelle Sachbeihilfe mit klarer Kernfrage. Die Taube auf dem Dach ist der Großantrag, der nach 9 Monaten gekürzt zurückkommt oder ganz scheitert. Wer DFG-frisch ist, sollte zunächst eine bewilligte Sachbeihilfe vorweisen können, bevor er Koselleck oder SPP-Initiierung anstrebt.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-Sie brauchen diesen Skill, wenn die Programmroute noch offen ist, wenn der Antragsteller schwankt zwischen "kleinem schnellen Antrag" und "großem Wurf", oder wenn das Vorhaben zu groß für Sachbeihilfe und zu wenig visionär für Koselleck wirkt.
-
-Kaltstartfragen:
-
-1. **Karrierestand exakt:** Promotionsjahr, Habilitationsstand, Berufung, frühere DFG-Bewilligungen.
-2. **Projektreife:** Wie viele referierte Vorarbeiten zur Frage gibt es bereits? Stand 0, Stand "Pilot vorhanden", Stand "in einschlägigen Journalen publiziert"?
-3. **Geldbedarf realistisch:** Welche Summe reicht für eine publikationsfähige Antwort (Minimalvariante)? Was ist die Ausbauvariante?
-4. **Zeitdruck:** Stelle läuft aus? Datenfenster? Gerätebeschaffung?
-5. **Profilstärke:** Wie sieht der Track Record im Verhältnis zur eingespielten Konkurrenz im Fach aus?
-
-## Programm- bzw. Sachrahmen
-
-**Sachbeihilfe** ist die themenoffene Einzelförderung — jederzeit einreichbar, ein bis drei Jahre Laufzeit (Verlängerung möglich), Module nach Bedarf kombinierbar. Die Mehrheit aller DFG-Anträge läuft hier.
-
-**Walter Benjamin** richtet sich an Postdocs in der frühen Phase, eigene Stelle plus Sachmittel, auch im Ausland.
-
-**Emmy Noether** ist die Nachwuchsgruppenleitung für die frühe Postdoc-Phase — 6 Jahre, eigene Stelle plus Personal — verlangt aber besondere Selbstständigkeit und meist Auslandserfahrung.
-
-**Heisenberg-Programm** ist die Brücke nach der Habilitation bis zur Lebenszeitprofessur, 5 Jahre eigene Stelle plus Forschungsmittel.
-
-**Reinhart-Koselleck-Projekt** ist die Risiko-Vision-Schiene: 500.000 bis 1.250.000 Euro, 5 Jahre, in Stufen von 250.000 Euro, für herausragende Forschende mit besonders innovativen oder positiv risikobehafteten Vorhaben. Mehrere erfolgreich abgeschlossene DFG-Projekte sind ein starkes Praxisindiz für den nötigen Vertrauensvorschuss, aber nicht als starre formale Eingangsschwelle behaupten.
-
-**Schwerpunktprogramm (SPP)** und **Sonderforschungsbereich (SFB)** sind Verbundinstrumente mit langer Vorlaufzeit — eigenes Spielfeld, nicht durch diesen Skill abgedeckt.
-
-## Praxisleitfaden
-
-**Begutachtungsdichte und Zeit zur Genehmigung.** Faustwerte aus der Praxis (Stand 2025/26, abhängig vom Fachkollegium):
-
-- Sachbeihilfe unter 200.000 Euro: 1 bis 2 Gutachten, Bescheid in 5 bis 7 Monaten.
-- Sachbeihilfe über 200.000 Euro: 2 bis 4 Gutachten, Bescheid in 6 bis 9 Monaten.
-- Koselleck: regelmäßig 3 bis 4 Gutachten plus Hauptausschuss-Logik, Bescheid in 9 bis 12 Monaten.
-- SPP-Initiierung: 12 bis 18 Monate Vorlauf bis Programmstart.
-- ENP-Einzelanträge (innerhalb SPP): typisch 6 Monate Bescheid.
-
-**Was schnelle Genehmigung produziert.** Programmroute matchen zur Projektreife. Wer eine Pilotstudie und zwei referierte Vorarbeiten hat, soll keinen Koselleck-Antrag stellen — die Begutachter erwarten dort etablierte Spitzenposition. Wer dagegen vier hochrangige Vorarbeiten und eine prüfbare Großthese hat, der sollte nicht in der schmalen Sachbeihilfe verkrümmen.
-
-**Was Reviewer triggert beim Programm-Mismatch.** "Antrag passt eher in [anderes Programm]" — fatal, der Antrag wandert nicht automatisch um. "Größenordnung nicht angemessen" — passiert, wenn 600.000-Euro-Sachbeihilfe ohne Großantragsbegründung kommt. "Antragsteller könnte Koselleck wählen" — wenn ein etablierter Profilantragsteller sich in die Sachbeihilfe quetscht, wirkt das wie Risikoaversion.
-
-**Schreiben passend zum Programm.** Sachbeihilfe verlangt ein **machbares** Arbeitsprogramm mit klar definierten Meilensteinen. Koselleck verlangt eine **Vision**, deren Machbarkeit nicht detailliert ausgewiesen sein muss — aber das Risiko muss produktiv beschrieben sein, nicht als Management-Risiko. Walter Benjamin verlangt ein **persönliches Entwicklungsnarrativ** — was lernt der Antragsteller, das ihm später hilft? Emmy Noether verlangt eine **Gruppen-Vision** — eigene Linie plus Nachwuchsführung.
-
-**Kürzungsrisiko-Logik.** Großanträge werden häufiger gekürzt als kleine. Wenn die Begutachter "im Prinzip ja, aber..." schreiben, kürzt der Hauptausschuss gerne 20 bis 40 Prozent — was beim Großantrag eine Stelle weniger bedeutet, beim Kleinantrag dagegen kaum spürbar ist. Daraus folgt: **Wenn eine Arbeitspaketstreichung tödlich wäre, ist der Antrag entweder zu groß angesetzt oder die Pakete sind nicht modular gedacht.**
-
-## Trade-off-Matrix
-
-| Trade-off | Pfad A | Pfad B | Empfehlung |
-| --- | --- | --- | --- |
-| Schnell vs. groß | Sachbeihilfe unter 200k, 1 Gutachten möglich | Sachbeihilfe über 200k oder Koselleck | Bei DFG-Erstantrag Pfad A; nach erstem Erfolg Pfad B |
-| Programm-Karrierestand-Match | Sachbeihilfe (jeder mit Promotion) | Karriereprogramm (Walter Benjamin, Emmy Noether, Heisenberg, Koselleck) | Match exakt prüfen — Programmverwechslung kostet Monate |
-| Solo vs. SPP-Andocken | Einzelantrag Sachbeihilfe | SPP-Einzelantrag (ENP) | Wenn passendes SPP läuft, Andocken — bessere Begutachtungs-Logik |
-| Erstantrag vs. Großvision | Erstantrag schlank | Vision-Antrag groß | Vor erstem DFG-Erfolg keinen Koselleck |
-| Großantrag jetzt vs. zwei kleine | Ein 800k-Antrag | Zwei aufeinanderfolgende 300k-Anträge | Bei methodischer Stufung zwei kleine — bessere Lernkurve und Resilienz |
-
-## Entscheidungsmotor
-
-Wenn die Nutzerseite mehrere Wege will, immer drei Varianten nebeneinanderlegen:
-
-| Variante | Frage | Typischer Nutzen |
-| --- | --- | --- |
-| **Minimal förderfähig** | Was ist die kleinste wissenschaftlich ehrliche Antwort? | schnell, kürzungsfest, gut für Erstantrag |
-| **Optimal wissenschaftlich** | Was wäre fachlich am stärksten, wenn Zeit und Profil reichen? | besserer Erkenntnisgewinn, mehr Risiko |
-| **Prestige / Vision** | Ist das Vorhaben wirklich jenseits normaler Planung? | Koselleck/SPP/SFB nur bei Profil und Vorlauf |
-
-Danach eine klare Empfehlung ausgeben, nicht alle Wege gleichwertig nebeneinander stehen lassen. Wenn ein Weg eitel, aber unklug ist, höflich klar sagen.
-
-## Schritt für Schritt
-
-1. **Karrierestand und Vorprojekte erfassen.** GEPRIS-Suche nach allen DFG-Vorhaben des Antragstellers.
-2. **Projektreife einstufen:** Pilot, einschlägige Publikation, Spitzenpublikation.
-3. **Minimal- und Idealvariante rechnen.** Was kostet die Antwort auf die Kernfrage minimal? Was wäre ideal?
-4. **Programmroute matchen** mit der Trade-off-Matrix.
-5. **Begutachtungsdichte und Zeit zum Bescheid budgetieren.** Stellt der Antragsteller die Stelle in 6 Monaten an? Dann Pfad A.
-6. **Empfehlung mit drei Alternativen ausformulieren** (siehe Output unten).
-7. **Vor Einreichung: Telefonat mit DFG-Geschäftsstelle** durch Antragsteller, nicht durch Sie.
-
-## Mustertexte / Vorlagen
-
-**Routing-Empfehlung an Antragsteller** (Vorlage):
-
-> "Nach Sichtung Ihres Profils [drei Sätze Profil: Karrierestand, Vorarbeiten, Methodenstärke] empfehle ich folgende Förderstrategie:
->
-> **Empfehlung A (schnellster tragfähiger Weg):** Sachbeihilfe mit Volumen [Zahl] Euro, 3 Jahre, Begutachtung absehbar [Monate]. Risiko: gering, Kürzungstoleranz: hoch.
->
-> **Empfehlung B (wissenschaftlich ideale Ausbaustufe):** [Sachbeihilfe größer / Koselleck / SPP-Andocken] mit Volumen [Zahl] Euro, [Laufzeit]. Voraussetzung: [zusätzliche Vorarbeit / zweites Drittmittelprojekt / Beratungsschleife mit Geschäftsstelle].
->
-> **Empfehlung C (was wir gerade nicht tun):** [Großantrag / Koselleck], weil [Profilstärke / Vorarbeitenlage / fehlende Vorprojekte] aktuell gegen Vertrauensvorschuss spricht.
->
-> Vorgehensvorschlag: Wir starten Pfad A in den nächsten 10 Arbeitstagen — Skizze, dann Volltext. Falls Sie auf Pfad B drängen, lege ich die Risikoampel offen."
-
-**Begutachtungsrisiko-Ampel:**
-
-| Aspekt | Grün | Gelb | Rot |
-| --- | --- | --- | --- |
-| Vorarbeiten-Match | drei einschlägige Volltexte | zwei Volltexte | nur Konferenzbeiträge |
-| Profil-Programm-Match | klar | grenzwertig | Programmverwechslung |
-| Budgetlogik | jede Position AP-funktional | eine bis zwei Positionen weich | Wunschliste sichtbar |
-| Methodik | Triangulation begründet | Single-Method nicht begründet | Methode nicht spezifiziert |
-
-## Typische Fehler
-
-- "Lieber gleich groß beantragen, dann hat man Puffer für Kürzung" — Reviewer erkennen das und kürzen stärker.
-- Koselleck als "größere Sachbeihilfe" verkaufen — Begutachter merken sofort, ob das echte Risiko-Vision-Vorhaben ist oder nur ein normales Großprojekt mit Etikett.
-- Walter Benjamin und Emmy Noether parallel beantragen — gilt als unklare Karriereplanung.
-- SPP-Andocken ignorieren, obwohl ein passendes Programm läuft — Reviewer fragen explizit nach.
-- "Wir warten auf den nächsten Hauptausschuss" — Sachbeihilfe ist jederzeit einreichbar, das Warten kostet Monate.
+# Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Regelungs- und Quellenanker
 
-Arbeitsfokus: **DFG-Förderstrategie: schnell, schlank oder groß?**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
 - `Art. 91b Abs. 1 GG` — Forschungsförderung im Bund-Länder-System.
@@ -1027,15 +730,205 @@ Arbeitsfokus: **DFG-Förderstrategie: schnell, schlank oder groß?**. Prüfe die
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Quellen Stand 05/2026
+## Spezialwissen: Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage
+- **Normen-/Quellenanker:** DFG, KI.
 
-- DFG-Programmübersicht (Einzelförderung): dfg.de
-- DFG-FAQ Begutachtung (Schwellen-Logik 200k): dfg.de
-- DFG-Hinweise Antragstellung: dfg.de
-- Reinhart-Koselleck-Seite: dfg.de
-- GEPRIS für Karrierestand-Kalibrierung: gepris.dfg.de
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-Alle Schwellen und Programmregeln **live** an der DFG-Seite zum Einreichtag prüfen — Verfahrensregeln ändern sich.
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Foerderantragssteller** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Antragsberechtigte: zentrale Tatbestandsmerkmale
+
+| Merkmal | Nachweis | Häufige Fragen |
+|---|---|---|
+| Promotion abgeschlossen | Promotionsurkunde, Lebenslauf | bei kurz nach Abschluss: 2-Jahre-Frist Walter Benjamin |
+| Tätigkeit an Forschungseinrichtung in Deutschland | Anstellungsnachweis, Affiliation | reine Gastaufenthalte begründungsbedürftig |
+| Eigenständige Forschung | Publikationsliste, Lebenslauf | DFG-Definition vs. Habilitationsschrift |
+| Nicht Grundausstattung | Funktionsbeschreibung der Stelle | reine Daueraufgabe ist nicht förderfähig |
+| Keine Doppelförderung | Drittmittelverzeichnis | mehrere Drittmittel zum gleichen Vorhaben sind auszuschließen |
+
+## Wichtige DFG-Quellen
+
+- **DFG-Verfahrensordnung** (vor Ausgabe live auf dfg.de verifizieren): regelt Antragsberechtigung, Begutachtung, Förderzusage, Widerspruch.
+- **Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis"** (2022): jede antragstellende Forschungsperson hat ihn einzuhalten und das in der Forschungseinrichtung implementierte Verfahren zu beachten.
+- **DFG-Vordruck 1.02** (Leitfaden für die Antragstellung Sachbeihilfen): formale Struktur, Anlagen.
+
+## Praktischer Tipp
+
+- "Eigenständige Forschung" ist nicht identisch mit "Habilitation". DFG erkennt eine eigenständige Forschungspersönlichkeit auch ohne Habilitation an, wenn Publikationsliste, Drittmitteleinwerbung oder vergleichbare Indikatoren das belegen. Habilitierte sind aber regelmäßig im Vorteil bei Reviewer-Bewertung.
+- Lebenslauf-Schwerpunkt auf die letzten 5 Jahre setzen, frühere Stationen knapp. DFG-Vorgabe: max. 3 Seiten - das ist eine harte Grenze.
+- Publikationsliste: max. 10 "wichtigste" Publikationen mit DOI; nicht die vollständige Publikationsliste anhängen. Auswahl mit Begründung der Relevanz für das Vorhaben empfehlenswert.
+
+## Beweislage / Anlagen für den Antrag
+
+- Promotionsurkunde / Habilitationsurkunde (Scan).
+- Lebenslauf (akademisch, max. 3 Seiten).
+- Publikationsliste (max. 10, mit DOI).
+- Ggf. Ethikvotum / Tierversuchsantrag (mit Aktenzeichen, Stelle).
+- Datenmanagementplan.
+- Letter of Intent ggf. von Kooperationspartnern (mit Unterschrift, Datum).
+- Drittmittelverzeichnis (laufende und beantragte).
+
+## Typische Fehler
+
+- Publikationsliste enthält 20+ Einträge - Verstoß gegen Vorgabe.
+- Lebenslauf 5 Seiten lang - formale Beanstandung.
+- Drittmittelverzeichnis unvollständig - Vertrauensbruch bei späterer Aufdeckung von Doppelförderung; DFG-Kodex-Verstoß möglich.
+- Letter of Intent ohne konkrete Verpflichtungserklärung des Kooperationspartners ("wir würden gerne kooperieren" reicht nicht).
+
+---
+
+## Skill: `koselleck-mehrparteien-konflikt-und-interessen`
+
+_Für Koselleck: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: DFG-Förderantrag. Route: koselleck-mehrparteien-konflikt-und-interessen._
+
+# Koselleck: Mehrparteienkonflikt und Interessenmatrix
+
+## Regelungs- und Quellenanker
+
+Arbeitsfokus: **Koselleck: Mehrparteienkonflikt und Interessenmatrix**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 91b Abs. 1 GG` — Forschungsförderung im Bund-Länder-System.
+- `§ 23 BHO` — Zuwendungsvoraussetzungen.
+- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Prüfung.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
+- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
+- `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
+- `DFG-Kodex Leitlinie 1` — Redlichkeit.
+- `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
+- `DFG-Kodex Leitlinie 14` — Autorschaft.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DFG-Antragsfristen programmspezifisch (Sachbeihilfe rollierend, Schwerpunktprogramme stichtagsgebunden), Verwendungsnachweis 6 Monate nach Projektende, Zwischenbericht jährlich.
+- Tragende Normen verifizieren: DFG-Verwendungsrichtlinien, BGB §§ 611 ff. (Drittmittelvertrag), HRG/Landeshochschulgesetze, WissZeitVG, EU-Beihilferecht (Forschung), BMBF/BMWK-Förderrichtlinien, DFG-Kodex Leitlinien zur Sicherung guter wissenschaftlicher Praxis — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Principal Investigator), DFG-Fachkollegien, DFG-Geschäftsstelle, Hochschulverwaltung/Forschungsreferat, BMBF/BMWK, Gutachter.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Antragsformular elan, Projektbeschreibung, Lebenslauf mit Publikationsliste, Finanzplan, Letter of Intent, Verwendungsnachweis, Zwischenbericht, Abschlussbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Koselleck: Mehrparteienkonflikt und Interessenmatrix
+- **Normen-/Quellenanker:** DFG, KI.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Koselleck** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Reinhart Koselleck-Programm: Eckdaten (vor Ausgabe live auf dfg.de/koselleck verifizieren)
+
+- Zweck: **innovative, im positiven Sinne risikobehaftete Forschung von ausgewiesenen Forschenden**, die andere Förderlinien strukturell nicht zulassen.
+- Antragsberechtigte: nachweislich exzellent ausgewiesene, eigenverantwortlich forschende Personen mit etablierter Position.
+- Antragsumfang: typisch bis zu 1,25 Mio. EUR (vor Ausgabe verifizieren).
+- Laufzeit: bis zu 5 Jahre.
+- Sehr niedrige Erfolgsquote, Bewertung stark auf Person + Vision.
+
+## Mehrparteien-Konstellation Koselleck (Forschungseinrichtung, Mitanträger, Kooperationspartner)
+
+| Rolle | Verantwortung | Risiko |
+|---|---|---|
+| Antragsteller (PI) | inhaltliche Leitung, Antragstellung | Person muss "Koselleck-würdig" sein |
+| Forschungseinrichtung | Anstellung, Mitzeichnung, Infrastruktur | Interessenkonflikt bei Mehrfachverwendung Personal |
+| Kooperationspartner (national) | Letter of Intent, ggf. Mitnutzung | unklare Rollenabgrenzung kann zur Doppelförderungs-Frage werden |
+| Kooperationspartner (international) | Letter of Intent, eigene Finanzierung | DFG fördert nur deutschen Anteil; ausländische Mittel separat |
+| Industrie-Partner | nur bei Eigenfinanzierung relevant | Drittmittel von Industrie offenlegen, Interessenkonflikt-Erklärung |
+
+## Norm-/Quellenbezug konkret
+
+- DFG-Vordruck 50.05 (oder Folgevordruck) zur Antragstellung Koselleck-Projekt.
+- DFG-Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis" 2022, insbesondere Leitlinie 7 (Phasen der Forschung) und 12-15 (Verantwortlichkeiten).
+- DFG-Verfahrensordnung (zu Befangenheit, Interessenkonflikte Gutachter).
+
+## Praktischer Tipp
+
+- Koselleck-Vision **nicht** in den Antrag schreiben als "wir wissen schon, wie es ausgeht". Der Kern des Programms ist das echte Risiko der Forschung. Reviewer suchen nach: ungewöhnlicher Frage, eigenständigem Methodenmix, Pivotfähigkeit.
+- Person-Kapitel des Antrags ist regelmäßig wichtiger als der Inhalt: Lebenslauf, Drittmitteleinwerbung, Mentorate, Auszeichnungen. Wer keine starke Spur hat, sollte Reinhart Koselleck nicht beantragen.
+- Kooperationen klar abgrenzen: was zum geförderten Vorhaben gehört (geförderter Personalkörper, Geräte) vs. was Kooperationspartner bereits aus eigener Finanzierung beitragen. Sonst Doppelförderungs-Vorwurf.
+
+## Trade-off: Reinhart Koselleck vs. Sachbeihilfe + größeren Antrag
+
+| Pfad | Vorteil | Nachteil |
+|---|---|---|
+| Reinhart Koselleck | hohe Summe, lange Laufzeit, Reputation | geringe Erfolgsquote, Mündlichkeit über Person |
+| 2-3 sequentielle Sachbeihilfen | höhere Erfolgsquote pro Antrag, ggf. mehr Volumen kumuliert | mehr Antragsschreiben-Aufwand |
+| SFB / SPP-Teilprojekt | strukturierte Förderung, Bundesweite Vernetzung | nur als Teilbaustein in größerem Verbund |
+
+Empfehlung: Reinhart Koselleck nur, wenn die Person bereits 2-3 erfolgreiche Sachbeihilfen + sichtbare Reputation hat.
+
+## Typische Fehler
+
+- Koselleck-Antrag von Nachwuchsforschenden ohne nachgewiesenes Risikoforschungsprofil - keine Chance.
+- "Risiko" wird als methodisches Risiko (Pilotcharakter, Rohdaten) dargestellt statt als inhaltliches Hypothesenrisiko.
+- Kooperationen werden nicht klar abgegrenzt; DFG vermutet Doppelförderung.
+
+---
+
+## Skill: `fuehrung-schriftsatz-brief-memo-bausteine`
+
+_Für Führung: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: DFG-Förderantrag. Route: fuehrung-schriftsatz-brief-memo-bausteine._
+
+# Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine
+
+## Regelungs- und Quellenanker
+
+Arbeitsfokus: **Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 91b Abs. 1 GG` — Forschungsförderung im Bund-Länder-System.
+- `§ 23 BHO` — Zuwendungsvoraussetzungen.
+- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Prüfung.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
+- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
+- `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
+- `DFG-Kodex Leitlinie 1` — Redlichkeit.
+- `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
+- `DFG-Kodex Leitlinie 14` — Autorschaft.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine
+- **Normen-/Quellenanker:** DFG, KI.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Fuehrung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: respektvolle-rueckfragen
-description: "Wenn es um Respektvolle Rueckfragen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Respektvolle Rückfragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Respektvolle Rueckfragen

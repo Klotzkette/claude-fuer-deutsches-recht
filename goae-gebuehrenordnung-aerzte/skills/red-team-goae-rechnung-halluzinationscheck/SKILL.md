@@ -1,6 +1,6 @@
 ---
 name: red-team-goae-rechnung-halluzinationscheck
-description: "Wenn es um Red-Team GOÄ Rechnung Halluzinationscheck in GOÄ Gebührenordnung für Ärzte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team GOÄ Rechnung Halluzinationscheck: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team GOÄ Rechnung Halluzinationscheck

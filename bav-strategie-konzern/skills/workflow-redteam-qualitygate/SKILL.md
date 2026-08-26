@@ -1,6 +1,6 @@
 ---
 name: workflow-redteam-qualitygate
-description: "Wenn es um Red-Team Qualitygate in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte."
 ---
 
 # Red-Team Qualitygate

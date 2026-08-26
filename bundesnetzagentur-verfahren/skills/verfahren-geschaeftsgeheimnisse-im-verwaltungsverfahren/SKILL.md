@@ -1,6 +1,6 @@
 ---
 name: verfahren-geschaeftsgeheimnisse-im-verwaltungsverfahren
-description: "Wenn es um Verfahren: Geschäftsgeheimnisse im Verwaltungsverfahren in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verfahren: Geschäftsgeheimnisse im Verwaltungsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfahren: Geschäftsgeheimnisse im Verwaltungsverfahren

@@ -1,6 +1,6 @@
 ---
 name: abtretbarkeit-forderungen-abtretungsverbot
-description: "Wenn es um Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abtretbarkeit Forderungen § 398 BGB und Abtretungsverbote

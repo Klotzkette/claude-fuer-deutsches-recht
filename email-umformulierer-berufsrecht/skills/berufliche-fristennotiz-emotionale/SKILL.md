@@ -1,6 +1,6 @@
 ---
 name: berufliche-fristennotiz-emotionale
-description: "Wenn es um Berufliche: Fristennotiz und nächster Schritt in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Berufliche Fristennotiz Emotionale; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für Berufliche: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: E-Mail-Umformulierer. Route: berufliche-fristennotiz-emotionale."
 ---
 
 # Berufliche: Fristennotiz und nächster Schritt

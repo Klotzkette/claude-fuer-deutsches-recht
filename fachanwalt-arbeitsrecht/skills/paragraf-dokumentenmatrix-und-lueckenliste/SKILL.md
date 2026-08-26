@@ -1,6 +1,6 @@
 ---
 name: paragraf-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Paragraf Dokumentenmatrix Und Lückenliste in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paragraf Dokumentenmatrix und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Paragraf-Dokumentenmatrix und Lückenliste: für jeden Streitgegenstand die einschlägigen Normen, erforderlichen Dokumente und fehlenden Belege tabellarisch aufbereiten — Kündigung, Befristung, Abfindung, Vergütung, Betriebsrat, AGG.
@@ -115,3 +115,7 @@ Nach Ausfüllen der Matrix:
 ## Was dieser Arbeitsgang nicht macht
 - Keine automatische Dokument-Beschaffung; die Dokumentenbeschaffung bleibt beim Anwalt und Mandanten.
 - Keine abschließende Liste aller denkbaren Dokumente; jeder Fall erfordert individuelle Ergänzung.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-paragraf-dokumentenmatrix-und-lueckenliste` beziehungsweise Paragraf: Dokumentenmatrix, Lückenliste und Nachforderung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-paragraf-dokumentenmatrix-und-lueckenliste.md).

@@ -1,6 +1,6 @@
 ---
 name: output-anfechtungsklage-anfg
-description: "Wenn es um Output: Anfechtungsklage nach AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Output: Anfechtungsklage nach AnfG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Output: Anfechtungsklage nach AnfG

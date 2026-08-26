@@ -1,6 +1,6 @@
 ---
 name: fokus-compliance-dokumentation-und-akte
-description: "Wenn es um Fokus: Compliance-Dokumentation und Aktenvermerk in E-Mail-Umformulierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fokus: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: E-Mail-Umformulierer. Route: fokus-compliance-dokumentation-und-akte."
 ---
 
 # Fokus: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: procurement-legal-interface
-description: "Wenn es um Procurement Legal Interface in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Procurement Legal Interface: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Procurement Legal Interface

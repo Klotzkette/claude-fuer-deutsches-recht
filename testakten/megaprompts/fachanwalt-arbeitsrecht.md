@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 122 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-arbeitsrecht`.
+Diese Vollprüfung enthält top-8 von 106 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-arbeitsrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Arbeitsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
 2. **arbeitsgerichtliche-versandmappe-endfertigen** — Endfertigt Kündigungsschutzklage, Zahlungsklage, Klageerwiderung, Berufungs- oder Revisionsschrift im Arbeitsrecht: lies…
-3. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Arbeitsrecht in Fachanwalt Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlag…
-4. **fachanwalt-arbeitsrecht-orientierung** — Wenn es um Fachanwalt für Arbeitsrecht — Orientierung in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit,…
-5. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Recht…
-6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und…
-7. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pa…
-8. **homeoffice-kontrolle-arbeitnehmerdatenschutz** — Prüft digitale Leistungs- und Verhaltenskontrollen im Homeoffice: Weisungsrecht, Datenschutz, Verhältnismäßigkeit, Mitbe…
+3. **einstieg-routing** — Für Anwalts-Dashboard Fachanwalt Arbeitsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mi…
+4. **orientierung-mandat-fachanwaltschaft** — Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+5. **fachanwalt-arbeitsrecht-orientierung** — Für Fachanwalt für Arbeitsrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ris…
+6. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+7. **erstpruefung-und-mandatsziel** — Für Erstprüfung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsm…
+8. **v392-fachanwaltsblick-fachanwalt-arbeitsrecht** — Schaltet den fachanwaltlichen Arbeitsrechtsblick für Kündigung, Befristung, Vergütung, Arbeitszeit, Betriebsverfassung u…
 
 ---
 
@@ -143,7 +143,7 @@ Ausgangspunkt für dieses Plugin: Arbeitgeber für Vertragsbedingungen, Zeiterfa
 
 ## Skill: `arbeitsgerichtliche-versandmappe-endfertigen`
 
-_Endfertigt Kündigungsschutzklage, Zahlungsklage, Klageerwiderung, Berufungs- oder Revisionsschrift im Arbeitsrecht: liest die Mandatsakte zuerst, prüft Anträge und Dreiwochenfrist, ordnet Kündigung, Zugang, Vertrag, Betriebsratsanhörung, Sozialauswahl, Abrechnungen und Zeitnachweise den Beweisthemen zu und liefert eine formwirksame beA-Versandmappe mit fortgeführtem Anlagenkreis._
+_Endfertigt Kündigungsschutzklage, Zahlungsklage, Klageerwiderung, Berufungs- oder Revisionsschrift im Arbeitsrecht: liest die Mandatsakte zuerst, prüft Anträge und Dreiwochenfrist, ordnet Kündigung, Zugang, Vertrag, Betriebsratsanhörung, Sozialauswahl, Abrechnungen und Zeitnachweise den Beweisthemen zu und liefert eine formwirksame beA-Versandmappe mit._
 
 # Arbeitsgerichtliche Versandmappe endfertigen
 
@@ -177,7 +177,7 @@ Liefere Schriftsatz-PDF, Einzelanlagen, Anlagenverzeichnis, Antrags- und Betrags
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Anwalts-Dashboard Fachanwalt Arbeitsrecht in Fachanwalt Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Anwalts-Dashboard Fachanwalt Arbeitsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Anwalts-Dashboard Fachanwalt Arbeitsrecht
 
@@ -253,107 +253,9 @@ Drei aktuelle Leitentscheidungen, die über das Arbeitsrecht in den letzten zwoe
 
 ---
 
-## Skill: `fachanwalt-arbeitsrecht-orientierung`
-
-_Wenn es um Fachanwalt für Arbeitsrecht — Orientierung in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Fachanwalt für Arbeitsrecht — Orientierung
-
-## FAO-Voraussetzungen (Paragraf 10 FAO)
-
-- Lehrgang 120 Stunden + drei Klausuren.
-- 100 Fälle in den letzten drei Jahren aus dem Arbeitsrecht; davon mindestens 50 Mandate im Individualarbeitsrecht, mindestens 10 Mandate im Kollektivarbeitsrecht, mindestens 20 rechtsförmliche Verfahren.
-
-## Wichtige Normen
-
-| Bereich | Norm |
-|---|---|
-| Individualarbeitsrecht | BGB Paragrafen 611a ff. (Arbeitsvertrag); KSchG (Kündigungsschutz); BUrlG (Urlaub); EFZG (Entgeltfortzahlung); TzBfG (Teilzeit und Befristung); NachwG (Nachweisgesetz, idF Aug. 2022); MuSchG; BEEG; ArbZG; ArbStättV |
-| Kollektivarbeitsrecht | BetrVG (Betriebsverfassung); TVG (Tarifvertrag); MitbestG; DrittelbG; SprAuG |
-| Diskriminierung | AGG (Paragrafen 1, 7, 15) |
-| Arbeitsschutz | ArbSchG; ArbStättV; ArbMedVV |
-| Insolvenz | InsO Paragrafen 113, 125 ff. |
-| Verfahren | ArbGG (Arbeitsgerichtsgesetz) |
-| Internationale Bezüge | Rom I-VO; AEntG; AÜG |
-
-## Typische Mandate
-
-- Kündigungsschutzklage (Paragraf 4 KSchG).
-- Aufhebungsvertrag (Verhandlung, Sozialplan).
-- Befristungskontrollklage (Paragraf 17 TzBfG).
-- Sozialplan / Interessenausgleich nach Paragraf 112 BetrVG (Kollektivseite).
-- Betriebsratsanhörung nach Paragraf 102 BetrVG.
-- Zeugnisstreitigkeit (Paragraf 109 GewO).
-- AGG-Entschädigungsklage (Paragraf 15 AGG).
-- Lohn- und Gehaltsklage.
-- Mobbing und Schadensersatzklage (Paragraf 280 Abs. 1 BGB iVm Schutzpflicht Paragraf 241 Abs. 2 BGB).
-
-## Fristen (Auswahl)
-
-- **Kündigungsschutzklage** Paragraf 4 KSchG — drei Wochen ab Zugang der schriftlichen Kündigung.
-- **Befristungskontrollklage** Paragraf 17 TzBfG — drei Wochen nach vereinbartem Ende.
-- **AGG-Entschädigung** Paragraf 15 Abs. 4 AGG — schriftliche Geltendmachung binnen zwei Monaten; Klagefrist Paragraf 61b ArbGG drei Monate.
-- **Anhörung des Betriebsrats** Paragraf 102 BetrVG — eine Woche bei ordentlicher, drei Tage bei außerordentlicher Kündigung.
-- **Sozialplanverhandlungen** Paragraf 112 Abs. 2, 3 BetrVG — Einigungsstelle nach Scheitern.
-
-## Hauptgerichte
-
-- Arbeitsgericht (ArbG) — erste Instanz, Kammern.
-- Landesarbeitsgericht (LAG) — Berufungsinstanz.
-- Bundesarbeitsgericht (BAG) — Revisionsinstanz, Erfurt.
-- BVerfG bei Grundrechtsfragen.
-- EuGH bei unionsrechtlichen Fragen (Befristung, Arbeitszeit, Gleichbehandlung).
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Berufsverband
-
-- Arbeitsgemeinschaft Arbeitsrecht im DAV.
-
-## Schnittstellen
-
-- **`arbeitsrecht`** für operative Mandatsführung, Vorlagen.
-- **`kanzlei-allgemein`** für Fristen und Versand.
-- **`fachanwalt-sozialrecht`** bei Schnittstellen zur Arbeitslosenversicherung und Sperrzeit.
-- **`fachanwalt-insolvenz-sanierungsrecht`** bei Betriebsübergang Paragraf 613a BGB und Insolvenz.
-
-## Aktuelle Rechtsprechung - Ueberblick wichtiger Leitentscheidungen (Stand Mai 2026)
-
-Folgende Leitentscheidungen sind im aktuellen Plugin-Stand mit offener Quelle (dejure.org / bundesarbeitsgericht.de) belegt:
-
-- **BAG, 23.10.2025 - 8 AZR 300/24** (Paarvergleich Equal Pay): Ein einzelner Vergleichskollege des anderen Geschlechts genuegt zur Vermutung nach Paragraf 22 AGG. Siehe Skill `fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich`.
-- **BAG, 03.06.2025 - 9 AZR 104/24** (kein Urlaubsverzicht durch Prozessvergleich): Mindesturlaub waehrend laufenden Arbeitsverhaeltnisses nicht disponibel. Siehe Skill `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht`.
-- **BAG, 25.03.2026 - 5 AZR 108/25** (Freistellungsklausel unwirksam): Pauschale formularmaessige Freistellungsklausel verstoesst gegen Paragraf 307 BGB. Siehe Skill `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam`.
-- **BAG, 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22** (Massenentlassung): Eine fehlende oder vor Abschluss des Konsultationsverfahrens erstattete Massenentlassungsanzeige führt zur Unwirksamkeit der erfassten Kündigungen. Siehe Skill `fachanwalt-arbeitsrecht-massenentlassung-17-kschg`.
-- **EuGH, 30.10.2025 - C-134/24 und C-402/24** (Massenentlassung): Keine Heilung fehlender oder verfruehter Anzeige nach Kuendigungsausspruch.
-- **BAG, 20.02.2025 - 8 AZR 61/24** (DSGVO-Schadensersatz): "Stoergefuehl" allein begruendet keinen Anspruch nach Art. 82 DSGVO.
-- **BAG, 18.06.2025 - 7 AZR 50/24** (Befristung Betriebsratsmitglieder): Paragraf 14 Abs. 2 TzBfG anwendbar; Schadensersatz auf Folgevertrag bei Mandatsbenachteiligung.
-- **BAG, 22.09.2022 - 8 AZR 4/21** (NachweisG): Schadensersatz neben Bussgeld bei Pflichtverletzung des Arbeitgebers nach NachwG.
-- **BAG, 13.09.2022 - 1 ABR 22/21** (Arbeitszeiterfassung): Pflicht des Arbeitgebers zur systematischen Arbeitszeiterfassung aus Paragraf 3 Abs. 2 Nr. 1 ArbSchG.
-
-Vor Schriftsatzverwendung jeweils Volltext und ggf. neuere Rechtsprechung in offenen Quellen (dejure.org, openjur.de, bundesarbeitsgericht.de) verifizieren.
-
-## Paragrafenkette Kernbereiche Individualarbeitsrecht
-
-- Paragraf 611a BGB — Arbeitsvertrag
-- Paragraf 626 BGB — Außerordentliche Kündigung
-- Paragrafen 1 ff. KSchG — Kündigungsschutz; Paragraf 4 KSchG — Klagefrist drei Wochen
-- Paragraf 102 BetrVG — Betriebsratsanhörung
-- Paragrafen 1, 3 BUrlG — Urlaubsanspruch; Paragraf 7 Abs. 3 BUrlG — Verfall
-- Paragraf 14 TzBfG — Befristung; Paragraf 17 TzBfG — Kontrollklage drei Wochen
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
 ## Skill: `orientierung-mandat-fachanwaltschaft`
 
-_Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Arbeitsrecht._
 
 # Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht für Mandate und Fachanwaltschaft nach Paragraf 10 FAO
 
@@ -461,9 +363,107 @@ Vor Schriftsatzverwendung jeweils Volltext und ggf. neuere Rechtsprechung in off
 
 ---
 
+## Skill: `fachanwalt-arbeitsrecht-orientierung`
+
+_Für Fachanwalt für Arbeitsrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Fachanwalt für Arbeitsrecht — Orientierung
+
+## FAO-Voraussetzungen (Paragraf 10 FAO)
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 100 Fälle in den letzten drei Jahren aus dem Arbeitsrecht; davon mindestens 50 Mandate im Individualarbeitsrecht, mindestens 10 Mandate im Kollektivarbeitsrecht, mindestens 20 rechtsförmliche Verfahren.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| Individualarbeitsrecht | BGB Paragrafen 611a ff. (Arbeitsvertrag); KSchG (Kündigungsschutz); BUrlG (Urlaub); EFZG (Entgeltfortzahlung); TzBfG (Teilzeit und Befristung); NachwG (Nachweisgesetz, idF Aug. 2022); MuSchG; BEEG; ArbZG; ArbStättV |
+| Kollektivarbeitsrecht | BetrVG (Betriebsverfassung); TVG (Tarifvertrag); MitbestG; DrittelbG; SprAuG |
+| Diskriminierung | AGG (Paragrafen 1, 7, 15) |
+| Arbeitsschutz | ArbSchG; ArbStättV; ArbMedVV |
+| Insolvenz | InsO Paragrafen 113, 125 ff. |
+| Verfahren | ArbGG (Arbeitsgerichtsgesetz) |
+| Internationale Bezüge | Rom I-VO; AEntG; AÜG |
+
+## Typische Mandate
+
+- Kündigungsschutzklage (Paragraf 4 KSchG).
+- Aufhebungsvertrag (Verhandlung, Sozialplan).
+- Befristungskontrollklage (Paragraf 17 TzBfG).
+- Sozialplan / Interessenausgleich nach Paragraf 112 BetrVG (Kollektivseite).
+- Betriebsratsanhörung nach Paragraf 102 BetrVG.
+- Zeugnisstreitigkeit (Paragraf 109 GewO).
+- AGG-Entschädigungsklage (Paragraf 15 AGG).
+- Lohn- und Gehaltsklage.
+- Mobbing und Schadensersatzklage (Paragraf 280 Abs. 1 BGB iVm Schutzpflicht Paragraf 241 Abs. 2 BGB).
+
+## Fristen (Auswahl)
+
+- **Kündigungsschutzklage** Paragraf 4 KSchG — drei Wochen ab Zugang der schriftlichen Kündigung.
+- **Befristungskontrollklage** Paragraf 17 TzBfG — drei Wochen nach vereinbartem Ende.
+- **AGG-Entschädigung** Paragraf 15 Abs. 4 AGG — schriftliche Geltendmachung binnen zwei Monaten; Klagefrist Paragraf 61b ArbGG drei Monate.
+- **Anhörung des Betriebsrats** Paragraf 102 BetrVG — eine Woche bei ordentlicher, drei Tage bei außerordentlicher Kündigung.
+- **Sozialplanverhandlungen** Paragraf 112 Abs. 2, 3 BetrVG — Einigungsstelle nach Scheitern.
+
+## Hauptgerichte
+
+- Arbeitsgericht (ArbG) — erste Instanz, Kammern.
+- Landesarbeitsgericht (LAG) — Berufungsinstanz.
+- Bundesarbeitsgericht (BAG) — Revisionsinstanz, Erfurt.
+- BVerfG bei Grundrechtsfragen.
+- EuGH bei unionsrechtlichen Fragen (Befristung, Arbeitszeit, Gleichbehandlung).
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- Arbeitsgemeinschaft Arbeitsrecht im DAV.
+
+## Schnittstellen
+
+- **`arbeitsrecht`** für operative Mandatsführung, Vorlagen.
+- **`kanzlei-allgemein`** für Fristen und Versand.
+- **`fachanwalt-sozialrecht`** bei Schnittstellen zur Arbeitslosenversicherung und Sperrzeit.
+- **`fachanwalt-insolvenz-sanierungsrecht`** bei Betriebsübergang Paragraf 613a BGB und Insolvenz.
+
+## Aktuelle Rechtsprechung - Ueberblick wichtiger Leitentscheidungen (Stand Mai 2026)
+
+Folgende Leitentscheidungen sind im aktuellen Plugin-Stand mit offener Quelle (dejure.org / bundesarbeitsgericht.de) belegt:
+
+- **BAG, 23.10.2025 - 8 AZR 300/24** (Paarvergleich Equal Pay): Ein einzelner Vergleichskollege des anderen Geschlechts genuegt zur Vermutung nach Paragraf 22 AGG. Siehe Skill `fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich`.
+- **BAG, 03.06.2025 - 9 AZR 104/24** (kein Urlaubsverzicht durch Prozessvergleich): Mindesturlaub waehrend laufenden Arbeitsverhaeltnisses nicht disponibel. Siehe Skill `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht`.
+- **BAG, 25.03.2026 - 5 AZR 108/25** (Freistellungsklausel unwirksam): Pauschale formularmaessige Freistellungsklausel verstoesst gegen Paragraf 307 BGB. Siehe Skill `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam`.
+- **BAG, 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22** (Massenentlassung): Eine fehlende oder vor Abschluss des Konsultationsverfahrens erstattete Massenentlassungsanzeige führt zur Unwirksamkeit der erfassten Kündigungen. Siehe Skill `fachanwalt-arbeitsrecht-massenentlassung-17-kschg`.
+- **EuGH, 30.10.2025 - C-134/24 und C-402/24** (Massenentlassung): Keine Heilung fehlender oder verfruehter Anzeige nach Kuendigungsausspruch.
+- **BAG, 20.02.2025 - 8 AZR 61/24** (DSGVO-Schadensersatz): "Stoergefuehl" allein begruendet keinen Anspruch nach Art. 82 DSGVO.
+- **BAG, 18.06.2025 - 7 AZR 50/24** (Befristung Betriebsratsmitglieder): Paragraf 14 Abs. 2 TzBfG anwendbar; Schadensersatz auf Folgevertrag bei Mandatsbenachteiligung.
+- **BAG, 22.09.2022 - 8 AZR 4/21** (NachweisG): Schadensersatz neben Bussgeld bei Pflichtverletzung des Arbeitgebers nach NachwG.
+- **BAG, 13.09.2022 - 1 ABR 22/21** (Arbeitszeiterfassung): Pflicht des Arbeitgebers zur systematischen Arbeitszeiterfassung aus Paragraf 3 Abs. 2 Nr. 1 ArbSchG.
+
+Vor Schriftsatzverwendung jeweils Volltext und ggf. neuere Rechtsprechung in offenen Quellen (dejure.org, openjur.de, bundesarbeitsgericht.de) verifizieren.
+
+## Paragrafenkette Kernbereiche Individualarbeitsrecht
+
+- Paragraf 611a BGB — Arbeitsvertrag
+- Paragraf 626 BGB — Außerordentliche Kündigung
+- Paragrafen 1 ff. KSchG — Kündigungsschutz; Paragraf 4 KSchG — Klagefrist drei Wochen
+- Paragraf 102 BetrVG — Betriebsratsanhörung
+- Paragrafen 1, 3 BUrlG — Urlaubsanspruch; Paragraf 7 Abs. 3 BUrlG — Verfall
+- Paragraf 14 TzBfG — Befristung; Paragraf 17 TzBfG — Kontrollklage drei Wochen
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Arbeitsrecht._
 
 # Strukturierter Erstgespraechsleitfaden für Individual- und kollektives Arbeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
@@ -664,7 +664,7 @@ Weitere Entscheidungen siehe Themenskills. Im Erstgespraech keine Rechtsprechung
 
 ## Skill: `erstpruefung-und-mandatsziel`
 
-_Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstprüfung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Fachanwalt Arbeitsrecht._
 
 # Fachanwalt Erstprüfung und Mandatsziel: systematische Erstaufnahme im arbeitsrechtlichen Mandat, Rollenklärung, Zielformulierung, Interessenkonflikt-Check, Mandatsumfang, Kostenhinweis RVG, erste Risikoampel.
 
@@ -787,51 +787,45 @@ Falls RSV vorhanden: Deckungsanfrage sofort stellen; RSV-Selbstbehalt klären; R
 
 ---
 
-## Skill: `homeoffice-kontrolle-arbeitnehmerdatenschutz`
+## Skill: `v392-fachanwaltsblick-fachanwalt-arbeitsrecht`
 
-_Prüft digitale Leistungs- und Verhaltenskontrollen im Homeoffice: Weisungsrecht, Datenschutz, Verhältnismäßigkeit, Mitbestimmung, Beweisverwertung und mildere Mittel. Bewertet Bildschirmmitschnitt, Keylogger, Aktivitätsstatus, Kamera und Protokolldaten und liefert Freigabematrix, Betriebsvereinbarungs- oder Abwehrbaustein._
+_Schaltet den fachanwaltlichen Arbeitsrechtsblick für Kündigung, Befristung, Vergütung, Arbeitszeit, Betriebsverfassung und Vertragsgestaltung ein; priorisiert Fristen, Darlegungslast und ein unmittelbar verwendbares Mandats- oder Prozessprodukt._
 
-# Kontrolle im Homeoffice rechtmäßig gestalten
+# Fachanwaltsblick Arbeitsrecht
 
-## Einsatzlage
+## 1. Aktenstart
 
-Ein Arbeitgeber will Bildschirmaufzeichnungen, Tastaturprotokolle, Aktivitätsdaten oder Kamerabilder aus dem Homeoffice erheben oder bereits erhobene Daten arbeitsrechtlich verwerten. Die Prüfung trennt die arbeitsrechtliche Anweisung, die Datenverarbeitung, die Mitbestimmung und die spätere Beweisverwertung.
+Werte zuerst Arbeitsvertrag, Nachträge, Abrechnungen, Zeitdaten, Personalakte, Betriebsratsunterlagen und Zustellnachweise aus. Liefere dann eine Fristenampel und den ersten verwertbaren Baustein. Frage nur nach Tatsachen, die Kündigungsschutz, Befristung, Anspruchshöhe, Ausschlussfrist oder Beweisführung ändern.
 
-## Normenanker
+## 2. Fachanwaltliche Einordnung
 
-- Paragraf 106 GewO und Paragraf 611a BGB: Grenzen des Weisungsrechts und billiges Ermessen.
-- Artikel 5, 6, 13 und 35 DSGVO sowie Paragraf 26 BDSG: Zweckbindung, Rechtsgrundlage, Transparenz, Erforderlichkeit und Folgenabschätzung.
-- Paragraf 87 Absatz 1 Nummer 6 BetrVG: Mitbestimmung bei technischen Einrichtungen, die Verhalten oder Leistung überwachen können.
-- Paragrafen 3 und 5 ArbSchG: Arbeitsschutzorganisation und Gefährdungsbeurteilung auch bei mobiler Arbeit.
-- Artikel 2 Absatz 1 in Verbindung mit Artikel 1 Absatz 1 GG: allgemeines Persönlichkeitsrecht und informationelle Selbstbestimmung.
+2.1. Trenne Individualarbeitsrecht, kollektives Arbeitsrecht und sozialrechtliche Folgefragen. Ordne das Mandat einem Schwerpunkt aus FAO Paragraf 10 zu und benenne Schnittstellen, ohne die Kernprüfung auszulagern.
 
-## Rechtsprechungsanker
+2.2. Bei Beendigung prüfe Zugang, Schriftform, Vertretung, Betriebsratsanhörung, Sonderkündigungsschutz, Kündigungsgrund, Frist und Dreiwochenfrist in dieser Reihenfolge.
 
-- BAG, Urteil vom 27. Juli 2017 - 2 AZR 681/16: Ein Software-Keylogger ist ohne einen auf konkrete Tatsachen gestützten Verdacht einer Straftat oder anderen schwerwiegenden Pflichtverletzung unzulässig; rechtswidrig gewonnene Erkenntnisse können im Kündigungsschutzprozess unverwertbar sein.
-- BAG, Urteil vom 23. August 2018 - 2 AZR 133/18: Auch offen erhobene Überwachungsdaten sind nicht allein wegen Zeitablaufs unverwertbar; Rechtsgrundlage, Zweckbindung und Verhältnismäßigkeit der Erhebung und weiteren Speicherung bleiben getrennt zu prüfen.
+2.3. Bei Vergütung und Arbeitszeit führe Anspruchszeitraum, vereinbarte Sollzeit, dokumentierte Istzeit, Vergütungsabrede, Ausschlussfristen, Erfüllung und Darlegungslast positionsweise zusammen.
 
-## Prüfprogramm
+2.4. Bei Befristung sichere Vertragsschluss, Unterzeichnung, Beginn, Sachgrund, Vorbeschäftigung und Klagefrist nach TzBfG Paragraf 17 mit konkreten Daten.
 
-1. Technik und Datenfluss exakt erfassen: Datenarten, Taktung, Screenshots, Metadaten, Empfänger, Speicherort, Speicherdauer und mögliche Auswertungen.
-2. Zweck konkretisieren. IT-Sicherheit, Arbeitszeiterfassung, Leistungskontrolle und Verdachtsaufklärung sind verschiedene Zwecke mit verschiedenen Rechtsgrundlagen.
-3. Weisungsrecht und Vertrag prüfen. Eine Homeoffice-Abrede erlaubt keine grenzenlose Kontrolle; Eingriffe in private Räume, Geräte oder Kommunikationsinhalte benötigen eine eigenständige Rechtfertigung.
-4. Für jede Datenart Erforderlichkeit und mildere Mittel vergleichen, etwa Ergebnisabnahme, Zeiterfassung, Stichproben mit Vorankündigung oder technische Sicherheitsprotokolle. Es gibt keine allgemeine Regel, wonach jede Stichprobe zulässig wäre.
-5. Betriebsrat vor Einführung und wesentlicher Änderung beteiligen; bestehende Betriebsvereinbarung auf Zweck, Zugriffsrechte, Anlassschwellen, Löschung und Verwertungsgrenzen prüfen.
-6. Transparenzinformation, Löschkonzept, Berechtigungen und gegebenenfalls Datenschutz-Folgenabschätzung kontrollieren.
-7. Bei Verdachtskontrolle Tatsachenkern, Schwere, betroffenen Personenkreis, zeitliche Begrenzung und Dokumentation der Abwägung prüfen.
-8. Für ein arbeitsgerichtliches Verfahren Datenherkunft und Beweiskette offenlegen und ein mögliches Verwertungsverbot gesondert begründen; Datenschutzverstoß und prozessuale Unverwertbarkeit nicht gleichsetzen.
+2.5. Bei Betriebsverfassungsfragen trenne Zuständigkeit, Beteiligungstatbestand, Zeitpunkt, Unterrichtung, Beschlussfassung und Rechtsfolge eines Fehlers.
 
-## Arbeitsergebnis
+## 3. Rechtsprechungsanker
 
-Liefere eine Technik-Zweck-Rechtsgrundlagen-Matrix mit Freigabe, Auflagen oder Stopp. Ergänze einen Maßnahmenplan mit Mitbestimmung und Datenschutzdokumentation sowie je nach Rolle eine Betriebsvereinbarungsklausel, eine Stellungnahme gegen die Maßnahme oder einen Beweisverwertungsbaustein.
+3.1. BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14: Das Vorbeschäftigungsverbot des TzBfG ist verfassungskonform auszulegen; atypische Fälle verlangen eine fallbezogene Prüfung.
 
-## Belege und Aktenlücken
+3.2. BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84: Nach einem erstinstanzlich erfolgreichen Kündigungsschutzurteil kann ein allgemeiner Weiterbeschäftigungsanspruch bestehen.
 
-- technische Produktbeschreibung und Konfiguration
-- Homeoffice-Vereinbarung, Richtlinien und Datenschutzhinweise
-- Betriebsvereinbarung und Beteiligungsunterlagen des Betriebsrats
-- Verzeichnis der Verarbeitungstätigkeiten, Löschkonzept und Folgenabschätzung
-- konkrete Verdachtsmomente, Auswertungsprotokolle und Zugriffslisten
+3.3. BAG, Urteil vom 24.08.2023 - 2 AZR 17/23: Bei Äußerungen in einer Chatgruppe hängt die berechtigte Vertraulichkeitserwartung insbesondere von Größe, Zusammensetzung und Inhalt der Gruppe ab.
+
+3.4. BAG, Urteil vom 27.07.2017 - 2 AZR 681/16: Eine anlasslose Keylogger-Überwachung kann zu einem prozessualen Verwertungsverbot führen.
+
+## 4. Fertige Arbeitsprodukte
+
+Gib je nach Auftrag eine Klageschrift oder Erwiderung mit bestimmten Anträgen, einen Vergleichsvorschlag mit Folgenmatrix, eine Abmahnung mit konkret bezeichnetem Verhalten, eine Betriebsratsvorlage, eine Anspruchsberechnung oder einen Mandantenbrief aus. Jeder tragende Absatz folgt der Kette Rechtsfolge, Norm, konkrete Tatsache, Aktenfund, Beweislast, Gegenargument und Antwort.
+
+## 5. Schlusskontrolle
+
+Prüfe Frist, Form, Zugang, Vertretung, Beteiligung, Darlegungslast, Beweisangebot, Antrag, Annahmeverzugsfolgen, Zeugnis, Arbeitspapiere und Kosten. Unsichere Tatsachen werden als offene Punkte ausgewiesen und nicht ergänzt.
 
 ---
 

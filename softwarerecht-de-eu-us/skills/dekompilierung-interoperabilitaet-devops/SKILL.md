@@ -1,6 +1,6 @@
 ---
 name: dekompilierung-interoperabilitaet-devops
-description: "Wenn es um Dekompilierung und Interoperabilität in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dekompilierung und Interoperabilität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dekompilierung und Interoperabilität

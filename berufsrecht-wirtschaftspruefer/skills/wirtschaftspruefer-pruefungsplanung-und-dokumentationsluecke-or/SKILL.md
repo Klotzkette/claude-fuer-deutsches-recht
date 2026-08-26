@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-pruefungsplanung-und-dokumentationsluecke-or
-description: "Wenn es um Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Or in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wirtschaftsprüfer Prüfungsplanung und Dokumentationslücke Or: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: pruefungsplanung und dokumentationsluecke - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

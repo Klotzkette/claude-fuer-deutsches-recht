@@ -1,6 +1,6 @@
 ---
 name: wohnungseigentum-beschluss-paragraf-23-weg
-description: "Wenn es um Wohnungseigentum Beschluss Paragraf 23 weg in Fachanwalt Miet- und Wohnungseigentumsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wohnungseigentum Beschluss Paragraf 23 WEG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wohnungseigentum Beschluss § 23 weg

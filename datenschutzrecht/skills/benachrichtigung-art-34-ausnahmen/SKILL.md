@@ -1,6 +1,6 @@
 ---
 name: benachrichtigung-art-34-ausnahmen
-description: "Wenn es um Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 DSGVO
@@ -48,3 +48,7 @@ Beweislast: liegt beim Verantwortlichen — schriftlich dokumentieren mit Datum 
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-pressemitteilung-krisenkommunikation` deckt die öffentliche Bekanntmachung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-benachrichtigung-art-34-ausnahmen` beziehungsweise Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-benachrichtigung-art-34-ausnahmen.md).

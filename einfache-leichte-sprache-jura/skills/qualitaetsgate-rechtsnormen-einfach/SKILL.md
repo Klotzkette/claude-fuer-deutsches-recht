@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-rechtsnormen-einfach
-description: "Wenn es um Qualitätsgate in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Qualitaetsgate Rechtsnormen Einfach; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
+description: "Für Qualitätsgate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: qualitaetsgate-rechtsnormen-einfach."
 ---
 
 # Qualitätsgate

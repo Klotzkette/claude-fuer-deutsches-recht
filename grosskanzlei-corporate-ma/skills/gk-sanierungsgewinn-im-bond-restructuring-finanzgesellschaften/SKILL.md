@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-im-bond-restructuring-finanzgesellschaften
-description: "Wenn es um Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellschaften in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellschaften: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellschaften

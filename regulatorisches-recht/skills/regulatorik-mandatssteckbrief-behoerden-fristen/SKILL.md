@@ -1,6 +1,6 @@
 ---
 name: regulatorik-mandatssteckbrief-behoerden-fristen
-description: "Wenn es um Regulatorisches Mandat: Behörden, Fristen und Rollen in Regulatorisches Recht – Plugin für deutsches geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Regulatorisches Mandat: Behörden, Fristen und Rollen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Regulatorisches Mandat: Behörden, Fristen und Rollen

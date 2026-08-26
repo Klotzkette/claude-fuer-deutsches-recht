@@ -1,6 +1,6 @@
 ---
 name: workflow-chronologie-und-belegmatrix
-description: "Wenn es um Workflow: Chronologie und Belegmatrix in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Workflow: Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Workflow: Chronologie und Belegmatrix

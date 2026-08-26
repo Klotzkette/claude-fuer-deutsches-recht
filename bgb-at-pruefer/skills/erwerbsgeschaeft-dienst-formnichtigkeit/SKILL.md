@@ -1,6 +1,6 @@
 ---
 name: erwerbsgeschaeft-dienst-formnichtigkeit
-description: "Wenn es um Ermächtigung zu Erwerbsgeschäften — Paragrafen 112 und 113 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Erwerbsgeschaeft Dienst Formnichtigkeit; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Ermächtigung zu Erwerbsgeschäften — Paragrafen 112 und 113 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: erwerbsgeschaeft-dienst-formnichtigkeit."
 ---
 
 # Ermächtigung zu Erwerbsgeschäften — §§ 112 und 113 BGB

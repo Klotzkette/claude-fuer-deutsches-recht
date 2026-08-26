@@ -1,6 +1,6 @@
 ---
 name: sondervermoegen-bundeswehr-dashboard-b
-description: "Wenn es um Sondervermoegen Bundeswehr Dashboard B in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sondervermögen Bundeswehr Dashboard B: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sondervermoegen Bundeswehr Dashboard B

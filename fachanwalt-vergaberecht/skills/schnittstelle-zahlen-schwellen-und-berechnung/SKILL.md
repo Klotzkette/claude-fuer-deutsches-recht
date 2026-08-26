@@ -1,6 +1,6 @@
 ---
 name: schnittstelle-zahlen-schwellen-und-berechnung
-description: "Wenn es um Schnittstelle: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Vergaberecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Schnittstelle: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Fachanwalt Vergaberecht."
 ---
 
 # Schnittstelle: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: bieterangebote-mieten-oeffentliche
-description: "Wenn es um Bieterangebote: Compliance-Dokumentation und Aktenvermerk in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bieterangebote: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bieterangebote: Compliance-Dokumentation und Aktenvermerk

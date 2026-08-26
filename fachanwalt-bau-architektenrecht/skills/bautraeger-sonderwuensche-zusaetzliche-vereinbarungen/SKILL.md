@@ -1,6 +1,6 @@
 ---
 name: bautraeger-sonderwuensche-zusaetzliche-vereinbarungen
-description: "Wenn es um Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauträger-Sonderwünsche und zusätzliche Vereinbarungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen

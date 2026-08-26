@@ -1,6 +1,6 @@
 ---
 name: steigerungsadverbien-pruefen
-description: "Wenn es um Steigerungsadverbien pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Steigerungsadverbien prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steigerungsadverbien pruefen

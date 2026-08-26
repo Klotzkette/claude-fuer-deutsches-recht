@@ -1,6 +1,6 @@
 ---
 name: subscription-package-und-side-letter
-description: "Wenn es um Subscription Package und Side Letter in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Subscription Package und Side Letter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Subscription Package und Side Letter

@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-krankengeld-anspruch-arbeitsunfaehigkeit
-description: "Prüft Krankengeld nach Arbeitsunfähigkeit mit aktuellem Zeitstrahl für Feststellung, Folgefeststellung, elektronische Übermittlung, Mitgliedschaft, Ruhen und Blockfrist. Liefert Berechnung, Beweisplan und einen belastbaren Widerspruchs- oder Klageentwurf."
+description: "Prüft Krankengeld nach Arbeitsunfähigkeit mit aktuellem Zeitstrahl für Feststellung, Folgefeststellung, elektronische Übermittlung, Mitgliedschaft, Ruhen und Blockfrist."
 ---
 
 # Krankengeld: Anspruch, Folgefeststellung und Blockfrist

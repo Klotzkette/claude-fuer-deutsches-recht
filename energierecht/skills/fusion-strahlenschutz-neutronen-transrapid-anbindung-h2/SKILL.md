@@ -1,6 +1,6 @@
 ---
 name: fusion-strahlenschutz-neutronen-transrapid-anbindung-h2
-description: "Wenn es um Fusion: Strahlenschutz und Neutronenaktivierung in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fusion: Strahlenschutz und Neutronenaktivierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fusion: Strahlenschutz und Neutronenaktivierung

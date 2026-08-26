@@ -1,6 +1,6 @@
 ---
 name: humanistische-pazifistische-gruende
-description: "Wenn es um Humanistische pazifistische Gründe in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Humanistische pazifistische Gründe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Humanistische pazifistische Gründe

@@ -1,6 +1,6 @@
 ---
 name: verteidigung-verwendungen-erlangte
-description: "Wenn es um Verteidigung gegen Bereicherungsklage in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Verteidigung Verwendungen Erlangte; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Verteidigung gegen Bereicherungsklage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verteidigung gegen Bereicherungsklage

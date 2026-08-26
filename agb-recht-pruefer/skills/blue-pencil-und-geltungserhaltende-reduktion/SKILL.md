@@ -1,6 +1,6 @@
 ---
 name: blue-pencil-und-geltungserhaltende-reduktion
-description: "Wenn es um Blue Pencil Und Geltungserhaltende Reduktion in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Blue Pencil Und Geltungserhaltende Reduktion; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Blue Pencil und Geltungserhaltende Reduktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Blue Pencil Und Geltungserhaltende Reduktion

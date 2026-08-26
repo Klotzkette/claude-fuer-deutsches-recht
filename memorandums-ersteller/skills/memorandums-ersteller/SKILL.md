@@ -1,6 +1,6 @@
 ---
 name: memorandums-ersteller
-description: "Wenn es um Memorandums-Ersteller in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Memorandums-Ersteller: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Memorandums-Ersteller

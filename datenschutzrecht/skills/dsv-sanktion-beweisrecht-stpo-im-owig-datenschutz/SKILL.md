@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-beweisrecht-stpo-im-owig-datenschutz
-description: "Wenn es um Dsv Sanktion Beweisrecht StPO Im Owig Datenschutz in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dsv Sanktion Beweisrecht StPO im Owig Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Datenschutzrecht-Brückenskill: Beweisrecht im Datenschutz-OWiG: Strafprozessuale Beweislogik auf DSGVO-Vorwürfe übertragen, ohne zivilrechtliche Darlegungslast zu simulieren

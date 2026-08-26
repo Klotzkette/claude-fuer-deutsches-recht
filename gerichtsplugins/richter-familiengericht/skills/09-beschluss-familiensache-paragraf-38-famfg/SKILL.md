@@ -1,6 +1,6 @@
 ---
 name: 09-beschluss-familiensache-paragraf-38-famfg
-description: "Wenn es um Beschluss in Familiensachen nach Paragraf 38 FamFG in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beschluss in Familiensachen nach Paragraf 38 FamFG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschluss in Familiensachen nach Paragraf 38 FamFG

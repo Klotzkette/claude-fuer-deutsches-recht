@@ -1,6 +1,6 @@
 ---
 name: transparenzgesetz-presseantwort-nachfa
-description: "Wenn es um Transparenzgesetz Presseantwort Nachfa in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transparenzgesetz Presseantwort Nachfa: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transparenzgesetz Presseantwort Nachfa

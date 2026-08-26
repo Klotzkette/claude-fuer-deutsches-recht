@@ -1,6 +1,6 @@
 ---
 name: parteien-erfassen
-description: "Wenn es um Parteien erfassen – KYC und Vertretungsmacht in Wandeldarlehen-Lebenszyklus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Parteien erfassen – KYC und Vertretungsmacht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parteien erfassen – KYC und Vertretungsmacht

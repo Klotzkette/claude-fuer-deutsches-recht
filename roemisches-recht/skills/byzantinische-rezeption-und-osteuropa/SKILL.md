@@ -1,6 +1,6 @@
 ---
 name: byzantinische-rezeption-und-osteuropa
-description: "Wenn es um Byzantinische Rezeption und Osteuropa in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Byzantinische Rezeption Und Osteuropa; Arbeitsfeld: Römisches Recht."
+description: "Für Byzantinische Rezeption und Osteuropa: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisches Recht. Route: byzantinische-rezeption-und-osteuropa."
 ---
 
 # Byzantinische Rezeption und Osteuropa

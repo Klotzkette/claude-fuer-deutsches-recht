@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Startet ein erbrechtliches Mandat aus vorhandenen Urkunden und Vermögensunterlagen ohne Abfragekaskade. Sichert Fristen und Erbstatut, trennt Erben-, Pflichtteils-, Vermächtnis- und Testamentsvollstreckerrollen und leitet mit Stammbaum, Verfügungsmatrix oder Nachlassinventar zu Erbschein, Pflichtteil, Haftung und Auseinandersetzung weiter."
+description: "Startet ein erbrechtliches Mandat aus vorhandenen Urkunden und Vermögensunterlagen ohne Abfragekaskade."
 ---
 
 # Einstieg und Fallrouting im Erbrecht

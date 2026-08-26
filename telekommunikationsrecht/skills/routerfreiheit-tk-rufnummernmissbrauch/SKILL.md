@@ -1,6 +1,6 @@
 ---
 name: routerfreiheit-tk-rufnummernmissbrauch
-description: "Wenn es um Routerfreiheit und Endgeräte in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Routerfreiheit und Endgeräte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Routerfreiheit und Endgeräte

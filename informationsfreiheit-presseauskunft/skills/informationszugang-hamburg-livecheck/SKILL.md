@@ -1,6 +1,6 @@
 ---
 name: informationszugang-hamburg-livecheck
-description: "Wenn es um Informationszugang Hamburg Livecheck in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Informationszugang Hamburg Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Informationszugang Hamburg Livecheck

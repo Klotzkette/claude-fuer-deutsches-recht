@@ -1,6 +1,6 @@
 ---
 name: vertrag-beauftragungsumfang
-description: "Wenn es um LPH 3 Entwurfsplanung: Ordnet vertrag in HOAI Leistungsphasen Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für LPH 3 Entwurfsplanung: Ordnet vertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 3 Entwurfsplanung: Ordnet vertrag

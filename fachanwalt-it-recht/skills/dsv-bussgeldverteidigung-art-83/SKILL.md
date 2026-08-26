@@ -1,6 +1,6 @@
 ---
 name: dsv-bussgeldverteidigung-art-83
-description: "Wenn es um Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art

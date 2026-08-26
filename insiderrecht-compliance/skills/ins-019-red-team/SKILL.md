@@ -1,6 +1,6 @@
 ---
 name: ins-019-red-team
-description: "Wenn es um Red-Team Insiderrecht in Insiderrecht Compliance geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team Insiderrecht: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team Insiderrecht

@@ -1,6 +1,6 @@
 ---
 name: scheinkaufmann-und-rechtsschein
-description: "Wenn es um Scheinkaufmann und Rechtsschein in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Scheinkaufmann und Rechtsschein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Scheinkaufmann und Rechtsschein

@@ -1,6 +1,6 @@
 ---
 name: schulgeld-ersatzschule
-description: "Wenn es um Schulgeld Ersatzschule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulgeld Ersatzschule: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulgeld Ersatzschule

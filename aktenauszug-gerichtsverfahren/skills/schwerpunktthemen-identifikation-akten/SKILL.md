@@ -1,6 +1,6 @@
 ---
 name: schwerpunktthemen-identifikation-akten
-description: "Wenn es um Schwerpunktthemen-Identifikation in aktenauszug-gerichtsverfahren geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schwerpunktthemen-Identifikation: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schwerpunktthemen-Identifikation

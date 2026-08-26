@@ -1,6 +1,6 @@
 ---
 name: reiseveranstalter-beweisplan-erstellen
-description: "Wenn es um Reiseveranstalter Beweisplan Erstellen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reiseveranstalter Beweisplan Erstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Reiseveranstalter Beweisplan Erstellen

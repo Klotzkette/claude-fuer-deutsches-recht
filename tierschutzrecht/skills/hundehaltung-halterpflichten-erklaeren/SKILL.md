@@ -1,6 +1,6 @@
 ---
 name: hundehaltung-halterpflichten-erklaeren
-description: "Wenn es um Hundehaltung Halterpflichten Erklaeren in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hundehaltung Halterpflichten Erklären: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hundehaltung Halterpflichten Erklaeren

@@ -1,6 +1,6 @@
 ---
 name: spezial-kontensuche-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Kontensuche: Livequellen- und Rechtsprechungscheck in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kontensuche: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kontensuche: Livequellen- und Rechtsprechungscheck

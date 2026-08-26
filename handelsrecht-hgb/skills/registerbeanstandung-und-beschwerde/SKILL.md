@@ -1,6 +1,6 @@
 ---
 name: registerbeanstandung-und-beschwerde
-description: "Wenn es um Registerbeanstandung und Beschwerde in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Registerbeanstandung und Beschwerde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registerbeanstandung und Beschwerde

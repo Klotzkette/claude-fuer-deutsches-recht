@@ -1,6 +1,6 @@
 ---
 name: conflict-of-interest
-description: "Wenn es um Interessenkonflikte – Untersuchung und Prävention in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Interessenkonflikte – Untersuchung und Prävention: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Interessenkonflikte – Untersuchung und Prävention

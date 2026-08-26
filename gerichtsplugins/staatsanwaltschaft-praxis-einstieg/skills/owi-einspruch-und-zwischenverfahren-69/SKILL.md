@@ -1,6 +1,6 @@
 ---
 name: owi-einspruch-und-zwischenverfahren-69
-description: "Wenn es um Owi Einspruch Und Zwischenverfahren 69 in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Owi Einspruch und Zwischenverfahren 69: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einspruch gegen Bußgeldbescheid und Zwischenverfahren: Frist, Beschränkung, Nachermittlung, Rücknahme oder Vorlage sauber steuern

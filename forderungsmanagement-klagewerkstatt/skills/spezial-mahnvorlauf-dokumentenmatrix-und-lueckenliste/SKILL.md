@@ -1,6 +1,6 @@
 ---
 name: spezial-mahnvorlauf-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Mahnvorlauf: Dokumentenmatrix, Lückenliste und Nachforderung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mahnvorlauf: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Mahnvorlauf: Dokumentenmatrix, Lückenliste und Nachforderung

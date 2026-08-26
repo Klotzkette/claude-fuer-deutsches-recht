@@ -1,6 +1,6 @@
 ---
 name: rentencheck-fuenf-jahre-vorher
-description: "Wenn es um rentencheck-fuenf-jahre-vorher in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für rentencheck-fuenf-jahre-vorher: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # rentencheck-fuenf-jahre-vorher

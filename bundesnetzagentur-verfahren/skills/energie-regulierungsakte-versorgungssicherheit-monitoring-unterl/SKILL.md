@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-versorgungssicherheit-monitoring-unterl
-description: "Wenn es um Energie-Regulierungsakte: Versorgungssicherheit Monitoring — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: Versorgungssicherheit Monitoring — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: Versorgungssicherheit Monitoring — Unterlagenanforderung

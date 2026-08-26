@@ -1,6 +1,6 @@
 ---
 name: forensische-pruefung-prompt-injection
-description: "Wenn es um Prompt-Injection: Prüfung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Prompt-Injection: Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prompt-Injection: Prüfung

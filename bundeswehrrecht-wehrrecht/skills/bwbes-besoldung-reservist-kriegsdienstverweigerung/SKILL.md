@@ -1,6 +1,6 @@
 ---
 name: bwbes-besoldung-reservist-kriegsdienstverweigerung
-description: "Wenn es um Besoldung Reservist: Wehrübung und Arbeitgeberausgleich in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besoldung Reservist: Wehrübung und Arbeitgeberausgleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besoldung Reservist: Wehrübung und Arbeitgeberausgleich

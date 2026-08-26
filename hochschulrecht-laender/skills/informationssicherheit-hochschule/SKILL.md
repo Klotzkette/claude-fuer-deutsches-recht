@@ -1,6 +1,6 @@
 ---
 name: informationssicherheit-hochschule
-description: "Wenn es um Informationssicherheit Hochschule in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Informationssicherheit Hochschule: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Informationssicherheit Hochschule

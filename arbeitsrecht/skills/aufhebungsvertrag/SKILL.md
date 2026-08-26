@@ -1,6 +1,6 @@
 ---
 name: aufhebungsvertrag
-description: "Wenn es um Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags in Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags

@@ -1,6 +1,6 @@
 ---
 name: kg-personengesellschaften
-description: "Wenn es um KG und Personengesellschaften — Corporate/M&A in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für KG und Personengesellschaften — Corporate/M&A: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KG und Personengesellschaften — Corporate/M&A

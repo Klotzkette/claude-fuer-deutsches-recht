@@ -1,6 +1,6 @@
 ---
 name: bess-projektakte-qualitygate
-description: "Wenn es um BESS-Projektakte und Qualitygate in Energierecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BESS-Projektakte und Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # BESS-Projektakte und Qualitygate

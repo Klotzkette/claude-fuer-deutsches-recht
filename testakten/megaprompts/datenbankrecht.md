@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 130 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Datenbankrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet kon…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Datenbankrecht und Datenbankherstellerrecht geht: klärt Rolle, Ziel, Frist, Unterlagen un…
-3. **datenbankwerk-schoepferische** — Wenn es um Datenbankwerk: Schöpferische Auswahl oder Anordnung (Paragraf 4 Abs. 2 UrhG) in Datenbankrecht und Datenbankh…
-4. **policy-db-abschlussmemo** — Wenn es um Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung in Datenbankrecht und Datenban…
-5. **einstweilige-verfuegung-datenbankrecht-dringlichkeit** — Wenn es um Einstweilige Verfügung im Datenbankrecht — Dringlichkeit und Verfügungsantrag in Datenbankrecht und Datenbank…
-6. **verletzung-dokumentieren-hashlog-screenshot-abrufprotokoll** — Wenn es um Verletzung dokumentieren — Hash-Logs, Screenshots und Abruflauf-Protokolle in Datenbankrecht und Datenbankher…
-7. **webdaten-auslesen-datenbank-und-robots-txt** — Wenn es um Webdaten-Auslesen gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse in Datenbankrecht und Date…
-8. **datenbankrecht-abschlussmemo** — Wenn es um Datenbankrecht Abschlussmemo: Rechtslage, Maßnahmen, offene Risiken in Datenbankrecht und Datenbankhersteller…
+2. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+3. **stellenanzeigen-jobportal-und-datenabruf** — Für Stellenanzeigen, Jobportale und automatisiertes Auslesen — Datenbankrecht nach Innoweb: ordnet Norm, Beweislast und …
+4. **policy-db-abschlussmemo** — Für Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung: erstellt Entwurf mit Antrag, Beweis …
+5. **ki-training-mit-datenbankbestand** — Für digitale Werkzeuge-Training mit Datenbankbeständen — Datenbankrecht und TDM-Schranken: ordnet Norm, Beweislast und G…
+6. **db-020-oeffentliche-register-handelsregister-grundbuch** — Für Datenbankrecht: Öffentliche Register Handelsregister Grundbuch Transparenzregister: ordnet Norm, Beweislast und Gege…
+7. **b2b-kundendaten-datenbank-insolvenz-als** — Für B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht: ordnet Norm, Beweislast und Gege…
+8. **webdaten-auslesen-datenbank-und-robots-txt** — Für Webdaten-Auslesen gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse: ordnet Norm, Beweislast und Gege…
 
 ---
 
@@ -137,7 +137,7 @@ Ausgangspunkt für dieses Plugin: Rechteinhaber für Schutzgegenstand, Investiti
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Datenbankrecht und Datenbankherstellerrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenbankrecht und Datenbankherstellerrecht._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -178,15 +178,11 @@ Tragende Anker: UrhG §§ 87a ff., Richtlinie 96/9/EG, Data Act. Tatsächliche F
 
 ---
 
-## Skill: `datenbankwerk-schoepferische`
+## Skill: `stellenanzeigen-jobportal-und-datenabruf`
 
-_Wenn es um Datenbankwerk: Schöpferische Auswahl oder Anordnung (Paragraf 4 Abs. 2 UrhG) in Datenbankrecht und Datenbankherstellerrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Stellenanzeigen, Jobportale und automatisiertes Auslesen — Datenbankrecht nach Innoweb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck._
 
-# Datenbankwerk: Schöpferische Auswahl oder Anordnung (§ 4 Abs. 2 UrhG)
-
-## Arbeitsbereich
-
-Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtlich schutzfähig ist. Analysiert schöpferische Auswahl oder Anordnung der Elemente, grenzt zur bloßen Vollständigkeitssammlung ab, bewertet EuGH- und BGH-Rechtsprechung und liefert Schutzfähigkeitsgutachten für Mandanten aus Verlag, Forschung oder Softwarebranche. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+# Stellenanzeigen, Jobportale und automatisiertes Auslesen — Datenbankrecht nach Innoweb
 
 ## Arbeitsweg
 
@@ -198,60 +194,60 @@ Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtli
 
 ## Mandantenfall
 
-- Verlag möchte wissen, ob seine redaktionell zusammengestellte Fachdatenbank urheberrechtlich geschützt ist und Unterlassung gegen Konkurrenten durchsetzen kann.
-- Softwareunternehmen hat eine Wissensdatenbank aufgebaut und fragt, ob eine besondere Strukturierung oder Kategorisierung Schutz begründet.
-- Forschungsinstitut streitet mit Kooperationspartner darüber, wer Urheber einer wissenschaftlichen Datenbanksammlung ist.
+- Jobportal-Betreiber stellt fest, dass eine neue Jobsuchmaschine alle Stellenanzeigen in Echtzeit aus seiner Datenbank abfragt und eigene Suchergebnisse anzeigt — Grundlage der EuGH-Innoweb-Entscheidung.
+- Recruiter-Startup will Stellenanzeigen aus mehreren Jobportalen aggregieren und fragt, welche Lizenzen es benötigt.
+- Unternehmen hat eine interne Jobdatenbank aufgebaut und möchte diese extern lizenzieren — wie definiert es den Nutzungsumfang?
 
 ## Erste Schritte
 
-1. Datenbankinhalt und -struktur dokumentieren: Welche Elemente enthält die Datenbank, nach welchen Kriterien wurden sie ausgewählt und geordnet?
-2. Schöpfungshöhe prüfen: Bestand ein Entscheidungsspielraum bei Auswahl oder Anordnung, oder war das Ergebnis durch Vollständigkeitsgebot vorgegeben?
-3. BGH-Rechtsprechung einordnen: „Tele-Info-CD" (BGH) und europäische Mindeststandarddoktrin beachten.
-4. Urheber und Miturheber bestimmen: § 8 UrhG, Arbeitnehmerurheberrecht (§ 43 UrhG), Auftragswerk.
-5. Schutzumfang abgrenzen: Schutz gilt für Struktur, nicht für Inhalte der Einzelelemente.
-6. Konkurrenzen klären: Läuft daneben Herstellerrecht (§§ 87a ff. UrhG) oder Schutz der Einzelelemente?
+1. Innoweb-Entscheidung anwenden: EuGH C-202/12 — Meta-Jobsuchmaschine, die Echtzeitsuche auf Fremddatenbank ausführt, verwendet wesentliche Teile weiter.
+2. Datenbankherstellerrecht des Jobportals prüfen: Wesentliche Investition in Sammlung (Einholung von Arbeitgeberdaten), Überprüfung (Qualitätsprüfung, Kategorisierung) und Darstellung?
+3. Verletzungsanalyse: Handelt der Aggregator in Echtzeit (Innoweb) oder ruft er periodisch Daten ab (Kumulationstatbestand)?
+4. AGB-Auslesen-Verbot prüfen: Ist das Verbot wirksam, klar formuliert und nach § 307 BGB nicht unangemessen?
+5. DSGVO-Prüfung: Stellenanzeigen können personenbezogene Daten von Ansprechpartnern enthalten — Zweckbindung bei Weitergabe.
+6. Lizenzmodell für Stellendaten-Feed: Welche Nutzung darf der Aggregator käuflich erwerben, und welche Verbote bleiben im Vertrag?
 
 ## Rechtsrahmen
 
-- § 4 Abs. 2 UrhG: Datenbankwerk als Sammlung, bei der Auswahl oder Anordnung eine persönliche geistige Schöpfung ist.
-- § 4 Abs. 1 UrhG: Sammelwerk als Oberkategorie — Einzelelemente bleiben selbstständig schutzfähig.
-- RL 96/9/EG Erwägungsgrund 15-16: Datenbankwerk verlangt intellektuellen Aufwand des Schöpfers bei Auswahl und Anordnung.
-- § 7 UrhG: Urheber ist der Schöpfer; juristische Personen können nur über § 43 UrhG (Arbeitnehmer) oder Vertragsrecht begünstigt werden.
-- § 8 UrhG: Miturheberschaft bei gemeinsamer Schöpfung mehrerer natürlicher Personen.
-- § 2 Abs. 2 UrhG: Persönliche geistige Schöpfung als allgemeines Schutzkriterium — gilt auch für Datenbankwerke.
+- EuGH C-202/12 (Innoweb/Wegener): Meta-Jobsuchmaschine, die Fremddatenbank in Echtzeit durchsucht, verweist Nutzer zur Fremddatenbank — wesentliche Weiterverwendung bejaht.
+- § 87a UrhG: Jobportal als Datenbankherstellerin — wesentliche Investition in Beschaffung und Darstellung von Stellenanzeigen.
+- § 87b UrhG: Wesentliche Entnahme und Weiterverwendung ohne Lizenz des Jobportals untersagt.
+- Art. 7 Abs. 2 lit. b RL 96/9/EG: Weiterverwendung — auch mittelbare Nutzung erfasst.
+- § 307 BGB: AGB-Datenabruf-Klausel wirksam bei klarer Formulierung und verhältnismäßiger Rechtsfolge.
+- Art. 6 Abs. 1 lit. f DSGVO: Berechtigtes Interesse als Rechtsgrundlage für Verarbeitung von Arbeitgeberkontakten in Stellenanzeigen.
 
 ## Prüfraster
 
-- Sind die Elemente der Datenbank unabhängig voneinander zugänglich und nutzbar (Systemvoraussetzung des Datenbankbegriffs)?
-- Liegt ein kreativer Entscheidungsspielraum bei Auswahl (welche Inhalte aufgenommen wurden) oder Anordnung (wie sie strukturiert sind) vor?
-- Ist die Sammlung vollständig oder strebt sie Vollständigkeit an? Vollständigkeitsdatenbanken genießen keinen Werkschutz nach EuGH.
-- Wer hat die schöpferischen Entscheidungen getroffen — natürliche Person oder algorithmisch generiert?
-- Kann der Schöpfungsakt dokumentiert werden (Redaktionsprotokolle, E-Mails, Versionsverlauf)?
-- Ist der Schutzumfang klar begrenzt auf Auswahl/Anordnung, nicht auf Dateninhalte selbst?
-- Besteht Konkurrenz zu anderen Schutzrechten an Einzelelementen (Fotos, Texte, Daten)?
+- Hat das Jobportal eine wesentliche Investition in Beschaffung von Stellenanzeigen (aktives Einwerben von Arbeitgebern) und Darstellung getätigt?
+- Führt der Aggregator eine Echtzeit-Suche durch die Fremddatenbank aus (Innoweb-Test) oder archiviert er Daten periodisch?
+- Ist das AGB-Auslesen-Verbot wirksam einbezogen und hinreichend bestimmt?
+- Kumuliert der Aggregator bei periodischen Abfragen systematisch wesentliche Teile?
+- Sind Ansprechpartner-Kontaktdaten in Stellenanzeigen personenbezogen — welche DSGVO-Rechtsgrundlage gilt für deren Weitergabe?
+- Bietet das Jobportal bereits ein API-Lizenzmodell an, und schließt der Aggregator die dort definierten Bedingungen ein?
+- Besteht wettbewerbsrechtliche gezielte Behinderung (§ 4 Nr. 4 UWG) durch den Aggregator?
 
 ## Typische Fallstricke
 
-- Vollständige Branchenverzeichnisse oder Telefonbücher sind keine Datenbankwerke, weil keine Auswahlentscheidung möglich ist.
-- KI-generierte Datenbankstrukturen begründen mangels menschlicher Schöpfung keinen Werkschutz.
-- Arbeitgeber ist nicht Urheber, sondern nur Rechteinhaber kraft § 43 UrhG — der angestellte Entwickler bleibt Urheber.
-- Schutz der Struktur erstreckt sich nicht auf enthaltene Rohdaten; Dritte können dieselben Daten in anderer Struktur frei verwenden.
-- Fehlende Dokumentation der redaktionellen Entscheidungen erschwert Beweisführung im Streitfall erheblich.
+- Innoweb-Entscheidung gilt spezifisch für Echtzeit-Meta-Suche — periodische automatisierte Abrufabfragen werden anders bewertet.
+- Stellenanzeigen-Portale, die nur von Arbeitgebern befüllte Formulare anzeigen, haben möglicherweise weniger Investition in Beschaffung als vermutet.
+- Arbeitgeber können eigene Urheberrechte an Stellenanzeigentexten behalten — Jobportal lizenziert nur das Datenbankherstellerrecht.
+- DSGVO-Grundlage für Kontaktdaten in Stellenanzeigen ist berechtigtes Interesse — aber Weitergabe an Dritte ohne weitere Rechtsgrundlage problematisch.
+- Aggregatoren können sich auf § 87c UrhG (zulässige Handlungen) berufen — prüfen, ob Ausnahmen einschlägig sind.
 
 ## Quellen
 
-- [§ 4 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/4.html)
-- [§ 2 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/2.html)
-- [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-- [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
-- [§ 43 UrhG Arbeitnehmerurheberrecht — dejure.org](https://dejure.org/gesetze/UrhG/43.html)
-- [§ 8 UrhG Miturheberschaft — dejure.org](https://dejure.org/gesetze/UrhG/8.html)
+- [EuGH C-202/12 Innoweb/Wegener — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
+- [§ 4 UWG — dejure.org](https://dejure.org/gesetze/UWG/4.html)
+- [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
 
 ---
 
 ## Skill: `policy-db-abschlussmemo`
 
-_Wenn es um Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung
 
@@ -321,11 +317,15 @@ Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umg
 
 ---
 
-## Skill: `einstweilige-verfuegung-datenbankrecht-dringlichkeit`
+## Skill: `ki-training-mit-datenbankbestand`
 
-_Wenn es um Einstweilige Verfügung im Datenbankrecht — Dringlichkeit und Verfügungsantrag in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für digitale Werkzeuge-Training mit Datenbankbeständen — Datenbankrecht und TDM-Schranken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Einstweilige Verfügung im Datenbankrecht — Dringlichkeit und Verfügungsantrag
+# KI-Training mit Datenbankbeständen — Datenbankrecht und TDM-Schranken
+
+## Arbeitsbereich
+
+Rechtliche Analyse des KI-Trainings mit Datenbankbeständen: §§ 44b und 60d UrhG (Text- und Data-Mining-Schranken), Verhältnis zu §§ 87a-87e UrhG, Opt-out-Pflichten nach § 44b Abs. 3 UrhG und DSM-RL Art. 4. Bewertet kommerzielle vs. wissenschaftliche TDM-Nutzung und erstellt Compliance-Plan für KI-Unternehmen und Datenbankbetreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -337,62 +337,110 @@ _Wenn es um Einstweilige Verfügung im Datenbankrecht — Dringlichkeit und Verf
 
 ## Mandantenfall
 
-- Datenbankbetreiber entdeckt heute Abend, dass ein Wettbewerber alle seine Daten abgreift und will morgen eine einstweilige Verfügung beim Landgericht beantragen.
-- Anwalt muss prüfen, ob die Dringlichkeit durch vorheriges Zuwarten des Mandanten bereits verwirkt ist.
-- Gegenanwalt soll eine Schutzschrift für den beschuldigten Auslesedienst einreichen, bevor der Antragsteller das Gericht anruft.
+- KI-Startup möchte eine kommerzielle Sprachmodell-Trainingsdatenbank aus lizenzierten und öffentlichen Quellen zusammenstellen und benötigt Rechtssicherheit zur TDM-Schranke.
+- Datenbankbetreiber fragt, wie er sein Opt-out gegen KI-Training technisch und rechtlich wirksam dokumentieren kann.
+- Forschungsinstitut will eine Datenbanksammlung für nicht-kommerzielle Textanalyse nutzen und prüft, ob § 60d UrhG die Nutzung erlaubt.
 
 ## Erste Schritte
 
-1. Verfügungsanspruch prüfen: § 87b UrhG Verletzungstatbestand — Entnahme wesentlicher Teile ohne Erlaubnis; Unterlassungsanspruch nach § 97 Abs. 1 UrhG.
-2. Verfügungsgrund prüfen: Dringlichkeit — aktuelle Verletzung oder unmittelbar drohende Verletzung? Dringlichkeitsvermutung bei Urheberrechtsverletzungen nach h.M.
-3. Dringlichkeitsverwirkung bewerten: Zuwarten von mehr als 4-6 Wochen nach Kenntnis der Verletzung kann Dringlichkeit beseitigen — zeitkritisch!
-4. Zuständiges Gericht bestimmen: LG am Beklagtenwohnsitz, Tatortgericht, fliegender Gerichtsstand bei Internet-Verletzungen.
-5. Glaubhaftmachung organisieren: Eidesstattliche Versicherung des Mandanten, Anlagen (Logs, Screenshots, Honey-Pot-Nachweis) vorbereiten.
-6. Vollziehungsfrist beachten: § 929 Abs. 2 ZPO — Verfügung muss innerhalb eines Monats nach Erlass zugestellt und vollzogen werden.
+1. Nutzungsart bestimmen: Kommerzielles KI-Training (§ 44b UrhG) oder wissenschaftliche Forschung (§ 60d UrhG)?
+2. Datenbankschutz der Quelle prüfen: Greift §§ 87a ff. UrhG für die Quelldatenbank? Ist eine Lizenz oder Schranke erforderlich?
+3. Opt-out der Rechteinhaber prüfen: Hat der Datenbankbetreiber einen maschinenlesbaren Opt-out erklärt (§ 44b Abs. 3 UrhG)?
+4. Vertragslage analysieren: Lizenzbedingungen der Quelldatenbank, AGB, API-Nutzungsbedingungen — erlauben sie Training?
+5. Technische Umsetzung des Opt-outs dokumentieren: robots.txt-Einträge, HTTP-Header, Metadaten — reichen diese als maschinenlesbarer Vorbehalt?
+6. DSGVO-Schnittmenge prüfen: Enthält die Trainingsdatenbank personenbezogene Daten (§ 12 DSGVO, Art. 6 Abs. 1 DSGVO)?
 
 ## Rechtsrahmen
 
-- § 87b UrhG: Unterlassungsanspruch bei Entnahme wesentlicher Teile als Verletzungstatbestand.
-- § 97 Abs. 1 UrhG: Unterlassung und Schadensersatz bei Urheberrechtsverletzungen.
-- §§ 935-940 ZPO: Einstweilige Verfügung — Verfügungsanspruch und Verfügungsgrund als Voraussetzungen.
-- § 294 ZPO: Glaubhaftmachung statt Vollbeweis im einstweiligen Verfügungsverfahren.
-- § 929 Abs. 2 ZPO: Vollziehungsfrist von einem Monat ab Erlass der Verfügung.
-- § 12 Abs. 2 UWG: Dringlichkeitsvermutung im UWG-Bereich; im Urheberrecht analoge Anwendung durch viele Gerichte.
+- § 44b UrhG: TDM-Schranke für kommerzielle Zwecke — erlaubt Vervielfältigung für TDM, es sei denn, Rechteinhaber hat Opt-out erklärt.
+- § 60d UrhG: TDM-Schranke für wissenschaftliche Forschung — weitgehend zwingend, kaum Opt-out möglich.
+- § 87b UrhG: Datenbankherstellerrecht — TDM-Schranken gelten auch gegenüber dem sui-generis-Recht (§ 87c Abs. 1 Nr. 4 UrhG).
+- DSM-RL Art. 3-4 (RL 2019/790): Europäische Grundlage der TDM-Schranken; Art. 4 für kommerzielle TDM mit Opt-out.
+- § 87c UrhG: Erlaubte Handlungen — Verweis auf § 44b und § 60d als Schranken.
+- Art. 6 Abs. 1 DSGVO: Rechtsgrundlage für Verarbeitung personenbezogener Trainingsdaten.
 
 ## Prüfraster
 
-- Liegt ein Verfügungsanspruch vor — ist die Verletzung nach § 87b UrhG glaubhaft gemacht?
-- Besteht ein Verfügungsgrund — aktuelle Verletzung, Wiederholungsgefahr oder unmittelbar drohende Erstbegehung?
-- Hat der Antragsteller nach Kenntnis der Verletzung zu lange gewartet (Dringlichkeitsverwirkung, Richtwert ca. 4-6 Wochen)?
-- Welches Gericht ist zuständig — fliegender Gerichtsstand bei internetbasierter Verletzung?
-- Sind die Beweismittel zur Glaubhaftmachung ausreichend und authentisch (§ 294 ZPO)?
-- Ist die Vollziehungsfrist von einem Monat nach Erlass realistisch einhaltbar?
-- Hat der Gegner bereits eine Schutzschrift eingereicht — welche Gegengründe sind zu erwarten?
+- Dient das KI-Training einem kommerziellen oder wissenschaftlichen Zweck?
+- Wurde ein wirksamer maschinenlesbarer Opt-out durch den Datenbankbetreiber erklärt?
+- Enthält die Datenbank urheberrechtlich oder durch Herstellerrecht geschützte Inhalte?
+- Erlauben vorhandene Lizenzverträge die Nutzung für KI-Training explizit oder schließen sie diese aus?
+- Werden personenbezogene Daten für das Training verwendet — welche DSGVO-Rechtsgrundlage gilt?
+- Sind die erzeugten KI-Modelle selbst als abgeleitete Datenbankwerke einzuordnen?
+- Welche Dokumentationspflichten gelten für den Trainingsdatensatz (Transparenz, DSM-RL Erwägungsgrund 18)?
 
 ## Typische Fallstricke
 
-- Zu langes Zuwarten nach Kenntnis der Verletzung vernichtet die Dringlichkeit — sofortiges Handeln ist entscheidend.
-- Unzureichende Glaubhaftmachung (fehlende eidesstattliche Versicherung, unvollständige Anlagen) führt zur Antragsabweisung.
-- Vollziehungsfrist nach § 929 Abs. 2 ZPO wird übersehen — nicht vollzogene Verfügung verliert Wirkung.
-- Bei anonymen oder ausländischen Verletzern Zustellung und Vollzug im Ausland schwierig — Zuständigkeitsprüfung vorab.
-- Widerspruch des Gegners führt zur mündlichen Verhandlung — Hauptsacheklage vorbereiten.
+- Opt-out nach § 44b Abs. 3 UrhG muss maschinenlesbar sein — ein allgemeines AGB-Verbot reicht nicht aus.
+- Kommerzielle TDM-Schranke schützt nicht, wenn der Opt-out vor dem Abruf wirksam erklärt wurde.
+- Auch öffentlich zugängliche Datenbanken können durch Herstellerrecht geschützt sein — öffentlich ≠ frei nutzbar.
+- § 60d UrhG gilt nur für originär wissenschaftliche Forschung, nicht für Forschungs-Spin-offs mit kommerziellem Fokus.
+- Das erzeugte KI-Modell kann Datenbankschutz der Quelldatenbank weitertragen, wenn Trainingsdaten direkt abrufbar sind.
 
 ## Quellen
 
+- [§ 44b UrhG TDM-Schranke — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)
+- [§ 60d UrhG wissenschaftliches TDM — dejure.org](https://dejure.org/gesetze/UrhG/60d.html)
+- [§ 87c UrhG erlaubte Handlungen — dejure.org](https://dejure.org/gesetze/UrhG/87c.html)
+- [DSM-Richtlinie 2019/790 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0790)
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
-- [§ 97 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97.html)
-- [§§ 935-940 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/935.html)
-- [§ 294 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/294.html)
-- [§ 929 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/929.html)
-- [§ 12 UWG — dejure.org](https://dejure.org/gesetze/UWG/12.html)
+- [Art. 6 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
 
 ---
 
-## Skill: `verletzung-dokumentieren-hashlog-screenshot-abrufprotokoll`
+## Skill: `db-020-oeffentliche-register-handelsregister-grundbuch`
 
-_Wenn es um Verletzung dokumentieren — Hash-Logs, Screenshots und Abruflauf-Protokolle in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Datenbankrecht: Öffentliche Register Handelsregister Grundbuch Transparenzregister: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck._
 
-# Verletzung dokumentieren — Hash-Logs, Screenshots und Abruflauf-Protokolle
+# Datenbankrecht: Öffentliche Register Handelsregister Grundbuch Transparenzregister
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Öffentliche Register Handelsregister Grundbuch Transparenzregister** im Bereich **Datenbankrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- UrhG §§ 87a ff. und Datenbankrichtlinie live prüfen
+- Investition in Beschaffung, Überprüfung oder Darstellung sauber belegen
+- Entnahme/Weiterverwendung technisch und rechtlich trennen
+- Schranken, TDM, Vertrag, DSGVO und Data Act mitprüfen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Datenbankrechte-Memo
+- Datenabruf-Risikomatrix
+- Lizenzklausel
+- Abmahnantwort
+- EV-Check
+- Beweisprotokoll
+
+---
+
+## Skill: `b2b-kundendaten-datenbank-insolvenz-als`
+
+_Für B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht
 
 ## Arbeitsweg
 
@@ -404,60 +452,60 @@ _Wenn es um Verletzung dokumentieren — Hash-Logs, Screenshots und Abruflauf-Pr
 
 ## Mandantenfall
 
-- Datenbankbetreiber hat Hinweise auf systematisches automatisierten Datenabruf durch einen Wettbewerber und fragt, wie er Beweise gerichtsfest sichert.
-- Anwalt bereitet eine Klage nach § 87b UrhG vor und benötigt verwertbare Beweismittel für Entnahmemenge und Systematik des Verletzers.
-- IT-Abteilung eines Unternehmens soll ein Beweissicherungsprotokoll entwickeln, das bei zukünftigen Datenbankrechts-Verletzungen sofort einsetzbar ist.
+- Vertriebsmitarbeiter verlässt das Unternehmen und nimmt dabei die vollständige CRM-Kundendatenbank auf einem USB-Stick mit zum Wettbewerber.
+- Unternehmen fragt, welche Ansprüche gegen den ausgeschiedenen Mitarbeiter und den aufnehmenden Wettbewerber bestehen.
+- Arbeitgeber will präventiv sicherstellen, dass CRM-Exporte technisch verhindert und vertraglich verboten werden.
 
 ## Erste Schritte
 
-1. Beweissicherungsziele definieren: Was muss bewiesen werden — Tatsache der Entnahme, Umfang, Systematik, Zurechenbarkeit zum Verletzer?
-2. Technische Beweismittel sichern: Server-Logs (IP-Adressen, User-Agents, Zeitstempel, Anfragevolumen), API-Gateway-Protokolle, Datenbankabfrage-Logs.
-3. Hash-Logs erstellen: Kryptographische Hashwerte der Datenbankzustände vor und nach Verletzungszeitraum als Integritätsnachweis.
-4. Screenshots und Zeitstempel sichern: Dokumentation der verletzenden Website/App, notariell beglaubigt oder mit qualifizierter elektronischer Zeitstempelung (eIDAS-VO).
-5. Honey-Pot-Datensätze als Beweismittel: Einzigartiger Datensatz in der Datenbank, der beim Verletzer nachweisbar auftaucht.
-6. Notarielle oder gerichtliche Sicherung: Einstweilige Beweissicherung nach § 485 ZPO; Internetseiten-Protokollierung durch Notar.
+1. Datenbankherstellerrecht prüfen: Hat das Unternehmen eine wesentliche Investition in seine CRM-Kundendatenbank (Beschaffung, Überprüfung, Darstellung der Kundendaten) getätigt?
+2. Geschäftsgeheimnisschutz prüfen: Sind die Kundendaten als Geschäftsgeheimnis nach § 2 Nr. 1 GeschGehG geschützt — geheim, wertvoll, Geheimhaltungsmaßnahmen vorhanden?
+3. Verletzungshandlung bestimmen: § 87b UrhG (Entnahme wesentlicher Teile), § 4 GeschGehG (rechtswidrige Erlangung und Nutzung), Arbeitsvertragsverletzung.
+4. Ansprüche gegen Mitarbeiter und Wettbewerber formulieren: Unterlassung, Herausgabe, Schadensersatz, Auskunft.
+5. Einstweilige Verfügung prüfen: Dringlichkeit bejaht bei aktueller Verwendung beim Wettbewerber — Verfügungsanspruch und Verfügungsgrund.
+6. DSGVO-Pflichten klären: Datenpanne nach Art. 33-34 DSGVO melden — wenn personenbezogene Kundendaten betroffen.
 
 ## Rechtsrahmen
 
-- § 87b UrhG: Verletzungstatbestand — Nachweis der Entnahme wesentlicher Teile und Zurechenbarkeit erforderlich.
-- § 485 ZPO: Selbstständiges Beweisverfahren zur vorprozessualen Sicherung von Beweismitteln.
-- § 97a UrhG: Abmahnerfordernis — Abmahnung muss auf gesichertem Beweisstand beruhen.
-- eIDAS-VO Art. 41: Qualifizierter elektronischer Zeitstempel als Beweis für Zeitpunkt der Sicherung.
-- § 286 ZPO: Freie Beweiswürdigung — technische Protokolle sind als Beweismittel zulässig, müssen aber authentisch und vollständig sein.
-- § 371 ZPO: Augenscheinsbeweis für digitale Inhalte — Screenshots, Videos, Protokolle als Beweismittel.
+- § 87a UrhG: CRM-Datenbank als Datenbank mit wesentlicher Investition in Kundendatenbeschaffung und -pflege.
+- § 87b UrhG: Entnahme wesentlicher Teile durch den Mitarbeiter als Verletzung des Herstellerrechts.
+- § 2 Nr. 1 GeschGehG: Kundendaten als Geschäftsgeheimnis, wenn nicht allgemein bekannt, wirtschaftlich wertvoll und angemessen geheim gehalten.
+- § 4 GeschGehG: Verbotene Handlungen — rechtswidrige Erlangung, Nutzung und Offenlegung.
+- Art. 33-34 DSGVO: Meldepflicht bei Datenpannen an Aufsichtsbehörde und betroffene Kunden.
+- § 241 Abs. 2 BGB: Nebenpflicht des Arbeitnehmers zur Rücksicht auf Arbeitgeberinteressen — verletzt durch CRM-Export.
 
 ## Prüfraster
 
-- Sind Server-Logs lückenlos und manipulationsgeschützt gespeichert (Schreibschutz, Hash-Signaturen)?
-- Lässt sich aus den Logs die IP-Adresse, User-Agent-Zeichenkette und das Abfragevolumen des Verletzers eindeutig ermitteln?
-- Sind Honey-Pot-Datensätze vorhanden und eindeutig identifizierbar, wenn sie beim Verletzer auftauchen?
-- Wurde die verletzende Website/App durch Notar oder mit qualifiziertem Zeitstempel dokumentiert?
-- Ist der Sachverständige benannt und gebrieft, um technische Beweismittel vor Gericht zu erläutern?
-- Wurden die Beweismittel zeitnah gesichert und nicht nachträglich verändert?
-- Ist die Kette der Beweismittel lückenlos — von der Entnahme bis zum Erscheinen beim Verletzer?
+- Hat das Unternehmen angemessene Geheimhaltungsmaßnahmen für die CRM-Datenbank ergriffen (Zugangsbeschränkungen, NDA, Löschpflicht bei Ausscheiden)?
+- Enthält der Arbeitsvertrag explizite Verbote zur Mitnahme von Kundendaten bei Ausscheiden?
+- Weist die exportierte Datenmenge auf eine Entnahme wesentlicher Teile hin (§ 87b UrhG)?
+- Verwendet der Wettbewerber die Daten bereits aktiv — besteht Dringlichkeit für einstweilige Verfügung?
+- Sind personenbezogene Kundendaten betroffen — ist eine Datenpannen-Meldung nach Art. 33 DSGVO erforderlich?
+- Kann technisch nachgewiesen werden, dass ein Export stattgefunden hat (USB-Logs, E-Mail-Forensik, Zugriffsprotokoll)?
+- Ist der aufnehmende Wettbewerber gutgläubig oder wusste er von der rechtswidrigen Herkunft der Daten?
 
 ## Typische Fallstricke
 
-- Server-Logs werden regelmäßig überschrieben — ohne Sicherungsprozess gehen entscheidende Beweise verloren.
-- IP-Adressen allein sind kein sicherer Täternachweis — VPN, TOR, Proxy-Ketten können Verschleierung ermöglichen.
-- Screenshots ohne Zeitstempel sind als Beweismittel schwach — notarielle oder elektronische Zeitstempelung ist erforderlich.
-- Honey-Pot-Datensätze müssen von Anfang an in der Datenbank vorhanden sein — nachträgliches Einpflegen ist als Beweis wertlos.
-- Ohne Sachverständigen scheitern technische Beweismittel im Prozess häufig an mangelnder gerichtlicher Würdigung.
+- Fehlende technische Sperren (kein USB-Block, kein Export-Verbot im CRM) schwächen die Position im GeschGehG-Prozess erheblich.
+- Ohne DSGVO-Datenpannen-Meldung droht zusätzliches Bußgeld durch die Datenschutzbehörde.
+- Ansprüche gegen den Wettbewerber setzen Kenntnis oder fahrlässige Unkenntnis von der unrechtmäßigen Herkunft voraus.
+- Arbeitsrechtliche Abmahnung und außerordentliche Kündigung müssen zeitnah erfolgen — keine Verwirkung.
+- Berechnung des Schadens ist komplex: entgangene Aufträge, Lizenzanalogie oder pauschaler Schadensersatz nach § 97 Abs. 2 UrhG.
 
 ## Quellen
 
+- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [§ 4 GeschGehG — dejure.org](https://dejure.org/gesetze/GeschGehG/4.html)
+- [Art. 33 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/33.html)
+- [§ 241 BGB — dejure.org](https://dejure.org/gesetze/BGB/241.html)
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
-- [§ 485 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/485.html)
-- [§ 97a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97a.html)
-- [§ 286 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/286.html)
-- [eIDAS-VO — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32014R0910)
-- [§ 371 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/371.html)
+- [GeschGehG — gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/index.html)
 
 ---
 
 ## Skill: `webdaten-auslesen-datenbank-und-robots-txt`
 
-_Wenn es um Webdaten-Auslesen gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse in Datenbankrecht und Datenbankherstellerrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Webdaten-Auslesen gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Webdaten-Auslesen gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse
 
@@ -523,77 +571,6 @@ Rechtliche Bewertung von Webdaten-Auslesen gegen Websites mit Datenbankcharakter
 - [§ 202a StGB — dejure.org](https://dejure.org/gesetze/StGB/202a.html)
 - [EuGH C-202/12 Innoweb/Wegener — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-
----
-
-## Skill: `datenbankrecht-abschlussmemo`
-
-_Wenn es um Datenbankrecht Abschlussmemo: Rechtslage, Maßnahmen, offene Risiken in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Datenbankrecht Abschlussmemo: Rechtslage, Maßnahmen, offene Risiken
-
-## Arbeitsbereich
-
-Erstellung eines strukturierten Abschlussmemos nach Abschluss einer datenbankrechlichen Beratung: Zusammenfassung der Rechtslage nach §§ 87a-87e UrhG und § 4 UrhG, RL 96/9/EG, relevanter EuGH-Urteile (BHB/William Hill C-203/02, Apis/Lakorda C-545/07, Innoweb/Wegener C-202/12), getroffener Maßnahmen, offener Risiken und Empfehlungen. Output: mandantenfähiges Abschlussmemo mit Risikomatrix, Handlungsempfehlungen, Monitoring-Plan und Wiedervorlageterminen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-
-- Nach Abschluss eines Verletzungsverfahrens (Abmahnung, einstweilige Verfügung, Unterlassungsvertrag) möchte der Mandant eine schriftliche Zusammenfassung der Rechtslage, der getroffenen Maßnahmen und der verbleibenden Risiken.
-- Am Ende einer M&A-Due-Diligence zu Datenbankrechten soll ein Abschlussmemo alle Feststellungen, Bewertungen und Deal-Bedingungen dokumentieren.
-- Ein Forschungsprojekt endet; Drittmittelgeber und Hochschulleitung benötigen eine rechtliche Zusammenfassung der Datenbankrechte an den erhobenen Forschungsdaten sowie Empfehlungen zur weiteren Nutzung.
-
-## Erste Schritte
-
-1. **Sachverhalt strukturieren**: Ausgangslage, Mandanteninteressen, Verfahrens- oder Beratungsverlauf in chronologischer Reihenfolge darstellen; relevante Datenbanken und Parteien benennen.
-2. **Rechtliche Bewertung zusammenfassen**: Schutzfähigkeit der Datenbank(en) nach §§ 87a, 4 UrhG, Verletzungshandlungen nach § 87b UrhG, angewandte EuGH-Maßstäbe und nationale Rechtsprechung kompakt darlegen.
-3. **Maßnahmen dokumentieren**: Welche Schritte wurden unternommen (Abmahnung, Sicherung, Lizenzvertrag, technische Maßnahmen, Behördenmeldung)? Ergebnisse und Stand der Durchsetzung festhalten.
-4. **Risikomatrix erstellen**: Verbleibende Risiken (laufende Verfahren, ungeklärte Rechtsfragen, vertragliche Restrisiken) nach Eintrittswahrscheinlichkeit und Schadenspotenzial klassifizieren.
-5. **Handlungsempfehlungen formulieren**: Kurzfristige (sofort), mittelfristige (3-6 Monate) und langfristige (12+ Monate) Empfehlungen zu Prävention, Lizenzierung, Compliance-Maßnahmen, Monitoring.
-6. **Wiedervorlagetermine setzen**: Fristen für Vertragsverlängerungen, Überprüfung von Unterlassungsverpflichtungen, Ablauf von Schutzfristen (15 Jahre § 87d UrhG), geplante Rechtsänderungen (Data Act-Umsetzung) kalendarisch festhalten.
-
-## Rechtsrahmen
-
-- **§ 87a UrhG** — Schutzvoraussetzungen: wesentliche Investition in Beschaffung, Überprüfung oder Darstellung; 15-jährige Schutzfrist nach § 87d UrhG.
-- **§ 87b UrhG** — Verbotene Handlungen: Entnahme oder Weiterverwendung wesentlicher Teile; wiederholte systematische Entnahme unwesentlicher Teile.
-- **§ 87e UrhG** — Unwirksamkeit vertraglicher Einschränkungen der Schranken für rechtmäßige Nutzer; relevant für Lizenzklauseln im Abschlussmemo.
-- **Art. 7 RL 96/9/EG** — Europäische Grundlage des Herstellerrechts; EuGH-Auslegungshoheit bei Zweifelsfragen zu Investition und Entnahme.
-- **EuGH C-203/02 BHB/William Hill** — Investition muss in Beschaffung/Überprüfung vorhandener Daten bestehen, nicht in Datenerzeugung; Maßstab für Schutzfähigkeitsanalyse im Memo.
-- **§ 97 Abs. 2 UrhG** — Schadensersatz: tatsächlicher Schaden, Herausgabe des Verletzergewinns oder Lizenzanalogie; Berechnungsmethode im Memo dokumentieren.
-
-## Prüfraster
-
-- Ist die rechtliche Schutzfähigkeitsbewertung der Datenbank(en) abschließend dokumentiert (wesentliche Investition, Abgrenzung Datenerzeugung vs. Beschaffung)?
-- Sind alle festgestellten Verletzungshandlungen mit Datum, Umfang und Beweismitteln erfasst?
-- Ist die angewandte Schadensberechnungsmethode (Lizenzanalogie, Verletzergewinn, tatsächlicher Schaden) begründet und nachvollziehbar?
-- Enthält das Memo alle getroffenen Vereinbarungen (Unterlassungsverträge, Lizenzverträge, Vergleiche) mit Vertragsparteien, Datum und wesentlichen Pflichten?
-- Sind verbleibende offene Risiken (z.B. parallele Verfahren, unklar ob Opt-out nach § 44b UrhG wirksam) explizit als solche ausgewiesen?
-- Sind Wiedervorlagetermine (Schutzfristablauf § 87d UrhG, Vertragslaufzeiten, gesetzliche Überprüfungsklauseln) im Memo kalendarisch hinterlegt?
-- Ist das Memo mandantenseitig freigegeben und versioniert abgelegt?
-
-## Typische Fallstricke
-
-- **Schutzfristablauf übersehen**: Die 15-Jahres-Frist des § 87d UrhG beginnt neu bei wesentlichen Erweiterungen; ohne Monitoring entfällt der Schutz unbemerkt.
-- **Unvollständige Maßnahmendokumentation**: Mündliche Absprachen oder informelle Einigungen fehlen im Memo; im Streitfall nicht nachweisbar.
-- **Risiken als gelöst darstellen**: Offene Fragen (z.B. ob eine Handlung tatsächlich unwesentliche Teile betraf) sollten explizit als offen ausgewiesen werden, nicht verschwiegen.
-- **Fehlende Anschlussberatung**: Abschlussmemo endet ohne klare Empfehlung zur nächsten Handlung; Mandant bleibt ohne Orientierung für Folgerisiken.
-- **Vertraulichkeit**: Memos mit Risikoeinschätzungen dürfen nicht in Discovery oder behördlichen Verfahren auftauchen; Schutz durch Legal-Privilege prüfen und hinweisen.
-
-## Quellen
-
-- [§ 87a UrhG — Datenbankherstellerrecht (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/urhg/__87a.html)
-- [§ 87d UrhG — Schutzdauer (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/urhg/__87d.html)
-- [§ 97 UrhG — Unterlassung und Schadensersatz (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/urhg/__97.html)
-- [RL 96/9/EG — Datenbankrichtlinie Art. 7 (eur-lex.europa.eu)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-- [EuGH C-203/02 BHB/William Hill — Investitionsbegriff (curia.europa.eu)](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
-- [EuGH C-545/07 Apis/Lakorda — Datenextraktion (curia.europa.eu)](https://curia.europa.eu/juris/liste.jsf?num=C-545/07)
 
 ---
 

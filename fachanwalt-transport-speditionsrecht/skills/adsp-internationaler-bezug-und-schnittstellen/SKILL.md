@@ -1,6 +1,6 @@
 ---
 name: adsp-internationaler-bezug-und-schnittstellen
-description: "Wenn es um Adsp: Internationaler Bezug und Schnittstellen in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Adsp: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Adsp: Internationaler Bezug und Schnittstellen

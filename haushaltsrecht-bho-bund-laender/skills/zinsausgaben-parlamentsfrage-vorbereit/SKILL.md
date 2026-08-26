@@ -1,6 +1,6 @@
 ---
 name: zinsausgaben-parlamentsfrage-vorbereit
-description: "Wenn es um Zinsausgaben Parlamentsfrage Vorbereit in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zinsausgaben Parlamentsfrage Vorbereit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zinsausgaben Parlamentsfrage Vorbereit

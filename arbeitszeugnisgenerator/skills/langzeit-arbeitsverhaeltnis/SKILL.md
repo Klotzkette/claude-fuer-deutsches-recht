@@ -1,6 +1,6 @@
 ---
 name: langzeit-arbeitsverhaeltnis
-description: "Strukturiert Zeugnisse nach langen Arbeitsverhältnissen mit Rollenwechseln, Beförderungen, Unterbrechungen und wechselnden Schwerpunkten. Verdichtet die Historie ohne prägende Tätigkeiten oder Entwicklungsstufen zu verlieren und vermeidet schematische Jahreschroniken."
+description: "Strukturiert Zeugnisse nach langen Arbeitsverhältnissen mit Rollenwechseln, Beförderungen, Unterbrechungen und wechselnden Schwerpunkten."
 ---
 
 # Langzeit-Arbeitsverhältnis

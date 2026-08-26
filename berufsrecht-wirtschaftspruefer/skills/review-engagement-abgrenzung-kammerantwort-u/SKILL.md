@@ -1,6 +1,6 @@
 ---
 name: review-engagement-abgrenzung-kammerantwort-u
-description: "Wenn es um Review Engagement Abgrenzung Kammerantwort U in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Review Engagement Abgrenzung Kammerantwort U: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: review engagement abgrenzung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

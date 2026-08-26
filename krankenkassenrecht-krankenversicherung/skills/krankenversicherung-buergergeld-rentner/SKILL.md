@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-buergergeld-rentner
-description: "Wenn es um Bürgergeld, Rentner und Krankenversicherungspflicht in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgergeld, Rentner und Krankenversicherungspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bürgergeld, Rentner und Krankenversicherungspflicht

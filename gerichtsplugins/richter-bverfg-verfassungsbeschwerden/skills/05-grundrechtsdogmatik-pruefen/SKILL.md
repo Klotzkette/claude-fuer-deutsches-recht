@@ -1,6 +1,6 @@
 ---
 name: 05-grundrechtsdogmatik-pruefen
-description: "Wenn es um 05 Grundrechtsdogmatik Prüfen in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 05 Grundrechtsdogmatik Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 05 Grundrechtsdogmatik Prüfen

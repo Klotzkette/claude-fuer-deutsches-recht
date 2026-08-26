@@ -1,6 +1,6 @@
 ---
 name: lex-mercatoria-einsatzgrenzen-unidroit-hardship
-description: "Wenn es um Lex Mercatoria: Geltungsbereich und Grenzen in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lex Mercatoria: Geltungsbereich und Grenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lex Mercatoria: Geltungsbereich und Grenzen

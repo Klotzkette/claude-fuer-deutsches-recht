@@ -1,6 +1,6 @@
 ---
 name: litigation-hold-client
-description: "Wenn es um Litigation Hold beim Mandanten in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Litigation Hold beim Mandanten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Litigation Hold beim Mandanten

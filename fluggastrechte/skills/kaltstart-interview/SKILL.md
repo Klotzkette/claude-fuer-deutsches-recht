@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Wenn es um /fluggastrechte:fluggastrechte-kaltstart-interview in Fluggastrechte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für /fluggastrechte:fluggastrechte-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /fluggastrechte:fluggastrechte-kaltstart-interview

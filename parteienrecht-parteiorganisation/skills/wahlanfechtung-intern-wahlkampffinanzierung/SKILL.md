@@ -1,6 +1,6 @@
 ---
 name: wahlanfechtung-intern-wahlkampffinanzierung
-description: "Wenn es um Interne Wahlanfechtung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Wahlanfechtung Intern Wahlkampffinanzierung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Interne Wahlanfechtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: wahlanfechtung-intern-wahlkampffinanzierung."
 ---
 
 # Interne Wahlanfechtung

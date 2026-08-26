@@ -1,6 +1,6 @@
 ---
 name: verl-048-muster-herausgebervertrag-red-team
-description: "Wenn es um Verlagsrecht: Muster Herausgebervertrag Red-Team in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Muster Herausgebervertrag Red-Team: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Verlagsrecht: Muster Herausgebervertrag Red-Team

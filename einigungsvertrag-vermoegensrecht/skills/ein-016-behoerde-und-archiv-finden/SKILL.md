@@ -1,6 +1,6 @@
 ---
 name: ein-016-behoerde-und-archiv-finden
-description: "Wenn es um Behoerde Und Archiv Finden in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Behörde und Archiv Finden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: ein-016-behoerde-und-archiv-finden."
 ---
 
 # Behoerde Und Archiv Finden

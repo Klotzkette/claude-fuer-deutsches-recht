@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-pfaendungsschutzkonto
-description: "Wenn es um Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verbraucherinsolvenz: Pfändungsschutzkonto P-Konto: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto

@@ -1,6 +1,6 @@
 ---
 name: verfassung-beweislast-verfassungsbeschwerde
-description: "Wenn es um Verfassung: Beweislast, Darlegungslast und Substantiierung in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfassung: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Verfassung: Beweislast, Darlegungslast und Substantiierung

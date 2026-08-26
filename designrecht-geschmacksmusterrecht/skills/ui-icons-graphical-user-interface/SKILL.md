@@ -1,6 +1,6 @@
 ---
 name: ui-icons-graphical-user-interface
-description: "Wenn es um Ui Icons Graphical User Interface in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Ui Icons Graphical User Interface: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ui Icons Graphical User Interface

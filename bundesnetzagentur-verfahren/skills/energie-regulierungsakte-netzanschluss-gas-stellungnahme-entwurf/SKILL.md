@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-netzanschluss-gas-stellungnahme-entwurf
-description: "Wenn es um Energie-Regulierungsakte: Netzanschluss Gas — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie-Regulierungsakte: Netzanschluss Gas — Stellungnahme-Entwurf: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: Netzanschluss Gas — Stellungnahme-Entwurf

@@ -1,6 +1,6 @@
 ---
 name: agb-transparenzgebot-307-abs-1-satz-2
-description: "Wenn es um Agb Transparenzgebot 307 Abs 1 Satz 2 in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB Transparenzgebot 307 Abs 1 Satz 2: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agb Transparenzgebot 307 Abs 1 Satz 2

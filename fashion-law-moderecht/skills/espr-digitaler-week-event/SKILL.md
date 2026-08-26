@@ -1,6 +1,6 @@
 ---
 name: espr-digitaler-week-event
-description: "Wenn es um Espr Digitaler Produktpass in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Espr Digitaler Produktpass: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Espr Digitaler Produktpass

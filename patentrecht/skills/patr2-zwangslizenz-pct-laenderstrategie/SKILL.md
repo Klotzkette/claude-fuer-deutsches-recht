@@ -1,6 +1,6 @@
 ---
 name: patr2-zwangslizenz-pct-laenderstrategie
-description: "Wenn es um PatR2: Zwangslizenz FRAND in patentrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PatR2: Zwangslizenz FRAND: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # PatR2: Zwangslizenz FRAND

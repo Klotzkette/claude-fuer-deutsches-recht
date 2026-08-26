@@ -1,6 +1,6 @@
 ---
 name: familienbudget-und-haushaltsplan
-description: "Wenn es um Familienbudget Und Haushaltsplan in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Familienbudget und Haushaltsplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.

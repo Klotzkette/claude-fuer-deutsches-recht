@@ -1,6 +1,6 @@
 ---
 name: kv-070-leistungsbescheid-lesen-fuer-laien
-description: "Wenn es um Krankenversicherung: Leistungsbescheid lesen für Laien in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Leistungsbescheid lesen für Laien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Leistungsbescheid lesen für Laien

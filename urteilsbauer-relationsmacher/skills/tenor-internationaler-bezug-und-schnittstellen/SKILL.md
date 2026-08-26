@@ -1,6 +1,6 @@
 ---
 name: tenor-internationaler-bezug-und-schnittstellen
-description: "Wenn es um Tenor: Internationaler Bezug und Schnittstellen in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tenor Internationaler Bezug Und Schnittstellen; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Tenor: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Urteilsbauer und Relationsmacher. Route: tenor-internationaler-bezug-und-schnittstellen."
 ---
 
 # Tenor: Internationaler Bezug und Schnittstellen

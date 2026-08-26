@@ -1,6 +1,6 @@
 ---
 name: mietrecht-modernisierung-und-erhalt
-description: "Wenn es um Mietrecht Modernisierung Und Erhalt in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mietrecht Modernisierung und Erhalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Modernisierung und Erhaltung abgrenzen: Modernisierungsumlage 8 Prozent (Kappung 3 Euro/qm in 6 Jahren), Erhaltungsaufwand auf Vermieter, Duldungspflicht Mieter §§ 555a ff

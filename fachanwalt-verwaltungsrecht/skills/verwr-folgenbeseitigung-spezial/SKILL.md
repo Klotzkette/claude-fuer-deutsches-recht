@@ -1,6 +1,6 @@
 ---
 name: verwr-folgenbeseitigung-spezial
-description: "Wenn es um Verwr Folgenbeseitigung Spezial in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verwr Folgenbeseitigung Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Folgenbeseitigungsanspruch: Grundlage Art

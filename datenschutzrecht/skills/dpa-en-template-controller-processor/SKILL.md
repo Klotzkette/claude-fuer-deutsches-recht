@@ -1,6 +1,6 @@
 ---
 name: dpa-en-template-controller-processor
-description: "Wenn es um Data Processing Agreement (DPA) – English Template Controller / Processor in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Data Processing Agreement (DPA) – English Template Controller / Processor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Data Processing Agreement (DPA) – English Template Controller / Processor

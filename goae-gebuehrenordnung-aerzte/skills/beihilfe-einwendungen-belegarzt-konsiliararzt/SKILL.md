@@ -1,6 +1,6 @@
 ---
 name: beihilfe-einwendungen-belegarzt-konsiliararzt
-description: "Wenn es um Beihilfe Einwendungen und Differenzbetrag in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Beihilfe Einwendungen und Differenzbetrag: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beihilfe Einwendungen und Differenzbetrag

@@ -1,6 +1,6 @@
 ---
 name: presseanfragen-kdv-psychische-belastung
-description: "Wenn es um Presseanfragen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Presseanfragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Presseanfragen

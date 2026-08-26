@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-bank-kwg-fit-proper
-description: "Wenn es um Aufsichtsrat Bank: KWG-Fit-and-Proper-Anforderungen in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Aufsichtsrat Bank: KWG-Fit-and-Proper-Anforderungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufsichtsrat Bank: KWG-Fit-and-Proper-Anforderungen

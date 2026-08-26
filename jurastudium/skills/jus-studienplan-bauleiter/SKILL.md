@@ -1,6 +1,6 @@
 ---
 name: jus-studienplan-bauleiter
-description: "Wenn es um JuS: Studienplan Bauleiter in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für JuS: Studienplan Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # JuS: Studienplan Bauleiter

@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-und-urhebervertragsrecht
-description: "Wenn es um Datenbankrecht und Urhebervertragsrecht — Nutzungsrechte für Datenbankwerke in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht und Urhebervertragsrecht — Nutzungsrechte für Datenbankwerke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht und Urhebervertragsrecht — Nutzungsrechte für Datenbankwerke

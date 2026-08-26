@@ -1,6 +1,6 @@
 ---
 name: ki-dienstleister-43e-brao-praxis
-description: "Wenn es um digitale Werkzeuge-Dienstleister nach Paragraf 43e BRAO in der Praxis in Berufsrecht Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge-Dienstleister nach Paragraf 43e BRAO in der Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Dienstleister nach § 43e BRAO in der Praxis

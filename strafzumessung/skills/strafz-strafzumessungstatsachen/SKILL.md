@@ -1,6 +1,6 @@
 ---
 name: strafz-strafzumessungstatsachen
-description: "Wenn es um StrafZ: Tatsachen Bauleiter in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für StrafZ: Tatsachen Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # StrafZ: Tatsachen Bauleiter

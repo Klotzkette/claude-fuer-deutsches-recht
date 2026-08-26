@@ -1,6 +1,6 @@
 ---
 name: fran-047-systemwechsel-rebranding
-description: "Wenn es um Franchiserecht: Systemwechsel Rebranding in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Systemwechsel Rebranding: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Systemwechsel Rebranding

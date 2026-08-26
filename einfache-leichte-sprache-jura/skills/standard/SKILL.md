@@ -1,6 +1,6 @@
 ---
 name: standard
-description: "Wenn es um Standard: Verhandlung, Vergleich und Eskalation in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Standard: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Standard: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: founder-update-intake
-description: "Wenn es um Founder-Update Intake in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Founder-Update Intake: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Founder-Update Intake

@@ -1,6 +1,6 @@
 ---
 name: lernmodus-juristendeutsch-mehrsprachige
-description: "Wenn es um Lernmodus Juristendeutsch in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lernmodus Juristendeutsch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Lernmodus Juristendeutsch

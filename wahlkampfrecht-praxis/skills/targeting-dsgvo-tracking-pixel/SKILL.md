@@ -1,6 +1,6 @@
 ---
 name: targeting-dsgvo-tracking-pixel
-description: "Wenn es um Targeting Dsgvo in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Targeting DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Targeting Dsgvo

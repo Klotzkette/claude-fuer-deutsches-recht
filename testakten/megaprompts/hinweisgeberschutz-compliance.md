@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 102 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Hinweisgeberschutz Compliance ein juristisches Arbeitsprodukt tragfähig begründet werden muss…
-2. **kaltstart-triage** — Wenn es um Allgemein in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: klärt Rolle, Ziel, Frist, Unterlagen un…
-3. **datenschutz-dsgvo-meldeakte** — Wenn es um Datenschutz DSGVO Meldeakte in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: ordnet Akteninhalt, B…
-4. **arbeitsgericht-klage-arbeitsschutz-audit** — Wenn es um Arbeitsgericht Klage in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: erstellt den passenden Entwu…
-5. **dokumentationspflicht** — Wenn es um Dokumentationspflicht in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: ordnet Akteninhalt, Belege,…
-6. **settlement-und-aufhebungsvertrag** — Wenn es um Settlement Und Aufhebungsvertrag in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: entwickelt Verha…
-7. **gerichtliche-rechtsprechung-eingangsfrist** — Wenn es um Gerichtliche Rechtsprechung Livecheck in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist…
-8. **verschwiegenheitsklauseln-redline** — Wenn es um Verschwiegenheitsklauseln Redline in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Fo…
+2. **kaltstart-triage** — Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. F…
+3. **vertraulichkeit-vs-zugriffskonzept** — Für Vertraulichkeit Vs Anhörung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+4. **vertraulichkeit-vs-anhoerung** — Für Vertraulichkeit Vs Anhörung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+5. **einstweiliger-rechtsschutz** — Für Einstweiliger Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+6. **untersuchung-datenschutz-dsgvo** — Für Compliance Untersuchung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+7. **redteam-qualitygate** — Für Redteam Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristenche…
+8. **schadensersatz** — Für Schadensersatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fa…
 
 ---
 
@@ -134,7 +134,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Allgemein in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Hinweisgeberschutz, Meldestellen und NDA-Konflikte._
 
 # Allgemein
 
@@ -197,11 +197,11 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ---
 
-## Skill: `datenschutz-dsgvo-meldeakte`
+## Skill: `vertraulichkeit-vs-zugriffskonzept`
 
-_Wenn es um Datenschutz DSGVO Meldeakte in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Vertraulichkeit Vs Anhörung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Hinweisgeberschutz, Meldestellen und NDA-Konflikte. Route: vertraulichkeit-vs-zugriffskonzept._
 
-# Datenschutz DSGVO Meldeakte
+# Vertraulichkeit Vs Anhörung
 
 ## Arbeitsweg
 
@@ -212,7 +212,7 @@ _Wenn es um Datenschutz DSGVO Meldeakte in Hinweisgeberschutz, Meldestellen und 
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung, Eingangsbestätigung, Untersuchungsbericht, Maßnahmenkatalog, Schulungsnachweis, Risikoanalyse, Meldestelle-Konzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Wofür dieser Arbeitsgang da ist
-Rechtsgrundlage, Rollen, Informationen, Betroffenenrechte, Löschung, Zugriff und Drittland.
+Wie viel Sachverhalt offenlegen, ohne Identität oder unnötige Daten preiszugeben.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
 
@@ -234,7 +234,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 
 ## Fachanker
 
-- Primärer Anker: DSGVO; HinSchG Dokumentation.
+- Primärer Anker: HinSchG; DSGVO; Arbeitsrecht.
 - Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
 - Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
 
@@ -247,7 +247,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 
 ## Ergebnisformat
 
-Erzeuge bevorzugt: Datenschutzvermerk. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+Erzeuge bevorzugt: Anhörungsleitfaden. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
 
 ## Qualitätsfilter
 
@@ -255,22 +255,14 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ---
 
-## Skill: `arbeitsgericht-klage-arbeitsschutz-audit`
+## Skill: `vertraulichkeit-vs-anhoerung`
 
-_Wenn es um Arbeitsgericht Klage in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Vertraulichkeit Vs Anhörung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Hinweisgeberschutz, Meldestellen und NDA-Konflikte. Route: vertraulichkeit-vs-anhoerung._
 
-# Arbeitsgericht Klage
+# Vertraulichkeit Vs Anhoerung
 
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: HinSchG § 17 Eingangsbestätigung 7 Tage, § 17 Abs. 2 Rückmeldung 3 Monate, Aufbewahrung Meldedokumentation 3 Jahre, Schulung verpflichtend.
-- Tragende Normen verifizieren: HinSchG §§ 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG § 84, BDSG § 26, DSGVO Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung, Eingangsbestätigung, Untersuchungsbericht, Maßnahmenkatalog, Schulungsnachweis, Risikoanalyse, Meldestelle-Konzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wofür dieser Arbeitsgang da ist
-Anträge, Kausalität, Beweislast, Vergleich, Beschäftigungsanspruch und Belege.
+## Wofür dieser Skill da ist
+Wie viel Sachverhalt offenlegen, ohne Identität oder unnötige Daten preiszugeben.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
 
@@ -292,7 +284,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 
 ## Fachanker
 
-- Primärer Anker: ArbGG; HinSchG; KSchG.
+- Primärer Anker: HinSchG; DSGVO; Arbeitsrecht.
 - Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
 - Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
 
@@ -305,7 +297,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 
 ## Ergebnisformat
 
-Erzeuge bevorzugt: Klagebausteine. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+Erzeuge bevorzugt: Anhörungsleitfaden. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
 
 ## Qualitätsfilter
 
@@ -313,11 +305,11 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ---
 
-## Skill: `dokumentationspflicht`
+## Skill: `einstweiliger-rechtsschutz`
 
-_Wenn es um Dokumentationspflicht in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Einstweiliger Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Hinweisgeberschutz, Meldestellen und NDA-Konflikte._
 
-# Dokumentationspflicht
+# Einstweiliger Rechtsschutz
 
 ## Arbeitsweg
 
@@ -328,7 +320,7 @@ _Wenn es um Dokumentationspflicht in Hinweisgeberschutz, Meldestellen und NDA-Ko
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung, Eingangsbestätigung, Untersuchungsbericht, Maßnahmenkatalog, Schulungsnachweis, Risikoanalyse, Meldestelle-Konzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Wofür dieser Arbeitsgang da ist
-Dauerhaft abrufbar, Einwilligung bei Gespräch, Protokollkorrektur, Löschung und Zugriff.
+Versetzung, Freistellung, Datenlöschung, Kündigung, Unterlassung und Dringlichkeit.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
 
@@ -350,7 +342,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 
 ## Fachanker
 
-- Primärer Anker: HinSchG Dokumentation live.
+- Primärer Anker: ArbGG/ZPO; HinSchG.
 - Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
 - Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
 
@@ -363,7 +355,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 
 ## Ergebnisformat
 
-Erzeuge bevorzugt: Dokumentationsstandard. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+Erzeuge bevorzugt: Eilantragsvermerk. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
 
 ## Qualitätsfilter
 
@@ -371,11 +363,11 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ---
 
-## Skill: `settlement-und-aufhebungsvertrag`
+## Skill: `untersuchung-datenschutz-dsgvo`
 
-_Wenn es um Settlement Und Aufhebungsvertrag in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
+_Für Compliance Untersuchung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Hinweisgeberschutz, Meldestellen und NDA-Konflikte._
 
-# Settlement Und Aufhebungsvertrag
+# Compliance Untersuchung
 
 ## Arbeitsweg
 
@@ -386,7 +378,7 @@ _Wenn es um Settlement Und Aufhebungsvertrag in Hinweisgeberschutz, Meldestellen
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung, Eingangsbestätigung, Untersuchungsbericht, Maßnahmenkatalog, Schulungsnachweis, Risikoanalyse, Meldestelle-Konzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Wofür dieser Arbeitsgang da ist
-Stillhalten, Non-disparagement, Rückgabe, Auskunft, Behördenkontakte und Abgeltung.
+Hypothesen, Beweise, Interviews, Privilege, Datenschutz, Bericht, Maßnahmen und Abschluss.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
 
@@ -408,7 +400,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 
 ## Fachanker
 
-- Primärer Anker: HinSchG; BGB; Arbeitsrecht.
+- Primärer Anker: HinSchG; Arbeitsrecht; Strafrecht.
 - Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
 - Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
 
@@ -421,7 +413,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 
 ## Ergebnisformat
 
-Erzeuge bevorzugt: Vergleichsredline. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+Erzeuge bevorzugt: Investigation-Plan. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
 
 ## Qualitätsfilter
 
@@ -429,22 +421,14 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ---
 
-## Skill: `gerichtliche-rechtsprechung-eingangsfrist`
+## Skill: `redteam-qualitygate`
 
-_Wenn es um Gerichtliche Rechtsprechung Livecheck in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Redteam Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Hinweisgeberschutz, Meldestellen und NDA-Konflikte._
 
-# Gerichtliche Rechtsprechung Livecheck
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: HinSchG § 17 Eingangsbestätigung 7 Tage, § 17 Abs. 2 Rückmeldung 3 Monate, Aufbewahrung Meldedokumentation 3 Jahre, Schulung verpflichtend.
-- Tragende Normen verifizieren: HinSchG §§ 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG § 84, BDSG § 26, DSGVO Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung, Eingangsbestätigung, Untersuchungsbericht, Maßnahmenkatalog, Schulungsnachweis, Risikoanalyse, Meldestelle-Konzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+# Redteam Qualitygate
 
 ## Wofür dieser Arbeitsgang da ist
-Gericht, Datum, Aktenzeichen, freie Quelle, tragender Satz, keine Paywall-Literatur.
+Prüft Fristen, Vertraulichkeit, Quellen, Beweisbarkeit, Ton und Anschlussmaßnahmen.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
 
@@ -466,7 +450,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 
 ## Fachanker
 
-- Primärer Anker: Arbeitsgerichte/BAG frei prüfen; dejure/openJur/amtlich.
+- Primärer Anker: HinSchG; Quellenhygiene.
 - Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
 - Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
 
@@ -479,7 +463,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 
 ## Ergebnisformat
 
-Erzeuge bevorzugt: Rspr-Prüfvermerk. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+Erzeuge bevorzugt: Quality-Gate. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
 
 ## Qualitätsfilter
 
@@ -487,11 +471,11 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ---
 
-## Skill: `verschwiegenheitsklauseln-redline`
+## Skill: `schadensersatz`
 
-_Wenn es um Verschwiegenheitsklauseln Redline in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Schadensersatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Hinweisgeberschutz, Meldestellen und NDA-Konflikte._
 
-# Verschwiegenheitsklauseln Redline
+# Schadensersatz
 
 ## Arbeitsweg
 
@@ -502,7 +486,7 @@ _Wenn es um Verschwiegenheitsklauseln Redline in Hinweisgeberschutz, Meldestelle
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung, Eingangsbestätigung, Untersuchungsbericht, Maßnahmenkatalog, Schulungsnachweis, Risikoanalyse, Meldestelle-Konzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Wofür dieser Arbeitsgang da ist
-Carve-outs, keine chilling effects, Behördenkontakte, Rechtsberatung, Geschäftsgeheimnisse und Datenschutz.
+Materielle Schäden, immaterielle Folgen, Kausalität, Beweise und Vergleichsstrategie.
 
 Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
 
@@ -524,7 +508,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 
 ## Fachanker
 
-- Primärer Anker: HinSchG; AGB-Recht; GeschGehG.
+- Primärer Anker: HinSchG Schadensersatz; BGB.
 - Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
 - Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
 
@@ -537,7 +521,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 
 ## Ergebnisformat
 
-Erzeuge bevorzugt: Klauselvorschlag. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+Erzeuge bevorzugt: Schadensmatrix. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
 
 ## Qualitätsfilter
 

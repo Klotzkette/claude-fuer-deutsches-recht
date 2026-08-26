@@ -1,6 +1,6 @@
 ---
 name: schoeffe-dolmetscher-sitzung
-description: "Wenn es um Schöffe und Dolmetscher: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schöffe und Dolmetscher: Sitzungspraxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schöffe und Dolmetscher: Sitzungspraxis

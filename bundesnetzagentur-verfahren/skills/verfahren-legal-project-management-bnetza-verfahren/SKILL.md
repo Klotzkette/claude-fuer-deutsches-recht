@@ -1,6 +1,6 @@
 ---
 name: verfahren-legal-project-management-bnetza-verfahren
-description: "Wenn es um Verfahren: Legal Project Management BNetzA-Verfahren in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verfahren: Legal Project Management BNetzA-Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfahren: Legal Project Management BNetzA-Verfahren

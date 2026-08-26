@@ -1,6 +1,6 @@
 ---
 name: mitarbeiterhandbuch-startup
-description: "Wenn es um Mitarbeiterhandbuch Startup in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mitarbeiterhandbuch Startup: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mitarbeiterhandbuch Startup

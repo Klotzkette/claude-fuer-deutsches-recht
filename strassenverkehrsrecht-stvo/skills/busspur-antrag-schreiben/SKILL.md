@@ -1,6 +1,6 @@
 ---
 name: busspur-antrag-schreiben
-description: "Wenn es um Busspur Antrag Schreiben in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Busspur Antrag Schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Busspur Antrag Schreiben

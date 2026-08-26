@@ -1,6 +1,6 @@
 ---
 name: nda-bei-r-d-kooperation
-description: "Wenn es um NDA bei F&E-Kooperation in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nda Bei R D Kooperation; Arbeitsfeld: NDA-Abgleich."
+description: "Für NDA bei F&E-Kooperation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA bei F&E-Kooperation

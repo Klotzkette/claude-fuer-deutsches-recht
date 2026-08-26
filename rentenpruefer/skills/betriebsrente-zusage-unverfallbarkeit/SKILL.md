@@ -1,6 +1,6 @@
 ---
 name: betriebsrente-zusage-unverfallbarkeit
-description: "Wenn es um Betriebsrente Zusage Unverfallbarkeit in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Betriebsrente Zusage Unverfallbarkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsrente Zusage Unverfallbarkeit

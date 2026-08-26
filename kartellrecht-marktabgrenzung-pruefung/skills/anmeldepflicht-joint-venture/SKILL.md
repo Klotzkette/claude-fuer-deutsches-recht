@@ -1,6 +1,6 @@
 ---
 name: anmeldepflicht-joint-venture
-description: "Wenn es um Anmeldepflicht Joint Venture in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Anmeldepflicht Joint Venture: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anmeldepflicht Joint Venture

@@ -1,6 +1,6 @@
 ---
 name: insolvenz-principal
-description: "Wenn es um Insolvenz des Unternehmers — Auswirkungen auf Handelsvertretervertrag und Ansprüche in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenz des Unternehmers — Auswirkungen auf Handelsvertretervertrag und Ansprüche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenz des Unternehmers — Auswirkungen auf Handelsvertretervertrag und Ansprüche

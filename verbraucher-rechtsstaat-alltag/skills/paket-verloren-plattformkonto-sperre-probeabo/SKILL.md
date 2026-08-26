@@ -1,6 +1,6 @@
 ---
 name: paket-verloren-plattformkonto-sperre-probeabo
-description: "Wenn es um Paket verloren oder beim Nachbarn in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paket verloren oder beim Nachbarn: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Paket verloren oder beim Nachbarn

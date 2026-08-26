@@ -1,6 +1,6 @@
 ---
 name: dsv-benachrichtigung-art-34-ausnahmen
-description: "Wenn es um Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art

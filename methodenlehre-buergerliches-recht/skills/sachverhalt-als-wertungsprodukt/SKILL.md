@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-als-wertungsprodukt
-description: "Wenn es um Sachverhalt als Wertungsprodukt in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachverhalt als Wertungsprodukt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sachverhalt als Wertungsprodukt

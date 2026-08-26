@@ -1,6 +1,6 @@
 ---
 name: pfueb-arbeitsentgelt
-description: "Wenn es um PfÜB Arbeitsentgelt in Zwangsvollstreckung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für PfÜB Arbeitsentgelt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PfÜB Arbeitsentgelt

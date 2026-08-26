@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-aussteuerung-nahtlosigkeit
-description: "Wenn es um Laienhilfe: Aussteuerung Nahtlosigkeit in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laienhilfe: Aussteuerung Nahtlosigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Laienhilfe: Aussteuerung Nahtlosigkeit

@@ -1,6 +1,6 @@
 ---
 name: unechte-goa-paragraph-687
-description: "Wenn es um Unechte GoA Paragraf 687 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unechte GoA Paragraf 687 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unechte GoA § 687 BGB

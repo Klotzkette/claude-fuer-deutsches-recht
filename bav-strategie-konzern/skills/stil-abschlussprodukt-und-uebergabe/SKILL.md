@@ -1,6 +1,6 @@
 ---
 name: stil-abschlussprodukt-und-uebergabe
-description: "Wenn es um Stil: Abschlussprodukt und Übergabe in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stil: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stil: Abschlussprodukt und Übergabe

@@ -1,6 +1,6 @@
 ---
 name: china-electronics-and-semiconductors-medical
-description: "Wenn es um Elektronik und Halbleiter: Exportkontrolle und US/EU-Regulierung in China-Wirtschaftsverkehr geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Elektronik und Halbleiter: Exportkontrolle und US/EU-Regulierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Elektronik und Halbleiter: Exportkontrolle und US/EU-Regulierung

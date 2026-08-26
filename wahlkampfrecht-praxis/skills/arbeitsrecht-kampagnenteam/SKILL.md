@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-kampagnenteam
-description: "Wenn es um Arbeitsrecht Kampagnenteam in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsrecht Kampagnenteam: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsrecht Kampagnenteam

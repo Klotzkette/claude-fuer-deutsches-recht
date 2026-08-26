@@ -1,6 +1,6 @@
 ---
 name: diebstahl-totalschaden
-description: "Wenn es um Diebstahl und Totalschaden: Gefahrtragung im Leasingrecht in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Diebstahl und Totalschaden: Gefahrtragung im Leasingrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Diebstahl und Totalschaden: Gefahrtragung im Leasingrecht

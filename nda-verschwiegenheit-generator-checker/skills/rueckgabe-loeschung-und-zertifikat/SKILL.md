@@ -1,6 +1,6 @@
 ---
 name: rueckgabe-loeschung-und-zertifikat
-description: "Wenn es um Rueckgabe Loeschung Und Zertifikat in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rückgabe Löschung und Zertifikat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rueckgabe Loeschung Und Zertifikat

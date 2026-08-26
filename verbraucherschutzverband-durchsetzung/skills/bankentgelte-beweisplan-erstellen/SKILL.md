@@ -1,6 +1,6 @@
 ---
 name: bankentgelte-beweisplan-erstellen
-description: "Wenn es um Bankentgelte Beweisplan Erstellen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bankentgelte Beweisplan Erstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Bankentgelte Beweisplan Erstellen

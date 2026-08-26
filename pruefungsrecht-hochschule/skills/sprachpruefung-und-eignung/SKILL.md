@@ -1,6 +1,6 @@
 ---
 name: sprachpruefung-und-eignung
-description: "Wenn es um Sprachpruefung Und Eignung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sprachprüfung und Eignung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Sprachpruefung Und Eignung

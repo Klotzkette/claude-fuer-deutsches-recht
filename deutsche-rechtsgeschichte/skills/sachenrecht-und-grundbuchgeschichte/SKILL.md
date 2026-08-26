@@ -1,6 +1,6 @@
 ---
 name: sachenrecht-und-grundbuchgeschichte
-description: "Wenn es um Sachenrecht und Grundbuchgeschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachenrecht und Grundbuchgeschichte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sachenrecht und Grundbuchgeschichte

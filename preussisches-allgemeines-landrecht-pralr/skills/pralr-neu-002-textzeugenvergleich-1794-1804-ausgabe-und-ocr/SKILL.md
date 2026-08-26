@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-002-textzeugenvergleich-1794-1804-ausgabe-und-ocr
-description: "Wenn es um PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR in Preußisches Allgemeines Landrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR

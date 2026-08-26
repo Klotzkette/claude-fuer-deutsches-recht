@@ -1,6 +1,6 @@
 ---
 name: vergleich-mediation-nachbarschaftsfrieden
-description: "Wenn es um Vergleich, Mediation und Nachbarschaftsfrieden in Nachbarschaftsstreit-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich, Mediation und Nachbarschaftsfrieden: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleich, Mediation und Nachbarschaftsfrieden

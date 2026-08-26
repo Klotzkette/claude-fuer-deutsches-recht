@@ -1,6 +1,6 @@
 ---
 name: patentprozess-schutzschrift-und-caveat
-description: "Wenn es um Patentprozess: Schutzschrift und Protective Letter in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Patentprozess: Schutzschrift und Protective Letter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentprozess: Schutzschrift und Protective Letter

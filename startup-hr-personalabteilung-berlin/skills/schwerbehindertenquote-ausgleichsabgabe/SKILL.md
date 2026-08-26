@@ -1,6 +1,6 @@
 ---
 name: schwerbehindertenquote-ausgleichsabgabe
-description: "Wenn es um Schwerbehindertenquote Ausgleichsabgabe in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schwerbehindertenquote Ausgleichsabgabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schwerbehindertenquote Ausgleichsabgabe

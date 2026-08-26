@@ -1,6 +1,6 @@
 ---
 name: transparenzgesetz-drittanhoerung-begle-widerspruch-bauen
-description: "Wenn es um Transparenzgesetz Drittanhoerung Begle in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transparenzgesetz Drittanhörung Begle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transparenzgesetz Drittanhoerung Begle

@@ -1,6 +1,6 @@
 ---
 name: 06-tenor-und-kostenentscheidung
-description: "Wenn es um 06 Tenor und Kostenentscheidung in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 06 Tenor und Kostenentscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 06 Tenor und Kostenentscheidung

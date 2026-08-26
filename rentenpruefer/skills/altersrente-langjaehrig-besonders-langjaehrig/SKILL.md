@@ -1,6 +1,6 @@
 ---
 name: altersrente-langjaehrig-besonders-langjaehrig
-description: "Wenn es um altersrente-langjaehrig-besonders-langjaehrig in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für altersrente-langjaehrig-besonders-langjaehrig: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # altersrente-langjaehrig-besonders-langjaehrig

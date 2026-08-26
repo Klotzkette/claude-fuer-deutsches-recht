@@ -1,6 +1,6 @@
 ---
 name: haftpflicht-paragraf-100-vvg
-description: "Wenn es um Haftpflicht Paragraf 100 VVG in Fachanwalt Versicherungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftpflicht Paragraf 100 VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haftpflicht § 100 VVG

@@ -1,6 +1,6 @@
 ---
 name: accounting-cyber
-description: "Wenn es um Bilanzierungsunregelmäßigkeiten und Accounting-Forensik in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bilanzierungsunregelmäßigkeiten und Accounting-Forensik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bilanzierungsunregelmäßigkeiten und Accounting-Forensik

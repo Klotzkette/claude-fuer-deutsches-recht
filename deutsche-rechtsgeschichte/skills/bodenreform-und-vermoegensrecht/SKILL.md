@@ -1,6 +1,6 @@
 ---
 name: bodenreform-und-vermoegensrecht
-description: "Wenn es um Bodenreform und Vermögensrecht (1945-1990) in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Bodenreform und Vermögensrecht (1945-1990): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bodenreform und Vermögensrecht (1945-1990)

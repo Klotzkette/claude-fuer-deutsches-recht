@@ -1,6 +1,6 @@
 ---
 name: rechtsfolge-unwirksamkeit-und-bekanntmachung
-description: "Wenn es um Rechtsfolge Unwirksamkeit Und Bekanntmachung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Rechtsfolge Unwirksamkeit und Bekanntmachung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsfolge der Unwirksamkeit: Allgemeinverbindlichkeit, Veröffentlichung, Folgebescheide, Rückabwicklung und Vertrauensschutz.

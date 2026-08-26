@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-scheinselbststaendigkeit
-description: "Wenn es um Rechtsabteilung: Scheinselbstständigkeit des Handelsvertreters in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Scheinselbstständigkeit des Handelsvertreters: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Scheinselbstständigkeit des Handelsvertreters

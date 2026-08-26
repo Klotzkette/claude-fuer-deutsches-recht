@@ -1,6 +1,6 @@
 ---
 name: dora-ikt-vertragspruefung
-description: "Wenn es um DORA-IKT-Vertragsprüfung in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DORA-IKT-Vertragsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # DORA-IKT-Vertragsprüfung

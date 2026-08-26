@@ -1,6 +1,6 @@
 ---
 name: see-059-yachtkauf-klagepfad-waehlen
-description: "Wenn es um Yachtkauf Klagepfad Waehlen in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Yachtkauf Klagepfad Wählen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Yachtkauf Klagepfad Waehlen

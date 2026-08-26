@@ -1,6 +1,6 @@
 ---
 name: statusfeststellung-it-freelancer-paragraf-7-sgb-iv
-description: "Prüft den sozialversicherungsrechtlichen Status eines IT-Freelancers auftragsbezogen. Bewertet Vertrag und gelebte Praxis, Eingliederung, Weisungen, Projektverantwortung, Betriebsmittel, Vertretung und Unternehmerrisiko und erstellt Statusmatrix, Belegplan und Antrag oder Widerspruch nach Paragraf 7a SGB IV."
+description: "Prüft den sozialversicherungsrechtlichen Status eines IT-Freelancers auftragsbezogen."
 ---
 
 # Status eines IT-Freelancers feststellen

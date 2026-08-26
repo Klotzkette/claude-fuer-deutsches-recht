@@ -1,6 +1,6 @@
 ---
 name: red-team-shop-vor-launch
-description: "Wenn es um Red-Team Shop vor Launch in E-Commerce-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team Shop vor Launch: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team Shop vor Launch

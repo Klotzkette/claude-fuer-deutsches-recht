@@ -1,6 +1,6 @@
 ---
 name: pricing-gebuehren-zins-marge-transparenz
-description: "Wenn es um Pricing Gebühren Zins Marge Transparenz in Factoring-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pricing Gebühren Zins Marge Transparenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Pricing Gebühren Zins Marge Transparenz

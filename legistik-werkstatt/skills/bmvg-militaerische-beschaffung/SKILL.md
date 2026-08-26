@@ -1,6 +1,6 @@
 ---
 name: bmvg-militaerische-beschaffung
-description: "Wenn es um Militaerische Beschaffung und Vergaberecht (BMVg) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmvg Militaerische Beschaffung; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Militärische Beschaffung und Vergaberecht (BMVg): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmvg-militaerische-beschaffung."
 ---
 
 # Militaerische Beschaffung und Vergaberecht (BMVg)

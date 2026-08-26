@@ -1,6 +1,6 @@
 ---
 name: ortschaftsrat-satzung-redlinen
-description: "Wenn es um Ortschaftsrat Satzung Redlinen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ortschaftsrat Satzung Redlinen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ortschaftsrat Satzung Redlinen

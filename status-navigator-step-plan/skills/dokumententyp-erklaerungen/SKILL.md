@@ -1,6 +1,6 @@
 ---
 name: dokumententyp-erklaerungen
-description: "Wenn es um Dokumententyp einseitige Erklaerungen in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Dokumententyp einseitige Erklärungen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumententyp einseitige Erklaerungen

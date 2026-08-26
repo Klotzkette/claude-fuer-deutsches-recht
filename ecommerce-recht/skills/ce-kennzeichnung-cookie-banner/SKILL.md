@@ -1,6 +1,6 @@
 ---
 name: ce-kennzeichnung-cookie-banner
-description: "Wenn es um CE-Kennzeichnung Produktrecht Schnittstelle in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für CE-Kennzeichnung Produktrecht Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CE-Kennzeichnung Produktrecht Schnittstelle

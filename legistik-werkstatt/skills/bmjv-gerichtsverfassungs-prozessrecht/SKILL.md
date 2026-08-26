@@ -1,6 +1,6 @@
 ---
 name: bmjv-gerichtsverfassungs-prozessrecht
-description: "Wenn es um Gerichtsverfassungs- und Prozessrecht (BMJV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Bmjv Gerichtsverfassungs Prozessrecht; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Gerichtsverfassungs- und Prozessrecht (BMJV): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmjv-gerichtsverfassungs-prozessrecht."
 ---
 
 # Gerichtsverfassungs- und Prozessrecht (BMJV)

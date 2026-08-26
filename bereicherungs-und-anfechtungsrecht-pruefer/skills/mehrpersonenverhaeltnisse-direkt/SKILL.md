@@ -1,6 +1,6 @@
 ---
 name: mehrpersonenverhaeltnisse-direkt
-description: "Wenn es um Mehrpersonenverhältnisse — Direkt- und Durchgriffskondiktion in bereicherungs-und-anfechtungsrecht-prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mehrpersonenverhältnisse — Direkt- und Durchgriffskondiktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: mehrpersonenverhaeltnisse-direkt."
 ---
 
 # Mehrpersonenverhältnisse — Direkt- und Durchgriffskondiktion

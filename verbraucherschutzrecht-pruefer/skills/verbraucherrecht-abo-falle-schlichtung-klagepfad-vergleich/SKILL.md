@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-abo-falle-schlichtung-klagepfad-vergleich
-description: "Wenn es um Abo Falle Schlichtung Wählen in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Abo Falle Schlichtung Wählen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Abo Falle Schlichtung Wählen

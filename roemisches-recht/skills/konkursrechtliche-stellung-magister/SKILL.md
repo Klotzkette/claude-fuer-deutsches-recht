@@ -1,6 +1,6 @@
 ---
 name: konkursrechtliche-stellung-magister
-description: "Wenn es um Rom 119 Konkursrechtliche Stellung Des Magister Bonorum in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Konkursrechtliche Stellung Magister; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 119 Konkursrechtliche Stellung des Magister Bonorum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: konkursrechtliche-stellung-magister."
 ---
 
 # Rom 119 Konkursrechtliche Stellung Des Magister Bonorum

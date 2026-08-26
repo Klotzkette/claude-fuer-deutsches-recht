@@ -1,6 +1,6 @@
 ---
 name: kelsen-normativismus-und-reine-rechtslehre
-description: "Wenn es um Kelsen: Normativismus und reine Rechtslehre in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Kelsen: Normativismus und reine Rechtslehre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Kelsen: Normativismus und reine Rechtslehre

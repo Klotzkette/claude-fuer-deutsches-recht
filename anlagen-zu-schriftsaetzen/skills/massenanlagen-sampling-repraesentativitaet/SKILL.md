@@ -1,6 +1,6 @@
 ---
 name: massenanlagen-sampling-repraesentativitaet
-description: "Wenn es um Massenanlagen, Sampling und Repräsentativität in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Massenanlagen Sampling Repraesentativitaet; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Massenanlagen, Sampling und Repräsentativität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: massenanlagen-sampling-repraesentativitaet."
 ---
 
 # Massenanlagen, Sampling und Repräsentativität

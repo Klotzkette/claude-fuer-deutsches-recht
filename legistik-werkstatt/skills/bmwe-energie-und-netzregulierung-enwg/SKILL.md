@@ -1,6 +1,6 @@
 ---
 name: bmwe-energie-und-netzregulierung-enwg
-description: "Wenn es um Energierecht und Netzregulierung (EnWG) (BMWE) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Energierecht und Netzregulierung (EnWG) (BMWE): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energierecht und Netzregulierung (EnWG) (BMWE)

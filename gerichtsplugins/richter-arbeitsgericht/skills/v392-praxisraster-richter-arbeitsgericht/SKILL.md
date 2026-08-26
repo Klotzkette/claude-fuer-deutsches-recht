@@ -1,6 +1,6 @@
 ---
 name: v392-praxisraster-richter-arbeitsgericht
-description: "Wenn es um Praxisraster Arbeitsgericht in Arbeitsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Praxisraster Arbeitsgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praxisraster Arbeitsgericht

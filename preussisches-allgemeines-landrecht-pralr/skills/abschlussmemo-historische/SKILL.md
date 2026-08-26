@@ -1,6 +1,6 @@
 ---
 name: abschlussmemo-historische
-description: "Wenn es um Abschlussmemo in Preußisches Allgemeines Landrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Abschlussmemo Historische; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Abschlussmemo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Preußisches Allgemeines Landrecht. Route: abschlussmemo-historische."
 ---
 
 # Abschlussmemo

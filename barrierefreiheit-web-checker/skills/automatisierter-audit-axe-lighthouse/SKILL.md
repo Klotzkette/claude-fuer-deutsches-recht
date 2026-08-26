@@ -1,6 +1,6 @@
 ---
 name: automatisierter-audit-axe-lighthouse
-description: "Wenn es um Automatisierter Audit in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Automatisierter Audit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Automatisierter Audit

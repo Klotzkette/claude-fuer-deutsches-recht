@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-zugangsregulierung-telekommunikation
-description: "Wenn es um Telekommunikation: Zugangsregulierung Telekommunikation in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Telekommunikation: Zugangsregulierung Telekommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telekommunikation: Zugangsregulierung Telekommunikation

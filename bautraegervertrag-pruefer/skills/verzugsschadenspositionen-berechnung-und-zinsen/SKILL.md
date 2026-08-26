@@ -1,6 +1,6 @@
 ---
 name: verzugsschadenspositionen-berechnung-und-zinsen
-description: "Wenn es um Verzugsschäden, Berechnung und Zinsen in Bauträgervertrag-Prüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Verzugsschäden, Berechnung und Zinsen: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Verzugsschäden, Berechnung und Zinsen

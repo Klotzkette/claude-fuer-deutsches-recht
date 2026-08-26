@@ -1,6 +1,6 @@
 ---
 name: drafting-internationaler-bezug-und-schnittstellen
-description: "Wenn es um Drafting: Internationaler Bezug und Schnittstellen in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Drafting: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Drafting: Internationaler Bezug und Schnittstellen

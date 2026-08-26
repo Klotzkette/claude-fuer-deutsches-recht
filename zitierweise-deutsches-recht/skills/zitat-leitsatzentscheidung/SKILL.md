@@ -1,6 +1,6 @@
 ---
 name: zitat-leitsatzentscheidung
-description: "Wenn es um Leitsatz-Entscheidung in Zitierweise deutsches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Leitsatz-Entscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leitsatz-Entscheidung

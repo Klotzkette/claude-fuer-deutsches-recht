@@ -1,6 +1,6 @@
 ---
 name: db-ablehnungsgruende-pruefen
-description: "Wenn es um Katalog der DB-Ablehnungsgründe und Gegenargumente in Fahrgastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Katalog der DB-Ablehnungsgründe und Gegenargumente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Katalog der DB-Ablehnungsgründe und Gegenargumente

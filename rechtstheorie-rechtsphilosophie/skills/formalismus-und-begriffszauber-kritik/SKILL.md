@@ -1,6 +1,6 @@
 ---
 name: formalismus-und-begriffszauber-kritik
-description: "Wenn es um Formalismus und Begriffszauber in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Formalismus und Begriffszauber: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Formalismus und Begriffszauber

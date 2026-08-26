@@ -1,6 +1,6 @@
 ---
 name: beweislast-grundregel-wer-was
-description: "Wenn es um Wer beweist was? Die Beweislast im Zivilprozess in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Wer beweist was? die Beweislast im Zivilprozess: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Wer beweist was? Die Beweislast im Zivilprozess

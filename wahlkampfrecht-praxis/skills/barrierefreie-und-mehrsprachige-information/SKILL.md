@@ -1,6 +1,6 @@
 ---
 name: barrierefreie-und-mehrsprachige-information
-description: "Wenn es um Barrierefreie Und Mehrsprachige Information in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Barrierefreie und Mehrsprachige Information: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Barrierefreie Und Mehrsprachige Information

@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-anlagenverzeichnis-afa
-description: "Wenn es um Anlagenverzeichnis und AfA — Jahresabschluss-Aktualisierung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anlagenverzeichnis und AfA — Jahresabschluss-Aktualisierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagenverzeichnis und AfA — Jahresabschluss-Aktualisierung

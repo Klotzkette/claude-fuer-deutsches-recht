@@ -1,6 +1,6 @@
 ---
 name: eingliederungshilfe-schule
-description: "Wenn es um Eingliederungshilfe Schule in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eingliederungshilfe Schule: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt müssen Anspruch klären und durchsetzen

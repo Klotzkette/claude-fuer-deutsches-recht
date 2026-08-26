@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-steuerstrafrecht-373-ao-schmuggel
-description: "Wenn es um Gewerbsmäßiger und bandenmäßiger Schmuggel nach Paragraph 373 AO in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gewerbsmäßiger und bandenmäßiger Schmuggel nach Paragraph 373 AO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gewerbsmäßiger und bandenmäßiger Schmuggel nach Paragraph 373 AO

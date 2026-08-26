@@ -1,6 +1,6 @@
 ---
 name: franchise-internationaler-kontext
-description: "Wenn es um Franchise Internationaler Kontext in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchise Internationaler Kontext: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Franchise Internationaler Kontext

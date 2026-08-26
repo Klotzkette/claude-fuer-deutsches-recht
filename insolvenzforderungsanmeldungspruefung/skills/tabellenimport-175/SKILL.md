@@ -1,6 +1,6 @@
 ---
 name: tabellenimport-175
-description: "Wenn es um Tabellenimport nach Paragraf 175 InsO in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tabellenimport nach Paragraf 175 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tabellenimport nach § 175 InsO

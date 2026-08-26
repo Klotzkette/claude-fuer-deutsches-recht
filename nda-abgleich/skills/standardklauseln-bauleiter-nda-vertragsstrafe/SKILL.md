@@ -1,6 +1,6 @@
 ---
 name: standardklauseln-bauleiter-nda-vertragsstrafe
-description: "Wenn es um NDA: Standardklauseln Bauleiter in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Standardklauseln Bauleiter Nda Vertragsstrafe; Arbeitsfeld: NDA-Abgleich."
+description: "Für NDA: Standardklauseln Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NDA-Abgleich. Route: standardklauseln-bauleiter-nda-vertragsstrafe."
 ---
 
 # NDA: Standardklauseln Bauleiter

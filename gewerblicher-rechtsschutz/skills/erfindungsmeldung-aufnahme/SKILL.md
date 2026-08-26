@@ -1,6 +1,6 @@
 ---
 name: erfindungsmeldung-aufnahme
-description: "Wenn es um Erfindungseingang — Erstprüfung in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erfindungseingang — Erstprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erfindungseingang — Erstprüfung

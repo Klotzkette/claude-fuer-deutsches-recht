@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-bankkonto-rechnungslegung
-description: "Wenn es um Familienbetreuer: Bankkonto und einfache Rechnungslegung in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Familienbetreuer Bankkonto Rechnungslegung; Arbeitsfeld: Betreuungsrecht."
+description: "Für Familienbetreuer: Bankkonto und einfache Rechnungslegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: familienbetreuer-bankkonto-rechnungslegung."
 ---
 
 # Familienbetreuer: Bankkonto und einfache Rechnungslegung

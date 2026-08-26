@@ -1,6 +1,6 @@
 ---
 name: gesinderecht-zeugnis-und-haftung
-description: "Wenn es um Pralr Gesinderecht Zeugnis Und Haftung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gesinderecht Zeugnis Und Haftung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Gesinderecht Zeugnis und Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Pralr Gesinderecht Zeugnis Und Haftung

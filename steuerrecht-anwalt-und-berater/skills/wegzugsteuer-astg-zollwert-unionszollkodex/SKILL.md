@@ -1,6 +1,6 @@
 ---
 name: wegzugsteuer-astg-zollwert-unionszollkodex
-description: "Wenn es um Wegzugsteuer — Paragraf 6 AStG nach AStG-Reform 2022 in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Wegzugsteuer Astg Zollwert Unionszollkodex; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Wegzugsteuer — Paragraf 6 AStG nach AStG-Reform 2022: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: wegzugsteuer-astg-zollwert-unionszollkodex."
 ---
 
 # Wegzugsteuer — § 6 AStG nach AStG-Reform 2022

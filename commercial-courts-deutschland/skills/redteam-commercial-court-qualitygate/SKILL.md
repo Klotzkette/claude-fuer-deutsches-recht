@@ -1,6 +1,6 @@
 ---
 name: redteam-commercial-court-qualitygate
-description: "Wenn es um Red-Team Quality Gate in commercial-courts-deutschland geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team Quality Gate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team Quality Gate

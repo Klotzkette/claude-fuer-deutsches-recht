@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-fristennotiz-naechster-schritt
-description: "Wenn es um Verjährung, Fristennotiz und nächste Schritte in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verjährung, Fristennotiz und nächste Schritte: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Verjährung, Fristennotiz und nächste Schritte

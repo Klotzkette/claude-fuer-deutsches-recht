@@ -1,6 +1,6 @@
 ---
 name: darstellender-teil
-description: "Wenn es um Darstellender Teil in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Darstellender Teil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Darstellender Teil

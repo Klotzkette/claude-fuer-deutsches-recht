@@ -1,6 +1,6 @@
 ---
 name: doppelboeden-und-verneinungen
-description: "Wenn es um Doppelboeden und Verneinungen erkennen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Doppelböden und Verneinungen erkennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Doppelboeden und Verneinungen erkennen

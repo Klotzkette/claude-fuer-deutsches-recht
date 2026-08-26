@@ -1,6 +1,6 @@
 ---
 name: cyber-vorfall-sofortmassnahmen
-description: "Wenn es um Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack

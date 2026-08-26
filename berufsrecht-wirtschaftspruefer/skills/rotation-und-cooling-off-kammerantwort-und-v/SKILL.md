@@ -1,6 +1,6 @@
 ---
 name: rotation-und-cooling-off-kammerantwort-und-v
-description: "Wenn es um Rotation Und Cooling Off Kammerantwort Und V in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Rotation und Cooling Off Kammerantwort und V: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: rotation und cooling off - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

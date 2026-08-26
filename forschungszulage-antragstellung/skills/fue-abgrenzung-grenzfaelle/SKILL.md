@@ -1,6 +1,6 @@
 ---
 name: fue-abgrenzung-grenzfaelle
-description: "Wenn es um FZ: FuE-Abgrenzung Grenzfaelle in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Fue Abgrenzung Grenzfaelle; Arbeitsfeld: Forschungszulage-Antragstellung."
+description: "Für FZ: FuE-Abgrenzung Grenzfälle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Forschungszulage-Antragstellung. Route: fue-abgrenzung-grenzfaelle."
 ---
 
 # FZ: FuE-Abgrenzung Grenzfaelle

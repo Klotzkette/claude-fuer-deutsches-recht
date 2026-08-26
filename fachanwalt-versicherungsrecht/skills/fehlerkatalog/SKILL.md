@@ -1,6 +1,6 @@
 ---
 name: fehlerkatalog
-description: "Wenn es um Versr Fehlerkatalog in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versr Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versr Fehlerkatalog

@@ -1,6 +1,6 @@
 ---
 name: eigentumserwerb-beweglich-traditio
-description: "Wenn es um Pralr Eigentumserwerb Beweglich Traditio in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Eigentumserwerb Beweglich Traditio; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Eigentumserwerb Beweglich Traditio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: eigentumserwerb-beweglich-traditio."
 ---
 
 # Pralr Eigentumserwerb Beweglich Traditio

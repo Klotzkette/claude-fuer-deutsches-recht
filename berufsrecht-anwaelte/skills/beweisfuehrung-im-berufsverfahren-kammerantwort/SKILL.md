@@ -1,6 +1,6 @@
 ---
 name: beweisfuehrung-im-berufsverfahren-kammerantwort
-description: "Wenn es um Beweisfuehrung Im Berufsverfahren Kammerantwort in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweisführung im Berufsverfahren Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Anwälte: beweisfuehrung im berufsverfahren - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

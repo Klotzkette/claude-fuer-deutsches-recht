@@ -1,6 +1,6 @@
 ---
 name: rolle-ehrenamtlicher-sachverstaendiger
-description: "Wenn es um Rolle ehrenamtlicher Richter in Schöffen und Handelsrichter Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rolle ehrenamtlicher Richter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rolle ehrenamtlicher Richter

@@ -1,6 +1,6 @@
 ---
 name: vermoegensverzeichnis-start
-description: "Wenn es um Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vermoegensverzeichnis Start; Arbeitsfeld: Betreuungsrecht."
+description: "Für Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betreuungsrecht. Route: vermoegensverzeichnis-start."
 ---
 
 # Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg

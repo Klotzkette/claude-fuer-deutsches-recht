@@ -1,6 +1,6 @@
 ---
 name: kommunalvermoegen-vergleich-bewerten
-description: "Wenn es um Kommunalvermoegen Vergleich Bewerten in Einigungsvertrag und Vermögensrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Kommunalvermögen Vergleich Bewerten: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Kommunalvermoegen Vergleich Bewerten

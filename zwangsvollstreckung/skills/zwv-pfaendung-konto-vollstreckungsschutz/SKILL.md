@@ -1,6 +1,6 @@
 ---
 name: zwv-pfaendung-konto-vollstreckungsschutz
-description: "Wenn es um ZwV: Konto Arbeitseinkommen in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ZwV: Konto Arbeitseinkommen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ZwV: Konto Arbeitseinkommen

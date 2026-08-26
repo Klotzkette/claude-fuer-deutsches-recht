@@ -1,6 +1,6 @@
 ---
 name: drg-087-rechtsquellen-hierarchie-historisch
-description: "Wenn es um Rechtsquellen Hierarchie Historisch in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsquellen Hierarchie Historisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsquellen Hierarchie Historisch

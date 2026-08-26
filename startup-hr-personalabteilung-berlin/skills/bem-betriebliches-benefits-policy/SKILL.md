@@ -1,6 +1,6 @@
 ---
 name: bem-betriebliches-benefits-policy
-description: "Wenn es um BEM Betriebliches Eingliederungsmanagement in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für BEM Betriebliches Eingliederungsmanagement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BEM Betriebliches Eingliederungsmanagement

@@ -1,6 +1,6 @@
 ---
 name: vereinsvermoegen-konto-versicherung-verein
-description: "Wenn es um Vereinsvermögen und Konto in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vereinsvermögen und Konto: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vereinsvermögen und Konto

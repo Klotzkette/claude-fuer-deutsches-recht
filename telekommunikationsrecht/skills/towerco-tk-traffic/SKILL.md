@@ -1,6 +1,6 @@
 ---
 name: towerco-tk-traffic
-description: "Wenn es um TowerCo und Mobilfunkstandortmiete in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für TowerCo und Mobilfunkstandortmiete: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TowerCo und Mobilfunkstandortmiete

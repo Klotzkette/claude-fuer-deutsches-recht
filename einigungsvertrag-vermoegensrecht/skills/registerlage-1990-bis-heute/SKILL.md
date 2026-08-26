@@ -1,6 +1,6 @@
 ---
 name: registerlage-1990-bis-heute
-description: "Wenn es um Registerlage 1990 Bis Heute in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Registerlage 1990 bis Heute: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registerlage 1990 Bis Heute

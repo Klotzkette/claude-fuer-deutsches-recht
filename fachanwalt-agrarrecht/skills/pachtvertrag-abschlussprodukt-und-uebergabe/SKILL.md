@@ -1,6 +1,6 @@
 ---
 name: pachtvertrag-abschlussprodukt-und-uebergabe
-description: "Wenn es um Pachtvertrag: Abschlussprodukt und Übergabe in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pachtvertrag: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pachtvertrag: Abschlussprodukt und Übergabe

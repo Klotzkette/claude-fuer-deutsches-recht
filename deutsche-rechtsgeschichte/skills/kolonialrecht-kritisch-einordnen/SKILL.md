@@ -1,6 +1,6 @@
 ---
 name: kolonialrecht-kritisch-einordnen
-description: "Wenn es um Kolonialrecht kritisch einordnen in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kolonialrecht kritisch einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kolonialrecht kritisch einordnen

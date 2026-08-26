@@ -1,6 +1,6 @@
 ---
 name: vektor-shedding-umweltrisiko
-description: "Wenn es um Vektor Shedding Umweltrisiko in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vektor Shedding Umweltrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vektor-Shedding und Umweltrisiko: moderner Medizinrechts-Skill für AAV/Lenti-/Onkolytika-Risiken, Umweltrisikobewertung, Schutzmaßnahmen und Meldeketten

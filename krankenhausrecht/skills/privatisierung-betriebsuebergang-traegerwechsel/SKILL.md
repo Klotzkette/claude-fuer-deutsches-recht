@@ -1,6 +1,6 @@
 ---
 name: privatisierung-betriebsuebergang-traegerwechsel
-description: "Wenn es um Privatisierung Betriebsübergang Trägerwechsel in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Privatisierung Betriebsübergang Trägerwechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Privatisierung Betriebsübergang Trägerwechsel

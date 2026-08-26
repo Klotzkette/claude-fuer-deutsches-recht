@@ -1,6 +1,6 @@
 ---
 name: gerichtliches-disziplinarverfahren-soldat
-description: "Wenn es um Gerichtliches Disziplinarverfahren (TDG/BVerwG) in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gerichtliches Disziplinarverfahren (TDG/BVerwG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gerichtliches Disziplinarverfahren (TDG/BVerwG)

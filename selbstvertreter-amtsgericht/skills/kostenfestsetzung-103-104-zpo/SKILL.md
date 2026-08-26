@@ -1,6 +1,6 @@
 ---
 name: kostenfestsetzung-103-104-zpo
-description: "Wenn es um Kostenfestsetzung: Bei Erfolg Geld zurueckholen in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kostenfestsetzung: bei Erfolg Geld zurückholen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kostenfestsetzung: Bei Erfolg Geld zurueckholen

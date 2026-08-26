@@ -1,6 +1,6 @@
 ---
 name: prozess-legisaktionen
-description: "Wenn es um Prozess Legisaktionen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prozess Legisaktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prozess Legisaktionen

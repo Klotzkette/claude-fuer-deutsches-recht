@@ -1,6 +1,6 @@
 ---
 name: 08-kostenentscheidung-und-streitwert
-description: "Wenn es um 08 Kostenentscheidung und Streitwert in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für 08 Kostenentscheidung und Streitwert: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 08 Kostenentscheidung und Streitwert

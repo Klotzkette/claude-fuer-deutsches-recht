@@ -1,6 +1,6 @@
 ---
 name: evidence-gap-dashboard
-description: "Wenn es um Evidence Gap Dashboard in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Evidence Gap Dashboard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Evidence Gap Dashboard

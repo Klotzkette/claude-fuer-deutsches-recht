@@ -1,6 +1,6 @@
 ---
 name: datenschutz-auskunftsersuchen-art-15-praxis
-description: "Wenn es um Datenschutz Auskunftsersuchen — Art. 15 DSGVO in der Praxis in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz Auskunftsersuchen — Art. 15 DSGVO in der Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Auskunftsersuchen — Art. 15 DSGVO in der Praxis

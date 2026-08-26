@@ -1,6 +1,6 @@
 ---
 name: dawn-raid-kartellbehoerde-sofortplan
-description: "Wenn es um Dawn Raid Kartellbehörde Sofortplan in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Dawn Raid Kartellbehörde Sofortplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dawn Raid Kartellbehörde Sofortplan

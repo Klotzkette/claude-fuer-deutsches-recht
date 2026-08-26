@@ -1,6 +1,6 @@
 ---
 name: avv-rolemix-getrennt-vs-gemeinsam-verantwortlich
-description: "Wenn es um Abgrenzung Rollenmix Art in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Abgrenzung Rollenmix Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abgrenzung Rollenmix Art

@@ -1,6 +1,6 @@
 ---
 name: digitalcheck-und-onlinezugangsgesetz-ozg
-description: "Wenn es um NKR-Digitalcheck und Onlinezugangsgesetz (OZG) in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NKR-Digitalcheck und Onlinezugangsgesetz (OZG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NKR-Digitalcheck und Onlinezugangsgesetz (OZG)

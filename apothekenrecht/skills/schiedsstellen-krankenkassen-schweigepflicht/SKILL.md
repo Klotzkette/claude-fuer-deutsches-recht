@@ -1,6 +1,6 @@
 ---
 name: schiedsstellen-krankenkassen-schweigepflicht
-description: "Wenn es um Schiedsstellen Krankenkassen Apotheke in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schiedsstellen Krankenkassen Apotheke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiedsstellen Krankenkassen Apotheke

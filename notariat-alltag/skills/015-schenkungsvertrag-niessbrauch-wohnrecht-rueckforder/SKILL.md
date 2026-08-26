@@ -1,6 +1,6 @@
 ---
 name: 015-schenkungsvertrag-niessbrauch-wohnrecht-rueckforder
-description: "Wenn es um Schenkungsvertrag Niessbrauch Wohnrecht Rueckforder in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schenkungsvertrag Niessbrauch Wohnrecht Rückforder: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung, Pflegeklausel

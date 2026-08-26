@@ -1,6 +1,6 @@
 ---
 name: mobbing-konflikt-intake
-description: "Wenn es um Mobbing Konflikt Intake in Start-up-HR-Personalabteilung Berlin geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Mobbing Konflikt Intake: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mobbing Konflikt Intake

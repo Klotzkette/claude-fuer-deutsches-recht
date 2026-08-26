@@ -1,6 +1,6 @@
 ---
 name: inv-053-settlement-narrative
-description: "Wenn es um Internal Investigation: Settlement Narrative in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: Settlement Narrative: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Settlement Narrative

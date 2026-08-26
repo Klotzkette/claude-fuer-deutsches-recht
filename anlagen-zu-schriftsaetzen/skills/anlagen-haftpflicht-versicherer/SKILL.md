@@ -1,6 +1,6 @@
 ---
 name: anlagen-haftpflicht-versicherer
-description: "Wenn es um Anlagen für Haftpflichtversicherer in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anlagen Haftpflicht Versicherer; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Anlagen für Haftpflichtversicherer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: anlagen-haftpflicht-versicherer."
 ---
 
 # Anlagen für Haftpflichtversicherer

@@ -1,6 +1,6 @@
 ---
 name: konzern-mutter-lebensmittel-haccp
-description: "Wenn es um Konzernmatrix Mutter/Tochter in Berichtspflichten-Erlediger geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Konzernmatrix Mutter/Tochter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konzernmatrix Mutter/Tochter

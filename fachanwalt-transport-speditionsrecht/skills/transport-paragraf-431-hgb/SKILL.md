@@ -1,6 +1,6 @@
 ---
 name: transport-paragraf-431-hgb
-description: "Wenn es um Transport Paragraf 431 HGB in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transport Paragraf 431 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transport § 431 HGB

@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-bei-sanktionen-organisationspflich
-description: "Wenn es um Mandatsannahme Bei Sanktionen Organisationspflich in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandatsannahme bei Sanktionen Organisationspflich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: mandatsannahme bei sanktionen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

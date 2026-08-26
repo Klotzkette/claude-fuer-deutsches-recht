@@ -1,6 +1,6 @@
 ---
 name: erweiterung-rangfolge-reiter
-description: "Wenn es um Erweiterung Rangfolge-Reiter in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erweiterung Rangfolge-Reiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erweiterung Rangfolge-Reiter

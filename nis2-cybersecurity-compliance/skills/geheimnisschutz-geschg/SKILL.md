@@ -1,6 +1,6 @@
 ---
 name: geheimnisschutz-geschg
-description: "Wenn es um Geheimnisschutz Geschg in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geheimnisschutz Geschg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geheimnisschutz Geschg

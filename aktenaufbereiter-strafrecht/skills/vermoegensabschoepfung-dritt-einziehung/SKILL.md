@@ -1,6 +1,6 @@
 ---
 name: vermoegensabschoepfung-dritt-einziehung
-description: "Wenn es um Strafrecht: Dritt-Arrest in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strafrecht: Dritt-Arrest: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafrecht: Dritt-Arrest

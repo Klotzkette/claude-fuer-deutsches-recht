@@ -1,6 +1,6 @@
 ---
 name: playbook-quellenkarte
-description: "Wenn es um Playbook Quellenkarte in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Playbook Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Playbook Quellenkarte

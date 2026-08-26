@@ -1,6 +1,6 @@
 ---
 name: fran-001-kaltstart-franchisegeber-franchisenehmer-systemakte
-description: "Wenn es um Franchiserecht: Kaltstart Franchisegeber Franchisenehmer Systemakte in Franchiserecht Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Kaltstart Franchisegeber Franchisenehmer Systemakte: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Kaltstart Franchisegeber Franchisenehmer Systemakte

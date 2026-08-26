@@ -1,6 +1,6 @@
 ---
 name: entgelt-nebenkosten-service-fees
-description: "Wenn es um Entgelt Nebenkosten Service Fees in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entgelt Nebenkosten Service Fees: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Entgelt Nebenkosten Service Fees

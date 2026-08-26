@@ -1,6 +1,6 @@
 ---
 name: gewerblicher-erstpruefung-und-mandatsziel
-description: "Wenn es um Spezial: Erstprüfung und Mandatsziel im Gewerblichen Rechtsschutz in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Spezial: Erstprüfung und Mandatsziel im Gewerblichen Rechtsschutz: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Spezial: Erstprüfung und Mandatsziel im Gewerblichen Rechtsschutz
@@ -164,3 +164,7 @@ Nächster Termin: _______________
 - `gewerblicher-rechtsschutz-kaltstart-interview` – Kaltstart-Interview
 - `gw-einfuehrung-rechtsschutzwege` – Überblick Rechtsschutzwege
 - `verletzungs-triage` – IP-Verletzung Erstentscheidung
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-gewerblicher-erstpruefung-und-mandatsziel` beziehungsweise Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-gewerblicher-erstpruefung-und-mandatsziel.md).

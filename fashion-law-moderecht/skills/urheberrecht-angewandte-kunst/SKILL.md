@@ -1,6 +1,6 @@
 ---
 name: urheberrecht-angewandte-kunst
-description: "Wenn es um Urheberrecht Angewandte Kunst in fashion-law-moderecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urheberrecht Angewandte Kunst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urheberrecht bei Mode und angewandter Kunst prüfen: Werkqualität, Gestaltungshöhe, Designerleistung, Doppelschutz und Beweisbarkeit.

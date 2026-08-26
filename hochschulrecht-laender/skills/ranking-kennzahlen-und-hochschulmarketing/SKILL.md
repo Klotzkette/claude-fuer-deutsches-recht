@@ -1,6 +1,6 @@
 ---
 name: ranking-kennzahlen-und-hochschulmarketing
-description: "Wenn es um Ranking, Kennzahlen und Hochschulmarketing in Hochschulrecht der Bundesländer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Ranking, Kennzahlen und Hochschulmarketing: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Ranking, Kennzahlen und Hochschulmarketing

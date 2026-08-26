@@ -1,6 +1,6 @@
 ---
 name: output-warnhinweis-und-pruefungsdokument
-description: "Wenn es um Output: Warnhinweis und Prüfungsdokument-Header in bereicherungs-und-anfechtungsrecht-prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Output: Warnhinweis und Prüfungsdokument-Header: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Output: Warnhinweis und Prüfungsdokument-Header

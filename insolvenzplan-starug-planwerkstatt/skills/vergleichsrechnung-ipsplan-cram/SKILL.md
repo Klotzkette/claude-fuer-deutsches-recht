@@ -1,6 +1,6 @@
 ---
 name: vergleichsrechnung-ipsplan-cram
-description: "Wenn es um Vergleichsrechnung in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleichsrechnung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleichsrechnung

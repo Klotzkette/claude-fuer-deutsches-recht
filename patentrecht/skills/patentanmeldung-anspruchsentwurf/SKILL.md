@@ -1,6 +1,6 @@
 ---
 name: patentanmeldung-anspruchsentwurf
-description: "Wenn es um Patentanmeldung — Anspruchsentwurf in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Patentanmeldung — Anspruchsentwurf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Patentanmeldung — Anspruchsentwurf

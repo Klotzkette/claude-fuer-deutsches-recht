@@ -1,6 +1,6 @@
 ---
 name: klauselverbote-309-systematik
-description: "Wenn es um Klauselverbote 309 Systematik in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Klauselverbote 309 Systematik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klauselverbote 309 Systematik

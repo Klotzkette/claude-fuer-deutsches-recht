@@ -1,6 +1,6 @@
 ---
 name: schmaehkritik-formalbeleidigung-schnelltriage
-description: "Wenn es um Schmähkritik, Formalbeleidigung, Menschenwürde in Meinungsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schmähkritik, Formalbeleidigung, Menschenwürde: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schmähkritik, Formalbeleidigung, Menschenwürde

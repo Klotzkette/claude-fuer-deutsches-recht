@@ -1,6 +1,6 @@
 ---
 name: employee-invention-employment-contract
-description: "Wenn es um Arbeitnehmererfindungen und Softwarepatente DE in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Arbeitnehmererfindungen und Softwarepatente DE: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitnehmererfindungen und Softwarepatente DE

@@ -1,6 +1,6 @@
 ---
 name: feature-risikobewertung
-description: "Wenn es um Feature-Risikobewertung in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Feature-Risikobewertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Feature-Risikobewertung

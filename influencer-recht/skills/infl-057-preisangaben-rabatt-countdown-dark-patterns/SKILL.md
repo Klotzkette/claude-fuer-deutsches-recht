@@ -1,6 +1,6 @@
 ---
 name: infl-057-preisangaben-rabatt-countdown-dark-patterns
-description: "Wenn es um Influencer-Recht: Preisangaben Rabatt Countdown Dark Patterns in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Preisangaben Rabatt Countdown Dark Patterns: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Preisangaben Rabatt Countdown Dark Patterns

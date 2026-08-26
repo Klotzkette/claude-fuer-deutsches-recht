@@ -1,6 +1,6 @@
 ---
 name: heimfall-verteidigung-insolvenz
-description: "Wenn es um Heimfall abwehren in Erbbaurecht Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Heimfall abwehren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Heimfall abwehren

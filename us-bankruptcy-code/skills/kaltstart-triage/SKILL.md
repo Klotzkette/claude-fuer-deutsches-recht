@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um US Bankruptcy Code Kaltstart in US Bankruptcy Code geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für US Bankruptcy Code Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US Bankruptcy Code Kaltstart

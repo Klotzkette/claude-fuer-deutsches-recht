@@ -1,6 +1,6 @@
 ---
 name: organstreit-bundestag-fraktion-opposition
-description: "Wenn es um Organstreit: Bundestag, Fraktion und Opposition in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Organstreit: Bundestag, Fraktion und Opposition: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Organstreit: Bundestag, Fraktion und Opposition

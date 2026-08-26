@@ -1,6 +1,6 @@
 ---
 name: offboarding-checkliste-it-payroll
-description: "Wenn es um Offboarding Checkliste IT Payroll in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Offboarding Checkliste IT Payroll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Offboarding Checkliste IT Payroll

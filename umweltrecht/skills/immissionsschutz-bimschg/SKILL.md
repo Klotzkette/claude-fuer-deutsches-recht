@@ -1,6 +1,6 @@
 ---
 name: immissionsschutz-bimschg
-description: "Wenn es um Immissionsschutz und BImSchG in Umweltrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Immissionsschutz und BImSchG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Immissionsschutz und BImSchG

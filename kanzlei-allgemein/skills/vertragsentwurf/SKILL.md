@@ -1,6 +1,6 @@
 ---
 name: vertragsentwurf
-description: "Wenn es um Vertragsentwurf und Vertrags-Canvas in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertragsentwurf und Vertrags-Canvas: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertragsentwurf und Vertrags-Canvas

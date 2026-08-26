@@ -1,6 +1,6 @@
 ---
 name: charterparty-closing-planen
-description: "Wenn es um Charterparty – Closing planen in See- und Schifffahrtsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Charterparty – Closing planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Charterparty – Closing planen

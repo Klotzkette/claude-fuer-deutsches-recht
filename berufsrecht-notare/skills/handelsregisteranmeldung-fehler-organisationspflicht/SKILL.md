@@ -1,6 +1,6 @@
 ---
 name: handelsregisteranmeldung-fehler-organisationspflicht
-description: "Wenn es um Handelsregisteranmeldung Fehler Organisationspflicht in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsregisteranmeldung Fehler Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Notare: handelsregisteranmeldung fehler - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

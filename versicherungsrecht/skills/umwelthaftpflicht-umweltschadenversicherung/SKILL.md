@@ -1,6 +1,6 @@
 ---
 name: umwelthaftpflicht-umweltschadenversicherung
-description: "Wenn es um Umwelthaftpflicht und Umweltschadenversicherung in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Umwelthaftpflicht und Umweltschadenversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umwelthaftpflicht und Umweltschadenversicherung

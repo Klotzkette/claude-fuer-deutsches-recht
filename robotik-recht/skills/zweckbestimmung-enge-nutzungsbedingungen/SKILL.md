@@ -1,6 +1,6 @@
 ---
 name: zweckbestimmung-enge-nutzungsbedingungen
-description: "Wenn es um Zweckbestimmung und Nutzungsbedingungen in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zweckbestimmung und Nutzungsbedingungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zweckbestimmung und Nutzungsbedingungen

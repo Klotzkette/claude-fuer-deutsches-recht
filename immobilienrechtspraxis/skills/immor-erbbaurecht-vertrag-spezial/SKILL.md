@@ -1,6 +1,6 @@
 ---
 name: immor-erbbaurecht-vertrag-spezial
-description: "Wenn es um ImmoR: Erbbaurecht-Vertrag in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ImmoR: Erbbaurecht-Vertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ImmoR: Erbbaurecht-Vertrag

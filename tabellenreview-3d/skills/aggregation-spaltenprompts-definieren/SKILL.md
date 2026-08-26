@@ -1,6 +1,6 @@
 ---
 name: aggregation-spaltenprompts-definieren
-description: "Wenn es um /tabellenreview-3d:risikoampel-aggregation in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aggregation Spaltenprompts Definieren; Arbeitsfeld: Tabellenreview 3D."
+description: "Für /tabellenreview-3d:risikoampel-aggregation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /tabellenreview-3d:risikoampel-aggregation

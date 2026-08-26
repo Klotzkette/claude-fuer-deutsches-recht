@@ -1,6 +1,6 @@
 ---
 name: prompting-leitfaden
-description: "Wenn es um Prompting-Leitfaden in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Prompting-Leitfaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prompting-Leitfaden

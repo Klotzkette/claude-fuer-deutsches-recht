@@ -1,6 +1,6 @@
 ---
 name: fragebogen-risikoanalyse-fuehrerschein
-description: "Wenn es um Fragebogen-Risikoanalyse in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fragebogen-Risikoanalyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fragebogen-Risikoanalyse

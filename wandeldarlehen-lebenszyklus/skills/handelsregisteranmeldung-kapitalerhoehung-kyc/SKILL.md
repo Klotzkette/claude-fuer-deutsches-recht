@@ -1,6 +1,6 @@
 ---
 name: handelsregisteranmeldung-kapitalerhoehung-kyc
-description: "Wenn es um Handelsregisteranmeldung Kapitalerhöhung in Wandeldarlehen-Lebenszyklus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Handelsregisteranmeldung Kapitalerhöhung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Handelsregisteranmeldung Kapitalerhöhung

@@ -1,6 +1,6 @@
 ---
 name: spezial-formulierte-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Formulierte: Livequellen- und Rechtsprechungscheck in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Formulierte: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Formulierte: Livequellen- und Rechtsprechungscheck

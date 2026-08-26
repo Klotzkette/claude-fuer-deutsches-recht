@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-live-erbbaurecht-reminder
-description: "Wenn es um Rechtsprechung live verifizieren in Erbbaurecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsprechung live verifizieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Erbbaurecht Praxis."
 ---
 
 # Rechtsprechung live verifizieren

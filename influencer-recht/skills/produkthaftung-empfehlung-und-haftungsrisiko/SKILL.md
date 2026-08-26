@@ -1,6 +1,6 @@
 ---
 name: produkthaftung-empfehlung-und-haftungsrisiko
-description: "Wenn es um Influencer-Recht: Produkthaftung – Empfehlung und Haftungsrisiko in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Produkthaftung – Empfehlung und Haftungsrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Produkthaftung – Empfehlung und Haftungsrisiko

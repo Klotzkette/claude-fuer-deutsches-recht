@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-fristen-cp-kalender
-description: "Wenn es um Freistehender Deal-Fristen- und CP-Kalender in Mittelstands-Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freistehender Deal-Fristen- und CP-Kalender: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Freistehender Deal-Fristen- und CP-Kalender

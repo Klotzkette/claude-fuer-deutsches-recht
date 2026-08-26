@@ -1,6 +1,6 @@
 ---
 name: art-9-besondere-kategorien
-description: "Wenn es um Besondere Kategorien Art. 9 DSGVO im Datenschutzvorfall in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besondere Kategorien Art. 9 DSGVO im Datenschutzvorfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besondere Kategorien Art. 9 DSGVO im Datenschutzvorfall
@@ -44,3 +44,7 @@ Conclusion: bei Art. 9-Daten im Klartext regelmäßig Meldung Art. 33 und Benach
 
 - `dsv-paragraf-203-stgb-berufsgeheimnis` deckt strafrechtliche Geheimnistraeger ab.
 - `dsv-sozialdaten-sgb` deckt Sozialdaten ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-art-9-besondere-kategorien` beziehungsweise Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-art-9-besondere-kategorien.md).

@@ -1,6 +1,6 @@
 ---
 name: erfolgshonorar-und-prozessfinanzierung-rechtsprechungs
-description: "Wenn es um Erfolgshonorar Und Prozessfinanzierung Rechtsprechungs in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Erfolgshonorar und Prozessfinanzierung Rechtsprechungs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: erfolgshonorar und prozessfinanzierung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

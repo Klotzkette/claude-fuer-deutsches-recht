@@ -1,6 +1,6 @@
 ---
 name: susa-anlagenkonten-ueberblick
-description: "Wenn es um Anlagenkonten in der SuSa — Überblick und Abstimmung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anlagenkonten in der SuSa — Überblick und Abstimmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: susa-anlagenkonten-ueberblick."
 ---
 
 # Anlagenkonten in der SuSa — Überblick und Abstimmung

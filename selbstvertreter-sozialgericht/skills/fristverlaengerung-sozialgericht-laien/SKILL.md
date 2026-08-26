@@ -1,6 +1,6 @@
 ---
 name: fristverlaengerung-sozialgericht-laien
-description: "Wenn es um Fristverlaengerung im SG-Verfahren in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristverlängerung im SG-Verfahren: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristverlaengerung im SG-Verfahren

@@ -1,6 +1,6 @@
 ---
 name: education-distance-learning-110
-description: "Wenn es um Education und Distance Learning Paragraf 110 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Education und Distance Learning Paragraf 110: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Education und Distance Learning § 110

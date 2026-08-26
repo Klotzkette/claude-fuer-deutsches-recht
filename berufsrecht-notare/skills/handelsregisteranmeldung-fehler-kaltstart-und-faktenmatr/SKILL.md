@@ -1,6 +1,6 @@
 ---
 name: handelsregisteranmeldung-fehler-kaltstart-und-faktenmatr
-description: "Wenn es um Handelsregisteranmeldung Fehler Kaltstart Und Faktenmatr in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsregisteranmeldung Fehler Kaltstart und Faktenmatr: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Notare: handelsregisteranmeldung fehler - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

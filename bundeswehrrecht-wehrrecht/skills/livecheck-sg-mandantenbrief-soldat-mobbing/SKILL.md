@@ -1,6 +1,6 @@
 ---
 name: livecheck-sg-mandantenbrief-soldat-mobbing
-description: "Wenn es um Live-Check SG, WBO, WDO, WPflG, SVG in Bundeswehrrecht und Wehrrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Live-Check SG, WBO, WDO, WPflG, SVG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Live-Check SG, WBO, WDO, WPflG, SVG

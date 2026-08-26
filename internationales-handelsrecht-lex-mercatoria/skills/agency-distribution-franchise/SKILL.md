@@ -1,6 +1,6 @@
 ---
 name: agency-distribution-franchise
-description: "Wenn es um Handelsvertreter, Vertriebsvertrag und Franchise in Internationales Handelsrecht und Lex Mercatoria geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Handelsvertreter, Vertriebsvertrag und Franchise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsvertreter, Vertriebsvertrag und Franchise

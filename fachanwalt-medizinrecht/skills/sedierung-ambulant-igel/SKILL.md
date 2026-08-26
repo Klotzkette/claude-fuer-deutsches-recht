@@ -1,6 +1,6 @@
 ---
 name: sedierung-ambulant-igel
-description: "Wenn es um Sedierung Ambulant Igel in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sedierung Ambulant Igel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ambulante Sedierung und IGeL: moderner Medizinrechts-Skill für Sedierung in Praxis/MVZ, Überwachung, Privatvereinbarung, GOÄ und Notfallmanagement

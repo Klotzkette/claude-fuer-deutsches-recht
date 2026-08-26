@@ -1,6 +1,6 @@
 ---
 name: workflow-behoerdenkommunikation
-description: "Wenn es um Behördenkommunikation: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Behördenkommunikation: Prüfungslinie für Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Behördenkommunikation: Prüfungslinie für Migrationsrecht

@@ -1,6 +1,6 @@
 ---
 name: berufungsverfahren-professur-gute
-description: "Wenn es um Berufungsverfahren Professur in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berufungsverfahren Professur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berufungsverfahren Professur

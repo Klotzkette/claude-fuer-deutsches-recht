@@ -1,6 +1,6 @@
 ---
 name: hausmeisterkosten
-description: "Wenn es um Hausmeisterkosten in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Hausmeisterkosten; Arbeitsfeld: Fachanwalt Miet- und Wohnungseigentumsrecht."
+description: "Für Hausmeisterkosten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hausmeisterkosten in Betriebskostenabrechnungen: umlagefähige laufende Tätigkeiten von Verwaltung, Instandhaltung, Instandsetzung, Wohnungsabnahmen, Gartenpflege-Doppelerfassung und Bereitschafts-/Notdienstanteilen trennen
@@ -54,3 +54,7 @@ description: "Wenn es um Hausmeisterkosten in Fachanwalt Miet- und Wohnungseigen
 ## Quellen- und Sicherheitsregel
 
 BetrKV aktuell prüfen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-hausmeisterkosten` beziehungsweise Hausmeisterkosten: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-hausmeisterkosten.md).

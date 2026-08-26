@@ -1,6 +1,6 @@
 ---
 name: mandantenwarnung-qes-per-email-whatsapp-und-zugang
-description: "Wenn es um Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis

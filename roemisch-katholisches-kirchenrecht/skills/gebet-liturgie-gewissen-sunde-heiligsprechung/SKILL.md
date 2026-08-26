@@ -1,6 +1,6 @@
 ---
 name: gebet-liturgie-gewissen-sunde-heiligsprechung
-description: "Wenn es um Gebet, Liturgie und Volksfrömmigkeit in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gebet, Liturgie und Volksfrömmigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: gebet-liturgie-gewissen-sunde-heiligsprechung."
 ---
 
 # Gebet, Liturgie und Volksfrömmigkeit

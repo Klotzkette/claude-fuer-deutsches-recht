@@ -1,6 +1,6 @@
 ---
 name: persoenlichkeitsrecht-medienverfuegung-und-abmahnung
-description: "Wenn es um Persoenlichkeitsrecht Medienverfuegung Und Abmahnung in Fachanwalt Urheber Medienrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Persönlichkeitsrecht Medienverfügung und Abmahnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Persönlichkeitsrecht, Medienverfügung und Abmahnung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
@@ -33,3 +33,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 3. **Materielle Weichen:** Die Kernfragen zu **Persönlichkeitsrecht, Medienverfügung und Abmahnung** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
 4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
 5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-persoenlichkeitsrecht-medienverfuegung-und-abmahnung` beziehungsweise Persönlichkeitsrecht, Medienverfügung und Abmahnung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-persoenlichkeitsrecht-medienverfuegung-und-abmahnung.md).

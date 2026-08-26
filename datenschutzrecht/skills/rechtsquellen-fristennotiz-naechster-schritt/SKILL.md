@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen-fristennotiz-naechster-schritt
-description: "Wenn es um Rechtsquellen: Fristennotiz und nächster Schritt in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsquellen: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Datenschutzrecht."
 ---
 
 # Rechtsquellen: Fristennotiz und nächster Schritt

@@ -1,6 +1,6 @@
 ---
 name: mabv-sicherheit-paragraf-7-pruefen
-description: "Wenn es um MaBV-Sicherheit Paragraf 7 prüfen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für MaBV-Sicherheit Paragraf 7 prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MaBV-Sicherheit Paragraf 7 prüfen

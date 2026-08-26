@@ -1,6 +1,6 @@
 ---
 name: webdaten-auslesen-datenbank-und-robots-txt
-description: "Wenn es um Webdaten-Auslesen gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse in Datenbankrecht und Datenbankherstellerrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Webdaten-Auslesen gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Webdaten-Auslesen gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse

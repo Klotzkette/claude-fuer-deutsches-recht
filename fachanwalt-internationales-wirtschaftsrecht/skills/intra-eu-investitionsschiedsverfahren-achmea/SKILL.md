@@ -1,6 +1,6 @@
 ---
 name: intra-eu-investitionsschiedsverfahren-achmea
-description: "Prüft Investitionsschiedsverfahren mit Unionsbezug nach Achmea, Komstroy und PL Holdings. Trennt intra- und extra-unionale Konstellation, BIT, Energiecharta, Schiedsordnung, Sitz, Zuständigkeit, Aufhebung und Vollstreckung und liefert Forumsmatrix und Angriffsstrategie."
+description: "Prüft Investitionsschiedsverfahren mit Unionsbezug nach Achmea, Komstroy und PL Holdings."
 ---
 
 # Investitionsschiedsverfahren mit Unionsbezug prüfen

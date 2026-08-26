@@ -1,6 +1,6 @@
 ---
 name: schutz-missbrauch-seelsorgegesprach
-description: "Wenn es um Schutz, Missbrauch und Meldepflichten in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schutz, Missbrauch und Meldepflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: schutz-missbrauch-seelsorgegesprach."
 ---
 
 # Schutz, Missbrauch und Meldepflichten

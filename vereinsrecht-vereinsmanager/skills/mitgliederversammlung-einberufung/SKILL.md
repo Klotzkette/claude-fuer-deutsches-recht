@@ -1,6 +1,6 @@
 ---
 name: mitgliederversammlung-einberufung
-description: "Wenn es um Mitgliederversammlung einberufen in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mitgliederversammlung einberufen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mitgliederversammlung einberufen

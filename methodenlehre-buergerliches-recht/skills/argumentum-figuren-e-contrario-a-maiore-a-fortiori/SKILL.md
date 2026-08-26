@@ -1,6 +1,6 @@
 ---
 name: argumentum-figuren-e-contrario-a-maiore-a-fortiori
-description: "Wenn es um Argumentum-Figuren im deutschen Zivilrecht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Argumentum-Figuren im deutschen Zivilrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Argumentum-Figuren im deutschen Zivilrecht

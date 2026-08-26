@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-em-rente-gutachten
-description: "Wenn es um Laienhilfe: Em Rente Gutachten in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laienhilfe: Em Rente Gutachten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laienhilfe: Em Rente Gutachten

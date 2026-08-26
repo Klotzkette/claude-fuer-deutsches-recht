@@ -1,6 +1,6 @@
 ---
 name: zweitkorrektur-neubewertung-zweitpruefer
-description: "Wenn es um Zweitkorrektur Und Neubewertung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zweitkorrektur und Neubewertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zweitkorrektur Und Neubewertung

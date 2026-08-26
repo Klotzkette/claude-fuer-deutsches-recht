@@ -1,6 +1,6 @@
 ---
 name: kom-010-kommunalabgaben-pruefen
-description: "Wenn es um Kommunalabgaben Pruefen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunalabgaben Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kommunalrecht der Länder. Route: kom-010-kommunalabgaben-pruefen."
 ---
 
 # Kommunalabgaben Pruefen

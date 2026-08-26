@@ -1,6 +1,6 @@
 ---
 name: haltverbot-anordnung-angreifen
-description: "Wenn es um Haltverbot Anordnung Angreifen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haltverbot Anordnung Angreifen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haltverbot Anordnung Angreifen

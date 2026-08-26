@@ -1,6 +1,6 @@
 ---
 name: kg-haftung-ohg-vertretung
-description: "Wenn es um Kommanditistenhaftung Paragrafen 171. 172 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommanditistenhaftung Paragrafen 171. 172 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommanditistenhaftung §§ 171, 172 HGB

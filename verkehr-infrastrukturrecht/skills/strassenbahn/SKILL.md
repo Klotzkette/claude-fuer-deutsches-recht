@@ -1,6 +1,6 @@
 ---
 name: strassenbahn
-description: "Wenn es um Strassenbahn und OEPNV — Infrastrukturrecht in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strassenbahn und ÖPNV — Infrastrukturrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strassenbahn und OEPNV — Infrastrukturrecht

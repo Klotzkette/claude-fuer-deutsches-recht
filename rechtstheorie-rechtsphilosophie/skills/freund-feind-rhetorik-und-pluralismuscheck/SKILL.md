@@ -1,6 +1,6 @@
 ---
 name: freund-feind-rhetorik-und-pluralismuscheck
-description: "Wenn es um Freund-Feind-Rhetorik und Pluralismuscheck in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Freund-Feind-Rhetorik und Pluralismuscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Freund-Feind-Rhetorik und Pluralismuscheck

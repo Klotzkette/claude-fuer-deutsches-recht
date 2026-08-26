@@ -1,6 +1,6 @@
 ---
 name: politically-sensitive-products
-description: "Wenn es um Politisch sensible Produkte China: Überwachungstechnik und Dual-Use in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Politisch sensible Produkte China: Überwachungstechnik und Dual-Use: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Politisch sensible Produkte China: Überwachungstechnik und Dual-Use

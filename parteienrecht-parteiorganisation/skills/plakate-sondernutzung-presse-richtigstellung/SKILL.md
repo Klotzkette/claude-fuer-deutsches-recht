@@ -1,6 +1,6 @@
 ---
 name: plakate-sondernutzung-presse-richtigstellung
-description: "Wenn es um Plakate und Sondernutzung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Plakate Sondernutzung Presse Richtigstellung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Plakate und Sondernutzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: plakate-sondernutzung-presse-richtigstellung."
 ---
 
 # Plakate und Sondernutzung

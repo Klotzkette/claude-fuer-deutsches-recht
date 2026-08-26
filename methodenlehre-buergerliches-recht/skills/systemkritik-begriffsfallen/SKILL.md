@@ -1,6 +1,6 @@
 ---
 name: systemkritik-begriffsfallen
-description: "Wenn es um Systemkritik und Begriffsfallen in der juristischen Methodik in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Systemkritik und Begriffsfallen in der juristischen Methodik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Systemkritik und Begriffsfallen in der juristischen Methodik

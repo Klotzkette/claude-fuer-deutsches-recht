@@ -1,6 +1,6 @@
 ---
 name: urteils-erstpruefung-und-mandatsziel
-description: "Wenn es um Urteils: Erstprüfung, Rollenklärung und Mandatsziel in Urteilsbauer und Relationsmacher geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Urteils Erstpruefung Und Mandatsziel; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Urteils: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Urteilsbauer und Relationsmacher. Route: urteils-erstpruefung-und-mandatsziel."
 ---
 
 # Urteils: Erstprüfung, Rollenklärung und Mandatsziel

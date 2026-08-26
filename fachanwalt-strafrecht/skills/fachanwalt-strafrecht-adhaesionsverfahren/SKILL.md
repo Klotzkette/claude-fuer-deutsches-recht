@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-adhaesionsverfahren
-description: "Wenn es um Adhäsionsverfahren im Strafverfahren in Fachanwalt Strafrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Adhäsionsverfahren im Strafverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Adhäsionsverfahren im Strafverfahren

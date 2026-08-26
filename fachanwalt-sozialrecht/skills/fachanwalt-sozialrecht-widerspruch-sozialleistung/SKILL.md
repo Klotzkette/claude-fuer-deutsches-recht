@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-widerspruch-sozialleistung
-description: "Wenn es um Widerspruch gegen Sozialleistungsbescheid (Paragraf 84 SGG) in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Widerspruch gegen Sozialleistungsbescheid (Paragraf 84 SGG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Widerspruch gegen Sozialleistungsbescheid (§ 84 SGG)

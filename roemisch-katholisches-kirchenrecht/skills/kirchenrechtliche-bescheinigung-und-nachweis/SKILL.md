@@ -1,6 +1,6 @@
 ---
 name: kirchenrechtliche-bescheinigung-und-nachweis
-description: "Wenn es um Kirchenrechtliche Bescheinigung und Nachweis in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kirchenrechtliche Bescheinigung und Nachweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kirchenrechtliche Bescheinigung und Nachweis

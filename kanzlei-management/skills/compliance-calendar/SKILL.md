@@ -1,6 +1,6 @@
 ---
 name: compliance-calendar
-description: "Wenn es um Compliance-Kalender Kanzlei in Kanzlei Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Compliance-Kalender Kanzlei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Compliance-Kalender Kanzlei

@@ -1,6 +1,6 @@
 ---
 name: 20-urteilsentwurf-finalisieren
-description: "Wenn es um 20 Urteilsentwurf Finalisieren in Relationstechnik Zivilrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für 20 Urteilsentwurf Finalisieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 20 Urteilsentwurf Finalisieren

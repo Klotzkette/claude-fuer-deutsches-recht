@@ -1,6 +1,6 @@
 ---
 name: familienzuschlag-drittes-kinder
-description: "Wenn es um Familienzuschlag dritte und weitere Kinder — verfassungsrechtliches Minimum in Beamtenrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Familienzuschlag dritte und weitere Kinder — verfassungsrechtliches Minimum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Familienzuschlag dritte und weitere Kinder — verfassungsrechtliches Minimum

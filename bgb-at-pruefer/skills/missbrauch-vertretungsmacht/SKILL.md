@@ -1,6 +1,6 @@
 ---
 name: missbrauch-vertretungsmacht
-description: "Wenn es um Missbrauch der Vertretungsmacht in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Missbrauch der Vertretungsmacht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Missbrauch der Vertretungsmacht

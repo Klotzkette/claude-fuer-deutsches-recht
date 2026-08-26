@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-und-inklusion-robotik
-description: "Wenn es um Barrierefreiheit und Inklusion bei Robotern in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Barrierefreiheit Und Inklusion Robotik; Arbeitsfeld: robotik-recht."
+description: "Für Barrierefreiheit und Inklusion bei Robotern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: barrierefreiheit-und-inklusion-robotik."
 ---
 
 # Barrierefreiheit und Inklusion bei Robotern

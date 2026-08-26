@@ -1,6 +1,6 @@
 ---
 name: fachanwaltstitel-und-fortbildung-kaltstart-und-faktenm
-description: "Wenn es um Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachanwaltstitel und Fortbildung Kaltstart und Faktenm: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: fachanwaltstitel und fortbildung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

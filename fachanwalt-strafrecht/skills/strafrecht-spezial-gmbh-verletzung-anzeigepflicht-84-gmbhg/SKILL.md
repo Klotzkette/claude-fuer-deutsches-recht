@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-gmbh-verletzung-anzeigepflicht-84-gmbhg
-description: "Wenn es um Strafrecht Spezial GmbH Verletzung Anzeigepflicht 84 Gmbhg in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial GmbH Verletzung Anzeigepflicht 84 GmbHG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei Verlust der Haelfte des Stammkapitals

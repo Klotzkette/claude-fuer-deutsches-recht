@@ -1,6 +1,6 @@
 ---
 name: social-media-thread-recht
-description: "Wenn es um Social Media Thread Recht in Juristische Presseberichterstattung geht: macht aus juristischem Material kurze Social-Posts oder Threads mit Quellenstatus, Vorsichtssprache und Linklogik."
+description: "Für Social Media Thread Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Social Media Thread Recht

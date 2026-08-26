@@ -1,6 +1,6 @@
 ---
 name: sektor-krankenhaus-gesundheitsplattformen
-description: "Wenn es um Sektor Krankenhaus, Gesundheitsplattformen und Versorgung in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sektor Krankenhaus, Gesundheitsplattformen und Versorgung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sektor Krankenhaus, Gesundheitsplattformen und Versorgung

@@ -1,6 +1,6 @@
 ---
 name: fran-044-einstweilige-verfuegung-markennutzung-stoppen
-description: "Wenn es um Franchiserecht: Einstweilige Verfügung Markennutzung stoppen in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Einstweilige Verfügung Markennutzung stoppen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Einstweilige Verfügung Markennutzung stoppen

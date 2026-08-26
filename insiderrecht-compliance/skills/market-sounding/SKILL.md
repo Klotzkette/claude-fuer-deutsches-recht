@@ -1,6 +1,6 @@
 ---
 name: market-sounding
-description: "Wenn es um Market Sounding nach Art. 11 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Market Sounding nach Art. 11 MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Market Sounding nach Art. 11 MAR

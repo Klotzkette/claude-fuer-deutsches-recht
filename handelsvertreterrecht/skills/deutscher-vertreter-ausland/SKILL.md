@@ -1,6 +1,6 @@
 ---
 name: deutscher-vertreter-ausland
-description: "Wenn es um Deutscher Vertreter Ausland in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutscher Vertreter Ausland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutscher Vertreter Ausland

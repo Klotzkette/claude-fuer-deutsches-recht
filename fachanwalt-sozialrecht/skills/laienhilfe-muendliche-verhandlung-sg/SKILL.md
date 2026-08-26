@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-muendliche-verhandlung-sg
-description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Muendliche Verhandlung Sg in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laienverständlicher Sozialrechts-Skill zu Mündliche Verhandlung Sg: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Muendliche Verhandlung Sg

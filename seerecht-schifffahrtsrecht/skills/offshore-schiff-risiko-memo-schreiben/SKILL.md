@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-risiko-memo-schreiben
-description: "Wenn es um Offshore-Schiff – Risiko-Memo schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Offshore-Schiff – Risiko-Memo schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Offshore-Schiff – Risiko-Memo schreiben

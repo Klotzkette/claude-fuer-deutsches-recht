@@ -1,6 +1,6 @@
 ---
 name: cannabis-compliance-bauen
-description: "Wenn es um Cannabis Compliance Bauen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cannabis Compliance Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cannabis Compliance Bauen

@@ -1,6 +1,6 @@
 ---
 name: dba-grenzgaenger-oesterreich-rueckkehr
-description: "Wenn es um Grenzgaengerregelung DBA-Oesterreich in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grenzgängerregelung DBA-Österreich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzgaengerregelung DBA-Oesterreich

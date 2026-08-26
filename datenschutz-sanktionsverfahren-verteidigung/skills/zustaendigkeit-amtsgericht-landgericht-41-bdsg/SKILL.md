@@ -1,6 +1,6 @@
 ---
 name: zustaendigkeit-amtsgericht-landgericht-41-bdsg
-description: "Wenn es um Zuständigkeit Amtsgericht Landgericht Paragraf 41 BDSG in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Zuständigkeit Amtsgericht Landgericht Paragraf 41 BDSG: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zuständigkeit Amtsgericht Landgericht § 41 BDSG

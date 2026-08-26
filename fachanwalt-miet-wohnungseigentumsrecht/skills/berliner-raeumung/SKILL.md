@@ -1,6 +1,6 @@
 ---
 name: berliner-raeumung
-description: "Wenn es um Berliner Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berliner Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Berliner Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht
@@ -48,3 +48,7 @@ Vor Vollstreckungsauftrag prüfen, aus welchem Titel geräumt wird. Bei Wohnraum
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-berliner-raeumung` beziehungsweise Berliner Räumung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-berliner-raeumung.md).

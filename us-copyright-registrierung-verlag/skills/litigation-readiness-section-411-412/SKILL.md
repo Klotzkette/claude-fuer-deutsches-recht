@@ -1,6 +1,6 @@
 ---
 name: litigation-readiness-section-411-412
-description: "Wenn es um Litigation Readiness 411 und 412 in US Copyright Act und Registrierung für deutsche Verlage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Litigation Readiness 411 und 412: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Litigation Readiness 411 und 412

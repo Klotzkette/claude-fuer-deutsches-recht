@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-ruege-vor-zuschlag
-description: "Wenn es um Rüge vor Zuschlag in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rüge vor Zuschlag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rüge vor Zuschlag

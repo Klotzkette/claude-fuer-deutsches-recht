@@ -1,6 +1,6 @@
 ---
 name: schnelltriage-risiko
-description: "Wenn es um Schnelltriage Risikoeinschätzung nach Datenschutzvorfall in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schnelltriage Risikoeinschätzung nach Datenschutzvorfall: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schnelltriage Risikoeinschätzung nach Datenschutzvorfall
@@ -69,3 +69,7 @@ Begründung: drei bis fünf Sätze für die Akte.
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-schnelltriage-risiko` beziehungsweise Liefert in 15-30 Minuten eine Schnelltriage zum Risiko eines gemeldeten Datenschutzvorfalls als Entscheidungsgrundlage für die 72-Stunden-Meldung: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-schnelltriage-risiko.md).

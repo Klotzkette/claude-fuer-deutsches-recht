@@ -1,6 +1,6 @@
 ---
 name: abtretungsverbot-354a-hgb-handelsgeschaeft
-description: "Wenn es um Abtretungsverbot Paragraf 354a HGB Handelsgeschäft in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Abtretungsverbot Paragraf 354a HGB Handelsgeschäft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abtretungsverbot § 354a HGB Handelsgeschäft

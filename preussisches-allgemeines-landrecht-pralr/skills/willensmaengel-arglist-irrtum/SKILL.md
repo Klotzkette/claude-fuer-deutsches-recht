@@ -1,6 +1,6 @@
 ---
 name: willensmaengel-arglist-irrtum
-description: "Wenn es um Pralr Willensmaengel Arglist Irrtum Zwang in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Willensmaengel Arglist Irrtum; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Willensmängel Arglist Irrtum Zwang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: willensmaengel-arglist-irrtum."
 ---
 
 # Pralr Willensmaengel Arglist Irrtum Zwang

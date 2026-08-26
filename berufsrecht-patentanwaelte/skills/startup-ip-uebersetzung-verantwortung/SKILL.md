@@ -1,6 +1,6 @@
 ---
 name: startup-ip-uebersetzung-verantwortung
-description: "Wenn es um Startup Ip Uebersetzung Verantwortung in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Startup Ip Übersetzung Verantwortung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: startup ip budget warnung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

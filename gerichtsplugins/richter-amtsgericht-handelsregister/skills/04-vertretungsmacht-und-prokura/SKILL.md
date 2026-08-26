@@ -1,6 +1,6 @@
 ---
 name: 04-vertretungsmacht-und-prokura
-description: "Wenn es um 04 Vertretungsmacht und Prokura in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 04 Vertretungsmacht und Prokura: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 04 Vertretungsmacht und Prokura

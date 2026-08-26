@@ -1,6 +1,6 @@
 ---
 name: beihilfe-chronische-krankheit
-description: "Wenn es um Beihilfe bei chronischer Krankheit in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beihilfe bei chronischer Krankheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beihilfe bei chronischer Krankheit

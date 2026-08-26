@@ -1,6 +1,6 @@
 ---
 name: klinikakten-und-bescheide-sortieren
-description: "Wenn es um Klinikakten und Bescheide sortieren in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Klinikakten und Bescheide sortieren: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klinikakten und Bescheide sortieren

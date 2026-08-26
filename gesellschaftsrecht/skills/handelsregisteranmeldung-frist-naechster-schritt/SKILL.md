@@ -1,6 +1,6 @@
 ---
 name: handelsregisteranmeldung-frist-naechster-schritt
-description: "Wenn es um Handelsregisteranmeldung: Fristennotiz und nächster Schritt in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsregisteranmeldung: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Handelsregisteranmeldung: Fristennotiz und nächster Schritt

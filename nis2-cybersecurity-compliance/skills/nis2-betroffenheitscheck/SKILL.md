@@ -1,6 +1,6 @@
 ---
 name: nis2-betroffenheitscheck
-description: "Wenn es um NIS-2 Betroffenheitscheck in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NIS-2 Betroffenheitscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NIS-2 Betroffenheitscheck

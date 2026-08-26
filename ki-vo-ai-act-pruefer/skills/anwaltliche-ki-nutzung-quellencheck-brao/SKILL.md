@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-ki-nutzung-quellencheck-brao
-description: "Wenn es um Anwaltliche digitale Werkzeuge-Nutzung und Quellencheck in europäischem Technikregulierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Anwaltliche Ki Nutzung Quellencheck Brao; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für Anwaltliche digitale Werkzeuge-Nutzung und Quellencheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: anwaltliche-ki-nutzung-quellencheck-brao."
 ---
 
 # Anwaltliche KI-Nutzung und Quellencheck

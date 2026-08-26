@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-art-82
-description: "Wenn es um Schadensersatz nach Art. 82 DSGVO — Verteidigung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schadensersatz nach Art. 82 DSGVO — Verteidigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schadensersatz nach Art. 82 DSGVO — Verteidigung
@@ -53,3 +53,7 @@ F. Höhe — Bagatellgrenze; Vergleich mit Rechtsprechung.
 
 - `dsv-rechtsprechung-immaterieller-schaden-bgh-olg` deckt die Rechtsprechungsanalyse ab.
 - `dsv-sammelklagen-praevention` deckt die strategische Praevention ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-schadensersatz-art-82` beziehungsweise Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-schadensersatz-art-82.md).

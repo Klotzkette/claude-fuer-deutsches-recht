@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v440.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v441.0.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 23821 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22729 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -39,7 +39,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [berichtspflichten-erlediger](./berichtspflichten-erlediger.md) (58 Skills)
 - [berufsgerichtliche-verfahren-freie-berufe](./berufsgerichtliche-verfahren-freie-berufe.md) (100 Skills)
 - [berufsrecht-anwaelte](./berufsrecht-anwaelte.md) (209 Skills)
-- [berufsrecht-ki-vertragspruefung](./berufsrecht-ki-vertragspruefung.md) (95 Skills)
+- [berufsrecht-ki-vertragspruefung](./berufsrecht-ki-vertragspruefung.md) (94 Skills)
 - [berufsrecht-notare](./berufsrecht-notare.md) (205 Skills)
 - [berufsrecht-patentanwaelte](./berufsrecht-patentanwaelte.md) (205 Skills)
 - [berufsrecht-steuerberater](./berufsrecht-steuerberater.md) (205 Skills)
@@ -62,7 +62,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 
 - [datenbankrecht](./datenbankrecht.md) (130 Skills)
 - [datenschutz-sanktionsverfahren-verteidigung](./datenschutz-sanktionsverfahren-verteidigung.md) (101 Skills)
-- [datenschutzrecht](./datenschutzrecht.md) (367 Skills)
+- [datenschutzrecht](./datenschutzrecht.md) (285 Skills)
 - [denkmalschutzrecht](./denkmalschutzrecht.md) (51 Skills)
 - [designrecht-geschmacksmusterrecht](./designrecht-geschmacksmusterrecht.md) (51 Skills)
 - [deutsche-rechtsgeschichte](./deutsche-rechtsgeschichte.md) (206 Skills)
@@ -72,7 +72,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 ### E
 
 - [ecommerce-recht](./ecommerce-recht.md) (73 Skills)
-- [einfache-leichte-sprache-jura](./einfache-leichte-sprache-jura.md) (88 Skills)
+- [einfache-leichte-sprache-jura](./einfache-leichte-sprache-jura.md) (87 Skills)
 - [einigungsvertrag-vermoegensrecht](./einigungsvertrag-vermoegensrecht.md) (124 Skills)
 - [email-umformulierer-berufsrecht](./email-umformulierer-berufsrecht.md) (83 Skills)
 - [energierecht](./energierecht.md) (96 Skills)
@@ -82,50 +82,50 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 
 ### F
 
-- [fachanwalt-agrarrecht](./fachanwalt-agrarrecht.md) (80 Skills)
-- [fachanwalt-arbeitsrecht](./fachanwalt-arbeitsrecht.md) (122 Skills)
-- [fachanwalt-bank-kapitalmarktrecht](./fachanwalt-bank-kapitalmarktrecht.md) (88 Skills)
+- [fachanwalt-agrarrecht](./fachanwalt-agrarrecht.md) (78 Skills)
+- [fachanwalt-arbeitsrecht](./fachanwalt-arbeitsrecht.md) (106 Skills)
+- [fachanwalt-bank-kapitalmarktrecht](./fachanwalt-bank-kapitalmarktrecht.md) (87 Skills)
 - [fachanwalt-bau-architektenrecht](./fachanwalt-bau-architektenrecht.md) (122 Skills)
-- [fachanwalt-erbrecht](./fachanwalt-erbrecht.md) (99 Skills)
-- [fachanwalt-familienrecht](./fachanwalt-familienrecht.md) (159 Skills)
-- [fachanwalt-gewerblicher-rechtsschutz](./fachanwalt-gewerblicher-rechtsschutz.md) (109 Skills)
-- [fachanwalt-handels-gesellschaftsrecht](./fachanwalt-handels-gesellschaftsrecht.md) (96 Skills)
-- [fachanwalt-insolvenz-sanierungsrecht](./fachanwalt-insolvenz-sanierungsrecht.md) (98 Skills)
-- [fachanwalt-internationales-wirtschaftsrecht](./fachanwalt-internationales-wirtschaftsrecht.md) (79 Skills)
+- [fachanwalt-erbrecht](./fachanwalt-erbrecht.md) (86 Skills)
+- [fachanwalt-familienrecht](./fachanwalt-familienrecht.md) (143 Skills)
+- [fachanwalt-gewerblicher-rechtsschutz](./fachanwalt-gewerblicher-rechtsschutz.md) (93 Skills)
+- [fachanwalt-handels-gesellschaftsrecht](./fachanwalt-handels-gesellschaftsrecht.md) (81 Skills)
+- [fachanwalt-insolvenz-sanierungsrecht](./fachanwalt-insolvenz-sanierungsrecht.md) (83 Skills)
+- [fachanwalt-internationales-wirtschaftsrecht](./fachanwalt-internationales-wirtschaftsrecht.md) (78 Skills)
 - [fachanwalt-it-recht](./fachanwalt-it-recht.md) (139 Skills)
 - [fachanwalt-medizinrecht](./fachanwalt-medizinrecht.md) (160 Skills)
-- [fachanwalt-miet-wohnungseigentumsrecht](./fachanwalt-miet-wohnungseigentumsrecht.md) (384 Skills)
-- [fachanwalt-migrationsrecht](./fachanwalt-migrationsrecht.md) (237 Skills)
+- [fachanwalt-miet-wohnungseigentumsrecht](./fachanwalt-miet-wohnungseigentumsrecht.md) (252 Skills)
+- [fachanwalt-migrationsrecht](./fachanwalt-migrationsrecht.md) (175 Skills)
 - [fachanwalt-sozialrecht](./fachanwalt-sozialrecht.md) (115 Skills)
 - [fachanwalt-sportrecht](./fachanwalt-sportrecht.md) (79 Skills)
 - [fachanwalt-strafrecht](./fachanwalt-strafrecht.md) (242 Skills)
-- [fachanwalt-transport-speditionsrecht](./fachanwalt-transport-speditionsrecht.md) (79 Skills)
-- [fachanwalt-urheber-medienrecht](./fachanwalt-urheber-medienrecht.md) (79 Skills)
+- [fachanwalt-transport-speditionsrecht](./fachanwalt-transport-speditionsrecht.md) (78 Skills)
+- [fachanwalt-urheber-medienrecht](./fachanwalt-urheber-medienrecht.md) (78 Skills)
 - [fachanwalt-vergaberecht](./fachanwalt-vergaberecht.md) (122 Skills)
 - [fachanwalt-verkehrsrecht](./fachanwalt-verkehrsrecht.md) (79 Skills)
-- [fachanwalt-versicherungsrecht](./fachanwalt-versicherungsrecht.md) (93 Skills)
-- [fachanwalt-verwaltungsrecht](./fachanwalt-verwaltungsrecht.md) (82 Skills)
+- [fachanwalt-versicherungsrecht](./fachanwalt-versicherungsrecht.md) (91 Skills)
+- [fachanwalt-verwaltungsrecht](./fachanwalt-verwaltungsrecht.md) (79 Skills)
 - [factoring-recht](./factoring-recht.md) (63 Skills)
 - [fahrgastrechte](./fahrgastrechte.md) (14 Skills)
 - [fashion-law-moderecht](./fashion-law-moderecht.md) (51 Skills)
 - [festlandchina-wirtschaftsverkehr](./festlandchina-wirtschaftsverkehr.md) (199 Skills)
 - [fluggastrechte](./fluggastrechte.md) (88 Skills)
-- [forderungsmanagement-klagewerkstatt](./forderungsmanagement-klagewerkstatt.md) (86 Skills)
+- [forderungsmanagement-klagewerkstatt](./forderungsmanagement-klagewerkstatt.md) (85 Skills)
 - [forschungszulage-antragstellung](./forschungszulage-antragstellung.md) (85 Skills)
-- [fortbestehensprognose](./fortbestehensprognose.md) (60 Skills)
+- [fortbestehensprognose](./fortbestehensprognose.md) (59 Skills)
 - [franchiserecht-praxis](./franchiserecht-praxis.md) (123 Skills)
 
 ### G
 
 - [gebrauchsmusterrecht](./gebrauchsmusterrecht.md) (51 Skills)
-- [geldwaeschepraevention-aml-kyc](./geldwaeschepraevention-aml-kyc.md) (58 Skills)
-- [gesellschaftsgruender](./gesellschaftsgruender.md) (115 Skills)
+- [geldwaeschepraevention-aml-kyc](./geldwaeschepraevention-aml-kyc.md) (57 Skills)
+- [gesellschaftsgruender](./gesellschaftsgruender.md) (114 Skills)
 - [gesellschaftsrecht](./gesellschaftsrecht.md) (118 Skills)
 - [gesellschaftsrecht-legal-english](./gesellschaftsrecht-legal-english.md) (54 Skills)
 - [gesellschaftsrechtliche-treuepflicht](./gesellschaftsrechtliche-treuepflicht.md) (101 Skills)
-- [gewerblicher-rechtsschutz](./gewerblicher-rechtsschutz.md) (95 Skills)
+- [gewerblicher-rechtsschutz](./gewerblicher-rechtsschutz.md) (82 Skills)
 - [goae-gebuehrenordnung-aerzte](./goae-gebuehrenordnung-aerzte.md) (66 Skills)
-- [grosskanzlei-corporate-ma](./grosskanzlei-corporate-ma.md) (282 Skills)
+- [grosskanzlei-corporate-ma](./grosskanzlei-corporate-ma.md) (236 Skills)
 - [grundbuchamt-praxis](./grundbuchamt-praxis.md) (65 Skills)
 
 ### H
@@ -133,10 +133,10 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [handelsrecht-hgb](./handelsrecht-hgb.md) (57 Skills)
 - [handelsregister-praxis](./handelsregister-praxis.md) (78 Skills)
 - [handelsvertreterrecht](./handelsvertreterrecht.md) (129 Skills)
-- [hausarbeitenmacher](./hausarbeitenmacher.md) (60 Skills)
-- [haushaltsrecht-bho-bund-laender](./haushaltsrecht-bho-bund-laender.md) (346 Skills)
+- [hausarbeitenmacher](./hausarbeitenmacher.md) (59 Skills)
+- [haushaltsrecht-bho-bund-laender](./haushaltsrecht-bho-bund-laender.md) (262 Skills)
 - [hinweisgeberschutz-compliance](./hinweisgeberschutz-compliance.md) (102 Skills)
-- [hoai-leistungsphasen-praxis](./hoai-leistungsphasen-praxis.md) (389 Skills)
+- [hoai-leistungsphasen-praxis](./hoai-leistungsphasen-praxis.md) (151 Skills)
 - [hochschulrecht-laender](./hochschulrecht-laender.md) (101 Skills)
 
 ### I
@@ -145,16 +145,16 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [influencer-recht](./influencer-recht.md) (130 Skills)
 - [informationsfreiheit-presseauskunft](./informationsfreiheit-presseauskunft.md) (118 Skills)
 - [insiderrecht-compliance](./insiderrecht-compliance.md) (112 Skills)
-- [insolvenzforderungsanmeldungspruefung](./insolvenzforderungsanmeldungspruefung.md) (61 Skills)
-- [insolvenzplan-starug-planwerkstatt](./insolvenzplan-starug-planwerkstatt.md) (59 Skills)
-- [insolvenzrecht](./insolvenzrecht.md) (99 Skills)
-- [insolvenzverwaltung](./insolvenzverwaltung.md) (54 Skills)
+- [insolvenzforderungsanmeldungspruefung](./insolvenzforderungsanmeldungspruefung.md) (59 Skills)
+- [insolvenzplan-starug-planwerkstatt](./insolvenzplan-starug-planwerkstatt.md) (58 Skills)
+- [insolvenzrecht](./insolvenzrecht.md) (98 Skills)
+- [insolvenzverwaltung](./insolvenzverwaltung.md) (53 Skills)
 - [internal-investigations-praxis](./internal-investigations-praxis.md) (110 Skills)
 - [internationales-handelsrecht-lex-mercatoria](./internationales-handelsrecht-lex-mercatoria.md) (193 Skills)
 
 ### J
 
-- [jurastudium](./jurastudium.md) (59 Skills)
+- [jurastudium](./jurastudium.md) (58 Skills)
 - [juristische-presseberichterstattung](./juristische-presseberichterstattung.md) (21 Skills)
 - [juristische-sprache-deutsch-als-zweitsprache](./juristische-sprache-deutsch-als-zweitsprache.md) (56 Skills)
 - [jveg-kostenpruefer](./jveg-kostenpruefer.md) (61 Skills)
@@ -165,7 +165,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [kanzlei-builder-hub](./kanzlei-builder-hub.md) (60 Skills)
 - [kanzlei-management](./kanzlei-management.md) (101 Skills)
 - [kanzlei-mandant-lifecycle](./kanzlei-mandant-lifecycle.md) (116 Skills)
-- [kartellrecht-marktabgrenzung-pruefung](./kartellrecht-marktabgrenzung-pruefung.md) (310 Skills)
+- [kartellrecht-marktabgrenzung-pruefung](./kartellrecht-marktabgrenzung-pruefung.md) (181 Skills)
 - [ki-governance](./ki-governance.md) (60 Skills)
 - [ki-richtlinie-kanzleien](./ki-richtlinie-kanzleien.md) (60 Skills)
 - [ki-vo-ai-act-pruefer](./ki-vo-ai-act-pruefer.md) (123 Skills)
@@ -178,7 +178,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 ### L
 
 - [leasingrecht-praxis](./leasingrecht-praxis.md) (118 Skills)
-- [legistik-werkstatt](./legistik-werkstatt.md) (255 Skills)
+- [legistik-werkstatt](./legistik-werkstatt.md) (254 Skills)
 - [liquiditaetsplanung](./liquiditaetsplanung.md) (74 Skills)
 - [lizenzvertragsersteller](./lizenzvertragsersteller.md) (33 Skills)
 - [lobbyregister-bundestag](./lobbyregister-bundestag.md) (53 Skills)
@@ -190,17 +190,17 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [markenrecht-fashion-luxus](./markenrecht-fashion-luxus.md) (89 Skills)
 - [meinungspruefer](./meinungspruefer.md) (54 Skills)
 - [memorandums-ersteller](./memorandums-ersteller.md) (59 Skills)
-- [methodenlehre-buergerliches-recht](./methodenlehre-buergerliches-recht.md) (159 Skills)
-- [mietrecht](./mietrecht.md) (66 Skills)
+- [methodenlehre-buergerliches-recht](./methodenlehre-buergerliches-recht.md) (141 Skills)
+- [mietrecht](./mietrecht.md) (64 Skills)
 - [mittelstand-corporate-ma](./mittelstand-corporate-ma.md) (101 Skills)
 
 ### N
 
-- [nachbarschaftsstreit-pruefer](./nachbarschaftsstreit-pruefer.md) (60 Skills)
-- [nda-abgleich](./nda-abgleich.md) (92 Skills)
+- [nachbarschaftsstreit-pruefer](./nachbarschaftsstreit-pruefer.md) (59 Skills)
+- [nda-abgleich](./nda-abgleich.md) (91 Skills)
 - [nda-verschwiegenheit-generator-checker](./nda-verschwiegenheit-generator-checker.md) (102 Skills)
 - [nis2-cybersecurity-compliance](./nis2-cybersecurity-compliance.md) (103 Skills)
-- [normenkontrolle-bauleitplanung](./normenkontrolle-bauleitplanung.md) (110 Skills)
+- [normenkontrolle-bauleitplanung](./normenkontrolle-bauleitplanung.md) (109 Skills)
 - [normenkontrollrat-nkr](./normenkontrollrat-nkr.md) (64 Skills)
 - [notariat-alltag](./notariat-alltag.md) (130 Skills)
 
@@ -218,14 +218,14 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [preussisches-allgemeines-landrecht-pralr](./preussisches-allgemeines-landrecht-pralr.md) (209 Skills)
 - [private-equity-praxis](./private-equity-praxis.md) (109 Skills)
 - [produktrecht](./produktrecht.md) (70 Skills)
-- [prozessrecht](./prozessrecht.md) (66 Skills)
+- [prozessrecht](./prozessrecht.md) (65 Skills)
 - [pruefungsrecht-hochschule](./pruefungsrecht-hochschule.md) (109 Skills)
 
 ### R
 
 - [rechtsberatungsstelle](./rechtsberatungsstelle.md) (60 Skills)
 - [rechtstheorie-rechtsphilosophie](./rechtstheorie-rechtsphilosophie.md) (66 Skills)
-- [regulatorisches-recht](./regulatorisches-recht.md) (62 Skills)
+- [regulatorisches-recht](./regulatorisches-recht.md) (59 Skills)
 - [relationstechnik-zivilrecht](./relationstechnik-zivilrecht.md) (23 Skills)
 - [rentenpruefer](./rentenpruefer.md) (73 Skills)
 - [richter-amtsgericht-handelsregister](./richter-amtsgericht-handelsregister.md) (13 Skills)
@@ -242,7 +242,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [richter-verwaltungsgericht](./richter-verwaltungsgericht.md) (14 Skills)
 - [robotik-recht](./robotik-recht.md) (213 Skills)
 - [roemisch-katholisches-kirchenrecht](./roemisch-katholisches-kirchenrecht.md) (127 Skills)
-- [roemisches-recht](./roemisches-recht.md) (285 Skills)
+- [roemisches-recht](./roemisches-recht.md) (281 Skills)
 
 ### S
 
@@ -260,13 +260,13 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [staatsanwaltschaft-praxis-einstieg](./staatsanwaltschaft-praxis-einstieg.md) (146 Skills)
 - [startup-hr-personalabteilung-berlin](./startup-hr-personalabteilung-berlin.md) (112 Skills)
 - [status-navigator-step-plan](./status-navigator-step-plan.md) (36 Skills)
-- [steuerrecht-anwalt-und-berater](./steuerrecht-anwalt-und-berater.md) (387 Skills)
+- [steuerrecht-anwalt-und-berater](./steuerrecht-anwalt-und-berater.md) (237 Skills)
 - [strafanzeige-vorbereiter](./strafanzeige-vorbereiter.md) (57 Skills)
 - [strafbefehl-verteidiger](./strafbefehl-verteidiger.md) (61 Skills)
-- [strafzumessung](./strafzumessung.md) (61 Skills)
+- [strafzumessung](./strafzumessung.md) (60 Skills)
 - [strassenrecht-infrastruktur](./strassenrecht-infrastruktur.md) (127 Skills)
 - [strassenverkehrsrecht-stvo](./strassenverkehrsrecht-stvo.md) (118 Skills)
-- [subsumtions-pruefer](./subsumtions-pruefer.md) (63 Skills)
+- [subsumtions-pruefer](./subsumtions-pruefer.md) (59 Skills)
 
 ### T
 
@@ -279,7 +279,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [umweltrecht](./umweltrecht.md) (59 Skills)
 - [umweltschutzverband-verbandsklage](./umweltschutzverband-verbandsklage.md) (113 Skills)
 - [urheberrecht-de-eu](./urheberrecht-de-eu.md) (65 Skills)
-- [urteilsbauer-relationsmacher](./urteilsbauer-relationsmacher.md) (85 Skills)
+- [urteilsbauer-relationsmacher](./urteilsbauer-relationsmacher.md) (84 Skills)
 - [us-bankruptcy-code](./us-bankruptcy-code.md) (101 Skills)
 - [us-copyright-registrierung-verlag](./us-copyright-registrierung-verlag.md) (101 Skills)
 
@@ -299,14 +299,14 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [verlagsredaktion](./verlagsredaktion.md) (118 Skills)
 - [versammlungsrecht](./versammlungsrecht.md) (56 Skills)
 - [versicherungsrecht](./versicherungsrecht.md) (65 Skills)
-- [vertragsausfueller](./vertragsausfueller.md) (61 Skills)
-- [vertragsrecht](./vertragsrecht.md) (60 Skills)
+- [vertragsausfueller](./vertragsausfueller.md) (60 Skills)
+- [vertragsrecht](./vertragsrecht.md) (59 Skills)
 
 ### W
 
 - [wahlkampfrecht-praxis](./wahlkampfrecht-praxis.md) (121 Skills)
 - [wandeldarlehen-lebenszyklus](./wandeldarlehen-lebenszyklus.md) (54 Skills)
-- [weg-hausverwaltung](./weg-hausverwaltung.md) (94 Skills)
+- [weg-hausverwaltung](./weg-hausverwaltung.md) (93 Skills)
 - [weltraumrecht](./weltraumrecht.md) (181 Skills)
 - [word-legal-ai-plugin-and-skill-for-german-lawyers](./word-legal-ai-plugin-and-skill-for-german-lawyers.md) (53 Skills)
 

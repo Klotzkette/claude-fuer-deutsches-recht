@@ -1,6 +1,6 @@
 ---
 name: english-legal-writing-for-german-courts
-description: "Wenn es um English Legal Writing in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für English Legal Writing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # English Legal Writing

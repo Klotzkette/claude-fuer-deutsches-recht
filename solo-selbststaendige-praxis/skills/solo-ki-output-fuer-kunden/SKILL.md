@@ -1,6 +1,6 @@
 ---
 name: solo-ki-output-fuer-kunden
-description: "Wenn es um Grenzen Compliance und Selbstschutz: Prüft kennzeichnung in Solo-Selbstständige Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grenzen Compliance und Selbstschutz: Prüft kennzeichnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzen Compliance und Selbstschutz: Prüft kennzeichnung

@@ -1,6 +1,6 @@
 ---
 name: versr-obliegenheitsverletzung-praxis
-description: "Wenn es um Obliegenheitsverletzung in der Praxis: Paragraf 28 VVG, Aufklaerungspflicht, Anzeigepflicht in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Obliegenheitsverletzung in der Praxis: Paragraf 28 VVG, Aufklärungspflicht, Anzeigepflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Obliegenheitsverletzung in der Praxis: § 28 VVG, Aufklaerungspflicht, Anzeigepflicht

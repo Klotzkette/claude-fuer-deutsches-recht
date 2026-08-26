@@ -1,6 +1,6 @@
 ---
 name: copying-substantial-similarity
-description: "Wenn es um Copying und Substantial Similarity in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Copying und Substantial Similarity: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Copying und Substantial Similarity

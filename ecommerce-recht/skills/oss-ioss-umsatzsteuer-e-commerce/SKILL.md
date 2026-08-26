@@ -1,6 +1,6 @@
 ---
 name: oss-ioss-umsatzsteuer-e-commerce
-description: "Wenn es um OSS/IOSS Umsatzsteuer E-Commerce in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für OSS/IOSS Umsatzsteuer E-Commerce: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # OSS/IOSS Umsatzsteuer E-Commerce

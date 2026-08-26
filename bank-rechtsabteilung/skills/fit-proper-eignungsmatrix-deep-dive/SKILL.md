@@ -1,6 +1,6 @@
 ---
 name: fit-proper-eignungsmatrix-deep-dive
-description: "Wenn es um Fit-and-Proper Eignungsmatrix in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fit-and-Proper Eignungsmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fit-and-Proper Eignungsmatrix

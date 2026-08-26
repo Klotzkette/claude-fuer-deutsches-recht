@@ -1,6 +1,6 @@
 ---
 name: lease-014-lieferant-leasinggeber-leasingnehmer-dreieck
-description: "Wenn es um Leasingrecht: Lieferant Leasinggeber Leasingnehmer Dreiecksverhältnis in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Lieferant Leasinggeber Leasingnehmer Dreiecksverhältnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Lieferant Leasinggeber Leasingnehmer Dreiecksverhältnis

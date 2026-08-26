@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 51 Skills des Plugins `arbeitszeugnis-ana
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Arbeitszeugnis Analyse ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbi…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Arbeitszeugnis-Analyse geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden n…
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Arbeitszeugnis-Analyse geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächs…
-4. **widerspruechliche-bewertungen** — Wenn es um Widersprüchliche Bewertungen erkennen und kommentieren in Arbeitszeugnis-Analyse geht: ordnet Sachverhalt, No…
-5. **bereichs-drift-detektor** — Wenn es um Bereichs-Drift-Detektor (Schaufenster-Pattern) in Arbeitszeugnis-Analyse geht: ordnet Sachverhalt, Norm, Bewe…
-6. **arbeitszeugnis-ampelsystem-dokumentenmatrix-lueckenliste** — Wenn es um Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis…
-7. **arbeitszeugnis-zeugnisanalyse-wortlaut-codes** — Wenn es um Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis…
-8. **arbeitszeugnis-orange-risikoampel-gegenargumente** — Wenn es um Orange: Risikoampel, Gegenargumente und Verteidigungslinien in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis,…
-9. **arbeitszeugnis-deutscher-tatbestandsmerkmale-beweisfragen** — Wenn es um Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, …
-10. **muster-arbeitszeugnis-gemischte-noten** — Wenn es um Muster-Arbeitszeugnis mit gemischten Noten (Schulungsmaterial) in Arbeitszeugnis-Analyse geht: prüft Frist, F…
-11. **rechtliche-bewertung-bag-rechtsprechung** — Wenn es um Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeitszeugnis in Arbeitszeugnis-Analyse geht: prüft Frist, F…
-12. **erstpruefung-rollenklaerung-mandatsziel** — Wenn es um Analyse: Erstprüfung, Rollenklärung und Mandatsziel in Arbeitszeugnis-Analyse geht: klärt Rolle, Ziel, Frist,…
-13. **klage-strategie-zeugnisberichtigung** — Wenn es um Klagestrategie Zeugnisberichtigung in Arbeitszeugnis-Analyse geht: erstellt den passenden Entwurf aus Sachver…
-14. **zeugnis-problem-sortieren** — Wenn es um Zeugnisproblem Sortieren in Arbeitszeugnis-Analyse geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente…
-15. **arbeitszeugnis-geheimcodes-schriftsatz-brief-memo-bausteine** — Wenn es um Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine in Arbeitszeugnis-Analyse geht: erstellt den passenden E…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+4. **muster-arbeitszeugnis-gemischte-noten** — Für Muster-Arbeitszeugnis mit gemischten Noten (Schulungsmaterial): ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
+5. **arbeitszeugnis-zeugnisanalyse-wortlaut-codes** — Für Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: S…
+6. **muster-arbeitszeugnis-mit-roten-flaggen** — Für Muster-Arbeitszeugnis mit roten Flaggen (Schulungsmaterial): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Sc…
+7. **muster-arbeitszeugnis-note-1** — Für Muster-Arbeitszeugnis Note 1 (Referenzdokument): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellen…
+8. **rechtliche-bewertung-bag-rechtsprechung** — Für Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeitszeugnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
+9. **arbeitszeugnis-geheimcodes-schriftsatz-brief-memo-bausteine** — Für Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Sch…
+10. **azubi-zeugnis-analyse** — Für Ausbildungszeugnis-Analyse (Azubi-Zeugnis): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte…
+11. **zeugnis-ueberblick-extraktion** — Für Zeugnis-Überblick und Kopfdaten-Extraktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte…
+12. **arbeitszeugnis-codeworte-compliance-dokumentation-aktenvermerk** — Für Codeworte: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte …
+13. **leitende-positionen-zeugnisse** — Für Arbeitszeugnisse für leitende Positionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte m…
+14. **widerspruechliche-bewertungen** — Für Widersprüchliche Bewertungen erkennen und kommentieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpro…
+15. **arbeitszeugnis-deutscher-tatbestandsmerkmale-beweisfragen** — Für Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Bew…
 
 ---
 
@@ -150,7 +150,7 @@ Ausgangspunkt für dieses Plugin: Arbeitnehmer für Berichtigungsziel und besser
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Arbeitszeugnis-Analyse geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Arbeitszeugnis-Analyse._
 
 # Einstieg und Routing
 
@@ -219,7 +219,7 @@ Dieser Einstieg routet **Arbeitszeugnis Analyse** vom ersten Sachverhalt zu Roll
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Arbeitszeugnis-Analyse geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Arbeitszeugnis-Analyse._
 
 ## Wenn nur ein Zeugnis hochgeladen wird
 
@@ -357,317 +357,9 @@ Für Schulung und Regression eignet sich die Arbeitsakte `arbeitszeugnis-analyse
 
 ---
 
-## Skill: `widerspruechliche-bewertungen`
-
-_Wenn es um Widersprüchliche Bewertungen erkennen und kommentieren in Arbeitszeugnis-Analyse geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Widersprüchliche Bewertungen erkennen und kommentieren
-
-## Fachlicher Anker
-
-- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Geheimcode-Regeln
-
-| Widerspruchstyp | Signalwirkung | Ampel |
-|---|---|---|
-| Leistung grün, Schlussformel rot | Uneinvernehmliche Trennung | Orange-Rot |
-| Verhalten grün, Leistung rot | Netter, aber leistungsschwacher Mitarbeiter | Rot |
-| Eigeninitiative und "nach Anweisung" im selben Zeugnis | Inkonsistenz | Orange |
-| Sehr warme Schlussformel bei schwacher Leistungsbeurteilung | Verdacht auf Gefälligkeitsformel | Orange |
-| Positive Einzelsätze, negative Gesamtzufriedenheitsformel | Bewusste Irreführung | Rot |
-| Spitzensatz und Durchschnittssatz im selben Themenbereich | Schaufenster-Pattern (siehe bereichs-drift-detektor) | Rot |
-
-## Beispiele
-
-**Beispiel 1 – Leistung grün, Schlussformel rot:** "Die Leistungen waren stets hervorragend" (Grün) + keine Schlussformel (Rot) → deutet auf Streit beim Ausscheiden oder feindseligen Abgang.
-
-**Beispiel 2 – Innere Inkonsistenz:** "Herr Braun arbeitete stets eigenverantwortlich" (Satz 3) vs. "Er erledigte die ihm nach Anweisung zugewiesenen Aufgaben zuverlässig" (Satz 7) → direkte inhaltliche Contradiction.
-
-**Beispiel 3 – Warme Schlussformel bei Note-4-Leistung:** Leistung mit "bemüht" (Rot, Note 4), Schlussformel vollständig und warm → vermutlich persönliches Gefälligkeitszeugnis, nicht authentisch.
-
-**Beispiel 4 – Reihenfolge-Anomalie:** Abschnitt 1 (Leistung): hervorragend. Abschnitt 2 (Verhalten): Kollegen vor Vorgesetzten + "direkte Kommunikationsweise". Abschnitt 3 (Schlussformel): vollständig. → Einstellender wird Verhaltensteil isoliert bewerten.
-
-**Beispiel 5 – Positiver Leistungsteil, fehlende Integrität:** Alle Leistungsaussagen grün, kein einziges Wort zu Zuverlässigkeit oder Vertrauen bei einem Buchhalter → der Widerspruch zwischen Lob und Schweigen ist das rote Signal.
-
-## Rechtliche Einordnung und Normen
-
-- **Paragraf 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
-- **Paragraf 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
-
-## Leitentscheidungs-Anker (Empfaengerhorizont, Grenzen der Decodierung)
-
-> Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
-
-| Entscheidung | Tragende Aussage | Freie Quelle |
-| --- | --- | --- |
-| **BAG, Urt. v. 21.06.2005 - 9 AZR 352/04** | Nach einer vom Arbeitnehmer veranlassten Berichtigung darf der Arbeitgeber unbeanstandete Zeugnisbestandteile grundsätzlich nicht grundlos verschlechtern; Zeugnisklarheit beurteilt sich nach dem objektiven Empfängerhorizont. | bundesarbeitsgericht.de / dejure.org |
-| **BAG, Urt. v. 15.11.2011 - 9 AZR 386/10** | Bestaetigung: "kennen gelernt" ist allein und losgeloest vom uebrigen Zeugnisinhalt kein unzulaessiger Geheimcode; Werturteile-Spielraum mit Grenze Zeugniswahrheit/-klarheit. | bundesarbeitsgericht.de / dejure.org |
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `bereichs-drift-detektor`
-
-_Wenn es um Bereichs-Drift-Detektor (Schaufenster-Pattern) in Arbeitszeugnis-Analyse geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Bereichs-Drift-Detektor (Schaufenster-Pattern)
-
-## Fachlicher Anker
-
-- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Geheimcode-Regeln
-
-| Drift-Befund | Signalwirkung | Ampel |
-|---|---|---|
-| Note eins und Note drei zum selben Themenbereich direkt aufeinanderfolgend | Schaufenster-Eroeffnung mit kodierter Korrektur | Rot |
-| Spreizung zwei Stufen innerhalb eines Bereichs | Systematische Abwertung | Rot |
-| Spreizung eine Stufe innerhalb eines Bereichs | Bewusste Vorsicht | Orange |
-| Drift bei Lernbereitschaft trotz starker Fachkenntnisse | Stagnationssignal | Rot |
-| Drift bei Sozialverhalten trotz starker Leistungsteile | Konfliktsignal | Rot |
-| Drift bei Innovation trotz starker Arbeitsweise | Routinesignal | Orange |
-| Bereichsuebergreifend konstante Note eins | Authentisch grün | Grün |
-
-## Beispiele
-
-**Beispiel 1 – Klassische Schaufenster-Drift bei Lernbereitschaft:** Satz A: "verfuegt auch in Randbereichen seines vielfaeltigen Aufgabenbereiches über aeusserst profundes Fachwissen" (Note 1). Satz B unmittelbar darauf: "nahm in eigener Initiative regelmaessig erfolgreich an internen und externen Weiterbildungsseminaren teil" (Note 3). Beide gehoeren zum Themenbereich Fachwissen/Lernen. Drift zwei Stufen, Rot.
-
-**Beispiel 2 – Drift bei Arbeitsweise und Innovation:** Satz A: "fuehrte er jederzeit vollkommen selbststaendig, aeusserst sorgfaeltig und planvoll durchdacht aus" (Note 1). Satz B: "war Neuem gegenueber aufgeschlossen, fand gute neue Ideen und innovative Ansaetze" (Note 3, da "gute" statt "hervorragende" und keine Steigerungsadverbien). Drift zwei Stufen im weichen Bereich, Rot.
-
-**Beispiel 3 – Drift im Sozialverhalten trotz Top-Erfolg:** Satz A: "Arbeitsergebnisse lagen stets sehr weit über unseren Anforderungen" (Note 1). Satz B im Sozialteil: "war ein geschaetzter Ansprechpartner, sein persönliches Verhalten war einwandfrei" (Note 3, da "einwandfrei" ohne "stets" und "geschaetzt" ohne Steigerung). Themen unterschiedlich, aber Drift in einem heiklen Bereich, Rot.
-
-**Beispiel 4 – Drift eine Stufe:** "aeusserst motiviert die gesetzten Ziele beharrlich zu verfolgen" (Note 1) und kurz darauf "zeigte eine hohe Lernbereitschaft" (Note 2 bis 3). Eine Stufe, Orange.
-
-**Beispiel 5 – Keine Drift, authentisch:** Alle Saetze im Bereich Fachkenntnisse tragen durchgehend Steigerungsadverbien und Superlative auf Note-1-Niveau. Keine Drift, Grün.
-
-## Rechtliche Einordnung und Normen
-
-- **Paragraf 109 Abs. 2 GewO** — Zeugnis muss klar und verständlich sein; widersprüchliche Bewertungen im selben Themenbereich verstoßen gegen Wohlwollensgebot
-- **Paragraf 242 BGB** — Treu und Glauben; innerhalb desselben Zeugnisabschnitts darf der Arbeitgeber nicht gleichzeitig Bestnoten und Mängel bescheinigen
-
-## Triage — vor der Drift-Prüfung
-
-1. Welche Themenblöcke sind im Zeugnis enthalten? (Fachkenntnisse, Motivation, Qualität, Teamverhalten, Führung, Schluss)
-2. Wurde die Zufriedenheitsformel bereits ausgewertet? (Satzweise-Notenmatrix-Skill?)
-3. Ziel der Drift-Analyse: Klageantrag-Vorbereitung oder Mandantenberatung?
-
-
-## Leitentscheidungs-Anker (Empfaengerhorizont, Grenzen der Decodierung)
-
-> Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
-
-| Entscheidung | Tragende Aussage | Freie Quelle |
-| --- | --- | --- |
-| **BAG, Urt. v. 21.06.2005 - 9 AZR 352/04** | Nach einer vom Arbeitnehmer veranlassten Berichtigung darf der Arbeitgeber unbeanstandete Zeugnisbestandteile grundsätzlich nicht grundlos verschlechtern; Zeugnisklarheit beurteilt sich nach dem objektiven Empfängerhorizont. | bundesarbeitsgericht.de / dejure.org |
-| **BAG, Urt. v. 15.11.2011 - 9 AZR 386/10** | Bestaetigung: "kennen gelernt" ist allein und losgeloest vom uebrigen Zeugnisinhalt kein unzulaessiger Geheimcode; Werturteile-Spielraum mit Grenze Zeugniswahrheit/-klarheit. | bundesarbeitsgericht.de / dejure.org |
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `arbeitszeugnis-ampelsystem-dokumentenmatrix-lueckenliste`
-
-_Wenn es um Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Paragraf 611a Abs. 1 BGB` — Arbeitsvertrag und Weisungsbindung.
-- `Paragraf 241 Abs. 2 BGB` — Rücksichtnahmepflichten.
-- `Paragraf 626 Abs. 1 BGB` — fristlose Kuendigung.
-- `Paragraf 1 Abs. 2 KSchG` — soziale Rechtfertigung.
-- `Paragraf 4 Satz 1 KSchG` — Klagefrist.
-- `Paragraf 7 KSchG` — Fiktionswirkung.
-- `Paragraf 102 Abs. 1 BetrVG` — Betriebsratsanhoerung.
-- `Paragraf 2 Abs. 1 NachwG` — Nachweis wesentlicher Arbeitsbedingungen.
-- `Paragraf 46 Abs. 2 ArbGG` — ZPO-Anwendung im arbeitsgerichtlichen Verfahren.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Fachlicher Anker
-
-- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Spezialwissen: Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Ampelsystem** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Ampelsystem-Notenmatrix (Auszug)
-
-| Formulierung | Bereich | Ampel | Note |
-| --- | --- | --- | --- |
-| stets zur vollsten Zufriedenheit | Leistung | Grün | 1 |
-| stets zur vollen Zufriedenheit | Leistung | Grün | 2 |
-| zur vollen Zufriedenheit | Leistung | Orange | 3 |
-| stets zur Zufriedenheit | Leistung | Orange-Rot | 3-4 |
-| zur Zufriedenheit | Leistung | Rot | 4 |
-| war stets bemüht | Leistung | Rot | 4-5 |
-| im Wesentlichen / im Großen und Ganzen zur Zufriedenheit | Leistung | Rot | 5 |
-| stets einwandfrei | Verhalten | Grün | 1 |
-| einwandfrei / korrekt | Verhalten | Orange | 3 |
-| korrekt gegenüber Kollegen UND Vorgesetzten (Reihenfolge!) | Verhalten | Orange-Rot | falsche Reihenfolge = Note 3-4 |
-| Schlussformel mit Bedauern, Dank, Zukunftswünschen | Schluss | Grün | wärmend |
-| Schlussformel ohne Bedauern | Schluss | Orange-Rot | kühl |
-| Auslassung relevanter Aufgaben (z.B. Kunden trotz Vertriebsjob) | Aufgaben | Rot | Indizwirkung |
-
-## Dokumentenmatrix für Lückenanalyse
-
-| Pflichtbaustein | Im Zeugnis vorhanden? | Ampel | Wirkung |
-| --- | --- | --- | --- |
-| Briefkopf (Unternehmen, Anschrift) | ja/nein | bei Fehlen Rot | Formfehler |
-| Persönliche Daten (Name, Geb-Datum, ggf. Anschrift) | ja/nein | nein = Rot | Identitätszweifel |
-| Eintritts- und Austrittsdatum | ja/nein | Pflicht | Klarheit Beschäftigungszeitraum |
-| Stellenbezeichnung und Aufgabenkatalog | vollständig? | Lücken = Rot | bei Auslassungen Indizwirkung |
-| Leistungsbeurteilung | vorhanden, vollständig? | Lücken = Rot | "stillschweigende Schlechtbewertung" |
-| Verhaltensbeurteilung | vorhanden, Reihenfolge der Personennennung? | Reihenfolge entscheidend | Vorgesetzte zuerst, dann Mitarbeiter, Kollegen, Kunden |
-| Schlussformel | mit Bedauern, Dank, Zukunftswünschen? | fehlend = Orange-Rot | Kontextsignal |
-| Unterschrift (Geschäftsführung/HR) | ja, mit Funktion? | Rangsignal | je höher, desto wertvoller |
-| Ausstellungsdatum | sinnvoll vor Beendigung? | nach Beendigung normal | sehr lange nach Beendigung = Indizwirkung |
-
-## Lückenliste / Nachforderung
-
-Typische Nachforderungen an den Arbeitgeber:
-1. Erweiterung des Aufgabenkatalogs (insbesondere fehlende Kundenbetreuung bei Vertriebsmitarbeitern).
-2. Hinzufügung quantifizierter Erfolge (Umsatzsteigerung, Projektabschlüsse, Auszeichnungen).
-3. Verbesserung der Note auf "stets zur vollen Zufriedenheit" (Note 2) mit Beurteilungsbeiträgen als Belegen.
-4. Verhaltensformel mit "stets einwandfrei" und korrekter Personennennung (Vorgesetzte zuerst).
-5. Warme Schlussformel mit Bedauern, Dank und Zukunftswünschen.
-6. Korrektur Auslassungen — Stellung im Unternehmen, Verantwortungsumfang, Disziplinarbefugnis.
-
-## Praktiker-Tipp
-
-Bei Note 3 trägt Arbeitnehmer die Beweislast für bessere Note (BAG ständige Rechtsprechung). Daher Klage auf Note 2 nur bei vollständig dokumentierten Beurteilungsbeiträgen. Sonst lieber Vergleich in der Güteverhandlung: typisches Kompromisspaket: "stets zur vollen Zufriedenheit", "stets einwandfrei", warme Schlussformel.
-
----
-
-## Skill: `arbeitszeugnis-zeugnisanalyse-wortlaut-codes`
-
-_Wenn es um Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg
-
-## Fachlicher Anker
-
-- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Spezialwissen: Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Anspruch und Form:** Paragraf 109 Absatz 1 GewO begründet bei Beendigung den Anspruch auf ein einfaches oder auf Verlangen qualifiziertes Zeugnis. Absatz 2 verlangt Klarheit und verbietet verdeckte Aussagen. Seit dem 1. Januar 2025 kann das Zeugnis mit Einwilligung des Arbeitnehmers in elektronischer Form erteilt werden; dann ist die qualifizierte elektronische Signatur nach Paragraf 126a BGB erforderlich. Ohne Einwilligung bleibt es bei der Papierform mit eigenhändiger Unterschrift.
-3. **Fristen prüfen:** Zeugnisanspruch verjährt regelmäßig nach 3 Jahren (Paragrafen 195, 199 BGB). Vorsicht: tarifliche oder einzelvertragliche Ausschlussfristen (häufig 2- bis 6-monatig, zweistufig) verkürzen Anspruch erheblich; Mindestlohnverwirkungsklauseln BAG ständige Rechtsprechung unwirksam. Bei Zwischenzeugnis: Anspruch bei berechtigtem Interesse (Vorgesetztenwechsel, Bewerbung, Beförderung).
-4. **Zuständigkeit:** ArbG erstinstanzlich (Paragraf 2 Abs. 1 Nr. 3a ArbGG); Streitwert ein Bruttomonatsgehalt analog Paragraf 42 Abs. 2 GKG; keine Anwaltspflicht erste Instanz (Paragraf 11 ArbGG); Klagegegner ist Arbeitgeber, bei Betriebsübergang nach Paragraf 613a BGB der Erwerber.
-5. **Anschluss:** Aufforderungsschreiben mit Fristsetzung (2-4 Wochen üblich), bei Untätigkeit Klage; Antrag konkretisieren ("verurteilt, ein qualifiziertes Arbeitszeugnis mit folgendem Inhalt zu erteilen ..." oder unbestimmter Antrag mit Notenangabe).
-
----
-
-## Skill: `arbeitszeugnis-orange-risikoampel-gegenargumente`
-
-_Wenn es um Orange: Risikoampel, Gegenargumente und Verteidigungslinien in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Orange: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Fachlicher Anker
-
-- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Spezialwissen: Orange: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Orange-Phänomene identifizieren:** Stille (fehlende Aussage zu wesentlichen Tätigkeitsmerkmalen), Schaufenster-Drift (positive Auftaktphrase ohne inhaltliche Substanz), abgeschwächte Steigerungsadverbien ("im Wesentlichen", "weitgehend"), fehlende Schlussformel (Dank/Bedauern/Zukunftswünsche).
-3. **Gegenargumente Arbeitgeberseite prüfen:** Paragraf 109 GewO Pflicht zu Wahrheit + Wohlwollen; BAG ständige Rechtsprechung: Wohlwollensgebot tritt nur dort zurück, wo der Wahrheitsgehalt es zwingend erfordert. Arbeitgeber muss Verfehlungen darlegen und beweisen, die schlechtere Bewertung tragen.
-4. **Risikoampel:** Orange wenn 2 oder mehr Schwachstellen kumulieren ohne klares Notenwort (Note unklar zwischen 3 und 4); Rot bei expliziten Negativcodes (z.B. "bemüht", "kennt seine Pflichten"); Grün bei klarer Notenformel und vollständiger Schlussformel.
-5. **Verteidigungslinien Arbeitnehmer:** Mit Beurteilungen aus Mitarbeitergesprächen, E-Mail-Lob, Bonusabrechnungen und Beförderungen gegenargumentieren. Vergleich vor Klage: Notenkompromiss "gut" statt "sehr gut" oft besser als ungewisser Prozess.
-
----
-
-## Skill: `arbeitszeugnis-deutscher-tatbestandsmerkmale-beweisfragen`
-
-_Wenn es um Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage
-
-## Fachlicher Anker
-
-- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Spezialwissen: Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Tatbestand Paragraf 109 GewO:** Anspruchsvoraussetzungen Arbeitsverhältnis, Beendigung oder berechtigtes Interesse (Zwischenzeugnis), Wahlrecht einfach/qualifiziert. Pflichtinhalt qualifiziertes Zeugnis: Art und Dauer der Tätigkeit, Leistungsbeurteilung, Verhaltensbeurteilung.
-3. **Beweislastverteilung (BAG ständige Rechtsprechung):** Note "befriedigend" (3) ist Mittelmaß; bessere Note muss Arbeitnehmer darlegen und beweisen, schlechtere Note der Arbeitgeber. Beweislastregel ändert sich nicht durch Branchen-Durchschnittsnote oberhalb von 3.
-4. **Belege sammeln:** Mitarbeitergespräche, Zielvereinbarungen, Bonusabrechnungen, schriftliches Lob (E-Mail, Karte), Beförderungen, Auszeichnungen, Kundenstimmen, Beurteilungen Dritter (Vorgesetzte, Projektleiter). Negativbelege: Abmahnungen, Krankenstand, Versetzungen, Konfliktdokumentation.
-5. **Anschluss:** Aufforderungsschreiben mit Beleg-Anhang, dann Klage; alternativ Vergleich mit Notenkompromiss und Standard-Schlussformel.
-
----
-
 ## Skill: `muster-arbeitszeugnis-gemischte-noten`
 
-_Wenn es um Muster-Arbeitszeugnis mit gemischten Noten (Schulungsmaterial) in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Muster-Arbeitszeugnis mit gemischten Noten (Schulungsmaterial): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Muster-Arbeitszeugnis mit gemischten Noten (Schulungsmaterial)
 
@@ -769,9 +461,185 @@ Spitzensaetze sind authentisch (Fachkenntnisse, Arbeitsweise, Arbeitsergebnis, E
 
 ---
 
+## Skill: `arbeitszeugnis-zeugnisanalyse-wortlaut-codes`
+
+_Für Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg
+
+## Fachlicher Anker
+
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Spezialwissen: Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Anspruch und Form:** Paragraf 109 Absatz 1 GewO begründet bei Beendigung den Anspruch auf ein einfaches oder auf Verlangen qualifiziertes Zeugnis. Absatz 2 verlangt Klarheit und verbietet verdeckte Aussagen. Seit dem 1. Januar 2025 kann das Zeugnis mit Einwilligung des Arbeitnehmers in elektronischer Form erteilt werden; dann ist die qualifizierte elektronische Signatur nach Paragraf 126a BGB erforderlich. Ohne Einwilligung bleibt es bei der Papierform mit eigenhändiger Unterschrift.
+3. **Fristen prüfen:** Zeugnisanspruch verjährt regelmäßig nach 3 Jahren (Paragrafen 195, 199 BGB). Vorsicht: tarifliche oder einzelvertragliche Ausschlussfristen (häufig 2- bis 6-monatig, zweistufig) verkürzen Anspruch erheblich; Mindestlohnverwirkungsklauseln BAG ständige Rechtsprechung unwirksam. Bei Zwischenzeugnis: Anspruch bei berechtigtem Interesse (Vorgesetztenwechsel, Bewerbung, Beförderung).
+4. **Zuständigkeit:** ArbG erstinstanzlich (Paragraf 2 Abs. 1 Nr. 3a ArbGG); Streitwert ein Bruttomonatsgehalt analog Paragraf 42 Abs. 2 GKG; keine Anwaltspflicht erste Instanz (Paragraf 11 ArbGG); Klagegegner ist Arbeitgeber, bei Betriebsübergang nach Paragraf 613a BGB der Erwerber.
+5. **Anschluss:** Aufforderungsschreiben mit Fristsetzung (2-4 Wochen üblich), bei Untätigkeit Klage; Antrag konkretisieren ("verurteilt, ein qualifiziertes Arbeitszeugnis mit folgendem Inhalt zu erteilen ..." oder unbestimmter Antrag mit Notenangabe).
+
+---
+
+## Skill: `muster-arbeitszeugnis-mit-roten-flaggen`
+
+_Für Muster-Arbeitszeugnis mit roten Flaggen (Schulungsmaterial): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Muster-Arbeitszeugnis mit roten Flaggen (Schulungsmaterial)
+
+## Fachlicher Anker
+
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Geheimcode-Regeln
+
+| Satz | Signal | Ampel | Note |
+|---|---|---|---|
+| "zur vollen Zufriedenheit" ohne "stets" | Fehlende Steigerung | Orange | Note 3 |
+| "war stets bemüht" | Klassisches Note-4-Signal | Rot | Note 4 |
+| "Kollegen und Vorgesetzte" (Reihenfolge) | Falsche Reihenfolge | Orange | Note 3 |
+| "direkte Kommunikationsweise" | Euphemismus für schwieriges Verhalten | Rot | Note 4-5 |
+| Schlussformel ohne Bedauern | Kühles Distanzsignal | Orange-Rot | Kontextsignal |
+
+## Beispiele
+
+### Vollständiges Muster-Zeugnis mit roten Flaggen
+
+---
+
+**[Briefkopf]**
+Beispiel GmbH | Beispielstraße 5 | 20000 Beispielstadt
+
+**Arbeitszeugnis**
+
+Herr Thomas Beispiel, geboren am 15. Juni 1980, war vom 1. Januar 2020 bis zum 30. Juni 2024 in unserem Unternehmen als Vertriebsmitarbeiter beschäftigt.
+
+**Aufgaben:**
+Herr Beispiel war im Außendienst tätig und betreute einen definierten Kundenkreis im Bereich Industriebedarf. Er war für die regelmäßige Kundenbesuche, die Angebotserstellung und die Bearbeitung von Reklamationen zuständig.
+
+**Leistungsbeurteilung:**
+Herr Beispiel verfügt über ausreichende Fachkenntnisse für seinen Aufgabenbereich. Er war stets bemüht, die ihm übertragenen Aufgaben zur vollen Zufriedenheit zu erledigen, und zeigte dabei durchgehend guten Willen. Seine Arbeitsweise war im Wesentlichen strukturiert.
+
+*(Analyse: "bemüht" = Rot/Note 4; "zur vollen Zufriedenheit" ohne "stets" = Orange/Note 3; "im Wesentlichen" = Rot/Note 4; Gesamttendenz Leistung: Note 4)*
+
+**Verhaltensbeurteilung:**
+Gegenüber Kollegen und Vorgesetzten verhielt sich Herr Beispiel korrekt. Er zeichnete sich durch eine direkte Kommunikationsweise aus.
+
+*(Analyse: Reihenfolge falsch — Kollegen vor Vorgesetzten = Orange; "korrekt" statt "einwandfrei" = Orange/Note 3; "direkte Kommunikationsweise" = Rot/Note 4-5; Kein Wort zu Kunden trotz Kundenjob = Rot)*
+
+**Schlussformel:**
+Wir danken Herrn Beispiel für seine Mitarbeit und wünschen ihm für die Zukunft alles Gute.
+
+
+---
+
+### Gesamtbewertung des Schulungsbeispiels
+
+| Bereich | Ampel | Note |
+|---|---|---|
+| Leistungsbeurteilung | Rot | Note 4 |
+| Verhaltensbeurteilung | Rot | Note 4 |
+| Schlussformel | Orange | Note 3-4 |
+| **Gesamtnote** | **Rot** | **Note 4** |
+
+**Handlungsempfehlung:** Nachverhandlung aller Leistungs- und Verhaltensformulierungen sowie wärmere Schlussformel als Vergleichspunkt empfohlen. Bei Weigerung: Klage vor allem zu Leistungs- und Verhaltensformulierungen prüfen; Schlussformel nur mit Zusatzkontext.
+
+## Rechtliche Einordnung und Normen
+
+- **Paragraf 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
+- **Paragraf 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
+
+## Aktuelle Rechtsprechung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `muster-arbeitszeugnis-note-1`
+
+_Für Muster-Arbeitszeugnis Note 1 (Referenzdokument): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Muster-Arbeitszeugnis Note 1 (Referenzdokument)
+
+## Fachlicher Anker
+
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Geheimcode-Regeln
+
+Alle in diesem Muster verwendeten Formulierungen sind grün kodiert:
+
+| Satz | Ampel | Note |
+|---|---|---|
+| "stets zur vollsten Zufriedenheit" | Grün | Note 1 |
+| "hervorragende Fachkenntnisse" | Grün | Note 1 |
+| "außerordentliches Engagement" | Grün | Note 1 |
+| "stets einwandfrei" (Verhalten) | Grün | Note 1 |
+| Warme Schlussformel mit Bedauern | Grün | Starkes Praxissignal |
+
+## Beispiele
+
+### Vollständiges Muster-Zeugnis Note 1
+
+---
+
+**[Briefkopf des Unternehmens]**
+Musterunternehmen GmbH | Musterstraße 1 | 10000 Musterstadt
+
+**Arbeitszeugnis**
+
+Frau Anna Musterfrau, geboren am 1. Januar 1985, war vom 1. März 2018 bis zum 28. Februar 2025 in unserem Unternehmen als Leiterin der Abteilung Controlling tätig.
+
+**Aufgaben:**
+Frau Musterfrau verantwortete die vollständige Führung unserer Controlling-Abteilung mit zwölf direkt unterstellten Mitarbeitern. Sie war zuständig für die monatliche Ergebnisberichterstattung an den Vorstand, die Erstellung der Jahresplanung und des mittelfristigen Finanzplans, die Durchführung von Abweichungsanalysen sowie die Koordination externer Prüfungsgesellschaften.
+
+**Leistungsbeurteilung:**
+Frau Musterfrau verfügt über hervorragende Fachkenntnisse, die sie stets sicher, souverän und mit außerordentlichem Erfolg eingesetzt hat. Ihre Arbeitsweise war stets strukturiert, präzise und ergebnisorientiert. Auch in Phasen hoher Arbeitsbelastung behielt sie stets die Übersicht und erzielte konstant hervorragende Ergebnisse. Ihre Eigeninitiative und ihr außerordentliches Engagement haben unser Unternehmen maßgeblich vorangebracht. Alle ihr übertragenen Aufgaben erledigte sie stets zu unserer vollsten Zufriedenheit.
+
+**Verhaltensbeurteilung:**
+Das Verhalten von Frau Musterfrau gegenüber Vorgesetzten, Kollegen sowie externen Partnern war stets einwandfrei. Sie führte ihre Mitarbeiter mit klarer Zielorientierung, hoher Wertschätzung und nachhaltigem Erfolg. Ihre Kommunikation war stets klar, konstruktiv und auf das Gesamtergebnis ausgerichtet. Frau Musterfrau genoss das vollste Vertrauen der Geschäftsführung und aller Kollegen.
+
+**Schlussformel:**
+Frau Musterfrau scheidet auf eigenen Wunsch aus unserem Unternehmen aus. Wir bedauern dies außerordentlich und danken ihr herzlich für ihre hervorragenden Leistungen, ihren unermüdlichen Einsatz und ihren wertvollen Beitrag zum Erfolg unseres Unternehmens. Für ihren weiteren beruflichen und persönlichen Weg wünschen wir ihr nur das Allerbeste und weiterhin großen Erfolg.
+
+Musterstadt, den 28. Februar 2025
+
+[Unterschrift Geschäftsführung]
+Max Mustermann, Geschäftsführer
+
+---
+
+## Rechtliche Einordnung und Normen
+
+- **Paragraf 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
+- **Paragraf 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
+
+## Aktuelle Rechtsprechung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
 ## Skill: `rechtliche-bewertung-bag-rechtsprechung`
 
-_Wenn es um Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeitszeugnis in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeitszeugnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeitszeugnis
 
@@ -837,235 +705,9 @@ _Wenn es um Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeitszeugnis in Ar
 
 ---
 
-## Skill: `erstpruefung-rollenklaerung-mandatsziel`
-
-_Wenn es um Analyse: Erstprüfung, Rollenklärung und Mandatsziel in Arbeitszeugnis-Analyse geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Analyse: Erstprüfung, Rollenklärung und Mandatsziel
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Paragraf 611a Abs. 1 BGB` — Arbeitsvertrag und Weisungsbindung.
-- `Paragraf 241 Abs. 2 BGB` — Rücksichtnahmepflichten.
-- `Paragraf 626 Abs. 1 BGB` — fristlose Kuendigung.
-- `Paragraf 1 Abs. 2 KSchG` — soziale Rechtfertigung.
-- `Paragraf 4 Satz 1 KSchG` — Klagefrist.
-- `Paragraf 7 KSchG` — Fiktionswirkung.
-- `Paragraf 102 Abs. 1 BetrVG` — Betriebsratsanhoerung.
-- `Paragraf 2 Abs. 1 NachwG` — Nachweis wesentlicher Arbeitsbedingungen.
-- `Paragraf 46 Abs. 2 ArbGG` — ZPO-Anwendung im arbeitsgerichtlichen Verfahren.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Fachlicher Anker
-
-- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Spezialwissen: Analyse: Erstprüfung, Rollenklärung und Mandatsziel
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Analyse** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `klage-strategie-zeugnisberichtigung`
-
-_Wenn es um Klagestrategie Zeugnisberichtigung in Arbeitszeugnis-Analyse geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Klagestrategie Zeugnisberichtigung
-
-## Fachlicher Anker
-
-- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Geheimcode-Regeln
-
-### Erfolgsaussichten je Befundtyp
-
-| Befund | Klagbarkeit | Erfolgsaussicht |
-|---|---|---|
-| "bemüht" als Leistungsformel | Klagbar, wenn die Aussage die Leistung nicht wahrheitsgemäß abbildet | Nach Beleglage |
-| Auffällige Reihenfolge im Sozialverhalten | Nur bei verdeckter negativer Aussage im Gesamtkontext tragfähig | Nach Kontext |
-| Unvollständige Schlussformel | Meist Verhandlungspunkt, Klage nur mit Zusatzkontext | Niedrig bis Mittel |
-| Mutmaßliches Codewort | Nur bei objektiv erkennbarer verdeckter Aussage nach Paragraf 109 Absatz 2 Satz 2 GewO | Nach Kontext |
-| Drift im selben Themenbereich | Klagbar (bei nachgewiesenem Schaufenster) | Mittel |
-| Konstante Note 3 in einzelnen Bereichen | Nur mit Tatsachen für eine bessere Bewertung | Nach Beleglage |
-| Note 3 bei aktenkundig besserer Leistung | Klagbar (Arbeitnehmer beweisbelastet) | Mittel |
-| Note 4 im Standardfall | Klagbar (Arbeitgeber beweisbelastet) | Hoch |
-
-### Beweislastregel
-
-| Streitfrage | Beweislast |
-|---|---|
-| Note schlechter als befriedigend | Arbeitgeber |
-| Note besser als befriedigend | Arbeitnehmer |
-| Bessere Einzel- oder Gesamtbewertung | Arbeitnehmer trägt und beweist die besseren Leistungen |
-| Unterdurchschnittliche Einzel- oder Gesamtbewertung | Arbeitgeber trägt und beweist die schlechteren Leistungen |
-| Verdeckte negative Aussage oder unrichtige Tatsache | Ausgangspunkt ist der konkrete Wortlaut; die Last richtet sich nach Anspruch und Einlassung, nicht nach einer starren Codewortregel |
-
-### Streitwert
-
-| Klagegegenstand | Streitwert |
-|---|---|
-| Vollständige Zeugnisberichtigung | Nach Paragraf 3 ZPO, Antrag, Bedeutung und örtlicher Gerichtspraxis |
-| Einzelne Note im Hauptteil | Anteiliger Wert nach Bedeutung der beanstandeten Passage |
-| Schlussformel | Regelmäßig geringerer Wert; fehlender gesetzlicher Anspruch mitprüfen |
-| Mehrere Punkte | Gesamtwert ohne automatische Addition jedes Satzes |
-| Erstmalige Erteilung des Zeugnisses | Einzelfallwert nach wirtschaftlichem Interesse und Gerichtspraxis |
-
-## Beispiele
-
-### Beispiel 1 – Aussergerichtliches Berichtigungsverlangen
-
-Sehr geehrte Damen und Herren,
-
-das mir unter dem aktuellen Datum erteilte Arbeitszeugnis habe ich erhalten. Mit folgenden Formulierungen bin ich nicht einverstanden und bitte um Berichtigung mit den jeweils vorgeschlagenen Wortlauten:
-
-Statt "war stets bemüht, die ihm übertragenen Aufgaben zur vollen Zufriedenheit zu erledigen": "erledigte die ihm übertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
-
-Statt "sein Verhalten gegenüber Kollegen und Vorgesetzten war korrekt": "sein Verhalten gegenüber Vorgesetzten, Kollegen und Kunden war stets einwandfrei". Dieser Zielwortlaut setzt Tatsachen für die verlangte Bewertung voraus; die Reihenfolge allein begründet keinen Automatismus.
-
-Als Vergleichsvorschlag zur knappen Schlussformel: "Wir bedauern sein Ausscheiden, danken ihm für die geleistete Arbeit und wünschen ihm für seinen weiteren beruflichen und privaten Lebensweg alles Gute und weiterhin viel Erfolg". Nur als Klageantrag verwenden, wenn der Einzelfall dafür tragfähige Umstände bietet.
-
-Ich bitte um Übersendung des berichtigten Zeugnisses innerhalb von zwei Wochen ab Zugang dieses Schreibens.
-
-Mit freundlichen Gruessen
-
-### Beispiel 2 – Klageantrag bei Berichtigungsstreit
-
-Der Beklagte wird verurteilt, der Klägerin ein qualifiziertes Arbeitszeugnis zu erteilen, das auf dem Briefkopf der Beklagten ausgestellt wird, vom Tag des Beendigungsdatums datiert und vom dazu Befugten unterschrieben ist und folgenden Inhalt aufweist:
-
-Erstens, in der Leistungsbeurteilung statt "war stets bemueht" die Formulierung "erledigte die ihr übertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
-
-Zweitens, in der Verhaltensbeurteilung statt "Kollegen und Vorgesetzten" die Reihenfolge "Vorgesetzten, Kollegen und Kunden" mit dem Steigerer "stets" und dem Praedikat "einwandfrei".
-
-
-### Beispiel 3 – Streitwertbegründung
-
-Der Streitwert ist nach Paragraf 3 ZPO in Verbindung mit Paragraf 46 Absatz 2 ArbGG anhand des konkreten Antrags und des wirtschaftlichen Interesses festzusetzen. Als Orientierung wird die für das zuständige Arbeitsgericht veröffentlichte Streitwertpraxis herangezogen. Mehrere beanstandete Passagen werden nicht schematisch addiert; ihre eigenständige wirtschaftliche Bedeutung ist darzulegen.
-
-### Beispiel 4 – Beweisangebote des Arbeitnehmers für bessere Note
-
-Bei dem Begehren einer Note besser als befriedigend kommen folgende Beweisangebote in Betracht: zuständige Zwischenzeugnisse mit guter oder sehr guter Bewertung, Beurteilungsbeleg aus Jahresgespraechen, Boni und Praemien im Zeitraum, ausgezeichnete Performancereports, schriftliche Lob-E-Mails von Vorgesetzten, Zeugenaussagen unmittelbarer Vorgesetzter, Kundenfeedback in dokumentierter Form.
-
-### Beispiel 5 – Verwirkung als Risiko
-
-Wartet der Arbeitnehmer zwei Jahre, bevor er das Berichtigungsverlangen erhebt, ohne plausiblen Grund für die Verzoegerung, kann der Anspruch nach den Grundsaetzen der Verwirkung untergehen, auch wenn die Verjährungsfrist nicht abgelaufen ist. Empfehlung: Berichtigungsverlangen innerhalb der ersten Monate nach Zeugnisuebergabe stellen.
-
-## Rechtliche Einordnung und Normen
-
-- **Paragraf 109 GewO** — Anspruch auf Berichtigung; Grundlage der Klage
-- **Paragrafen 195, 199 BGB** — regelmäßige Verjährung; Beginn mit Schluss des Jahres von Anspruchsentstehung und Kenntnis
-- **Paragraf 242 BGB** — Verwirkung verlangt Zeit- und Umstandsmoment; Zeitablauf allein genügt nicht
-
-## Leitentscheidungs-Anker (Vollstreckung, Holschuld, Form)
-
-> Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
-
-| Entscheidung | Tragende Aussage | Freie Quelle |
-| --- | --- | --- |
-| **BAG, Urt. v. 21.09.1999 - 9 AZR 893/98** | Aeussere Form: zweimaliges Falten zulässig, wenn Original kopierfaehig bleibt und Knicke nicht durchschlagen. Wer mit Maschinenname unterzeichnet, muss eigenhaendig unterschreiben. | bundesarbeitsgericht.de / dejure.org |
-| **BAG, Urt. v. 27.04.2021 - 9 AZR 262/20** | Tabellarische Ankreuz-/Schulnotenformulare erfuellen Paragraf 109 GewO regelmaessig nicht - individuelle Hervorhebung verlangt Fliesstext. | bundesarbeitsgericht.de / dejure.org |
-| **BAG, Beschl. v. 07.05.2026 - 8 AZB 25/25** | Im gerichtlichen Vergleich übernommene Pflicht, Zeugnis nach dem ENTWURF des Arbeitnehmers zu erteilen mit Abweichungs-Vorbehalt aus wichtigem Grund, hat vollstreckungsfaehigen Inhalt. | bundesarbeitsgericht.de / dejure.org (vor Schriftsatzverwendung live verifizieren - Entscheidung aus 2026) |
-| **BAG, Urt. v. 08.03.1995 - 5 AZR 848/93** | Zeugniserteilung ist Holschuld (Paragraf 269 BGB): Arbeitnehmer holt im Betrieb ab; nur ausnahmsweise (Unzumutbarkeit, Paragraf 242 BGB) Schickschuld. | bundesarbeitsgericht.de / dejure.org |
-
-
-## Vollstreckung des Zeugnisanspruchs
-
-Wenn Urteil oder Vergleich vorliegt, der Arbeitgeber aber nicht oder falsch erfuellt:
-
-| Lage | Instrument |
-| --- | --- |
-| Titulierter Zeugnisanspruch wird nicht erfuellt | Zwangsgeld, ersatzweise Zwangshaft (Paragraf 888 ZPO - nicht vertretbare Handlung) |
-| Vergleich mit Entwurfsklausel ("Zeugnis nach Entwurf des Arbeitnehmers, Abweichung nur aus wichtigem Grund") | Unmittelbar vollstreckbar (BAG 07.05.2026 - 8 AZB 25/25 - vor Verwendung live verifizieren) |
-| Erteiltes Zeugnis weicht vom Titel ab | Im Vollstreckungsverfahren ruegen; ironische Übererfuellung ist Nichterfuellung (LAG Hamm 12 Ta 475/16) |
-| Streit über "wichtigen Grund" der Abweichung | Arbeitgeber muss den wichtigen Grund darlegen; sonst Zwangsmittel |
-
-**Praxisregel:** Schon beim Vergleichsschluss an die Vollstreckung denken - die Entwurfsklausel mit Wichtiger-Grund-Vorbehalt macht aus dem Vergleich einen scharfen Titel.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `zeugnis-problem-sortieren`
-
-_Wenn es um Zeugnisproblem Sortieren in Arbeitszeugnis-Analyse geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Zeugnisproblem Sortieren
-
-## Fachlicher Anker
-
-- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Vier Pflichtbausteine
-
-1. Ziel klären: Was soll entschieden, geprueft, entworfen, verbessert oder verhandelt werden?
-2. Kontext sichern: Rolle, Frist, Dokumente, Beteiligte, Vorgeschichte und Belege.
-3. Grenzen setzen: keine Blindzitate, keine erfundenen Tatsachen, keine ungewollten Zugestaendnisse.
-4. Ausgabeformat bestimmen: Memo, Tabelle, Schriftsatz, Brief, Beschluss, TOP, Checkliste oder Red-Team-Liste.
-
-## Zeugnis-spezifische Ersttriage (vor jeder Detailprüfung)
-
-- **Anspruchsgrundlage:** Paragraf 109 GewO (qualifiziertes wohlwollendes Zeugnis), für Arbeiter zusätzlich Paragraf 630 BGB.
-- **Notenstufen-Matrix nach BAG ständiger Rechtsprechung:**
- - Note 1: "stets zur vollsten Zufriedenheit"
- - Note 2: "stets zur vollen Zufriedenheit"
- - Note 3: "zur vollen Zufriedenheit" (ohne "stets")
- - Note 4: "zur Zufriedenheit" / "war stets bemüht"
- - Note 5: "im Wesentlichen / im Großen und Ganzen zur Zufriedenheit"
-- **Wahrheit und Wohlwollen:** Paragraf 109 Abs. 2 GewO (kein Geheimcode, keine Doppeldeutigkeit). Beweislast: bis Note 3 trägt **Arbeitnehmer** die Beweislast für bessere Note; ab Note 4 (befriedigend) trägt **Arbeitgeber** die Beweislast für die schlechtere Beurteilung (BAG ständige Rechtsprechung).
-- **Geheimcode-Warnsignale:** "bemüht", "im Wesentlichen", fehlende Steigerungen, falsche Reihenfolge ("Kollegen und Vorgesetzte" statt "Vorgesetzten, Kollegen"), kühle Schlussformel ohne Bedauern/Dank/Erfolgswünsche, Auslassung relevanter Aufgabenbereiche.
-- **Fristen:** Verfall des Zeugnisanspruchs nach Verwirkung (ca. 10 Monate nach Beendigung, abhängig vom Einzelfall) und ggf. tarifvertragliche Ausschlussfristen.
-
-## Trade-off-Hinweis
-
-Bei Note 3 versus Note 2 trägt der Arbeitnehmer die Beweislast. Wer auf "stets zur vollen Zufriedenheit" klagt ohne Beurteilungsbeiträge, Beurteilungsbögen oder Zeugen, verliert prozessual. Lieber **Vergleichsweise** in der Güteverhandlung: Note 2 plus warme Schlussformel als Standardpaket.
-
-## Workflow
-
-1. Material erfassen und sichtbar zwischen Tatsache, Behauptung und Bewertung trennen.
-2. Eilige Punkte vorziehen (Verwirkung, tarifvertragliche Ausschlussfristen).
-3. Schwachstellen und Gegenargumente benennen (Beweislage, Beurteilungsbeiträge).
-4. Passende Folge-Skills aus demselben Plugin vorschlagen.
-5. Einen verwendbaren Output liefern und offene Punkte mit `[noch klaeren]` markieren.
-
-## Ausgabe
-
-| Punkt | Befund | Risiko | Naechster Schritt |
-| --- | --- | --- | --- |
-| ... | ... | ... | ... |
-
-## Qualitaetsgate
-
-Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfundene Quellen? Sind Fristen und offene Tatsachen sichtbar? Ist der nächste Schritt eindeutig?
-
----
-
 ## Skill: `arbeitszeugnis-geheimcodes-schriftsatz-brief-memo-bausteine`
 
-_Wenn es um Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine in Arbeitszeugnis-Analyse geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -1109,6 +751,289 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `azubi-zeugnis-analyse`
+
+_Für Ausbildungszeugnis-Analyse (Azubi-Zeugnis): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Ausbildungszeugnis-Analyse (Azubi-Zeugnis)
+
+## Fachlicher Anker
+
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Geheimcode-Regeln
+
+| Azubi-Formulierung | Bedeutung | Ampel |
+|---|---|---|
+| "schnell und sicher aufgenommen" | Hervorragender Lernfortschritt | Grün |
+| "zuverlässig die Ausbildungsinhalte angeeignet" | Guter Lernfortschritt | Grün |
+| "hat sich die Inhalte erarbeitet" | Befriedigender Fortschritt | Orange |
+| "war bereit zu erlernen" | Unterdurchschnittlicher Fortschritt | Rot |
+| Fehlender Berufsschulabschnitt (duale Ausbildung) | Mögliche Schulprobleme | Orange |
+| "hat sich positiv entwickelt" | Für Azubi: gut; für Vollkraft: schwach | Grün (Azubi) |
+| "pünktlich und zuverlässig" | Wichtiges Grundverhalten | Grün |
+| Fehlende Pünktlichkeitsaussage | Fehlzeiten/Verspätungen | Orange |
+
+## Beispiele
+
+**Beispiel 1 – Grünes Azubi-Zeugnis:** "Herr Müller hat die Ausbildungsinhalte stets schnell und sicher aufgenommen, zeigte großes Interesse an seinem Ausbildungsberuf und zeichnete sich durch hervorragende Berufsschulleistungen aus."
+
+**Beispiel 2 – Orange Azubi-Zeugnis:** "Frau Weber hat sich die Ausbildungsinhalte erarbeitet und dabei guten Willen gezeigt. Die Berufsschulleistungen entsprachen den Anforderungen." — Kein Superlativ, kein Engagement, keine Begeisterung.
+
+**Beispiel 3 – Rotes Azubi-Zeugnis:** "Herr Bauer war stets bereit, die Ausbildungsinhalte zu erlernen, und hat die Anforderungen im Wesentlichen erfüllt." — "Bereit" + "im Wesentlichen" = doppeltes rotes Signal.
+
+**Beispiel 4 – Fehlender Berufsschulabschnitt:** Zeugnis eines Industriekaufmanns (duale Ausbildung) ohne jede Aussage zur Berufsschule → orangefarbenes Signal.
+
+**Beispiel 5 – Vollständige positive Schlussformel:** "Wir bedauern es sehr, Frau Klein am Ende ihrer Ausbildung zu verlieren, und danken ihr herzlich für ihr Engagement. Wir empfehlen sie uneingeschränkt." — Starkes Signal für einen Übernahme- oder Weiterempfehlungswunsch.
+
+## Rechtliche Einordnung und Normen
+
+- **Paragraf 16 BBiG** — Anspruch des Auszubildenden auf qualifiziertes Zeugnis nach Beendigung der Ausbildung
+- **Paragraf 13 BBiG** — Pflichten des Auszubildenden; Pflichtverletzungen dürfen nur bei tragfähiger Tatsachengrundlage in die Beurteilung einfließen
+- Allgemeine Zeugnisgrundsätze zu Wahrheit, Klarheit und Wohlwollen sind bei Ausbildungszeugnissen entsprechend zu berücksichtigen
+
+## Triage — vor der Azubi-Analyse
+
+1. Abschlusszeugnis oder Zwischenzeugnis (Paragraf 16 Abs. 2 BBiG)?
+2. Duales Ausbildungsverhältnis? → Berufsschulbewertung vorhanden?
+3. Ausbildung abgebrochen? → Nur Anspruch auf einfaches Zeugnis nach Paragraf 16 Abs. 1 BBiG
+4. Beendigungsgrund: Bestehen der Prüfung oder Kündigung/Aufhebung?
+
+
+## Leitentscheidungs-Anker (Notenstufen & Beweislast)
+
+> Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
+
+| Entscheidung | Tragende Aussage | Freie Quelle |
+| --- | --- | --- |
+| **BAG, Urt. v. 14.10.2003 - 9 AZR 12/03** | Zur vollen Zufriedenheit bescheinigt durchschnittliche Leistung (Note 3); Beweislast für bessere Note beim Arbeitnehmer, für schlechtere beim Arbeitgeber. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast für bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `zeugnis-ueberblick-extraktion`
+
+_Für Zeugnis-Überblick und Kopfdaten-Extraktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Zeugnis-Überblick und Kopfdaten-Extraktion
+
+## Fachlicher Anker
+
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Geheimcode-Regeln
+
+| Merkmal | Bedeutung | Ampel |
+|---|---|---|
+| Unterschrift rangniederer Person | Verdeckte Abwertung der Stellung | Rot |
+| Kein Briefkopf / kein Stempel | Formfehler, möglicherweise anfechtbar | Orange |
+| Datum weit nach Austritt | Zeigt Widerstand oder Nachlässigkeit | Orange |
+| Vollständige Angaben, ranghöhere Unterschrift | Erwartungskonformes Zeugnis | Grün |
+| Beschäftigungszeitraum weicht von Vertrag ab | Klärungsbedarf | Orange |
+
+## Beispiele
+
+**Beispiel 1 – Vollständige Kopfdaten (Grün):** "Frau Sabine Müller, geboren am 12. März 1985, war vom 1. April 2018 bis zum 31. März 2024 in unserem Unternehmen als Abteilungsleiterin Marketing tätig." — Alle Pflichtangaben vorhanden.
+
+**Beispiel 2 – Fehlende Positionsangabe (Orange):** "Herr Thomas Braun war von 2019 bis 2023 bei uns beschäftigt." — Keine Positionsbezeichnung, kein vollständiges Datum.
+
+**Beispiel 3 – Unterschrift Sachbearbeiter (Rot):** Unterschrift eines HR-Sachbearbeiters für einen ausscheidenden Abteilungsleiter — hierarchisches Missverhältnis signalisiert Abwertung.
+
+**Beispiel 4 – Datum vor Austritt (Orange):** Ausstellungsdatum liegt drei Monate vor dem angegebenen letzten Arbeitstag — formale Unstimmigkeit.
+
+**Beispiel 5 – Zwischenzeugnis ohne Enddatum (Grün):** Kein Enddatum bei einem als Zwischenzeugnis bezeichneten Dokument — korrekt und unauffällig.
+
+## Rechtliche Einordnung und Normen
+
+- **Paragraf 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
+- **Paragraf 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
+
+## Aktuelle Rechtsprechung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `arbeitszeugnis-codeworte-compliance-dokumentation-aktenvermerk`
+
+_Für Codeworte: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Codeworte: Compliance-Dokumentation und Aktenvermerk
+
+## Fachlicher Anker
+
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Spezialwissen: Codeworte: Compliance-Dokumentation und Aktenvermerk
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Paragraf 109 GewO Anspruch auf Zeugnis und auf wahres + wohlwollendes Zeugnis; BAG ständige Rechtsprechung zur Beweislastregel: Note "befriedigend" (3) ist Standard, Arbeitnehmer trägt Darlegungs- und Beweislast für bessere Note ab "gut" (2), Arbeitgeber für schlechtere Note ab "ausreichend" (4).
+3. **Codeworte und Notenmatrix prüfen:** Satzweise gegen Standardformeln ("stets zu unserer vollsten Zufriedenheit" = 1, "stets zu unserer vollen Zufriedenheit" = 2, "zu unserer vollen Zufriedenheit" = 3, "zu unserer Zufriedenheit" = 4, "im Großen und Ganzen zu unserer Zufriedenheit" = 5). Steigerungsadverbien ("stets/jederzeit/immer") und Auslassungen markieren.
+4. **Geheimcodes flaggen:** "bemüht/zeigte Verständnis" (negativ), "kennt seine Pflichten" (negativ), Schaufenster-Drift (positive Auftaktphrase, dann inhaltsleere Aussagen), fehlende Schlussformel (Dank, Bedauern, Zukunftswünsche) als Indiz für unterdurchschnittliche Bewertung.
+5. **Aktenvermerk und Compliance:** Notenstufe, Beweismittelübersicht, Verhandlungs-/Klagestrategie dokumentieren. Anschluss zu Aufforderungsschreiben oder Klage (Paragrafen 46 ff. ArbGG) bauen.
+
+---
+
+## Skill: `leitende-positionen-zeugnisse`
+
+_Für Arbeitszeugnisse für leitende Positionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Arbeitszeugnisse für leitende Positionen
+
+## Fachlicher Anker
+
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Geheimcode-Regeln
+
+| Erwartungsbaustein (Führungskraft) | Fehlend bedeutet | Ampel |
+|---|---|---|
+| Mitarbeiterführung und -entwicklung | Führungsversagen oder -schwäche | Rot |
+| Strategische Verantwortung | Keine Strategiebeteiligung | Orange-Rot |
+| Budget-/P&L-Verantwortung | Keine wirtschaftliche Führungsrolle | Orange |
+| Repräsentation nach außen | Keine externe Wirkung | Orange |
+| Loyalitätsaussage (leitend) | Loyalitätsprobleme | Rot |
+| "hat Vertrauen des Vorstands genossen" | Fehlen bei GF = Rot | Rot |
+
+## Beispiele
+
+**Beispiel 1 – Grüne Führungsaussage (Note 1):** "Frau Dr. Hoffmann führte ihre über 80 Mitarbeiter mit klarem Ziel, hoher Empathie und nachhaltigem Erfolg. Unter ihrer Leitung verzeichnete der Bereich eine Steigerung der Mitarbeiterzufriedenheit und eine signifikante Verbesserung der Ergebnisse."
+
+**Beispiel 2 – Orange Führungsaussage (Note 3):** "Herr Vogel pflegte einen kooperativen Führungsstil und wurde von seinen Mitarbeitern geschätzt." — Passiv, kein Erfolgsnachweis, Note 3.
+
+**Beispiel 3 – Fehlende Führungsaussage (Rot):** Zeugnis eines Abteilungsleiters mit 15 direkt unterstellten Mitarbeitern ohne eine einzige Aussage zur Mitarbeiterführung → starkes rotes Signal.
+
+**Beispiel 4 – Fehlende Loyalitätsaussage bei Geschäftsführer:** GF-Zeugnis ohne Aussage zur Loyalität gegenüber Gesellschaftern und Aufsichtsrat → rotes Signal im Führungskräfte-Code.
+
+**Beispiel 5 – Vollständiges GF-Zeugnis (Grün):** Alle Bausteine vorhanden: Führung, Strategie, Budget, Repräsentation, Loyalität, vollständige Schlussformel mit persönlichem Bedauern → Note 1 bis 2.
+
+## Rechtliche Einordnung und Normen
+
+- **Paragraf 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis; Grundlage aller Bewertungen
+- **Paragrafen 195, 199 BGB** — Verjährung drei Jahre ab Jahresende
+
+## Leitentscheidungs-Anker (Notenstufen + Empfaengerhorizont)
+
+> Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
+
+| Entscheidung | Tragende Aussage | Freie Quelle |
+| --- | --- | --- |
+| **BAG, Urt. v. 14.10.2003 - 9 AZR 12/03** | Zur vollen Zufriedenheit bescheinigt durchschnittliche Leistung (Note 3); Beweislast für bessere Note beim Arbeitnehmer, für schlechtere beim Arbeitgeber. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast für bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 21.06.2005 - 9 AZR 352/04** | Nach einer vom Arbeitnehmer veranlassten Berichtigung darf der Arbeitgeber unbeanstandete Zeugnisbestandteile grundsätzlich nicht grundlos verschlechtern; Zeugnisklarheit beurteilt sich nach dem objektiven Empfängerhorizont. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 15.11.2011 - 9 AZR 386/10** | Bestaetigung: "kennen gelernt" ist allein und losgeloest vom uebrigen Zeugnisinhalt kein unzulaessiger Geheimcode; Werturteile-Spielraum mit Grenze Zeugniswahrheit/-klarheit. | bundesarbeitsgericht.de / dejure.org |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `widerspruechliche-bewertungen`
+
+_Für Widersprüchliche Bewertungen erkennen und kommentieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Widersprüchliche Bewertungen erkennen und kommentieren
+
+## Fachlicher Anker
+
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Geheimcode-Regeln
+
+| Widerspruchstyp | Signalwirkung | Ampel |
+|---|---|---|
+| Leistung grün, Schlussformel rot | Uneinvernehmliche Trennung | Orange-Rot |
+| Verhalten grün, Leistung rot | Netter, aber leistungsschwacher Mitarbeiter | Rot |
+| Eigeninitiative und "nach Anweisung" im selben Zeugnis | Inkonsistenz | Orange |
+| Sehr warme Schlussformel bei schwacher Leistungsbeurteilung | Verdacht auf Gefälligkeitsformel | Orange |
+| Positive Einzelsätze, negative Gesamtzufriedenheitsformel | Bewusste Irreführung | Rot |
+| Spitzensatz und Durchschnittssatz im selben Themenbereich | Schaufenster-Pattern (siehe bereichs-drift-detektor) | Rot |
+
+## Beispiele
+
+**Beispiel 1 – Leistung grün, Schlussformel rot:** "Die Leistungen waren stets hervorragend" (Grün) + keine Schlussformel (Rot) → deutet auf Streit beim Ausscheiden oder feindseligen Abgang.
+
+**Beispiel 2 – Innere Inkonsistenz:** "Herr Braun arbeitete stets eigenverantwortlich" (Satz 3) vs. "Er erledigte die ihm nach Anweisung zugewiesenen Aufgaben zuverlässig" (Satz 7) → direkte inhaltliche Contradiction.
+
+**Beispiel 3 – Warme Schlussformel bei Note-4-Leistung:** Leistung mit "bemüht" (Rot, Note 4), Schlussformel vollständig und warm → vermutlich persönliches Gefälligkeitszeugnis, nicht authentisch.
+
+**Beispiel 4 – Reihenfolge-Anomalie:** Abschnitt 1 (Leistung): hervorragend. Abschnitt 2 (Verhalten): Kollegen vor Vorgesetzten + "direkte Kommunikationsweise". Abschnitt 3 (Schlussformel): vollständig. → Einstellender wird Verhaltensteil isoliert bewerten.
+
+**Beispiel 5 – Positiver Leistungsteil, fehlende Integrität:** Alle Leistungsaussagen grün, kein einziges Wort zu Zuverlässigkeit oder Vertrauen bei einem Buchhalter → der Widerspruch zwischen Lob und Schweigen ist das rote Signal.
+
+## Rechtliche Einordnung und Normen
+
+- **Paragraf 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
+- **Paragraf 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
+
+## Leitentscheidungs-Anker (Empfaengerhorizont, Grenzen der Decodierung)
+
+> Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
+
+| Entscheidung | Tragende Aussage | Freie Quelle |
+| --- | --- | --- |
+| **BAG, Urt. v. 21.06.2005 - 9 AZR 352/04** | Nach einer vom Arbeitnehmer veranlassten Berichtigung darf der Arbeitgeber unbeanstandete Zeugnisbestandteile grundsätzlich nicht grundlos verschlechtern; Zeugnisklarheit beurteilt sich nach dem objektiven Empfängerhorizont. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 15.11.2011 - 9 AZR 386/10** | Bestaetigung: "kennen gelernt" ist allein und losgeloest vom uebrigen Zeugnisinhalt kein unzulaessiger Geheimcode; Werturteile-Spielraum mit Grenze Zeugniswahrheit/-klarheit. | bundesarbeitsgericht.de / dejure.org |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `arbeitszeugnis-deutscher-tatbestandsmerkmale-beweisfragen`
+
+_Für Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix._
+
+# Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+## Fachlicher Anker
+
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Spezialwissen: Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Tatbestand Paragraf 109 GewO:** Anspruchsvoraussetzungen Arbeitsverhältnis, Beendigung oder berechtigtes Interesse (Zwischenzeugnis), Wahlrecht einfach/qualifiziert. Pflichtinhalt qualifiziertes Zeugnis: Art und Dauer der Tätigkeit, Leistungsbeurteilung, Verhaltensbeurteilung.
+3. **Beweislastverteilung (BAG ständige Rechtsprechung):** Note "befriedigend" (3) ist Mittelmaß; bessere Note muss Arbeitnehmer darlegen und beweisen, schlechtere Note der Arbeitgeber. Beweislastregel ändert sich nicht durch Branchen-Durchschnittsnote oberhalb von 3.
+4. **Belege sammeln:** Mitarbeitergespräche, Zielvereinbarungen, Bonusabrechnungen, schriftliches Lob (E-Mail, Karte), Beförderungen, Auszeichnungen, Kundenstimmen, Beurteilungen Dritter (Vorgesetzte, Projektleiter). Negativbelege: Abmahnungen, Krankenstand, Versetzungen, Konfliktdokumentation.
+5. **Anschluss:** Aufforderungsschreiben mit Beleg-Anhang, dann Klage; alternativ Vergleich mit Notenkompromiss und Standard-Schlussformel.
 
 ---
 

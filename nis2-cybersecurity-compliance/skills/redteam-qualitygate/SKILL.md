@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "Wenn es um Redteam Qualitygate in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Redteam Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: NIS-2, Cybersecurity und IT-Sicherheits-Compliance."
 ---
 
 # Redteam Qualitygate

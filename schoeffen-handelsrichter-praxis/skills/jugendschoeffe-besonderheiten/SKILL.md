@@ -1,6 +1,6 @@
 ---
 name: jugendschoeffe-besonderheiten
-description: "Wenn es um Jugendschöffe Besonderheiten in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Jugendschöffe Besonderheiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Jugendschöffe Besonderheiten

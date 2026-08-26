@@ -1,6 +1,6 @@
 ---
 name: privacy-pii-removal-public-records
-description: "Wenn es um Privacy, PII Removal und Public Records in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Privacy, PII Removal und Public Records: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Privacy, PII Removal und Public Records

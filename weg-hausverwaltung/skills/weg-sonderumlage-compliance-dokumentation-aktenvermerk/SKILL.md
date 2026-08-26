@@ -1,6 +1,6 @@
 ---
 name: weg-sonderumlage-compliance-dokumentation-aktenvermerk
-description: "Wenn es um Sonderumlage: Compliance-Dokumentation und Aktenvermerk in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sonderumlage: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sonderumlage: Compliance-Dokumentation und Aktenvermerk

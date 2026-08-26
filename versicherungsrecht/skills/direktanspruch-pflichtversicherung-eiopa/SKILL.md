@@ -1,6 +1,6 @@
 ---
 name: direktanspruch-pflichtversicherung-eiopa
-description: "Wenn es um Direktanspruch in Pflichtversicherung Paragraf 115 VVG in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Direktanspruch in Pflichtversicherung Paragraf 115 VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Direktanspruch in Pflichtversicherung § 115 VVG

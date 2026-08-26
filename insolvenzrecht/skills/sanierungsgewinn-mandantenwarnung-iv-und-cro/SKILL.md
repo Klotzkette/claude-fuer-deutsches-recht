@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-mandantenwarnung-iv-und-cro
-description: "Wenn es um Sanierungsgewinn — Mandantenwarnung an Insolvenzverwalter / CRO / Schuldner in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sanierungsgewinn — Mandantenwarnung an Insolvenzverwalter / CRO / Schuldner: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn — Mandantenwarnung an Insolvenzverwalter / CRO / Schuldner

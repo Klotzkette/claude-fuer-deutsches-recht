@@ -1,6 +1,6 @@
 ---
 name: eigenverwaltung-nicht-verbraucher
-description: "Wenn es um Eigenverwaltung Nicht Verbraucher in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eigenverwaltung Nicht Verbraucher: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.

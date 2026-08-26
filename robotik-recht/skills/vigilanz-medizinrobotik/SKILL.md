@@ -1,6 +1,6 @@
 ---
 name: vigilanz-medizinrobotik
-description: "Wenn es um Vigilanz Medizinrobotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vigilanz Medizinrobotik; Arbeitsfeld: robotik-recht."
+description: "Für Vigilanz Medizinrobotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: vigilanz-medizinrobotik."
 ---
 
 # Vigilanz Medizinrobotik

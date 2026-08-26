@@ -1,6 +1,6 @@
 ---
 name: nda-clean-team
-description: "Wenn es um NDA Clean Team Protokoll in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für NDA Clean Team Protokoll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA Clean Team Protokoll

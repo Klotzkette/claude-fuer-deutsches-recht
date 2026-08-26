@@ -1,6 +1,6 @@
 ---
 name: versorgungswerk-krankenversicherung-im-ruhestand
-description: "Wenn es um Versorgungswerk: Krankenversicherung im Ruhestand in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versorgungswerk: Krankenversicherung im Ruhestand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versorgungswerk: Krankenversicherung im Ruhestand

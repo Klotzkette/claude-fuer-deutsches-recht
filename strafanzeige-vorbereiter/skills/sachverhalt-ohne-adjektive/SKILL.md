@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-ohne-adjektive
-description: "Wenn es um Sachverhalt ohne Adjektive in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachverhalt ohne Adjektive: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sachverhalt ohne Adjektive

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung
-description: "Wenn es um europäischer Technikregulierungsrahmen High-Risk-System Konformitätsbewertung Art. 16–29 in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für europäischer Technikregulierungsrahmen High-Risk-System Konformitätsbewertung Art. 16–29: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-VO High-Risk-System Konformitätsbewertung Art. 16–29

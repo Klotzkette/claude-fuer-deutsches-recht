@@ -1,6 +1,6 @@
 ---
 name: bidder-instructions
-description: "Wenn es um Bidder Instructions VDR Rules in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bidder Instructions VDR Rules: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bidder Instructions VDR Rules

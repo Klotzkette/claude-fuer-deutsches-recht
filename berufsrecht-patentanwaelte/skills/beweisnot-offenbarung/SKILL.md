@@ -1,6 +1,6 @@
 ---
 name: beweisnot-offenbarung
-description: "Wenn es um Beweisnot Offenbarung in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweisnot Offenbarung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Patentanwälte: beweisnot bei offenbarung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

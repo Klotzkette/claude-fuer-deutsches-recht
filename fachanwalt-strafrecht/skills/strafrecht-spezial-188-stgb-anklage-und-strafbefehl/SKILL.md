@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-188-stgb-anklage-und-strafbefehl
-description: "Wenn es um Reaktion auf Anklage, Strafbefehl oder Eröffnungsverfahren wegen Paragraf 188 StGB in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reaktion auf Anklage, Strafbefehl oder Eröffnungsverfahren wegen Paragraf 188 StGB: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Reaktion auf Anklage, Strafbefehl oder Eröffnungsverfahren wegen § 188 StGB

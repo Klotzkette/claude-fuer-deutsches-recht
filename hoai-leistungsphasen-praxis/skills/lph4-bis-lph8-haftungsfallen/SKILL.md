@@ -1,6 +1,6 @@
 ---
 name: lph4-bis-lph8-haftungsfallen
-description: "Wenn es um LPH 4 Genehmigungsplanung: Identifiziert typische haftungsrisiken und beweisvorsorge in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für LPH 4 Genehmigungsplanung: Identifiziert typische haftungsrisiken und beweisvorsorge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 4 Genehmigungsplanung: Identifiziert typische haftungsrisiken und beweisvorsorge

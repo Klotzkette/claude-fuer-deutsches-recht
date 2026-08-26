@@ -1,6 +1,6 @@
 ---
 name: klassenfahrt-und-kosten
-description: "Wenn es um Klassenfahrt Und Kosten in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klassenfahrt und Kosten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klassenfahrt Und Kosten

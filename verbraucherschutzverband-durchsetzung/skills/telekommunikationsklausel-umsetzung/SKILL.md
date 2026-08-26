@@ -1,6 +1,6 @@
 ---
 name: telekommunikationsklausel-umsetzung
-description: "Wenn es um Telekommunikationsklausel Umsetzung Ue in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Telekommunikationsklausel Umsetzung Ue: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telekommunikationsklausel Umsetzung Ue

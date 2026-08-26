@@ -1,6 +1,6 @@
 ---
 name: spezial-forderungsmanagement-tatbestand-beweis-und-belege
-description: "Wenn es um Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage

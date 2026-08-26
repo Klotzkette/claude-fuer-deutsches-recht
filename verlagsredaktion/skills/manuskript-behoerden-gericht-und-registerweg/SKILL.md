@@ -1,6 +1,6 @@
 ---
 name: manuskript-behoerden-gericht-und-registerweg
-description: "Wenn es um Manuskript: Behörden-, Gerichts- oder Registerweg in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Manuskript: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Manuskript: Behörden-, Gerichts- oder Registerweg

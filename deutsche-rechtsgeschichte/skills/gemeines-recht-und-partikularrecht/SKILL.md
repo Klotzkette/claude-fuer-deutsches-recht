@@ -1,6 +1,6 @@
 ---
 name: gemeines-recht-und-partikularrecht
-description: "Wenn es um Gemeines Recht und Partikularrecht in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gemeines Recht und Partikularrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gemeines Recht und Partikularrecht

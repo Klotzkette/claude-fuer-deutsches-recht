@@ -1,6 +1,6 @@
 ---
 name: chn-002-de-risking-nicht-decoupling
-description: "Wenn es um De Risking Nicht Decoupling in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für De Risking Nicht Decoupling: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # De Risking Nicht Decoupling

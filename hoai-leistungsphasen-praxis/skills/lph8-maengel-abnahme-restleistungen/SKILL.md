@@ -1,6 +1,6 @@
 ---
 name: lph8-maengel-abnahme-restleistungen
-description: "Wenn es um LPH 8 Mängel, Abnahme Und Restleistungen in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LPH 8 Mängel, Abnahme und Restleistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 8 Mängel, Abnahme Und Restleistungen

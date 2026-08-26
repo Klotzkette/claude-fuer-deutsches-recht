@@ -1,6 +1,6 @@
 ---
 name: wahlverfahren-falschinfo
-description: "Wenn es um Wahlverfahren Falschinfo in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Wahlverfahren Falschinfo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wahlverfahren Falschinfo

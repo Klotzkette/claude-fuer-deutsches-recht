@@ -1,6 +1,6 @@
 ---
 name: bmvg-verteidigungstechnologie-export
-description: "Wenn es um Verteidigungstechnologie und Exportkontrolle (BMVg) in Legistik-Werkstatt geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verteidigungstechnologie und Exportkontrolle (BMVg): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verteidigungstechnologie und Exportkontrolle (BMVg)

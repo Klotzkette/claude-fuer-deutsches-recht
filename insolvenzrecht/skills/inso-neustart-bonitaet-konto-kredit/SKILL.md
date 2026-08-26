@@ -1,6 +1,6 @@
 ---
 name: inso-neustart-bonitaet-konto-kredit
-description: "Wenn es um Neustart nach Insolvenz: Konto, Kredit, Bonität in Insolvenzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Neustart nach Insolvenz: Konto, Kredit, Bonität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Neustart nach Insolvenz: Konto, Kredit, Bonität

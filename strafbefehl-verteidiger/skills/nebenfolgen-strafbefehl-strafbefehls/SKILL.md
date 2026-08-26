@@ -1,6 +1,6 @@
 ---
 name: nebenfolgen-strafbefehl-strafbefehls
-description: "Wenn es um Nebenfolgen: Verhandlung, Vergleich und Eskalation in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Nebenfolgen: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nebenfolgen: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: crm-daten-und-gemeinsame-verantwortlichkeit
-description: "Wenn es um Franchise: CRM-Daten und gemeinsame Verantwortlichkeit in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Franchise: CRM-Daten und gemeinsame Verantwortlichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise: CRM-Daten und gemeinsame Verantwortlichkeit

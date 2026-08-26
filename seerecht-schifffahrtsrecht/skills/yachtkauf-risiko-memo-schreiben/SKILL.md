@@ -1,6 +1,6 @@
 ---
 name: yachtkauf-risiko-memo-schreiben
-description: "Wenn es um Yachtkauf – Risiko-Memo schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Yachtkauf – Risiko-Memo schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Yachtkauf – Risiko-Memo schreiben

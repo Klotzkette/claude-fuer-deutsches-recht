@@ -1,6 +1,6 @@
 ---
 name: insolvenzrecht-behoerden-gericht-und-registerweg
-description: "Wenn es um Insolvenzrecht: Behörden-, Gerichts- oder Registerweg in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenzrecht: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Insolvenzrecht: Behörden-, Gerichts- oder Registerweg

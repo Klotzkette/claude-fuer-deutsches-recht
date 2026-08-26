@@ -1,6 +1,6 @@
 ---
 name: vbr-057-marketplace-schlichtung-waehlen
-description: "Wenn es um Marketplace Schlichtung Waehlen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Marketplace Schlichtung Wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: vbr-057-marketplace-schlichtung-waehlen."
 ---
 
 # Marketplace Schlichtung Waehlen

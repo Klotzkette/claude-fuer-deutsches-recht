@@ -1,6 +1,6 @@
 ---
 name: fazugang-neu-006-arbeitgeber-zustellworkflow-rechtssicher
-description: "Wenn es um Fachanwalt Arbeitsrecht: Arbeitgeber-Zustellworkflow rechtssicher organisieren in Fachanwalt Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachanwalt Arbeitsrecht: Arbeitgeber-Zustellworkflow rechtssicher organisieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fachanwalt Arbeitsrecht: Arbeitgeber-Zustellworkflow rechtssicher organisieren

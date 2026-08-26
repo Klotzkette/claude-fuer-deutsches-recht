@@ -1,6 +1,6 @@
 ---
 name: auslandsmandant-steuerdaten
-description: "Wenn es um Auslandsmandant Steuerdaten in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Auslandsmandant Steuerdaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: auslandsmandant und steuerdaten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

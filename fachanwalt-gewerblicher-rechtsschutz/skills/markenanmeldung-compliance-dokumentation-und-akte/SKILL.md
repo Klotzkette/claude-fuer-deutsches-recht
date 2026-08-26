@@ -1,6 +1,6 @@
 ---
 name: markenanmeldung-compliance-dokumentation-und-akte
-description: "Wenn es um Markenanmeldung: Compliance, Dokumentation und Aktenführung in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Markenanmeldung: Compliance, Dokumentation und Aktenführung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Markenanmeldung: Compliance, Dokumentation und Aktenführung
@@ -119,3 +119,7 @@ description: "Wenn es um Markenanmeldung: Compliance, Dokumentation und Aktenfü
 ## Was dieser Arbeitsgang nicht macht
 - Keine eigenständige Ähnlichkeitsrecherche ohne konkrete Zeichen.
 - Kein Ersatz für vollständige Mandantenberatung und Aktenführung durch zuständige Kanzlei.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-markenanmeldung-compliance-dokumentation-und-akte` beziehungsweise Markenanmeldung: Compliance-Dokumentation und Aktenvermerk: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-markenanmeldung-compliance-dokumentation-und-akte.md).

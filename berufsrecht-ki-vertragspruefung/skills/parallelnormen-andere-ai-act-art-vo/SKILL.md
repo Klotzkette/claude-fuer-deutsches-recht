@@ -1,6 +1,6 @@
 ---
 name: parallelnormen-andere-ai-act-art-vo
-description: "Wenn es um Parallelnormen — alle fünf Berufe in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl: Parallelnormen Andere Ai Act Art Vo."
+description: "Für Parallelnormen — alle fünf Berufe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: parallelnormen-andere-ai-act-art-vo."
 ---
 
 # Parallelnormen — alle fünf Berufe

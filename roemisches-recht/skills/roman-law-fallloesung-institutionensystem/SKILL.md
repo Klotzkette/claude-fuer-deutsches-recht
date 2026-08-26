@@ -1,6 +1,6 @@
 ---
 name: roman-law-fallloesung-institutionensystem
-description: "Wenn es um Falsche Freunde zwischen römischem und modernem Recht in Römisches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Falsche Freunde zwischen römischem und modernem Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Falsche Freunde zwischen römischem und modernem Recht

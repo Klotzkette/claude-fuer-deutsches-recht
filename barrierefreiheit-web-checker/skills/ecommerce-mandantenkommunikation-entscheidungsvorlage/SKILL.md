@@ -1,6 +1,6 @@
 ---
 name: ecommerce-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Ecommerce: Mandantenkommunikation und Entscheidungsvorlage in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ecommerce: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Ecommerce: Mandantenkommunikation und Entscheidungsvorlage

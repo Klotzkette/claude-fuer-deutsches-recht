@@ -1,6 +1,6 @@
 ---
 name: sozialamt-grundsicherung
-description: "Wenn es um Sozialamt / Grundsicherung in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sozialamt / Grundsicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sozialamt / Grundsicherung

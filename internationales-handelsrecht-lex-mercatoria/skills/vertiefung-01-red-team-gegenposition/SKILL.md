@@ -1,6 +1,6 @@
 ---
 name: vertiefung-01-red-team-gegenposition
-description: "Wenn es um Red-Team: Gegenposition im internationalen Handelstreit in Internationales Handelsrecht und Lex Mercatoria geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team: Gegenposition im internationalen Handelstreit: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team: Gegenposition im internationalen Handelstreit

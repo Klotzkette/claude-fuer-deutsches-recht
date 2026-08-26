@@ -1,6 +1,6 @@
 ---
 name: mitgliederdaten-dsgvo
-description: "Wenn es um Mitgliederdaten DSGVO in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mitgliederdaten DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mitgliederdaten DSGVO

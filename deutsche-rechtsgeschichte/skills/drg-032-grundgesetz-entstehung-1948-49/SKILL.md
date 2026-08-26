@@ -1,6 +1,6 @@
 ---
 name: drg-032-grundgesetz-entstehung-1948-49
-description: "Wenn es um Grundgesetz Entstehung 1948 49 in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundgesetz Entstehung 1948 49: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grundgesetz Entstehung 1948 49

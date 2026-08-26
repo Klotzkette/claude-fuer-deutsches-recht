@@ -1,6 +1,6 @@
 ---
 name: beschlusssammlung-protokoll
-description: "Wenn es um Beschlusssammlung und Protokoll in WEG- und Hausverwaltung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Beschlusssammlung und Protokoll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschlusssammlung und Protokoll

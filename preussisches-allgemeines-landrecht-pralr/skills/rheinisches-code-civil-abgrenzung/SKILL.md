@@ -1,6 +1,6 @@
 ---
 name: rheinisches-code-civil-abgrenzung
-description: "Wenn es um Rheinisches Recht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rheinisches Code Civil Abgrenzung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Rheinisches Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: rheinisches-code-civil-abgrenzung."
 ---
 
 # Rheinisches Recht

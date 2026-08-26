@@ -1,6 +1,6 @@
 ---
 name: verfahren-compliance-monitoring-nach-entscheidung
-description: "Wenn es um Verfahren: Compliance-Monitoring nach Entscheidung in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verfahren: Compliance-Monitoring nach Entscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfahren: Compliance-Monitoring nach Entscheidung

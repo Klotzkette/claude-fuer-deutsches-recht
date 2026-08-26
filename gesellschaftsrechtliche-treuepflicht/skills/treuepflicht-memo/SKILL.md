@@ -1,6 +1,6 @@
 ---
 name: treuepflicht-memo
-description: "Wenn es um Treuepflicht Memo in Gesellschaftsrechtliche Treuepflicht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Treuepflicht Memo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Treuepflicht Memo

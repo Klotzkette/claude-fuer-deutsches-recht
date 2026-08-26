@@ -1,6 +1,6 @@
 ---
 name: verdienstausfall-haushalt-zeit
-description: "Wenn es um JVEG-Verdienstausfall-Haushalt-Zeit in JVEG-Kostenprüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für JVEG-Verdienstausfall-Haushalt-Zeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # JVEG-Verdienstausfall-Haushalt-Zeit

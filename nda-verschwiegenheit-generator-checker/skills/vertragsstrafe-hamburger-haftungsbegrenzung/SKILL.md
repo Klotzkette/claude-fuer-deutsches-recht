@@ -1,6 +1,6 @@
 ---
 name: vertragsstrafe-hamburger-haftungsbegrenzung
-description: "Wenn es um Vertragsstrafe Hamburger Brauch in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vertragsstrafe Hamburger Brauch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertragsstrafe Hamburger Brauch

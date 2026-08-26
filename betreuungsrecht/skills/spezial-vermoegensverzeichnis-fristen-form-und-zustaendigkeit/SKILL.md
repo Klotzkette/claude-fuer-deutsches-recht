@@ -1,6 +1,6 @@
 ---
 name: spezial-vermoegensverzeichnis-fristen-form-und-zustaendigkeit
-description: "Wenn es um Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg

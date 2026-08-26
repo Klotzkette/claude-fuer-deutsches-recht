@@ -1,6 +1,6 @@
 ---
 name: regulatorisches-stellungnahmen-beweislast
-description: "Wenn es um Regulatorisches: Internationaler Bezug und Schnittstellen in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Regulatorisches: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Regulatorisches: Internationaler Bezug und Schnittstellen

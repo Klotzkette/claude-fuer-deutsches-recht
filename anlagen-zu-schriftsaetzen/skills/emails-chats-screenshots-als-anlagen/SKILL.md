@@ -1,6 +1,6 @@
 ---
 name: emails-chats-screenshots-als-anlagen
-description: "Wenn es um E-Mails, Chats und Screenshots als Anlagen in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für E-Mails, Chats und Screenshots als Anlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E-Mails, Chats und Screenshots als Anlagen

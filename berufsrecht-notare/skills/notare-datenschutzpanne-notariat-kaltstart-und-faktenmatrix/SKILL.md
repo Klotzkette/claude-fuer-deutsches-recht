@@ -1,6 +1,6 @@
 ---
 name: notare-datenschutzpanne-notariat-kaltstart-und-faktenmatrix
-description: "Wenn es um Notare Datenschutzpanne Notariat Kaltstart Und Faktenmatrix in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notare Datenschutzpanne Notariat Kaltstart und Faktenmatrix: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: datenschutzpanne notariat - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

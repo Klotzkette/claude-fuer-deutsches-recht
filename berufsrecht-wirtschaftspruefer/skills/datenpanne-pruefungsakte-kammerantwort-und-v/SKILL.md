@@ -1,6 +1,6 @@
 ---
 name: datenpanne-pruefungsakte-kammerantwort-und-v
-description: "Wenn es um Datenpanne Pruefungsakte Kammerantwort Und V in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Datenpanne Prüfungsakte Kammerantwort und V: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: datenpanne prüfungsakte - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

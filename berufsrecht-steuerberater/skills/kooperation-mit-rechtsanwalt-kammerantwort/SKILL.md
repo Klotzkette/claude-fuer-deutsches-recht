@@ -1,6 +1,6 @@
 ---
 name: kooperation-mit-rechtsanwalt-kammerantwort
-description: "Wenn es um Kooperation Mit Rechtsanwalt Kammerantwort in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Kooperation mit Rechtsanwalt Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: kooperation mit rechtsanwalt - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

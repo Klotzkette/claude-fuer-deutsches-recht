@@ -1,6 +1,6 @@
 ---
 name: bag-freistellungsklausel-unwirksam-5azr10825
-description: "Wenn es um Bag Freistellungsklausel Unwirksam 5azr10825 in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bag Freistellungsklausel Unwirksam 5azr10825: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bag Freistellungsklausel Unwirksam 5azr10825: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

@@ -1,6 +1,6 @@
 ---
 name: ungerechtfertigte-bereicherung
-description: "Wenn es um Ungerechtfertigte Bereicherung Condictiones in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ungerechtfertigte Bereicherung Condictiones: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ungerechtfertigte Bereicherung Condictiones

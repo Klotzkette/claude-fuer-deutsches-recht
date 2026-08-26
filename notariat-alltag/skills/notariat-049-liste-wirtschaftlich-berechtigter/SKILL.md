@@ -1,6 +1,6 @@
 ---
 name: notariat-049-liste-wirtschaftlich-berechtigter
-description: "Wenn es um Notariat im Alltag: Liste wirtschaftlich Berechtigter Transparenzregister in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Liste wirtschaftlich Berechtigter Transparenzregister: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Liste wirtschaftlich Berechtigter Transparenzregister

@@ -1,6 +1,6 @@
 ---
 name: pruefung-rechenschaft
-description: "Wenn es um Prüfung Rechenschaft in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Prüfung Rechenschaft; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Prüfung Rechenschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfung Rechenschaft

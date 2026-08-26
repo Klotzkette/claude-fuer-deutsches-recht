@@ -1,6 +1,6 @@
 ---
 name: design-uwg-designnichtigkeit-dpma
-description: "Wenn es um Design Und Uwg Nachahmungsschutz in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Design und Uwg Nachahmungsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Design Und Uwg Nachahmungsschutz

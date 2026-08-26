@@ -1,6 +1,6 @@
 ---
 name: holding-gesellschafter-honorararzt-aerzte
-description: "Wenn es um Holding-Gesellschafter-Geschäftsführer in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Holding-Gesellschafter-Geschäftsführer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Holding-Gesellschafter-Geschäftsführer

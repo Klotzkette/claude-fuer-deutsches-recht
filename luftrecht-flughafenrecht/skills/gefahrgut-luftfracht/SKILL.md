@@ -1,6 +1,6 @@
 ---
 name: gefahrgut-luftfracht
-description: "Wenn es um Gefahrgut-Luftfracht – Klassifizierung, Compliance und Haftung in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gefahrgut-Luftfracht – Klassifizierung, Compliance und Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gefahrgut-Luftfracht – Klassifizierung, Compliance und Haftung

@@ -1,6 +1,6 @@
 ---
 name: klageschrift-beweisangebote-einbauen-373-zpo
-description: "Wenn es um Beweisantraege richtig in die Klage einbauen in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Beweisanträge richtig in die Klage einbauen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Beweisantraege richtig in die Klage einbauen

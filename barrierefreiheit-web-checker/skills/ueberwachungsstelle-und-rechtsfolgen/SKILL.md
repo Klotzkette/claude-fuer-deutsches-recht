@@ -1,6 +1,6 @@
 ---
 name: ueberwachungsstelle-und-rechtsfolgen
-description: "Wenn es um Ueberwachung und Rechtsfolgen in Barrierefreiheit Web Checker geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Überwachung und Rechtsfolgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ueberwachung und Rechtsfolgen

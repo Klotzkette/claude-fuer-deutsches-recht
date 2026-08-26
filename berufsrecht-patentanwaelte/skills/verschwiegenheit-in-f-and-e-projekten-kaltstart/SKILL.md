@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-in-f-and-e-projekten-kaltstart
-description: "Wenn es um Verschwiegenheit In F And E Projekten Kaltstart in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verschwiegenheit in F And E Projekten Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: verschwiegenheit in f and e projekten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

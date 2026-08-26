@@ -1,6 +1,6 @@
 ---
 name: bautraeger-abnahme-formgerecht-640-bgb
-description: "Wenn es um Bautraeger-Abnahme formgerecht nach Paragraf 640 BGB in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauträger-Abnahme formgerecht nach Paragraf 640 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bautraeger-Abnahme formgerecht nach § 640 BGB

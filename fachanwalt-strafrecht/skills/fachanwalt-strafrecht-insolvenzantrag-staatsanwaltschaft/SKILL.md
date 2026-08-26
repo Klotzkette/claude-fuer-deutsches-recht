@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft
-description: "Wenn es um Insolvenzantrag der Staatsanwaltschaft gegen Angeklagte/n in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Insolvenzantrag der Staatsanwaltschaft gegen Angeklagte/n: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Insolvenzantrag der Staatsanwaltschaft gegen Angeklagte/n

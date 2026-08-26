@@ -1,6 +1,6 @@
 ---
 name: gitarrenlehrer-und-instrumentalunterricht
-description: "Wenn es um Gitarrenlehrer und Instrumentalunterricht in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gitarrenlehrer und Instrumentalunterricht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gitarrenlehrer und Instrumentalunterricht

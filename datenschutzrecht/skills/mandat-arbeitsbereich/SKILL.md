@@ -1,6 +1,6 @@
 ---
 name: mandat-arbeitsbereich
-description: "Wenn es um Mandat-Arbeitsbereich – Mehrmandat-Kanzlei in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandat-Arbeitsbereich – Mehrmandat-Kanzlei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandat-Arbeitsbereich – Mehrmandat-Kanzlei

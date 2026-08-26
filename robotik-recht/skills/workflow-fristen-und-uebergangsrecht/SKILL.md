@@ -1,6 +1,6 @@
 ---
 name: workflow-fristen-und-uebergangsrecht
-description: "Wenn es um Fristen und Übergangsrecht in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Workflow Fristen Und Uebergangsrecht; Arbeitsfeld: robotik-recht."
+description: "Für Fristen und Übergangsrecht: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristen und Übergangsrecht

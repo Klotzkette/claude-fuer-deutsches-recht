@@ -1,6 +1,6 @@
 ---
 name: sanktion-anhoerung-55-owig
-description: "Wenn es um Anhörung nach Paragraf 55 OWiG in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Anhörung nach Paragraf 55 OWiG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Anhörung nach § 55 OWiG
@@ -49,3 +49,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 - EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
 - Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-sanktion-anhoerung-55-owig` beziehungsweise Datenschutzrecht-Brückenskill: Anhörung nach § 55 OWiG: Reaktion auf Anhörung vorbereiten, Aussagefreiheit wahren und Akteneinsicht anstoßen: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-sanktion-anhoerung-55-owig.md).

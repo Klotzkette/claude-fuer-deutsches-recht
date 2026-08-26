@@ -1,6 +1,6 @@
 ---
 name: datenschutz-pruefungsdaten-drittversuch
-description: "Wenn es um Datenschutz Prüfungsdaten in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz Prüfungsdaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Prüfungsrecht an Hochschulen und Universitäten. Route: datenschutz-pruefungsdaten-drittversuch."
 ---
 
 # Datenschutz Prüfungsdaten

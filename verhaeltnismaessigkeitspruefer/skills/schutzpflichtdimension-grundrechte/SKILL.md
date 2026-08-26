@@ -1,6 +1,6 @@
 ---
 name: schutzpflichtdimension-grundrechte
-description: "Wenn es um Schutzpflichtdimension — Verhältnismäßigkeit als Untermassverbot in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schutzpflichtdimension — Verhältnismäßigkeit als Untermassverbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schutzpflichtdimension — Verhältnismäßigkeit als Untermassverbot

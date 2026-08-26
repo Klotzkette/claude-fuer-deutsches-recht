@@ -1,6 +1,6 @@
 ---
 name: sanktion-mandanteninterview
-description: "Wenn es um Mandanteninterview ohne Selbstbelastung in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Mandanteninterview ohne Selbstbelastung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Mandanteninterview ohne Selbstbelastung

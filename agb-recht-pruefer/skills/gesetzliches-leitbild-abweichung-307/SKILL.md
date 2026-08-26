@@ -1,6 +1,6 @@
 ---
 name: gesetzliches-leitbild-abweichung-307
-description: "Wenn es um Gesetzliches Leitbild Abweichung 307 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Gesetzliches Leitbild Abweichung 307; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Gesetzliches Leitbild Abweichung 307: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: gesetzliches-leitbild-abweichung-307."
 ---
 
 # Gesetzliches Leitbild Abweichung 307

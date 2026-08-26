@@ -1,6 +1,6 @@
 ---
 name: anlagenpaket-fuer-gericht
-description: "Wenn es um Anlagenpaket für Gericht in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anlagenpaket für Gericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.

@@ -1,6 +1,6 @@
 ---
 name: zwvw-versteigerung-vs-verwaltung-spezial
-description: "Wenn es um Zwvw Versteigerung Vs Verwaltung Spezial in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zwvw Versteigerung Vs Verwaltung Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Zusammenspiel Zwangsversteigerung und Zwangsverwaltung: Aufhebung, Vorrang, Auskehrung

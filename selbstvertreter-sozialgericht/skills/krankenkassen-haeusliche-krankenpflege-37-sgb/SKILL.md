@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-haeusliche-krankenpflege-37-sgb
-description: "Wenn es um Krankenkassen Haeusliche Krankenpflege 37 Sgb V in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenkassen Häusliche Krankenpflege 37 SGB V: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Krankenkassen Haeusliche Krankenpflege 37 Sgb V

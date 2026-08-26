@@ -1,6 +1,6 @@
 ---
 name: sigeko-projektsteuerung-abnahmefahrplan
-description: "Wenn es um SiGeKo, Projektsteuerung Und Besondere Leistungen in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für SiGeKo, Projektsteuerung und Besondere Leistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # SiGeKo, Projektsteuerung Und Besondere Leistungen

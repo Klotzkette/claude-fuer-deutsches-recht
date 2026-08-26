@@ -1,6 +1,6 @@
 ---
 name: umwelt-marpol-itlos-hamburg-dokumenten
-description: "Wenn es um Umwelt und MARPOL – Öleinleitung und Strafverfolgung in See- und Schifffahrtsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Umwelt und MARPOL – Öleinleitung und Strafverfolgung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umwelt und MARPOL – Öleinleitung und Strafverfolgung

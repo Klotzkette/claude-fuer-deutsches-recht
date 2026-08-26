@@ -1,6 +1,6 @@
 ---
 name: executive-summary-1-pager-template
-description: "Wenn es um Executive Summary 1-Pager Template in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Executive Summary 1-Pager Template: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Executive Summary 1-Pager Template

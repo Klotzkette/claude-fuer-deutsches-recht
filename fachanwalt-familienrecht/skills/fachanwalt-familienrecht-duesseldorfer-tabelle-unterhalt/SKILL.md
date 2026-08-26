@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt
-description: "Prüft oder erstellt eine Kindesunterhaltsrechnung im Schnelllauf. Erkennt falsche Tabellenjahre, Einkommens- und Betreuungsfehler, fehlende Berechtigte, Kindergeld-Doppelansätze, Leistungsfähigkeits- und Vertretungsprobleme und liefert binnen eines Durchgangs korrigierte Monatswerte, Angriffspunkte und den passenden nächsten Textbaustein."
+description: "Für Kindesunterhalt schnell rechnen und angreifen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kindesunterhalt schnell rechnen und angreifen

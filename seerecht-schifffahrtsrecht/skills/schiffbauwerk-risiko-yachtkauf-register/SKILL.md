@@ -1,6 +1,6 @@
 ---
 name: schiffbauwerk-risiko-yachtkauf-register
-description: "Wenn es um Schiffbauwerk – Risiko-Memo schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schiffbauwerk – Risiko-Memo schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Schiffbauwerk – Risiko-Memo schreiben

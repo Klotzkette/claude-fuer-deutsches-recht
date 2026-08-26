@@ -1,6 +1,6 @@
 ---
 name: bverfg-polizeirecht-gefahrenprognose
-description: "Wenn es um Polizeirecht und Gefahrenprognose nach BVerfG-Maßstab in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Polizeirecht und Gefahrenprognose nach BVerfG-Maßstab: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Polizeirecht und Gefahrenprognose nach BVerfG-Maßstab

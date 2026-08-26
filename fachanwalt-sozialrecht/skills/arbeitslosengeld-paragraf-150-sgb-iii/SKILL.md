@@ -1,6 +1,6 @@
 ---
 name: arbeitslosengeld-paragraf-150-sgb-iii
-description: "Wenn es um Arbeitslosengeld Paragraf 150 sgb iii in Fachanwalt Sozialrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitslosengeld Paragraf 150 SGB iii: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitslosengeld § 150 sgb iii

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-syrien
-description: "Wenn es um Embargo Syrien in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Embargo Syrien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Embargo Syrien

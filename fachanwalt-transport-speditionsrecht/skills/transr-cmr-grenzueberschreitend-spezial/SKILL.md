@@ -1,6 +1,6 @@
 ---
 name: transr-cmr-grenzueberschreitend-spezial
-description: "Wenn es um Transr Cmr Grenzueberschreitend Spezial in Fachanwalt Transport Speditionsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transr Cmr Grenzüberschreitend Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall CMR grenzueberschreitend: Anwendungsbereich Strassentransport zwischen CMR-Vertragsstaaten, Frachtbrief, Haftung Frachtfuehrer, Reklamationsfrist 21 Tage bei aeusserlich erkennbaren Schaden

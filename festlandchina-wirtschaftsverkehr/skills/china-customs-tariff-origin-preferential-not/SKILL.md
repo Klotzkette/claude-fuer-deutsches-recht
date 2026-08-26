@@ -1,6 +1,6 @@
 ---
 name: china-customs-tariff-origin-preferential-not
-description: "Wenn es um Zolltarif und Warenursprung China: Prüfung und Dokumentation in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zolltarif und Warenursprung China: Prüfung und Dokumentation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zolltarif und Warenursprung China: Prüfung und Dokumentation

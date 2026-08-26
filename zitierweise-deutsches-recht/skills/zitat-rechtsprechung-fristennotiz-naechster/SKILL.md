@@ -1,6 +1,6 @@
 ---
 name: zitat-rechtsprechung-fristennotiz-naechster
-description: "Wenn es um Rechtsprechung ohne amtl. Fundstelle in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsprechung ohne amtl. Fundstelle: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Rechtsprechung ohne amtl. Fundstelle

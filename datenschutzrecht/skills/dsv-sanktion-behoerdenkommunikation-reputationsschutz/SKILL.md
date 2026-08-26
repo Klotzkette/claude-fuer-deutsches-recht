@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-behoerdenkommunikation-reputationsschutz
-description: "Wenn es um Dsv Sanktion Behoerdenkommunikation Reputationsschutz in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dsv Sanktion Behördenkommunikation Reputationsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutzrecht-Brückenskill: Behördenkommunikation mit Reputationsschutz: Ton, Timing, Presse, Veröffentlichung, Kundenkommunikation und Verteidigungsrechte koordinieren

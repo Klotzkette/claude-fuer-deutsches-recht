@@ -1,6 +1,6 @@
 ---
 name: bag-leitentscheidungen-beweislast
-description: "Ordnet Darlegungs- und Beweislast bei Zeugnisberichtigung, insbesondere für über- oder unterdurchschnittliche Bewertungen, Tätigkeitsangaben und behauptete Tatsachen. Liefert eine Beweismittelmatrix mit Anspruchsziel, Ausgangsniveau, Gegenbehauptung und Prozessrisiko."
+description: "Ordnet Darlegungs- und Beweislast bei Zeugnisberichtigung, insbesondere für über- oder unterdurchschnittliche Bewertungen, Tätigkeitsangaben und behauptete Tatsachen."
 ---
 
 # BAG-Leitentscheidungen zur Beweislast

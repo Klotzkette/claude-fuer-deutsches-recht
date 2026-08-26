@@ -1,6 +1,6 @@
 ---
 name: klauselbibliothek-aufbau
-description: "Wenn es um Klauselbibliothek Aufbau in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Klauselbibliothek Aufbau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klauselbibliothek Aufbau

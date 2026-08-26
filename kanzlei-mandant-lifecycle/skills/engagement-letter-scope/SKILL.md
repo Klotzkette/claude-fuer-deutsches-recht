@@ -1,6 +1,6 @@
 ---
 name: engagement-letter-scope
-description: "Wenn es um Engagement Letter und Scope in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Engagement Letter und Scope: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Engagement Letter und Scope

@@ -1,6 +1,6 @@
 ---
 name: sozietaet-mit-rechtsanwaelten-rechtsprechungsche
-description: "Wenn es um Sozietaet Mit Rechtsanwaelten Rechtsprechungsche in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Sozietät mit Rechtsanwälten Rechtsprechungsche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: sozietaet mit rechtsanwaelten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

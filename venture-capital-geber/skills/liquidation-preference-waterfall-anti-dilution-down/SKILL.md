@@ -1,6 +1,6 @@
 ---
 name: liquidation-preference-waterfall-anti-dilution-down
-description: "Wenn es um Liquidation Preference und Waterfall in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Liquidation Preference und Waterfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liquidation Preference und Waterfall

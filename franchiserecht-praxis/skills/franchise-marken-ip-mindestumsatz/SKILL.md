@@ -1,6 +1,6 @@
 ---
 name: franchise-marken-ip-mindestumsatz
-description: "Wenn es um Franchise Marken Ip Lizenzierung in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchise Marken Ip Lizenzierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise Marken Ip Lizenzierung

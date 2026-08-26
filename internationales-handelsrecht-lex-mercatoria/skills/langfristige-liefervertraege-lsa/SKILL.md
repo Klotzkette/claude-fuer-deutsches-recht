@@ -1,6 +1,6 @@
 ---
 name: langfristige-liefervertraege-lsa
-description: "Wenn es um Langfristige Lieferverträge (LSA) in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Langfristige Lieferverträge (LSA): prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Langfristige Lieferverträge (LSA)

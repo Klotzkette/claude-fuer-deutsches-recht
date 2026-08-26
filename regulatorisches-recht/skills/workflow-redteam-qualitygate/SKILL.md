@@ -1,6 +1,6 @@
 ---
 name: workflow-redteam-qualitygate
-description: "Wenn es um Red-Team Qualitygate in Regulatorisches Recht – Plugin für deutsches geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Regulatorisches Recht – Plugin für deutsches."
 ---
 
 # Red-Team Qualitygate

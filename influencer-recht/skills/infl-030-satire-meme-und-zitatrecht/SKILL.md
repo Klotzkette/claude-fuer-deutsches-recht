@@ -1,6 +1,6 @@
 ---
 name: infl-030-satire-meme-und-zitatrecht
-description: "Wenn es um Influencer-Recht: Satire Meme und Zitatrecht in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Satire Meme und Zitatrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Satire Meme und Zitatrecht

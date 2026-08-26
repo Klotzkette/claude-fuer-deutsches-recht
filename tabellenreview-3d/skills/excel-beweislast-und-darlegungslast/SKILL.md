@@ -1,6 +1,6 @@
 ---
 name: excel-beweislast-und-darlegungslast
-description: "Wenn es um Excel: Beweislast, Darlegungslast und Substantiierung in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Excel Beweislast Und Darlegungslast; Arbeitsfeld: Tabellenreview 3D."
+description: "Für Excel: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Tabellenreview 3D. Route: excel-beweislast-und-darlegungslast."
 ---
 
 # Excel: Beweislast, Darlegungslast und Substantiierung

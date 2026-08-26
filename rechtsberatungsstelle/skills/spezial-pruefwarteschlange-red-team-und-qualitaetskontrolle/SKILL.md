@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefwarteschlange-red-team-und-qualitaetskontrolle
-description: "Wenn es um Pruefwarteschlange: Red-Team und Qualitätskontrolle in Plugin für die studentische Rechtsberatungsstelle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfwarteschlange: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Pruefwarteschlange: Red-Team und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: zugang-neu-005-hausbriefkasten-leerungszeiten-und-zugang
-description: "Wenn es um Zugang Neu 005 Hausbriefkasten Leerungszeiten Und Zugang in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Zugang Neu 005 Hausbriefkasten Leerungszeiten und Zugang: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Arbeitsrecht: Hausbriefkasten Leerungszeiten und Zugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.

@@ -1,6 +1,6 @@
 ---
 name: immo-makler-honorar
-description: "Wenn es um Maklervertrag in Immobilienrechtspraxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Maklervertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Maklervertrag

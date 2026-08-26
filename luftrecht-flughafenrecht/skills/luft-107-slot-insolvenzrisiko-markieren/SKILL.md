@@ -1,6 +1,6 @@
 ---
 name: luft-107-slot-insolvenzrisiko-markieren
-description: "Wenn es um Slot Insolvenzrisiko Markieren in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Slot Insolvenzrisiko Markieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Slot Insolvenzrisiko Markieren

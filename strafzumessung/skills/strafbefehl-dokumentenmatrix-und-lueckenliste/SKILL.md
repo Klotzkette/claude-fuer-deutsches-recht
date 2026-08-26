@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung in Strafzumessung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Strafzumessung."
 ---
 
 # Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung

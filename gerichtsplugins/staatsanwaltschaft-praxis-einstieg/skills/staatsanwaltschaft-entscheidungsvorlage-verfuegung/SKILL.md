@@ -1,6 +1,6 @@
 ---
 name: staatsanwaltschaft-entscheidungsvorlage-verfuegung
-description: "Wenn es um Entscheidungsvorlage in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage. Auswahlstichwort: Staatsanwaltschaft Entscheidungsvorlage Verfuegung; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
+description: "Für Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Staatsanwaltschaft Praxis-Einstieg. Route: staatsanwaltschaft-entscheidungsvorlage-verfuegung."
 ---
 
 # Entscheidungsvorlage

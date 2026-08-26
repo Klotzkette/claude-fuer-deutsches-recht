@@ -1,6 +1,6 @@
 ---
 name: vaterschaftsanfechtung-frist-paragraf-1600b-bgb-bverfg
-description: "Wenn es um Vaterschaftsanfechtung Frist Paragraf 1600b BGB BVerfG in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vaterschaftsanfechtung Frist Paragraf 1600b BGB BVerfG: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Vaterschaftsanfechtung Frist Paragraf 1600b BGB BVerfG

@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-livecheck-dienstpflichten
-description: "Wenn es um Rechtsprechung Livecheck in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsprechung Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsprechung Livecheck

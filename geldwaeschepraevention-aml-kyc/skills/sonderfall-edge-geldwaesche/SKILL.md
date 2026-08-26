@@ -1,6 +1,6 @@
 ---
 name: sonderfall-edge-geldwaesche
-description: "Wenn es um Chronologie: Sonderfall und Edge-Case-Prüfung in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Chronologie: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Chronologie: Sonderfall und Edge-Case-Prüfung

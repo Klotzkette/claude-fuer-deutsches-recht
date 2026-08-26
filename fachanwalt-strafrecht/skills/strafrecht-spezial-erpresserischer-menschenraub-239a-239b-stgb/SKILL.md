@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-erpresserischer-menschenraub-239a-239b-stgb
-description: "Wenn es um Erpresserischer Menschenraub Paragraf 239a StGB und Geiselnahme Paragraf 239b StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erpresserischer Menschenraub Paragraf 239a StGB und Geiselnahme Paragraf 239b StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erpresserischer Menschenraub § 239a StGB und Geiselnahme § 239b StGB

@@ -1,6 +1,6 @@
 ---
 name: fernbeglaubigung-videoverfahren
-description: "Wenn es um Fernbeglaubigung Videoverfahren in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Fernbeglaubigung Videoverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: fernbeglaubigung und videoverfahren - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

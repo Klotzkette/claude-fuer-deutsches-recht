@@ -1,6 +1,6 @@
 ---
 name: nkbl-normenkontrolle-verfahren-leitfaden
-description: "Wenn es um NkBl: Normenkontrolle-Verfahren in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NkBl: Normenkontrolle-Verfahren: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # NkBl: Normenkontrolle-Verfahren

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag
-description: "Wenn es um Kindeswohlgefährdung — Eilanordnung in Fachanwalt Familienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kindeswohlgefährdung — Eilanordnung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Kindeswohlgefährdung — Eilanordnung

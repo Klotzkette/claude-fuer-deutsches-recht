@@ -1,6 +1,6 @@
 ---
 name: ausgabe-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Ausgabe: Mandantenkommunikation und Entscheidungsvorlage in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ausgabe Mandantenkommunikation Entscheidungsvorlage; Arbeitsfeld: NDA-Abgleich."
+description: "Für Ausgabe: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Ausgabe: Mandantenkommunikation und Entscheidungsvorlage

@@ -1,6 +1,6 @@
 ---
 name: uklag-unterlassung-gegen-agb
-description: "Wenn es um Uklag Unterlassung Gegen Agb in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Uklag Unterlassung gegen AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Uklag Unterlassung Gegen Agb

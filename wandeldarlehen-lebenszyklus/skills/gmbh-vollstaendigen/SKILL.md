@@ -1,6 +1,6 @@
 ---
 name: gmbh-vollstaendigen
-description: "Wenn es um GmbH: Risikoampel, Gegenargumente und Verteidigungslinien in Wandeldarlehen-Lebenszyklus geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GmbH: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GmbH: Risikoampel, Gegenargumente und Verteidigungslinien

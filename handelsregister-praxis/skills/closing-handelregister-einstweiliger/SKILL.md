@@ -1,6 +1,6 @@
 ---
 name: closing-handelregister-einstweiliger
-description: "Wenn es um Registervollzug im Closing in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Registervollzug im Closing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registervollzug im Closing

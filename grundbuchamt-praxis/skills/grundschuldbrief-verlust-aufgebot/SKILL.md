@@ -1,6 +1,6 @@
 ---
 name: grundschuldbrief-verlust-aufgebot
-description: "Wenn es um Verlorener Grundschuldbrief in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verlorener Grundschuldbrief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Verlorener Grundschuldbrief

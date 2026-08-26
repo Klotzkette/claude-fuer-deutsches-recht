@@ -1,6 +1,6 @@
 ---
 name: arbeitsschutz-unterweisung-nachweise
-description: "Wenn es um Arbeitsschutz-Unterweisungen nachweisen in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsschutz-Unterweisungen nachweisen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsschutz-Unterweisungen nachweisen

@@ -1,6 +1,6 @@
 ---
 name: menschenrechte-und-emrk-rezeption
-description: "Wenn es um Menschenrechte und EMRK-Rezeption in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Menschenrechte und EMRK-Rezeption: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Menschenrechte und EMRK-Rezeption

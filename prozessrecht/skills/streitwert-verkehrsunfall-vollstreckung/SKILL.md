@@ -1,6 +1,6 @@
 ---
 name: streitwert-verkehrsunfall-vollstreckung
-description: "Wenn es um Streitwertfestsetzung – GKG / RVG in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Streitwertfestsetzung – GKG / RVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Streitwertfestsetzung – GKG / RVG

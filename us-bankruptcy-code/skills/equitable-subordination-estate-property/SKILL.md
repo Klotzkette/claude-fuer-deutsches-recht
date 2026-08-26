@@ -1,6 +1,6 @@
 ---
 name: equitable-subordination-estate-property
-description: "Wenn es um Subordination Paragraf 510 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Subordination Paragraf 510: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Subordination § 510

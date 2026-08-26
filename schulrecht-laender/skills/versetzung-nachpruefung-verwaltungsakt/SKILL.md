@@ -1,6 +1,6 @@
 ---
 name: versetzung-nachpruefung-verwaltungsakt
-description: "Wenn es um Versetzung Und Nachpruefung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versetzung und Nachprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Versetzung Und Nachpruefung

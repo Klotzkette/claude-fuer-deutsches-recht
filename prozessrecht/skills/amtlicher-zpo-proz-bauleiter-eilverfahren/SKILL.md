@@ -1,6 +1,6 @@
 ---
 name: amtlicher-zpo-proz-bauleiter-eilverfahren
-description: "Wenn es um Amtlicher ZPO-Verfahrenscheck in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Amtlicher ZPO-Verfahrenscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Amtlicher ZPO-Verfahrenscheck

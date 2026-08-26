@@ -1,6 +1,6 @@
 ---
 name: kueschk-kuendigungsgrund-personen-verhalten-betrieb
-description: "Wenn es um Drei Kündigungsgründe nach Paragraf 1 Abs in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Drei Kündigungsgründe nach Paragraf 1 Abs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drei Kündigungsgründe nach Paragraf 1 Abs

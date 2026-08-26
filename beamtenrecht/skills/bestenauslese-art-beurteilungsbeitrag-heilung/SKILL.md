@@ -1,6 +1,6 @@
 ---
 name: bestenauslese-art-beurteilungsbeitrag-heilung
-description: "Wenn es um Bestenauslese Art 33 Ii Gg in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bestenauslese Art 33 Ii Gg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bestenauslese Art 33 Ii Gg

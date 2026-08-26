@@ -1,6 +1,6 @@
 ---
 name: routine-quartalsabschluss-prozess
-description: "Wenn es um Quartalsabschluss-Prozess in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quartalsabschluss-Prozess: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quartalsabschluss-Prozess

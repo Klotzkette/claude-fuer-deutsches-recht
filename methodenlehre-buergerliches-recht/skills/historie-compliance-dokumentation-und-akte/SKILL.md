@@ -1,6 +1,6 @@
 ---
 name: historie-compliance-dokumentation-und-akte
-description: "Wenn es um Historie Compliance Dokumentation Und Akte in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Historie Compliance Dokumentation und Akte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dieses Skill strukturiert die historische und compliance-relevante Dokumentation eines zivilrechtlichen Mandats
@@ -99,3 +99,7 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-historie-compliance-dokumentation-und-akte` beziehungsweise Historie: Compliance-Dokumentation und Aktenvermerk: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-historie-compliance-dokumentation-und-akte.md).

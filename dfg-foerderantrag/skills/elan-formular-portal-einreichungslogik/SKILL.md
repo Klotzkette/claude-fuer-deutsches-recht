@@ -1,6 +1,6 @@
 ---
 name: elan-formular-portal-einreichungslogik
-description: "Wenn es um Elan: Formular, Portal und Einreichungslogik in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Elan: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Elan: Formular, Portal und Einreichungslogik

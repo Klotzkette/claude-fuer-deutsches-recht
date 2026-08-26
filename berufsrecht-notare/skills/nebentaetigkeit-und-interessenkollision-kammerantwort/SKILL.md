@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-und-interessenkollision-kammerantwort
-description: "Wenn es um Nebentaetigkeit Und Interessenkollision Kammerantwort in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Nebentätigkeit und Interessenkollision Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: nebentaetigkeit und interessenkollision - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: schulische-ordnungsakte-beweisarchiv
-description: "Wenn es um Schulische Ordnungsakte und Beweisarchiv in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Schulische Ordnungsakte und Beweisarchiv: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Schulische Ordnungsakte und Beweisarchiv

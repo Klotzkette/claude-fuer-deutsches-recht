@@ -1,6 +1,6 @@
 ---
 name: bwbes-neu-003-auslandsverwendungszuschlag-und-einsatzversorgung
-description: "Wenn es um Bundeswehrrecht: Auslandsverwendungszuschlag und Einsatzversorgung in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bundeswehrrecht: Auslandsverwendungszuschlag und Einsatzversorgung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bundeswehrrecht: Auslandsverwendungszuschlag und Einsatzversorgung

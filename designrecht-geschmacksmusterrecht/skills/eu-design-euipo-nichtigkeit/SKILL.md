@@ -1,6 +1,6 @@
 ---
 name: eu-design-euipo-nichtigkeit
-description: "Wenn es um Eu Design Anmeldung Euipo in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Eu Design Anmeldung Euipo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Eu Design Anmeldung Euipo

@@ -1,6 +1,6 @@
 ---
 name: verkehrsunfall-paragraf-7-stvg
-description: "Wenn es um Verkehrsunfall Paragraf 7 StVG in Fachanwalt Verkehrsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verkehrsunfall Paragraf 7 StVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verkehrsunfall § 7 StVG

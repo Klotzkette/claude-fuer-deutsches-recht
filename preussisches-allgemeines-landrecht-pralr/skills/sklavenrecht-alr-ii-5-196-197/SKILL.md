@@ -1,6 +1,6 @@
 ---
 name: sklavenrecht-alr-ii-5-196-197
-description: "Wenn es um Sklavenrecht im ALR — ALR II 5 Paragrafen 196 ff. in Preußisches Allgemeines Landrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sklavenrecht im ALR — ALR II 5 Paragrafen 196 ff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sklavenrecht im ALR — ALR II 5 §§ 196 ff.

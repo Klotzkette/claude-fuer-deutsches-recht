@@ -1,6 +1,6 @@
 ---
 name: ddr-unrechtsstaat-schweigespirale
-description: "Wenn es um DDR-Recht und juristische Aufarbeitung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für DDR-Recht und juristische Aufarbeitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: ddr-unrechtsstaat-schweigespirale."
 ---
 
 # DDR-Recht und juristische Aufarbeitung

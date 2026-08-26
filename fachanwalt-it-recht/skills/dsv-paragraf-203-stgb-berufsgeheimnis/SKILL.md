@@ -1,6 +1,6 @@
 ---
 name: dsv-paragraf-203-stgb-berufsgeheimnis
-description: "Wenn es um Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach Paragraf 203 StGB in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach Paragraf 203 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach § 203 StGB

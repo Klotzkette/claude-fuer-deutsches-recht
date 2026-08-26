@@ -1,6 +1,6 @@
 ---
 name: berufsgericht-freie-berufe-kaltstart-routing
-description: "Wenn es um Allgemeiner Kaltstart und Routing in Berufsgerichtliche Verfahren Freie Berufe geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Allgemeiner Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Allgemeiner Kaltstart und Routing

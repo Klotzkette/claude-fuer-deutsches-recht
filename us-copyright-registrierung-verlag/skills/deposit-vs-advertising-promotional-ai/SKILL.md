@@ -1,6 +1,6 @@
 ---
 name: deposit-vs-advertising-promotional-ai
-description: "Wenn es um Deposit versus Registration 407 und 408 in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deposit versus Registration 407 und 408: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Deposit versus Registration 407 und 408

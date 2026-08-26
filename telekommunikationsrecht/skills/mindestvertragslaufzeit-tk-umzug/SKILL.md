@@ -1,6 +1,6 @@
 ---
 name: mindestvertragslaufzeit-tk-umzug
-description: "Wenn es um Mindestlaufzeit, Verlängerung, Kündigung in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mindestlaufzeit, Verlängerung, Kündigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mindestlaufzeit, Verlängerung, Kündigung

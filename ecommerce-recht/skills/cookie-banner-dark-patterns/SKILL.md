@@ -1,6 +1,6 @@
 ---
 name: cookie-banner-dark-patterns
-description: "Wenn es um Cookie Banner dark patterns in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Cookie Banner dark patterns: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cookie Banner dark patterns

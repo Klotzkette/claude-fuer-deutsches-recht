@@ -1,6 +1,6 @@
 ---
 name: ki-halluzinationen-red-team
-description: "Wenn es um Schriftsatz-Red-Team gegen digitale Werkzeuge-Halluzinationen in europäischem Technikregulierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Schriftsatz-Red-Team gegen digitale Werkzeuge-Halluzinationen: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Schriftsatz-Red-Team gegen KI-Halluzinationen

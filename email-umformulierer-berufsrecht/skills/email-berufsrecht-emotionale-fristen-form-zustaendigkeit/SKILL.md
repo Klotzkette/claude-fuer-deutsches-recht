@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-emotionale-fristen-form-zustaendigkeit
-description: "Wenn es um Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Emotionale Fristen Form Zuständigkeit; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: E-Mail-Umformulierer. Route: email-berufsrecht-emotionale-fristen-form-zustaendigkeit."
 ---
 
 # Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg

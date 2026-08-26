@@ -1,6 +1,6 @@
 ---
 name: transport-cmr-schadensregulierung
-description: "Wenn es um Schadensregulierung im grenzüberschreitenden Gueterverkehr nach CMR durchführen in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schadensregulierung im grenzüberschreitenden Güterverkehr nach CMR durchführen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schadensregulierung im grenzüberschreitenden Gueterverkehr nach CMR durchführen

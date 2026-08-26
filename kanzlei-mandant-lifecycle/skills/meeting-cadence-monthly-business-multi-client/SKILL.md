@@ -1,6 +1,6 @@
 ---
 name: meeting-cadence-monthly-business-multi-client
-description: "Wenn es um Meeting Cadence in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Meeting Cadence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Meeting Cadence

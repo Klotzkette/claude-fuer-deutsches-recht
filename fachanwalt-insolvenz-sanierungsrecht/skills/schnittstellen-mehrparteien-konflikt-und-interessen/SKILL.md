@@ -1,6 +1,6 @@
 ---
 name: schnittstellen-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Schnittstellen Mehrparteien Konflikt Und Interessen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schnittstellen Mehrparteien Konflikt und Interessen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

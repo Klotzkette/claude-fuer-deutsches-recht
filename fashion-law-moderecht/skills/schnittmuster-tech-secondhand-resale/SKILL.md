@@ -1,6 +1,6 @@
 ---
 name: schnittmuster-tech-secondhand-resale
-description: "Wenn es um Schnittmuster Und Tech Pack in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schnittmuster und Tech Pack: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schnittmuster Und Tech Pack

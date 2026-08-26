@@ -1,6 +1,6 @@
 ---
 name: tracking-cookies-und-ttddg-schnittstelle
-description: "Wenn es um Tracking Cookies und TDDDG-Schnittstelle in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Tracking Cookies und TDDDG-Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tracking Cookies und TDDDG-Schnittstelle

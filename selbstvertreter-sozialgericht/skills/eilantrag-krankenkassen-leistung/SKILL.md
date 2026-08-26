@@ -1,6 +1,6 @@
 ---
 name: eilantrag-krankenkassen-leistung
-description: "Wenn es um Eilantrag gegen die Krankenkasse — wenn Sie nicht warten können in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Eilantrag gegen die Krankenkasse — wenn Sie nicht warten können: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Eilantrag gegen die Krankenkasse — wenn Sie nicht warten können

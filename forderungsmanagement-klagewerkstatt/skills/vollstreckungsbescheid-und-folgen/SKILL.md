@@ -1,6 +1,6 @@
 ---
 name: vollstreckungsbescheid-und-folgen
-description: "Wenn es um Vollstreckungsbescheid in Forderungsmanagement — Klagewerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vollstreckungsbescheid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollstreckungsbescheid

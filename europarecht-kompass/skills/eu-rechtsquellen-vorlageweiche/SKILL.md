@@ -1,6 +1,6 @@
 ---
 name: eu-rechtsquellen-vorlageweiche
-description: "Wenn es um EU-Rechtsquellen, Charta und Vorlageweiche in Europarecht-Kompass für deutsche Juristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für EU-Rechtsquellen, Charta und Vorlageweiche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-Rechtsquellen, Charta und Vorlageweiche

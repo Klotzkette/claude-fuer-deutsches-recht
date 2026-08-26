@@ -1,6 +1,6 @@
 ---
 name: digitalregulierung-erstpruefung-und-mandatsziel
-description: "Wenn es um Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel in DSA, DMA und Digitalregulierung der EU geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel

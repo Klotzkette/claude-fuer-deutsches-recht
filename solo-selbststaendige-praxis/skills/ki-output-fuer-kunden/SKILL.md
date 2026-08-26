@@ -1,6 +1,6 @@
 ---
 name: ki-output-fuer-kunden
-description: "Wenn es um digitale Werkzeuge-Output für Kunden in Solo-Selbstständige Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge-Output für Kunden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Output für Kunden

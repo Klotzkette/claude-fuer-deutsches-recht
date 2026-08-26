@@ -1,6 +1,6 @@
 ---
 name: industrieanlage-gutachten-zerlegen
-description: "Wenn es um Industrieanlage Gutachten Zerlegen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Industrieanlage Gutachten Zerlegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Industrieanlage Gutachten Zerlegen

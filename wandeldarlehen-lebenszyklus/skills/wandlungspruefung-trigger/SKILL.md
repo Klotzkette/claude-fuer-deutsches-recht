@@ -1,6 +1,6 @@
 ---
 name: wandlungspruefung-trigger
-description: "Wenn es um Wandlungsprüfung – Trigger Maturity (Laufzeitablauf) in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wandlungsprüfung – Trigger Maturity (Laufzeitablauf): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wandlungsprüfung – Trigger Maturity (Laufzeitablauf)

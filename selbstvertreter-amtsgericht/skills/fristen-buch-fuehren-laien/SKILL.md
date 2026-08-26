@@ -1,6 +1,6 @@
 ---
 name: fristen-buch-fuehren-laien
-description: "Wenn es um Ein eigenes Fristen-Buch fuehren in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ein eigenes Fristen-Buch führen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Ein eigenes Fristen-Buch fuehren

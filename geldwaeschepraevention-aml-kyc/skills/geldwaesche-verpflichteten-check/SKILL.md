@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-verpflichteten-check
-description: "Wenn es um Verpflichtetenstatus nach GwG in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verpflichtetenstatus nach GwG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verpflichtetenstatus nach GwG

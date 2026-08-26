@@ -1,6 +1,6 @@
 ---
 name: taufregister-korrektur-tod-begrabnis-tribunal
-description: "Wenn es um Taufregister: Korrektur und Randvermerke in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Taufregister: Korrektur und Randvermerke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: taufregister-korrektur-tod-begrabnis-tribunal."
 ---
 
 # Taufregister: Korrektur und Randvermerke

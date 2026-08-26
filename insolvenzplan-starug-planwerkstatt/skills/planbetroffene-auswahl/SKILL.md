@@ -1,6 +1,6 @@
 ---
 name: planbetroffene-auswahl
-description: "Wenn es um Auswahl der Planbetroffenen in Insolvenzplan- und StaRUG-Planwerkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Auswahl der Planbetroffenen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auswahl der Planbetroffenen

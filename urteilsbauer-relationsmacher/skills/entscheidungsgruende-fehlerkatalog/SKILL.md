@@ -1,6 +1,6 @@
 ---
 name: entscheidungsgruende-fehlerkatalog
-description: "Wenn es um Entscheidungsgruende Fehlerkatalog in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entscheidungsgründe Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Entscheidungsgruende Fehlerkatalog

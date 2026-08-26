@@ -1,6 +1,6 @@
 ---
 name: vergabe-os-master-orchestrator
-description: "Wenn es um Vergabe Os Master Orchestrator in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vergabe Os Master Orchestrator: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vergabe-OS für Anfaenger und Profis: erkennt Rolle, Schwellenwert, Verfahrensstand, Fristen, Rechtsweg, Dokumentenlage und fuehrt in Padlet, Tabellen, Schriftsatz, Memo oder Vergabeakte.

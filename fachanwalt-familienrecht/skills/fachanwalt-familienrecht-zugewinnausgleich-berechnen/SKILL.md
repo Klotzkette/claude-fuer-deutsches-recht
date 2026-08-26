@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-zugewinnausgleich-berechnen
-description: "Wenn es um Zugewinnausgleich berechnen in Fachanwalt Familienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Zugewinnausgleich berechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zugewinnausgleich berechnen

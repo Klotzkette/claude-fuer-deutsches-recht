@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "Wenn es um Red-Team Qualitygate in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Redteam Qualitygate; Arbeitsfeld: NDA-Abgleich."
+description: "Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: NDA-Abgleich. Route: redteam-qualitygate."
 ---
 
 # Red-Team Qualitygate

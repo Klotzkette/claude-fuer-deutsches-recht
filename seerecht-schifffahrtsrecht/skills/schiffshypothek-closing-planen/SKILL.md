@@ -1,6 +1,6 @@
 ---
 name: schiffshypothek-closing-planen
-description: "Wenn es um Schiffshypothek – Closing planen in See- und Schifffahrtsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schiffshypothek – Closing planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiffshypothek – Closing planen

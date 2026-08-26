@@ -1,6 +1,6 @@
 ---
 name: anwaltszwang-pruefen-73-sgg
-description: "Wenn es um Brauchen Sie einen Anwalt? Der Paragraf 73 SGG in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Brauchen Sie einen Anwalt? der Paragraf 73 SGG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Brauchen Sie einen Anwalt? Der § 73 SGG

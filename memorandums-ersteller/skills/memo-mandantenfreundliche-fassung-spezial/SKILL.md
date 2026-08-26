@@ -1,6 +1,6 @@
 ---
 name: memo-mandantenfreundliche-fassung-spezial
-description: "Wenn es um Memo: Mandantenfreundliche Fassung in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Memo: Mandantenfreundliche Fassung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Memo: Mandantenfreundliche Fassung

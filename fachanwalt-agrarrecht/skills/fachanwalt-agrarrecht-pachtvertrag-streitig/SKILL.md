@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-pachtvertrag-streitig
-description: "Steuert die anwaltliche Strategie in streitigen Landpachtmandaten. Verdichtet Akte, Vertragsregime, LPachtVG-Verfahren, Anpassung, Kündigung, Fortsetzung, Beweislast und Prozessrisiko zu Mandantenrat, Vergleichskorridor und einem vollstreckbaren Schriftsatz mit Anlagenplan."
+description: "Für Landpachtstreit strategisch führen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landpachtstreit strategisch führen

@@ -1,6 +1,6 @@
 ---
 name: versionsdiff-agb
-description: "Wenn es um Versionsdiff AGB in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Versionsdiff AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versionsdiff AGB

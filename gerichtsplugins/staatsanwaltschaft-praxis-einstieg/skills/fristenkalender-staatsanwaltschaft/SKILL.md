@@ -1,6 +1,6 @@
 ---
 name: fristenkalender-staatsanwaltschaft
-description: "Wenn es um Fristenkalender im Dezernat in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristenkalender im Dezernat: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristenkalender im Dezernat

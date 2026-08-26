@@ -1,6 +1,6 @@
 ---
 name: anschlussflug-und-reiseplan
-description: "Wenn es um Anschlussflug und Reiseplan in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anschlussflug und Reiseplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anschlussflug und Reiseplan

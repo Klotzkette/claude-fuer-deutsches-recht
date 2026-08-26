@@ -1,6 +1,6 @@
 ---
 name: bekaempfung-organisierte-kriminalitaet
-description: "Wenn es um OK-Verfahren: Strukturermittlung ohne Tunnelblick in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für OK-Verfahren: Strukturermittlung ohne Tunnelblick: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # OK-Verfahren: Strukturermittlung ohne Tunnelblick

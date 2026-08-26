@@ -1,6 +1,6 @@
 ---
 name: einspruch-fristgerecht
-description: "Wenn es um Einspruch Fristgerecht Einlegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einspruch Fristgerecht Einlegen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Einspruch Fristgerecht Einlegen

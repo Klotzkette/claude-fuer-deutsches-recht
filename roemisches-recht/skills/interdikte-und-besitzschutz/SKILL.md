@@ -1,6 +1,6 @@
 ---
 name: interdikte-und-besitzschutz
-description: "Wenn es um Interdikte Und Besitzschutz in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Interdikte und Besitzschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Interdikte Und Besitzschutz

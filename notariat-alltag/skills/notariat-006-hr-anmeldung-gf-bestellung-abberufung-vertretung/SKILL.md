@@ -1,6 +1,6 @@
 ---
 name: notariat-006-hr-anmeldung-gf-bestellung-abberufung-vertretung
-description: "Wenn es um Notariat 006 Hr Anmeldung Gf Bestellung Abberufung Vertretung in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat 006 Hr Anmeldung Gf Bestellung Abberufung Vertretung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Handelsregisteranmeldung Geschäftsführer Bestellung Abberufung Vertretungsmacht

@@ -1,6 +1,6 @@
 ---
 name: bautraeger-fertigstellungsfrist-und-verzug
-description: "Wenn es um Bautraeger Fertigstellungsfrist und Verzug in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauträger Fertigstellungsfrist und Verzug: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Bautraeger Fertigstellungsfrist und Verzug

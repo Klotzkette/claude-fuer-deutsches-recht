@@ -1,6 +1,6 @@
 ---
 name: bodensegment-teleport-exportkontrolle
-description: "Wenn es um Weltraumrecht: Bodensegment: Teleport, Rechenzentrum, Kritische Infrastruktur in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Bodensegment: Teleport, Rechenzentrum, Kritische Infrastruktur: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Weltraumrecht: Bodensegment: Teleport, Rechenzentrum, Kritische Infrastruktur

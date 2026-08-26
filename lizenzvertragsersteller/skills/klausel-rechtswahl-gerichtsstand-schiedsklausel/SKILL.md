@@ -1,6 +1,6 @@
 ---
 name: klausel-rechtswahl-gerichtsstand-schiedsklausel
-description: "Wenn es um Klausel Rechtswahl, Gerichtsstand, Schiedsklausel in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klausel Rechtswahl, Gerichtsstand, Schiedsklausel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klausel Rechtswahl, Gerichtsstand, Schiedsklausel

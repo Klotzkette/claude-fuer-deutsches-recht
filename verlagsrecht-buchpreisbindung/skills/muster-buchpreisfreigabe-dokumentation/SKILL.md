@@ -1,6 +1,6 @@
 ---
 name: muster-buchpreisfreigabe-dokumentation
-description: "Wenn es um Muster-Buchpreisfreigabe-Dokumentation in Verlagsrecht und Buchpreisbindung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Muster-Buchpreisfreigabe-Dokumentation: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Muster-Buchpreisfreigabe-Dokumentation

@@ -1,6 +1,6 @@
 ---
 name: nosokomiale-infektion-hygiene
-description: "Wenn es um Nosokomiale Infektion Hygiene in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nosokomiale Infektion Hygiene: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nosokomiale Infektion und Hygiene: moderner Medizinrechts-Skill für Hygienemangel, MRSA/CRE, OP-Saal, Aufbereitung, voll beherrschbares Risiko

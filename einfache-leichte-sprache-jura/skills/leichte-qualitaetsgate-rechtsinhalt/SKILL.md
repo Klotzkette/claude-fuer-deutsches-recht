@@ -1,6 +1,6 @@
 ---
 name: leichte-qualitaetsgate-rechtsinhalt
-description: "Wenn es um Leichte: Risikoampel, Gegenargumente und Verteidigungslinien in Einfache und Leichte Sprache für juristische Texte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Leichte Qualitaetsgate Rechtsinhalt; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
+description: "Für Leichte: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Leichte: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -1,6 +1,6 @@
 ---
 name: bankgeheimnis-auskunftsersuchen
-description: "Wenn es um Auskunftsersuchen in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Auskunftsersuchen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auskunftsersuchen

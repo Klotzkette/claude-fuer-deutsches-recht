@@ -1,6 +1,6 @@
 ---
 name: wandeldarlehens-wandelereignisse
-description: "Wenn es um Wandeldarlehens: Dokumentenmatrix, Lückenliste und Nachforderung in Wandeldarlehen-Lebenszyklus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Wandeldarlehens: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wandeldarlehens: Dokumentenmatrix, Lückenliste und Nachforderung

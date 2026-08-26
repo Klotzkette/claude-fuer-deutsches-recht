@@ -1,6 +1,6 @@
 ---
 name: pruefliste-belegabgabe-monatlich
-description: "Wenn es um Prüfliste monatliche Belegabgabe in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfliste monatliche Belegabgabe: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: pruefliste-belegabgabe-monatlich."
 ---
 
 # Prüfliste monatliche Belegabgabe

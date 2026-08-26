@@ -1,6 +1,6 @@
 ---
 name: anticircumvention-1201
-description: "Wenn es um Anti-Circumvention Paragraf 1201 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Anti-Circumvention Paragraf 1201: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anti-Circumvention § 1201

@@ -1,6 +1,6 @@
 ---
 name: review-risikoampel-und-gegenargumente
-description: "Wenn es um Review: Risikoampel, Gegenargumente und Verteidigungslinien in Kanzlei-Builder-Hub geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Review: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Kanzlei-Builder-Hub."
 ---
 
 # Review: Risikoampel, Gegenargumente und Verteidigungslinien

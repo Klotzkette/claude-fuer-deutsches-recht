@@ -1,6 +1,6 @@
 ---
 name: buergerlichen-fristen-form-und-zustaendigkeit
-description: "Wenn es um Buergerlichen Fristen Form Und Zuständigkeit in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgerlichen Fristen Form und Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften und Zuständigkeitsregeln im bürgerlichen Recht und Zivilprozess
@@ -101,3 +101,7 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-buergerlichen-fristen-form-und-zustaendigkeit` beziehungsweise Buergerlichen: Fristen, Form, Zuständigkeit und Rechtsweg: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-buergerlichen-fristen-form-und-zustaendigkeit.md).

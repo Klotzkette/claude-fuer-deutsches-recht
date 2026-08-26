@@ -1,6 +1,6 @@
 ---
 name: grest-spa-tax-clause-indemnity
-description: "Wenn es um GrESt: SPA-Klauseln, Indemnity und Escrow in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für GrESt: SPA-Klauseln, Indemnity und Escrow: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GrESt: SPA-Klauseln, Indemnity und Escrow

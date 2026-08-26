@@ -1,6 +1,6 @@
 ---
 name: agb-schiedsklausel-opt-out-deutsches-recht
-description: "Wenn es um Agb Schiedsklausel Opt Out Deutsches Recht in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB Schiedsklausel Opt Out Deutsches Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Agb Schiedsklausel Opt Out Deutsches Recht

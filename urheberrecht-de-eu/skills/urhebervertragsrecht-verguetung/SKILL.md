@@ -1,6 +1,6 @@
 ---
 name: urhebervertragsrecht-verguetung
-description: "Wenn es um Angemessene Vergütung und Bestseller in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Angemessene Vergütung und Bestseller: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Angemessene Vergütung und Bestseller

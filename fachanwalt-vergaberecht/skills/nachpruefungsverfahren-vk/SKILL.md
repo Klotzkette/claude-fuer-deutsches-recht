@@ -1,6 +1,6 @@
 ---
 name: nachpruefungsverfahren-vk
-description: "Wenn es um Vergabekammerverfahren operativ führen in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vergabekammerverfahren operativ führen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Vergabekammerverfahren operativ führen

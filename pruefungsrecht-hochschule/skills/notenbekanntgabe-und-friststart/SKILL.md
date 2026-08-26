@@ -1,6 +1,6 @@
 ---
 name: notenbekanntgabe-und-friststart
-description: "Wenn es um Notenbekanntgabe und Friststart in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notenbekanntgabe und Friststart: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Notenbekanntgabe und Friststart

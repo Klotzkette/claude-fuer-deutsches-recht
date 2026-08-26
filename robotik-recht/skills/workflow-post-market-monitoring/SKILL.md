@@ -1,6 +1,6 @@
 ---
 name: workflow-post-market-monitoring
-description: "Wenn es um Post-Market-Monitoring in robotik-recht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Workflow Post Market Monitoring; Arbeitsfeld: robotik-recht."
+description: "Für Post-Market-Monitoring: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: workflow-post-market-monitoring."
 ---
 
 # Post-Market-Monitoring

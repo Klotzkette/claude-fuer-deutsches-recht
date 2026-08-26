@@ -1,6 +1,6 @@
 ---
 name: long-covid-post-vac-und-beweisprobleme
-description: "Wenn es um Long Covid, Post-Vac und Beweisprobleme in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Long Covid, Post-Vac und Beweisprobleme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Long Covid, Post-Vac und Beweisprobleme

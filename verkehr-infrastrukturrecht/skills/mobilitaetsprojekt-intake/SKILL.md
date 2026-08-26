@@ -1,6 +1,6 @@
 ---
 name: mobilitaetsprojekt-intake
-description: "Wenn es um Mobilitätsprojekt-Intake mit Rechtsweg-, Förder- und Beteiligungsweiche in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Mobilitätsprojekt-Intake mit Rechtsweg-, Förder- und Beteiligungsweiche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mobilitätsprojekt-Intake mit Rechtsweg-, Förder- und Beteiligungsweiche

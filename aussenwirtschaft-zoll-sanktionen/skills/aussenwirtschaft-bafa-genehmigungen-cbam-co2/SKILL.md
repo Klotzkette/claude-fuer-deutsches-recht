@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-bafa-genehmigungen-cbam-co2
-description: "Wenn es um BAFA-Genehmigungsverfahren: Einzel- Sammel- und Globalgenehmigung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BAFA-Genehmigungsverfahren: Einzel- Sammel- und Globalgenehmigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BAFA-Genehmigungsverfahren: Einzel- Sammel- und Globalgenehmigung

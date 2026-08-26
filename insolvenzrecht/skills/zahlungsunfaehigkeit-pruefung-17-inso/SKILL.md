@@ -1,6 +1,6 @@
 ---
 name: zahlungsunfaehigkeit-pruefung-17-inso
-description: "Wenn es um Gerichtsfeste Prüfung des Eröffnungsgrundes Paragraf 17 InsO (Zahlungsunfähigkeit) in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gerichtsfeste Prüfung des Eröffnungsgrundes Paragraf 17 InsO (Zahlungsunfähigkeit): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Gerichtsfeste Prüfung des Eröffnungsgrundes § 17 InsO (Zahlungsunfähigkeit)

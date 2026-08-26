@@ -1,6 +1,6 @@
 ---
 name: prompt-code-ownership
-description: "Wenn es um Prompt und Code Ownership in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prompt und Code Ownership: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prompt und Code Ownership

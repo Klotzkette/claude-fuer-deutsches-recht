@@ -1,6 +1,6 @@
 ---
 name: nda-international-arbitration-spezial
-description: "Wenn es um NDA: International Arbitration in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NDA: International Arbitration: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # NDA: International Arbitration

@@ -1,6 +1,6 @@
 ---
 name: kita-satzung-zustaendigkeit-pruefen
-description: "Wenn es um Kita Satzung Zuständigkeit Prüfen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kita Satzung Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kommunalrecht der Länder. Route: kita-satzung-zustaendigkeit-pruefen."
 ---
 
 # Kita Satzung Zuständigkeit Prüfen

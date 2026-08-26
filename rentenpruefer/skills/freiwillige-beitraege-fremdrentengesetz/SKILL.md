@@ -1,6 +1,6 @@
 ---
 name: freiwillige-beitraege-fremdrentengesetz
-description: "Wenn es um freiwillige-beitraege-und-rentenoptimierung in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für freiwillige-beitraege-und-rentenoptimierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # freiwillige-beitraege-und-rentenoptimierung

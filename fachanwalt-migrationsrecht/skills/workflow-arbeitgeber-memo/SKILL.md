@@ -1,6 +1,6 @@
 ---
 name: workflow-arbeitgeber-memo
-description: "Wenn es um Arbeitgeber-Memo: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitgeber-Memo: Prüfungslinie für Migrationsrecht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Arbeitgeber-Memo: Prüfungslinie für Migrationsrecht

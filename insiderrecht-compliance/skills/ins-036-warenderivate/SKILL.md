@@ -1,6 +1,6 @@
 ---
 name: ins-036-warenderivate
-description: "Wenn es um Insiderrecht: Warenderivate in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insiderrecht: Warenderivate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Warenderivate

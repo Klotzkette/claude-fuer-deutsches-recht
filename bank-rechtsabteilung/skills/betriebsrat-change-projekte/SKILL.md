@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-change-projekte
-description: "Wenn es um Arbeitsrechtliche Bankprojekte in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Arbeitsrechtliche Bankprojekte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsrechtliche Bankprojekte

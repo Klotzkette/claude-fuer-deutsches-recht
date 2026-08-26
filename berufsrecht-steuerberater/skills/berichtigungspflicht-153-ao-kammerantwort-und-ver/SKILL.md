@@ -1,6 +1,6 @@
 ---
 name: berichtigungspflicht-153-ao-kammerantwort-und-ver
-description: "Wenn es um Berichtigungspflicht 153 Ao Kammerantwort Und Ver in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Berichtigungspflicht 153 AO Kammerantwort und Ver: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: berichtigungspflicht 153 ao - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

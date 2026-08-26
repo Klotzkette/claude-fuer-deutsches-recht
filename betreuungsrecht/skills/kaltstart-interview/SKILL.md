@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Wenn es um /betreuungsrecht:betreuungsrecht-kaltstart-interview in Betreuungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für /betreuungsrecht:betreuungsrecht-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /betreuungsrecht:betreuungsrecht-kaltstart-interview

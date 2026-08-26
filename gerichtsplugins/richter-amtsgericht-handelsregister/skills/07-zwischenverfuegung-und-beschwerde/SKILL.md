@@ -1,6 +1,6 @@
 ---
 name: 07-zwischenverfuegung-und-beschwerde
-description: "Wenn es um 07 Zwischenverfügung und Beschwerde in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 07 Zwischenverfügung und Beschwerde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 07 Zwischenverfügung und Beschwerde

@@ -1,6 +1,6 @@
 ---
 name: strompreisbremse-und-extras
-description: "Wenn es um Strompreisbremse und Folgen in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strompreisbremse und Folgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strompreisbremse und Folgen

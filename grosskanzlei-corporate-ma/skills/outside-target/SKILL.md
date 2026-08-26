@@ -1,6 +1,6 @@
 ---
 name: outside-target
-description: "Wenn es um Outside-in Target Screening in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Outside-in Target Screening: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A."
 ---
 
 # Outside-in Target Screening

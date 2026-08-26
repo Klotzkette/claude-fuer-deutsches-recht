@@ -1,6 +1,6 @@
 ---
 name: bau-honorar-hoai-grundzuege
-description: "Wenn es um HOAI in Grundzuegen: Leistungsbilder Paragraf 34 ff in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HOAI in Grundzügen: Leistungsbilder Paragraf 34 ff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI in Grundzuegen: Leistungsbilder § 34 ff

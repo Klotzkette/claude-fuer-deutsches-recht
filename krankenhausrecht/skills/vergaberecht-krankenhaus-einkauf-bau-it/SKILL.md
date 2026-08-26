@@ -1,6 +1,6 @@
 ---
 name: vergaberecht-krankenhaus-einkauf-bau-it
-description: "Wenn es um Vergaberecht Krankenhaus Einkauf Bau IT in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vergaberecht Krankenhaus Einkauf Bau IT: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vergaberecht Krankenhaus Einkauf Bau IT

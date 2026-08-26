@@ -1,6 +1,6 @@
 ---
 name: auslandsroute-kein-beschreibung-zeichnungen
-description: "Wenn es um Auslandsroute Kein Eu Gebrauchsmuster in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Auslandsroute Kein Eu Gebrauchsmuster: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auslandsroute Kein Eu Gebrauchsmuster

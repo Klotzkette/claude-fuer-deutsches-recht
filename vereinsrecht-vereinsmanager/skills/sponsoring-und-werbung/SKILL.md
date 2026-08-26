@@ -1,6 +1,6 @@
 ---
 name: sponsoring-und-werbung
-description: "Wenn es um Sponsoring und Werbung in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sponsoring und Werbung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sponsoring und Werbung

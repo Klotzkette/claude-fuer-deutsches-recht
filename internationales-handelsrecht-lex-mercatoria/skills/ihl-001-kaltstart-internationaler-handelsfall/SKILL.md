@@ -1,6 +1,6 @@
 ---
 name: ihl-001-kaltstart-internationaler-handelsfall
-description: "Wenn es um Kaltstart Internationaler Handelsfall in Internationales Handelsrecht und Lex Mercatoria geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart Internationaler Handelsfall: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kaltstart Internationaler Handelsfall

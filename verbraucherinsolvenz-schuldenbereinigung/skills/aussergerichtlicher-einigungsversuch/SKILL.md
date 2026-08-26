@@ -1,6 +1,6 @@
 ---
 name: aussergerichtlicher-einigungsversuch
-description: "Wenn es um Aussergerichtlicher Einigungsversuch in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aussergerichtlicher Einigungsversuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Außergerichtlicher Einigungsversuch: ernsthafter Plan, Zustellung an alle Gläubiger, Reaktionslog und Scheiternsbescheinigung.

@@ -1,6 +1,6 @@
 ---
 name: klausurloesungen-fehlerdiagnose-konsens
-description: "Wenn es um Klausurlösungen — Fehlerdiagnose und Verbesserung in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klausurlösungen — Fehlerdiagnose und Verbesserung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: klausurloesungen-fehlerdiagnose-konsens."
 ---
 
 # Klausurlösungen — Fehlerdiagnose und Verbesserung

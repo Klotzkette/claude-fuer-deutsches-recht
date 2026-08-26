@@ -1,6 +1,6 @@
 ---
 name: strassenreinigung-eilantrag-vorbereite
-description: "Wenn es um Strassenreinigung Eilantrag Vorbereite in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strassenreinigung Eilantrag Vorbereite: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Strassenreinigung Eilantrag Vorbereite

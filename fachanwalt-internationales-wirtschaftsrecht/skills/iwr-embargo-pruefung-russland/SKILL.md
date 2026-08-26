@@ -1,6 +1,6 @@
 ---
 name: iwr-embargo-pruefung-russland
-description: "Wenn es um Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014 in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014

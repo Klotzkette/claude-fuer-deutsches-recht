@@ -1,6 +1,6 @@
 ---
 name: laterale-partner-integration
-description: "Wenn es um Laterale Partner integrieren in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laterale Partner integrieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laterale Partner integrieren

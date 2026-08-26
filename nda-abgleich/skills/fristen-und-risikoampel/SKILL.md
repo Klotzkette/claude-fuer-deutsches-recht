@@ -1,6 +1,6 @@
 ---
 name: fristen-und-risikoampel
-description: "Wenn es um Fristen- und Risikoampel in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: NDA-Abgleich. Route: fristen-und-risikoampel."
 ---
 
 # Fristen- und Risikoampel

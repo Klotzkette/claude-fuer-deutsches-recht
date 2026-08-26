@@ -1,6 +1,6 @@
 ---
 name: 08-beschuldigtenvernehmung-und-belehrung
-description: "Wenn es um 08 Beschuldigtenvernehmung und Belehrung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 08 Beschuldigtenvernehmung und Belehrung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 08 Beschuldigtenvernehmung und Belehrung

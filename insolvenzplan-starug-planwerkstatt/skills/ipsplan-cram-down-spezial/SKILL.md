@@ -1,6 +1,6 @@
 ---
 name: ipsplan-cram-down-spezial
-description: "Wenn es um IPSPlan: Cram-Down in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für IPSPlan: Cram-Down: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IPSPlan: Cram-Down

@@ -1,6 +1,6 @@
 ---
 name: klage-zusammenstellen-komplettes-bundle-amtsgericht
-description: "Wenn es um Klage und Anlagen als komplettes Paket für das Amtsgericht in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klage und Anlagen als komplettes Paket für das Amtsgericht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klage und Anlagen als komplettes Paket für das Amtsgericht

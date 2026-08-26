@@ -1,6 +1,6 @@
 ---
 name: down-red-gestaltender-gruppen
-description: "Wenn es um Down: Red-Team und Qualitätskontrolle in Insolvenzplan- und StaRUG-Planwerkstatt geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Down: Red-Team und Qualitätskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Down: Red-Team und Qualitätskontrolle

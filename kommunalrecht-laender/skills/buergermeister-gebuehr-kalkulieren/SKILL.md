@@ -1,6 +1,6 @@
 ---
 name: buergermeister-gebuehr-kalkulieren
-description: "Wenn es um Buergermeister Gebuehr Kalkulieren in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgermeister Gebühr Kalkulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Buergermeister Gebuehr Kalkulieren

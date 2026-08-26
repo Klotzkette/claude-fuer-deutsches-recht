@@ -1,6 +1,6 @@
 ---
 name: see-036-schiffbauwerk-versicherung-melden
-description: "Wenn es um Schiffbauwerk Versicherung Melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiffbauwerk Versicherung Melden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiffbauwerk Versicherung Melden

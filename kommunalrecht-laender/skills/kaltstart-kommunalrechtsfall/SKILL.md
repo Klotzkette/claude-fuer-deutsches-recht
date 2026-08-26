@@ -1,6 +1,6 @@
 ---
 name: kaltstart-kommunalrechtsfall
-description: "Wenn es um Kaltstart Kommunalrechtsfall in Kommunalrecht der Länder geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart Kommunalrechtsfall: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart Kommunalrechtsfall

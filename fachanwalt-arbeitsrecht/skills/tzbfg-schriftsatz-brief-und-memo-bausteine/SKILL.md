@@ -1,6 +1,6 @@
 ---
 name: tzbfg-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Tzbfg Schriftsatz Brief Und Memo Bausteine in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tzbfg Schriftsatz Brief und Memo Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # TzBfG Schriftsatz-, Brief- und Memo-Bausteine: Klageschrift Entfristungsklage Paragraf 17 TzBfG, Klageantrag, Sachverhaltsaufbau, Beweisangebote, Mandantenbrief zur Befristungsbeendigung, Arbeitgeberantwortbrief, Vergleichsformel.
@@ -141,3 +141,7 @@ Nächster Schritt: [Klageschrift bis Datum / Mandantengespräch / Verhandlungsve
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige anwaltliche Klageschrift-Erstellung.
 - Keine Gewähr für Aktualität der Klageformulierungen bei Gesetzesänderungen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-tzbfg-schriftsatz-brief-und-memo-bausteine` beziehungsweise Tzbfg: Schriftsatz-, Brief- und Memo-Bausteine: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-tzbfg-schriftsatz-brief-und-memo-bausteine.md).

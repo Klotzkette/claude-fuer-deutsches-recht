@@ -1,6 +1,6 @@
 ---
 name: aml-verdachtsmeldung-fiu-leitfaden
-description: "Wenn es um AML: FIU-Verdachtsmeldung in Geldwäscheprävention, AML und KYC geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für AML: FIU-Verdachtsmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AML: FIU-Verdachtsmeldung

@@ -1,6 +1,6 @@
 ---
 name: ersitzung-und-verjaehrung-eigentum
-description: "Wenn es um Pralr Ersitzung Und Verjährung Eigentum in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pralr Ersitzung und Verjährung Eigentum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pralr Ersitzung Und Verjährung Eigentum

@@ -1,6 +1,6 @@
 ---
 name: beweisverwertungsverbote-pruefen
-description: "Wenn es um Beweisverwertungsverbote prüfen in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Beweisverwertungsverbote prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweisverwertungsverbote prüfen

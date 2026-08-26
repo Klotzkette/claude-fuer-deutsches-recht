@@ -1,6 +1,6 @@
 ---
 name: sanktionen-wphg
-description: "Wenn es um Sanktionen nach WpHG und MAR in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sanktionen nach WpHG und MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanktionen nach WpHG und MAR

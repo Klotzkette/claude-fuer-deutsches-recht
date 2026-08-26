@@ -1,6 +1,6 @@
 ---
 name: mediation-settlement-window
-description: "Wenn es um Mediation and Settlement Window in commercial-courts-deutschland geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Mediation and Settlement Window: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mediation and Settlement Window

@@ -1,6 +1,6 @@
 ---
 name: evidenz-qualitaet-bewertung
-description: "Wenn es um Evidenz-Qualitätsbewertung in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Evidenz-Qualitätsbewertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Evidenz-Qualitätsbewertung

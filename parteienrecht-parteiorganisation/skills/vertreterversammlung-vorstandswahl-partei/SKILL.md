@@ -1,6 +1,6 @@
 ---
 name: vertreterversammlung-vorstandswahl-partei
-description: "Wenn es um Vertreterversammlung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vertreterversammlung Vorstandswahl Partei; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Vertreterversammlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: vertreterversammlung-vorstandswahl-partei."
 ---
 
 # Vertreterversammlung

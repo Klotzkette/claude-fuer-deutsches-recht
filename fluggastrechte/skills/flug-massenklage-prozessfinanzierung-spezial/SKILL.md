@@ -1,6 +1,6 @@
 ---
 name: flug-massenklage-prozessfinanzierung-spezial
-description: "Wenn es um Flug: Massenklage RDG in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Flug Massenklage Prozessfinanzierung Spezial; Arbeitsfeld: Fluggastrechte."
+description: "Für Flug: Massenklage RDG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Fluggastrechte. Route: flug-massenklage-prozessfinanzierung-spezial."
 ---
 
 # Flug: Massenklage RDG

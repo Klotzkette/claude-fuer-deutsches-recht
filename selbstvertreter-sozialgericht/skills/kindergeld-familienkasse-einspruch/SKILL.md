@@ -1,6 +1,6 @@
 ---
 name: kindergeld-familienkasse-einspruch
-description: "Wenn es um Kindergeld Familienkasse Einspruch in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kindergeld Familienkasse Einspruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kindergeld Familienkasse Einspruch

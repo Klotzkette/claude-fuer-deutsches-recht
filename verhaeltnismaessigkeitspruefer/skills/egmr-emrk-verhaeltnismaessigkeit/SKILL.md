@@ -1,6 +1,6 @@
 ---
 name: egmr-emrk-verhaeltnismaessigkeit
-description: "Wenn es um EGMR EMRK Verhältnismäßigkeit in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für EGMR EMRK Verhältnismäßigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EGMR EMRK Verhältnismäßigkeit

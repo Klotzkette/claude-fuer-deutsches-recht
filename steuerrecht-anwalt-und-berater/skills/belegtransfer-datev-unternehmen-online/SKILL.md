@@ -1,6 +1,6 @@
 ---
 name: belegtransfer-datev-unternehmen-online
-description: "Wenn es um Belegtransfer über DATEV Unternehmen Online in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Belegtransfer über DATEV Unternehmen Online: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: belegtransfer-datev-unternehmen-online."
 ---
 
 # Belegtransfer über DATEV Unternehmen Online

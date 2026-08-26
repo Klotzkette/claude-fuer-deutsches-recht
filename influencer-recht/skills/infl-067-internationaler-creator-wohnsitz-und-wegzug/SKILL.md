@@ -1,6 +1,6 @@
 ---
 name: infl-067-internationaler-creator-wohnsitz-und-wegzug
-description: "Wenn es um Influencer-Recht: Internationaler Creator Wohnsitz und Wegzug in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Internationaler Creator Wohnsitz und Wegzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Influencer-Recht: Internationaler Creator Wohnsitz und Wegzug

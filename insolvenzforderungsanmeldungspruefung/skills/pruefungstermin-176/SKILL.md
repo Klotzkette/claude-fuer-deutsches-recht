@@ -1,6 +1,6 @@
 ---
 name: pruefungstermin-176
-description: "Wenn es um Prüfungstermin vorbereiten in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungstermin vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfungstermin vorbereiten

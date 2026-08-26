@@ -1,6 +1,6 @@
 ---
 name: schleswig-holstein-spezial-luebeck-haithabu-wattenmeer
-description: "Wenn es um Luebeck, Haithabu-Danewerk und Wattenmeer als UNESCO-Welterbe in Schleswig-Holstein in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Lübeck, Haithabu-Danewerk und Wattenmeer als UNESCO-Welterbe in Schleswig-Holstein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Luebeck, Haithabu-Danewerk und Wattenmeer als UNESCO-Welterbe in Schleswig-Holstein

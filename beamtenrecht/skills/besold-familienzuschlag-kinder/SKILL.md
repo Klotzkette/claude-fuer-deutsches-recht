@@ -1,6 +1,6 @@
 ---
 name: besold-familienzuschlag-kinder
-description: "Wenn es um Besold Familienzuschlag Kinder Ehe Lebenspartnerschaft in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besold Familienzuschlag Kinder Ehe Lebenspartnerschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besold Familienzuschlag Kinder Ehe Lebenspartnerschaft

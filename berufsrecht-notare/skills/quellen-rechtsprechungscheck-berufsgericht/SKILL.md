@@ -1,6 +1,6 @@
 ---
 name: quellen-rechtsprechungscheck-berufsgericht
-description: "Wenn es um Quellen- und Rechtsprechungscheck in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Quellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Notare."
 ---
 
 # Quellen- und Rechtsprechungscheck

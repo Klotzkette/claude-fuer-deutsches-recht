@@ -1,6 +1,6 @@
 ---
 name: wasserentnahme-beteiligung-einwendung
-description: "Wenn es um Wasserentnahme Beteiligung Prüfen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Wasserentnahme Beteiligung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Umweltschutzverband Verbandsklage. Route: wasserentnahme-beteiligung-einwendung."
 ---
 
 # Wasserentnahme Beteiligung Prüfen

@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-betriebsrat-und-managementwechsel
-description: "Wenn es um Arbeitsrecht, Betriebsrat und Managementwechsel in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsrecht, Betriebsrat und Managementwechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsrecht, Betriebsrat und Managementwechsel

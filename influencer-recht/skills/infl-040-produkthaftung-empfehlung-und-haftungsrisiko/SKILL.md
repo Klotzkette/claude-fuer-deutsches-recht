@@ -1,6 +1,6 @@
 ---
 name: infl-040-produkthaftung-empfehlung-und-haftungsrisiko
-description: "Wenn es um Influencer-Recht: Produkthaftung Empfehlung und Haftungsrisiko in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Produkthaftung Empfehlung und Haftungsrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Produkthaftung Empfehlung und Haftungsrisiko

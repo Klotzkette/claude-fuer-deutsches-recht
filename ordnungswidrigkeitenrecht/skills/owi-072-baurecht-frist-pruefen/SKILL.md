@@ -1,6 +1,6 @@
 ---
 name: owi-072-baurecht-frist-pruefen
-description: "Wenn es um Baurecht Frist Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Baurecht Frist Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Ordnungswidrigkeitenrecht. Route: owi-072-baurecht-frist-pruefen."
 ---
 
 # Baurecht Frist Pruefen

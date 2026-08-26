@@ -1,6 +1,6 @@
 ---
 name: norm-historie-und-aenderungen
-description: "Wenn es um Norm-Historie und Änderungen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Norm-Historie und Änderungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Norm-Historie und Änderungen

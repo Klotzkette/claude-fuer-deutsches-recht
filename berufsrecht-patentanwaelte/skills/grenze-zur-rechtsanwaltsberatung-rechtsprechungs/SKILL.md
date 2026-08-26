@@ -1,6 +1,6 @@
 ---
 name: grenze-zur-rechtsanwaltsberatung-rechtsprechungs
-description: "Wenn es um Grenze Zur Rechtsanwaltsberatung Rechtsprechungs in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Grenze zur Rechtsanwaltsberatung Rechtsprechungs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: grenze zur rechtsanwaltsberatung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

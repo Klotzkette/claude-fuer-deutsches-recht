@@ -1,6 +1,6 @@
 ---
 name: versteigerungsteilnahme
-description: "Wenn es um Teilnahme am Versteigerungstermin in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Teilnahme am Versteigerungstermin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Teilnahme am Versteigerungstermin

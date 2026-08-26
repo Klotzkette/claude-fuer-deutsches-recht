@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-gesellschaftsrecht
-description: "Wenn es um Mandat-Triage Gesellschaftsrecht in Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandat-Triage Gesellschaftsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandat-Triage Gesellschaftsrecht

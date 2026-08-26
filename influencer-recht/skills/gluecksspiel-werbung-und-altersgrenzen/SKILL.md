@@ -1,6 +1,6 @@
 ---
 name: gluecksspiel-werbung-und-altersgrenzen
-description: "Wenn es um Influencer-Recht: Glücksspiel-Werbung und Altersgrenzen in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Glücksspiel-Werbung und Altersgrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Glücksspiel-Werbung und Altersgrenzen

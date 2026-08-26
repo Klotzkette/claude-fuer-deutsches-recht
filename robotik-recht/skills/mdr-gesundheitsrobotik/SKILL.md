@@ -1,6 +1,6 @@
 ---
 name: mdr-gesundheitsrobotik
-description: "Wenn es um MDR und Gesundheitsrobotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für MDR und Gesundheitsrobotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: mdr-gesundheitsrobotik."
 ---
 
 # MDR und Gesundheitsrobotik

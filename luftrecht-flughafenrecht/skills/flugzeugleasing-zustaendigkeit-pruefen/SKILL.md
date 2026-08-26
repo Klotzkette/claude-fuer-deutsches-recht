@@ -1,6 +1,6 @@
 ---
 name: flugzeugleasing-zustaendigkeit-pruefen
-description: "Wenn es um Flugzeugleasing – Zuständigkeit prüfen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Flugzeugleasing – Zuständigkeit prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Flugzeugleasing – Zuständigkeit prüfen

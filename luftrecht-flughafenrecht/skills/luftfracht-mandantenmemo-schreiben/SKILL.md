@@ -1,6 +1,6 @@
 ---
 name: luftfracht-mandantenmemo-schreiben
-description: "Wenn es um Luftfracht – Mandantenmemo schreiben in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Luftfracht – Mandantenmemo schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Luftfracht – Mandantenmemo schreiben

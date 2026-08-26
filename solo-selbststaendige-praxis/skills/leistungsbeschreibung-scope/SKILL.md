@@ -1,6 +1,6 @@
 ---
 name: leistungsbeschreibung-scope
-description: "Wenn es um Verträge und AGB: Schärft leistungsumfang in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verträge und AGB: Schärft leistungsumfang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verträge und AGB: Schärft leistungsumfang

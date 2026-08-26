@@ -2,20 +2,25 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 63 Skills des Plugins `subsumtions-pruefer`.
+Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `subsumtions-pruefer`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Subsumtions Prüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächs…
-3. **spezial-interaktiver-erstpruefung-und-mandatsziel** — Wenn es um Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist…
-4. **interaktiver-erstpruefung-und-mandatsziel** — Wenn es um Interaktiv: Erstprüfung, Rollenklärung und Mandatsziel in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, …
-5. **waehlen-rechtsprechung-recherche-europarecht** — Wenn es um Rechtsprechung, Recherche und Europarechtsbezug wählen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, …
-6. **einschlaegige-normen-vorschlagen-de** — Wenn es um Einschlägige Normen vorschlagen — Deutsches Recht in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Bewei…
-7. **eu-abgrenzung-einschlaegige-normen** — Wenn es um Deutsches Recht und Unionsrecht — Abgrenzung in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast…
-8. **eu-vorabentscheidung-falsche-wiese** — Wenn es um EU-Vorabentscheidung prüfen (Art. 267 AEUV) in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast,…
-9. **spezial-schritt-schriftsatz-brief-und-memo-bausteine** — Wenn es um Schritt: Schriftsatz-, Brief- und Memo-Bausteine in Subsumtions-Prüfer geht: erstellt den passenden Entwurf a…
-10. **subsumtion-obersatz-rewrite-klausurton-triage** — Wenn es um Subsumtion: Obersatz – Definition – Untersatz – Ergebnis in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **interaktiver-erstpruefung-und-mandatsziel** — Für Interaktiv: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: T…
+4. **rechtsberatung-internationaler-bezug-und-schnittstellen** — Für Rechtsberatung: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schni…
+5. **waehlen-rechtsprechung-recherche-europarecht** — Für Rechtsprechung, Recherche und Europarechtsbezug wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnitt…
+6. **einschlaegige-normen-vorschlagen-eu** — Für Einschlägige Normen vorschlagen — Unionsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenka…
+7. **eu-abgrenzung-einschlaegige-normen** — Für Deutsches Recht und Unionsrecht — Abgrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkar…
+8. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+9. **eu-vorabentscheidung-falsche-wiese** — Für EU-Vorabentscheidung prüfen (Art. 267 AEUV): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkart…
+10. **tatbestandsmerkmale-vier-zerlegen** — Für Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Erg…
+11. **rechtsfolgen-zahlen-schwellen-und-berechnung** — Für Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungs…
+12. **subsumtion-obersatz-rewrite-klausurton-triage** — Für Subsumtion: Obersatz – Definition – Untersatz – Ergebnis: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis:…
+13. **mandatsabbruch-empfehlung-beweisbedarf** — Für Mandatsabbruch-Empfehlung: Weiterleitung an Fachanwalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweisl…
+14. **spezial-pruefen-mehrparteien-konflikt-und-interessen** — Für Prüfen: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt …
+15. **output-antrag-beschwerde-klageschrift** — Für Output: Antrag, Beschwerde, Klageschrift: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit…
 
 ---
 
@@ -142,7 +147,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Subsumtions-Prüfer._
 
 # Einstieg und Routing
 
@@ -184,67 +189,9 @@ Dieser Einstieg routet **Subsumtions Prüfer** vom ersten Sachverhalt zu Rollen,
 
 ---
 
-## Skill: `spezial-interaktiver-erstpruefung-und-mandatsziel`
-
-_Wenn es um Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel
-
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `subsumtions-pruefer`. Ausgangspunkt ist: Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.
-
-Er führt durch **Erstprüfung, Rollenklärung und Mandatsziel** im Themenfeld **Interaktiver**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Interaktiver.
-- **Arbeitsfokus:** Erstprüfung, Rollenklärung und Mandatsziel.
-- **Plugin-Rahmen:** Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einr....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Interaktiver** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
----
-
 ## Skill: `interaktiver-erstpruefung-und-mandatsziel`
 
-_Wenn es um Interaktiv: Erstprüfung, Rollenklärung und Mandatsziel in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Interaktiv: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Interaktiv: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -361,11 +308,105 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen und begründen.
 
+## Vertiefung bei Bedarf
+
+- Bei `spezial-interaktiver-erstpruefung-und-mandatsziel` beziehungsweise Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel: [die zusätzliche Vertiefung laden](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/subsumtions-pruefer/skills/interaktiver-erstpruefung-und-mandatsziel/references/vertiefung-spezial-interaktiver-erstpruefung-und-mandatsziel.md).
+
+---
+
+## Skill: `rechtsberatung-internationaler-bezug-und-schnittstellen`
+
+_Für Rechtsberatung: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Rechtsberatung: Internationaler Bezug und Schnittstellen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Abgrenzung: Welches Recht gilt?
+
+### Kollisionsrecht — Schritt für Schritt
+
+**Schritt 1 — EU-Kollisionsrecht prüfen (Vorrang vor EGBGB)**
+
+| Sachverhalt | Anwendbares Kollisionsrecht |
+|---|---|
+| Vertragliche Schuldverhältnisse | Rom I-VO (VO 593/2008) |
+| Außervertragliche Schuldverhältnisse (Delikt, Bereicherung) | Rom II-VO (VO 864/2007) |
+| Unterhalt | EuUntVO (VO 4/2009) |
+| Erbrecht | EuErbVO (VO 650/2012) |
+| Ehegüterrecht | EuGüVO (VO 2016/1103) |
+| Insolvenz | EuInsVO (VO 2015/848) |
+
+**Schritt 2 — EGBGB subsidiär**
+
+Wenn kein EU-Kollisionsrecht greift: EGBGB (Art. 3 ff.) für Personen- und Familienrecht, Sachenrecht, ggf. Deliktsrecht außerhalb Rom II-VO.
+
+### Anwendbares Recht nach Rom I-VO (Verträge)
+
+- Freie Rechtswahl (Art. 3 Rom I-VO): Parteien können anwendbares Recht wählen; Grenzen: zwingendes Recht des Aufenthaltsstaates (Art. 6 Rom I-VO für Verbraucher)
+- Ohne Rechtswahl (Art. 4 Rom I-VO): Recht des charakteristischen Leistungserbringers (z. B. Verkäufer, Dienstleister)
+- Verbraucherverträge (Art. 6 Rom I-VO): Recht des gewöhnlichen Aufenthalts des Verbrauchers; zwingende Mindeststandards
+
+## Internationale Zuständigkeit
+
+### EuGVVO (VO 1215/2012) — innerhalb EU/EWR
+
+- Allgemeiner Gerichtsstand: Wohnsitz des Beklagten (Art. 4)
+- Besonderer Gerichtsstand Vertragserfüllung (Art. 7 Nr. 1): Erfüllungsort
+- Verbraucherschutz (Art. 17–19): Verbraucher klagt am Wohnsitz
+- Ausschließliche Zuständigkeit (Art. 24): Grundstücke, Gesellschaften, Register
+
+### Drittstaaten (außerhalb EU)
+
+- Brüssel I nicht anwendbar; nationale ZPO-Regeln (§§ 12 ff. ZPO) oder Staatsverträge
+- Haager Übereinkommensrecht: HZÜ, HGÜ (Gerichtsstandsübereinkommen von 2005)
+- Schiedsgerichtsbarkeit: New Yorker Übereinkommen 1958 (Vollstreckung ausländischer Schiedssprüche)
+
+## Anerkennung und Vollstreckung ausländischer Urteile
+
+### Innerhalb EU: EuGVVO
+- Art. 36 ff. EuGVVO: Automatische Anerkennung; keine gesonderte Anerkennung nötig
+- Art. 39 ff. EuGVVO: Vollstreckbarerklärung nach nationalem Recht
+
+### Außerhalb EU
+- §§ 328, 722, 723 ZPO: Anerkennung ausländischer Urteile; Verbürgung der Gegenseitigkeit; Ordre-public-Kontrolle
+- Vollstreckungsklage (§ 722 ZPO) vor deutschem Gericht
+
+## DSGVO-Schnittstellen (international)
+
+- Art. 3 DSGVO: Anwendungsbereich bei Niederlassung in der EU oder Angebot/Monitoring von EU-Bürgern
+- Art. 44 ff. DSGVO: Drittstaatenübermittlung; Angemessenheitsbeschluss, SCC (Standardvertragsklauseln)
+- Live-Check: Aktuellen Angemessenheitsbeschluss für das Zielland prüfen (edpb.europa.eu; datenschutz.de)
+
+## Einstieg
+
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Staatsangehörigkeiten, Wohnsitze oder Niederlassungen der Parteien sind beteiligt?
+2. Wo wurde der Vertrag abgeschlossen? Wo soll Leistung erbracht werden?
+3. Gibt es eine Rechtswahlklausel oder Schiedsklausel?
+4. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein oder Mandantenbrief?
+
+## Arbeitsworkflow
+
+1. **Fallbild bilden:** Parteien, Staatsangehörigkeiten, Wohnsitze, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Kollisionsrecht, Zuständigkeit, Fristen, Formfragen prüfen.
+3. **Prüfpunkte abarbeiten:** Anwendbares Recht, Gerichtsstand, Vollstreckung, Drittstaatenproblematik trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und Alternativwegen.
+5. **Anschluss bauen:** Passende weitere Skills vorschlagen (z. B. eu-vorabentscheidung-falsche-wiese, spezial-europarecht-fristen-form-und-zuständigkeit).
+
 ---
 
 ## Skill: `waehlen-rechtsprechung-recherche-europarecht`
 
-_Wenn es um Rechtsprechung, Recherche und Europarechtsbezug wählen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Rechtsprechung, Recherche und Europarechtsbezug wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Rechtsprechung, Recherche und Europarechtsbezug wählen
 
@@ -387,11 +428,11 @@ Gib eine Recherchekarte aus: Norm, Streitfrage, benötigte Entscheidungsebene, S
 
 ---
 
-## Skill: `einschlaegige-normen-vorschlagen-de`
+## Skill: `einschlaegige-normen-vorschlagen-eu`
 
-_Wenn es um Einschlägige Normen vorschlagen — Deutsches Recht in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Einschlägige Normen vorschlagen — Unionsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Einschlägige Normen vorschlagen — Deutsches Recht
+# Einschlägige Normen vorschlagen — Unionsrecht
 
 ## Arbeitsweg
 
@@ -401,86 +442,93 @@ _Wenn es um Einschlägige Normen vorschlagen — Deutsches Recht in Subsumtions-
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Triage zu Beginn — kläre vor der Normauswahl
+## Triage zu Beginn
 
-1. Wer will was von wem woraus? (klassische Vier-Fragen-Methode)
-2. Handelt es sich um einen privatrechtlichen, öffentlich-rechtlichen oder strafrechtlichen Sachverhalt?
-3. Besteht eine vertragliche Beziehung zwischen den Beteiligten?
-4. Hat der Sachverhalt einen grenzüberschreitenden Bezug? → IPR prüfen (Rom I/Rom II VO)
-5. Sind schutzgesetzliche Spezialregelungen denkbar (ProdHG, StVG, HaftPflG, WpHG)?
+1. Ist der Sachverhalt grenzüberschreitend oder EU-reguliert?
+2. Handelt es sich um eine Beziehung Bürger–Staat (vertikale Konstellation) oder Bürger–Bürger (horizontal)?
+3. Ist eine bestimmte Grundfreiheit oder ein Grundrecht der GRCh berührt?
+4. Ist bereits ein nationales Umsetzungsgesetz einschlägig?
+5. Liegt die fragliche Entscheidung nach dem Wissensstand des Systems? → Live-Check bei curia.europa.eu empfehlen
 
-## Zentrale Paragrafenkette je Rechtsgebiet
+## Primärrecht — AEUV, EUV, GRCh
 
-- Vertragsrecht: §§ 433 ff., 535 ff., 611 ff., 631 ff. BGB — Spezialvorrang vor §§ 280 ff. BGB
-- Delikt/Schadensersatz: § 823 Abs. 1 BGB (Verletzung absoluter Rechte), § 823 Abs. 2 i.V.m. Schutzgesetz, § 826 BGB, § 831 BGB
-- Bereicherungsrecht: §§ 812 ff. BGB — subsidiär zu Vertrag
-- Strafrecht: §§ 263, 266, 303, 223, 242, 249 StGB — Strafantrag bei Antragsdelikten (§ 77 StGB, 3 Monate)
-- Verwaltungsrecht: § 35 VwVfG (VA-Definition), § 42 VwGO (Anfechtungs-/Verpflichtungsklage)
+### Grundfreiheiten (AEUV)
 
-## Schritt-für-Schritt-Vorgehen
+| Grundfreiheit | Primärnormen | Typische Sachverhalte |
+|--------------|-------------|----------------------|
+| Warenverkehrsfreiheit | Art. 34–36 AEUV | Einfuhrverbote, technische Normen, Kennzeichnungspflichten |
+| Arbeitnehmerfreizügigkeit | Art. 45–48 AEUV | Diskriminierung bei Einstellung/Lohn, Sozialleistungen |
+| Niederlassungsfreiheit | Art. 49–55 AEUV | Zulassungsbeschränkungen für Berufe, Gesellschaftssitz |
+| Dienstleistungsfreiheit | Art. 56–62 AEUV | Grenzüberschreitende Dienstleistungen, Entsendung |
+| Kapital- und Zahlungsverkehrsfreiheit | Art. 63–66 AEUV | Kapitalverkehrskontrollen, Dividendenbesteuerung |
 
-**Schritt 1 — Sachverhalts-Kategorisierung**
+### Wettbewerbsrecht (AEUV)
 
-Das System kategorisiert den Sachverhalt nach Rechtsgebiet:
+| Bereich | Normen |
+|---------|--------|
+| Kartellverbot | Art. 101 AEUV |
+| Marktmachtmissbrauch | Art. 102 AEUV |
+| Beihilfenverbot | Art. 107–109 AEUV |
 
-| Kategorie | Typische Normen |
-|-----------|----------------|
-| Vertragsrecht | §§ 433 ff. BGB (Kauf); §§ 611 ff. BGB (Dienst/Arbeitsvertrag); §§ 631 ff. BGB (Werkvertrag); §§ 535 ff. BGB (Miete) |
-| Deliktsrecht | § 823 Abs. 1 BGB; § 823 Abs. 2 BGB i.V.m. Schutzgesetz; § 826 BGB; § 831 BGB |
-| Bereicherungsrecht | §§ 812 ff. BGB — Leistungskondiktion, Nichtleistungskondiktion |
-| Sachenrecht | Normtext, bereitgestellte Materialien, verifizierte Rechtsprechung |
-| Strafrecht | § 263 StGB (Betrug); § 303 StGB (Sachbeschädigung); § 223 StGB (Körperverletzung); § 242 StGB (Diebstahl); § 266 StGB (Untreue) |
-| Arbeitsrecht | KSchG; § 623 BGB (Schriftform Kündigung); ArbGG; MuSchG; AGG |
-| Verwaltungsrecht | Normtext, amtliche Materialien, verifizierte Rechtsprechung |
-| Sozialrecht | SGB I-XII; § 44 SGB X (Rücknahme); § 45 SGB X (Aufhebung) |
-| Steuerrecht | § 38 AO (Entstehung der Steuerschuld); §§ 172 ff. AO (Bestandskraft) |
-| Erbrecht | §§ 1922 ff. BGB; §§ 2303 ff. BGB (Pflichtteil) |
-| Familienrecht | §§ 1353 ff. BGB; §§ 1601 ff. BGB (Unterhalt); §§ 1564 ff. BGB (Scheidung) |
+### Grundrechtecharta (GRCh)
 
-**Schritt 2 — Normvorschlag mit Prüfungshinweis**
+Anwendbar bei Durchführung von Unionsrecht durch Mitgliedstaaten (Art. 51 Abs. 1 GRCh). Einschlägige Artikel: Art. 7 (Privatleben), Art. 8 (Datenschutz), Art. 11 (Meinungsfreiheit), Art. 15 (Berufsfreiheit), Art. 17 (Eigentum), Art. 21 (Gleichbehandlung), Art. 47 (effektiver Rechtsschutz), Art. 48 (Unschuldsvermutung).
+
+## Sekundärrecht — Wichtige Verordnungen und Richtlinien
+
+| Bereich | Rechtsakt | Fundstelle |
+|---------|-----------|------------|
+| Datenschutz | DSGVO (VO 2016/679) | eur-lex.europa.eu |
+| Produkthaftung | RL 85/374/EWG; ab 2024: RL 2024/2853 | eur-lex.europa.eu |
+| Verbraucherrecht | VRRL (RL 2011/83/EU); Klausel-RL (RL 93/13/EWG) | eur-lex.europa.eu |
+| KI-Regulierung | KI-VO (VO 2024/1689) | eur-lex.europa.eu |
+| Vergaberecht | RL 2014/24/EU; RL 2014/25/EU | eur-lex.europa.eu |
+| Kartell | VO 1/2003; VO 330/2010 (Vertikal-GVO) | eur-lex.europa.eu |
+| Finanzmarkt | MiFID II; CRR/CRD IV | eur-lex.europa.eu |
+
+## EuGH-Judikatur — Fundstellen
+
+Das System verweist auf Leitentscheidungen des EuGH, die für die vorgeschlagene Norm relevant sind:
+- **curia.europa.eu** (amtliche Datenbank, Volltext, suchbar nach Rechtssache und Aktenzeichen)
+- **eur-lex.europa.eu** (Rechtsakttexte, konsolidierte Fassungen)
+
+**Wichtig:** Für aktuelle Entscheidungen ist eine manuelle Suche in curia.europa.eu erforderlich, da der Wissensstand des Systems ein festes Enddatum hat. Das System markiert Entscheidungen, die nach dem Wissensstand unsicher sind, als Prüfpunkte.
+
+## Prüfung der unmittelbaren Wirkung
+
+| Rechtssatz | Unmittelbare Wirkung? | Bedingungen |
+|---|---|---|
+| EU-Verordnung | Ja (Art. 288 Abs. 2 AEUV) | Kein Umsetzungsakt nötig |
+| Richtlinie (Umsetzungsfrist abgelaufen) | Vertikal ja (Bürger gg. Staat) | Norm muss unbedingt und hinreichend bestimmt sein |
+| Richtlinie (horizontal) | Nein (Grundsatz) | Nur richtlinienkonforme Auslegung; Ausnahme: Francovich-Haftung |
+| Primärrecht (Grundfreiheiten) | Ja (vertikal und horizontal für Verbotsnormen) | EuGH ständige Rechtsprechung |
+
+## Ausgabe
 
 Das System nennt:
-1. Primäre Anspruchsgrundlage (wahrscheinlichste Norm)
-2. Konkurrierende Normen (Anspruchskonkurrenz oder -idealkonkurrenz)
-3. Ausschlussnormen (Spezialität: z.B. Kaufgewährleistung § 437 BGB geht § 823 BGB vor, wenn nur Äquivalenzinteresse betroffen)
-4. Vorfragen (z.B. Wirksamkeit des Vertrags, Geschäftsfähigkeit)
-
-**Schritt 3 — Entscheidungsbaum Normwahl**
-
-```
-Besteht ein Vertrag?
-├─ Ja → Vertragsrecht primär prüfen (§§ 280 ff. / spezifische Vertragstypen)
-│ → Deliktshaftung parallel prüfen bei Rechtsgutsverletzung
-└─ Nein → Delikt (§ 823 ff.) / Bereicherungsrecht (§ 812 ff.) / öffentl. Recht
- └─ Schutzgesetz i.S.d. § 823 Abs. 2 BGB? → Verletzter als Schutzzweck?
-```
-
-**Schritt 4 — Hinweis auf Rechtsprechung**
-
-Das System weist darauf hin, dass für die Auslegung der vorgeschlagenen Normen aktuelle Rechtsprechung zu prüfen ist (BGH, BAG, BVerwG, BSG, BFH je nach Rechtsgebiet). Für aktuelle Entscheidungen: dejure.org, openjur.de, bundesgerichtshof.de, rechtsprechung-im-internet.de.
-
-**Schritt 5 — Normwahl durch Nutzer bestätigen**
-
-Das System listet Vorschläge auf und bittet den Nutzer, die zu prüfende Norm zu bestätigen oder eine andere Norm anzugeben. Erst nach Bestätigung wird die Norm in `norm-zerlegen-mandantenbrief` übergeben.
-
-## Grenzen
-
-Das System weist ausdrücklich darauf hin, dass:
-- Gesetzesänderungen nach dem Wissensstand nicht erfasst sind
-- Landesrecht (z.B. Landesbauordnungen, kommunales Satzungsrecht) nur eingeschränkt vorgeschlagen werden kann
-- Sondergesetze (z.B. EnWG, TKG, AMG, LFGB) nur grob kategorisiert werden
+1. Einschlägige Primär- oder Sekundärrechtsnorm mit Artikelangabe
+2. Unmittelbare Wirkung (Verordnung: ja; Richtlinie: nur bei staatlichem Handeln nach Ablauf der Umsetzungsfrist)
+3. Anwendungsvorrang gegenüber nationalem Recht
+4. Leitentscheidung des EuGH (als Prüfpunkt markiert; live zu prüfen unter curia.europa.eu)
+5. Empfehlung zur Rechtsprechungsrecherche
 
 ---
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen.
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Skill: `eu-abgrenzung-einschlaegige-normen`
 
-_Wenn es um Deutsches Recht und Unionsrecht — Abgrenzung in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Deutsches Recht und Unionsrecht — Abgrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Deutsches Recht und Unionsrecht — Abgrenzung
 
@@ -561,9 +609,54 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ---
 
+## Skill: `workflow-kaltstart-und-routing`
+
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Subsumtions-Prüfer._
+
+# Kaltstart und Routing
+
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Subsumtion — Wenn-Dann-Logik
+- **Vier-Schritt-Schema:** Obersatz (Norm), Definition (Auslegung des Tatbestandsmerkmals), Subsumtion (konkreter Sachverhalt unter Definition), Ergebnis.
+- **Obersatz:** "Anspruchsteller könnte gegen Anspruchsgegner einen Anspruch auf X aus § Y BGB haben." Nicht "hat", solange noch zu prüfen.
+- **Definition vor Subsumtion:** Jedes streitige Merkmal mit Definition aus Rspr./Lit. unterlegen — nicht aus dem Bauch heraus interpretieren.
+- **Subsumtion = konkrete Tatsachen unter abstrakte Definition:** "Hier liegt eine Sache iSd § 90 BGB vor, weil der körperliche Gegenstand X körperlich abgrenzbar ist."
+- **Zwischen- und Gesamtergebnis:** Jedes Tatbestandsmerkmal mit Zwischenergebnis abschließen; am Ende Gesamtergebnis zur Norm.
+- Falle: Zirkelschluss "weil X vorliegt, liegt X vor" — die Definition muss aus einer Quelle (BGH-Linie, Norm, hM) gespeist sein, nicht aus dem zu prüfenden Sachverhalt selbst.
+
+---
+
 ## Skill: `eu-vorabentscheidung-falsche-wiese`
 
-_Wenn es um EU-Vorabentscheidung prüfen (Art. 267 AEUV) in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für EU-Vorabentscheidung prüfen (Art. 267 AEUV): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # EU-Vorabentscheidung prüfen (Art. 267 AEUV)
 
@@ -664,67 +757,182 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ---
 
-## Skill: `spezial-schritt-schriftsatz-brief-und-memo-bausteine`
+## Skill: `tatbestandsmerkmale-vier-zerlegen`
 
-_Wenn es um Schritt: Schriftsatz-, Brief- und Memo-Bausteine in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
-# Schritt: Schriftsatz-, Brief- und Memo-Bausteine
+# Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `subsumtions-pruefer`. Ausgangspunkt ist: Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.
+## Arbeitsweg
 
-Er führt durch **Schriftsatz-, Brief- und Memo-Bausteine** im Themenfeld **Schritt**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
+## Warum Dokumentenmatrix?
 
-## Fachlicher Zuschnitt
+Ohne strukturierte Beleglage-Übersicht:
+- Fehlen Beweise für entscheidende Tatbestandsmerkmale (Klagerisiko)
+- Sind Schriftsätze angreifbar wegen Pauschalbehauptungen
+- Wird Beweislast falsch eingeschätzt
+- Verzögert sich die Fallbearbeitung durch ungeordnetes Nachfragen
 
-- **Thema:** Schritt.
-- **Arbeitsfokus:** Schriftsatz-, Brief- und Memo-Bausteine.
-- **Plugin-Rahmen:** Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einr....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Schritt 1 — Tatbestandsmerkmale identifizieren
 
-## Kaltstart
+Alle TBM der Anspruchsgrundlage auflisten:
+
+Beispiel § 280 Abs. 1 BGB (Schadensersatz wegen Pflichtverletzung):
+1. Schuldverhältnis (Vertrag, gesetzliches Schuldverhältnis)
+2. Pflicht aus dem Schuldverhältnis
+3. Pflichtverletzung (Handlung oder Unterlassen)
+4. Vertretenmüssen (§ 276 BGB; Vermutung!)
+5. Schaden (materiell; immateriell § 253 Abs. 2 BGB)
+6. Kausalität (haftungsbegründend: Pflichtverletzung → Schaden; haftungsausfüllend: Schaden → Schadenshöhe)
+
+## Schritt 2 — Dokumentenmatrix erstellen
+
+| Nr. | Tatbestandsmerkmal | Norm | Vorhanden? | Dokument / Beleg | Fundstelle (Anlage) | Lücke |
+|---|---|---|---|---|---|---|
+| 1 | Schuldverhältnis | § 433 BGB (Kauf) | Ja | Kaufvertrag v. TT.MM | Anlage K1 | — |
+| 2 | Pflichtverletzung | § 433 Abs. 1 BGB | Streitig | Lieferschein; Mängelrüge | Anlage K2, K3 | Mängelprotokoll fehlt |
+| 3 | Vertretenmüssen | § 276 BGB | Vermutet | — | — | Entlastungsbeweis Beklagter |
+| 4 | Schaden | § 249 BGB | Teils | Kostenvoranschlag | Anlage K4 | Abrechnung ausstehend |
+| 5 | Kausalität | § 286 ZPO | Offen | — | — | Sachverständigengutachten nötig? |
+
+## Schritt 3 — Lückenliste priorisieren
+
+Prioritäten:
+- **Rot (kritisch):** Fehlendes Beweismittel für TBM, das Kläger beweisen muss; ohne Beleg kein Anspruch
+- **Gelb (wichtig):** Streitiges TBM mit schwachem Beleg; Beweisrisiko mittel
+- **Grün (gesichert):** TBM belegt oder nicht streitig (§ 138 Abs. 3 ZPO: Zugeständnis durch Nichtbestreiten)
+
+## Schritt 4 — Nachforderung formulieren
+
+Muster-Nachforderungsschreiben an Mandanten:
+
+```
+Betreff: Fehlende Unterlagen für Ihr Verfahren
+
+Für die Durchsetzung Ihres Anspruchs aus § [Norm] benötigen wir noch folgende Unterlagen:
+
+1. [Dokument A]: Wird benötigt für [Tatbestandsmerkmal X]; bitte bis [Datum] einreichen.
+2. [Dokument B]: Wird benötigt für [Tatbestandsmerkmal Y]; alternativ [Zeuge Z] möglich.
+3. [Dokument C]: Optionale Verbesserung der Beweislage zu [TBM Z].
+
+Ohne Dokument A ist eine Klageerhebung nicht empfehlenswert.
+```
+
+## Einstieg
+
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Welche Anspruchsgrundlage wird geprüft und welche TBM sind einschlägig?
+2. Welche Unterlagen hat der Mandant bereits eingereicht?
+3. Welche Fristen, Zustellungen oder Schwellen sind kritisch?
+4. Welcher Output wird gebraucht: Dokumentenmatrix, Nachforderungsliste, Schriftsatzvorbereitung?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Schritt** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+1. **Fallbild bilden:** Norm, Parteien, vorhandene Dokumente und offene Belege in eine kurze Matrix bringen.
+2. **Dokumentenmatrix erstellen:** Pro TBM: Beleg, Anlage, Lücke.
+3. **Lückenliste priorisieren:** Rot/Gelb/Grün je nach Beweislastlage und Beweisstärke.
+4. **Nachforderung formulieren:** Präzise Liste mit Deadlines und Alternativbelegen.
+5. **Anschluss bauen:** Passende weitere Skills vorschlagen.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+---
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+## Skill: `rechtsfolgen-zahlen-schwellen-und-berechnung`
+
+_Für Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen._
+
+# Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wichtige Schwellenwerte und gesetzliche Beträge (Stand: Modellwissen; live prüfen)
+
+| Bereich | Schwelle / Betrag | Norm | Quelle |
+|---|---|---|---|
+| Zuständigkeit Amtsgericht / Landgericht | bis einschließlich 10.000 Euro Amtsgericht; darüber Landgericht, soweit keine Sonderzuweisung gilt | Paragrafen 23 Nummer 1, 71 Absatz 1 GVG | gesetze-im-internet.de |
+| Berufungssumme | EUR 600 | § 511 Abs. 2 Nr. 1 ZPO | gesetze-im-internet.de |
+| Kleinstunternehmer USt | EUR 22.000 (ab 2025: EUR 25.000) | § 19 UStG | live prüfen; gesetze-im-internet.de |
+| DSGVO-Bußgeld max. | EUR 20 Mio. oder EUR 4% Jahresumsatz | Art. 83 Abs. 5 DSGVO | eur-lex.europa.eu |
+| Verzugszins | Basiszinssatz + 5 PP (§ 288 Abs. 1 BGB); + 9 PP bei B2B (§ 288 Abs. 2 BGB) | §§ 288, 247 BGB | gesetze-im-internet.de; Bundesbank.de (Basiszinssatz) |
+| Mietkaution max. | 3 Nettokaltmieten | § 551 BGB | gesetze-im-internet.de |
+| Abfindung | Kein gesetzlicher Betrag; § 1a KSchG: 0,5 Monatsverdienst/Jahr | § 1a KSchG | live prüfen |
+
+## Berechnungsschemata
+
+### Schema 1 — Verzugszinsen
+
+```
+Hauptforderung: EUR X
+Fälligkeit: TT.MM.JJJJ (bei Mahnung oder vertraglicher Bestimmung)
+Verzugsbeginn: Mahnung (§ 286 Abs. 1 BGB) oder 30 Tage nach Fälligkeit (§ 286 Abs. 3 BGB)
+Zinssatz: Basiszinssatz (Bundesbank.de, aktuell prüfen) + 5 PP (B2C) / + 9 PP (B2B)
+Zinsen pro Tag: Hauptforderung × Zinssatz / 365
+Gesamtzinsen: Zinsen pro Tag × Anzahl Tage Verzug
+```
+
+### Schema 2 — Schadensersatz § 249 BGB
+
+```
+Naturalrestitution (§ 249 Abs. 1 BGB): Zustand wie ohne schädigendes Ereignis
+Differenzschaden: Vermögen mit schädigendem Ereignis vs. ohne
+Positiver Schaden (damnum emergens): tatsächlich entstandene Kosten
+Entgangener Gewinn (lucrum cessans): § 252 BGB; üblicher Gewinn oder wahrscheinliche Entwicklung
+Abzug: Mitverschulden § 254 BGB; Vorteilsausgleichung
+```
+
+### Schema 3 — RVG-Gebühren (Anwalt; live prüfen)
+
+```
+Streitwert (§ 2 RVG) → Gebührentabelle (Anlage 2 RVG)
+Geschäftsgebühr (Nr. 2300 RVG VV): 0,5–2,5; Regelgebühr 1,3
+Verfahrensgebühr (Nr. 3100 RVG VV): 1,3
+Terminsgebühr (Nr. 3104 RVG VV): 1,2
+Einigungsgebühr (Nr. 1000, 1003 RVG VV): 1,5
+Hinweis: RVG-Tabellen und Gebührensätze live prüfen unter gesetze-im-internet.de (RVG Anlage 2)
+```
+
+## Streitwertberechnung
+
+- Leistungsklage: Streitwert = Klageforderung
+- Feststellungsklage: Abschlag (BGH: ca. 20–80% des bezifferbaren Hauptanspruchs; live prüfen)
+- Räumungsklage: Jahresmiete (§ 9 ZPO)
+- Unterlassungsklage: Gesamtinteresse des Klägers; kein starrer Schematismus
+
+## Einstieg
+
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rechtsfolge soll berechnet werden (Schadensersatz, Zinsen, Bußgeld, Gebühren)?
+2. Welche Zahlen und Daten liegen vor (Hauptforderung, Frist, Basiszinssatz)?
+3. Gibt es behördliche Festsetzungen oder Schätzgrundlagen?
+4. Welche Dokumente, Rechnungen oder Tabellen belegen die Zahlen?
+5. Welcher Output wird gebraucht: Berechnung im Schriftsatz, Mandanteninfo, Tabelle?
+
+## Arbeitsworkflow
+
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Zahlen-Grundlage in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen für Rechtsfolge und Berechnung prüfen.
+3. **Prüfpunkte abarbeiten:** Welche Beträge sind gesichert? Welche müssen live geprüft werden?
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen und Alternativwegen.
+5. **Anschluss bauen:** Passende weitere Skills vorschlagen.
 
 ---
 
 ## Skill: `subsumtion-obersatz-rewrite-klausurton-triage`
 
-_Wenn es um Subsumtion: Obersatz – Definition – Untersatz – Ergebnis in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten._
+_Für Subsumtion: Obersatz – Definition – Untersatz – Ergebnis: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Subsumtion: Obersatz – Definition – Untersatz – Ergebnis
 
@@ -830,6 +1038,274 @@ TBM [Name] ist [erfüllt / nicht erfüllt / fraglich].
 ```
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `mandatsabbruch-empfehlung-beweisbedarf`
+
+_Für Mandatsabbruch-Empfehlung: Weiterleitung an Fachanwalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix._
+
+# Mandatsabbruch-Empfehlung: Weiterleitung an Fachanwalt
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Triage zu Beginn — Abbruch-Indikatoren prüfen
+
+1. Enthält der Sachverhalt strafrechtliche Tatbestände mit möglicher Freiheitsstrafe?
+2. Sind mehr als drei miteinander verknüpfte Rechtsverhältnisse betroffen?
+3. Hat der Sachverhalt ausländischen Bezug oder mehrere mögliche Gerichtsstände?
+4. Ist das gesamte Ergebnis von einer Generalklausel (§ 242, § 138 BGB) abhängig?
+5. Betrifft der Sachverhalt Wohnung, Arbeitsplatz, Aufenthaltsstatus oder wesentliches Vermögen?
+
+## Zentrale berufsrechtliche Normen
+
+- § 43 BRAO — Pflicht des Rechtsanwalts zur gewissenhaften Berufsausübung; Mandant darf nicht schlechtergestellt werden
+- § 3 Abs. 3 RDG — Erlaubnisfreie Rechtsdienstleistung endet, wo Rechtsberatung erforderlich wird
+- § 90 BVerfGG — Verfassungsbeschwerde: Erschöpfung Rechtsweg, 1-Jahres-Frist (§ 93 Abs. 1 BVerfGG)
+- §§ 1 ff. InsO — Insolvenzantragspflicht und Forderungsanmeldung erfordern Fachanwaltswissen
+
+## Abbruch-Indikatoren
+
+Das System empfiehlt Abbruch und Verweisung an Fachleute bei folgenden Konstellationen:
+
+### Strafrecht mit drohender Freiheitsstrafe
+
+Sobald ein Sachverhalt Straftatbestände enthält, die eine Freiheitsstrafe von mehr als einem Jahr vorsehen oder bei denen eine Verhaftung, Untersuchungshaft oder Anklage droht: **Sofortige Empfehlung eines Strafverteidigers (Fachanwalt für Strafrecht).**
+
+Nemo-tenetur-Grundsatz: Niemand ist verpflichtet, sich selbst zu belasten. Mechanisches Subsumieren kann diesen Grundsatz nicht beachten.
+
+### Internationales Privatrecht / Kollisionsrecht
+
+Sachverhalte mit ausländischen Vertragsparteien, ausländischen Vermögenswerten oder mehreren Gerichtsständen erfordern die Prüfung des anwendbaren Rechts (Rom I-VO, Rom II-VO, EuErbVO, Haager Übereinkommen). Empfehlung: Fachanwalt mit IPR-Erfahrung.
+
+### Verfassungsbeschwerden und Grundrechts-Intensiveingriffe
+
+Empfehlung: Fachanwalt für Verfassungsrecht oder spezialisierte Kanzlei. Rechtswegerschöpfung und 1-Jahres-Frist (§ 93 Abs. 1 BVerfGG) sind formal komplex.
+
+### Insolvenzrecht mit laufendem Insolvenzverfahren
+
+Sobald ein Schuldner insolvent ist oder das Insolvenzverfahren eröffnet wurde, unterliegen Forderungsanmeldung, Anfechtungsrecht und Aussonderung eigenen Regeln (InsO). Empfehlung: Fachanwalt für Insolvenz- und Sanierungsrecht.
+
+### Existenzgefährdende Sachverhalte
+
+Sachverhalte, bei denen ein wesentlicher Teil des Vermögens, der Wohnung, des Arbeitsplatzes oder der Aufenthaltsstatus betroffen ist.
+
+### Mehr als drei miteinander verknüpfte Rechtsverhältnisse
+
+Wenn der Sachverhalt mehr als drei miteinander verknüpfte Rechtsverhältnisse enthält (z.B. Dreiecksbeziehungen, Konzernstrukturen, mehrstufige Verträge).
+
+## Empfehlungen nach Sachgebiet
+
+| Sachgebiet | Empfehlung |
+|-----------|-----------|
+| Strafrecht | Fachanwalt für Strafrecht, ggf. Pflichtverteidiger |
+| Steuer | Steuerberater, Fachanwalt für Steuerrecht |
+| Notarielle Beurkundung (Immobilien, GmbH-Anteile, Erbvertrag) | Notar |
+| Behördlicher Bescheid | Fachanwalt für Verwaltungsrecht |
+| Sozialleistungen | Sozialrechtsberatungsstelle, Fachanwalt für Sozialrecht |
+| Arbeitsrecht | Fachanwalt für Arbeitsrecht, Gewerkschaftsrechtsschutz |
+| Aufenthaltsrecht | Fachanwalt für Migrationsrecht |
+| Familienrecht | Fachanwalt für Familienrecht |
+| Insolvenz | Fachanwalt für Insolvenz- und Sanierungsrecht |
+| IPR/Internationales Recht | Spezialkanzlei IPR/Auslandsbezug |
+
+## Output-Template Abbruchhinweis
+
+**Adressat:** Mandant — Tonfall verständlich-erklärend, klar
+
+```
+Wichtiger Hinweis: Grenzen der automatisierten Prüfung
+
+Ihr Sachverhalt enthält Elemente, die eine qualifizierte anwaltliche Beratung
+zwingend erfordern. Grund: [ABBRUCHINDIKATOR]
+
+Wir empfehlen Ihnen dringend:
+1. Kontaktieren Sie einen Fachanwalt für [FACHGEBIET]
+2. Bringen Sie zum Termin mit: [DOKUMENTE]
+3. Wichtige Frist: [DATUM/FRIST] — bitte nicht verstreichen lassen
+
+Suche nach Fachanwälten: www.rechtsanwaltskammer.de oder www.anwaltauskunft.de
+```
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `spezial-pruefen-mehrparteien-konflikt-und-interessen`
+
+_Für Prüfen: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Pruefen: Mehrparteienkonflikt und Interessenmatrix
+
+## Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `subsumtions-pruefer`. Ausgangspunkt ist: Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.
+
+Er führt durch **Mehrparteienkonflikt und Interessenmatrix** im Themenfeld **Pruefen**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Pruefen.
+- **Arbeitsfokus:** Mehrparteienkonflikt und Interessenmatrix.
+- **Plugin-Rahmen:** Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einr....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+
+## Kaltstart
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Pruefen** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+---
+
+## Skill: `output-antrag-beschwerde-klageschrift`
+
+_Für Output: Antrag, Beschwerde, Klageschrift: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
+
+# Output: Antrag, Beschwerde, Klageschrift
+
+## Klageschrift nach ZPO (§ 253 ZPO)
+
+### Pflichtinhalt (§ 253 Abs. 2 ZPO)
+
+1. **Rubrum:** Bezeichnung der Parteien (vollständiger Name, Anschrift), gesetzliche Vertreter, Prozessbevollmächtigte
+2. **Gericht:** Zuständiges Gericht (Amtsgericht oder Landgericht nach Streitwert § 23 / § 71 GVG; örtliche Zuständigkeit §§ 12 ff. ZPO)
+3. **Bestimmter Klageantrag** (§ 253 Abs. 2 Nr. 2 ZPO): vollstreckungsfähig formuliert
+4. **Klagebegründung:** Sachverhalt, Anspruchsgrundlage, Beweisangebote
+
+### Tenor-Bausteine
+
+**Zahlungsklage:**
+"Der Beklagte wird verurteilt, an den Kläger EUR [Betrag] nebst Zinsen in Höhe von 5 Prozent über dem jeweils gültigen Basiszinssatz seit dem [Datum] zu zahlen."
+
+**Unterlassungsklage:**
+"Der Beklagte wird verurteilt, es zu unterlassen, [genaue Handlung zu beschreiben]. Für jeden Fall der Zuwiderhandlung wird dem Beklagten ein Ordnungsgeld bis zu EUR 250000, ersatzweise Ordnungshaft bis zu sechs Monaten, angedroht."
+
+**Feststellungsklage:**
+"Es wird festgestellt, dass zwischen den Parteien ein [Rechtsverhältnis] besteht / nicht besteht."
+
+## Verwaltungsgerichtliche Klage (VwGO)
+
+### Anfechtungsklage (§ 42 Abs. 1 Alt. 1 VwGO)
+
+**Pflichtinhalt:**
+- Bezeichnung des angefochtenen Verwaltungsakts (Bescheid mit Datum und Aktenzeichen)
+- Widerspruchsbescheid (soweit erforderlich)
+- Klagefrist: 1 Monat nach Zustellung des Widerspruchsbescheids (§ 74 Abs. 1 VwGO)
+
+**Tenor:** "Der Bescheid des [Behörde] vom [Datum], Az. [X], und der Widerspruchsbescheid vom [Datum] werden aufgehoben."
+
+### Verpflichtungsklage (§ 42 Abs. 1 Alt. 2 VwGO)
+
+**Tenor:** "Der Beklagte wird verpflichtet, dem Kläger [Verwaltungsakt] zu erteilen / zu bewilligen."
+
+## Beschwerde an das BVerfG (§ 90 BVerfGG)
+
+**Formale Mindestanforderungen:**
+- Beschwerdebefugnis: Grundrechtsträger, unmittelbar und gegenwärtig betroffen
+- Beschwerdegegner: Öffentliche Gewalt (Gesetz, Gerichtsentscheidung, VA)
+- Rechtswegerschöpfung (§ 90 Abs. 2 S. 1 BVerfGG): alle Rechtsmittel ausgeschöpft
+- Frist: 1 Monat nach Zustellung der letztinstanzlichen Entscheidung (§ 93 Abs. 1 BVerfGG)
+- Gerügtes Grundrecht mit Artikel benennen
+- Substantiierte Begründung der Grundrechtsverletzung
+
+## Widerspruch (VwGO / SGB)
+
+**Frist:** 1 Monat ab Bekanntgabe des Verwaltungsakts (§ 70 VwGO; § 84 SGG).
+
+**Form:** Schriftlich oder zur Niederschrift bei der Behörde. Keine besondere Form sonst.
+
+**Mindestinhalt:** Bezeichnung des Bescheids, Erklärung des Widerspruchs, Begründung (empfohlen, nicht zwingend).
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Formale Dokumentbausteine generieren für Antrag Beschwerde oder Klageschrift | Ausgabe nach Schema; Bausteine unten |
+| Variante A — Nur Tenor-Baustein noetig kein vollstaendiges Dokument | Nur Tenor generieren; Sachverhalt und Begruendung separat |
+| Variante B — Verwaltungsrecht statt Zivilrecht andere Anforderungen | VwGO-Variante des Templates verwenden |
+| Variante C — Dokument soll durch KI-Kennzeichnungspflicht versehen werden | Kennzeichnungs-Skill parallel; Baustein erganzen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Ausgabe
+
+Das System erzeugt:
+- Vollständiges Rubrum
+- Antrag / Tenor (vollstreckungsfähig)
+- Begründungsentwurf nach Vier-Schritt-Schema
+- Beweismittelverzeichnis
+- Hinweis auf Einreichungsfristen und -stellen
+
+---
+
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+--- vor Versand klären ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 

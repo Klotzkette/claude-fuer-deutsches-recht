@@ -1,6 +1,6 @@
 ---
 name: bess-netzentgelte-board-physische
-description: "Wenn es um Netzentgelte, Umlagen, Speicherprivilegien in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Netzentgelte, Umlagen, Speicherprivilegien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Netzentgelte, Umlagen, Speicherprivilegien

@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-unfreundliche-tatbestandsmerkmale-beweisfragen
-description: "Wenn es um Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage

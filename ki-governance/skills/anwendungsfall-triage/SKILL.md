@@ -1,6 +1,6 @@
 ---
 name: anwendungsfall-triage
-description: "Wenn es um digitale Werkzeuge-Anwendungsfall-Triage in diesem Spezialbereich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für digitale Werkzeuge-Anwendungsfall-Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Anwendungsfall-Triage

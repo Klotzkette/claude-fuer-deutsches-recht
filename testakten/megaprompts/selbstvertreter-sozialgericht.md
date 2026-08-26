@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 139 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Selbstvertreter Sozialgericht ein juristisches Arbeitsprodukt tragfähig begründet werden muss…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in selbstvertreter-sozialgericht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passende…
-3. **orientierung-selbstvertreter-sozialgericht** — Wenn es um Orientierung — Sich selbst vertreten am Sozialgericht in selbstvertreter-sozialgericht geht: prüft Frist, For…
-4. **buergergeld-sanktionen-31a-sgb-ii** — Prüft Leistungsminderungen im SGB II nach dem seit 1. Juli 2026 geltenden Recht und trennt Pflichtverletzung, Meldeversä…
-5. **untaetigkeitsklage-88-sgg** — Wenn es um Wenn die Behörde nichts tut — Untaetigkeitsklage Paragraf 88 SGG in selbstvertreter-sozialgericht geht: erste…
-6. **eilantrag-krankenkassen-leistung** — Wenn es um Eilantrag gegen die Krankenkasse — wenn Sie nicht warten können in selbstvertreter-sozialgericht geht: erstel…
-7. **anlagen-bezeichnen-und-sortieren-sozialgericht** — Wenn es um Anlagen zur Klage richtig bezeichnen sortieren und nummerieren in selbstvertreter-sozialgericht geht: erstell…
-8. **oertliche-zustaendigkeit-57-sgg** — Wenn es um Welches Sozialgericht in welcher Stadt? — Paragraf 57 SGG in selbstvertreter-sozialgericht geht: prüft Frist,…
+2. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+3. **orientierung-selbstvertreter-sozialgericht** — Für Orientierung — Sich selbst vertreten am Sozialgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprod…
+4. **krankenkassen-haeusliche-krankenpflege-37-sgb-v** — Für Krankenkassen häusliche Krankenpflege nach Paragraf 37 SGB V: ordnet Norm, Beweislast und Gegenargument; Ergebnis: S…
+5. **eilantrag-krankenkassen-leistung** — Für Eilantrag gegen die Krankenkasse — wenn Sie nicht warten können: erstellt Entwurf mit Antrag, Beweis und Anlagen; Er…
+6. **untaetigkeitsklage-88-sgg** — Für Wenn die Behörde nichts tut — Untätigkeitsklage Paragraf 88 SGG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Er…
+7. **berufung-zulassung-besondere-bedeutung** — Für Wenn die Wertgrenze nicht erreicht ist — Zulassung?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittste…
+8. **klage-zur-niederschrift-90-sgg** — Für Klage auf der Geschäftsstelle diktieren — Paragraf 90 SGG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis…
 
 ---
 
@@ -138,7 +138,7 @@ Ausgangspunkt für dieses Plugin: Leistungsträger ermittelt von Amts wegen; Ver
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in selbstvertreter-sozialgericht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: selbstvertreter-sozialgericht._
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Selbstvertreter Sozialgericht — Allgemein` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
@@ -271,7 +271,7 @@ Hinweis: Dieser Skill stärkt die Selbstvertretung, indem er Fristen, Bescheidke
 
 ## Skill: `orientierung-selbstvertreter-sozialgericht`
 
-_Wenn es um Orientierung — Sich selbst vertreten am Sozialgericht in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung — Sich selbst vertreten am Sozialgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Orientierung — Sich selbst vertreten am Sozialgericht
 
@@ -377,199 +377,79 @@ Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 für Buerger. B
 
 ---
 
-## Skill: `buergergeld-sanktionen-31a-sgb-ii`
+## Skill: `krankenkassen-haeusliche-krankenpflege-37-sgb-v`
 
-_Prüft Leistungsminderungen im SGB II nach dem seit 1. Juli 2026 geltenden Recht und trennt Pflichtverletzung, Meldeversäumnis, willentliche Arbeitsverweigerung und Übergangsfall. Liefert Bescheidmatrix, Fristenblatt, bezifferte Differenz sowie Widerspruchs- oder Eilantragsbaustein._
+_Für Krankenkassen häusliche Krankenpflege nach Paragraf 37 SGB V: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Leistungsminderung im SGB II prüfen
+# Krankenkassen haeusliche Krankenpflege nach § 37 SGB V
 
-## Einsatzlage
 
-Der Nutzer legt Anhörung, Meldeaufforderung oder Minderungsbescheid vor. Lies diese Unterlagen zuerst. Frage nur nach Datum der Pflichtverletzung, Zugang der Belehrung, wichtigem Grund und akutem Zahlungsbedarf, soweit die Akte das nicht beantwortet.
+## Arbeitsweg
 
-## Normen- und Zeitanker
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-- Paragraf 31 SGB II: Pflichtverletzung und wichtiger Grund.
-- Paragraf 31a SGB II in der seit 1. Juli 2026 geltenden Fassung: Regelfolge, Anhörung, außergewöhnliche Härte, Kappung und Sonderfall der willentlichen Arbeitsverweigerung.
-- Paragraf 31b SGB II: Feststellung binnen sechs Monaten, Beginn und Dauer.
-- Paragraf 32 SGB II: wiederholtes Meldeversäumnis.
-- Paragraf 65a Absatz 2 SGB II: Für Pflichtverletzungen und Meldeversäumnisse vor dem 1. Juli 2026 gilt das bis 30. Juni 2026 geltende Recht weiter.
-- Paragraf 24 SGB X sowie Paragrafen 84, 86b SGG: Anhörung, Widerspruch und Eilrechtsschutz.
+**Fokus:** Krankenkassen haeusliche Krankenpflege nach § 37 SGB V. Skill klaert die Voraussetzungen Behandlungspflege Grundpflege hauswirtschaftliche Versorgung Verhältnis zur Pflegekasse SGB XI und die aktuelle BSG-Linie zu Spezialfaellen wie Intensivpflege. Liefert Antragsvorlage.
 
-## Rechtsfolgen ab 1. Juli 2026
+### Krankenkassen Haeusliche Krankenpflege 37 Sgb V
 
-1. Eine Pflichtverletzung nach Paragraf 31 SGB II mindert das Grundsicherungsgeld grundsätzlich um 30 Prozent des maßgebenden Regelbedarfs. Der Minderungszeitraum beträgt drei Monate; nach Pflichterfüllung oder ernsthafter nachhaltiger Bereitschaft ist die Minderung nach mindestens einem Monat aufzuheben.
-2. Bei einem wiederholten Meldeversäumnis nach Paragraf 32 SGB II beträgt die Minderung 30 Prozent für einen Monat. Meldeaufforderung, zulässiger Meldezweck, konkrete Rechtsfolgenbelehrung, Zugang und wichtiger Grund sind jeweils gesondert zu prüfen.
-3. Nach Paragraf 31a Absatz 7 SGB II kann der Anspruch in Höhe des Regelbedarfs entfallen, wenn eine tatsächlich und unmittelbar mögliche zumutbare Arbeit willentlich nicht aufgenommen wird. Die Sonderfolge ist nach einem Monat aufzuheben, wenn die Arbeitsmöglichkeit weggefallen ist, spätestens nach zwei Monaten.
-4. Unterkunft und Heizung dürfen durch eine Leistungsminderung rechnerisch nicht verringert werden. Außergewöhnliche Härte, persönliche Anhörung und die Kappungsregeln sind eigenständig zu prüfen.
+## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krankenkassen Haeusliche Krankenpflege 37 Sgb V` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
+- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Rechtsprechungsanker
+## Anspruch
 
-- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Das menschenwürdige Existenzminimum, die Verhältnismäßigkeit, eine Härtefallprüfung und die Möglichkeit vorzeitiger Beendigung bilden verfassungsrechtliche Leitplanken. Die Entscheidung betraf früheres Recht und bestätigt nicht automatisch die seit 1. Juli 2026 geltenden Tatbestände oder Rechtsfolgen.
+§ 37 Abs. 1 SGB V: Versicherte erhalten in ihrem Haushalt oder ihrer Familie neben aerztlicher Behandlung haeusliche Krankenpflege durch geeignete Pflegekraefte wenn Krankenhausbehandlung erforderlich aber nicht ausfuehrbar ist oder durch sie vermieden oder verkuerzt werden kann.
 
-## Prüfworkflow
+## Inhalte
 
-1. Ereignisdatum bestimmen und über Paragraf 65a Absatz 2 SGB II die anwendbare Fassung festlegen.
-2. Verwaltungsakt, Anhörung, Pflicht oder Meldeaufforderung, Rechtsfolgenbelehrung und Zustellnachweise chronologisch ordnen.
-3. Tatbestand prüfen: konkrete Pflicht, Zumutbarkeit, tatsächlich mögliche Arbeitsaufnahme oder wiederholtes Meldeversäumnis. Einen wichtigen Grund und fehlendes Verschulden anhand der Belege würdigen.
-4. Verfahren prüfen: Zuständigkeit, persönliche Anhörung, Bestimmtheit, Sechsmonatsfrist und Bekanntgabe.
-5. Rechtsfolge exakt berechnen: Prozentsatz, Regelbedarf, Beginn, Mindest- und Höchstdauer, Kappung, Unterkunftskosten und Aufhebungszeitpunkt.
-6. Außergewöhnliche Härte und verfassungsrechtliche Einwände fallbezogen begründen; das Urteil 1 BvL 7/16 nicht als schematische Altfall-Prozentregel verwenden.
-7. Widerspruchsfrist notieren und bei konkreter Unterdeckung parallel einen Antrag nach Paragraf 86b SGG mit Kontoauszügen, Fixkosten und drohendem Nachteil vorbereiten.
+### Behandlungspflege
+- Wundversorgung.
+- Medikamentengabe Injektionen.
+- Katheterversorgung.
+- Beatmung.
 
-## Arbeitsprodukt
+### Grundpflege
+- Koerperpflege.
+- Mobilisation.
+- Nur als Annex zur Behandlungspflege.
 
-Liefere zuerst eine Bescheidmatrix mit Tatbestandsmerkmal, Aktenbeleg, Einwand und Rechtsfolge. Danach folgen bezifferte Leistungsdifferenz, Fristenblatt und ein versandfertiger Widerspruchs- oder Eilantragsbaustein. Offene Tatsachen und offene Rechtsfragen getrennt kennzeichnen.
+### Hauswirtschaftliche Versorgung
+- Nur bei besonderer Notwendigkeit.
 
----
+## Verhältnis zur Pflegekasse
 
-## Skill: `untaetigkeitsklage-88-sgg`
+- Grundpflege und hauswirtschaftliche Versorgung primaer Pflegekasse SGB XI.
+- Krankenkasse nur Behandlungspflege.
 
-_Wenn es um Wenn die Behörde nichts tut — Untaetigkeitsklage Paragraf 88 SGG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+## Intensivpflege
 
-# Wenn die Behörde nichts tut — Untaetigkeitsklage § 88 SGG
+- § 37c SGB V seit 2023 — Intensivpflegegesetz.
+- Ambulante Intensivpflege auf strengerer Prüfung der Notwendigkeit.
 
-## Fachlicher Anker
+## Anrtrag
 
-- **Normen:** § 88 SGG, § 7, § 7a.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+- Aerztliche Verordnung der haeuslichen Krankenpflege (Muster 12).
+- Verordnungsdauer max. 4 Wochen, Verlaengerung möglich.
 
-## Worum geht es?
+## Prüfraster
 
-Sie haben einen Antrag gestellt oder Widerspruch eingelegt. Und dann passiert nichts. Wochen, Monate. Die Untaetigkeitsklage zwingt die Behörde, endlich zu entscheiden.
-
-## In einfacher Sprache
-
-Sie haben einen Antrag gestellt. Die Behörde tut nichts. Nach langer Zeit können Sie zum Gericht. Das Gericht zwingt die Behörde, endlich zu antworten.
-
-## Wann brauchen Sie diese Skill?
-
-- Sie haben einen Antrag gestellt vor mehr als 6 Monaten.
-- Sie haben Widerspruch eingelegt vor mehr als 3 Monaten.
-- Die Behörde meldet sich nicht oder verzoegert.
-
-## Fachbegriffe (kurz erklaert)
-
-- **Untaetigkeitsklage**: Klage darauf, dass die Behörde endlich entscheidet.
-- **Sachgrund**: Ein objektiver Grund, warum die Behörde noch nicht entschieden hat.
-- **Bescheidungsurteil**: Das Gericht zwingt die Behörde nur zu einer Entscheidung, nicht zu einer bestimmten Entscheidung.
-
-## Rechtsgrundlagen
-
-- **§ 88 Abs. 1 SGG** — Untaetigkeitsklage bei Antragsverfahren nach 6 Monaten.
-- **§ 88 Abs. 2 SGG** — Bei Widerspruchsverfahren nach 3 Monaten.
-- **§ 131 SGG** — Bescheidungsurteil.
-
-## Schritt-für-Schritt-Anleitung
-
-### Schritt 1 — Fristen prüfen
-
-- **Antrag bei Behörde**: 6 Monate seit Antragsdatum
-- **Widerspruch**: 3 Monate seit Widerspruchsdatum
-
-Erst nach Ablauf können Sie klagen.
-
-### Schritt 2 — Vorab schriftliche Erinnerung
-
-Vor der Klage ist es gut (nicht zwingend), nochmal zu erinnern. Mustertext:
-
-```
-[Behörde] [Ort, Datum]
-
-Az: [...]
-
-Erinnerung
-
-Sehr geehrte Damen und Herren,
-
-mein Antrag / Widerspruch vom [Datum] ist trotz mehrfacher Erinnerung bis heute nicht entschieden.
-
-Ich bitte um Entscheidung binnen 14 Tagen. Andernfalls werde ich Untaetigkeitsklage nach § 88 SGG erheben.
-
-Mit freundlichen Gruessen
-```
-
-### Schritt 3 — Klageschrift
-
-```
-Sozialgericht [Ort] [Ort, Datum]
-
-[Name]
-[Adresse]
-
-— Klaeger —
-
-gegen
-
-[Behörde]
-[Adresse]
-
-— Beklagte —
-
-wegen Untaetigkeit ([Stichwort])
-
-U N T A E T I G K E I T S K L A G E
-
-Ich erhebe Klage und beantrage:
-
-Die Beklagte wird verurteilt, ueber meinen Antrag vom [Datum] / Widerspruch vom [Datum] zu entscheiden.
-
-GRUENDE
-
-I. Sachverhalt
-- Antrag / Widerspruch vom [Datum] gestellt.
-- Bis heute keine Entscheidung.
-- Erinnerung am [Datum].
-- 6 / 3 Monate sind verstrichen.
-
-II. Rechtliche Wuerdigung
-Die Voraussetzungen des § 88 Abs. 1 / 2 SGG liegen vor. Ein sachlicher Grund für die Untaetigkeit ist nicht ersichtlich.
-
-Anlagen:
-- Antrag / Widerspruch
-- Schriftverkehr mit der Behörde
-
-[Unterschrift]
-```
-
-### Schritt 4 — Einreichen
-
-Wie sonst: schriftlich, Fax, MJP, oder zur Niederschrift.
-
-### Schritt 5 — Folge der Klage
-
-Drei Moeglichkeiten:
-
-- **Behörde entscheidet sofort**: Klage erledigt; Erstattung der Auslagen.
-- **Sachgrund**: Wenn die Behörde plausibel erklaeren kann, warum sie noch nicht entscheiden konnte, kann das Gericht die Klage abweisen oder Frist setzen.
-- **Verurteilung zur Bescheidung**: Das Gericht zwingt die Behörde, binnen [n] Wochen zu entscheiden.
-
-### Schritt 6 — Inhalt der Entscheidung
-
-Wichtig: Das Gericht entscheidet nur, DASS die Behörde entscheiden muss — nicht WIE. Wenn die Behörde dann negativ entscheidet, brauchen Sie wieder Widerspruch und ggf. neue Klage.
-
-## Worauf Sie besonders achten müssen
-
-- **Fristen sind streng**: 6 / 3 Monate. Vorher ist Klage unzulaessig.
-- **Sachgrund**: Prüfen Sie, ob die Behörde auf Unterlagen wartet, die Sie noch nicht eingereicht haben. Wenn ja: schnell nachreichen.
-- **Nicht Aufgeben**: Untaetigkeit-Klage ist meist erfolgreich und kostenfrei.
-
-## Typische Fehler
-
-- Vor Ablauf der Fristen klagen → unzulaessig
-- Klage ohne Erinnerung → erlaubt, aber Sachgrund hat dann mehr Gewicht
-- Nicht erkennen, dass Untaetigkeitsklage nur Pflicht zur Entscheidung erzwingt → realistisch bleiben
-
-## Quellen und Aktualitaet
-
-Stand: 05/2026. § 88 SGG aktuell. Lange Bearbeitungszeiten bei MD-Prüfungen oft Sachgrund — aber nicht unbegrenzt.
+1. Behandlungspflege erforderlich?
+2. Aerztliche Verordnung?
+3. Verordnungsdauer?
+4. Grundpflege als Annex?
+5. Pflegekasse parallel?
 
 ---
 
 ## Skill: `eilantrag-krankenkassen-leistung`
 
-_Wenn es um Eilantrag gegen die Krankenkasse — wenn Sie nicht warten können in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Eilantrag gegen die Krankenkasse — wenn Sie nicht warten können: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # Eilantrag gegen die Krankenkasse — wenn Sie nicht warten können
 
@@ -727,226 +607,383 @@ Das Gericht ordnet die Leistung vorlaeufig an. Die KK muss bezahlen. Die Hauptsa
 
 ---
 
-## Skill: `anlagen-bezeichnen-und-sortieren-sozialgericht`
+## Skill: `untaetigkeitsklage-88-sgg`
 
-_Wenn es um Anlagen zur Klage richtig bezeichnen sortieren und nummerieren in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Wenn die Behörde nichts tut — Untätigkeitsklage Paragraf 88 SGG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
-# Anlagen zur Klage richtig bezeichnen sortieren und nummerieren
-
-
-## Arbeitsbereich
-
-**Akteneinsicht SGB Amtsermittlungsgrundsatz** ordnet den Fall über die tragenden Prüfungslinien: Akteneinsicht in die Sozialakte nach § 25 SGB X, Das Gericht ermittelt für Sie § 103 SGG, Die Anfechtungsklage nach § 54 Abs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Anlagen zur Klage richtig bezeichnen sortieren und nummerieren. K-Anlagen für Kläger Anlagenverzeichnis Lesbarkeit. Tipps für Buerger im SG-Verfahren.
-
-### Anlagen zur Klage — sortieren und bezeichnen
-
-## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anlagen zur Klage — sortieren und bezeichnen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
-- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Worum geht es?
-
-Ihre Klage hat Anlagen: Bescheid, Atteste, Briefe. Wenn diese unsortiert ankommen, wird Ihnen niemand folgen können. Diese Skill zeigt, wie Sie Anlagen ordentlich vorbereiten.
-
-## In einfacher Sprache
-
-Sie haben viele Papiere als Beweis. Ordnen Sie diese. Nummerieren Sie sie. So findet das Gericht alles schnell. Und Sie auch.
-
-## Wann brauchen Sie diese Skill?
-
-- Sie reichen Klage ein und haben viele Belege.
-- Sie wollen, dass das Gericht Ihre Sache schnell versteht.
-
-## Fachbegriffe (kurz erklaert)
-
-- **Anlage**: Beilage zum Schriftsatz.
-- **Anlagenverzeichnis**: Liste aller Anlagen am Ende oder Anfang.
-- **K-Anlage / B-Anlage**: K für Kläger, B für Beklagte.
-- **Konvolut**: Mehrere zusammen geheftete Dokumente.
-
-## Rechtsgrundlagen
-
-- **§ 92 Abs. 2 SGG** — Anlagen sollen beigefuegt werden.
-- **§ 93 SGG** — Abschriften.
-- Allgemeine Praxis der Sozialgerichtsbarkeit.
-
-## Schritt-für-Schritt-Anleitung
-
-### Schritt 1 — Was wirklich noetig?
-
-Nicht alles muss als Anlage rein. Nur das, was Ihren Vortrag belegt. Drei Kategorien:
-
-- **Muss**: Bescheid, Widerspruchsbescheid, eigene Schreiben an Behörde.
-- **Sollte**: Atteste, aerztliche Berichte, Kontoauszuege bei Geld-Sachen.
-- **Kann**: Allgemeines Informations-Material, Fotos der Wohnung etc. (selten noetig).
-
-### Schritt 2 — Bezeichnung
-
-Bewaehrt: K1, K2, K3 für Kläger-Anlagen. (Beklagte nutzt B1, B2 etc.)
-
-Beispiele:
-
-- K1: Bescheid der DRV vom 22.4.2026
-- K2: Widerspruchsbescheid vom 12.7.2026
-- K3: Hausarzt-Bericht Dr. Mueller vom 1.2.2026
-- K4: Facharzt-Bericht Dr. Schmidt vom 15.3.2026
-
-### Schritt 3 — Sortierung
-
-Sortiere chronologisch oder thematisch:
-
-- Chronologisch: aelteste zuerst (wenn Verfahrenshistorie wichtig)
-- Thematisch: Bescheide zusammen, dann Atteste, dann sonstiges
-
-Wenn beides geht: nach Thema, innerhalb chronologisch.
-
-### Schritt 4 — Anlagenverzeichnis
-
-Am Ende der Klage:
-
-```
-Anlagenverzeichnis:
-
-K1: Bescheid DRV vom 22.4.2026 (3 Seiten)
-K2: Widerspruchsbescheid vom 12.7.2026 (4 Seiten)
-K3: Hausarzt-Bericht Dr. Mueller vom 1.2.2026 (2 Seiten)
-K4: Facharzt-Bericht Dr. Schmidt vom 15.3.2026 (3 Seiten)
-K5: Pflegeprotokoll vom 1.1. bis 15.1.2026 (15 Seiten)
-```
-
-### Schritt 5 — Auf jedes Dokument K-Nummer
-
-Oben rechts auf der ersten Seite jedes Dokuments handschriftlich oder mit Stempel: "K3" o.ae. So findet jeder schnell.
-
-### Schritt 6 — Heften und vorbereiten
-
-- Locher-Loecher: nicht über die Schrift.
-- Klammern: am Rand oben links.
-- Konvolut: alle Anlagen zusammenhalten.
-
-Pro Beklagter ein vollstaendiges Anlagenpaket.
-
-### Schritt 7 — Bei Originalen
-
-Originale behalten Sie. Senden Sie Kopien. Auf der Kopie: "Kopie" oder "Abschrift".
-
-Wenn das Gericht ein Original braucht (z.B. Original-Vollmacht), wird es ausdruecklich angefordert.
-
-## Worauf Sie besonders achten müssen
-
-- **Lesbarkeit**: Kopien müssen lesbar sein. Bei verblassten Originalen vorher digital korrigieren.
-- **Personenbezogene Daten**: Was nicht zum Streit gehoert, schwaerzen Sie (z.B. Geburtsdatum von Familienmitgliedern).
-- **Datenschutz**: Bei Arztberichten anderer Personen schwaerzen.
-- **Aktuelle Bezeichnung**: Wenn die Behörde umgewandelt wurde (z.B. MDK zu MD), kurz darauf hinweisen.
-
-## Typische Fehler
-
-- Originale eingesandt → Kopien reichen
-- Keine Nummerierung → schwer auffindbar
-- Kein Anlagenverzeichnis → Verwirrung
-- Falsche Reihenfolge → chronologisch oder thematisch sortieren
-
-## Quellen und Aktualitaet
-
-Stand: 05/2026. Praxis der Sozialgerichtsbarkeit. Standard ist K- bzw. B-Bezeichnung.
-
----
-
-## Skill: `oertliche-zustaendigkeit-57-sgg`
-
-_Wenn es um Welches Sozialgericht in welcher Stadt? — Paragraf 57 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Welches Sozialgericht in welcher Stadt? — § 57 SGG
+# Wenn die Behörde nichts tut — Untaetigkeitsklage § 88 SGG
 
 ## Fachlicher Anker
 
-- **Normen:** § 57 SGG, § 7, § 7a.
+- **Normen:** § 88 SGG, § 7, § 7a.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Worum geht es?
 
-Sie wissen, dass das Sozialgericht zuständig ist. Aber welches? In Deutschland gibt es viele SG. Diese Skill zeigt, welches für Sie zuständig ist.
+Sie haben einen Antrag gestellt oder Widerspruch eingelegt. Und dann passiert nichts. Wochen, Monate. Die Untaetigkeitsklage zwingt die Behörde, endlich zu entscheiden.
 
 ## In einfacher Sprache
 
-Es gibt viele Sozialgerichte. Das richtige ist meistens dort, wo Sie wohnen. Wir helfen Ihnen, das passende zu finden.
+Sie haben einen Antrag gestellt. Die Behörde tut nichts. Nach langer Zeit können Sie zum Gericht. Das Gericht zwingt die Behörde, endlich zu antworten.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie wollen Klage einreichen und kennen das zuständige SG nicht.
-- Sie sind umgezogen.
-- Ihr Bescheid kommt aus einer anderen Stadt.
+- Sie haben einen Antrag gestellt vor mehr als 6 Monaten.
+- Sie haben Widerspruch eingelegt vor mehr als 3 Monaten.
+- Die Behörde meldet sich nicht oder verzoegert.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Oertliche Zuständigkeit**: Welches SG in welcher Region?
-- **Wohnsitz**: Wo Sie gemeldet sind und tatsaechlich leben.
-- **Behörden-Sitz**: Wo die beklagte Behörde sitzt.
+- **Untaetigkeitsklage**: Klage darauf, dass die Behörde endlich entscheidet.
+- **Sachgrund**: Ein objektiver Grund, warum die Behörde noch nicht entschieden hat.
+- **Bescheidungsurteil**: Das Gericht zwingt die Behörde nur zu einer Entscheidung, nicht zu einer bestimmten Entscheidung.
 
 ## Rechtsgrundlagen
 
-- **§ 57 Abs. 1 SGG** — Grundsatz: das SG, in dessen Bezirk Sie wohnen.
-- **§ 57 Abs. 2 SGG** — Sondervorschriften (z.B. Berufsgenossenschaft am Sitz der BG).
-- **§ 57a SGG** — Sonderzuständigkeit für Vertragsarzt-Sachen.
-- **§ 98 SGG** — Verweisung bei falscher Zuständigkeit.
+- **§ 88 Abs. 1 SGG** — Untaetigkeitsklage bei Antragsverfahren nach 6 Monaten.
+- **§ 88 Abs. 2 SGG** — Bei Widerspruchsverfahren nach 3 Monaten.
+- **§ 131 SGG** — Bescheidungsurteil.
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Ihren Wohnort prüfen
+### Schritt 1 — Fristen prüfen
 
-Wo wohnen Sie? Bei welchem SG das ist, sehen Sie hier:
+- **Antrag bei Behörde**: 6 Monate seit Antragsdatum
+- **Widerspruch**: 3 Monate seit Widerspruchsdatum
 
-- www.sozialgerichtsbarkeit.de — Liste aller SG
-- Geben Sie den Namen Ihrer Stadt ein.
+Erst nach Ablauf können Sie klagen.
 
-### Schritt 2 — Sonderregeln prüfen
+### Schritt 2 — Vorab schriftliche Erinnerung
 
-- **Auslandswohnsitz**: Bei Wohnsitz im Ausland gilt der letzte Wohnsitz in Deutschland. Wenn nie in Deutschland gewohnt: Sitz der beklagten Behörde.
-- **Berufsgenossenschaft (SGB VII)**: SG am Sitz der BG (also z.B. Berufsgenossenschaft Rohstoffe und Chemische Industrie in Heidelberg).
-- **Vertragsarzt-Streit**: SG am Sitz der Kassenaerztlichen Vereinigung.
+Vor der Klage ist es gut (nicht zwingend), nochmal zu erinnern. Mustertext:
 
-### Schritt 3 — Bei Umzug
+```
+[Behörde] [Ort, Datum]
 
-Wenn Sie umgezogen sind, ist der neue Wohnort entscheidend, sofern Klage noch nicht erhoben. Nach Klageerhebung gilt der damalige Wohnsitz weiter (perpetuatio fori).
+Az: [...]
 
-### Schritt 4 — Klage abgeben
+Erinnerung
 
-- **Persoenlich** auf der Geschäftsstelle (siehe `klage-zur-niederschrift-90-sgg`)
-- **Per Post** mit Einschreiben (Zustellungsnachweis sicher)
-- **Per Mein Justizpostfach** (MJP, siehe `einreichung-mein-justizpostfach-mjp-sozialgericht`)
-- **Per Fax** (siehe `einreichung-fax-und-grenzen-sozialgericht`)
+Sehr geehrte Damen und Herren,
 
-### Schritt 5 — Falsches Gericht angeschrieben
+mein Antrag / Widerspruch vom [Datum] ist trotz mehrfacher Erinnerung bis heute nicht entschieden.
 
-Kein Problem: § 98 SGG i.V.m. § 17a GVG. Das angeschriebene Gericht verweist Ihren Fall ans richtige. Die Frist bleibt gewahrt — wichtig!
+Ich bitte um Entscheidung binnen 14 Tagen. Andernfalls werde ich Untaetigkeitsklage nach § 88 SGG erheben.
+
+Mit freundlichen Gruessen
+```
+
+### Schritt 3 — Klageschrift
+
+```
+Sozialgericht [Ort] [Ort, Datum]
+
+[Name]
+[Adresse]
+
+— Klaeger —
+
+gegen
+
+[Behörde]
+[Adresse]
+
+— Beklagte —
+
+wegen Untaetigkeit ([Stichwort])
+
+U N T A E T I G K E I T S K L A G E
+
+Ich erhebe Klage und beantrage:
+
+Die Beklagte wird verurteilt, ueber meinen Antrag vom [Datum] / Widerspruch vom [Datum] zu entscheiden.
+
+GRUENDE
+
+I. Sachverhalt
+- Antrag / Widerspruch vom [Datum] gestellt.
+- Bis heute keine Entscheidung.
+- Erinnerung am [Datum].
+- 6 / 3 Monate sind verstrichen.
+
+II. Rechtliche Wuerdigung
+Die Voraussetzungen des § 88 Abs. 1 / 2 SGG liegen vor. Ein sachlicher Grund für die Untaetigkeit ist nicht ersichtlich.
+
+Anlagen:
+- Antrag / Widerspruch
+- Schriftverkehr mit der Behörde
+
+[Unterschrift]
+```
+
+### Schritt 4 — Einreichen
+
+Wie sonst: schriftlich, Fax, MJP, oder zur Niederschrift.
+
+### Schritt 5 — Folge der Klage
+
+Drei Moeglichkeiten:
+
+- **Behörde entscheidet sofort**: Klage erledigt; Erstattung der Auslagen.
+- **Sachgrund**: Wenn die Behörde plausibel erklaeren kann, warum sie noch nicht entscheiden konnte, kann das Gericht die Klage abweisen oder Frist setzen.
+- **Verurteilung zur Bescheidung**: Das Gericht zwingt die Behörde, binnen [n] Wochen zu entscheiden.
+
+### Schritt 6 — Inhalt der Entscheidung
+
+Wichtig: Das Gericht entscheidet nur, DASS die Behörde entscheiden muss — nicht WIE. Wenn die Behörde dann negativ entscheidet, brauchen Sie wieder Widerspruch und ggf. neue Klage.
 
 ## Worauf Sie besonders achten müssen
 
-- **Verweisung kostet Zeit.** Direkt richtig adressieren spart Wochen.
-- **Adresse aus dem Bescheid** uebernehmen, nicht aus dem Briefkopf der Behörde. Manche Behörden bearbeiten zentral, aber Ihr SG richtet sich nach Ihrem Wohnort.
+- **Fristen sind streng**: 6 / 3 Monate. Vorher ist Klage unzulaessig.
+- **Sachgrund**: Prüfen Sie, ob die Behörde auf Unterlagen wartet, die Sie noch nicht eingereicht haben. Wenn ja: schnell nachreichen.
+- **Nicht Aufgeben**: Untaetigkeit-Klage ist meist erfolgreich und kostenfrei.
 
 ## Typische Fehler
 
-- SG der Behörde gewaehlt → falsch, wenn Sie woanders wohnen
-- Klage ans LSG geschickt → erste Instanz ist immer SG
-- Mehrere SG-Adressen verwechselt → www.sozialgerichtsbarkeit.de prüfen
+- Vor Ablauf der Fristen klagen → unzulaessig
+- Klage ohne Erinnerung → erlaubt, aber Sachgrund hat dann mehr Gewicht
+- Nicht erkennen, dass Untaetigkeitsklage nur Pflicht zur Entscheidung erzwingt → realistisch bleiben
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Liste aller SG unter www.sozialgerichtsbarkeit.de. Verweisung nach § 98 SGG haelt die Frist.
+Stand: 05/2026. § 88 SGG aktuell. Lange Bearbeitungszeiten bei MD-Prüfungen oft Sachgrund — aber nicht unbegrenzt.
+
+---
+
+## Skill: `berufung-zulassung-besondere-bedeutung`
+
+_Für Wenn die Wertgrenze nicht erreicht ist — Zulassung?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Wenn die Wertgrenze nicht erreicht ist — Zulassung?
+
+## Fachlicher Anker
+
+- **Normen:** § 7, § 7a, §§ 20.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Worum geht es?
+
+Auch unter 750 EUR (bzw. ohne 1-Jahres-Leistung) ist Berufung möglich — wenn das SG die Berufung zugelassen hat oder das LSG sie zulaesst. Diese Skill zeigt die Ausnahmen.
+
+## In einfacher Sprache
+
+Wenn Ihre Streit-Sache klein ist, gibt es trotzdem manchmal Berufung. Wenn es um eine wichtige Frage geht. Wir zeigen, wann das gilt.
+
+## Wann brauchen Sie diese Skill?
+
+- Streitwert unter 750 EUR.
+- SG hat Berufung nicht zugelassen.
+- Sie wollen trotzdem zum LSG.
+
+## Fachbegriffe (kurz erklaert)
+
+- **Zulassung der Berufung**: Erlaubnis für Berufung trotz fehlender Wertgrenze.
+- **Grundsaetzliche Bedeutung**: Die Rechtsfrage ist allgemein wichtig.
+- **Divergenz**: SG ist von Rechtsprechung des BSG abgewichen.
+- **Verfahrensfehler**: Das SG-Verfahren hatte einen schweren Mangel.
+
+## Rechtsgrundlagen
+
+- **§ 144 Abs. 2 SGG** — Zulassungsgruende.
+- **§ 145 SGG** — Nichtzulassungsbeschwerde.
+
+## Schritt-für-Schritt-Anleitung
+
+### Schritt 1 — Prüfen: hat das SG zugelassen?
+
+Im Urteil steht am Ende, ob die Berufung zugelassen wurde. Wenn ja: direkt Berufung einlegen.
+
+Wenn nicht und Wertgrenze nicht erreicht: Nichtzulassungsbeschwerde noetig.
+
+### Schritt 2 — Zulassungsgruende prüfen
+
+**Grundsaetzliche Bedeutung**:
+
+- Eine Rechtsfrage, die allgemein relevant ist.
+- Beispiel: Auslegung einer neuen Norm, über die noch keine BSG-Entscheidung existiert.
+
+**Divergenz**:
+
+- SG hat anders entschieden als das BSG.
+- Konkretes Aktenzeichen der abweichenden BSG-Entscheidung nennen.
+
+**Verfahrensfehler**:
+
+- Rechtliches Gehoer verletzt
+- Beweisantrag uebergangen
+- Sachverhalt nicht hinreichend ermittelt
+
+### Schritt 3 — Nichtzulassungsbeschwerde-Schrift
+
+```
+Landessozialgericht [Land] [Ort, Datum]
+
+Az LSG (folgt): ...
+SG-Az: ...
+
+NICHTZULASSUNGSBESCHWERDE
+
+Gegen das Urteil des Sozialgerichts [Ort] vom [Datum], zugestellt am [Datum], lege ich
+
+ Nichtzulassungsbeschwerde
+
+ein.
+
+BEGRUENDUNG
+
+I. Sachverhalt
+[knapp]
+
+II. Zulassungsgrund
+
+Grundsaetzliche Bedeutung:
+Die Rechtsfrage, ob [konkrete Frage], ist von grundsaetzlicher Bedeutung, weil:
+- noch nicht hoechstrichterlich entschieden
+- viele Versicherte betroffen
+- klare Auslegungs-Notwendigkeit
+
+Hilfsweise: Verfahrensfehler
+- Das SG hat meinen Beweisantrag auf Einholung eines Sachverstaendigen-Gutachtens (§ 109 SGG) uebergangen, obwohl ich diesen formal gestellt habe (siehe Schriftsatz vom ...).
+
+Mit freundlichen Gruessen
+```
+
+### Schritt 4 — Anwalt sehr empfohlen
+
+Diese Beschwerde ist anspruchsvoll. Anwalt mit PKH stark empfohlen.
+
+### Schritt 5 — Frist beachten
+
+1 Monat ab Zustellung des SG-Urteils.
+
+### Schritt 6 — Bei Erfolg
+
+Das LSG lässt die Berufung zu. Verfahren beim LSG laeuft dann ganz normal.
+
+## Worauf Sie besonders achten müssen
+
+- **Sehr formell**: hier muss man juristisch sauber argumentieren.
+- **Anwalt sinnvoll** mit PKH.
+- **Frist 1 Monat** wie ueblich.
+
+## Typische Fehler
+
+- "Mein Fall ist wichtig" ohne konkrete Rechtsfrage → grundsaetzliche Bedeutung muss begruendet werden
+- Verfahrensfehler nicht konkret bezeichnet
+- Frist verpasst
+
+## Quellen und Aktualitaet
+
+Stand: 05/2026. § 144 Abs. 2 SGG aktuell.
+
+---
+
+## Skill: `klage-zur-niederschrift-90-sgg`
+
+_Für Klage auf der Geschäftsstelle diktieren — Paragraf 90 SGG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
+
+# Klage auf der Geschäftsstelle diktieren — § 90 SGG
+
+## Fachlicher Anker
+
+- **Normen:** § 90 SGG, § 7, § 7a.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Worum geht es?
+
+Sie wollen klagen, aber das Schreiben faellt Ihnen schwer. Vielleicht können Sie nicht so gut lesen oder schreiben. Vielleicht reichen Ihre Worte nicht. Diese Skill zeigt: Sie können ans Sozialgericht gehen und die Klage diktieren. Ein Mitarbeiter schreibt es auf.
+
+## In einfacher Sprache
+
+Sie können Ihre Klage muendlich machen. Im Sozialgericht. Ein Mitarbeiter schreibt für Sie. Sie unterschreiben. Fertig. Das kostet nichts.
+
+## Wann brauchen Sie diese Skill?
+
+- Schreiben faellt Ihnen schwer.
+- Sie sprechen besser als Sie schreiben.
+- Sie verstehen die Behördensprache nicht.
+- Sie wollen sichergehen, dass alles richtig formuliert ist.
+
+## Fachbegriffe (kurz erklaert)
+
+- **Niederschrift**: Ein offizielles schriftliches Protokoll.
+- **Geschäftsstelle**: Buero im Sozialgericht, wo Sie Antraege und Klagen abgeben.
+- **Rechtsantragsstelle**: Spezielle Stelle, die Buergern beim Formulieren hilft.
+
+## Rechtsgrundlagen
+
+- **§ 90 SGG** — Klage schriftlich oder zur Niederschrift.
+- **§ 91 SGG** — Niederschrift bei einem anderen Gericht möglich.
+
+## Schritt-für-Schritt-Anleitung
+
+### Schritt 1 — Termin organisieren
+
+Rufen Sie das Sozialgericht an. Sagen Sie: "Ich moechte eine Klage zur Niederschrift abgeben. Wann kann ich kommen?"
+
+Oeffnungszeiten der Geschäftsstellen meistens:
+
+- Montag bis Donnerstag 8:00 bis 12:00 Uhr
+- Manche auch 14:00 bis 15:30 Uhr
+- Freitag oft nur bis 12:00 Uhr
+
+Manche SG haben offene Sprechstunden, andere arbeiten nur mit Termin.
+
+### Schritt 2 — Unterlagen mitbringen
+
+- Personalausweis oder Pass
+- Bescheid und Widerspruchsbescheid (Original und Kopien)
+- Schriftverkehr mit Behörde
+- Aerztliche Atteste / Berichte
+- Versicherungsnummer / Aktenzeichen
+- Bei Bedarf Adresse der beklagten Behörde
+
+### Schritt 3 — Was die Geschäftsstelle macht
+
+Sie erzaehlen Ihren Fall. Der Mitarbeiter:
+
+- Stellt Fragen
+- Schreibt einen sauberen Klage-Schriftsatz
+- Formuliert den Antrag praezise
+- Druckt das Protokoll aus
+- Liest es Ihnen vor
+
+### Schritt 4 — Lesen und Unterschreiben
+
+- Lassen Sie sich das Protokoll vorlesen.
+- Korrigieren Sie, was nicht stimmt.
+- Erst dann unterschreiben.
+
+### Schritt 5 — Kopie mitnehmen
+
+Sie bekommen eine Kopie der Niederschrift. Aufheben! Das ist Ihr Beweis.
+
+### Schritt 6 — Weiter laeuft alles wie bei schriftlicher Klage
+
+- Klage wird an die beklagte Behörde zugestellt.
+- Behörde erwidert.
+- Verfahren laeuft.
+
+## Worauf Sie besonders achten müssen
+
+- **Klagebegruendung kann nachgereicht werden**: Bei der Niederschrift müssen Sie nicht alle Details liefern. Erst Klage einreichen, Frist sichern; Begruendung folgt schriftlich.
+- **Mitarbeiter sind freundlich**: Auf den Geschäftsstellen arbeiten Personen, die genau dafür da sind, Buergern zu helfen.
+- **Sprache**: Wenn Sie Deutsch nicht gut sprechen: Dolmetscher kann möglich sein (siehe `dolmetscher-beim-sozialgericht-laien`). Vorher anfragen.
+- **Begleitperson**: Sie dürfen jemanden mitnehmen. Familienmitglied, Freund, Sozialberater.
+
+## Typische Fehler
+
+- Ohne Bescheid kommen → nicht möglich, ohne Bescheid keine Klage
+- Frist verpasst, weil "ich gehe naechste Woche hin" → Termin sofort
+- Beim Vorlesen nicht zugehoert → wichtig: Protokoll muss stimmen
+- Original-Bescheid abgegeben → immer nur Kopie
+
+## Quellen und Aktualitaet
+
+Stand: 05/2026. § 90 SGG aktuell. Oeffnungszeiten variieren je SG; bitte direkt vorab anrufen oder auf der Website prüfen (www.sozialgerichtsbarkeit.de).
 
 ---
 

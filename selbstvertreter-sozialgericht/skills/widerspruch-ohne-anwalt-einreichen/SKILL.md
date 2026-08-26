@@ -1,6 +1,6 @@
 ---
 name: widerspruch-ohne-anwalt-einreichen
-description: "Wenn es um Widerspruch einreichen — die sicheren Wege in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Widerspruch einreichen — die sicheren Wege: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Widerspruch einreichen — die sicheren Wege

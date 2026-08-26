@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-versorgungssicherheit-monitoring-friste
-description: "Wenn es um Energie-Regulierungsakte: Versorgungssicherheit Monitoring — Fristen- und Bescheidanalyse in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energie-Regulierungsakte: Versorgungssicherheit Monitoring — Fristen- und Bescheidanalyse: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Energie-Regulierungsakte: Versorgungssicherheit Monitoring — Fristen- und Bescheidanalyse

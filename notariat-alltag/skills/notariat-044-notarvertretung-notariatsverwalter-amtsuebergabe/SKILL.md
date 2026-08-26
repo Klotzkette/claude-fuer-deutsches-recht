@@ -1,6 +1,6 @@
 ---
 name: notariat-044-notarvertretung-notariatsverwalter-amtsuebergabe
-description: "Wenn es um Notariat im Alltag: Notarvertretung Notariatsverwalter und Amtsübergabe in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Notarvertretung Notariatsverwalter und Amtsübergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Notarvertretung Notariatsverwalter und Amtsübergabe

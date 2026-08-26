@@ -1,6 +1,6 @@
 ---
 name: notariat-038-beschwerde-register-grundbuchentscheidung
-description: "Wenn es um Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentscheidung in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentscheidung

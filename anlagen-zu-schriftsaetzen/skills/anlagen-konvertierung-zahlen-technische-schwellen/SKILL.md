@@ -1,6 +1,6 @@
 ---
 name: anlagen-konvertierung-zahlen-technische-schwellen
-description: "Wenn es um Konvertierung, Zahlen und technische Schwellen in Anlagen zu Schriftsätzen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Anlagen Konvertierung Zahlen Technische Schwellen; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Konvertierung, Zahlen und technische Schwellen: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Anlagen zu Schriftsätzen. Route: anlagen-konvertierung-zahlen-technische-schwellen."
 ---
 
 # Konvertierung, Zahlen und technische Schwellen

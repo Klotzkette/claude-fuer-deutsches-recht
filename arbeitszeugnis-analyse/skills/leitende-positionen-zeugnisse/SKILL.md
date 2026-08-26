@@ -1,6 +1,6 @@
 ---
 name: leitende-positionen-zeugnisse
-description: "Wenn es um Arbeitszeugnisse für leitende Positionen in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitszeugnisse für leitende Positionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitszeugnisse für leitende Positionen

@@ -1,6 +1,6 @@
 ---
 name: steuererklaerung-ohne-vollstaendige-belege-rechtsprechungscheck
-description: "Wenn es um Steuererklaerung Ohne Vollstaendige Belege Rechtsprechungscheck in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Steuererklärung ohne Vollständige Belege Rechtsprechungscheck: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: steuererklaerung ohne vollstaendige belege - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

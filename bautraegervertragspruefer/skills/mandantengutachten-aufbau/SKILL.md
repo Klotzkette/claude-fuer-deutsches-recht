@@ -1,6 +1,6 @@
 ---
 name: mandantengutachten-aufbau
-description: "Wenn es um Mandantengutachten Aufbau in Bauträgervertragspruefer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mandantengutachten Aufbau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandantengutachten Aufbau

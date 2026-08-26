@@ -1,6 +1,6 @@
 ---
 name: versr-versicherungsvertragspruefung-bauleiter
-description: "Wenn es um Versr Versicherungsvertragspruefung Bauleiter in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versr Versicherungsvertragsprüfung Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Bauleiter Versicherungsvertragspruefung: vorvertragliche Anzeigepflicht § 19 VVG, Obliegenheiten § 28 VVG, Beweislast, Rechtsfolgen Verletzung

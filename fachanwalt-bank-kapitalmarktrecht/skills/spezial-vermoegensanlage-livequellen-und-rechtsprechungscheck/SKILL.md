@@ -1,6 +1,6 @@
 ---
 name: spezial-vermoegensanlage-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Vermoegensanlage: Livequellen- und Rechtsprechungscheck in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vermögensanlage: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vermoegensanlage: Livequellen- und Rechtsprechungscheck

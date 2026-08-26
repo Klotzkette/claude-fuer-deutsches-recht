@@ -1,6 +1,6 @@
 ---
 name: tdm-opt-out-maschinenlesbar-pruefen
-description: "Wenn es um TDM-Opt-out — Maschinenlesbarkeit prüfen und implementieren in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für TDM-Opt-out — Maschinenlesbarkeit prüfen und implementieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TDM-Opt-out — Maschinenlesbarkeit prüfen und implementieren

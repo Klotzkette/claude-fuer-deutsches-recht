@@ -1,6 +1,6 @@
 ---
 name: retention-and-setoff
-description: "Wenn es um Zurückbehaltungsrecht und Aufrechnung International in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zurückbehaltungsrecht und Aufrechnung International: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zurückbehaltungsrecht und Aufrechnung International

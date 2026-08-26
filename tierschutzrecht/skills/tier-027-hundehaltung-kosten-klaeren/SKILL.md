@@ -1,6 +1,6 @@
 ---
 name: tier-027-hundehaltung-kosten-klaeren
-description: "Wenn es um Hundehaltung Kosten Klaeren in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hundehaltung Kosten Klären: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tierschutzrecht. Route: tier-027-hundehaltung-kosten-klaeren."
 ---
 
 # Hundehaltung Kosten Klaeren

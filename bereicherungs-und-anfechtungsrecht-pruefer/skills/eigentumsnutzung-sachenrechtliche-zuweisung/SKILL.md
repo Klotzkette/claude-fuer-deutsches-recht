@@ -1,6 +1,6 @@
 ---
 name: eigentumsnutzung-sachenrechtliche-zuweisung
-description: "Wenn es um Eigentumsnutzung und sachenrechtliche Zuweisung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Eigentumsnutzung Sachenrechtliche Zuweisung; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Eigentumsnutzung und sachenrechtliche Zuweisung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: eigentumsnutzung-sachenrechtliche-zuweisung."
 ---
 
 # Eigentumsnutzung und sachenrechtliche Zuweisung

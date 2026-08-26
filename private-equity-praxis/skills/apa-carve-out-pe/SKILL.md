@@ -1,6 +1,6 @@
 ---
 name: apa-carve-out-pe
-description: "Wenn es um APA und Carve-out in Private Equity Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für APA und Carve-out: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # APA und Carve-out

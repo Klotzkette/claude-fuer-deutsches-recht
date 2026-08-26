@@ -1,6 +1,6 @@
 ---
 name: 05-est-pruefungsschema
-description: "Wenn es um 05 ESt Prüfungsschema in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für 05 ESt Prüfungsschema: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # 05 ESt Prüfungsschema

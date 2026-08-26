@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-bei-sanktionen-kammerantwort-und-v
-description: "Wenn es um Mandatsannahme Bei Sanktionen Kammerantwort Und V in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Mandatsannahme bei Sanktionen Kammerantwort und V: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: mandatsannahme bei sanktionen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

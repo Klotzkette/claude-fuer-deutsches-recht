@@ -1,6 +1,6 @@
 ---
 name: rom-081-lateinische-rechtsmaximen-pruefen
-description: "Wenn es um Lateinische Rechtsmaximen Pruefen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lateinische Rechtsmaximen Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: rom-081-lateinische-rechtsmaximen-pruefen."
 ---
 
 # Lateinische Rechtsmaximen Pruefen

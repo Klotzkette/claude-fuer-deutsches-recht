@@ -1,6 +1,6 @@
 ---
 name: spezial-closing-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Closing: Livequellen- und Rechtsprechungscheck in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Closing: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Closing: Livequellen- und Rechtsprechungscheck

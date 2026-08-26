@@ -1,6 +1,6 @@
 ---
 name: vorrang-fehlerkatalog
-description: "Wenn es um Vorrang Fehlerkatalog in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorrang Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorrang Fehlerkatalog

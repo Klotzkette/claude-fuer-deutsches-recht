@@ -1,6 +1,6 @@
 ---
 name: insolvenzreife
-description: "Wenn es um Insolvenzreife – Insiderrecht und Ad-hoc-Pflicht in Insiderrecht Compliance geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenzreife – Insiderrecht und Ad-hoc-Pflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenzreife – Insiderrecht und Ad-hoc-Pflicht

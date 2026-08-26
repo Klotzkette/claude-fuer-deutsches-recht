@@ -1,6 +1,6 @@
 ---
 name: kv-032-pkv-ktg-bu-au-pkv-ktg-bu-au
-description: "Wenn es um Krankenversicherung: PKV Krankentagegeld Berufsunfähigkeit und Arbeitsunfähigkeit in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: PKV Krankentagegeld Berufsunfähigkeit und Arbeitsunfähigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: PKV Krankentagegeld Berufsunfähigkeit und Arbeitsunfähigkeit

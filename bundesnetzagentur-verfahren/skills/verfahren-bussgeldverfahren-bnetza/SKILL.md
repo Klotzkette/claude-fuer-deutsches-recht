@@ -1,6 +1,6 @@
 ---
 name: verfahren-bussgeldverfahren-bnetza
-description: "Wenn es um Verfahren: Bußgeldverfahren BNetzA in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verfahren: Bußgeldverfahren BNetzA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfahren: Bußgeldverfahren BNetzA

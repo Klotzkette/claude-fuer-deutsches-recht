@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-sanktionen-embargos
-description: "Wenn es um EU-Sanktionen und Embargos: Triage und Sanktionslage-Übersicht in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU-Sanktionen und Embargos: Triage und Sanktionslage-Übersicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EU-Sanktionen und Embargos: Triage und Sanktionslage-Übersicht

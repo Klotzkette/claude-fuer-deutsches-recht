@@ -1,6 +1,6 @@
 ---
 name: beisitzer-rolle-bewertungsspielraum-grenzen
-description: "Wenn es um Beisitzerrolle mündliche Prüfung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beisitzerrolle mündliche Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beisitzerrolle mündliche Prüfung

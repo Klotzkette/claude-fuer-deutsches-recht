@@ -1,6 +1,6 @@
 ---
 name: versorgungssystem-international-schnittstellen
-description: "Wenn es um Versorgungssystem: Internationaler Bezug und Schnittstellen in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versorgungssystem: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Versorgungssystem: Internationaler Bezug und Schnittstellen

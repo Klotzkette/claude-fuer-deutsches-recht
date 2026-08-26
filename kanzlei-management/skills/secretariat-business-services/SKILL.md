@@ -1,6 +1,6 @@
 ---
 name: secretariat-business-services
-description: "Wenn es um Sekretariat und Business Services in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sekretariat und Business Services: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sekretariat und Business Services

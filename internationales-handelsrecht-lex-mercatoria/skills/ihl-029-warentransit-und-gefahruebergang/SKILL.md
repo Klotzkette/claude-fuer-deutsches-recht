@@ -1,6 +1,6 @@
 ---
 name: ihl-029-warentransit-und-gefahruebergang
-description: "Wenn es um Warentransit Und Gefahruebergang in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Warentransit und Gefahrübergang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Internationales Handelsrecht und Lex Mercatoria. Route: ihl-029-warentransit-und-gefahruebergang."
 ---
 
 # Warentransit Und Gefahruebergang

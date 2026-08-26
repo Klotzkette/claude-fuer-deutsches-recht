@@ -1,6 +1,6 @@
 ---
 name: rei-vindicatio
-description: "Wenn es um Rei Vindicatio in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rei Vindicatio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rei Vindicatio

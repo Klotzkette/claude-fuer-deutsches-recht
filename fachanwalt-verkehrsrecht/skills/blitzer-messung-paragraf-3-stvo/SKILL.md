@@ -1,6 +1,6 @@
 ---
 name: blitzer-messung-paragraf-3-stvo
-description: "Wenn es um Blitzer Messung Paragraf 3 StVO in Fachanwalt Verkehrsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Blitzer Messung Paragraf 3 StVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Blitzer Messung § 3 StVO

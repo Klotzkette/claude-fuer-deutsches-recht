@@ -1,6 +1,6 @@
 ---
 name: energie-nabeg-planfeststellung
-description: "Wenn es um Energie: NABEG Planfeststellung in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie: NABEG Planfeststellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie: NABEG Planfeststellung

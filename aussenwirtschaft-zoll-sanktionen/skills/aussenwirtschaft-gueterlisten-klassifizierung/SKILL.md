@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-gueterlisten-klassifizierung
-description: "Wenn es um Aussenwirtschaft Gueterlisten Klassifizierung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Außenwirtschaft Güterlisten Klassifizierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gueterlistenklassifizierung: Systematische Einreihung in Dual-Use und Ruestungsgueterlisten

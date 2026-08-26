@@ -1,6 +1,6 @@
 ---
 name: workflow-chronologie-und-belegmatrix
-description: "Wenn es um Chronologie und Belegmatrix für Subsumtion in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Chronologie und Belegmatrix für Subsumtion: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Chronologie und Belegmatrix für Subsumtion

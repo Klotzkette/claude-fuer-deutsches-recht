@@ -1,6 +1,6 @@
 ---
 name: normhierarchie-routing
-description: "Wenn es um Normhierarchie-Routing in Legistik-Werkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Normhierarchie-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Normhierarchie-Routing

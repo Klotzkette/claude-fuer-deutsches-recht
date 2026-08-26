@@ -1,6 +1,6 @@
 ---
 name: stil-und-ton-juristische-texte
-description: "Wenn es um Stil und Ton juristischer Texte in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stil und Ton juristischer Texte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stil und Ton juristischer Texte

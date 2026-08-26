@@ -1,6 +1,6 @@
 ---
 name: ausgleich-ausschlussgruende
-description: "Wenn es um Ausschlussgründe für den Ausgleichsanspruch nach Paragraf 89b Abs. 3 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Ausschlussgründe für den Ausgleichsanspruch nach Paragraf 89b Abs. 3 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausschlussgründe für den Ausgleichsanspruch nach § 89b Abs. 3 HGB

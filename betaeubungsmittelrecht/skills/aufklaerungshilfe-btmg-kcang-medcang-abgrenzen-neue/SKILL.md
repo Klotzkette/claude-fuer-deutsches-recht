@@ -1,6 +1,6 @@
 ---
 name: aufklaerungshilfe-btmg-kcang-medcang-abgrenzen-neue
-description: "Wenn es um Aufklaerungshilfe 31 Btmg in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufklärungshilfe 31 Btmg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Aufklaerungshilfe 31 Btmg

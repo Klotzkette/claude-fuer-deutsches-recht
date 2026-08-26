@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-ewpg-tokenisierung-und-registerrisiko
-description: "Wenn es um Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko

@@ -1,6 +1,6 @@
 ---
 name: sektor-logistik-haefen-schiene-luftfracht
-description: "Wenn es um Sektor Logistik, Häfen, Schiene und Luftfracht in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sektor Logistik, Häfen, Schiene und Luftfracht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sektor Logistik, Häfen, Schiene und Luftfracht

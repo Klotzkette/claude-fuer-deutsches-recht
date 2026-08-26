@@ -1,6 +1,6 @@
 ---
 name: dfg-koselleck-500k-praeregistrierung
-description: "Wenn es um Reinhart-Koselleck-Check in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Reinhart-Koselleck-Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: DFG-Förderantrag. Route: dfg-koselleck-500k-praeregistrierung."
 ---
 
 # Reinhart-Koselleck-Check

@@ -1,6 +1,6 @@
 ---
 name: rechtsrealismus-und-entscheidungsprognose
-description: "Wenn es um Rechtsrealismus und Prognose in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Rechtsrealismus und Prognose: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsrealismus und Prognose

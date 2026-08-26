@@ -1,6 +1,6 @@
 ---
 name: infl-065-red-team-creator-kampagne
-description: "Wenn es um Influencer-Recht: Red-Team Creator Kampagne in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Red-Team Creator Kampagne: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Influencer-Recht: Red-Team Creator Kampagne

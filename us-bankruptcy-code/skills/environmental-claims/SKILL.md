@@ -1,6 +1,6 @@
 ---
 name: environmental-claims
-description: "Wenn es um Environmental Claims in Bankruptcy in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Environmental Claims in Bankruptcy: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Environmental Claims in Bankruptcy

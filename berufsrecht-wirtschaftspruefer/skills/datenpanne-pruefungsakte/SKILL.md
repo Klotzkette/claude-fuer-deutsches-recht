@@ -1,6 +1,6 @@
 ---
 name: datenpanne-pruefungsakte
-description: "Wenn es um Datenpanne Pruefungsakte in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenpanne Prüfungsakte: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: datenpanne prüfungsakte - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

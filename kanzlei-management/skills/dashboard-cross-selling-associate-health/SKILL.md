@@ -1,6 +1,6 @@
 ---
 name: dashboard-cross-selling-associate-health
-description: "Wenn es um Cross-Selling ohne Nerven in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cross-Selling ohne Nerven: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cross-Selling ohne Nerven

@@ -1,6 +1,6 @@
 ---
 name: orientierung-drafting-partner-kommentar
-description: "Wenn es um Orientierung und Drafting-Triage in diesem Spezialbereich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Orientierung und Drafting-Triage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Orientierung und Drafting-Triage

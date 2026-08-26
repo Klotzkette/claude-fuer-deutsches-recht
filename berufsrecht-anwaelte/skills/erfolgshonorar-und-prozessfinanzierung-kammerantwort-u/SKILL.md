@@ -1,6 +1,6 @@
 ---
 name: erfolgshonorar-und-prozessfinanzierung-kammerantwort-u
-description: "Wenn es um Erfolgshonorar Und Prozessfinanzierung Kammerantwort U in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Erfolgshonorar und Prozessfinanzierung Kammerantwort U: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: erfolgshonorar und prozessfinanzierung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

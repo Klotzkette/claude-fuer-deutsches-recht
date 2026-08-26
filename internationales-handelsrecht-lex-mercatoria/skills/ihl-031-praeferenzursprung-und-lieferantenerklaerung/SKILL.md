@@ -1,6 +1,6 @@
 ---
 name: ihl-031-praeferenzursprung-und-lieferantenerklaerung
-description: "Wenn es um Praeferenzursprung Und Lieferantenerklaerung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Präferenzursprung und Lieferantenerklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praeferenzursprung Und Lieferantenerklaerung

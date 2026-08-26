@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-konzessionsvergabe-konzvgv
-description: "Wenn es um Konzessionsvergabe (KonzVgV) in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Konzessionsvergabe (KonzVgV): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konzessionsvergabe (KonzVgV)

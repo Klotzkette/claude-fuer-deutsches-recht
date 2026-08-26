@@ -1,6 +1,6 @@
 ---
 name: konnossement-wrackpflicht-pruefen
-description: "Wenn es um Konnossement – Wrackbeseitigungspflicht prüfen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konnossement – Wrackbeseitigungspflicht prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konnossement – Wrackbeseitigungspflicht prüfen

@@ -1,6 +1,6 @@
 ---
 name: vertragspruefung-fristennotiz-naechster
-description: "Wenn es um Vertragspruefung: Fristennotiz und nächster Schritt in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für die Auswahl: Vertragspruefung Fristennotiz Naechster."
+description: "Für Vertragsprüfung: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: vertragspruefung-fristennotiz-naechster."
 ---
 
 # Vertragspruefung: Fristennotiz und nächster Schritt

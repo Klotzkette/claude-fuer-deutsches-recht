@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-klausel
-description: "Wenn es um Vertraulichkeit Klausel in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertraulichkeit Klausel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertraulichkeit Klausel

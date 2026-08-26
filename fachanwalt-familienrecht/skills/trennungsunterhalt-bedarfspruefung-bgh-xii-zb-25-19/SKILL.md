@@ -1,6 +1,6 @@
 ---
 name: trennungsunterhalt-bedarfspruefung-bgh-xii-zb-25-19
-description: "Berechnet und begründet Trennungsunterhalt nach Paragraf 1361 BGB. Trennt Quoten- und konkrete Bedarfsbemessung, bereinigt beide Einkommen, prüft Erwerbsobliegenheit, Wohnvorteil, Vorsorge, Leistungsfähigkeit, Auskunft und Verzug und erstellt eine belegte Berechnung samt Auskunfts- oder Zahlungsantrag."
+description: "Für Trennungsunterhalt belastbar berechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Trennungsunterhalt belastbar berechnen

@@ -1,6 +1,6 @@
 ---
 name: apas-verfahren-antwortstrategie-kammerantwor
-description: "Wenn es um Apas Verfahren Antwortstrategie Kammerantwor in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Apas Verfahren Antwortstrategie Kammerantwor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Wirtschaftsprüfer: apas verfahren antwortstrategie - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

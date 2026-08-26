@@ -1,6 +1,6 @@
 ---
 name: gutachten-internes-ip-rechteuebertragung
-description: "Wenn es um Gutachten und internes Memo in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Gutachten und internes Memo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gutachten und internes Memo

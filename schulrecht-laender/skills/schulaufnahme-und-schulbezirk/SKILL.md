@@ -1,6 +1,6 @@
 ---
 name: schulaufnahme-und-schulbezirk
-description: "Wenn es um Schulaufnahme Und Schulbezirk in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulaufnahme und Schulbezirk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulaufnahme Und Schulbezirk

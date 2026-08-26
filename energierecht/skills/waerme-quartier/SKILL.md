@@ -1,6 +1,6 @@
 ---
 name: waerme-quartier
-description: "Wenn es um Wärme, Quartier und Fernwärme in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wärme, Quartier und Fernwärme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wärme, Quartier und Fernwärme

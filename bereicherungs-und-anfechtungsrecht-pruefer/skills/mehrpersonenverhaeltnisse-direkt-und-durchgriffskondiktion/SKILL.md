@@ -1,6 +1,6 @@
 ---
 name: mehrpersonenverhaeltnisse-direkt-und-durchgriffskondiktion
-description: "Wenn es um Mehrpersonenverhältnisse — Direkt- und Durchgriffskondiktion in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mehrpersonenverhältnisse — Direkt- und Durchgriffskondiktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: mehrpersonenverhaeltnisse-direkt-und-durchgriffskondiktion."
 ---
 
 # Mehrpersonenverhältnisse — Direkt- und Durchgriffskondiktion

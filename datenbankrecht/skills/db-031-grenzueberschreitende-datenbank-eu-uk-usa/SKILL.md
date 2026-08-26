@@ -1,6 +1,6 @@
 ---
 name: db-031-grenzueberschreitende-datenbank-eu-uk-usa
-description: "Wenn es um Datenbankrecht: Grenzüberschreitende Datenbank EU UK USA in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Grenzüberschreitende Datenbank EU UK USA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Datenbankrecht: Grenzüberschreitende Datenbank EU UK USA

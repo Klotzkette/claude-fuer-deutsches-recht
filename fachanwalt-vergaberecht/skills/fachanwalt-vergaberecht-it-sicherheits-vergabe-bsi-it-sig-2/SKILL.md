@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2
-description: "Wenn es um IT-Sicherheits-Vergabe — IT-SiG 2.0 / NIS2 in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IT-Sicherheits-Vergabe — IT-SiG 2.0 / NIS2: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IT-Sicherheits-Vergabe — IT-SiG 2.0 / NIS2

@@ -1,6 +1,6 @@
 ---
 name: fa-insolvenz-schuldschein-und-lma
-description: "Wenn es um Fa Insolvenz Schuldschein Und Lma in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fa Insolvenz Schuldschein und Lma: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüft Schuldschein- und LMA-Finanzierungen in Sanierung, Eigenverwaltung, StaRUG und Insolvenzplan.

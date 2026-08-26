@@ -1,6 +1,6 @@
 ---
 name: beendigungsgrund-formulieren
-description: "Formuliert den Beendigungs- oder Fortsetzungssatz passend zu Eigenkündigung, Befristungsende, Aufhebungsvertrag, Arbeitgeberkündigung oder Zwischenzeugnis. Prüft Wahrheitsgehalt, Einwilligung in freiwillige Angaben und Widersprüche zur Schlussformel."
+description: "Formuliert den Beendigungs- oder Fortsetzungssatz passend zu Eigenkündigung, Befristungsende, Aufhebungsvertrag, Arbeitgeberkündigung oder Zwischenzeugnis."
 ---
 
 # Beendigungsgrund formulieren

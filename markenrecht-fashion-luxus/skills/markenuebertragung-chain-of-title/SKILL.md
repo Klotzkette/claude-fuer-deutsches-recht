@@ -1,6 +1,6 @@
 ---
 name: markenuebertragung-chain-of-title
-description: "Wenn es um Markenübertragung und Chain of Title in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Markenübertragung und Chain of Title: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Markenübertragung und Chain of Title

@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-uebersicht
-description: "Wenn es um Akteneinsicht-Uebersicht in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Akteneinsicht-Übersicht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Aktenaufbereiter Strafrecht. Route: akteneinsicht-uebersicht."
 ---
 
 # Akteneinsicht-Uebersicht

@@ -1,6 +1,6 @@
 ---
 name: governing-law-hearing-script
-description: "Wenn es um Governing Law in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Governing Law: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Governing Law

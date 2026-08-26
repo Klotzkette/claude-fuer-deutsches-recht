@@ -1,6 +1,6 @@
 ---
 name: computerprogramm-verfahrensausschluss
-description: "Wenn es um Computerprogramm Und Verfahrensausschluss in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Computerprogramm und Verfahrensausschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Computerprogramm Und Verfahrensausschluss

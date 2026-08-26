@@ -1,6 +1,6 @@
 ---
 name: dora-ict-einlagensicherung-kundenhinweise
-description: "Wenn es um DORA IKT-Verträge und Vorfälle in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für DORA IKT-Verträge und Vorfälle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DORA IKT-Verträge und Vorfälle

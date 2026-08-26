@@ -1,6 +1,6 @@
 ---
 name: marketing-akquise-neue-weg-mandate
-description: "Wenn es um Marketing: Akquise neuer WEG-Verwaltungsmandate in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Marketing: Akquise neuer WEG-Verwaltungsmandate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Marketing: Akquise neuer WEG-Verwaltungsmandate

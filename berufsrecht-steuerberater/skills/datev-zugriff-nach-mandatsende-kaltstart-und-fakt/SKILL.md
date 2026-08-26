@@ -1,6 +1,6 @@
 ---
 name: datev-zugriff-nach-mandatsende-kaltstart-und-fakt
-description: "Wenn es um Datev Zugriff Nach Mandatsende Kaltstart Und Fakt in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DATEV Zugriff nach Mandatsende Kaltstart und Fakt: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: datev zugriff nach mandatsende - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

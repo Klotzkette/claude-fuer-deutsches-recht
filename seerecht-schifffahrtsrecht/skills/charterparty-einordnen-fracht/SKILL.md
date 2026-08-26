@@ -1,6 +1,6 @@
 ---
 name: charterparty-einordnen-fracht
-description: "Wenn es um Charterparty einordnen – Vertragstyp und Haftungsmatrix in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Charterparty einordnen – Vertragstyp und Haftungsmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Charterparty einordnen – Vertragstyp und Haftungsmatrix

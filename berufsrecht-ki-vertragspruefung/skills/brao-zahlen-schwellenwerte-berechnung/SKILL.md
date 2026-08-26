@@ -1,6 +1,6 @@
 ---
 name: brao-zahlen-schwellenwerte-berechnung
-description: "Wenn es um Brao: Zahlen, Schwellenwerte und Berechnung in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BRAO: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: brao-zahlen-schwellenwerte-berechnung."
 ---
 
 # Brao: Zahlen, Schwellenwerte und Berechnung

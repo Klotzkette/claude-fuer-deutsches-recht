@@ -1,6 +1,6 @@
 ---
 name: verl-027-verlagsagentur-literaturagentur-und-provision
-description: "Wenn es um Verlagsrecht: Verlagsagentur Literaturagentur und Provision in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Verlagsagentur Literaturagentur und Provision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Verlagsagentur Literaturagentur und Provision

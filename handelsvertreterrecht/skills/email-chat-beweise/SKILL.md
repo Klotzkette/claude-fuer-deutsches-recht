@@ -1,6 +1,6 @@
 ---
 name: email-chat-beweise
-description: "Wenn es um Email Chat Beweise in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Email Chat Beweise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Email Chat Beweise

@@ -1,6 +1,6 @@
 ---
 name: blutprodukte-transfusionsrecht-system-klinik
-description: "Wenn es um Blutprodukte Transfusionsrecht Dokumentation in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Blutprodukte Transfusionsrecht Dokumentation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Blutprodukte Transfusionsrecht Dokumentation

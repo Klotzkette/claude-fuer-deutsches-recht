@@ -1,6 +1,6 @@
 ---
 name: beschlagnahme-fristen-form-und-zustaendigkeit
-description: "Wenn es um Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg

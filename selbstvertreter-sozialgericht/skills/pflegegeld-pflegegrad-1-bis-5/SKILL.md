@@ -1,6 +1,6 @@
 ---
 name: pflegegeld-pflegegrad-1-bis-5
-description: "Wenn es um Pflegegeld Pflegegrad 1 Bis 5 in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pflegegeld Pflegegrad 1 bis 5: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflegegeld Pflegegrad 1 Bis 5

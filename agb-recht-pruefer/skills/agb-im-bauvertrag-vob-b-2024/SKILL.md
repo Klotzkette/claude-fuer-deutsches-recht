@@ -1,6 +1,6 @@
 ---
 name: agb-im-bauvertrag-vob-b-2024
-description: "Wenn es um Agb Im Bauvertrag Vob B 2024 in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB im Bauvertrag VOB B 2024: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agb Im Bauvertrag Vob B 2024

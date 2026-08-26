@@ -1,6 +1,6 @@
 ---
 name: geldstrafe-vs-freiheitsstrafe-47-stgb
-description: "Wenn es um Geldstrafe vs. Freiheitsstrafe — Paragraf 47 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geldstrafe vs. Freiheitsstrafe — Paragraf 47 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geldstrafe vs. Freiheitsstrafe — § 47 StGB

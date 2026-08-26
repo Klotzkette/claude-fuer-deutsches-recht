@@ -1,6 +1,6 @@
 ---
 name: bauordnungsrechtliche-schnittstelle
-description: "Wenn es um Bauordnungsrechtliche Schnittstelle in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bauordnungsrechtliche Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauordnungsrechtliche Schnittstelle

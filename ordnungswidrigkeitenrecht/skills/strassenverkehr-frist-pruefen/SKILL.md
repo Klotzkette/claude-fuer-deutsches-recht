@@ -1,6 +1,6 @@
 ---
 name: strassenverkehr-frist-pruefen
-description: "Wenn es um Strassenverkehr Frist Prüfen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenverkehr Frist Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Ordnungswidrigkeitenrecht. Route: strassenverkehr-frist-pruefen."
 ---
 
 # Strassenverkehr Frist Prüfen

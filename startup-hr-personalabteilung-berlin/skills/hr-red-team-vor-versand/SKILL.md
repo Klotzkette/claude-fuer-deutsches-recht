@@ -1,6 +1,6 @@
 ---
 name: hr-red-team-vor-versand
-description: "Wenn es um HR Red Team Vor Versand in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HR Red Team vor Versand: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # HR Red Team Vor Versand

@@ -1,6 +1,6 @@
 ---
 name: 06-umwandlung-eintragen
-description: "Wenn es um 06 Umwandlung Eintragen in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 06 Umwandlung Eintragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 06 Umwandlung Eintragen

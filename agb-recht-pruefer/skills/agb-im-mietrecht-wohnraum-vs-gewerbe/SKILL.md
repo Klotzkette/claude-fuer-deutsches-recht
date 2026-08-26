@@ -1,6 +1,6 @@
 ---
 name: agb-im-mietrecht-wohnraum-vs-gewerbe
-description: "Wenn es um Agb Im Mietrecht Wohnraum Vs Gewerbe in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB im Mietrecht Wohnraum Vs Gewerbe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agb Im Mietrecht Wohnraum Vs Gewerbe

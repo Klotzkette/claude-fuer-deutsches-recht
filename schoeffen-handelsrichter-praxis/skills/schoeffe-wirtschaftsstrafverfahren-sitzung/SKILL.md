@@ -1,6 +1,6 @@
 ---
 name: schoeffe-wirtschaftsstrafverfahren-sitzung
-description: "Wenn es um Wirtschaftsstrafverfahren für Schöffen: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Wirtschaftsstrafverfahren für Schöffen: Sitzungspraxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsstrafverfahren für Schöffen: Sitzungspraxis

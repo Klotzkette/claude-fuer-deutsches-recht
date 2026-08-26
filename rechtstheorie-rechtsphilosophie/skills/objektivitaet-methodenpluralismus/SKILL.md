@@ -1,6 +1,6 @@
 ---
 name: objektivitaet-methodenpluralismus
-description: "Wenn es um Objektivität und Methodenpluralismus in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Objektivität und Methodenpluralismus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Objektivität und Methodenpluralismus

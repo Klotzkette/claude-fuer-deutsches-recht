@@ -1,6 +1,6 @@
 ---
 name: wirtschaftsrecht-im-20-jahrhundert
-description: "Wenn es um Wirtschaftsrecht im 20. Jahrhundert in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wirtschaftsrecht im 20. Jahrhundert: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsrecht im 20. Jahrhundert

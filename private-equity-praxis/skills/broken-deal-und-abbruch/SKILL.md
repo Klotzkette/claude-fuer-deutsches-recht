@@ -1,6 +1,6 @@
 ---
 name: broken-deal-und-abbruch
-description: "Wenn es um Broken Deal: Abbruch, Kosten und Haftung in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Broken Deal: Abbruch, Kosten und Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Broken Deal: Abbruch, Kosten und Haftung

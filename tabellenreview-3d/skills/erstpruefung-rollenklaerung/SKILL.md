@@ -1,6 +1,6 @@
 ---
 name: erstpruefung-rollenklaerung
-description: "Wenn es um Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel in Tabellenreview 3D geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erstpruefung Rollenklaerung; Arbeitsfeld: Tabellenreview 3D."
+description: "Für Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Tabellenreview 3D. Route: erstpruefung-rollenklaerung."
 ---
 
 # Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel

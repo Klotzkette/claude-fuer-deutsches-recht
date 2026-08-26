@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-inhalt-409-pruefung
-description: "Wenn es um Strafbefehlsinhalt prüfen — Paragraf 409 StPO in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafbefehlsinhalt prüfen — Paragraf 409 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Strafbefehlsinhalt prüfen — § 409 StPO

@@ -1,6 +1,6 @@
 ---
 name: rentenversicherungspflicht
-description: "Wenn es um Rentenversicherungspflicht in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rentenversicherungspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sozialversicherung und Vorsorge: Prüft rentenversicherungspflichtige selbstständigkeit und berufsgruppen

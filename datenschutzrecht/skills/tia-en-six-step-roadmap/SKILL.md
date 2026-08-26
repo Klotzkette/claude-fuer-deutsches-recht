@@ -1,6 +1,6 @@
 ---
 name: tia-en-six-step-roadmap
-description: "Wenn es um Transfer Impact Assessment – EDPB Six-Step Roadmap (English) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transfer Impact Assessment – EDPB Six-Step Roadmap (English): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transfer Impact Assessment – EDPB Six-Step Roadmap (English)

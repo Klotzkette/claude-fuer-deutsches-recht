@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-bilanzkreis-strom-unterlagenanforderung
-description: "Wenn es um Energie-Regulierungsakte: Bilanzkreis Strom — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: Bilanzkreis Strom — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: Bilanzkreis Strom — Unterlagenanforderung

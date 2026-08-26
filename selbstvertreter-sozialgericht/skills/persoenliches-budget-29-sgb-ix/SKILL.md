@@ -1,6 +1,6 @@
 ---
 name: persoenliches-budget-29-sgb-ix
-description: "Wenn es um Persoenliches Budget 29 Sgb Ix in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Persönliches Budget 29 SGB Ix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Persoenliches Budget 29 Sgb Ix

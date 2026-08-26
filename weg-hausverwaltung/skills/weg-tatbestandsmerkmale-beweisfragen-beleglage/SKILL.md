@@ -1,6 +1,6 @@
 ---
 name: weg-tatbestandsmerkmale-beweisfragen-beleglage
-description: "Wenn es um WEG: Tatbestandsmerkmale, Beweisfragen und Beleglage in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für WEG: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # WEG: Tatbestandsmerkmale, Beweisfragen und Beleglage

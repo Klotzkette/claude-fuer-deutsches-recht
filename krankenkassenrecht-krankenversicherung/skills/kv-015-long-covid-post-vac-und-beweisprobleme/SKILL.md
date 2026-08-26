@@ -1,6 +1,6 @@
 ---
 name: kv-015-long-covid-post-vac-und-beweisprobleme
-description: "Wenn es um Krankenversicherung: Long Covid Post Vac und Beweisprobleme in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Long Covid Post Vac und Beweisprobleme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Krankenversicherung: Long Covid Post Vac und Beweisprobleme

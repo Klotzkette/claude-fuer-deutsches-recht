@@ -1,6 +1,6 @@
 ---
 name: aufgabenkreise-festlegen
-description: "Wenn es um Aufgabenkreise festlegen in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Aufgabenkreise festlegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufgabenkreise festlegen

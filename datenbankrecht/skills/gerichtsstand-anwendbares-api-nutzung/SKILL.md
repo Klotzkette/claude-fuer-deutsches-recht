@@ -1,6 +1,6 @@
 ---
 name: gerichtsstand-anwendbares-api-nutzung
-description: "Wenn es um Gerichtsstand und anwendbares Recht im Datenbankrecht in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Gerichtsstand und anwendbares Recht im Datenbankrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gerichtsstand und anwendbares Recht im Datenbankrecht

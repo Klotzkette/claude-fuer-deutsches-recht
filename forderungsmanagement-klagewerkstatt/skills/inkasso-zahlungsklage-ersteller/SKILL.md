@@ -1,6 +1,6 @@
 ---
 name: inkasso-zahlungsklage-ersteller
-description: "Wenn es um Inkasso-Zahlungsklage-Ersteller in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Inkasso-Zahlungsklage-Ersteller: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Inkasso-Zahlungsklage-Ersteller

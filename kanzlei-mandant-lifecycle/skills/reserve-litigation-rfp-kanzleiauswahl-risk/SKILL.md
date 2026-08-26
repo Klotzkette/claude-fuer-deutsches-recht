@@ -1,6 +1,6 @@
 ---
 name: reserve-litigation-rfp-kanzleiauswahl-risk
-description: "Wenn es um Reserve Litigation Risk in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reserve Litigation Risk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reserve Litigation Risk

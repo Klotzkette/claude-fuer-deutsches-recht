@@ -1,6 +1,6 @@
 ---
 name: cives-sine-suffragio-municipia-iure
-description: "Wenn es um Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom 158 Cives Sine Suffragio und Municipia Sine Iure Suffragii: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii

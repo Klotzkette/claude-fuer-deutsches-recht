@@ -1,6 +1,6 @@
 ---
 name: datenraum-index-pe
-description: "Wenn es um Datenraum-Index PE in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenraum-Index PE: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenraum-Index PE

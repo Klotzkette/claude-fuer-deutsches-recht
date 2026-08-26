@@ -1,6 +1,6 @@
 ---
 name: scheme-of-arrangement
-description: "Wenn es um Scheme of Arrangement in Fachanwalt Insolvenz- und Sanierungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Scheme of Arrangement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Scheme of Arrangement

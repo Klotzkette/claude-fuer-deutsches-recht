@@ -1,6 +1,6 @@
 ---
 name: notar-gesellschafterliste-register
-description: "Wenn es um Notar Gesellschafterliste Register in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Notar Gesellschafterliste Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Notare: gesellschafterliste nach auslandsinsolvenz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

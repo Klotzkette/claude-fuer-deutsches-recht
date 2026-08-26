@@ -1,6 +1,6 @@
 ---
 name: surrogat-erloes-triage-vermoegensverschiebung
-description: "Wenn es um Surrogat, Erlös, Versicherung und Ersatzforderung in bereicherungs-und-anfechtungsrecht-prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Surrogat, Erlös, Versicherung und Ersatzforderung: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Surrogat, Erlös, Versicherung und Ersatzforderung

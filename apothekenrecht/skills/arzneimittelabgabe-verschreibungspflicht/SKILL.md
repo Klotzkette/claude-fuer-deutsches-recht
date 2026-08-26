@@ -1,6 +1,6 @@
 ---
 name: arzneimittelabgabe-verschreibungspflicht
-description: "Wenn es um Arzneimittelabgabe Verschreibungspflicht in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Arzneimittelabgabe Verschreibungspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arzneimittelabgabe Verschreibungspflicht

@@ -1,6 +1,6 @@
 ---
 name: astronautenausbildung-vertrag-haftung-versicherung
-description: "Wenn es um Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge

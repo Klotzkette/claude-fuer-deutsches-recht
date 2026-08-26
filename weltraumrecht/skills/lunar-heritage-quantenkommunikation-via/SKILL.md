@@ -1,6 +1,6 @@
 ---
 name: lunar-heritage-quantenkommunikation-via
-description: "Wenn es um Lunar Heritage und Schutz historischer Mondlandestellen in Weltraumrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Lunar Heritage und Schutz historischer Mondlandestellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lunar Heritage und Schutz historischer Mondlandestellen

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-betroffenenrechte-auskunft
-description: "Wenn es um Datenschutz: Betroffenenrechte – Auskunft, Löschung, Widerspruch im WEG in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz: Betroffenenrechte – Auskunft, Löschung, Widerspruch im WEG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz: Betroffenenrechte – Auskunft, Löschung, Widerspruch im WEG

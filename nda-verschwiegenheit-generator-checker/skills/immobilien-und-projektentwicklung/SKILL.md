@@ -1,6 +1,6 @@
 ---
 name: immobilien-und-projektentwicklung
-description: "Wenn es um Immobilien Und Projektentwicklung in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Immobilien und Projektentwicklung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Immobilien Und Projektentwicklung

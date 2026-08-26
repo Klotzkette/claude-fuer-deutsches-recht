@@ -1,6 +1,6 @@
 ---
 name: data-board
-description: "Wenn es um Sicherer Data Room für Counsel und Behörden in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sicherer Data Room für Counsel und Behörden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sicherer Data Room für Counsel und Behörden

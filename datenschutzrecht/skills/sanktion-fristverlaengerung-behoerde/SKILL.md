@@ -1,6 +1,6 @@
 ---
 name: sanktion-fristverlaengerung-behoerde
-description: "Wenn es um Fristverlängerung gegenüber Aufsicht in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristverlängerung gegenüber Aufsicht: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Datenschutzrecht."
 ---
 
 # Fristverlängerung gegenüber Aufsicht

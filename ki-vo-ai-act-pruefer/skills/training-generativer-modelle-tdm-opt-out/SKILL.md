@@ -1,6 +1,6 @@
 ---
 name: training-generativer-modelle-tdm-opt-out
-description: "Wenn es um Training generativer Modelle: TDM und Opt-out in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Training generativer Modelle: TDM und Opt-out: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Training generativer Modelle: TDM und Opt-out

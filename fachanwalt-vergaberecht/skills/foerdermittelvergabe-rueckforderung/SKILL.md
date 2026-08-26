@@ -1,6 +1,6 @@
 ---
 name: foerdermittelvergabe-rueckforderung
-description: "Wenn es um Foerdermittelvergabe Rueckforderung in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fördermittelvergabe Rückforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Foerdermittelvergaben und Rueckforderungsrisiken prüfen: Nebenbestimmungen, ANBest, Vergabeverstoesse, Dokumentation, Heilung und Kommunikation mit Zuwendungsgebern.

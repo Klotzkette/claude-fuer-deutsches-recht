@@ -1,6 +1,6 @@
 ---
 name: projektfoerderung-parlamentsfrage-vorb
-description: "Wenn es um Projektfoerderung Parlamentsfrage Vorb in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Projektförderung Parlamentsfrage Vorb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Projektfoerderung Parlamentsfrage Vorb

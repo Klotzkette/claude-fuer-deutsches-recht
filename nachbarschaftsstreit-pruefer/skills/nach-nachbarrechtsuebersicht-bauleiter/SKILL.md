@@ -1,6 +1,6 @@
 ---
 name: nach-nachbarrechtsuebersicht-bauleiter
-description: "Wenn es um Nach: Nachbarrecht-Übersicht in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nach: Nachbarrecht-Übersicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nach: Nachbarrecht-Übersicht

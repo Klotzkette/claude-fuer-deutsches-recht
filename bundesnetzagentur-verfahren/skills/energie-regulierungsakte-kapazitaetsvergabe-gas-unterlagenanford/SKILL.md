@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-kapazitaetsvergabe-gas-unterlagenanford
-description: "Wenn es um Energie-Regulierungsakte: Kapazitätsvergabe Gas — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: Kapazitätsvergabe Gas — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: Kapazitätsvergabe Gas — Unterlagenanforderung

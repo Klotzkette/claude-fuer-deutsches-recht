@@ -1,6 +1,6 @@
 ---
 name: medr-mvz-strukturierung-spezial
-description: "Wenn es um Medr Mvz Strukturierung Spezial in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Medr Mvz Strukturierung Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall MVZ-Strukturierung: Traegerschaft GmbH, KH, Vertragsarzt, Genossenschaft

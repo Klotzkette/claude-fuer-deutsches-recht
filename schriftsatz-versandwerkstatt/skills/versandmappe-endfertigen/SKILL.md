@@ -1,6 +1,6 @@
 ---
 name: versandmappe-endfertigen
-description: "Orchestriert die vollständige Endfertigung eines bereits geschriebenen Schriftsatzes mit gemischten Anlagen: liest den Arbeitsordner zuerst, erzeugt eine Produktionsmatrix, konvertiert Quellen kontrolliert in PDF, stempelt und benennt Anlagen, prüft ERVB-Grenzen, Absender und Signaturroute und liefert Versandordner, Manifest, Freigabevermerk und Eingangskontrolle, ohne selbst zu versenden."
+description: "Orchestriert die vollständige Endfertigung eines bereits geschriebenen Schriftsatzes mit gemischten Anlagen: liest den Arbeitsordner zuerst, erzeugt eine Produktionsmatrix, konvertiert Quellen kontrolliert in PDF, stempelt und benennt Anlagen, prüft ERVB-Grenzen, Absender und Signaturroute und liefert Versandordner, Manifest, Freigabevermerk und."
 ---
 
 # Versandmappe endfertigen

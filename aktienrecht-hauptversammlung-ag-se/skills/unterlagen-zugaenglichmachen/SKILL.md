@@ -1,6 +1,6 @@
 ---
 name: unterlagen-zugaenglichmachen
-description: "Wenn es um Unterlagen Zugaenglichmachen in Hauptversammlung AG und SE geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Unterlagen Zugänglichmachen: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Unterlagen Zugaenglichmachen

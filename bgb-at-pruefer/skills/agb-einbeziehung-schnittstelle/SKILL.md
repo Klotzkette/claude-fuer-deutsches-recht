@@ -1,6 +1,6 @@
 ---
 name: agb-einbeziehung-schnittstelle
-description: "Wenn es um AGB-Einbeziehung und Inhaltskontrolle — Paragrafen 305 bis 310 BGB in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Einbeziehung Schnittstelle; Arbeitsfeld: BGB AT Prüfer."
+description: "Für AGB-Einbeziehung und Inhaltskontrolle — Paragrafen 305 bis 310 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: agb-einbeziehung-schnittstelle."
 ---
 
 # AGB-Einbeziehung und Inhaltskontrolle — §§ 305 bis 310 BGB

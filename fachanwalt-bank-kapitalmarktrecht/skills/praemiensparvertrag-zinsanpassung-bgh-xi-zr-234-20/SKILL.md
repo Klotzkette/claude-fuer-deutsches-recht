@@ -1,6 +1,6 @@
 ---
 name: praemiensparvertrag-zinsanpassung-bgh-xi-zr-234-20
-description: "Berechnet Zinsnachforderungen aus variabel verzinsten Prämiensparverträgen. Prüft Klausel, ergänzende Vertragsauslegung, passenden langfristigen Referenzzins, monatliche Verhältnismethode, Prämien, Fälligkeit und Verjährung und erstellt reproduzierbare Kontenrechnung und Zahlungsantrag."
+description: "Für Prämiensparzinsen neu berechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prämiensparzinsen neu berechnen

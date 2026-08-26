@@ -1,6 +1,6 @@
 ---
 name: fruehe-veroeffentlichung-konferenz-kaltstart
-description: "Wenn es um Fruehe Veroeffentlichung Konferenz Kaltstart in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Frühe Veröffentlichung Konferenz Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: fruehe veroeffentlichung konferenz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

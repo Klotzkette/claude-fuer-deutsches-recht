@@ -1,6 +1,6 @@
 ---
 name: management-presentation-prep
-description: "Wenn es um Management Presentation Prep in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Management Presentation Prep: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: management-presentation-prep."
 ---
 
 # Management-Presentation-Prep: bereitet Fragen, Red-Flags, Sprechzettel, Follow-up-Requests und Expert-Call-Protokolle für M&A-Managementtermine vor.

@@ -1,6 +1,6 @@
 ---
 name: bebauungsplan-klagefrist-sichern
-description: "Wenn es um Bebauungsplan Klagefrist Sichern in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bebauungsplan Klagefrist Sichern: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Bebauungsplan Klagefrist Sichern

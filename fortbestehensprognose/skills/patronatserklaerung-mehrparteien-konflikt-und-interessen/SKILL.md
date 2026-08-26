@@ -1,6 +1,6 @@
 ---
 name: patronatserklaerung-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Patronatserklaerung: Mehrparteienkonflikt und Interessenmatrix in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Patronatserklärung: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patronatserklaerung: Mehrparteienkonflikt und Interessenmatrix

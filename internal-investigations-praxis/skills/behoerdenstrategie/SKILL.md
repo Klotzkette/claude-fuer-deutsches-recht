@@ -1,6 +1,6 @@
 ---
 name: behoerdenstrategie
-description: "Wenn es um Behördenstrategie und Self-Reporting in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Behördenstrategie und Self-Reporting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Behördenstrategie und Self-Reporting

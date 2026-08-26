@@ -1,6 +1,6 @@
 ---
 name: china-incident-response-media-and-public
-description: "Wenn es um Incident Response China: Behördliche Maßnahmen und Notfallprotokoll in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Incident Response China: Behördliche Maßnahmen und Notfallprotokoll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Incident Response China: Behördliche Maßnahmen und Notfallprotokoll

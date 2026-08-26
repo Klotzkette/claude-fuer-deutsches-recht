@@ -1,6 +1,6 @@
 ---
 name: settlement-verlagsrecht-buch-vg-bild
-description: "Wenn es um Vergleich und Settlement in Urheberrecht DE EU geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich und Settlement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vergleich und Settlement

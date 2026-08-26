@@ -1,6 +1,6 @@
 ---
 name: defi-lending-yield-farming-bmf-22-11-2024
-description: "Wenn es um DeFi-Lending / Yield Farming — Steuerliche Behandlung (BMF-Schreiben) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DeFi-Lending / Yield Farming — Steuerliche Behandlung (BMF-Schreiben): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DeFi-Lending / Yield Farming — Steuerliche Behandlung (BMF-Schreiben)

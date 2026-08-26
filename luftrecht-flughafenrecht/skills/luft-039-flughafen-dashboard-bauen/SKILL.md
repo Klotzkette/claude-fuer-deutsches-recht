@@ -1,6 +1,6 @@
 ---
 name: luft-039-flughafen-dashboard-bauen
-description: "Wenn es um Flughafen Dashboard Bauen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Flughafen Dashboard Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Flughafen Dashboard Bauen

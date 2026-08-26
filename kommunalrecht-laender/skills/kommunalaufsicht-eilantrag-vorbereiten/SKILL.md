@@ -1,6 +1,6 @@
 ---
 name: kommunalaufsicht-eilantrag-vorbereiten
-description: "Wenn es um Kommunalaufsicht Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kommunalaufsicht Eilantrag Vorbereiten: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Kommunalaufsicht Eilantrag Vorbereiten

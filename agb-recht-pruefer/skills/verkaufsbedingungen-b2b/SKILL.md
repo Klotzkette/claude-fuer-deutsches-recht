@@ -1,6 +1,6 @@
 ---
 name: verkaufsbedingungen-b2b
-description: "Wenn es um Verkaufsbedingungen B2B in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Verkaufsbedingungen B2B: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verkaufsbedingungen B2B

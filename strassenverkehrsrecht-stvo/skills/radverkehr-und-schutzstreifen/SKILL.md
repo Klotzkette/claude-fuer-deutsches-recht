@@ -1,6 +1,6 @@
 ---
 name: radverkehr-und-schutzstreifen
-description: "Wenn es um Radverkehr Und Schutzstreifen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Radverkehr und Schutzstreifen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Radverkehr Und Schutzstreifen

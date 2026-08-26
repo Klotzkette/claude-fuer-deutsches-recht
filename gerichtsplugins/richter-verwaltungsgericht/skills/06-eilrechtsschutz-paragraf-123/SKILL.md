@@ -1,6 +1,6 @@
 ---
 name: 06-eilrechtsschutz-paragraf-123
-description: "Wenn es um 06 Eilrechtsschutz Paragraf 123 in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für 06 Eilrechtsschutz Paragraf 123: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 06 Eilrechtsschutz Paragraf 123

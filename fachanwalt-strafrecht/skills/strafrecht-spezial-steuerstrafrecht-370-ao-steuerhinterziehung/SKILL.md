@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-steuerstrafrecht-370-ao-steuerhinterziehung
-description: "Wenn es um Steuerhinterziehung nach Paragraph 370 AO in Fachanwalt Strafrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Steuerhinterziehung nach Paragraph 370 AO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerhinterziehung nach Paragraph 370 AO

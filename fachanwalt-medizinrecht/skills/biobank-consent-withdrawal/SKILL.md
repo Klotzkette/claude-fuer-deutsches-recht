@@ -1,6 +1,6 @@
 ---
 name: biobank-consent-withdrawal
-description: "Wenn es um Biobank Consent Withdrawal in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Biobank Consent Withdrawal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Biobank Consent Withdrawal: moderner Medizinrechts-Skill für Biobankprobe, Broad Consent, Widerruf, Forschungsnutzung und Rückmeldung von Zufallsbefunden

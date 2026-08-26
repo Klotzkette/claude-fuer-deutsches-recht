@@ -1,6 +1,6 @@
 ---
 name: einschlaegige-normen-vorschlagen-eu
-description: "Wenn es um Einschlägige Normen vorschlagen — Unionsrecht in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einschlägige Normen vorschlagen — Unionsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Einschlägige Normen vorschlagen — Unionsrecht

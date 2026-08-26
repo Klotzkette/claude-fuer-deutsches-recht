@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-ip-strafrecht-verteidigung
-description: "Wenn es um Verteidigung im IP-Strafrecht und Strafantragsfristen in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verteidigung im IP-Strafrecht und Strafantragsfristen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verteidigung im IP-Strafrecht und Strafantragsfristen

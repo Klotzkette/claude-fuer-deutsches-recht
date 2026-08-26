@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-wbo-arbeitsrecht-zivile
-description: "Wenn es um Akteneinsicht nach WBO und WDO in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Akteneinsicht nach WBO und WDO: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Akteneinsicht nach WBO und WDO

@@ -1,6 +1,6 @@
 ---
 name: dekanat-organstreit
-description: "Wenn es um Dekanat und Organstreit in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dekanat und Organstreit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dekanat und Organstreit

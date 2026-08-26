@@ -1,6 +1,6 @@
 ---
 name: datenminimierung-edge-cloud
-description: "Wenn es um Datenminimierung in der Edge/Cloud-Architektur in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenminimierung Edge Cloud; Arbeitsfeld: robotik-recht."
+description: "Für Datenminimierung in der Edge/Cloud-Architektur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenminimierung in der Edge/Cloud-Architektur

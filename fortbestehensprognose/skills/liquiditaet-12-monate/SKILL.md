@@ -1,6 +1,6 @@
 ---
 name: liquiditaet-12-monate
-description: "Wenn es um Zwölf-Monats-Liquidität in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zwölf-Monats-Liquidität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zwölf-Monats-Liquidität

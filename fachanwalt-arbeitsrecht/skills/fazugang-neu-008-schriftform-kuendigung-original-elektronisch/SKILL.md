@@ -1,6 +1,6 @@
 ---
 name: fazugang-neu-008-schriftform-kuendigung-original-elektronisch
-description: "Wenn es um Fachanwalt Arbeitsrecht: Schriftform Kündigung Original und elektronische Kommunikation in Fachanwalt Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachanwalt Arbeitsrecht: Schriftform Kündigung Original und elektronische Kommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fachanwalt Arbeitsrecht: Schriftform Kündigung Original und elektronische Kommunikation

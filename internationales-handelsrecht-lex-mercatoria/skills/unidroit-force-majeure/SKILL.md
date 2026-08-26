@@ -1,6 +1,6 @@
 ---
 name: unidroit-force-majeure
-description: "Wenn es um Force Majeure: PICC Art. 7.1.7 und CISG Art. 79 in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Force Majeure: PICC Art. 7.1.7 und CISG Art. 79: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Force Majeure: PICC Art. 7.1.7 und CISG Art. 79

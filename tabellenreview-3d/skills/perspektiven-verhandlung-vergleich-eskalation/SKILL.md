@@ -1,6 +1,6 @@
 ---
 name: perspektiven-verhandlung-vergleich-eskalation
-description: "Wenn es um Perspektiven: Verhandlung, Vergleich und Eskalation in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Perspektiven: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Tabellenreview 3D. Route: perspektiven-verhandlung-vergleich-eskalation."
 ---
 
 # Perspektiven: Verhandlung, Vergleich und Eskalation

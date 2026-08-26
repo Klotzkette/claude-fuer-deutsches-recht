@@ -1,6 +1,6 @@
 ---
 name: infl-047-plattform-analytics-als-beweis
-description: "Wenn es um Influencer-Recht: Plattform Analytics als Beweis in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Plattform Analytics als Beweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Influencer-Recht: Plattform Analytics als Beweis

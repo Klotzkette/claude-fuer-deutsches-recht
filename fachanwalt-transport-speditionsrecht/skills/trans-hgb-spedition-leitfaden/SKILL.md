@@ -1,6 +1,6 @@
 ---
 name: trans-hgb-spedition-leitfaden
-description: "Wenn es um Leitfaden HGB-Spedition Paragrafen 453 ff in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leitfaden HGB-Spedition Paragrafen 453 ff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leitfaden HGB-Spedition §§ 453 ff

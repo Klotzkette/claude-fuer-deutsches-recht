@@ -1,6 +1,6 @@
 ---
 name: fristenlog-kalender-reminder-deutsch
-description: "Wenn es um Anmeldung und Behörden: Baut ein fristenlog für elster in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anmeldung und Behörden: Baut ein fristenlog für elster: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Anmeldung und Behörden: Baut ein fristenlog für elster

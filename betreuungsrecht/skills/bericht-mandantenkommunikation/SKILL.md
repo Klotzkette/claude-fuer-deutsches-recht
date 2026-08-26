@@ -1,6 +1,6 @@
 ---
 name: bericht-mandantenkommunikation
-description: "Wenn es um Bericht: Mandantenkommunikation und Entscheidungsvorlage in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bericht Mandantenkommunikation; Arbeitsfeld: Betreuungsrecht."
+description: "Für Bericht: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Bericht: Mandantenkommunikation und Entscheidungsvorlage

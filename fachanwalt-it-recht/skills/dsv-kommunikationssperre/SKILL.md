@@ -1,6 +1,6 @@
 ---
 name: dsv-kommunikationssperre
-description: "Wenn es um Dsv Kommunikationssperre in Fachanwalt It Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Dsv Kommunikationssperre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Etabliert eine interne und externe Kommunikationssperre nach einem Datenschutzvorfall, um voreilige Aussagen, Beweismittelvernichtung und Sammelklagenrisiken zu vermeiden

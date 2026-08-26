@@ -1,6 +1,6 @@
 ---
 name: fbp-zahlungsunfaehigkeit
-description: "Wenn es um FBP: Zahlungsunfaehigkeit Ueberschuldung in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für FBP: Zahlungsunfähigkeit Überschuldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FBP: Zahlungsunfaehigkeit Ueberschuldung

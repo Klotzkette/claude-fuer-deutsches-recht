@@ -1,6 +1,6 @@
 ---
 name: 10-entscheidungsvorschlag-zur-richterlichen-pruefung
-description: "Wenn es um 10 Entscheidungsvorschlag Zur Richterlichen Prüfung in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 10 Entscheidungsvorschlag zur Richterlichen Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # 10 Entscheidungsvorschlag Zur Richterlichen Prüfung

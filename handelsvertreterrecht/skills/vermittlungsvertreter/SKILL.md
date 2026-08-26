@@ -1,6 +1,6 @@
 ---
 name: vermittlungsvertreter
-description: "Wenn es um Reiner Vermittlungsvertreter nach Paragraf 84 HGB — Provision und Rechtsstellung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reiner Vermittlungsvertreter nach Paragraf 84 HGB — Provision und Rechtsstellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reiner Vermittlungsvertreter nach § 84 HGB — Provision und Rechtsstellung

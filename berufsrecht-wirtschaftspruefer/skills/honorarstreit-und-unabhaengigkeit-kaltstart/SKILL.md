@@ -1,6 +1,6 @@
 ---
 name: honorarstreit-und-unabhaengigkeit-kaltstart
-description: "Wenn es um Honorarstreit Und Unabhaengigkeit Kaltstart in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Honorarstreit und Unabhängigkeit Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: honorarstreit und unabhaengigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

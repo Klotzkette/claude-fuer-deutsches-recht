@@ -1,6 +1,6 @@
 ---
 name: suche-open-data-monitor
-description: "Wenn es um Suche und Open-Data-Monitor in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Suche und Open-Data-Monitor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Suche und Open-Data-Monitor

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-verdachtsmeldung-verpflichteten
-description: "Wenn es um Verdachtsmeldung an FIU/goAML in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verdachtsmeldung an FIU/goAML: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verdachtsmeldung an FIU/goAML

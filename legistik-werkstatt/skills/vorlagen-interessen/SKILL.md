@@ -1,6 +1,6 @@
 ---
 name: vorlagen-interessen
-description: "Wenn es um Vorlagen: Mehrparteienkonflikt und Interessenmatrix in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vorlagen Interessen; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Vorlagen: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: vorlagen-interessen."
 ---
 
 # Vorlagen: Mehrparteienkonflikt und Interessenmatrix

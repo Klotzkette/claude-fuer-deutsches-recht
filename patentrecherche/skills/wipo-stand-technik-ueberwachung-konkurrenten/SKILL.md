@@ -1,6 +1,6 @@
 ---
 name: wipo-stand-technik-ueberwachung-konkurrenten
-description: "Wenn es um Wipo: Compliance-Dokumentation und Aktenvermerk in patentrecherche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wipo: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wipo: Compliance-Dokumentation und Aktenvermerk

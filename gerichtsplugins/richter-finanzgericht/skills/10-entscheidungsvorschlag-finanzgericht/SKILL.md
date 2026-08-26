@@ -1,6 +1,6 @@
 ---
 name: 10-entscheidungsvorschlag-finanzgericht
-description: "Wenn es um 10 Entscheidungsvorschlag Finanzgericht in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 10 Entscheidungsvorschlag Finanzgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 10 Entscheidungsvorschlag Finanzgericht

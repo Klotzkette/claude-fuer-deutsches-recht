@@ -1,6 +1,6 @@
 ---
 name: grundordnung-und-satzung
-description: "Wenn es um Grundordnung Und Satzung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundordnung und Satzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grundordnung Und Satzung

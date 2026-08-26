@@ -1,6 +1,6 @@
 ---
 name: executive-summary
-description: "Wenn es um Executive Summary Onepager in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Executive Summary Onepager: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: executive-summary."
 ---
 
 # Executive Summary Onepager

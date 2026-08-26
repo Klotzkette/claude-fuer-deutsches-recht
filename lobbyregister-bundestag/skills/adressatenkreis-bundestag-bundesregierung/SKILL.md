@@ -1,6 +1,6 @@
 ---
 name: adressatenkreis-bundestag-bundesregierung
-description: "Wenn es um Adressatenkreis Bundestag und Bundesregierung in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Adressatenkreis Bundestag und Bundesregierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Adressatenkreis Bundestag und Bundesregierung

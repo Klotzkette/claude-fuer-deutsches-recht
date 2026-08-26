@@ -1,6 +1,6 @@
 ---
 name: registerrecht-fehlerhafte-geschaeftsfuehreradresse
-description: "Wenn es um Private Daten im Register in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Private Daten im Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Private Daten im Register

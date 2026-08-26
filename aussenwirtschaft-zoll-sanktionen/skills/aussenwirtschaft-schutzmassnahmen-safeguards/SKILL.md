@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-schutzmassnahmen-safeguards
-description: "Wenn es um EU-Schutzmassnahmen (Safeguards): Mengenbeschraenkungen und Unternehmensreaktion in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für EU-Schutzmassnahmen (Safeguards): Mengenbeschränkungen und Unternehmensreaktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EU-Schutzmassnahmen (Safeguards): Mengenbeschraenkungen und Unternehmensreaktion

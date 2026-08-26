@@ -1,6 +1,6 @@
 ---
 name: digitale-spuren-mobiltelefon-cloud
-description: "Wenn es um Digitale Spuren: Mobiltelefon, Cloud, Chat und Standortdaten in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Digitale Spuren: Mobiltelefon, Cloud, Chat und Standortdaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitale Spuren: Mobiltelefon, Cloud, Chat und Standortdaten

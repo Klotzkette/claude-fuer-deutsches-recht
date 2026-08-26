@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-cannabis-uebergangsregeln-altfaelle-amnestie
-description: "Wenn es um Strafrecht Spezial Cannabis Uebergangsregeln Altfaelle Amnestie in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Cannabis Übergangsregeln Altfälle Amnestie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cannabis-Uebergangsregeln 01.04.2024: Altfaelle nach BtMG vor KCanG-Inkrafttreten, Amnestie-Regelung Art

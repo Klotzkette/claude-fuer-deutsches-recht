@@ -1,6 +1,6 @@
 ---
 name: phish-incident-meldepflichten-arten-erkennen
-description: "Wenn es um Phish: Incident-Triage in Phishing-Vorfall-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Phish: Incident-Triage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Phish: Incident-Triage

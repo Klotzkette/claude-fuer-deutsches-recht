@@ -1,6 +1,6 @@
 ---
 name: orden-institute-und-gelubde
-description: "Wenn es um Orden, Institute und Gelübde in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Orden, Institute und Gelübde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Orden, Institute und Gelübde

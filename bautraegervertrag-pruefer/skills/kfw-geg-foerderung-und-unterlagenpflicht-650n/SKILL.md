@@ -1,6 +1,6 @@
 ---
 name: kfw-geg-foerderung-und-unterlagenpflicht-650n
-description: "Wenn es um KfW/GEG, Förderung und Unterlagenpflicht Paragraf 650n BGB in Bauträgervertrag-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für KfW/GEG, Förderung und Unterlagenpflicht Paragraf 650n BGB: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # KfW/GEG, Förderung und Unterlagenpflicht § 650n BGB

@@ -1,6 +1,6 @@
 ---
 name: bu-nachpruefung-anerkenntnis-leistungseinstellung
-description: "Wenn es um BU: Anerkenntnis, Nachprüfung, Leistungseinstellung in Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BU: Anerkenntnis, Nachprüfung, Leistungseinstellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # BU: Anerkenntnis, Nachprüfung, Leistungseinstellung

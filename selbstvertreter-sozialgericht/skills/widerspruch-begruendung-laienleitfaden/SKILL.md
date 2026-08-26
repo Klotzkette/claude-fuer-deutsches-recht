@@ -1,6 +1,6 @@
 ---
 name: widerspruch-begruendung-laienleitfaden
-description: "Wenn es um So begruenden Sie Ihren Widerspruch — für Laien in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für So begründen Sie Ihren Widerspruch — für Laien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # So begruenden Sie Ihren Widerspruch — für Laien

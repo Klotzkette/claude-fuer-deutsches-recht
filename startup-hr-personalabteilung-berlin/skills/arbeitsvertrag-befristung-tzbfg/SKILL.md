@@ -1,6 +1,6 @@
 ---
 name: arbeitsvertrag-befristung-tzbfg
-description: "Wenn es um Arbeitsvertrag Befristung TzBfG in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsvertrag Befristung TzBfG: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Arbeitsvertrag Befristung TzBfG

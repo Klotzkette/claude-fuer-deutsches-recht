@@ -1,6 +1,6 @@
 ---
 name: kaltstart-stvo-fall
-description: "Wenn es um Kaltstart Stvo Fall in Straßenverkehrsrecht StVO geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart Stvo Fall: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart Stvo Fall

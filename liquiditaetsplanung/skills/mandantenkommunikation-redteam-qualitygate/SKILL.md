@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation-redteam-qualitygate
-description: "Wenn es um Liquiditätskommunikation Red-Team und Quality-Gate in Liquiditätsplanung — Power geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Liquiditätskommunikation Red-Team und Quality-Gate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Liquiditätskommunikation Red-Team und Quality-Gate

@@ -1,6 +1,6 @@
 ---
 name: personenrecht-status-familienrecht-ehe
-description: "Wenn es um Personenrecht und Status in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Personenrecht Status Familienrecht Ehe; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Personenrecht und Status: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: personenrecht-status-familienrecht-ehe."
 ---
 
 # Personenrecht und Status

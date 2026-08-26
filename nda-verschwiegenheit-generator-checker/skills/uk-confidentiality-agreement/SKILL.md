@@ -1,6 +1,6 @@
 ---
 name: uk-confidentiality-agreement
-description: "Wenn es um Uk Confidentiality Agreement in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Uk Confidentiality Agreement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Uk Confidentiality Agreement

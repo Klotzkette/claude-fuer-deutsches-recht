@@ -1,6 +1,6 @@
 ---
 name: tierhalter-zivilrechtlich-beraten
-description: "Wenn es um Tierhalter Zivilrechtlich Beraten in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tierhalter Zivilrechtlich Beraten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tierhalter Zivilrechtlich Beraten

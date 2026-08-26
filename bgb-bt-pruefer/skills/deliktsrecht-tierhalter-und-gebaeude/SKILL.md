@@ -1,6 +1,6 @@
 ---
 name: deliktsrecht-tierhalter-und-gebaeude
-description: "Wenn es um Deliktsrecht: Tierhalter und Gebäude in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deliktsrecht: Tierhalter und Gebäude: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deliktsrecht: Tierhalter und Gebäude

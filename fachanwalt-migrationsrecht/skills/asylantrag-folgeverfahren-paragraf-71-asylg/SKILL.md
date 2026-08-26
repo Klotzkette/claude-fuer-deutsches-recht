@@ -1,6 +1,6 @@
 ---
 name: asylantrag-folgeverfahren-paragraf-71-asylg
-description: "Wenn es um Asylantrag Folgeverfahren Paragraf 71 AsylG in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Asylantrag Folgeverfahren Paragraf 71 AsylG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Asylantrag Folgeverfahren § 71 AsylG

@@ -1,6 +1,6 @@
 ---
 name: forderung-mietrueckstand-zahlungsklage
-description: "Wenn es um Mietrueckstand – Zahlungsklage Wohnraum in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mietrückstand – Zahlungsklage Wohnraum: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mietrueckstand – Zahlungsklage Wohnraum

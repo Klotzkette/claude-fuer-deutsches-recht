@@ -1,6 +1,6 @@
 ---
 name: insurance-dno
-description: "Wenn es um Insurance and D&O in Bankruptcy in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insurance and D&O in Bankruptcy: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insurance and D&O in Bankruptcy

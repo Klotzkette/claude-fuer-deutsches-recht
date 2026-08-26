@@ -1,6 +1,6 @@
 ---
 name: us-transfer-tia-dokumentation
-description: "Wenn es um US-Transfer-TIA-Dokumentation in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für US-Transfer-TIA-Dokumentation: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US-Transfer-TIA-Dokumentation

@@ -1,6 +1,6 @@
 ---
 name: antragsgenerator
-description: "Wenn es um JVEG-Antragsgenerator in JVEG-Kostenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für JVEG-Antragsgenerator: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # JVEG-Antragsgenerator

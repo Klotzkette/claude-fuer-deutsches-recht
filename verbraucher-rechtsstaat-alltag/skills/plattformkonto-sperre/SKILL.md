@@ -1,6 +1,6 @@
 ---
 name: plattformkonto-sperre
-description: "Wenn es um Plattformkonto gesperrt in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Plattformkonto gesperrt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plattformkonto gesperrt

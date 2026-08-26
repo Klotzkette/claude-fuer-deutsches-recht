@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 101 Skills des Plugins `us-bankruptcy-cod
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in US Bankruptcy Code ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet…
-2. **kaltstart-triage** — Wenn es um US Bankruptcy Code Kaltstart in US Bankruptcy Code geht: klärt Rolle, Ziel, Frist, Unterlagen und den passend…
-3. **eligibility-109-credit** — Wenn es um Eligibility Paragraf 109 and Credit Counseling in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweisla…
-4. **administrative-expenses-503** — Wenn es um Administrative Expenses Paragraf 503 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
-5. **board-duties-cash-collateral-chapter7-asset** — Wenn es um Board Duties and Zone of Insolvency in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenar…
-6. **nondischargeability-523** — Wenn es um Nondischargeability Paragraf 523 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
-7. **chapter9-municipal-plan-chapter11-dip** — Wenn es um Chapter 9 Municipal Eligibility in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
-8. **effective-date-eligibility-credit-employee** — Wenn es um Effective Date and Plan Closing in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
-9. **plan-modification-1127** — Wenn es um Plan Modification Paragraf 1127 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
-10. **trustee-us-trustee-roles** — Wenn es um Trustee and U.S. Trustee Roles in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumen…
+2. **kaltstart-triage** — Für US Bankruptcy Code Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und …
+3. **asbestos-channeling-automatic-stay-avoidance** — Für Asbestos Channeling Injunctions Paragraf 524(g): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mi…
+4. **eligibility-109-credit** — Für Eligibility Paragraf 109 and Credit Counseling: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit…
+5. **intellectual-property-license-365-n** — Für Intellectual Property License Paragraf 365(n): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit …
+6. **venue-jurisdiction-core** — Für Venue, Jurisdiction and Core Proceedings: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risik…
+7. **landlord-tenant-retail** — Für Landlord Tenant and Retail Bankruptcy: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko u…
+8. **structured-finance-securitization** — Für Structured Finance and Securitization: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko u…
+9. **administrative-expenses-503** — Für Administrative Expenses Paragraf 503: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+10. **professionals-retention-327** — Für Professionals Retention Paragraf 327: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
 
 ---
 
@@ -136,7 +136,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Anknüpfung, Zuständigke
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um US Bankruptcy Code Kaltstart in US Bankruptcy Code geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für US Bankruptcy Code Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # US Bankruptcy Code Kaltstart
 
@@ -213,9 +213,68 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ---
 
+## Skill: `asbestos-channeling-automatic-stay-avoidance`
+
+_Für Asbestos Channeling Injunctions Paragraf 524(g): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Asbestos Channeling Injunctions § 524(g)
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Asbestos Channeling Injunctions § 524(g)
+- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
+- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
+
+## Code- und Quellenanker
+
+- 11 U.S.C. § 524(g)
+- Asbestos plan documents
+- Insurance policies
+
+Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
+
+## Intake-Fragen
+
+- Asbestos liabilities?
+- Future claims?
+- Trust funding and voting?
+
+## Workflow
+
+1. 524(g) prerequisites map.
+2. FCR and trust issues.
+3. Insurance transfer and injunction scope.
+
+## Tiefencheck für die Akte
+
+Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
+
+- Welche Rolle, welches Chapter, welcher procedural posture und welches unmittelbare Ziel bestimmen die erste Weiche?
+- Welche Code-Anker, Local Rules, Orders, Forms und docket events müssen vor einer Aussage live geprüft werden?
+- Welche deutschen Erwartungen sind gefährlich, weil US-Bankruptcy stärker court-driven, motion-driven und notice-driven arbeitet?
+- Welche Frage ist für US-Counsel offen zu markieren statt aus deutschem Insolvenzrecht zu übertragen?
+
+**Mindest-Output:** Kurz-Memo mit procedural posture, Code-Ankern, Dokumentenlücken und US-Counsel-Issue-Liste.
+
+## Qualitäts- und Risikofilter
+
+- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
+- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
+
+- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
+- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
+
+---
+
 ## Skill: `eligibility-109-credit`
 
-_Wenn es um Eligibility Paragraf 109 and Credit Counseling in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Eligibility Paragraf 109 and Credit Counseling: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Eligibility § 109 and Credit Counseling
 
@@ -272,9 +331,297 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ---
 
+## Skill: `intellectual-property-license-365-n`
+
+_Für Intellectual Property License Paragraf 365(n): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Intellectual Property License § 365(n)
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Intellectual Property License § 365(n)
+- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
+- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
+
+## Code- und Quellenanker
+
+- 11 U.S.C. § 365(n)
+- 11 U.S.C. § 101 intellectual property definition
+- IP license documents
+
+Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
+
+## Intake-Fragen
+
+- Debtor licensor?
+- Covered IP?
+- Licensee election needed?
+- Source code or embodiments?
+
+## Workflow
+
+1. License classify.
+2. Election and payment duties prüfen.
+3. German licensee action package erstellen.
+
+## Tiefencheck für die Akte
+
+Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
+
+- Ist der Vertrag executory, lease, IP license, supply agreement, franchise, real-property lease oder utility arrangement?
+- Welche cure amounts, defaults, anti-assignment clauses, consent rights und performance burdens bestehen?
+- Geht es um assumption, rejection, assignment, adequate assurance oder nur um operative Fortführung?
+- Welche Rechte des deutschen Vertragspartners sind durch stay, claims process und US court order begrenzt?
+
+**Mindest-Output:** Contract-Dashboard mit Vertragstyp, § 365-Route, cure, assignment risk und claim consequence.
+
+## Qualitäts- und Risikofilter
+
+- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
+- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
+
+- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
+- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
+
+---
+
+## Skill: `venue-jurisdiction-core`
+
+_Für Venue, Jurisdiction and Core Proceedings: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Venue, Jurisdiction and Core Proceedings
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 KWG` — Bankgeschaefte.
+- `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
+- `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
+- `§ 44 Abs. 1 KWG` — Auskunfts- und Prüfungsrechte.
+- `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
+- `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
+- `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.
+- `Art. 28 DORA` — IKT-Drittparteienrisiko.
+- `§ 675f BGB` — Zahlungsdiensterahmenvertrag.
+- `§ 765 BGB` — Bürgschaft.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Venue, Jurisdiction and Core Proceedings
+- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
+- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
+
+## Code- und Quellenanker
+
+- 28 U.S.C. §§ 1334, 1408, 157 as source anchors
+- Bankruptcy Rules live prüfen
+- Local Rules
+
+Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
+
+## Intake-Fragen
+
+- Wo sitzt debtor/assets/principal place?
+- Core proceeding or related litigation?
+- Removal from state court?
+
+## Workflow
+
+1. Venue facts sammeln.
+2. Core/non-core issue markieren.
+3. Forum strategy vorbereiten.
+
+## Tiefencheck für die Akte
+
+Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
+
+- Welche Rolle, welches Chapter, welcher procedural posture und welches unmittelbare Ziel bestimmen die erste Weiche?
+- Welche Code-Anker, Local Rules, Orders, Forms und docket events müssen vor einer Aussage live geprüft werden?
+- Welche deutschen Erwartungen sind gefährlich, weil US-Bankruptcy stärker court-driven, motion-driven und notice-driven arbeitet?
+- Welche Frage ist für US-Counsel offen zu markieren statt aus deutschem Insolvenzrecht zu übertragen?
+
+**Mindest-Output:** Kurz-Memo mit procedural posture, Code-Ankern, Dokumentenlücken und US-Counsel-Issue-Liste.
+
+## Qualitäts- und Risikofilter
+
+- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
+- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
+
+- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
+- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
+
+---
+
+## Skill: `landlord-tenant-retail`
+
+_Für Landlord Tenant and Retail Bankruptcy: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Landlord Tenant and Retail Bankruptcy
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 KWG` — Bankgeschaefte.
+- `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
+- `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
+- `§ 44 Abs. 1 KWG` — Auskunfts- und Prüfungsrechte.
+- `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
+- `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
+- `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.
+- `Art. 28 DORA` — IKT-Drittparteienrisiko.
+- `§ 675f BGB` — Zahlungsdiensterahmenvertrag.
+- `§ 765 BGB` — Bürgschaft.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Landlord Tenant and Retail Bankruptcy
+- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
+- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
+
+## Code- und Quellenanker
+
+- 11 U.S.C. §§ 365, 502(b)(6), 503(b)(9)
+- Sale orders
+- Lease docs
+
+Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
+
+## Intake-Fragen
+
+- How many stores/leases?
+- Assume/reject/sell designations?
+- Rent and cure amounts?
+
+## Workflow
+
+1. Lease portfolio map.
+2. GOB and sale issues.
+3. Landlord claim exposure.
+
+## Tiefencheck für die Akte
+
+Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
+
+- Ist der Vertrag executory, lease, IP license, supply agreement, franchise, real-property lease oder utility arrangement?
+- Welche cure amounts, defaults, anti-assignment clauses, consent rights und performance burdens bestehen?
+- Geht es um assumption, rejection, assignment, adequate assurance oder nur um operative Fortführung?
+- Welche Rechte des deutschen Vertragspartners sind durch stay, claims process und US court order begrenzt?
+
+**Mindest-Output:** Contract-Dashboard mit Vertragstyp, § 365-Route, cure, assignment risk und claim consequence.
+
+## Qualitäts- und Risikofilter
+
+- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
+- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
+
+- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
+- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
+
+---
+
+## Skill: `structured-finance-securitization`
+
+_Für Structured Finance and Securitization: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Structured Finance and Securitization
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 KWG` — Bankgeschaefte.
+- `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
+- `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
+- `§ 44 Abs. 1 KWG` — Auskunfts- und Prüfungsrechte.
+- `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
+- `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
+- `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.
+- `Art. 28 DORA` — IKT-Drittparteienrisiko.
+- `§ 675f BGB` — Zahlungsdiensterahmenvertrag.
+- `§ 765 BGB` — Bürgschaft.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Structured Finance and Securitization
+- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
+- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
+
+## Code- und Quellenanker
+
+- 11 U.S.C. substantive consolidation case law only if verified
+- UCC/state law via US counsel
+- Deal docs
+
+Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
+
+## Intake-Fragen
+
+- True sale or secured loan?
+- SPE separateness observed?
+- Servicer bankruptcy?
+
+## Workflow
+
+1. Transaction documents map.
+2. Separateness covenants and facts.
+3. Consolidation/automatic stay risks.
+
+## Tiefencheck für die Akte
+
+Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
+
+- Welche Rolle, welches Chapter, welcher procedural posture und welches unmittelbare Ziel bestimmen die erste Weiche?
+- Welche Code-Anker, Local Rules, Orders, Forms und docket events müssen vor einer Aussage live geprüft werden?
+- Welche deutschen Erwartungen sind gefährlich, weil US-Bankruptcy stärker court-driven, motion-driven und notice-driven arbeitet?
+- Welche Frage ist für US-Counsel offen zu markieren statt aus deutschem Insolvenzrecht zu übertragen?
+
+**Mindest-Output:** Kurz-Memo mit procedural posture, Code-Ankern, Dokumentenlücken und US-Counsel-Issue-Liste.
+
+## Qualitäts- und Risikofilter
+
+- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
+- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
+
+- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
+- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
+
+---
+
 ## Skill: `administrative-expenses-503`
 
-_Wenn es um Administrative Expenses Paragraf 503 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Administrative Expenses Paragraf 503: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Administrative Expenses § 503
 
@@ -331,28 +678,11 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ---
 
-## Skill: `board-duties-cash-collateral-chapter7-asset`
+## Skill: `professionals-retention-327`
 
-_Wenn es um Board Duties and Zone of Insolvency in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Professionals Retention Paragraf 327: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Board Duties and Zone of Insolvency
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 Abs. 1 KWG` — Bankgeschaefte.
-- `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
-- `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
-- `§ 44 Abs. 1 KWG` — Auskunfts- und Prüfungsrechte.
-- `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
-- `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
-- `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.
-- `Art. 28 DORA` — IKT-Drittparteienrisiko.
-- `§ 675f BGB` — Zahlungsdiensterahmenvertrag.
-- `§ 765 BGB` — Bürgschaft.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+# Professionals Retention § 327
 
 ## Arbeitsweg
 
@@ -362,373 +692,29 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Board Duties and Zone of Insolvency
+## Fachkern: Professionals Retention § 327
 - **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
 - **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
 
 ## Code- und Quellenanker
 
-- State corporate law via US counsel
-- 11 U.S.C. filing options
-- D&O/insurance docs
+- 11 U.S.C. §§ 327, 328, 1103
+- Bankruptcy Rule 2014
+- Local Rules
 
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
 ## Intake-Fragen
 
-- Entity state of incorporation?
-- Insolvency indicators?
-- Board process and conflicts?
+- Who retains professional?
+- Connections and conflicts?
+- Fee structure and scope?
 
 ## Workflow
 
-1. Decision record build.
-2. Alternatives and advisor input.
-3. D&O and conflicts.
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
-
-- Welche Rolle, welches Chapter, welcher procedural posture und welches unmittelbare Ziel bestimmen die erste Weiche?
-- Welche Code-Anker, Local Rules, Orders, Forms und docket events müssen vor einer Aussage live geprüft werden?
-- Welche deutschen Erwartungen sind gefährlich, weil US-Bankruptcy stärker court-driven, motion-driven und notice-driven arbeitet?
-- Welche Frage ist für US-Counsel offen zu markieren statt aus deutschem Insolvenzrecht zu übertragen?
-
-**Mindest-Output:** Kurz-Memo mit procedural posture, Code-Ankern, Dokumentenlücken und US-Counsel-Issue-Liste.
-
-## Qualitäts- und Risikofilter
-
-- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
-- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
-
-- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
-- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
----
-
-## Skill: `nondischargeability-523`
-
-_Wenn es um Nondischargeability Paragraf 523 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Nondischargeability § 523
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Nondischargeability § 523
-- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
-- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-
-## Code- und Quellenanker
-
-- 11 U.S.C. § 523
-- Adversary proceeding rules
-- Claim documents
-
-Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
-
-## Intake-Fragen
-
-- Which debt category?
-- Need adversary complaint?
-- Deadline?
-
-## Workflow
-
-1. Debt facts classify.
-2. Elements and evidence.
-3. Complaint/defense route vorbereiten.
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
-
-- Geht es um liquidation estate, trustee powers, exemptions, discharge oder nondischargeability?
-- Welche assets, claims, litigation rights, insurance, tax refunds und preferences können in die estate fallen?
-- Welche discharge objections, fraud indicators, schedules inconsistencies oder means-test issues sind sichtbar?
-- Welche Handlung eines deutschen Gläubigers wäre stay-kritisch oder muss über proof of claim/adversary laufen?
-
-**Mindest-Output:** Chapter-7-Aktenblatt mit estate assets, discharge issues, trustee questions und creditor route.
-
-## Qualitäts- und Risikofilter
-
-- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
-- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
-
-- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
-- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
----
-
-## Skill: `chapter9-municipal-plan-chapter11-dip`
-
-_Wenn es um Chapter 9 Municipal Eligibility in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Chapter 9 Municipal Eligibility
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 Abs. 1 KWG` — Bankgeschaefte.
-- `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
-- `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
-- `§ 44 Abs. 1 KWG` — Auskunfts- und Prüfungsrechte.
-- `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
-- `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
-- `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.
-- `Art. 28 DORA` — IKT-Drittparteienrisiko.
-- `§ 675f BGB` — Zahlungsdiensterahmenvertrag.
-- `§ 765 BGB` — Bürgschaft.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Chapter 9 Municipal Eligibility
-- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
-- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-
-## Code- und Quellenanker
-
-- 11 U.S.C. §§ 101(40), 109(c), Chapter 9
-- State authorization law
-
-Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
-
-## Intake-Fragen
-
-- Is debtor municipality?
-- State specifically authorizes?
-- Insolvent and negotiated?
-
-## Workflow
-
-1. Eligibility elements map.
-2. State law source verify.
-3. Political/governance constraints markieren.
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
-
-- Ist state authorization, municipal status, insolvency und good-faith negotiation belastbar dokumentiert?
-- Welche special revenues, bonds, pensions, collective bargaining und essential services sind betroffen?
-- Wo endet die gerichtliche Eingriffsbefugnis wegen Tenth-Amendment-Sensibilität?
-- Welche politische Kommunikation ist von der juristischen Planfähigkeit strikt zu trennen?
-
-**Mindest-Output:** Chapter-9-Memo mit eligibility, creditor classes, service continuity und Grenzen gerichtlicher Kontrolle.
-
-## Qualitäts- und Risikofilter
-
-- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
-- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
-
-- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
-- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
----
-
-## Skill: `effective-date-eligibility-credit-employee`
-
-_Wenn es um Effective Date and Plan Closing in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Effective Date and Plan Closing
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 Abs. 1 KWG` — Bankgeschaefte.
-- `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
-- `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
-- `§ 44 Abs. 1 KWG` — Auskunfts- und Prüfungsrechte.
-- `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
-- `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
-- `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.
-- `Art. 28 DORA` — IKT-Drittparteienrisiko.
-- `§ 675f BGB` — Zahlungsdiensterahmenvertrag.
-- `§ 765 BGB` — Bürgschaft.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Effective Date and Plan Closing
-- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
-- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-
-## Code- und Quellenanker
-
-- Confirmed plan
-- Confirmation order
-- 11 U.S.C. § 1141
-
-Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
-
-## Intake-Fragen
-
-- Conditions precedent?
-- Exit financing?
-- Distribution agent and corporate documents?
-
-## Workflow
-
-1. Closing checklist.
-2. Funding and document status.
-3. Post-confirmation obligations.
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
-
-- Welche Rolle, welches Chapter, welcher procedural posture und welches unmittelbare Ziel bestimmen die erste Weiche?
-- Welche Code-Anker, Local Rules, Orders, Forms und docket events müssen vor einer Aussage live geprüft werden?
-- Welche deutschen Erwartungen sind gefährlich, weil US-Bankruptcy stärker court-driven, motion-driven und notice-driven arbeitet?
-- Welche Frage ist für US-Counsel offen zu markieren statt aus deutschem Insolvenzrecht zu übertragen?
-
-**Mindest-Output:** Kurz-Memo mit procedural posture, Code-Ankern, Dokumentenlücken und US-Counsel-Issue-Liste.
-
-## Qualitäts- und Risikofilter
-
-- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
-- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
-
-- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
-- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
----
-
-## Skill: `plan-modification-1127`
-
-_Wenn es um Plan Modification Paragraf 1127 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Plan Modification § 1127
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Plan Modification § 1127
-- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
-- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-
-## Code- und Quellenanker
-
-- 11 U.S.C. § 1127
-- 11 U.S.C. § 1129
-- Confirmed plan/order
-
-Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
-
-## Intake-Fragen
-
-- Before or after confirmation?
-- Material modification?
-- Need new disclosure/votes?
-
-## Workflow
-
-1. Modification type classify.
-2. Affected classes and compliance.
-3. Court approval route.
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
-
-- Welche Klassen, impairment, voting thresholds, releases, injunctions und objections entscheiden den Plan?
-- Ist disclosure ausreichend: assets, liabilities, projections, liquidation analysis, feasibility und risk factors?
-- Drohen absolute-priority, unfair discrimination, best-interests oder good-faith-Probleme?
-- Welche deutsche Sicht braucht das Team: Gläubigerposition, Konzerninteressen, Steuern, Sicherheiten, Governance?
-
-**Mindest-Output:** Plan-Roadmap mit class chart, voting status, confirmation issues, objections und negotiation levers.
-
-## Qualitäts- und Risikofilter
-
-- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
-- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
-
-- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
-- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
----
-
-## Skill: `trustee-us-trustee-roles`
-
-_Wenn es um Trustee and U.S. Trustee Roles in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Trustee and U.S. Trustee Roles
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 Abs. 1 KWG` — Bankgeschaefte.
-- `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
-- `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
-- `§ 44 Abs. 1 KWG` — Auskunfts- und Prüfungsrechte.
-- `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
-- `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
-- `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.
-- `Art. 28 DORA` — IKT-Drittparteienrisiko.
-- `§ 675f BGB` — Zahlungsdiensterahmenvertrag.
-- `§ 765 BGB` — Bürgschaft.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Trustee and U.S. Trustee Roles
-- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
-- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-
-## Code- und Quellenanker
-
-- 11 U.S.C. §§ 307, 321-326, 1104
-- U.S. Trustee Program official resources
-
-Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
-
-## Intake-Fragen
-
-- Who controls debtor?
-- Is trustee appointment sought?
-- What oversight/reporting duties?
-
-## Workflow
-
-1. Role map erstellen.
-2. Reporting and meeting duties erfassen.
-3. Escalation to UST or trustee markieren.
+1. Retention authority wählen.
+2. 2014 disclosures sammeln.
+3. Conflict and disinterestedness prüfen.
 
 ## Tiefencheck für die Akte
 

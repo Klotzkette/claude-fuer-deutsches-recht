@@ -1,6 +1,6 @@
 ---
 name: orientierung-selbstvertreter-sozialgericht
-description: "Wenn es um Orientierung — Sich selbst vertreten am Sozialgericht in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Orientierung — Sich selbst vertreten am Sozialgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Orientierung — Sich selbst vertreten am Sozialgericht

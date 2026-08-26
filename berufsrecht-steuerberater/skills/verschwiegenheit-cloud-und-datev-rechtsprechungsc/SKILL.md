@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-cloud-und-datev-rechtsprechungsc
-description: "Wenn es um Verschwiegenheit Cloud Und Datev Rechtsprechungsc in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Verschwiegenheit Cloud und DATEV Rechtsprechungsc: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: verschwiegenheit cloud und datev - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

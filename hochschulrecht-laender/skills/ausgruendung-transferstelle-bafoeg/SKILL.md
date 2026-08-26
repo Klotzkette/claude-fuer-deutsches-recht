@@ -1,6 +1,6 @@
 ---
 name: ausgruendung-transferstelle-bafoeg
-description: "Wenn es um Ausgründung und Transferstelle in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausgründung und Transferstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausgründung und Transferstelle

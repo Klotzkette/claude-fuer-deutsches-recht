@@ -1,6 +1,6 @@
 ---
 name: 018-kanonisches-recht-und-roemisches-recht-wechselwirkun
-description: "Wenn es um Rom Kanonisches Recht Und Roemisches Recht Wechselwirkun in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom Kanonisches Recht und Römisches Recht Wechselwirkun: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom Kanonisches Recht Und Roemisches Recht Wechselwirkun

@@ -1,6 +1,6 @@
 ---
 name: organschaft-konzern-grundlagen
-description: "Wenn es um Anw Organschaft Konzern Grundlagen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anw Organschaft Konzern Grundlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anw Organschaft Konzern Grundlagen
@@ -150,3 +150,7 @@ Folgt grundsätzlich der KSt-Organschaft (Akzessorietät). Eigenständige Voraus
 ## Quellen und Updates
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+## Vertiefung bei Bedarf
+
+- Bei `anw-organschaft-konzern-grundlagen` beziehungsweise Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken: [die zusätzliche Vertiefung laden](./references/vertiefung-anw-organschaft-konzern-grundlagen.md).

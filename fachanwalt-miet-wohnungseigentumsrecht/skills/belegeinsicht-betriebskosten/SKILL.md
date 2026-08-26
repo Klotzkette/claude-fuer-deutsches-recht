@@ -1,6 +1,6 @@
 ---
 name: belegeinsicht-betriebskosten
-description: "Wenn es um Belegeinsicht Betriebskosten in Fachanwalt Miet- und Wohnungseigentumsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Belegeinsicht Betriebskosten: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Belegeinsicht Betriebskosten: Rechnungen, Verträge, Originalbelege, Zahlungsbelege, digitale Belege, Datenschutz, Terminorganisation, Zurückbehaltungsrecht und konkrete Einwendungen nach § 556 Abs
@@ -53,3 +53,7 @@ description: "Wenn es um Belegeinsicht Betriebskosten in Fachanwalt Miet- und Wo
 ## Quellen- und Sicherheitsregel
 
 BGH-Entscheidungen nur mit Datum, Aktenzeichen und frei prüfbarer Quelle nennen. Keine BeckRS- oder juris-Blindfundstellen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-belegeinsicht-betriebskosten` beziehungsweise Belegeinsicht Betriebskosten: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-belegeinsicht-betriebskosten.md).

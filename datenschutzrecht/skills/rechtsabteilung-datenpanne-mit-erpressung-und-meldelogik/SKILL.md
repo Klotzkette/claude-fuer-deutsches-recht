@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-datenpanne-mit-erpressung-und-meldelogik
-description: "Wenn es um Rechtsabteilung Datenpanne Mit Erpressung Und Meldelogik in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsabteilung Datenpanne mit Erpressung und Meldelogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilungs-Fachmodul für Datenpanne mit Erpressung und Meldelogik: 72-Stunden-Meldung, Forensik, Betroffenenkommunikation und Litigation Hold werden praktisch geführt

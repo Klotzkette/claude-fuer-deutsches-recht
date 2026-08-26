@@ -1,6 +1,6 @@
 ---
 name: d-o-claims-made-innenhaftung-43-gmbhg
-description: "Wenn es um D&O: Claims-made, Innenhaftung und Organstreit in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für D&O: Claims-made, Innenhaftung und Organstreit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # D&O: Claims-made, Innenhaftung und Organstreit

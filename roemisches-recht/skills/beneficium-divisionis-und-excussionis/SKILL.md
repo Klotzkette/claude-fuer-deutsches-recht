@@ -1,6 +1,6 @@
 ---
 name: beneficium-divisionis-und-excussionis
-description: "Wenn es um Rom 135 Beneficium Divisionis Und Excussionis in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom 135 Beneficium Divisionis und Excussionis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 135 Beneficium Divisionis Und Excussionis

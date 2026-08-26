@@ -1,6 +1,6 @@
 ---
 name: saas-fuer-verbraucher-klagepfad-skizzi
-description: "Wenn es um Saas Für Verbraucher Klagepfad Skizzi in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Saas für Verbraucher Klagepfad Skizzi: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: saas-fuer-verbraucher-klagepfad-skizzi."
 ---
 
 # Saas Für Verbraucher Klagepfad Skizzi

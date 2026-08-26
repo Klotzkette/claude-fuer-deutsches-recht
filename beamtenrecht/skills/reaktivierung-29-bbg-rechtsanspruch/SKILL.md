@@ -1,6 +1,6 @@
 ---
 name: reaktivierung-29-bbg-rechtsanspruch
-description: "Wenn es um Reaktivierung nach Paragraf 29 BBG — Rueckkehr aus dem Ruhestand in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reaktivierung nach Paragraf 29 BBG — Rückkehr aus dem Ruhestand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Reaktivierung nach § 29 BBG — Rueckkehr aus dem Ruhestand

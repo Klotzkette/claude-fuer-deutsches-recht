@@ -1,6 +1,6 @@
 ---
 name: 052-vollzug-mit-behoerden-genehmigungen-vorkaufsrechtsz
-description: "Wenn es um Vollzug Mit Behoerden Genehmigungen Vorkaufsrechtsz in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vollzug mit Behörden Genehmigungen Vorkaufsrechtsz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Vollzug mit Behörden – Genehmigungen, Vorkaufsrechtszeugnis, Negativattest

@@ -1,6 +1,6 @@
 ---
 name: erwerbsminderungsrente-medizinische
-description: "Wenn es um erwerbsminderungsrente-medizinische-unterlagen in Rentenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für erwerbsminderungsrente-medizinische-unterlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # erwerbsminderungsrente-medizinische-unterlagen

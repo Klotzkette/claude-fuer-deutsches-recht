@@ -1,6 +1,6 @@
 ---
 name: 008-oskisches-tabula-bantina
-description: "Wenn es um Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht in Römisches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht

@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-geschenkannahme-personalakte
-description: "Wenn es um Nebentätigkeit und Geschenkannahme – Compliance des Soldaten in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nebentätigkeit und Geschenkannahme – Compliance des Soldaten: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nebentätigkeit und Geschenkannahme – Compliance des Soldaten

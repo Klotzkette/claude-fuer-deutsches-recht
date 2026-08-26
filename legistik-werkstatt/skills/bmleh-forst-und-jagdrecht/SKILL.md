@@ -1,6 +1,6 @@
 ---
 name: bmleh-forst-und-jagdrecht
-description: "Wenn es um Forst- und Jagdrecht (BMLEH) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Forst- und Jagdrecht (BMLEH): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forst- und Jagdrecht (BMLEH)

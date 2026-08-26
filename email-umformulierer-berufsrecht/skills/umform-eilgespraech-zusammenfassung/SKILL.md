@@ -1,6 +1,6 @@
 ---
 name: umform-eilgespraech-zusammenfassung
-description: "Wenn es um Umform: Eilgespraech-Zusammenfassung in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Umform Eilgespraech Zusammenfassung; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für Umform: Eilgespräch-Zusammenfassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: E-Mail-Umformulierer. Route: umform-eilgespraech-zusammenfassung."
 ---
 
 # Umform: Eilgespraech-Zusammenfassung

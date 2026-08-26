@@ -1,6 +1,6 @@
 ---
 name: selbstanzeige-mandat-risiko-organisationspflicht
-description: "Wenn es um Selbstanzeige Mandat Risiko Organisationspflicht in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Selbstanzeige Mandat Risiko Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: selbstanzeige mandat risiko - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

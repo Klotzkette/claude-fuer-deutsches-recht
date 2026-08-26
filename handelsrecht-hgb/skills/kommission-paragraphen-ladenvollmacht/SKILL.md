@@ -1,6 +1,6 @@
 ---
 name: kommission-paragraphen-ladenvollmacht
-description: "Wenn es um Kommission Paragrafen 383 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommission Paragrafen 383 ff. HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommission §§ 383 ff. HGB

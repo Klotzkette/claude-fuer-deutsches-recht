@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-plattform-marktplatz-haendler
-description: "Wenn es um Verbraucherrecht Plattform Marktplatz Haendler in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Verbraucherrecht Plattform Marktplatz Händler: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plattform/Marketplace: Verkäuferidentität, Haftung, Ranking, Fake-Bewertungen, Dropshipping und Drittlandanbieter.

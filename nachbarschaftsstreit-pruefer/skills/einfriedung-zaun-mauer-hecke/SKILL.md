@@ -1,6 +1,6 @@
 ---
 name: einfriedung-zaun-mauer-hecke
-description: "Wenn es um Einfriedung, Zaun, Mauer und Hecke in Nachbarschaftsstreit-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Einfriedung, Zaun, Mauer und Hecke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einfriedung, Zaun, Mauer und Hecke

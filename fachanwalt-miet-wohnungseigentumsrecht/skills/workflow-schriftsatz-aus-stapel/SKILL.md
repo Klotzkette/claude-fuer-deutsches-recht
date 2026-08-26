@@ -1,6 +1,6 @@
 ---
 name: workflow-schriftsatz-aus-stapel
-description: "Wenn es um Schriftsatz aus Stapel: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Schriftsatz aus Stapel: Prüfungslinie für Miet- und WEG-Recht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Schriftsatz aus Stapel: Prüfungslinie für Miet- und WEG-Recht

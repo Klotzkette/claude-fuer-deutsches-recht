@@ -1,6 +1,6 @@
 ---
 name: fentanyl-menge-einordnen
-description: "Wenn es um Fentanyl Menge Einordnen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fentanyl Menge Einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fentanyl Menge Einordnen

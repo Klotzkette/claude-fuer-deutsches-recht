@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-insiderhandel-119-wphg
-description: "Wenn es um Insiderhandel Paragraf 119 WpHG iVm Art in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insiderhandel Paragraf 119 WpHG iVm Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderhandel § 119 WpHG iVm Art

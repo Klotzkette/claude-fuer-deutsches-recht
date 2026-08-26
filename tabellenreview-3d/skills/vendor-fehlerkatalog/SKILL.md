@@ -1,6 +1,6 @@
 ---
 name: vendor-fehlerkatalog
-description: "Wenn es um Vendor Fehlerkatalog in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vendor Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vendor Fehlerkatalog

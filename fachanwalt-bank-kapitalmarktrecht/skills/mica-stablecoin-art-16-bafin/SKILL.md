@@ -1,6 +1,6 @@
 ---
 name: mica-stablecoin-art-16-bafin
-description: "Wenn es um Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin in Fachanwalt Bank Kapitalmarktrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin

@@ -1,6 +1,6 @@
 ---
 name: designrecherche-dpmaregister-euipo-wipo
-description: "Wenn es um Designrecherche Dpmaregister Euipo Wipo in designrecht-geschmacksmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Designrecherche Dpmaregister Euipo Wipo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Designrecherche Dpmaregister Euipo Wipo

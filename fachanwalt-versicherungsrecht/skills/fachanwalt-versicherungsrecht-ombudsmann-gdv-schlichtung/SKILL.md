@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-ombudsmann-gdv-schlichtung
-description: "Wenn es um Versicherungs-Ombudsmann / GDV-Schlichtung in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Versicherungs-Ombudsmann / GDV-Schlichtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versicherungs-Ombudsmann / GDV-Schlichtung

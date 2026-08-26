@@ -1,6 +1,6 @@
 ---
 name: nachfolge-agenturverkauf
-description: "Wenn es um Agenturverkauf und Nachfolge im Handelsvertreterrecht in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Agenturverkauf und Nachfolge im Handelsvertreterrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agenturverkauf und Nachfolge im Handelsvertreterrecht

@@ -1,6 +1,6 @@
 ---
 name: dfg-finanzplan-module-personal-geraete
-description: "Wenn es um Finanzplan und Module in DFG-Förderantrag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Finanzplan und Module: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finanzplan und Module

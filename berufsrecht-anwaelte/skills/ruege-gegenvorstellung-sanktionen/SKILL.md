@@ -1,6 +1,6 @@
 ---
 name: ruege-gegenvorstellung-sanktionen
-description: "Wenn es um Ruege Gegenvorstellung Sanktionen in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Rüge Gegenvorstellung Sanktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: ruege und gegenvorstellung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

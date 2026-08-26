@@ -1,6 +1,6 @@
 ---
 name: spezial-fmkw-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Fmkw: Mandantenkommunikation und Entscheidungsvorlage in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Fmkw: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Fmkw: Mandantenkommunikation und Entscheidungsvorlage

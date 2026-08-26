@@ -1,6 +1,6 @@
 ---
 name: hochschulmedizin-klinik-hochschulrat-aufsicht
-description: "Wenn es um Hochschulmedizin und Klinik-Schnittstelle in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hochschulmedizin und Klinik-Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hochschulmedizin und Klinik-Schnittstelle

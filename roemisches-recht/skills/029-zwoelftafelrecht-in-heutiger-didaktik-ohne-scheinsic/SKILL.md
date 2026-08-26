@@ -1,6 +1,6 @@
 ---
 name: 029-zwoelftafelrecht-in-heutiger-didaktik-ohne-scheinsic
-description: "Wenn es um Rom Zwoelftafelrecht In Heutiger Didaktik Ohne Scheinsic in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom Zwölftafelrecht in Heutiger Didaktik ohne Scheinsic: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rom Zwoelftafelrecht In Heutiger Didaktik Ohne Scheinsic

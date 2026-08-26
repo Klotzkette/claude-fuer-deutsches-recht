@@ -1,6 +1,6 @@
 ---
 name: dokumentations-und-beweisarchitektur
-description: "Wenn es um Dokumentations- und Beweisarchitektur in Schriftform und Textform im BGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Dokumentations- und Beweisarchitektur: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Dokumentations- und Beweisarchitektur

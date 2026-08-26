@@ -1,6 +1,6 @@
 ---
 name: regelaltersrente-und-vorzeitige-rente
-description: "Wenn es um regelaltersrente-und-vorzeitige-rente in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für regelaltersrente-und-vorzeitige-rente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # regelaltersrente-und-vorzeitige-rente

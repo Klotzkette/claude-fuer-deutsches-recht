@@ -1,6 +1,6 @@
 ---
 name: arbeitsvertrag-englisch-deutsch-bilingual
-description: "Wenn es um Arbeitsvertrag Englisch Deutsch Bilingual in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsvertrag Englisch Deutsch Bilingual: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsvertrag Englisch Deutsch Bilingual

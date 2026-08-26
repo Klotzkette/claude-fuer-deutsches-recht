@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-und-interessenkollision-rechtsprechungsc
-description: "Wenn es um Nebentaetigkeit Und Interessenkollision Rechtsprechungsc in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Nebentätigkeit und Interessenkollision Rechtsprechungsc: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: nebentaetigkeit und interessenkollision - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: ihl-053-currency-risk-and-indexation
-description: "Wenn es um Currency Risk And Indexation in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Currency Risk And Indexation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Currency Risk And Indexation

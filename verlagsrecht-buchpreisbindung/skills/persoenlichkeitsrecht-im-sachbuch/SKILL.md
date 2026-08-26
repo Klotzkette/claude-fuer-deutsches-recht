@@ -1,6 +1,6 @@
 ---
 name: persoenlichkeitsrecht-im-sachbuch
-description: "Wenn es um Verl-021 · Persönlichkeitsrecht im Sachbuch in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-021 · Persönlichkeitsrecht im Sachbuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-021 · Persönlichkeitsrecht im Sachbuch

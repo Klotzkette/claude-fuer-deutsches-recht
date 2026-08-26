@@ -1,6 +1,6 @@
 ---
 name: bauarbeiten-kabelschaden
-description: "Wenn es um Kabelschaden durch Bauarbeiten in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Kabelschaden durch Bauarbeiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kabelschaden durch Bauarbeiten

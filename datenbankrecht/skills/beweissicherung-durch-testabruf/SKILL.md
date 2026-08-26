@@ -1,6 +1,6 @@
 ---
 name: beweissicherung-durch-testabruf
-description: "Wenn es um Beweissicherung durch Testabruf-Werkzeug — Zulässigkeit und Verwertbarkeit in Datenbankrecht und Datenbankherstellerrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweissicherung durch Testabruf-Werkzeug — Zulässigkeit und Verwertbarkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweissicherung durch Testabruf-Werkzeug — Zulässigkeit und Verwertbarkeit

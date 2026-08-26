@@ -1,6 +1,6 @@
 ---
 name: aktionaersregister-namensaktien-aktivistische
-description: "Wenn es um Aktionaersregister Namensaktien in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktionärsregister Namensaktien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Aktionaersregister Namensaktien

@@ -1,6 +1,6 @@
 ---
 name: vertretungsbefugnis
-description: "Wenn es um Vertretungsbefugnis in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Vertretungsbefugnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: vertretungsbefugnis vor patentgericht - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

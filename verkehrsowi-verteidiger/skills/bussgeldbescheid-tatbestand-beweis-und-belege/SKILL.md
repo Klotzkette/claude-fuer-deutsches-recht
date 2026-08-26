@@ -1,6 +1,6 @@
 ---
 name: bussgeldbescheid-tatbestand-beweis-und-belege
-description: "Wenn es um Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage

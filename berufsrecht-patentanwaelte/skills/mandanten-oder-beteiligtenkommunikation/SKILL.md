@@ -1,6 +1,6 @@
 ---
 name: mandanten-oder-beteiligtenkommunikation
-description: "Wenn es um Beteiligtenkommunikation in Berufsrecht Patentanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beteiligtenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Patentanwälte."
 ---
 
 # Beteiligtenkommunikation

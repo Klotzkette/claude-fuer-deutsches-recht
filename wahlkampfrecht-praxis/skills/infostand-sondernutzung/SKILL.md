@@ -1,6 +1,6 @@
 ---
 name: infostand-sondernutzung
-description: "Wenn es um Infostand Sondernutzung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Infostand Sondernutzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Infostand Sondernutzung

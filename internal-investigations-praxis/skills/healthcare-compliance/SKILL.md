@@ -1,6 +1,6 @@
 ---
 name: healthcare-compliance
-description: "Wenn es um Healthcare-Compliance-Verstöße und Untersuchung in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Healthcare-Compliance-Verstöße und Untersuchung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Healthcare-Compliance-Verstöße und Untersuchung

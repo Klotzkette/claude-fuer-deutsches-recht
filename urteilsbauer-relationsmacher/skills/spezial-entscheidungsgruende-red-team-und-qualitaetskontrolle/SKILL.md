@@ -1,6 +1,6 @@
 ---
 name: spezial-entscheidungsgruende-red-team-und-qualitaetskontrolle
-description: "Wenn es um Entscheidungsgruende: Red-Team und Qualitätskontrolle in Urteilsbauer und Relationsmacher geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entscheidungsgründe: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Entscheidungsgruende: Red-Team und Qualitätskontrolle

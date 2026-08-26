@@ -1,6 +1,6 @@
 ---
 name: garantieprovision-limit-und-risk-weighting
-description: "Wenn es um Garantieprovision, Limit und Risk Weighting in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Garantieprovision, Limit und Risk Weighting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Garantieprovision, Limit und Risk Weighting

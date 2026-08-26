@@ -1,6 +1,6 @@
 ---
 name: betriebsfeier-sexuelle-belaestigung-intake
-description: "Wenn es um Betriebsfeier Sexuelle Belaestigung Intake in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Betriebsfeier Sexuelle Belästigung Intake: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsfeier Sexuelle Belaestigung Intake

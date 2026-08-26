@@ -1,6 +1,6 @@
 ---
 name: anschluss-router
-description: "Wenn es um Rechtsberatungsstelle — Allgemein in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsberatungsstelle — Allgemein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsberatungsstelle — Allgemein

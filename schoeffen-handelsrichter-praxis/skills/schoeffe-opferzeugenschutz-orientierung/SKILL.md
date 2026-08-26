@@ -1,6 +1,6 @@
 ---
 name: schoeffe-opferzeugenschutz-orientierung
-description: "Wenn es um Opfer- und Zeugenschutz: Orientierung in Schöffen und Handelsrichter Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Opfer- und Zeugenschutz: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Opfer- und Zeugenschutz: Orientierung

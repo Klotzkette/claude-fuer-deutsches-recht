@@ -1,6 +1,6 @@
 ---
 name: netzwerkunternehmen-und-brand-rechtsprechung
-description: "Wenn es um Netzwerkunternehmen Und Brand Rechtsprechung in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Netzwerkunternehmen und Brand Rechtsprechung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: netzwerkunternehmen und brand - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

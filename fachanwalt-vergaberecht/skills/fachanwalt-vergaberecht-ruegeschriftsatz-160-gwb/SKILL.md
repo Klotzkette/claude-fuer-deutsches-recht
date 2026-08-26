@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-ruegeschriftsatz-160-gwb
-description: "Wenn es um Ruegeschriftsatz Paragraf 160 III GWB in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rügeschriftsatz Paragraf 160 III GWB: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Ruegeschriftsatz § 160 III GWB

@@ -1,6 +1,6 @@
 ---
 name: esg-and-lksg-data-transfer-trade-e-commerce
-description: "Wenn es um ESG, LkSG und CSDDD in der Lieferkette in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ESG, LkSG und CSDDD in der Lieferkette: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ESG, LkSG und CSDDD in der Lieferkette

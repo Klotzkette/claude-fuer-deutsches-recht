@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa
-description: "Wenn es um Gk Sanierungsgewinn Tax Warranty Und Tax Indemnity Im Spa in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gk Sanierungsgewinn Tax Warranty und Tax Indemnity im Spa: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strukturierung von Tax Warranty und Tax Indemnity im SPA für Transaktionen mit Sanierungsgewinn-Risiko nach Paragraf 3a EStG

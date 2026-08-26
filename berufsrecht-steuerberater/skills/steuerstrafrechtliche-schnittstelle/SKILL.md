@@ -1,6 +1,6 @@
 ---
 name: steuerstrafrechtliche-schnittstelle
-description: "Wenn es um Steuerstrafrechtliche Schnittstelle in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Steuerstrafrechtliche Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: steuerstrafrechtliche schnittstelle - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

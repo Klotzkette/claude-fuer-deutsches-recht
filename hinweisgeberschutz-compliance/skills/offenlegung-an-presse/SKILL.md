@@ -1,6 +1,6 @@
 ---
 name: offenlegung-an-presse
-description: "Wenn es um Offenlegung An Presse in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Offenlegung an Presse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Offenlegung An Presse

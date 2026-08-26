@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-exportkontrollklauseln-vertrag
-description: "Wenn es um Exportkontrollklauseln im Vertrag: Gestaltung und Prüfung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Exportkontrollklauseln im Vertrag: Gestaltung und Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Exportkontrollklauseln im Vertrag: Gestaltung und Prüfung

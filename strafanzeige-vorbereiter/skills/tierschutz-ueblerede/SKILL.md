@@ -1,6 +1,6 @@
 ---
 name: tierschutz-ueblerede
-description: "Wenn es um Tierschutzstrafrecht Paragraf 17 TierSchG in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Tierschutzstrafrecht Paragraf 17 TierSchG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tierschutzstrafrecht § 17 TierSchG

@@ -1,6 +1,6 @@
 ---
 name: klimaschutz-und-abwaegung
-description: "Wenn es um Klimaschutz Und Abwaegung in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klimaschutz und Abwägung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klimaschutz Und Abwaegung

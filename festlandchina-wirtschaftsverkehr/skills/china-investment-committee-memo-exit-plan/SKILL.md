@@ -1,6 +1,6 @@
 ---
 name: china-investment-committee-memo-exit-plan
-description: "Wenn es um Investment-Committee-Memo China: Struktur und Anforderungen in China-Wirtschaftsverkehr geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Investment-Committee-Memo China: Struktur und Anforderungen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Investment-Committee-Memo China: Struktur und Anforderungen

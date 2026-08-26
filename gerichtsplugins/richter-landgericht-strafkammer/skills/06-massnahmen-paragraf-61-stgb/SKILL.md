@@ -1,6 +1,6 @@
 ---
 name: 06-massnahmen-paragraf-61-stgb
-description: "Wenn es um 06 Maßnahmen Paragraf 61 Stgb in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 06 Maßnahmen Paragraf 61 Stgb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 06 Maßnahmen Paragraf 61 Stgb

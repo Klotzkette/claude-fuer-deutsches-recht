@@ -1,6 +1,6 @@
 ---
 name: abstimmung-mehrheiten-anlagenpaket
-description: "Wenn es um Abstimmung und Mehrheiten in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abstimmung und Mehrheiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abstimmung und Mehrheiten

@@ -1,6 +1,6 @@
 ---
 name: exclusive-rights-106-bundle
-description: "Wenn es um Exclusive Rights Bundle Paragraf 106 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Exclusive Rights Bundle Paragraf 106: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Exclusive Rights Bundle § 106

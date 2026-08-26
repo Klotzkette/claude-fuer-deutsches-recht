@@ -1,6 +1,6 @@
 ---
 name: dsv-risikobewertung-schwellen-art-33-34
-description: "Wenn es um Strukturiert die Schwellenwertentscheidung nach Art in Fachanwalt It Recht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Strukturiert die Schwellenwertentscheidung nach Art: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Strukturiert die Schwellenwertentscheidung nach Art

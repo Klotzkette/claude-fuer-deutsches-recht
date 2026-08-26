@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-employee-invention-frand
-description: "Wenn es um Rechtsabteilung: Employee Invention im Konzernprojekt in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Rechtsabteilung: Employee Invention im Konzernprojekt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Employee Invention im Konzernprojekt

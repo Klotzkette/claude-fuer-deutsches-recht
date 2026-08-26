@@ -1,6 +1,6 @@
 ---
 name: vergleichsklausel
-description: "Wenn es um Vergleichsklausel in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleichsklausel: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleichsklausel

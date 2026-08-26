@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-aufopferung
-description: "Wenn es um Pralr Arbeitsrecht Vorgaenger Im Alr in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Arbeitsrecht Aufopferung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Arbeitsrecht Vorgänger im Alr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pralr Arbeitsrecht Vorgaenger Im Alr

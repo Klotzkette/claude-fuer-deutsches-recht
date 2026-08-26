@@ -1,6 +1,6 @@
 ---
 name: tod-erbe-vorlage-originale-aktenzeichen
-description: "Wenn es um Tod, Erbe und Behörde in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Tod, Erbe und Behörde: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tod, Erbe und Behörde

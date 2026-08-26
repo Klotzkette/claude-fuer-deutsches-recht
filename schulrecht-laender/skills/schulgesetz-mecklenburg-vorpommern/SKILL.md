@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-mecklenburg-vorpommern
-description: "Wenn es um Schulgesetz Mecklenburg Vorpommern in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulgesetz Mecklenburg Vorpommern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulgesetz Mecklenburg Vorpommern

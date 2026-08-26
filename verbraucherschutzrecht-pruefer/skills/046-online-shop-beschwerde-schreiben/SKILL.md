@@ -1,6 +1,6 @@
 ---
 name: 046-online-shop-beschwerde-schreiben
-description: "Wenn es um Online Shop Beschwerde Schreiben in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Online Shop Beschwerde Schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Online Shop Beschwerde Schreiben

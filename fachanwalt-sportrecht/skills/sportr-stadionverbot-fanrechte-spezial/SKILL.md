@@ -1,6 +1,6 @@
 ---
 name: sportr-stadionverbot-fanrechte-spezial
-description: "Wenn es um Sportr Stadionverbot Fanrechte Spezial in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sportr Stadionverbot Fanrechte Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Stadionverbot und Fanrechte: bundesweite und oertliche Stadionverbote, BGH-Rechtsprechung zu Anhörung, gleichbehandlungsrechtliche Aspekte

@@ -1,6 +1,6 @@
 ---
 name: betrug-263
-description: "Wenn es um Betrug Paragraf 263 StGB in Strafanzeige-Vorbereiter geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Betrug Paragraf 263 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betrug § 263 StGB

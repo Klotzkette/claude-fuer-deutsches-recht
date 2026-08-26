@@ -1,6 +1,6 @@
 ---
 name: kommunal-behoerdenrobotik
-description: "Wenn es um Kommunal- und Behördenrobotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kommunal Behoerdenrobotik; Arbeitsfeld: robotik-recht."
+description: "Für Kommunal- und Behördenrobotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: kommunal-behoerdenrobotik."
 ---
 
 # Kommunal- und Behördenrobotik

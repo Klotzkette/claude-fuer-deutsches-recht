@@ -1,6 +1,6 @@
 ---
 name: bankaufsicht-erlaubnis-und-vertrieb
-description: "Wenn es um Bankaufsicht Erlaubnis Und Vertrieb in Fachanwalt Bank Kapitalmarktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Bankaufsicht Erlaubnis und Vertrieb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
@@ -54,3 +54,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 ## Aufsichtsrechtlicher Präzisionskern
 
 Wenn Zahlungsdienst, Cloud/IKT, Organanzeige, Beteiligungserwerb oder Kapitalfolge betroffen ist, den Skill `bk-aufsicht-zag-dora-inhkontrolle-crr-arbeitskern` zuschalten. Er trennt ZAG-Erlaubnis/Ausnahmen, DORA Artikel 16 und Art. 28 bis 30, KWG-Anzeigen nach AnzV, Inhaberkontrolle und CRR-Folgen. In Mandaten immer zweigleisig formulieren: gegenüber Aufsicht kooperativ und vollständig, gegenüber Gegner/Gericht beweis- und haftungsbewusst ohne unnötige Selbstbezichtigung.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-bankaufsicht-erlaubnis-und-vertrieb` beziehungsweise Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-bankaufsicht-erlaubnis-und-vertrieb.md).

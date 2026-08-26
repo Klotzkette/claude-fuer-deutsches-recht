@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsstatus-quellenbelege-live-quote
-description: "Wenn es um Liquiditaetsstatus Quellenbelege Live Quote in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Liquiditätsstatus Quellenbelege Live Quote: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liquiditaetsstatus Quellenbelege Live Quote

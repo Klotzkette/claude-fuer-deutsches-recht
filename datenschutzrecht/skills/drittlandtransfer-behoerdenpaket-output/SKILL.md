@@ -1,6 +1,6 @@
 ---
 name: drittlandtransfer-behoerdenpaket-output
-description: "Wenn es um Drittlandtransfer-Behördenpaket-Output in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Drittlandtransfer-Behördenpaket-Output: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drittlandtransfer-Behördenpaket-Output

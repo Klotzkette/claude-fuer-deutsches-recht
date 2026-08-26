@@ -1,6 +1,6 @@
 ---
 name: starug-quellenkarte
-description: "Wenn es um Starug Quellenkarte in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für StaRUG Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Starug Quellenkarte

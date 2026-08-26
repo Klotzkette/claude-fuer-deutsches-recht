@@ -1,6 +1,6 @@
 ---
 name: lease-013-unternehmerleasing-gewaehrleistung-durchgriff
-description: "Wenn es um Leasingrecht: Unternehmerleasing Gewährleistung Durchgriff in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Unternehmerleasing Gewährleistung Durchgriff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Unternehmerleasing Gewährleistung Durchgriff

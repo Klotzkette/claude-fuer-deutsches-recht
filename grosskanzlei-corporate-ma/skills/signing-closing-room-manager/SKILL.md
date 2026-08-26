@@ -1,6 +1,6 @@
 ---
 name: signing-closing-room-manager
-description: "Wenn es um Signing Closing Room Manager in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Signing Closing Room Manager: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: signing-closing-room-manager."
 ---
 
 # Signing- und Closing-Room-Manager: koordiniert Execution-Versionen, Signaturseiten, CPs, Bring-downs, Funds Flow, Closing Minutes und Post-Closing-Ablage.

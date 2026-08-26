@@ -1,6 +1,6 @@
 ---
 name: buchmesse-nachlassverwaltung
-description: "Wenn es um Verl-037 · Buchmesse: Rechtehandel und NDA in Verlagsrecht und Buchpreisbindung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verl-037 · Buchmesse: Rechtehandel und NDA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-037 · Buchmesse: Rechtehandel und NDA

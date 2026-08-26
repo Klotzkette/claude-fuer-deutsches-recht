@@ -1,6 +1,6 @@
 ---
 name: ma-brand-acquisition
-description: "Wenn es um Ma Brand Acquisition in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ma Brand Acquisition: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ma Brand Acquisition

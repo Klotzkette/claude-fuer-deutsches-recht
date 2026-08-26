@@ -1,6 +1,6 @@
 ---
 name: airline-pfandrecht-pfaendung-planen
-description: "Wenn es um Airline – Pfandrecht vorbereiten in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Airline – Pfandrecht vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Airline – Pfandrecht vorbereiten

@@ -1,6 +1,6 @@
 ---
 name: zulassung-bestellung-und-register
-description: "Wenn es um Zulassung, Bestellung und Register in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Zulassung, Bestellung und Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Berufsrecht Notare."
 ---
 
 # Zulassung, Bestellung und Register

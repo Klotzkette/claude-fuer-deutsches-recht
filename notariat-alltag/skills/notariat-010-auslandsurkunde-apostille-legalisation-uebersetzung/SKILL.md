@@ -1,6 +1,6 @@
 ---
 name: notariat-010-auslandsurkunde-apostille-legalisation-uebersetzung
-description: "Wenn es um Notariat 010 Auslandsurkunde Apostille Legalisation Uebersetzung in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat 010 Auslandsurkunde Apostille Legalisation Übersetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notariat im Alltag: Auslandsurkunde Apostille Legalisation Übersetzung und Registertauglichkeit

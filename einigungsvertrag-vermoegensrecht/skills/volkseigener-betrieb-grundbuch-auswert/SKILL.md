@@ -1,6 +1,6 @@
 ---
 name: volkseigener-betrieb-grundbuch-auswert
-description: "Wenn es um Volkseigener Betrieb Grundbuch Auswert in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Volkseigener Betrieb Grundbuch Auswert: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Volkseigener Betrieb Grundbuch Auswert

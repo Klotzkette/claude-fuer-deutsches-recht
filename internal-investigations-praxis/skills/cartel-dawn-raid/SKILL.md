@@ -1,6 +1,6 @@
 ---
 name: cartel-dawn-raid
-description: "Wenn es um Kartell-Dawn-Raid und Leniency in Internal Investigations Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kartell-Dawn-Raid und Leniency: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kartell-Dawn-Raid und Leniency

@@ -1,6 +1,6 @@
 ---
 name: workflow-chronologie-und-belegmatrix
-description: "Wenn es um Workflow Chronologie Und Belegmatrix in Fachanwalt Gewerblicher Rechtsschutz geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Workflow Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: Fachanwalt Gewerblicher Rechtsschutz."
 ---
 
 # Chronologie und Belegmatrix im gewerblichen Rechtsschutz: Zeitachse aufbauen, Dokumente chronologisch sortieren, Lücken identifizieren, Beweiskette strukturieren für Verletzungsverfahren, EV, Klagschrift und Mandantenakte.

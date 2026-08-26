@@ -1,6 +1,6 @@
 ---
 name: praesenz-virtuell-praesenzskript
-description: "Wenn es um Praesenz Virtuell Hybrid Router in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Präsenz Virtuell Hybrid Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praesenz Virtuell Hybrid Router

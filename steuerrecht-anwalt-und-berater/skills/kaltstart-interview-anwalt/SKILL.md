@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview-anwalt
-description: "Wenn es um /steuerrecht-anwalt-und-berater:anw-kaltstart-interview in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für /steuerrecht-anwalt-und-berater:anw-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /steuerrecht-anwalt-und-berater:anw-kaltstart-interview

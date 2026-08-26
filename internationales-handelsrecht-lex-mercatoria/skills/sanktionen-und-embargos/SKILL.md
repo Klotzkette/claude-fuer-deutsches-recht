@@ -1,6 +1,6 @@
 ---
 name: sanktionen-und-embargos
-description: "Wenn es um Sanktionen und Embargos in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanktionen und Embargos: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanktionen und Embargos

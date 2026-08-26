@@ -1,6 +1,6 @@
 ---
 name: wesentliche-rechte-pflichten-307
-description: "Wenn es um Wesentliche Rechte Pflichten 307 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Wesentliche Rechte Pflichten 307: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wesentliche Rechte Pflichten 307

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-telematik-esg-leasing-start
-description: "Wenn es um Datenschutz und Telematik im Fahrzeugleasing in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Datenschutz und Telematik im Fahrzeugleasing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz und Telematik im Fahrzeugleasing

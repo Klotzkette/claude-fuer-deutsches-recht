@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-insolvenzvermerk
-description: "Wenn es um Rechtsabteilung: Insolvenzvermerk und ausländischer Trustee in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Rechtsabteilung: Insolvenzvermerk und ausländischer Trustee: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Insolvenzvermerk und ausländischer Trustee

@@ -1,6 +1,6 @@
 ---
 name: anwalt-arbeitsplatz
-description: "Wenn es um Wann zwingend Anwalt einschalten? in Strafanzeige-Vorbereiter geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Wann zwingend Anwalt einschalten?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wann zwingend Anwalt einschalten?

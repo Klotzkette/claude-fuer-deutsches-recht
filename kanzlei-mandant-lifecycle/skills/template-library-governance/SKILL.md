@@ -1,6 +1,6 @@
 ---
 name: template-library-governance
-description: "Wenn es um Template Library Governance in Kanzlei-Mandant Lifecycle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Template Library Governance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Template Library Governance

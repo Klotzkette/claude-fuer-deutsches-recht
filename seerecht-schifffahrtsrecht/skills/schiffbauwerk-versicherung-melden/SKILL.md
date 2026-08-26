@@ -1,6 +1,6 @@
 ---
 name: schiffbauwerk-versicherung-melden
-description: "Wenn es um Schiffbauwerk – Schadensfall bei Versicherung melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiffbauwerk – Schadensfall bei Versicherung melden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiffbauwerk – Schadensfall bei Versicherung melden

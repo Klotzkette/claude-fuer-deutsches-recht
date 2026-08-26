@@ -1,6 +1,6 @@
 ---
 name: db-009-datenbanklizenz-entwurf-nutzungsumfang-und-audit
-description: "Wenn es um Datenbankrecht: Datenbanklizenz Entwurf Nutzungsumfang und Audit in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Datenbanklizenz Entwurf Nutzungsumfang und Audit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Datenbanklizenz Entwurf Nutzungsumfang und Audit

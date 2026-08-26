@@ -1,6 +1,6 @@
 ---
 name: ladezone-anordnung-angreifen
-description: "Wenn es um Ladezone Anordnung Angreifen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ladezone Anordnung Angreifen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ladezone Anordnung Angreifen

@@ -1,6 +1,6 @@
 ---
 name: eligibility-109-credit
-description: "Wenn es um Eligibility Paragraf 109 and Credit Counseling in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Eligibility Paragraf 109 and Credit Counseling: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eligibility § 109 and Credit Counseling

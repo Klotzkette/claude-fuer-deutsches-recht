@@ -1,6 +1,6 @@
 ---
 name: lizenziertem-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Lizenziertem Mandantenkommunikation Entscheidungsvorlage; Arbeitsfeld: Zitierweise deutsches Recht."
+description: "Für Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Zitierweise deutsches Recht. Route: lizenziertem-mandantenkommunikation-entscheidungsvorlage."
 ---
 
 # Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage

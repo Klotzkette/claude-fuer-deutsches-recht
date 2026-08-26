@@ -1,6 +1,6 @@
 ---
 name: gesundheits-forschungsdaten-gesundheitswesen
-description: "Wenn es um Gesundheits Und Forschungsdaten in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gesundheits und Forschungsdaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesundheits Und Forschungsdaten

@@ -1,6 +1,6 @@
 ---
 name: deliverable-acceptance
-description: "Wenn es um Deliverable Acceptance in Kanzlei-Mandant Lifecycle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deliverable Acceptance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Deliverable Acceptance

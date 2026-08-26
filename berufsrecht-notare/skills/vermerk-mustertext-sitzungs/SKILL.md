@@ -1,6 +1,6 @@
 ---
 name: vermerk-mustertext-sitzungs
-description: "Wenn es um Schriftsatz, Vermerk und Mustertext in Berufsrecht Notare geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schriftsatz, Vermerk und Mustertext: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Notare."
 ---
 
 # Schriftsatz, Vermerk und Mustertext

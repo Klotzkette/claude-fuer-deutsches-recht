@@ -1,6 +1,6 @@
 ---
 name: auslandsmandat-ethics-code
-description: "Wenn es um Auslandsmandat Ethics Code in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auslandsmandat Ethics Code: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wirtschaftsprüfer: auslandsmandat und ethics code - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

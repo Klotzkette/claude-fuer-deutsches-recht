@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-anpassen
-description: "Wenn es um /arbeitsrecht:arbeitsrecht-anpassen in Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für /arbeitsrecht:arbeitsrecht-anpassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /arbeitsrecht:arbeitsrecht-anpassen

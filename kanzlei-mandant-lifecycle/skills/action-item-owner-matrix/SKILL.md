@@ -1,6 +1,6 @@
 ---
 name: action-item-owner-matrix
-description: "Wenn es um Action-Item Owner Matrix in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Action-Item Owner Matrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Action-Item Owner Matrix

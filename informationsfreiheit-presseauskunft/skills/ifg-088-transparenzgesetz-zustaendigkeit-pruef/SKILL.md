@@ -1,6 +1,6 @@
 ---
 name: ifg-088-transparenzgesetz-zustaendigkeit-pruef
-description: "Wenn es um Transparenzgesetz Zustaendigkeit Pruef in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transparenzgesetz Zuständigkeit Prüf: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Informationsfreiheit und Presseauskunft. Route: ifg-088-transparenzgesetz-zustaendigkeit-pruef."
 ---
 
 # Transparenzgesetz Zustaendigkeit Pruef

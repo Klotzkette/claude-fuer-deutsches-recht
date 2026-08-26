@@ -1,6 +1,6 @@
 ---
 name: gemeinderat-aufsichtsbeschwerde-schrei
-description: "Wenn es um Gemeinderat Aufsichtsbeschwerde Schrei in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gemeinderat Aufsichtsbeschwerde Schrei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gemeinderat Aufsichtsbeschwerde Schrei

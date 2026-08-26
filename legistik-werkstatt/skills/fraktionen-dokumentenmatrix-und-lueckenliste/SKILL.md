@@ -1,6 +1,6 @@
 ---
 name: fraktionen-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Legistik-Werkstatt. Route: fraktionen-dokumentenmatrix-und-lueckenliste."
 ---
 
 # Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung

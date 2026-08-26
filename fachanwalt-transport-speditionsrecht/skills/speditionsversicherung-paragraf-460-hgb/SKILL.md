@@ -1,6 +1,6 @@
 ---
 name: speditionsversicherung-paragraf-460-hgb
-description: "Wenn es um Speditionsversicherung Paragraf 460 HGB in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Speditionsversicherung Paragraf 460 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Speditionsversicherung § 460 HGB

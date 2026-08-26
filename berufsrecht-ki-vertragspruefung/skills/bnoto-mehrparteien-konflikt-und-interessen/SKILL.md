@@ -1,6 +1,6 @@
 ---
 name: bnoto-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Bnoto: Mehrparteienkonflikt und Interessenmatrix in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Bnoto: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: bnoto-mehrparteien-konflikt-und-interessen."
 ---
 
 # Bnoto: Mehrparteienkonflikt und Interessenmatrix

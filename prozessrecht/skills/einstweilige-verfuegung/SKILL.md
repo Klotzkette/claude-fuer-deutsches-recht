@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung
-description: "Wenn es um Einstweilige Verfügung – Paragrafen 935. 940 ZPO in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einstweilige Verfügung – Paragrafen 935. 940 ZPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstweilige Verfügung – Paragrafen 935, 940 ZPO

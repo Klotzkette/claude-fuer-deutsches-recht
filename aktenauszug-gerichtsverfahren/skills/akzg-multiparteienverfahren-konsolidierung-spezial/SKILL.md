@@ -1,6 +1,6 @@
 ---
 name: akzg-multiparteienverfahren-konsolidierung-spezial
-description: "Wenn es um AkzG: Multipartei Konsolidierung in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für AkzG: Multipartei Konsolidierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AkzG: Multipartei Konsolidierung

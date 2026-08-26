@@ -1,6 +1,6 @@
 ---
 name: jahresgespraech-mandant-ki-tools-lohn
-description: "Wenn es um Jahresgespraech mit dem Mandanten in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Jahresgespräch mit dem Mandanten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: jahresgespraech-mandant-ki-tools-lohn."
 ---
 
 # Jahresgespraech mit dem Mandanten

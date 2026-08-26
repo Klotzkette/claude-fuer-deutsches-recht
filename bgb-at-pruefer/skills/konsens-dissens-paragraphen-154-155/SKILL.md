@@ -1,6 +1,6 @@
 ---
 name: konsens-dissens-paragraphen-154-155
-description: "Wenn es um Konsens und Dissens — Paragrafen 154 und 155 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Konsens und Dissens — Paragrafen 154 und 155 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konsens und Dissens — §§ 154 und 155 BGB

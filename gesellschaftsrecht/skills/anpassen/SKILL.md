@@ -1,6 +1,6 @@
 ---
 name: anpassen
-description: "Wenn es um Praxisprofil anpassen in Gesellschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Praxisprofil anpassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht."
 ---
 
 # Praxisprofil anpassen

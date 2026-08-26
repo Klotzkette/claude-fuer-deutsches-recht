@@ -1,6 +1,6 @@
 ---
 name: registergericht-rueckfrage
-description: "Wenn es um Registergericht Rückfrage in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Registergericht Rückfrage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registergericht Rückfrage

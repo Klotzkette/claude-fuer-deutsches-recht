@@ -1,6 +1,6 @@
 ---
 name: verfahren-verpflichtungszusage-und-abhilfemassnahme
-description: "Wenn es um Verfahren: Verpflichtungszusage und Abhilfemaßnahme in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verfahren: Verpflichtungszusage und Abhilfemaßnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfahren: Verpflichtungszusage und Abhilfemaßnahme

@@ -1,6 +1,6 @@
 ---
 name: uebermittlungsirrtum-paragraph-120
-description: "Wenn es um Übermittlungsirrtum — Paragraf 120 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Übermittlungsirrtum — Paragraf 120 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Übermittlungsirrtum — § 120 BGB

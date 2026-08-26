@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-netzentgelte-strom-unterlagenanforderun
-description: "Wenn es um Energie-Regulierungsakte: Netzentgelte Strom — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: Netzentgelte Strom — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: Netzentgelte Strom — Unterlagenanforderung

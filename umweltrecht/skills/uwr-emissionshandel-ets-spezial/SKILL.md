@@ -1,6 +1,6 @@
 ---
 name: uwr-emissionshandel-ets-spezial
-description: "Wenn es um Umwelt: ETS und CBAM in Umweltrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Umwelt: ETS und CBAM: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umwelt: ETS und CBAM

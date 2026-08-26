@@ -1,6 +1,6 @@
 ---
 name: widerspruch-klage-sozialgericht
-description: "Wenn es um Widerspruch und Sozialgericht in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Widerspruch und Sozialgericht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Widerspruch und Sozialgericht

@@ -1,6 +1,6 @@
 ---
 name: red-team-ideological-pressure
-description: "Wenn es um Red-Team: Ideologischer Druck auf Unternehmen in VR China in China-Wirtschaftsverkehr geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team: Ideologischer Druck auf Unternehmen in VR China: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team: Ideologischer Druck auf Unternehmen in VR China

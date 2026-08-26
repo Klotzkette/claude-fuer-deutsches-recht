@@ -1,6 +1,6 @@
 ---
 name: zag-finanztransfergeschaeft-schnittstelle-factoring
-description: "Wenn es um ZAG Finanztransfergeschäft Schnittstelle Factoring in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für ZAG Finanztransfergeschäft Schnittstelle Factoring: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ZAG Finanztransfergeschäft Schnittstelle Factoring

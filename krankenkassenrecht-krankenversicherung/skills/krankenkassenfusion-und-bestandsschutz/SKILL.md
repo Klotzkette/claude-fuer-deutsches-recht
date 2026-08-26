@@ -1,6 +1,6 @@
 ---
 name: krankenkassenfusion-und-bestandsschutz
-description: "Wenn es um Krankenkassenfusion und Bestandsschutz in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenkassenfusion und Bestandsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenkassenfusion und Bestandsschutz

@@ -1,6 +1,6 @@
 ---
 name: playbook-qualitaetspruefung-beweislast-review
-description: "Wenn es um Playbook: Internationaler Bezug und Schnittstellen in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Playbook: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Playbook: Internationaler Bezug und Schnittstellen

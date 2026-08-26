@@ -1,6 +1,6 @@
 ---
 name: semesterticket-mobilitaetsbeitrag-senat
-description: "Wenn es um Semesterticket und Mobilitätsbeitrag in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Semesterticket und Mobilitätsbeitrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Semesterticket und Mobilitätsbeitrag

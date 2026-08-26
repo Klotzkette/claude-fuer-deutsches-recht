@@ -1,6 +1,6 @@
 ---
 name: bautraeger-weg-erstverwalter-bestellung
-description: "Wenn es um WEG-Erstverwalter-Bestellung beim Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für WEG-Erstverwalter-Bestellung beim Bauträgervertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # WEG-Erstverwalter-Bestellung beim Bautraegervertrag

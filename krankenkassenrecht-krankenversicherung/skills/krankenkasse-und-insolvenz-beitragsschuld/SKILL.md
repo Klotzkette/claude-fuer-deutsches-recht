@@ -1,6 +1,6 @@
 ---
 name: krankenkasse-und-insolvenz-beitragsschuld
-description: "Wenn es um Krankenkasse und Insolvenz: Beitragsschuld in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenkasse und Insolvenz: Beitragsschuld: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenkasse und Insolvenz: Beitragsschuld

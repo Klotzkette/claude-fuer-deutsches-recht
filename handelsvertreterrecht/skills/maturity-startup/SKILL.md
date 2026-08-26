@@ -1,6 +1,6 @@
 ---
 name: maturity-startup
-description: "Wenn es um Handelsvertreterrecht im Start-up- und Scale-up-Kontext in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsvertreterrecht im Start-up- und Scale-up-Kontext: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsvertreterrecht im Start-up- und Scale-up-Kontext

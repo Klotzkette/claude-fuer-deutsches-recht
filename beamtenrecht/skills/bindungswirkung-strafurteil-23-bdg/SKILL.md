@@ -1,6 +1,6 @@
 ---
 name: bindungswirkung-strafurteil-23-bdg
-description: "Wenn es um Bindungswirkung Strafurteil im Disziplinarverfahren Paragraf 23 BDG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bindungswirkung Strafurteil im Disziplinarverfahren Paragraf 23 BDG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bindungswirkung Strafurteil im Disziplinarverfahren § 23 BDG

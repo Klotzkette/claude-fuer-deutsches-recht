@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation
-description: "Wenn es um Mandantenkommunikation in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: NDA-Abgleich."
 ---
 
 # Mandantenkommunikation

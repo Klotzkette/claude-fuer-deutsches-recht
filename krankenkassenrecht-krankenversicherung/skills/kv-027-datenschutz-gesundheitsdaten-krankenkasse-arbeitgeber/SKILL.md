@@ -1,6 +1,6 @@
 ---
 name: kv-027-datenschutz-gesundheitsdaten-krankenkasse-arbeitgeber
-description: "Wenn es um Krankenversicherung: Datenschutz Gesundheitsdaten Krankenkasse Arbeitgeber in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Datenschutz Gesundheitsdaten Krankenkasse Arbeitgeber: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Datenschutz Gesundheitsdaten Krankenkasse Arbeitgeber

@@ -1,6 +1,6 @@
 ---
 name: regelbeispiele-rechtsprechung
-description: "Wenn es um Regelbeispiele in der Strafzumessung in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Regelbeispiele in der Strafzumessung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Regelbeispiele in der Strafzumessung

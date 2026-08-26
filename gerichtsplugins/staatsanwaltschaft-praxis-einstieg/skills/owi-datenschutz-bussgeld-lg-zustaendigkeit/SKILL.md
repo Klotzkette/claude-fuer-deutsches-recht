@@ -1,6 +1,6 @@
 ---
 name: owi-datenschutz-bussgeld-lg-zustaendigkeit
-description: "Wenn es um Owi Datenschutz Bussgeld Lg Zuständigkeit in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Owi Datenschutz Bussgeld Lg Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz-Bußgeld nach DSGVO/BDSG: Aufsichtsbehörde, OWiG-Verweisung, Landgerichtsschwelle und Unternehmensgeldbuße

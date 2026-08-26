@@ -1,6 +1,6 @@
 ---
 name: deal-beweislast-einspruch
-description: "Wenn es um Deal: Beweislast, Darlegungslast und Substantiierung in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deal: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Deal: Beweislast, Darlegungslast und Substantiierung

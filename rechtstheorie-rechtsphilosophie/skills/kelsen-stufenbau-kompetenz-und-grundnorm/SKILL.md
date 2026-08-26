@@ -1,6 +1,6 @@
 ---
 name: kelsen-stufenbau-kompetenz-und-grundnorm
-description: "Wenn es um Stufenbau, Kompetenz und Normkette in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Stufenbau, Kompetenz und Normkette: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Stufenbau, Kompetenz und Normkette

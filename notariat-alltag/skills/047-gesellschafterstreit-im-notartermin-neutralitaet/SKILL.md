@@ -1,6 +1,6 @@
 ---
 name: 047-gesellschafterstreit-im-notartermin-neutralitaet
-description: "Wenn es um Notariat im Alltag: Gesellschafterstreit im Notartermin – Neutralität, Protokoll in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Gesellschafterstreit im Notartermin – Neutralität, Protokoll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notariat im Alltag: Gesellschafterstreit im Notartermin – Neutralität, Protokoll

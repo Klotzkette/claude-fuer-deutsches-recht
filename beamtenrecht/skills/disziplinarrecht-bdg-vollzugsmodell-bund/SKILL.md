@@ -1,6 +1,6 @@
 ---
 name: disziplinarrecht-bdg-vollzugsmodell-bund
-description: "Wenn es um BDG 2024 - Vollzugsmodell und Disziplinarverfügung in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für BDG 2024 - Vollzugsmodell und Disziplinarverfügung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BDG 2024 - Vollzugsmodell und Disziplinarverfügung

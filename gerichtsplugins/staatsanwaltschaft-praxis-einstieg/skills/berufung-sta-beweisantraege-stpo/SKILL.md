@@ -1,6 +1,6 @@
 ---
 name: berufung-sta-beweisantraege-stpo
-description: "Wenn es um Berufung der Staatsanwaltschaft einlegen und begrenzen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Berufung Sta Beweisantraege StPO; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
+description: "Für Berufung der Staatsanwaltschaft einlegen und begrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Berufung der Staatsanwaltschaft einlegen und begrenzen

@@ -1,6 +1,6 @@
 ---
 name: avv-pruefung
-description: "Wenn es um AVV-Review – Auftragsverarbeitungsvertrag Art. 28 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AVV-Review – Auftragsverarbeitungsvertrag Art. 28 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # AVV-Review – Auftragsverarbeitungsvertrag Art. 28 DSGVO

@@ -1,6 +1,6 @@
 ---
 name: ar-aufhebungsvertrag-praxis
-description: "Wenn es um Ar Aufhebungsvertrag Praxis in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ar Aufhebungsvertrag Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufhebungsvertrag in der Praxis: Sperrzeit ALG I Paragraf 159 SGB III, steuerliche Fünftelregelung Paragraf 34 EStG, AGB-Kontrolle von Klauseln Paragrafen 305 ff

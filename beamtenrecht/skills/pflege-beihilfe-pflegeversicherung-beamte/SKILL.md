@@ -1,6 +1,6 @@
 ---
 name: pflege-beihilfe-pflegeversicherung-beamte
-description: "Wenn es um pflege-beihilfe-pflegeversicherung-beamte in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für pflege-beihilfe-pflegeversicherung-beamte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # pflege-beihilfe-pflegeversicherung-beamte

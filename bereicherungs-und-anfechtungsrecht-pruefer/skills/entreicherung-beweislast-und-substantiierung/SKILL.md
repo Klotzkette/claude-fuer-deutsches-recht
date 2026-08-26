@@ -1,6 +1,6 @@
 ---
 name: entreicherung-beweislast-und-substantiierung
-description: "Wenn es um Entreicherung: Beweislast und Substantiierung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entreicherung: Beweislast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Entreicherung: Beweislast und Substantiierung

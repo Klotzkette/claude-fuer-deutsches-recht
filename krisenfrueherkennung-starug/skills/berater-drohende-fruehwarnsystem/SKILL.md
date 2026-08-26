@@ -1,6 +1,6 @@
 ---
 name: berater-drohende-fruehwarnsystem
-description: "Wenn es um Berater: Verhandlung, Vergleich und Eskalation in Krisenfrüherkennung und StaRUG-Management geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Berater: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berater: Verhandlung, Vergleich und Eskalation

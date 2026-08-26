@@ -1,6 +1,6 @@
 ---
 name: druckmittel-falsche
-description: "Wenn es um Anzeige als Druckmittel vermeiden in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anzeige als Druckmittel vermeiden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anzeige als Druckmittel vermeiden

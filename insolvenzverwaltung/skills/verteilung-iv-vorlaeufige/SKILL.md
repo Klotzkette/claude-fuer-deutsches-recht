@@ -1,6 +1,6 @@
 ---
 name: verteilung-iv-vorlaeufige
-description: "Wenn es um Schlussbericht, Schlussrechnung und Verteilung in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schlussbericht, Schlussrechnung und Verteilung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schlussbericht, Schlussrechnung und Verteilung

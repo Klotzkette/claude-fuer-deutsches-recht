@@ -1,6 +1,6 @@
 ---
 name: bilanzieller-status-aufnehmen
-description: "Wenn es um Bilanzieller Status aufnehmen in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bilanzieller Status aufnehmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bilanzieller Status aufnehmen

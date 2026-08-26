@@ -1,6 +1,6 @@
 ---
 name: markenanmeldung
-description: "Wenn es um Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten

@@ -1,6 +1,6 @@
 ---
 name: recruiting-interviewfragen-no-go
-description: "Wenn es um Recruiting Interviewfragen No Go in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Recruiting Interviewfragen No Go: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Recruiting Interviewfragen No Go

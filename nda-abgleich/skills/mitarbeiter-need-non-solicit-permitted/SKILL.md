@@ -1,6 +1,6 @@
 ---
 name: mitarbeiter-need-non-solicit-permitted
-description: "Wenn es um NDA: Mitarbeiter/Need-to-Know in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Mitarbeiter Need Non Solicit Permitted; Arbeitsfeld: NDA-Abgleich."
+description: "Für NDA: Mitarbeiter/Need-to-Know: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NDA-Abgleich. Route: mitarbeiter-need-non-solicit-permitted."
 ---
 
 # NDA: Mitarbeiter/Need-to-Know

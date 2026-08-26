@@ -1,6 +1,6 @@
 ---
 name: vertragserstellung-behoerden-gericht-und-registerweg
-description: "Wenn es um Vertragserstellung: Behörden-, Gerichts- oder Registerweg in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertragserstellung: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Vertragserstellung: Behörden-, Gerichts- oder Registerweg

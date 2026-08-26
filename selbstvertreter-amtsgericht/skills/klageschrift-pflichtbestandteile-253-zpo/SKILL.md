@@ -1,6 +1,6 @@
 ---
 name: klageschrift-pflichtbestandteile-253-zpo
-description: "Wenn es um So bauen Sie eine Klageschrift auf in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für So bauen Sie eine Klageschrift auf: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # So bauen Sie eine Klageschrift auf

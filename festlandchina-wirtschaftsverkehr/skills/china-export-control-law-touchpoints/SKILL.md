@@ -1,6 +1,6 @@
 ---
 name: china-export-control-law-touchpoints
-description: "Wenn es um Chinesisches Exportkontrollgesetz: Pflichten für deutsche Unternehmen in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Chinesisches Exportkontrollgesetz: Pflichten für deutsche Unternehmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Chinesisches Exportkontrollgesetz: Pflichten für deutsche Unternehmen

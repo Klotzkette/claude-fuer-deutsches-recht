@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-188-stgb-social-media-beweise
-description: "Wenn es um Strafrecht Spezial 188 Stgb Social Media Beweise in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial 188 Stgb Social Media Beweise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook, Instagram, TikTok, Telegram, WhatsApp, Blogs, Kommentarspalten und Demonstrationsvideos

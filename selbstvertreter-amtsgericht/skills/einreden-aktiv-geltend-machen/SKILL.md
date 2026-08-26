@@ -1,6 +1,6 @@
 ---
 name: einreden-aktiv-geltend-machen
-description: "Wenn es um Einreden: Sie müssen sie erheben! in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Einreden: Sie müssen sie erheben!: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einreden: Sie müssen sie erheben!

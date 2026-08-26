@@ -1,6 +1,6 @@
 ---
 name: beirat-red-team-satzung
-description: "Wenn es um Beirat Red Team Satzung in Mittelstands-Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beirat Red Team Satzung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Beirat Red Team Satzung

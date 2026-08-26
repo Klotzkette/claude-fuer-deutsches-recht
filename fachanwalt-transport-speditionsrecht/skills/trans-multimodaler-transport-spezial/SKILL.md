@@ -1,6 +1,6 @@
 ---
 name: trans-multimodaler-transport-spezial
-description: "Wenn es um Trans Multimodaler Transport Spezial in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Trans Multimodaler Transport Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall multimodaler Transport § 452 HGB und Konnossement: Haftung bei unbekanntem Schadensort, Network-Liability, Through-Bill of Lading

@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 83 Skills des Plugins `email-umformuliere
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Email Umformulierer Berufsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden mu…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näc…
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächste…
-4. **formuliert-erstpruefung-und-mandatsziel** — Wenn es um Formuliert: Erstprüfung, Rollenklärung und Mandatsziel in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist…
-5. **email-berufsrecht-formuliert-erstpruefung-rollenklaerung** — Wenn es um Formuliert: Erstprüfung, Rollenklärung und Mandatsziel in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist…
-6. **email-berufsrecht-konformitaet-formular-portal-einreichungslogik** — Wenn es um Konformitaet: Formular, Portal und Einreichungslogik in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständ…
-7. **email-berufsrecht-mails-risikoampel-gegenargumente** — Wenn es um Mails: Risikoampel, Gegenargumente und Verteidigungslinien in E-Mail-Umformulierer geht: zerlegt Ergebnis, Fr…
-8. **email-berufsrecht-emotionale-fristen-form-zustaendigkeit** — Wenn es um Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg in E-Mail-Umformulierer geht: prüft Frist, Form, Zustä…
-9. **email-berufsrecht-brao-mehrparteienkonflikt-interessenmatrix** — Wenn es um Brao: Mehrparteienkonflikt und Interessenmatrix in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkei…
-10. **email-berufsrecht-hoefliche-behoerden-gerichts-registerweg** — Wenn es um Hoefliche: Behörden-, Gerichts- oder Registerweg in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigke…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+4. **formuliert-erstpruefung-und-mandatsziel** — Für Formuliert: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: T…
+5. **email-berufsrecht-bora-internationaler-bezug-schnittstellen** — Für BORA: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenk…
+6. **email-berufsrecht-sachliche-schriftsatz-brief-memo-bausteine** — Für Sachliche: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schri…
+7. **email-berufsrecht-konformitaet-formular-portal-einreichungslogik** — Für Konformität: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichun…
+8. **email-berufsrecht-berufsrechtskonform-verhandlung-vergleich** — Für Berufsrechtskonform: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Ver…
+9. **email-berufsrecht-brao-mehrparteienkonflikt-interessenmatrix** — Für BRAO: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mi…
+10. **berufsrechtskonform-verhandlung-vergleich-und-eskalation** — Für Berufsrechtskonform: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Ver…
 
 ---
 
@@ -142,7 +142,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: E-Mail-Umformulierer._
 
 # Einstieg und Routing
 
@@ -186,7 +186,7 @@ Dieser Einstieg routet **Email Umformulierer Berufsrecht** vom ersten Sachverhal
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: E-Mail-Umformulierer._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -393,7 +393,7 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 
 ## Skill: `formuliert-erstpruefung-und-mandatsziel`
 
-_Wenn es um Formuliert: Erstprüfung, Rollenklärung und Mandatsziel in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Formuliert Erstpruefung Und Mandatsziel; Arbeitsfeld: E-Mail-Umformulierer._
+_Für Formuliert: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: E-Mail-Umformulierer. Route: formuliert-erstpruefung-und-mandatsziel._
 
 # Formuliert: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -459,26 +459,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `email-berufsrecht-formuliert-erstpruefung-rollenklaerung`
+## Skill: `email-berufsrecht-bora-internationaler-bezug-schnittstellen`
 
-_Wenn es um Formuliert: Erstprüfung, Rollenklärung und Mandatsziel in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Formuliert Erstpruefung Rollenklaerung; Arbeitsfeld: E-Mail-Umformulierer._
+_Für BORA: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: E-Mail-Umformulierer. Route: email-berufsrecht-bora-internationaler-bezug-schnittstellen._
 
-# Formuliert: Erstprüfung, Rollenklärung und Mandatsziel
-
-## Direktstart: lesen, entscheiden, liefern
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
-
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
-
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
-
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
-
-Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+# Bora: Internationaler Bezug und Schnittstellen
 
 ## Normenanker
 
@@ -497,7 +482,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Fachkern: Formuliert: Erstprüfung, Rollenklärung und Mandatsziel
+## Fachkern: Bora: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
 
@@ -512,7 +497,52 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Formuliert** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Bora** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `email-berufsrecht-sachliche-schriftsatz-brief-memo-bausteine`
+
+_Für Sachliche: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: E-Mail-Umformulierer. Route: email-berufsrecht-sachliche-schriftsatz-brief-memo-bausteine._
+
+# Sachliche: Schriftsatz-, Brief- und Memo-Bausteine
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 43 BRAO` — allgemeine Berufspflicht.
+- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
+- `§ 43a Abs. 4 BRAO` — Interessenkollision.
+- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
+- `§ 50 BRAO` — Handakten.
+- `§ 2 BORA` — Verschwiegenheit.
+- `§ 3 BORA` — Interessenkollision.
+- `§ 10 BORA` — Briefbogen/Information.
+- `§ 3a RVG` — Vergütungsvereinbarung.
+- `§ 10 RVG` — Abrechnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Fachkern: Sachliche: Schriftsatz-, Brief- und Memo-Bausteine
+- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
+- **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Sachliche** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
@@ -521,7 +551,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `email-berufsrecht-konformitaet-formular-portal-einreichungslogik`
 
-_Wenn es um Konformitaet: Formular, Portal und Einreichungslogik in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Konformitaet Formular Portal Einreichungslogik; Arbeitsfeld: E-Mail-Umformulierer._
+_Für Konformität: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: E-Mail-Umformulierer. Route: email-berufsrecht-konformitaet-formular-portal-einreichungslogik._
 
 # Konformitaet: Formular, Portal und Einreichungslogik
 
@@ -564,56 +594,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `email-berufsrecht-mails-risikoampel-gegenargumente`
+## Skill: `email-berufsrecht-berufsrechtskonform-verhandlung-vergleich`
 
-_Wenn es um Mails: Risikoampel, Gegenargumente und Verteidigungslinien in E-Mail-Umformulierer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Mails Risikoampel Gegenargumente; Arbeitsfeld: E-Mail-Umformulierer._
+_Für Berufsrechtskonform: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: E-Mail-Umformulierer. Route: email-berufsrecht-berufsrechtskonform-verhandlung-vergleich._
 
-# Mails: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 43 BRAO` — allgemeine Berufspflicht.
-- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
-- `§ 43a Abs. 4 BRAO` — Interessenkollision.
-- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
-- `§ 50 BRAO` — Handakten.
-- `§ 2 BORA` — Verschwiegenheit.
-- `§ 3 BORA` — Interessenkollision.
-- `§ 10 BORA` — Briefbogen/Information.
-- `§ 3a RVG` — Vergütungsvereinbarung.
-- `§ 10 RVG` — Abrechnung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Fachkern: Mails: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
-- **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Mails** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `email-berufsrecht-emotionale-fristen-form-zustaendigkeit`
-
-_Wenn es um Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Emotionale Fristen Form Zuständigkeit; Arbeitsfeld: E-Mail-Umformulierer._
-
-# Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg
+# Berufsrechtskonform: Verhandlung, Vergleich und Eskalation
 
 ## Normenanker
 
@@ -632,7 +617,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Fachkern: Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg
+## Fachkern: Berufsrechtskonform: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
 
@@ -647,7 +632,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Emotionale** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Berufsrechtskonform** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
@@ -656,7 +641,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `email-berufsrecht-brao-mehrparteienkonflikt-interessenmatrix`
 
-_Wenn es um Brao: Mehrparteienkonflikt und Interessenmatrix in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Brao Mehrparteienkonflikt Interessenmatrix; Arbeitsfeld: E-Mail-Umformulierer._
+_Für BRAO: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: E-Mail-Umformulierer. Route: email-berufsrecht-brao-mehrparteienkonflikt-interessenmatrix._
 
 # Brao: Mehrparteienkonflikt und Interessenmatrix
 
@@ -699,11 +684,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `email-berufsrecht-hoefliche-behoerden-gerichts-registerweg`
+## Skill: `berufsrechtskonform-verhandlung-vergleich-und-eskalation`
 
-_Wenn es um Hoefliche: Behörden-, Gerichts- oder Registerweg in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Hoefliche Behoerden Gerichts Registerweg; Arbeitsfeld: E-Mail-Umformulierer._
+_Für Berufsrechtskonform: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: E-Mail-Umformulierer. Route: berufsrechtskonform-verhandlung-vergleich-und-eskalation._
 
-# Hoefliche: Behörden-, Gerichts- oder Registerweg
+# Berufsrechtskonform: Verhandlung, Vergleich und Eskalation
 
 ## Normenanker
 
@@ -722,7 +707,15 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Fachkern: Hoefliche: Behörden-, Gerichts- oder Registerweg
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Berufsrechtskonform: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
 
@@ -737,7 +730,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Hoefliche** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Berufsrechtskonform** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

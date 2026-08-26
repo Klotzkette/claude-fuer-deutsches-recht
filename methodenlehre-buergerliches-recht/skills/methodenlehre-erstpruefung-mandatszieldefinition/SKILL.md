@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-erstpruefung-mandatszieldefinition
-description: "Wenn es um Erstprüfung und Mandatszieldefinition in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erstprüfung und Mandatszieldefinition: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Erstprüfung und Mandatszieldefinition

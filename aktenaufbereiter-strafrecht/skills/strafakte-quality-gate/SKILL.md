@@ -1,6 +1,6 @@
 ---
 name: strafakte-quality-gate
-description: "Wenn es um Strafakte: Quality Gate in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strafakte: Quality Gate: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafakte: Quality Gate

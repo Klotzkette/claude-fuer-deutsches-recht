@@ -1,6 +1,6 @@
 ---
 name: 13-beweislastverteilung-pruefen
-description: "Wenn es um 13 Beweislastverteilung Prüfen in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 13 Beweislastverteilung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # 13 Beweislastverteilung Prüfen

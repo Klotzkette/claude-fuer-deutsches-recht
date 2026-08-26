@@ -1,6 +1,6 @@
 ---
 name: grundbegriffe-cashflow-kreditlinien
-description: "Wenn es um Liqui Grundbegriffe Cashflow Kreditlinien in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Liqui Grundbegriffe Cashflow Kreditlinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liqui Grundbegriffe Cashflow Kreditlinien

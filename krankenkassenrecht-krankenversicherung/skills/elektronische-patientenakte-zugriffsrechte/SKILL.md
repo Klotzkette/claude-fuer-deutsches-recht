@@ -1,6 +1,6 @@
 ---
 name: elektronische-patientenakte-zugriffsrechte
-description: "Wenn es um Elektronische Patientenakte: Zugriffsrechte in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Elektronische Patientenakte: Zugriffsrechte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Elektronische Patientenakte: Zugriffsrechte

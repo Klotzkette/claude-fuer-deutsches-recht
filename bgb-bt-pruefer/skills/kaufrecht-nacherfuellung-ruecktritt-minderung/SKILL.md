@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-nacherfuellung-ruecktritt-minderung
-description: "Wenn es um Kaufrecht: Nacherfüllung, Rücktritt und Minderung in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaufrecht: Nacherfüllung, Rücktritt und Minderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaufrecht: Nacherfüllung, Rücktritt und Minderung

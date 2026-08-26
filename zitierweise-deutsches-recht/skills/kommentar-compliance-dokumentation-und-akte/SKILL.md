@@ -1,6 +1,6 @@
 ---
 name: kommentar-compliance-dokumentation-und-akte
-description: "Wenn es um Kommentar: Compliance-Dokumentation und Aktenvermerk in Zitierweise deutsches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Kommentar: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Zitierweise deutsches Recht. Route: kommentar-compliance-dokumentation-und-akte."
 ---
 
 # Kommentar: Compliance-Dokumentation und Aktenvermerk

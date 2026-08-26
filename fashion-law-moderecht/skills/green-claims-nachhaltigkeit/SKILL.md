@@ -1,6 +1,6 @@
 ---
 name: green-claims-nachhaltigkeit
-description: "Wenn es um Green Claims Nachhaltigkeit in fashion-law-moderecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Green Claims Nachhaltigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Green Claims Nachhaltigkeit

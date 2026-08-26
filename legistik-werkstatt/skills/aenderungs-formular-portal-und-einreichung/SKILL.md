@@ -1,6 +1,6 @@
 ---
 name: aenderungs-formular-portal-und-einreichung
-description: "Wenn es um Änderungs: Formular, Portal und Einreichungslogik in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aenderungs Formular Portal Und Einreichung; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Änderungs: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Legistik-Werkstatt. Route: aenderungs-formular-portal-und-einreichung."
 ---
 
 # Änderungs: Formular, Portal und Einreichungslogik
@@ -48,3 +48,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-aenderungs-formular-portal-und-einreichung` beziehungsweise Aenderungs: Formular, Portal und Einreichungslogik: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-aenderungs-formular-portal-und-einreichung.md).

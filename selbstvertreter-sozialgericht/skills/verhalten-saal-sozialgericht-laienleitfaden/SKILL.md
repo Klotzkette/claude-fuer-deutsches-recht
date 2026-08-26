@@ -1,6 +1,6 @@
 ---
 name: verhalten-saal-sozialgericht-laienleitfaden
-description: "Wenn es um Wie verhalte ich mich im Sitzungssaal? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wie verhalte ich mich im Sitzungssaal?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wie verhalte ich mich im Sitzungssaal?

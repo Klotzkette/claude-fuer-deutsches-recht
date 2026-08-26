@@ -1,6 +1,6 @@
 ---
 name: widerspruch-oder-klage-erstpruefung
-description: "Wenn es um Entscheidung Widerspruch vs in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entscheidung Widerspruch vs: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Entscheidung Widerspruch vs

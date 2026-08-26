@@ -1,6 +1,6 @@
 ---
 name: dba-quellensteuer-atlas-weltweit
-description: "Wenn es um DBA-Quellensteuer-Atlas in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für DBA-Quellensteuer-Atlas: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # DBA-Quellensteuer-Atlas

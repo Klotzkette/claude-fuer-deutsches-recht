@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-untreue-aktiengesellschaft-aktg-93
-description: "Wenn es um Untreue im Aktienrecht in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Untreue im Aktienrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Untreue im Aktienrecht

@@ -1,6 +1,6 @@
 ---
 name: cl-mandantenuebersicht-cl-prozesskostenrisiko
-description: "Wenn es um Common Law: Mandantenuebersicht EN in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Common Law: Mandantenübersicht EN: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Common Law: Mandantenuebersicht EN

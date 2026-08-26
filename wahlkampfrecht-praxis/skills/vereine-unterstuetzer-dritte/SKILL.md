@@ -1,6 +1,6 @@
 ---
 name: vereine-unterstuetzer-dritte
-description: "Wenn es um Vereine Unterstuetzer Dritte in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vereine Unterstützer Dritte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vereine Unterstuetzer Dritte

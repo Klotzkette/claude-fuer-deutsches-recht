@@ -1,6 +1,6 @@
 ---
 name: space-009-sat-betrieb-deutschland-genehmigung-versicherung
-description: "Wenn es um Weltraumrecht: Satellitenbetrieb aus Deutschland Genehmigung Versicherung Aufsicht in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Satellitenbetrieb aus Deutschland Genehmigung Versicherung Aufsicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Weltraumrecht: Satellitenbetrieb aus Deutschland Genehmigung Versicherung Aufsicht

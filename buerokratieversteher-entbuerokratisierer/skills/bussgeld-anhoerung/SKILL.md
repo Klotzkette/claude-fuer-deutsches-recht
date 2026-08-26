@@ -1,6 +1,6 @@
 ---
 name: bussgeld-anhoerung
-description: "Wenn es um Bußgeld-Anhörung in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bußgeld-Anhörung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bußgeld-Anhörung

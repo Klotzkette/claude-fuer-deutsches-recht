@@ -1,6 +1,6 @@
 ---
 name: ins-049-sanierung-und-starug
-description: "Wenn es um Insiderrecht: Sanierung und StaRUG in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Insiderrecht: Sanierung und StaRUG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Sanierung und StaRUG

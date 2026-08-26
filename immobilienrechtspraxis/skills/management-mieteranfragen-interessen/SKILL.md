@@ -1,6 +1,6 @@
 ---
 name: management-mieteranfragen-interessen
-description: "Wenn es um Management: Formular, Portal und Einreichungslogik in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Management: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Management: Formular, Portal und Einreichungslogik

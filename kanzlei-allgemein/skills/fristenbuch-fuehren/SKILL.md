@@ -1,6 +1,6 @@
 ---
 name: fristenbuch-fuehren
-description: "Wenn es um Zentrales Fristenbuch der Kanzlei in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zentrales Fristenbuch der Kanzlei: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Zentrales Fristenbuch der Kanzlei

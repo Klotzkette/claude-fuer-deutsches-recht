@@ -1,6 +1,6 @@
 ---
 name: fallvergleich-epochenuebergreifend
-description: "Wenn es um Fallvergleich epochenuebergreifend in Deutsche Rechtsgeschichte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Fallvergleich epochenübergreifend: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Fallvergleich epochenuebergreifend

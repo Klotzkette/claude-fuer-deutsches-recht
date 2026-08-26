@@ -1,6 +1,6 @@
 ---
 name: nkr-verhaeltnismaessigkeit-aus-nkr-sicht
-description: "Wenn es um NKR-Verhaeltnismaessigkeit aus NKR-Sicht in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NKR-Verhältnismäßigkeit aus NKR-Sicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrollrat (NKR) — Prüfung von Gesetzentwürfen. Route: nkr-verhaeltnismaessigkeit-aus-nkr-sicht."
 ---
 
 # NKR-Verhaeltnismaessigkeit aus NKR-Sicht

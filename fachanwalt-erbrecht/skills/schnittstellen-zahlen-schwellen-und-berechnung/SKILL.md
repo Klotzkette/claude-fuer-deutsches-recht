@@ -1,6 +1,6 @@
 ---
 name: schnittstellen-zahlen-schwellen-und-berechnung
-description: "Wenn es um Schnittstellen Zahlen Schwellen Und Berechnung in Fachanwalt Erbrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Schnittstellen Zahlen Schwellen und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

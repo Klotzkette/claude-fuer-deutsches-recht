@@ -1,6 +1,6 @@
 ---
 name: nicht-geringe-menge-livecheck
-description: "Wenn es um Nicht Geringe Menge Livecheck in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nicht Geringe Menge Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nicht Geringe Menge Livecheck

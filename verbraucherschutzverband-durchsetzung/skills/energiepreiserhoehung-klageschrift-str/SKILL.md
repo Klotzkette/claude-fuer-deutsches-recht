@@ -1,6 +1,6 @@
 ---
 name: energiepreiserhoehung-klageschrift-str
-description: "Wenn es um Energiepreiserhoehung Klageschrift Str in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Energiepreiserhöhung Klageschrift Str: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Energiepreiserhoehung Klageschrift Str

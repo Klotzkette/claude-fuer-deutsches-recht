@@ -1,6 +1,6 @@
 ---
 name: infl-012-content-lizenz-nutzungsdauer-media-buyout-whitelisting
-description: "Wenn es um Influencer-Recht: Content Lizenz Nutzungsdauer Media Buyout Whitelisting in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Content Lizenz Nutzungsdauer Media Buyout Whitelisting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Content Lizenz Nutzungsdauer Media Buyout Whitelisting

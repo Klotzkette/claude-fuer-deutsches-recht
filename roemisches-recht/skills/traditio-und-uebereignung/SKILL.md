@@ -1,6 +1,6 @@
 ---
 name: traditio-und-uebereignung
-description: "Wenn es um Traditio Und Uebereignung in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Traditio und Übereignung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Traditio Und Uebereignung

@@ -1,6 +1,6 @@
 ---
 name: verwaltungsakte-historisch-lesen
-description: "Wenn es um Verwaltungsakte historisch lesen in Deutsche Rechtsgeschichte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Verwaltungsakte historisch lesen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwaltungsakte historisch lesen

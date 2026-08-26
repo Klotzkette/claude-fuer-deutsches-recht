@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 82 Skills des Plugins `fachanwalt-verwaltungsrecht`.
+Diese Vollprüfung enthält top-10 von 79 Skills des Plugins `fachanwalt-verwaltungsrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Verwaltungsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; …
 2. **verwaltungsgerichtliche-versandmappe-endfertigen** — Endfertigt Anfechtungs-, Verpflichtungs-, Feststellungs- und Leistungsklage sowie Anträge nach VwGO Paragraf 80 Absatz 5…
-3. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passen…
-4. **mandat-triage-verwaltungsrecht** — Wenn es um Mandat Triage Verwaltungsrecht in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und …
-5. **fachanwalt-verwaltungsrecht-orientierung** — Wenn es um Fachanwalt für Verwaltungsrecht — Orientierung in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zustän…
-6. **orientierung-sonderfall-edge-case** — Wenn es um Orientierung: Sonderfall und Edge-Case-Prüfung in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zustän…
-7. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, R…
-8. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg…
-9. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel…
-10. **eilantrag-80-abs-5-vwgo** — Wenn es um Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach Paragraf 80 Abs in Fachanwalt Verw…
+3. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+4. **mandat-triage-verwaltungsrecht** — Für Mandat Triage Verwaltungsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko un…
+5. **orientierung-sonderfall-edge-case** — Für Orientierung: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit…
+6. **orientierung-mandat-fachanwaltschaft** — Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+7. **fachanwalt-verwaltungsrecht-orientierung** — Für Fachanwalt für Verwaltungsrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit…
+8. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+9. **erstpruefung-und-mandatsziel** — Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: T…
+10. **eilantrag-80-abs-5-vwgo** — Für Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach Paragraf 80 Abs: erstellt Entwurf mit Ant…
 
 ---
 
@@ -138,7 +138,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 ## Skill: `verwaltungsgerichtliche-versandmappe-endfertigen`
 
-_Endfertigt Anfechtungs-, Verpflichtungs-, Feststellungs- und Leistungsklage sowie Anträge nach VwGO Paragraf 80 Absatz 5 oder Paragraf 123: liest Bescheid, Widerspruchsbescheid und Behördenakte zuerst, prüft Klageart, Antrag, Zuständigkeit, Zustellung und Eilgrund, ordnet Verwaltungsvorgänge und Beweise zu und liefert beA-fertige Einzel-PDFs samt Eingangsprüfung._
+_Endfertigt Anfechtungs-, Verpflichtungs-, Feststellungs- und Leistungsklage sowie Anträge nach VwGO Paragraf 80 Absatz 5 oder Paragraf 123: liest Bescheid, Widerspruchsbescheid und Behördenakte zuerst, prüft Klageart, Antrag, Zuständigkeit, Zustellung und Eilgrund, ordnet Verwaltungsvorgänge und Beweise zu und liefert beA-fertige Einzel-PDFs samt._
 
 # Verwaltungsgerichtliche Versandmappe endfertigen
 
@@ -176,7 +176,7 @@ Liefere Hauptdokument, Einzelanlagen, Bescheid- und Fristenkette, Aktenfundstell
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Verwaltungsrecht._
 
 # Einstieg und Routing
 
@@ -220,7 +220,7 @@ Dieser Einstieg routet **Fachanwalt Verwaltungsrecht** vom ersten Sachverhalt zu
 
 ## Skill: `mandat-triage-verwaltungsrecht`
 
-_Wenn es um Mandat Triage Verwaltungsrecht in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Mandat Triage Verwaltungsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Eingangs-Triage für verwaltungsrechtliche Mandate: Erst-Qualifizierung des Sachgebiets, Verfahrensstands und Frist-Sofort-Checks
 
@@ -378,89 +378,9 @@ Bei sofortiger Vollziehung oder akutem Vollzug:
 
 ---
 
-## Skill: `fachanwalt-verwaltungsrecht-orientierung`
-
-_Wenn es um Fachanwalt für Verwaltungsrecht — Orientierung in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Fachanwalt für Verwaltungsrecht — Orientierung
-
-## FAO-Voraussetzungen
-
-- Lehrgang 120 Stunden + drei Klausuren.
-- 80 Fälle in den letzten drei Jahren, davon mindestens 30 gerichtliche Verfahren.
-
-## Wichtige Normen
-
-| Bereich | Norm |
-|---|---|
-| Verwaltungsverfahren | VwVfG (Bund) Landes-VwVfG |
-| Verwaltungsprozess | VwGO §§ 40 ff. 80 86b 123 |
-| Allgemeines Verwaltungsrecht | Quellenprüfung Hartmann Grundbegriffe |
-| Polizei- und Ordnungsrecht | Polizei- und Ordnungsgesetze der Länder (PolG NRW BayPAG) |
-| Baurecht | BauGB BauNVO Landesbauordnungen |
-| Beamtenrecht | BeamtStG BBG Landesbeamtengesetze |
-| Versammlungsrecht | VersG / Landesversammlungsgesetze |
-| Datenschutz öffentlich | BDSG Landesdatenschutzgesetze |
-
-## Typische Mandate
-
-- Bauantrag Widerspruch und Klage
-- Polizei- und Ordnungsverfügung
-- Beamtenrechtliche Streitigkeiten (Beurteilung Versetzung Disziplinarverfahren)
-- Sozialhilfe vs Eingliederung (Abgrenzung zu Sozialrecht)
-- Versammlungsverbot
-- Ausländer- und Asylrechtsstreit (siehe fachanwalt-migrationsrecht)
-- Verwaltungsvollstreckung
-
-## Fristen
-
-- **Widerspruchsfrist** § 70 VwGO — ein Monat.
-- **Klagefrist** § 74 VwGO — ein Monat ab Bekanntgabe.
-- **Berufungsantrag (Zulassung)** § 124a VwGO — ein Monat.
-- **Eilrechtsschutz** § 80 Abs. 5 VwGO und § 123 VwGO — keine Frist; aber Eilbedürfnis erforderlich.
-- **Normenkontrolle** § 47 VwGO — ein Jahr ab Bekanntmachung der Norm.
-
-## Hauptgerichte
-
-- Verwaltungsgericht erste Instanz (§ 45 VwGO).
-- OVG / VGH Berufung und Normenkontrolle.
-- BVerwG Leipzig Revision.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Berufsverband
-
-- ARGE Verwaltungsrecht DAV.
-
-## Fristen im Ueberblick
-
-| Verfahrensschritt | Frist | Grundlage |
-|---|---|---|
-| Widerspruch | 1 Monat | § 70 VwGO |
-| Klage | 1 Monat | § 74 VwGO |
-| Normenkontrolle | 1 Jahr | § 47 Abs. 2 VwGO |
-| Untaetigkeitsklage | 3 Monate | § 75 VwGO |
-| Berufungsantrag | 1 Monat | § 124a VwGO |
-| Verfassungsbeschwerde | 1 Monat | § 93 BVerfGG |
-| Revisionsantrag | 1 Monat | § 139 VwGO |
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schnittstellen
-
-- **kanzlei-allgemein** fuer Fristen Versand.
-- **fachanwalt-migrationsrecht** bei Auslaenderrecht.
-- **fachanwalt-sozialrecht** bei Abgrenzung Sozialgericht vs. Verwaltungsgericht.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
 ## Skill: `orientierung-sonderfall-edge-case`
 
-_Wenn es um Orientierung: Sonderfall und Edge-Case-Prüfung in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Verwaltungsrecht._
 
 # Orientierung: Sonderfall und Edge-Case-Prüfung
 
@@ -513,7 +433,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `orientierung-mandat-fachanwaltschaft`
 
-_Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Verwaltungsrecht._
 
 # Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzungen, Kerngebiete, typische Mandate und Fristen überblicken
 
@@ -598,9 +518,89 @@ _Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Verwaltungsrecht 
 
 ---
 
+## Skill: `fachanwalt-verwaltungsrecht-orientierung`
+
+_Für Fachanwalt für Verwaltungsrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Fachanwalt für Verwaltungsrecht — Orientierung
+
+## FAO-Voraussetzungen
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 80 Fälle in den letzten drei Jahren, davon mindestens 30 gerichtliche Verfahren.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| Verwaltungsverfahren | VwVfG (Bund) Landes-VwVfG |
+| Verwaltungsprozess | VwGO §§ 40 ff. 80 86b 123 |
+| Allgemeines Verwaltungsrecht | Quellenprüfung Hartmann Grundbegriffe |
+| Polizei- und Ordnungsrecht | Polizei- und Ordnungsgesetze der Länder (PolG NRW BayPAG) |
+| Baurecht | BauGB BauNVO Landesbauordnungen |
+| Beamtenrecht | BeamtStG BBG Landesbeamtengesetze |
+| Versammlungsrecht | VersG / Landesversammlungsgesetze |
+| Datenschutz öffentlich | BDSG Landesdatenschutzgesetze |
+
+## Typische Mandate
+
+- Bauantrag Widerspruch und Klage
+- Polizei- und Ordnungsverfügung
+- Beamtenrechtliche Streitigkeiten (Beurteilung Versetzung Disziplinarverfahren)
+- Sozialhilfe vs Eingliederung (Abgrenzung zu Sozialrecht)
+- Versammlungsverbot
+- Ausländer- und Asylrechtsstreit (siehe fachanwalt-migrationsrecht)
+- Verwaltungsvollstreckung
+
+## Fristen
+
+- **Widerspruchsfrist** § 70 VwGO — ein Monat.
+- **Klagefrist** § 74 VwGO — ein Monat ab Bekanntgabe.
+- **Berufungsantrag (Zulassung)** § 124a VwGO — ein Monat.
+- **Eilrechtsschutz** § 80 Abs. 5 VwGO und § 123 VwGO — keine Frist; aber Eilbedürfnis erforderlich.
+- **Normenkontrolle** § 47 VwGO — ein Jahr ab Bekanntmachung der Norm.
+
+## Hauptgerichte
+
+- Verwaltungsgericht erste Instanz (§ 45 VwGO).
+- OVG / VGH Berufung und Normenkontrolle.
+- BVerwG Leipzig Revision.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- ARGE Verwaltungsrecht DAV.
+
+## Fristen im Ueberblick
+
+| Verfahrensschritt | Frist | Grundlage |
+|---|---|---|
+| Widerspruch | 1 Monat | § 70 VwGO |
+| Klage | 1 Monat | § 74 VwGO |
+| Normenkontrolle | 1 Jahr | § 47 Abs. 2 VwGO |
+| Untaetigkeitsklage | 3 Monate | § 75 VwGO |
+| Berufungsantrag | 1 Monat | § 124a VwGO |
+| Verfassungsbeschwerde | 1 Monat | § 93 BVerfGG |
+| Revisionsantrag | 1 Monat | § 139 VwGO |
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Schnittstellen
+
+- **kanzlei-allgemein** fuer Fristen Versand.
+- **fachanwalt-migrationsrecht** bei Auslaenderrecht.
+- **fachanwalt-sozialrecht** bei Abgrenzung Sozialgericht vs. Verwaltungsgericht.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Verwaltungsrecht._
 
 # Strukturierter Erstgespraechsleitfaden für Allgemeines Verwaltungs- und Bauplanungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
@@ -769,7 +769,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ## Skill: `erstpruefung-und-mandatsziel`
 
-_Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Fachanwalt Verwaltungsrecht._
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -822,7 +822,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `eilantrag-80-abs-5-vwgo`
 
-_Wenn es um Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach Paragraf 80 Abs in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach Paragraf 80 Abs: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach § 80 Abs
 

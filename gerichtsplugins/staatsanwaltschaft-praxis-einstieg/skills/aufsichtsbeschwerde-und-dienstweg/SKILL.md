@@ -1,6 +1,6 @@
 ---
 name: aufsichtsbeschwerde-und-dienstweg
-description: "Wenn es um Aufsichtsbeschwerde, Dienstweg und sachliche Antwort in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Aufsichtsbeschwerde, Dienstweg und sachliche Antwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufsichtsbeschwerde, Dienstweg und sachliche Antwort

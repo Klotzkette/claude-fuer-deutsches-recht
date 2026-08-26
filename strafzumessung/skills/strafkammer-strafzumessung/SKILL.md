@@ -1,6 +1,6 @@
 ---
 name: strafkammer-strafzumessung
-description: "Wenn es um Strafkammer: Behörden-, Gerichts- oder Registerweg in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafkammer: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafkammer: Behörden-, Gerichts- oder Registerweg

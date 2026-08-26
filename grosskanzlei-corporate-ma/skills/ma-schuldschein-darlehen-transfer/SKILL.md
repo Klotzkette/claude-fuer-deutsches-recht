@@ -1,6 +1,6 @@
 ---
 name: ma-schuldschein-darlehen-transfer
-description: "Wenn es um Big Law M&A: Schuldschein Transfer in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Big Law M&A: Schuldschein Transfer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Big Law M&A: Schuldschein Transfer
@@ -35,3 +35,7 @@ BGB Paragraf 398 ff., Schuldscheinbedingungen Upload, Sicherheitenrecht, Datensc
 - Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
 - Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
 - Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
+
+## Vertiefung bei Bedarf
+
+- Bei `gk-ma-schuldschein-darlehen-transfer` beziehungsweise Begleitet Übertragung von Schuldscheindarlehen in M&A, Refinanzierung, Distressed Debt und Portfoliotransaktionen.: [die zusätzliche Vertiefung laden](./references/vertiefung-gk-ma-schuldschein-darlehen-transfer.md).

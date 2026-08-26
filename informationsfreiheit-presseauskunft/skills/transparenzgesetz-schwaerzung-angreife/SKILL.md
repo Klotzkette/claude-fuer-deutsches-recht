@@ -1,6 +1,6 @@
 ---
 name: transparenzgesetz-schwaerzung-angreife
-description: "Wenn es um Transparenzgesetz Schwaerzung Angreife in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transparenzgesetz Schwärzung Angreife: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transparenzgesetz Schwaerzung Angreife

@@ -1,6 +1,6 @@
 ---
 name: intake-decision-kg-gmbhcokg
-description: "Wenn es um Intake Decision Tree in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Intake Decision Tree: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Intake Decision Tree

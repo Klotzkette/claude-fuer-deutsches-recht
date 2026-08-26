@@ -1,6 +1,6 @@
 ---
 name: versicherte-im-ausland-lebend-deutsche-rente
-description: "Wenn es um Versicherte im Ausland lebend mit deutscher Rente in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versicherte im Ausland lebend mit deutscher Rente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Versicherte im Ausland lebend mit deutscher Rente

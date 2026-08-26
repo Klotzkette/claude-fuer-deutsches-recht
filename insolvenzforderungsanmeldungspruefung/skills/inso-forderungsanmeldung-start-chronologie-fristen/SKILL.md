@@ -1,6 +1,6 @@
 ---
 name: inso-forderungsanmeldung-start-chronologie-fristen
-description: "Wenn es um Insolvenzforderungsanmeldungspruefung — Allgemein in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Insolvenzforderungsanmeldungsprüfung — Allgemein: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Insolvenzforderungsanmeldungspruefung — Allgemein

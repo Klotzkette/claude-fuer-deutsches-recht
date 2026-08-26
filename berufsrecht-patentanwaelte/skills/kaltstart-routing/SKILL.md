@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Wenn es um Allgemeiner Kaltstart und Routing in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Allgemeiner Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Patentanwälte."
 ---
 
 # Allgemeiner Kaltstart und Routing

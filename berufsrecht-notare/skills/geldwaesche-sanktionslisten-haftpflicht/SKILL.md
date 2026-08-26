@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-sanktionslisten-haftpflicht
-description: "Wenn es um Geldwaesche Sanktionslisten Haftpflicht in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geldwäsche Sanktionslisten Haftpflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: geldwaesche sanktionslisten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

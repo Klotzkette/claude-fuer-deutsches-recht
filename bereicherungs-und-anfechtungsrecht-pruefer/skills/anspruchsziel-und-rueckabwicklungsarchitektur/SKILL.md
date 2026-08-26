@@ -1,6 +1,6 @@
 ---
 name: anspruchsziel-und-rueckabwicklungsarchitektur
-description: "Wenn es um Anspruchsziel und Rückabwicklungsarchitektur in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anspruchsziel und Rückabwicklungsarchitektur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Anspruchsziel und Rückabwicklungsarchitektur

@@ -1,6 +1,6 @@
 ---
 name: olg-vergabesenat-beschwerdebriefing
-description: "Wenn es um Olg Vergabesenat Beschwerdebriefing in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Olg Vergabesenat Beschwerdebriefing: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # OLG-Vergabesenat und sofortige Beschwerde strategisch vorbereiten: Beschwerdefrist, Begruendung, Eilantraege, Aktenauszug, Angriff/Verteidigung und Kosten.

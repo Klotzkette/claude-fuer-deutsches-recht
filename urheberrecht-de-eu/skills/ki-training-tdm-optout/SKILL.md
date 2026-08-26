@@ -1,6 +1,6 @@
 ---
 name: ki-training-tdm-optout
-description: "Wenn es um digitale Werkzeuge-Training, TDM und Opt-out in Urheberrecht DE EU geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge-Training, TDM und Opt-out: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Training, TDM und Opt-out

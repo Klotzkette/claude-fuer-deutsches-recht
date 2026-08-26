@@ -1,6 +1,6 @@
 ---
 name: dpia-en-summary-for-management
-description: "Wenn es um DPIA Management Summary in English in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DPIA Management Summary in English: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DPIA Management Summary in English

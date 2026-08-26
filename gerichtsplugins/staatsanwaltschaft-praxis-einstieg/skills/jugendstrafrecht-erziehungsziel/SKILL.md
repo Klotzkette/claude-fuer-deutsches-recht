@@ -1,6 +1,6 @@
 ---
 name: jugendstrafrecht-erziehungsziel
-description: "Wenn es um Jugendstrafrecht aus StA-Sicht: Erziehungsziel und Beschleunigung in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Jugendstrafrecht aus StA-Sicht: Erziehungsziel und Beschleunigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Jugendstrafrecht aus StA-Sicht: Erziehungsziel und Beschleunigung

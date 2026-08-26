@@ -1,6 +1,6 @@
 ---
 name: oew-006-inhouse-vergabe-pruefen
-description: "Wenn es um Inhouse Vergabe Pruefen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Inhouse Vergabe Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Öffentliches Wirtschaftsrecht. Route: oew-006-inhouse-vergabe-pruefen."
 ---
 
 # Inhouse Vergabe Pruefen

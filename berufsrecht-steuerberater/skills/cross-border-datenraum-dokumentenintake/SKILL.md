@@ -1,6 +1,6 @@
 ---
 name: cross-border-datenraum-dokumentenintake
-description: "Wenn es um Cross-Border in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Cross-Border: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cross-Border

@@ -1,6 +1,6 @@
 ---
 name: mitbestimmung-bverfge-50-290
-description: "Wenn es um Mitbestimmung BVerfGE 50 290 in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mitbestimmung BVerfGE 50 290: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mitbestimmung BVerfGE 50 290

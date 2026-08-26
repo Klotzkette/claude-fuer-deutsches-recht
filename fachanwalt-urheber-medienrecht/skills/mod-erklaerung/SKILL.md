@@ -1,6 +1,6 @@
 ---
 name: mod-erklaerung
-description: "Wenn es um Mod Erklaerung in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mod Erklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Modifizierte Unterlassungserklärung als Alternative zur strafbewehrten UE prüfen und formulieren

@@ -1,6 +1,6 @@
 ---
 name: aktualisierung-unverzueglich-adressatenkreis
-description: "Wenn es um Unverzuegliche Aktualisierung in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Unverzügliche Aktualisierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unverzuegliche Aktualisierung

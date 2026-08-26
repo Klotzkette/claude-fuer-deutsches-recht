@@ -1,6 +1,6 @@
 ---
 name: soundmarke-bewegungsmarke-alicante-boutique
-description: "Wenn es um Hörmarken (Soundmarken) und Bewegungsmarken in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hörmarken (Soundmarken) und Bewegungsmarken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hörmarken (Soundmarken) und Bewegungsmarken

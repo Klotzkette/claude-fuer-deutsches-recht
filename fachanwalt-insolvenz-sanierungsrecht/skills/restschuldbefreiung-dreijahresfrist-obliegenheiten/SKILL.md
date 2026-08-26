@@ -1,6 +1,6 @@
 ---
 name: restschuldbefreiung-dreijahresfrist-obliegenheiten
-description: "Steuert Restschuldbefreiung nach aktuellem Recht vom Antrag bis zur Entscheidung. Prüft Antragsdatum, Abtretungsfrist, Wiederholungsfall, Erwerbs- und Auskunftsobliegenheiten, Versagungsanträge, ausgenommene Forderungen und Nachtragsverteilung und liefert Fristenplan und vollständige Anträge."
+description: "Steuert Restschuldbefreiung nach aktuellem Recht vom Antrag bis zur Entscheidung."
 ---
 
 # Restschuldbefreiung nach aktuellem Recht steuern

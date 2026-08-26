@@ -1,6 +1,6 @@
 ---
 name: datenqualitaet-xai-qualitaetskontrolle
-description: "Wenn es um Datenqualität und Qualitätskontrolle im M&A-Mandat in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenqualitaet Xai Qualitaetskontrolle; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Datenqualität und Qualitätskontrolle im M&A-Mandat: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Datenqualität und Qualitätskontrolle im M&A-Mandat

@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 346 Skills (gekürzt für das Arbeitsfenster) des Plugins `haushaltsrecht-bho-bund-laender`.
+Diese Vollprüfung enthält top-8 von 262 Skills (gekürzt für das Arbeitsfenster) des Plugins `haushaltsrecht-bho-bund-laender`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Haushaltsrecht Bho Bund Länder ein juristisches Arbeitsprodukt tragfähig begründet werden mus…
-2. **kaltstart-triage** — Wenn es um Haushaltsrecht BHO Bund und Länder - Allgemeiner Einstieg in Haushaltsrecht BHO Bund und Länder geht: klärt R…
-3. **bho-299-geheimschutzhaushalt-deckung-finden** — Wenn es um Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Deckung finden in Haushaltsrecht BHO Bund und Lände…
-4. **beteiligung-unternehmen-brh-aufgabe** — Wenn es um Bho 65 Beteiligung Unternehmen Praktis in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege…
-5. **bho-10-unterrichtung-praktisch-anwende** — Wenn es um Bho 10 Unterrichtung Praktisch Anwende in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege…
-6. **bho-11-vollstaendigkeit-praktisch-anwe** — Wenn es um Bho 11 Vollstaendigkeit Praktisch Anwe in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege…
-7. **bho-12-geltungsdauer-praktisch-anwende** — Wenn es um Bho 12 Geltungsdauer Praktisch Anwende in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege…
-8. **bho-14-funktionenplan-praktisch-anwend** — Wenn es um Bho 14 Funktionenplan Praktisch Anwend in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege…
+2. **kaltstart-triage** — Für Haushaltsrecht BHO Bund und Länder - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis…
+3. **bho-normen-und-titelpruefung** — Für Bundeshaushaltsordnung, Haushaltstitel und Vollzugsfragen: routet BHO-Norm, Veranschlagung, Sperre, Deckung, Zuwendu…
+4. **eu-mittel-eu-kommunaler-finanztransfer** — Für Eu Mittel Parlamentsfrage Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit …
+5. **eu-mittel-umschichtung-simulieren** — Für Eu Mittel Umschichtung Simulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zust…
+6. **eu-mittel-brh-frage-formulieren** — Für Eu Mittel BRH Frage Formulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zustän…
+7. **erlaeuterung-rechtlich-haushaltsgesetz-bho** — Für Erläuterung Rechtlich Bewerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständ…
+8. **eu-mittel-risiko-markieren** — Für Eu Mittel Risiko Markieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigke…
 
 ---
 
@@ -136,7 +136,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Haushaltsrecht BHO Bund und Länder - Allgemeiner Einstieg in Haushaltsrecht BHO Bund und Länder geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Haushaltsrecht BHO Bund und Länder - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Haushaltsrecht BHO Bund und Länder - Allgemeiner Einstieg
 
@@ -207,12 +207,50 @@ Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen
 
 ---
 
-## Skill: `bho-299-geheimschutzhaushalt-deckung-finden`
+## Skill: `bho-normen-und-titelpruefung`
 
-_Wenn es um Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Deckung finden in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Bundeshaushaltsordnung, Haushaltstitel und Vollzugsfragen: routet BHO-Norm, Veranschlagung, Sperre, Deckung, Zuwendung, Vertrag, Vermögen und Rechnungshofprüfung in die passende Vertiefung._
 
-# Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Deckung finden
+# BHO-Normen und Titelprüfung
 
+## 1. Direktstart
+
+Lies Einzelplan, Kapitel, Titel, Haushaltsvermerk, Erläuterung, Bewirtschaftungsstand und beabsichtigte Maßnahme zuerst. Bestimme dann Norm, haushaltsmäßige Ermächtigung, Zuständigkeit, zeitliche Bindung und erforderlichen Nachweis.
+
+1. Vorhandene Unterlagen zuerst lesen und bereits erkennbare Angaben übernehmen.
+2. Sachthema, Zeitraum, Verfahrensstand und gewünschtes Arbeitsprodukt bestimmen.
+3. Genau eine passende Referenz aus der folgenden Tabelle laden; nur bei einer echten Schnittstelle eine zweite.
+4. Nach der Vertiefung unmittelbar das Arbeitsprodukt erstellen und nur entscheidungserhebliche Lücken nachfragen.
+
+## 2. Bedarfsgeladene Vertiefungen
+
+| Fallgruppe | Referenz | Nur laden bei |
+| --- | --- | --- |
+| BHO 1 bis 22 1 | [01-22-01.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/haushaltsrecht-bho-bund-laender/skills/bho-normen-und-titelpruefung/references/01-22-01.md) | Haushaltsplan, Veranschlagung, Deckung, Sperre oder Verpflichtungsermächtigung; enthält Verpflichtungsermaechtigung Prüfen, Deckungsfaehigkeit Prüfen, Erläuterung Rechtlich Bewerten, Nachtragshaushalt Prüfen, BHO 1 Feststellung Praktisch Anwenden und 8 weitere Module |
+| BHO 1 bis 22 2 | [01-22-02.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/haushaltsrecht-bho-bund-laender/skills/bho-normen-und-titelpruefung/references/01-22-02.md) | Haushaltsplan, Veranschlagung, Deckung, Sperre oder Verpflichtungsermächtigung; enthält BHO 17 Einzelveranschlagung Praktisch, BHO 19 Übertragbarkeit Praktisch Anwe, BHO 2 Bedeutung Praktisch Anwenden, BHO 20 Deckungsfaehigkeit Praktisch An, BHO 21 Wegfall Sperre Praktisch Anwend und 7 weitere Module |
+| BHO 23 bis 59 | [23-59.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/haushaltsrecht-bho-bund-laender/skills/bho-normen-und-titelpruefung/references/23-59.md) | Zuwendung, Bauausgabe, überplanmäßige Ausgabe, Gewährleistung, Vergabe, Vertrag oder Forderung; enthält BHO 23 Zuwendungen Praktisch Anwenden, BHO 24 Baumassnahmen Praktisch Anwende, BHO 34 Erhebung Einnahmen Praktisch An, BHO 37 Überplanmäßig Praktisch Anwe, BHO 38 Verpflichtung Ohne Ausgabe Prak und 6 weitere Module |
+| BHO 60 bis 99 1 | [60-99-01.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/haushaltsrecht-bho-bund-laender/skills/bho-normen-und-titelpruefung/references/60-99-01.md) | Vermögen, Unternehmen, Kasse, Rechnungslegung oder Bundesrechnungshof; enthält BHO 58 Änderung Vertraege Praktisch A, BHO 63 Vermoegenserwerb Praktisch Anwe, BHO 89 BRH Prüfung Praktisch Anwenden, BHO 90 Inhalt Prüfung Praktisch Anwen, BHO 97 Pruefungsergebnis Praktisch Anw und 7 weitere Module |
+| BHO 60 bis 99 2 | [60-99-02.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/haushaltsrecht-bho-bund-laender/skills/bho-normen-und-titelpruefung/references/60-99-02.md) | Vermögen, Unternehmen, Kasse, Rechnungslegung oder Bundesrechnungshof; enthält BHO 97 Prüfungsergebnis Praktisch Anw |
+| Titel- und Sonderfallmodule 1 | [100-plus-01.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/haushaltsrecht-bho-bund-laender/skills/bho-normen-und-titelpruefung/references/100-plus-01.md) | Verteidigung, Sondervermögen, Zins, Personal, Förderung, EU-Mittel, Transfer oder Geheimschutz; enthält Klimafonds Titel Prüfen, BHO 114 Entlastung Praktisch Anwenden, Digitalisierungstitel Titel Prüfen, Zinsausgaben Titel Prüfen, Personalhaushalt Titel Prüfen und 6 weitere Module |
+| Titel- und Sonderfallmodule 2 | [100-plus-02.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/haushaltsrecht-bho-bund-laender/skills/bho-normen-und-titelpruefung/references/100-plus-02.md) | Verteidigung, Sondervermögen, Zins, Personal, Förderung, EU-Mittel, Transfer oder Geheimschutz; enthält Institutionelle Förderung Deckung Fin, Institutionelle Förderung Szenario Re, Institutionelle Förderung Dashboard B, Institutionelle Förderung Risiko Mark, Institutionelle Förderung BRH Frage F und 5 weitere Module |
+| Titel- und Sonderfallmodule 3 | [100-plus-03.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/haushaltsrecht-bho-bund-laender/skills/bho-normen-und-titelpruefung/references/100-plus-03.md) | Verteidigung, Sondervermögen, Zins, Personal, Förderung, EU-Mittel, Transfer oder Geheimschutz; enthält Kommunaler Finanztransfer Titel Pruefe, Bund Länder Programm Titel Prüfen, Bund Länder Programm Umschichtung Sim, Bund Länder Programm Sperre Bewerten, Bund Länder Programm Deckung Finden und 5 weitere Module |
+| Titel- und Sonderfallmodule 4 | [100-plus-04.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/haushaltsrecht-bho-bund-laender/skills/bho-normen-und-titelpruefung/references/100-plus-04.md) | Verteidigung, Sondervermögen, Zins, Personal, Förderung, EU-Mittel, Transfer oder Geheimschutz; enthält Bund Länder Programm Vollzug Tracken, Haushaltssperre Titel Prüfen, Vertrauensgremium Titel Prüfen, Geheimschutzhaushalt Titel Prüfen, Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Deckung finden |
+
+## 3. Arbeitsprodukt
+
+Liefere Titelprüfblatt, Normen- und Zuständigkeitsmatrix, Deckungs- oder Sperrentscheidung, Zuwendungs- oder Vertragsvermerk, BRH-feste Belegliste und den nächsten Vollzugsschritt.
+
+## 4. Geschwindigkeitsregel
+
+Nicht den gesamten Referenzbestand lesen. Sobald Norm, Beleg, Gegenposition und gewünschter Output tragfähig feststehen, schreiben; weitere Vertiefungen nur für eine konkret benannte Lücke öffnen.
+
+---
+
+## Skill: `eu-mittel-eu-kommunaler-finanztransfer`
+
+_Für Eu Mittel Parlamentsfrage Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Eu Mittel Parlamentsfrage Vorbereiten
 
 ## Arbeitsweg
 
@@ -222,13 +260,49 @@ _Wenn es um Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Deckung f
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Deckung finden. Deckung finden für Geheimschutzhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+## Normenanker
 
-### Geheimschutzhaushalt Deckung Finden
+Arbeitsfokus: **Eu Mittel Parlamentsfrage Vorbereiten**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 109 Abs. 3 GG` — Haushaltsdisziplin.
+- `Art. 110 Abs. 1 GG` — Haushaltsplan.
+- `Art. 112 GG` — über-/außerplanmäßige Ausgaben.
+- `Art. 115 Abs. 2 GG` — Kreditaufnahme.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit.
+- `§ 9 BHO` — Beauftragter für den Haushalt.
+- `§ 13 BHO` — Titelstruktur.
+- `§ 34 BHO` — Bewirtschaftung.
+- `§ 70 BHO` — Zahlungen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+---
+
+## Skill: `eu-mittel-umschichtung-simulieren`
+
+_Für Eu Mittel Umschichtung Simulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Eu Mittel Umschichtung Simulieren
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BHO, LHO, KomHV-Doppik, GG Art. 109-115, VwVfG, BRH-Bemerkungen, EU-Haushaltsordnung 2018/1046; HGrG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Normenanker
 
-Arbeitsfokus: **Geheimschutzhaushalt Deckung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Eu Mittel Umschichtung Simulieren**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 13 BHO` — Gesamtplan, Einzelpläne, Funktionenplan.
 - `§ 17 BHO` — Einzelveranschlagung.
@@ -252,11 +326,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `beteiligung-unternehmen-brh-aufgabe`
+## Skill: `eu-mittel-brh-frage-formulieren`
 
-_Wenn es um Bho 65 Beteiligung Unternehmen Praktis in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Eu Mittel BRH Frage Formulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Bho 65 Beteiligung Unternehmen Praktis
+# Eu Mittel Brh Frage Formulieren
 
 ## Arbeitsweg
 
@@ -266,12 +340,20 @@ _Wenn es um Bho 65 Beteiligung Unternehmen Praktis in Haushaltsrecht BHO Bund un
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Norm- und Quellenanker
+## Normenanker
 
-- BHO, HGrG, Haushaltsgesetz, Haushaltsplan, VV-BHO
-- Einzelplan, Kapitel, Titel, Verpflichtungsermächtigung, Deckungsfähigkeit
-- Art. 109, 110, 115 GG, Schuldenbremse, Sondervermögen
-- Landeshaushaltsordnungen und kommunale Haushaltsbezüge live prüfen
+Arbeitsfokus: **Eu Mittel Brh Frage Formulieren**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 114 Abs. 2 GG` — Rechnungsprüfung durch Bundesrechnungshof.
+- `§ 88 Abs. 1 BHO` — Aufgaben des Bundesrechnungshofes.
+- `§ 89 BHO` — Prüfung.
+- `§ 90 BHO` — Inhalt der Prüfung.
+- `§ 91 BHO` — Prüfung bei Stellen außerhalb der Bundesverwaltung.
+- `§ 94 BHO` — Zeit und Art der Prüfung.
+- `§ 97 BHO` — Bemerkungen des Bundesrechnungshofes.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeitsmaßstab.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Prüfroutine
 
@@ -283,11 +365,11 @@ _Wenn es um Bho 65 Beteiligung Unternehmen Praktis in Haushaltsrecht BHO Bund un
 
 ---
 
-## Skill: `bho-10-unterrichtung-praktisch-anwende`
+## Skill: `erlaeuterung-rechtlich-haushaltsgesetz-bho`
 
-_Wenn es um Bho 10 Unterrichtung Praktisch Anwende in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Erläuterung Rechtlich Bewerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Bho 10 Unterrichtung Praktisch Anwende
+# Erläuterung Rechtlich Bewerten
 
 ## Arbeitsweg
 
@@ -297,12 +379,21 @@ _Wenn es um Bho 10 Unterrichtung Praktisch Anwende in Haushaltsrecht BHO Bund un
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Norm- und Quellenanker
+## Normenanker
 
-- BHO, HGrG, Haushaltsgesetz, Haushaltsplan, VV-BHO
-- Einzelplan, Kapitel, Titel, Verpflichtungsermächtigung, Deckungsfähigkeit
-- Art. 109, 110, 115 GG, Schuldenbremse, Sondervermögen
-- Landeshaushaltsordnungen und kommunale Haushaltsbezüge live prüfen
+Arbeitsfokus: **Erläuterung Rechtlich Bewerten**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 109 Abs. 3 GG` — Haushaltsdisziplin.
+- `Art. 110 Abs. 1 GG` — Haushaltsplan.
+- `Art. 112 GG` — über-/außerplanmäßige Ausgaben.
+- `Art. 115 Abs. 2 GG` — Kreditaufnahme.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit.
+- `§ 9 BHO` — Beauftragter für den Haushalt.
+- `§ 13 BHO` — Titelstruktur.
+- `§ 34 BHO` — Bewirtschaftung.
+- `§ 70 BHO` — Zahlungen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Prüfroutine
 
@@ -314,42 +405,11 @@ _Wenn es um Bho 10 Unterrichtung Praktisch Anwende in Haushaltsrecht BHO Bund un
 
 ---
 
-## Skill: `bho-11-vollstaendigkeit-praktisch-anwe`
+## Skill: `eu-mittel-risiko-markieren`
 
-_Wenn es um Bho 11 Vollstaendigkeit Praktisch Anwe in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Eu Mittel Risiko Markieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Bho 11 Vollstaendigkeit Praktisch Anwe
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BHO, LHO, KomHV-Doppik, GG Art. 109-115, VwVfG, BRH-Bemerkungen, EU-Haushaltsordnung 2018/1046; HGrG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-- BHO, HGrG, Haushaltsgesetz, Haushaltsplan, VV-BHO
-- Einzelplan, Kapitel, Titel, Verpflichtungsermächtigung, Deckungsfähigkeit
-- Art. 109, 110, 115 GG, Schuldenbremse, Sondervermögen
-- Landeshaushaltsordnungen und kommunale Haushaltsbezüge live prüfen
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `bho-12-geltungsdauer-praktisch-anwende`
-
-_Wenn es um Bho 12 Geltungsdauer Praktisch Anwende in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Bho 12 Geltungsdauer Praktisch Anwende
+# Eu Mittel Risiko Markieren
 
 ## Arbeitsweg
 
@@ -359,43 +419,21 @@ _Wenn es um Bho 12 Geltungsdauer Praktisch Anwende in Haushaltsrecht BHO Bund un
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Norm- und Quellenanker
+## Normenanker
 
-- BHO, HGrG, Haushaltsgesetz, Haushaltsplan, VV-BHO
-- Einzelplan, Kapitel, Titel, Verpflichtungsermächtigung, Deckungsfähigkeit
-- Art. 109, 110, 115 GG, Schuldenbremse, Sondervermögen
-- Landeshaushaltsordnungen und kommunale Haushaltsbezüge live prüfen
+Arbeitsfokus: **Eu Mittel Risiko Markieren**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-## Prüfroutine
+- `Art. 109 Abs. 3 GG` — Haushaltsdisziplin.
+- `Art. 110 Abs. 1 GG` — Haushaltsplan.
+- `Art. 112 GG` — über-/außerplanmäßige Ausgaben.
+- `Art. 115 Abs. 2 GG` — Kreditaufnahme.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit.
+- `§ 9 BHO` — Beauftragter für den Haushalt.
+- `§ 13 BHO` — Titelstruktur.
+- `§ 34 BHO` — Bewirtschaftung.
+- `§ 70 BHO` — Zahlungen.
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `bho-14-funktionenplan-praktisch-anwend`
-
-_Wenn es um Bho 14 Funktionenplan Praktisch Anwend in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Bho 14 Funktionenplan Praktisch Anwend
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BHO, LHO, KomHV-Doppik, GG Art. 109-115, VwVfG, BRH-Bemerkungen, EU-Haushaltsordnung 2018/1046; HGrG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-- BHO, HGrG, Haushaltsgesetz, Haushaltsplan, VV-BHO
-- Einzelplan, Kapitel, Titel, Verpflichtungsermächtigung, Deckungsfähigkeit
-- Art. 109, 110, 115 GG, Schuldenbremse, Sondervermögen
-- Landeshaushaltsordnungen und kommunale Haushaltsbezüge live prüfen
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Prüfroutine
 

@@ -1,6 +1,6 @@
 ---
 name: redteam-software-qualitygate
-description: "Wenn es um Red-Team Software Qualitygate in Softwarerecht Deutschland/EU/International/USA geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Red-Team Software Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team Software Qualitygate

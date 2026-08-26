@@ -1,6 +1,6 @@
 ---
 name: wpk-ruege-und-berufsaufsicht-rechtsprechungs
-description: "Wenn es um Wpk Ruege Und Berufsaufsicht Rechtsprechungs in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Wpk Rüge und Berufsaufsicht Rechtsprechungs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

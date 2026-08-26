@@ -1,6 +1,6 @@
 ---
 name: musterungen-und-eignung
-description: "Wenn es um Musterung und Eignung in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Musterung und Eignung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Musterung und Eignung

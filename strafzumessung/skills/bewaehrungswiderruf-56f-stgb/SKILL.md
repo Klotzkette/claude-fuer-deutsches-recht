@@ -1,6 +1,6 @@
 ---
 name: bewaehrungswiderruf-56f-stgb
-description: "Wenn es um Bewaehrungswiderruf — Paragraf 56f StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bewährungswiderruf — Paragraf 56f StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bewaehrungswiderruf — § 56f StGB

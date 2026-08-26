@@ -1,6 +1,6 @@
 ---
 name: hoai-technik-baugrund-und-objektueberwachung
-description: "Wenn es um HOAI, Technik, Baugrund und Objektüberwachung in Bauträgervertrag-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für HOAI, Technik, Baugrund und Objektüberwachung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI, Technik, Baugrund und Objektüberwachung

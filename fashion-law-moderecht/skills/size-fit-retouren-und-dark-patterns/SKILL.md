@@ -1,6 +1,6 @@
 ---
 name: size-fit-retouren-und-dark-patterns
-description: "Wenn es um Size Fit Retouren Und Dark Patterns in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Size Fit Retouren und Dark Patterns: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Size Fit Retouren Und Dark Patterns

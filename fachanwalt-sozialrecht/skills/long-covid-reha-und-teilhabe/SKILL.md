@@ -1,6 +1,6 @@
 ---
 name: long-covid-reha-und-teilhabe
-description: "Wenn es um Long Covid Reha Und Teilhabe in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Long Covid Reha und Teilhabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Long-Covid Reha und Teilhabe: medizinische Reha, stufenweise Wiedereingliederung, Leistungen zur Teilhabe am Arbeitsleben und Hilfsmittel.

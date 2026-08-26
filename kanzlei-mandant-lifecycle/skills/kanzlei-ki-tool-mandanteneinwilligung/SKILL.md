@@ -1,6 +1,6 @@
 ---
 name: kanzlei-ki-tool-mandanteneinwilligung
-description: "Wenn es um digitale Werkzeuge-Tool und Mandanteneinwilligung in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für digitale Werkzeuge-Tool und Mandanteneinwilligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Tool und Mandanteneinwilligung

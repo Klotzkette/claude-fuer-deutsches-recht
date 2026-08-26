@@ -1,6 +1,6 @@
 ---
 name: chn-062-dawn-raid-inspection-factory
-description: "Wenn es um Dawn Raid Inspection Factory in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dawn Raid Inspection Factory: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dawn Raid Inspection Factory

@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Wenn es um Output wählen in Einfache und Leichte Sprache für juristische Texte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einfache und Leichte Sprache für juristische Texte."
 ---
 
 # Output wählen

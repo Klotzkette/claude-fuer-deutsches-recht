@@ -1,6 +1,6 @@
 ---
 name: workflow-redteam-qualitygate
-description: "Wenn es um Red-Team Qualitygate in Plugin für die studentische Rechtsberatungsstelle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle."
 ---
 
 # Red-Team Qualitygate

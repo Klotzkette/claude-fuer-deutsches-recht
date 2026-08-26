@@ -1,6 +1,6 @@
 ---
 name: seminararbeit-modus
-description: "Wenn es um Seminararbeit-Modus in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Seminararbeit-Modus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Seminararbeit-Modus

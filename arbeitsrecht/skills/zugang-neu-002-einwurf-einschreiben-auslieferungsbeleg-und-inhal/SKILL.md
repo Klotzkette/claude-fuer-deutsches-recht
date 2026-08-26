@@ -1,6 +1,6 @@
 ---
 name: zugang-neu-002-einwurf-einschreiben-auslieferungsbeleg-und-inhal
-description: "Wenn es um Zugang Neu 002 Einwurf Einschreiben Auslieferungsbeleg Und Inhal in Arbeitsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Zugang Neu 002 Einwurf Einschreiben Auslieferungsbeleg und Inhal: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.

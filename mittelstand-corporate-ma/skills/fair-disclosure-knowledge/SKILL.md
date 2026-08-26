@@ -1,6 +1,6 @@
 ---
 name: fair-disclosure-knowledge
-description: "Wenn es um Fair Disclosure und Knowledge in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Fair Disclosure und Knowledge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Fair Disclosure und Knowledge

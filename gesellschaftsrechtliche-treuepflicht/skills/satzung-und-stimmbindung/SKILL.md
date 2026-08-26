@@ -1,6 +1,6 @@
 ---
 name: satzung-und-stimmbindung
-description: "Wenn es um Satzung Und Stimmbindung in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Satzung und Stimmbindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Satzung Und Stimmbindung

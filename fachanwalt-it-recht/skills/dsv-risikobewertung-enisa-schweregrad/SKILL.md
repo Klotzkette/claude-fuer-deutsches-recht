@@ -1,6 +1,6 @@
 ---
 name: dsv-risikobewertung-enisa-schweregrad
-description: "Wenn es um Dsv Risikobewertung Enisa Schweregrad in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dsv Risikobewertung Enisa Schweregrad: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wendet die ENISA-Methodik Recommendations for a methodology of the assessment of severity of personal data breaches auf einen konkreten Vorfall an

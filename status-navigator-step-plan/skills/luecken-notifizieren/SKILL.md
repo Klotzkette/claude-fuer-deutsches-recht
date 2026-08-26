@@ -1,6 +1,6 @@
 ---
 name: luecken-notifizieren
-description: "Wenn es um Luecken in Tabellen notifizieren in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Lücken in Tabellen notifizieren: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Luecken in Tabellen notifizieren

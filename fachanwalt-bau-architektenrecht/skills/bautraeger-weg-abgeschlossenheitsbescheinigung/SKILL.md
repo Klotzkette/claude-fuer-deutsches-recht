@@ -1,6 +1,6 @@
 ---
 name: bautraeger-weg-abgeschlossenheitsbescheinigung
-description: "Wenn es um WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für WEG-Abgeschlossenheitsbescheinigung beim Bauträgervertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag

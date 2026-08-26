@@ -1,6 +1,6 @@
 ---
 name: dba-dividenden-quellensteuer-art-10
-description: "Wenn es um Dividenden (Art. 10 OECD-MA) in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Dividenden (Art. 10 OECD-MA): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Dividenden (Art. 10 OECD-MA)

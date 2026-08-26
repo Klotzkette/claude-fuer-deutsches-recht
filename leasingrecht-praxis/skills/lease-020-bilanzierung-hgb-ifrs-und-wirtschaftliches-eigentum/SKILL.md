@@ -1,6 +1,6 @@
 ---
 name: lease-020-bilanzierung-hgb-ifrs-und-wirtschaftliches-eigentum
-description: "Wenn es um Leasingrecht: Bilanzierung HGB IFRS und wirtschaftliches Eigentum in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Bilanzierung HGB IFRS und wirtschaftliches Eigentum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Bilanzierung HGB IFRS und wirtschaftliches Eigentum

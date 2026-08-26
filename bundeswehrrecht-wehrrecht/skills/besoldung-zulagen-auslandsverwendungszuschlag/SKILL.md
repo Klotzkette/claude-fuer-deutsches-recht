@@ -1,6 +1,6 @@
 ---
 name: besoldung-zulagen-auslandsverwendungszuschlag
-description: "Wenn es um Besoldung, Zulagen und Auslandsverwendungszuschlag in Bundeswehrrecht und Wehrrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Besoldung, Zulagen und Auslandsverwendungszuschlag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Besoldung, Zulagen und Auslandsverwendungszuschlag

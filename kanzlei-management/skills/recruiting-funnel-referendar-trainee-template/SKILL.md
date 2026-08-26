@@ -1,6 +1,6 @@
 ---
 name: recruiting-funnel-referendar-trainee-template
-description: "Wenn es um Recruiting Funnel in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Recruiting Funnel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Recruiting Funnel

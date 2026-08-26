@@ -1,6 +1,6 @@
 ---
 name: bmv-luft-und-luftverkehrsrecht
-description: "Wenn es um Luft- und Luftverkehrsrecht (BMV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Luft- und Luftverkehrsrecht (BMV): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Luft- und Luftverkehrsrecht (BMV)

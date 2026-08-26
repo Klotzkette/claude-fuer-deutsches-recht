@@ -1,6 +1,6 @@
 ---
 name: altersvorsorge-mindestplan-angebot-auftrag
-description: "Wenn es um Altersvorsorge Mindestplan Angebot Auftrag in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Altersvorsorge Mindestplan Angebot Auftrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sozialversicherung und Vorsorge: Erstellt vorsorgeplan für solo-einkommen mit liquiditätsrealismus

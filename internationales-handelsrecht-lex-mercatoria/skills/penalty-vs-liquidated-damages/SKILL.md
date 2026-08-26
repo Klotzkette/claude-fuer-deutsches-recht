@@ -1,6 +1,6 @@
 ---
 name: penalty-vs-liquidated-damages
-description: "Wenn es um Penalty vs. Liquidated Damages: Rechtsvergleich in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Penalty vs. Liquidated Damages: Rechtsvergleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Penalty vs. Liquidated Damages: Rechtsvergleich

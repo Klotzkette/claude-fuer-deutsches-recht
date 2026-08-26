@@ -1,6 +1,6 @@
 ---
 name: einsatz-unfall-versorgung-dokumentenplan
-description: "Wenn es um Einsatz, Unfall, Versorgung — Dokumentenplan in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einsatz, Unfall, Versorgung — Dokumentenplan: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einsatz, Unfall, Versorgung — Dokumentenplan

@@ -1,6 +1,6 @@
 ---
 name: veroeffentlichung-von-bussgeldentscheidungen
-description: "Wenn es um Veröffentlichung von Bußgeldentscheidungen in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Veröffentlichung von Bußgeldentscheidungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Veröffentlichung von Bußgeldentscheidungen

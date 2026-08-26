@@ -1,6 +1,6 @@
 ---
 name: stufenbaum-ascii-art
-description: "Wenn es um Stufenbaum als ASCII-Visualisierung in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stufenbaum als ASCII-Visualisierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stufenbaum als ASCII-Visualisierung

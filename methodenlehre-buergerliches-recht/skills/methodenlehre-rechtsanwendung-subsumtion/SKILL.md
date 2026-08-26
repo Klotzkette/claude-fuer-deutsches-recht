@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-rechtsanwendung-subsumtion
-description: "Wenn es um Rechtsanwendung: Tatbestand, Beweis und Belege in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Rechtsanwendung: Tatbestand, Beweis und Belege: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Rechtsanwendung: Tatbestand, Beweis und Belege

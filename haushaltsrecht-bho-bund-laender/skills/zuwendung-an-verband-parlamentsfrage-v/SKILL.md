@@ -1,6 +1,6 @@
 ---
 name: zuwendung-an-verband-parlamentsfrage-v
-description: "Wenn es um Zuwendung An Verband Parlamentsfrage V in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zuwendung an Verband Parlamentsfrage V: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zuwendung An Verband Parlamentsfrage V

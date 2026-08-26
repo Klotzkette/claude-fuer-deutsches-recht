@@ -1,6 +1,6 @@
 ---
 name: anschluss-router
-description: "Wenn es um Verkehrs- und Infrastrukturrecht — Allgemein in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verkehrs- und Infrastrukturrecht — Allgemein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verkehrs- und Infrastrukturrecht — Allgemein

@@ -1,6 +1,6 @@
 ---
 name: workflow-beschaffung-oeffentlich-privat
-description: "Wenn es um Beschaffung Robotik in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Workflow Beschaffung Oeffentlich Privat; Arbeitsfeld: robotik-recht."
+description: "Für Beschaffung Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: workflow-beschaffung-oeffentlich-privat."
 ---
 
 # Beschaffung Robotik

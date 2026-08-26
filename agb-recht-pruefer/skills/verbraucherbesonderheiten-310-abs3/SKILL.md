@@ -1,6 +1,6 @@
 ---
 name: verbraucherbesonderheiten-310-abs3
-description: "Wenn es um Verbraucherbesonderheiten 310 Abs. 3 in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verbraucherbesonderheiten 310 Abs. 3: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbraucherbesonderheiten 310 Abs. 3

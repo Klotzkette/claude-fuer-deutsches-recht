@@ -1,6 +1,6 @@
 ---
 name: spezial-eskalations-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Eskalations: Livequellen- und Rechtsprechungscheck in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eskalations: Livequellen- und Rechtsprechungscheck: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Eskalations: Livequellen- und Rechtsprechungscheck

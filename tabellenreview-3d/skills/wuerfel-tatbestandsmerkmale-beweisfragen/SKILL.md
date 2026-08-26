@@ -1,6 +1,6 @@
 ---
 name: wuerfel-tatbestandsmerkmale-beweisfragen
-description: "Wenn es um Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Würfel: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage

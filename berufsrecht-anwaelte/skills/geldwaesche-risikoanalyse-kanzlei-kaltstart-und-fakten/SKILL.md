@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-risikoanalyse-kanzlei-kaltstart-und-fakten
-description: "Wenn es um Geldwaesche Risikoanalyse Kanzlei Kaltstart Und Fakten in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geldwäsche Risikoanalyse Kanzlei Kaltstart und Fakten: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: geldwaesche risikoanalyse kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

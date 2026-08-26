@@ -1,6 +1,6 @@
 ---
 name: klage-finanzgericht
-description: "Wenn es um Klage zum Finanzgericht in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klage zum Finanzgericht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klage zum Finanzgericht

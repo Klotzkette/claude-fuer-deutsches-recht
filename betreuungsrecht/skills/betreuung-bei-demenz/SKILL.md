@@ -1,6 +1,6 @@
 ---
 name: betreuung-bei-demenz
-description: "Wenn es um Betreuung bei Demenz in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuung Bei Demenz; Arbeitsfeld: Betreuungsrecht."
+description: "Für Betreuung bei Demenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: betreuung-bei-demenz."
 ---
 
 # Betreuung bei Demenz

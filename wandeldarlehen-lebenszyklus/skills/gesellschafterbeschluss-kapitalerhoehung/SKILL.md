@@ -1,6 +1,6 @@
 ---
 name: gesellschafterbeschluss-kapitalerhoehung
-description: "Wenn es um Gesellschafterbeschluss – Kapitalerhöhung gegen Sacheinlage in Wandeldarlehen-Lebenszyklus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Gesellschafterbeschluss – Kapitalerhöhung gegen Sacheinlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschafterbeschluss – Kapitalerhöhung gegen Sacheinlage

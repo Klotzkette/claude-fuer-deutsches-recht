@@ -1,6 +1,6 @@
 ---
 name: gewaehrleistung-und-garantie-trennen
-description: "Wenn es um Gewaehrleistung Und Garantie Trennen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gewährleistung und Garantie Trennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gewaehrleistung Und Garantie Trennen

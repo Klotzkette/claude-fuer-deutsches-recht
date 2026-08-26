@@ -1,6 +1,6 @@
 ---
 name: db-001-kaltstart-datenbankrecht-werk-oder-herstellerrecht
-description: "Wenn es um Datenbankrecht: Kaltstart Datenbankrecht Werk oder Herstellerrecht in Datenbankrecht und Datenbankherstellerrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Kaltstart Datenbankrecht Werk oder Herstellerrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Kaltstart Datenbankrecht Werk oder Herstellerrecht

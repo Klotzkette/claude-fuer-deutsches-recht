@@ -1,6 +1,6 @@
 ---
 name: output-behoerdenbrief-sop-mandantenmemo
-description: "Wenn es um Output Behördenbrief SOP Mandantenmemo in Apothekenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Output Behördenbrief SOP Mandantenmemo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Output Behördenbrief SOP Mandantenmemo

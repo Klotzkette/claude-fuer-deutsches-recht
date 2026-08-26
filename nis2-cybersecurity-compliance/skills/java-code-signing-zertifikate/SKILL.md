@@ -1,6 +1,6 @@
 ---
 name: java-code-signing-zertifikate
-description: "Wenn es um Java Code Signing Zertifikate in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Java Code Signing Zertifikate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Java Code Signing Zertifikate

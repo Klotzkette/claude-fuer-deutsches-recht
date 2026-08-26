@@ -1,6 +1,6 @@
 ---
 name: genehmigungspflichten-gericht
-description: "Wenn es um Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung

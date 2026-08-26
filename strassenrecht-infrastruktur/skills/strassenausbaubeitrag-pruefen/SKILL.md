@@ -1,6 +1,6 @@
 ---
 name: strassenausbaubeitrag-pruefen
-description: "Wenn es um Strassenausbaubeitrag Prüfen in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenausbaubeitrag Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenrecht und Infrastruktur. Route: strassenausbaubeitrag-pruefen."
 ---
 
 # Strassenausbaubeitrag Prüfen

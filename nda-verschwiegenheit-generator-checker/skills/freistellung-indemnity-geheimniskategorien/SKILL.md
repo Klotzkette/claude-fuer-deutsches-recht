@@ -1,6 +1,6 @@
 ---
 name: freistellung-indemnity-geheimniskategorien
-description: "Wenn es um Freistellung Und Indemnity in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Freistellung und Indemnity: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freistellung Und Indemnity

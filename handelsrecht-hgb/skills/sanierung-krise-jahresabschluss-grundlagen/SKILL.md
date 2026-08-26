@@ -1,6 +1,6 @@
 ---
 name: sanierung-krise-jahresabschluss-grundlagen
-description: "Wenn es um HGB in Krise und Sanierung in Handelsrecht HGB geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für HGB in Krise und Sanierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HGB in Krise und Sanierung

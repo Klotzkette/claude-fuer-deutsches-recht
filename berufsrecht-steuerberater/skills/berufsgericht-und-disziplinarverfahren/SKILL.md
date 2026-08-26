@@ -1,6 +1,6 @@
 ---
 name: berufsgericht-und-disziplinarverfahren
-description: "Wenn es um Berufsgericht und Disziplinarverfahren in Berufsrecht Steuerberater geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berufsgericht und Disziplinarverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Steuerberater."
 ---
 
 # Berufsgericht und Disziplinarverfahren

@@ -1,6 +1,6 @@
 ---
 name: goae-14-zahlung-durch-oeffentliche-leistungstraeger
-description: "Wenn es um GOÄ Paragraf 14 Zahlung durch öffentliche Leistungsträger in GOÄ Gebührenordnung für Ärzte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GOÄ Paragraf 14 Zahlung durch öffentliche Leistungsträger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GOÄ § 14 Zahlung durch öffentliche Leistungsträger

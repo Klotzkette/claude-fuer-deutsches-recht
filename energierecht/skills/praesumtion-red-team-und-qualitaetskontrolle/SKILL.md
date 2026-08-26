@@ -1,6 +1,6 @@
 ---
 name: praesumtion-red-team-und-qualitaetskontrolle
-description: "Wenn es um Praesumtion: Red-Team und Qualitätskontrolle in Energierecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Präsumtion: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Praesumtion: Red-Team und Qualitätskontrolle

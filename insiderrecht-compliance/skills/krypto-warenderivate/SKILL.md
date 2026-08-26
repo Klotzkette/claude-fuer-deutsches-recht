@@ -1,6 +1,6 @@
 ---
 name: krypto-warenderivate
-description: "Wenn es um Krypto-Token und MAR / MiCA – Insiderrecht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Krypto-Token und MAR / MiCA – Insiderrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krypto-Token und MAR / MiCA – Insiderrecht

@@ -1,6 +1,6 @@
 ---
 name: verbraucherverband-reiseveranstalter-vergleich-pruefen-umsetzung
-description: "Wenn es um Reiseveranstalter Vergleich Prüfen in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Reiseveranstalter Vergleich Prüfen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Verbraucherschutzverband Durchsetzung. Route: verbraucherverband-reiseveranstalter-vergleich-pruefen-umsetzung."
 ---
 
 # Reiseveranstalter Vergleich Prüfen

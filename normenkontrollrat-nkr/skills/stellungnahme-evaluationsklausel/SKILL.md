@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-evaluationsklausel
-description: "Wenn es um NKR-Stellungnahme — Vorschlag einer Evaluationsklausel in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NKR-Stellungnahme — Vorschlag einer Evaluationsklausel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NKR-Stellungnahme — Vorschlag einer Evaluationsklausel

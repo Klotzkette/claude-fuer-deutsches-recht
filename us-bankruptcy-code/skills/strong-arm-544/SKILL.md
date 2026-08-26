@@ -1,6 +1,6 @@
 ---
 name: strong-arm-544
-description: "Wenn es um Strong Arm Paragraf 544 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Strong Arm Paragraf 544: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strong Arm § 544

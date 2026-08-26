@@ -1,6 +1,6 @@
 ---
 name: infl-049-creator-nachlass-und-accountzugang
-description: "Wenn es um Influencer-Recht: Creator Nachlass und Accountzugang in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Creator Nachlass und Accountzugang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Creator Nachlass und Accountzugang

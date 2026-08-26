@@ -1,6 +1,6 @@
 ---
 name: subsidiary-parent-success-fee-probability
-description: "Wenn es um Konzernmandat Mutter/Tochter in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konzernmandat Mutter/Tochter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konzernmandat Mutter/Tochter

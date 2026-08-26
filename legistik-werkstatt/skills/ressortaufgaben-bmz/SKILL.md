@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmz
-description: "Wenn es um Ressortaufgaben BMZ in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ressortaufgaben BMZ: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ressortaufgaben BMZ

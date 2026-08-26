@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-beamten-disziplinarverfahren
-description: "Wenn es um Beamten-Disziplinarverfahren in Fachanwalt Verwaltungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beamten-Disziplinarverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beamten-Disziplinarverfahren

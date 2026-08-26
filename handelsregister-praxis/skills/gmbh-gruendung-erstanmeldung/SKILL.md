@@ -1,6 +1,6 @@
 ---
 name: gmbh-gruendung-erstanmeldung
-description: "Wenn es um GmbH/UG-Erstanmeldung in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für GmbH/UG-Erstanmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GmbH/UG-Erstanmeldung

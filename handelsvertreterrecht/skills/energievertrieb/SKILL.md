@@ -1,6 +1,6 @@
 ---
 name: energievertrieb
-description: "Wenn es um Handelsvertreterrecht im Energievertrieb — EnWG und Paragrafen 84 ff. HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Handelsvertreterrecht im Energievertrieb — EnWG und Paragrafen 84 ff. HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsvertreterrecht im Energievertrieb — EnWG und §§ 84 ff. HGB

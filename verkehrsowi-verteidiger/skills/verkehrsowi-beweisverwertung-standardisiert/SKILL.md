@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-beweisverwertung-standardisiert
-description: "Wenn es um Standardisiertes Messverfahren und Beweisverwertung in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Standardisiertes Messverfahren und Beweisverwertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Standardisiertes Messverfahren und Beweisverwertung

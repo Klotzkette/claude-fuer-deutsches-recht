@@ -1,6 +1,6 @@
 ---
 name: zinsausgaben-risiko-markieren
-description: "Wenn es um Zinsausgaben Risiko Markieren in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zinsausgaben Risiko Markieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zinsausgaben Risiko Markieren

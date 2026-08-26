@@ -1,6 +1,6 @@
 ---
 name: heilberuf-nebenpraxis-homeoffice
-description: "Wenn es um Branchenfälle: Prüft berufsrecht in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Branchenfälle: Prüft berufsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Branchenfälle: Prüft berufsrecht

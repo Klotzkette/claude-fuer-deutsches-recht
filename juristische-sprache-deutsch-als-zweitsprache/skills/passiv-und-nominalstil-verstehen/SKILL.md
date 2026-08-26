@@ -1,6 +1,6 @@
 ---
 name: passiv-und-nominalstil-verstehen
-description: "Wenn es um Passiv Und Nominalstil Verstehen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Passiv und Nominalstil Verstehen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Passiv Und Nominalstil Verstehen

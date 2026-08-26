@@ -1,6 +1,6 @@
 ---
 name: dublin-fristen-ueberstellung
-description: "Wenn es um Dublin-Fristen/Überstellung: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dublin-Fristen/Überstellung: Fachmodul im Migrationsrecht: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Dublin-Fristen/Überstellung: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Dublin-Fristen/Überstellung: Fachmodul im Migrationsre
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-dublin-fristen-ueberstellung` beziehungsweise Dublin-Fristen/Überstellung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-dublin-fristen-ueberstellung.md).

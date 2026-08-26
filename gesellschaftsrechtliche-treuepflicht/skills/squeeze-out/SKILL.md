@@ -1,6 +1,6 @@
 ---
 name: squeeze-out
-description: "Wenn es um Squeeze Out in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Squeeze Out: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrechtliche Treuepflicht."
 ---
 
 # Squeeze Out

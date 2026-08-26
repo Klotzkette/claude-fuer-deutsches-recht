@@ -1,6 +1,6 @@
 ---
 name: kinderkrankengeld-und-pflegezeit
-description: "Wenn es um Kinderkrankengeld und Pflegezeit in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kinderkrankengeld und Pflegezeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kinderkrankengeld und Pflegezeit

@@ -1,6 +1,6 @@
 ---
 name: identitaetspruefung-ausweis-kammerantwort-und-verfahrens
-description: "Wenn es um Identitaetspruefung Ausweis Kammerantwort Und Verfahrens in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Identitätsprüfung Ausweis Kammerantwort und Verfahrens: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Notare: identitaetspruefung ausweis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

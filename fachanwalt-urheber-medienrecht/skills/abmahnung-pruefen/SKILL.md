@@ -1,6 +1,6 @@
 ---
 name: abmahnung-pruefen
-description: "Wenn es um Abmahnung Pruefen in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abmahnung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen Inhalt Aktivlegitimation Anspruchsberechtigung Lizenzkette Belege

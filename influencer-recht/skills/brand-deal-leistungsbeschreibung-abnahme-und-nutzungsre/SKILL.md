@@ -1,6 +1,6 @@
 ---
 name: brand-deal-leistungsbeschreibung-abnahme-und-nutzungsre
-description: "Wenn es um Influencer-Recht: Brand Deal – Leistungsbeschreibung, Abnahme und Nutzungsrechte in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Brand Deal – Leistungsbeschreibung, Abnahme und Nutzungsrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Brand Deal – Leistungsbeschreibung, Abnahme und Nutzungsrechte

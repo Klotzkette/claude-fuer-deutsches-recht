@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-freiwillige-offenlegung-bafa-zoll
-description: "Wenn es um Freiwillige Offenlegung bei BAFA und Zoll: Strategie und Vorbereitung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freiwillige Offenlegung bei BAFA und Zoll: Strategie und Vorbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freiwillige Offenlegung bei BAFA und Zoll: Strategie und Vorbereitung

@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-mietwohnung
-description: "Prüft und gestaltet den Anspruch des Wohnraummieters auf Barrierereduzierung nach Paragraf 554 BGB. Konkretisiert Maßnahme, Bedarf, Angemessenheit, Vermieter- und Drittinteressen, Sicherheit, Kosten und Rückbau und liefert vollständigen Gestattungsantrag und Vereinbarung."
+description: "Prüft und gestaltet den Anspruch des Wohnraummieters auf Barrierereduzierung nach Paragraf 554 BGB."
 ---
 
 # Barrierereduzierung in der Mietwohnung durchsetzen
@@ -43,3 +43,7 @@ Erstelle Bedarfs- und Variantenmatrix, ausformulierten Gestattungsantrag, techni
 - technische Planung, Angebote und Genehmigungen
 - Versicherungs-, Wartungs- und Rückbaukonzept
 - Schriftverkehr und Fristsetzung
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-barrierefreiheit-mietwohnung` beziehungsweise Barrierefreiheit Mietwohnung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-barrierefreiheit-mietwohnung.md).

@@ -1,6 +1,6 @@
 ---
 name: stpo-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um StPO: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für StPO: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # StPO: Dokumentenmatrix, Lückenliste und Nachforderung

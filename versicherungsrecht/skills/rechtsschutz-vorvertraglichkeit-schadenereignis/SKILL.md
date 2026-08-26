@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-vorvertraglichkeit-schadenereignis
-description: "Wenn es um Rechtsschutz: Vorvertraglichkeit und Schadenereignis in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsschutz: Vorvertraglichkeit und Schadenereignis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsschutz: Vorvertraglichkeit und Schadenereignis

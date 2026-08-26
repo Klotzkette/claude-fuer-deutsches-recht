@@ -1,6 +1,6 @@
 ---
 name: uk-sanctions-us-ear-voruebergehende
-description: "Wenn es um UK-Sanktionen als Touchpoint: SAMLA und OFSI nach Brexit in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für UK-Sanktionen als Touchpoint: SAMLA und OFSI nach Brexit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # UK-Sanktionen als Touchpoint: SAMLA und OFSI nach Brexit

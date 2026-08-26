@@ -1,6 +1,6 @@
 ---
 name: commercial-chamber-vs-commercial-court
-description: "Wenn es um Commercial Chamber oder Commercial Court in commercial-courts-deutschland geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Commercial Chamber oder Commercial Court: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Commercial Chamber oder Commercial Court

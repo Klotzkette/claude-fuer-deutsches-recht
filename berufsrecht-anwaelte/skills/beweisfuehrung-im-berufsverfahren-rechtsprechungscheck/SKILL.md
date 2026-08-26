@@ -1,6 +1,6 @@
 ---
 name: beweisfuehrung-im-berufsverfahren-rechtsprechungscheck
-description: "Wenn es um Beweisfuehrung Im Berufsverfahren Rechtsprechungscheck in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Beweisführung im Berufsverfahren Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Anwälte: beweisfuehrung im berufsverfahren - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

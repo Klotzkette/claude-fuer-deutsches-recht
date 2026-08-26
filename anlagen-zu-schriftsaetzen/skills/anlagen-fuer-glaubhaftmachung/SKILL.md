@@ -1,6 +1,6 @@
 ---
 name: anlagen-fuer-glaubhaftmachung
-description: "Wenn es um Anlagen für Glaubhaftmachung in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Anlagen für Glaubhaftmachung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagen für Glaubhaftmachung

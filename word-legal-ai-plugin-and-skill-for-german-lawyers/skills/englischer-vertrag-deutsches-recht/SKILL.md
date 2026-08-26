@@ -1,6 +1,6 @@
 ---
 name: englischer-vertrag-deutsches-recht
-description: "Wenn es um Englischer Vertrag nach Deutschem Recht in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Englischer Vertrag nach Deutschem Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Englischer Vertrag nach Deutschem Recht

@@ -1,6 +1,6 @@
 ---
 name: wohnhaus-ddr-enteignung-widerspruch-pr
-description: "Wenn es um Wohnhaus Ddr Enteignung Widerspruch Pr in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wohnhaus Ddr Enteignung Widerspruch Pr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wohnhaus Ddr Enteignung Widerspruch Pr

@@ -1,6 +1,6 @@
 ---
 name: verwahrstelle-und-admin-funktionen
-description: "Wenn es um Verwahrstelle, Administrator und Backoffice in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verwahrstelle, Administrator und Backoffice: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwahrstelle, Administrator und Backoffice

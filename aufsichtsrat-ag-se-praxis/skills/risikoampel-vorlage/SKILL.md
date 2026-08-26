@@ -1,6 +1,6 @@
 ---
 name: risikoampel-vorlage
-description: "Wenn es um Risikoampel Vorlage in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Risikoampel Vorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Risikoampel Vorlage

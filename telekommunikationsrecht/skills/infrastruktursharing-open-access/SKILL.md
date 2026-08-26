@@ -1,6 +1,6 @@
 ---
 name: infrastruktursharing-open-access
-description: "Wenn es um Infrastruktursharing und Open Access in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Infrastruktursharing und Open Access: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Infrastruktursharing und Open Access

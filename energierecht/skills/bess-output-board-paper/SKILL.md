@@ -1,6 +1,6 @@
 ---
 name: bess-output-board-paper
-description: "Wenn es um Board Paper Batteriespeicher in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Board Paper Batteriespeicher: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Board Paper Batteriespeicher

@@ -1,6 +1,6 @@
 ---
 name: jugendschoeffe-besonderheiten-sitzung-ladung
-description: "Wenn es um Jugendschöffe Besonderheiten: Orientierung in Schöffen und Handelsrichter Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Jugendschöffe Besonderheiten: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Jugendschöffe Besonderheiten: Orientierung

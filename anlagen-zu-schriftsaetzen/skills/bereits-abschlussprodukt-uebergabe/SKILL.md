@@ -1,6 +1,6 @@
 ---
 name: bereits-abschlussprodukt-uebergabe
-description: "Wenn es um Bereits: Abschlussprodukt und Übergabe in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bereits Abschlussprodukt Uebergabe; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Bereits: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: bereits-abschlussprodukt-uebergabe."
 ---
 
 # Bereits: Abschlussprodukt und Übergabe

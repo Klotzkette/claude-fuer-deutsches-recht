@@ -1,6 +1,6 @@
 ---
 name: notariat-041-konflikttraechtige-mandanten-neutrale-amtsfuehrung
-description: "Wenn es um Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Notariat im Alltag. Route: notariat-041-konflikttraechtige-mandanten-neutrale-amtsfuehrung."
 ---
 
 # Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung

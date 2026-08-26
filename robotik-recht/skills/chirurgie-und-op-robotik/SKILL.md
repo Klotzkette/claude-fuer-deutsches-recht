@@ -1,6 +1,6 @@
 ---
 name: chirurgie-und-op-robotik
-description: "Wenn es um Chirurgie- und OP-Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Chirurgie- und OP-Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Chirurgie- und OP-Robotik

@@ -1,6 +1,6 @@
 ---
 name: kommunalabgabe-zustaendigkeit-pruefen
-description: "Wenn es um Kommunalabgabe Zuständigkeit Prüfen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunalabgabe Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kommunalrecht der Länder. Route: kommunalabgabe-zustaendigkeit-pruefen."
 ---
 
 # Kommunalabgabe Zuständigkeit Prüfen

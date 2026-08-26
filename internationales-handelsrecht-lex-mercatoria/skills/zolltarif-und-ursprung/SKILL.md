@@ -1,6 +1,6 @@
 ---
 name: zolltarif-und-ursprung
-description: "Wenn es um Zolltarif und nicht-präferenzieller Ursprung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zolltarif und nicht-präferenzieller Ursprung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zolltarif und nicht-präferenzieller Ursprung

@@ -1,6 +1,6 @@
 ---
 name: sanktion-fristenzentrale-zustellung
-description: "Wenn es um Fristenzentrale Zustellung und Wiedervorlage in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristenzentrale Zustellung und Wiedervorlage: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Datenschutzrecht."
 ---
 
 # Fristenzentrale Zustellung und Wiedervorlage

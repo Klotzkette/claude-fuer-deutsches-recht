@@ -1,6 +1,6 @@
 ---
 name: forderung-gegen-gmbh-gesellschafter
-description: "Wenn es um Forderung gegen GmbH-Gesellschafter in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Forderung gegen GmbH-Gesellschafter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forderung gegen GmbH-Gesellschafter

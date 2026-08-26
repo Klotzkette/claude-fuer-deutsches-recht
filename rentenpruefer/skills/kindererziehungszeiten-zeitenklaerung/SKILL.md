@@ -1,6 +1,6 @@
 ---
 name: kindererziehungszeiten-zeitenklaerung
-description: "Wenn es um kindererziehungszeiten-und-beruecksichtigungszeiten in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für kindererziehungszeiten-und-beruecksichtigungszeiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # kindererziehungszeiten-und-beruecksichtigungszeiten

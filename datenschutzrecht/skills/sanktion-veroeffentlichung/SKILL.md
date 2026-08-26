@@ -1,6 +1,6 @@
 ---
 name: sanktion-veroeffentlichung
-description: "Wenn es um Veröffentlichung von Bußgeldentscheidungen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Veröffentlichung von Bußgeldentscheidungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Veröffentlichung von Bußgeldentscheidungen

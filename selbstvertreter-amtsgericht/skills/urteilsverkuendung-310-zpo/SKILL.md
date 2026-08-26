@@ -1,6 +1,6 @@
 ---
 name: urteilsverkuendung-310-zpo
-description: "Wenn es um Urteilsverkuendung: So endet das Verfahren in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urteilsverkündung: So endet das Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urteilsverkuendung: So endet das Verfahren

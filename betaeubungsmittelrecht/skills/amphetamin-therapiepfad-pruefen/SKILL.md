@@ -1,6 +1,6 @@
 ---
 name: amphetamin-therapiepfad-pruefen
-description: "Wenn es um Amphetamin Therapiepfad Prüfen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Amphetamin Therapiepfad Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betäubungsmittelrecht. Route: amphetamin-therapiepfad-pruefen."
 ---
 
 # Amphetamin Therapiepfad Prüfen

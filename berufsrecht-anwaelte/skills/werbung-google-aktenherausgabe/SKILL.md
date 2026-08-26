@@ -1,6 +1,6 @@
 ---
 name: werbung-google-aktenherausgabe
-description: "Wenn es um Werbung Google Aktenherausgabe in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Werbung Google Aktenherausgabe: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: werbung google ads und linkedin - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

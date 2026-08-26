@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Kaltstart Triage in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 ## Direktstart: lesen, entscheiden, liefern

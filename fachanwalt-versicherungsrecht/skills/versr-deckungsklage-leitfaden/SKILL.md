@@ -1,6 +1,6 @@
 ---
 name: versr-deckungsklage-leitfaden
-description: "Wenn es um Versr Deckungsklage Leitfaden in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Versr Deckungsklage Leitfaden: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Leitfaden Deckungsklage in Haftpflicht und Rechtsschutz: Deckungszusage, Abwehrdeckung, Stichentscheid bei Erfolgsaussicht

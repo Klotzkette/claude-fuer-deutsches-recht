@@ -1,6 +1,6 @@
 ---
 name: deal-verstaendigung-257c-stpo-staatsanwaelte
-description: "Wenn es um Verständigung nach Paragraf 257c StPO: StA sauber positionieren in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Verständigung nach Paragraf 257c StPO: StA sauber positionieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verständigung nach Paragraf 257c StPO: StA sauber positionieren

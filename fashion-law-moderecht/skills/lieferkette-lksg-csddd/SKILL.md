@@ -1,6 +1,6 @@
 ---
 name: lieferkette-lksg-csddd
-description: "Wenn es um Lieferkette Lksg Csddd in fashion-law-moderecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Lieferkette Lksg Csddd: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lieferkette Lksg Csddd

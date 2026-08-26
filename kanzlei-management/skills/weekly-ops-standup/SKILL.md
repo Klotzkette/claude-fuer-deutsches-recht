@@ -1,6 +1,6 @@
 ---
 name: weekly-ops-standup
-description: "Wenn es um Weekly Ops Standup in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weekly Ops Standup: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weekly Ops Standup

@@ -1,6 +1,6 @@
 ---
 name: robe-werbung-und-gerichtstermin-organisationspflicht-u
-description: "Wenn es um Robe Werbung Und Gerichtstermin Organisationspflicht U in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Robe Werbung und Gerichtstermin Organisationspflicht U: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: robe werbung und gerichtstermin - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

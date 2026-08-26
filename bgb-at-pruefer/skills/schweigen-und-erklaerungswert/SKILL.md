@@ -1,6 +1,6 @@
 ---
 name: schweigen-und-erklaerungswert
-description: "Wenn es um Schweigen und Erklärungswert in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Schweigen Und Erklaerungswert; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Schweigen und Erklärungswert: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: schweigen-und-erklaerungswert."
 ---
 
 # Schweigen und Erklärungswert

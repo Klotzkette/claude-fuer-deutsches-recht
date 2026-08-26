@@ -1,6 +1,6 @@
 ---
 name: fair-disclosure-kg-personengesellschaften
-description: "Wenn es um Fair Disclosure und Knowledge Management in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Fair Disclosure Kg Personengesellschaften; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Fair Disclosure und Knowledge Management: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: fair-disclosure-kg-personengesellschaften."
 ---
 
 # Fair Disclosure und Knowledge Management

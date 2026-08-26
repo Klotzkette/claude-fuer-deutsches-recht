@@ -1,6 +1,6 @@
 ---
 name: digital-services-aussergerichtliche-streitbeilegungsstelle-dsa
-description: "Wenn es um Außergerichtliche Streitbeilegungsstelle nach Art. 21 DSA in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Außergerichtliche Streitbeilegungsstelle nach Art. 21 DSA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Außergerichtliche Streitbeilegungsstelle nach Art. 21 DSA

@@ -1,6 +1,6 @@
 ---
 name: digital-services-algorithmen
-description: "Wenn es um Algorithmen und Empfehlungssysteme nach dem Digital Services Act in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Algorithmen und Empfehlungssysteme nach dem Digital Services Act: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Algorithmen und Empfehlungssysteme nach dem Digital Services Act

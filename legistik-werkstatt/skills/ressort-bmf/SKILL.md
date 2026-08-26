@@ -1,6 +1,6 @@
 ---
 name: ressort-bmf
-description: "Wenn es um Ressort-Heranfuehrung BMF in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ressort Bmf; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Ressort-Heranführung BMF: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: ressort-bmf."
 ---
 
 # Ressort-Heranfuehrung BMF

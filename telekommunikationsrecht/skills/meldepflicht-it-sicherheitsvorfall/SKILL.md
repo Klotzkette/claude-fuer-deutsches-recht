@@ -1,6 +1,6 @@
 ---
 name: meldepflicht-it-sicherheitsvorfall
-description: "Wenn es um IT-Sicherheitsvorfall und Meldepflicht in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für IT-Sicherheitsvorfall und Meldepflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IT-Sicherheitsvorfall und Meldepflicht

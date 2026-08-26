@@ -1,6 +1,6 @@
 ---
 name: amphetamin-sichern-einlassung-planen
-description: "Wenn es um Amphetamin Beweis Sichern in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Amphetamin Beweis Sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Amphetamin Beweis Sichern

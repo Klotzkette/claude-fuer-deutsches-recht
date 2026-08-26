@@ -1,6 +1,6 @@
 ---
 name: bmwe-aussenwirtschaft
-description: "Wenn es um Außenwirtschaft und Investitionspruefung (BMWE) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Bmwe Aussenwirtschaft; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Außenwirtschaft und Investitionsprüfung (BMWE): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Außenwirtschaft und Investitionspruefung (BMWE)

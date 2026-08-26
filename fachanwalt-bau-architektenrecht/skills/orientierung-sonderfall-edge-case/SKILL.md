@@ -1,6 +1,6 @@
 ---
 name: orientierung-sonderfall-edge-case
-description: "Wenn es um Orientierung: Sonderfall und Edge-Case-Prüfung in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Orientierung: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Bau Architektenrecht."
 ---
 
 # Orientierung: Sonderfall und Edge-Case-Prüfung

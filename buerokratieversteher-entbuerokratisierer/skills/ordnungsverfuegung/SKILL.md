@@ -1,6 +1,6 @@
 ---
 name: ordnungsverfuegung
-description: "Wenn es um Ordnungsverfügung in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ordnungsverfügung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ordnungsverfügung

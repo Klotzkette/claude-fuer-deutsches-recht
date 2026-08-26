@@ -1,6 +1,6 @@
 ---
 name: ls-justizportal-pruefen-spezial
-description: "Wenn es um LS: Justizportal-Spezial in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LS: Justizportal-Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # LS: Justizportal-Spezial

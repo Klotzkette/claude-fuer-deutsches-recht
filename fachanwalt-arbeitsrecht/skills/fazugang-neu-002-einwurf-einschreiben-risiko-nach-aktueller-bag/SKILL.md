@@ -1,6 +1,6 @@
 ---
 name: fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag
-description: "Wenn es um Fazugang Neu 002 Einwurf Einschreiben Risiko Nach Aktueller Bag in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fazugang Neu 002 Einwurf Einschreiben Risiko nach Aktueller Bag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Einschreiben-Zustellung bei Kündigung: Risiken des Einwurf-Einschreibens (kein Zugang bei Nichtabholung), Übergabe-Einschreiben vs

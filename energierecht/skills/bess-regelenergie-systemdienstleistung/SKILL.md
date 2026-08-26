@@ -1,6 +1,6 @@
 ---
 name: bess-regelenergie-systemdienstleistung
-description: "Wenn es um Regelenergie und Systemdienstleistungen in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Regelenergie und Systemdienstleistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Regelenergie und Systemdienstleistungen

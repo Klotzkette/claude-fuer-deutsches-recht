@@ -1,6 +1,6 @@
 ---
 name: erb-pflichtteilsanspruch-berechnung-spezial
-description: "Wenn es um Erb Pflichtteilsanspruch Berechnung Spezial in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erb Pflichtteilsanspruch Berechnung Spezial: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Spezialfall Pflichtteilsberechnung detailliert: § 2303 BGB, Höhe Pflichtteil = halbe gesetzliche Erbquote, Pflichtteilsergaenzungsanspruch § 2325 BGB für Schenkungen 10-Jahres-Frist mit Abschmelzung

@@ -1,6 +1,6 @@
 ---
 name: rom-105-justinian-novellen-und-griechische-rechtskultur
-description: "Wenn es um Justinianische Novellen und griechische Rechtskultur in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Justinianische Novellen und griechische Rechtskultur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: rom-105-justinian-novellen-und-griechische-rechtskultur."
 ---
 
 # Justinianische Novellen und griechische Rechtskultur

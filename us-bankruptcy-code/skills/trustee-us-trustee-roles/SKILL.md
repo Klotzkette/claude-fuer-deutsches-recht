@@ -1,6 +1,6 @@
 ---
 name: trustee-us-trustee-roles
-description: "Wenn es um Trustee and U.S. Trustee Roles in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Trustee and U.S. Trustee Roles: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trustee and U.S. Trustee Roles

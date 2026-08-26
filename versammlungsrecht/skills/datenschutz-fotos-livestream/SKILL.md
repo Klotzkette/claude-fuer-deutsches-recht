@@ -1,6 +1,6 @@
 ---
 name: datenschutz-fotos-livestream
-description: "Wenn es um Sichtbarkeit und Datenschutz zusammen denken in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sichtbarkeit und Datenschutz zusammen denken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sichtbarkeit und Datenschutz zusammen denken

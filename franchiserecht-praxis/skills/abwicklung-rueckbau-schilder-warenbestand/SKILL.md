@@ -1,6 +1,6 @@
 ---
 name: abwicklung-rueckbau-schilder-warenbestand
-description: "Wenn es um Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende

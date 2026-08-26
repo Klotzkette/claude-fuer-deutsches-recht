@@ -1,6 +1,6 @@
 ---
 name: ausschuss-dashboard-bauen
-description: "Wenn es um Ausschuss Dashboard Bauen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausschuss Dashboard Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausschuss Dashboard Bauen

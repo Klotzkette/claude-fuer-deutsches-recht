@@ -1,6 +1,6 @@
 ---
 name: bk-prip-kid-fehlerhaft-spezial
-description: "Wenn es um Bk Prip Kid Fehlerhaft Spezial in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bk Prip Kid Fehlerhaft Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall PRIIPs-KID fehlerhaft: PRIIPs-VO, Inhalt Basisinformationsblatt, Haftung Hersteller und Vertrieb bei irrefuehrenden Angaben, Prüfung Kosten- und Risikoangabe

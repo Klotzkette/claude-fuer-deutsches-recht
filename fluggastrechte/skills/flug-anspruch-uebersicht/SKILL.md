@@ -1,6 +1,6 @@
 ---
 name: flug-anspruch-uebersicht
-description: "Wenn es um Flug: Anspruch-Übersicht in Fluggastrechte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Flug: Anspruch-Übersicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Flug: Anspruch-Übersicht

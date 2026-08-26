@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-arbeitgeberzuschuss-pkv-entgeltabrechnung
-description: "Wenn es um Arbeitgeberzuschuss PKV und Entgeltabrechnung in Krankenkassenrecht und Krankenversicherung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Arbeitgeberzuschuss PKV und Entgeltabrechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitgeberzuschuss PKV und Entgeltabrechnung

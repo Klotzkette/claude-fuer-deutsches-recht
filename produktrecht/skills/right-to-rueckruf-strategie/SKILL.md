@@ -1,6 +1,6 @@
 ---
 name: right-to-rueckruf-strategie
-description: "Wenn es um Right to Repair im Produktrecht in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Right to Repair im Produktrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Right to Repair im Produktrecht

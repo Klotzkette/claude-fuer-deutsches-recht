@@ -1,6 +1,6 @@
 ---
 name: anwaltsgerichtliche-anschuldigung
-description: "Wenn es um Anwaltsgerichtliche Anschuldigung in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Anwaltsgerichtliche Anschuldigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: anwaltsgerichtliche anschuldigung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: einreichung-papierform-mit-abschriften
-description: "Wenn es um Klage in Papierform einreichen in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klage in Papierform einreichen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Klage in Papierform einreichen

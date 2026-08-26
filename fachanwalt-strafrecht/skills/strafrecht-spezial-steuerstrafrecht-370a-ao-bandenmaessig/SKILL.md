@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-steuerstrafrecht-370a-ao-bandenmaessig
-description: "Wenn es um Paragraph 370a AO historisch — gewerbsmäßige oder bandenmäßige Steuerhinterziehung in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paragraph 370a AO historisch — gewerbsmäßige oder bandenmäßige Steuerhinterziehung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Paragraph 370a AO historisch — gewerbsmäßige oder bandenmäßige Steuerhinterziehung

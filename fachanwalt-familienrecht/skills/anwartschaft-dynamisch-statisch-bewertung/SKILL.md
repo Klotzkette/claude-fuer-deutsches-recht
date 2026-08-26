@@ -1,6 +1,6 @@
 ---
 name: anwartschaft-dynamisch-statisch-bewertung
-description: "Wenn es um Anwartschaft Dynamisch Statisch Bewertung in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anwartschaft Dynamisch Statisch Bewertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwartschaft dynamisch statisch Bewertung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

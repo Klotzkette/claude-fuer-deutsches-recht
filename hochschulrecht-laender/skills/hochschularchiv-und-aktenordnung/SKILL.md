@@ -1,6 +1,6 @@
 ---
 name: hochschularchiv-und-aktenordnung
-description: "Wenn es um Hochschularchiv und Aktenordnung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hochschularchiv und Aktenordnung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hochschularchiv und Aktenordnung

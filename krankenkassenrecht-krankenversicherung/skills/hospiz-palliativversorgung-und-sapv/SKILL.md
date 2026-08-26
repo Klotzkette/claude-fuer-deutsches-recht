@@ -1,6 +1,6 @@
 ---
 name: hospiz-palliativversorgung-und-sapv
-description: "Wenn es um Hospiz, Palliativversorgung und SAPV in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hospiz, Palliativversorgung und SAPV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hospiz, Palliativversorgung und SAPV

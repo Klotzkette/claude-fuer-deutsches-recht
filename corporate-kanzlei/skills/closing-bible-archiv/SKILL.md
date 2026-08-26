@@ -1,6 +1,6 @@
 ---
 name: closing-bible-archiv
-description: "Wenn es um Closing Bible und Archiv in Corporate-Kanzlei geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Closing Bible und Archiv: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei."
 ---
 
 # Closing Bible und Archiv

@@ -1,6 +1,6 @@
 ---
 name: pressetext-rechtsthemen
-description: "Wenn es um Pressetext zu Rechtsthema in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pressetext zu Rechtsthema: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pressetext zu Rechtsthema

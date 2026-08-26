@@ -1,6 +1,6 @@
 ---
 name: werbung-und-amtsbezeichnung-kammerantwort-und-verfahrens
-description: "Wenn es um Werbung Und Amtsbezeichnung Kammerantwort Und Verfahrens in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Werbung und Amtsbezeichnung Kammerantwort und Verfahrens: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: werbung und amtsbezeichnung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

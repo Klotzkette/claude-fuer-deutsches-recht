@@ -1,6 +1,6 @@
 ---
 name: wissenschaftsdaten-forschungsdatenbank
-description: "Wenn es um Wissenschaftsdaten und Forschungsdatenbanken — Datenbankrecht und TDM-Schranke in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wissenschaftsdaten und Forschungsdatenbanken — Datenbankrecht und TDM-Schranke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wissenschaftsdaten und Forschungsdatenbanken — Datenbankrecht und TDM-Schranke

@@ -1,6 +1,6 @@
 ---
 name: patentrechts-tuerkei-turkpatent-uk-patents
-description: "Wenn es um Patentrechts: Erstprüfung, Rollenklärung und Mandatsziel in patentrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Patentrechts: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentrechts: Erstprüfung, Rollenklärung und Mandatsziel

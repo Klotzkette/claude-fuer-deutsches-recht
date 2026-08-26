@@ -1,6 +1,6 @@
 ---
 name: bachelorarbeit-abgabe-abschlussarbeit
-description: "Wenn es um Bachelorarbeit Abgabe in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bachelorarbeit Abgabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bachelorarbeit Abgabe

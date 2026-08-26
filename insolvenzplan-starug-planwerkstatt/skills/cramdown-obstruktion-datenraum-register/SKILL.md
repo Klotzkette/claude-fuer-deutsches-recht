@@ -1,6 +1,6 @@
 ---
 name: cramdown-obstruktion-datenraum-register
-description: "Wenn es um Cram-down und Obstruktion in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cram-down und Obstruktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Cram-down und Obstruktion

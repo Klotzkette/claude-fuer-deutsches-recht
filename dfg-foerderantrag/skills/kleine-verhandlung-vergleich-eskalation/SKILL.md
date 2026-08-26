@@ -1,6 +1,6 @@
 ---
 name: kleine-verhandlung-vergleich-eskalation
-description: "Wenn es um Kleine: Verhandlung, Vergleich und Eskalation in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kleine: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: DFG-Förderantrag. Route: kleine-verhandlung-vergleich-eskalation."
 ---
 
 # Kleine: Verhandlung, Vergleich und Eskalation

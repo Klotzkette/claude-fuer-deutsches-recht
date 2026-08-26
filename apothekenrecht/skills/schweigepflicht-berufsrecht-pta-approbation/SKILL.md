@@ -1,6 +1,6 @@
 ---
 name: schweigepflicht-berufsrecht-pta-approbation
-description: "Wenn es um Schweigepflicht Berufsrecht PTA Approbation in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schweigepflicht Berufsrecht PTA Approbation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schweigepflicht Berufsrecht PTA Approbation

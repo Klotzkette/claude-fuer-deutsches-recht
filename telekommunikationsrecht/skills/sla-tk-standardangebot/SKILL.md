@@ -1,6 +1,6 @@
 ---
 name: sla-tk-standardangebot
-description: "Wenn es um Business-SLA und Ausfall in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Business-SLA und Ausfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Business-SLA und Ausfall

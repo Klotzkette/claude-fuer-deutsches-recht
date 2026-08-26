@@ -1,6 +1,6 @@
 ---
 name: ba-zustimmung-beschaeftigung
-description: "Wenn es um BA-Zustimmung Beschäftigung: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BA-Zustimmung Beschäftigung: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BA-Zustimmung Beschäftigung: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um BA-Zustimmung Beschäftigung: Fachmodul im Migrationsre
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-ba-zustimmung-beschaeftigung` beziehungsweise BA-Zustimmung Beschäftigung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-ba-zustimmung-beschaeftigung.md).

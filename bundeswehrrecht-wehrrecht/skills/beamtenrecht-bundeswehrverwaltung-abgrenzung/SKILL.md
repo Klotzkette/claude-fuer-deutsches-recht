@@ -1,6 +1,6 @@
 ---
 name: beamtenrecht-bundeswehrverwaltung-abgrenzung
-description: "Wenn es um Beamtenrecht Bundeswehrverwaltung — Abgrenzung Soldat/Beamter/Arbeitnehmer in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beamtenrecht Bundeswehrverwaltung — Abgrenzung Soldat/Beamter/Arbeitnehmer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beamtenrecht Bundeswehrverwaltung — Abgrenzung Soldat/Beamter/Arbeitnehmer

@@ -1,6 +1,6 @@
 ---
 name: kirchenrecht-und-schule
-description: "Wenn es um Kirche und Schule in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kirchenrecht Und Schule; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Kirche und Schule: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: kirchenrecht-und-schule."
 ---
 
 # Kirche und Schule

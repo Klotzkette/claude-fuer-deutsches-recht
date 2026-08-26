@@ -1,6 +1,6 @@
 ---
 name: slot-zustaendigkeit-pruefen
-description: "Wenn es um Slot – Zuständigkeit prüfen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Slot – Zuständigkeit prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Slot – Zuständigkeit prüfen

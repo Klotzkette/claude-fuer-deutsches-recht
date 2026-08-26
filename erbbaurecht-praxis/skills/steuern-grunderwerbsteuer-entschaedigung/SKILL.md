@@ -1,6 +1,6 @@
 ---
 name: steuern-grunderwerbsteuer-entschaedigung
-description: "Wenn es um Steuerliche Schnittstellen in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuerliche Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerliche Schnittstellen

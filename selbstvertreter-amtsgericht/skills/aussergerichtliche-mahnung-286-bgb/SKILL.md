@@ -1,6 +1,6 @@
 ---
 name: aussergerichtliche-mahnung-286-bgb
-description: "Wenn es um Mahnen Sie zuerst — bevor Sie klagen in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mahnen Sie zuerst — bevor Sie klagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mahnen Sie zuerst — bevor Sie klagen

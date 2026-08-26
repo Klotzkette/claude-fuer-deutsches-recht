@@ -1,6 +1,6 @@
 ---
 name: telefonat-mit-behoerde-vorbereiten
-description: "Wenn es um Telefonat Mit Behoerde Vorbereiten in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Telefonat mit Behörde Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Juristische Sprache Deutsch als Zweitsprache. Route: telefonat-mit-behoerde-vorbereiten."
 ---
 
 # Telefonat Mit Behoerde Vorbereiten

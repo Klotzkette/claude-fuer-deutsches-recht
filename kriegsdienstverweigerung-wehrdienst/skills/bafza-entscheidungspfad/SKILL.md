@@ -1,6 +1,6 @@
 ---
 name: bafza-entscheidungspfad
-description: "Wenn es um BAFzA entscheidet inhaltlich in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BAFzA entscheidet inhaltlich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BAFzA entscheidet inhaltlich

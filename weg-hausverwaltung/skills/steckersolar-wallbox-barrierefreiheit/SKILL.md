@@ -1,6 +1,6 @@
 ---
 name: steckersolar-wallbox-barrierefreiheit
-description: "Wenn es um Steckersolar, Wallbox, Barrierefreiheit und Co. in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Steckersolar, Wallbox, Barrierefreiheit und Co: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steckersolar, Wallbox, Barrierefreiheit und Co.

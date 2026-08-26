@@ -1,6 +1,6 @@
 ---
 name: owig-in-einfacher-sprache
-description: "Wenn es um Owig In Einfacher Sprache in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Owig in Einfacher Sprache: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Owig In Einfacher Sprache

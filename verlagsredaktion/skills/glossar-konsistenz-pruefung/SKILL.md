@@ -1,6 +1,6 @@
 ---
 name: glossar-konsistenz-pruefung
-description: "Wenn es um Glossar- und Konsistenz-Prüfung in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Glossar- und Konsistenz-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Verlagsredaktion. Route: glossar-konsistenz-pruefung."
 ---
 
 # Glossar- und Konsistenz-Prüfung

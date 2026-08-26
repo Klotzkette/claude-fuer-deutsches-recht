@@ -1,6 +1,6 @@
 ---
 name: luft-058-registerpfandrecht-local-counsel-brief
-description: "Wenn es um Registerpfandrecht Local Counsel Brief in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Registerpfandrecht Local Counsel Brief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Registerpfandrecht Local Counsel Brief

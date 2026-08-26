@@ -1,6 +1,6 @@
 ---
 name: deal-timeline-und-workstreams
-description: "Wenn es um Deal Timeline und Workstreams in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Deal Timeline und Workstreams: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Deal Timeline und Workstreams

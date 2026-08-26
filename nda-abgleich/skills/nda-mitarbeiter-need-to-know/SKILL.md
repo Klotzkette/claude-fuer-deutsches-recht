@@ -1,6 +1,6 @@
 ---
 name: nda-mitarbeiter-need-to-know
-description: "Wenn es um NDA: Mitarbeiter/Need-to-Know in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Nda Mitarbeiter Need To Know; Arbeitsfeld: NDA-Abgleich."
+description: "Für NDA: Mitarbeiter/Need-to-Know: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NDA-Abgleich. Route: nda-mitarbeiter-need-to-know."
 ---
 
 # NDA: Mitarbeiter/Need-to-Know

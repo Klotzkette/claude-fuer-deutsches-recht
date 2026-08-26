@@ -1,6 +1,6 @@
 ---
 name: subunternehmer-regelung-pruefen
-description: "Wenn es um Subunternehmer-Regelung prüfen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl: Subunternehmer Regelung Pruefen."
+description: "Für Subunternehmer-Regelung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: subunternehmer-regelung-pruefen."
 ---
 
 # Subunternehmer-Regelung prüfen

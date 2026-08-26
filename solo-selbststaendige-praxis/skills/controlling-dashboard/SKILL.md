@@ -1,6 +1,6 @@
 ---
 name: controlling-dashboard
-description: "Wenn es um Pricing Liquidität und Wachstum: Baut monatsdashboard mit umsatz in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pricing Liquidität und Wachstum: Baut monatsdashboard mit umsatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pricing Liquidität und Wachstum: Baut monatsdashboard mit umsatz

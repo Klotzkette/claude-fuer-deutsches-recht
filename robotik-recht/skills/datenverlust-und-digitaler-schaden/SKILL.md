@@ -1,6 +1,6 @@
 ---
 name: datenverlust-und-digitaler-schaden
-description: "Wenn es um Datenverlust und digitaler Schaden in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenverlust Und Digitaler Schaden; Arbeitsfeld: robotik-recht."
+description: "Für Datenverlust und digitaler Schaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: datenverlust-und-digitaler-schaden."
 ---
 
 # Datenverlust und digitaler Schaden

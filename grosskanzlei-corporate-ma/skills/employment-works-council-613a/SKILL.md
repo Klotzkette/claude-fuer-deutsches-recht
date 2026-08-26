@@ -1,6 +1,6 @@
 ---
 name: employment-works-council-613a
-description: "Wenn es um Employment Works Council 613a in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Employment Works Council 613a: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: employment-works-council-613a."
 ---
 
 # Employment, Works Council und Betriebsuebergang Skill: prüft Arbeitnehmer, Betriebsrat, Mitbestimmung, Paragraf 613a BGB, Retention, Bonus, Change of Control und Restrukturierung.

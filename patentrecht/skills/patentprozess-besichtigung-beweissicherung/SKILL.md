@@ -1,6 +1,6 @@
 ---
 name: patentprozess-besichtigung-beweissicherung
-description: "Wenn es um Patentprozess: Besichtigung und Beweissicherung in patentrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Patentprozess: Besichtigung und Beweissicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Patentprozess: Besichtigung und Beweissicherung

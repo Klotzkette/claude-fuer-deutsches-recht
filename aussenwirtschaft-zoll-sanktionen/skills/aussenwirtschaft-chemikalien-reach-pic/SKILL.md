@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-chemikalien-reach-pic
-description: "Wenn es um Chemikalien Reach Pic in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Chemikalien Reach Pic: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Chemikalien Reach Pic

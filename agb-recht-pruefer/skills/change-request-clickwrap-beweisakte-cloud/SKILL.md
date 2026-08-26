@@ -1,6 +1,6 @@
 ---
 name: change-request-clickwrap-beweisakte-cloud
-description: "Wenn es um Change Reqüst in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Change Reqüst: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Change Reqüst

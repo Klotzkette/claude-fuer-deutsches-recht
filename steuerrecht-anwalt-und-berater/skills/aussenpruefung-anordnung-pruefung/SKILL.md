@@ -1,6 +1,6 @@
 ---
 name: aussenpruefung-anordnung-pruefung
-description: "Wenn es um Aussenpruefung — Prüfungsanordnung Prüfungserweiterung und Mitwirkung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Außenprüfung — Prüfungsanordnung Prüfungserweiterung und Mitwirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: aussenpruefung-anordnung-pruefung."
 ---
 
 # Aussenpruefung — Prüfungsanordnung Prüfungserweiterung und Mitwirkung

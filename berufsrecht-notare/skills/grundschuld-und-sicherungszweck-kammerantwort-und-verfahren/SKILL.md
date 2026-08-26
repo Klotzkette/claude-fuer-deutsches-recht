@@ -1,6 +1,6 @@
 ---
 name: grundschuld-und-sicherungszweck-kammerantwort-und-verfahren
-description: "Wenn es um Grundschuld Und Sicherungszweck Kammerantwort Und Verfahren in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Grundschuld und Sicherungszweck Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: grundschuld und sicherungszweck - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

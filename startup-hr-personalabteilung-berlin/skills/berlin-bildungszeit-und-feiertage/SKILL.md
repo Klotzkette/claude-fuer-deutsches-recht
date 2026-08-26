@@ -1,6 +1,6 @@
 ---
 name: berlin-bildungszeit-und-feiertage
-description: "Wenn es um Berlin Bildungszeit Und Feiertage in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Berlin Bildungszeit und Feiertage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berlin Bildungszeit Und Feiertage

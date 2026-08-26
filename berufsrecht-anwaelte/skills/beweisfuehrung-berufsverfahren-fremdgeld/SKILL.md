@@ -1,6 +1,6 @@
 ---
 name: beweisfuehrung-berufsverfahren-fremdgeld
-description: "Wenn es um Beweisfuehrung Berufsverfahren Fremdgeld in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beweisführung Berufsverfahren Fremdgeld: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Anwälte: beweisfuehrung im berufsverfahren - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

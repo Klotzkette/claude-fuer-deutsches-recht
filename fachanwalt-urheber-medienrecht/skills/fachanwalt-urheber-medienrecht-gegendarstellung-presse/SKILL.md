@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-gegendarstellung-presse
-description: "Wenn es um Gegendarstellung Presserecht in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gegendarstellung Presserecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gegendarstellung Presserecht

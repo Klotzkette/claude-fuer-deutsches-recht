@@ -1,6 +1,6 @@
 ---
 name: kueschk-sonderkuendigungsschutz-checkliste
-description: "Wenn es um Checkliste Sonderkündigungsschutz: Schwangerschaft Paragraf 17 MuSchG in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Checkliste Sonderkündigungsschutz: Schwangerschaft Paragraf 17 MuSchG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Checkliste Sonderkündigungsschutz: Schwangerschaft Paragraf 17 MuSchG

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-und-kyc
-description: "Wenn es um Geldwäsche und KYC in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Geldwäsche und KYC: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Steuerberater."
 ---
 
 # Geldwäsche und KYC

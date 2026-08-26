@@ -1,6 +1,6 @@
 ---
 name: board-consents-minutes-resolutions
-description: "Wenn es um Board Consents Minutes Resolutions in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Board Consents Minutes Resolutions; Arbeitsfeld: Großkanzlei Corporate/M&A."
+description: "Für Board Consents Minutes Resolutions: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: board-consents-minutes-resolutions."
 ---
 
 # Board Consents, Minutes und Resolutions für M&A: erstellt Beschlussvorlagen, Protokolle, Umlaufbeschluesse und Entscheidungsunterlagen mit Business-Judgment-Absicherung.

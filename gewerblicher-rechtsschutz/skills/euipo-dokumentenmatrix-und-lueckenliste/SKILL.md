@@ -1,6 +1,6 @@
 ---
 name: euipo-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Spezial: EUIPO – Dokumentenmatrix und Lückenliste in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Spezial: EUIPO – Dokumentenmatrix und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Spezial: EUIPO – Dokumentenmatrix und Lückenliste
@@ -120,3 +120,7 @@ Bei älterer Marke mit > 5 Jahren Eintragung verlangt der Markeninhaber Benutzun
 - `spezial-anmeldung-behoerden-gericht-und-registerweg` – Behördenübersicht
 - `gewr-markenanmeldung-bauleiter` – Markenanmeldung Bauleiter
 - `markenrecherche` – Kollisionsrecherche vor Anmeldung
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-euipo-dokumentenmatrix-und-lueckenliste` beziehungsweise Euipo: Dokumentenmatrix, Lückenliste und Nachforderung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-euipo-dokumentenmatrix-und-lueckenliste.md).

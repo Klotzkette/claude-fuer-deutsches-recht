@@ -1,6 +1,6 @@
 ---
 name: kronzeugenprogramm-bonusregelung
-description: "Wenn es um Kronzeugenprogramm Bonusregelung in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Kronzeugenprogramm Bonusregelung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kronzeugenprogramm Bonusregelung

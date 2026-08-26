@@ -1,6 +1,6 @@
 ---
 name: evaluation-jahresbericht-fallzahlen
-description: "Wenn es um NKR-Evaluation und Jahresbericht in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für NKR-Evaluation und Jahresbericht: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # NKR-Evaluation und Jahresbericht

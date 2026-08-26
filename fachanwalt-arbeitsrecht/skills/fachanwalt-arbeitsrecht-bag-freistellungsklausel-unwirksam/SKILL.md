@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam
-description: "Wenn es um Rechtsprechung live prüfen in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam; Arbeitsfeld: Fachanwalt Arbeitsrecht."
+description: "Für Rechtsprechung live prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Arbeitsrecht. Route: fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam."
 ---
 
 # Rechtsprechung live prüfen

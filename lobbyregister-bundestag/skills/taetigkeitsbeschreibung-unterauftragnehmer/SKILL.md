@@ -1,6 +1,6 @@
 ---
 name: taetigkeitsbeschreibung-unterauftragnehmer
-description: "Wenn es um Taetigkeitsbeschreibung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tätigkeitsbeschreibung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Taetigkeitsbeschreibung

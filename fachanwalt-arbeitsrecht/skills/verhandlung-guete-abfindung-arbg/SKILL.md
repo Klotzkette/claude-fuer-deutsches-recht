@@ -1,6 +1,6 @@
 ---
 name: verhandlung-guete-abfindung-arbg
-description: "Wenn es um Verhandlung Guete Abfindung Arbg in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verhandlung Güte Abfindung Arbg: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Gueteverhandlung im Arbeitsgerichtsverfahren nach Paragraf 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie

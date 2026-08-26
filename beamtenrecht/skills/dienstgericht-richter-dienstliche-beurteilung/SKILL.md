@@ -1,6 +1,6 @@
 ---
 name: dienstgericht-richter-dienstliche-beurteilung
-description: "Wenn es um Dienstgericht für Richter in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dienstgericht für Richter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Dienstgericht für Richter

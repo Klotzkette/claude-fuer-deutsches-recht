@@ -1,6 +1,6 @@
 ---
 name: widerspruch-sozialleistung
-description: "Wenn es um Mandant hat Sozialleistungsbescheid erhalten und Anwalt formuliert Widerspruch in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandant hat Sozialleistungsbescheid erhalten und Anwalt formuliert Widerspruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandant hat Sozialleistungsbescheid erhalten und Anwalt formuliert Widerspruch

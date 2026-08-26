@@ -1,6 +1,6 @@
 ---
 name: esg-greenwashing-klimaklagen-verbandsklage
-description: "Wenn es um ESG, CSRD und Greenwashing-Verteidigung in Umweltrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ESG, CSRD und Greenwashing-Verteidigung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # ESG, CSRD und Greenwashing-Verteidigung

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-haeusliche-gewalt-im-strafverfahren
-description: "Wenn es um Strafrecht Spezial Haeusliche Gewalt Im Strafverfahren in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Häusliche Gewalt im Strafverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: Tatbestandsbuendel (§ 223 KV, § 224 gefaehrliche KV, § 240 Noetigung, § 241 Bedrohung, § 238 Stalking, § 177 sexueller Uebergriff), Beweisproblematik der Aussage-gegen-Aussage-Konstellation, Glaubhaftigkeitspruefung methodisch korrekt (Hypothesen-gegen-Hypothesen), Strafantrag/öffentliches Interesse bei § 223 StGB sauber prüfen, GewSchG-Schnittstelle, Schutzanordnungen, Polizei-Wegweisung, Schutzraum-Konzepte, Strafzumessung und Aussetzung.

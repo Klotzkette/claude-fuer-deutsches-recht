@@ -1,6 +1,6 @@
 ---
 name: bgh-ii-zr-275-14-media-saturn
-description: "Wenn es um BGH II ZR 275 14 Media Saturn in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für BGH II ZR 275 14 Media Saturn: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BGH II ZR 275 14 Media Saturn

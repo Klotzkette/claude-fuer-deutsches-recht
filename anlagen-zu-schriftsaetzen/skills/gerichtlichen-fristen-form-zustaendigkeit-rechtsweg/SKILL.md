@@ -1,6 +1,6 @@
 ---
 name: gerichtlichen-fristen-form-zustaendigkeit-rechtsweg
-description: "Wenn es um Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gerichtlichen Fristen Form Zuständigkeit Rechtsweg; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Anlagen zu Schriftsätzen. Route: gerichtlichen-fristen-form-zustaendigkeit-rechtsweg."
 ---
 
 # Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg

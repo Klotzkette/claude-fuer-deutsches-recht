@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-awv-z4-z10-z11-meldungen
-description: "Wenn es um AWV Z4/Z10/Z11: Spezifische Bundesbank-Meldungen im Kapitalverkehr in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AWV Z4/Z10/Z11: Spezifische Bundesbank-Meldungen im Kapitalverkehr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AWV Z4/Z10/Z11: Spezifische Bundesbank-Meldungen im Kapitalverkehr

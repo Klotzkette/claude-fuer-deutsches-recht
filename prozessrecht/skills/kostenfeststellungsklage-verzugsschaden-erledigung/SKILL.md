@@ -1,6 +1,6 @@
 ---
 name: kostenfeststellungsklage-verzugsschaden-erledigung
-description: "Wenn es um Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden

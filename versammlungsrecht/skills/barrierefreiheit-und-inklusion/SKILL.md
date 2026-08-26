@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-und-inklusion
-description: "Wenn es um Art. 8 auch praktisch zugänglich machen in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Art. 8 auch praktisch zugänglich machen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Art. 8 auch praktisch zugänglich machen

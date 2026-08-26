@@ -1,6 +1,6 @@
 ---
 name: ins-035-krypto-token
-description: "Wenn es um Insiderrecht: Krypto-Token in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insiderrecht: Krypto-Token: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Krypto-Token

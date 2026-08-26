@@ -1,6 +1,6 @@
 ---
 name: tatbestand-zivil-schreiben
-description: "Wenn es um Tatbestand schreiben in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tatbestand Zivil Schreiben; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Tatbestand schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Tatbestand schreiben

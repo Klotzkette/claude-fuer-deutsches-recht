@@ -1,6 +1,6 @@
 ---
 name: parteivortrag-gegenueberstellung
-description: "Wenn es um Parteivortrag — Gegenüberstellung in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parteivortrag — Gegenüberstellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parteivortrag — Gegenüberstellung

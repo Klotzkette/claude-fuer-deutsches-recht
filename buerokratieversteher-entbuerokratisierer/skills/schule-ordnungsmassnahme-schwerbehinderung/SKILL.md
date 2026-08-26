@@ -1,6 +1,6 @@
 ---
 name: schule-ordnungsmassnahme-schwerbehinderung
-description: "Wenn es um Schule Ordnungsmaßnahme in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schule Ordnungsmaßnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schule Ordnungsmaßnahme

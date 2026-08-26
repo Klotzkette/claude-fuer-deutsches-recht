@@ -1,6 +1,6 @@
 ---
 name: gemeinsame-sorge-kindeswohlpruefung
-description: "Prüft gemeinsame elterliche Sorge und einzelne Konfliktfelder anhand der jeweils richtigen Eingriffsnorm. Unterscheidet Paragrafen 1626a, 1628 und 1671 BGB, strukturiert Kindeswohlkriterien und Amtsermittlung und erstellt Antrag, Tatsachenmatrix und kindgerechten Anhörungsplan ohne schematische Altersgrenzen."
+description: "Prüft gemeinsame elterliche Sorge und einzelne Konfliktfelder anhand der jeweils richtigen Eingriffsnorm."
 ---
 
 # Gemeinsame Sorge und Kindeswohl prüfen

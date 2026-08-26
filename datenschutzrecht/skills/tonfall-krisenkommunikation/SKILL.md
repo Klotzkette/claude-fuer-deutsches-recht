@@ -1,6 +1,6 @@
 ---
 name: tonfall-krisenkommunikation
-description: "Wenn es um Tonfall und Sprache in der Krisenkommunikation nach Datenschutzvorfall in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tonfall und Sprache in der Krisenkommunikation nach Datenschutzvorfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tonfall und Sprache in der Krisenkommunikation nach Datenschutzvorfall
@@ -49,3 +49,7 @@ Reasoning vor Conclusion: erst Beschreibung der Lage; dann Bewertung; dann Empfe
 
 - `dsv-pressemitteilung-krisenkommunikation` deckt die Pressemitteilung ab.
 - `dsv-benachrichtigung-art-34-betroffene` deckt das Anschreiben ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-tonfall-krisenkommunikation` beziehungsweise Bestimmt den richtigen Tonfall und die Sprachregelung in der Krisenkommunikation nach einem Datenschutzvorfall: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-tonfall-krisenkommunikation.md).

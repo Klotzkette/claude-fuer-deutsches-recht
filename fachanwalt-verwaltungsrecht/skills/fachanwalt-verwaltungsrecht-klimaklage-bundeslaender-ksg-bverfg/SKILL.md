@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg
-description: "Wenn es um Klimaklage gegen Bundesländer — KSG / BVerfG 2021 in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klimaklage gegen Bundesländer — KSG / BVerfG 2021: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klimaklage gegen Bundesländer — KSG / BVerfG 2021

@@ -1,6 +1,6 @@
 ---
 name: forensische-erstsicherung
-description: "Wenn es um Forensische Erstsicherung — Beauftragung und Steuerung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Forensische Erstsicherung — Beauftragung und Steuerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forensische Erstsicherung — Beauftragung und Steuerung
@@ -47,3 +47,7 @@ Schnittstellen: Versicherung; Aufsichtsbehörde; Strafverfolgung.
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-forensische-erstsicherung` beziehungsweise Steuert die forensische Erstsicherung nach einem Datenschutzvorfall im Zusammenspiel zwischen Mandant, interner IT, externem Forensiker und Anwaltskanzlei: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-forensische-erstsicherung.md).

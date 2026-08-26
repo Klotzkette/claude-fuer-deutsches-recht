@@ -1,6 +1,6 @@
 ---
 name: chn-006-lieferantenmapping-tier-1-bis-tier-n
-description: "Wenn es um Lieferantenmapping Tier 1 Bis Tier N in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lieferantenmapping Tier 1 bis Tier N: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lieferantenmapping Tier 1 Bis Tier N

@@ -1,6 +1,6 @@
 ---
 name: fachberaterbezeichnung-kaltstart-und-faktenmatrix
-description: "Wenn es um Fachberaterbezeichnung Kaltstart Und Faktenmatrix in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachberaterbezeichnung Kaltstart und Faktenmatrix: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: fachberaterbezeichnung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: eu-mittel-risiko-markieren
-description: "Wenn es um Eu Mittel Risiko Markieren in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eu Mittel Risiko Markieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Eu Mittel Risiko Markieren

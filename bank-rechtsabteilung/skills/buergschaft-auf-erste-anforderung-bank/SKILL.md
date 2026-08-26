@@ -1,6 +1,6 @@
 ---
 name: buergschaft-auf-erste-anforderung-bank
-description: "Wenn es um Bürgschaft auf erste Anforderung in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bürgschaft auf erste Anforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bürgschaft auf erste Anforderung

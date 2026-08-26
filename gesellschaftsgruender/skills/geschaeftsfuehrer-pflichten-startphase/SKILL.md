@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrer-pflichten-startphase
-description: "Wenn es um Erste 100 Tage Geschäftsführer-Pflichten in gesellschaftsgründer — Gründungsassistent für deutsche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Erste 100 Tage Geschäftsführer-Pflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erste 100 Tage Geschäftsführer-Pflichten

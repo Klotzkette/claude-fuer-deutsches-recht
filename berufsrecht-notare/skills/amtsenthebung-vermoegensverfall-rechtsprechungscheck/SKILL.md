@@ -1,6 +1,6 @@
 ---
 name: amtsenthebung-vermoegensverfall-rechtsprechungscheck
-description: "Wenn es um Amtsenthebung Vermoegensverfall Rechtsprechungscheck in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Amtsenthebung Vermögensverfall Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: amtsenthebung vermögensverfall - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

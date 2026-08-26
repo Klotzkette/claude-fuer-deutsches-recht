@@ -1,6 +1,6 @@
 ---
 name: energievertrag-und-abschlag
-description: "Wenn es um Energievertrag Und Abschlag in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energievertrag und Abschlag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energievertrag Und Abschlag

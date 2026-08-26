@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-empirie-nutzen
-description: "Wenn es um Strafr Dysfunk Empirie Nutzen in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafr Dysfunk Empirie Nutzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Empirische Datenlage zur Strafverteidigungspraxis als Argument gegen den Pauschalvorwurf einsetzen

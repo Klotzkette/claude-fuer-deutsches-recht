@@ -1,6 +1,6 @@
 ---
 name: geheimhaltung-nda-vertraulichkeit
-description: "Wenn es um Geheimhaltung, NDA und Vertraulichkeit in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Geheimhaltung, NDA und Vertraulichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geheimhaltung, NDA und Vertraulichkeit

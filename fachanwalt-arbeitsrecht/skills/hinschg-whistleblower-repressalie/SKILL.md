@@ -1,6 +1,6 @@
 ---
 name: hinschg-whistleblower-repressalie
-description: "Wenn es um Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber

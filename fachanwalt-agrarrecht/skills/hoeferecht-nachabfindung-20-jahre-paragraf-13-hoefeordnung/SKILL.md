@@ -1,6 +1,6 @@
 ---
 name: hoeferecht-nachabfindung-20-jahre-paragraf-13-hoefeordnung
-description: "Prüft Nachabfindungsansprüche nach HöfeO Paragraf 13 bei Veräußerung, Teilverkauf, Gesellschaftseinbringung, Zwangsversteigerung, Enteignung oder gewinnbringender Nutzungsänderung innerhalb von zwanzig Jahren. Berechnet Erlös, Erbquote, Vorabfindung, Ersatzbeschaffung, Abgaben, Eigenleistung und Zeitabschläge und liefert Auskunftsverlangen oder Erwiderung."
+description: "Prüft Nachabfindungsansprüche nach HöfeO Paragraf 13 bei Veräußerung, Teilverkauf, Gesellschaftseinbringung, Zwangsversteigerung, Enteignung oder gewinnbringender Nutzungsänderung innerhalb von zwanzig Jahren."
 ---
 
 # Nachabfindung nach HöfeO Paragraf 13

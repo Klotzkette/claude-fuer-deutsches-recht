@@ -1,6 +1,6 @@
 ---
 name: berichtigungspflicht-153-ao-rechtsprechungscheck
-description: "Wenn es um Berichtigungspflicht 153 Ao Rechtsprechungscheck in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Berichtigungspflicht 153 AO Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: berichtigungspflicht 153 ao - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

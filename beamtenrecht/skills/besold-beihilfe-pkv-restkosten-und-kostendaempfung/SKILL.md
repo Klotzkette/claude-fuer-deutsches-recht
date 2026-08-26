@@ -1,6 +1,6 @@
 ---
 name: besold-beihilfe-pkv-restkosten-und-kostendaempfung
-description: "Wenn es um Besold Beihilfe Pkv Restkosten Und Kostendaempfung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besold Beihilfe Pkv Restkosten und Kostendämpfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besold Beihilfe Pkv Restkosten Und Kostendaempfung

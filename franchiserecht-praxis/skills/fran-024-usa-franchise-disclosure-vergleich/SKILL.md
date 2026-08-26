@@ -1,6 +1,6 @@
 ---
 name: fran-024-usa-franchise-disclosure-vergleich
-description: "Wenn es um Franchiserecht: USA Franchise Disclosure Vergleich in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: USA Franchise Disclosure Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Franchiserecht: USA Franchise Disclosure Vergleich

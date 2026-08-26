@@ -1,6 +1,6 @@
 ---
 name: notariat-003-grundstueckskauf-vollzug-kaufpreis-vormerkung
-description: "Wenn es um Notariat 003 Grundstueckskauf Vollzug Kaufpreis Vormerkung in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat 003 Grundstückskauf Vollzug Kaufpreis Vormerkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Grundstückskauf Vollzugsvoraussetzungen Kaufpreisfaelligkeit Auflassungsvormerkung

@@ -1,6 +1,6 @@
 ---
 name: verl-004-manuskriptablieferung-abnahme-lektorat-und-verzug
-description: "Wenn es um Verlagsrecht: Manuskriptablieferung Abnahme Lektorat und Verzug in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Manuskriptablieferung Abnahme Lektorat und Verzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Manuskriptablieferung Abnahme Lektorat und Verzug

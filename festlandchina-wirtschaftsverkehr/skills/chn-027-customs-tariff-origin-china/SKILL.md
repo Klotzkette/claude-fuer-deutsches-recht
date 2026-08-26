@@ -1,6 +1,6 @@
 ---
 name: chn-027-customs-tariff-origin-china
-description: "Wenn es um Customs Tariff Origin China in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Customs Tariff Origin China: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Customs Tariff Origin China

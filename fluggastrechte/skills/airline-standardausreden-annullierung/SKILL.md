@@ -1,6 +1,6 @@
 ---
 name: airline-standardausreden-annullierung
-description: "Wenn es um Airline-Standardausreden — Katalog und Gegenargumente in Fluggastrechte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Airline Standardausreden Annullierung; Arbeitsfeld: Fluggastrechte."
+description: "Für Airline-Standardausreden — Katalog und Gegenargumente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fluggastrechte. Route: airline-standardausreden-annullierung."
 ---
 
 # Airline-Standardausreden — Katalog und Gegenargumente

@@ -1,6 +1,6 @@
 ---
 name: de-facto-vergabe-135-gwb-fristen
-description: "Wenn es um De Facto Vergabe 135 Gwb Fristen in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für De Facto Vergabe 135 GWB Fristen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft prüfen: fehlende Bekanntmachung, unzulaessige Direktvergabe, 30-Tage/6-Monats-Fristen und Antraege.

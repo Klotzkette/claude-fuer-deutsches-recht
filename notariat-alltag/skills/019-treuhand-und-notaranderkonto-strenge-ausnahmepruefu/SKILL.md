@@ -1,6 +1,6 @@
 ---
 name: 019-treuhand-und-notaranderkonto-strenge-ausnahmepruefu
-description: "Wenn es um Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung

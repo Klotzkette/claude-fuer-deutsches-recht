@@ -1,6 +1,6 @@
 ---
 name: personenrecht-kuriositaeten-im-alr
-description: "Wenn es um Pralr Personenrecht Kuriositaeten Im Alr in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Personenrecht Kuriositaeten Im Alr; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Personenrecht Kuriositäten im Alr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: personenrecht-kuriositaeten-im-alr."
 ---
 
 # Pralr Personenrecht Kuriositaeten Im Alr

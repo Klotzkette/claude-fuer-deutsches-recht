@@ -1,6 +1,6 @@
 ---
 name: vollstaendigen-tatbestand-beweis-und-belege
-description: "Wenn es um Vollstaendigen: Tatbestandsmerkmale, Beweisfragen und Beleglage in Wandeldarlehen-Lebenszyklus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Vollständigen: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Vollstaendigen: Tatbestandsmerkmale, Beweisfragen und Beleglage

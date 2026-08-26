@@ -1,6 +1,6 @@
 ---
 name: update-change-control
-description: "Wenn es um Update und Change Control in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Update Change Control; Arbeitsfeld: robotik-recht."
+description: "Für Update und Change Control: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: update-change-control."
 ---
 
 # Update und Change Control

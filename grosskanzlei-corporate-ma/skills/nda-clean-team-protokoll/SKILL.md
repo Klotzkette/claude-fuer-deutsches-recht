@@ -1,6 +1,6 @@
 ---
 name: nda-clean-team-protokoll
-description: "Wenn es um Nda Clean Team Protokoll in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nda Clean Team Protokoll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA- und Clean-Team-Protokoll für Bieterprozesse: prüft Vertraulichkeit, kartellrechtliche Informationsgrenzen, Clean-Room-Zugang, Datenklassifikation und Prozessdisziplin.

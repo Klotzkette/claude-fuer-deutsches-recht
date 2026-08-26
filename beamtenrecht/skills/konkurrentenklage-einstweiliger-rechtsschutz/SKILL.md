@@ -1,6 +1,6 @@
 ---
 name: konkurrentenklage-einstweiliger-rechtsschutz
-description: "Wenn es um Konkurrentenklage — einstweiliger Rechtsschutz nach Paragraf 123 VwGO in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Konkurrentenklage — einstweiliger Rechtsschutz nach Paragraf 123 VwGO: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Konkurrentenklage — einstweiliger Rechtsschutz nach § 123 VwGO

@@ -1,6 +1,6 @@
 ---
 name: finance-close-monthly
-description: "Wenn es um Monatsabschluss Kanzlei in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Monatsabschluss Kanzlei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Monatsabschluss Kanzlei

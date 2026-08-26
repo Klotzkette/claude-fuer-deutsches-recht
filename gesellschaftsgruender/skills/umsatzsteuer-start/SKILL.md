@@ -1,6 +1,6 @@
 ---
 name: umsatzsteuer-start
-description: "Wenn es um Umsatzsteuer Start in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umsatzsteuer Start: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Umsatzsteuer Start

@@ -1,6 +1,6 @@
 ---
 name: bdsg-tatbestand-beweis-und-belege
-description: "Wenn es um Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für BDSG: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Datenschutzrecht. Route: bdsg-tatbestand-beweis-und-belege."
 ---
 
 # Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage

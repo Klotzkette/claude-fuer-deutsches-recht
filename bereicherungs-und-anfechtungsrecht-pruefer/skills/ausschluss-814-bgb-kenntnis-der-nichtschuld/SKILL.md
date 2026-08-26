@@ -1,6 +1,6 @@
 ---
 name: ausschluss-814-bgb-kenntnis-der-nichtschuld
-description: "Wenn es um Ausschluss nach Paragraf 814 BGB — Kenntnis der Nichtschuld in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausschluss nach Paragraf 814 BGB — Kenntnis der Nichtschuld: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausschluss nach § 814 BGB — Kenntnis der Nichtschuld

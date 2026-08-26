@@ -1,6 +1,6 @@
 ---
 name: registrierungspflicht-schenkungen-sponsoring
-description: "Wenn es um Registrierungspflicht und Schwellen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Registrierungspflicht und Schwellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Registrierungspflicht und Schwellen

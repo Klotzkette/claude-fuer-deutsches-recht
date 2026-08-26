@@ -1,6 +1,6 @@
 ---
 name: do-versicherung-manager-haftung
-description: "Wenn es um D&O-Versicherung bei Manager-Haftung in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für D&O-Versicherung bei Manager-Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # D&O-Versicherung bei Manager-Haftung

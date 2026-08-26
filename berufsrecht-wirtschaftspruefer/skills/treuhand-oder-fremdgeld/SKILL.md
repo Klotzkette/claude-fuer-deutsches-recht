@@ -1,6 +1,6 @@
 ---
 name: treuhand-oder-fremdgeld
-description: "Wenn es um Treuhand oder Fremdgeld in Berufsrecht Wirtschaftsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Treuhand oder Fremdgeld: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Berufsrecht Wirtschaftsprüfer."
 ---
 
 # Treuhand oder Fremdgeld

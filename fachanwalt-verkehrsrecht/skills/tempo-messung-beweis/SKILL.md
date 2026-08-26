@@ -1,6 +1,6 @@
 ---
 name: tempo-messung-beweis
-description: "Wenn es um Mandant bestreitet korrekte Geschwindigkeitsmessung in Bußgeldbescheid in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandant bestreitet korrekte Geschwindigkeitsmessung in Bußgeldbescheid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Mandant bestreitet korrekte Geschwindigkeitsmessung in Bußgeldbescheid

@@ -1,6 +1,6 @@
 ---
 name: interne-ermittlung-und-reporting-rechtsprech
-description: "Wenn es um Interne Ermittlung Und Reporting Rechtsprech in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Interne Ermittlung und Reporting Rechtsprech: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: interne ermittlung und reporting - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

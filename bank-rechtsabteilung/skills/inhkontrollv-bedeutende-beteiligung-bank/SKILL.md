@@ -1,6 +1,6 @@
 ---
 name: inhkontrollv-bedeutende-beteiligung-bank
-description: "Wenn es um InhKontrollV: Bedeutende Beteiligung an Banken in Bank-Rechtsabteilung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für InhKontrollV: Bedeutende Beteiligung an Banken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # InhKontrollV: Bedeutende Beteiligung an Banken

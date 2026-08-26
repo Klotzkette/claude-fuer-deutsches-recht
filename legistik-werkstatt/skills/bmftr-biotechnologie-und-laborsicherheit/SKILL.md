@@ -1,6 +1,6 @@
 ---
 name: bmftr-biotechnologie-und-laborsicherheit
-description: "Wenn es um Biotechnologie und Laborsicherheit (BMFTR) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Biotechnologie und Laborsicherheit (BMFTR): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Biotechnologie und Laborsicherheit (BMFTR)

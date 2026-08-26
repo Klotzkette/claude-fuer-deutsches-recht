@@ -1,6 +1,6 @@
 ---
 name: e-mail-fernabsatzvertrag-312c
-description: "Wenn es um E-Mail Bestellbestätigung Vertragsschluss in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für E-Mail Bestellbestätigung Vertragsschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E-Mail Bestellbestätigung Vertragsschluss

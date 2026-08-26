@@ -1,6 +1,6 @@
 ---
 name: vergleich-und-sanierung-nach-incident
-description: "Wenn es um Vergleich und Sanierung nach Incident in robotik-recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich und Sanierung nach Incident: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleich und Sanierung nach Incident

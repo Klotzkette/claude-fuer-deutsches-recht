@@ -1,6 +1,6 @@
 ---
 name: oepp-struktur-pruefen
-description: "Wenn es um Oepp Struktur Prüfen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ÖPP Struktur Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Öffentliches Wirtschaftsrecht. Route: oepp-struktur-pruefen."
 ---
 
 # Oepp Struktur Prüfen

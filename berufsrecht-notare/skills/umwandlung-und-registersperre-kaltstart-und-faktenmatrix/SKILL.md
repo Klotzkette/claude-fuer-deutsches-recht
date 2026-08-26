@@ -1,6 +1,6 @@
 ---
 name: umwandlung-und-registersperre-kaltstart-und-faktenmatrix
-description: "Wenn es um Umwandlung Und Registersperre Kaltstart Und Faktenmatrix in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umwandlung und Registersperre Kaltstart und Faktenmatrix: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Notare: umwandlung und registersperre - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

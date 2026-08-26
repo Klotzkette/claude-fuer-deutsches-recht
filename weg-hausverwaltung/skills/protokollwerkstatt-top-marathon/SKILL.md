@@ -1,6 +1,6 @@
 ---
 name: protokollwerkstatt-top-marathon
-description: "Wenn es um Protokollwerkstatt für TOP-Marathons in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Protokollwerkstatt für TOP-Marathons: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Protokollwerkstatt für TOP-Marathons

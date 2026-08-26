@@ -1,6 +1,6 @@
 ---
 name: anlagen-bei-berufung-revision
-description: "Wenn es um Anlagen in Berufung/Revision in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anlagen in Berufung/Revision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagen in Berufung/Revision

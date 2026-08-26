@@ -1,6 +1,6 @@
 ---
 name: actio-pauliana-voraussetzungen-und-beweisrecht
-description: "Wenn es um Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Actio Pauliana Voraussetzungen Und Beweisrecht; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 116 Actio Pauliana Voraussetzungen und Beweisrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht

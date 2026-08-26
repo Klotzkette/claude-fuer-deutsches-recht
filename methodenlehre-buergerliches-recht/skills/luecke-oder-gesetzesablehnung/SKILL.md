@@ -1,6 +1,6 @@
 ---
 name: luecke-oder-gesetzesablehnung
-description: "Wenn es um Lücke oder Gesetzesablehnung: Methodische Unterscheidung in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Lücke oder Gesetzesablehnung: Methodische Unterscheidung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lücke oder Gesetzesablehnung: Methodische Unterscheidung

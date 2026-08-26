@@ -1,6 +1,6 @@
 ---
 name: golden-share-und-vetorechte
-description: "Wenn es um Golden Share und Sondervetorechte in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Golden Share und Sondervetorechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Golden Share und Sondervetorechte

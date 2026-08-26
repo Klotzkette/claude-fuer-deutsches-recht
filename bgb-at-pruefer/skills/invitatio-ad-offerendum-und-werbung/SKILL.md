@@ -1,6 +1,6 @@
 ---
 name: invitatio-ad-offerendum-und-werbung
-description: "Wenn es um Invitatio ad offerendum und Werbung — Angebot oder Aufforderung? in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Invitatio ad offerendum und Werbung — Angebot oder Aufforderung?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Invitatio ad offerendum und Werbung — Angebot oder Aufforderung?

@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte-neu-code-civil-rheinisches-recht-bremer
-description: "Wenn es um Deutsche Rechtsgeschichte: 001 Code Civil Linksrheinische Gebiete Bis Bgb in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: 001 Code Civil Linksrheinische Gebiete bis BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: 001 Code Civil Linksrheinische Gebiete Bis Bgb

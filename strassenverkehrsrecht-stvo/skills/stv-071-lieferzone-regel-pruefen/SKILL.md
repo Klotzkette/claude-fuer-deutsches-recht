@@ -1,6 +1,6 @@
 ---
 name: stv-071-lieferzone-regel-pruefen
-description: "Wenn es um Lieferzone Regel Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lieferzone Regel Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenverkehrsrecht StVO. Route: stv-071-lieferzone-regel-pruefen."
 ---
 
 # Lieferzone Regel Pruefen

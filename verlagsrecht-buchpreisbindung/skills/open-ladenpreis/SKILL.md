@@ -1,6 +1,6 @@
 ---
 name: open-ladenpreis
-description: "Wenn es um Verl-008 · Open Access, Creative Commons und Verlagspolitik in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-008 · Open Access, Creative Commons und Verlagspolitik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-008 · Open Access, Creative Commons und Verlagspolitik

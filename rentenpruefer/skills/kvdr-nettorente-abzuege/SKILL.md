@@ -1,6 +1,6 @@
 ---
 name: kvdr-nettorente-abzuege
-description: "Wenn es um KVdR Nettorente Abzüge in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für KVdR Nettorente Abzüge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KVdR Nettorente Abzüge

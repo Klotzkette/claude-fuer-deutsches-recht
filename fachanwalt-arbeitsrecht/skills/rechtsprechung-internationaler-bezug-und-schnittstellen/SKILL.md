@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-internationaler-bezug-und-schnittstellen
-description: "Wenn es um Rechtsprechung Internationaler Bezug Und Schnittstellen in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsprechung Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationaler Bezug im Arbeitsrecht: EuGH-Rechtsprechung (Massenentlassung, Befristung, Diskriminierung, Urlaub), EU-Richtlinien (RL 2023/970, RL 2001/23, RL 2008/94, RL 2003/88), Entsendung AEntG, internationales Privatrecht Rom I.
@@ -99,3 +99,7 @@ Entsendendes Unternehmen muss Entsendung bei der ZKA (Zentrale Kontrolle der Sch
 ## Was dieser Arbeitsgang nicht macht
 - Keine umfassende Beratung zu internationalem Arbeitsrecht in Drittstaaten (USA, Großbritannien etc.).
 - Keine Prüfung von Sozialversicherungs-Entsenderecht (A1-Bescheinigung, Entsende-SV-Koordinierung).
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-rechtsprechung-internationaler-bezug-und-schnittstellen` beziehungsweise Rechtsprechung: Internationaler Bezug und Schnittstellen: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-rechtsprechung-internationaler-bezug-und-schnittstellen.md).

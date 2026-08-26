@@ -1,6 +1,6 @@
 ---
 name: plan-planvollzug-monitoring
-description: "Wenn es um IV-integrierte Planvollzug und Monitoring in Insolvenzverwaltung - IV-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für IV-integrierte Planvollzug und Monitoring: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IV-integrierte Planvollzug und Monitoring

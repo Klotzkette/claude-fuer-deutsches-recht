@@ -1,6 +1,6 @@
 ---
 name: green-claims-haptik-tastmarke-keyword
-description: "Wenn es um Green Claims und Nachhaltigkeitsmarken in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Green Claims und Nachhaltigkeitsmarken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Green Claims und Nachhaltigkeitsmarken

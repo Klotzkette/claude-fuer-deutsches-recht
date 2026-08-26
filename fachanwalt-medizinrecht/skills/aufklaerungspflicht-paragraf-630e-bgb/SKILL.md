@@ -1,6 +1,6 @@
 ---
 name: aufklaerungspflicht-paragraf-630e-bgb
-description: "Wenn es um Aufklaerungspflicht Paragraf 630e BGB in Fachanwalt Medizinrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufklärungspflicht Paragraf 630e BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufklaerungspflicht § 630e BGB

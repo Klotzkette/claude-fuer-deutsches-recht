@@ -1,6 +1,6 @@
 ---
 name: kommunikation-familie-kosten-auslagen
-description: "Wenn es um Kommunikation mit Familie in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunikation mit Familie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunikation mit Familie

@@ -1,6 +1,6 @@
 ---
 name: konzernabschluss-auslandskomponente
-description: "Wenn es um Konzernabschluss Auslandskomponente in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Konzernabschluss Auslandskomponente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wirtschaftsprüfer: konzernabschluss auslandskomponente - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

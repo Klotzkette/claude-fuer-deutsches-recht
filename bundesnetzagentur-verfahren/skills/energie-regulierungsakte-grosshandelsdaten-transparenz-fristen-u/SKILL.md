@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-grosshandelsdaten-transparenz-fristen-u
-description: "Wenn es um Energie-Regulierungsakte: Großhandelsdaten Transparenz — Fristen- und Bescheidanalyse in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energie-Regulierungsakte: Großhandelsdaten Transparenz — Fristen- und Bescheidanalyse: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Energie-Regulierungsakte: Großhandelsdaten Transparenz — Fristen- und Bescheidanalyse

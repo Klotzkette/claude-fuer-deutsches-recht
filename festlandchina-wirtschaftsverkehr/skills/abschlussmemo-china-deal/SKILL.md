@@ -1,6 +1,6 @@
 ---
 name: abschlussmemo-china-deal
-description: "Wenn es um Abschluss-Memo China-Deal: Signing/Closing-Checkliste in China-Wirtschaftsverkehr geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Abschluss-Memo China-Deal: Signing/Closing-Checkliste: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Abschluss-Memo China-Deal: Signing/Closing-Checkliste

@@ -1,6 +1,6 @@
 ---
 name: ohg-begriff-und-entstehung-paragraph-105
-description: "Wenn es um OHG Begriff und Entstehung Paragraf 105 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für OHG Begriff und Entstehung Paragraf 105 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # OHG Begriff und Entstehung § 105 HGB

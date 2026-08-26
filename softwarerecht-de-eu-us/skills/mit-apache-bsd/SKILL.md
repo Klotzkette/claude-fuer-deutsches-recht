@@ -1,6 +1,6 @@
 ---
 name: mit-apache-bsd
-description: "Wenn es um MIT Apache BSD in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für MIT Apache BSD: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MIT Apache BSD

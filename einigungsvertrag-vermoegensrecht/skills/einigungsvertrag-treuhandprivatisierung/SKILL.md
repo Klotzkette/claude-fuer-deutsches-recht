@@ -1,6 +1,6 @@
 ---
 name: einigungsvertrag-treuhandprivatisierung
-description: "Wenn es um Treuhandprivatisierung Akte Anfordern in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Treuhandprivatisierung Akte Anfordern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuhandprivatisierung Akte Anfordern

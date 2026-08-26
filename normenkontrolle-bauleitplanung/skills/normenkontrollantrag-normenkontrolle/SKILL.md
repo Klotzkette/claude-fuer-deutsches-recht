@@ -1,6 +1,6 @@
 ---
 name: normenkontrollantrag-normenkontrolle
-description: "Wenn es um Normenkontrollantrag — Schriftsatz in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Normenkontrollantrag Normenkontrolle; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
+description: "Für Normenkontrollantrag — Schriftsatz: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Normenkontrollantrag — Schriftsatz

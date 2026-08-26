@@ -1,6 +1,6 @@
 ---
 name: fentanyl-bauen-akteneinsicht-vorbereiten
-description: "Wenn es um Fentanyl Compliance Bauen in Betäubungsmittelrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Fentanyl Compliance Bauen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fentanyl Compliance Bauen

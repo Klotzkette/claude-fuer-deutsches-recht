@@ -1,6 +1,6 @@
 ---
 name: internationaler-patentrechts-und-laendercheck
-description: "Wenn es um Internationaler Patent- und Ländercheck in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Internationaler Patent- und Ländercheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationaler Patent- und Ländercheck

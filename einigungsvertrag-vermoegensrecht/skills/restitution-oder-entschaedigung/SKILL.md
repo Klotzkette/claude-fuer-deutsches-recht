@@ -1,6 +1,6 @@
 ---
 name: restitution-oder-entschaedigung
-description: "Wenn es um Restitution Oder Entschaedigung in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Restitution oder Entschädigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Restitution Oder Entschaedigung

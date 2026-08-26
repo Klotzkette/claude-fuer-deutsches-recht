@@ -1,6 +1,6 @@
 ---
 name: aktenzugang-geschaeftsgeheimnisse-schwaerzung
-description: "Wenn es um Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-kcang-strafvorschriften-34-35-kcang
-description: "Wenn es um Strafrecht Spezial Kcang Strafvorschriften 34 35 Kcang in Fachanwalt Strafrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Strafrecht Spezial Kcang Strafvorschriften 34 35 Kcang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafvorschriften KCanG: § 34 KCanG Grundtatbestand (unerlaubter Anbau, Besitz, Handel über Schwellen), § 35 KCanG nicht geringe Menge und Qualifikationen

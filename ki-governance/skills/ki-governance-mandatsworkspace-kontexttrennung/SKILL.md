@@ -1,6 +1,6 @@
 ---
 name: ki-governance-mandatsworkspace-kontexttrennung
-description: "Wenn es um digitale Werkzeuge-Governance-Mandatsworkspace und Kontexttrennung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für digitale Werkzeuge-Governance-Mandatsworkspace und Kontexttrennung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 
 ---
 

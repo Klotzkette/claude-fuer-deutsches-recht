@@ -1,6 +1,6 @@
 ---
 name: staedtebaulicher-vertrag-grundlagen-11-baugb
-description: "Wenn es um Städtebaulicher Vertrag: Grundlagen nach BauGB Paragraf 11 in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Städtebaulicher Vertrag: Grundlagen nach BauGB Paragraf 11: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Städtebaulicher Vertrag: Grundlagen nach BauGB Paragraf 11

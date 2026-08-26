@@ -1,6 +1,6 @@
 ---
 name: kanzlei-rechtsprechungsrecherche-fristenbuch
-description: "Wenn es um Rechtsprechungsrecherche und Fundstellenablage in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsprechungsrecherche und Fundstellenablage: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Rechtsprechungsrecherche und Fundstellenablage

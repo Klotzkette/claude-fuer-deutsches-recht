@@ -1,6 +1,6 @@
 ---
 name: stberg-vereinbare-taetigkeit
-description: "Wenn es um Vereinbare Taetigkeiten Steuerberater — Paragraf 57 Abs. 3 StBerG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Vereinbare Tätigkeiten Steuerberater — Paragraf 57 Abs. 3 StBerG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vereinbare Taetigkeiten Steuerberater — § 57 Abs. 3 StBerG

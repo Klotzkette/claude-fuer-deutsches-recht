@@ -1,6 +1,6 @@
 ---
 name: landespressegesetz-drittanhoerung-begl-widerspruch-bauen
-description: "Wenn es um Landespressegesetz Drittanhoerung Begl in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landespressegesetz Drittanhörung Begl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landespressegesetz Drittanhoerung Begl

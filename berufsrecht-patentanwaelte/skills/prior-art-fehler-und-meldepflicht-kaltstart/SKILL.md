@@ -1,6 +1,6 @@
 ---
 name: prior-art-fehler-und-meldepflicht-kaltstart
-description: "Wenn es um Prior Art Fehler Und Meldepflicht Kaltstart in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prior Art Fehler und Meldepflicht Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: prior art fehler und meldepflicht - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

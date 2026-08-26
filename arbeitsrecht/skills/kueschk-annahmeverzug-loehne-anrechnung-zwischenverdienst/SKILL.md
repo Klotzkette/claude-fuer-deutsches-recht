@@ -1,6 +1,6 @@
 ---
 name: kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst
-description: "Wenn es um Annahmeverzugslohn nach Paragraf 615 BGB und Paragraf 11 KSchG in Arbeitsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Annahmeverzugslohn nach Paragraf 615 BGB und Paragraf 11 KSchG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Annahmeverzugslohn nach Paragraf 615 BGB und Paragraf 11 KSchG

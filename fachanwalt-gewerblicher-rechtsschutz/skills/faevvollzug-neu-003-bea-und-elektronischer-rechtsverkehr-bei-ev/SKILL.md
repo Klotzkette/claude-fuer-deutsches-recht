@@ -1,6 +1,6 @@
 ---
 name: faevvollzug-neu-003-bea-und-elektronischer-rechtsverkehr-bei-ev
-description: "Wenn es um Faevvollzug Neu 003 Bea Und Elektronischer Rechtsverkehr Bei Ev in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Faevvollzug Neu 003 Bea und Elektronischer Rechtsverkehr bei Ev: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # BeA und elektronischer Rechtsverkehr bei EV-Zustellung: ERVV, § 130a ZPO, sichere Übermittlungswege, qualifizierte elektronische Signatur, Einreichung über beA bei einstweiligen Verfügungen im gewerblichen Rechtsschutz.

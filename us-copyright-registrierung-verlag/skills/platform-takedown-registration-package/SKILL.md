@@ -1,6 +1,6 @@
 ---
 name: platform-takedown-registration-package
-description: "Wenn es um Platform Takedown Registration Package in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Platform Takedown Registration Package: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Platform Takedown Registration Package

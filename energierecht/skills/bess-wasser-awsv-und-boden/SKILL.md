@@ -1,6 +1,6 @@
 ---
 name: bess-wasser-awsv-und-boden
-description: "Wenn es um Wasser, AwSV, Boden und Havarie in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wasser, AwSV, Boden und Havarie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wasser, AwSV, Boden und Havarie

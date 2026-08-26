@@ -1,6 +1,6 @@
 ---
 name: kirk-fortbildung-pflicht-spezial
-description: "Wenn es um KIRK: Fortbildung digitale Werkzeuge-Pflicht in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für KIRK: Fortbildung digitale Werkzeuge-Pflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KIRK: Fortbildung KI-Pflicht

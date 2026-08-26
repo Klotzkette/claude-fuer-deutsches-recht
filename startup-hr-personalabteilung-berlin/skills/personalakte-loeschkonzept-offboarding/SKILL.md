@@ -1,6 +1,6 @@
 ---
 name: personalakte-loeschkonzept-offboarding
-description: "Wenn es um Personalakte Loeschkonzept Offboarding in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Personalakte Löschkonzept Offboarding: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personalakte Loeschkonzept Offboarding

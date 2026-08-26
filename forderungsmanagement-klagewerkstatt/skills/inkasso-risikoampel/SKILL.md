@@ -1,6 +1,6 @@
 ---
 name: inkasso-risikoampel
-description: "Wenn es um Inkasso-Risikoampel in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Inkasso-Risikoampel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Inkasso-Risikoampel

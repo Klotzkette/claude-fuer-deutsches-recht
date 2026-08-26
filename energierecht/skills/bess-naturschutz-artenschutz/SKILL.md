@@ -1,6 +1,6 @@
 ---
 name: bess-naturschutz-artenschutz
-description: "Wenn es um Naturschutz, Artenschutz und Flächenkonkurrenz in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Naturschutz, Artenschutz und Flächenkonkurrenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Naturschutz, Artenschutz und Flächenkonkurrenz

@@ -1,6 +1,6 @@
 ---
 name: spezial-monitoring-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Monitoring: Livequellen- und Rechtsprechungscheck in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Monitoring: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Monitoring: Livequellen- und Rechtsprechungscheck

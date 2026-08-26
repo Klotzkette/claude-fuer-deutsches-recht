@@ -1,6 +1,6 @@
 ---
 name: vertretungsbefugnis-vor-patentgericht-kammerantwort
-description: "Wenn es um Vertretungsbefugnis Vor Patentgericht Kammerantwort in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vertretungsbefugnis vor Patentgericht Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: vertretungsbefugnis vor patentgericht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

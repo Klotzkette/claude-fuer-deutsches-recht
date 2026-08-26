@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-nichtbefoerderung
-description: "Wenn es um Schadensersatz wegen Nichtbefoerderung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schadensersatz wegen Nichtbeförderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schadensersatz wegen Nichtbefoerderung

@@ -1,6 +1,6 @@
 ---
 name: pruefungsbescheid-vorbereiten
-description: "Wenn es um prüfungsbescheid-vorbereiten in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für prüfungsbescheid-vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # prüfungsbescheid-vorbereiten

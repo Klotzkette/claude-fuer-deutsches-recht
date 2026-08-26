@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-antwort-muster-erstantwort-spam
-description: "Wenn es um Mehrsprachige-Antwort in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mehrsprachige-Antwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mehrsprachige-Antwort

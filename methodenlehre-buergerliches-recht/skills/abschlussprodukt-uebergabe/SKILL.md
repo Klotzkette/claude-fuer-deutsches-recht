@@ -1,6 +1,6 @@
 ---
 name: abschlussprodukt-uebergabe
-description: "Wenn es um Bürgerliches Abschlussprodukt und Übergabe in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bürgerliches Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Methodenlehre bürgerliches Recht. Route: abschlussprodukt-uebergabe."
 ---
 
 # Bürgerliches Abschlussprodukt und Übergabe

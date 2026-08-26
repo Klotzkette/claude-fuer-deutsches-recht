@@ -1,6 +1,6 @@
 ---
 name: startup-ip-uebersetzung
-description: "Wenn es um Startup Ip Uebersetzung in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Startup Ip Übersetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: startup ip budget warnung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

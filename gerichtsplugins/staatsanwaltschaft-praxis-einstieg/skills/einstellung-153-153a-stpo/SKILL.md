@@ -1,6 +1,6 @@
 ---
 name: einstellung-153-153a-stpo
-description: "Wenn es um Einstellung nach Paragrafen 153 und 153a StPO in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Einstellung nach Paragrafen 153 und 153a StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstellung nach Paragrafen 153 und 153a StPO

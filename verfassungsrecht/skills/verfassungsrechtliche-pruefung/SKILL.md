@@ -1,6 +1,6 @@
 ---
 name: verfassungsrechtliche-pruefung
-description: "Wenn es um Verfassungsrechtliche Prüfung — Master-Workflow in verfassungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verfassungsrechtliche Prüfung — Master-Workflow: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Verfassungsrechtliche Prüfung — Master-Workflow

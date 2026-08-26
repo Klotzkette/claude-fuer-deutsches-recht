@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-warenbestand-inventur
-description: "Wenn es um Warenbestand und Inventur in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Warenbestand und Inventur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Warenbestand und Inventur

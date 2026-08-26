@@ -1,6 +1,6 @@
 ---
 name: mandat-arbeitsbereich
-description: "Wenn es um /mandat-arbeitsbereich in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für /mandat-arbeitsbereich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /mandat-arbeitsbereich

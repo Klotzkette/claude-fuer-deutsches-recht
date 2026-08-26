@@ -1,6 +1,6 @@
 ---
 name: goae-5a-bemessung-im-basistarif
-description: "Wenn es um GOÄ Paragraf 5a Bemessung im Basistarif in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für GOÄ Paragraf 5a Bemessung im Basistarif: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GOÄ § 5a Bemessung im Basistarif

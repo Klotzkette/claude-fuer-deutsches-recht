@@ -1,6 +1,6 @@
 ---
 name: fusion-bauleitplanung-starnberger-see
-description: "Wenn es um Fusion: Bauleitplanung am Starnberger See in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fusion: Bauleitplanung am Starnberger See: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fusion: Bauleitplanung am Starnberger See

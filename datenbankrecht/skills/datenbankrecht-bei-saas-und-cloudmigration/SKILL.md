@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-bei-saas-und-cloudmigration
-description: "Wenn es um Datenbankrecht bei SaaS und Cloud-Migration — Inhaberschaft und Datenmitnahme in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht bei SaaS und Cloud-Migration — Inhaberschaft und Datenmitnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht bei SaaS und Cloud-Migration — Inhaberschaft und Datenmitnahme

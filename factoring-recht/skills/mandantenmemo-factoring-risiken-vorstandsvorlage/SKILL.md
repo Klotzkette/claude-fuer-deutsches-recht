@@ -1,6 +1,6 @@
 ---
 name: mandantenmemo-factoring-risiken-vorstandsvorlage
-description: "Wenn es um Mandantenmemo Factoring-Risiken Vorstandsvorlage in Factoring-Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mandantenmemo Factoring-Risiken Vorstandsvorlage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mandantenmemo Factoring-Risiken Vorstandsvorlage

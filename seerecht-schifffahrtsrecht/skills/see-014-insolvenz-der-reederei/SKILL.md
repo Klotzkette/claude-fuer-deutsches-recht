@@ -1,6 +1,6 @@
 ---
 name: see-014-insolvenz-der-reederei
-description: "Wenn es um Insolvenz Der Reederei in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenz der Reederei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenz Der Reederei

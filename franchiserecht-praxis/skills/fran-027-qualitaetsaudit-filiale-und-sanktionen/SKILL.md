@@ -1,6 +1,6 @@
 ---
 name: fran-027-qualitaetsaudit-filiale-und-sanktionen
-description: "Wenn es um Franchiserecht: Qualitätsaudit Filiale und Sanktionen in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Qualitätsaudit Filiale und Sanktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Franchiserecht: Qualitätsaudit Filiale und Sanktionen

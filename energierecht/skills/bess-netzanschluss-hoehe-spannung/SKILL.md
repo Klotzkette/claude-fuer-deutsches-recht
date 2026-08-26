@@ -1,6 +1,6 @@
 ---
 name: bess-netzanschluss-hoehe-spannung
-description: "Wenn es um Netzanschluss: Hochspannung, Umspannwerk und Kapazität in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Netzanschluss: Hochspannung, Umspannwerk und Kapazität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Netzanschluss: Hochspannung, Umspannwerk und Kapazität

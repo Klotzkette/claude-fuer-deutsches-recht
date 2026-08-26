@@ -1,6 +1,6 @@
 ---
 name: verfassungstreue-7-bbg-reichsbuerger
-description: "Wenn es um Verfassungstreue Beamte — Reichsbuerger und Extremismus in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfassungstreue Beamte — Reichsbürger und Extremismus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verfassungstreue Beamte — Reichsbuerger und Extremismus

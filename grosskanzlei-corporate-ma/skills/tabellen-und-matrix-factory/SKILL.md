@@ -1,6 +1,6 @@
 ---
 name: tabellen-und-matrix-factory
-description: "Wenn es um Tabellen Und Matrix Factory in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tabellen und Matrix Factory: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: tabellen-und-matrix-factory."
 ---
 
 # Tabellen- und Matrix-Fabrik für M&A: baut DD-Grids, Risk Heatmaps, Issue Lists, CP-Tracker, Authority-Matrizen, Disclosure-Schedules und Registerabgleich als direkt nutzbare Tabellen.

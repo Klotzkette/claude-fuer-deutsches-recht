@@ -1,6 +1,6 @@
 ---
 name: 05-beweisaufnahme-kleine-zivilkammer
-description: "Wenn es um 05 Beweisaufnahme Kleine Zivilkammer in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 05 Beweisaufnahme Kleine Zivilkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # 05 Beweisaufnahme Kleine Zivilkammer

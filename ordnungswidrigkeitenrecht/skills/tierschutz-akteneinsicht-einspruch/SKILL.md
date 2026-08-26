@@ -1,6 +1,6 @@
 ---
 name: tierschutz-akteneinsicht-einspruch
-description: "Wenn es um Tierschutz Owi Akteneinsicht Schreiben in Ordnungswidrigkeitenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Tierschutz Owi Akteneinsicht Schreiben: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tierschutz Owi Akteneinsicht Schreiben

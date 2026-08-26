@@ -1,6 +1,6 @@
 ---
 name: agio
-description: "Wenn es um Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis in Corporate-Kanzlei geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Agio; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: agio."
 ---
 
 # Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis

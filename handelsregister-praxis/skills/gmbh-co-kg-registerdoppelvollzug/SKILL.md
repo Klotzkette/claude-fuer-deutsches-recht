@@ -1,6 +1,6 @@
 ---
 name: gmbh-co-kg-registerdoppelvollzug
-description: "Wenn es um GmbH & Co. KG Doppelvollzug in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GmbH & Co. KG Doppelvollzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # GmbH & Co. KG Doppelvollzug

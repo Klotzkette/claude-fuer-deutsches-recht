@@ -1,6 +1,6 @@
 ---
 name: one-in-one-out-bilanz-und-buchung
-description: "Wenn es um NKR-One-in-one-out — Bilanz und Buchung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: One In One Out Bilanz Und Buchung; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
+description: "Für NKR-One-in-one-out — Bilanz und Buchung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrollrat (NKR) — Prüfung von Gesetzentwürfen. Route: one-in-one-out-bilanz-und-buchung."
 ---
 
 # NKR-One-in-one-out — Bilanz und Buchung

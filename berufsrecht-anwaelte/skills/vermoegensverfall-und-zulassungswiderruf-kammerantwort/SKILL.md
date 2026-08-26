@@ -1,6 +1,6 @@
 ---
 name: vermoegensverfall-und-zulassungswiderruf-kammerantwort
-description: "Wenn es um Vermoegensverfall Und Zulassungswiderruf Kammerantwort in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vermögensverfall und Zulassungswiderruf Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: vermögensverfall und zulassungswiderruf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: notarkammer-anfrage-organisationspflicht-und-praevention
-description: "Wenn es um Notarkammer Anfrage Organisationspflicht Und Praevention in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notarkammer Anfrage Organisationspflicht und Prävention: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: notarkammer anfrage - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

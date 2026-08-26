@@ -1,6 +1,6 @@
 ---
 name: fp-zeitraum-und-szenarien-praxis
-description: "Wenn es um FP: Zeitraum und Szenarien in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für FP: Zeitraum und Szenarien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FP: Zeitraum und Szenarien

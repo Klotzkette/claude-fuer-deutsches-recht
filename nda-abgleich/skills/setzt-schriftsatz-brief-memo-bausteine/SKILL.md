@@ -1,6 +1,6 @@
 ---
 name: setzt-schriftsatz-brief-memo-bausteine
-description: "Wenn es um Setzt: Schriftsatz-, Brief- und Memo-Bausteine in NDA-Abgleich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Setzt: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: NDA-Abgleich. Route: setzt-schriftsatz-brief-memo-bausteine."
 ---
 
 # Setzt: Schriftsatz-, Brief- und Memo-Bausteine

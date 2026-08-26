@@ -1,6 +1,6 @@
 ---
 name: w-besoldung-zulassung-nc
-description: "Wenn es um W Besoldung Und Leistungsbezuege in Hochschulrecht der Bundesländer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für W Besoldung und Leistungsbezüge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # W Besoldung Und Leistungsbezuege

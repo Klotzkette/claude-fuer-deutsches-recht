@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-wegerecht-mitverlegung
-description: "Wenn es um Telekommunikation: Wegerecht Mitverlegung in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Telekommunikation: Wegerecht Mitverlegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telekommunikation: Wegerecht Mitverlegung

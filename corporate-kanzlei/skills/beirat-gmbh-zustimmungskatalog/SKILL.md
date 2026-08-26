@@ -1,6 +1,6 @@
 ---
 name: beirat-gmbh-zustimmungskatalog
-description: "Wenn es um GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: beirat-gmbh-zustimmungskatalog."
 ---
 
 # GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik

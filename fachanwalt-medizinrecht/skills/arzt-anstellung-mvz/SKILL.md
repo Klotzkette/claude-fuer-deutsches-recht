@@ -1,6 +1,6 @@
 ---
 name: arzt-anstellung-mvz
-description: "Wenn es um Arzt Anstellung Mvz in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arzt Anstellung Mvz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arztanstellung im MVZ: moderner Medizinrechts-Skill für Anstellungsgenehmigung, Versorgungsauftrag, Arbeitszeit, Nebentätigkeit und Haftungsverteilung

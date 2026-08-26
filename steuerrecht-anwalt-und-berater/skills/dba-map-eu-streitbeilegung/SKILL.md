@@ -1,6 +1,6 @@
 ---
 name: dba-map-eu-streitbeilegung
-description: "Wenn es um DBA: MAP und EU-Streitbeilegung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DBA: MAP und EU-Streitbeilegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # DBA: MAP und EU-Streitbeilegung

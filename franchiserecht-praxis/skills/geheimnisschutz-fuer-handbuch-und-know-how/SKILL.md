@@ -1,6 +1,6 @@
 ---
 name: geheimnisschutz-fuer-handbuch-und-know-how
-description: "Wenn es um Franchise: Geheimnisschutz für Handbuch und Know-how in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Franchise: Geheimnisschutz für Handbuch und Know-how: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise: Geheimnisschutz für Handbuch und Know-how

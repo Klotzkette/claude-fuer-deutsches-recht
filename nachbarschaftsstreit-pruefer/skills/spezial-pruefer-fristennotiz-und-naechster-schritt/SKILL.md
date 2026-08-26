@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefer-fristennotiz-und-naechster-schritt
-description: "Wenn es um Pruefer: Fristennotiz und nächster Schritt in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfer: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Nachbarschaftsstreit-Prüfer. Route: spezial-pruefer-fristennotiz-und-naechster-schritt."
 ---
 
 # Pruefer: Fristennotiz und nächster Schritt

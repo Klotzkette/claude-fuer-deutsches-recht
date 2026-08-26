@@ -1,6 +1,6 @@
 ---
 name: finanzamt-fragebogen-steuerliche-erfassung
-description: "Wenn es um Anmeldung und Behörden: Bereitet elster-fragebogen in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anmeldung und Behörden: Bereitet elster-fragebogen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anmeldung und Behörden: Bereitet elster-fragebogen

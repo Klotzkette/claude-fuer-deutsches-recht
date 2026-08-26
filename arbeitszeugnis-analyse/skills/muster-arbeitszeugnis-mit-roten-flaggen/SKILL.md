@@ -1,6 +1,6 @@
 ---
 name: muster-arbeitszeugnis-mit-roten-flaggen
-description: "Wenn es um Muster-Arbeitszeugnis mit roten Flaggen (Schulungsmaterial) in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Muster-Arbeitszeugnis mit roten Flaggen (Schulungsmaterial): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Muster-Arbeitszeugnis mit roten Flaggen (Schulungsmaterial)

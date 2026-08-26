@@ -1,6 +1,6 @@
 ---
 name: haftpflichtversicherung-und-schadenmeldung-kaltst
-description: "Wenn es um Haftpflichtversicherung Und Schadenmeldung Kaltst in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftpflichtversicherung und Schadenmeldung Kaltst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: haftpflichtversicherung und schadenmeldung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

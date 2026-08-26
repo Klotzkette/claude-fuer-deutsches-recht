@@ -1,6 +1,6 @@
 ---
 name: 03-streitstand-erfassen
-description: "Wenn es um 03 Streitstand Erfassen in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 03 Streitstand Erfassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 03 Streitstand Erfassen

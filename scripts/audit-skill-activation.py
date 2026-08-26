@@ -11,6 +11,8 @@ REPO = Path(__file__).resolve().parent.parent
 DUPLICATE_TITLE_RE = re.compile(r"^([^:]{3,90}):\s*\1:", re.IGNORECASE)
 COMMA_NUMBER_RE = re.compile(r"\d\s*,\s*\d")
 XML_TAG_RE = re.compile(r"<[a-zA-Z]")
+MIN_DESCRIPTION_CHARS = 80
+MAX_DESCRIPTION_CHARS = 360
 
 
 def skill_files() -> list[Path]:
@@ -54,8 +56,8 @@ def main() -> int:
     for path, desc in descriptions:
         checks = {
             "leer": not desc,
-            "unter_120": len(desc) < 120,
-            "unter_140": len(desc) < 140,
+            "unter_80": len(desc) < MIN_DESCRIPTION_CHARS,
+            "ueber_360": len(desc) > MAX_DESCRIPTION_CHARS,
             "doppelte_beschreibung": len(by_description.get(desc, [])) > 1,
             "doppelter_titel": bool(DUPLICATE_TITLE_RE.search(desc)),
             "baustein_fachlich_vertieft": "fachlich vertieftes Modul" in desc,

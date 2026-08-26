@@ -1,6 +1,6 @@
 ---
 name: zwangsbehandlung-beweislast-darlegungslast
-description: "Wenn es um Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zwangsbehandlung Beweislast Darlegungslast; Arbeitsfeld: Betreuungsrecht."
+description: "Für Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Betreuungsrecht. Route: zwangsbehandlung-beweislast-darlegungslast."
 ---
 
 # Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung

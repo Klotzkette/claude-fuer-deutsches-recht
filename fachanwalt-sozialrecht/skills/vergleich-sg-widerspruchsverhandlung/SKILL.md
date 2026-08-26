@@ -1,6 +1,6 @@
 ---
 name: vergleich-sg-widerspruchsverhandlung
-description: "Wenn es um Vergleich vor Sozialgericht Paragraf 101 SGG in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vergleich vor Sozialgericht Paragraf 101 SGG: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleich vor Sozialgericht § 101 SGG

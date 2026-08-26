@@ -1,6 +1,6 @@
 ---
 name: besold-neu-003-besoldungsgruppe-eingruppierung-amt-und-funktion
-description: "Wenn es um Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion in Beamtenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion

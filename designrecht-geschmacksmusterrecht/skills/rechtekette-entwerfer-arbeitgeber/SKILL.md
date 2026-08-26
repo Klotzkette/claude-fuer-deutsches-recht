@@ -1,6 +1,6 @@
 ---
 name: rechtekette-entwerfer-arbeitgeber
-description: "Wenn es um Rechtekette Entwerfer Arbeitgeber in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Rechtekette Entwerfer Arbeitgeber: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtekette Entwerfer Arbeitgeber

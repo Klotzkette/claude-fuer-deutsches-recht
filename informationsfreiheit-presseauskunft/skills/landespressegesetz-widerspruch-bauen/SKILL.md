@@ -1,6 +1,6 @@
 ---
 name: landespressegesetz-widerspruch-bauen
-description: "Wenn es um Landespressegesetz Widerspruch Bauen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landespressegesetz Widerspruch Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landespressegesetz Widerspruch Bauen

@@ -1,6 +1,6 @@
 ---
 name: gefahrenstelle-melden-schulweg
-description: "Wenn es um Gefahrenstelle Melden in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gefahrenstelle Melden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gefahrenstelle Melden

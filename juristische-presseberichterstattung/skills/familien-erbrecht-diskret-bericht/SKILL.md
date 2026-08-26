@@ -1,6 +1,6 @@
 ---
 name: familien-erbrecht-diskret-bericht
-description: "Wenn es um Diskrete Berichterstattung Familienrecht und Erbrecht in Juristische Presseberichterstattung geht: hilft bei diskreter Berichterstattung über Familien-, Erb- und Betreuungsfälle mit besonderem Schutz privater Details."
+description: "Für Diskrete Berichterstattung Familienrecht und Erbrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Diskrete Berichterstattung Familienrecht und Erbrecht

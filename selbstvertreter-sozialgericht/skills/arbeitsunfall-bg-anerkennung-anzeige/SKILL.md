@@ -1,6 +1,6 @@
 ---
 name: arbeitsunfall-bg-anerkennung-anzeige
-description: "Wenn es um Arbeitsunfall Bg Anerkennung Anzeige in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsunfall Bg Anerkennung Anzeige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsunfall Bg Anerkennung Anzeige

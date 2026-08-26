@@ -1,6 +1,6 @@
 ---
 name: 04-klage-antrag-auslegen
-description: "Wenn es um 04 Klage Antrag Auslegen in Relationstechnik Zivilrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 04 Klage Antrag Auslegen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # 04 Klage Antrag Auslegen

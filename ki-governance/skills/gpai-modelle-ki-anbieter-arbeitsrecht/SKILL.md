@@ -1,6 +1,6 @@
 ---
 name: gpai-modelle-ki-anbieter-arbeitsrecht
-description: "Wenn es um GPAI: Systemic-Risk-Modelle in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für GPAI: Systemic-Risk-Modelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GPAI: Systemic-Risk-Modelle

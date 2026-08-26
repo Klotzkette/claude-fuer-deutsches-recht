@@ -1,6 +1,6 @@
 ---
 name: taegliches-briefing
-description: "Wenn es um Taegliches Briefing in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Tägliches Briefing: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Taegliches Briefing

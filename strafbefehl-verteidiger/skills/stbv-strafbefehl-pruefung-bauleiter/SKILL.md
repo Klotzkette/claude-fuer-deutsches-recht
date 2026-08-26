@@ -1,6 +1,6 @@
 ---
 name: stbv-strafbefehl-pruefung-bauleiter
-description: "Wenn es um StBV: Strafbefehl-Pruefung in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für StBV: Strafbefehl-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # StBV: Strafbefehl-Pruefung

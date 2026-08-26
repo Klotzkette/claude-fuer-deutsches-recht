@@ -1,6 +1,6 @@
 ---
 name: space-092-red-team-space-mission-legal-readiness
-description: "Wenn es um Weltraumrecht: Red-Team Space Mission Legal Readiness in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Red-Team Space Mission Legal Readiness: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Weltraumrecht: Red-Team Space Mission Legal Readiness

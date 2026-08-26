@@ -1,6 +1,6 @@
 ---
 name: vollmacht-erteilung-umfang-erloeschen
-description: "Wenn es um Vollmacht — Erteilung, Umfang und Erlöschen Paragrafen 167 bis 176 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vollmacht — Erteilung, Umfang und Erlöschen Paragrafen 167 bis 176 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollmacht — Erteilung, Umfang und Erlöschen §§ 167 bis 176 BGB

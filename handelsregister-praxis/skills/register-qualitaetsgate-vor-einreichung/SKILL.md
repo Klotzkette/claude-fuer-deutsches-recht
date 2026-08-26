@@ -1,6 +1,6 @@
 ---
 name: register-qualitaetsgate-vor-einreichung
-description: "Wenn es um Quality Gate vor Einreichung in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quality Gate vor Einreichung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Quality Gate vor Einreichung

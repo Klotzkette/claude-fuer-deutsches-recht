@@ -1,6 +1,6 @@
 ---
 name: ladeinfrastruktur-behoerden-gericht-und-registerweg
-description: "Wenn es um Ladeinfrastruktur: Behörden-, Gerichts- oder Registerweg in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ladeinfrastruktur: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Ladeinfrastruktur: Behörden-, Gerichts- oder Registerweg

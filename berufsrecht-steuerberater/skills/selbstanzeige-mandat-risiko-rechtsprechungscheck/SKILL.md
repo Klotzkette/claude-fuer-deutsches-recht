@@ -1,6 +1,6 @@
 ---
 name: selbstanzeige-mandat-risiko-rechtsprechungscheck
-description: "Wenn es um Selbstanzeige Mandat Risiko Rechtsprechungscheck in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Selbstanzeige Mandat Risiko Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: selbstanzeige mandat risiko - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

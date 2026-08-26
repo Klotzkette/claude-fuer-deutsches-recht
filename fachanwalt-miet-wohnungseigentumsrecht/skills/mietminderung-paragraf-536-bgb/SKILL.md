@@ -1,6 +1,6 @@
 ---
 name: mietminderung-paragraf-536-bgb
-description: "Wenn es um Mietminderung Paragraf 536 BGB in Fachanwalt Miet- und Wohnungseigentumsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mietminderung Paragraf 536 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mietminderung § 536 BGB

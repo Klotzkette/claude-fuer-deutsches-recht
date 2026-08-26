@@ -1,6 +1,6 @@
 ---
 name: standard
-description: "Wenn es um Standard: Behörden-, Gerichts- oder Registerweg in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Standard; Arbeitsfeld: NDA-Abgleich."
+description: "Für Standard: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Standard: Behörden-, Gerichts- oder Registerweg

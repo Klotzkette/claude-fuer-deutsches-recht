@@ -1,6 +1,6 @@
 ---
 name: entwurf-tatbestand-beweis-und-belege
-description: "Wenn es um Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage in NDA-Abgleich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: NDA-Abgleich. Route: entwurf-tatbestand-beweis-und-belege."
 ---
 
 # Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage

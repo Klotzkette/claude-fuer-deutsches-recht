@@ -1,6 +1,6 @@
 ---
 name: berufsrecht-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Berufsrecht: Verhandlung, Vergleich und Eskalation in Fachanwalt Medizinrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Berufsrecht: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Berufsrecht: Verhandlung, Vergleich und Eskalation

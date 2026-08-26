@@ -1,6 +1,6 @@
 ---
 name: chronologie-strafverfahren
-description: "Wenn es um Chronologie Strafverfahren in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Chronologie Strafverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Chronologie Strafverfahren

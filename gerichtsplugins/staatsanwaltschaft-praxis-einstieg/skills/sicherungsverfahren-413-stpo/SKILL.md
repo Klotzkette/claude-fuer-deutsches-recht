@@ -1,6 +1,6 @@
 ---
 name: sicherungsverfahren-413-stpo
-description: "Wenn es um Sicherungsverfahren und Maßregelantrag in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sicherungsverfahren und Maßregelantrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sicherungsverfahren und Maßregelantrag

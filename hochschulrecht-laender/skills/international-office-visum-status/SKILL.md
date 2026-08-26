@@ -1,6 +1,6 @@
 ---
 name: international-office-visum-status
-description: "Wenn es um International Office, Visum und Status in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für International Office, Visum und Status: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # International Office, Visum und Status

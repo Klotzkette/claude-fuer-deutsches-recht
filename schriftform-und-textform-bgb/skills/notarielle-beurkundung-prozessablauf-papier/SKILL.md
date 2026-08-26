@@ -1,6 +1,6 @@
 ---
 name: notarielle-beurkundung-prozessablauf-papier
-description: "Wenn es um Notarielle Beurkundung und Öffentliche Beglaubigung in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notarielle Beurkundung und Öffentliche Beglaubigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notarielle Beurkundung und Öffentliche Beglaubigung

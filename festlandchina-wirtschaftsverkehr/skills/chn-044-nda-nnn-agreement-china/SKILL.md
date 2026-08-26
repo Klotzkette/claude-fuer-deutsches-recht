@@ -1,6 +1,6 @@
 ---
 name: chn-044-nda-nnn-agreement-china
-description: "Wenn es um Nda Nnn Agreement China in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nda Nnn Agreement China: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nda Nnn Agreement China

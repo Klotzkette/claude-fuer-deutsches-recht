@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-behoerdenverfahren
-description: "Wenn es um Aufsicht, Prüfung und Behördenverfahren in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufsicht, Prüfung und Behördenverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufsicht, Prüfung und Behördenverfahren

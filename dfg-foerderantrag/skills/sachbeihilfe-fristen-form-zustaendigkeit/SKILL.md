@@ -1,6 +1,6 @@
 ---
 name: sachbeihilfe-fristen-form-zustaendigkeit
-description: "Wenn es um Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sachbeihilfe Fristen Form Zuständigkeit; Arbeitsfeld: DFG-Förderantrag."
+description: "Für Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg

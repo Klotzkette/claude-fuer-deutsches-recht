@@ -1,6 +1,6 @@
 ---
 name: appeal-and-revision-614-zpo
-description: "Wenn es um Appeal and Revision in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Appeal and Revision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Appeal and Revision

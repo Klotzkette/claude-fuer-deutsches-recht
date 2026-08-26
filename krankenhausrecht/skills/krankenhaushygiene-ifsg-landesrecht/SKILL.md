@@ -1,6 +1,6 @@
 ---
 name: krankenhaushygiene-ifsg-landesrecht
-description: "Wenn es um Krankenhaushygiene IfSG Landesrecht in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Krankenhaushygiene IfSG Landesrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenhaushygiene IfSG Landesrecht

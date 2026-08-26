@@ -1,6 +1,6 @@
 ---
 name: parteivermoegen-fristproblem-markieren
-description: "Wenn es um Parteivermoegen Fristproblem Markieren in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parteivermögen Fristproblem Markieren: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Parteivermoegen Fristproblem Markieren

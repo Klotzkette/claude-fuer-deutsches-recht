@@ -1,6 +1,6 @@
 ---
 name: batch-modus-docx-stripper-einfuehrung
-description: "Wenn es um VAF: Batch-Modus Konzern in Vertragsausfüller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für VAF: Batch-Modus Konzern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VAF: Batch-Modus Konzern

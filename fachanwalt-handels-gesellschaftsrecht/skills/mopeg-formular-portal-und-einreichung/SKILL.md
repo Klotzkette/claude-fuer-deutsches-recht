@@ -1,6 +1,6 @@
 ---
 name: mopeg-formular-portal-und-einreichung
-description: "Wenn es um Mopeg Formular Portal Und Einreichung in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mopeg Formular Portal und Einreichung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Mopeg: Formular, Portal und Einreichungslogik im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -42,3 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Portal- und Einreichungswege:** Gesellschaftsregister: bundesweit über Notar (§ 707b BGB n.F. i.V.m. § 12 HGB Beglaubigung); Handelsregister: über Notar nach § 12 HGB; Transparenzregister: Eintragung online über transparenzregister.de (Bundesanzeiger), Eingabemaske mit wirtschaftlich Berechtigten, kein Notar-Zwang aber Identitätsnachweis.
 4. **Pflichtangaben Gesellschaftsregister § 707a Abs. 1 BGB n.F.:** Name eGbR (mit Zusatz "eGbR"), Sitz, Gegenstand, Gesellschafter mit Namen, Geburtsdatum, Wohnort, Vertretungsbefugnis. Bei Änderungen Folgeanmeldung.
 5. **Trade-off und Anschluss:** Eintragung in eGbR sichert Aktivlegitimation für bestimmte Rechtsgeschäfte, kostet aber Notargebühren und schafft Publizität (positive und negative Publizität § 707a Abs. 3 BGB n.F. analog § 15 HGB). Anschluss-Skill `gesellschaftsgruender-transparenzregister`.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-mopeg-formular-portal-und-einreichung` beziehungsweise Mopeg: Formular, Portal und Einreichungslogik: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-mopeg-formular-portal-und-einreichung.md).

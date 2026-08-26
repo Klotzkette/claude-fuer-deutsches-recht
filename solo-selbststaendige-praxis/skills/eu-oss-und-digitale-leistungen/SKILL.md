@@ -1,6 +1,6 @@
 ---
 name: eu-oss-und-digitale-leistungen
-description: "Wenn es um EU Oss Und Digitale Leistungen in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU Oss und Digitale Leistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationales und Auslandskunden: Prüft oss/moss-logik bei digitalen leistungen an verbraucher

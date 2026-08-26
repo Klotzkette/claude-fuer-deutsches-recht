@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-vub-einfuhr-ausfuhr
-description: "Wenn es um Verbote und Beschränkungen bei Ein- und Ausfuhr in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbote und Beschränkungen bei Ein- und Ausfuhr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbote und Beschränkungen bei Ein- und Ausfuhr

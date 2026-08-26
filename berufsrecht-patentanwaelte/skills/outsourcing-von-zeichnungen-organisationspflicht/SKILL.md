@@ -1,6 +1,6 @@
 ---
 name: outsourcing-von-zeichnungen-organisationspflicht
-description: "Wenn es um Outsourcing Von Zeichnungen Organisationspflicht in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Outsourcing von Zeichnungen Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: outsourcing von zeichnungen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

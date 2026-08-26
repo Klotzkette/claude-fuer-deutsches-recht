@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-fristen-form-und-zustaendigkeit
-description: "Wenn es um Rechtsschutz Fristen Form Und Zuständigkeit in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsschutz Fristen Form und Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz: Klagefrist, Verjährung, Widerspruchsfristen DPMA/EUIPO, Beschwerdefristen BPatG, gerichtliche Zuständigkeit (LG/OLG/BGH), Formvorschriften, elektronischer Rechtsverkehr.
@@ -124,3 +124,7 @@ description: "Wenn es um Rechtsschutz Fristen Form Und Zuständigkeit in Fachanw
 ## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Fristberechnung ohne vollständige Sachverhaltskenntnis.
 - Kein Ersatz für vollständige Mandantenberatung.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-rechtsschutz-fristen-form-und-zustaendigkeit` beziehungsweise Rechtsschutz: Fristen, Form, Zuständigkeit und Rechtsweg: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-rechtsschutz-fristen-form-und-zustaendigkeit.md).

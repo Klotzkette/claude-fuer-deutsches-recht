@@ -1,6 +1,6 @@
 ---
 name: anweisungsfall-deckungs-und-valutaverhaeltnis
-description: "Wenn es um Anweisungsfall: Deckungs- und Valutaverhältnis in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anweisungsfall: Deckungs- und Valutaverhältnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anweisungsfall: Deckungs- und Valutaverhältnis

@@ -1,6 +1,6 @@
 ---
 name: spezial-aktenzeichen-red-team-und-qualitaetskontrolle
-description: "Wenn es um Aktenzeichen: Red-Team und Qualitätskontrolle in Fachanwalt Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktenzeichen: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Aktenzeichen: Red-Team und Qualitätskontrolle

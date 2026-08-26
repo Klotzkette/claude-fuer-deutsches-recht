@@ -1,6 +1,6 @@
 ---
 name: private-krankenversicherung-beitragsanpassung-treuhaender
-description: "Wenn es um PKV: Beitragsanpassung und Treuhänder in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für PKV: Beitragsanpassung und Treuhänder: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # PKV: Beitragsanpassung und Treuhänder

@@ -1,6 +1,6 @@
 ---
 name: bav-grenzueberschreitend-mobil-spezial
-description: "Wenn es um bAV: Grenzueberschreitende Mobilitaet in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für bAV: Grenzüberschreitende Mobilität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # bAV: Grenzueberschreitende Mobilitaet

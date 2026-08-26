@@ -1,6 +1,6 @@
 ---
 name: fruehwarnsystem-behoerden-gericht-und-registerweg
-description: "Wenn es um Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Frühwarnsystem: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg

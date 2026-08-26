@@ -1,6 +1,6 @@
 ---
 name: nda-pruefungsvorschlaege-saas-msa
-description: "Wenn es um NDA-/Geheimhaltungsvereinbarung-Prüfung in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NDA-/Geheimhaltungsvereinbarung-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # NDA-/Geheimhaltungsvereinbarung-Prüfung

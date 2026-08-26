@@ -1,6 +1,6 @@
 ---
 name: belegkette-rueckverfolgung-caching-rerun
-description: "Wenn es um /tabellenreview-3d:belegkette-rueckverfolgung in Tabellenreview 3D geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Belegkette Rueckverfolgung Caching Rerun; Arbeitsfeld: Tabellenreview 3D."
+description: "Für /tabellenreview-3d:belegkette-rückverfolgung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tabellenreview 3D. Route: belegkette-rueckverfolgung-caching-rerun."
 ---
 
 # /tabellenreview-3d:belegkette-rueckverfolgung

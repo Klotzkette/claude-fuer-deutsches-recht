@@ -1,6 +1,6 @@
 ---
 name: wohnraummiete-kuendigung-paragraph-568-bgb
-description: "Wenn es um Wohnraummiete-Kündigung — Paragraf 568 BGB und Formfragen in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wohnraummiete-Kündigung — Paragraf 568 BGB und Formfragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wohnraummiete-Kündigung — Paragraf 568 BGB und Formfragen

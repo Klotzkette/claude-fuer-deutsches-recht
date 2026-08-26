@@ -1,6 +1,6 @@
 ---
 name: fristenkontrolle
-description: "Wenn es um Fristenkontrolle in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristenkontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Berufsrecht Wirtschaftsprüfer."
 ---
 
 # Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-verantwortung-kaltstart-und-fakte
-description: "Wenn es um Jahresabschluss Verantwortung Kaltstart Und Fakte in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Jahresabschluss Verantwortung Kaltstart und Fakte: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: jahresabschluss verantwortung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

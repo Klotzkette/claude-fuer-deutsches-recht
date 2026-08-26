@@ -1,6 +1,6 @@
 ---
 name: kv-075-internationale-studierende-krankenversicherung
-description: "Wenn es um Krankenversicherung: Internationale Studenten Krankenversicherung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Internationale Studenten Krankenversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Krankenversicherung: Internationale Studenten Krankenversicherung

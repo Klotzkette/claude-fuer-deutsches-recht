@@ -1,6 +1,6 @@
 ---
 name: polizeirecht-und-wohlfahrtsstaat
-description: "Wenn es um Polizeirecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Polizeirecht Und Wohlfahrtsstaat; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Polizeirecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: polizeirecht-und-wohlfahrtsstaat."
 ---
 
 # Polizeirecht

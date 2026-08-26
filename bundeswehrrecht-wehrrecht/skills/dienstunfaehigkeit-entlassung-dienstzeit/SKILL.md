@@ -1,6 +1,6 @@
 ---
 name: dienstunfaehigkeit-entlassung-dienstzeit
-description: "Wenn es um Dienstunfähigkeit – Entlassung und Zurruhesetzung in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dienstunfähigkeit – Entlassung und Zurruhesetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dienstunfähigkeit – Entlassung und Zurruhesetzung

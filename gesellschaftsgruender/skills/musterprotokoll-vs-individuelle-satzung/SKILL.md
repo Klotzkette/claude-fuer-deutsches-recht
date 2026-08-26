@@ -1,6 +1,6 @@
 ---
 name: musterprotokoll-vs-individuelle-satzung
-description: "Wenn es um Musterprotokoll vs individuelle Satzung in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Musterprotokoll vs individuelle Satzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Musterprotokoll vs individuelle Satzung

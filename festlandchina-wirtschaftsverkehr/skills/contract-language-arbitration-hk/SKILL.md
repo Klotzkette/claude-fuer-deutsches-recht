@@ -1,6 +1,6 @@
 ---
 name: contract-language-arbitration-hk
-description: "Wenn es um Vertragsrecht China: Sprache/Rechtswahl/Civil Code 2021 in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertragsrecht China: Sprache/Rechtswahl/Civil Code 2021: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertragsrecht China: Sprache/Rechtswahl/Civil Code 2021

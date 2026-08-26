@@ -1,6 +1,6 @@
 ---
 name: nachteilsausgleich-schule
-description: "Wenn es um Nachteilsausgleich Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachteilsausgleich Schule: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachteilsausgleich Schule

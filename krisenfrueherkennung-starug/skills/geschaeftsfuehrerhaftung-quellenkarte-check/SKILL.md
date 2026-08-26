@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrerhaftung-quellenkarte-check
-description: "Wenn es um Geschäftsführerhaftung Quellenkarte Check in Krisenfrüherkennung und StaRUG-Management geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Geschäftsführerhaftung Quellenkarte Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschäftsführerhaftung Quellenkarte Check

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-beide-seiten-dashboard
-description: "Wenn es um Kaltstart für beide Seiten in Kanzlei-Mandant Lifecycle geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart für beide Seiten: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart für beide Seiten

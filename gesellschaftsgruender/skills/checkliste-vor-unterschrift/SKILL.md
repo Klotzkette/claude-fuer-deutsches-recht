@@ -1,6 +1,6 @@
 ---
 name: checkliste-vor-unterschrift
-description: "Wenn es um Checkliste vor Unterschrift in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Checkliste vor Unterschrift: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Checkliste vor Unterschrift

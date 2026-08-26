@@ -1,6 +1,6 @@
 ---
 name: kostenobergrenze-budget-haftung
-description: "Wenn es um Kostenobergrenze, Budget Und Haftung in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Kostenobergrenze, Budget und Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kostenobergrenze, Budget Und Haftung

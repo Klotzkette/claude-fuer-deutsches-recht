@@ -1,6 +1,6 @@
 ---
 name: kueschk-frist-und-zugang-pruefen
-description: "Wenn es um Fristprüfung Kündigungsschutzklage: Paragraf 4 KSchG drei Wochen ab Zugang in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristprüfung Kündigungsschutzklage: Paragraf 4 KSchG drei Wochen ab Zugang: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristprüfung Kündigungsschutzklage: Paragraf 4 KSchG drei Wochen ab Zugang

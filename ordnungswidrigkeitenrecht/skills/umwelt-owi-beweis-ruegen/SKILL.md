@@ -1,6 +1,6 @@
 ---
 name: umwelt-owi-beweis-ruegen
-description: "Wenn es um Umwelt Owi Beweis Ruegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umwelt Owi Beweis Rügen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Umwelt Owi Beweis Ruegen

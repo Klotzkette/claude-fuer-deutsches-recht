@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg
-description: "Wenn es um Kontaminierter Baugrund — Werkvertrag + BBodSchG-Sanierungspflicht in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kontaminierter Baugrund — Werkvertrag + BBodSchG-Sanierungspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kontaminierter Baugrund — Werkvertrag + BBodSchG-Sanierungspflicht

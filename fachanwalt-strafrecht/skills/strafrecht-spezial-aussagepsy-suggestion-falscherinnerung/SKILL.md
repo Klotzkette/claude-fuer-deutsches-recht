@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsy-suggestion-falscherinnerung
-description: "Wenn es um Strafrecht Spezial Aussagepsy Suggestion Falscherinnerung in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Aussagepsy Suggestion Falscherinnerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Suggestion und Falscherinnerung: Loftus-Studien, misinformation effect, lost-in-the-mall-Paradigma, post-event-Information, Quellenverwechslung

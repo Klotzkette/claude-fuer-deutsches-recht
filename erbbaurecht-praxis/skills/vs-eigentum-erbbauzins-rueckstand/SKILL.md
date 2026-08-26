@@ -1,6 +1,6 @@
 ---
 name: vs-eigentum-erbbauzins-rueckstand
-description: "Wenn es um Erbbaurecht verständlich erklären in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erbbaurecht verständlich erklären: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbbaurecht verständlich erklären

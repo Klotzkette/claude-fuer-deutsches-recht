@@ -1,6 +1,6 @@
 ---
 name: beschlussverfahren-72-owig
-description: "Wenn es um Beschlussverfahren Paragraf 72 OWiG in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschlussverfahren Paragraf 72 OWiG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Beschlussverfahren § 72 OWiG

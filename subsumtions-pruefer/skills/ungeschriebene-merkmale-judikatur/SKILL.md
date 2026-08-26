@@ -1,6 +1,6 @@
 ---
 name: ungeschriebene-merkmale-judikatur
-description: "Wenn es um Ungeschriebene Merkmale und Judikatur in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Ungeschriebene Merkmale und Judikatur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ungeschriebene Merkmale und Judikatur

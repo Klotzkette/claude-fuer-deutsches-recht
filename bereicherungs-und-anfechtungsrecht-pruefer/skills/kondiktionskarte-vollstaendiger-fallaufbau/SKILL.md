@@ -1,6 +1,6 @@
 ---
 name: kondiktionskarte-vollstaendiger-fallaufbau
-description: "Wenn es um Kondiktionskarte: vollständiger Fallaufbau in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kondiktionskarte: vollständiger Fallaufbau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kondiktionskarte: vollständiger Fallaufbau

@@ -1,6 +1,6 @@
 ---
 name: enforcement-translation-english-legal
-description: "Wenn es um Enforcement in commercial-courts-deutschland geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Enforcement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Enforcement

@@ -1,6 +1,6 @@
 ---
 name: nebenkostenabrechnung-erstellen
-description: "Wenn es um Nebenkostenabrechnung erstellen (Vermieter / Hausverwaltung) in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nebenkostenabrechnung erstellen (Vermieter / Hausverwaltung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nebenkostenabrechnung erstellen (Vermieter / Hausverwaltung)

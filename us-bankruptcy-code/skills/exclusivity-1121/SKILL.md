@@ -1,6 +1,6 @@
 ---
 name: exclusivity-1121
-description: "Wenn es um Exclusivity Paragraf 1121 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Exclusivity Paragraf 1121: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Exclusivity § 1121

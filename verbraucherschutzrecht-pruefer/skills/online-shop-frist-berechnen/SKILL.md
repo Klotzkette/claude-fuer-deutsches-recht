@@ -1,6 +1,6 @@
 ---
 name: online-shop-frist-berechnen
-description: "Wenn es um Online Shop Frist Berechnen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Online Shop Frist Berechnen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Online Shop Frist Berechnen

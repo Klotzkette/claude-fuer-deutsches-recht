@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-impfleistungen-reiseimpfung-stiko-digitale
-description: "Wenn es um Impfleistungen: Reiseimpfung und STIKO in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Impfleistungen: Reiseimpfung und STIKO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Impfleistungen: Reiseimpfung und STIKO

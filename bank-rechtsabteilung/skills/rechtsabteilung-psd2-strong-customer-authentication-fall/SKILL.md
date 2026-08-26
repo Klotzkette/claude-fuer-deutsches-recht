@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-psd2-strong-customer-authentication-fall
-description: "Wenn es um Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall

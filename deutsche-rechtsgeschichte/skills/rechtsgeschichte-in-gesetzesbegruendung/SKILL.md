@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte-in-gesetzesbegruendung
-description: "Wenn es um Rechtsgeschichte in der Gesetzesbegründung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsgeschichte in der Gesetzesbegründung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsgeschichte in der Gesetzesbegründung

@@ -1,6 +1,6 @@
 ---
 name: ins-017-datenraum-transaktion
-description: "Wenn es um Datenraum in Transaktionen in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenraum in Transaktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenraum in Transaktionen

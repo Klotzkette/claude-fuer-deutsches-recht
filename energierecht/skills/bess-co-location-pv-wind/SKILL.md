@@ -1,6 +1,6 @@
 ---
 name: bess-co-location-pv-wind
-description: "Wenn es um Co-Location mit Wind/PV in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Co-Location mit Wind/PV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Co-Location mit Wind/PV

@@ -1,6 +1,6 @@
 ---
 name: einstellung-153-153a-auflagen
-description: "Wenn es um Einstellung nach Paragrafen 153/153a StPO: Auflagen sauber begründen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Einstellung nach Paragrafen 153/153a StPO: Auflagen sauber begründen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstellung nach Paragrafen 153/153a StPO: Auflagen sauber begründen

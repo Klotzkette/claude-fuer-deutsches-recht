@@ -1,6 +1,6 @@
 ---
 name: massemehrung-asset-realisation
-description: "Wenn es um Massemehrung und Verwertung in Insolvenzverwaltung - IV-Cockpit geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Massemehrung und Verwertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Massemehrung und Verwertung

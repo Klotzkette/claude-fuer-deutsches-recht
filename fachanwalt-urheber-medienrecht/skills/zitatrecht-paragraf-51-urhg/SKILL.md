@@ -1,6 +1,6 @@
 ---
 name: zitatrecht-paragraf-51-urhg
-description: "Wenn es um Zitatrecht Paragraf 51 UrhG in Fachanwalt Urheber Medienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zitatrecht Paragraf 51 UrhG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zitatrecht § 51 UrhG

@@ -1,6 +1,6 @@
 ---
 name: kv-021-kassenwahl-kuendigung-bindungsfrist-wahltarif
-description: "Wenn es um Krankenversicherung: Kassenwahl Kündigung Bindungsfrist Wahltarif in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Kassenwahl Kündigung Bindungsfrist Wahltarif: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Krankenversicherung: Kassenwahl Kündigung Bindungsfrist Wahltarif

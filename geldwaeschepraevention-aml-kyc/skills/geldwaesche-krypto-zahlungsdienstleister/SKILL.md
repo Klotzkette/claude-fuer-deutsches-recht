@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-krypto-zahlungsdienstleister
-description: "Wenn es um Krypto, Zahlungsdienste und FinTech in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krypto, Zahlungsdienste und FinTech: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krypto, Zahlungsdienste und FinTech

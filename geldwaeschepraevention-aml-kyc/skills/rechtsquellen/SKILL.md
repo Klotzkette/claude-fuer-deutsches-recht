@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen
-description: "Wenn es um Rechtsquellen: Formular, Portal und Einreichungslogik in Geldwäscheprävention, AML und KYC geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Rechtsquellen: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsquellen: Formular, Portal und Einreichungslogik

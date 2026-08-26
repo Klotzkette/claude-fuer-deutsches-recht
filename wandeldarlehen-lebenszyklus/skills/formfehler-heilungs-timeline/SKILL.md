@@ -1,6 +1,6 @@
 ---
 name: formfehler-heilungs-timeline
-description: "Wenn es um Formfehler und Heilungs-Timeline in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Formfehler und Heilungs-Timeline: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Formfehler und Heilungs-Timeline

@@ -1,6 +1,6 @@
 ---
 name: entscheidungsvorlage
-description: "Wenn es um Entscheidungsvorlage in Berufsrecht Patentanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Berufsrecht Patentanwälte."
 ---
 
 # Entscheidungsvorlage

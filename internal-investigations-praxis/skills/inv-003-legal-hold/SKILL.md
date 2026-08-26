@@ -1,6 +1,6 @@
 ---
 name: inv-003-legal-hold
-description: "Wenn es um Legal Hold und Beweissicherung in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Legal Hold und Beweissicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Legal Hold und Beweissicherung

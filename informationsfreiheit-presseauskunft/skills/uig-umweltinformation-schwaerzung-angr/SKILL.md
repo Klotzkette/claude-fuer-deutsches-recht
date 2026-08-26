@@ -1,6 +1,6 @@
 ---
 name: uig-umweltinformation-schwaerzung-angr
-description: "Wenn es um Uig Umweltinformation Schwaerzung Angr in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Uig Umweltinformation Schwärzung Angr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Uig Umweltinformation Schwaerzung Angr

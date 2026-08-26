@@ -1,6 +1,6 @@
 ---
 name: sektor-app-stores-automotive-zulieferketten
-description: "Wenn es um Sektor App-Stores und mobile Ökosysteme in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sektor App-Stores und mobile Ökosysteme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sektor App-Stores und mobile Ökosysteme

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-deckungsklage
-description: "Wenn es um Deckungsklage in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Fachanwalt Versicherungsrecht Deckungsklage; Arbeitsfeld: Fachanwalt Versicherungsrecht."
+description: "Für Deckungsklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Fachanwalt Versicherungsrecht. Route: fachanwalt-versicherungsrecht-deckungsklage."
 ---
 
 # Deckungsklage

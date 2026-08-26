@@ -1,6 +1,6 @@
 ---
 name: lobbyregister-kommandocenter
-description: "Wenn es um Lobbyregister-Kommandocenter in Lobbyregister Bundestag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Lobbyregister-Kommandocenter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Lobbyregister-Kommandocenter

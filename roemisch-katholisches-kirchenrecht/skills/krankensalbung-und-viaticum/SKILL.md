@@ -1,6 +1,6 @@
 ---
 name: krankensalbung-und-viaticum
-description: "Wenn es um Krankensalbung und Viaticum in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Krankensalbung und Viaticum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: krankensalbung-und-viaticum."
 ---
 
 # Krankensalbung und Viaticum

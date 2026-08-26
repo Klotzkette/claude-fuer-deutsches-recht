@@ -1,6 +1,6 @@
 ---
 name: faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-or
-description: "Wenn es um Faevvollzug Neu 004 Vollstreckung Aus Unterlassungsverfuegung Or in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Faevvollzug Neu 004 Vollstreckung aus Unterlassungsverfügung Or: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vollstreckung aus Unterlassungsverfügung: Ordnungsgeld und Ordnungshaft nach § 890 ZPO, Tatbestandsvoraussetzungen, Antragstellung, Zuwiderhandlungsnachweis, Höhe des Ordnungsmittels, Ordnungsmittelverfahren.

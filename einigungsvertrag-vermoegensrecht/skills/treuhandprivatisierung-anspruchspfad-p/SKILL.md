@@ -1,6 +1,6 @@
 ---
 name: treuhandprivatisierung-anspruchspfad-p
-description: "Wenn es um Treuhandprivatisierung Anspruchspfad P in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Treuhandprivatisierung Anspruchspfad P: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuhandprivatisierung Anspruchspfad P

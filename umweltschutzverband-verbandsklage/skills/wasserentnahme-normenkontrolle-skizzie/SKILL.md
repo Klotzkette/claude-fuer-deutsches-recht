@@ -1,6 +1,6 @@
 ---
 name: wasserentnahme-normenkontrolle-skizzie
-description: "Wenn es um Wasserentnahme Normenkontrolle Skizzie in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wasserentnahme Normenkontrolle Skizzie: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Wasserentnahme Normenkontrolle Skizzie

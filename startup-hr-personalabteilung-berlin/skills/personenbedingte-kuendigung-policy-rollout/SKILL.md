@@ -1,6 +1,6 @@
 ---
 name: personenbedingte-kuendigung-policy-rollout
-description: "Wenn es um Personenbedingte Kuendigung Krankheit in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Personenbedingte Kündigung Krankheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personenbedingte Kuendigung Krankheit

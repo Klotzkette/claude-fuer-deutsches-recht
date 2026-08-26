@@ -1,6 +1,6 @@
 ---
 name: abmahnung-buchpreisbindung
-description: "Wenn es um Verl-041 · Abmahnung Buchpreisbindung in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-041 · Abmahnung Buchpreisbindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-041 · Abmahnung Buchpreisbindung

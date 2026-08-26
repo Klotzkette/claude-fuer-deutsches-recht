@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-verstaendlich
-description: "Wenn es um Mandantenbrief Verstaendlich Beamtenrecht in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mandantenbrief Verständlich Beamtenrecht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mandantenbrief Verstaendlich Beamtenrecht

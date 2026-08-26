@@ -1,6 +1,6 @@
 ---
 name: regulation-interessen-werbeaussagen
-description: "Wenn es um Regulation: Mehrparteienkonflikt und Interessenmatrix in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Regulation: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Regulation: Mehrparteienkonflikt und Interessenmatrix

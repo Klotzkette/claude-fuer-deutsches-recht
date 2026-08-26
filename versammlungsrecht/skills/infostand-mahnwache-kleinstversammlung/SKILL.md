@@ -1,6 +1,6 @@
 ---
 name: infostand-mahnwache-kleinstversammlung
-description: "Wenn es um Zwei Menschen können schon reichen in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zwei Menschen können schon reichen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zwei Menschen können schon reichen

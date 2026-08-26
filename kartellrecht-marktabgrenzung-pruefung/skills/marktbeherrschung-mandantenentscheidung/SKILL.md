@@ -1,6 +1,6 @@
 ---
 name: marktbeherrschung-mandantenentscheidung
-description: "Wenn es um Marktbeherrschung: Mandantenkommunikation und Entscheidungsvorlage in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Marktbeherrschung: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Marktbeherrschung: Mandantenkommunikation und Entscheidungsvorlage

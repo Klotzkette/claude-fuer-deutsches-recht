@@ -1,6 +1,6 @@
 ---
 name: kreisstrasse-dashboard-erstellen
-description: "Wenn es um Kreisstrasse Dashboard Erstellen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kreisstrasse Dashboard Erstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kreisstrasse Dashboard Erstellen

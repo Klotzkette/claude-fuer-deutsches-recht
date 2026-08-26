@@ -1,6 +1,6 @@
 ---
 name: marken-und-designmandate-kammerantwort-und-verfahren
-description: "Wenn es um Marken Und Designmandate Kammerantwort Und Verfahren in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Marken und Designmandate Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: marken und designmandate - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

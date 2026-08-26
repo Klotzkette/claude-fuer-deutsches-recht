@@ -1,6 +1,6 @@
 ---
 name: strafvollzug-und-strafzwecke
-description: "Wenn es um Strafvollzug in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Strafvollzug Und Strafzwecke; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Strafvollzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: strafvollzug-und-strafzwecke."
 ---
 
 # Strafvollzug

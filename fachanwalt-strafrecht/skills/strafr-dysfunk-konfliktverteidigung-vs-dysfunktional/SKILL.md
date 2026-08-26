@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-konfliktverteidigung-vs-dysfunktional
-description: "Wenn es um Konfliktverteidigung gegen den Vorwurf der Dysfunktionalitaet sauber abgrenzen in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konfliktverteidigung gegen den Vorwurf der Dysfunktionalität sauber abgrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konfliktverteidigung gegen den Vorwurf der Dysfunktionalitaet sauber abgrenzen

@@ -1,6 +1,6 @@
 ---
 name: kollaborierende-roboter-cobot-safety
-description: "Wenn es um Cobot Safety in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cobot Safety: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cobot Safety

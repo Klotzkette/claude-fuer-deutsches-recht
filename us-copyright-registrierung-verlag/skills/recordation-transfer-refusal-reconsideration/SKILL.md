@@ -1,6 +1,6 @@
 ---
 name: recordation-transfer-refusal-reconsideration
-description: "Wenn es um Recordation von Transfers und Sicherheiten in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Recordation von Transfers und Sicherheiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Recordation von Transfers und Sicherheiten

@@ -1,6 +1,6 @@
 ---
 name: juristische-erstpruefung-rollenklaerung
-description: "Wenn es um Juristische: Erstprüfung, Rollenklärung und Mandatsziel in Einfache und Leichte Sprache für juristische Texte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Juristische: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Einfache und Leichte Sprache für juristische Texte."
 ---
 
 # Juristische: Erstprüfung, Rollenklärung und Mandatsziel

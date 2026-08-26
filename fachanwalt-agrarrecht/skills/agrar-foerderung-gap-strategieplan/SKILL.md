@@ -1,6 +1,6 @@
 ---
 name: agrar-foerderung-gap-strategieplan
-description: "Wenn es um Agrar Foerderung Gap Strategieplan in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Agrar Förderung Gap Strategieplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: Direktzahlungen Einkommensgrundstuetzung, Oeko-Regelungen ELER, Junglandwirteprogramm, Agrarinvestitionsfoerderung

@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `common-law-kompass
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Common Law Kompass ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: klärt Rolle, Ziel, Frist, U…
-3. **suretyship-schriftsatz-brief-und-memo-bausteine** — Wenn es um Suretyship: Schriftsatz-, Brief- und Memo-Bausteine in Common-Law-Kompass für deutsche Wirtschaftsjuristen ge…
-4. **cl-spezial-precedent-vs-statute** — Wenn es um Common Law: Precedent gegen Statute in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachv…
-5. **bilinguale-client-commercial-sonderfall** — Wenn es um Bilinguale: Compliance-Dokumentation und Aktenvermerk in Common-Law-Kompass für deutsche Wirtschaftsjuristen …
-6. **vertragsbegriffe-risikoampel-und-gegenargumente** — Wenn es um Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien in Common-Law-Kompass für deutsche Wirt…
-7. **cl-discovery-doc-production-spezial** — Wenn es um Common Law: Discovery-Spezial in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt…
-8. **cl-vertragsklauseln-vertragsbegriffe-cl** — Wenn es um Common Law: Vertragsklauseln in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt,…
-9. **discovery-zahlen-schwellen-und-berechnung** — Wenn es um Discovery: Zahlen, Schwellenwerte und Berechnung in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht:…
-10. **begriffe-uebersetzung-bilingual-contract** — Wenn es um Begriffs- und Übersetzungswerkstatt in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: erstellt den…
-11. **quellen-livecheck** — Wenn es um Rechtsquellen-Livecheck in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm…
-12. **anschluss-routing** — Wenn es um Anschluss-Routing in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: klärt Rolle, Ziel, Frist, Unte…
-13. **explainer-beweislast-und-darlegungslast** — Wenn es um Explainer: Beweislast, Darlegungslast und Substantiierung in Common-Law-Kompass für deutsche Wirtschaftsjuris…
-14. **indemnity-verhandlung-vergleich-und-eskalation** — Wenn es um Indemnity: Verhandlung, Vergleich und Eskalation in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht:…
-15. **client-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Client: Mandantenkommunikation und Entscheidungsvorlage in Common-Law-Kompass für deutsche Wirtschaftsjuriste…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **spezial-gate-red-team-und-qualitaetskontrolle** — Für Gate: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Bewe…
+4. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+5. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+6. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+7. **false-friends** — Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+8. **workflow-redteam-qualitygate** — Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristench…
+9. **gate-fehlerkatalog** — Für Gate Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt…
+10. **workflow-chronologie-und-belegmatrix** — Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix…
+11. **output-waehlen** — Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fac…
+12. **workflow-unterlagen-lueckenliste** — Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fac…
+13. **workflow-fristen-und-risikoampel** — Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachge…
+14. **unterlagen-luecken** — Für Unterlagen und Lücken: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebie…
+15. **dokumente-intake** — Für Dokumentenintake: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet:…
 
 ---
 
@@ -141,7 +141,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Anknüpfung, Zuständigke
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Common-Law-Kompass für deutsche Wirtschaftsjuristen._
 
 # Einstieg und Routing
 
@@ -200,41 +200,27 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `suretyship-schriftsatz-brief-und-memo-bausteine`
+## Skill: `spezial-gate-red-team-und-qualitaetskontrolle`
 
-_Wenn es um Suretyship: Schriftsatz-, Brief- und Memo-Bausteine in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Gate: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Common-Law-Kompass für deutsche Wirtschaftsjuristen._
 
-# Suretyship: Schriftsatz-, Brief- und Memo-Bausteine
+# Gate: Red-Team und Qualitätskontrolle
 
-## Regelungs- und Quellenanker
+## Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `common-law-kompass`. Ausgangspunkt ist: Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews.
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Er führt durch **Red-Team und Qualitätskontrolle** im Themenfeld **Gate**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+## Fachlicher Zuschnitt
 
-## Arbeitsweg
+- **Thema:** Gate.
+- **Arbeitsfokus:** Red-Team und Qualitätskontrolle.
+- **Plugin-Rahmen:** Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Prec....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Suretyship: Schriftsatz-, Brief- und Memo-Bausteine
-- **Normen-/Quellenanker:** UK, US, UCC.
-
-## Fallweichen
+## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
@@ -245,246 +231,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Suretyship** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gate** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
----
-
-## Skill: `cl-spezial-precedent-vs-statute`
-
-_Wenn es um Common Law: Precedent gegen Statute in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Common Law: Precedent gegen Statute
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Common Law: Precedent gegen Statute
-- **Normen-/Quellenanker:** USA.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `bilinguale-client-commercial-sonderfall`
-
-_Wenn es um Bilinguale: Compliance-Dokumentation und Aktenvermerk in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Bilinguale: Compliance-Dokumentation und Aktenvermerk
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Bilinguale: Compliance-Dokumentation und Aktenvermerk
-- **Normen-/Quellenanker:** UK, US, UCC.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Bilinguale** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `vertragsbegriffe-risikoampel-und-gegenargumente`
-
-_Wenn es um Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** UK, US, UCC.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vertragsbegriffe** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `cl-discovery-doc-production-spezial`
-
-_Wenn es um Common Law: Discovery-Spezial in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Common Law: Discovery-Spezial
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Common Law: Discovery-Spezial
-- **Normen-/Quellenanker:** US, DSGVO.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
@@ -494,312 +250,54 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
 ---
 
-## Skill: `cl-vertragsklauseln-vertragsbegriffe-cl`
+## Skill: `workflow-kaltstart-und-routing`
 
-_Wenn es um Common Law: Vertragsklauseln in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Common-Law-Kompass für deutsche Wirtschaftsjuristen._
 
-# Common Law: Vertragsklauseln
+# Kaltstart und Routing
 
-## Arbeitsweg
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
 
-## Einstieg
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Klauseln-Übersicht — Common Law mit deutscher Entsprechung
-
-| Klausel | Funktion / Inhalt | Deutsche Entsprechung | Typische Stolpersteine |
-|---|---|---|---|
-| **Consideration** | Wechselseitige "bargained-for exchange" — Voraussetzung der Vertragsbindung in UK/US-Common Law | Keine Entsprechung im BGB; § 311 I BGB kennt keine consideration. Bei UK-Recht: "deed" als consideration-loses Äquivalent | "Nominal consideration of 1 GBP" oft Hinweis auf consideration-Bedarf bei englischem Recht; bei deutschem Recht ueberfluessig |
-| **Representations and Warranties (R&W)** | Tatsachenversicherungen (reps) und Garantieversprechen (warranties) zum Stichtag | Unklarer Gleichlauf mit §§ 433 ff., 443 BGB (Garantie); §§ 280, 311 II Nr. 1 BGB (c.i.c.); aber kein 1:1-Pendant | "Misrepresentation" UK = ggf. Anfechtung und/oder rescission und/oder Schadensersatz; im deutschen Recht §§ 119 II, 123 BGB (Anfechtung) vs. § 434 BGB (Mangel) — andere Rechtsfolgen |
-| **Indemnification / Indemnity** | Freistellung vom Drittanspruch; auch first-party indemnity (verschuldensunabhaengig) | § 257 BGB (Befreiungsanspruch); kein verschuldensunabhaengiges Äquivalent; bei AGB AGB-rechtlich problematisch (§ 309 Nr. 7 BGB) | Achtung: "indemnify, defend and hold harmless" loest in deutschem Recht keine eigenstaendige Verpflichtung aus; AGB-Kontrolle bei vorformulierten Klauseln |
-| **Limitation of Liability** | Haftungsobergrenze für Schaeden; oft "Cap" als % vom Vertragswert oder feste Summe | §§ 276 III, 309 Nr. 7 BGB; bei AGB strenge Grenzen (kein Ausschluss für Vorsatz/grobe Fahrlaessigkeit, Leben/Koerper/Gesundheit, Kardinalpflichten) | "Aggregate cap" und "per-event cap" unterscheiden; ausgenommen werden typisch IP-Verletzung, indemnification, vertrauliche Information, Vorsatz |
-| **Suretyship vs. Guarantee** | UK: "guarantee" = sekundaere Verpflichtung; "indemnity" = primaere | § 765 BGB Buergschaft vs. § 311 BGB Garantievertrag; § 766 BGB Schriftform | "On first demand guarantee" = abstrakte Buergschaft auf erstes Anfordern; bei deutschem Recht streng AGB-rechtlich kontrolliert |
-| **Entire Agreement / Merger Clause** | Vertrag enthaelt vollstaendige Einigung; vorvertragliche Erklaerungen unbeachtlich | §§ 133, 157 BGB Auslegung; Andeutungstheorie; Klausel ist im deutschen Recht **wirkungsbeschraenkt**, schliesst Auslegung nicht vollstaendig aus | BGH XI ZR 39/04: Merger Clauses können § 305c II BGB nicht ueberwinden; AGB-Kontrolle |
-| **No Oral Modification (NOM)** | Änderungen nur schriftlich | § 125 BGB; doppelte Schriftformklausel im AGB (§ 305b BGB Vorrang Individualabrede) | BGH-Linie: Schriftformklausel kann individualvertraglich durchbrochen werden (Vorrang Individualabrede) |
-| **Severability / Salvatorische Klausel** | Bei Unwirksamkeit eines Teils bleibt Rest wirksam | § 139 BGB (Auslegungsregel); Klausel modifiziert nur Auslegung | BGH-Linie: rein deklaratorische Klauseln im AGB unproblematisch; substanziellere Ersetzungsklauseln AGB-rechtlich prüfen |
-| **Governing Law** | Anwendbares materielles Recht | Art. 3 Rom I-VO (Verträge), Art. 14 Rom II-VO (ausservertraglich) | Internationale Verbraucher Art. 6 Rom I-VO, AN Art. 8 Rom I-VO; ordre public Art. 21 Rom I-VO |
-| **Jurisdiction / Forum Selection** | Zustaendiges Gericht | Art. 25 Brussel Ia-VO (gerichtliche Zuständigkeit innerhalb EU); UK seit Brexit: Haager Gerichtsstandsuebereinkommen | Asymmetrische Klauseln (nur eine Partei wahlt) in Frankreich teils unwirksam; Prüfung des AVAG bei Drittstaaten |
-| **Arbitration Clause** | Schiedsgerichtsbarkeit (ICC, LCIA, DIS, SIAC, AAA/ICDR) | §§ 1029 ff. ZPO; UNCITRAL Model Law; New York Convention 1958 | Schriftform/Form § 1031 ZPO; Verbraucher § 1031 V ZPO (notarielle Form) |
-| **Boilerplate** | Sammelbegriff für Standardklauseln (Force Majeure, Notices, Assignment, Counterparts, Headings) | Verteilt im BGB; einzeln prüfen | Force Majeure in UK/US restriktiv (nicht "frustration" = § 313 BGB Pendant); "frustration of contract" UK enger |
-
-## Prüfraster für den Skill
-
-1. **Sachverhalt fixieren** — Welche Klauseln, welcher Vertragstyp, welches Recht?
-2. **Klauselfunktion identifizieren** über die Tabelle.
-3. **Deutsche Entsprechung prüfen** und Unterschiede markieren.
-4. **AGB-Rechtskontrolle** §§ 305 ff. BGB prüfen, wenn deutsches Recht anwendbar.
-5. **Internationale Privatrecht-Kontrolle** Rom I/II, EuGVVO.
-
-## Praxisfallen
-
-- **R&W-Versicherung (W&I)** im M&A: Deckungsausschluesse prüfen, "no claims declaration".
-- **Indemnity vs. Garantie** sprachlich oft verwischt; im deutschen Recht klar trennen.
-- **Choice of law** beim Verbraucher: Schutz nicht abdingbar (Art. 6 II Rom I-VO).
-- **Forum non conveniens** in UK/US verfuegbar, in der EU nicht (EuGH Owusu).
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `discovery-zahlen-schwellen-und-berechnung`
-
-_Wenn es um Discovery: Zahlen, Schwellenwerte und Berechnung in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
-
-# Discovery: Zahlen, Schwellenwerte und Berechnung
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Discovery: Zahlen, Schwellenwerte und Berechnung
-- **Normen-/Quellenanker:** UK, US, UCC, UC.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Discovery** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
----
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
-## Skill: `begriffe-uebersetzung-bilingual-contract`
-
-_Wenn es um Begriffs- und Übersetzungswerkstatt in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Begriffs- und Übersetzungswerkstatt
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann verwenden
-
-- bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug
-- wenn deutsche Rechtsbegriffe ins Englische übertragen werden
-- wenn UK/US-Unterschiede oder False Friends drohen
-
-## Rückfragen, wenn unklar
-
-- Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich?
-- Welche Partei oder Rolle vertreten wir?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-- Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Typische Fehler vermeiden
-
-- Bürgschaft, guarantee, suretyship und indemnity nicht gleichsetzen.
-- Consideration nicht als deutsche Gegenleistung behandeln.
-- UK, USA, New York, Delaware und UCC nicht vermischen.
-- Keine erfundenen Fälle oder Quellen verwenden.
-
-## Ton
-
-Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-
-## Vertiefung: Kernbegriffe und Übersetzungsfallen
-
-| Englischer Begriff | Falsche dt. Übersetzung | Richtige Einordnung | Fundstelle |
-|---|---|---|---|
-| Consideration | Gegenleistung | Verpflichtungselement; Bargain; kein Synallagma | Currie v Misa [1875] |
-| Warranty | Garantie | Zusicharung im Vertrag; Verletzung = Schadensersatz (kein Ruecktritt) | SGA 1979 s 61 |
-| Condition | Bedingung | Wesentliches Vertragselement; Verletzung = Kuendigung und Schadensersatz | Bunge v Tradax [1981] |
-| Indemnity | Buergschaft | Primaere selbständige Haftung (kein Ausfallerfordernis) | Moschi v Lep [1973] |
-| Guarantee | Garantie | Sekundaere Haftung; nur bei Ausfall des Hauptschuldners | Holme v Brunskill (1878) |
-| Estoppel | Bestandskraft / Verwirkung | Rechtshinderungseinwand; verschiedene Arten (promissory, proprietary, common law) | Central London Property v High Trees [1947] |
-| Tort | Delikt | Ausservertragliche Haftung; weiter als BGB-Deliktsrecht | Donoghue v Stevenson [1932] |
-| Specific performance | Erfuellungsklage | Billigkeitsrechtsmittel; nur wenn Schadensersatz unzulaenglich; Ermessen | Co-op Insurance v Argyll [1997] |
-
-## Key Case Law
-
-- **Donoghue v Stevenson** [1932] AC 562 (HL) — Tort of negligence: duty of care; neighbour principle; manufacturer liable to ultimate consumer without privity.
-- **Central London Property Trust v High Trees House** [1947] KB 130 — Promissory estoppel: promisor bound by promise relied upon; no consideration required for variation if reliance present.
-- **Photo Production v Securicor Transport** [1980] AC 827 (HL) — Exclusion clauses and fundamental breach: no rule of law preventing exclusion of liability for fundamental breach; clear words suffice.
-
-## Triage vor Übersetzung
-
-Bevor losgelegt wird, klaere:
-1. In welchem Kontext steht der Begriff — Vertragsklausel, Schriftsatz, Mandantenmemo?
-2. UK oder US Kontext — einige Begriffe divergieren erheblich.
-3. Ist ein Rechtsbegriff gemeint oder ein umgangssprachlicher Begriff?
-
-## Output-Template: Übersetzungs-Matrix
-
-```
-UEBERSETZUNGSMATRIX COMMON LAW
-Dokument: [BEZEICHNUNG] — Datum: [DATUM]
-
-Begriff | Kontext | Empfohlene dt. Entsprechung | Risiko Fehluebers.
---------|---------|---------------------------|-------------------
-[TERM] | [Klausel] | [ENTSPRECHUNG] | [RISIKO]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `quellen-livecheck`
-
-_Wenn es um Rechtsquellen-Livecheck in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Rechtsquellen-Livecheck
-
-## Einsatzlage
-
-Dieser Quellen-Livecheck für **Common Law Kompass** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
-
-## Fachlandkarte dieses Plugins
-
-- `begriffe-uebersetzung-bilingual-contract` — Begriffe Übersetzung Bilingual Contract
-- `bilingual-contract-review` — Bilingual Contract Review
-- `bilinguale-client-commercial-sonderfall` — Bilinguale Client Commercial Sonderfall
-- `cl-discovery-doc-production-spezial` — CL Discovery DOC Production Spezial
-- `cl-mandantenuebersicht-cl-prozesskostenrisiko` — CL Mandantenuebersicht CL Prozesskostenrisiko
-- `cl-prozesskostenrisiko-each-party-bears-own` — CL Prozesskostenrisiko Each Party Bears OWN
-- `cl-spezial-precedent-vs-statute` — CL Spezial Precedent VS Statute
-- `cl-vertragsklauseln-vertragsbegriffe-cl` — CL Vertragsklauseln Vertragsbegriffe CL
-- `client-explainer` — Client Explainer
-- `client-mandantenkommunikation-entscheidungsvorlage` — Client Mandantenkommunikation Entscheidungsvorlage
-- `commercial-sonderfall-und-edge-case` — Commercial Sonderfall und Edge Case
-- `common-consideration-discovery` — Common Consideration Discovery
-- `consideration-behoerden-gericht-und-registerweg` — Consideration Behoerden Gericht und Registerweg
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Tragende Normen (die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
-- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
-- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
-- Dynamische Bereiche im Common Law Kompass (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
-- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
-
-## Qualitätsanker
-
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ---
 
 ## Skill: `anschluss-routing`
 
-_Wenn es um Anschluss-Routing in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Common-Law-Kompass für deutsche Wirtschaftsjuristen._
 
 # Anschluss-Routing
 
@@ -858,11 +356,33 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `explainer-beweislast-und-darlegungslast`
+## Skill: `quellen-livecheck`
 
-_Wenn es um Explainer: Beweislast, Darlegungslast und Substantiierung in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Common-Law-Kompass für deutsche Wirtschaftsjuristen._
 
-# Explainer: Beweislast, Darlegungslast und Substantiierung
+# Rechtsquellen-Livecheck
+
+## Einsatzlage
+
+Dieser Quellen-Livecheck für **Common Law Kompass** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
+
+## Fachlandkarte dieses Plugins
+
+- `begriffe-uebersetzung-bilingual-contract` — Begriffe Übersetzung Bilingual Contract
+- `bilingual-contract-review` — Bilingual Contract Review
+- `bilinguale-client-commercial-sonderfall` — Bilinguale Client Commercial Sonderfall
+- `cl-discovery-doc-production-spezial` — CL Discovery DOC Production Spezial
+- `cl-mandantenuebersicht-cl-prozesskostenrisiko` — CL Mandantenuebersicht CL Prozesskostenrisiko
+- `cl-prozesskostenrisiko-each-party-bears-own` — CL Prozesskostenrisiko Each Party Bears OWN
+- `cl-spezial-precedent-vs-statute` — CL Spezial Precedent VS Statute
+- `cl-vertragsklauseln-vertragsbegriffe-cl` — CL Vertragsklauseln Vertragsbegriffe CL
+- `client-explainer` — Client Explainer
+- `client-mandantenkommunikation-entscheidungsvorlage` — Client Mandantenkommunikation Entscheidungsvorlage
+- `commercial-sonderfall-und-edge-case` — Commercial Sonderfall und Edge Case
+- `common-consideration-discovery` — Common Consideration Discovery
+- `consideration-behoerden-gericht-und-registerweg` — Consideration Behoerden Gericht und Registerweg
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Regelungs- und Quellenanker
 
@@ -883,90 +403,226 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Tragende Normen (die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
+- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
+- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
+- Dynamische Bereiche im Common Law Kompass (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
+- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
 
-## Spezialwissen: Explainer: Beweislast, Darlegungslast und Substantiierung
-- **Normen-/Quellenanker:** UK, US, UCC.
+## Qualitätsanker
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Explainer** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 ---
 
-## Skill: `indemnity-verhandlung-vergleich-und-eskalation`
+## Skill: `false-friends`
 
-_Wenn es um Indemnity: Verhandlung, Vergleich und Eskalation in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
+_Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Common-Law-Kompass für deutsche Wirtschaftsjuristen._
 
-# Indemnity: Verhandlung, Vergleich und Eskalation
+# Mandantenkommunikation
 
-## Regelungs- und Quellenanker
+## Arbeitsauftrag
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **common-law-kompass** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
 
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
+## Aktenstart ohne Leerlauf
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
 
-## Arbeitsweg
+## Fachliche Anker
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- EUV, AEUV, GRCh, Rom-I/Rom-II, Brüssel Ia, LugÜ, CISG und nationales Kollisionsrecht je nach Fall.
+- Gerichtsstand, anwendbares Recht, Sprache, Zustellung, Beweis, Vollstreckung und zwingendes Recht getrennt prüfen.
+- Rechtsvergleich nur als Vergleich markieren; nicht als deutsches Recht ausgeben.
 
-## Spezialwissen: Indemnity: Verhandlung, Vergleich und Eskalation
-- **Normen-/Quellenanker:** UK, US, UCC.
+## Arbeitsprodukt
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Indemnity** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
 
 ---
 
-## Skill: `client-mandantenkommunikation-entscheidungsvorlage`
+## Skill: `workflow-redteam-qualitygate`
 
-_Wenn es um Client: Mandantenkommunikation und Entscheidungsvorlage in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Common-Law-Kompass für deutsche Wirtschaftsjuristen._
 
-# Client: Mandantenkommunikation und Entscheidungsvorlage
+# Red-Team Qualitygate
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Red-Team Qualitygate** im Bereich **common-law-kompass** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- EUV, AEUV, GRCh, Rom-I/Rom-II, Brüssel Ia, LugÜ, CISG und nationales Kollisionsrecht je nach Fall.
+- Gerichtsstand, anwendbares Recht, Sprache, Zustellung, Beweis, Vollstreckung und zwingendes Recht getrennt prüfen.
+- Rechtsvergleich nur als Vergleich markieren; nicht als deutsches Recht ausgeben.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Red-Team-Checks für Common-Law-Berührung
+
+- **False Friends:** "Indemnity" ist keine Schadensersatzhaftung deutschen Stils, sondern eine vertragliche Freistellung, oft unabhängig vom Verschulden — Abgrenzung zu § 280 BGB klären.
+- **Consideration:** Keine Vertragsbindung ohne consideration im US/UK-Recht (ausgenommen deed/seal-Konstruktionen); deutsche Verträge erfüllen das oft nicht ausdrücklich, aber als implied bargain.
+- **Discovery (US Federal: FRCP 26–37):** Erheblich weiter als deutsche Beweiserhebung (§§ 142, 144 ZPO, § 810 BGB); "fishing expedition"-Verbot beachten; § 1782 USC für Hilfe aus US-Gerichten an ausländische Verfahren.
+- **Verbot der Präjudizienbindungs-Übertragung:** Deutsche Anwälte dürfen "binding precedent" nicht in deutsche Argumentation überspielen — in Deutschland gibt es keine stare-decisis-Wirkung (Ausnahme § 31 BVerfGG).
+- **Keine erfundenen Aktenzeichen:** US-Federal-Cite-Format (z. B. "_F.3d_") nur bei verifizierter Reporter-Fundstelle; Neutral-Citation (z. B. [2023] UKSC 12) auf bailii prüfen.
+- **Rechtsdienstleistungsverbot:** Beratung zu US/UK-Recht durch deutsche Anwälte ohne Zulassung dort grds. unzulässig — local counsel hinzuziehen (§ 4 EuRAG, RDG-Restrisiko).
+
+---
+
+## Skill: `gate-fehlerkatalog`
+
+_Für Gate Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Common-Law-Kompass für deutsche Wirtschaftsjuristen._
+
+# Gate Fehlerkatalog
+
+## Zweck
+
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Common Law Kompass** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
+
+## Fehlerkatalog
+
+### 1. Frist falsch berechnet oder übersehen (Statutes of Limitations je Jurisdiction)
+
+- **Symptom:** Frist falsch berechnet oder übersehen (Statutes of Limitations je Jurisdiction)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
+
+### 2. Parallelfrist vergessen (Discovery deadlines)
+
+- **Symptom:** Parallelfrist vergessen (Discovery deadlines)
+- **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
+- **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
+
+### 3. Falsche Zuständigkeit adressiert (richtig: UK Supreme Court, US Supreme Court)
+
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: UK Supreme Court, US Supreme Court)
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
+
+### 4. Beweismittel nicht gesichert (Witness statements)
+
+- **Symptom:** Beweismittel nicht gesichert (Witness statements)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
+
+### 5. Schlüsseldokument fehlt oder veraltet (Pleadings)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Pleadings)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 6. Normzitat ohne Fassungsprüfung (UK/US/Commonwealth common law)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (UK/US/Commonwealth common law)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 7. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 8. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.
+
+---
+
+## Skill: `workflow-chronologie-und-belegmatrix`
+
+_Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: Common-Law-Kompass für deutsche Wirtschaftsjuristen._
+
+# Chronologie und Belegmatrix
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Chronologie und Belegmatrix** im Bereich **common-law-kompass** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- EUV, AEUV, GRCh, Rom-I/Rom-II, Brüssel Ia, LugÜ, CISG und nationales Kollisionsrecht je nach Fall.
+- Gerichtsstand, anwendbares Recht, Sprache, Zustellung, Beweis, Vollstreckung und zwingendes Recht getrennt prüfen.
+- Rechtsvergleich nur als Vergleich markieren; nicht als deutsches Recht ausgeben.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+---
+
+## Skill: `output-waehlen`
+
+_Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Common-Law-Kompass für deutsche Wirtschaftsjuristen._
+
+# Output wählen
+
+## Einsatzlage
+
+Diese Output-Weiche für **Common Law Kompass** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
+
+## Fachlandkarte dieses Plugins
+
+- `begriffe-uebersetzung-bilingual-contract` — Begriffe Übersetzung Bilingual Contract
+- `bilingual-contract-review` — Bilingual Contract Review
+- `bilinguale-client-commercial-sonderfall` — Bilinguale Client Commercial Sonderfall
+- `cl-discovery-doc-production-spezial` — CL Discovery DOC Production Spezial
+- `cl-mandantenuebersicht-cl-prozesskostenrisiko` — CL Mandantenuebersicht CL Prozesskostenrisiko
+- `cl-prozesskostenrisiko-each-party-bears-own` — CL Prozesskostenrisiko Each Party Bears OWN
+- `cl-spezial-precedent-vs-statute` — CL Spezial Precedent VS Statute
+- `cl-vertragsklauseln-vertragsbegriffe-cl` — CL Vertragsklauseln Vertragsbegriffe CL
+- `client-explainer` — Client Explainer
+- `client-mandantenkommunikation-entscheidungsvorlage` — Client Mandantenkommunikation Entscheidungsvorlage
+- `commercial-sonderfall-und-edge-case` — Commercial Sonderfall und Edge Case
+- `common-consideration-discovery` — Common Consideration Discovery
+- `consideration-behoerden-gericht-und-registerweg` — Consideration Behoerden Gericht und Registerweg
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Regelungs- und Quellenanker
 
@@ -987,30 +643,244 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Common Law Kompass (die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
-## Spezialwissen: Client: Mandantenkommunikation und Entscheidungsvorlage
-- **Normen-/Quellenanker:** UK, US, UCC.
+## Qualitätsanker
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+---
+
+## Skill: `workflow-unterlagen-lueckenliste`
+
+_Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Common-Law-Kompass für deutsche Wirtschaftsjuristen._
+
+# Unterlagen- und Lückenliste
+
+## Aufgabe
+Nutze diesen Workflow-Skill für Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Client** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+---
+
+## Skill: `workflow-fristen-und-risikoampel`
+
+_Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Common-Law-Kompass für deutsche Wirtschaftsjuristen._
+
+# Fristen- und Risikoampel
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **common-law-kompass** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- EUV, AEUV, GRCh, Rom-I/Rom-II, Brüssel Ia, LugÜ, CISG und nationales Kollisionsrecht je nach Fall.
+- Gerichtsstand, anwendbares Recht, Sprache, Zustellung, Beweis, Vollstreckung und zwingendes Recht getrennt prüfen.
+- Rechtsvergleich nur als Vergleich markieren; nicht als deutsches Recht ausgeben.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Common-Law-Fristen (Ampelraster, mit Hinweis "keine Rechtsberatung in fremder Jurisdiktion")
+
+- **Rot — Statute of Limitations (US):** Vertrag regelmäßig 4–6 Jahre (state-spezifisch, z. B. UCC § 2-725 — 4 Jahre); Tort 1–3 Jahre; bei Gewährleistung Cliff vs. discovery rule prüfen.
+- **Rot — Limitation Act 1980 (England & Wales):** Contract 6 Jahre (s. 5); deed 12 Jahre (s. 8); tort 6 Jahre, Personenschäden 3 Jahre (s. 11); concealed fraud — Verlängerung ab discovery (s. 32).
+- **Rot — Litigation Hold / Discovery:** Bei drohendem US-Verfahren entsteht ab "reasonable anticipation of litigation" eine Aufbewahrungspflicht (Zubulake v. UBS Warburg); Verstoß = spoliation sanctions (FRCP 37(e)).
+- **Rot — Service of Process Ausland:** HZÜ/Haager Zustellungsübereinkommen; ZRHO einhalten; Direktzustellung an deutsche Partei nur über zentrale Behörde (deutsche Vorbehalte zu Art. 10 HZÜ).
+- **Gelb — Brüssel Ia (VO 1215/2012):** Wegen Brexit nicht mehr UK-anwendbar; Hague 2005/Hague 2019 prüfen; UK ist Haager Gerichtsstandsübereinkommen 2005 wieder Vertragspartei.
+- **Praxis-Tipp:** US-Verfahren keine Beratung ohne local counsel; deutsche Rechtsanwälte beraten lediglich zur deutsch-rechtlichen Relevanz (z. B. Anerkennung/Vollstreckung nach §§ 328, 722 f. ZPO).
+
+---
+
+## Skill: `unterlagen-luecken`
+
+_Für Unterlagen und Lücken: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Common-Law-Kompass für deutsche Wirtschaftsjuristen._
+
+# Unterlagen und Lücken
+
+## Einsatzlage
+
+Diese Unterlagenprüfung für **Common Law Kompass** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
+
+## Fachlandkarte dieses Plugins
+
+- `begriffe-uebersetzung-bilingual-contract` — Begriffe Übersetzung Bilingual Contract
+- `bilingual-contract-review` — Bilingual Contract Review
+- `bilinguale-client-commercial-sonderfall` — Bilinguale Client Commercial Sonderfall
+- `cl-discovery-doc-production-spezial` — CL Discovery DOC Production Spezial
+- `cl-mandantenuebersicht-cl-prozesskostenrisiko` — CL Mandantenuebersicht CL Prozesskostenrisiko
+- `cl-prozesskostenrisiko-each-party-bears-own` — CL Prozesskostenrisiko Each Party Bears OWN
+- `cl-spezial-precedent-vs-statute` — CL Spezial Precedent VS Statute
+- `cl-vertragsklauseln-vertragsbegriffe-cl` — CL Vertragsklauseln Vertragsbegriffe CL
+- `client-explainer` — Client Explainer
+- `client-mandantenkommunikation-entscheidungsvorlage` — Client Mandantenkommunikation Entscheidungsvorlage
+- `commercial-sonderfall-und-edge-case` — Commercial Sonderfall und Edge Case
+- `common-consideration-discovery` — Common Consideration Discovery
+- `consideration-behoerden-gericht-und-registerweg` — Consideration Behoerden Gericht und Registerweg
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `UCC § 2-201` — Statute of Frauds für Warenkauf.
+- `UCC § 2-313` — express warranties.
+- `UCC § 2-314` — implied warranty of merchantability.
+- `Restatement (Second) of Contracts § 17` — formation by bargain.
+- `Restatement (Second) of Contracts § 71` — consideration.
+- `Restatement (Second) of Contracts § 90` — promissory estoppel.
+- `CISG Art. 14` — Angebot.
+- `CISG Art. 18` — Annahme.
+- `CISG Art. 25` — wesentliche Vertragsverletzung.
+- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Common Law Kompass-Frage zwingend (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets)?
+- Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
+- Lückenliste priorisieren nach: fristrelevant (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), beweisrelevant, formerheblich.
+- Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
+- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `dokumente-intake`
+
+_Für Dokumentenintake: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Common-Law-Kompass für deutsche Wirtschaftsjuristen._
+
+# Dokumentenintake
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
+## Einsatzlage
+
+Dieser Dokumenten-Intake für **Common Law Kompass** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
+
+## Fachlandkarte dieses Plugins
+
+- `begriffe-uebersetzung-bilingual-contract` — Begriffe Übersetzung Bilingual Contract
+- `bilingual-contract-review` — Bilingual Contract Review
+- `bilinguale-client-commercial-sonderfall` — Bilinguale Client Commercial Sonderfall
+- `cl-discovery-doc-production-spezial` — CL Discovery DOC Production Spezial
+- `cl-mandantenuebersicht-cl-prozesskostenrisiko` — CL Mandantenuebersicht CL Prozesskostenrisiko
+- `cl-prozesskostenrisiko-each-party-bears-own` — CL Prozesskostenrisiko Each Party Bears OWN
+- `cl-spezial-precedent-vs-statute` — CL Spezial Precedent VS Statute
+- `cl-vertragsklauseln-vertragsbegriffe-cl` — CL Vertragsklauseln Vertragsbegriffe CL
+- `client-explainer` — Client Explainer
+- `client-mandantenkommunikation-entscheidungsvorlage` — Client Mandantenkommunikation Entscheidungsvorlage
+- `commercial-sonderfall-und-edge-case` — Commercial Sonderfall und Edge Case
+- `common-consideration-discovery` — Common Consideration Discovery
+- `consideration-behoerden-gericht-und-registerweg` — Consideration Behoerden Gericht und Registerweg
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `UCC § 2-201` — Statute of Frauds für Warenkauf.
+- `UCC § 2-313` — express warranties.
+- `UCC § 2-314` — implied warranty of merchantability.
+- `Restatement (Second) of Contracts § 17` — formation by bargain.
+- `Restatement (Second) of Contracts § 71` — consideration.
+- `Restatement (Second) of Contracts § 90` — promissory estoppel.
+- `CISG Art. 14` — Angebot.
+- `CISG Art. 18` — Annahme.
+- `CISG Art. 25` — wesentliche Vertragsverletzung.
+- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
+- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Common Law Kompass-Frage.
+- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
+- Tragende Normen vorläufig zuordnen: die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen — Endfeststellung erst nach Live-Check.
+- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 ---
 

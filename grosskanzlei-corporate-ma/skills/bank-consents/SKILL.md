@@ -1,6 +1,6 @@
 ---
 name: bank-consents
-description: "Wenn es um Bank Consents Change Control in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bank Consents; Arbeitsfeld: Großkanzlei Corporate/M&A."
+description: "Für Bank Consents Change Control: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: bank-consents."
 ---
 
 # Bank Consents Change Control

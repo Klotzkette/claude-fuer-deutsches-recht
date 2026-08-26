@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-aktenanlage
-description: "Wenn es um Aktenanlage im Strafbefehlsverfahren in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktenanlage im Strafbefehlsverfahren: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenanlage im Strafbefehlsverfahren

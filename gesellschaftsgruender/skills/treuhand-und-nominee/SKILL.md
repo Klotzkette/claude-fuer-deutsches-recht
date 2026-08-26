@@ -1,6 +1,6 @@
 ---
 name: treuhand-und-nominee
-description: "Wenn es um Treuhand/Nominee-Strukturen in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Treuhand/Nominee-Strukturen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuhand/Nominee-Strukturen

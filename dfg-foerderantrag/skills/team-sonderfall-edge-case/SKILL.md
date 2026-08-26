@@ -1,6 +1,6 @@
 ---
 name: team-sonderfall-edge-case
-description: "Wenn es um Team: Sonderfall und Edge-Case-Prüfung in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Team: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Team: Sonderfall und Edge-Case-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-und-architektenhaftung
-description: "Wenn es um Festsetzungen und Architektenhaftung in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Festsetzungen und Architektenhaftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Festsetzungen und Architektenhaftung

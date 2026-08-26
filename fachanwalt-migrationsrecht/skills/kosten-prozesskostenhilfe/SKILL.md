@@ -1,6 +1,6 @@
 ---
 name: kosten-prozesskostenhilfe
-description: "Wenn es um Kosten/PKH Migration: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kosten/PKH Migration: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kosten/PKH Migration: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Kosten/PKH Migration: Fachmodul im Migrationsrecht in F
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-kosten-prozesskostenhilfe` beziehungsweise Kosten/PKH Migration: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-kosten-prozesskostenhilfe.md).

@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-waren-widerruf
-description: "Wenn es um Verbraucherrecht Waren Widerruf in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Verbraucherrecht Waren Widerruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Waren mit digitalen Elementen: Updatepflicht, Interoperabilität, Mangelzeitpunkt und Händler-/Herstellerkommunikation.

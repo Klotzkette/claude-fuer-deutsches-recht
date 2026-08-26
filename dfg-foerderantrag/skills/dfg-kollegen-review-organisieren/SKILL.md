@@ -1,6 +1,6 @@
 ---
 name: dfg-kollegen-review-organisieren
-description: "Wenn es um DFG: Kollegen-Review organisieren in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DFG: Kollegen-Review organisieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DFG: Kollegen-Review organisieren

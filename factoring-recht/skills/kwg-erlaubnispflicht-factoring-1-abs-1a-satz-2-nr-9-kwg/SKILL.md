@@ -1,6 +1,6 @@
 ---
 name: kwg-erlaubnispflicht-factoring-1-abs-1a-satz-2-nr-9-kwg
-description: "Wenn es um KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG in Factoring-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KWG-Erlaubnispflicht Factoring nach § 1 Abs. 1a Satz 2 Nr. 9 KWG

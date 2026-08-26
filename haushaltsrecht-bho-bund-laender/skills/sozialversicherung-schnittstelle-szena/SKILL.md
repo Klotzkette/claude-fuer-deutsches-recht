@@ -1,6 +1,6 @@
 ---
 name: sozialversicherung-schnittstelle-szena
-description: "Wenn es um Sozialversicherung Schnittstelle Szena in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sozialversicherung Schnittstelle Szena: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sozialversicherung Schnittstelle Szena

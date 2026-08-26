@@ -1,6 +1,6 @@
 ---
 name: protective-provisions-qualitaetsgate
-description: "Wenn es um Protective Provisions und Vetorechte in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Protective Provisions und Vetorechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Protective Provisions und Vetorechte

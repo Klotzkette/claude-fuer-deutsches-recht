@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-rechtsprechungsrecherche
-description: "Wenn es um Rechtsprechungsrecherche OWi-Verkehrsrecht in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsprechungsrecherche OWi-Verkehrsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsprechungsrecherche OWi-Verkehrsrecht

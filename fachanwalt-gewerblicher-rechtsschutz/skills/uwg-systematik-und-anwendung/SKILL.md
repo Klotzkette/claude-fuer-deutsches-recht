@@ -1,6 +1,6 @@
 ---
 name: uwg-systematik-und-anwendung
-description: "Wenn es um Uwg Systematik Und Anwendung in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Uwg Systematik und Anwendung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # UWG-Systematik: § 3 (unlautere geschäftliche Handlungen), § 5 (Irreführung), § 5a (Vorenthalten wesentlicher Informationen), §§ 4 ff

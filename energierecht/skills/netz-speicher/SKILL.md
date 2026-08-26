@@ -1,6 +1,6 @@
 ---
 name: netz-speicher
-description: "Wenn es um Energierecht — Kommandocenter (Eingangs-Routing) in Energierecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energierecht — Kommandocenter (Eingangs-Routing): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energierecht — Kommandocenter (Eingangs-Routing)

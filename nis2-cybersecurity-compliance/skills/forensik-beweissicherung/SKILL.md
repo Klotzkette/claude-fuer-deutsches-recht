@@ -1,6 +1,6 @@
 ---
 name: forensik-beweissicherung
-description: "Wenn es um Forensik Beweissicherung in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Forensik Beweissicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Forensik Beweissicherung

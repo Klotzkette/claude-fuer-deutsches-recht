@@ -1,6 +1,6 @@
 ---
 name: transparenzbericht-fristennotiz-dsa-dma
-description: "Wenn es um Transparenzbericht: Fristennotiz und nächster Schritt in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transparenzbericht: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Transparenzbericht: Fristennotiz und nächster Schritt

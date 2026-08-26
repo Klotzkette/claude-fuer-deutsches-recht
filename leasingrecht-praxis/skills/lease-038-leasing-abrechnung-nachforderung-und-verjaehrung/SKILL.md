@@ -1,6 +1,6 @@
 ---
 name: lease-038-leasing-abrechnung-nachforderung-und-verjaehrung
-description: "Wenn es um Leasingrecht: Leasing Abrechnung Nachforderung und Verjährung in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Leasing Abrechnung Nachforderung und Verjährung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Leasing Abrechnung Nachforderung und Verjährung

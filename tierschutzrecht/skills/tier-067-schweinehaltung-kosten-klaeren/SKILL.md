@@ -1,6 +1,6 @@
 ---
 name: tier-067-schweinehaltung-kosten-klaeren
-description: "Wenn es um Schweinehaltung Kosten Klaeren in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schweinehaltung Kosten Klären: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tierschutzrecht. Route: tier-067-schweinehaltung-kosten-klaeren."
 ---
 
 # Schweinehaltung Kosten Klaeren

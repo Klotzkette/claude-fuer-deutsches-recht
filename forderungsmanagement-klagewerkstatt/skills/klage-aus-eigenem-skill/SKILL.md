@@ -1,6 +1,6 @@
 ---
 name: klage-aus-eigenem-skill
-description: "Wenn es um Klagewerkstatt — Laufzeit aus eigenem Skill in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klagewerkstatt — Laufzeit aus eigenem Skill: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klagewerkstatt — Laufzeit aus eigenem Skill

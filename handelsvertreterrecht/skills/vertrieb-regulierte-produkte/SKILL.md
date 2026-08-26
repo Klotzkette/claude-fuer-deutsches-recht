@@ -1,6 +1,6 @@
 ---
 name: vertrieb-regulierte-produkte
-description: "Wenn es um Vertrieb Regulierte Produkte in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertrieb Regulierte Produkte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertrieb Regulierte Produkte

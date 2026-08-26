@@ -1,6 +1,6 @@
 ---
 name: beanstandung-zwischenverfuegung
-description: "Wenn es um Beanstandung und Zwischenverfügung beantworten in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beanstandung und Zwischenverfügung beantworten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beanstandung und Zwischenverfügung beantworten

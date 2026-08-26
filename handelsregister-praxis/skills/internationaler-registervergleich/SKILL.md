@@ -1,6 +1,6 @@
 ---
 name: internationaler-registervergleich
-description: "Wenn es um Ausländische Register verstehen in Handelsregister Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Ausländische Register verstehen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Ausländische Register verstehen

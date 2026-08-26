@@ -1,6 +1,6 @@
 ---
 name: pruefkriterien-fuer-qualitaet
-description: "Wenn es um ELS-J Qualitaetspruefung in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ELS-J Qualitätsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # ELS-J Qualitaetspruefung

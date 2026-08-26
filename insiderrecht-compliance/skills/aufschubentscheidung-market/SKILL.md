@@ -1,6 +1,6 @@
 ---
 name: aufschubentscheidung-market
-description: "Wenn es um Aufschubentscheidung nach Art. 17 Abs. 4 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufschubentscheidung nach Art. 17 Abs. 4 MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufschubentscheidung nach Art. 17 Abs. 4 MAR

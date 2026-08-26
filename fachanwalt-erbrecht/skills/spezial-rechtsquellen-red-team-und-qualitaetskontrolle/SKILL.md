@@ -1,6 +1,6 @@
 ---
 name: spezial-rechtsquellen-red-team-und-qualitaetskontrolle
-description: "Wenn es um Rechtsquellen: Red-Team und Qualitätskontrolle in Fachanwalt Erbrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsquellen: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Rechtsquellen: Red-Team und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: haendler-distributor-pflichten-art-24
-description: "Wenn es um Händler-Pflichten (Distributor) — Art. 24 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Händler-Pflichten (Distributor) — Art. 24 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Händler-Pflichten (Distributor) — Art. 24 KI-VO

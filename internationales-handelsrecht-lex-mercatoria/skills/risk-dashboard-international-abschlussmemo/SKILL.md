@@ -1,6 +1,6 @@
 ---
 name: risk-dashboard-international-abschlussmemo
-description: "Wenn es um Risiko-Dashboard Internationaler Handel in Internationales Handelsrecht und Lex Mercatoria geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Risiko-Dashboard Internationaler Handel: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Risiko-Dashboard Internationaler Handel

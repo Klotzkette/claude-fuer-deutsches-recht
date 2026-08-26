@@ -1,6 +1,6 @@
 ---
 name: prioritaetenplan-erste-14-tage
-description: "Wenn es um Kaltstart und Orientierung: Erstellt einen zweiwochenplan für anmeldung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart und Orientierung: Erstellt einen zweiwochenplan für anmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart und Orientierung: Erstellt einen zweiwochenplan für anmeldung

@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-gesellschaftsrechtliche-vertretung
-description: "Wenn es um Gesellschaft als Eigentümerin in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschaft als Eigentümerin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschaft als Eigentümerin

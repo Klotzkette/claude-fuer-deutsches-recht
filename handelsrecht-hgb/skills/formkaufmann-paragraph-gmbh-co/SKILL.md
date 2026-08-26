@@ -1,6 +1,6 @@
 ---
 name: formkaufmann-paragraph-gmbh-co
-description: "Wenn es um Formkaufmann Paragraf 6 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Formkaufmann Paragraf 6 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Formkaufmann § 6 HGB

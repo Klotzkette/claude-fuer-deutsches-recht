@@ -1,6 +1,6 @@
 ---
 name: anlagen-uebergabe-an-assistenz-und-legal-tech
-description: "Wenn es um Übergabe an Assistenz und Legal Tech in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Anlagen Uebergabe An Assistenz Und Legal Tech; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Übergabe an Assistenz und Legal Tech: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: anlagen-uebergabe-an-assistenz-und-legal-tech."
 ---
 
 # Übergabe an Assistenz und Legal Tech

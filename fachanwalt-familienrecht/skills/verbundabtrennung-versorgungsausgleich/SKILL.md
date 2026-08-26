@@ -1,6 +1,6 @@
 ---
 name: verbundabtrennung-versorgungsausgleich
-description: "Wenn es um Verbundabtrennung Versorgungsausgleich in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbundabtrennung Versorgungsausgleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbundabtrennung Versorgungsausgleich: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

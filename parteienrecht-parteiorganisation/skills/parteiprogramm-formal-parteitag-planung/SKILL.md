@@ -1,6 +1,6 @@
 ---
 name: parteiprogramm-formal-parteitag-planung
-description: "Wenn es um Parteiprogramm formal in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Parteiprogramm Formal Parteitag Planung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Parteiprogramm formal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: parteiprogramm-formal-parteitag-planung."
 ---
 
 # Parteiprogramm formal

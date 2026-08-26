@@ -1,6 +1,6 @@
 ---
 name: mdma-strafrahmen-routen
-description: "Wenn es um Mdma Strafrahmen Routen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mdma Strafrahmen Routen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mdma Strafrahmen Routen

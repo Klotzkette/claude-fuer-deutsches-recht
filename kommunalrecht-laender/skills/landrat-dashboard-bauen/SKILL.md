@@ -1,6 +1,6 @@
 ---
 name: landrat-dashboard-bauen
-description: "Wenn es um Landrat Dashboard Bauen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landrat Dashboard Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landrat Dashboard Bauen

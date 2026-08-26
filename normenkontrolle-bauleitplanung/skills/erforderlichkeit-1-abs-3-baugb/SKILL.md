@@ -1,6 +1,6 @@
 ---
 name: erforderlichkeit-1-abs-3-baugb
-description: "Wenn es um Erforderlichkeit Paragraf 1 Abs. 3 BauGB in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Erforderlichkeit Paragraf 1 Abs. 3 BauGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erforderlichkeit § 1 Abs. 3 BauGB

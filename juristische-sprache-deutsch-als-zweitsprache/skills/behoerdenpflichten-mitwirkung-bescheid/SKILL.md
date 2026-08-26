@@ -1,6 +1,6 @@
 ---
 name: behoerdenpflichten-mitwirkung-bescheid
-description: "Wenn es um Behördenpflichten Mitwirkung in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Behördenpflichten Mitwirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Juristische Sprache Deutsch als Zweitsprache. Route: behoerdenpflichten-mitwirkung-bescheid."
 ---
 
 # Behördenpflichten Mitwirkung

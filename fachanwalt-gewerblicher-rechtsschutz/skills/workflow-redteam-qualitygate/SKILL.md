@@ -1,6 +1,6 @@
 ---
 name: workflow-redteam-qualitygate
-description: "Wenn es um Workflow Redteam Qualitygate in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Workflow Redteam Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Fachanwalt Gewerblicher Rechtsschutz."
 ---
 
 # Red-Team und Qualitätsgate für alle Arbeitsprodukte im gewerblichen Rechtsschutz: Schwachstellenanalyse von Schriftsätzen, Memos, Abmahnungen, EV-Anträgen und Vergleichsentwürfen

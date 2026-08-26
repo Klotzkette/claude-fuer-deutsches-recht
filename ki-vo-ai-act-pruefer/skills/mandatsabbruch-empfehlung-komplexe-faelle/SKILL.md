@@ -1,6 +1,6 @@
 ---
 name: mandatsabbruch-empfehlung-komplexe-faelle
-description: "Wenn es um Mandatsabbruch-Empfehlung bei komplexen europäischer Technikregulierungsrahmen-Fällen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Mandatsabbruch-Empfehlung bei komplexen europäischer Technikregulierungsrahmen-Fällen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandatsabbruch-Empfehlung bei komplexen KI-VO-Fällen

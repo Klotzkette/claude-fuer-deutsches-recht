@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 63 Skills des Plugins `immobilienrechtspr
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Immobilienrechtspraxis ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbi…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Immobilienrechtspraxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden n…
-3. **werkzeuge-erstpruefung-und-mandatsziel** — Wenn es um Werkzeuge: Erstprüfung, Rollenklärung und Mandatsziel in Immobilienrechtspraxis geht: klärt Rolle, Ziel, Fris…
-4. **sachverhaltsermittlung-verifikation** — Wenn es um Sachverhaltsermittlung: Compliance-Dokumentation und Aktenvermerk in Immobilienrechtspraxis geht: ordnet Akte…
-5. **bautraegerkauf-eigentumspfad-und-freistellung** — Wenn es um Bauträgerkauf: Eigentumspfad und Freistellung in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Bewei…
-6. **vertragspruefung-schriftsatz-brief-und-memo-bausteine** — Wenn es um Vertragspruefung: Schriftsatz-, Brief- und Memo-Bausteine in Immobilienrechtspraxis geht: erstellt den passen…
-7. **vertragserstellung-risikoampel-und-gegenargumente** — Wenn es um Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslinien in Immobilienrechtspraxis geht: zerle…
-8. **grundbuchanalyse-zahlen-schwellen-und-berechnung** — Wenn es um Grundbuchanalyse: Zahlen, Schwellenwerte und Berechnung in Immobilienrechtspraxis geht: rechnet Schwellen, Be…
-9. **weg-abrechnung-mieterschnittstelle-datenpaket** — Wenn es um Weg Abrechnung Mieterschnittstelle Datenpaket in Immobilienrechtspraxis geht: ordnet Akteninhalt, Belege, Lüc…
-10. **immo-bauliche-veraenderung-energieausweis** — Wenn es um Bauliche Veraenderung WEG in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **werkzeuge-erstpruefung-und-mandatsziel** — Für Werkzeuge: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Sc…
+4. **live-beweislast-und-darlegungslast** — Für Live: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislas…
+5. **spezial-pruefung-red-team-und-qualitaetskontrolle** — Für Prüfung: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit B…
+6. **betriebskostenabrechnung-pruefen-asset-management** — Für Betriebskostenabrechnung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und näc…
+7. **sachverhaltsermittlung-verifikation** — Für Sachverhaltsermittlung: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebn…
+8. **vertragspruefung-schriftsatz-brief-und-memo-bausteine** — Für Vertragsprüfung: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis:…
+9. **rechtsprechung-mandantenentscheidung** — Für Rechtsprechung: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis…
+10. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
 
 ---
 
@@ -142,7 +142,7 @@ Ausgangspunkt für dieses Plugin: Antragsteller für Antrag, Bewilligung, Vertre
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Immobilienrechtspraxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Immobilienrechtspraxis._
 
 # Einstieg und Routing
 
@@ -186,7 +186,7 @@ Dieser Einstieg routet **Immobilienrechtspraxis** vom ersten Sachverhalt zu Roll
 
 ## Skill: `werkzeuge-erstpruefung-und-mandatsziel`
 
-_Wenn es um Werkzeuge: Erstprüfung, Rollenklärung und Mandatsziel in Immobilienrechtspraxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Werkzeuge: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Werkzeuge: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -252,9 +252,169 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `live-beweislast-und-darlegungslast`
+
+_Für Live: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Immobilienrechtspraxis._
+
+# Live: Beweislast, Darlegungslast und Substantiierung
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Live: Beweislast, Darlegungslast und Substantiierung
+- **Normen-/Quellenanker:** BGB, GBO, WEG, BauGB, ErbbauRG, MaBV, Mietrecht, Grundpfandrechte, Notar-/Registervollzug und öffentlich-rechtliche Lasten.
+- **Entscheidende Weiche:** Trenne Eigentum, Besitz, Grundbuchabteilung, Belastung, Fälligkeit, Vollzug, Mängel, Miet-/Nutzungsverhältnis und Finanzierung.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Live** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `spezial-pruefung-red-team-und-qualitaetskontrolle`
+
+_Für Prüfung: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Immobilienrechtspraxis._
+
+# Pruefung: Red-Team und Qualitätskontrolle
+
+## Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `immobilienrechtspraxis`. Ausgangspunkt ist: Werkzeuge fuer immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz, Vertragspruefung gegen Playbook, Grundbuchanalyse, Sachverhaltsermittlung, Mieteranfragen, Case Management und AVV-Pruefung. Rechtsprechung nur nach Live-Verifikation.
+
+Er führt durch **Red-Team und Qualitätskontrolle** im Themenfeld **Pruefung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Pruefung.
+- **Arbeitsfokus:** Red-Team und Qualitätskontrolle.
+- **Plugin-Rahmen:** Werkzeuge fuer immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz, Vertragspruefung gegen Playbook, Grundbuchan....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+
+## Kaltstart
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Pruefung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+---
+
+## Skill: `betriebskostenabrechnung-pruefen-asset-management`
+
+_Für Betriebskostenabrechnung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Immobilienrechtspraxis._
+
+# Betriebskostenabrechnung prüfen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Betriebskostenabrechnung prüfen
+- **Normen-/Quellenanker:** BGB, GBO, WEG, BauGB, ErbbauRG, MaBV, Mietrecht, Grundpfandrechte, Notar-/Registervollzug und öffentlich-rechtliche Lasten.
+- **Entscheidende Weiche:** Trenne Eigentum, Besitz, Grundbuchabteilung, Belastung, Fälligkeit, Vollzug, Mängel, Miet-/Nutzungsverhältnis und Finanzierung.
+
+## Einstieg
+
+1. Wer prüft: Eigentümer, Käufer im Due-Diligence-Prozess, Mieter, Verwaltung, Rechtsabteilung?
+2. Was ist das Ziel: Zahlung verhindern, Nachforderung sichern, Kaufpreisrisiko bewerten, Musterfehler im Portfolio finden?
+3. Welche Abrechnung und welches Jahr? Zugangsnachweis vorhanden?
+4. Welche Daten liegen vor: Mietvertrag, Buchhaltung, WEG-Abrechnung, Rechnungen, Zahlungsbelege, Heizkosten, CO2?
+5. Gibt es mehrere Einheiten mit gleichem Fehler?
+
+## Prüfblöcke
+
+1. **Form**: Gesamtkosten, Schlüssel, Rechenweg, Vorauszahlungen, Saldo.
+2. **Frist**: Abrechnung binnen Jahresfrist zugegangen? Einwendungsfrist offen?
+3. **Kostenart**: BetrKV, Gewerbemietvertrag oder Individualabrede.
+4. **Belegtiefe**: Rechnungen plus Zahlungsbelege; bei Abflussprinzip Zahlungsfluss besonders wichtig.
+5. **Buchhaltungsabgleich**: Kostenstelle, Leistungszeitraum, Zahlung, Storno, Gutschrift.
+6. **Wirtschaftlichkeit**: ungewöhnliche Kostensteigerung, verbundene Unternehmen, Rahmenverträge, Doppelbuchung.
+7. **Schnittstellen**: WEG-Abrechnung, HeizkostenV, CO2KostAufG, Umsatzsteueroption, Gewerbe-Vorwegabzug.
+
+## Portfolio-Red-Flags
+
+- Verwalterkosten aus WEG-Abrechnung wurden automatisch auf Mieter umgelegt.
+- Reparaturanteile in Wartungsverträgen wurden nicht herausgerechnet.
+- CO2-Vermieteranteil fehlt.
+- Zahlungsbelege zeigen Skonto/Gutschrift, Abrechnung setzt Bruttorechnung an.
+- Gewerbeeinheit verursacht Sonderkosten, aber Wohnmieter tragen alles mit.
+- Abrechnung wurde nach Frist versendet, aber ohne Zugangsnachweis behauptet.
+
+## Quellenregel
+
+BGH, Urteil vom 09.04.2008 - VIII ZR 84/07, BGH, Urteil vom 09.12.2020 - VIII ZR 118/19 und BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 nur mit frei prüfbarer Quelle zitieren. Keine BeckRS- oder juris-Blindfundstellen.
+
+---
+
 ## Skill: `sachverhaltsermittlung-verifikation`
 
-_Wenn es um Sachverhaltsermittlung: Compliance-Dokumentation und Aktenvermerk in Immobilienrechtspraxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Sachverhaltsermittlung: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Sachverhaltsermittlung: Compliance-Dokumentation und Aktenvermerk
 
@@ -303,33 +463,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `bautraegerkauf-eigentumspfad-und-freistellung`
-
-_Wenn es um Bauträgerkauf: Eigentumspfad und Freistellung in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Bauträgerkauf: Eigentumspfad und Freistellung
-
-## Einsatz
-
-Nutze diesen Skill, wenn ein Immobilienerwerber vom Bauträger zahlt oder zahlen soll, bevor Eigentum lastenfrei gesichert ist.
-
-## Normenanker
-
-§§ 883, 885, 888, 925, 1113 ff., 1191 ff., 305c Abs. 2, 307, 320, 321, 650u, 650v BGB; §§ 3, 7, 12 MaBV; §§ 103, 106 InsO; GBO.
-
-## Prüfung
-
-Kontrolliere Grundbuchrang, Vormerkung, Lastenfreistellung, Globalgrundschuld, Pfandfreigabe, Käuferfinanzierung, Freigabebedingungen, Notaranderkonto und Insolvenzzeichen. Die Vormerkung schützt den Übereignungsanspruch, aber nicht automatisch Rückzahlung, Fertigstellungsmehrkosten oder Schadensersatz.
-
-## Output
-
-Erstelle eine Eigentumspfad-Tabelle mit Zahlung, Sicherung, Bankfreigabe, fehlender Voraussetzung und konkreter Zahlungsantwort.
-
----
-
 ## Skill: `vertragspruefung-schriftsatz-brief-und-memo-bausteine`
 
-_Wenn es um Vertragspruefung: Schriftsatz-, Brief- und Memo-Bausteine in Immobilienrechtspraxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Vertragsprüfung: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # Vertragspruefung: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -380,11 +516,28 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `vertragserstellung-risikoampel-und-gegenargumente`
+## Skill: `rechtsprechung-mandantenentscheidung`
 
-_Wenn es um Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslinien in Immobilienrechtspraxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Rechtsprechung: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslinien
+# Rechtsprechung: Mandantenkommunikation und Entscheidungsvorlage
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1353 Abs. 1 BGB` — eheliche Lebensgemeinschaft.
+- `§ 1360 BGB` — Familienunterhalt.
+- `§ 1565 Abs. 1 BGB` — Scheidung.
+- `§ 1570 BGB` — Betreuungsunterhalt.
+- `§ 1601 BGB` — Verwandtenunterhalt.
+- `§ 1626 Abs. 1 BGB` — elterliche Sorge.
+- `§ 1671 BGB` — Sorgerechtsuebertragung.
+- `§ 1684 BGB` — Umgangsrecht.
+- `§ 23a Abs. 1 GVG` — Familiengerichtsbarkeit.
+- `§ 113 FamFG` — Verfahrensregeln in Familienstreitsachen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -394,7 +547,7 @@ _Wenn es um Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslin
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslinien
+## Fachkern: Rechtsprechung: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** BGB, GBO, WEG, BauGB, ErbbauRG, MaBV, Mietrecht, Grundpfandrechte, Notar-/Registervollzug und öffentlich-rechtliche Lasten.
 - **Entscheidende Weiche:** Trenne Eigentum, Besitz, Grundbuchabteilung, Belastung, Fälligkeit, Vollzug, Mängel, Miet-/Nutzungsverhältnis und Finanzierung.
 
@@ -409,168 +562,47 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vertragserstellung** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsprechung** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## Materielle Weichen Immobilienvertragsgestaltung
-- **Formerfordernis Grundstückskaufvertrag (§ 311b Abs. 1 BGB):** Notarielle Beurkundung des ganzen Vertrages zwingend - auch Nebenabreden! Sind diese nicht beurkundet: Gesamtnichtigkeit nach § 125 BGB; Heilung möglich durch Auflassung und Eintragung (§ 311b Abs. 1 S. 2 BGB).
-- **Auflassung (§ 925 BGB):** Übertragungseinigung muss bei gleichzeitiger Anwesenheit vor dem Notar erklärt werden; bedingungsfeindlich. Wirksame Eigentumsübertragung erst mit Eintragung im Grundbuch (§ 873 BGB).
-- **Beurkundungsumfang:** Kaufpreis, Kaufgegenstand, Übergabezeitpunkt, Lasten- und Nutzungsübergang, Gewährleistung (im B2C nicht unter Verbraucherrecht abdingbar), Auflassungsvormerkung, Grunderwerbsteuer, Notarkosten, Maklercourtage.
-- **Klauseln zur Beachtung:** Ausschluss der Sachmängelhaftung "wie besichtigt und steht und liegt" wirksam bei gebrauchten Immobilien (§§ 444, 442 BGB); unwirksam bei Arglist (§ 444 BGB) und bei Beschaffenheitsgarantie. Bei Neubau (Bauträger): Sachmängelhaftung MaBV-konform fünf Jahre nicht abdingbar.
-- **MaBV bei Bauträgervertrag:** § 3 MaBV setzt Sicherungsstandards (Erfüllungsbürgschaft 5% oder Vertragserfüllungsbürgschaft); Zahlungsraten nach Baufortschritt aus § 3 Abs. 2 MaBV verbindlich.
-- **Steuern und Nebenkosten:** Grunderwerbsteuer (bundesländerabhängig 3,5-6,5%), Notar- und Gerichtskosten ca. 1,5-2% des Kaufpreises, Maklerprovision (im B2C bei Wohnimmobilien zwingend hälftig zu teilen, § 656c BGB - Gesetz zur Verteilung der Maklerkosten 2020).
-- **Praktiker-Tipp:** Bei Bau- und Modernisierungsverpflichtungen des Verkäufers immer Sicherheit für die Erfüllung vereinbaren (Bankbürgschaft, Sperrkonto). Bei Share Deal: § 1 Abs. 2a/3 GrEStG (Anteilsübertragungen) prüfen - 90%-Schwelle, 10-Jahres-Frist.
-
 ---
 
-## Skill: `grundbuchanalyse-zahlen-schwellen-und-berechnung`
+## Skill: `workflow-kaltstart-und-routing`
 
-_Wenn es um Grundbuchanalyse: Zahlen, Schwellenwerte und Berechnung in Immobilienrechtspraxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Immobilienrechtspraxis._
 
-# Grundbuchanalyse: Zahlen, Schwellenwerte und Berechnung
+# Kaltstart und Routing
 
-## Arbeitsweg
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
 
-## Fachkern: Grundbuchanalyse: Zahlen, Schwellenwerte und Berechnung
-- **Normen-/Quellenanker:** BGB, GBO, WEG, BauGB, ErbbauRG, MaBV, Mietrecht, Grundpfandrechte, Notar-/Registervollzug und öffentlich-rechtliche Lasten.
-- **Entscheidende Weiche:** Trenne Eigentum, Besitz, Grundbuchabteilung, Belastung, Fälligkeit, Vollzug, Mängel, Miet-/Nutzungsverhältnis und Finanzierung.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Grundbuchanalyse** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
-## Materielle Weichen Grundbuchanalyse
-- **Aufbau Grundbuch (§ 3 GBO i.V.m. GBV):** Bestandsverzeichnis (Lage, Flur, Flurstück, Größe), Abteilung I (Eigentümer), Abteilung II (Lasten/Beschränkungen: Wegerechte, Nießbrauch, Wohnrecht, Vorkaufsrechte, Auflassungsvormerkung), Abteilung III (Grundpfandrechte: Hypothek, Grundschuld, Rentenschuld).
-- **Öffentlicher Glaube (§ 892 BGB):** Wer im Grundbuch eingetragen ist, gilt im Rechtsverkehr als Berechtigter; gutgläubiger Erwerb vom Nichtberechtigten möglich, soweit kein Widerspruch eingetragen ist (§§ 892, 899 BGB).
-- **Auflassungsvormerkung (§ 883 BGB):** Sichert den schuldrechtlichen Übereignungsanspruch des Käufers. Nach Eintragung sind alle Verfügungen des Verkäufers gegenüber dem Vormerkungsberechtigten relativ unwirksam (§ 883 Abs. 2 BGB).
-- **Grundschuld vs. Hypothek:** Grundschuld (§ 1191 BGB) ist akzessorisch nur in der Sicherungsabrede, nicht im Grundbuch - eintragsmäßig nicht-akzessorisch; Hypothek (§ 1113 BGB) ist akzessorisch zur Forderung. Praxis: Grundschuld dominiert wegen Wiedereinsetzbarkeit. Sicherungsabrede separat prüfen.
-- **Rangordnung (§ 879 BGB):** Eintragungsdatum entscheidet über Rang; Rangänderung nur durch Einigung und Eintragung (§ 880 BGB). Bei Zwangsversteigerung folgen die Verteilungen dem Rang (§§ 10 ff. ZVG).
-- **Löschungsbewilligung:** Eingetragene Belastungen löschen nur mit Bewilligung des Berechtigten (§ 19 GBO) und in notariell beglaubigter Form. Briefgrundschuld erfordert zusätzlich Briefvorlage.
-- **Praktiker-Tipp:** Grundbuchauszug muss in Beurkundungssachen aktuell sein (in der Praxis nicht älter als 14 Tage); ältere Auszüge bergen Risiko übersehener Zwischeneintragungen. Im Insolvenzfall des Verkäufers blockiert die Vormerkung den Insolvenzverwalter.
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
----
-
-## Skill: `weg-abrechnung-mieterschnittstelle-datenpaket`
-
-_Wenn es um Weg Abrechnung Mieterschnittstelle Datenpaket in Immobilienrechtspraxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Datenpaket WEG-Abrechnung zu Mietern: übersetzt Jahresabrechnung, Einzelabrechnung, Wirtschaftsplan, Heizkosten, CO2-Daten und Belege in eine mietrechtlich brauchbare Betriebskostenabrechnung
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Datenpaket WEG-Abrechnung zu Mietern: übersetzt Jahresabrechnung, Einzelabrechnung, Wirtschaftsplan, Heizkosten, CO2-Daten und Belege in eine mietrechtlich brauchbare Betriebskostenabrechnung; mit Abrechnungsspitze, nicht umlagefähigen Positionen und Eigentümerkommunikation.
-
-### WEG-Abrechnung als Mieterdatenpaket
-
-## Fachkern: WEG-Abrechnung als Mieterdatenpaket
-- **Normen-/Quellenanker:** BGB, GBO, WEG, BauGB, ErbbauRG, MaBV, Mietrecht, Grundpfandrechte, Notar-/Registervollzug und öffentlich-rechtliche Lasten.
-- **Entscheidende Weiche:** Trenne Eigentum, Besitz, Grundbuchabteilung, Belastung, Fälligkeit, Vollzug, Mängel, Miet-/Nutzungsverhältnis und Finanzierung.
-
-## Trennung
-
-- **GdWE/Eigentümer**: Nachschüsse und Vorschussanpassungen aus § 28 Abs. 2 WEG.
-- **Vermieter/Mieter**: Betriebskosten nach Mietvertrag, BetrKV, HeizkostenV, CO2KostAufG und § 556 BGB.
-- **Hausverwaltung**: Datenlieferantin, nicht automatisch mietrechtliche Abrechnungsstelle.
-
-## Datenanforderung an WEG-Verwaltung
-
-1. Gesamt- und Einzelabrechnung.
-2. Verteilungsschlüssel je Kostenart.
-3. Rechnungen und Zahlungsbelege.
-4. Heizkostenabrechnung mit Nutzerwechseln.
-5. CO2-Daten aus Brennstoffrechnung.
-6. Tätigkeits-/Stundenlisten für Hausmeister.
-7. Liste nicht umlagefähiger Kosten: Verwalter, Rücklage, Reparaturen, Prozesskosten, Bank-/Finanzierungskosten.
-
-## Übersetzungstabelle
-
-| WEG-Unterlage | Mietrechtliche Nutzung | Risiko |
-| --- | --- | --- |
-| Einzelabrechnung | Ausgangsdaten | enthält nicht umlagefähige Positionen |
-| Wirtschaftsplan | Vorauszahlungsprognose | keine Jahresabrechnung |
-| Beschluss § 28 WEG | Zahlungspflicht Eigentümer | nicht Zahlungspflicht Mieter |
-| Vermögensbericht | Transparenz WEG | nicht in Betriebskostenabrechnung |
-| Heizkostenanlage | Mieterabrechnung | HeizkostenV/CO2 prüfen |
-
----
-
-## Skill: `immo-bauliche-veraenderung-energieausweis`
-
-_Wenn es um Bauliche Veraenderung WEG in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Bauliche Veraenderung WEG
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Bauliche Veraenderung WEG
-- **Normen-/Quellenanker:** BGB, GBO, WEG, BauGB, ErbbauRG, MaBV, Mietrecht, Grundpfandrechte, Notar-/Registervollzug und öffentlich-rechtliche Lasten.
-- **Entscheidende Weiche:** Trenne Eigentum, Besitz, Grundbuchabteilung, Belastung, Fälligkeit, Vollzug, Mängel, Miet-/Nutzungsverhältnis und Finanzierung.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ---
 

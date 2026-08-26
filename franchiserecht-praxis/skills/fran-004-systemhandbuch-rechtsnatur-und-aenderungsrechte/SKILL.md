@@ -1,6 +1,6 @@
 ---
 name: fran-004-systemhandbuch-rechtsnatur-und-aenderungsrechte
-description: "Wenn es um Franchiserecht: Systemhandbuch Rechtsnatur und Änderungsrechte in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Systemhandbuch Rechtsnatur und Änderungsrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Systemhandbuch Rechtsnatur und Änderungsrechte

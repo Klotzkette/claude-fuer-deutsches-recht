@@ -1,6 +1,6 @@
 ---
 name: betriebspruefung-strafrecht-393-ao
-description: "Wenn es um Aussenpruefung und Strafverfahren — Paragraf 393 AO nemo tenetur in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Außenprüfung und Strafverfahren — Paragraf 393 AO nemo tenetur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Aussenpruefung und Strafverfahren — § 393 AO nemo tenetur

@@ -1,6 +1,6 @@
 ---
 name: beitragsschuld-saeumniszuschlag-und-ruhen-der-leistung
-description: "Wenn es um Beitragsschuld, Säumniszuschlag und Ruhen der Leistung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beitragsschuld, Säumniszuschlag und Ruhen der Leistung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beitragsschuld, Säumniszuschlag und Ruhen der Leistung

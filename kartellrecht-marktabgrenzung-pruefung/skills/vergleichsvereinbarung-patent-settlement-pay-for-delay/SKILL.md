@@ -1,6 +1,6 @@
 ---
 name: vergleichsvereinbarung-patent-settlement-pay-for-delay
-description: "Wenn es um Vergleichsvereinbarung Patent Settlement Pay-for-delay in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleichsvereinbarung Patent Settlement Pay-for-delay: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleichsvereinbarung Patent Settlement Pay-for-delay

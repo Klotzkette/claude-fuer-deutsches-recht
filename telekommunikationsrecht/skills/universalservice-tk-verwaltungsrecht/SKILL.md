@@ -1,6 +1,6 @@
 ---
 name: universalservice-tk-verwaltungsrecht
-description: "Wenn es um Universaldienst und Mindestversorgung in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Universaldienst und Mindestversorgung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Universaldienst und Mindestversorgung

@@ -1,6 +1,6 @@
 ---
 name: chronologie-und-belegmatrix
-description: "Wenn es um Chronologie und Belegmatrix in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Chronologie und Belegmatrix

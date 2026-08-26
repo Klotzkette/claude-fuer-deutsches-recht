@@ -1,6 +1,6 @@
 ---
 name: trade-conflict
-description: "Wenn es um Trade-Secret-Leak und Geheimnisverrat in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Trade-Secret-Leak und Geheimnisverrat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trade-Secret-Leak und Geheimnisverrat

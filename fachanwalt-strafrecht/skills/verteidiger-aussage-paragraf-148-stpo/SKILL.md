@@ -1,6 +1,6 @@
 ---
 name: verteidiger-aussage-paragraf-148-stpo
-description: "Wenn es um Verteidiger Aussage Paragraf 148 StPO in Fachanwalt Strafrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verteidiger Aussage Paragraf 148 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verteidiger Aussage § 148 StPO

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-dokumentenfreigabe
-description: "Wenn es um Datenschutz und Dokumentenfreigabe in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Datenschutz und Dokumentenfreigabe: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz und Dokumentenfreigabe

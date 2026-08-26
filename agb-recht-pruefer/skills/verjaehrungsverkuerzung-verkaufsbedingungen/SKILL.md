@@ -1,6 +1,6 @@
 ---
 name: verjaehrungsverkuerzung-verkaufsbedingungen
-description: "Wenn es um Verjährungsverkürzung in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Verjaehrungsverkuerzung Verkaufsbedingungen; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Verjährungsverkürzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: verjaehrungsverkuerzung-verkaufsbedingungen."
 ---
 
 # Verjährungsverkürzung

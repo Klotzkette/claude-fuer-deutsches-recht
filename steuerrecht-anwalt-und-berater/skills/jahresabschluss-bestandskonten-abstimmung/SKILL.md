@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-bestandskonten-abstimmung
-description: "Wenn es um Bestandskonten-Abstimmung zum Jahresabschluss in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bestandskonten-Abstimmung zum Jahresabschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bestandskonten-Abstimmung zum Jahresabschluss

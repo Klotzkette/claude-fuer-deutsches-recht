@@ -1,6 +1,6 @@
 ---
 name: darlehen-und-finanzierung
-description: "Wenn es um Darlehen und Finanzierung in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Darlehen und Finanzierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Darlehen und Finanzierung

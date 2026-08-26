@@ -1,6 +1,6 @@
 ---
 name: gegen-gelb-gleicht
-description: "Wenn es um Gegen: Dokumentenmatrix, Lückenliste und Nachforderung in NDA-Abgleich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Gegen Gelb Gleicht; Arbeitsfeld: NDA-Abgleich."
+description: "Für Gegen: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gegen: Dokumentenmatrix, Lückenliste und Nachforderung

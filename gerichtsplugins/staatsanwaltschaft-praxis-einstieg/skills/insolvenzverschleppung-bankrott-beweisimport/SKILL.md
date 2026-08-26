@@ -1,6 +1,6 @@
 ---
 name: insolvenzverschleppung-bankrott-beweisimport
-description: "Wenn es um Insolvenzverschleppung und Bankrott: Tatzeitraum sauber schneiden in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Insolvenzverschleppung Bankrott Beweisimport; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
+description: "Für Insolvenzverschleppung und Bankrott: Tatzeitraum sauber schneiden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insolvenzverschleppung und Bankrott: Tatzeitraum sauber schneiden

@@ -1,6 +1,6 @@
 ---
 name: patentprozess-einstweilige-verfuegung
-description: "Wenn es um Patentprozess: Einstweilige Verfügung DE/UPC in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Patentprozess: Einstweilige Verfügung DE/UPC: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentprozess: Einstweilige Verfügung DE/UPC

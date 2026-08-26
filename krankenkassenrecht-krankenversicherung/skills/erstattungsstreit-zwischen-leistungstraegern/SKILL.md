@@ -1,6 +1,6 @@
 ---
 name: erstattungsstreit-zwischen-leistungstraegern
-description: "Wenn es um Erstattungsstreit zwischen Leistungsträgern in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erstattungsstreit zwischen Leistungsträgern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erstattungsstreit zwischen Leistungsträgern

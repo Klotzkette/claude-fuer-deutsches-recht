@@ -220,7 +220,6 @@ Lieferstück: Fachvotum zu Cyber-Vorfall-Sofortmaßnahmen Ransomware Datenleck H
 
 Bearbeitungsauftrag: Ein Anbieter oder eine Konzerngesellschaft erhält von einer Behörde oder einem Gericht außerhalb des Europäischen Wirtschaftsraums ein Herausgabeverlangen. Adressat, ausstellende Stelle, Rechtsgrundlage, territoriale Reichweite und tatsächliche Verfügungsgewalt über Daten und Schlüssel klären. Datenlandkarte erstellen: betroffene Personen, Kategorien, Speicherorte, Mandanten, Verantwortlicher, Auftragsverarbeiter und Unterauftragnehmer.
 Prüfschritte: Zu klären sind Verpflichteter, Reichweite, internationale Rechtshilfe, Übermittlungsgrundlage, Widerspruchsmöglichkeiten und technische Datenhoheit.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Trenne Bindungswirkung, Artikel 48, Rechtsgrundlage, Drittlandtransfer, Datenpanne und Geheimnisschutz und liefert Hold-Notice, Antwortstrategie, Behördenweg.
 Lieferstück: Fachvotum zu Drittstaatliches Herausgabeverlangen datenschutzrechtlich prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.5. IT-Vertrag-Verhandlung / EU-ODR
@@ -256,7 +255,6 @@ Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründu
 
 Bearbeitungsauftrag: Zu unterscheiden sind Adressat und Verantwortlichkeit, schuldhafte Begehung, Zurechnung sowie die erst danach folgende Berechnung des gesetzlichen Höchstbetrags. Erforderlich bleibt eine vorsätzliche oder fahrlässige Begehung. Dieselbe Entscheidung: Gehört der Bußgeldadressat zu einer wirtschaftlichen Einheit, wird der Höchstbetrag anhand des Umsatzes dieser Einheit berechnet.
 Prüfschritte: Eine Aufsichtsbehörde wirft einer juristischen Person einen Datenschutzverstoß vor und bemisst das Bußgeld anhand eines Konzernumsatzes.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe Bußgeldverfahren gegen Unternehmen nach Artikel 83 Datenschutz-Grundverordnung.
 Lieferstück: Fachvotum zu Unternehmensbußgeld nach Artikel 83 Datenschutz-Grundverordnung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.11. Itil sla Vertragsstrafe

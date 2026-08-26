@@ -1,0 +1,232 @@
+# Lohnabrechnung und Arbeitgeberpflichten: Meldungen und Sozialversicherung
+
+Diese Datei wird nur geladen, wenn der konkrete Vorgang in diese Fallgruppe fällt.
+
+## Umlagen U1, U2, Insolvenzgeld
+
+Auswahlsignal: Wenn es um Umlagen U1, U2, Insolvenzgeld in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Lohn Umlage U1 U2 Insogeld; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte.
+
+### Umlagen U1, U2, Insolvenzgeld
+
+#### Fachlicher Anker
+
+- **Normen:** § 6a, § 1, § 7.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+#### Kernsachverhalt
+
+Drei Umlagen lasten ausschließlich auf dem AG (AN-Anteil null):
+- **U1** (Aufwendungsausgleich Krankheit): Erstattung Entgeltfortzahlung im Krankheitsfall; Pflicht für Kleinunternehmer bis 30 AN; Erstattung 80 Prozent.
+- **U2** (Aufwendungsausgleich Mutterschaft): Erstattung Mutterschutzlohn und AG-Zuschuss Mutterschaftsgeld; Pflicht aller AG; Erstattung 100 Prozent.
+- **Insolvenzgeld-Umlage**: Beitrag zur Finanzierung des Insolvenzgeldes; Pflicht aller AG (Ausnahme Privathaushalte).
+
+#### Kaltstart-Rueckfragen
+
+1. Mitarbeiterzahl im Mandantenbetrieb (U1-Pflicht-Prüfung)?
+2. Welche Krankenkassen vertreten (Beitragssatz U1 KK-individuell)?
+3. Welche AN sind in Erstattungsbasis einbezogen (Vollzeit, Teilzeit, Minijob)?
+4. Wann letzte Erstattungs-Antraege gestellt?
+5. Bei drohendem AG-Wechsel: Datenuebernahme Umlage-Beitraege?
+6. BG-Beitrag Insolvenzgeld-Umlage aktualisiert?
+7. Welche jaehrliche Anpassung?
+8. Welche Privathaushalts-Konstellation (Minijob-Sonderfall)?
+
+#### Rechtlicher Rahmen
+
+##### Primaernormen
+
+**AAG (Aufwendungsausgleichsgesetz)** — U1/U2.
+
+**§ 1 AAG** — Geltungsbereich U1.
+
+**§ 7 AAG** — Berechnung Umlage.
+
+**§ 358 SGB III** — Insolvenzgeld-Umlage.
+
+**§ 165 SGB III** — Insolvenzgeld.
+
+##### Verwaltungsanweisungen
+
+- KK-individuelle Satzungen.
+- BMAS Rundschreiben.
+
+#### Workflow
+
+##### Phase 1 — U1-Pflicht-Prüfung
+
+- AG mit max. 30 AN ist U1-pflichtig.
+- Prüfung jaehrlich zum 1. Januar (Berechnung Durchschnitt Vorjahr).
+- Minijobs werden mit Faktor 0,75 angerechnet.
+- Pflicht-Wechsel mit naechstem Kalenderjahr.
+
+##### Phase 2 — Berechnungs-Basis
+
+- Umlagebeitrag = Bemessungsgrundlage x Umlagesatz.
+- Bemessungsgrundlage U1/U2: rentenversicherungspflichtiges Brutto bis zur BBG der RV (§ 7 AAG).
+- U1 Satz: KK-individuell (variiert nach KK-Satzung); typisch 1,0-3,0 Prozent.
+- U2 Satz: KK-individuell; typisch 0,2-0,5 Prozent.
+- Insolvenzgeld-Umlage: bundeseinheitlich, festgesetzt durch Insolvenzgeldumlageverordnung; 2024: 0,06 Prozent; 2025: 0,06 Prozent (unveraendert; Insolvenzgeldumlageverordnung 2026 zum Jahreswechsel prüfen).
+
+##### Phase 3 — Erstattungsantraege
+
+- U1 bei Krankheit: AG zahlt Entgeltfortzahlung weiter; beantragt Erstattung 80 Prozent bei KK.
+- U2 bei Mutterschaft: AG zahlt Zuschuss zum Mutterschaftsgeld; beantragt Erstattung 100 Prozent bei KK.
+- Antrag: über sv.net oder DAKOTA.
+- Frist: 3 Monate nach Beendigung des Ereignisses (KK-Satzung).
+
+##### Phase 4 — Insolvenzgeld-Umlage
+
+- Bundeseinheitlich; 2025: 0,06 Prozent (Insolvenzgeldumlageverordnung; Satz 2026 zum Jahreswechsel prüfen).
+- Faellig zusammen mit SV-Beitragsnachweis.
+- Wird über die Krankenkassen eingezogen.
+
+##### Phase 5 — Buchung im Hauptbuch
+
+- Lohnnebenkosten Umlagen (Konto 4140 oder 6140 SKR 03).
+- AG-Aufwand.
+- Bei Erstattung: Gegenbuchung (Konto 4141 oder Verbuchung zu Lohnnebenkosten).
+
+##### Phase 6 — Dokumentation
+
+- Erstattungsantraege archivieren.
+- KK-Bescheide über Erstattung.
+- Beleg im Lohnordner.
+
+#### Strategie und Praxis-Tipps
+
+- U1-Pflicht-Prüfung jaehrlich zum 1. Januar — nicht vergessen.
+- U2 ist UNABHAENGIG von Betriebsgroesse Pflicht.
+- Insolvenzgeld-Umlage entfaellt für Privathaushalte (Privathaushalts-Minijob).
+- Erstattungsantraege rechtzeitig stellen — Frist max. 4 Jahre.
+- Bei wechselnder Mitarbeiterzahl über 30: U1-Wechsel zum Jahreswechsel.
+- StBVV: in Lohnpauschale.
+- DATEV-Tipp: DATEV LODAS Umlage-Konfiguration mit jaehrlicher Pflicht-Aktualisierung.
+
+#### Quellen und Updates
+
+Stand: 05/2026.
+
+- AAG §§ 1, 7.
+- SGB III §§ 165, 358.
+- KK-Satzungen.
+- BMAS Rundschreiben.
+- Insolvenzgeld-Umlage 2025: 0,06 Prozent; Insolvenzgeldumlageverordnung 2026 prüfen.
+## Umlagen U1, U2, Insolvenzgeld
+
+Auswahlsignal: Wenn es um Umlagen U1, U2, Insolvenzgeld in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Lohn Umlage U1 U2 Insogeld Umlage; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte.
+
+### Umlagen U1, U2, Insolvenzgeld
+
+#### Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+#### Fachlicher Kern — Steuerrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Umlagen U1, U2, Insolvenzgeld` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
+- **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+#### Kernsachverhalt
+
+Drei Umlagen lasten ausschließlich auf dem AG (AN-Anteil null):
+- **U1** (Aufwendungsausgleich Krankheit): Erstattung Entgeltfortzahlung im Krankheitsfall; Pflicht für Kleinunternehmer bis 30 AN; Erstattung 80 Prozent.
+- **U2** (Aufwendungsausgleich Mutterschaft): Erstattung Mutterschutzlohn und AG-Zuschuss Mutterschaftsgeld; Pflicht aller AG; Erstattung 100 Prozent.
+- **Insolvenzgeld-Umlage**: Beitrag zur Finanzierung des Insolvenzgeldes; Pflicht aller AG (Ausnahme Privathaushalte).
+
+#### Kaltstart-Rueckfragen
+
+1. Mitarbeiterzahl im Mandantenbetrieb (U1-Pflicht-Prüfung)?
+2. Welche Krankenkassen vertreten (Beitragssatz U1 KK-individuell)?
+3. Welche AN sind in Erstattungsbasis einbezogen (Vollzeit, Teilzeit, Minijob)?
+4. Wann letzte Erstattungs-Antraege gestellt?
+5. Bei drohendem AG-Wechsel: Datenuebernahme Umlage-Beitraege?
+6. BG-Beitrag Insolvenzgeld-Umlage aktualisiert?
+7. Welche jaehrliche Anpassung?
+8. Welche Privathaushalts-Konstellation (Minijob-Sonderfall)?
+
+#### Rechtlicher Rahmen
+
+##### Primaernormen
+
+**AAG (Aufwendungsausgleichsgesetz)** — U1/U2.
+
+**§ 1 AAG** — Geltungsbereich U1.
+
+**§ 7 AAG** — Berechnung Umlage.
+
+**§ 358 SGB III** — Insolvenzgeld-Umlage.
+
+**§ 165 SGB III** — Insolvenzgeld.
+
+##### Verwaltungsanweisungen
+
+- KK-individuelle Satzungen.
+- BMAS Rundschreiben.
+
+#### Workflow
+
+##### Phase 1 — U1-Pflicht-Prüfung
+
+- AG mit max. 30 AN ist U1-pflichtig.
+- Prüfung jaehrlich zum 1. Januar (Berechnung Durchschnitt Vorjahr).
+- Minijobs werden mit Faktor 0,75 angerechnet.
+- Pflicht-Wechsel mit naechstem Kalenderjahr.
+
+##### Phase 2 — Berechnungs-Basis
+
+- Umlagebeitrag = Bemessungsgrundlage x Umlagesatz.
+- Bemessungsgrundlage U1/U2: rentenversicherungspflichtiges Brutto bis zur BBG der RV (§ 7 AAG).
+- U1 Satz: KK-individuell (variiert nach KK-Satzung); typisch 1,0-3,0 Prozent.
+- U2 Satz: KK-individuell; typisch 0,2-0,5 Prozent.
+- Insolvenzgeld-Umlage: bundeseinheitlich, festgesetzt durch Insolvenzgeldumlageverordnung; 2024: 0,06 Prozent; 2025: 0,06 Prozent (unveraendert; Insolvenzgeldumlageverordnung 2026 zum Jahreswechsel prüfen).
+
+##### Phase 3 — Erstattungsantraege
+
+- U1 bei Krankheit: AG zahlt Entgeltfortzahlung weiter; beantragt Erstattung 80 Prozent bei KK.
+- U2 bei Mutterschaft: AG zahlt Zuschuss zum Mutterschaftsgeld; beantragt Erstattung 100 Prozent bei KK.
+- Antrag: über sv.net oder DAKOTA.
+- Frist: 3 Monate nach Beendigung des Ereignisses (KK-Satzung).
+
+##### Phase 4 — Insolvenzgeld-Umlage
+
+- Bundeseinheitlich; 2025: 0,06 Prozent (Insolvenzgeldumlageverordnung; Satz 2026 zum Jahreswechsel prüfen).
+- Faellig zusammen mit SV-Beitragsnachweis.
+- Wird über die Krankenkassen eingezogen.
+
+##### Phase 5 — Buchung im Hauptbuch
+
+- Lohnnebenkosten Umlagen (Konto 4140 oder 6140 SKR 03).
+- AG-Aufwand.
+- Bei Erstattung: Gegenbuchung (Konto 4141 oder Verbuchung zu Lohnnebenkosten).
+
+##### Phase 6 — Dokumentation
+
+- Erstattungsantraege archivieren.
+- KK-Bescheide über Erstattung.
+- Beleg im Lohnordner.
+
+#### Strategie und Praxis-Tipps
+
+- U1-Pflicht-Prüfung jaehrlich zum 1. Januar — nicht vergessen.
+- U2 ist UNABHAENGIG von Betriebsgroesse Pflicht.
+- Insolvenzgeld-Umlage entfaellt für Privathaushalte (Privathaushalts-Minijob).
+- Erstattungsantraege rechtzeitig stellen — Frist max. 4 Jahre.
+- Bei wechselnder Mitarbeiterzahl über 30: U1-Wechsel zum Jahreswechsel.
+- StBVV: in Lohnpauschale.
+- DATEV-Tipp: DATEV LODAS Umlage-Konfiguration mit jaehrlicher Pflicht-Aktualisierung.
+
+#### Quellen und Updates
+
+Stand: 05/2026.
+
+- AAG §§ 1, 7.
+- SGB III §§ 165, 358.
+- KK-Satzungen.
+- BMAS Rundschreiben.
+- Insolvenzgeld-Umlage 2025: 0,06 Prozent; Insolvenzgeldumlageverordnung 2026 prüfen.

@@ -1,6 +1,6 @@
 ---
 name: batteriespeicher-klagefrist-sichern
-description: "Wenn es um Batteriespeicher Klagefrist Sichern in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Batteriespeicher Klagefrist Sichern: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Batteriespeicher Klagefrist Sichern

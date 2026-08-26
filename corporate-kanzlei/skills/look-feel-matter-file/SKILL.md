@@ -1,6 +1,6 @@
 ---
 name: look-feel-matter-file
-description: "Wenn es um Corporate-Cowork-Look — Design und Ausgabestandard in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Look Feel Matter File; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Corporate-Cowork-Look — Design und Ausgabestandard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: look-feel-matter-file."
 ---
 
 # Corporate-Cowork-Look — Design und Ausgabestandard

@@ -1,6 +1,6 @@
 ---
 name: data-license-training
-description: "Wenn es um Datenlizenz für Training und Software in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenlizenz für Training und Software: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenlizenz für Training und Software

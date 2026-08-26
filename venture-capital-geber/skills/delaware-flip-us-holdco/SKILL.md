@@ -1,6 +1,6 @@
 ---
 name: delaware-flip-us-holdco
-description: "Wenn es um Delaware Flip und US-HoldCo in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Delaware Flip und US-HoldCo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Delaware Flip und US-HoldCo

@@ -1,6 +1,6 @@
 ---
 name: steuerschulden-und-strafsteuer
-description: "Wenn es um Steuerschulden Und Strafsteuer in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuerschulden und Strafsteuer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen.

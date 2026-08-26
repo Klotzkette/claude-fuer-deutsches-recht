@@ -1,6 +1,6 @@
 ---
 name: polizei-vorladung-rechtsantragsstelle
-description: "Wenn es um Polizei-Vorladung als Zeuge in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Polizei-Vorladung als Zeuge: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Polizei-Vorladung als Zeuge

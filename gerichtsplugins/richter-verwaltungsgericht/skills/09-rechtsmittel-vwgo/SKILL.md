@@ -1,6 +1,6 @@
 ---
 name: 09-rechtsmittel-vwgo
-description: "Wenn es um 09 Rechtsmittel Vwgo in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 09 Rechtsmittel VwGO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 09 Rechtsmittel Vwgo

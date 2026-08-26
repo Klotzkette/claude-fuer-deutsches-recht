@@ -1,6 +1,6 @@
 ---
 name: derivative-right-adaptations
-description: "Wenn es um Derivative Right und Adaptations in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Derivative Right und Adaptations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Derivative Right und Adaptations

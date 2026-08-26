@@ -1,6 +1,6 @@
 ---
 name: e-commerce-influencer-werbung
-description: "Wenn es um Franchiserecht: E-Commerce-Franchise, Retouren und Widerrufsrecht in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: E-Commerce-Franchise, Retouren und Widerrufsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: E-Commerce-Franchise, Retouren und Widerrufsrecht

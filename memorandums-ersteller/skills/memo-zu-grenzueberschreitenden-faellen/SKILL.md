@@ -1,6 +1,6 @@
 ---
 name: memo-zu-grenzueberschreitenden-faellen
-description: "Wenn es um Grenzueberschreitender-Fall-Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Grenzüberschreitender-Fall-Memo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Grenzueberschreitender-Fall-Memo

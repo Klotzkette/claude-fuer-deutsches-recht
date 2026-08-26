@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-verteidigung-schule-elternchat
-description: "Wenn es um Stellungnahme und Verteidigung in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stellungnahme und Verteidigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stellungnahme und Verteidigung

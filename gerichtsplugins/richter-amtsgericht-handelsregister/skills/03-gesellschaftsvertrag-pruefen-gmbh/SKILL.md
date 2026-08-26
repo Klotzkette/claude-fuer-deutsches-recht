@@ -1,6 +1,6 @@
 ---
 name: 03-gesellschaftsvertrag-pruefen-gmbh
-description: "Wenn es um 03 Gesellschaftsvertrag Prüfen Gmbh in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 03 Gesellschaftsvertrag Prüfen GmbH: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 03 Gesellschaftsvertrag Prüfen Gmbh

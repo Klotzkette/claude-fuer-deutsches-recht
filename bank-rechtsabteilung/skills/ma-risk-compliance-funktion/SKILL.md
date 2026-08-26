@@ -1,6 +1,6 @@
 ---
 name: ma-risk-compliance-funktion
-description: "Wenn es um MaRisk Compliance-Funktion in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für MaRisk Compliance-Funktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MaRisk Compliance-Funktion

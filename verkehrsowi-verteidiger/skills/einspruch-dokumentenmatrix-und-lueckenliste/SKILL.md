@@ -1,6 +1,6 @@
 ---
 name: einspruch-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: risikoampel-aggregation
-description: "Wenn es um /tabellenreview-3d:risikoampel-aggregation in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Risikoampel Aggregation; Arbeitsfeld: Tabellenreview 3D."
+description: "Für /tabellenreview-3d:risikoampel-aggregation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # /tabellenreview-3d:risikoampel-aggregation

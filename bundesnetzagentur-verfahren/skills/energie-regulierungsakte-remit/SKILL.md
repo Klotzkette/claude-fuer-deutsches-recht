@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-remit
-description: "Wenn es um Energie-Regulierungsakte: REMIT Marktmissbrauch Energie — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie-Regulierungsakte: REMIT Marktmissbrauch Energie — Stellungnahme-Entwurf: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: REMIT Marktmissbrauch Energie — Stellungnahme-Entwurf

@@ -1,6 +1,6 @@
 ---
 name: involuntary-petition-303
-description: "Wenn es um Involuntary Petition Paragraf 303 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Involuntary Petition Paragraf 303: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Involuntary Petition § 303

@@ -1,6 +1,6 @@
 ---
 name: see-085-binnenschiff-wrackpflicht-pruefen
-description: "Wenn es um Binnenschiff Wrackpflicht Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Binnenschiff Wrackpflicht Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Binnenschiff Wrackpflicht Pruefen

@@ -1,6 +1,6 @@
 ---
 name: due-diligence
-description: "Wenn es um Kommerzielle Vertrags-DD in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommerzielle Vertrags-DD: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A."
 ---
 
 # Kommerzielle Vertrags-DD

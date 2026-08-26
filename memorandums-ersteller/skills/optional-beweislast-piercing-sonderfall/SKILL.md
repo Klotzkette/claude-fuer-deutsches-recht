@@ -1,6 +1,6 @@
 ---
 name: optional-beweislast-piercing-sonderfall
-description: "Wenn es um Optional: Beweislast, Darlegungslast und Substantiierung in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Optional: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Optional: Beweislast, Darlegungslast und Substantiierung

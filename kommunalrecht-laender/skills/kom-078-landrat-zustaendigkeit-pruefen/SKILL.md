@@ -1,6 +1,6 @@
 ---
 name: kom-078-landrat-zustaendigkeit-pruefen
-description: "Wenn es um Landrat Zustaendigkeit Pruefen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landrat Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kommunalrecht der Länder. Route: kom-078-landrat-zustaendigkeit-pruefen."
 ---
 
 # Landrat Zustaendigkeit Pruefen

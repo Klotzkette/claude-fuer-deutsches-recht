@@ -1,6 +1,6 @@
 ---
 name: englische-verfahrenssprache-late-submissions
-description: "Wenn es um Verfahrenssprache Englisch in commercial-courts-deutschland geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verfahrenssprache Englisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfahrenssprache Englisch

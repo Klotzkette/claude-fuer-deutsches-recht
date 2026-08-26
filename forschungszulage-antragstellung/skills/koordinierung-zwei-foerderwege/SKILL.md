@@ -1,6 +1,6 @@
 ---
 name: koordinierung-zwei-foerderwege
-description: "Wenn es um FZ: Foerderkoordinierung in Forschungszulage-Antragstellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für FZ: Förderkoordinierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Forschungszulage-Antragstellung. Route: koordinierung-zwei-foerderwege."
 ---
 
 # FZ: Foerderkoordinierung

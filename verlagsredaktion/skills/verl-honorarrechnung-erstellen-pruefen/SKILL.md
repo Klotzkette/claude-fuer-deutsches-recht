@@ -1,6 +1,6 @@
 ---
 name: verl-honorarrechnung-erstellen-pruefen
-description: "Wenn es um Honorarrechnung erstellen und pruefen in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Honorarrechnung erstellen und prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verlagsredaktion. Route: verl-honorarrechnung-erstellen-pruefen."
 ---
 
 # Honorarrechnung erstellen und pruefen

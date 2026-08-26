@@ -1,6 +1,6 @@
 ---
 name: vorlagen-vertragsausfueller-vaf-altvertrag
-description: "Wenn es um Vorlagen: Fristen, Form, Zuständigkeit und Rechtsweg in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorlagen: Fristen, Form, Zuständigkeit und Rechtsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorlagen: Fristen, Form, Zuständigkeit und Rechtsweg

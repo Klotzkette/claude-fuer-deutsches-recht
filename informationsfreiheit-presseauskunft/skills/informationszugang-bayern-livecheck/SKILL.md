@@ -1,6 +1,6 @@
 ---
 name: informationszugang-bayern-livecheck
-description: "Wenn es um Informationszugang Bayern Livecheck in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Informationszugang Bayern Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Informationszugang Bayern Livecheck

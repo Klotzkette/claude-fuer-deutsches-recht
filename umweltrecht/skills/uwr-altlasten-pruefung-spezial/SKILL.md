@@ -1,6 +1,6 @@
 ---
 name: uwr-altlasten-pruefung-spezial
-description: "Wenn es um Umwelt: Altlastenpruefung in Umweltrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Umwelt: Altlastenprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Umwelt: Altlastenpruefung

@@ -1,6 +1,6 @@
 ---
 name: stbv-einspruch-strafbefehl-fahrerlaubnis
-description: "Wenn es um StBV: Einspruch Strafbefehl in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für StBV: Einspruch Strafbefehl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # StBV: Einspruch Strafbefehl

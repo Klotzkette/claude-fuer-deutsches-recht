@@ -1,6 +1,6 @@
 ---
 name: bautraeger-rueckabwicklung-bei-insolvenz
-description: "Wenn es um Bautraeger-Rueckabwicklung bei Insolvenz in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauträger-Rückabwicklung bei Insolvenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bautraeger-Rueckabwicklung bei Insolvenz

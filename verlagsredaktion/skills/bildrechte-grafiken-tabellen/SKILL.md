@@ -1,6 +1,6 @@
 ---
 name: bildrechte-grafiken-tabellen
-description: "Wenn es um Bildrechte, Grafiken und Tabellen in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bildrechte, Grafiken und Tabellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bildrechte, Grafiken und Tabellen

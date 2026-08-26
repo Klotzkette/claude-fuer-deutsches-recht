@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-verbrauchsteuer
-description: "Wenn es um Verbrauchsteuer im Aussenhandel: Steueraussetzung EMCS und Erstattung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Verbrauchsteuer im Außenhandel: Steueraussetzung EMCS und Erstattung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verbrauchsteuer im Aussenhandel: Steueraussetzung EMCS und Erstattung

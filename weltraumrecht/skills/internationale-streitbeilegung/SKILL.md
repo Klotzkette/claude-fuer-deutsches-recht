@@ -1,6 +1,6 @@
 ---
 name: internationale-streitbeilegung
-description: "Wenn es um Weltraumrecht: Internationale Streitbeilegung: Diplomatischer Schutz in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Internationale Streitbeilegung: Diplomatischer Schutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Weltraumrecht: Internationale Streitbeilegung: Diplomatischer Schutz

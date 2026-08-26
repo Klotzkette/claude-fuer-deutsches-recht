@@ -1,6 +1,6 @@
 ---
 name: verfassung-organstreitverfahren
-description: "Wenn es um Organstreitverfahren in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Organstreitverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Organstreitverfahren

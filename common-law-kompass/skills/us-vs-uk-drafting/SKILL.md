@@ -1,6 +1,6 @@
 ---
 name: us-vs-uk-drafting
-description: "Wenn es um UK vs US Drafting in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für UK vs US Drafting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # UK vs US Drafting

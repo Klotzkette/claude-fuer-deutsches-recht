@@ -1,6 +1,6 @@
 ---
 name: doppelbesteuerung-musterabkommen-oecd
-description: "Wenn es um Doppelbesteuerung und OECD-Musterabkommen — Auslegung deutscher DBA in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Doppelbesteuerung und OECD-Musterabkommen — Auslegung deutscher DBA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Doppelbesteuerung und OECD-Musterabkommen — Auslegung deutscher DBA

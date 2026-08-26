@@ -1,6 +1,6 @@
 ---
 name: agb-in-kapitalanlagen-effektenhandel
-description: "Wenn es um Agb In Kapitalanlagen Effektenhandel in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB in Kapitalanlagen Effektenhandel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agb In Kapitalanlagen Effektenhandel

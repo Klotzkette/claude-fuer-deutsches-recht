@@ -1,6 +1,6 @@
 ---
 name: strukturierter-strafprozess-modus
-description: "Wenn es um Strukturierter: Erstprüfung, Rollenklärung und Mandatsziel in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strukturierter: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strukturierter: Erstprüfung, Rollenklärung und Mandatsziel

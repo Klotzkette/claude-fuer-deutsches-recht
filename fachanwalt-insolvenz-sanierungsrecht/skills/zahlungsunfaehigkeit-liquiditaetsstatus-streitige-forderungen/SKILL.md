@@ -1,6 +1,6 @@
 ---
 name: zahlungsunfaehigkeit-liquiditaetsstatus-streitige-forderungen
-description: "Prüft Zahlungsunfähigkeit mit tagesgenauem Liquiditätsstatus und besonderem Fokus auf streitige oder titulierte Forderungen. Trennt objektiven Bestand, Fälligkeit, Einfordern, Vollstreckung und Beweislast und liefert Status, Haftungsvermerk, Antragspflichtentscheidung und gerichtsfesten Vortrag."
+description: "Prüft Zahlungsunfähigkeit mit tagesgenauem Liquiditätsstatus und besonderem Fokus auf streitige oder titulierte Forderungen."
 ---
 
 # Zahlungsunfähigkeit und streitige Forderungen prüfen

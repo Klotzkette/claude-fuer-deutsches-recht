@@ -1,6 +1,6 @@
 ---
 name: bereicherungsausgleich-bei-kettenvertraegen
-description: "Wenn es um Bereicherungsausgleich bei Kettenverträgen in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bereicherungsausgleich bei Kettenverträgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bereicherungsausgleich bei Kettenverträgen

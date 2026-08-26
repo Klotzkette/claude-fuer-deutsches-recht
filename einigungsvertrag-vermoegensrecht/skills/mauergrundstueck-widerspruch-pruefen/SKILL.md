@@ -1,6 +1,6 @@
 ---
 name: mauergrundstueck-widerspruch-pruefen
-description: "Wenn es um Mauergrundstueck Widerspruch Prüfen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mauergrundstück Widerspruch Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: mauergrundstueck-widerspruch-pruefen."
 ---
 
 # Mauergrundstueck Widerspruch Prüfen

@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-local-counsel-instruie
-description: "Wenn es um Offshore-Schiff – Local Counsel instruieren in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Offshore-Schiff – Local Counsel instruieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Offshore-Schiff – Local Counsel instruieren

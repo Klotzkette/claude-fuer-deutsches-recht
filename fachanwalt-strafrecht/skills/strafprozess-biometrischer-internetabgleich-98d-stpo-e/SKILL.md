@@ -1,6 +1,6 @@
 ---
 name: strafprozess-biometrischer-internetabgleich-98d-stpo-e
-description: "Wenn es um Strafprozess Biometrischer Internetabgleich 98d StPO E in Fachanwalt Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Strafprozess Biometrischer Internetabgleich 98d StPO E: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verteidigung gegen automatisierten biometrischen Internetabgleich nach dem Regierungsentwurf zu § 98d StPO-E: Rechtsstand prüfen, Akteneinsicht nachfordern, Anordnung, Zweck, Anlasstat, Subsidiarität, Protokollierung, Löschung, KI-VO, Drittbetroffenheit, Trefferqualität, Black-Box-Risiko und Verwertbarkeit angreifen.

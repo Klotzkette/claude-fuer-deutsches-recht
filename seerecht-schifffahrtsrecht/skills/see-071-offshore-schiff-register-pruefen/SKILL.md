@@ -1,6 +1,6 @@
 ---
 name: see-071-offshore-schiff-register-pruefen
-description: "Wenn es um Offshore Schiff Register Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Offshore Schiff Register Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Offshore Schiff Register Pruefen

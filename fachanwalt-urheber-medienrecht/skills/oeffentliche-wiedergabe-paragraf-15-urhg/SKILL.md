@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-wiedergabe-paragraf-15-urhg
-description: "Wenn es um Oeffentliche Wiedergabe Paragraf 15 UrhG in Fachanwalt Urheber Medienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Öffentliche Wiedergabe Paragraf 15 UrhG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Oeffentliche Wiedergabe § 15 UrhG

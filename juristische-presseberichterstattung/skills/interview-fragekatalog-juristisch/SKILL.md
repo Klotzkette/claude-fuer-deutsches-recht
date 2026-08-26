@@ -1,6 +1,6 @@
 ---
 name: interview-fragekatalog-juristisch
-description: "Wenn es um Interview Fragekatalog juristisch in Juristische Presseberichterstattung geht: entwickelt präzise Interviewfragen an Anwälte, Behörden, Unternehmen, Gerichte oder Betroffene ohne Suggestivfallen."
+description: "Für Interview Fragekatalog juristisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Interview Fragekatalog juristisch

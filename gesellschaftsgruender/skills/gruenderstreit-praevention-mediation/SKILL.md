@@ -1,6 +1,6 @@
 ---
 name: gruenderstreit-praevention-mediation
-description: "Wenn es um Gründerstreit, Prävention und Mediation in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gründerstreit, Prävention und Mediation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Gründerstreit, Prävention und Mediation
 

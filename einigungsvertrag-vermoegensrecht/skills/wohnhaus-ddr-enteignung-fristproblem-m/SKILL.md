@@ -1,6 +1,6 @@
 ---
 name: wohnhaus-ddr-enteignung-fristproblem-m
-description: "Wenn es um Wohnhaus Ddr Enteignung Fristproblem M in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wohnhaus Ddr Enteignung Fristproblem M: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Wohnhaus Ddr Enteignung Fristproblem M

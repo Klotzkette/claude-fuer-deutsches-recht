@@ -1,6 +1,6 @@
 ---
 name: deutsches-englische-drag-tag
-description: "Wenn es um Deutsches Recht, englische Vertragssprache in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Deutsches Recht, englische Vertragssprache: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsches Recht, englische Vertragssprache

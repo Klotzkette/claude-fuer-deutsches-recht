@@ -1,6 +1,6 @@
 ---
 name: anerkennung-und-klagebefugnis-pruefen
-description: "Wenn es um Anerkennung Und Klagebefugnis Prüfen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anerkennung und Klagebefugnis Prüfen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Umweltschutzverband Verbandsklage. Route: anerkennung-und-klagebefugnis-pruefen."
 ---
 
 # Anerkennung Und Klagebefugnis Prüfen

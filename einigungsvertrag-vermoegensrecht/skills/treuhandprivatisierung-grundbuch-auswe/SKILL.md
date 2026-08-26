@@ -1,6 +1,6 @@
 ---
 name: treuhandprivatisierung-grundbuch-auswe
-description: "Wenn es um Treuhandprivatisierung Grundbuch Auswe in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Treuhandprivatisierung Grundbuch Auswe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuhandprivatisierung Grundbuch Auswe

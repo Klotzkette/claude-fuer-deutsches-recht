@@ -1,6 +1,6 @@
 ---
 name: datentransfer-mandant-cloud-dsgvo
-description: "Wenn es um Datentransfer Mandant-Cloud — DSGVO-Aspekte in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datentransfer Mandant-Cloud — DSGVO-Aspekte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datentransfer Mandant-Cloud — DSGVO-Aspekte

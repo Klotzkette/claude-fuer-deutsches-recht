@@ -1,6 +1,6 @@
 ---
 name: mandantenentscheidung-vorlage-kommunikation-gesellschaftsrecht
-description: "Wenn es um Mandantenentscheidung, Vorlage und Kommunikation im Gesellschaftsrecht in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandantenentscheidung, Vorlage und Kommunikation im Gesellschaftsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandantenentscheidung, Vorlage und Kommunikation im Gesellschaftsrecht

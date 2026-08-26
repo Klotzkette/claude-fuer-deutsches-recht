@@ -1,6 +1,6 @@
 ---
 name: dsgvo-governance-inventar
-description: "Wenn es um DSGVO: Erstprüfung, Rollenklärung und Mandatsziel in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für DSGVO: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSGVO: Erstprüfung, Rollenklärung und Mandatsziel

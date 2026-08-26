@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Römisches Recht - Allgemeiner Einstieg in Römisches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Römisches Recht - Allgemeiner Einstieg

@@ -1,6 +1,6 @@
 ---
 name: art-101-aeuv-kooperationspruefung-einstieg
-description: "Wenn es um Art 101 AEUV Kooperationsprüfung Einstieg in Kartellrecht — Marktabgrenzungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Art 101 AEUV Kooperationsprüfung Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Art 101 AEUV Kooperationsprüfung Einstieg

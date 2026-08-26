@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-urheberrecht-108b-urhg-tpm
-description: "Wenn es um Strafrecht Spezial Urheberrecht 108b Urhg Tpm in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Urheberrecht 108b Urhg Tpm: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unerlaubte Eingriffe in technische Schutzmassnahmen und zur Rechtewahrnehmung erforderliche Informationen nach Paragraph 108b UrhG

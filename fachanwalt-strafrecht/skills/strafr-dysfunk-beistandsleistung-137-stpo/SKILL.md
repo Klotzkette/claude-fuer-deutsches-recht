@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-beistandsleistung-137-stpo
-description: "Wenn es um Paragraf 137 Abs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paragraf 137 Abs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 137 Abs

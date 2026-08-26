@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-sanktionsumgehung-red-flags
-description: "Wenn es um Sanktionsumgehung Red Flags in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanktionsumgehung Red Flags: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanktionsumgehung Red Flags

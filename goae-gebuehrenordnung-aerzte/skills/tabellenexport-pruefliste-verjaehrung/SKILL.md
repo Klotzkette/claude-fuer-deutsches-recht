@@ -1,6 +1,6 @@
 ---
 name: tabellenexport-pruefliste-verjaehrung
-description: "Wenn es um Tabellenexport GOÄ Prüfliste in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Tabellenexport GOÄ Prüfliste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tabellenexport GOÄ Prüfliste

@@ -1,6 +1,6 @@
 ---
 name: krankenkassenregress-behandlungsfehler-und-erstattung
-description: "Wenn es um Krankenkassenregress: Behandlungsfehler und Erstattung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenkassenregress: Behandlungsfehler und Erstattung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenkassenregress: Behandlungsfehler und Erstattung

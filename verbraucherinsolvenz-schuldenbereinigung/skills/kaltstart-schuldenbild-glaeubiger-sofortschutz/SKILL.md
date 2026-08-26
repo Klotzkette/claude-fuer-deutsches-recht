@@ -1,6 +1,6 @@
 ---
 name: kaltstart-schuldenbild-glaeubiger-sofortschutz
-description: "Wenn es um Kaltstart Schuldenbild Glaeubiger Sofortschutz in Verbraucherinsolvenz und Schuldenbereinigung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart Schuldenbild Gläubiger Sofortschutz: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.

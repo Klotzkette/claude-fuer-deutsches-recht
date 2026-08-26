@@ -1,6 +1,6 @@
 ---
 name: bietet-fehlerkatalog
-description: "Wenn es um Bietet Fehlerkatalog in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bietet Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bietet Fehlerkatalog

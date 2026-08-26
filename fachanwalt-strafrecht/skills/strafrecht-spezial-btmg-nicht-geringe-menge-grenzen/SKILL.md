@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-btmg-nicht-geringe-menge-grenzen
-description: "Wenn es um Strafrecht Spezial Btmg Nicht Geringe Menge Grenzen in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Btmg Nicht Geringe Menge Grenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praxis-Mengen-Tabelle nicht geringe Menge: Cannabis, Heroin, Kokain, Amphetamin, MDMA, Methamphetamin, LSD

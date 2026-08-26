@@ -1,6 +1,6 @@
 ---
 name: anfangsverdacht-anlagenverzeichnis
-description: "Wenn es um Anfangsverdacht nach Paragrafen 152. 160 StPO in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Anfangsverdacht nach Paragrafen 152. 160 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anfangsverdacht nach §§ 152, 160 StPO

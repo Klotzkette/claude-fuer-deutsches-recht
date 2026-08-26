@@ -1,6 +1,6 @@
 ---
 name: exemptions-522
-description: "Wenn es um Exemptions Paragraf 522 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Exemptions Paragraf 522: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Exemptions § 522

@@ -1,6 +1,6 @@
 ---
 name: hauptverhandlung-quellenkarte
-description: "Wenn es um Hauptverhandlung Quellenkarte in Fachanwalt Strafrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Hauptverhandlung Quellenkarte: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Hauptverhandlung Quellenkarte

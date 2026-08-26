@@ -1,6 +1,6 @@
 ---
 name: kaltstart-abschlussprodukt-und-uebergabe
-description: "Wenn es um Kaltstart: Abschlussprodukt und Übergabe in Fluggastrechte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart: Abschlussprodukt und Übergabe: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fluggastrechte."
 ---
 
 # Kaltstart: Abschlussprodukt und Übergabe

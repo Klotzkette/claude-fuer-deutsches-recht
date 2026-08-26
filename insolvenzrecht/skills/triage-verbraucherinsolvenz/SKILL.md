@@ -1,6 +1,6 @@
 ---
 name: triage-verbraucherinsolvenz
-description: "Wenn es um Triage: Mandantenkommunikation und Entscheidungsvorlage in Insolvenzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Triage: Mandantenkommunikation und Entscheidungsvorlage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Triage: Mandantenkommunikation und Entscheidungsvorlage

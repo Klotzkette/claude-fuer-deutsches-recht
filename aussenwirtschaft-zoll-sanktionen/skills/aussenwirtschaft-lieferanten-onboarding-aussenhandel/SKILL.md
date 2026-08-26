@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-lieferanten-onboarding-aussenhandel
-description: "Wenn es um Lieferanten-Onboarding: Aussenwirtschaftliche Compliance und Sanktionspruefung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lieferanten-Onboarding: Außenwirtschaftliche Compliance und Sanktionsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lieferanten-Onboarding: Aussenwirtschaftliche Compliance und Sanktionspruefung

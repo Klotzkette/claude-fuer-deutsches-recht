@@ -1,6 +1,6 @@
 ---
 name: grammatik-konsistenzcheck
-description: "Wenn es um Grammatik- und Konsistenzcheck in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Grammatik- und Konsistenzcheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grammatik- und Konsistenzcheck

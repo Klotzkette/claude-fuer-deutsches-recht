@@ -1,6 +1,6 @@
 ---
 name: stichprobe-und-befreiung-kleine-unternehmen
-description: "Wenn es um Stichprobe, Schwelle und Entlastung kleiner Unternehmen in Berichtspflichten-Erlediger geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Stichprobe, Schwelle und Entlastung kleiner Unternehmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stichprobe, Schwelle und Entlastung kleiner Unternehmen

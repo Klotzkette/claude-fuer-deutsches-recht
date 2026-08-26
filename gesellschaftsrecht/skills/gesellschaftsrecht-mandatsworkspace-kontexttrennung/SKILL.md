@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-mandatsworkspace-kontexttrennung
-description: "Wenn es um Gesellschaftsrechtlicher Mandatsworkspace und Kontexttrennung in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gesellschaftsrechtlicher Mandatsworkspace und Kontexttrennung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 
 ---
 

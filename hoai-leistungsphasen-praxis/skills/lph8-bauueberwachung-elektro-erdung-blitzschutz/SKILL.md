@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-elektro-erdung-blitzschutz
-description: "Wenn es um Bauueberwachung Elektro Erdung und Blitzschutz in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Elektro Erdung und Blitzschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Elektro Erdung und Blitzschutz

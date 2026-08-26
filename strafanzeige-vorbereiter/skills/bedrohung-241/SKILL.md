@@ -1,6 +1,6 @@
 ---
 name: bedrohung-241
-description: "Wenn es um Bedrohung Paragraf 241 StGB in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bedrohung Paragraf 241 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bedrohung § 241 StGB

@@ -1,6 +1,6 @@
 ---
 name: mieterhoehungs-compliance-dokumentation-und-akte
-description: "Wenn es um Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mieterhöhungs: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk

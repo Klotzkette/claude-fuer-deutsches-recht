@@ -1,6 +1,6 @@
 ---
 name: untersuchungshaft-haftpruefung
-description: "Wenn es um Untersuchungshaft und Haftprüfung nach Paragrafen 112 ff in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Untersuchungshaft und Haftprüfung nach Paragrafen 112 ff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Untersuchungshaft und Haftprüfung nach §§ 112 ff

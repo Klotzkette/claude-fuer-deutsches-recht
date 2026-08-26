@@ -1,6 +1,6 @@
 ---
 name: verpackg-vollstaendigkeitserklaerung
-description: "Wenn es um VerpackG Vollständigkeitserklärung in Berichtspflichten-Erlediger geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für VerpackG Vollständigkeitserklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VerpackG Vollständigkeitserklärung

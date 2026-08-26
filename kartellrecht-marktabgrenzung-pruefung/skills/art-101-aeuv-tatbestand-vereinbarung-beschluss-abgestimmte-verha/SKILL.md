@@ -1,6 +1,6 @@
 ---
 name: art-101-aeuv-tatbestand-vereinbarung-beschluss-abgestimmte-verha
-description: "Wenn es um Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise

@@ -1,6 +1,6 @@
 ---
 name: notariat-026-verbrauchervertrag-wartefrist-und-entwurfsversand
-description: "Wenn es um Notariat im Alltag: Verbrauchervertrag Wartefrist und Entwurfsversand in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Verbrauchervertrag Wartefrist und Entwurfsversand: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Notariat im Alltag: Verbrauchervertrag Wartefrist und Entwurfsversand

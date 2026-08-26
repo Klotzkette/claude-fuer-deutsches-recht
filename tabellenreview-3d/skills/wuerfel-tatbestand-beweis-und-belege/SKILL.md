@@ -1,6 +1,6 @@
 ---
 name: wuerfel-tatbestand-beweis-und-belege
-description: "Wenn es um Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage in Tabellenreview 3D geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Würfel: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage

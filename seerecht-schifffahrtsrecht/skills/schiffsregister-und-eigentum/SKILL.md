@@ -1,6 +1,6 @@
 ---
 name: schiffsregister-und-eigentum
-description: "Wenn es um Schiffsregister und Eigentum – Due-Diligence-Prüfung in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiffsregister und Eigentum – Due-Diligence-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Schiffsregister und Eigentum – Due-Diligence-Prüfung

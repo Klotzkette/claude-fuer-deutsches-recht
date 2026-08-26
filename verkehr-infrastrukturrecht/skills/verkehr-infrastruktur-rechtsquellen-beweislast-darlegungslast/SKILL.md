@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastruktur-rechtsquellen-beweislast-darlegungslast
-description: "Wenn es um Rechtsquellen: Beweislast, Darlegungslast und Substantiierung in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsquellen: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Verkehrs- und Infrastrukturrecht."
 ---
 
 # Rechtsquellen: Beweislast, Darlegungslast und Substantiierung

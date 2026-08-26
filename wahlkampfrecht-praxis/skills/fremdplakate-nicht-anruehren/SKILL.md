@@ -1,6 +1,6 @@
 ---
 name: fremdplakate-nicht-anruehren
-description: "Wenn es um Fremdplakate Nicht Anruehren in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Fremdplakate Nicht Anrühren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fremdplakate Nicht Anruehren

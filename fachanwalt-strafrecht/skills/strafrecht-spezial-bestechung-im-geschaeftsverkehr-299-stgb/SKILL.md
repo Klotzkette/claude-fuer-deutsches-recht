@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb
-description: "Wenn es um Strafrecht Spezial Bestechung Im Geschaeftsverkehr 299 Stgb in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Bestechung im Geschäftsverkehr 299 Stgb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bestechung und Bestechlichkeit im geschäftlichen Verkehr § 299 StGB: Anwendungsfall Verteidigung bei Vorteilszuwendungen zwischen Angestellten und Geschäftspartnern im privaten Sektor

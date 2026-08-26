@@ -1,6 +1,6 @@
 ---
 name: battle-forms-bau-vob-beweislast-zugang
-description: "Wenn es um Battle of Forms AGB Kollision in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Battle Forms Bau Vob Beweislast Zugang; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Battle of Forms AGB Kollision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Battle of Forms AGB Kollision

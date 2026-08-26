@@ -1,6 +1,6 @@
 ---
 name: intake-und-stammdaten-pruefen
-description: "Wenn es um Intake und Stammdaten pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Intake und Stammdaten prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Intake und Stammdaten pruefen

@@ -1,6 +1,6 @@
 ---
 name: agb-kontrolle-angemessene
-description: "Wenn es um Agb Kontrolle B2B Und B2C in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für AGB Kontrolle B2B und B2C: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Agb Kontrolle B2B Und B2C

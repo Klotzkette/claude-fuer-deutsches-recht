@@ -1,6 +1,6 @@
 ---
 name: ergaenzungsverlangen-minderheit
-description: "Wenn es um Ergaenzungsverlangen Minderheit in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ergänzungsverlangen Minderheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ergaenzungsverlangen Minderheit

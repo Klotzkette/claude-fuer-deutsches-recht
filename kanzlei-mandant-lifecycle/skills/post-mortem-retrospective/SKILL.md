@@ -1,6 +1,6 @@
 ---
 name: post-mortem-retrospective
-description: "Wenn es um Post-Mortem Retrospective in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Post-Mortem Retrospective: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Post-Mortem Retrospective

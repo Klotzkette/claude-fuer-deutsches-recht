@@ -1,6 +1,6 @@
 ---
 name: bimschg-tatbestand-beweis-und-belege
-description: "Wenn es um Bimschg: Tatbestandsmerkmale, Beweisfragen und Beleglage in Umweltrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Bimschg: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Bimschg: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-gesellschafter-geschaeftsfuehrer-sv
-description: "Wenn es um Gesellschafter-Geschaeftsfuehrer — SV-Pflicht oder Befreiung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschafter-Geschäftsführer — SV-Pflicht oder Befreiung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschafter-Geschaeftsfuehrer — SV-Pflicht oder Befreiung

@@ -1,6 +1,6 @@
 ---
 name: hochschule-ki-taeuschung-anscheinsbeweis
-description: "Wenn es um Hochschule: digitale Werkzeuge-Täuschung und Anscheinsbeweis in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Hochschule: digitale Werkzeuge-Täuschung und Anscheinsbeweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Hochschule: KI-Täuschung und Anscheinsbeweis

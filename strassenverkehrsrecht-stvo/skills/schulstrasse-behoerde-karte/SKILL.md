@@ -1,6 +1,6 @@
 ---
 name: schulstrasse-behoerde-karte
-description: "Wenn es um Schulstrasse Behörde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulstrasse Behörde Anschreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenverkehrsrecht StVO. Route: schulstrasse-behoerde-karte."
 ---
 
 # Schulstrasse Behörde Anschreiben

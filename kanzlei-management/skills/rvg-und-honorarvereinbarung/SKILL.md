@@ -1,6 +1,6 @@
 ---
 name: rvg-und-honorarvereinbarung
-description: "Wenn es um RVG und Honorarvereinbarung in Kanzlei Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für RVG und Honorarvereinbarung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # RVG und Honorarvereinbarung

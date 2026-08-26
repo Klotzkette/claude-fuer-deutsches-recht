@@ -1,6 +1,6 @@
 ---
 name: erb-einfuehrung-erbfolge-system
-description: "Wenn es um Erbfolge-System einfuehrend: gesetzliche Erbfolge Paragrafen 1924 ff in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erbfolge-System einführend: gesetzliche Erbfolge Paragrafen 1924 ff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbfolge-System einfuehrend: gesetzliche Erbfolge §§ 1924 ff

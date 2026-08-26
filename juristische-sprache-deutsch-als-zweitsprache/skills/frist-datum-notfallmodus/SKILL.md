@@ -1,6 +1,6 @@
 ---
 name: frist-datum-notfallmodus
-description: "Wenn es um Frist Und Datum Verstehen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Frist und Datum Verstehen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Frist Und Datum Verstehen

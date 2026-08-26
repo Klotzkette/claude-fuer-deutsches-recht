@@ -1,6 +1,6 @@
 ---
 name: relative-schutzhindernisse-verwechslungsgefahr
-description: "Wenn es um Relative Schutzhindernisse und Verwechslungsgefahr in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Relative Schutzhindernisse und Verwechslungsgefahr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Relative Schutzhindernisse und Verwechslungsgefahr

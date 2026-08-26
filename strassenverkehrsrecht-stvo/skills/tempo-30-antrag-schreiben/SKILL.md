@@ -1,6 +1,6 @@
 ---
 name: tempo-30-antrag-schreiben
-description: "Wenn es um Tempo 30 Antrag Schreiben in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Tempo 30 Antrag Schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Tempo 30 Antrag Schreiben

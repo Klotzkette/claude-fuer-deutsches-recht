@@ -1,6 +1,6 @@
 ---
 name: tier-006-anordnung-und-wegnahme-pruefen
-description: "Wenn es um Anordnung Und Wegnahme Pruefen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anordnung und Wegnahme Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tierschutzrecht. Route: tier-006-anordnung-und-wegnahme-pruefen."
 ---
 
 # Anordnung Und Wegnahme Pruefen

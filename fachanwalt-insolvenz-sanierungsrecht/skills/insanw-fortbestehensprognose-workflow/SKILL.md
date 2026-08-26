@@ -1,6 +1,6 @@
 ---
 name: insanw-fortbestehensprognose-workflow
-description: "Wenn es um Insanw Fortbestehensprognose Workflow in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insanw Fortbestehensprognose Workflow: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fortbestehensprognose IDW S 11 / S 6: Datenraum, Integrierte Planung, Stresstests, Risikoinventur

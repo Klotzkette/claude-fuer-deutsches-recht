@@ -1,6 +1,6 @@
 ---
 name: abo-falle-behoerdenmeldung-pruefen
-description: "Wenn es um Abo Falle Behördenmeldung Prüfen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abo Falle Behördenmeldung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: abo-falle-behoerdenmeldung-pruefen."
 ---
 
 # Abo Falle Behördenmeldung Prüfen

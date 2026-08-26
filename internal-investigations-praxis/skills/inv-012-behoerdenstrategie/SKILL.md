@@ -1,6 +1,6 @@
 ---
 name: inv-012-behoerdenstrategie
-description: "Wenn es um Behördenstrategie in Internal Investigations Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Behördenstrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Behördenstrategie

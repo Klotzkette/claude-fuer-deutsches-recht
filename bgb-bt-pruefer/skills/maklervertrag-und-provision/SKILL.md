@@ -1,6 +1,6 @@
 ---
 name: maklervertrag-und-provision
-description: "Wenn es um Maklervertrag und Provision Paragrafen 652 ff. BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Maklervertrag Und Provision; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Maklervertrag und Provision Paragrafen 652 ff. BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: maklervertrag-und-provision."
 ---
 
 # Maklervertrag und Provision §§ 652 ff. BGB

@@ -1,6 +1,6 @@
 ---
 name: belegmatrix-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Belegmatrix: Mandantenkommunikation und Entscheidungsvorlage in Produkthaftung und Produktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Belegmatrix: Mandantenkommunikation und Entscheidungsvorlage: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Belegmatrix: Mandantenkommunikation und Entscheidungsvorlage

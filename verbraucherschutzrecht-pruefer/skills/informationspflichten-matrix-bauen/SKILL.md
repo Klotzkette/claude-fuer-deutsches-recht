@@ -1,6 +1,6 @@
 ---
 name: informationspflichten-matrix-bauen
-description: "Wenn es um Informationspflichten Matrix Bauen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Informationspflichten Matrix Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Informationspflichten Matrix Bauen

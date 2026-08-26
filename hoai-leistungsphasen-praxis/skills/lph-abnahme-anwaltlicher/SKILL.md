@@ -1,6 +1,6 @@
 ---
 name: lph-abnahme-anwaltlicher
-description: "Wenn es um HOAI Querschnitt: Ordnet chaotische unterlagen einer oder mehreren hoai-leistungsphasen zu in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für HOAI Querschnitt: Ordnet chaotische unterlagen einer oder mehreren HOAI-leistungsphasen zu: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI Querschnitt: Ordnet chaotische unterlagen einer oder mehreren hoai-leistungsphasen zu

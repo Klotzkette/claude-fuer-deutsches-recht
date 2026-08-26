@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-sitzungspolizei-ordnungsmittel
-description: "Wenn es um Sitzungspolizei Paragrafen 176 ff in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sitzungspolizei Paragrafen 176 ff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sitzungspolizei §§ 176 ff

@@ -1,6 +1,6 @@
 ---
 name: db-039-open-source-datenbank-und-open-data-commons
-description: "Wenn es um Datenbankrecht: Open Source Datenbank und Open Data Commons in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Open Source Datenbank und Open Data Commons: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Open Source Datenbank und Open Data Commons

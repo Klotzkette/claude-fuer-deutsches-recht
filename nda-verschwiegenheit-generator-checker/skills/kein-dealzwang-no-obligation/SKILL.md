@@ -1,6 +1,6 @@
 ---
 name: kein-dealzwang-no-obligation
-description: "Wenn es um Kein Dealzwang No Obligation in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kein Dealzwang No Obligation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kein Dealzwang No Obligation

@@ -1,6 +1,6 @@
 ---
 name: marketing-newsletter-eigentuemerkommunikation
-description: "Wenn es um Marketing: Newsletter und Eigentümerkommunikation in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Marketing: Newsletter und Eigentümerkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Marketing: Newsletter und Eigentümerkommunikation

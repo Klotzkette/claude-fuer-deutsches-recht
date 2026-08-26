@@ -1,6 +1,6 @@
 ---
 name: bestellbutton-uklag-uwg-abmahnung
-description: "Wenn es um VDG 103 Bestellbutton UKlaG UWG Abmahnung in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für VDG 103 Bestellbutton UKlaG UWG Abmahnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VDG 103 Bestellbutton UKlaG UWG Abmahnung

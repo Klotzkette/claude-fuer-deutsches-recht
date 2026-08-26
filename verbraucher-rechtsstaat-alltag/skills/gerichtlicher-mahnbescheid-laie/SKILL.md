@@ -1,6 +1,6 @@
 ---
 name: gerichtlicher-mahnbescheid-laie
-description: "Wenn es um Gerichtlicher Mahnbescheid für Laien in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gerichtlicher Mahnbescheid für Laien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gerichtlicher Mahnbescheid für Laien

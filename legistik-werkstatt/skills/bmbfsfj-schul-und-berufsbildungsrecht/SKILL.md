@@ -1,6 +1,6 @@
 ---
 name: bmbfsfj-schul-und-berufsbildungsrecht
-description: "Wenn es um Schul- und Berufsbildungsrecht (BMBFSFJ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Schul- und Berufsbildungsrecht (BMBFSFJ): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schul- und Berufsbildungsrecht (BMBFSFJ)

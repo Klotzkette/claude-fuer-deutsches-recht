@@ -1,6 +1,6 @@
 ---
 name: leasingportfolio-due-npl
-description: "Wenn es um Leasingportfolio Due Diligence in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Leasingportfolio Due Diligence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingportfolio Due Diligence

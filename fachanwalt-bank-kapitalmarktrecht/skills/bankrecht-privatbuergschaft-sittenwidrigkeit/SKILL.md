@@ -1,6 +1,6 @@
 ---
 name: bankrecht-privatbuergschaft-sittenwidrigkeit
-description: "Wenn es um Bankrecht Privatbuergschaft Sittenwidrigkeit in Fachanwalt Bank Kapitalmarktrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Bankrecht Privatbürgschaft Sittenwidrigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Privat-, Ehegatten- und Angehörigenbürgschaft prüfen: § 138 BGB, krasse finanzielle Überforderung, emotionaler Druck, Eigeninteresse, Bankkenntnis, Schriftform und Vergleichsstrategie.

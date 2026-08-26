@@ -1,6 +1,6 @@
 ---
 name: vorher-nachher-tabelle
-description: "Wenn es um Vorher-Nachher-Tabelle in E-Mail-Umformulierer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vorher-Nachher-Tabelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorher-Nachher-Tabelle

@@ -1,6 +1,6 @@
 ---
 name: verteilung-zwangsverwaltung-aktenanlage
-description: "Wenn es um Verteilung: Verhandlung, Vergleich und Eskalation in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verteilung: Verhandlung, Vergleich und Eskalation: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verteilung: Verhandlung, Vergleich und Eskalation

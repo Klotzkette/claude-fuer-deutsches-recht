@@ -1,6 +1,6 @@
 ---
 name: bewaehrung-56-stgb-positive-sozialprognose
-description: "Wenn es um Strafaussetzung zur Bewaehrung — Paragraf 56 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafaussetzung zur Bewährung — Paragraf 56 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafaussetzung zur Bewaehrung — § 56 StGB

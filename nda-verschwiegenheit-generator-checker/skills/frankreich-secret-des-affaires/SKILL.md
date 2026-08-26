@@ -1,6 +1,6 @@
 ---
 name: frankreich-secret-des-affaires
-description: "Wenn es um Frankreich Secret Des Affaires in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Frankreich Secret des Affaires: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Frankreich Secret Des Affaires

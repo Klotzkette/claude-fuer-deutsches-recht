@@ -1,6 +1,6 @@
 ---
 name: ladungsschaden-art-23-cmr
-description: "Wenn es um Ladungsschaden art 23 CMR in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ladungsschaden art 23 CMR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ladungsschaden art 23 CMR

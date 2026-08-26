@@ -1,6 +1,6 @@
 ---
 name: schritt-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Schriftsatz-, Brief- und Memo-Bausteine in Subsumtions-Pr체fer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Antr채gen, Begr체ndung und Anlagenlogik."
+description: "F체r Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begr체ndungs- und Anlagenlogik."
 ---
 
 # Schriftsatz-, Brief- und Memo-Bausteine
@@ -127,3 +127,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Pr체fpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, Gegenargumente trennen.
 4. **Risiko bewerten:** Gr체n/Gelb/Rot mit Begr체ndung, Annahmen und Alternativwegen.
 5. **Anschluss bauen:** Passende weitere Skills vorschlagen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-schritt-schriftsatz-brief-und-memo-bausteine` beziehungsweise Schritt: Schriftsatz-, Brief- und Memo-Bausteine: [die zus채tzliche Vertiefung laden](./references/vertiefung-spezial-schritt-schriftsatz-brief-und-memo-bausteine.md).

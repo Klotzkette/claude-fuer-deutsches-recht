@@ -1,6 +1,6 @@
 ---
 name: arztpraxis-compliance
-description: "Wenn es um Arztpraxis Compliance in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arztpraxis Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arztpraxis Compliance

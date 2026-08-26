@@ -1,6 +1,6 @@
 ---
 name: entscheidungsbaum-ki-vo-gesamt-workflow
-description: "Wenn es um Master-Workflow: europäischer Technikregulierungsrahmen-Gesamtprüfung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Master-Workflow: europäischer Technikregulierungsrahmen-Gesamtprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: entscheidungsbaum-ki-vo-gesamt-workflow."
 ---
 
 # Master-Workflow: KI-VO-Gesamtprüfung

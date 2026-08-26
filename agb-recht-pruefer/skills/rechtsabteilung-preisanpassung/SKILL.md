@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-preisanpassung
-description: "Wenn es um Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Rechtsabteilung Preisanpassung; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-preisanpassung."
 ---
 
 # Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock

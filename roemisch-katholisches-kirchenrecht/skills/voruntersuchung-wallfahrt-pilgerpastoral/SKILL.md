@@ -1,6 +1,6 @@
 ---
 name: voruntersuchung-wallfahrt-pilgerpastoral
-description: "Wenn es um Voruntersuchung nach can. 1717 in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Voruntersuchung Wallfahrt Pilgerpastoral; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
+description: "Für Voruntersuchung nach can. 1717: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: voruntersuchung-wallfahrt-pilgerpastoral."
 ---
 
 # Voruntersuchung nach can. 1717

@@ -1,6 +1,6 @@
 ---
 name: nicht-ausgleichsreife-anrechte-19-versausglg
-description: "Wenn es um Nicht Ausgleichsreife Anrechte 19 Versausglg in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nicht Ausgleichsreife Anrechte 19 Versausglg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nicht ausgleichsreife Anrechte Paragraf 19 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

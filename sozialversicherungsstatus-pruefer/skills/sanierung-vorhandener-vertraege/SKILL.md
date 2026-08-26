@@ -1,6 +1,6 @@
 ---
 name: sanierung-vorhandener-vertraege
-description: "Wenn es um Sanierung vorhandener Verträge in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierung vorhandener Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierung vorhandener Verträge

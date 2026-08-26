@@ -1,6 +1,6 @@
 ---
 name: bundesfernstrasse-landesstrasse
-description: "Wenn es um Bundesfernstrasse Oder Landesstrasse in Straßenrecht und Infrastruktur geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bundesfernstrasse oder Landesstrasse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bundesfernstrasse Oder Landesstrasse

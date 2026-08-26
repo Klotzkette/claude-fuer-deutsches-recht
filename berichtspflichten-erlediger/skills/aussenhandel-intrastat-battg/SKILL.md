@@ -1,6 +1,6 @@
 ---
 name: aussenhandel-intrastat-battg
-description: "Wenn es um Außenhandel und Intrastat in Berichtspflichten-Erlediger geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Außenhandel und Intrastat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Außenhandel und Intrastat

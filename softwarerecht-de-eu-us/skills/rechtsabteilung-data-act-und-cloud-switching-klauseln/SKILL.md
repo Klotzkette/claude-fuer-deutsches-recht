@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-data-act-und-cloud-switching-klauseln
-description: "Wenn es um Rechtsabteilung: Data Act und Cloud-Switching-Klauseln in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Data Act und Cloud-Switching-Klauseln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Data Act und Cloud-Switching-Klauseln

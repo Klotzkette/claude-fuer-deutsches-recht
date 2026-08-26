@@ -1,6 +1,6 @@
 ---
 name: sklavenrecht-rechtsvergleich-somerset-code-noir
-description: "Wenn es um Rechtsvergleich Sklavenrecht — Preussen, England, Frankreich in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsvergleich Sklavenrecht — Preussen, England, Frankreich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Preußisches Allgemeines Landrecht. Route: sklavenrecht-rechtsvergleich-somerset-code-noir."
 ---
 
 # Rechtsvergleich Sklavenrecht — Preussen, England, Frankreich

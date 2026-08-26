@@ -1,6 +1,6 @@
 ---
 name: merger-talks-nachfolge-practice-office
-description: "Wenn es um Kanzleifusion und Merger Talks in Kanzlei Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Kanzleifusion und Merger Talks: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kanzleifusion und Merger Talks

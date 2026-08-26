@@ -1,6 +1,6 @@
 ---
 name: fahrradreparatur-dienstleistung
-description: "Wenn es um Fahrradreparatur und kleine Dienstleistungen in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fahrradreparatur und kleine Dienstleistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fahrradreparatur und kleine Dienstleistungen

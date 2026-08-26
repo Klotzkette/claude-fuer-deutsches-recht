@@ -1,6 +1,6 @@
 ---
 name: verspaetung-verhandlung-vergleich-eskalation
-description: "Wenn es um Verspaetung: Verhandlung, Vergleich und Eskalation in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verspätung: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Verspaetung: Verhandlung, Vergleich und Eskalation

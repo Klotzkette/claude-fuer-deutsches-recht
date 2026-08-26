@@ -1,6 +1,6 @@
 ---
 name: computerbetrug-phishing
-description: "Wenn es um Computerbetrug und Phishing in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Computerbetrug und Phishing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Computerbetrug und Phishing

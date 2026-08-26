@@ -1,6 +1,6 @@
 ---
 name: familiengerichtliche-genehmigung-grundbuch
-description: "Wenn es um Familien-/Betreuungsgerichtliche Genehmigung in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Familien-/Betreuungsgerichtliche Genehmigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Familien-/Betreuungsgerichtliche Genehmigung

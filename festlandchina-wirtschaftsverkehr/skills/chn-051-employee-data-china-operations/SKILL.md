@@ -1,6 +1,6 @@
 ---
 name: chn-051-employee-data-china-operations
-description: "Wenn es um Employee Data China Operations in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Employee Data China Operations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Employee Data China Operations

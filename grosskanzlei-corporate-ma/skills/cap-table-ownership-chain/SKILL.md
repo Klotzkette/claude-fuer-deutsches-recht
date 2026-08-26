@@ -1,6 +1,6 @@
 ---
 name: cap-table-ownership-chain
-description: "Wenn es um Cap Table Ownership Chain in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cap Table Ownership Chain: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: cap-table-ownership-chain."
 ---
 
 # Cap Table und Ownership Chain Analyzer: rekonstruiert Beteiligungsketten, wirtschaftliche Berechtigte, Optionen, VSOP/ESOP, Wandeldarlehen, Gesellschafterlisten und Registerlage.

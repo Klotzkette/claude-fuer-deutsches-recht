@@ -1,6 +1,6 @@
 ---
 name: chn-069-politically-sensitive-products
-description: "Wenn es um Politically Sensitive Products in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Politically Sensitive Products: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Politically Sensitive Products

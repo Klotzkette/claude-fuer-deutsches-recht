@@ -1,6 +1,6 @@
 ---
 name: workflow-output-waehlen
-description: "Wenn es um Output wählen in Energierecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Energierecht."
 ---
 
 # Output wählen

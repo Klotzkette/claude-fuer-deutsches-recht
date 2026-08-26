@@ -1,6 +1,6 @@
 ---
 name: europarecht-verordnung-beschluss-soft-law
-description: "Wenn es um Verordnung, Beschluss und Soft Law in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verordnung, Beschluss und Soft Law: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verordnung, Beschluss und Soft Law

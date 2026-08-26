@@ -1,6 +1,6 @@
 ---
 name: mdma-menge-strafrahmen-routen-sichern
-description: "Wenn es um Mdma Menge Einordnen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mdma Menge Einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mdma Menge Einordnen

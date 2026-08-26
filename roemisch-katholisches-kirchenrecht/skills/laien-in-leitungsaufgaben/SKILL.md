@@ -1,6 +1,6 @@
 ---
 name: laien-in-leitungsaufgaben
-description: "Wenn es um Laien in Leitungsaufgaben in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laien in Leitungsaufgaben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laien in Leitungsaufgaben

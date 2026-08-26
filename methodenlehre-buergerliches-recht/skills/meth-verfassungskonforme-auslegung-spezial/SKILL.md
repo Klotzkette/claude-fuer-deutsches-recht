@@ -1,6 +1,6 @@
 ---
 name: meth-verfassungskonforme-auslegung-spezial
-description: "Wenn es um Verfassungskonforme Auslegung: Methodik und Grenzen in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfassungskonforme Auslegung: Methodik und Grenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfassungskonforme Auslegung: Methodik und Grenzen

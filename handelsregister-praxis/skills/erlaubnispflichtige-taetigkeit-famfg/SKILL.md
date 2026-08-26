@@ -1,6 +1,6 @@
 ---
 name: erlaubnispflichtige-taetigkeit-famfg
-description: "Wenn es um Erlaubnispflichten und Register in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erlaubnispflichten und Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erlaubnispflichten und Register

@@ -1,6 +1,6 @@
 ---
 name: kv-071-arztbrief-in-anspruchsbegruendung-uebersetzen
-description: "Wenn es um Krankenversicherung: Arztbrief in Anspruchsbegründung übersetzen in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Arztbrief in Anspruchsbegründung übersetzen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Krankenversicherung: Arztbrief in Anspruchsbegründung übersetzen

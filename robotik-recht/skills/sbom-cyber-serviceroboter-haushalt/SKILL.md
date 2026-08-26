@@ -1,6 +1,6 @@
 ---
 name: sbom-cyber-serviceroboter-haushalt
-description: "Wenn es um SBOM und Cyber-Dokumentation in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SBOM und Cyber-Dokumentation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SBOM und Cyber-Dokumentation

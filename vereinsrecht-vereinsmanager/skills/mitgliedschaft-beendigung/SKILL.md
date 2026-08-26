@@ -1,6 +1,6 @@
 ---
 name: mitgliedschaft-beendigung
-description: "Wenn es um Austritt, Streichung, Ausschluss in Vereinsrecht und Vereinsmanager geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Austritt, Streichung, Ausschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Austritt, Streichung, Ausschluss

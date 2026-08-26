@@ -1,6 +1,6 @@
 ---
 name: transplantation-allocation
-description: "Wenn es um Transplantation Allocation in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transplantation Allocation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transplantation und Allocation: moderner Medizinrechts-Skill für Warteliste, Meldedaten, Vermittlung, Aufklärung und Compliance bei Transplantationszentren

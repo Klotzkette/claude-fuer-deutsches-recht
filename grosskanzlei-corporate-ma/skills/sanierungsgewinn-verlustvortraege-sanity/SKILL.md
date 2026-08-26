@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-verlustvortraege-sanity
-description: "Wenn es um Sanierungsgewinn – Verlustvorträge Sanity im DD-Prozess in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungsgewinn – Verlustvorträge Sanity im DD-Prozess: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn – Verlustvorträge Sanity im DD-Prozess

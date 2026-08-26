@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-untersuchungshaft-haftpruefung
-description: "Wenn es um Untersuchungshaft Haftprüfung in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Untersuchungshaft Haftprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Untersuchungshaft Haftprüfung

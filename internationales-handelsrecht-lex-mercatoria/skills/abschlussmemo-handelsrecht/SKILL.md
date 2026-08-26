@@ -1,6 +1,6 @@
 ---
 name: abschlussmemo-handelsrecht
-description: "Wenn es um Abschlussmemo Internationales Handelsrecht in Internationales Handelsrecht und Lex Mercatoria geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Abschlussmemo Internationales Handelsrecht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Abschlussmemo Internationales Handelsrecht

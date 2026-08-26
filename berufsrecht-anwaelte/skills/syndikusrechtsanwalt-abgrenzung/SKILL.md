@@ -1,6 +1,6 @@
 ---
 name: syndikusrechtsanwalt-abgrenzung
-description: "Wenn es um Syndikusrechtsanwalt Abgrenzung in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Syndikusrechtsanwalt Abgrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: syndikusrechtsanwalt abgrenzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

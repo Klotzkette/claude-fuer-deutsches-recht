@@ -1,6 +1,6 @@
 ---
 name: lease-030-npl-leasingforderungen-verkauf
-description: "Wenn es um Leasingrecht: NPL Leasingforderungen Verkauf in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: NPL Leasingforderungen Verkauf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: NPL Leasingforderungen Verkauf

@@ -1,6 +1,6 @@
 ---
 name: pflichtteil-vaterschaft-verjaehrung-und-auskunft
-description: "Wenn es um Pflichtteil Vaterschaft Verjaehrung Und Auskunft in Fachanwalt Erbrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Pflichtteil Vaterschaft Verjährung und Auskunft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Führt durch Pflichtteilsfälle mit später festgestellter Vaterschaft, § 1600d Abs

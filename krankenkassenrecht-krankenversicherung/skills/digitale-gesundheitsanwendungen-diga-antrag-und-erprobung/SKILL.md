@@ -1,6 +1,6 @@
 ---
 name: digitale-gesundheitsanwendungen-diga-antrag-und-erprobung
-description: "Wenn es um Digitale Gesundheitsanwendungen (DiGA): Antrag und Erprobung in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Digitale Gesundheitsanwendungen (DiGA): Antrag und Erprobung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Digitale Gesundheitsanwendungen (DiGA): Antrag und Erprobung

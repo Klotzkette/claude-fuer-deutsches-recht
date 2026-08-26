@@ -1,6 +1,6 @@
 ---
 name: einstweiliger-rechtsschutz-vwgo
-description: "Wenn es um Einstweiliger Rechtsschutz Vwgo in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einstweiliger Rechtsschutz VwGO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstweiliger Rechtsschutz Vwgo

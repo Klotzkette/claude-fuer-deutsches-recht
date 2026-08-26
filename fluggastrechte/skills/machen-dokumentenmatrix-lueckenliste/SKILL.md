@@ -1,6 +1,6 @@
 ---
 name: machen-dokumentenmatrix-lueckenliste
-description: "Wenn es um Machen: Dokumentenmatrix, Lückenliste und Nachforderung in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Machen: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Fluggastrechte. Route: machen-dokumentenmatrix-lueckenliste."
 ---
 
 # Machen: Dokumentenmatrix, Lückenliste und Nachforderung

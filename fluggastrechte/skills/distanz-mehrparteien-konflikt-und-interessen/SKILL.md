@@ -1,6 +1,6 @@
 ---
 name: distanz-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Distanz: Mehrparteienkonflikt und Interessenmatrix in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Distanz Mehrparteien Konflikt Und Interessen; Arbeitsfeld: Fluggastrechte."
+description: "Für Distanz: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fluggastrechte. Route: distanz-mehrparteien-konflikt-und-interessen."
 ---
 
 # Distanz: Mehrparteienkonflikt und Interessenmatrix

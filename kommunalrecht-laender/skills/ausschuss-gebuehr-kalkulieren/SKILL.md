@@ -1,6 +1,6 @@
 ---
 name: ausschuss-gebuehr-kalkulieren
-description: "Wenn es um Ausschuss Gebuehr Kalkulieren in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausschuss Gebühr Kalkulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Ausschuss Gebuehr Kalkulieren

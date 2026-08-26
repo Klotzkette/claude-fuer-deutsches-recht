@@ -1,6 +1,6 @@
 ---
 name: software-and-saas-agency-distribution-franchise
-description: "Wenn es um Software- und SaaS-Verträge im grenzüberschreitenden B2B in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Software- und SaaS-Verträge im grenzüberschreitenden B2B: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Software- und SaaS-Verträge im grenzüberschreitenden B2B

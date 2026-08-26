@@ -1,6 +1,6 @@
 ---
 name: juristisches-staatsexamen-ki-nutzung-ki
-description: "Wenn es um Juristisches Staatsexamen in Prüfungsrecht an Hochschulen und Universitäten geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Juristisches Staatsexamen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Juristisches Staatsexamen

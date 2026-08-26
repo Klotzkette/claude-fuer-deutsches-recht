@@ -1,6 +1,6 @@
 ---
 name: zeugenstrategie-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Zeugenstrategie: Mehrparteienkonflikt und Interessenmatrix in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zeugenstrategie: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Zeugenstrategie: Mehrparteienkonflikt und Interessenmatrix

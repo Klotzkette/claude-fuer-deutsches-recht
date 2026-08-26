@@ -1,6 +1,6 @@
 ---
 name: ki-inventar-marketing-werbung-rote-linien
-description: "Wenn es um /ki-inventar in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für /ki-inventar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /ki-inventar

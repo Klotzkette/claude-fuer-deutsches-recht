@@ -1,6 +1,6 @@
 ---
 name: workflow-beweismatrix-und-logauswertung
-description: "Wenn es um Beweismatrix und Logauswertung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Workflow Beweismatrix Und Logauswertung; Arbeitsfeld: robotik-recht."
+description: "Für Beweismatrix und Logauswertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: robotik-recht. Route: workflow-beweismatrix-und-logauswertung."
 ---
 
 # Beweismatrix und Logauswertung

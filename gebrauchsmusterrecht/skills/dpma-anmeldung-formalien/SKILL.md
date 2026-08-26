@@ -1,6 +1,6 @@
 ---
 name: dpma-anmeldung-formalien
-description: "Wenn es um Dpma Anmeldung Formalien in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Dpma Anmeldung Formalien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dpma Anmeldung Formalien

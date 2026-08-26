@@ -1,6 +1,6 @@
 ---
 name: produktsicherheit-gpsr-reach-chemikalien
-description: "Wenn es um Produktsicherheit Gpsr Fashion in fashion-law-moderecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Produktsicherheit Gpsr Fashion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produktsicherheit Gpsr Fashion

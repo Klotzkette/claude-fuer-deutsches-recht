@@ -5,26 +5,114 @@ from __future__ import annotations
 
 import json
 import re
-from collections import Counter, defaultdict
+from collections import defaultdict
 from pathlib import Path
+
+from readme_display import display_prose
 
 REPO = Path(__file__).resolve().parent.parent
 DUPLICATE_TITLE_RE = re.compile(r"^([^:]{3,90}):\s*\1:", re.IGNORECASE)
 COMMA_NUMBER_RE = re.compile(r"\d\s*,\s*\d")
 
+TOPIC_ACRONYMS = {
+    "agb": "AGB",
+    "ao": "AO",
+    "arbgg": "ArbGG",
+    "avv": "AVV",
+    "bafin": "BaFin",
+    "bdsg": "BDSG",
+    "bgb": "BGB",
+    "bgh": "BGH",
+    "bho": "BHO",
+    "bnetza": "BNetzA",
+    "bora": "BORA",
+    "brao": "BRAO",
+    "brh": "BRH",
+    "bverfg": "BVerfG",
+    "bwa": "BWA",
+    "datev": "DATEV",
+    "dba": "DBA",
+    "drv": "DRV",
+    "dsfa": "DSFA",
+    "dsgvo": "DSGVO",
+    "elstam": "ELStAM",
+    "estg": "EStG",
+    "eug": "EuG",
+    "eugh": "EuGH",
+    "famfg": "FamFG",
+    "fgo": "FGO",
+    "gewstg": "GewStG",
+    "gkg": "GKG",
+    "gmbh": "GmbH",
+    "gmbhg": "GmbHG",
+    "gvv": "GVV",
+    "gwb": "GWB",
+    "hgb": "HGB",
+    "hoai": "HOAI",
+    "inso": "InsO",
+    "ropa": "RoPA",
+    "rvg": "RVG",
+    "sgb": "SGB",
+    "sgg": "SGG",
+    "starug": "StaRUG",
+    "stpo": "StPO",
+    "tia": "TIA",
+    "ustg": "UStG",
+    "uvgo": "UVgO",
+    "vgv": "VgV",
+    "vob": "VOB",
+    "vvg": "VVG",
+    "vwgo": "VwGO",
+    "weg": "WEG",
+    "zpo": "ZPO",
+}
+LOWERCASE_TOPIC_WORDS = {
+    "Als",
+    "Am",
+    "An",
+    "Auf",
+    "Aus",
+    "Bei",
+    "Bis",
+    "Das",
+    "Der",
+    "Des",
+    "Die",
+    "Durch",
+    "Für",
+    "Gegen",
+    "Im",
+    "In",
+    "Mit",
+    "Nach",
+    "Oder",
+    "Ohne",
+    "Seit",
+    "Über",
+    "Um",
+    "Und",
+    "Unter",
+    "Vom",
+    "Von",
+    "Vor",
+    "Zu",
+    "Zum",
+    "Zur",
+}
+
 OUTPUT_RULES: tuple[tuple[tuple[str, ...], str], ...] = (
-    (("chronologie", "belegmatrix", "timeline"), "eine Chronologie mit Belegmatrix und Widerspruchsliste"),
-    (("fristen", "frist", "risikoampel"), "eine Fristen- und Risikoampel mit Sofortschritten"),
-    (("red-team", "qualitygate", "qualitaet", "kontrolle"), "eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck"),
-    (("mandantenkommunikation", "entscheidungsvorlage"), "eine Mandantennachricht oder Entscheidungsvorlage"),
-    (("schriftsatz", "klage", "antrag", "brief", "memo", "textbausteine"), "einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik"),
-    (("dokumentenmatrix", "lueckenliste", "unterlagen"), "eine Dokumentenmatrix mit Nachforderungsliste"),
-    (("beweislast", "darlegungslast", "substantiierung", "beweis"), "eine Beweislast- und Substantiierungsmatrix"),
-    (("zahlen", "schwellen", "berechnung", "betrag", "gebuehr"), "eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen"),
-    (("formular", "portal", "einreichung", "register"), "einen Einreichungsplan mit Form-, Portal- und Nachweischeck"),
-    (("verhandlung", "vergleich", "eskalation", "strategie"), "eine Verhandlungs- oder Eskalationslinie mit Optionen"),
-    (("international", "schnittstellen", "ausland", "eu"), "eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen"),
-    (("tatbestand", "subsumtion", "norm", "anspruch", "pruefung"), "eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten"),
+    (("chronologie", "belegmatrix", "timeline"), "Chronologie mit Beleg- und Widerspruchsmatrix"),
+    (("fristen", "frist", "risikoampel"), "Fristen- und Risikoampel"),
+    (("red-team", "qualitygate", "qualitaet", "kontrolle"), "Gegenprüfung mit Beweis- und Fristencheck"),
+    (("mandantenkommunikation", "entscheidungsvorlage"), "Mandantennachricht oder Entscheidungsvorlage"),
+    (("schriftsatz", "klage", "antrag", "brief", "memo", "textbausteine"), "Schriftsatz mit Begründungs- und Anlagenlogik"),
+    (("dokumentenmatrix", "lueckenliste", "unterlagen"), "Dokumentenmatrix mit Nachforderungsliste"),
+    (("beweislast", "darlegungslast", "substantiierung", "beweis"), "Beweislast- und Substantiierungsmatrix"),
+    (("zahlen", "schwellen", "berechnung", "betrag", "gebuehr"), "Berechnungstabelle mit Annahmen und Kontrollfragen"),
+    (("formular", "portal", "einreichung", "register"), "Einreichungsplan mit Form- und Nachweischeck"),
+    (("verhandlung", "vergleich", "eskalation", "strategie"), "Verhandlungs- oder Eskalationslinie"),
+    (("international", "schnittstellen", "ausland", "eu"), "Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen"),
+    (("tatbestand", "subsumtion", "norm", "anspruch", "pruefung"), "Tatbestands- oder Anspruchsmatrix"),
 )
 
 
@@ -48,7 +136,13 @@ def field_value(frontmatter: str, field: str) -> str:
         return ""
     value = match.group(1).strip()
     if len(value) >= 2 and value[0] in {"'", '"'} and value[-1] == value[0]:
-        value = value[1:-1]
+        if value[0] == '"':
+            try:
+                value = json.loads(value)
+            except json.JSONDecodeError:
+                value = value[1:-1]
+        else:
+            value = value[1:-1].replace("''", "'")
     return value
 
 
@@ -139,7 +233,20 @@ def humanize(text: str) -> str:
     for word in words:
         lower = word.lower()
         out.append(replacements.get(lower, lower.capitalize()))
-    return " ".join(out)
+    return polish_topic(" ".join(out))
+
+
+def polish_topic(text: str) -> str:
+    """Bereitet nur sichtbare Fachthemen auf; Slugs und Links bleiben unberührt."""
+    value = display_prose(re.sub(r"\s+", " ", text).strip())
+    for source, target in TOPIC_ACRONYMS.items():
+        value = re.sub(rf"\b{re.escape(source)}\b", target, value, flags=re.IGNORECASE)
+    words = value.split(" ")
+    for index in range(1, len(words)):
+        bare = words[index].strip("()[]{}.,;:")
+        if bare in LOWERCASE_TOPIC_WORDS:
+            words[index] = words[index].replace(bare, bare.lower(), 1)
+    return " ".join(words)
 
 
 def heading(text: str) -> str:
@@ -188,7 +295,7 @@ def output_for(slug: str, desc: str) -> str:
     for needles, output in OUTPUT_RULES:
         if any(needle in haystack for needle in needles):
             return output
-    return "ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt"
+    return "Prüfprodukt mit Risiko und nächstem Schritt"
 
 
 def domain_for(root: Path, meta: dict[str, str]) -> str:
@@ -233,34 +340,33 @@ def topic_for(path: Path, body: str) -> str:
         title = re.sub(r"\s+", " ", title).strip()
         title = re.sub(r"\s+im\s+([A-Za-zÄÖÜäöüß -]+)-Plugin\b", r" in \1", title)
         if 8 <= len(title) <= 90:
-            return title
+            return polish_topic(title)
     return humanize(path.parent.name)
 
 
 def action_for(desc: str, slug: str) -> str:
     lower = f"{desc} {slug}".lower()
     if any(word in lower for word in ("erstpruefung", "triage", "kaltstart", "routing", "einstieg")):
-        return "klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill"
+        return "routet Rolle, Frist, Unterlagen und Fachschritt"
     if any(word in lower for word in ("schriftsatz", "klage", "antrag", "brief", "memo", "textbaustein")):
-        return "erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag"
+        return "erstellt Entwurf mit Antrag, Beweis und Anlagen"
     if any(word in lower for word in ("red-team", "qualitygate", "kontrolle", "gegenargument")):
-        return "zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition"
+        return "prüft Ergebnis, Beweislast und Gegenposition"
     if any(word in lower for word in ("fristen", "frist", "zustaendigkeit", "rechtsweg")):
-        return "prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen"
+        return "prüft Frist, Form, Zuständigkeit und Eilbedarf"
     if any(word in lower for word in ("dokument", "unterlage", "akte", "beleg", "luecke")):
-        return "ordnet Akteninhalt, Belege, Lücken und Nachforderungen"
+        return "ordnet Akte, Belege und Lücken"
     if any(word in lower for word in ("berechnung", "zahlen", "schwellen", "betrag")):
-        return "rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch"
+        return "rechnet Beträge, Schwellen und Varianten"
     if any(word in lower for word in ("verhandlung", "vergleich", "eskalation")):
-        return "entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad"
-    return "ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt"
+        return "entwickelt Ziel, Vergleich und Eskalation"
+    return "ordnet Norm, Beweislast und Gegenargument"
 
 
 def should_upgrade(desc: str, duplicate_count: int) -> bool:
     return (
         not desc
-        or not desc.startswith("Wenn es um ")
-        or len(desc) < 140
+        or len(desc) < 80
         or duplicate_count > 1
         or bool(DUPLICATE_TITLE_RE.search(desc))
         or "fachlich vertieftes Modul" in desc
@@ -284,7 +390,10 @@ def build_selector(path: Path, body: str, old_desc: str, root: Path, meta: dict[
     output = output_for(path.parent.name, old_desc)
     if topic.lower().startswith(("führt ", "juristische ", "spezialfall ")):
         topic = humanize(path.parent.name)
-    desc = f"Wenn es um {topic} in {domain} geht: {action}; liefert {output}."
+    topic = topic[:100].rstrip(" ,;:.")
+    desc = f"Für {topic}: {action}; Ergebnis: {output}."
+    if len(desc) < 80:
+        desc = f"Für {topic} in {domain}: {action}; Ergebnis: {output}."
     desc = desc.replace("§", "Paragraf")
     desc = re.sub(r"\s+", " ", desc).strip()
     return desc
@@ -295,17 +404,25 @@ def add_alias_signal(desc: str, path: Path, duplicate_count: int) -> str:
         return desc
     slug_hint = humanize(path.parent.name)
     if slug_hint and slug_hint.lower() not in desc.lower():
-        return f"{desc.rstrip('.')}. Stichwort für die Auswahl: {slug_hint}."
+        return f"{desc.rstrip('.')}. Suchwort: {slug_hint}."
     return desc
 
 
 def normalize(path: Path, old_desc: str, duplicate_count: int, root: Path, meta: dict[str, str], body: str) -> str:
     cleaned = clean_description(old_desc)
-    if should_upgrade(old_desc, duplicate_count) or should_upgrade(cleaned, duplicate_count) or has_slug_domain(cleaned, root, meta):
+    auto_generated = cleaned.startswith("Wenn es um ") or bool(
+        re.match(
+            r"^Für .+?: (?:routet Rolle|erstellt Entwurf|prüft Ergebnis|prüft Frist|ordnet Akte|rechnet Beträge|entwickelt Ziel|ordnet Norm).+; Ergebnis:",
+            cleaned,
+        )
+    )
+    if auto_generated:
+        cleaned = build_selector(path, body, "", root, meta)
+    elif should_upgrade(old_desc, duplicate_count) or should_upgrade(cleaned, duplicate_count) or has_slug_domain(cleaned, root, meta):
         cleaned = build_selector(path, body, cleaned, root, meta)
     else:
         cleaned = first_sentence(cleaned, 360)
-        if len(cleaned) < 140:
+        if len(cleaned) < 80:
             cleaned = build_selector(path, body, cleaned, root, meta)
     cleaned = add_alias_signal(cleaned, path, duplicate_count)
     cleaned = clean_description(cleaned)
@@ -321,8 +438,8 @@ def normalize(path: Path, old_desc: str, duplicate_count: int, root: Path, meta:
     cleaned = re.sub(r"\s+([.;,:])", r"\1", cleaned)
     if COMMA_NUMBER_RE.search(cleaned):
         cleaned = COMMA_NUMBER_RE.sub(lambda m: m.group(0).replace(",", "."), cleaned)
-    if len(cleaned) > 760:
-        cleaned = first_sentence(cleaned, 520)
+    if len(cleaned) > 360:
+        cleaned = first_sentence(cleaned, 340)
     if len(cleaned) < 80:
         cleaned = build_selector(path, body, cleaned, root, meta)
     return cleaned
@@ -386,9 +503,8 @@ def main() -> int:
         frontmatter = text[bounds[0] : bounds[1]]
         original[path] = field_value(frontmatter, "description")
 
-    counts = Counter(original.values())
     meta_cache: dict[Path, dict[str, str]] = {}
-    changed = 0
+    candidates: dict[Path, str] = {}
     for path, old_desc in original.items():
         text = path.read_text(encoding="utf-8")
         bounds = frontmatter_bounds(text)
@@ -396,17 +512,47 @@ def main() -> int:
             continue
         root = plugin_root(path)
         meta_cache.setdefault(root, plugin_meta(root))
-        new_desc = normalize(path, old_desc, counts[old_desc], root, meta_cache[root], text[bounds[1] + 5 :])
+        candidates[path] = normalize(path, old_desc, 1, root, meta_cache[root], text[bounds[1] + 5 :])
+
+    by_candidate: dict[str, list[Path]] = defaultdict(list)
+    for path, candidate in candidates.items():
+        by_candidate[candidate].append(path)
+
+    def with_suffix(value: str, suffix: str) -> str:
+        limit = 360 - len(suffix)
+        if len(value) > limit:
+            cut = value.rfind(" ", 80, limit)
+            value = value[: cut if cut > 80 else limit].rstrip(" ,;:.") + "."
+        return value.rstrip(".") + "." + suffix
+
+    scoped_candidates: dict[Path, str] = {}
+    for path, candidate in candidates.items():
+        if len(by_candidate[candidate]) <= 1:
+            scoped_candidates[path] = candidate
+            continue
+        root = plugin_root(path)
+        meta_cache.setdefault(root, plugin_meta(root))
+        domain = clean_description(domain_for(root, meta_cache[root]))
+        scoped_candidates[path] = with_suffix(candidate, f" Fachgebiet: {domain}.")
+
+    by_scoped: dict[str, list[Path]] = defaultdict(list)
+    for path, candidate in scoped_candidates.items():
+        by_scoped[candidate].append(path)
+
+    changed = 0
+    deduped = 0
+    for path, old_desc in original.items():
+        new_desc = scoped_candidates[path]
+        if len(by_scoped[new_desc]) > 1:
+            new_desc = with_suffix(new_desc, f" Route: {path.parent.name}.")
+            deduped += 1
         if new_desc == old_desc:
             continue
-        frontmatter = text[bounds[0] : bounds[1]]
-        updated_fm = set_description(frontmatter, new_desc)
-        path.write_text(text[: bounds[0]] + updated_fm + text[bounds[1] :], encoding="utf-8")
+        write_description(path, new_desc)
         changed += 1
 
     print(f"Skill-Beschreibungen aktualisiert: {changed}/{len(original)}")
-    deduped = deduplicate_current_descriptions(files)
-    print(f"Exakte Beschreibungsdoppelungen nachgeschärft: {deduped}")
+    print(f"Deterministisch eindeutige Routen ergänzt: {deduped}")
     return 0
 
 

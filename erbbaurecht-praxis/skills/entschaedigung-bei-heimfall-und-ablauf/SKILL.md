@@ -1,6 +1,6 @@
 ---
 name: entschaedigung-bei-heimfall-und-ablauf
-description: "Wenn es um Entschädigung in Erbbaurecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Entschädigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Entschädigung

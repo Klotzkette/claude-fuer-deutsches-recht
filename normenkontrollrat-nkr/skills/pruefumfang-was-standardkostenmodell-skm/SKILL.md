@@ -1,6 +1,6 @@
 ---
 name: pruefumfang-was-standardkostenmodell-skm
-description: "Wenn es um NKR-Prüfumfang — was prüft der NKR nicht in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pruefumfang Was Standardkostenmodell Skm; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
+description: "Für NKR-Prüfumfang — was prüft der NKR nicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrollrat (NKR) — Prüfung von Gesetzentwürfen. Route: pruefumfang-was-standardkostenmodell-skm."
 ---
 
 # NKR-Prüfumfang — was prüft der NKR nicht

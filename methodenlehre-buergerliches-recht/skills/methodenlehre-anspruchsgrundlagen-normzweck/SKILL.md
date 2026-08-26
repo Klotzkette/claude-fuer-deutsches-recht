@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-anspruchsgrundlagen-normzweck
-description: "Wenn es um Anspruchsgrundlagen auf Behörden-, Gerichts- und Registerweg in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anspruchsgrundlagen auf Behörden-, Gerichts- und Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Anspruchsgrundlagen auf Behörden-, Gerichts- und Registerweg

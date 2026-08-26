@@ -1,6 +1,6 @@
 ---
 name: zuordnung-erstpruefung-rollenklaerung-mandatsziel
-description: "Wenn es um Zuordnung: Erstprüfung, Rollenklärung und Mandatsziel in Anlagen zu Schriftsätzen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zuordnung: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Zuordnung: Erstprüfung, Rollenklärung und Mandatsziel

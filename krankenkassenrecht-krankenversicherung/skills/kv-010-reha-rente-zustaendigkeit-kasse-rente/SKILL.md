@@ -1,6 +1,6 @@
 ---
 name: kv-010-reha-rente-zustaendigkeit-kasse-rente
-description: "Wenn es um Krankenversicherung: Reha vor Rente Zuständigkeit Krankenkasse Rentenversicherung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Reha vor Rente Zuständigkeit Krankenkasse Rentenversicherung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Reha vor Rente Zuständigkeit Krankenkasse Rentenversicherung

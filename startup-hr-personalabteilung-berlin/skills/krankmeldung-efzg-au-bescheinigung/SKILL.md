@@ -1,6 +1,6 @@
 ---
 name: krankmeldung-efzg-au-bescheinigung
-description: "Wenn es um Krankmeldung EFZG Au Bescheinigung in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankmeldung EFZG Au Bescheinigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankmeldung EFZG Au Bescheinigung

@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-vergabe-planerleistungen
-description: "Wenn es um HOAI Querschnitt: Prüft vergabe von planerleistungen in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für HOAI Querschnitt: Prüft vergabe von planerleistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI Querschnitt: Prüft vergabe von planerleistungen

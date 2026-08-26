@@ -1,6 +1,6 @@
 ---
 name: hafenvertiefung-normenkontrolle-skizzi
-description: "Wenn es um Hafenvertiefung Normenkontrolle Skizzi in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hafenvertiefung Normenkontrolle Skizzi: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Hafenvertiefung Normenkontrolle Skizzi

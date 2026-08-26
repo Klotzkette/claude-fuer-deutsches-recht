@@ -1,6 +1,6 @@
 ---
 name: rechnung-ohne-auftrag
-description: "Wenn es um Rechnung ohne Auftrag in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechnung ohne Auftrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechnung ohne Auftrag

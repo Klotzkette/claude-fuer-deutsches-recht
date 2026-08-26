@@ -1,6 +1,6 @@
 ---
 name: sonderfall-edge-roadmap-rolle
-description: "Wenn es um Prüfung: Sonderfall und Edge-Case-Prüfung in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfung: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüfung: Sonderfall und Edge-Case-Prüfung

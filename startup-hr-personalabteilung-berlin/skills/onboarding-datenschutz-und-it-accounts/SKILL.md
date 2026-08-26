@@ -1,6 +1,6 @@
 ---
 name: onboarding-datenschutz-und-it-accounts
-description: "Wenn es um Onboarding Datenschutz Und IT Accounts in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Onboarding Datenschutz und IT Accounts: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Onboarding Datenschutz Und IT Accounts

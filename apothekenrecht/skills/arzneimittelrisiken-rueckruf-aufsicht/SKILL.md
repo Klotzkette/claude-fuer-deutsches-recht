@@ -1,6 +1,6 @@
 ---
 name: arzneimittelrisiken-rueckruf-aufsicht
-description: "Wenn es um Arzneimittelrisiken Rückruf Chargenrückverfolgung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Arzneimittelrisiken Rückruf Chargenrückverfolgung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arzneimittelrisiken Rückruf Chargenrückverfolgung

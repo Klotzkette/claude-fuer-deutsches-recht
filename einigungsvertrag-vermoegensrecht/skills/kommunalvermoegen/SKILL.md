@@ -1,6 +1,6 @@
 ---
 name: kommunalvermoegen
-description: "Wenn es um Kommunalvermoegen Behördenbrief Schre in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kommunalvermögen Behördenbrief Schre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunalvermoegen Behördenbrief Schre

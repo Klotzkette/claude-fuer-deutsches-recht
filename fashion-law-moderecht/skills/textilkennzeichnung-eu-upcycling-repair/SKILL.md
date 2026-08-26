@@ -1,6 +1,6 @@
 ---
 name: textilkennzeichnung-eu-upcycling-repair
-description: "Wenn es um Textilkennzeichnung Eu 1007 in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Textilkennzeichnung Eu 1007: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Textilkennzeichnung Eu 1007

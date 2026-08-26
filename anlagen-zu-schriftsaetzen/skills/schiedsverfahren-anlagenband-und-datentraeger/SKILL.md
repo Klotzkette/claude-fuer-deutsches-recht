@@ -1,6 +1,6 @@
 ---
 name: schiedsverfahren-anlagenband-und-datentraeger
-description: "Wenn es um Schiedsverfahren: Anlagenband und Datenträger in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schiedsverfahren: Anlagenband und Datenträger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiedsverfahren: Anlagenband und Datenträger

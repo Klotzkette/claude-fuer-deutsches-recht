@@ -1,6 +1,6 @@
 ---
 name: phishing-tan
-description: "Wenn es um Mandantenkommunikation in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Phishing-Vorfall-Prüfer."
 ---
 
 # Mandantenkommunikation

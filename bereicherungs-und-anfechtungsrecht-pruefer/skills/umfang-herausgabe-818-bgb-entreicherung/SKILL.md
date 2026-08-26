@@ -1,6 +1,6 @@
 ---
 name: umfang-herausgabe-818-bgb-entreicherung
-description: "Wenn es um Umfang der Herausgabe — Paragraf 818 BGB und Entreicherung in bereicherungs-und-anfechtungsrecht-prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Umfang der Herausgabe — Paragraf 818 BGB und Entreicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: umfang-herausgabe-818-bgb-entreicherung."
 ---
 
 # Umfang der Herausgabe — § 818 BGB und Entreicherung

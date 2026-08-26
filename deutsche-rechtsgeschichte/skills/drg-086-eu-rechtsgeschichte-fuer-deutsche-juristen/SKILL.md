@@ -1,6 +1,6 @@
 ---
 name: drg-086-eu-rechtsgeschichte-fuer-deutsche-juristen
-description: "Wenn es um EU Rechtsgeschichte Fuer Deutsche Juristen in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU Rechtsgeschichte für Deutsche Juristen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU Rechtsgeschichte Fuer Deutsche Juristen

@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-vorlaeufige-zulassung
-description: "Wenn es um Vergleich Und Prüfungsrecht in Prüfungsrecht an Hochschulen und Universitäten geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich und Prüfungsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vergleich Und Prüfungsrecht

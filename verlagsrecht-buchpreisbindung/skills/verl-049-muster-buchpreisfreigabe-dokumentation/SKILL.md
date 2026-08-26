@@ -1,6 +1,6 @@
 ---
 name: verl-049-muster-buchpreisfreigabe-dokumentation
-description: "Wenn es um Verlagsrecht: Muster Buchpreisfreigabe Dokumentation in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Muster Buchpreisfreigabe Dokumentation: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Muster Buchpreisfreigabe Dokumentation

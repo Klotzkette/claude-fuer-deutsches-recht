@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-und-eltern
-description: "Wenn es um Minderjährige und Eltern in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Minderjährige und Eltern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Minderjährige und Eltern

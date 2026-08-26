@@ -1,6 +1,6 @@
 ---
 name: konzessionsvergabe-konzvgv
-description: "Wenn es um Konzessionsvergabe Konzvgv in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konzessionsvergabe Konzvgv: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konzessionsvergabe nach KonzVgV strukturieren und prüfen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung für Bau- oder Dienstleistungskonzession

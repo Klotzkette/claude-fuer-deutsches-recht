@@ -1,6 +1,6 @@
 ---
 name: menschenwuerde-grundrechte-theoriekern
-description: "Wenn es um Menschenwürde und Grundrechte in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Menschenwürde und Grundrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Menschenwürde und Grundrechte

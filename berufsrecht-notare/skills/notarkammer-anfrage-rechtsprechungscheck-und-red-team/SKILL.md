@@ -1,6 +1,6 @@
 ---
 name: notarkammer-anfrage-rechtsprechungscheck-und-red-team
-description: "Wenn es um Notarkammer Anfrage Rechtsprechungscheck Und Red Team in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Notarkammer Anfrage Rechtsprechungscheck und Red Team: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Notare: notarkammer anfrage - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

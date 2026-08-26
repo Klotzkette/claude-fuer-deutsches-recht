@@ -1,6 +1,6 @@
 ---
 name: ladeinfrastruktur-spezial-vertragskette
-description: "Wenn es um Ladeinfrastruktur-Vertragskette in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ladeinfrastruktur-Vertragskette: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ladeinfrastruktur-Vertragskette

@@ -1,6 +1,6 @@
 ---
 name: schlussformel-baukasten
-description: "Entwirft freiwillige Dank-, Bedauerns- und Wunschformeln passend zu Beendigungsgrund und Gesamtzeugnis. Trennt Gestaltung von einklagbarem Inhalt, berücksichtigt bereits erteilte Formeln und liefert mehrere wahrheitsgemäße Varianten ohne ungewollte Abwertung."
+description: "Entwirft freiwillige Dank-, Bedauerns- und Wunschformeln passend zu Beendigungsgrund und Gesamtzeugnis."
 ---
 
 # Schlussformel-Baukasten

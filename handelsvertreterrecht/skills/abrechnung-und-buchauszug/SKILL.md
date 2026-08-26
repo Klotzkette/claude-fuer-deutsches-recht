@@ -1,6 +1,6 @@
 ---
 name: abrechnung-und-buchauszug
-description: "Wenn es um Abrechnung Und Buchauszug in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abrechnung und Buchauszug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abrechnung Und Buchauszug

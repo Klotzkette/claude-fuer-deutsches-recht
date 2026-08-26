@@ -1,6 +1,6 @@
 ---
 name: itil-sla-vertragsstrafe
-description: "Wenn es um Itil sla Vertragsstrafe in Fachanwalt It Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Itil sla Vertragsstrafe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Itil sla Vertragsstrafe

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-krypto-verwertung
-description: "Wenn es um Fachanwalt Insolvenz Krypto Verwertung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachanwalt Insolvenz Krypto Verwertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 ## Mandantenfragen beim Kaltstart

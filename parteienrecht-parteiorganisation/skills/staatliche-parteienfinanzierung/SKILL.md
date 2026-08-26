@@ -1,6 +1,6 @@
 ---
 name: staatliche-parteienfinanzierung
-description: "Wenn es um Staatliche Parteienfinanzierung in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Staatliche Parteienfinanzierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Staatliche Parteienfinanzierung

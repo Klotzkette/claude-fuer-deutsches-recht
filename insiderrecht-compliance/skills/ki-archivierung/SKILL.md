@@ -1,6 +1,6 @@
 ---
 name: ki-archivierung
-description: "Wenn es um digitale Werkzeuge-Prognosemodelle und Insiderrecht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge-Prognosemodelle und Insiderrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Prognosemodelle und Insiderrecht

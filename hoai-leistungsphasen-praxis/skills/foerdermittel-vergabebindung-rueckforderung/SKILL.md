@@ -1,6 +1,6 @@
 ---
 name: foerdermittel-vergabebindung-rueckforderung
-description: "Wenn es um Fördermittel, Vergabebindung Und Rückforderung in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fördermittel, Vergabebindung und Rückforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fördermittel, Vergabebindung Und Rückforderung

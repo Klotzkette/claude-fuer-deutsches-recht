@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Internationales Handelsrecht und Lex Mercatoria - Allgemeiner Einstieg in Internationales Handelsrecht und Lex Mercatoria geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Internationales Handelsrecht und Lex Mercatoria - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internationales Handelsrecht und Lex Mercatoria - Allgemeiner Einstieg

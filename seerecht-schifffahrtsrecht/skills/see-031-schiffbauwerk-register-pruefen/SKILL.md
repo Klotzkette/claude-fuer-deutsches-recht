@@ -1,6 +1,6 @@
 ---
 name: see-031-schiffbauwerk-register-pruefen
-description: "Wenn es um Schiffbauwerk Register Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiffbauwerk Register Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Schiffbauwerk Register Pruefen

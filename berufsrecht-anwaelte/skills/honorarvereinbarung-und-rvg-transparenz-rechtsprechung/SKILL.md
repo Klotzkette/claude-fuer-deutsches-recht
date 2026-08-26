@@ -1,6 +1,6 @@
 ---
 name: honorarvereinbarung-und-rvg-transparenz-rechtsprechung
-description: "Wenn es um Honorarvereinbarung Und Rvg Transparenz Rechtsprechung in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Honorarvereinbarung und RVG Transparenz Rechtsprechung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: honorarvereinbarung und rvg transparenz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

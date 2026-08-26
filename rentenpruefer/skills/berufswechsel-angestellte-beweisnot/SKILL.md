@@ -1,6 +1,6 @@
 ---
 name: berufswechsel-angestellte-beweisnot
-description: "Wenn es um berufswechsel-angestellte-selbstaendige-freiberufler in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für berufswechsel-angestellte-selbstaendige-freiberufler: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # berufswechsel-angestellte-selbstaendige-freiberufler

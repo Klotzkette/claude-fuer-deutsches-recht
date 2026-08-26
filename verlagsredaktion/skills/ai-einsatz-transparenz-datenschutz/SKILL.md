@@ -1,6 +1,6 @@
 ---
 name: ai-einsatz-transparenz-datenschutz
-description: "Wenn es um digitale Werkzeuge-Einsatz, Transparenz und Datenschutz in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge-Einsatz, Transparenz und Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Einsatz, Transparenz und Datenschutz

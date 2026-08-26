@@ -1,6 +1,6 @@
 ---
 name: entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung
-description: "Wenn es um Sachgrundlose Befristung nach Paragraf 14 Abs in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachgrundlose Befristung nach Paragraf 14 Abs: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Sachgrundlose Befristung nach Paragraf 14 Abs

@@ -1,6 +1,6 @@
 ---
 name: sanktion-beschlussverfahren-72-owig
-description: "Wenn es um Beschlussverfahren Paragraf 72 OWiG in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschlussverfahren Paragraf 72 OWiG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Beschlussverfahren § 72 OWiG
@@ -49,3 +49,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 - EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
 - Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-sanktion-beschlussverfahren-72-owig` beziehungsweise Datenschutzrecht-Brückenskill: Beschlussverfahren § 72 OWiG: Schriftliche Erledigung per Beschluss prüfen, wenn Tatsachen und Verfahrenslage dafür taugen: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-sanktion-beschlussverfahren-72-owig.md).

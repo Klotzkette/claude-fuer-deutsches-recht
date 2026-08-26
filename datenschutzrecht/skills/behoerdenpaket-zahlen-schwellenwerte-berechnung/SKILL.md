@@ -1,6 +1,6 @@
 ---
 name: behoerdenpaket-zahlen-schwellenwerte-berechnung
-description: "Wenn es um Behördenpaket: Zahlen, Schwellenwerte und Berechnung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Behördenpaket: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Datenschutzrecht. Route: behoerdenpaket-zahlen-schwellenwerte-berechnung."
 ---
 
 # Behördenpaket: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg
-description: "Wenn es um Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf Paragraf 8c KStG in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf Paragraf 8c KStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf Paragraf 8c KStG

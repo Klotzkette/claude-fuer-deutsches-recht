@@ -1,6 +1,6 @@
 ---
 name: foto-shooting-vertrag-model-release-location
-description: "Wenn es um Influencer-Recht: Foto-Shooting – Vertrag, Model Release und Location in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Foto-Shooting – Vertrag, Model Release und Location: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Foto-Shooting – Vertrag, Model Release und Location

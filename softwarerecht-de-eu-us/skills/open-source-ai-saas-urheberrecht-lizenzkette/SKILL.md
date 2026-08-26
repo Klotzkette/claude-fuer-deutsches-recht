@@ -1,6 +1,6 @@
 ---
 name: open-source-ai-saas-urheberrecht-lizenzkette
-description: "Wenn es um Open Source digitale Werkzeuge Models in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Open Source digitale Werkzeuge Models: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Open Source AI Models

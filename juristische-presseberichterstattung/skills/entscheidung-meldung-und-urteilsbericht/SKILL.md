@@ -1,6 +1,6 @@
 ---
 name: entscheidung-meldung-und-urteilsbericht
-description: "Wenn es um Entscheidung Meldung und Urteilsbericht in Juristische Presseberichterstattung geht: macht aus Urteil, Beschluss oder Pressemitteilung eine Meldung mit Tenor, Gründen, Folgen und Rechtsmittelstatus."
+description: "Für Entscheidung Meldung und Urteilsbericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Entscheidung Meldung und Urteilsbericht

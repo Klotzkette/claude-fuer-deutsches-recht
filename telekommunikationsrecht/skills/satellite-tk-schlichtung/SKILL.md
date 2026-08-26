@@ -1,6 +1,6 @@
 ---
 name: satellite-tk-schlichtung
-description: "Wenn es um Satellitenkommunikation und NTN in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Satellitenkommunikation und NTN: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Satellitenkommunikation und NTN

@@ -1,6 +1,6 @@
 ---
 name: seminar-und-vortrag-rechtsgeschichte
-description: "Wenn es um Seminar und Vortrag Rechtsgeschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Seminar und Vortrag Rechtsgeschichte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Seminar und Vortrag Rechtsgeschichte

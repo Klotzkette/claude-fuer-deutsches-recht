@@ -1,6 +1,6 @@
 ---
 name: starug-fristen-form-und-zustaendigkeit
-description: "Wenn es um StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg

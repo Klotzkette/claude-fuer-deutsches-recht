@@ -1,6 +1,6 @@
 ---
 name: schufa-scoring-negativeintrag-dsgvo
-description: "Wenn es um SCHUFA Scoring Negativeintrag DSGVO in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SCHUFA Scoring Negativeintrag DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SCHUFA Scoring Negativeintrag DSGVO

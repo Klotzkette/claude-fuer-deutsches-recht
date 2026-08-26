@@ -1,6 +1,6 @@
 ---
 name: wahlbeobachtung-und-wahltag
-description: "Wenn es um Wahlbeobachtung Und Wahltag in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Wahlbeobachtung und Wahltag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wahlbeobachtung Und Wahltag

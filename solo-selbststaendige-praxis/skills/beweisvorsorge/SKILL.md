@@ -1,6 +1,6 @@
 ---
 name: beweisvorsorge
-description: "Wenn es um Versicherung Haftung und Risiko: Sichert briefing in Solo-Selbstständige Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versicherung Haftung und Risiko: Sichert briefing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Versicherung Haftung und Risiko: Sichert briefing

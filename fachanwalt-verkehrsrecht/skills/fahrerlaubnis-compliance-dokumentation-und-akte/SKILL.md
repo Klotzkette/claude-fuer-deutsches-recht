@@ -1,6 +1,6 @@
 ---
 name: fahrerlaubnis-compliance-dokumentation-und-akte
-description: "Wenn es um Fahrerlaubnis: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Verkehrsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fahrerlaubnis: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fahrerlaubnis: Compliance-Dokumentation und Aktenvermerk

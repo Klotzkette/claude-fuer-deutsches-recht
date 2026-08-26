@@ -1,6 +1,6 @@
 ---
 name: rundbrief-mitglieder
-description: "Wenn es um Rundbrief an Mitglieder in Vereinsrecht und Vereinsmanager geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rundbrief an Mitglieder: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Rundbrief an Mitglieder

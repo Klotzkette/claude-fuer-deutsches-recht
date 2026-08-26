@@ -1,6 +1,6 @@
 ---
 name: schranke-vorbehaltlos-verfassungsimmanent
-description: "Wenn es um Vorbehaltlose Grundrechte und verfassungsimmanente Schranken in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vorbehaltlose Grundrechte und verfassungsimmanente Schranken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorbehaltlose Grundrechte und verfassungsimmanente Schranken

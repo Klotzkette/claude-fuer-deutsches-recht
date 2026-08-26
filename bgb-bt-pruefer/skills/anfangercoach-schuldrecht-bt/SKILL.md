@@ -1,6 +1,6 @@
 ---
 name: anfangercoach-schuldrecht-bt
-description: "Wenn es um Workflow: Anfängercoach Schuldrecht BT in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfangercoach Schuldrecht Bt; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Workflow: Anfängercoach Schuldrecht BT: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Workflow: Anfängercoach Schuldrecht BT

@@ -1,6 +1,6 @@
 ---
 name: einzelplan-praktisch-funktionenplan
-description: "Wenn es um Bho 13 Einzelplan Praktisch Anwenden in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für BHO 13 Einzelplan Praktisch Anwenden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bho 13 Einzelplan Praktisch Anwenden

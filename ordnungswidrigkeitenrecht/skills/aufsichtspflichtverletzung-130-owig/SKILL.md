@@ -1,6 +1,6 @@
 ---
 name: aufsichtspflichtverletzung-130-owig
-description: "Wenn es um Aufsichtspflichtverletzung 130 Owig in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufsichtspflichtverletzung 130 Owig: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufsichtspflichtverletzung 130 Owig

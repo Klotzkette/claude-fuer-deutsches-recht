@@ -1,6 +1,6 @@
 ---
 name: gesetzgebung-justiz-wissenschaft-rollen
-description: "Wenn es um Gesetzgebung, Justiz und Wissenschaft: Institutionelle Rollen in der Rechtsbildung in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Gesetzgebung, Justiz und Wissenschaft: Institutionelle Rollen in der Rechtsbildung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesetzgebung, Justiz und Wissenschaft: Institutionelle Rollen in der Rechtsbildung

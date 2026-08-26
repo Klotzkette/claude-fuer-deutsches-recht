@@ -1,6 +1,6 @@
 ---
 name: bmg-berufsrecht-heilberufe-und-approbation
-description: "Wenn es um Berufsrecht der Heilberufe und Approbation (BMG) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmg Berufsrecht Heilberufe Und Approbation; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Berufsrecht der Heilberufe und Approbation (BMG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmg-berufsrecht-heilberufe-und-approbation."
 ---
 
 # Berufsrecht der Heilberufe und Approbation (BMG)

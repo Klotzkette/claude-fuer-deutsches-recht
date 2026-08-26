@@ -1,6 +1,6 @@
 ---
 name: schoeffe-wirtschaftsstrafverfahren-orientierung
-description: "Wenn es um Wirtschaftsstrafverfahren für Schöffen: Orientierung in Schöffen und Handelsrichter Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Wirtschaftsstrafverfahren für Schöffen: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsstrafverfahren für Schöffen: Orientierung

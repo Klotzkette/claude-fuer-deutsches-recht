@@ -1,6 +1,6 @@
 ---
 name: erbengemeinschaft-blockade-auseinandersetzung
-description: "Wenn es um Erbengemeinschaft Blockade Auseinandersetzung in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erbengemeinschaft Blockade Auseinandersetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbengemeinschaft: Verwaltung, Blockade, Teilungsversteigerung, Nachlasskonto, Auskunft und Auseinandersetzungsplan.

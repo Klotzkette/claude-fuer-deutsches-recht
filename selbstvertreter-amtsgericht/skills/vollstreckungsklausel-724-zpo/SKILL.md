@@ -1,6 +1,6 @@
 ---
 name: vollstreckungsklausel-724-zpo
-description: "Wenn es um Vollstreckungsklausel: Damit das Urteil vollstreckbar wird in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vollstreckungsklausel: Damit das Urteil vollstreckbar wird: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollstreckungsklausel: Damit das Urteil vollstreckbar wird

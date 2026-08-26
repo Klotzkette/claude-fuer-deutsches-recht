@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung-im-wettbewerbsrecht
-description: "Wenn es um Einstweilige Verfügung im Wettbewerbsrecht in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Einstweilige Verfügung im Wettbewerbsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstweilige Verfügung im Wettbewerbsrecht

@@ -1,6 +1,6 @@
 ---
 name: proz-prozessfinanzierung-spezial
-description: "Wenn es um Proz: Prozessfinanzierung in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Proz: Prozessfinanzierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Proz: Prozessfinanzierung

@@ -1,6 +1,6 @@
 ---
 name: rechtschreibung-amtlich-aktuell
-description: "Wenn es um Rechtschreibung amtlich-aktuell in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtschreibung amtlich-aktuell: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtschreibung amtlich-aktuell

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-verstaendigung-257c-toa-46a
-description: "Wenn es um Verständigung Paragraf 257c StPO / TOA Paragraf 46a StGB in Fachanwalt Strafrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verständigung Paragraf 257c StPO / TOA Paragraf 46a StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verständigung § 257c StPO / TOA § 46a StGB

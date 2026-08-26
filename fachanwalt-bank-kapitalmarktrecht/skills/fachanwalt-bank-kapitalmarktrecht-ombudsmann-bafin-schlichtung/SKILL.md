@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung
-description: "Wenn es um Bank-/Kapitalmarktrecht — Ombudsmann, BaFin, Schlichtung in Fachanwalt Bank Kapitalmarktrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Bank-/Kapitalmarktrecht — Ombudsmann, BaFin, Schlichtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bank-/Kapitalmarktrecht — Ombudsmann, BaFin, Schlichtung

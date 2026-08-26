@@ -1,6 +1,6 @@
 ---
 name: kyc-gwg-mandantenmemo-risiken-npl-kauf
-description: "Wenn es um KYC GwG Factoringinstitut wirtschaftlich Berechtigte in Factoring-Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für KYC GwG Factoringinstitut wirtschaftlich Berechtigte: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # KYC GwG Factoringinstitut wirtschaftlich Berechtigte

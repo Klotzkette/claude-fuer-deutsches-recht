@@ -1,6 +1,6 @@
 ---
 name: einstweilige-anordnung-vwgo-123
-description: "Wenn es um Einstweilige Anordnung Paragraf 123 in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einstweilige Anordnung Paragraf 123: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstweilige Anordnung § 123

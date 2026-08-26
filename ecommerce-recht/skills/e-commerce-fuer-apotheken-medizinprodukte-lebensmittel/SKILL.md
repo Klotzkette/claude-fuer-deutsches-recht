@@ -1,6 +1,6 @@
 ---
 name: e-commerce-fuer-apotheken-medizinprodukte-lebensmittel
-description: "Wenn es um E-Commerce für Apotheken Medizinprodukte Lebensmittel in E-Commerce-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für E-Commerce für Apotheken Medizinprodukte Lebensmittel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E-Commerce für Apotheken Medizinprodukte Lebensmittel

@@ -1,6 +1,6 @@
 ---
 name: amtlicher-bgb-auftrag-unentgeltliche
-description: "Wenn es um Amtlicher BGB-BT-Normcheck in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Amtlicher BGB-BT-Normcheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Amtlicher BGB-BT-Normcheck

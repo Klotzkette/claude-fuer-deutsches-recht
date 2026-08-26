@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-vwgo-festlegungsverfahren
-description: "Wenn es um Verfahren: Eilrechtsschutz Paragraf 80 VwGO in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verfahren: Eilrechtsschutz Paragraf 80 VwGO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfahren: Eilrechtsschutz § 80 VwGO

@@ -1,6 +1,6 @@
 ---
 name: chn-079-currency-risk-cny-eur-usd
-description: "Wenn es um Currency Risk CNY EUR USD in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Currency Risk CNY EUR USD: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Currency Risk CNY EUR USD

@@ -1,6 +1,6 @@
 ---
 name: enteignung-uebernahme-und-entschaedigung
-description: "Prüft unzumutbare denkmalrechtliche Eigentumsbelastungen, Ausgleich, Übernahme und Enteignung anhand des konkret geltenden Landesrechts und Artikel 14 GG. Liefert eine belegte Wirtschaftlichkeitsrechnung, eine abgestufte Antragsstrategie und einen prozessfesten Tatsachen- und Beweisplan."
+description: "Prüft unzumutbare denkmalrechtliche Eigentumsbelastungen, Ausgleich, Übernahme und Enteignung anhand des konkret geltenden Landesrechts und Artikel 14 GG."
 ---
 
 # Enteignung, Übernahme und Entschädigung im Denkmalschutz

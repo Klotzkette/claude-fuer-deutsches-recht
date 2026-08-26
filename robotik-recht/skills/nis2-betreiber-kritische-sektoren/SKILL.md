@@ -1,6 +1,6 @@
 ---
 name: nis2-betreiber-kritische-sektoren
-description: "Wenn es um NIS2 Betreiber kritische Sektoren in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für NIS2 Betreiber kritische Sektoren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NIS2 Betreiber kritische Sektoren

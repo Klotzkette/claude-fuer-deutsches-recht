@@ -1,6 +1,6 @@
 ---
 name: automation-monitoring
-description: "Wenn es um Automationen und Monitoring in Mittelstands-Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Automationen und Monitoring: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Automationen und Monitoring

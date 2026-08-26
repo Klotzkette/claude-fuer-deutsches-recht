@@ -1,6 +1,6 @@
 ---
 name: treuhandprivatisierung-widerspruch-pru
-description: "Wenn es um Treuhandprivatisierung Widerspruch Pru in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Treuhandprivatisierung Widerspruch Pru: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuhandprivatisierung Widerspruch Pru

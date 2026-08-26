@@ -1,6 +1,6 @@
 ---
 name: workflow-aufenthaltstitel-router
-description: "Wenn es um Aufenthaltstitel-Router: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufenthaltstitel-Router: Prüfungslinie für Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufenthaltstitel-Router: Prüfungslinie für Migrationsrecht

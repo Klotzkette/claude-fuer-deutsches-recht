@@ -1,6 +1,6 @@
 ---
 name: pflege-und-assistenzroboter
-description: "Wenn es um Pflege- und Assistenzroboter in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pflege- und Assistenzroboter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflege- und Assistenzroboter

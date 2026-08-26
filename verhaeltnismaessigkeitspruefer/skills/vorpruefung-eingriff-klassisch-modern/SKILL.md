@@ -1,6 +1,6 @@
 ---
 name: vorpruefung-eingriff-klassisch-modern
-description: "Wenn es um Stufe 0b: Liegt ein Eingriff vor? in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Stufe 0b: Liegt ein Eingriff vor?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Stufe 0b: Liegt ein Eingriff vor?

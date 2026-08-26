@@ -1,6 +1,6 @@
 ---
 name: marktanalyse-tk-meldepflicht
-description: "Wenn es um Marktanalyse und beträchtliche Marktmacht in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Marktanalyse und beträchtliche Marktmacht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Marktanalyse und beträchtliche Marktmacht

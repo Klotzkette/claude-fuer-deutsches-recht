@@ -1,6 +1,6 @@
 ---
 name: post-contract-noncompete
-description: "Wenn es um Post Contract Noncompete in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Post Contract Noncompete: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Post Contract Noncompete

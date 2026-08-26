@@ -1,6 +1,6 @@
 ---
 name: inv-049-cost-recovery-employee
-description: "Wenn es um Internal Investigation: Cost Recovery Employee in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: Cost Recovery Employee: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Cost Recovery Employee

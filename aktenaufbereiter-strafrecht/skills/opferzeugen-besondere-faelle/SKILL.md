@@ -1,6 +1,6 @@
 ---
 name: opferzeugen-besondere-faelle
-description: "Wenn es um Opferzeugen-Sonderfaelle in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Opferzeugen-Sonderfälle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Opferzeugen-Sonderfaelle

@@ -1,6 +1,6 @@
 ---
 name: raeume-ausstattung-rezeptur-defektur-labor
-description: "Wenn es um Räume Ausstattung Rezeptur Defektur Labor in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Räume Ausstattung Rezeptur Defektur Labor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Räume Ausstattung Rezeptur Defektur Labor

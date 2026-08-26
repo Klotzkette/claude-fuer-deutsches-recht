@@ -1,6 +1,6 @@
 ---
 name: forensic-services-und-unabhaengigkeit-organi
-description: "Wenn es um Forensic Services Und Unabhaengigkeit Organi in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Forensic Services und Unabhängigkeit Organi: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: forensic services und unabhaengigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

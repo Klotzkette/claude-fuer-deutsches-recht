@@ -1,6 +1,6 @@
 ---
 name: verkehrsrechtliche-anordnung-pruefen
-description: "Wenn es um Verkehrsrechtliche Anordnung Prüfen in Straßenverkehrsrecht StVO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verkehrsrechtliche Anordnung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenverkehrsrecht StVO. Route: verkehrsrechtliche-anordnung-pruefen."
 ---
 
 # Verkehrsrechtliche Anordnung Prüfen

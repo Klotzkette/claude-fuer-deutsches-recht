@@ -1,6 +1,6 @@
 ---
 name: preussisches-ovg-kreuzberg-polizeirecht
-description: "Wenn es um Preussisches OVG: Kreuzberg und Polizeigewalt in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Preussisches OVG: Kreuzberg und Polizeigewalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Preussisches OVG: Kreuzberg und Polizeigewalt

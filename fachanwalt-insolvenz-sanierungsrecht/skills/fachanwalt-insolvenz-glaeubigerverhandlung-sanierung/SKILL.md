@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-glaeubigerverhandlung-sanierung
-description: "Wenn es um Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm in Fachanwalt Insolvenz- und Sanierungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm

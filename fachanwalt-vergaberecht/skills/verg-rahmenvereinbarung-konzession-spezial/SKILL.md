@@ -1,6 +1,6 @@
 ---
 name: verg-rahmenvereinbarung-konzession-spezial
-description: "Wenn es um Verg Rahmenvereinbarung Konzession Spezial in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verg Rahmenvereinbarung Konzession Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Rahmenvereinbarung und Konzessionsvergabe KonzVgV: Vertragslaufzeit, Anpassungsklauseln, einseitige Vertragsaenderung

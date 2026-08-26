@@ -1,6 +1,6 @@
 ---
 name: handelsvertreter-showroom-influencer-social
-description: "Wenn es um Handelsvertreter Und Showroom in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Handelsvertreter und Showroom: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsvertreter Und Showroom

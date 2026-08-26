@@ -1,6 +1,6 @@
 ---
 name: iso27001-mapping
-description: "Wenn es um ISO 27001 Mapping in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ISO 27001 Mapping: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ISO 27001 Mapping

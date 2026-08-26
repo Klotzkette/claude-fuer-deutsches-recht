@@ -1,6 +1,6 @@
 ---
 name: gesellschafterlistenstreit-eilstrategie-gmbh
-description: "Wenn es um Gesellschafterlistenstreit strategisch führen in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Gesellschafterlistenstreit strategisch führen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Gesellschafterlistenstreit strategisch führen

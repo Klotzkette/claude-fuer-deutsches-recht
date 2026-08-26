@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-start-chronologie-fristen
-description: "Wenn es um E-Mail-Umformulierer Berufsrecht — Allgemein in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für E-Mail-Umformulierer Berufsrecht — Allgemein: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # E-Mail-Umformulierer Berufsrecht — Allgemein

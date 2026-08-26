@@ -1,6 +1,6 @@
 ---
 name: e-rechnung-umsatzsteuer-umsetzung-fehler
-description: "Wenn es um E-Rechnung: USt, Formatfehler, Übergang, Prozesse und Betriebsprüfung in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: E Rechnung Umsatzsteuer Umsetzung Fehler; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für E-Rechnung: USt, Formatfehler, Übergang, Prozesse und Betriebsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: e-rechnung-umsatzsteuer-umsetzung-fehler."
 ---
 
 # E-Rechnung: USt, Formatfehler, Übergang, Prozesse und Betriebsprüfung

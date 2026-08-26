@@ -1,6 +1,6 @@
 ---
 name: insolvency-of-foreign-retention-and-setoff
-description: "Wenn es um Insolvenz des ausländischen Käufers in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenz des ausländischen Käufers: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenz des ausländischen Käufers

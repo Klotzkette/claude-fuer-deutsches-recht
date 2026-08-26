@@ -1,6 +1,6 @@
 ---
 name: raeumung-kuendigung
-description: "Wenn es um Räumung, Kündigung und Besitzkonflikte in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Räumung, Kündigung und Besitzkonflikte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Räumung, Kündigung und Besitzkonflikte

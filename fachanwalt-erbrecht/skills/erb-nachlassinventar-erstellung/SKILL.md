@@ -1,6 +1,6 @@
 ---
 name: erb-nachlassinventar-erstellung
-description: "Wenn es um Erb Nachlassinventar Erstellung in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erb Nachlassinventar Erstellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachlassinventar erstellen: Aktiva (Konten, Immobilien, Beteiligungen, Hausrat), Passiva (Schulden, Pflichtteile, Vermaechtnisse), Stichtagsbewertung, Sicherung des Nachlasses

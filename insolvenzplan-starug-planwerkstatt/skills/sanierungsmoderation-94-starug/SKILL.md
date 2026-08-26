@@ -1,6 +1,6 @@
 ---
 name: sanierungsmoderation-94-starug
-description: "Wenn es um Sanierungsmoderation Paragraf 94 StaRUG in Insolvenzplan- und StaRUG-Planwerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sanierungsmoderation Paragraf 94 StaRUG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsmoderation § 94 StaRUG

@@ -1,6 +1,6 @@
 ---
 name: mediation-settlement-meeting-creditors
-description: "Wenn es um Settlement and Rule 9019 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Settlement and Rule 9019: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Settlement and Rule 9019

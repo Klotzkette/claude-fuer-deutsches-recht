@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-strassenbau-asphalt-mischgut
-description: "Wenn es um Bauueberwachung Strassenbau Asphalt Mischgut (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Strassenbau Asphalt Mischgut (LPH 8): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Strassenbau Asphalt Mischgut (LPH 8)

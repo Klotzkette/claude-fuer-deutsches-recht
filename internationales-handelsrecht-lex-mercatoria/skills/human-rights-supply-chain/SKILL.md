@@ -1,6 +1,6 @@
 ---
 name: human-rights-supply-chain
-description: "Wenn es um Menschenrechte in der Lieferkette in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Menschenrechte in der Lieferkette: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Menschenrechte in der Lieferkette

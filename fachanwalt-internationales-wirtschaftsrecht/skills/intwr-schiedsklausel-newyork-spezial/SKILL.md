@@ -1,6 +1,6 @@
 ---
 name: intwr-schiedsklausel-newyork-spezial
-description: "Wenn es um Intwr Schiedsklausel Newyork Spezial in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Intwr Schiedsklausel Newyork Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Schiedsklausel und New Yorker UEbereinkommen: Wirksamkeit Schiedsvereinbarung, Anerkennung und Vollstreckung ausländischer Schiedssprueche, ordre public-Vorbehalt

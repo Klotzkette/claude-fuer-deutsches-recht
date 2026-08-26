@@ -1,6 +1,6 @@
 ---
 name: kommandocenter
-description: "Wenn es um Deal-Kommandocenter — Corporate/M&A in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kommandocenter; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Deal-Kommandocenter — Corporate/M&A: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: kommandocenter."
 ---
 
 # Deal-Kommandocenter — Corporate/M&A

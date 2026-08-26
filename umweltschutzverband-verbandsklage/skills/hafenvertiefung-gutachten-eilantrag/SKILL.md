@@ -1,6 +1,6 @@
 ---
 name: hafenvertiefung-gutachten-eilantrag
-description: "Wenn es um Hafenvertiefung Gutachten Zerlegen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Hafenvertiefung Gutachten Zerlegen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Hafenvertiefung Gutachten Zerlegen

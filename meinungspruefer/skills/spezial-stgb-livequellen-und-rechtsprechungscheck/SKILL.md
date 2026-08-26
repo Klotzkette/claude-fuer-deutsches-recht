@@ -1,6 +1,6 @@
 ---
 name: spezial-stgb-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Stgb: Livequellen- und Rechtsprechungscheck in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stgb: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stgb: Livequellen- und Rechtsprechungscheck

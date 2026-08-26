@@ -1,6 +1,6 @@
 ---
 name: quellensteuer-50a-estg
-description: "Wenn es um Quellensteuer bei beschraenkter Steuerpflicht — Paragraf 50a EStG in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quellensteuer bei beschränkter Steuerpflicht — Paragraf 50a EStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Quellensteuer bei beschraenkter Steuerpflicht — § 50a EStG

@@ -1,6 +1,6 @@
 ---
 name: anspruchsgrundlage-rechtsfolge-b2b-klauseln
-description: "Wenn es um Anspruchsgrundlage und Rechtsfolgen-Klauseln in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anspruchsgrundlage und Rechtsfolgen-Klauseln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Anspruchsgrundlage und Rechtsfolgen-Klauseln

@@ -1,6 +1,6 @@
 ---
 name: konkurrentenstreit-eilverfahren
-description: "Wenn es um Konkurrentenstreit Eilverfahren in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konkurrentenstreit Eilverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konkurrentenstreit Eilverfahren

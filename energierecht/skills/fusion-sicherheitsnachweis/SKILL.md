@@ -1,6 +1,6 @@
 ---
 name: fusion-sicherheitsnachweis
-description: "Wenn es um Fusion: Sicherheitsnachweis und Störfalllogik in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fusion: Sicherheitsnachweis und Störfalllogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fusion: Sicherheitsnachweis und Störfalllogik

@@ -1,6 +1,6 @@
 ---
 name: handelsvertreterausgleich-international-schnittstellen
-description: "Wenn es um Handelsvertreterausgleich International Schnittstellen in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsvertreterausgleich International Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Handelsvertreterausgleich: Internationaler Bezug und Schnittstellen im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -42,3 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Berechnung:** Höchstbetrag § 89b Abs. 2 HGB eine durchschnittliche Jahresprovision der letzten 5 Jahre (oder kürzere Vertragsdauer); BGH-Drei-Stufen-Methode: Rohausgleich = Provisionsumsatz mit Neukunden × Mehrjahresfaktor (Abschmelzung über Prognosezeitraum, meist 3-5 Jahre) × Abzug Beitragsleistung; Billigkeitskorrektur; Cap der Höchstbetrag.
 4. **Internationaler Bezug:** Handelsvertreterrichtlinie 86/653/EWG zwingender Schutz für Handelsvertreter mit Tätigkeitsschwerpunkt in EU; EuGH (Ingmar 2000): Ausschluss in Rechtswahlklauseln drittstaatlicher Unternehmer unwirksam, wenn Tätigkeit im EU-Markt erfolgt; bei Schiedsklauseln: zwingende Vorschrift, Schiedsgericht kann § 89b HGB nicht ausschließen (Eingriffsnorm Art. 9 Rom I).
 5. **Schnittstellen:** Vertragsbeendigung Aufhebungsvertrag mit Pauschalausgleich oft günstiger als Streit; Verträgliche Ausgleichsregelung im Voraus unwirksam § 89b Abs. 4 Satz 1 HGB; Kfz-Handelsvertretung Sonderfall BGH ständige Rechtsprechung (Restwertberechnung, Kundenstamm bei Vertragsende); Vertragshändler/Franchisenehmer analoge Anwendung bei vergleichbarem Eingliederungsgrad.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-handelsvertreterausgleich-international-schnittstellen` beziehungsweise Handelsvertreterausgleich: Internationaler Bezug und Schnittstellen: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-handelsvertreterausgleich-international-schnittstellen.md).

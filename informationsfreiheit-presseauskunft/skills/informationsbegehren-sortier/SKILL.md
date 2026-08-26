@@ -1,6 +1,6 @@
 ---
 name: informationsbegehren-sortier
-description: "Wenn es um Kaltstart Informationsbegehren Sortier in Informationsfreiheit und Presseauskunft geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart Informationsbegehren Sortier: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart Informationsbegehren Sortier

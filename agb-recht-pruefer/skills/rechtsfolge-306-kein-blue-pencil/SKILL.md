@@ -1,6 +1,6 @@
 ---
 name: rechtsfolge-306-kein-blue-pencil
-description: "Wenn es um Rechtsfolge 306 Kein Blü Pencil in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Rechtsfolge 306 Kein Blue Pencil; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Rechtsfolge 306 Kein Blü Pencil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsfolge-306-kein-blue-pencil."
 ---
 
 # Rechtsfolge 306 Kein Blü Pencil

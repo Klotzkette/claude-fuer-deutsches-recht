@@ -1,6 +1,6 @@
 ---
 name: parteienrecht-rechenschaftsbericht-pruefung
-description: "Wenn es um Rechenschaftsbericht in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Parteienrecht Rechenschaftsbericht Prüfung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Rechenschaftsbericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Rechenschaftsbericht

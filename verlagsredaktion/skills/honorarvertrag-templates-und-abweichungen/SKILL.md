@@ -1,6 +1,6 @@
 ---
 name: honorarvertrag-templates-und-abweichungen
-description: "Wenn es um Honorarvertrags-Templates in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Honorarvertrags-Templates: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Honorarvertrags-Templates

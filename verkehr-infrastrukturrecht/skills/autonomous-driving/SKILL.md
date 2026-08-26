@@ -1,6 +1,6 @@
 ---
 name: autonomous-driving
-description: "Wenn es um Verkehrs- und Infrastrukturrecht — Kommandocenter in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verkehrs- und Infrastrukturrecht — Kommandocenter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verkehrs- und Infrastrukturrecht — Kommandocenter

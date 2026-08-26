@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeitsklage-werbeaussagen
-description: "Wenn es um Greenwashing-Verteidigung in Produkthaftung und Produktrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Greenwashing-Verteidigung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Greenwashing-Verteidigung

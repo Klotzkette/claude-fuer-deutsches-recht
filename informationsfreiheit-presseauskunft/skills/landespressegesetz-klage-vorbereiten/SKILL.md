@@ -1,6 +1,6 @@
 ---
 name: landespressegesetz-klage-vorbereiten
-description: "Wenn es um Landespressegesetz Klage Vorbereiten in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Landespressegesetz Klage Vorbereiten: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Landespressegesetz Klage Vorbereiten

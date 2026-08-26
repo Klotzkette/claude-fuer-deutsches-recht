@@ -1,6 +1,6 @@
 ---
 name: negotiorum-gestio-im-alr
-description: "Wenn es um Pralr Negotiorum Gestio Im Alr in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pralr Negotiorum Gestio im Alr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pralr Negotiorum Gestio Im Alr

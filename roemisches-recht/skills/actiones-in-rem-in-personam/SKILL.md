@@ -1,6 +1,6 @@
 ---
 name: actiones-in-rem-in-personam
-description: "Wenn es um Actiones In Rem In Personam in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Actiones in Rem in Personam: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Actiones In Rem In Personam

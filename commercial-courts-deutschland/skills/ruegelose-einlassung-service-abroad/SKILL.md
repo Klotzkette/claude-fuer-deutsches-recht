@@ -1,6 +1,6 @@
 ---
 name: ruegelose-einlassung-service-abroad
-description: "Wenn es um Rügelose Einlassung in commercial-courts-deutschland geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rügelose Einlassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rügelose Einlassung

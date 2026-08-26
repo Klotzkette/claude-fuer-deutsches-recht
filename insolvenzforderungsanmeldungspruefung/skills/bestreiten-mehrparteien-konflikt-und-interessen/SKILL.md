@@ -1,6 +1,6 @@
 ---
 name: bestreiten-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Bestreiten: Mehrparteienkonflikt und Interessenmatrix in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bestreiten: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bestreiten: Mehrparteienkonflikt und Interessenmatrix

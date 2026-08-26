@@ -1,6 +1,6 @@
 ---
 name: plattformsales-dsa-pricing-sales
-description: "Wenn es um Plattformsales Dsa Marketplace in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Plattformsales Dsa Marketplace: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plattformsales Dsa Marketplace

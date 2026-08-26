@@ -1,6 +1,6 @@
 ---
 name: ecommerce-checkout-pruefung-spezial
-description: "Wenn es um E-Commerce Checkout-Spezial in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für E-Commerce Checkout-Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # E-Commerce Checkout-Spezial

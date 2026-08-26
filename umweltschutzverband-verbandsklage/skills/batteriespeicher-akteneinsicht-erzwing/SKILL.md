@@ -1,6 +1,6 @@
 ---
 name: batteriespeicher-akteneinsicht-erzwing
-description: "Wenn es um Batteriespeicher Akteneinsicht Erzwing in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Batteriespeicher Akteneinsicht Erzwing: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Batteriespeicher Akteneinsicht Erzwing

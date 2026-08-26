@@ -1,6 +1,6 @@
 ---
 name: einwohnerantrag-petition-haushalt
-description: "Wenn es um Einwohnerantrag Und Petition in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Einwohnerantrag und Petition: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Einwohnerantrag Und Petition

@@ -1,6 +1,6 @@
 ---
 name: workflow-ingenieur-rueckfragenliste
-description: "Wenn es um Ingenieur-Rückfragenliste in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Ingenieur-Rückfragenliste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: robotik-recht. Route: workflow-ingenieur-rueckfragenliste."
 ---
 
 # Ingenieur-Rückfragenliste

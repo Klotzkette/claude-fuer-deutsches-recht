@@ -1,6 +1,6 @@
 ---
 name: memo-zur-rechtsmittelentscheidung
-description: "Wenn es um Rechtsmittel-Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rechtsmittel-Memo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Rechtsmittel-Memo

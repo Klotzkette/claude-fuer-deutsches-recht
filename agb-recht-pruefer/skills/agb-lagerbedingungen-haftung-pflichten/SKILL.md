@@ -1,6 +1,6 @@
 ---
 name: agb-lagerbedingungen-haftung-pflichten
-description: "Wenn es um Lagerbedingungen in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Agb Lagerbedingungen Haftung Pflichten; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Lagerbedingungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: agb-lagerbedingungen-haftung-pflichten."
 ---
 
 # Lagerbedingungen

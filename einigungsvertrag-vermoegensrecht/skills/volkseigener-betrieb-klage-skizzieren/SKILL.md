@@ -1,6 +1,6 @@
 ---
 name: volkseigener-betrieb-klage-skizzieren
-description: "Wenn es um Volkseigener Betrieb Klage Skizzieren in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Volkseigener Betrieb Klage Skizzieren: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Volkseigener Betrieb Klage Skizzieren

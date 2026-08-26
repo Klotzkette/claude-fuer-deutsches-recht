@@ -1,6 +1,6 @@
 ---
 name: md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung
-description: "Wenn es um MD-Prüfung Krankenhausabrechnung Prüfverfahrensvereinbarung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für MD-Prüfung Krankenhausabrechnung Prüfverfahrensvereinbarung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # MD-Prüfung Krankenhausabrechnung Prüfverfahrensvereinbarung

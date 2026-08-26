@@ -1,6 +1,6 @@
 ---
 name: fachanwaltstitel-fortbildung-fremdgeld
-description: "Wenn es um Fachanwaltstitel Fortbildung Fremdgeld in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Fachanwaltstitel Fortbildung Fremdgeld: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: fachanwaltstitel und fortbildung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

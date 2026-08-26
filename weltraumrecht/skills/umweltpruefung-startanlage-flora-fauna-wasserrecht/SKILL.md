@@ -1,6 +1,6 @@
 ---
 name: umweltpruefung-startanlage-flora-fauna-wasserrecht
-description: "Wenn es um Weltraumrecht: Umweltprüfung Startanlage: Flora, Fauna, Wasserrecht in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Umweltprüfung Startanlage: Flora, Fauna, Wasserrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Weltraumrecht: Umweltprüfung Startanlage: Flora, Fauna, Wasserrecht

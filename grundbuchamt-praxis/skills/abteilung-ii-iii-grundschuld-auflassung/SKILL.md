@@ -1,6 +1,6 @@
 ---
 name: abteilung-ii-iii-grundschuld-auflassung
-description: "Wenn es um Abteilung II nicht übersehen in Grundbuchamt Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Abteilung II nicht übersehen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abteilung II nicht übersehen

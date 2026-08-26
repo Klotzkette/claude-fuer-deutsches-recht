@@ -1,6 +1,6 @@
 ---
 name: angestellter-steuerberater-nebentaetigkeit-kammer
-description: "Wenn es um Angestellter Steuerberater Nebentaetigkeit Kammer in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Angestellter Steuerberater Nebentätigkeit Kammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: angestellter steuerberater nebentaetigkeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

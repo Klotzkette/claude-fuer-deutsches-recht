@@ -1,6 +1,6 @@
 ---
 name: bautraeger-pfandfreigabe-und-loeschung
-description: "Wenn es um Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pfandfreigabe und Löschung nach vollständiger Bezahlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung

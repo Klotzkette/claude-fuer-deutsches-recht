@@ -1,6 +1,6 @@
 ---
 name: luft-041-flugzeugleasing-zustaendigkeit-pruefen
-description: "Wenn es um Flugzeugleasing Zustaendigkeit Pruefen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Flugzeugleasing Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Flugzeugleasing Zustaendigkeit Pruefen

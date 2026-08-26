@@ -1,6 +1,6 @@
 ---
 name: konnossement-local-counsel-instruieren
-description: "Wenn es um Konnossement – Local Counsel instruieren in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Konnossement – Local Counsel instruieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konnossement – Local Counsel instruieren

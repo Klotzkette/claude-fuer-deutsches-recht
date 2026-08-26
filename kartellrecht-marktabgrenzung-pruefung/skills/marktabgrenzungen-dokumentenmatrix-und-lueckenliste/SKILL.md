@@ -1,6 +1,6 @@
 ---
 name: marktabgrenzungen-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Marktabgrenzungen: Dokumentenmatrix, Lückenliste und Nachforderung in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Marktabgrenzungen: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Marktabgrenzungen: Dokumentenmatrix, Lückenliste und Nachforderung

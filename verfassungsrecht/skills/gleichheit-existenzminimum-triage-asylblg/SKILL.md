@@ -1,6 +1,6 @@
 ---
 name: gleichheit-existenzminimum-triage-asylblg
-description: "Wenn es um Gleichheit, Existenzminimum und Schutzpflicht in verfassungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gleichheit, Existenzminimum und Schutzpflicht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gleichheit, Existenzminimum und Schutzpflicht

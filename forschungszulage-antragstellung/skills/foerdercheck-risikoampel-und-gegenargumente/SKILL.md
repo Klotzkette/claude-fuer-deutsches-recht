@@ -1,6 +1,6 @@
 ---
 name: foerdercheck-risikoampel-und-gegenargumente
-description: "Wenn es um Foerdercheck: Risikoampel, Gegenargumente und Verteidigungslinien in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Foerdercheck Risikoampel Und Gegenargumente; Arbeitsfeld: Forschungszulage-Antragstellung."
+description: "Für Fördercheck: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Foerdercheck: Risikoampel, Gegenargumente und Verteidigungslinien

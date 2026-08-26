@@ -1,6 +1,6 @@
 ---
 name: hoai-risikoampel-und-gegenargumente
-description: "Wenn es um Hoai: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Bau Architektenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HOAI: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Hoai: Risikoampel, Gegenargumente und Verteidigungslinien

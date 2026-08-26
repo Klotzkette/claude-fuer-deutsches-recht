@@ -1,6 +1,6 @@
 ---
 name: satellitenkonstellation-wettbewerbsrecht-und-marktabsc
-description: "Wenn es um Weltraumrecht: Satellitenkonstellation: Wettbewerbsrecht und Marktabschottung in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Satellitenkonstellation: Wettbewerbsrecht und Marktabschottung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Satellitenkonstellation: Wettbewerbsrecht und Marktabschottung

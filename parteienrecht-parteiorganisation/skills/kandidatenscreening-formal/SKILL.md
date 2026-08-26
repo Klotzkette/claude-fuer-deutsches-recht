@@ -1,6 +1,6 @@
 ---
 name: kandidatenscreening-formal
-description: "Wenn es um Kandidatenscreening formal in Parteienrecht und Parteiorganisation geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Kandidatenscreening formal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kandidatenscreening formal

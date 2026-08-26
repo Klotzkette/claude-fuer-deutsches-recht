@@ -1,6 +1,6 @@
 ---
 name: schaufenster-und-drift-erkennen
-description: "Wenn es um Schaufenster- und Drift-Erkennung in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Schaufenster- und Drift-Erkennung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schaufenster- und Drift-Erkennung

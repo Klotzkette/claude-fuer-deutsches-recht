@@ -1,6 +1,6 @@
 ---
 name: kv-056-rueckforderung-zu-unrecht-erbrachter-leistungen
-description: "Wenn es um Krankenversicherung: Rückforderung zu Unrecht erbrachter Leistungen in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Rückforderung zu Unrecht erbrachter Leistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Rückforderung zu Unrecht erbrachter Leistungen

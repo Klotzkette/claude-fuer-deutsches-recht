@@ -1,6 +1,6 @@
 ---
 name: translations
-description: "Wenn es um Multi-Jurisdiction und Übersetzungen in Großkanzlei Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Multi-Jurisdiction und Übersetzungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A."
 ---
 
 # Multi-Jurisdiction und Übersetzungen

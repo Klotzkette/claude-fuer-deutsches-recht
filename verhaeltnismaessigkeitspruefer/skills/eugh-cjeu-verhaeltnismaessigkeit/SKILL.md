@@ -1,6 +1,6 @@
 ---
 name: eugh-cjeu-verhaeltnismaessigkeit
-description: "Wenn es um EuGH CJEU Verhältnismäßigkeit in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für EuGH CJEU Verhältnismäßigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EuGH CJEU Verhältnismäßigkeit

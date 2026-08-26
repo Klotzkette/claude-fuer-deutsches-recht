@@ -1,6 +1,6 @@
 ---
 name: closing-bible-archiv
-description: "Wenn es um Closing Bible und Archiv in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Closing Bible und Archiv: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Closing Bible und Archiv

@@ -1,6 +1,6 @@
 ---
 name: quellensteuer-ausland
-description: "Wenn es um Internationales und Auslandskunden: Ordnet w-8ben in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internationales und Auslandskunden: Ordnet w-8ben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationales und Auslandskunden: Ordnet w-8ben

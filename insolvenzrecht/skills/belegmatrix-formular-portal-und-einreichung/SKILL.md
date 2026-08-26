@@ -1,6 +1,6 @@
 ---
 name: belegmatrix-formular-portal-und-einreichung
-description: "Wenn es um Belegmatrix: Formular, Portal und Einreichungslogik in Insolvenzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Belegmatrix: Formular, Portal und Einreichungslogik: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Belegmatrix: Formular, Portal und Einreichungslogik

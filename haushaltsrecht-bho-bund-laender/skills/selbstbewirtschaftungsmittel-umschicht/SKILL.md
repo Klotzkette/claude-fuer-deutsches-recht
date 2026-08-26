@@ -1,6 +1,6 @@
 ---
 name: selbstbewirtschaftungsmittel-umschicht
-description: "Wenn es um Selbstbewirtschaftungsmittel Umschicht in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Selbstbewirtschaftungsmittel Umschicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Selbstbewirtschaftungsmittel Umschicht

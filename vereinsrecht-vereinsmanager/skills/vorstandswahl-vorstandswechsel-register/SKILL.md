@@ -1,6 +1,6 @@
 ---
 name: vorstandswahl-vorstandswechsel-register
-description: "Wenn es um Vorstandswahl in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Vorstandswahl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Vorstandswahl

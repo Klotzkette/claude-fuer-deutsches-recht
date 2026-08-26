@@ -1,6 +1,6 @@
 ---
 name: schiedsspruch-aufhebung-paragraf-1059-zpo
-description: "Wenn es um Schiedsspruch Aufhebung Paragraf 1059 zpo in Fachanwalt Internationales Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiedsspruch Aufhebung Paragraf 1059 ZPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiedsspruch Aufhebung § 1059 zpo

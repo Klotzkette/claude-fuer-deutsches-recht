@@ -1,6 +1,6 @@
 ---
 name: rueckruf-strategie-konzern
-description: "Wenn es um Rueckruf-Strategie Konzern in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rückruf-Strategie Konzern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Rueckruf-Strategie Konzern

@@ -1,6 +1,6 @@
 ---
 name: sachstandsanfrage-und-untaetigkeitsbeschwerde
-description: "Wenn es um Sachstandsanfrage Und Untaetigkeitsbeschwerde in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachstandsanfrage und Untätigkeitsbeschwerde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sachstandsanfrage Und Untaetigkeitsbeschwerde

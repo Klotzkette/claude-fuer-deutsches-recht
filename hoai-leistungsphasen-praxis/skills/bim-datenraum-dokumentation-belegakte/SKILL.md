@@ -1,6 +1,6 @@
 ---
 name: bim-datenraum-dokumentation-belegakte
-description: "Wenn es um LPH 6 Vorbereitung der Vergabe: Ordnet digitale modelle in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für LPH 6 Vorbereitung der Vergabe: Ordnet digitale modelle: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Ordnet digitale modelle

@@ -1,6 +1,6 @@
 ---
 name: taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung
-description: "Wenn es um Taeter-Opfer-Ausgleich und Schadenswiedergutmachung — Paragraf 46a StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Täter-Opfer-Ausgleich und Schadenswiedergutmachung — Paragraf 46a StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Taeter-Opfer-Ausgleich und Schadenswiedergutmachung — § 46a StGB

@@ -1,6 +1,6 @@
 ---
 name: ihl-017-pecl-und-soft-law-vergleich
-description: "Wenn es um Pecl Und Soft Law Vergleich in Internationales Handelsrecht und Lex Mercatoria geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Pecl und Soft Law Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Pecl Und Soft Law Vergleich

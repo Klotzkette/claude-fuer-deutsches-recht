@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-patentrecht-142-patg
-description: "Wenn es um Strafbarkeit der Patentverletzung Paragraph 142 PatG in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafbarkeit der Patentverletzung Paragraph 142 PatG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafbarkeit der Patentverletzung Paragraph 142 PatG

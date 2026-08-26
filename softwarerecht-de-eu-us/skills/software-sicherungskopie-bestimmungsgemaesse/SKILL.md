@@ -1,6 +1,6 @@
 ---
 name: software-sicherungskopie-bestimmungsgemaesse
-description: "Wenn es um Sicherungskopie und bestimmungsgemäße Nutzung in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sicherungskopie und bestimmungsgemäße Nutzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sicherungskopie und bestimmungsgemäße Nutzung

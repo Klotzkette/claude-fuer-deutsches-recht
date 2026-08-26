@@ -1,6 +1,6 @@
 ---
 name: spesen-kosten
-description: "Wenn es um Spesen und Aufwendungsersatz im Handelsvertretervertrag nach Paragraf 87d HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Spesen und Aufwendungsersatz im Handelsvertretervertrag nach Paragraf 87d HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spesen und Aufwendungsersatz im Handelsvertretervertrag nach § 87d HGB

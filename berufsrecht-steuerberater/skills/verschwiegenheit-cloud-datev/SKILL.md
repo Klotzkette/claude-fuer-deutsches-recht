@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-cloud-datev
-description: "Wenn es um Verschwiegenheit Cloud Datev in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verschwiegenheit Cloud DATEV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: verschwiegenheit cloud und datev - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

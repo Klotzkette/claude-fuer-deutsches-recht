@@ -1,6 +1,6 @@
 ---
 name: khub-kanzlei-coi-onboarding-bauleiter
-description: "Wenn es um Khub: COI-Konfliktmatrix in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Khub: COI-Konfliktmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Khub: COI-Konfliktmatrix

@@ -1,6 +1,6 @@
 ---
 name: medienanstalt-anfrage-beantworten
-description: "Wenn es um Influencer-Recht: Landesmedienanstalt – Anfrage beantworten in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Influencer-Recht: Landesmedienanstalt – Anfrage beantworten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Landesmedienanstalt – Anfrage beantworten

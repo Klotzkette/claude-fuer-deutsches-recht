@@ -1,6 +1,6 @@
 ---
 name: bautraeger-grundbuchgebuehren-rangwahrung
-description: "Wenn es um Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundbuchgebühren und Rangwahrung beim Bauträgervertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag

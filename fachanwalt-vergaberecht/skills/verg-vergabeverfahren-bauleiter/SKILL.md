@@ -1,6 +1,6 @@
 ---
 name: verg-vergabeverfahren-bauleiter
-description: "Wenn es um Verg Vergabeverfahren Bauleiter in Fachanwalt Vergaberecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verg Vergabeverfahren Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauleiter Vergabeverfahren GWB / VgV: offen, beschraenkt, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft

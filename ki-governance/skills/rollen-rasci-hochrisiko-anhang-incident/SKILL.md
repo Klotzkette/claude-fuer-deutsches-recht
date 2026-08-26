@@ -1,6 +1,6 @@
 ---
 name: rollen-rasci-hochrisiko-anhang-incident
-description: "Wenn es um digitale Werkzeuge-Governance Rollen-Modell in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge-Governance Rollen-Modell: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Governance Rollen-Modell

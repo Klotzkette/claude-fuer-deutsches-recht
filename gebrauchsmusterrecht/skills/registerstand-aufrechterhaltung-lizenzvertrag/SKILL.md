@@ -1,6 +1,6 @@
 ---
 name: registerstand-aufrechterhaltung-lizenzvertrag
-description: "Wenn es um Registerstand Fristen Aufrechterhaltung in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Registerstand Fristen Aufrechterhaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registerstand Fristen Aufrechterhaltung

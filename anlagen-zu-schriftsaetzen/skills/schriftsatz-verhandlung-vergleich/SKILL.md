@@ -1,6 +1,6 @@
 ---
 name: schriftsatz-verhandlung-vergleich
-description: "Wenn es um Schriftsatz: Verhandlung, Vergleich und Eskalation in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schriftsatz: Verhandlung, Vergleich und Eskalation: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Schriftsatz: Verhandlung, Vergleich und Eskalation

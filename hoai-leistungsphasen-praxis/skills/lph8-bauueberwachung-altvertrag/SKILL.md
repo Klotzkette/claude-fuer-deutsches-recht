@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-altvertrag
-description: "Wenn es um Bauueberwachung Windpark Fundament und Turmschaft in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Windpark Fundament und Turmschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Windpark Fundament und Turmschaft

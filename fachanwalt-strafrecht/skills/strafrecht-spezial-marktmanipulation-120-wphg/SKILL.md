@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-marktmanipulation-120-wphg
-description: "Wenn es um Marktmanipulation Paragraf 120 WpHG iVm Art in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Marktmanipulation Paragraf 120 WpHG iVm Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Marktmanipulation § 120 WpHG iVm Art

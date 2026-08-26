@@ -1,6 +1,6 @@
 ---
 name: drittlandstransfer-pruefung
-description: "Wenn es um Drittlandstransfer-Prüfung (Art. 44 ff. DSGVO) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Drittlandstransfer-Prüfung (Art. 44 ff. DSGVO): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Drittlandstransfer-Prüfung (Art. 44 ff. DSGVO)

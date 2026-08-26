@@ -1,6 +1,6 @@
 ---
 name: deutscher-kanzleistil-kalibrieren
-description: "Wenn es um Deutscher Kanzleistil Kalibrieren in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Deutscher Kanzleistil Kalibrieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutscher Kanzleistil Kalibrieren

@@ -1,6 +1,6 @@
 ---
 name: zeichenbudgets-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Zeichenbudgets: Verhandlung, Vergleich und Eskalation in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Zeichenbudgets: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Forschungszulage-Antragstellung. Route: zeichenbudgets-verhandlung-vergleich-und-eskalation."
 ---
 
 # Zeichenbudgets: Verhandlung, Vergleich und Eskalation

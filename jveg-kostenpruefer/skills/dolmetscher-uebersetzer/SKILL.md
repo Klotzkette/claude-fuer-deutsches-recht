@@ -1,6 +1,6 @@
 ---
 name: dolmetscher-uebersetzer
-description: "Wenn es um JVEG-Dolmetscher-Uebersetzer in JVEG-Kostenprüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für JVEG-Dolmetscher-Übersetzer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # JVEG-Dolmetscher-Uebersetzer

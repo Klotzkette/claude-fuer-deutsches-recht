@@ -1,6 +1,6 @@
 ---
 name: insolvenzanfechtung-globalzession
-description: "Wenn es um Insolvenzanfechtung Globalzession Deckung Bargeschäft in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Insolvenzanfechtung Globalzession Deckung Bargeschäft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenzanfechtung Globalzession Deckung Bargeschäft

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde
-description: "Wenn es um Verwaltungsrechts-Vergleich / Behördenkommunikation in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verwaltungsrechts-Vergleich / Behördenkommunikation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Verwaltungsrechts-Vergleich / Behördenkommunikation

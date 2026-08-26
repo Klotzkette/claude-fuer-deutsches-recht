@@ -1,6 +1,6 @@
 ---
 name: fran-032-lieferketten-compliance-lksg-und-esg
-description: "Wenn es um Franchiserecht: Lieferketten Compliance LkSG und ESG in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Lieferketten Compliance LkSG und ESG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Lieferketten Compliance LkSG und ESG

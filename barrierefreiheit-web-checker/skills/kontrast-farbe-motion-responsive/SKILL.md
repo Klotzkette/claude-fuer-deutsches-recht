@@ -1,6 +1,6 @@
 ---
 name: kontrast-farbe-motion-responsive
-description: "Wenn es um Kontrast, Farbe, Motion, Responsive in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kontrast, Farbe, Motion, Responsive: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kontrast, Farbe, Motion, Responsive

@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `aktenaufbereiter-s
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Aktenaufbereiter Strafrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; …
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Aktenaufbereiter Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passen…
-3. **aktenaufbereiter-erstpruefung-und-mandatsziel** — Wenn es um Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel in Aktenaufbereiter Strafrecht geht: klärt Rolle…
-4. **aktenvorblatt-schriftsatz-brief-und-memo-bausteine** — Wenn es um Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine in Aktenaufbereiter Strafrecht geht: erstellt den pass…
-5. **kronzeugen-regelung-opferzeugen-besondere** — Wenn es um Strafrecht: Kronzeugen Paragraf 46b StGB in Aktenaufbereiter Strafrecht geht: ordnet Sachverhalt, Norm, Bewei…
-6. **fortlaufend-luecken-personenverzeichnis** — Wenn es um Fortlaufend: Internationaler Bezug und Schnittstellen in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt…
-7. **faehige-risikoampel-und-gegenargumente** — Wenn es um Faehige: Risikoampel, Gegenargumente und Verteidigungslinien in Aktenaufbereiter Strafrecht geht: zerlegt Erg…
-8. **vermoegensabschoepfung-einziehung** — Wenn es um Vermögensabschoepfung/Einziehung in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sach…
-9. **beweisverwertungsverbote-pruefen** — Wenn es um Beweisverwertungsverbote prüfen in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachv…
-10. **verstaendigung-deal-strategie** — Wenn es um Verstaendigung (Deal) Strategie in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachv…
-11. **personenverzeichnis-verhandlung-vergleich-und-eskalation** — Wenn es um Personenverzeichnis: Verhandlung, Vergleich und Eskalation in Aktenaufbereiter Strafrecht geht: ordnet Akteni…
-12. **aktenvorblatt-erstellen** — Wenn es um Aktenvorblatt-Erstellung in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt,…
-13. **opferzeugen-besondere-faelle** — Wenn es um Opferzeugen-Sonderfaelle in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt,…
-14. **strafverteidigung-tatbestand-beweis-und-belege** — Wenn es um Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage in Aktenaufbereiter Strafrecht geht: ordne…
-15. **uebersichten-behoerden-gericht-und-registerweg** — Wenn es um Uebersichten: Behörden-, Gerichts- oder Registerweg in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Z…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **aktenaufbereiter-erstpruefung-und-mandatsziel** — Für Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergeb…
+4. **akteneinsicht-uebersicht-aktenvorblatt** — Für Akteneinsicht-Übersicht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fach…
+5. **akteneinsicht-uebersicht** — Für Akteneinsicht-Übersicht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fach…
+6. **fristen-mehrparteien-konflikt-und-interessen** — Für Fristen: Mehrparteienkonflikt und Interessenmatrix: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Friste…
+7. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+8. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+9. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+10. **mandant-redteam-gate** — Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+11. **aktenvorblatt-schriftsatz-brief-und-memo-bausteine** — Für Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: S…
+12. **workflow-redteam-qualitygate** — Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristench…
+13. **workflow-chronologie-und-belegmatrix** — Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix…
+14. **kronzeugen-regelung-opferzeugen-besondere** — Für Strafrecht: Kronzeugen Paragraf 46b StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte m…
+15. **output-waehlen** — Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fac…
 
 ---
 
@@ -144,7 +144,7 @@ Ausgangspunkt für dieses Plugin: Tatnachweis beim Staat; Verteidigung markiert 
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Aktenaufbereiter Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Aktenaufbereiter Strafrecht._
 
 # Einstieg und Routing
 
@@ -188,7 +188,7 @@ Dieser Einstieg routet **Aktenaufbereiter Strafrecht** vom ersten Sachverhalt zu
 
 ## Skill: `aktenaufbereiter-erstpruefung-und-mandatsziel`
 
-_Wenn es um Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel in Aktenaufbereiter Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -236,9 +236,356 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `akteneinsicht-uebersicht-aktenvorblatt`
+
+_Für Akteneinsicht-Übersicht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Aktenaufbereiter Strafrecht. Route: akteneinsicht-uebersicht-aktenvorblatt._
+
+# Akteneinsicht-Übersicht
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
+- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Akteneinsicht-Übersicht
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+
+## Fallweichen
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+
+## Prüfraster
+
+Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+
+1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+
+## Plugin-Kontext
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+
+## Output-Module
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+
+## Was dieser Arbeitsgang nicht macht
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+---
+
+## Skill: `akteneinsicht-uebersicht`
+
+_Für Akteneinsicht-Übersicht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Aktenaufbereiter Strafrecht. Route: akteneinsicht-uebersicht._
+
+# Akteneinsicht-Uebersicht
+
+## Aufgabe
+Akteneinsicht systematisch auswerten: Aktenbestandteile (Haupt-, Sonder-, Beweismittelakte), Bandzaehlung, Aktenblattzahl je Band, fehlende Aktenstuecke, Verschluss-Sachen, Tonbaender/Datentraeger, polizeiliche Spurenakten.
+
+
+## Fachlicher Arbeitskern
+
+Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `aktenaufbereiter-strafrecht` zum Thema `akteneinsicht-uebersicht`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Akteneinsicht systematisch auswerten: Aktenbestandteile (Haupt-, Sonder-, Beweismittelakte), Bandzaehlung, Aktenblattzahl je Band, fehlende Aktenstuecke, Verschluss-Sachen, Tonbaender/Datentraeger, polizeiliche Spurenakten. Fuehrt Pruef-Checkliste und Nachforderungsschreiben an die Staatsanwaltschaft..
+
+Arbeite deshalb fallnah:
+
+1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
+2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
+3. **Belege anfordern:** Nur die Unterlagen nachfordern, die fuer diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
+4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behoerden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
+5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
+
+Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
+
+## Kaltstart
+Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+
+## Pruefraster
+
+Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+
+1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+
+## Plugin-Kontext
+Dieser Skill gehoert zum Plugin `aktenaufbereiter-strafrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+
+## Output-Module
+- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+
+## Quellenregel
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
+- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
+- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+
+## Was dieser Skill nicht macht
+- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+---
+
+## Skill: `fristen-mehrparteien-konflikt-und-interessen`
+
+_Für Fristen: Mehrparteienkonflikt und Interessenmatrix: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Aktenaufbereiter Strafrecht._
+
+# Fristen: Mehrparteienkonflikt und Interessenmatrix
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
+- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Fristen: Mehrparteienkonflikt und Interessenmatrix
+- **Normen-/Quellenanker:** StPO, ZPO.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Fristen** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `workflow-kaltstart-und-routing`
+
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Aktenaufbereiter Strafrecht._
+
+# Kaltstart und Routing
+
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafakte-Kaltstart-Triage
+- **Stufe 1 - Aktenart bestimmen:** Sachakte StA, Beiakte Polizei, Spurenakte, Vernehmungsprotokolle, Gutachten, Untersuchungsberichte, Asservatenverzeichnis, Telefonueberwachungsprotokolle.
+- **Stufe 2 - Verfahrensstand markieren:** Ermittlungsverfahren (vor §§ 169a, 170 StPO Abschluss) - Zwischenverfahren (§§ 199-211 StPO) - Hauptverfahren - Rechtsmittel - Vollstreckung.
+- **Stufe 3 - Beschuldigtenrolle:** Beschuldigter / Angeklagter / Mitbeschuldigter (Aussagebegrenzung § 60 Nr. 2 StPO als Zeuge); Mehrere Verfahren?
+- **Stufe 4 - Tatkomplexe gliedern:** Pro Tatkomplex Datum/Ort, Beweismittelliste, Belastungs-/Entlastungstatsachen, prozessuale Verwertbarkeit.
+- **Stufe 5 - Kritische Sofortpunkte:**
+  - **U-Haft?** Sofortige Pruefung Haftbeschwerde § 117 StPO; Akteneinsicht zwingend (BVerfG zur fair trial garantie).
+  - **Aussage Beschuldigter ohne Belehrung?** Verwertbarkeitsruege; § 136 i.V.m. § 163a StPO.
+  - **Durchsuchungsmangel** § 105 StPO? Folgewirkung Beweisverwertungsverbot - ggf. Widerspruchsruege § 257 StPO.
+  - **Verstoss gegen § 136a StPO** (Tauschung, Drohung, Versprechen)?
+- **Stufe 6 - Anschlussskills:** chronologie-strafverfahren, beweismittel-katalog, beweisverwertungsverbote-pruefen.
+
+---
+
+## Skill: `anschluss-routing`
+
+_Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Aktenaufbereiter Strafrecht._
+
+# Anschluss-Routing
+
+## Einsatzlage
+
+Dieses Anschluss-Routing für **Aktenaufbereiter Strafrecht** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
+
+## Fachlandkarte dieses Plugins
+
+- `aktenaufbereiter-erstpruefung-und-mandatsziel` — Aktenaufbereiter Erstpruefung und Mandatsziel
+- `aktenaufbereiter-strafrecht` — Aktenaufbereiter Strafrecht
+- `akteneinsicht-uebersicht-aktenvorblatt` — Akteneinsicht Übersicht Aktenvorblatt
+- `aktenlektuere-fristennotiz-und-naechster-schritt` — Aktenlektuere Fristennotiz und Naechster Schritt
+- `aktenvorblatt-erstellen` — Aktenvorblatt Erstellen
+- `aktenvorblatt-schriftsatz-brief-und-memo-bausteine` — Aktenvorblatt Schriftsatz Brief und Memo Bausteine
+- `anklageschrift-zerlegen` — Anklageschrift Zerlegen
+- `aussageanalyse-aussagepsychologie` — Aussageanalyse Aussagepsychologie
+- `beweismittel-katalog-beweisverwertungsverbote` — Beweismittel Katalog Beweisverwertungsverbote
+- `beweisverwertungsverbote-pruefen` — Beweisverwertungsverbote Prüfen
+- `beziehungen-spezial-chronologie-ergaenzbar` — Beziehungen Spezial Chronologie Ergaenzbar
+- `beziehungsmatrix-personen-taten` — Beziehungsmatrix Personen Taten
+- `chronologie-compliance-dokumentation-und-akte` — Chronologie Compliance Dokumentation und Akte
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
+
+## Arbeitsweg
+
+- Ergebnis sichten: Welche Aktenaufbereiter Strafrecht-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
+- Anschlussweichen identifizieren: drohende Frist (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), notwendige Dokumente (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets), nächste Verfahrensstufe oder Sachgebiet.
+- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
+- Eskalation an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
+- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `quellen-livecheck`
+
+_Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Aktenaufbereiter Strafrecht._
+
+# Rechtsquellen-Livecheck
+
+## Einsatzlage
+
+Dieser Quellen-Livecheck für **Aktenaufbereiter Strafrecht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
+
+## Fachlandkarte dieses Plugins
+
+- `aktenaufbereiter-erstpruefung-und-mandatsziel` — Aktenaufbereiter Erstpruefung und Mandatsziel
+- `aktenaufbereiter-strafrecht` — Aktenaufbereiter Strafrecht
+- `akteneinsicht-uebersicht-aktenvorblatt` — Akteneinsicht Übersicht Aktenvorblatt
+- `aktenlektuere-fristennotiz-und-naechster-schritt` — Aktenlektuere Fristennotiz und Naechster Schritt
+- `aktenvorblatt-erstellen` — Aktenvorblatt Erstellen
+- `aktenvorblatt-schriftsatz-brief-und-memo-bausteine` — Aktenvorblatt Schriftsatz Brief und Memo Bausteine
+- `anklageschrift-zerlegen` — Anklageschrift Zerlegen
+- `aussageanalyse-aussagepsychologie` — Aussageanalyse Aussagepsychologie
+- `beweismittel-katalog-beweisverwertungsverbote` — Beweismittel Katalog Beweisverwertungsverbote
+- `beweisverwertungsverbote-pruefen` — Beweisverwertungsverbote Prüfen
+- `beziehungen-spezial-chronologie-ergaenzbar` — Beziehungen Spezial Chronologie Ergaenzbar
+- `beziehungsmatrix-personen-taten` — Beziehungsmatrix Personen Taten
+- `chronologie-compliance-dokumentation-und-akte` — Chronologie Compliance Dokumentation und Akte
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
+
+## Arbeitsweg
+
+- Tragende Normen (die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
+- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
+- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
+- Dynamische Bereiche im Aktenaufbereiter Strafrecht (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
+- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `mandant-redteam-gate`
+
+_Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Aktenaufbereiter Strafrecht._
+
+# Mandantenkommunikation
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **aktenaufbereiter-strafrecht** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- StPO §§ 136, 137, 147, 160, 163, 244, 257, 261; StGB je nach Delikt; OWiG §§ 46, 55, 66, 67, 71, 77.
+- Trenne Anfangsverdacht, Beschuldigtenstatus, Belehrung, Beweisverwertbarkeit, Akteneinsicht, Frist und taktische Einlassung.
+- Keine Tatsachen ergänzen: Belastungs- und Entlastungsbelege mit Fundstelle, Datum, Quelle und Beweiswert erfassen.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Strafakte-Mandantenkommunikation Bausteine
+- **Aktenstand-Brief an Mandant** strukturiert:
+ - Stand der Ermittlungen (Anklage erhoben / Eroeffnungsbeschluss / Hauptverhandlung anberaumt / Urteil verkuendet).
+ - Tatvorwurf in Kurzfassung.
+ - Beweislage (Indizien für / gegen Mandant; staerkste Belastungsbeweise und Entlastungsindizien).
+ - Strafmasserwartung (Bandbreite, nicht ein Wert).
+ - Entscheidungsoffene Punkte (Verstaendigung, Gestaendnis, Beweisantraege).
+- **Pflicht-Hinweise:**
+ - **Mandantengeheimnis** § 43a Abs. 2 BRAO, § 203 StGB; § 53 I Nr. 2 StPO Verteidiger-Zeugnisverweigerung.
+ - **Schweigerecht** Mandant § 136 I 2 StPO; nie ohne Vorbereitung gegenueber Polizei aussagen.
+ - **Aussagebegrenzungen Familie** § 52 StPO Zeugnisverweigerung Angehoeriger; § 55 StPO bei drohender Selbstbelastung.
+- **Strategie-Freigabe** schriftlich:
+ - Akteneinsicht-Anmeldung.
+ - Stellungnahme zur Anklage.
+ - Beweisantraege.
+ - Verstaendigung § 257c StPO.
+ - Gestaendnisbereitschaft.
+ - Rechtsmittelverzicht / -einlegung / -ruecknahme.
+- **Kostenhinweis RVG:** Grundgebuehr VV 4100; Verfahrensgebuehr VV 4106 ff. je nach Verfahrensstufe; Terminsgebuehr VV 4108 ff.; Pflichtverteidigergebuehren als Verfahrenskosten zu tragen vom Mandant bei Verurteilung.
+- **Notfall-Kontakt** bei U-Haft / Polizeivernehmung Mandant: 24/7-Erreichbarkeit; Vollmacht inklusive § 138 StPO.
+- **Inhaftiert-Korrespondenz:** Verteidigerpost unueberwacht § 148 StPO (Ausnahme: §§ 129a, 129b StGB-Verdacht).
+
+---
+
 ## Skill: `aktenvorblatt-schriftsatz-brief-und-memo-bausteine`
 
-_Wenn es um Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -323,9 +670,98 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `workflow-redteam-qualitygate`
+
+_Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Aktenaufbereiter Strafrecht._
+
+# Red-Team Qualitygate
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Red-Team Qualitygate** im Bereich **aktenaufbereiter-strafrecht** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- StPO §§ 136, 137, 147, 160, 163, 244, 257, 261; StGB je nach Delikt; OWiG §§ 46, 55, 66, 67, 71, 77.
+- Trenne Anfangsverdacht, Beschuldigtenstatus, Belehrung, Beweisverwertbarkeit, Akteneinsicht, Frist und taktische Einlassung.
+- Keine Tatsachen ergänzen: Belastungs- und Entlastungsbelege mit Fundstelle, Datum, Quelle und Beweiswert erfassen.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Strafakte-Red-Team-Checks
+- **Halluzinations-Check:** Keine erfundenen BGH-/BVerfG-Az; Fundstellen mit Datum, Gericht und Az prüfen oder als "staendige Rspr."/"BGH-Linie" markieren.
+- **Frist-Re-Check:** Berufung § 314 StPO (1 Woche), Revision §§ 341, 345 StPO (1 Woche / 1 Monat), Strafbefehl-Einspruch § 410 StPO (2 Wochen), Wiedereinsetzung § 44 StPO (1 Woche ab Wegfall); Postzustellungsdatum verifizieren.
+- **Zuständigkeits-Re-Check:** GVG - Strafrichter § 25 (bis 2 Jahre Freiheitsstrafe), Schoeffengericht § 28 (bis 4 Jahre), Schwurgericht § 74 GVG (Toetungsdelikte), große Strafkammer § 76 GVG (über 4 Jahre, schwere Wirtschaftskriminalitaet). Verfahrenshandlung Falschadressiert?
+- **Belehrungs-Check** § 136 StPO (Beschuldigtenrechte), § 52 StPO (Zeugnisverweigerung Angehoeriger), § 55 StPO (Auskunftsverweigerung wegen Selbstbelastung): in der Akte protokolliert?
+- **Beweisverwertungs-Check:** § 136a StPO (verbotene Vernehmungsmethoden), § 252 StPO (Aussageverweigerung Hauptverhandlung), § 261 StPO Beweiswuerdigungslueckchen, Belehrungsfehler in Beschuldigtenvernehmung.
+- **Ton-/Stil-Check:** keine wertende Vorverurteilung; klare Trennung Fakten / Bewertung; Mandantengeheimnis § 43a Abs. 2 BRAO, § 203 StGB.
+- **Vollstaendigkeits-Check Anklageschrift § 200 StPO:** Beschuldigter, Tat (Zeit, Ort, gesetzliche Merkmale), Beweismittel, anzuwendende Strafvorschriften.
+
+---
+
+## Skill: `workflow-chronologie-und-belegmatrix`
+
+_Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: Aktenaufbereiter Strafrecht._
+
+# Chronologie und Belegmatrix
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Chronologie und Belegmatrix** im Bereich **aktenaufbereiter-strafrecht** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- StPO §§ 136, 137, 147, 160, 163, 244, 257, 261; StGB je nach Delikt; OWiG §§ 46, 55, 66, 67, 71, 77.
+- Trenne Anfangsverdacht, Beschuldigtenstatus, Belehrung, Beweisverwertbarkeit, Akteneinsicht, Frist und taktische Einlassung.
+- Keine Tatsachen ergänzen: Belastungs- und Entlastungsbelege mit Fundstelle, Datum, Quelle und Beweiswert erfassen.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Strafakte-Chronologie-Bausteine
+- **Tatzeit / Tatort** zuerst fixieren (Anklageschrift § 200 StPO Tenor).
+- **Ermittlungsstationen** mit Datum: Strafanzeige, Beschuldigtenvernehmung (§ 136 StPO Belehrung prüfen), Durchsuchung (§§ 102, 105 StPO), Festnahme / U-Haft (§ 112 StPO Haftbefehl, § 115 StPO Vorfuehrung), Abschlussverfuegung StA.
+- **Beweiskette pro Tatkomplex:** Spur, sichernde Stelle, Auswertung, Gutachten, Aussagen (Tatzeuge, Geschaedigter, Beschuldigter).
+- **Verwertbarkeitspruefung:** § 136a StPO verbotene Vernehmungsmethoden; § 252 StPO Zeugnisverweigerung; Belehrungsmaengel und qualifizierte Belehrung nach staendiger Rspr.
+- **Belegmatrix-Spalten:** Datum, Aktenseite, Inhalt, Beweismittel-Typ (Urkunde § 249 StPO / Zeuge § 48 StPO / Sachverstaendiger § 73 StPO / Augenschein § 86 StPO), Verwendung, Bewertung.
+- Wahrunterstellung und Selbstleseverfahren § 249 II StPO sauber trennen.
+
+---
+
 ## Skill: `kronzeugen-regelung-opferzeugen-besondere`
 
-_Wenn es um Strafrecht: Kronzeugen Paragraf 46b StGB in Aktenaufbereiter Strafrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Strafrecht: Kronzeugen Paragraf 46b StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Strafrecht: Kronzeugen § 46b StGB
 
@@ -375,515 +811,47 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 ---
 
-## Skill: `fortlaufend-luecken-personenverzeichnis`
+## Skill: `output-waehlen`
 
-_Wenn es um Fortlaufend: Internationaler Bezug und Schnittstellen in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Aktenaufbereiter Strafrecht._
 
-# Fortlaufend: Internationaler Bezug und Schnittstellen
+# Output wählen
 
-## Arbeitsweg
+## Einsatzlage
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
-- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Diese Output-Weiche für **Aktenaufbereiter Strafrecht** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
-## Spezialwissen: Fortlaufend: Internationaler Bezug und Schnittstellen
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+## Fachlandkarte dieses Plugins
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Fortlaufend** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Strafakte-Internationaler Bezug Bausteine
-- **EuStA (Europaeische Staatsanwaltschaft - VO 2017/1939):** zuständig für Straftaten gegen EU-Finanzinteressen (Mehrwertsteuerbetrug, EU-Subventionsbetrug, Korruption, Geldwaesche bei EU-Bezug); deutsches Recht anwendbar mit EU-Verfahrensanpassungen.
-- **Europaeische Ermittlungsanordnung (EEA) RL 2014/41/EU:**
- - Vereinfachte Beweiserhebung in anderen EU-Mitgliedstaaten.
- - Anwendung statt klassische Rechtshilfe gemäß EuRhuebkAG.
- - Akteneinsicht in EU-Bezug-Verfahren auch bezüglich EEA-Aufnahmen.
-- **Klassische Rechtshilfe (EuRhuebk, MLA-Abkommen):**
- - Vernehmungen im Ausland, Beweismittelbeschaffung.
- - DE-Behörden über Justizministerium / GenStA.
-- **Auslieferungsverfahren:**
- - **Europaeischer Haftbefehl (EuHbG / RB 2002/584/JI):** schneller Verfahren in EU.
- - **IRG für Drittstaaten:** klassische Auslieferung.
-- **Schengen-Informationssystem (SIS II):** Ausschreibung zur Festnahme; deutsche Ermittlungsbehoerden haben direkten Zugriff.
-- **EU-Strafrechtspflege-Verfahren:** RB 2008/675/JI (Beruecksichtigung Vorverurteilungen anderer EU-Mitgliedstaaten); RB 2008/909/JI (Vollstreckungsuebernahme freiheitsentziehender Sanktionen).
-- **DSGVO im Strafverfahren:**
- - Art. 6, 9, 23 DSGVO; spezialgesetzliche Bestimmungen StPO als lex specialis.
- - Akteneinsichtsanspruch Geschaedigter nach DSGVO ggf. erweitert.
-- **EuGH Rsp. zu RL 2012/13/EU (Belehrungsrecht), RL 2013/48/EU (Anwaltszugang), RL 2016/343/EU (Unschuldsvermutung):** direkt anwendbar bei nationaler Lueckenfuellung; staendige Rspr.
-- **Schnittstellen-Checkliste:**
- - Gehoert Beschuldigter / Geschaedigter zu EU-Mitgliedstaat?
- - Wurden Beweismittel über EEA / Rechtshilfe beschafft?
- - Liegen Auslandsvorstrafen vor? (Auslandsvorstrafenbruecke RB 2008/675/JI).
- - Internationale Vorermittlungen Europol / Eurojust?
-- **Praxis-Tipp:** Bei Auslandsvorstrafen Auszug aus dem Ausland anfordern über Verbindungsbeamte; bei Drittstaaten ggf. Notwendigkeit Übersetzung beglaubigter Form.
-
----
-
-## Skill: `faehige-risikoampel-und-gegenargumente`
-
-_Wenn es um Faehige: Risikoampel, Gegenargumente und Verteidigungslinien in Aktenaufbereiter Strafrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Faehige: Risikoampel, Gegenargumente und Verteidigungslinien
+- `aktenaufbereiter-erstpruefung-und-mandatsziel` — Aktenaufbereiter Erstpruefung und Mandatsziel
+- `aktenaufbereiter-strafrecht` — Aktenaufbereiter Strafrecht
+- `akteneinsicht-uebersicht-aktenvorblatt` — Akteneinsicht Übersicht Aktenvorblatt
+- `aktenlektuere-fristennotiz-und-naechster-schritt` — Aktenlektuere Fristennotiz und Naechster Schritt
+- `aktenvorblatt-erstellen` — Aktenvorblatt Erstellen
+- `aktenvorblatt-schriftsatz-brief-und-memo-bausteine` — Aktenvorblatt Schriftsatz Brief und Memo Bausteine
+- `anklageschrift-zerlegen` — Anklageschrift Zerlegen
+- `aussageanalyse-aussagepsychologie` — Aussageanalyse Aussagepsychologie
+- `beweismittel-katalog-beweisverwertungsverbote` — Beweismittel Katalog Beweisverwertungsverbote
+- `beweisverwertungsverbote-pruefen` — Beweisverwertungsverbote Prüfen
+- `beziehungen-spezial-chronologie-ergaenzbar` — Beziehungen Spezial Chronologie Ergaenzbar
+- `beziehungsmatrix-personen-taten` — Beziehungsmatrix Personen Taten
+- `chronologie-compliance-dokumentation-und-akte` — Chronologie Compliance Dokumentation und Akte
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
-- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Faehige: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Faehige** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `vermoegensabschoepfung-einziehung`
-
-_Wenn es um Vermögensabschoepfung/Einziehung in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Vermögensabschoepfung/Einziehung
-
-## Arbeitsbereich
-
-Vermögensabschoepfung §§ 73 ff. StGB prüfen und angreifen: Brutto-Prinzip, erweiterte Einziehung § 73a StGB, Wertersatzeinziehung § 73c StGB, gutglaeubige Dritte § 73e StGB. Prüfraster, Antragsentwurf gegen Einziehung, Saemtliche Sicherstellungen prüfen (§§ 111b ff. StPO). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
-- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Vermögensabschoepfung/Einziehung
-- **Normen-/Quellenanker:** StPO.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `beweisverwertungsverbote-pruefen`
-
-_Wenn es um Beweisverwertungsverbote prüfen in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Beweisverwertungsverbote prüfen
-
-## Arbeitsbereich
-
-Beweisverwertungsverbote prüfen: § 136a StPO (verbotene Vernehmungsmethoden), § 252 StPO (Aussageverweigerung Angehoeriger), § 100a/d StPO (TKUe ohne Voraussetzungen), Belehrungsfehler § 136 StPO, Zufallsfunde § 108 StPO, Kernbereich privater Lebensgestaltung. Prüfraster und Antragsentwurf auf Beweiserhebungsverbot oder Verwertungsverbot in der Hauptverhandlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
-- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Beweisverwertungsverbote prüfen
-- **Normen-/Quellenanker:** StPO.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `verstaendigung-deal-strategie`
-
-_Wenn es um Verstaendigung (Deal) Strategie in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Verstaendigung (Deal) Strategie
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
-- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Verstaendigung (Deal) Strategie
-- **Normen-/Quellenanker:** StPO, BGH, BVerfG.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `personenverzeichnis-verhandlung-vergleich-und-eskalation`
-
-_Wenn es um Personenverzeichnis: Verhandlung, Vergleich und Eskalation in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
-
-# Personenverzeichnis: Verhandlung, Vergleich und Eskalation
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
-- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Personenverzeichnis: Verhandlung, Vergleich und Eskalation
-- **Normen-/Quellenanker:** StPO.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Personenverzeichnis** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `aktenvorblatt-erstellen`
-
-_Wenn es um Aktenvorblatt-Erstellung in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Aktenvorblatt-Erstellung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
-- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Aktenvorblatt-Erstellung
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `opferzeugen-besondere-faelle`
-
-_Wenn es um Opferzeugen-Sonderfaelle in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Opferzeugen-Sonderfaelle
-
-## Arbeitsbereich
-
-Opferzeugen bei Sexualdelikten, Kindern, Schutzschriftsachen behandeln: Nebenklage § 395 StPO, Verletztenrechte §§ 406d ff. StPO, audiovisuelle Vernehmung § 58a StPO, Zeugenbeistand § 68b StPO, Ausschluss des Beschuldigten § 247 StPO. Verteidigungspflicht und Konfrontationsrecht Art. 6 EMRK. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
-- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Opferzeugen-Sonderfaelle
-- **Normen-/Quellenanker:** StPO, Art. 6, EMRK.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `strafverteidigung-tatbestand-beweis-und-belege`
-
-_Wenn es um Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix._
-
-# Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
-- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Strafverteidigung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `uebersichten-behoerden-gericht-und-registerweg`
-
-_Wenn es um Uebersichten: Behörden-, Gerichts- oder Registerweg in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Uebersichten: Behörden-, Gerichts- oder Registerweg
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren, § 199 Schlussvermerk, § 201 Erklärung 2 Wochen, § 273 Protokollierung sofort.
-- Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Uebersichten: Behörden-, Gerichts- oder Registerweg
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Uebersichten** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Aktenaufbereiter Strafrecht (die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 ---
 

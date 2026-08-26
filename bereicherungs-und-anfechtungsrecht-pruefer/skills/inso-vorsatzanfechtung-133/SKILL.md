@@ -1,6 +1,6 @@
 ---
 name: inso-vorsatzanfechtung-133
-description: "Wenn es um Vorsatzanfechtung — Paragraf 133 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorsatzanfechtung — Paragraf 133 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorsatzanfechtung — § 133 InsO

@@ -1,6 +1,6 @@
 ---
 name: lizenz-geschmacksmuster-design-designg
-description: "Wenn es um Lizenz Design (DesignG / EU-Verordnung) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Lizenz Design (DesignG / EU-Verordnung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lizenz Design (DesignG / EU-Verordnung)

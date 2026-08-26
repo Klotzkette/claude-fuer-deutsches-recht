@@ -1,6 +1,6 @@
 ---
 name: statistik-anfrage-redteam
-description: "Wenn es um Statistik-Anfrage Red-Team in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Statistik-Anfrage Red-Team: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Statistik-Anfrage Red-Team

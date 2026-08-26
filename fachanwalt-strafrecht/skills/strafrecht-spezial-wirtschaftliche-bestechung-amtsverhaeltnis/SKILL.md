@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-wirtschaftliche-bestechung-amtsverhaeltnis
-description: "Wenn es um Strafrecht Spezial Wirtschaftliche Bestechung Amtsverhaeltnis in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Wirtschaftliche Bestechung Amtsverhältnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen tätig wird

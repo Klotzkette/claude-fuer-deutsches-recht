@@ -1,6 +1,6 @@
 ---
 name: workflow-rechtsregime-matrix
-description: "Wenn es um Rechtsregime-Matrix in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsregime-Matrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: workflow-rechtsregime-matrix."
 ---
 
 # Rechtsregime-Matrix

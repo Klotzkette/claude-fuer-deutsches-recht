@@ -1,6 +1,6 @@
 ---
 name: emissionshandel-tehg
-description: "Wenn es um Emissionshandel und TEHG in Umweltrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Emissionshandel und TEHG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Emissionshandel und TEHG

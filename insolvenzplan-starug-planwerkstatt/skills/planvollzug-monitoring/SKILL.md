@@ -1,6 +1,6 @@
 ---
 name: planvollzug-monitoring
-description: "Wenn es um Planvollzug und Monitoring in Insolvenzplan- und StaRUG-Planwerkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Planvollzug und Monitoring: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Planvollzug und Monitoring

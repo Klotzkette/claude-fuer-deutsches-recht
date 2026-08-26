@@ -1,6 +1,6 @@
 ---
 name: muendliche-verhandlung-akten-griffbereit
-description: "Wenn es um In den Termin gehen — Akten griffbereit, Notizen parat in selbstvertreter-amtsgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für In den Termin gehen — Akten griffbereit, Notizen parat: ordnet Akte, Belege und Lücken; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # In den Termin gehen — Akten griffbereit, Notizen parat

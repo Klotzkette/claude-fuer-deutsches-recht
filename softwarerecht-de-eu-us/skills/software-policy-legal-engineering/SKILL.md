@@ -1,6 +1,6 @@
 ---
 name: software-policy-legal-engineering
-description: "Wenn es um Legal-Engineering Software Policy in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Legal-Engineering Software Policy: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Legal-Engineering Software Policy

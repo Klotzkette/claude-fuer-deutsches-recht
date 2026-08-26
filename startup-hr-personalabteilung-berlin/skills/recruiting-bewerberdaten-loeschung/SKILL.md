@@ -1,6 +1,6 @@
 ---
 name: recruiting-bewerberdaten-loeschung
-description: "Wenn es um Recruiting Bewerberdaten Loeschung in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Recruiting Bewerberdaten Löschung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Recruiting Bewerberdaten Loeschung

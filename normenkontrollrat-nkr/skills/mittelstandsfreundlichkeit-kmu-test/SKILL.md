@@ -1,6 +1,6 @@
 ---
 name: mittelstandsfreundlichkeit-kmu-test
-description: "Wenn es um NKR-Mittelstandsfreundlichkeit / KMU-Test in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für NKR-Mittelstandsfreundlichkeit / KMU-Test: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # NKR-Mittelstandsfreundlichkeit / KMU-Test

@@ -1,6 +1,6 @@
 ---
 name: gerichtstermin-sprechzettel
-description: "Wenn es um Gerichtstermin-Sprechzettel in Datenschutz-Sanktionsverfahren und Verteidigung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Gerichtstermin-Sprechzettel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gerichtstermin-Sprechzettel

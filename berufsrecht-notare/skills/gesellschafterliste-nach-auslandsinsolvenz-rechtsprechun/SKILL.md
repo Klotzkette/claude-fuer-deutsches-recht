@@ -1,6 +1,6 @@
 ---
 name: gesellschafterliste-nach-auslandsinsolvenz-rechtsprechun
-description: "Wenn es um Gesellschafterliste Nach Auslandsinsolvenz Rechtsprechun in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Gesellschafterliste nach Auslandsinsolvenz Rechtsprechun: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notare: gesellschafterliste nach auslandsinsolvenz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

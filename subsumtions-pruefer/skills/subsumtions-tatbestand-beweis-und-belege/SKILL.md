@@ -1,6 +1,6 @@
 ---
 name: subsumtions-tatbestand-beweis-und-belege
-description: "Wenn es um Subsumtion: Tatbestandsmerkmale, Beweisfragen und Beleglage in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Subsumtion: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Subsumtion: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -86,3 +86,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Normen live prüfen: gesetze-im-internet.de (ZPO §§ 286, 294, 373 ff., 402 ff., 415 ff.; BGB §§ 630h; AGG § 22).
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle (dejure.org, bgh.de).
 - Keine Blindzitate. Paywall-Literatur nur mit Nutzerquelle.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-subsumtions-tatbestand-beweis-und-belege` beziehungsweise Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-subsumtions-tatbestand-beweis-und-belege.md).

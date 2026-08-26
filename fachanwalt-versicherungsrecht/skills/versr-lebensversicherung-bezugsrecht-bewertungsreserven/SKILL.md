@@ -1,6 +1,6 @@
 ---
 name: versr-lebensversicherung-bezugsrecht-bewertungsreserven
-description: "Wenn es um Versr Lebensversicherung Bezugsrecht Bewertungsreserven in Fachanwalt Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Versr Lebensversicherung Bezugsrecht Bewertungsreserven: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lebensversicherung: Bezugsrecht, Erbfall, Scheidung, Sicherungsabtretung, Rückkaufswert, Überschüsse und Bewertungsreserven.

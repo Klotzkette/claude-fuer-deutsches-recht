@@ -1,6 +1,6 @@
 ---
 name: litigation-schlichtung-prozess
-description: "Wenn es um Litigation Bank in Bank-Rechtsabteilung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Litigation Bank: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Litigation Bank

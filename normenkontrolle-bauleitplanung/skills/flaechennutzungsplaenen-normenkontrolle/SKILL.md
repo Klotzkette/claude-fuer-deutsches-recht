@@ -1,6 +1,6 @@
 ---
 name: flaechennutzungsplaenen-normenkontrolle
-description: "Wenn es um Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Flaechennutzungsplaenen Normenkontrolle; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
+description: "Für Flächennutzungsplänen: Dokumentenmatrix, Lückenliste und Nachforderung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO. Route: flaechennutzungsplaenen-normenkontrolle."
 ---
 
 # Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung

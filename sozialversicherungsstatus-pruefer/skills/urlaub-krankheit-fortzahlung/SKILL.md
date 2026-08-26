@@ -1,6 +1,6 @@
 ---
 name: urlaub-krankheit-fortzahlung
-description: "Wenn es um Urlaub Krankheit Fortzahlung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urlaub Krankheit Fortzahlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urlaub Krankheit Fortzahlung

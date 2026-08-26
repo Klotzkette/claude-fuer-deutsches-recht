@@ -1,6 +1,6 @@
 ---
 name: qualitaetsmanagement-im-notariat-kammerantwort-und-verfahren
-description: "Wenn es um Qualitaetsmanagement Im Notariat Kammerantwort Und Verfahren in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Qualitätsmanagement im Notariat Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Notare: qualitaetsmanagement im notariat - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: earn-out-und-vendor-loan
-description: "Wenn es um Earn-out, Vendor Loan und Seller Note in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Earn-out, Vendor Loan und Seller Note: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Earn-out, Vendor Loan und Seller Note

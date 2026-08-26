@@ -1,6 +1,6 @@
 ---
 name: telefonnotiz
-description: "Wenn es um Dokumente und Kommunikation: Macht aus telefonat eine beweistaugliche notiz in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dokumente und Kommunikation: Macht aus telefonat eine beweistaugliche notiz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumente und Kommunikation: Macht aus telefonat eine beweistaugliche notiz

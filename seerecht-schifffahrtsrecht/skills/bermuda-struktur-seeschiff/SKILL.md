@@ -1,6 +1,6 @@
 ---
 name: bermuda-struktur-seeschiff
-description: "Wenn es um Bermuda-Struktur prüfen – Holding-Struktur und Haftungsrisiken in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bermuda-Struktur prüfen – Holding-Struktur und Haftungsrisiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bermuda-Struktur prüfen – Holding-Struktur und Haftungsrisiken

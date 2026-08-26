@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-developer-ip-open-source-us
-description: "Wenn es um Rechtsabteilung: Developer-IP bei deutschen Angestellten in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsabteilung: Developer-IP bei deutschen Angestellten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Developer-IP bei deutschen Angestellten

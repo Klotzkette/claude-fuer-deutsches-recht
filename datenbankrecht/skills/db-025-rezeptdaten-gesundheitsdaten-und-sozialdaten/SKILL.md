@@ -1,6 +1,6 @@
 ---
 name: db-025-rezeptdaten-gesundheitsdaten-und-sozialdaten
-description: "Wenn es um Datenbankrecht: Rezeptdaten Gesundheitsdaten und Sozialdaten in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Rezeptdaten Gesundheitsdaten und Sozialdaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Rezeptdaten Gesundheitsdaten und Sozialdaten

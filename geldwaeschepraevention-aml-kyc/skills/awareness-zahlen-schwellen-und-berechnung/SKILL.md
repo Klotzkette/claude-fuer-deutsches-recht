@@ -1,6 +1,6 @@
 ---
 name: awareness-zahlen-schwellen-und-berechnung
-description: "Wenn es um Awareness: Zahlen, Schwellenwerte und Berechnung in Geldwäscheprävention, AML und KYC geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Awareness: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Awareness: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: technik-lautsprecher-untatigkeit-schweigen
-description: "Wenn es um Technik dient der Kommunikation in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Technik dient der Kommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Technik dient der Kommunikation

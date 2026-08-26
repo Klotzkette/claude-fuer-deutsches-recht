@@ -1,6 +1,6 @@
 ---
 name: kleine-dienstleistung-schlecht
-description: "Wenn es um Kleine Dienstleistung schlecht in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Kleine Dienstleistung schlecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kleine Dienstleistung schlecht

@@ -1,6 +1,6 @@
 ---
 name: berufskrankheit-bk-meldung-bkv
-description: "Wenn es um Berufskrankheit Bk Meldung Bkv in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berufskrankheit Bk Meldung Bkv: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berufskrankheit Bk Meldung Bkv

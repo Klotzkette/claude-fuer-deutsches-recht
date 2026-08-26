@@ -1,6 +1,6 @@
 ---
 name: eu-bekanntmachung-marktdefinition-2024
-description: "Wenn es um EU-Bekanntmachung zur Marktdefinition 2024 in Kartellrecht — Marktabgrenzungsprüfung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für EU-Bekanntmachung zur Marktdefinition 2024: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-Bekanntmachung zur Marktdefinition 2024

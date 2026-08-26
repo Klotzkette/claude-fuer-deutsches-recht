@@ -1,6 +1,6 @@
 ---
 name: dispens-privileg-und-indult
-description: "Wenn es um Dispens, Privileg und Indult in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dispens, Privileg und Indult: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dispens, Privileg und Indult

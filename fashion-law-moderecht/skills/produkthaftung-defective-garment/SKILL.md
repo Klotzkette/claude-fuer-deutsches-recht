@@ -1,6 +1,6 @@
 ---
 name: produkthaftung-defective-garment
-description: "Wenn es um Produkt Haftung Defective Garment in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Produkt Haftung Defective Garment: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produkt Haftung Defective Garment

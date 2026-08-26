@@ -1,6 +1,6 @@
 ---
 name: studiengebuehren-internationale
-description: "Wenn es um Studiengebühren internationale Studenten in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Studiengebühren internationale Studenten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Studiengebühren internationale Studenten

@@ -1,6 +1,6 @@
 ---
 name: sexuelle-belaestigung-beschwerde-schutzpflicht
-description: "Wenn es um Sexuelle Belästigung Beschwerde Schutzpflicht in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sexuelle Belästigung Beschwerde Schutzpflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sexuelle Belästigung Beschwerde Schutzpflicht

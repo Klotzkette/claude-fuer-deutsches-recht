@@ -1,6 +1,6 @@
 ---
 name: steuerberater-unterlagenherausgabe-praevention
-description: "Wenn es um Steuerberater Unterlagenherausgabe: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Steuerberater Unterlagenherausgabe: Präventions- und Organisationspaket: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Steuerberater Unterlagenherausgabe: Präventions- und Organisationspaket

@@ -1,6 +1,6 @@
 ---
 name: zugunstenantrag-44-sgb-x-bestandskraft
-description: "Wenn es um Zugunstenantrag 44 Sgb X Bestandskraft in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Zugunstenantrag 44 SGB X Bestandskraft: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Zugunstenantrag 44 Sgb X Bestandskraft

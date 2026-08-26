@@ -1,6 +1,6 @@
 ---
 name: fitnessstudio-vergleich-pruefen
-description: "Wenn es um Fitnessstudio Vergleich Prüfen in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Fitnessstudio Vergleich Prüfen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Verbraucherschutzverband Durchsetzung. Route: fitnessstudio-vergleich-pruefen."
 ---
 
 # Fitnessstudio Vergleich Prüfen

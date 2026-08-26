@@ -1,6 +1,6 @@
 ---
 name: rbst-beratungshilfe-prozesskostenhilfe
-description: "Wenn es um RBst: Beratungshilfe PKH in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für RBst: Beratungshilfe PKH: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # RBst: Beratungshilfe PKH

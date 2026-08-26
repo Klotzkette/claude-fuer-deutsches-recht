@@ -1,6 +1,6 @@
 ---
 name: chn-054-evidence-preservation-china
-description: "Wenn es um Evidence Preservation China in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Evidence Preservation China: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Evidence Preservation China

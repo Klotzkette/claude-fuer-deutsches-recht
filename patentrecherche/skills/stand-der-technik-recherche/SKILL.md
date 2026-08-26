@@ -1,6 +1,6 @@
 ---
 name: stand-der-technik-recherche
-description: "Wenn es um stand-der-technik-recherche in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für stand-der-technik-recherche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # stand-der-technik-recherche

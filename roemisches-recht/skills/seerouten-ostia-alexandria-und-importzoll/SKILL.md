@@ -1,6 +1,6 @@
 ---
 name: seerouten-ostia-alexandria-und-importzoll
-description: "Wenn es um Rom 128 Seerouten Ostia Alexandria Und Importzoll in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom 128 Seerouten Ostia Alexandria und Importzoll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 128 Seerouten Ostia Alexandria Und Importzoll

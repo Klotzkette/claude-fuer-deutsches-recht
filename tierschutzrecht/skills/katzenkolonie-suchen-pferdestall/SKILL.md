@@ -1,6 +1,6 @@
 ---
 name: katzenkolonie-suchen-pferdestall
-description: "Wenn es um Katzenkolonie Vergleich Suchen in Tierschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Katzenkolonie Vergleich Suchen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Katzenkolonie Vergleich Suchen

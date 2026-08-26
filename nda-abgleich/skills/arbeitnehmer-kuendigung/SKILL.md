@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmer-kuendigung
-description: "Wenn es um NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen in NDA-Abgleich geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Arbeitnehmer Kuendigung; Arbeitsfeld: NDA-Abgleich."
+description: "Für NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NDA-Abgleich. Route: arbeitnehmer-kuendigung."
 ---
 
 # NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen

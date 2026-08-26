@@ -1,6 +1,6 @@
 ---
 name: internationale-studierende-krankenversicherung
-description: "Wenn es um Internationale Studenten: Krankenversicherung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internationale Studenten: Krankenversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationale Studenten: Krankenversicherung

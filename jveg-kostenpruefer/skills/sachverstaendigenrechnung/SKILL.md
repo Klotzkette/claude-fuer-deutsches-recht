@@ -1,6 +1,6 @@
 ---
 name: sachverstaendigenrechnung
-description: "Wenn es um JVEG-Sachverstaendigenrechnung in JVEG-Kostenprüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für JVEG-Sachverständigenrechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # JVEG-Sachverstaendigenrechnung

@@ -1,6 +1,6 @@
 ---
 name: nachbereitung-aktenvermerk-notfallkarte
-description: "Wenn es um Nach der Versammlung ist die Akte noch nicht fertig in Versammlungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Nach der Versammlung ist die Akte noch nicht fertig: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nach der Versammlung ist die Akte noch nicht fertig

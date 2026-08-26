@@ -1,6 +1,6 @@
 ---
 name: kanalcheck-beweislast-masseverbindlichkeit
-description: "Wenn es um Kanalcheck: Beweislast, Darlegungslast und Substantiierung in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kanalcheck: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Kanalcheck: Beweislast, Darlegungslast und Substantiierung

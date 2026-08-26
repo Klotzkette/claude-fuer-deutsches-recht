@@ -1,6 +1,6 @@
 ---
 name: see-047-werftvertrag-local-counsel-instruieren
-description: "Wenn es um Werftvertrag Local Counsel Instruieren in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Werftvertrag Local Counsel Instruieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Werftvertrag Local Counsel Instruieren

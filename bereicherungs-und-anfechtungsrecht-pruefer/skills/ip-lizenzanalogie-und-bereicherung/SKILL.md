@@ -1,6 +1,6 @@
 ---
 name: ip-lizenzanalogie-und-bereicherung
-description: "Wenn es um IP-Lizenzanalogie und Bereicherung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IP-Lizenzanalogie und Bereicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IP-Lizenzanalogie und Bereicherung

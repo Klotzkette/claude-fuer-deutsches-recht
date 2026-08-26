@@ -1,6 +1,6 @@
 ---
 name: kdvg-13-neun-monate
-description: "Wenn es um Neunmonats-Sollfrist Paragraf 13 in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Neunmonats-Sollfrist Paragraf 13: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Neunmonats-Sollfrist § 13

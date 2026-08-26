@@ -1,6 +1,6 @@
 ---
 name: handelsregisteranmeldung-fehler
-description: "Wenn es um Handelsregisteranmeldung Fehler in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Handelsregisteranmeldung Fehler: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Notare: handelsregisteranmeldung fehler - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

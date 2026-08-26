@@ -1,6 +1,6 @@
 ---
 name: parteikommunikation-mitglieder
-description: "Wenn es um Mitgliederkommunikation in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mitgliederkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mitgliederkommunikation

@@ -1,6 +1,6 @@
 ---
 name: igel-aufklaerung-klageerwiderung
-description: "Wenn es um IGeL Aufklärung Kosteninformation in GOÄ Gebührenordnung für Ärzte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für IGeL Aufklärung Kosteninformation: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # IGeL Aufklärung Kosteninformation

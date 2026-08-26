@@ -1,6 +1,6 @@
 ---
 name: gerichtsverfahren-sanktionen
-description: "Wenn es um Gerichtsverfahren und Schiedsverfahren – Insiderrecht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Gerichtsverfahren und Schiedsverfahren – Insiderrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gerichtsverfahren und Schiedsverfahren – Insiderrecht

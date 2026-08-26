@@ -1,6 +1,6 @@
 ---
 name: mietvertrag-apothekenstandort-konkurrenzschutz
-description: "Wenn es um Mietvertrag Apothekenstandort Konkurrenzschutz in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mietvertrag Apothekenstandort Konkurrenzschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mietvertrag Apothekenstandort Konkurrenzschutz

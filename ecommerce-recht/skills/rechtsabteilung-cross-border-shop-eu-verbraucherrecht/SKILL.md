@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-cross-border-shop-eu-verbraucherrecht
-description: "Wenn es um Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht in E-Commerce-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht

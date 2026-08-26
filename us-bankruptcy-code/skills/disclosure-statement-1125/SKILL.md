@@ -1,6 +1,6 @@
 ---
 name: disclosure-statement-1125
-description: "Wenn es um Disclosure Statement Paragraf 1125 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Disclosure Statement Paragraf 1125: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Disclosure Statement § 1125

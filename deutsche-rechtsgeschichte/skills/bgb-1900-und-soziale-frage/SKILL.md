@@ -1,6 +1,6 @@
 ---
 name: bgb-1900-und-soziale-frage
-description: "Wenn es um BGB 1900 und die soziale Frage in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BGB 1900 und die soziale Frage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BGB 1900 und die soziale Frage

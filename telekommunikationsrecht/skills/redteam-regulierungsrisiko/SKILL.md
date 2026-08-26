@@ -1,6 +1,6 @@
 ---
 name: redteam-regulierungsrisiko
-description: "Wenn es um Regulierungsrisiko Red-Team in Telekommunikationsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Regulierungsrisiko Red-Team: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Regulierungsrisiko Red-Team

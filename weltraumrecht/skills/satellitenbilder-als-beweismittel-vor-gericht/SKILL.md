@@ -1,6 +1,6 @@
 ---
 name: satellitenbilder-als-beweismittel-vor-gericht
-description: "Wenn es um Weltraumrecht: Satellitenbilder als Beweismittel vor Gericht in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Satellitenbilder als Beweismittel vor Gericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Weltraumrecht: Satellitenbilder als Beweismittel vor Gericht

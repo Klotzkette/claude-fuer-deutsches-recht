@@ -1,6 +1,6 @@
 ---
 name: akzg-aktenauszug-bauleiter
-description: "Wenn es um AkzG: Aktenauszug Bauleiter in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für AkzG: Aktenauszug Bauleiter: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AkzG: Aktenauszug Bauleiter

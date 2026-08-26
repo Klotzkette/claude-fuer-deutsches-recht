@@ -1,6 +1,6 @@
 ---
 name: behoerdenverfahren-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Behördenverfahren: Schriftsatz-, Brief- und Memo-Bausteine in Geldwäscheprävention, AML und KYC geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Behördenverfahren: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Behördenverfahren: Schriftsatz-, Brief- und Memo-Bausteine
@@ -31,3 +31,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-behoerdenverfahren-schriftsatz-brief-und-memo-bausteine` beziehungsweise Behoerdenverfahren: Schriftsatz-, Brief- und Memo-Bausteine: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-behoerdenverfahren-schriftsatz-brief-und-memo-bausteine.md).

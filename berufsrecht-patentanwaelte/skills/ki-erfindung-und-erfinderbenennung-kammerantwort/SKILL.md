@@ -1,6 +1,6 @@
 ---
 name: ki-erfindung-und-erfinderbenennung-kammerantwort
-description: "Wenn es um Ki Erfindung Und Erfinderbenennung Kammerantwort in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Ki Erfindung und Erfinderbenennung Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: ki erfindung und erfinderbenennung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

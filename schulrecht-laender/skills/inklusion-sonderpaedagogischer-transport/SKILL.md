@@ -1,6 +1,6 @@
 ---
 name: inklusion-sonderpaedagogischer-transport
-description: "Wenn es um Inklusion Sonderpaedagogischer Foerderbedarf in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Inklusion Sonderpädagogischer Förderbedarf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Inklusion Sonderpaedagogischer Foerderbedarf

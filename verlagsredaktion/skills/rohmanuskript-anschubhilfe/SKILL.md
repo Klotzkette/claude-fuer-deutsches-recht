@@ -1,6 +1,6 @@
 ---
 name: rohmanuskript-anschubhilfe
-description: "Wenn es um Rohmanuskript-Anschubhilfe in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rohmanuskript-Anschubhilfe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rohmanuskript-Anschubhilfe

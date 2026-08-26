@@ -1,6 +1,6 @@
 ---
 name: workflow-teilungsordnung-auslesen
-description: "Wenn es um Teilungserklärung auslesen: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Teilungserklärung auslesen: Prüfungslinie für Miet- und WEG-Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Teilungserklärung auslesen: Prüfungslinie für Miet- und WEG-Recht

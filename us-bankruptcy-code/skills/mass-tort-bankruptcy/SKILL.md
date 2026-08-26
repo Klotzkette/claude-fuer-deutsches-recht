@@ -1,6 +1,6 @@
 ---
 name: mass-tort-bankruptcy
-description: "Wenn es um Mass Tort Bankruptcy in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mass Tort Bankruptcy: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mass Tort Bankruptcy

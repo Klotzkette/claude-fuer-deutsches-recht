@@ -1,6 +1,6 @@
 ---
 name: uig-umweltinformation-drittanhoerung-b
-description: "Wenn es um Uig Umweltinformation Drittanhoerung B in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Uig Umweltinformation Drittanhörung B: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Uig Umweltinformation Drittanhoerung B

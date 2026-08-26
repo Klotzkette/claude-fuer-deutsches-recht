@@ -1,6 +1,6 @@
 ---
 name: chef-briefing-ohne-datenschutzbruch
-description: "Wenn es um Chef Briefing Ohne Datenschutzbruch in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Chef Briefing ohne Datenschutzbruch: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Chef Briefing Ohne Datenschutzbruch

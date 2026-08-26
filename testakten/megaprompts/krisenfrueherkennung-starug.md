@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `krisenfrueherkennu
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Krisenfrüherkennung StaRUG ein juristisches Arbeitsprodukt tragfähig begründet werden muss; v…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Krisenfrüherkennung und StaRUG-Management geht: klärt Rolle, Ziel, Frist, Unterlagen …
-3. **start-chronologie-fristen** — Startet ein Krisen- oder Restrukturierungsmandat ohne Leerlauf, wertet vorhandene Unterlagen zuerst aus und trennt Zahlu…
-4. **rollierende-liquiditaetsplanung-24-monate-template** — Erstellt eine rollierende Liquiditätsplanung für Status, Drei-Wochen-Sicht, 13-Wochen-Steuerung und die regelmäßige 24-M…
-5. **paragraph-102-starug-warnpflicht-bei-rechtsberatern** — Prüft den eng begrenzten Hinweis nach Paragraf 102 StaRUG bei der Erstellung eines Jahresabschlusses. Trennt den gesetzl…
-6. **drohende-zahlungsunfaehigkeit** — Prüft drohende Zahlungsunfähigkeit nach Paragraf 18 InsO aus Liquiditätsstatus, Fälligkeiten und regelmäßig 24-monatiger…
-7. **insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist** — Prüft die Insolvenzantragspflicht nach Paragraf 15a InsO ab objektivem Eintritt von Zahlungsunfähigkeit oder Überschuldu…
-8. **mandantenbrief-warnung-paragraph-starug** — Erstellt einen konkreten Mandantenhinweis nach Paragraf 102 StaRUG, wenn bei der Jahresabschlusserstellung offenkundige …
-9. **restrukturierungsplan-architektur-rollierende** — Baut einen Restrukturierungsplan nach Paragrafen 2 bis 28 StaRUG belastbar auf: Planbetroffene, darstellender und gestal…
-10. **paragraph-1-starug-pflichten-und-24-monats-horizont** — Trennt die fortlaufende Krisenfrüherkennungs- und Reaktionspflicht nach Paragraf 1 StaRUG sauber von der regelmäßigen 24…
-11. **stabilisierungsanordnung-und-vollstreckungssperre** — Bereitet eine Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG vor: Anzeige, Adressaten, Vollstreckungs- und Ve…
-12. **restructuring-lounge-impulsvortrag-toolkit** — Wenn es um Impulsvortrag-Toolkit — StaRUG und Krisenfrüherkennung in Krisenfrüherkennung und StaRUG-Management geht: ord…
-13. **cross-class-cram-down-und-absolute-priority** — Prüft den Cross-Class-Cram-Down nach Paragrafen 26 bis 28 StaRUG gruppengenau: Ohne-Plan-Vergleich, Planwertbeteiligung,…
-14. **zahlungsunfaehigkeit-compliance-dokumentation-und-akte** — Wenn es um Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk in Krisenfrüherkennung und StaRUG-Management …
-15. **warnpflicht-schriftsatz-brief-und-memo-bausteine** — Wenn es um Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine in Krisenfrüherkennung und StaRUG-Management geht: erste…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **stabilisierungsanordnung-und-vollstreckungssperre** — Bereitet eine Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG vor: Anzeige, Adressaten, Vollstreckungs- und Ve…
+4. **kfe-krisenstab-massnahmen-leitfaden** — Für KFE: Krisenstab Maßnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem …
+5. **start-chronologie-fristen** — Startet ein Krisen- oder Restrukturierungsmandat ohne Leerlauf, wertet vorhandene Unterlagen zuerst aus und trennt Zahlu…
+6. **kfe-krisenstab-cross-class** — Für KFE: Krisenstab Maßnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem …
+7. **restrukturierungsplan-architektur-rollierende** — Baut einen Restrukturierungsplan nach Paragrafen 2 bis 28 StaRUG belastbar auf: Planbetroffene, darstellender und gestal…
+8. **cross-class-cram-down-und-absolute-priority** — Prüft den Cross-Class-Cram-Down nach Paragrafen 26 bis 28 StaRUG gruppengenau: Ohne-Plan-Vergleich, Planwertbeteiligung,…
+9. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+10. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+11. **mandantenkommunikation-redteam** — Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvo…
+12. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+13. **gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg** — Für Geschäftsführerhaftung — Paragraf 43 GmbHG und Paragraf 93 AktG in der Krise: ordnet Norm, Beweislast und Gegenargum…
+14. **mandantenbrief-warnung-paragraph-starug** — Erstellt einen konkreten Mandantenhinweis nach Paragraf 102 StaRUG, wenn bei der Jahresabschlusserstellung offenkundige …
+15. **workflow-redteam-qualitygate** — Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristench…
 
 ---
 
@@ -144,7 +144,7 @@ Ausgangspunkt für dieses Plugin: Verwalter oder Anspruchsteller für Insolvenzr
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Krisenfrüherkennung und StaRUG-Management geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Krisenfrüherkennung und StaRUG-Management._
 
 # Einstieg und Routing
 
@@ -186,9 +186,220 @@ Dieser Einstieg routet **Krisenfrueherkennung Starug** vom ersten Sachverhalt zu
 
 ---
 
+## Skill: `stabilisierungsanordnung-und-vollstreckungssperre`
+
+_Bereitet eine Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG vor: Anzeige, Adressaten, Vollstreckungs- und Verwertungssperre, sechsmonatiger Finanzplan, Anordnungsvoraussetzungen, Dauer, Vertragswirkungen und Aufhebung._
+
+# 1. Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG
+
+## 1.1. Arbeitsauftrag
+
+Prüfe, ob und gegen welche Gläubiger eine Vollstreckungs- oder Verwertungssperre benötigt wird. Lies zuerst Titel, Vollstreckungsankündigungen, Sicherheitenregister, Restrukturierungskonzept, Finanzplan und bisherige Gerichtsunterlagen. Liefere einen antragsreifen Kern mit genau bezeichnetem Adressatenkreis und Zeitraum.
+
+## 1.2. Normenkarte
+
+| Norm | Funktion |
+| --- | --- |
+| Paragraf 31 StaRUG | vorherige Anzeige des Restrukturierungsvorhabens |
+| Paragraf 49 StaRUG | Inhalt und Reichweite der Vollstreckungs- oder Verwertungssperre |
+| Paragraf 50 StaRUG | Antrag, aktualisierte Restrukturierungsplanung und sechsmonatiger Finanzplan |
+| Paragraf 51 StaRUG | Anordnungsvoraussetzungen, Schlüssigkeit, Erforderlichkeit und Zustellung |
+| Paragraf 52 StaRUG | Folgeanordnung nach Verlegung des Interessenmittelpunkts |
+| Paragraf 53 StaRUG | Dauer von grundsätzlich bis zu drei Monaten und gesetzliche Verlängerungsfälle |
+| Paragraf 54 StaRUG | Zins-, Wertverlust- und Erlösausgleich bei Verwertungssperren |
+| Paragraf 55 StaRUG | begrenzte Wirkungen auf gegenseitige Verträge |
+| Paragraf 56 StaRUG | Ausnahmen für Finanzsicherheiten und Netting |
+| Paragraf 57 StaRUG | Geschäftsleiterhaftung bei schuldhaft unrichtigen Angaben |
+| Paragraf 58 StaRUG | Aussetzung eines Gläubigerinsolvenzantrags |
+| Paragraf 59 StaRUG | Aufhebung und Ende der Anordnung |
+
+## 2. Antragsvoraussetzungen
+
+### 2.1. Anzeige und Zuständigkeit
+
+Vor Inanspruchnahme der Stabilisierung muss das Restrukturierungsvorhaben nach Paragraf 31 StaRUG beim zuständigen Restrukturierungsgericht angezeigt sein. Paragraf 29 StaRUG bezeichnet die verfügbaren Instrumente; er ist keine Anzeigevorschrift.
+
+### 2.2. Bestimmter Antrag
+
+Bezeichne nach Paragraf 50 Absatz 1 StaRUG:
+
+1. beantragte Vollstreckungs- oder Verwertungssperre,
+2. jeden betroffenen Gläubiger oder den gesetzlich zulässigen Gläubigerkreis,
+3. erfasste Forderungen und Sicherheiten,
+4. beantragte Dauer,
+5. konkrete Gefährdung des Restrukturierungsziels.
+
+### 2.3. Restrukturierungsplanung
+
+Dem Antrag sind nach Paragraf 50 Absatz 2 StaRUG beizufügen:
+
+1. ein tagesaktueller Planentwurf oder ein tagesaktuelles Restrukturierungskonzept nach Paragraf 31 Absatz 2 Satz 1 Nummer 1 StaRUG,
+2. ein Finanzplan für sechs Monate mit fundierter Darstellung der Finanzierungsquellen.
+
+Zusätzlich sind die Erklärungen nach Paragraf 50 Absatz 3 StaRUG abzugeben, insbesondere zu Rückständen bei Arbeitnehmern, Pensionen, Steuern, Sozialversicherung und Lieferanten, früheren Sperren sowie Offenlegungspflichten.
+
+### 2.4. Gerichtliche Prüfung
+
+Nach Paragraf 51 StaRUG müssen Planung und Erklärungen vollständig und schlüssig sein. Die Anordnung scheidet insbesondere aus, wenn wesentliche Angaben unrichtig sind, die Restrukturierung aussichtslos ist, drohende Zahlungsunfähigkeit noch nicht vorliegt oder die Sperre für das Restrukturierungsziel nicht erforderlich ist. Behebbare Mängel können nur eine auf höchstens 20 Tage begrenzte Zwischenanordnung tragen.
+
+## 3. Reichweite und Grenzen
+
+### 3.1. Vollstreckungs- und Verwertungssperre
+
+Paragraf 49 StaRUG erlaubt eine Sperre für Zwangsvollstreckungsmaßnahmen und eine Sperre für die Verwertung bestimmter Rechte an beweglichem Vermögen sowie die Einziehung abgetretener Forderungen. Der Antrag kann sich gegen einzelne, mehrere oder alle Gläubiger richten. Forderungen, die nach Paragraf 4 StaRUG nicht durch einen Plan gestaltet werden können, bleiben ausgenommen.
+
+### 3.2. Sicherheiten und Erlöse
+
+Bei einer Verwertungssperre sind nach Paragraf 54 StaRUG grundsätzlich geschuldete Zinsen und nutzungsbedingter Wertverlust auszugleichen. Erlöse aus der Einziehung sicherungsabgetretener Forderungen oder der Veräußerung beziehungsweise Verarbeitung sicherungsbelasteter beweglicher Sachen sind auszukehren oder unterscheidbar zu verwahren, soweit keine andere Vereinbarung besteht.
+
+### 3.3. Vertragswirkungen
+
+Paragraf 55 StaRUG verhindert unter den gesetzlichen Voraussetzungen, dass ein betroffener Gläubiger allein wegen einer rückständigen Leistung bestimmte Leistungsverweigerungs-, Beendigungs- oder Änderungsrechte ausübt. Das ist weder ein allgemeiner Vertragsstopp noch ein Recht des Schuldners zur einseitigen Vertragsbeendigung. Finanzierungszusagen und gesetzliche Ausnahmen sind gesondert zu prüfen.
+
+### 3.4. Gläubigerinsolvenzantrag
+
+Das Verfahren über einen Gläubigerantrag auf Insolvenzeröffnung wird nach Paragraf 58 StaRUG für die Dauer der Anordnung ausgesetzt. Die eigene Insolvenzantragspflicht der Geschäftsleitung nach Paragraf 15a InsO wird dadurch nicht suspendiert.
+
+## 4. Dauer
+
+1. Erstanordnung: bis zu drei Monate nach Paragraf 53 Absatz 1 StaRUG.
+2. Bei unterbreitetem Planangebot und erwartbarer Annahme innerhalb eines Monats kann die Höchstdauer unter den Voraussetzungen des Paragrafen 53 Absatz 2 StaRUG um einen Monat erweitert werden; die Anordnung richtet sich dann nur gegen Planbetroffene.
+3. Nach beantragter Bestätigung eines angenommenen Plans können Folge- oder Neuanordnungen bis zur Rechtskraft, höchstens aber bis acht Monate nach der Erstanordnung, ergehen, sofern der Plan nicht offensichtlich unbestätigungsfähig ist.
+
+Die Dauer folgt aus Paragraf 53 StaRUG, nicht aus Paragrafen 55 bis 57 StaRUG.
+
+## 5. Antragsgerüst
+
+```text
+An das Amtsgericht [Ort] als Restrukturierungsgericht
+Aktenzeichen: [falls vorhanden]
+
+1. Antrag
+Es wird beantragt, für den Zeitraum vom [Datum] bis [Datum]
+
+1.1. Vollstreckungsmaßnahmen der in Anlage A bezeichneten Gläubiger
+gegen die Schuldnerin zu untersagen und
+
+1.2. die Verwertung der in Anlage B einzeln bezeichneten Rechte
+an beweglichem Vermögen sowie die Einziehung der dort bezeichneten
+abgetretenen Forderungen zu untersagen.
+
+2. Anzeige
+Das Restrukturierungsvorhaben wurde am [Datum] nach Paragraf 31 StaRUG
+angezeigt. Beleg: Anlage C.
+
+3. Restrukturierungsziel und Erforderlichkeit
+[Krise, Ziel, Maßnahmen, konkrete Gefährdung durch Vollstreckung]
+
+4. Drohende Zahlungsunfähigkeit
+[24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO]
+
+5. Restrukturierungsplanung
+[Planentwurf oder Konzept; Verhandlungsstand]
+
+6. Sechsmonatiger Finanzplan
+[Finanzierungsquellen, Rückstände, Fortführung]
+
+7. Gläubiger- und Sicherheitenmatrix
+[Forderung, Titel, Vollstreckungsstand, Sicherheit, beantragte Wirkung]
+
+8. Erklärungen nach Paragraf 50 Absatz 3 StaRUG
+[vollständig]
+```
+
+## 6. Anlagen- und Belegmatrix
+
+| Anlage | Inhalt | Stichtag | Trägt welche Voraussetzung? |
+| --- | --- | --- | --- |
+| A | Gläubiger- und Forderungsliste | [Datum] | Adressatenkreis |
+| B | Sicherheitenregister | [Datum] | Verwertungssperre |
+| C | Anzeige nach Paragraf 31 StaRUG | [Datum] | Instrumentenzugang |
+| D | Planentwurf oder Konzept | [Datum] | Restrukturierungsziel |
+| E | Sechsmonatiger Finanzplan | [Datum] | Fortführungsfinanzierung |
+| F | 24-Monats-Prognose | [Datum] | Paragraf 18 InsO |
+| G | Titel und Vollstreckungsschreiben | [Datum] | Erforderlichkeit |
+| H | Erklärungen nach Paragraf 50 Absatz 3 StaRUG | [Datum] | Vollständigkeit |
+
+## 7. Aufhebung und Haftung
+
+Prüfe laufend Paragraf 59 StaRUG. Die Anordnung ist insbesondere bei Wirkungsverlust der Anzeige, Aufhebungsgründen der Restrukturierungssache, fehlendem Planentwurf oder unzutreffender Planung gefährdet. Sie endet mit Bestätigung oder Versagung der Planbestätigung.
+
+Paragraf 57 StaRUG begründet eine besondere Geschäftsleiterhaftung, wenn eine Stabilisierungsanordnung aufgrund vorsätzlich oder fahrlässig unrichtiger Angaben erwirkt wird. Jede Zahl im Antrag benötigt deshalb Stichtag, Quelle, Bearbeiter und Abstimmungsnachweis.
+
+## 8. Fehlerbremse
+
+1. Paragraf 50 StaRUG nicht als Gläubigerbenachrichtigung bezeichnen.
+2. Paragraf 51 StaRUG nicht als Wirkungsnorm für Sicherheiten bezeichnen.
+3. Paragraf 53 StaRUG als Dauernorm verwenden.
+4. Paragraf 49 StaRUG nicht als pauschales Moratorium für sämtliche Pflichten darstellen.
+5. Ausnahmen des Paragrafen 4 und Finanzsicherheiten nach Paragraf 56 StaRUG prüfen.
+6. Die eigene Antragspflicht nach Paragraf 15a InsO nie als ausgesetzt behandeln.
+7. Rechtsprechung nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle verwenden.
+
+---
+
+## Skill: `kfe-krisenstab-massnahmen-leitfaden`
+
+_Für KFE: Krisenstab Maßnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Krisenfrüherkennung und StaRUG-Management. Route: kfe-krisenstab-massnahmen-leitfaden._
+
+# KFE: Krisenstab Massnahmen
+
+## Aufgabe
+Leitfaden Krisenstab und Sofortmassnahmen: Kommunikation Bank / Lieferant / Mitarbeiter / Mandanten, Treasury, Liquiditaetssteuerung.
+
+## Kaltstart
+Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+
+## Pruefraster
+
+Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+
+1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
+3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+
+## Plugin-Kontext
+Dieser Skill gehoert zum Plugin `krisenfrueherkennung-starug`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+
+## Output-Module
+- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
+- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
+- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
+- Kommentare mit Bearbeiter und Randnummer.
+- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
+
+## Was dieser Skill nicht macht
+- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+---
+
 ## Skill: `start-chronologie-fristen`
 
-_Startet ein Krisen- oder Restrukturierungsmandat ohne Leerlauf, wertet vorhandene Unterlagen zuerst aus und trennt Zahlungsunfähigkeit, Überschuldung, drohende Zahlungsunfähigkeit, Frühwarnpflicht und gerichtliche Instrumente. Liefert Chronologie, Liquiditäts- und Fristenampel, Beleglücken, Organmaßnahmen und den passenden nächsten Fachpfad._
+_Startet ein Krisen- oder Restrukturierungsmandat ohne Leerlauf, wertet vorhandene Unterlagen zuerst aus und trennt Zahlungsunfähigkeit, Überschuldung, drohende Zahlungsunfähigkeit, Frühwarnpflicht und gerichtliche Instrumente._
 
 # 1. Krisenmandat sofort belastbar starten
 
@@ -298,542 +509,744 @@ Jede Bearbeitung endet mit:
 
 ---
 
-## Skill: `rollierende-liquiditaetsplanung-24-monate-template`
+## Skill: `kfe-krisenstab-cross-class`
 
-_Erstellt eine rollierende Liquiditätsplanung für Status, Drei-Wochen-Sicht, 13-Wochen-Steuerung und die regelmäßige 24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO. Ordnet Fälligkeiten, streitige Forderungen, Kreditlinien, Szenarien und Maßnahmen belegbar zu und liefert Modell, Prämissenbuch und Entscheidungsvermerk._
+_Für KFE: Krisenstab Maßnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Krisenfrüherkennung und StaRUG-Management. Route: kfe-krisenstab-cross-class._
 
-# 1. Rollierende Liquiditätsplanung für 24 Monate
+# KFE: Krisenstab Maßnahmen
 
-## 1.1. Arbeitsauftrag
+## Arbeitsweg
 
-Baue aus Kontoauszügen, OPOS, Verträgen, Titeln, Steuer- und Sozialversicherungsdaten sowie Finanzierungsunterlagen eine stichtagsbezogene Liquiditätsplanung. Verwende vorhandene Dateien zuerst. Fehlende Angaben werden als konkrete Nachforderung mit Auswirkung auf Status oder Prognose bezeichnet.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StaRUG; § 1 StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## 1.2. Rechtsrahmen
+## Spezialwissen: KFE: Krisenstab Maßnahmen
+- **Normen-/Quellenanker:** KFE.
 
-1. Paragraf 17 InsO: aktuelle Zahlungsunfähigkeit anhand fälliger Zahlungspflichten und verfügbarer Zahlungsmittel.
-2. Paragraf 18 Absatz 2 InsO: drohende Zahlungsunfähigkeit; in aller Regel 24 Monate Prognosezeitraum.
-3. Paragraf 19 Absatz 2 InsO: Überschuldung und in aller Regel zwölfmonatige Fortführungsprognose.
-4. Paragraf 1 StaRUG: fortlaufende Überwachung bestandsgefährdender Entwicklungen, Gegenmaßnahmen und Organbericht; kein eigener fester 24-Monats-Zeitraum.
-5. Paragraf 29 Absatz 1 StaRUG: gerichtliche Instrumente zur nachhaltigen Beseitigung drohender Zahlungsunfähigkeit.
-6. Paragraf 50 Absatz 2 Nummer 2 StaRUG: gesonderter sechsmonatiger Finanzplan für den Antrag auf Stabilisierungsanordnung.
+## Fallweichen
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
-## 2. Vier Planungsebenen
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-| Ebene | Zweck | Granularität | Rechts- oder Praxisanker |
-| --- | --- | --- | --- |
-| Stichtagsstatus | heutige Deckung fälliger Pflichten | Einzelposten | Paragraf 17 InsO |
-| Drei-Wochen-Sicht | Zahlungsstockung oder Zahlungsunfähigkeit abgrenzen | tag- oder wochenweise | BGH-Linie zu Paragraf 17 InsO |
-| 13-Wochen-Steuerung | operative Zahlungssteuerung und Maßnahmen | wöchentlich | bewährtes Steuerungsmodell, keine gesetzliche Fixfrist |
-| 24-Monats-Prognose | drohende Zahlungsunfähigkeit beurteilen | zunächst wöchentlich, danach monatlich | Paragraf 18 Absatz 2 InsO |
+## Prüfraster
 
-Die Ebenen dürfen nicht durch einen einzigen Monatssaldo ersetzt werden. Jede braucht eigenen Stichtag, eigenen Zweck und nachvollziehbare Quellen.
+Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
-## 3. Datenmodell
+1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
-### 3.1. Verfügbare Zahlungsmittel
+## Plugin-Kontext
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
-Erfasse Kasse, Bankguthaben und tatsächlich frei verfügbare Kreditlinien. Eine Linie ist nur verfügbar, wenn Ziehungsvoraussetzungen erfüllt sind und keine Kündigung, Sperre oder Covenant-Folge entgegensteht. Noch zu verhandelnde Finanzierung ist keine sichere Liquidität, sondern eine Maßnahme mit Eintrittswahrscheinlichkeit und Long-Stop-Datum.
+## Output-Module
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
-### 3.2. Zahlungspflichten
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
-Jeder Abfluss erhält mindestens:
-
-1. Gläubiger und Rechtsgrund.
-2. Brutto- oder Nettobetrag.
-3. Fälligkeit und etwaige Stundung.
-4. Bestandsstatus: unstreitig, streitig nicht tituliert, tituliert, aufschiebend bedingt.
-5. Vollstreckungsstatus.
-6. Beleg und Fundstelle.
-7. Verantwortlicher für rechtliche Klärung.
-
-Nach BGH, Urteil vom 23.01.2025 - IX ZR 229/22, richtet sich die Berücksichtigung einer streitigen nicht titulierten Verbindlichkeit nach der objektiven Rechtslage. Besteht sie objektiv, darf sie nicht mit einer Prozessrisikoquote gekürzt werden; besteht sie objektiv nicht, begründet sie keine Zahlungsunfähigkeit. Bei einem vorläufig vollstreckbaren Titel und eingeleiteter Vollstreckung ist der Nennbetrag in der Liquiditätsprüfung anzusetzen. Unsicherheit wird nicht als beliebiger Prozentabschlag versteckt, sondern durch Rechtsvermerk, Belegstatus und Szenario transparent gemacht.
-
-### 3.3. Zuflüsse
-
-Ordne Forderungen nach Fälligkeit, Einbringlichkeit und tatsächlichem Zahlungstermin. Umsatzplanung ist erst dann Liquidität, wenn Debitorenlaufzeit, Ausfall, Aufrechnung, Skonto und Steuerwirkung berücksichtigt sind.
-
-## 4. Modellstruktur
-
-| Zeile | KW 1 | KW 2 | KW 3 | KW 4 | Monat 2 bis 3 | Monat 4 bis 24 | Quelle |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| Anfangsliquidität | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | Bank/Kasse |
-| Sichere Kundenzahlungen | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | OPOS und Vertrag |
-| Bedingte Zuflüsse | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | Maßnahmenregister |
-| Personal und Sozialversicherung | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | Lohnlauf |
-| Steuern | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | Bescheid/Anmeldung |
-| Lieferanten | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | Kreditoren-OPOS |
-| Finanzierung | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | Kreditvertrag |
-| Streitige Verbindlichkeiten | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | Rechtsvermerk |
-| Endliquidität | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | [EUR] | Formel |
-
-## 5. Prämissen- und Maßnahmenbuch
-
-| Kennung | Annahme oder Maßnahme | Base Case | Stressfall | Beleg | Verantwortlicher | Fällig | Status |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| P-01 | Debitorenlaufzeit | [Tage] | [Tage] | OPOS-Historie | [Name] | [Datum] | [Status] |
-| M-01 | Kreditverlängerung | [Betrag] | [Betrag] | Term Sheet | [Name] | [Datum] | [Status] |
-
-Jede Maßnahme wird nur angesetzt, wenn sie rechtlich und tatsächlich umsetzbar, finanziert und zeitlich passend ist. Der Plan enthält eine Rückfalllogik, falls sie ausbleibt.
-
-## 6. Prüfworkflow
-
-1. Datenstichtag und Bankbestände abstimmen.
-2. OPOS mit Verträgen, Mahnungen, Titeln und Zahlungsverläufen abgleichen.
-3. Fälligkeiten und Stundungen rechtlich prüfen.
-4. Status nach Paragraf 17 InsO ohne Maßnahmenkosmetik feststellen.
-5. Drei-Wochen-Entwicklung und Deckungslücke berechnen.
-6. 13-Wochen-Steuerung mit sicheren und bedingten Maßnahmen trennen.
-7. Regelmäßige 24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO mit Base Case und Stressfall aufstellen.
-8. Zwölfmonats-Fortführungsprognose nach Paragraf 19 Absatz 2 InsO gesondert beurteilen.
-9. Plan-Ist-Abweichung, neue Erkenntnisse und Versionshistorie dokumentieren.
-10. Geschäftsleitungsbeschluss mit Status, Maßnahmen, Organbericht und Wiedervorlage erstellen.
-
-## 7. Ergebnisvermerk
-
-```text
-Stichtag: [Datum]
-Datenstand: [Datum/Uhrzeit]
-
-1. Paragraf 17 InsO
-Fällige Zahlungspflichten: EUR [Betrag]
-Verfügbare Zahlungsmittel: EUR [Betrag]
-Deckungslücke: EUR [Betrag] beziehungsweise [Prozent]
-Ergebnis und Begründung: [Text]
-
-2. Paragraf 18 InsO
-Regelmäßiger Prognosezeitraum: [von/bis]
-Erster voraussichtlicher Unterdeckungszeitpunkt: [Datum]
-Tragende Annahmen: [Text]
-Ergebnis und Begründung: [Text]
-
-3. Paragraf 19 InsO
-Fortführungsprognose für den maßgeblichen Zeitraum: [Ergebnis]
-
-4. Maßnahmen und Entscheidung
-[Maßnahme, Betrag, Eintrittsvoraussetzung, Verantwortlicher, Termin]
-
-5. Offene Rechts- und Belegfragen
-[Frage, Auswirkung, Nachforderung]
-```
-
-## 8. Fehlerbremse
-
-1. Paragraf 1 StaRUG nicht als Quelle eines festen 24-Monats-Zeitraums bezeichnen.
-2. OPOS-Summen nie ohne Einzelposten, Fälligkeit und Beleg übernehmen.
-3. Streitige Verbindlichkeiten nicht mit frei gewählten Prozessrisikoquoten kürzen.
-4. Noch nicht vereinbarte Finanzierung nicht als freie Linie ausweisen.
-5. Planwert, Buchwert und Liquiditätswirkung nicht vermischen.
-6. Einen negativen Saldo nicht durch Maßnahmen beseitigen, deren Vollzug nach Eintritt der Unterdeckung liegt.
-7. Bei möglicher Insolvenzreife unverzüglich Paragraf 15a InsO prüfen; die Maximalfristen betragen drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung.
-
-## 9. Quellenregel
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden. Berufsständische Standards nur in der tatsächlich vorliegenden Fassung und als Methodenstandard kennzeichnen.
+## Was dieser Arbeitsgang nicht macht
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ---
 
-## Skill: `paragraph-102-starug-warnpflicht-bei-rechtsberatern`
+## Skill: `restrukturierungsplan-architektur-rollierende`
 
-_Prüft den eng begrenzten Hinweis nach Paragraf 102 StaRUG bei der Erstellung eines Jahresabschlusses. Trennt den gesetzlichen Tatbestand von sonstigen Mandatspflichten, ordnet offenkundige Insolvenzindizien und Mandantenkenntnis belegt ein und liefert Warnschreiben, Aktenvermerk sowie eine belastbare Anschlussroute._
+_Baut einen Restrukturierungsplan nach Paragrafen 2 bis 28 StaRUG belastbar auf: Planbetroffene, darstellender und gestaltender Teil, Auswahl, Gruppen, Gleichbehandlung, Anlagen, Abstimmung, Cram-Down und Bestätigung._
 
-# 1. Hinweis nach Paragraf 102 StaRUG
-
-## 1.1 Direktstart
-
-Lies zuerst Auftragsschreiben, Jahresabschlussunterlagen, Fortführungsannahmen, Saldenlisten, offene Posten, Mahnungen, Vollstreckungsunterlagen, frühere Hinweise und Gesprächsvermerke. Frage nur nach Tatsachen, die aus den vorhandenen Dateien nicht hervorgehen und für den nächsten Arbeitsschritt entscheidend sind.
-
-Liefere zunächst eines dieser Arbeitsprodukte:
-
-1. Tatbestandsvermerk zu Paragraf 102 StaRUG.
-2. Konkretes Hinweisschreiben an den Mandanten.
-3. Aktenvermerk mit Beleg- und Zugangsplan.
-4. Abgrenzungsvermerk, wenn Paragraf 102 StaRUG nicht greift, aber andere Mandatspflichten zu prüfen sind.
-
-## 1.2 Tatbestand ohne Ausweitung
-
-Paragraf 102 StaRUG greift nur, wenn sämtliche Voraussetzungen belegt sind:
-
-| Tatbestandsmerkmal | Leitfrage | Mindestbeleg |
-| --- | --- | --- |
-| Berufsträger | Handelt ein Steuerberater, Steuerbevollmächtigter, Wirtschaftsprüfer, vereidigter Buchprüfer oder Rechtsanwalt? | Auftrag und verantwortlicher Bearbeiter |
-| Jahresabschlusserstellung | Gehört die Erstellung eines Jahresabschlusses zum konkreten Auftrag? | Auftragsschreiben, Honorarabrede, Arbeitspapiere |
-| Möglicher Insolvenzgrund | Deuten offenkundige Tatsachen oder Rechtsfragen auf einen möglichen Insolvenzgrund nach den Paragrafen 17 bis 19 InsO hin? | konkrete Zahlen, Fälligkeiten, Titel, Fortführungsannahmen |
-| Offenkundigkeit | Ergeben sich die Anhaltspunkte ohne insolvenzrechtliche Sonderermittlung aus den verfügbaren Unterlagen und bekannten Umständen? | Fundstelle und Erkenntnisdatum |
-| Vermutete Unkenntnis | Muss der Berufsträger annehmen, dass dem Mandanten die mögliche Insolvenzreife nicht bewusst ist? | bisherige Kommunikation, Organprotokolle, fehlende Prüfung |
-
-Eine laufende Buchführung, Monats-BWA, Lohnabrechnung, Due Diligence oder ein sonstiges Beratungsmandat löst Paragraf 102 StaRUG für sich allein nicht aus. Entsteht dort ein Krisensignal, sind gesonderte vertragliche und berufsrechtliche Pflichten zu prüfen. Diese Prüfung darf nicht als gesetzlicher Hinweis nach Paragraf 102 StaRUG ausgegeben werden, wenn kein Auftrag zur Jahresabschlusserstellung besteht.
-
-## 1.3 Insolvenzindizien richtig einordnen
-
-Ordne jedes Signal einem möglichen Insolvenzgrund zu, ohne aus einem Bilanz- oder Buchungswert vorschnell Insolvenzreife abzuleiten:
-
-| Signal | Prüfspur | Fehlerbremse |
-| --- | --- | --- |
-| Nicht gedeckter Fehlbetrag oder negatives Eigenkapital | Paragraf 19 InsO und Fortführungsannahme nach Paragraf 252 Absatz 1 Nummer 2 HGB | bilanzielle Unterdeckung ist nicht automatisch insolvenzrechtliche Überschuldung |
-| Dauerhaft überfällige Verbindlichkeiten, Vollstreckungen, Rücklastschriften | Paragraf 17 InsO, Fälligkeit, ernsthaftes Einfordern, verfügbare Mittel | keine starre Prozent- oder Altersregel als alleinigen Nachweis verwenden |
-| Auslaufende Kreditlinie oder sichere künftige Finanzierungslücke | Paragraf 18 InsO mit regelmäßigem 24-Monats-Zeitraum | Paragraf 18 InsO ist keine Insolvenzantragspflicht |
-| Zweifel an Unternehmensfortführung | Fortführungswerte und belastbare Fortführungsprognose | der Abschlussersteller schuldet ohne Zusatzauftrag keine vollständige Insolvenzreifeprüfung |
-
-Trenne stets:
-
-1. beobachtete Tatsache,
-2. Belegstelle,
-3. mögliche rechtliche Bedeutung,
-4. ungeklärte Annahme,
-5. erforderliche Prüfung durch Geschäftsleitung oder spezialisierten Berater.
-
-## 1.4 Inhalt des Hinweises
-
-Das Schreiben muss die konkrete Warnfunktion erfüllen. Es enthält:
-
-1. Anlass und Umfang des Jahresabschlussauftrags.
-2. Tatsachen und Unterlagen, aus denen sich die offenkundigen Anhaltspunkte ergeben.
-3. Den Hinweis auf einen möglichen Insolvenzgrund nach Paragraf 17, 18 oder 19 InsO, ohne ein ungeprüftes Endergebnis vorzugeben.
-4. Die daran anknüpfenden Prüfungs-, Überwachungs- und gegebenenfalls Antragspflichten der Geschäftsleiter und Mitglieder der Überwachungsorgane.
-5. Die Aufforderung zu einer sofortigen fachkundigen Prüfung, wenn Zahlungsunfähigkeit oder Überschuldung möglich erscheint.
-6. Einen dokumentierbaren Übermittlungsweg und eine Wiedervorlage.
-
-Paragraf 102 StaRUG bestimmt keine feste Antwortfrist von sieben oder vierzehn Tagen und schreibt keine bestimmte Versandart vor. Bestimme Dringlichkeit und Wiedervorlage nach dem konkreten Insolvenzrisiko. Bei möglicher bereits eingetretener Zahlungsunfähigkeit oder Überschuldung ist ein bloßer Routinetermin ungeeignet.
-
-## 1.5 Muster für ein tatbestandsgebundenes Hinweisschreiben
-
-```text
-[Briefkopf des Berufsträgers]
-
-[Ort], [Datum]
-
-[Mandant und Geschäftsleitung]
-[Anschrift]
-
-Unser Zeichen: [Zeichen]
-Betreff: Jahresabschluss zum [Stichtag] - Hinweis auf einen möglichen
-Insolvenzgrund und die Pflichten der Geschäftsleitung
-
-Sehr geehrte Damen und Herren,
-
-wir sind mit der Erstellung des Jahresabschlusses zum [Stichtag]
-beauftragt. Aus den uns hierzu vorliegenden Unterlagen ergeben sich
-folgende offenkundige Anhaltspunkte:
-
-1. [Tatsache, Betrag, Stichtag und genaue Unterlage]
-2. [Tatsache, Betrag, Stichtag und genaue Unterlage]
-3. [gegebenenfalls widersprechende oder noch fehlende Information]
-
-Diese Umstände können auf einen Insolvenzgrund nach Paragraf [17, 18
-oder 19] InsO hindeuten. Damit ist noch keine abschließende Feststellung
-der Insolvenzreife verbunden. Die Geschäftsleitung muss die mögliche
-Insolvenzreife und die daraus folgenden Pflichten unverzüglich fachkundig
-prüfen lassen.
-
-Bei Zahlungsunfähigkeit oder Überschuldung ist ein Antrag nach Paragraf
-15a InsO ohne schuldhaftes Zögern zu stellen. Die dort genannten
-Höchstzeiträume von drei Wochen bei Zahlungsunfähigkeit und sechs Wochen
-bei Überschuldung sind keine erlaubten Wartefristen. Zahlungen nach
-Eintritt der Insolvenzreife sind zusätzlich an Paragraf 15b InsO zu
-messen.
-
-Bitte lassen Sie uns bis [risikogerecht bestimmter Zeitpunkt] den Erhalt
-und den Ansprechpartner für die sofortige Prüfung bestätigen. Für die
-Prüfung fehlen derzeit insbesondere [Unterlagen oder Entscheidungen].
-
-Mit freundlichen Grüßen
-
-[Name und Berufsbezeichnung]
-
-Anlagen:
-1. [Unterlage]
-2. [Unterlage]
-```
-
-## 1.6 Rechtsprechungsanker
-
-1. BGH, Urteil vom 26. Januar 2017, IX ZR 285/14: Der mit der Erstellung eines Jahresabschlusses für eine GmbH beauftragte Steuerberater muss bei offenkundigen Anhaltspunkten auf einen möglichen Insolvenzgrund und die Prüfungspflicht des Geschäftsführers hinweisen, wenn er annehmen muss, dass dem Mandanten die mögliche Insolvenzreife nicht bewusst ist. Ohne gesonderten Auftrag schuldet er jedoch keine umfassende Suche nach Insolvenzgründen und keine eigene Fortführungsprognose.
-2. BGH, Urteil vom 29. Juni 2023, IX ZR 56/22: Die Hinweis- und Warnpflicht des Rechtsberaters bei möglichem Insolvenzgrund kann den Geschäftsleiter, auch einen faktischen Geschäftsleiter, in den Schutzbereich des Mandatsvertrags einbeziehen. Erforderlich bleibt ein Näheverhältnis zur geschuldeten Hauptleistung; Drittschutz und Haftung treten nicht automatisch ein.
-
-Primärquellen:
-
-- [Paragraf 102 StaRUG](https://www.gesetze-im-internet.de/starug/__102.html)
-- [BGH IX ZR 285/14](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2017-1&Gericht=bgh&Seite=1&anz=231&pos=35)
-- [BGH IX ZR 56/22](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-6-29&Gericht=bgh&anz=16&nr=134407&pos=12)
-
-## 1.7 Dokumentation und Beweis
-
-Führe einen Aktenvermerk mit:
-
-1. Auftrag und erfasster Abschlussperiode.
-2. Erkenntnisdatum, Bearbeiter und genaue Fundstellen.
-3. geprüften Tatbestandsmerkmalen des Paragrafen 102 StaRUG.
-4. bekannten Hinweisen auf die Kenntnis oder Unkenntnis des Mandanten.
-5. Wortlaut, Anlagen, Versandweg und Zugangsnachweis des Hinweises.
-6. Reaktion des Mandanten und risikogerechter Wiedervorlage.
-7. sauberer Trennung zwischen gesicherten Tatsachen, Annahmen und fachlich noch zu prüfenden Fragen.
-
-## 1.8 Qualitätskontrolle
-
-Vor Ausgabe prüfen:
-
-1. Kein gesetzlicher Hinweis ohne Auftrag zur Jahresabschlusserstellung.
-2. Keine automatische Gleichsetzung von Krisensignal und Insolvenzreife.
-3. Keine erfundene gesetzliche Antwort- oder Warnfrist.
-4. Paragraf 1 StaRUG als Pflicht der Geschäftsleitung, Paragraf 102 StaRUG als begrenzte Berufsträgerpflicht behandeln.
-5. Höchstfristen nach Paragraf 15a InsO nicht als Wartefrist darstellen.
-6. Entscheidung, Datum, Aktenzeichen und Aussageumfang vor Verwendung in der Primärquelle prüfen.
-7. Ergebnis mit Risiko, Beleglage und nächstem konkreten Schritt schließen.
-
----
-
-## Skill: `drohende-zahlungsunfaehigkeit`
-
-_Prüft drohende Zahlungsunfähigkeit nach Paragraf 18 InsO aus Liquiditätsstatus, Fälligkeiten und regelmäßig 24-monatiger Prognose. Grenzt Paragrafen 17 und 19 InsO ab, behandelt streitige und titulierte Forderungen korrekt und liefert Statusmemo, Szenarien, Belegmatrix sowie Entscheidung über StaRUG-Instrumente._
-
-# 1. Drohende Zahlungsunfähigkeit nach Paragraf 18 InsO
+# 1. Restrukturierungsplan-Architektur
 
 ## 1.1. Arbeitsauftrag
 
-Bestimme stichtagsbezogen, ob der Schuldner heute zahlungsfähig ist und voraussichtlich seine bestehenden Zahlungspflichten bei Fälligkeit erfüllen kann. Trenne aktuelle Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung in drei eigenständigen Prüfungen.
+Erstelle oder prüfe einen Restrukturierungsplan vom gestaltbaren Rechtsverhältnis bis zum Vollzug. Beginne mit dem vorhandenen Plan, Datenraum und Finanzmodell. Liefere zuerst die Planlücken, die Gruppen- und Stimmrechtslage sowie den nächsten entscheidungsreifen Baustein; frage nicht erneut nach Unterlagen, die bereits im Ordner liegen.
 
-Lies zuerst Bankstände, OPOS, Verträge, Titel, Vollstreckungsunterlagen, Kreditlinien und Planungsdateien. Liefere einen vorläufigen Status aus den vorhandenen Belegen, bevor du Rückfragen stellst.
+## 1.2. Normenkarte
+
+| Station | Norm | Kernfrage |
+| --- | --- | --- |
+| Gestaltbarkeit | Paragrafen 2 bis 4 StaRUG | Welche Forderungen, Sicherheiten, Drittsicherheiten und Beteiligungsrechte dürfen gestaltet werden? |
+| Planstruktur | Paragraf 5 StaRUG | Sind darstellender und gestaltender Teil sowie Anlagen vollständig? |
+| Darstellender Teil | Paragraf 6 StaRUG | Sind Krise, Maßnahmen, Auswirkungen und Vergleichsrechnung nachvollziehbar? |
+| Gestaltender Teil | Paragraf 7 StaRUG | Welche Rechtsänderung trifft welchen Planbetroffenen? |
+| Auswahl | Paragraf 8 StaRUG | Ist die Einbeziehung oder Nichteinbeziehung sachgerecht begründet? |
+| Gruppen | Paragraf 9 StaRUG | Sind unterschiedliche Rechtsstellungen getrennt und wirtschaftliche Untergruppen sachgerecht? |
+| Gleichbehandlung | Paragraf 10 StaRUG | Erhält jedes Mitglied einer Gruppe das gleiche Angebot oder liegt wirksame Zustimmung vor? |
+| Anlagen | Paragrafen 14 und 15 StaRUG | Liegen Bestandsfähigkeitsprognose, Vermögensübersicht, Finanzplan und Erklärungen vor? |
+| Planangebot | Paragrafen 17 bis 22 StaRUG | Sind Hinweise, Fristen, Erörterung und Dokumentation ordnungsgemäß? |
+| Stimmrecht und Mehrheit | Paragrafen 24 und 25 StaRUG | Sind Wertansatz und drei Viertel der Stimmrechte je Gruppe richtig berechnet? |
+| Gruppen-Cram-down | Paragrafen 26 bis 28 StaRUG | Sind Ohne-Plan-Test, Planwertbeteiligung, Rangfolge und Gruppenmehrheit erfüllt? |
+| Gerichtliche Instrumente | Paragrafen 29 bis 31 StaRUG | Welches Instrument wird benötigt und ist das Vorhaben vorher angezeigt? |
+| Bestätigung und Wirkung | Paragrafen 60 bis 67 StaRUG | Liegen Versagungsgründe, Minderheitenschutz oder Beschwerderisiken vor? |
+
+## 2. Planfähigkeit und Auswahl
+
+### 2.1. Gestaltbare Rechte
+
+Prüfe Paragrafen 2 und 3 StaRUG rechtsverhältnisbezogen. Gestaltbar sind insbesondere Restrukturierungsforderungen, Absonderungsanwartschaften, bestimmte Bedingungen mehrseitiger Finanzierungsverhältnisse, Beteiligungsrechte und unter den Voraussetzungen des Gesetzes gruppeninterne Drittsicherheiten. Bei gegenseitigen Verträgen ist eine Forderung nur insoweit gestaltbar, als die Gegenleistung bereits erbracht ist.
+
+Nicht gestaltbar sind nach Paragraf 4 StaRUG insbesondere Arbeitnehmerforderungen einschließlich betrieblicher Altersversorgung, Forderungen aus vorsätzlich begangenen unerlaubten Handlungen und Forderungen nach Paragraf 39 Absatz 1 Nummer 3 InsO. Bei natürlichen Personen bleiben außerdem nichtunternehmerische Forderungen und Absonderungsanwartschaften außerhalb des Plans.
+
+Steuer- und Sozialversicherungsforderungen sind nicht pauschal allein wegen ihres öffentlich-rechtlichen Charakters ausgeschlossen. Prüfe ihre konkrete Gestaltbarkeit, die Auswahl nach Paragraf 8 StaRUG und die Vollzugsfolgen.
+
+### 2.2. Auswahl der Planbetroffenen
+
+Dokumentiere für jedes einbezogene und nicht einbezogene Rechtsverhältnis:
+
+1. Rechtsgrund, Inhaber, Betrag, Fälligkeit und Sicherheit.
+2. Gestaltbarkeit nach Paragrafen 2 bis 4 StaRUG.
+3. Auswahlkriterium nach Paragraf 8 StaRUG.
+4. Sachlicher Bezug zur Krisenursache und zum Restrukturierungsziel.
+5. Auswirkung auf Gleichbehandlung, Finanzierung und Vergleichsrechnung.
+
+## 3. Planaufbau
+
+### 3.1. Darstellender Teil nach Paragraf 6 StaRUG
+
+Der darstellende Teil muss die für Zustimmung und gerichtliche Bestätigung erheblichen Informationen enthalten:
+
+1. Ausgangslage und Krisenursachen.
+2. Bereits ergriffene und noch erforderliche Maßnahmen.
+3. Restrukturierungsziel und Umsetzungslogik.
+4. Auswirkungen auf alle Planbetroffenen.
+5. Vergleichsrechnung nach Paragraf 6 Absatz 2 StaRUG.
+6. Maßnahmen außerhalb des gestaltenden Teils.
+
+Sieht der Plan die Fortführung vor, ist auch im Ohne-Plan-Szenario grundsätzlich Fortführung zu unterstellen. Eine Liquidation darf nur angesetzt werden, wenn Verkauf oder anderweitige Fortführung aussichtslos sind.
+
+### 3.2. Gestaltender Teil nach Paragraf 7 StaRUG
+
+Ordne jede Rechtsänderung einer Gruppe und einem konkreten Recht zu. Bestimme mindestens Kürzung, Stundung, Verzinsung, Sicherung, Bedingungen, Fälligkeit, Vollzugsdatum und Rückfallregel. Bei einem Debt-to-Equity-Swap darf ein Gläubiger nicht gegen seinen Willen zur Übernahme von Anteilen gezwungen werden.
+
+### 3.3. Anlagen nach Paragrafen 14 und 15 StaRUG
+
+Füge bei Bedarf bei:
+
+1. Begründete Erklärung zur Beseitigung der drohenden Zahlungsunfähigkeit und zur Bestandsfähigkeit.
+2. Vermögensübersicht bei Wirksamwerden des Plans.
+3. Aufwands-, Ertrags- und Zahlungsplanung für den vorgesehenen Befriedigungszeitraum.
+4. Erklärung persönlich haftender Gesellschafter zur Fortführung.
+5. Zustimmung eines Gläubigers zur Übernahme von Anteilen.
+6. Verpflichtungserklärung eines Dritten zu einem Planbeitrag.
+7. Zustimmung des sicherungsgebenden verbundenen Unternehmens bei Eingriffen in gruppeninterne Drittsicherheiten.
+
+Der Planungszeitraum nach Paragraf 14 richtet sich nach dem Befriedigungszeitraum des Plans. Die regelmäßige 24-Monats-Prognose für drohende Zahlungsunfähigkeit folgt dagegen aus Paragraf 18 Absatz 2 InsO.
+
+## 4. Gruppen und Mehrheiten
+
+### 4.1. Gruppenbildung nach Paragraf 9 StaRUG
+
+Trenne zwingend nach Rechtsstellung: Absonderungsanwartschaften, einfache Restrukturierungsgläubiger, jede betroffene Nachrangklasse, Anteilsinhaber und gegebenenfalls Rechte aus gruppeninternen Drittsicherheiten. Weitere Untergruppen sind nur nach sachgerechten wirtschaftlichen Interessen zulässig. Kleingläubiger sind innerhalb der jeweiligen gesetzlichen Gruppe in einer eigenen Gruppe zusammenzufassen.
+
+### 4.2. Gleichbehandlung nach Paragraf 10 StaRUG
+
+Innerhalb jeder Gruppe sind gleiche Rechte anzubieten. Eine Belastungsabweichung verlangt die Zustimmung jedes benachteiligten Gruppenmitglieds. Nebenabreden über nicht im Plan vorgesehene Abstimmungsvorteile sind nichtig.
+
+### 4.3. Stimmrechte und Mehrheiten
+
+Stimmrechte sind nach Paragraf 24 StaRUG zu bewerten. Bedingte, unbestimmte, fremdwährungsbezogene, wiederkehrende oder teilweise besicherte Rechte benötigen einen nachvollziehbaren Wertansatz. Nach Paragraf 25 StaRUG müssen auf die Zustimmenden mindestens drei Viertel der Stimmrechte der Gruppe entfallen.
+
+Erreicht eine Gruppe diese Mehrheit nicht, prüfe Paragrafen 26 bis 28 StaRUG. Eine einzige zustimmende Gruppe genügt nur bei insgesamt zwei Gruppen; ansonsten ist die Mehrheit der abstimmenden Gruppen erforderlich. Zustimmende Gruppen dürfen nicht ausschließlich aus Anteilsinhabern oder nachrangigen Restrukturierungsgläubigern bestehen.
+
+## 5. Abstimmungs- und Gerichtsweg
+
+### 5.1. Außergerichtliches Planangebot
+
+Das Planangebot nach Paragraf 17 StaRUG muss Plan, Anlagen, Kosteninformation, Einbeziehung, Gruppenzuordnung und Stimmrecht offenlegen. Die Annahmefrist beträgt nach Paragraf 19 StaRUG grundsätzlich mindestens 14 Tage. Der Schuldner dokumentiert Ablauf und Ergebnis nach Paragraf 22 StaRUG.
+
+Ein nur von Zustimmenden angenommener Plan kann im vereinbarten Umfang vertraglich wirken. Die gesetzlichen Wirkungen gegenüber ablehnenden oder nicht teilnehmenden Planbetroffenen treten erst mit gerichtlicher Bestätigung nach Paragraf 67 StaRUG ein.
+
+### 5.2. Gerichtliche Planabstimmung
+
+Paragraf 23 StaRUG eröffnet die gerichtliche Abstimmung nach Paragrafen 45 und 46 StaRUG. Vor der Inanspruchnahme eines gerichtlichen Instruments muss das Restrukturierungsvorhaben nach Paragraf 31 StaRUG angezeigt sein.
+
+### 5.3. Gerichtliche Bestätigung
+
+1. Antrag und Nachweise nach Paragraf 60 StaRUG.
+2. Anhörung nach Paragraf 61 StaRUG.
+3. Versagungsgründe nach Paragraf 63 StaRUG.
+4. Individueller Minderheitenschutz nach Paragraf 64 StaRUG.
+5. Sofortige Beschwerde nach Paragraf 66 StaRUG.
+6. Wirkungen der Bestätigung nach Paragraf 67 StaRUG.
+
+## 6. Arbeitsprodukte
+
+### 6.1. Gruppenmatrix
+
+| Planbetroffener | Recht und Rang | Sicherheit | Auswahlgrund | Gruppe | Stimmrecht | Planleistung | Ohne-Plan-Wert |
+| --- | --- | --- | --- | --- | ---: | ---: | ---: |
+| [Name] | [Recht] | [Sicherheit] | [Paragraf 8] | [Gruppe] | [EUR] | [EUR] | [EUR] |
+
+### 6.2. Qualitätsgate
+
+1. Sind alle ausgeschlossenen Rechte nach Paragraf 4 StaRUG aus dem Plan entfernt?
+2. Ist jede Auswahlentscheidung nach Paragraf 8 StaRUG begründet?
+3. Stimmen Gruppenmatrix, Gläubigerliste, Finanzmodell und gestaltender Teil betragsgenau überein?
+4. Bildet die Vergleichsrechnung die realistische beste Alternative ohne Plan ab?
+5. Sind Drittbeiträge rechtlich gesichert und als Anlage dokumentiert?
+6. Sind Stimmrechtsstreit, Widerspruch und Schlechterstellungsrüge protokolliert?
+7. Sind Versagungsgründe und Beschwerderisiken als Gegenposition geprüft?
+
+## 7. Rechtsprechungsanker
+
+1. BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme; keine materielle Bestätigung des Plans. Für Paragraf 66 Absatz 2 Nummer 3 StaRUG müssen wesentliche Schlechterstellung und Alternativszenario substantiiert werden.
+2. BGH, Beschluss vom 23.04.2026 - IX ZB 18/25: Bei Insolvenzreife während der Restrukturierung trägt der Schuldner die Tatsachen für ein ausnahmsweises Absehen von der Aufhebung nach Paragraf 33 Absatz 2 StaRUG; ungesicherte freiwillige Drittbeiträge reichen nicht als belastbare Planfinanzierung.
+
+Weitere Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verwenden.
+
+---
+
+## Skill: `cross-class-cram-down-und-absolute-priority`
+
+_Prüft den Cross-Class-Cram-Down nach Paragrafen 26 bis 28 StaRUG gruppengenau: Ohne-Plan-Vergleich, Planwertbeteiligung, Gruppenmehrheit, Rangfolge, gesetzliche Ausnahmen und Minderheitenschutz._
+
+# 1. Cross-Class-Cram-Down und Rangfolge nach dem StaRUG
+
+## 1.1. Arbeitsauftrag
+
+Prüfe, ob die fehlende Zustimmung einer Abstimmungsgruppe nach Paragraf 26 StaRUG ersetzt werden kann. Trenne strikt zwischen der gruppenübergreifenden Zustimmungsfiktion nach Paragrafen 26 bis 28 StaRUG, dem individuellen Minderheitenschutz nach Paragraf 64 StaRUG und der gerichtlichen Bestätigung nach Paragrafen 60 bis 67 StaRUG.
+
+Lies zuerst Plan, Anlagen, Abstimmungsdokumentation und Bewertungsunterlagen. Frage nur nach fehlenden Zahlen oder Belegen, die eine der gesetzlichen Voraussetzungen verändern.
 
 ## 1.2. Sofortausgabe
 
-| Prüfung | Stichtag oder Zeitraum | Ergebnis | Tragender Beleg | Kritische Lücke | Nächster Schritt |
-| --- | --- | --- | --- | --- | --- |
-| Paragraf 17 InsO | [Datum und drei Wochen] | [ja/nein/offen] | [Fundstelle] | [Lücke] | [Handlung] |
-| Paragraf 18 InsO | [regelmäßig 24 Monate] | [ja/nein/offen] | [Fundstelle] | [Lücke] | [Handlung] |
-| Paragraf 19 InsO | [regelmäßig zwölf Monate] | [ja/nein/offen] | [Fundstelle] | [Lücke] | [Handlung] |
+Liefere zuerst eine Tabelle mit diesen Spalten:
 
-## 2. Tatbestand und Abgrenzung
+| Gruppe | Stimmrechte | Zustimmung nach Paragraf 25 | Ohne-Plan-Stellung | Planwertbeteiligung | Rangtest | Ergebnis |
+| --- | ---: | ---: | ---: | ---: | --- | --- |
+| [Gruppe] | [Betrag oder Wert] | [Prozent] | [EUR] | [EUR] | [bestanden/offen] | [angenommen/Paragraf 26 prüfen] |
 
-### 2.1. Paragraf 18 Absatz 2 InsO
+Danach folgen nur die tragenden Rechenannahmen, die stärkste Gegenposition, die Beleglücken und der nächste gerichtliche Schritt.
 
-Drohende Zahlungsunfähigkeit liegt vor, wenn der Schuldner voraussichtlich nicht in der Lage sein wird, die bestehenden Zahlungspflichten im Zeitpunkt ihrer Fälligkeit zu erfüllen. In aller Regel ist ein Prognosezeitraum von 24 Monaten zugrunde zu legen.
+## 2. Normenarchitektur
 
-Das Wort voraussichtlich verlangt eine überwiegende Eintrittswahrscheinlichkeit. Der Prozentwert ist keine Rechenfiktion: Entscheidend sind belastbare Zahlungszeitpunkte, Maßnahmen, Finanzierungsvoraussetzungen und Szenarien.
+1. Paragraf 6 Absatz 2 StaRUG verlangt im darstellenden Teil die Vergleichsrechnung. Bei einer im Plan vorgesehenen Fortführung ist grundsätzlich auch für das Ohne-Plan-Szenario von Fortführung auszugehen; nur bei aussichtslosem Verkauf oder aussichtsloser anderweitiger Fortführung darf davon abgewichen werden.
+2. Paragraf 9 StaRUG regelt die Gruppenbildung nach Rechtsstellung; Paragraf 10 StaRUG die Gleichbehandlung innerhalb der Gruppe.
+3. Paragraf 25 StaRUG verlangt in jeder Gruppe mindestens drei Viertel der Stimmrechte.
+4. Paragraf 26 StaRUG fingiert unter den dort genannten Voraussetzungen die Zustimmung einer ablehnenden Gruppe.
+5. Paragraf 27 StaRUG konkretisiert die angemessene Beteiligung am Planwert und bildet die gesetzliche Rangfolge ab.
+6. Paragraf 28 StaRUG enthält eng begrenzte Ausnahmen von den Rangregeln des Paragrafen 27 StaRUG.
+7. Paragraf 63 StaRUG regelt die Versagung der Bestätigung; Paragraf 64 StaRUG schützt den einzelnen widersprechenden Planbetroffenen vor voraussichtlicher Schlechterstellung.
+8. Paragraf 66 StaRUG regelt die sofortige Beschwerde; Paragraf 67 StaRUG die Wirkungen der Bestätigung.
 
-### 2.2. Paragraf 17 InsO zuerst ausschließen
+Es gibt im StaRUG keinen eigenständigen Missbrauchs- oder Obstruktionstatbestand in Paragraf 31. Paragraf 31 regelt die Anzeige des Restrukturierungsvorhabens und die Rechtshängigkeit der Restrukturierungssache.
 
-Vor jeder StaRUG-Strategie ist ein aktueller Liquiditätsstatus zu erstellen. Berücksichtige verfügbare Zahlungsmittel und fällige Zahlungspflichten einzelpostengenau. Die BGH-Rechtsprechung zur Zehn-Prozent-Schwelle und zur Drei-Wochen-Betrachtung ist eine wertende Abgrenzung zwischen Zahlungsstockung und Zahlungsunfähigkeit, kein Freibrief, jede kleinere Lücke zu ignorieren.
+## 3. Prüfung nach Paragraf 26 StaRUG
 
-Nach BGH, Urteil vom 24.05.2005 - IX ZR 123/04, spricht eine innerhalb von drei Wochen nicht nahezu vollständig zu schließende Liquiditätslücke von zehn Prozent oder mehr regelmäßig für Zahlungsunfähigkeit. Unterhalb dieser Größenordnung bleibt zu prüfen, ob sich die Lücke absehbar vergrößert oder ausnahmsweise ebenfalls dauerhaft ist.
+### 3.1. Ausgangspunkt
 
-### 2.3. Streitige Verbindlichkeiten
+Ermittle zunächst für jede abstimmende Gruppe das Stimmrecht und das Ergebnis nach Paragrafen 24 und 25 StaRUG. Nur bei einer verfehlten Gruppenmehrheit stellt sich die Frage nach Paragraf 26 StaRUG.
 
-BGH, Urteil vom 23.01.2025 - IX ZR 229/22:
+### 3.2. Keine Schlechterstellung der Gruppe
 
-1. Zahlungsunfähigkeit ist ein objektiver Zustand.
-2. Bei streitigen nicht titulierten Verbindlichkeiten entscheidet die objektive Rechtslage.
-3. Eine objektiv bestehende fällige Verbindlichkeit wird nicht mit einer Prozessrisikoquote gekürzt.
-4. Eine objektiv nicht bestehende oder nicht fällige Verbindlichkeit bleibt außer Ansatz.
-5. Bei einem vorläufig vollstreckbaren Titel und eingeleiteter Vollstreckung ist der Nennbetrag in die Liquiditätsprüfung einzustellen.
+Die Mitglieder der ablehnenden Gruppe müssen durch den Plan voraussichtlich mindestens so stehen wie ohne Plan. Die Rechnung muss den rechtlich und wirtschaftlich realistischen nächstbesten Verlauf abbilden, nicht automatisch eine Zerschlagung. Prüfe insbesondere:
 
-Wer eine geltend gemachte Forderung nicht berücksichtigt, dokumentiert Rechtsgrund, Vertragsauslegung, Fälligkeit, Belege und Gegenargumente. Ein Gutachten kann den Kenntnis- und Sorgfaltsstand der Geschäftsleitung stützen, ändert aber nicht den objektiven Bestand der Forderung und garantiert keine Entlastung in einem späteren Haftungsprozess.
+1. Fortführung, Verkauf, Insolvenzplan und Regelinsolvenz als ernsthafte Alternativen.
+2. Bewertungsstichtag, Unternehmenswert, Sicherheitenwerte, Verfahrenskosten und Zeitwert.
+3. Durchsetzbare Rechte gegen Mitschuldner, Bürgen und aus gruppeninternen Drittsicherheiten.
+4. Sensitivität der Quote bei Umsatz, Marge, Finanzierung, Verwertungskosten und Dauer.
 
-BGH, Urteil vom 18.04.2024 - IX ZR 129/22, ist als Darlegungsanker zu verwenden: Ein außenstehender Anspruchsteller darf einen nicht aufgeschlüsselten und unbelegten Liquiditätsstatus zunächst bestreiten; die Einzelpositionen müssen nachvollziehbar belegt werden.
+### 3.3. Angemessene Beteiligung am Planwert
 
-### 2.4. Paragraf 19 InsO getrennt prüfen
+Prüfe Paragraf 27 StaRUG in dieser Reihenfolge:
 
-Bei den von Paragraf 19 InsO erfassten Schuldnern liegt Überschuldung vor, wenn das Vermögen die bestehenden Verbindlichkeiten nicht mehr deckt, es sei denn, die Fortführung des Unternehmens ist in den nächsten zwölf Monaten nach den Umständen überwiegend wahrscheinlich. Liquiditätsprognose und Überschuldungsstatus dürfen nicht zu einer einzigen Ampel verschmolzen werden.
+1. Kein Planbetroffener erhält mehr als den vollen Betrag seines Anspruchs.
+2. Kein ohne Plan nachrangiger Gläubiger, der Schuldner oder ein Anteilsinhaber erhält einen nicht vollständig durch eine Leistung in das Schuldnervermögen ausgeglichenen Wert, solange die überstimmte Gruppe nicht entsprechend der gesetzlichen Rangfolge beteiligt ist.
+3. Kein ohne Plan gleichrangiger Gläubiger wird gegenüber der überstimmten Gruppe bessergestellt.
 
-## 3. Verhältnis zum StaRUG
+Für Anteilsinhaber gilt die gesonderte Regel des Paragrafen 27 Absatz 2 StaRUG.
 
-Paragraf 29 Absatz 1 StaRUG stellt gerichtliche Instrumente zur nachhaltigen Beseitigung drohender Zahlungsunfähigkeit bereit. Paragraf 30 StaRUG bestimmt, welche Schuldner restrukturierungsfähig sind. Vor der Inanspruchnahme eines gerichtlichen Instruments muss das Restrukturierungsvorhaben nach Paragraf 31 StaRUG angezeigt werden.
+### 3.4. Ausnahmen nach Paragraf 28 StaRUG
 
-Es gibt keinen allgemeinen Antrag auf Eröffnung eines StaRUG-Verfahrens. Ein privater Plan kann ohne gerichtliches Instrument vorbereitet und angeboten werden. Für gerichtliche Planabstimmung, Vorprüfung, Stabilisierung oder Bestätigung ist die Anzeige erforderlich.
+Eine Abweichung ist keine freie Wahl zwischen absoluter und relativer Priorität. Prüfe die gesetzlich bezeichneten Ausnahmefälle einzeln:
 
-Tritt während der Rechtshängigkeit Zahlungsunfähigkeit oder bei den erfassten Rechtsträgern Überschuldung ein, gelten die Anzeige- und Aufhebungsregeln der Paragrafen 32 und 33 StaRUG. Parallel ist die Insolvenzantragspflicht nach Paragraf 15a InsO unverzüglich zu prüfen.
+1. Eine Abweichung bei gleichrangigen Gläubigern muss nach Art der Schwierigkeiten und Umständen sachgerecht sein; sie ist nicht sachgerecht, wenn die überstimmte Gruppe mehr als die Hälfte der Stimmrechte der betroffenen Rangklasse hält.
+2. Ein Wertverbleib beim Schuldner oder Anteilsinhaber setzt insbesondere eine unerlässliche Mitwirkung mit Planbindung oder nur geringfügige Eingriffe nach Paragraf 28 Absatz 2 StaRUG voraus.
 
-## 4. Prüfworkflow
+### 3.5. Mehrheit der abstimmenden Gruppen
 
-1. Bewertungsstichtag, Datenstand und verfügbares Zahlungsmittel feststellen.
-2. Fällige Zahlungspflichten mit Rechtsgrund, Fälligkeit und Beleg erfassen.
-3. Drei-Wochen-Entwicklung für Paragraf 17 InsO berechnen.
-4. Streitige und titulierte Forderungen nach der objektiven Rechtslage einordnen.
-5. Bestehende Zahlungspflichten und Fälligkeiten für den regelmäßigen 24-Monats-Zeitraum abbilden.
-6. Sichere Mittel von bedingten Maßnahmen trennen.
-7. Base Case, Stressfall und Maßnahmenfall rechnen.
-8. Überwiegende Wahrscheinlichkeit der Unterdeckung begründen.
-9. Paragraf 19 InsO gesondert prüfen.
-10. Instrumentenentscheidung treffen: außergerichtliche Einigung, privater Plan, gerichtliches StaRUG-Instrument oder Insolvenzverfahren.
+Die Mehrheit der abstimmenden Gruppen muss mit der erforderlichen Mehrheit zugestimmt haben. Bei genau zwei Gruppen genügt die Zustimmung der anderen Gruppe. Die zustimmenden Gruppen dürfen nicht ausschließlich aus Anteilsinhabern oder nachrangigen Restrukturierungsgläubigern bestehen.
 
-## 5. Maßnahmenprüfung
+Eine einzige zustimmende Gruppe genügt daher nicht allgemein. Bei drei Gruppen müssen regelmäßig mindestens zwei zustimmen.
 
-| Maßnahme | Betrag | Rechtsverbindlich | Vollzug vor Unterdeckung | Finanzierungsnachweis | Ergebnis |
-| --- | ---: | --- | --- | --- | --- |
-| Kreditverlängerung | [EUR] | [ja/nein] | [ja/nein] | [Beleg] | [ansetzbar/nicht ansetzbar] |
-| Gesellschafterbeitrag | [EUR] | [ja/nein] | [ja/nein] | [Beleg] | [ansetzbar/nicht ansetzbar] |
-| Stundung | [EUR] | [ja/nein] | [ja/nein] | [Vereinbarung] | [ansetzbar/nicht ansetzbar] |
-| Verkauf | [EUR] | [ja/nein] | [ja/nein] | [Prozessstand] | [ansetzbar/nicht ansetzbar] |
+### 3.6. Gruppeninterne Drittsicherheiten
 
-Eine unverbindliche Absichtserklärung oder freiwillige Drittleistung ist nicht wie sichere Liquidität zu behandeln. BGH, Beschluss vom 23.04.2026 - IX ZB 18/25, verdeutlicht für die Aufhebung einer Restrukturierungssache, dass der Schuldner die Umstände für ein ausnahmsweises Absehen von der Aufhebung darlegen muss und ein rechtlich nicht gesicherter freiwilliger Drittbeitrag den Restrukturierungserfolg nicht zuverlässig trägt.
+Ist eine nach Paragraf 9 Absatz 1 Satz 3 StaRUG gebildete Gruppe betroffen, ergänze den Entschädigungstest des Paragrafen 26 Absatz 2 StaRUG. Der Rechtsverlust aus der Drittsicherheit oder aus der Haftung des persönlich haftenden Gesellschafters muss angemessen kompensiert werden.
 
-## 6. Ergebnisvermerk
+## 4. Individueller Minderheitenschutz
+
+Paragraf 64 StaRUG ist nicht mit Paragraf 26 gleichzusetzen. Ein Planbetroffener kann die Versagung der Bestätigung nur beantragen, wenn er gegen den Plan gestimmt, bereits im Abstimmungsverfahren widersprochen und die voraussichtliche Schlechterstellung ordnungsgemäß geltend gemacht hat. Im gerichtlichen Termin muss er sie spätestens dort glaubhaft machen.
+
+Enthält der gestaltende Teil einen Ausgleichsfonds nach Paragraf 64 Absatz 3 StaRUG, wird der Versagungsantrag abgewiesen; der Anspruch auf Ausgleich ist außerhalb der Restrukturierungssache zu klären. Das Restrukturierungsgericht spricht in diesem Verfahren keinen individuellen Ausgleichsbetrag zu.
+
+## 5. Arbeitsprodukt
+
+### 5.1. Cram-Down-Memo
+
+1. Plan und Abstimmungsweg.
+2. Gruppenbildung und Stimmrechte.
+3. Abstimmungsergebnis nach Paragraf 25 StaRUG.
+4. Ohne-Plan-Szenario und Belegquellen.
+5. Planwertbrücke und Verteilung.
+6. Prüfung der Paragrafen 26 bis 28 StaRUG je ablehnender Gruppe.
+7. Einwendungen nach Paragrafen 63 und 64 StaRUG.
+8. Antrag, Anlagen und verbleibendes Prozessrisiko.
+
+### 5.2. Wertbrücke
 
 ```text
-Gesellschaft: [Firma]
-Stichtag und Datenstand: [Datum/Uhrzeit]
+Unternehmenswert im Planfall                         EUR [Betrag]
+zuzüglich neue Finanzierung und sonstige Beiträge   EUR [Betrag]
+abzüglich Vollzugskosten und nicht planbetroffene Lasten
+                                                     EUR [Betrag]
+= Planwert                                           EUR [Betrag]
 
-1. Aktuelle Zahlungsfähigkeit
-Verfügbare Zahlungsmittel: EUR [Betrag]
-Fällige Zahlungspflichten: EUR [Betrag]
-Drei-Wochen-Entwicklung: [Text]
-Ergebnis Paragraf 17 InsO: [Text]
+Ohne-Plan-Szenario: [Fortführung/Verkauf/Insolvenzplan/Regelverfahren]
+Verteilungswert ohne Plan                            EUR [Betrag]
 
-2. Drohende Zahlungsunfähigkeit
-Prognosezeitraum: [von/bis]
-Erster voraussichtlicher Engpass: [Datum/Betrag]
-Tragende Annahmen und Gegenmaßnahmen: [Text]
-Ergebnis Paragraf 18 InsO: [Text]
-
-3. Überschuldung
-Fortführungsprognose und Vermögensstatus: [Text]
-Ergebnis Paragraf 19 InsO: [Text]
-
-4. Verfahrensentscheidung
-[außergerichtlich/privater Plan/gerichtliches Instrument/Insolvenzantrag]
-
-5. Nächster Schritt
-[Handlung, Verantwortlicher, Termin, Beleg]
+Gruppe [Bezeichnung]
+Stellung ohne Plan                                   EUR [Betrag]
+Stellung im Plan                                     EUR [Betrag]
+Differenz                                            EUR [Betrag]
+Rangtest nach Paragraf 27                            [bestanden/offen]
+Ausnahme nach Paragraf 28                            [nein/ja mit Begründung]
 ```
 
-## 7. Haftungs- und Beweislastmerker
+## 6. Rechtsprechungsanker
 
-1. In einem späteren Haftungsprozess kann der Insolvenzverwalter die berücksichtigten und ausgelassenen Positionen anhand der Geschäftsunterlagen angreifen.
-2. Wer sich auf das Nichtbestehen einer geltend gemachten Forderung beruft, muss die hierfür tragenden Tatsachen und Unterlagen sichern; die konkrete Darlegungs- und Beweislast hängt vom jeweiligen Anspruch und Prozessstadium ab.
-3. Ein Rechtsirrtum kann nur unter engen Voraussetzungen entlasten. Fragen der Auslegung eines selbst geschlossenen Vertrags sind nicht mit einer ungeklärten abstrakten Rechtsfrage gleichzusetzen.
-4. Eine externe fachliche Prüfung kann bei Grenzfällen sinnvoll sein, ist aber keine ausnahmslos gesetzlich vorgeschriebene Zugangsvoraussetzung.
+1. BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme einer Verfassungsbeschwerde. Die Entscheidung bestätigt weder generell die Verfassungsmäßigkeit des StaRUG noch die materielle Richtigkeit des Plans. Für die Praxis trägt sie die Anforderung, eine wesentliche Schlechterstellung und realistische Alternativverläufe für die Beschwerde nach Paragraf 66 Absatz 2 Nummer 3 StaRUG konkret darzulegen.
+2. BGH, Beschluss vom 23.04.2026 - IX ZB 18/25: Bei einer Aufhebung nach Paragraf 33 Absatz 2 StaRUG trägt der Schuldner die Umstände, aus denen das Gericht ausnahmsweise von der Aufhebung absehen soll. Rechtlich nicht gesicherte freiwillige Drittbeiträge tragen die Fortführung des Restrukturierungsvorhabens nicht zuverlässig.
 
-## 8. Fehlerbremse
+Vor Verwendung weitere Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Fundstelle aufnehmen.
 
-1. Paragraf 1 StaRUG nicht als Zugangsberechtigung bezeichnen.
-2. Paragraf 29 StaRUG nicht als Anzeige oder Eröffnungsantrag bezeichnen.
-3. Einen StaRUG-Pfad nicht trotz ungeprüfter aktueller Zahlungsunfähigkeit empfehlen.
-4. Streitige Forderungen nicht prozentual nach Prozessrisiko abwerten.
-5. Bedingungen, Long-Stop-Daten und Vollzugswahrscheinlichkeit von Maßnahmen offenlegen.
-6. Die Maximalfristen des Paragrafen 15a InsO korrekt angeben: drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung.
+## 7. Fehlerbremse
 
-## 9. Quellenregel
-
-Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Fundstelle verwenden. Den aktuellen Normtext unmittelbar vor einer haftungs- oder verfahrensentscheidenden Ausgabe prüfen.
+1. Nicht automatisch Zerschlagung als Ohne-Plan-Szenario ansetzen.
+2. Gruppenmehrheit, Gruppen-Cram-down und individuellen Minderheitenschutz nicht vermischen.
+3. Paragraf 28 StaRUG nicht als allgemeinen Schlechterstellungstest bezeichnen.
+4. Keine freie relative Prioritätsregel erfinden.
+5. Anteilsinhaberwert, neue Finanzierung und Drittbeiträge vollständig in der Planwertbrücke offenlegen.
+6. Widerspruchs-, Glaubhaftmachungs- und Hinweiserfordernisse nach Paragrafen 63 bis 66 StaRUG dokumentieren.
 
 ---
 
-## Skill: `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist`
+## Skill: `workflow-kaltstart-und-routing`
 
-_Prüft die Insolvenzantragspflicht nach Paragraf 15a InsO ab objektivem Eintritt von Zahlungsunfähigkeit oder Überschuldung. Trennt Drei- und Sechswochen-Höchstzeitraum, Kenntnis, Sanierungsbemühungen, Zahlungen und StaRUG-Route; liefert Status, Ereigniszeitachse, Organmemo und sofort umsetzbaren Antragsfahrplan._
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Krisenfrüherkennung und StaRUG-Management._
 
-# 1. Insolvenzantragspflicht nach Paragraf 15a InsO
+# Kaltstart und Routing
 
-## 1.1 Direktstart
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-Lies zuerst Liquiditätsstatus, Bankstände, offene Posten, Fälligkeitslisten, Vollstreckungsunterlagen, Rangrücktritte, Fortführungsprognose, Organ- und Registerunterlagen sowie bisherige Sanierungsentscheidungen. Beginne mit einer Ereigniszeitachse und einer Statusmatrix; frage nur nach fehlenden Daten, die den objektiven Eintritt oder den nächsten sicheren Schritt verändern.
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
 
-## 1.2 Sofortmatrix
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
-| Prüfung | Stichtag | Ergebnis | Tragender Beleg | Nächster Schritt |
-| --- | --- | --- | --- | --- |
-| Zahlungsunfähigkeit nach Paragraf 17 InsO | [Datum] | [ja/nein/offen] | [Beleg] | [Handlung] |
-| Überschuldung nach Paragraf 19 InsO | [Datum] | [ja/nein/offen] | [Beleg] | [Handlung] |
-| drohende Zahlungsunfähigkeit nach Paragraf 18 InsO | [Zeitraum] | [ja/nein/offen] | [Beleg] | [Option, keine Pflicht allein daraus] |
-| Antragspflichtiger und Vertretung | [Datum] | [Person] | [Register und Organakte] | [Handlung] |
-| frühester objektiver Eintritt | [Datum] | [Grund] | [Belegkette] | [sofort] |
-| subjektive Kenntnis | [Datum] | [Person] | [E-Mail, Bericht, Protokoll] | [Straf- und Haftungsprüfung] |
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
-## 1.3 Fristen richtig behandeln
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
-Paragraf 15a Absatz 1 InsO verlangt den Antrag ohne schuldhaftes Zögern:
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
 
-1. spätestens drei Wochen nach Eintritt der Zahlungsunfähigkeit,
-2. spätestens sechs Wochen nach Eintritt der Überschuldung.
+## Routing-Weichen Krisenfrüherkennung
+- **Rechtspflicht:** Paragraf 1 StaRUG verpflichtet die Geschäftsleiter der dort erfassten Rechtsträger, fortlaufend über bestandsgefährdende Entwicklungen zu wachen, geeignete Gegenmaßnahmen zu ergreifen und das Überwachungsorgan unverzüglich zu unterrichten.
+- **Beobachtungszeitraum:** Paragraf 1 StaRUG nennt keinen festen Zeitraum. Für die drohende Zahlungsunfähigkeit ist nach Paragraf 18 Absatz 2 InsO in aller Regel eine gesonderte 24-Monats-Prognose zu rechnen. Eine Lücke in dieser Prognose ist ein Krisensignal, ersetzt aber weder Tatbestandsprüfung noch Stichtagsabgrenzung.
+- **Mandantenrolle?**
+  - Geschäftsleitung selbst (haftungsrelevant): eigene Pflicht nach Paragraf 1 StaRUG; Aufgabenverteilung und Delegation entlasten nur bei ordnungsgemäßer Auswahl, Instruktion und Überwachung.
+  - Berater (RA, StB, Sanierungsberater): Plausibilisieren des Frühwarnsystems.
+  - Aufsichtsrat oder Beirat: konkrete Organstellung und Überwachungspflicht nach Paragraf 111 AktG, Paragraf 52 GmbHG, Satzung und Geschäftsordnung prüfen.
+- **Welcher Skill als Nächstes?**
+  - Liquiditätsplanung (13-Wochen oder 24-Monate) → liquiditaetsplanung-Plugin.
+  - Fortbestehensprognose → fortbestehensprognose-Plugin.
+  - StaRUG-Plan oder Insolvenzplan → insolvenzplan-starug-planwerkstatt-Plugin.
 
-Diese Zeiträume sind Höchstgrenzen und keine Schonfristen. Die Pflicht knüpft an den objektiven Eintritt des Insolvenzgrundes an, nicht erst an seine Kenntnis. Kenntnis, Irrtum und Erkennbarkeit bleiben für Verschulden, Strafbarkeit und Haftung wichtig, verschieben aber den objektiven Eintritt nicht.
+## Eilige Trigger
+- Hinweise auf drohende Zahlungsunfähigkeit: Prognose nach Paragraf 18 InsO erstellen, Eignung der StaRUG-Instrumente gesondert prüfen und eine beabsichtigte Inanspruchnahme nach Paragraf 31 StaRUG anzeigen.
+- Eingetretene Zahlungsunfähigkeit oder Überschuldung: Antragspflicht nach Paragraf 15a InsO ohne schuldhaftes Zögern prüfen; die StaRUG-Route nicht ungeprüft fortsetzen.
+- Ab Eintritt materieller Insolvenz Zahlungen anhand Paragraf 15b InsO einzeln prüfen und dokumentieren.
 
-Der Höchstzeitraum darf nur genutzt werden, soweit ernsthafte und aussichtsreiche Maßnahmen zur nachhaltigen Beseitigung des Insolvenzgrundes oder eine sorgfältige Antragvorbereitung dies tragen. Sanierungsverhandlungen verlängern die gesetzliche Höchstgrenze nicht. Fällt ihre Erfolgsaussicht weg, ist der Antrag sofort zu stellen.
+---
 
-## 1.4 Zahlungsunfähigkeit nach Paragraf 17 InsO
+## Skill: `anschluss-routing`
 
-1. Fällige und ernsthaft eingeforderte Zahlungspflichten einzelpostengenau erfassen.
-2. Frei verfügbare Zahlungsmittel und sicher abrufbare Linien gegenüberstellen.
-3. Drei-Wochen-Entwicklung mit belegten Zuflüssen und Abflüssen rechnen.
-4. Eine Lücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit, wenn nicht ausnahmsweise eine fast vollständige kurzfristige Schließung mit an Sicherheit grenzender Wahrscheinlichkeit und zumutbarem Zuwarten belegt ist.
-5. Unterhalb von zehn Prozent bleibt zu prüfen, ob die Lücke absehbar anwächst oder nicht in überschaubarer Zeit geschlossen wird.
-6. Zahlungseinstellung und weitere Indizien als Gesamtbild würdigen; keine Kennzahl ersetzt die Einzelfallprüfung.
+_Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Krisenfrüherkennung und StaRUG-Management._
 
-## 1.5 Streitige und titulierte Forderungen
+# Anschluss-Routing
 
-Nach BGH, Urteil vom 23. Januar 2025, IX ZR 229/22, ist die objektive Rechtslage maßgeblich:
+## Einsatzlage
 
-1. Besteht eine fällige Forderung objektiv, ist sie grundsätzlich einzustellen, auch wenn sie bestritten wird.
-2. Besteht sie objektiv nicht oder ist sie nicht fällig, begründet sie keine Zahlungsunfähigkeit.
-3. Prozessrisiken werden nicht prozentual auf den Forderungsbetrag angewandt.
-4. Liegt ein vorläufig vollstreckbarer Titel vor, bestehen die Vollstreckungsvoraussetzungen und hat der Gläubiger die Vollstreckung eingeleitet, ist die Forderung im Nennwert zu berücksichtigen.
-5. Wer eine Forderung herausnimmt, muss Anspruch, Fälligkeit, Einreden, Titel- und Vollstreckungsstand mit einer belastbaren Beleg- und Rechtsprüfung dokumentieren.
+Dieses Anschluss-Routing für **Krisenfrueherkennung Starug** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
-Subjektive Rechtsirrtümer nur getrennt vom objektiven Status prüfen. IX ZR 229/22 behandelt hierfür einen engen Korridor bei seit langem umstrittenen, höchstrichterlich ungeklärten Rechtsfragen; die Auslegung eines Vertrags, an dem der Schuldner selbst mitgewirkt hat, wird dadurch nicht ohne Weiteres entschuldigt.
+## Fachlandkarte dieses Plugins
 
-## 1.6 Überschuldung nach Paragraf 19 InsO
+- `ampelsystem-beweislast-und-darlegungslast` — Ampelsystem Beweislast und Darlegungslast
+- `berater-drohende-fruehwarnsystem` — Berater Drohende Fruehwarnsystem
+- `cross-class-cram-down-und-absolute-priority` — Cross Class Cram Down und Absolute Priority
+- `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Dokumentationspflicht und Protokollierung Geschäftsführung
+- `drohende-zahlen-schwellen-und-berechnung` — Drohende Zahlen Schwellen und Berechnung
+- `drohende-zahlungsunfaehigkeit` — Drohende Zahlungsunfaehigkeit
+- `fortbestehensprognose-zweistufig` — Fortbestehensprognose Zweistufig
+- `fruehwarnsystem-architektur-zwei-jahres-horizont` — Fruehwarnsystem Architektur Zwei Jahres Horizont
+- `fruehwarnsystem-behoerden-gericht-und-registerweg` — Fruehwarnsystem Behoerden Gericht und Registerweg
+- `geschaeftsfuehrerhaftung-quellenkarte-check` — Geschäftsführerhaftung Quellenkarte Check
+- `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — GF Haftung Paragraph 43 GMBHG und Paragraph 93 AKTG
+- `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Insolvenzantragspflicht Paragraph 15A Inso und Drei Wochen Frist
+- `integrierte-interessen-kennzahlenset` — Integrierte Interessen Kennzahlenset
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
-1. Prüfen, ob das Vermögen die bestehenden Verbindlichkeiten deckt.
-2. Forderungen mit wirksam vereinbartem Nachrang nach Paragraf 39 Absatz 2 InsO entsprechend Paragraf 19 Absatz 2 Satz 2 InsO behandeln.
-3. Fortführung über regelmäßig zwölf Monate ab Prognosestichtag mit integrierter Ertrags-, Bilanz- und Liquiditätsplanung beurteilen.
-4. Finanzierung nur berücksichtigen, wenn Rechtsverbindlichkeit, Bedingungen, Abrufbarkeit und Bonität belegt sind.
-5. Rangrücktritt, Patronat und Gesellschafterbeitrag anhand des vollständigen Textes prüfen; bloße Absichtserklärungen genügen nicht.
+## Arbeitsweg
 
-## 1.7 Antragspflichtige und Zuständigkeit
+- Ergebnis sichten: Welche Krisenfrüherkennung und StaRUG-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
+- Anschlussweichen identifizieren: Paragraf 1 StaRUG gilt fortlaufend; ein Antrag nach Paragraf 15a InsO ist ohne schuldhaftes Zögern zu stellen, höchstens binnen drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung. Paragraf 102 StaRUG enthält keine feste 14-Tage-Frist und setzt einen Auftrag zur Jahresabschlusserstellung sowie die weiteren Tatbestandsmerkmale voraus. Danach notwendige Dokumente, gerichtliches Instrument und nächsten Fachpfad bestimmen.
+- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
+- Eskalation an Geschäftsführer, Aufsichtsrat, Restrukturierungsbeauftragten, das nach Paragrafen 34 und 35 StaRUG zuständige Restrukturierungsgericht oder einen Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
+- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
 
-Bestimme die antragspflichtige Person nach Rechtsform und Vertretungslage. Bei Führungslosigkeit die Sonderregeln des Paragrafen 15a Absatz 3 InsO prüfen. Eine interne Ressortverteilung, Gesellschafterweisung oder bloße Delegation beseitigt die organschaftliche Verantwortung nicht.
+## Qualitätsanker
 
-Zuständiges Insolvenzgericht, wirksame Vertretung, Antragsgrund und notwendige Angaben anhand der aktuellen InsO, der Insolvenzrechtlichen Vergütungsverordnung und der örtlichen Einreichungswege prüfen. Kein Musteraktenzeichen erfinden.
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
-## 1.8 Zahlungen nach Insolvenzreife
+---
 
-Jede Zahlung ab objektivem Eintritt einzeln an Paragraf 15b InsO messen:
+## Skill: `mandantenkommunikation-redteam`
 
-| Zahlung | Datum | Empfänger | Zweck | Gegenwert | Vereinbarkeit mit Organpflicht | Beleg |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Zahlung] | [Datum] | [Name] | [Zweck] | [EUR] | [ja/nein/offen] | [Beleg] |
+_Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Krisenfrüherkennung und StaRUG-Management._
 
-Keine pauschale Positivliste verwenden. Maßgeblich sind Zeitpunkt, Zweck, Gegenwert, Massenauswirkung, sorgfältige Sanierungs- oder Antragvorbereitung und die gesetzlichen Vermutungen des Paragrafen 15b InsO.
+# Mandantenkommunikation
 
-## 1.9 Verhältnis zum StaRUG
+## Arbeitsauftrag
 
-Drohende Zahlungsunfähigkeit nach Paragraf 18 InsO kann eine Restrukturierungsroute eröffnen, begründet aber allein keine Antragspflicht. Eingetretene Zahlungsunfähigkeit oder Überschuldung löst dagegen die Prüfung nach Paragraf 15a InsO aus. Anzeige, Stabilisierungsanordnung oder Planarbeit setzen die Antragspflicht nicht außer Kraft; Paragraf 33 StaRUG ist zusätzlich zu beachten.
+Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **krisenfrueherkennung-starug** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
 
-## 1.10 Arbeitsprodukte
+## Aktenstart ohne Leerlauf
 
-1. Objektiver Status mit Einzelposten und Belegen.
-2. Ereigniszeitachse mit frühestem und spätestem vertretbaren Eintrittsdatum.
-3. Getrennte Kenntnis- und Kommunikationschronologie.
-4. Organmemo mit sofortiger Handlung, Höchstzeitraum und Abbruchkriterien jeder Sanierungsmaßnahme.
-5. Zahlungsregister nach Paragraf 15b InsO.
-6. Antragsfahrplan mit Gericht, Vertretung, Unterlagen, Verantwortlichem und Tagesfrist.
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
 
-## 1.11 Fehlerbremsen
+## Fachliche Anker
 
-1. Fristbeginn nicht an Kenntnis statt objektiven Eintritt knüpfen.
-2. Drei und sechs Wochen nicht als erlaubte Wartezeit darstellen.
-3. Sanierungsverhandlungen nicht als Fristverlängerung bezeichnen.
-4. Drohende Zahlungsunfähigkeit nicht mit Antragspflicht gleichsetzen.
-5. Streitige Forderungen nicht mit Prozessrisikoquoten abwerten.
-6. Titulierte Forderungen nur nach Titel-, Vollstreckbarkeits- und Vollstreckungsstand einordnen.
-7. Zahlungsunfähigkeit nicht allein aus negativem Eigenkapital ableiten.
-8. Überschuldung nicht allein aus der Handelsbilanz ableiten.
-9. Zahlungen nicht pauschal als erlaubt oder verboten etikettieren.
-10. Rechtsprechung nur mit Primärquelle, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verwenden.
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
 
-## 1.12 Primärquellen
+## Arbeitsprodukt
 
-- [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html)
-- [Paragraf 15b InsO](https://www.gesetze-im-internet.de/inso/__15b.html)
-- [Paragraf 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html)
-- [Paragraf 19 InsO](https://www.gesetze-im-internet.de/inso/__19.html)
-- [BGH, Urteil vom 24. Mai 2005, IX ZR 123/04](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Blank=1&Datum=2005-5&Gericht=bgh&Seite=2&Sort=1026&anz=93&nr=8691&pos=63)
-- [BGH, Urteil vom 23. Januar 2025, IX ZR 229/22](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2025&Gericht=bgh&Seite=27&anz=1008&nr=88908&pos=818)
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Kommunikation Krisenfrüherkennung § 1 StaRUG — Pflichtinhalte
+- **§ 1 Abs. 1 Satz 1 StaRUG (Stand prüfen):** Geschäftsleiter haftungsbeschränkter Gesellschaften müssen Entwicklungen, die den Fortbestand der juristischen Person gefährden können, fortlaufend überwachen.
+- **§ 1 Abs. 1 Satz 2 StaRUG:** Bei Erkennen einer bestandsgefährdenden Entwicklung sind geeignete Gegenmaßnahmen zu ergreifen.
+- **§ 1 Abs. 1 Satz 3 StaRUG:** Den zur Überwachung berufenen Organen ist unverzüglich Bericht zu erstatten — schriftliche Form empfohlen.
+- **Konsequenzen bei Pflichtverletzung:** § 43 GmbHG (Innenhaftung), § 826 BGB (Außenhaftung in Ausnahmefällen), strafrechtlich § 15a Abs. 4, 5 InsO bei verspätetem Antrag.
+- **Was an die Mandantin gehört (Pflichtbausteine):** Welche Kennzahlen werden überwacht? Welche Schwellen lösen Alarm aus? Wer berichtet wem in welcher Frequenz? Welche Maßnahmen sind bereits beschlossen?
+- **Honorar:** Bei laufender Begleitung empfiehlt sich Mandatsvereinbarung mit Stunden- oder Monatspauschalhonorar — RVG-Tabelle deckt diese Beratung nicht ab.
+
+---
+
+## Skill: `quellen-livecheck`
+
+_Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Krisenfrüherkennung und StaRUG-Management._
+
+# Rechtsquellen-Livecheck
+
+## Einsatzlage
+
+Dieser Quellen-Livecheck für **Krisenfrueherkennung Starug** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
+
+## Fachlandkarte dieses Plugins
+
+- `ampelsystem-beweislast-und-darlegungslast` — Ampelsystem Beweislast und Darlegungslast
+- `berater-drohende-fruehwarnsystem` — Berater Drohende Fruehwarnsystem
+- `cross-class-cram-down-und-absolute-priority` — Cross Class Cram Down und Absolute Priority
+- `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Dokumentationspflicht und Protokollierung Geschäftsführung
+- `drohende-zahlen-schwellen-und-berechnung` — Drohende Zahlen Schwellen und Berechnung
+- `drohende-zahlungsunfaehigkeit` — Drohende Zahlungsunfaehigkeit
+- `fortbestehensprognose-zweistufig` — Fortbestehensprognose Zweistufig
+- `fruehwarnsystem-architektur-zwei-jahres-horizont` — Fruehwarnsystem Architektur Zwei Jahres Horizont
+- `fruehwarnsystem-behoerden-gericht-und-registerweg` — Fruehwarnsystem Behoerden Gericht und Registerweg
+- `geschaeftsfuehrerhaftung-quellenkarte-check` — Geschäftsführerhaftung Quellenkarte Check
+- `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — GF Haftung Paragraph 43 GMBHG und Paragraph 93 AKTG
+- `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Insolvenzantragspflicht Paragraph 15A Inso und Drei Wochen Frist
+- `integrierte-interessen-kennzahlenset` — Integrierte Interessen Kennzahlenset
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
+
+## Arbeitsweg
+
+- Tragende Normen (StaRUG §§ 1, 29, 31, 39, 49–55, 84, 102, InsO §§ 15a, 17, 18, 19, HGB § 252, IDW S 11) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
+- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
+- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
+- Dynamische Bereiche im Krisenfrüherkennung und StaRUG (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
+- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg`
+
+_Für Geschäftsführerhaftung — Paragraf 43 GmbHG und Paragraf 93 AktG in der Krise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Geschäftsführerhaftung — § 43 GmbHG und § 93 AktG in der Krise
+
+## Arbeitsbereich
+
+Geschäftsführerhaftung bei Krisenversagen prüfe und begrenzen: GF oder Berater will Haftungsrisiken einschaetzen und Enthaftungsstrategien entwickeln. Normen: § 43 GmbHG (Sorgfaltspflicht), § 93 AktG (Vorstandshaftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr). Prüfraster: Business Judgment Rule in der Krise, Beweislastumkehr, Enthaftungsstrategien (BJR-Dokumentation, Sanierungsberater). Output Haftungsrisiko-Analyse, Enthaftungs-Memo, Aktionsplan. Abgrenzung: Dokumentation siehe dokumentationspflicht-und-protokollierung-geschäftsführung; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StaRUG; § 1 StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen
+
+Die persönliche Haftung des Geschäftsführers ist kein theoretisches Konstrukt — sie ist das scharfe Ende eines stumpfer werdenden Unternehmens. § 43 GmbHG und § 93 AktG halten das Heft des Handelns mit voller Kraft gegen die Person des Managers, sobald die Krise eintritt und Pflichten verletzt wurden. Wer in der Krise nicht dokumentiert, nicht eskaliert und nicht handelt, findet sich später als Beklagter in einem Regressprozess wieder, in dem er beweisen muss, dass er alles richtig gemacht hat.
+
+---
+
+## Rechtsgrundlagen
+
+- § 43 GmbHG (Sorgfaltspflicht und Verantwortlichkeit der Geschäftsführer)
+- § 93 AktG (Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder)
+- § 93 Abs. 2 S. 2 AktG (Beweislastumkehr)
+- § 15a InsO (Insolvenzantragspflicht)
+- § 15b InsO (Zahlungsverbote nach Insolvenzreife)
+- § 1 StaRUG (Krisenfrüherkennungspflicht)
+- **BGH II ZR 206/22 vom 23.07.2024** — Haftung des ausgeschiedenen Geschäftsführers für Neugläubigerschäden bleibt bestehen, solange die durch ihn geschaffene Gefährdungslage fortwirkt. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+- **BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer / Firmenbestattung: auch Hintermänner ohne Außenauftritt. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
+- **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung: Wissentlichkeitsausschluss erfordert positive Kenntnis pro Pflichtverletzung; § 15a / § 15b InsO nicht koppelbar. Stärkt die Deckungsposition des GF und des Insolvenzverwalters.
+- IDW S 6 (Sanierungskonzepte)
+
+---
+
+## Pflichten
+
+### 1. Sorgfaltsmaßstab — Der ordentliche und gewissenhafte Geschäftsleiter
+
+§ 43 Abs. 1 GmbHG verpflichtet jeden Geschäftsführer, die "Sorgfalt eines ordentlichen Geschäftsmannes" anzuwenden. § 93 Abs. 1 AktG formuliert für den Vorstand den Standard des "ordentlichen und gewissenhaften Geschäftsleiters". Beide Standards sind in der Krise verschärft: Je größer die Gefährdungslage, desto enger der Handlungsspielraum und desto strenger die Anforderungen an Dokumentation und Begründung.
+
+### 2. Business Judgment Rule in der Krise
+
+Die Business Judgment Rule (§ 93 Abs. 1 S. 2 AktG, GmbH analog) schützt den Geschäftsleiter bei unternehmerischen Entscheidungen, wenn er:
+
+1. Zum Zeitpunkt der Entscheidung vernünftigerweise annehmen durfte, auf Basis angemessener Informationen zu handeln,
+2. Nicht von sachfremden Interessen geleitet war,
+3. Zum Wohl der Gesellschaft handelte.
+
+**In der Krise gilt:** Die Business Judgment Rule greift nur noch eingeschränkt. Je näher die Insolvenz, desto weniger Ermessen hat der Geschäftsführer — und desto mehr Pflichten rücken in den Vordergrund:
+
+| Krisenstadium | BJR-Spielraum | Schwerpunkt-Pflicht |
+|---|---|---|
+| Normalbetrieb | Breit | Unternehmerische Gestaltung |
+| Strategiekrise | Mittel | Frühwarnsystem, § 1 StaRUG |
+| Liquiditätskrise | Eng | 13-Wochen-Planung, Gläubigerinfo |
+| Drohende ZU | Sehr eng | § 29 StaRUG prüfen, Berater hinzuziehen |
+| Eingetretene ZU | Null | § 15a InsO: Antragspflicht, § 15b InsO: Zahlungsverbot |
+
+### 3. Beweislastumkehr nach § 93 Abs. 2 S. 2 AktG
+
+§ 93 Abs. 2 S. 2 AktG enthält eine der empfindlichsten Regelungen des deutschen Gesellschaftsrechts: **Im Haftungsprozess muss das Vorstandsmitglied beweisen, dass es die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters angewendet hat.** Für GmbH-Geschäftsführer wird die Beweislastumkehr entsprechend angewandt (vgl. konkrete BGH-Linie, vor Ausgabe Aktenzeichen über dejure.org / openjur.de verifizieren).
+
+- Wer keine Protokolle führt, kann seine Pflichterfüllung nicht beweisen.
+- Wer keine Liquiditätsplanung vorhält, kann nicht nachweisen, dass er § 1 StaRUG erfüllt hat.
+- Wer keine Berater hinzugezogen hat, kann den Sorgfaltsnachweis nicht mit Sachverstand belegen.
+
+### 4. § 15b InsO — Zahlungsverbot nach Insolvenzreife
+
+Seit dem 1. Januar 2021 (SanInsFoG) gilt das Zahlungsverbot des § 15b InsO: Nach Eintritt der Insolvenzreife darf der Geschäftsführer keine Zahlungen mehr leisten, die mit der Sorgfalt eines ordentlichen Kaufmanns nicht vereinbar sind. Erlaubt sind nur noch Zahlungen im gewöhnlichen Geschäftsgang. Verletzungen führen zur persönlichen Haftung.
+
+### 5. Subsidiaritätsverhältnis StaRUG / InsO
+
+Das StaRUG ist ein vorinsolvenzliches Instrument. Es schützt denjenigen, der rechtzeitig handelt — also bei drohender Zahlungsunfähigkeit (§ 18 InsO), nicht bei eingetretener. Das Verhältnis:
+
+```
+StaRUG-Zugang: Drohende Zahlungsunfähigkeit (§ 18 InsO) — 24-Monats-Horizont
+InsO-Pflicht: Eingetretene Zahlungsunfähigkeit (§ 17 InsO) ODER Überschuldung (§ 19 InsO)
+Drei-Wochen-Frist: Ab Kenntnis des Insolvenzgrundes
+```
+
+Wer den StaRUG-Zug verpasst, weil er zu spät erkannt hat, steht im InsO-Verfahren — und haftet nach § 15a, § 15b InsO persönlich.
+
+---
+
+## Vorgehen
+
+### Schritt 1: Haftungsrisikocheck in der Krise
+
+Jeder Geschäftsführer sollte in der Krise monatlich prüfen:
+
+- [ ] Liegt eine aktuelle Liquiditätsplanung (min. 24 Monate) vor?
+- [ ] Sind Gesellschafter und ggf. Aufsichtsrat informiert?
+- [ ] Sind alle Berater (StB, WP, RA) eingebunden?
+- [ ] Wurden Krisenmaßnahmen beschlossen und protokolliert?
+- [ ] Ist die Insolvenzreife ausgeschlossen (aktuelles Gutachten)?
+- [ ] Wurden keine masseschmälernden Zahlungen geleistet?
+
+### Schritt 2: Enthaftungsstrategie
+
+Enthaftung durch Dokumentation und professionelle Begleitung:
+
+1. **Formal beschlossene Maßnahmenpläne** mit Datum und Unterschrift
+2. **Externe Sachverständige** (IDW S 6 Gutachten, Sanierungsberater)
+3. **Gesellschafterbeschlüsse** über die Strategie
+4. **Bankkommunikation** schriftlich und protokolliert
+5. **§ 102 StaRUG Warnhinweise** von Beratern empfangen und bestätigt
+
+### Schritt 3: D&O-Versicherung prüfen
+
+D&O-Deckung in der Krise analysieren:
+
+- Anzeigepflicht des Schadensfalls prüfen
+- Ausschlussklauseln für wissentliche Pflichtverletzungen kennen
+- Selbstbehalt nach § 93 Abs. 2 S. 3 AktG: mind. 10 % bis 150 % der Jahresvergütung
+
+---
+
+## Templates
+
+### Muster: Haftungsrisiko-Protokoll (monatliche GF-Selbstprüfung)
+
+```
+Haftungsrisiko-Protokoll
+Gesellschaft: [Firma]
+Monat: [MM/JJJJ]
+Erstellt von: [Name GF]
+
+1. LIQUIDITÄTSLAGE
+ Liquiditätsreichweite aktuell: [x] Monate
+ Vormonat: [x] Monate
+ Trend: [Verbesserung / stabil / Verschlechterung]
+
+2. FRÜHWARNINDIKATOREN
+ EBITDA lfd. Jahr: EUR [___] (Plan: EUR [___])
+ Net-Debt/EBITDA: [x,xx]x
+ Covenant-Headroom: [x] %
+
+3. MASSNAHMEN
+ Laufende Maßnahmen: [Beschreibung]
+ Neu beschlossen: [Beschreibung]
+ Verantwortlich: [Name]
+ Frist: [Datum]
+
+4. ESKALATION
+ Gesellschafter informiert am: [Datum / noch nicht]
+ AR informiert am: [Datum / nicht anwendbar]
+ Berater (StB/WP/RA) informiert am: [Datum]
+
+5. INSOLVENZREIFE-PRÜFUNG
+ Zahlungsunfähigkeit eingetreten? [ ] Ja [ ] Nein
+ Überschuldung eingetreten? [ ] Ja [ ] Nein
+ Grundlage der Einschätzung: [eigene Analyse / Beratertestat / IDW S 11 Gutachten]
+
+Unterschrift: _________________________ Datum: _____________
+```
+
+### Muster: Beschluss Gesellschafterversammlung — Krisenmaßnahmenpaket
+
+```
+Niederschrift über Gesellschafterbeschluss
+
+Gesellschaft: [Firma GmbH]
+Datum: [TT.MM.JJJJ]
+Anwesend: alle Gesellschafter / [x von y Anteilen]
+
+Die Gesellschafterversammlung beschließt einstimmig / mit [x/y-Mehrheit]:
+
+1. Die Geschäftsführung wird beauftragt, ein Krisenfrüherkennungssystem
+ nach § 1 StaRUG und IDW PS 340 n.F. zu implementieren.
+2. Es wird eine rollierende 24-Monats-Liquiditätsplanung eingeführt
+ mit monatlicher Berichterstattung an die Gesellschafter.
+3. Die Geschäftsführung wird ermächtigt, externe Restrukturierungsberater
+ zu beauftragen.
+4. Sanierungsmaßnahmen gemäß Anlage 1 werden genehmigt.
+
+[Ort], [Datum]
+Unterschriften aller Gesellschafter: _______________________
+```
+
+---
+
+## Fallstricke
+
+1. **Ressortteilung schützt nicht vollständig** — jeder Geschäftsführer bleibt für Finanzfragen mit verantwortlich, auch wenn formal ein anderer GF das Finanzressort leitet (Gesamtverantwortung).
+
+2. **Gesellschafterweisung schützt nicht in der Insolvenz** — Weisungen der Gesellschafter entbinden den GF nicht von der Insolvenzantragspflicht nach § 15a InsO.
+
+3. **Sanierungsbonus ist kein Freifahrtschein** — Zahlungen zur Vermeidung der Insolvenz können nach Insolvenzreife trotzdem anfechtbar sein.
+
+4. **D&O-Versicherung ist keine Blankodeckung** — vorsätzliche oder wissentliche Pflichtverletzungen sind regelmäßig ausgeschlossen. Wer Protokolle fälscht oder Insolvenzreife verbirgt, haftet persönlich ohne Versicherungsschutz.
+
+5. **Quasi-Geschäftsführer haften wie echte** — faktische Geschäftsführer (Gesellschafter mit Dominanz über die GF) unterliegen denselben Haftungsregeln, auch ohne formelle Bestellung.
+
+---
+
+## Triage — Erste Einordnung
+
+Bevor losgelegt wird, klaere:
+1. **Krisenstadium?** Ertragskrise (EBIT negativ), Liquiditaetskrise (Cashflow negativ) oder akute Insolvenznaehe (ZU/Ueberschuldung)?
+2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
+3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
+4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
 
 ---
 
 ## Skill: `mandantenbrief-warnung-paragraph-starug`
 
-_Erstellt einen konkreten Mandantenhinweis nach Paragraf 102 StaRUG, wenn bei der Jahresabschlusserstellung offenkundige Anhaltspunkte für einen möglichen Insolvenzgrund vorliegen. Liefert Ersthinweis, Eskalation, Aktenvermerk und Zugangsbeleg, ohne erfundene Regelfristen oder eine vorschnelle Insolvenzdiagnose._
+_Erstellt einen konkreten Mandantenhinweis nach Paragraf 102 StaRUG, wenn bei der Jahresabschlusserstellung offenkundige Anhaltspunkte für einen möglichen Insolvenzgrund vorliegen._
 
 # 1. Mandantenbrief zu Paragraf 102 StaRUG
 
@@ -1011,861 +1424,47 @@ Primärquellen:
 
 ---
 
-## Skill: `restrukturierungsplan-architektur-rollierende`
+## Skill: `workflow-redteam-qualitygate`
 
-_Baut einen Restrukturierungsplan nach Paragrafen 2 bis 28 StaRUG belastbar auf: Planbetroffene, darstellender und gestaltender Teil, Auswahl, Gruppen, Gleichbehandlung, Anlagen, Abstimmung, Cram-Down und Bestätigung. Liefert Planstruktur, Gruppenmatrix, Vergleichsrechnung, Zeitachse und Qualitätsgate._
+_Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Krisenfrüherkennung und StaRUG-Management._
 
-# 1. Restrukturierungsplan-Architektur
+# Red-Team Qualitygate
 
-## 1.1. Arbeitsauftrag
+## Arbeitsauftrag
 
-Erstelle oder prüfe einen Restrukturierungsplan vom gestaltbaren Rechtsverhältnis bis zum Vollzug. Beginne mit dem vorhandenen Plan, Datenraum und Finanzmodell. Liefere zuerst die Planlücken, die Gruppen- und Stimmrechtslage sowie den nächsten entscheidungsreifen Baustein; frage nicht erneut nach Unterlagen, die bereits im Ordner liegen.
+Dieser Arbeitsgang macht **Red-Team Qualitygate** im Bereich **krisenfrueherkennung-starug** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
 
-## 1.2. Normenkarte
+## Aktenstart ohne Leerlauf
 
-| Station | Norm | Kernfrage |
-| --- | --- | --- |
-| Gestaltbarkeit | Paragrafen 2 bis 4 StaRUG | Welche Forderungen, Sicherheiten, Drittsicherheiten und Beteiligungsrechte dürfen gestaltet werden? |
-| Planstruktur | Paragraf 5 StaRUG | Sind darstellender und gestaltender Teil sowie Anlagen vollständig? |
-| Darstellender Teil | Paragraf 6 StaRUG | Sind Krise, Maßnahmen, Auswirkungen und Vergleichsrechnung nachvollziehbar? |
-| Gestaltender Teil | Paragraf 7 StaRUG | Welche Rechtsänderung trifft welchen Planbetroffenen? |
-| Auswahl | Paragraf 8 StaRUG | Ist die Einbeziehung oder Nichteinbeziehung sachgerecht begründet? |
-| Gruppen | Paragraf 9 StaRUG | Sind unterschiedliche Rechtsstellungen getrennt und wirtschaftliche Untergruppen sachgerecht? |
-| Gleichbehandlung | Paragraf 10 StaRUG | Erhält jedes Mitglied einer Gruppe das gleiche Angebot oder liegt wirksame Zustimmung vor? |
-| Anlagen | Paragrafen 14 und 15 StaRUG | Liegen Bestandsfähigkeitsprognose, Vermögensübersicht, Finanzplan und Erklärungen vor? |
-| Planangebot | Paragrafen 17 bis 22 StaRUG | Sind Hinweise, Fristen, Erörterung und Dokumentation ordnungsgemäß? |
-| Stimmrecht und Mehrheit | Paragrafen 24 und 25 StaRUG | Sind Wertansatz und drei Viertel der Stimmrechte je Gruppe richtig berechnet? |
-| Gruppen-Cram-down | Paragrafen 26 bis 28 StaRUG | Sind Ohne-Plan-Test, Planwertbeteiligung, Rangfolge und Gruppenmehrheit erfüllt? |
-| Gerichtliche Instrumente | Paragrafen 29 bis 31 StaRUG | Welches Instrument wird benötigt und ist das Vorhaben vorher angezeigt? |
-| Bestätigung und Wirkung | Paragrafen 60 bis 67 StaRUG | Liegen Versagungsgründe, Minderheitenschutz oder Beschwerderisiken vor? |
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
 
-## 2. Planfähigkeit und Auswahl
+## Fachliche Anker
 
-### 2.1. Gestaltbare Rechte
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
 
-Prüfe Paragrafen 2 und 3 StaRUG rechtsverhältnisbezogen. Gestaltbar sind insbesondere Restrukturierungsforderungen, Absonderungsanwartschaften, bestimmte Bedingungen mehrseitiger Finanzierungsverhältnisse, Beteiligungsrechte und unter den Voraussetzungen des Gesetzes gruppeninterne Drittsicherheiten. Bei gegenseitigen Verträgen ist eine Forderung nur insoweit gestaltbar, als die Gegenleistung bereits erbracht ist.
+## Arbeitsprodukt
 
-Nicht gestaltbar sind nach Paragraf 4 StaRUG insbesondere Arbeitnehmerforderungen einschließlich betrieblicher Altersversorgung, Forderungen aus vorsätzlich begangenen unerlaubten Handlungen und Forderungen nach Paragraf 39 Absatz 1 Nummer 3 InsO. Bei natürlichen Personen bleiben außerdem nichtunternehmerische Forderungen und Absonderungsanwartschaften außerhalb des Plans.
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
 
-Steuer- und Sozialversicherungsforderungen sind nicht pauschal allein wegen ihres öffentlich-rechtlichen Charakters ausgeschlossen. Prüfe ihre konkrete Gestaltbarkeit, die Auswahl nach Paragraf 8 StaRUG und die Vollzugsfolgen.
+## Ergänzende Hinweise
 
-### 2.2. Auswahl der Planbetroffenen
-
-Dokumentiere für jedes einbezogene und nicht einbezogene Rechtsverhältnis:
-
-1. Rechtsgrund, Inhaber, Betrag, Fälligkeit und Sicherheit.
-2. Gestaltbarkeit nach Paragrafen 2 bis 4 StaRUG.
-3. Auswahlkriterium nach Paragraf 8 StaRUG.
-4. Sachlicher Bezug zur Krisenursache und zum Restrukturierungsziel.
-5. Auswirkung auf Gleichbehandlung, Finanzierung und Vergleichsrechnung.
-
-## 3. Planaufbau
-
-### 3.1. Darstellender Teil nach Paragraf 6 StaRUG
-
-Der darstellende Teil muss die für Zustimmung und gerichtliche Bestätigung erheblichen Informationen enthalten:
-
-1. Ausgangslage und Krisenursachen.
-2. Bereits ergriffene und noch erforderliche Maßnahmen.
-3. Restrukturierungsziel und Umsetzungslogik.
-4. Auswirkungen auf alle Planbetroffenen.
-5. Vergleichsrechnung nach Paragraf 6 Absatz 2 StaRUG.
-6. Maßnahmen außerhalb des gestaltenden Teils.
-
-Sieht der Plan die Fortführung vor, ist auch im Ohne-Plan-Szenario grundsätzlich Fortführung zu unterstellen. Eine Liquidation darf nur angesetzt werden, wenn Verkauf oder anderweitige Fortführung aussichtslos sind.
-
-### 3.2. Gestaltender Teil nach Paragraf 7 StaRUG
-
-Ordne jede Rechtsänderung einer Gruppe und einem konkreten Recht zu. Bestimme mindestens Kürzung, Stundung, Verzinsung, Sicherung, Bedingungen, Fälligkeit, Vollzugsdatum und Rückfallregel. Bei einem Debt-to-Equity-Swap darf ein Gläubiger nicht gegen seinen Willen zur Übernahme von Anteilen gezwungen werden.
-
-### 3.3. Anlagen nach Paragrafen 14 und 15 StaRUG
-
-Füge bei Bedarf bei:
-
-1. Begründete Erklärung zur Beseitigung der drohenden Zahlungsunfähigkeit und zur Bestandsfähigkeit.
-2. Vermögensübersicht bei Wirksamwerden des Plans.
-3. Aufwands-, Ertrags- und Zahlungsplanung für den vorgesehenen Befriedigungszeitraum.
-4. Erklärung persönlich haftender Gesellschafter zur Fortführung.
-5. Zustimmung eines Gläubigers zur Übernahme von Anteilen.
-6. Verpflichtungserklärung eines Dritten zu einem Planbeitrag.
-7. Zustimmung des sicherungsgebenden verbundenen Unternehmens bei Eingriffen in gruppeninterne Drittsicherheiten.
-
-Der Planungszeitraum nach Paragraf 14 richtet sich nach dem Befriedigungszeitraum des Plans. Die regelmäßige 24-Monats-Prognose für drohende Zahlungsunfähigkeit folgt dagegen aus Paragraf 18 Absatz 2 InsO.
-
-## 4. Gruppen und Mehrheiten
-
-### 4.1. Gruppenbildung nach Paragraf 9 StaRUG
-
-Trenne zwingend nach Rechtsstellung: Absonderungsanwartschaften, einfache Restrukturierungsgläubiger, jede betroffene Nachrangklasse, Anteilsinhaber und gegebenenfalls Rechte aus gruppeninternen Drittsicherheiten. Weitere Untergruppen sind nur nach sachgerechten wirtschaftlichen Interessen zulässig. Kleingläubiger sind innerhalb der jeweiligen gesetzlichen Gruppe in einer eigenen Gruppe zusammenzufassen.
-
-### 4.2. Gleichbehandlung nach Paragraf 10 StaRUG
-
-Innerhalb jeder Gruppe sind gleiche Rechte anzubieten. Eine Belastungsabweichung verlangt die Zustimmung jedes benachteiligten Gruppenmitglieds. Nebenabreden über nicht im Plan vorgesehene Abstimmungsvorteile sind nichtig.
-
-### 4.3. Stimmrechte und Mehrheiten
-
-Stimmrechte sind nach Paragraf 24 StaRUG zu bewerten. Bedingte, unbestimmte, fremdwährungsbezogene, wiederkehrende oder teilweise besicherte Rechte benötigen einen nachvollziehbaren Wertansatz. Nach Paragraf 25 StaRUG müssen auf die Zustimmenden mindestens drei Viertel der Stimmrechte der Gruppe entfallen.
-
-Erreicht eine Gruppe diese Mehrheit nicht, prüfe Paragrafen 26 bis 28 StaRUG. Eine einzige zustimmende Gruppe genügt nur bei insgesamt zwei Gruppen; ansonsten ist die Mehrheit der abstimmenden Gruppen erforderlich. Zustimmende Gruppen dürfen nicht ausschließlich aus Anteilsinhabern oder nachrangigen Restrukturierungsgläubigern bestehen.
-
-## 5. Abstimmungs- und Gerichtsweg
-
-### 5.1. Außergerichtliches Planangebot
-
-Das Planangebot nach Paragraf 17 StaRUG muss Plan, Anlagen, Kosteninformation, Einbeziehung, Gruppenzuordnung und Stimmrecht offenlegen. Die Annahmefrist beträgt nach Paragraf 19 StaRUG grundsätzlich mindestens 14 Tage. Der Schuldner dokumentiert Ablauf und Ergebnis nach Paragraf 22 StaRUG.
-
-Ein nur von Zustimmenden angenommener Plan kann im vereinbarten Umfang vertraglich wirken. Die gesetzlichen Wirkungen gegenüber ablehnenden oder nicht teilnehmenden Planbetroffenen treten erst mit gerichtlicher Bestätigung nach Paragraf 67 StaRUG ein.
-
-### 5.2. Gerichtliche Planabstimmung
-
-Paragraf 23 StaRUG eröffnet die gerichtliche Abstimmung nach Paragrafen 45 und 46 StaRUG. Vor der Inanspruchnahme eines gerichtlichen Instruments muss das Restrukturierungsvorhaben nach Paragraf 31 StaRUG angezeigt sein.
-
-### 5.3. Gerichtliche Bestätigung
-
-1. Antrag und Nachweise nach Paragraf 60 StaRUG.
-2. Anhörung nach Paragraf 61 StaRUG.
-3. Versagungsgründe nach Paragraf 63 StaRUG.
-4. Individueller Minderheitenschutz nach Paragraf 64 StaRUG.
-5. Sofortige Beschwerde nach Paragraf 66 StaRUG.
-6. Wirkungen der Bestätigung nach Paragraf 67 StaRUG.
-
-## 6. Arbeitsprodukte
-
-### 6.1. Gruppenmatrix
-
-| Planbetroffener | Recht und Rang | Sicherheit | Auswahlgrund | Gruppe | Stimmrecht | Planleistung | Ohne-Plan-Wert |
-| --- | --- | --- | --- | --- | ---: | ---: | ---: |
-| [Name] | [Recht] | [Sicherheit] | [Paragraf 8] | [Gruppe] | [EUR] | [EUR] | [EUR] |
-
-### 6.2. Qualitätsgate
-
-1. Sind alle ausgeschlossenen Rechte nach Paragraf 4 StaRUG aus dem Plan entfernt?
-2. Ist jede Auswahlentscheidung nach Paragraf 8 StaRUG begründet?
-3. Stimmen Gruppenmatrix, Gläubigerliste, Finanzmodell und gestaltender Teil betragsgenau überein?
-4. Bildet die Vergleichsrechnung die realistische beste Alternative ohne Plan ab?
-5. Sind Drittbeiträge rechtlich gesichert und als Anlage dokumentiert?
-6. Sind Stimmrechtsstreit, Widerspruch und Schlechterstellungsrüge protokolliert?
-7. Sind Versagungsgründe und Beschwerderisiken als Gegenposition geprüft?
-
-## 7. Rechtsprechungsanker
-
-1. BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme; keine materielle Bestätigung des Plans. Für Paragraf 66 Absatz 2 Nummer 3 StaRUG müssen wesentliche Schlechterstellung und Alternativszenario substantiiert werden.
-2. BGH, Beschluss vom 23.04.2026 - IX ZB 18/25: Bei Insolvenzreife während der Restrukturierung trägt der Schuldner die Tatsachen für ein ausnahmsweises Absehen von der Aufhebung nach Paragraf 33 Absatz 2 StaRUG; ungesicherte freiwillige Drittbeiträge reichen nicht als belastbare Planfinanzierung.
-
-Weitere Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verwenden.
-
----
-
-## Skill: `paragraph-1-starug-pflichten-und-24-monats-horizont`
-
-_Trennt die fortlaufende Krisenfrüherkennungs- und Reaktionspflicht nach Paragraf 1 StaRUG sauber von der regelmäßigen 24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO. Liefert Pflichtenmemo, Organ- und Eskalationsmatrix, dokumentiertes Frühwarnsystem sowie Liquiditäts- und Maßnahmenkalender._
-
-# 1. Paragraf 1 StaRUG und die 24-Monats-Prognose richtig verbinden
-
-## 1.1. Arbeitsauftrag
-
-Prüfe, welche Überwachungs-, Reaktions- und Berichtspflichten die Geschäftsleitung nach Paragraf 1 StaRUG treffen. Beurteile getrennt, ob für die Prüfung drohender Zahlungsunfähigkeit nach Paragraf 18 Absatz 2 InsO eine regelmäßig 24 Monate umfassende Liquiditätsprognose erforderlich ist.
-
-Der Skillname bleibt aus Kompatibilitätsgründen unverändert. Inhaltlich gilt: Paragraf 1 StaRUG nennt keinen festen 24-Monats-Zeitraum. Dieser Zeitraum folgt aus Paragraf 18 Absatz 2 InsO.
-
-## 1.2. Sofortausgabe
-
-Liefere zuerst:
-
-1. Adressat und betroffene Gesellschaft.
-2. Erkannte oder erkennbare Bestandsgefährdung mit Belegdatum.
-3. Ergriffene Gegenmaßnahme und verantwortliche Person.
-4. Bericht an Überwachungsorgan oder Befassung eines anderen zuständigen Organs.
-5. Prüfung nach Paragrafen 17 bis 19 InsO mit Stichtag.
-6. Nächster Beschluss, nächste Frist und fehlender Beleg.
-
-## 2. Pflichtenkern des Paragrafen 1 StaRUG
-
-### 2.1. Normadressaten
-
-Paragraf 1 Absatz 1 StaRUG richtet sich an die Mitglieder des zur Geschäftsführung berufenen Organs einer juristischen Person. Paragraf 1 Absatz 2 StaRUG erstreckt die Regel auf die Geschäftsleiter des geschäftsführenden Gesellschafters einer rechtsfähigen Personengesellschaft im Sinne des Paragrafen 15a Absatz 1 Satz 3 und Absatz 2 InsO.
-
-| Rechtsform | Typischer Adressat | Ergänzende Organpflicht |
-| --- | --- | --- |
-| GmbH oder UG | Geschäftsführer | insbesondere Paragraf 43 GmbHG |
-| AG oder KGaA | Vorstand | insbesondere Paragrafen 91 und 93 AktG |
-| Genossenschaft | Vorstand | genossenschaftsrechtliche Organpflichten |
-| Rechtsfähiger Verein | Vorstand | insbesondere Paragraf 27 Absatz 3 in Verbindung mit Paragraf 664 BGB sowie Satzung |
-| GmbH und Co. KG ohne natürliche Person als persönlich haftenden Gesellschafter | Geschäftsleiter der Komplementärgesellschaft | Paragraf 1 Absatz 2 StaRUG |
-
-Andere Unternehmen können aus ihrer jeweiligen Organisations- und Sorgfaltspflicht ebenfalls zu Krisenüberwachung verpflichtet sein. Das ist jedoch nicht als unmittelbare Anwendung des Paragrafen 1 StaRUG auszugeben.
-
-### 2.2. Drei gesetzliche Handlungsschritte
-
-1. Fortlaufend über Entwicklungen wachen, die den Fortbestand der juristischen Person gefährden können.
-2. Bei erkannter Bestandsgefährdung geeignete Gegenmaßnahmen ergreifen.
-3. Dem zur Überwachung der Geschäftsleitung berufenen Organ unverzüglich Bericht erstatten; berührt die Maßnahme die Zuständigkeit eines anderen Organs, unverzüglich auf dessen Befassung hinwirken.
-
-Die Norm verlangt keine bestimmte Software, kein ausdrücklich bezeichnetes Handbuch und keine gesetzlich festgelegte Protokollform. Ein belastbares, dokumentiertes System ist dennoch die sachgerechte Organisations- und Beweisvorsorge: Ohne zeitnahe Unterlagen lassen sich Erkennung, Reaktion und Berichtsweg später kaum verlässlich belegen.
-
-## 3. Verhältnis zur Insolvenzordnung
-
-### 3.1. Keine feste Frist in Paragraf 1 StaRUG
-
-Der Überwachungshorizont muss zur Art, Größe, Struktur und Risikolage des Unternehmens passen. Paragraf 1 StaRUG selbst schreibt weder 13 Wochen noch 24 Monate vor.
-
-### 3.2. Regelmäßig 24 Monate nach Paragraf 18 Absatz 2 InsO
-
-Für die drohende Zahlungsunfähigkeit ist in aller Regel ein Prognosezeitraum von 24 Monaten zugrunde zu legen. Deshalb ist ein rollierender 24-Monats-Liquiditätsplan ein starkes Werkzeug innerhalb eines Frühwarnsystems, aber nicht der Wortlaut einer eigenständigen 24-Monats-Pflicht aus Paragraf 1 StaRUG.
-
-Praktische Architektur:
-
-1. Liquiditätsstatus am Stichtag und kurzfristige Drei-Wochen-Prüfung für Paragraf 17 InsO.
-2. Wochenplanung für mindestens 13 Wochen als Steuerungsinstrument.
-3. Monatsplanung für den restlichen regelmäßigen 24-Monats-Zeitraum des Paragrafen 18 Absatz 2 InsO.
-4. Zwölfmonats-Fortführungsprognose für Paragraf 19 Absatz 2 InsO getrennt ausweisen.
-
-Diese Zeitraster sind funktionale Modelle. Sie dürfen nicht als identische gesetzliche Tatbestände vermischt werden.
-
-### 3.3. Zugang zu gerichtlichen StaRUG-Instrumenten
-
-Paragraf 29 Absatz 1 StaRUG stellt die gerichtlichen Instrumente zur nachhaltigen Beseitigung drohender Zahlungsunfähigkeit bereit. Paragraf 30 StaRUG regelt die Restrukturierungsfähigkeit. Vor Inanspruchnahme eines gerichtlichen Instruments ist das Restrukturierungsvorhaben nach Paragraf 31 StaRUG anzuzeigen.
-
-Paragraf 1 StaRUG ist weder die Zugangsnorm noch der 24-Monats-Tatbestand. Ein privater Restrukturierungsplan kann vorbereitet und angeboten werden, ohne bereits ein gerichtliches Instrument in Anspruch zu nehmen.
-
-## 4. Frühwarn- und Eskalationsmatrix
-
-| Signal | Beleg | Bewertungsstichtag | Verantwortlicher | Maßnahme | Organbericht | InsO-Prüfung |
-| --- | --- | --- | --- | --- | --- | --- |
-| Covenant-Verstoß | Bankbericht | [Datum] | [Name] | Waiver und Szenario | [Datum/Organ] | Paragrafen 17 bis 19 |
-| Umsatz- oder Margeneinbruch | Monatsabschluss | [Datum] | [Name] | Kosten- und Finanzierungsplan | [Datum/Organ] | [Ergebnis] |
-| Auslaufende Kreditlinie | Kreditvertrag | [Datum] | [Name] | Refinanzierungsprozess | [Datum/Organ] | [Ergebnis] |
-| Rückstand bei Lohn, Steuer oder Sozialversicherung | OPOS und Konto | [Datum] | [Name] | Sofortstatus und Rechtsprüfung | [Datum/Organ] | [Ergebnis] |
-
-## 5. Beschluss- und Dokumentationsgerüst
-
-```text
-Gesellschaft: [Firma]
-Sitzung und Datum: [Angabe]
-Anwesende und Zuständigkeit: [Angabe]
-
-1. Festgestellte Entwicklung
-[Tatsache, Quelle, Stichtag, Auswirkung]
-
-2. Bestandsgefährdung
-[Bewertung, Szenario, Eintrittswahrscheinlichkeit, Zeithorizont]
-
-3. Insolvenzrechtlicher Status
-Paragraf 17 InsO: [Ergebnis und Beleg]
-Paragraf 18 InsO: [Ergebnis der regelmäßigen 24-Monats-Prognose]
-Paragraf 19 InsO: [Ergebnis und Fortführungsprognose]
-
-4. Gegenmaßnahmen
-[Maßnahme, Verantwortlicher, Termin, Finanzierung, Erfolgskennzahl]
-
-5. Organbefassung
-[Überwachungsorgan, anderes zuständiges Organ, Bericht oder Beschluss]
-
-6. Wiedervorlage
-[Datum, Schwellenwert, Eskalationsfolge]
-```
-
-## 6. Haftungs- und Beweisprüfung
-
-Paragraf 1 StaRUG formuliert Organpflichten, aber keine pauschale eigenständige Direktanspruchsgrundlage für jeden Gläubiger. Haftung ist nach Rechtsform, Anspruchsteller, verletzter Organpflicht, Kausalität, Schaden und den einschlägigen gesellschafts- oder insolvenzrechtlichen Normen gesondert zu prüfen.
-
-Dokumentation beweist nicht automatisch pflichtgemäßes Handeln. Sie muss zeitnah sein und zu Kontobewegungen, Planversionen, Berichten und tatsächlich umgesetzten Maßnahmen passen.
-
-## 7. Fehlerbremse
-
-1. Paragraf 1 StaRUG nicht als gesetzliche 24-Monats-Pflicht bezeichnen.
-2. Paragraf 29 StaRUG nicht als Anzeige- oder Eröffnungsantrag behandeln.
-3. Berichtsadressat ist das Überwachungsorgan; andere Organe sind bei berührter Zuständigkeit zu befassen.
-4. Dokumentation als Organisations- und Beweisvorsorge kennzeichnen, nicht als ausdrücklich vorgeschriebene Form.
-5. Keine direkte persönliche Haftung ohne Anspruchsgrundlage, Pflichtverletzung, Kausalität und Schaden behaupten.
-6. Bei möglicher Zahlungsunfähigkeit oder Überschuldung die unverzügliche Prüfung nach Paragraf 15a InsO vorziehen.
-
-## 8. Quellenregel
-
-Verwende Rechtsprechung nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage. Berufsständische Standards nur mit überprüfter Fassung und als methodischen Standard, nicht als Gesetz ausgeben.
-
----
-
-## Skill: `stabilisierungsanordnung-und-vollstreckungssperre`
-
-_Bereitet eine Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG vor: Anzeige, Adressaten, Vollstreckungs- und Verwertungssperre, sechsmonatiger Finanzplan, Anordnungsvoraussetzungen, Dauer, Vertragswirkungen und Aufhebung. Liefert Antrag, Gläubigermatrix, Anlagenliste und Fristenplan._
-
-# 1. Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG
-
-## 1.1. Arbeitsauftrag
-
-Prüfe, ob und gegen welche Gläubiger eine Vollstreckungs- oder Verwertungssperre benötigt wird. Lies zuerst Titel, Vollstreckungsankündigungen, Sicherheitenregister, Restrukturierungskonzept, Finanzplan und bisherige Gerichtsunterlagen. Liefere einen antragsreifen Kern mit genau bezeichnetem Adressatenkreis und Zeitraum.
-
-## 1.2. Normenkarte
-
-| Norm | Funktion |
-| --- | --- |
-| Paragraf 31 StaRUG | vorherige Anzeige des Restrukturierungsvorhabens |
-| Paragraf 49 StaRUG | Inhalt und Reichweite der Vollstreckungs- oder Verwertungssperre |
-| Paragraf 50 StaRUG | Antrag, aktualisierte Restrukturierungsplanung und sechsmonatiger Finanzplan |
-| Paragraf 51 StaRUG | Anordnungsvoraussetzungen, Schlüssigkeit, Erforderlichkeit und Zustellung |
-| Paragraf 52 StaRUG | Folgeanordnung nach Verlegung des Interessenmittelpunkts |
-| Paragraf 53 StaRUG | Dauer von grundsätzlich bis zu drei Monaten und gesetzliche Verlängerungsfälle |
-| Paragraf 54 StaRUG | Zins-, Wertverlust- und Erlösausgleich bei Verwertungssperren |
-| Paragraf 55 StaRUG | begrenzte Wirkungen auf gegenseitige Verträge |
-| Paragraf 56 StaRUG | Ausnahmen für Finanzsicherheiten und Netting |
-| Paragraf 57 StaRUG | Geschäftsleiterhaftung bei schuldhaft unrichtigen Angaben |
-| Paragraf 58 StaRUG | Aussetzung eines Gläubigerinsolvenzantrags |
-| Paragraf 59 StaRUG | Aufhebung und Ende der Anordnung |
-
-## 2. Antragsvoraussetzungen
-
-### 2.1. Anzeige und Zuständigkeit
-
-Vor Inanspruchnahme der Stabilisierung muss das Restrukturierungsvorhaben nach Paragraf 31 StaRUG beim zuständigen Restrukturierungsgericht angezeigt sein. Paragraf 29 StaRUG bezeichnet die verfügbaren Instrumente; er ist keine Anzeigevorschrift.
-
-### 2.2. Bestimmter Antrag
-
-Bezeichne nach Paragraf 50 Absatz 1 StaRUG:
-
-1. beantragte Vollstreckungs- oder Verwertungssperre,
-2. jeden betroffenen Gläubiger oder den gesetzlich zulässigen Gläubigerkreis,
-3. erfasste Forderungen und Sicherheiten,
-4. beantragte Dauer,
-5. konkrete Gefährdung des Restrukturierungsziels.
-
-### 2.3. Restrukturierungsplanung
-
-Dem Antrag sind nach Paragraf 50 Absatz 2 StaRUG beizufügen:
-
-1. ein tagesaktueller Planentwurf oder ein tagesaktuelles Restrukturierungskonzept nach Paragraf 31 Absatz 2 Satz 1 Nummer 1 StaRUG,
-2. ein Finanzplan für sechs Monate mit fundierter Darstellung der Finanzierungsquellen.
-
-Zusätzlich sind die Erklärungen nach Paragraf 50 Absatz 3 StaRUG abzugeben, insbesondere zu Rückständen bei Arbeitnehmern, Pensionen, Steuern, Sozialversicherung und Lieferanten, früheren Sperren sowie Offenlegungspflichten.
-
-### 2.4. Gerichtliche Prüfung
-
-Nach Paragraf 51 StaRUG müssen Planung und Erklärungen vollständig und schlüssig sein. Die Anordnung scheidet insbesondere aus, wenn wesentliche Angaben unrichtig sind, die Restrukturierung aussichtslos ist, drohende Zahlungsunfähigkeit noch nicht vorliegt oder die Sperre für das Restrukturierungsziel nicht erforderlich ist. Behebbare Mängel können nur eine auf höchstens 20 Tage begrenzte Zwischenanordnung tragen.
-
-## 3. Reichweite und Grenzen
-
-### 3.1. Vollstreckungs- und Verwertungssperre
-
-Paragraf 49 StaRUG erlaubt eine Sperre für Zwangsvollstreckungsmaßnahmen und eine Sperre für die Verwertung bestimmter Rechte an beweglichem Vermögen sowie die Einziehung abgetretener Forderungen. Der Antrag kann sich gegen einzelne, mehrere oder alle Gläubiger richten. Forderungen, die nach Paragraf 4 StaRUG nicht durch einen Plan gestaltet werden können, bleiben ausgenommen.
-
-### 3.2. Sicherheiten und Erlöse
-
-Bei einer Verwertungssperre sind nach Paragraf 54 StaRUG grundsätzlich geschuldete Zinsen und nutzungsbedingter Wertverlust auszugleichen. Erlöse aus der Einziehung sicherungsabgetretener Forderungen oder der Veräußerung beziehungsweise Verarbeitung sicherungsbelasteter beweglicher Sachen sind auszukehren oder unterscheidbar zu verwahren, soweit keine andere Vereinbarung besteht.
-
-### 3.3. Vertragswirkungen
-
-Paragraf 55 StaRUG verhindert unter den gesetzlichen Voraussetzungen, dass ein betroffener Gläubiger allein wegen einer rückständigen Leistung bestimmte Leistungsverweigerungs-, Beendigungs- oder Änderungsrechte ausübt. Das ist weder ein allgemeiner Vertragsstopp noch ein Recht des Schuldners zur einseitigen Vertragsbeendigung. Finanzierungszusagen und gesetzliche Ausnahmen sind gesondert zu prüfen.
-
-### 3.4. Gläubigerinsolvenzantrag
-
-Das Verfahren über einen Gläubigerantrag auf Insolvenzeröffnung wird nach Paragraf 58 StaRUG für die Dauer der Anordnung ausgesetzt. Die eigene Insolvenzantragspflicht der Geschäftsleitung nach Paragraf 15a InsO wird dadurch nicht suspendiert.
-
-## 4. Dauer
-
-1. Erstanordnung: bis zu drei Monate nach Paragraf 53 Absatz 1 StaRUG.
-2. Bei unterbreitetem Planangebot und erwartbarer Annahme innerhalb eines Monats kann die Höchstdauer unter den Voraussetzungen des Paragrafen 53 Absatz 2 StaRUG um einen Monat erweitert werden; die Anordnung richtet sich dann nur gegen Planbetroffene.
-3. Nach beantragter Bestätigung eines angenommenen Plans können Folge- oder Neuanordnungen bis zur Rechtskraft, höchstens aber bis acht Monate nach der Erstanordnung, ergehen, sofern der Plan nicht offensichtlich unbestätigungsfähig ist.
-
-Die Dauer folgt aus Paragraf 53 StaRUG, nicht aus Paragrafen 55 bis 57 StaRUG.
-
-## 5. Antragsgerüst
-
-```text
-An das Amtsgericht [Ort] als Restrukturierungsgericht
-Aktenzeichen: [falls vorhanden]
-
-1. Antrag
-Es wird beantragt, für den Zeitraum vom [Datum] bis [Datum]
-
-1.1. Vollstreckungsmaßnahmen der in Anlage A bezeichneten Gläubiger
-gegen die Schuldnerin zu untersagen und
-
-1.2. die Verwertung der in Anlage B einzeln bezeichneten Rechte
-an beweglichem Vermögen sowie die Einziehung der dort bezeichneten
-abgetretenen Forderungen zu untersagen.
-
-2. Anzeige
-Das Restrukturierungsvorhaben wurde am [Datum] nach Paragraf 31 StaRUG
-angezeigt. Beleg: Anlage C.
-
-3. Restrukturierungsziel und Erforderlichkeit
-[Krise, Ziel, Maßnahmen, konkrete Gefährdung durch Vollstreckung]
-
-4. Drohende Zahlungsunfähigkeit
-[24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO]
-
-5. Restrukturierungsplanung
-[Planentwurf oder Konzept; Verhandlungsstand]
-
-6. Sechsmonatiger Finanzplan
-[Finanzierungsquellen, Rückstände, Fortführung]
-
-7. Gläubiger- und Sicherheitenmatrix
-[Forderung, Titel, Vollstreckungsstand, Sicherheit, beantragte Wirkung]
-
-8. Erklärungen nach Paragraf 50 Absatz 3 StaRUG
-[vollständig]
-```
-
-## 6. Anlagen- und Belegmatrix
-
-| Anlage | Inhalt | Stichtag | Trägt welche Voraussetzung? |
-| --- | --- | --- | --- |
-| A | Gläubiger- und Forderungsliste | [Datum] | Adressatenkreis |
-| B | Sicherheitenregister | [Datum] | Verwertungssperre |
-| C | Anzeige nach Paragraf 31 StaRUG | [Datum] | Instrumentenzugang |
-| D | Planentwurf oder Konzept | [Datum] | Restrukturierungsziel |
-| E | Sechsmonatiger Finanzplan | [Datum] | Fortführungsfinanzierung |
-| F | 24-Monats-Prognose | [Datum] | Paragraf 18 InsO |
-| G | Titel und Vollstreckungsschreiben | [Datum] | Erforderlichkeit |
-| H | Erklärungen nach Paragraf 50 Absatz 3 StaRUG | [Datum] | Vollständigkeit |
-
-## 7. Aufhebung und Haftung
-
-Prüfe laufend Paragraf 59 StaRUG. Die Anordnung ist insbesondere bei Wirkungsverlust der Anzeige, Aufhebungsgründen der Restrukturierungssache, fehlendem Planentwurf oder unzutreffender Planung gefährdet. Sie endet mit Bestätigung oder Versagung der Planbestätigung.
-
-Paragraf 57 StaRUG begründet eine besondere Geschäftsleiterhaftung, wenn eine Stabilisierungsanordnung aufgrund vorsätzlich oder fahrlässig unrichtiger Angaben erwirkt wird. Jede Zahl im Antrag benötigt deshalb Stichtag, Quelle, Bearbeiter und Abstimmungsnachweis.
-
-## 8. Fehlerbremse
-
-1. Paragraf 50 StaRUG nicht als Gläubigerbenachrichtigung bezeichnen.
-2. Paragraf 51 StaRUG nicht als Wirkungsnorm für Sicherheiten bezeichnen.
-3. Paragraf 53 StaRUG als Dauernorm verwenden.
-4. Paragraf 49 StaRUG nicht als pauschales Moratorium für sämtliche Pflichten darstellen.
-5. Ausnahmen des Paragrafen 4 und Finanzsicherheiten nach Paragraf 56 StaRUG prüfen.
-6. Die eigene Antragspflicht nach Paragraf 15a InsO nie als ausgesetzt behandeln.
-7. Rechtsprechung nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle verwenden.
-
----
-
-## Skill: `restructuring-lounge-impulsvortrag-toolkit`
-
-_Wenn es um Impulsvortrag-Toolkit — StaRUG und Krisenfrüherkennung in Krisenfrüherkennung und StaRUG-Management geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Impulsvortrag-Toolkit — StaRUG und Krisenfrüherkennung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG; § 1 StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
-
-Impulsvorträge zu § 1 StaRUG und Krisenfrüherkennung sind mehr als akademische Pflichtübung. Sie sind Mandantengewinnung, Reputationsaufbau und gesellschaftliche Aufgabe zugleich — denn die Mehrzahl der Unternehmen, die in die Insolvenz gehen, hätte mit früherem Handeln Alternativen gehabt. Das vorliegende Toolkit ist für Veranstaltungsformate konzipiert, bei denen Berater, Unternehmer und Sanierungsspezialisten in einer offenen Diskussionsatmosphäre zusammenkommen, wie sie etwa bei Branchen-Lounge-Formaten in Hamburg und anderen Standorten gepflegt wird — zum Beispiel im Format der Restructuring Lounge oder vergleichbarer regionaler Netzwerkveranstaltungen.
-
----
-
-## Rechtsgrundlagen (Vortragsreferenzen)
-
-- § 1 StaRUG (Krisenfrüherkennungspflicht)
-- Paragraf 102 StaRUG (begrenzter Hinweis bei der Jahresabschlusserstellung)
-- Paragrafen 5 bis 28 StaRUG (Restrukturierungsplan und Abstimmung)
-- §§ 49-59 StaRUG (Stabilisierungsanordnung)
-- §§ 15a, 15b InsO (Insolvenzantragspflicht und Zahlungsverbot)
-- § 43 GmbHG, § 93 AktG (GF-Haftung)
-- IDW S 6, IDW S 11, IDW PS 340 n.F.
-
----
-
-## Pflichten
-
-### 1. Vortragsdisziplin — Was ein guter Impulsvortrag leisten muss
-
-Ein 20-Minuten-Impulsvortrag zu StaRUG und Krisenfrüherkennung muss:
-
-1. **Eine klare Kernbotschaft** transportieren (nicht fünf, eine)
-2. **Rechtliche Präzision** mit verständlicher Sprache verbinden — kein Kanzlei-Kauderwelsch
-3. **Handlungsrelevanz** für die Anwesenden erzeugen — niemand kommt für abstrakte Paragrafenlesungen
-4. **Haftungs-Brille** durchgehend anlegen — der GF im Publikum muss spüren: das betrifft mich persönlich
-5. **Konkrete Werkzeuge** zeigen — mindestens ein Template, eine KPI-Tabelle, ein Protokoll
-
----
-
-## Foliensatz-Gliederung (20 Minuten)
-
-```
-FOLIE 1 — TITELFOLIE (0:00 — 0:30)
- "Krisenfrüherkennung ist Pflicht, nicht Kür — § 1 StaRUG"
- [Name des Vortragenden, Datum, Veranstaltungsname]
-
-FOLIE 2 — KERNBOTSCHAFT (0:30 — 1:30)
- "Paragraf 1 StaRUG verlangt fortlaufende Überwachung und Reaktion.
- Die regelmäßige 24-Monats-Prognose folgt aus Paragraf 18 Absatz 2 InsO."
- [Visuell: Timeline — 24 Monate, 12 Monate, 3 Monate, Insolvenzantrag]
-
-FOLIE 3 — DAS PROBLEM (1:30 — 3:00)
- "Wie Unternehmen in die Insolvenz gehen — fünf Stadien."
- Visuell: IDW S 6 Stufenpyramide
- Talking Point: "Stakeholderkrise bis Liquiditätskrise — der Weg dauert Jahre,
- aber die letzten Monate laufen im Eilzugtempo."
-
-FOLIE 4 — § 1 StaRUG — WAS DAS GESETZ VERLANGT (3:00 — 5:00)
- Kerninhalt:
- - Haftungsbeschränkte Rechtsträger = Normadressaten
- - Fortlaufende Überwachung + Gegenmaßnahmen + Unterrichtung
- - 24-Monate-Liquiditätsplanung als Standard
- Talking Point: "Das ist kein Wunsch. Das ist Gesetz seit 2021."
-
-FOLIE 5 — DER 24-MONATS-HORIZONT (5:00 — 7:00)
- Visuell: Planungsstruktur
- Woche 1-13: wöchentlich / Monat 14-24: monatlich
- KPI-Ampel (Liquiditätsreichweite, Net-Debt/EBITDA, DSCR)
- Talking Point: "Ohne diese Sicht können Sie bei drohender
- Zahlungsunfähigkeit keinen StaRUG-Antrag stellen."
-
-FOLIE 6 — DIE HAFTUNG (7:00 — 9:30)
- § 43 GmbHG + § 93 Abs. 2 S. 2 AktG
- Business Judgment Rule — in der Krise eingeschränkt
- Beweislastumkehr: GF muss beweisen, dass er richtig gehandelt hat
- Kernbotschaft: "Ohne Protokoll kein Beweis. Ohne Beweis: Haftung."
-
-FOLIE 7 — PARAGRAF 102 StaRUG — DER BEGRENZTE HINWEIS (9:30 — 11:00)
- Jahresabschlusserstellung, offenkundige Anhaltspunkte und vermutete
- Unkenntnis des Mandanten als drei Kernvoraussetzungen
- Talking Point: "Nicht jede BWA löst Paragraf 102 StaRUG aus. Beim
- Jahresabschluss müssen offenkundige Insolvenzindizien aber konkret
- angesprochen werden."
-
-FOLIE 8 — StaRUG-WERKZEUGKASTEN (11:00 — 13:00)
- Restrukturierungsplan §§ 7 ff.
- Stabilisierungsanordnung §§ 49-59 (drei Monate Schutz)
- Cross-Class-Cram-Down § 26 (Mehrheit gegen ablehnende Gruppen)
- Talking Point: "Das StaRUG ist das modernste Sanierungsgesetz Europas —
- aber es ist nur für den zugänglich, der rechtzeitig handelt."
-
-FOLIE 9 — DIE ZEITKRITISCHE ENTSCHEIDUNG (13:00 — 15:00)
- Visuell: Entscheidungsbaum
- Drohende ZU (§ 18 InsO) → StaRUG oder freie Sanierung
- Eingetretene ZU (§ 17 InsO) → § 15a InsO, drei Wochen
- Überschuldung (§ 19 InsO) → negative FBP → § 15a InsO
- Talking Point: "Der Zug zum StaRUG fährt ab. Wer den verpasst,
- steht am Insolvenzbahnhof."
-
-FOLIE 10 — PRAXIS-CHECKLISTE (15:00 — 17:00)
- "Was Sie diese Woche in Ihrem Unternehmen prüfen sollten:"
- 1. Gibt es eine 24-Monats-Liquiditätsplanung?
- 2. Gibt es ein dokumentiertes KPI-Ampelsystem?
- 3. Wann wurde der Gesellschafter zuletzt über die wirtschaftliche
- Lage informiert?
- 4. Wann hat Ihr StB zuletzt die Krisenthematik angesprochen?
- Talking Point: "Nicht drei von vier — alle vier."
-
-FOLIE 11 — Q&A VORBEREITUNG (17:00 — 20:00)
- "Ihre Fragen — meine Antworten."
- [Moderiertes Gespräch]
-```
-
----
-
-## Talking-Points — Juristische Pointen für den Vortrag
-
-### Point 1 — Die Pflicht ist alt, der Name ist neu
-"Das Pflichtenprogramm der Krisenfrüherkennung ist nicht mit dem StaRUG 2021 neu erfunden worden. Es ergibt sich schon aus § 43 GmbHG, § 93 AktG, § 91 AktG. Das StaRUG hat es kodifiziert und mit einem Verfahren verbunden. Der Gesetzgeber hat nicht mehr Pflichten geschaffen — er hat bestehende Pflichten sichtbar gemacht."
-
-### Point 2 — Beweislastumkehr als Schlüsselproblem
-"§ 93 Abs. 2 S. 2 AktG, analog für GmbH-Geschäftsführer: Wenn der Insolvenzverwalter klagt, muss nicht er beweisen, dass der GF falsch gehandelt hat — sondern der GF muss beweisen, dass er richtig gehandelt hat. Das ist die Welt auf dem Kopf, verglichen mit normalen Haftungsprozessen. Deshalb: Kein Handeln ohne Protokoll."
-
-### Point 3 — Das StaRUG als Versicherungspolice
-"Das StaRUG ist keine Krisensanierungsmaschine für hoffnungslose Fälle. Es ist eine Versicherungspolice für das rechtzeitige Handeln. Wer früh genug einzahlt — mit valider Planung, mit Krisendiagnose, mit Beratereinbindung — der kann im Ernstfall auf moderne Instrumente zugreifen. Wer nicht einzahlt, steht im Regen."
-
-### Point 4 — Paragraf 102 StaRUG tatbestandsgebunden erklären
-"Paragraf 102 StaRUG ist keine allgemeine Dauerwarnpflicht aus jeder Monats-BWA. Die Norm greift bei der Jahresabschlusserstellung, wenn Insolvenzindizien offenkundig sind und der Mandant die mögliche Insolvenzreife vermutlich nicht erkennt. Daneben können vertragliche Pflichten bestehen; beide Ebenen müssen sauber getrennt werden."
-
-### Point 5 — Die Kornhaas-Entscheidung als Warnung für Gesellschaftsform-Optimierer
-
----
-
-## Q&A-Fallnetz — Häufige Fragen mit Antwortvorschlägen
-
-**Frage: "Wie konkret muss die 24-Monats-Planung sein?"**
-Antwort: "Konkret genug, um im Ernstfall vor dem Insolvenzgericht und dem Insolvenzverwalter zu bestehen. Das bedeutet: dokumentierte Planprämissen, wöchentliche Granularität für die ersten dreizehn Wochen, integrierter Cashflow — und vor allem: aktuell. Eine Planung, die sechs Monate alt ist, hilft im Krisenfall nicht."
-
-**Frage: "Wir haben einen Steuerberater — reicht das?"**
-Antwort: "Die Krisenfrüherkennung bleibt Aufgabe der Geschäftsführung. Paragraf 102 StaRUG verpflichtet den Steuerberater nur unter den gesetzlichen Voraussetzungen bei der Jahresabschlusserstellung zum Hinweis. Aus anderen Mandaten können zusätzliche Vertragspflichten folgen; der Steuerberater ersetzt aber weder Organentscheidung noch Insolvenzreifeprüfung."
-
-**Frage: "Was kostet ein StaRUG-Verfahren?"**
-Antwort: "Das hängt von der Komplexität ab. Für eine typische mittelständische Restrukturierung mit zwei bis vier Gläubigergruppen sind sechsstellige Beraterkosten realistisch. Das klingt viel — aber verglichen mit den Alternativkosten eines Insolvenzverfahrens (Reputation, Betriebsunterbrechung, Anfechtungsrisiken) ist es oft erheblich günstiger."
-
-**Frage: "Können wir das StaRUG-Verfahren geheim halten?"**
-Antwort: "Das Verfahren ist nicht mit einer allgemeinen Insolvenzbekanntmachung gleichzusetzen. Eine öffentliche Bekanntmachung nach Paragraf 84 StaRUG erfolgt nur auf Antrag des Schuldners. Ob andere Register-, Beteiligten- oder Veröffentlichungspflichten im konkreten Fall eingreifen, muss für das gewählte Instrument gesondert geprüft werden."
-
-**Frage: "Was passiert, wenn ich zu spät war und § 15a InsO gilt?"**
-Antwort: "Dann ist unverzügliches Handeln erforderlich. Paragraf 15a InsO verlangt den Antrag ohne schuldhaftes Zögern und nennt Höchstzeiträume von drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung. Zusätzlich sind Zahlungen an Paragraf 15b InsO zu prüfen. Insolvenzgrund, Eintrittsdatum, Maßnahmen und Entscheidungsgrundlagen müssen sofort fachkundig geklärt und dokumentiert werden."
-
----
-
-## Format-Hinweise für Branchenlounge-Veranstaltungen
-
-Veranstaltungsformate, bei denen Impulsgespräche zu Restrukturierungsthemen im Vordergrund stehen — wie es der Restructuring Lounge-Ansatz oder vergleichbare regionale Vernetzungsveranstaltungen verkörpern —, funktionieren nach anderen Regeln als klassische Fachkonferenzen:
-
-- **Kürze schlägt Vollständigkeit** — 15-20 Minuten Impuls, dann Diskussion. Kein Vorlesungsvortrag.
-- **Fallbeispiele** (fiktiv) erzeugen mehr Resonanz als Paragrafenzitate. Konkret werden.
-- **Einladung zur Diskussion** — in lockerer Atmosphäre fragen Teilnehmer Dinge, die sie im Seminar nie fragen würden. Dort liegt der echte Erkenntniswert.
-- **Take-away sichern** — eine Checkliste, ein Template oder ein QR-Code mit Ressourcen erhöht die Erinnerungsrate erheblich.
-- **Keine Kanzleiwerbung auf den Folien** — Kompetenz zeigt sich im Inhalt, nicht im Logo-Pflaster.
-
----
-
-## Fallstricke bei Impulsvorträgen
-
-1. **Zu viele Rechtsgrundlagen ohne Kontext** — sieben Paragrafen in drei Minuten abfeuern ist kein Vortrag, sondern ein Gesetzesvortrag. Kontext und Konsequenz interessieren, nicht die Norm allein.
-
-2. **Angst vor zu konkreten Aussagen** — zu vorsichtige Formulierungen (alles ein Einzelfall, immer Anwalt fragen) nehmen dem Vortrag die Substanz. Konkret sein, Haftungshinweis am Ende genügt.
-
-3. **Kein echtes Q&A** — der Wert einer Lounge-Veranstaltung entsteht im Austausch. Wer nach dem Vortrag sofort verschwindet, verschenkt den wichtigsten Teil.
-
-4. **Fiktive Beispiele zu nah an realen Fällen** — Fallbeispiele sollten eindeutig fiktiv sein. Namen, Branchen und Zahlen so wählen, dass kein realer Bezug herstellbar ist.
-
-5. **Technische Panne ohne Backup** — für Kurzvorträge reicht eine ausgedruckte Gliederung als Backup. Folienpräsentation ist Hilfsmittel, nicht Inhalt.
-
----
-
-## Triage — Erste Einordnung
-
-Bevor losgelegt wird, klaere:
-1. **Krisenstadium?** Ertragskrise (EBIT negativ), Liquiditaetskrise (Cashflow negativ) oder akute Insolvenznaehe (ZU/Ueberschuldung)?
-2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
-3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
-4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `cross-class-cram-down-und-absolute-priority`
-
-_Prüft den Cross-Class-Cram-Down nach Paragrafen 26 bis 28 StaRUG gruppengenau: Ohne-Plan-Vergleich, Planwertbeteiligung, Gruppenmehrheit, Rangfolge, gesetzliche Ausnahmen und Minderheitenschutz. Liefert Cram-Down-Memo, Wertbrücke, Abstimmungsmatrix und Antrag auf Planbestätigung._
-
-# 1. Cross-Class-Cram-Down und Rangfolge nach dem StaRUG
-
-## 1.1. Arbeitsauftrag
-
-Prüfe, ob die fehlende Zustimmung einer Abstimmungsgruppe nach Paragraf 26 StaRUG ersetzt werden kann. Trenne strikt zwischen der gruppenübergreifenden Zustimmungsfiktion nach Paragrafen 26 bis 28 StaRUG, dem individuellen Minderheitenschutz nach Paragraf 64 StaRUG und der gerichtlichen Bestätigung nach Paragrafen 60 bis 67 StaRUG.
-
-Lies zuerst Plan, Anlagen, Abstimmungsdokumentation und Bewertungsunterlagen. Frage nur nach fehlenden Zahlen oder Belegen, die eine der gesetzlichen Voraussetzungen verändern.
-
-## 1.2. Sofortausgabe
-
-Liefere zuerst eine Tabelle mit diesen Spalten:
-
-| Gruppe | Stimmrechte | Zustimmung nach Paragraf 25 | Ohne-Plan-Stellung | Planwertbeteiligung | Rangtest | Ergebnis |
-| --- | ---: | ---: | ---: | ---: | --- | --- |
-| [Gruppe] | [Betrag oder Wert] | [Prozent] | [EUR] | [EUR] | [bestanden/offen] | [angenommen/Paragraf 26 prüfen] |
-
-Danach folgen nur die tragenden Rechenannahmen, die stärkste Gegenposition, die Beleglücken und der nächste gerichtliche Schritt.
-
-## 2. Normenarchitektur
-
-1. Paragraf 6 Absatz 2 StaRUG verlangt im darstellenden Teil die Vergleichsrechnung. Bei einer im Plan vorgesehenen Fortführung ist grundsätzlich auch für das Ohne-Plan-Szenario von Fortführung auszugehen; nur bei aussichtslosem Verkauf oder aussichtsloser anderweitiger Fortführung darf davon abgewichen werden.
-2. Paragraf 9 StaRUG regelt die Gruppenbildung nach Rechtsstellung; Paragraf 10 StaRUG die Gleichbehandlung innerhalb der Gruppe.
-3. Paragraf 25 StaRUG verlangt in jeder Gruppe mindestens drei Viertel der Stimmrechte.
-4. Paragraf 26 StaRUG fingiert unter den dort genannten Voraussetzungen die Zustimmung einer ablehnenden Gruppe.
-5. Paragraf 27 StaRUG konkretisiert die angemessene Beteiligung am Planwert und bildet die gesetzliche Rangfolge ab.
-6. Paragraf 28 StaRUG enthält eng begrenzte Ausnahmen von den Rangregeln des Paragrafen 27 StaRUG.
-7. Paragraf 63 StaRUG regelt die Versagung der Bestätigung; Paragraf 64 StaRUG schützt den einzelnen widersprechenden Planbetroffenen vor voraussichtlicher Schlechterstellung.
-8. Paragraf 66 StaRUG regelt die sofortige Beschwerde; Paragraf 67 StaRUG die Wirkungen der Bestätigung.
-
-Es gibt im StaRUG keinen eigenständigen Missbrauchs- oder Obstruktionstatbestand in Paragraf 31. Paragraf 31 regelt die Anzeige des Restrukturierungsvorhabens und die Rechtshängigkeit der Restrukturierungssache.
-
-## 3. Prüfung nach Paragraf 26 StaRUG
-
-### 3.1. Ausgangspunkt
-
-Ermittle zunächst für jede abstimmende Gruppe das Stimmrecht und das Ergebnis nach Paragrafen 24 und 25 StaRUG. Nur bei einer verfehlten Gruppenmehrheit stellt sich die Frage nach Paragraf 26 StaRUG.
-
-### 3.2. Keine Schlechterstellung der Gruppe
-
-Die Mitglieder der ablehnenden Gruppe müssen durch den Plan voraussichtlich mindestens so stehen wie ohne Plan. Die Rechnung muss den rechtlich und wirtschaftlich realistischen nächstbesten Verlauf abbilden, nicht automatisch eine Zerschlagung. Prüfe insbesondere:
-
-1. Fortführung, Verkauf, Insolvenzplan und Regelinsolvenz als ernsthafte Alternativen.
-2. Bewertungsstichtag, Unternehmenswert, Sicherheitenwerte, Verfahrenskosten und Zeitwert.
-3. Durchsetzbare Rechte gegen Mitschuldner, Bürgen und aus gruppeninternen Drittsicherheiten.
-4. Sensitivität der Quote bei Umsatz, Marge, Finanzierung, Verwertungskosten und Dauer.
-
-### 3.3. Angemessene Beteiligung am Planwert
-
-Prüfe Paragraf 27 StaRUG in dieser Reihenfolge:
-
-1. Kein Planbetroffener erhält mehr als den vollen Betrag seines Anspruchs.
-2. Kein ohne Plan nachrangiger Gläubiger, der Schuldner oder ein Anteilsinhaber erhält einen nicht vollständig durch eine Leistung in das Schuldnervermögen ausgeglichenen Wert, solange die überstimmte Gruppe nicht entsprechend der gesetzlichen Rangfolge beteiligt ist.
-3. Kein ohne Plan gleichrangiger Gläubiger wird gegenüber der überstimmten Gruppe bessergestellt.
-
-Für Anteilsinhaber gilt die gesonderte Regel des Paragrafen 27 Absatz 2 StaRUG.
-
-### 3.4. Ausnahmen nach Paragraf 28 StaRUG
-
-Eine Abweichung ist keine freie Wahl zwischen absoluter und relativer Priorität. Prüfe die gesetzlich bezeichneten Ausnahmefälle einzeln:
-
-1. Eine Abweichung bei gleichrangigen Gläubigern muss nach Art der Schwierigkeiten und Umständen sachgerecht sein; sie ist nicht sachgerecht, wenn die überstimmte Gruppe mehr als die Hälfte der Stimmrechte der betroffenen Rangklasse hält.
-2. Ein Wertverbleib beim Schuldner oder Anteilsinhaber setzt insbesondere eine unerlässliche Mitwirkung mit Planbindung oder nur geringfügige Eingriffe nach Paragraf 28 Absatz 2 StaRUG voraus.
-
-### 3.5. Mehrheit der abstimmenden Gruppen
-
-Die Mehrheit der abstimmenden Gruppen muss mit der erforderlichen Mehrheit zugestimmt haben. Bei genau zwei Gruppen genügt die Zustimmung der anderen Gruppe. Die zustimmenden Gruppen dürfen nicht ausschließlich aus Anteilsinhabern oder nachrangigen Restrukturierungsgläubigern bestehen.
-
-Eine einzige zustimmende Gruppe genügt daher nicht allgemein. Bei drei Gruppen müssen regelmäßig mindestens zwei zustimmen.
-
-### 3.6. Gruppeninterne Drittsicherheiten
-
-Ist eine nach Paragraf 9 Absatz 1 Satz 3 StaRUG gebildete Gruppe betroffen, ergänze den Entschädigungstest des Paragrafen 26 Absatz 2 StaRUG. Der Rechtsverlust aus der Drittsicherheit oder aus der Haftung des persönlich haftenden Gesellschafters muss angemessen kompensiert werden.
-
-## 4. Individueller Minderheitenschutz
-
-Paragraf 64 StaRUG ist nicht mit Paragraf 26 gleichzusetzen. Ein Planbetroffener kann die Versagung der Bestätigung nur beantragen, wenn er gegen den Plan gestimmt, bereits im Abstimmungsverfahren widersprochen und die voraussichtliche Schlechterstellung ordnungsgemäß geltend gemacht hat. Im gerichtlichen Termin muss er sie spätestens dort glaubhaft machen.
-
-Enthält der gestaltende Teil einen Ausgleichsfonds nach Paragraf 64 Absatz 3 StaRUG, wird der Versagungsantrag abgewiesen; der Anspruch auf Ausgleich ist außerhalb der Restrukturierungssache zu klären. Das Restrukturierungsgericht spricht in diesem Verfahren keinen individuellen Ausgleichsbetrag zu.
-
-## 5. Arbeitsprodukt
-
-### 5.1. Cram-Down-Memo
-
-1. Plan und Abstimmungsweg.
-2. Gruppenbildung und Stimmrechte.
-3. Abstimmungsergebnis nach Paragraf 25 StaRUG.
-4. Ohne-Plan-Szenario und Belegquellen.
-5. Planwertbrücke und Verteilung.
-6. Prüfung der Paragrafen 26 bis 28 StaRUG je ablehnender Gruppe.
-7. Einwendungen nach Paragrafen 63 und 64 StaRUG.
-8. Antrag, Anlagen und verbleibendes Prozessrisiko.
-
-### 5.2. Wertbrücke
-
-```text
-Unternehmenswert im Planfall                         EUR [Betrag]
-zuzüglich neue Finanzierung und sonstige Beiträge   EUR [Betrag]
-abzüglich Vollzugskosten und nicht planbetroffene Lasten
-                                                     EUR [Betrag]
-= Planwert                                           EUR [Betrag]
-
-Ohne-Plan-Szenario: [Fortführung/Verkauf/Insolvenzplan/Regelverfahren]
-Verteilungswert ohne Plan                            EUR [Betrag]
-
-Gruppe [Bezeichnung]
-Stellung ohne Plan                                   EUR [Betrag]
-Stellung im Plan                                     EUR [Betrag]
-Differenz                                            EUR [Betrag]
-Rangtest nach Paragraf 27                            [bestanden/offen]
-Ausnahme nach Paragraf 28                            [nein/ja mit Begründung]
-```
-
-## 6. Rechtsprechungsanker
-
-1. BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme einer Verfassungsbeschwerde. Die Entscheidung bestätigt weder generell die Verfassungsmäßigkeit des StaRUG noch die materielle Richtigkeit des Plans. Für die Praxis trägt sie die Anforderung, eine wesentliche Schlechterstellung und realistische Alternativverläufe für die Beschwerde nach Paragraf 66 Absatz 2 Nummer 3 StaRUG konkret darzulegen.
-2. BGH, Beschluss vom 23.04.2026 - IX ZB 18/25: Bei einer Aufhebung nach Paragraf 33 Absatz 2 StaRUG trägt der Schuldner die Umstände, aus denen das Gericht ausnahmsweise von der Aufhebung absehen soll. Rechtlich nicht gesicherte freiwillige Drittbeiträge tragen die Fortführung des Restrukturierungsvorhabens nicht zuverlässig.
-
-Vor Verwendung weitere Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Fundstelle aufnehmen.
-
-## 7. Fehlerbremse
-
-1. Nicht automatisch Zerschlagung als Ohne-Plan-Szenario ansetzen.
-2. Gruppenmehrheit, Gruppen-Cram-down und individuellen Minderheitenschutz nicht vermischen.
-3. Paragraf 28 StaRUG nicht als allgemeinen Schlechterstellungstest bezeichnen.
-4. Keine freie relative Prioritätsregel erfinden.
-5. Anteilsinhaberwert, neue Finanzierung und Drittbeiträge vollständig in der Planwertbrücke offenlegen.
-6. Widerspruchs-, Glaubhaftmachungs- und Hinweiserfordernisse nach Paragrafen 63 bis 66 StaRUG dokumentieren.
-
----
-
-## Skill: `zahlungsunfaehigkeit-compliance-dokumentation-und-akte`
-
-_Wenn es um Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk in Krisenfrüherkennung und StaRUG-Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG; § 1 StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk
-- **Normen-/Quellenanker:** StaRUG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Zahlungsunfaehigkeit** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `warnpflicht-schriftsatz-brief-und-memo-bausteine`
-
-_Wenn es um Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine in Krisenfrüherkennung und StaRUG-Management geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG; § 1 StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine
-- **Normen-/Quellenanker:** StaRUG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Warnpflicht** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Red-Team Krisenfrüherkennung
+- **Wer ist Adressat von § 1 StaRUG?** Geschäftsleiter haftungsbeschränkter Gesellschaften (GmbH, AG, KGaA, GmbH & Co. KG bei nicht natürlicher Komplementärin) — Einzelunternehmer und OHG ohne Kapitalgesellschaftsbeteiligung sind nicht erfasst.
+- **Welche Maßstäbe?** "Geeignete Maßnahmen" sind ungeschriebener Sorgfaltsmaßstab — angemessen ist, was eine sorgfältige Geschäftsleitung in der konkreten Lage zur Krisenabwehr ergreifen würde (BGH ständige Rspr. zu § 43 GmbHG).
+- **Drohende Zahlungsunfähigkeit und Instrumentenweg:** Paragraf 18 Absatz 2 InsO regelmäßig über 24 Monate prüfen; Instrumentenkatalog nach Paragraf 29, Restrukturierungsfähigkeit nach Paragraf 30 und Anzeige nach Paragraf 31 StaRUG getrennt abarbeiten.
+- **Trennung zu § 15a InsO:** § 1 StaRUG ist Pflicht im Vorfeld; § 15a InsO ist Antragspflicht nach Eintritt von Zahlungsunfähigkeit (§ 17) oder Überschuldung (§ 19). Höchstfristen: 3 Wochen / 6 Wochen.
+- **Halluzinationsprüfung:** Keine BGH-Az aus Modellwissen; bei Unklarheit zu IDW S 11 oder IDW S 6 Verifikation gegen die Originaltexte (Live-Check).
+- **Praxis:** Niemals "in der Krise" ohne § 18-Test sagen — der Eröffnungsgrund ist Tatbestand, nicht Lebensgefühl.
 
 ---
 

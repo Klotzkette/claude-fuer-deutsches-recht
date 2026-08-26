@@ -1,6 +1,6 @@
 ---
 name: widerruf-fernabsatz
-description: "Wenn es um Widerruf im Fernabsatz- und Außergeschäftsraumvertrag in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Widerruf im Fernabsatz- und Außergeschäftsraumvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Widerruf im Fernabsatz- und Außergeschäftsraumvertrag

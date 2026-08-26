@@ -1,6 +1,6 @@
 ---
 name: einstieg-in-den-skill-verbund-sozialrecht
-description: "Wenn es um Einstieg in den Skill-Verbund Sozialrecht in Fachanwalt Sozialrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einstieg in den Skill-Verbund Sozialrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstieg in den Skill-Verbund Sozialrecht

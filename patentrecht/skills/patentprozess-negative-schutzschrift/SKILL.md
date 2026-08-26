@@ -1,6 +1,6 @@
 ---
 name: patentprozess-negative-schutzschrift
-description: "Wenn es um Patentprozess: Negative Feststellung und Torpedo-Risiken in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Patentprozess: Negative Feststellung und Torpedo-Risiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentprozess: Negative Feststellung und Torpedo-Risiken

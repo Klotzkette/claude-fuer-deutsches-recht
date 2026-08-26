@@ -1,6 +1,6 @@
 ---
 name: aufhebungsvertrag-faires-verhandeln-bag-6-azr-333-21
-description: "Prüft Aufhebungsverträge auf Schriftform, Anfechtung und Verletzung des Gebots fairen Verhandelns. Rekonstruiert Gespräch, Drohkulisse, Entscheidungsfreiheit und Kausalität und liefert Beweismatrix, Fortbestandsantrag, Rückabwicklungsstrategie und belastbaren Vergleichsvorschlag."
+description: "Prüft Aufhebungsverträge auf Schriftform, Anfechtung und Verletzung des Gebots fairen Verhandelns."
 ---
 
 # Aufhebungsvertrag und faires Verhandeln prüfen

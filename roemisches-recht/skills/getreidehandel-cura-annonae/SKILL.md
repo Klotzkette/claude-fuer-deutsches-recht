@@ -1,6 +1,6 @@
 ---
 name: getreidehandel-cura-annonae
-description: "Wenn es um Rom 129 Getreidehandel Cura Annonae in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom 129 Getreidehandel Cura Annonae: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 129 Getreidehandel Cura Annonae

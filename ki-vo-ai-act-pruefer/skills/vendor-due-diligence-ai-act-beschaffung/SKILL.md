@@ -1,6 +1,6 @@
 ---
 name: vendor-due-diligence-ai-act-beschaffung
-description: "Wenn es um digitale Werkzeuge-Beschaffung: Vendor Due Diligence in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge-Beschaffung: Vendor Due Diligence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Beschaffung: Vendor Due Diligence

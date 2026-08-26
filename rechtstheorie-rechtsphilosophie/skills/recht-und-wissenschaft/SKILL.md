@@ -1,6 +1,6 @@
 ---
 name: recht-und-wissenschaft
-description: "Wenn es um Recht und Wissenschaft in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Recht und Wissenschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Recht und Wissenschaft

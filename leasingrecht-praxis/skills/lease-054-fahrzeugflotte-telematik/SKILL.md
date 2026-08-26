@@ -1,6 +1,6 @@
 ---
 name: lease-054-fahrzeugflotte-telematik
-description: "Wenn es um Fahrzeugflotte und Telematik in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fahrzeugflotte und Telematik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fahrzeugflotte und Telematik

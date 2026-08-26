@@ -1,6 +1,6 @@
 ---
 name: grenzbeschlagnahme-design
-description: "Wenn es um Grenzbeschlagnahme Design in designrecht-geschmacksmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Grenzbeschlagnahme Design: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzbeschlagnahme Design

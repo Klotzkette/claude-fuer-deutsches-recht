@@ -1,6 +1,6 @@
 ---
 name: chn-095-media-and-public-affairs
-description: "Wenn es um Media And Public Affairs in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Media And Public Affairs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Media And Public Affairs

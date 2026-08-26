@@ -1,6 +1,6 @@
 ---
 name: lst-haftung-42d-estg
-description: "Wenn es um Lohnsteuerhaftung des Arbeitgebers — Paragraf 42d EStG in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lohnsteuerhaftung des Arbeitgebers — Paragraf 42d EStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lohnsteuerhaftung des Arbeitgebers — § 42d EStG

@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-richter-vg-sitzung
-description: "Wenn es um Ehrenamtlicher Richter Verwaltungsgericht: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ehrenamtlicher Richter Verwaltungsgericht: Sitzungspraxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ehrenamtlicher Richter Verwaltungsgericht: Sitzungspraxis

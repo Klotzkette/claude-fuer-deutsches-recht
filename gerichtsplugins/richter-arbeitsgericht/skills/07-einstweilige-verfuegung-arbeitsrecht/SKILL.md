@@ -1,6 +1,6 @@
 ---
 name: 07-einstweilige-verfuegung-arbeitsrecht
-description: "Wenn es um 07 Einstweilige Verfügung Arbeitsrecht in Arbeitsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für 07 Einstweilige Verfügung Arbeitsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 07 Einstweilige Verfügung Arbeitsrecht

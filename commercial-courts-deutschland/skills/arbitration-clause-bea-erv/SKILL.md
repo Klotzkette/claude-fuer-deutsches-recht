@@ -1,6 +1,6 @@
 ---
 name: arbitration-clause-bea-erv
-description: "Wenn es um Arbitration Clause Conflict in commercial-courts-deutschland geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbitration Clause Conflict: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbitration Clause Conflict

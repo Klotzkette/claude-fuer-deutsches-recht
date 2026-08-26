@@ -1,6 +1,6 @@
 ---
 name: umgehung-des-gegenanwalts-rechtsprechungscheck
-description: "Wenn es um Umgehung Des Gegenanwalts Rechtsprechungscheck in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Umgehung des Gegenanwalts Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: umgehung des gegenanwalts - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

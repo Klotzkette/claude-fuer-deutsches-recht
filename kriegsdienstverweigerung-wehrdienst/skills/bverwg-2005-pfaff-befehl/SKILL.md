@@ -1,6 +1,6 @@
 ---
 name: bverwg-2005-pfaff-befehl
-description: "Wenn es um BVerwG 2005 konkreter Befehl in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BVerwG 2005 konkreter Befehl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BVerwG 2005 konkreter Befehl

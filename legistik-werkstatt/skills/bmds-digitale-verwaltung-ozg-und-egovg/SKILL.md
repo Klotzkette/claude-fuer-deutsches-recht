@@ -1,6 +1,6 @@
 ---
 name: bmds-digitale-verwaltung-ozg-und-egovg
-description: "Wenn es um Digitale Verwaltung (OZG; EGovG) (BMDS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Digitale Verwaltung (OZG; EGovG) (BMDS): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitale Verwaltung (OZG; EGovG) (BMDS)

@@ -1,6 +1,6 @@
 ---
 name: nachreichung-berichtigung-ocr-scan-original
-description: "Wenn es um Nachreichung, Berichtigung und gerichtlicher Hinweis in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Nachreichung Berichtigung Ocr Scan Original; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Nachreichung, Berichtigung und gerichtlicher Hinweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: nachreichung-berichtigung-ocr-scan-original."
 ---
 
 # Nachreichung, Berichtigung und gerichtlicher Hinweis

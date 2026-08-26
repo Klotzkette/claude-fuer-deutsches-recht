@@ -1,6 +1,6 @@
 ---
 name: anspruchstabelle
-description: "Wenn es um Anspruchstabelle im Zivilprozess in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anspruchstabelle im Zivilprozess: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Anspruchstabelle im Zivilprozess

@@ -1,6 +1,6 @@
 ---
 name: muendliche-verhandlung-vgh-strategie
-description: "Wenn es um Mündliche Verhandlung BayVGH/OVG in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mündliche Verhandlung BayVGH/OVG: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Mündliche Verhandlung BayVGH/OVG

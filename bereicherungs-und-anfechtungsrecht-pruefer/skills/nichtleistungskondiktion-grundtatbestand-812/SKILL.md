@@ -1,6 +1,6 @@
 ---
 name: nichtleistungskondiktion-grundtatbestand-812
-description: "Wenn es um Nichtleistungskondiktion — Grundtatbestand Paragraf 812 Abs. 1 S. 1 Alt. 2 BGB in bereicherungs-und-anfechtungsrecht-prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Auswahlstichwort: Nichtleistungskondiktion Grundtatbestand 812; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Nichtleistungskondiktion — Grundtatbestand Paragraf 812 Abs. 1 S. 1 Alt. 2 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: nichtleistungskondiktion-grundtatbestand-812."
 ---
 
 # Nichtleistungskondiktion — Grundtatbestand § 812 Abs. 1 S. 1 Alt. 2 BGB

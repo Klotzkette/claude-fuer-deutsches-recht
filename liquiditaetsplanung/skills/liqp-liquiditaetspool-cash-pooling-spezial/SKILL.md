@@ -1,6 +1,6 @@
 ---
 name: liqp-liquiditaetspool-cash-pooling-spezial
-description: "Wenn es um LiqP: Cash-Pooling Spezial in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LiqP: Cash-Pooling Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LiqP: Cash-Pooling Spezial

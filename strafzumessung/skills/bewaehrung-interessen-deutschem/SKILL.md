@@ -1,6 +1,6 @@
 ---
 name: bewaehrung-interessen-deutschem
-description: "Wenn es um Bewaehrung: Mehrparteienkonflikt und Interessenmatrix in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bewährung: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bewaehrung: Mehrparteienkonflikt und Interessenmatrix

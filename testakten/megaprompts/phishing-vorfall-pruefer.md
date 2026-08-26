@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 61 Skills des Plugins `phishing-vorfall-p
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Phishing Vorfall Prüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Phishing-Vorfall-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden …
-3. **freistehender-erstpruefung-und-mandatsziel** — Wenn es um Freistehender: Erstprüfung, Rollenklärung und Mandatsziel in Phishing-Vorfall-Prüfer geht: klärt Rolle, Ziel,…
-4. **phish-banking-trojaner-haftung-spezial** — Wenn es um Phish: Banking-Trojaner Haftung in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
-5. **pushtan-compliance-dokumentation-und-akte** — Wenn es um Pushtan: Compliance-Dokumentation und Aktenvermerk in Phishing-Vorfall-Prüfer geht: ordnet Akteninhalt, Beleg…
-6. **bgb-schriftsatz-brief-und-memo-bausteine** — Wenn es um BGB: Schriftsatz-, Brief- und Memo-Bausteine in Phishing-Vorfall-Prüfer geht: erstellt den passenden Entwurf …
-7. **phishing-erstkontakt-mandant** — Wenn es um Phishing: Erstkontakt Mandant in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenarg…
-8. **phishing-kryptowaehrung-recovery** — Wenn es um Phishing mit Kryptowaehrung in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
-9. **online-risikoampel-und-gegenargumente** — Wenn es um Online: Risikoampel, Gegenargumente und Verteidigungslinien in Phishing-Vorfall-Prüfer geht: zerlegt Ergebnis…
-10. **675w-zahlen-schwellen-und-berechnung** — Wenn es um 675W: Zahlen, Schwellenwerte und Berechnung in Phishing-Vorfall-Prüfer geht: rechnet Schwellen, Beträge, Vari…
-11. **bankpflichten-beweislast-bgb** — Wenn es um Bankpflichten: Beweislast, Darlegungslast und Substantiierung in Phishing-Vorfall-Prüfer geht: prüft Frist, F…
-12. **beweislast-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Beweislast: Mandantenkommunikation und Entscheidungsvorlage in Phishing-Vorfall-Prüfer geht: prüft Frist, For…
-13. **spezial-pruefer-dokumentenmatrix-und-lueckenliste** — Wenn es um Pruefer: Dokumentenmatrix, Lückenliste und Nachforderung in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, …
-14. **spezial-fahrlaessigkeit-red-team-und-qualitaetskontrolle** — Wenn es um Fahrlaessigkeit: Red-Team und Qualitätskontrolle in Phishing-Vorfall-Prüfer geht: zerlegt Ergebnis, Frist, Zu…
-15. **675u-675w-banking** — Wenn es um 675U: Verhandlung, Vergleich und Eskalation in Phishing-Vorfall-Prüfer geht: entwickelt Verhandlungsziel, Ver…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **freistehender-erstpruefung-und-mandatsziel** — Für Freistehender: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis…
+4. **spoofing-internationaler-bezug-und-schnittstellen** — Für Spoofing: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstel…
+5. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+6. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+7. **beweislast-mandantenkommunikation-entscheidungsvorlage** — Für Beweislast: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Ma…
+8. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+9. **phishing-tan** — Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+10. **workflow-redteam-qualitygate** — Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristench…
+11. **bankpflichten-beweislast-bgb** — Für Bankpflichten: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: …
+12. **pushtan-schlichtung-sonderfall** — Für Prüfer: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpr…
+13. **workflow-chronologie-und-belegmatrix** — Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix…
+14. **bgb-schriftsatz-brief-und-memo-bausteine** — Für BGB: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz…
+15. **output-waehlen** — Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fac…
 
 ---
 
@@ -143,7 +143,7 @@ Ausgangspunkt für dieses Plugin: Die Bank trägt den Nachweis von Authentifizie
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Phishing-Vorfall-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Phishing-Vorfall-Prüfer._
 
 # Einstieg und Routing
 
@@ -187,7 +187,7 @@ Dieser Einstieg routet **Phishing Vorfall Prüfer** vom ersten Sachverhalt zu Ro
 
 ## Skill: `freistehender-erstpruefung-und-mandatsziel`
 
-_Wenn es um Freistehender: Erstprüfung, Rollenklärung und Mandatsziel in Phishing-Vorfall-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Freistehender: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Phishing-Vorfall-Prüfer._
 
 # Freistehender: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -246,63 +246,12 @@ Bei "autorisiert unter Täuschung" (Kunde hat freiwillig PIN/TAN nach Phishing-M
 
 ---
 
-## Skill: `phish-banking-trojaner-haftung-spezial`
+## Skill: `spoofing-internationaler-bezug-und-schnittstellen`
 
-_Wenn es um Phish: Banking-Trojaner Haftung in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Spoofing: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Phish: Banking-Trojaner Haftung
+# Spoofing: Internationaler Bezug und Schnittstellen
 
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: § 675u; § 675v — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Phish: Banking-Trojaner Haftung
-- **Normen-/Quellenanker:** BGB.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `pushtan-compliance-dokumentation-und-akte`
-
-_Wenn es um Pushtan: Compliance-Dokumentation und Aktenvermerk in Phishing-Vorfall-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Pushtan: Compliance-Dokumentation und Aktenvermerk
 
 ## Arbeitsweg
 
@@ -312,7 +261,9 @@ _Wenn es um Pushtan: Compliance-Dokumentation und Aktenvermerk in Phishing-Vorfa
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Pushtan: Compliance-Dokumentation und Aktenvermerk
+**Fokus:** Spoofing: Internationaler Bezug und Schnittstellen.
+
+## Spezialwissen: Spoofing: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** BGB §§ 675u, 675v, 675w, 280; ZAG/PSD2, künftig PSD3/PSR beobachten; DSGVO Art. 33, 34; StGB §§ 263, 263a, 202a, 269; Bank-AGB, Authentifizierungsprotokolle und Ombudsmannregeln.
 
 ## Fallweichen
@@ -326,303 +277,283 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **pushTAN** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Spoofing** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## pushTAN-Verfahren technisch
-pushTAN ist ein App-basiertes Authentifizierungsverfahren der Sparkassen / Volksbanken / Banken-eigenen Apps:
-- Banking-App auf Endgerät A.
-- pushTAN-App (oder integriertes Verfahren) auf demselben oder einem zweiten Endgerät.
-- Transaktion wird vom Endgerät an die Bank gesendet; Bank pusht Bestätigungsanforderung an die pushTAN-App; Nutzer bestätigt mit PIN/Biometrie.
-
-## Schwachstellen pushTAN
-- **Same-Device-Risiko**: pushTAN-App und Banking-App auf demselben Smartphone → bei Malware-Befall beide kompromittierbar.
-- **Visualisierung Empfänger/Betrag**: muss in pushTAN-App dargestellt werden — bei kompromittierten Anzeigen Manipulation möglich.
-- **Social Engineering (Callcenter-Trick)**: Anrufer gibt sich als Bankmitarbeiter aus, lässt Kunden TAN bestätigen "um den Vorfall abzuwehren".
-- **Phishing-Webseite**: leitet Eingaben in die echte Banking-Strecke; Kunde glaubt, eigene Transaktion zu autorisieren, autorisiert in Wahrheit Angreiferüberweisung.
-
-## Dokumentationspflicht in der Akte
-- **Tool-Beschreibung**: Welches pushTAN-Verfahren? Welche Version der App? Welche Endgeräte (gleiches/getrenntes)?
-- **Beweismittelliste**: Screenshots der Banking-App im fraglichen Zeitraum, pushTAN-Verlauf, Geräte-Logs (soweit verfügbar), Telefon-Verbindungsnachweise, Phishing-Mail / SMS / Webseite.
-- **Sachverhaltschronologie**: Minute für Minute der Angriff (Eingang Mail/Anruf, Klick, Eingabe, TAN-Bestätigung, Buchung, Entdeckung).
-- **Kundenverhalten dokumentieren**: Wahrnehmung des Visualisierungstextes? Wurde Empfänger/Betrag in der TAN-App geprüft? Anzeichen für Druckaufbau (Eile, Drohung)?
-
-## Pflichten Bank zu pushTAN
-- **Starke Kundenauthentifizierung** § 55 ZAG (PSD2-Umsetzung): zwei unabhängige Elemente; bei Same-Device pushTAN ist die Unabhängigkeit fraglich — Anti-Fraud-Mechanismen zwingend.
-- **Dynamische Verknüpfung** (Art. 5 Delegierte VO (EU) 2018/389): Authentifizierungs-Code dynamisch verknüpft mit Betrag und Empfänger; bei manipulierter Anzeige Pflichtverletzung.
-- **Risikoanalyse** § 27 ZAG: laufende Anomalie-Erkennung.
-
-## Akten-Output für Schlichtung/Klage
-- Risikoampel pushTAN-Vorfall (rot/gelb/grün) mit Begründung.
-- Pflichtenmatrix Bank (erfüllt/nicht erfüllt).
-- Kundenmatrix § 675l BGB (verletzt/nicht verletzt).
-- Konkretisierungsempfehlung Klage/Schlichtung.
-
-## Trade-off
-pushTAN ist faktisch mehrheitlich Same-Device — Banken werden in Verfahren regelmäßig zur Erstattung verurteilt, wenn Anomalie-Erkennung schwach und Visualisierung manipulierbar war. Live-Recherche aktueller OLG-Linien lohnt sich.
-
 ---
 
-## Skill: `bgb-schriftsatz-brief-und-memo-bausteine`
+## Skill: `workflow-kaltstart-und-routing`
 
-_Wenn es um BGB: Schriftsatz-, Brief- und Memo-Bausteine in Phishing-Vorfall-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Phishing-Vorfall-Prüfer._
 
-# BGB: Schriftsatz-, Brief- und Memo-Bausteine
+# Kaltstart und Routing
 
-## Arbeitsweg
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: § 675u; § 675v — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
 
-## Spezialwissen: BGB: Schriftsatz-, Brief- und Memo-Bausteine
-- **Normen-/Quellenanker:** BGB §§ 675u, 675v, 675w, 280; ZAG/PSD2, künftig PSD3/PSR beobachten; DSGVO Art. 33, 34; StGB §§ 263, 263a, 202a, 269; Bank-AGB, Authentifizierungsprotokolle und Ombudsmannregeln.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **BGB** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
----
-
-## Skill: `phishing-erstkontakt-mandant`
-
-_Wenn es um Phishing: Erstkontakt Mandant in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Phishing: Erstkontakt Mandant
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: § 675u; § 675v — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Phishing: Erstkontakt Mandant
-- **Normen-/Quellenanker:** PC.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `phishing-kryptowaehrung-recovery`
-
-_Wenn es um Phishing mit Kryptowaehrung in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Phishing mit Kryptowaehrung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: § 675u; § 675v — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Phishing mit Kryptowaehrung
-- **Normen-/Quellenanker:** TRM.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `online-risikoampel-und-gegenargumente`
-
-_Wenn es um Online: Risikoampel, Gegenargumente und Verteidigungslinien in Phishing-Vorfall-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Online: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: § 675u; § 675v — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Online: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** BGB §§ 675u, 675v, 675w, 280; ZAG/PSD2, künftig PSD3/PSR beobachten; DSGVO Art. 33, 34; StGB §§ 263, 263a, 202a, 269; Bank-AGB, Authentifizierungsprotokolle und Ombudsmannregeln.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Online-Banking Phishing** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Risikoampel Online-Banking Phishing
-- **Rot (Mandantengefahr):**
- - 13-Monats-Frist § 676b Abs. 2 BGB läuft ab.
- - Bank hat Erstattung verweigert ohne Beweis für Autorisierung.
- - Großer Schaden (> 10.000 EUR), keine Beweissicherung erfolgt.
- - Strafanzeige fehlt — spätere Strafverfolgung erschwert.
-- **Gelb:**
- - Mitverschulden des Kunden möglich (mehrere TANs freigegeben, AGB-Warnhinweise sichtbar).
- - Beweissicherung lückenhaft (kein E-Mail-Header, keine Screenshots).
- - Schlichtungsweg noch nicht ausgeschöpft.
-- **Grün:**
- - Anzeige bei Bank rechtzeitig + Strafanzeige bei Polizei mit Az.
- - Beweise gesichert (Mail-Header, Banking-Logs, Konto-Auszug).
- - Schlichtung läuft mit klarer Sachlage zugunsten Kunde.
-
-## Gegenargumente Bank
-1. **"Kunde war grob fahrlässig":** Beweislast Bank (§ 675w S. 4 BGB); BGH XI ZR 91/14 (26.01.2016) verlangt sorgfältige Einzelfallprüfung.
-2. **"Wir haben starke Kundenauthentifizierung":** § 1 Abs. 24 ZAG-Konformität konkret nachweisen.
-3. **"AGB schließen Haftung aus":** AGB-Inhaltskontrolle §§ 305 ff., § 675e BGB (Abweichungsverbot).
-4. **"Frist 13 Monate verstrichen":** wenn Anzeige rechtzeitig erfolgte, greift Ausschluss nicht.
-
-## Verteidigungslinien Kunde
-- Konzentration auf Beweislast-Umkehr § 675w BGB.
-- SCA-Mangel als Trumpfkarte: bei fehlender starker Authentifizierung greift § 675v Abs. 4 — Haftung Kunde **0 EUR** (außer Vorsatz/grobe Fahrlässigkeit).
-- BGH-Rspr. mit Datum und Az. konkret zitieren, nicht pauschal.
-
----
-
-## Skill: `675w-zahlen-schwellen-und-berechnung`
-
-_Wenn es um 675W: Zahlen, Schwellenwerte und Berechnung in Phishing-Vorfall-Prüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
-
-# 675W: Zahlen, Schwellenwerte und Berechnung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: § 675u; § 675v — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: 675W: Zahlen, Schwellenwerte und Berechnung
-- **Normen-/Quellenanker:** BGB §§ 675u, 675v, 675w, 280; ZAG/PSD2, künftig PSD3/PSR beobachten; DSGVO Art. 33, 34; StGB §§ 263, 263a, 202a, 269; Bank-AGB, Authentifizierungsprotokolle und Ombudsmannregeln.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **§ 675w BGB** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Zahlen, Schwellen und Berechnung Phishing-Vorfall
-- **§ 675u BGB:** Erstattungsanspruch — unverzüglich, spätestens am nächsten Geschäftstag nach Anzeige.
-- **§ 675v Abs. 3 BGB:** bei grober Fahrlässigkeit Kunde haftet voll (vorher Begrenzung auf 50 EUR nach altem Recht abgeschafft seit 2018).
-- **§ 675v Abs. 4 BGB:** Haftung Kunde **0 EUR**, wenn starke Kundenauthentifizierung nach § 1 Abs. 24 ZAG nicht durchgesetzt wurde (Ausnahme: arglistig oder grob fahrlässig).
-- **§ 675w BGB Beweislast:** **Bank** muss Authentifizierung, ordnungsgemäße Aufzeichnung, korrekte Buchung beweisen.
-- **§ 676b Abs. 2 BGB:** Anzeigefrist **13 Monate** nach Belastung (Ausschlussfrist).
-- **Schlichtungswert Verbraucherschlichtungsstelle Bank**: bis 10.000 EUR (Bankenschlichter), höher zivilrechtlich.
-- **Verjährung Schadensersatz**: Regelfrist 3 Jahre § 195 BGB.
+## Routing-Diagnose Phishing-Vorfall
+- **"Kunde hat überwiesen aufgrund Phishing-Mail / SMS"** → Rückbuchung § 675u BGB (nicht autorisierte Zahlung), Schadensersatz Bank ggü. Kunde, Mitverschulden § 675v BGB.
+- **"Kunde hat freigegeben unter Täuschung (Authorized Push Payment)"** → autorisierter Zahlungsauftrag; Anspruch nur bei grober Fahrlässigkeit der Bank oder besonderen Sorgfaltspflichtverletzungen — schwierige Beweislage; PSD2 Art. 74.
+- **"Konto wurde übernommen / Online-Banking-Login gestohlen"** → § 675u BGB, ggf. § 675v BGB (Sorgfaltspflichten Kunde); BGH XI ZR 91/14 (Phishing-Beweislast).
+- **"Unternehmen / Kanzlei Opfer (CEO-Fraud, Rechnungsmanipulation)"** → Innenhaftung Geschäftsleitung, ggf. Versicherung; bei personenbezogenen Daten Art. 33 DSGVO.
+- **"Strafanzeige?"** → §§ 263a (Computerbetrug), 269 (Fälschung beweiserheblicher Daten), 202c StGB (Vorbereiten Phishing).
+- **"Datenpanne durch Phishing"** → Art. 33 DSGVO (72 Std), Art. 34 (Betroffene), ggf. NIS2-Meldung § 32 BSIG.
 
 ## Praxis-Tipp
-Der häufigste Fehler bei Beratung: die Bank pauschal des "groben Verschuldens" zu bezichtigen. Die Beweislast für **starke Kundenauthentifizierung** (§ 1 Abs. 24 ZAG: Wissen + Besitz + Inhärenz) trägt die Bank — wenn diese den Authentifizierungsnachweis nicht klar führen kann, gewinnt der Kunde § 675u BGB.
+Im Banking-Recht ist der Unterschied "nicht autorisierter" vs. "autorisierter unter Täuschung" Zahlung entscheidend. Bei "autorisiert" gilt § 675j BGB — Rückgriff auf Bank nur über §§ 280, 311 BGB, sehr restriktiv. Bei "nicht autorisiert" trifft die Bank die Beweislast für Autorisierung (§ 675w BGB) und das Mitverschulden des Kunden (§ 675v).
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+---
+
+## Skill: `anschluss-routing`
+
+_Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Phishing-Vorfall-Prüfer._
+
+# Anschluss-Routing
+
+## Einsatzlage
+
+Dieses Anschluss-Routing für **Phishing Vorfall Prüfer** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
+
+## Fachlandkarte dieses Plugins
+
+- `675u-675w-banking` — 675u 675w Banking
+- `675v-quellenkarte` — 675v Quellenkarte
+- `675w-zahlen-schwellen-und-berechnung` — 675w Zahlen Schwellen und Berechnung
+- `arbeitnehmer-haftung-bgb-675u-phish-ceo` — Arbeitnehmer Haftung BGB 675u Phish CEO
+- `aufsicht-bafin-bank-strategie-banking-app` — Aufsicht Bafin Bank Strategie Banking APP
+- `banking-behoerden-gericht-und-registerweg` — Banking Behoerden Gericht und Registerweg
+- `bankpflichten-beweislast-bgb` — Bankpflichten Beweislast BGB
+- `bea-notfall-bgb-675v-erstkontakt-mandant` — BEA Notfall BGB 675v Erstkontakt Mandant
+- `beweislast-mandantenkommunikation-entscheidungsvorlage` — Beweislast Mandantenkommunikation Entscheidungsvorlage
+- `bgb-schriftsatz-brief-und-memo-bausteine` — BGB Schriftsatz Brief und Memo Bausteine
+- `call-interessen-faelle-freistehender` — Call Interessen Faelle Freistehender
+- `faelle-abschlussprodukt-und-uebergabe` — Faelle Abschlussprodukt und Übergabe
+- `fahrlaessigkeit-fehlerkatalog` — Fahrlaessigkeit Fehlerkatalog
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
+
+## Arbeitsweg
+
+- Ergebnis sichten: Welche Phishing Vorfall Prüfer-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
+- Anschlussweichen identifizieren: drohende Frist (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), notwendige Dokumente (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets), nächste Verfahrensstufe oder Sachgebiet.
+- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
+- Eskalation an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
+- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `beweislast-mandantenkommunikation-entscheidungsvorlage`
+
+_Für Beweislast: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage._
+
+# Beweislast: Mandantenkommunikation und Entscheidungsvorlage
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: § 675u; § 675v — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Beweislast: Mandantenkommunikation und Entscheidungsvorlage
+- **Normen-/Quellenanker:** BGB §§ 675u, 675v, 675w, 280; ZAG/PSD2, künftig PSD3/PSR beobachten; DSGVO Art. 33, 34; StGB §§ 263, 263a, 202a, 269; Bank-AGB, Authentifizierungsprotokolle und Ombudsmannregeln.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Beweislast** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `quellen-livecheck`
+
+_Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Phishing-Vorfall-Prüfer._
+
+# Rechtsquellen-Livecheck
+
+## Einsatzlage
+
+Dieser Quellen-Livecheck für **Phishing Vorfall Prüfer** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
+
+## Fachlandkarte dieses Plugins
+
+- `675u-675w-banking` — 675u 675w Banking
+- `675v-quellenkarte` — 675v Quellenkarte
+- `675w-zahlen-schwellen-und-berechnung` — 675w Zahlen Schwellen und Berechnung
+- `arbeitnehmer-haftung-bgb-675u-phish-ceo` — Arbeitnehmer Haftung BGB 675u Phish CEO
+- `aufsicht-bafin-bank-strategie-banking-app` — Aufsicht Bafin Bank Strategie Banking APP
+- `banking-behoerden-gericht-und-registerweg` — Banking Behoerden Gericht und Registerweg
+- `bankpflichten-beweislast-bgb` — Bankpflichten Beweislast BGB
+- `bea-notfall-bgb-675v-erstkontakt-mandant` — BEA Notfall BGB 675v Erstkontakt Mandant
+- `beweislast-mandantenkommunikation-entscheidungsvorlage` — Beweislast Mandantenkommunikation Entscheidungsvorlage
+- `bgb-schriftsatz-brief-und-memo-bausteine` — BGB Schriftsatz Brief und Memo Bausteine
+- `call-interessen-faelle-freistehender` — Call Interessen Faelle Freistehender
+- `faelle-abschlussprodukt-und-uebergabe` — Faelle Abschlussprodukt und Übergabe
+- `fahrlaessigkeit-fehlerkatalog` — Fahrlaessigkeit Fehlerkatalog
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
+
+## Arbeitsweg
+
+- Tragende Normen (BGB, § 675u,, § 675v,, § 675w, pushTAN, Call) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
+- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
+- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
+- Dynamische Bereiche im Phishing Vorfall Prüfer (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
+- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `phishing-tan`
+
+_Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Phishing-Vorfall-Prüfer._
+
+# Mandantenkommunikation
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **phishing-vorfall-pruefer** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Mandantenkommunikation Phishing-Vorfall
+- **Anrede + Bezug:** "In Sachen [Mandant] / Ihr Phishing-Vorfall vom [Datum]"
+- **Sachstand kurz:** was ist passiert (Phishing-Mail/SMS/Call), welcher Betrag, Konto bei welcher Bank, ob nicht autorisiert oder autorisiert unter Täuschung.
+- **Sofortmaßnahmen (Tag 1):** Passwort ändern, Konto sperren lassen, Strafanzeige stellen, Bank schriftlich Rückbuchung verlangen, Mail-Header sichern.
+- **Empfehlung:** Erfolgsaussichten — nicht autorisiert: aussichtsreich (§§ 675u, 675w BGB); autorisiert: schwierig.
+- **Risikoampel** mit Bezug auf Frist § 676b Abs. 2 BGB (13 Monate Ausschluss).
+- **Kostenhinweis:** RVG/Honorarvereinbarung; bei Geringverdienern Beratungshilfe (BerHG).
+- **Realistische Erwartungssetzung:** Rückbuchung kann mehrere Wochen dauern; Strafverfahren oft eingestellt; im Klagefall LG-Verfahren mit Beweisproblem.
+
+## Praxis-Tipp
+Beim Erstgespräch wichtig: sortieren, ob nicht autorisierte (§ 675u BGB — gute Chancen) oder autorisierte Zahlung unter Täuschung vorliegt. Die zweite Konstellation ist anwaltlich deutlich aufwendiger und Erfolgsaussichten geringer — daher Honorarrahmen und mögliche Eigenmitwirkung des Mandanten ehrlich kommunizieren.
+
+---
+
+## Skill: `workflow-redteam-qualitygate`
+
+_Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Phishing-Vorfall-Prüfer._
+
+# Red-Team Qualitygate
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Red-Team Qualitygate** im Bereich **phishing-vorfall-pruefer** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Red-Team-Prüfpunkte Phishing-Vorfall
+1. **Autorisierung:** Wurde die Zahlung tatsächlich nicht autorisiert (§ 675u BGB) oder autorisiert unter Täuschung (§ 675j BGB)? Diese Unterscheidung ist Weichenstellung für die gesamte Rechtsfolgenkette.
+2. **Beweislast:** Bank trägt Beweislast für Autorisierung und ordnungsgemäße Aufzeichnung nach § 675w BGB — wurde das im Schreiben adressiert?
+3. **Gegenanspruch:** Wurde BGB Paragraf 675v sauber abgegrenzt? Aus der technisch beanstandungsfrei aufgezeichneten Nutzung folgt nach BGH XI ZR 91/14 kein Erfahrungssatz grober Fahrlässigkeit; die konkrete Pflichtverletzung und ihr Verschuldensgrad bleiben gesondert festzustellen.
+4. **Frist § 676b Abs. 2 BGB:** 13-Monats-Frist gegenüber Bank, sonst Ausschluss — gewahrt?
+5. **Starke Kundenauthentifizierung:** § 1 Abs. 24 ZAG geprüft? PSD2 Art. 97; bei Verstoß § 675v Abs. 4 BGB: Kunde haftet **nicht**.
+6. **Strafanzeige:** §§ 263a, 269, 202c StGB richtig benannt, ggf. § 202a (Ausspähen Daten), § 269 (Fälschung beweiserheblicher Daten).
+7. **Halluzinations-Check:** Keine erfundenen BGH-Az.; verbreitete Az. sorgfältig prüfen (z. B. BGH XI ZR 91/14 - Phishing).
+
+## Praxis-Tipp
+Die häufigste Fehlbewertung ist der Sprung von einer protokollierten Authentifizierung zur Autorisierung oder groben Fahrlässigkeit. BGH XI ZR 91/14 verlangt für den Anscheinsbeweis ein im maßgeblichen Zeitpunkt praktisch unüberwindbares, ordnungsgemäß angewandtes und fehlerfrei funktionierendes Sicherungsverfahren; der konkrete Täuschungs- und Freigabeablauf bleibt eigenständig zu würdigen.
 
 ---
 
 ## Skill: `bankpflichten-beweislast-bgb`
 
-_Wenn es um Bankpflichten: Beweislast, Darlegungslast und Substantiierung in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Bankpflichten: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix._
 
 # Bankpflichten: Beweislast, Darlegungslast und Substantiierung
 
@@ -687,11 +618,11 @@ Die Beweislastverteilung ist gesetzlich verbraucherfreundlich. In der Praxis sch
 
 ---
 
-## Skill: `beweislast-mandantenkommunikation-entscheidungsvorlage`
+## Skill: `pushtan-schlichtung-sonderfall`
 
-_Wenn es um Beweislast: Mandantenkommunikation und Entscheidungsvorlage in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Prüfer: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Beweislast: Mandantenkommunikation und Entscheidungsvorlage
+# Prüfer: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Arbeitsweg
 
@@ -701,7 +632,7 @@ _Wenn es um Beweislast: Mandantenkommunikation und Entscheidungsvorlage in Phish
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Beweislast: Mandantenkommunikation und Entscheidungsvorlage
+## Spezialwissen: Prüfer: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** BGB §§ 675u, 675v, 675w, 280; ZAG/PSD2, künftig PSD3/PSR beobachten; DSGVO Art. 33, 34; StGB §§ 263, 263a, 202a, 269; Bank-AGB, Authentifizierungsprotokolle und Ombudsmannregeln.
 
 ## Fallweichen
@@ -715,155 +646,52 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Beweislast** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Prüfer** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `spezial-pruefer-dokumentenmatrix-und-lueckenliste`
+## Skill: `workflow-chronologie-und-belegmatrix`
 
-_Wenn es um Pruefer: Dokumentenmatrix, Lückenliste und Nachforderung in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: Phishing-Vorfall-Prüfer._
 
-# Pruefer: Dokumentenmatrix, Lückenliste und Nachforderung
+# Chronologie und Belegmatrix
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `phishing-vorfall-pruefer`. Ausgangspunkt ist: Freistehender Phishing-Vorfall-Prüfer für Online-Banking: BGB § 675u, § 675v, § 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Bankpflichten, Schlichtung und Klage.
+## Arbeitsauftrag
 
-Er führt durch **Dokumentenmatrix, Lückenliste und Nachforderung** im Themenfeld **Pruefer**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Arbeitsgang macht **Chronologie und Belegmatrix** im Bereich **phishing-vorfall-pruefer** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
 
+## Aktenstart ohne Leerlauf
 
-## Fachlicher Zuschnitt
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
 
-- **Thema:** Pruefer.
-- **Arbeitsfokus:** Dokumentenmatrix, Lückenliste und Nachforderung.
-- **Plugin-Rahmen:** Freistehender Phishing-Vorfall-Prüfer für Online-Banking: BGB § 675u, § 675v, § 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Bankp....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## Fachliche Anker
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+## Arbeitsprodukt
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Pruefer** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
 
 ---
 
-## Skill: `spezial-fahrlaessigkeit-red-team-und-qualitaetskontrolle`
+## Skill: `bgb-schriftsatz-brief-und-memo-bausteine`
 
-_Wenn es um Fahrlaessigkeit: Red-Team und Qualitätskontrolle in Phishing-Vorfall-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für BGB: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
-# Fahrlaessigkeit: Red-Team und Qualitätskontrolle
-
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `phishing-vorfall-pruefer`. Ausgangspunkt ist: Freistehender Phishing-Vorfall-Prüfer für Online-Banking: BGB § 675u, § 675v, § 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Bankpflichten, Schlichtung und Klage.
-
-Er führt durch **Red-Team und Qualitätskontrolle** im Themenfeld **Fahrlaessigkeit**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Fahrlaessigkeit.
-- **Arbeitsfokus:** Red-Team und Qualitätskontrolle.
-- **Plugin-Rahmen:** Freistehender Phishing-Vorfall-Prüfer für Online-Banking: BGB § 675u, § 675v, § 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Bankp....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **grobe Fahrlässigkeit** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Definition grobe Fahrlässigkeit
-Grob fahrlässig handelt, wer **die im Verkehr erforderliche Sorgfalt in besonders schwerem Maße verletzt**, also einfachste Überlegungen nicht angestellt und nicht beachtet hat, was im konkreten Fall jedem hätte einleuchten müssen (st. Rspr., u. a. BGH X ZR 110/96; § 277 BGB analog für Vertragspflichten).
-
-## Red-Team-Test: Argumente der Bank gegen den Kunden
-- **"Phishing-Mail ist offensichtlich erkennbar"** — Gegen-Check: Wie professionell war Layout, Absender, Domain? Wurde Markenidentität täuschend ähnlich nachgebaut? Plausibler Anlass (z. B. angekündigte Sicherheitsumstellung)?
-- **"Bank warnt regelmäßig vor Phishing"** — Gegen-Check: Wurde der konkrete Angriffsvektor (z. B. Call-ID-Spoofing kombiniert mit pushTAN-Manipulation) jemals gegenüber dem Kunden adressiert?
-- **"TAN/PIN niemals weitergeben"** — Gegen-Check: Hat der Kunde "weitergegeben" oder hat ein Trojaner / eine Webseiteninjektion automatisch die Daten abgegriffen? Auch bei Polizei-Anrufen wegen "Geldwäscheverdacht" greift die Täuschung über den Anlass.
-
-## Qualitätskontrolle Sachverhaltsdarstellung
-- **Zeitliche Lückenlosigkeit**: Lücken in der Zeitlinie öffnen Bankarguments.
-- **Subjektive Wahrnehmung**: differenziert beschreiben — Sorge, Druck, Geschwindigkeit.
-- **Sicherheitsverhalten vor Vorfall**: lange Banking-Erfahrung, regelmäßige Updates, frühere Phishing-Erkennung — ist die Substantiierung gegen den Vorwurf grober Fahrlässigkeit.
-
-## Red-Team-Test: Kunden-Argumente gegen die Bank
-- **Pflichtverletzung "Starke Kundenauthentifizierung"** (§ 55 ZAG): bei rein TAN-basierter Abwehr ohne dynamische Verknüpfung zu Empfänger/Betrag.
-- **Fehlende Anomalie-Erkennung**: ungewöhnlicher Empfänger, ungewöhnliches Volumen, ungewöhnliche Tageszeit — kommerzielle Anti-Fraud-Systeme sind Standard; Untätigkeit ist auffällig.
-- **Verspätete Rückabwicklung**: § 675u BGB verlangt unverzügliche Erstattung; verzögerte Reaktion verletzt Verzugsrecht.
-
-## Trade-off
-Eine pauschale "Es war nicht meine Schuld"-Argumentation reicht nicht. Wirksam ist die Kombination aus dokumentierter Phishing-Reproduktion (Screenshots, Aufzeichnungen) + bankseitiger Pflichtverletzung (fehlende Anomalie-Erkennung, schwache Authentifizierung). Die zweite Schiene gewinnt Schlichtungsfälle oft auch dann, wenn die erste angreifbar bleibt.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
----
-
-## Skill: `675u-675w-banking`
-
-_Wenn es um 675U: Verhandlung, Vergleich und Eskalation in Phishing-Vorfall-Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
-
-# 675U: Verhandlung, Vergleich und Eskalation
+# BGB: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Arbeitsweg
 
@@ -873,7 +701,7 @@ _Wenn es um 675U: Verhandlung, Vergleich und Eskalation in Phishing-Vorfall-Prü
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: 675U: Verhandlung, Vergleich und Eskalation
+## Spezialwissen: BGB: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** BGB §§ 675u, 675v, 675w, 280; ZAG/PSD2, künftig PSD3/PSR beobachten; DSGVO Art. 33, 34; StGB §§ 263, 263a, 202a, 269; Bank-AGB, Authentifizierungsprotokolle und Ombudsmannregeln.
 
 ## Fallweichen
@@ -887,33 +715,54 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **§ 675u BGB** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **BGB** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## § 675u BGB im Kern
-Bei einer nicht autorisierten Zahlung hat der Zahlungsdienstleister gegenüber dem Zahler keinen Anspruch auf Erstattung der Aufwendungen und ist verpflichtet, dem Zahler den Betrag **unverzüglich, spätestens bis zum Ende des folgenden Geschäftstags** zu erstatten und das Zahlungskonto wieder auf den Stand vor der nicht autorisierten Zahlung zu bringen.
+---
 
-Voraussetzung: Anzeige der Nichtautorisierung durch den Zahler unverzüglich nach Feststellung, spätestens **13 Monate** nach Belastung (§ 676b Abs. 2 BGB).
+## Skill: `output-waehlen`
 
-## Verhandlungsposition gegenüber Bank
-- **Anker**: § 675u BGB stellt die Erstattung in den Mittelpunkt; § 675v BGB ist die Ausnahme (Schadensersatz wegen grober Fahrlässigkeit oder Vorsatz).
-- **Beweislast nach § 675w BGB**: Die Bank muss nachweisen, dass das Zahlungsinstrument authentifiziert, ordnungsgemäß aufgezeichnet und nicht durch eine Störung beeinträchtigt war. Bloße Nutzung des Sicherungsverfahrens reicht **nicht** als Anscheinsbeweis grober Fahrlässigkeit (BGH XI ZR 91/14, Urteil vom 26.01.2016).
-- **Hilfsweise**: § 675v Abs. 3 BGB — Haftungsbegrenzung 50 EUR bei Verlust, Diebstahl oder sonstigem Abhandenkommen, wenn nicht grob fahrlässig.
+_Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Phishing-Vorfall-Prüfer._
 
-## Eskalationsstufen
-1. **Außergerichtliche Korrespondenz**: Erstattungsforderung mit Fristsetzung 14 Tage; § 286 BGB-Verzug ab Ablauf.
-2. **Bankenombudsmann** (BdB, BVR, DSGV, VÖB): kostenlos für Verbraucher, bei Streitwert bis 10.000 EUR bindend für Bank (privater Bankensektor) — siehe jeweilige Schlichtungsordnung.
-3. **Schlichtung Deutsche Bundesbank** (§ 14 UKlaG i. V. m. ZAG): wenn keine eigene Schlichtungsstelle.
-4. Klage: Amtsgericht bis einschließlich 10.000 Euro, darüber Landgericht; örtliche Zuständigkeit, Anwaltszwang, Streitverkündung und ein strafrechtliches Parallelverfahren getrennt prüfen.
+# Output wählen
 
-## Vergleichshebel
-- **Sicherungspflicht der Bank** nach Art. 97 PSD2 (umgesetzt in § 55 ZAG): starke Kundenauthentifizierung — bei deren Fehlen Haftung der Bank verschärft.
-- **Schwachstelle pushTAN/Phishing**: BGH-Rechtsprechung hat den Anscheinsbeweis grober Fahrlässigkeit erheblich eingeschränkt; Banken setzen häufig auf Quotenvergleiche (50-70 % Erstattung) statt vollständiger Verteidigung.
+## Einsatzlage
 
-## Trade-off
-Vergleich vor Schlichtung spart Zeit, opfert aber häufig 20-30 % der Erstattung. Bei klarer Beweislage (kein Vorsatz, keine grobe Fahrlässigkeit) ist Schlichtungsverfahren regelmäßig die wirtschaftlichere Option, da kostenfrei und ohne Vertretungspflicht.
+Diese Output-Weiche für **Phishing Vorfall Prüfer** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
+
+## Fachlandkarte dieses Plugins
+
+- `675u-675w-banking` — 675u 675w Banking
+- `675v-quellenkarte` — 675v Quellenkarte
+- `675w-zahlen-schwellen-und-berechnung` — 675w Zahlen Schwellen und Berechnung
+- `arbeitnehmer-haftung-bgb-675u-phish-ceo` — Arbeitnehmer Haftung BGB 675u Phish CEO
+- `aufsicht-bafin-bank-strategie-banking-app` — Aufsicht Bafin Bank Strategie Banking APP
+- `banking-behoerden-gericht-und-registerweg` — Banking Behoerden Gericht und Registerweg
+- `bankpflichten-beweislast-bgb` — Bankpflichten Beweislast BGB
+- `bea-notfall-bgb-675v-erstkontakt-mandant` — BEA Notfall BGB 675v Erstkontakt Mandant
+- `beweislast-mandantenkommunikation-entscheidungsvorlage` — Beweislast Mandantenkommunikation Entscheidungsvorlage
+- `bgb-schriftsatz-brief-und-memo-bausteine` — BGB Schriftsatz Brief und Memo Bausteine
+- `call-interessen-faelle-freistehender` — Call Interessen Faelle Freistehender
+- `faelle-abschlussprodukt-und-uebergabe` — Faelle Abschlussprodukt und Übergabe
+- `fahrlaessigkeit-fehlerkatalog` — Fahrlaessigkeit Fehlerkatalog
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
+
+## Arbeitsweg
+
+- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Phishing Vorfall Prüfer (BGB, § 675u,, § 675v,, § 675w, pushTAN, Call) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 ---
 

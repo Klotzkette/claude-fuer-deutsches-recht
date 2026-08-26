@@ -1,6 +1,6 @@
 ---
 name: abmahnung-pruefen-datenbankrecht
-description: "Wenn es um Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen

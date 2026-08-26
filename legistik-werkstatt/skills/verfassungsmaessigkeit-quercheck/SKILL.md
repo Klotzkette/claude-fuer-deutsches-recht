@@ -1,6 +1,6 @@
 ---
 name: verfassungsmaessigkeit-quercheck
-description: "Wenn es um Verfassungsmaessigkeit-Quercheck in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfassungsmäßigkeit-Quercheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfassungsmaessigkeit-Quercheck

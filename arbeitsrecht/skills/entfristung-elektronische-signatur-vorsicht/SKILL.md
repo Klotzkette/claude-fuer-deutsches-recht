@@ -1,6 +1,6 @@
 ---
 name: entfristung-elektronische-signatur-vorsicht
-description: "Wenn es um Entfristung Elektronische Signatur Vorsicht in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entfristung Elektronische Signatur Vorsicht: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Elektronische Signaturen und Befristungsabreden: einfache Signatur, Scan und fortgeschrittene Signatur genügen nicht

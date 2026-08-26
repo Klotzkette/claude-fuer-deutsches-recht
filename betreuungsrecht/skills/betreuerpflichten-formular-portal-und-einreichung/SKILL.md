@@ -1,6 +1,6 @@
 ---
 name: betreuerpflichten-formular-portal-und-einreichung
-description: "Wenn es um Betreuerpflichten: Formular, Portal und Einreichungslogik in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuerpflichten Formular Portal Und Einreichung; Arbeitsfeld: Betreuungsrecht."
+description: "Für Betreuerpflichten: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Betreuerpflichten: Formular, Portal und Einreichungslogik

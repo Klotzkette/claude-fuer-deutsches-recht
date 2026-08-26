@@ -1,6 +1,6 @@
 ---
 name: beschwerde-und-anhoerung-bafin-factoring
-description: "Wenn es um Beschwerde und Anhörung BaFin Factoring in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beschwerde und Anhörung BaFin Factoring: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschwerde und Anhörung BaFin Factoring

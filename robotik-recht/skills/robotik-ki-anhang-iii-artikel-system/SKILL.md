@@ -1,6 +1,6 @@
 ---
 name: robotik-ki-anhang-iii-artikel-system
-description: "Wenn es um Anhang III Robotik Use Cases in robotik-recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Robotik Ki Anhang Iii Artikel System; Arbeitsfeld: robotik-recht."
+description: "Für Anhang III Robotik Use Cases: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: robotik-ki-anhang-iii-artikel-system."
 ---
 
 # Anhang III Robotik Use Cases

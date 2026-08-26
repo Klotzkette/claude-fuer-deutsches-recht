@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-3-jahres-restschuldbefreiung
-description: "Wenn es um Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung

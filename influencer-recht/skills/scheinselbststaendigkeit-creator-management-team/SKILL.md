@@ -1,6 +1,6 @@
 ---
 name: scheinselbststaendigkeit-creator-management-team
-description: "Wenn es um Influencer-Recht: Scheinselbstständigkeit – Creator und Management-Team in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Scheinselbstständigkeit – Creator und Management-Team: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Scheinselbstständigkeit – Creator und Management-Team

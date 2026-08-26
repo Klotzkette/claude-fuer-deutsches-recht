@@ -1,6 +1,6 @@
 ---
 name: 01-akte-erstdurchsicht-zivil
-description: "Wenn es um 01 Akte Erstdurchsicht Zivil in Relationstechnik Zivilrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 01 Akte Erstdurchsicht Zivil: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 01 Akte Erstdurchsicht Zivil

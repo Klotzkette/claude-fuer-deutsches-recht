@@ -1,6 +1,6 @@
 ---
 name: u-haft-umweltstrafrecht-behoerdenakten
-description: "Wenn es um U-Haft: Fluchtgefahr, Verdunkelung und Verhältnismäßigkeit in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für U-Haft: Fluchtgefahr, Verdunkelung und Verhältnismäßigkeit: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # U-Haft: Fluchtgefahr, Verdunkelung und Verhältnismäßigkeit

@@ -1,6 +1,6 @@
 ---
 name: dba-quellensteuer-erstattung-bzst-50c
-description: "Wenn es um Quellensteuer-Entlastung beim BZSt (Paragraf 50c EStG) in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Quellensteuer-Entlastung beim BZSt (Paragraf 50c EStG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Quellensteuer-Entlastung beim BZSt (§ 50c EStG)

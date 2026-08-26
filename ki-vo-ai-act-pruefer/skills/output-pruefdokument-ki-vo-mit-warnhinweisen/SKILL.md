@@ -1,6 +1,6 @@
 ---
 name: output-pruefdokument-ki-vo-mit-warnhinweisen
-description: "Wenn es um Output: Prüfdokument europäischer Technikregulierungsrahmen mit Warnhinweisen in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Output: Prüfdokument europäischer Technikregulierungsrahmen mit Warnhinweisen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Output: Prüfdokument KI-VO mit Warnhinweisen

@@ -1,6 +1,6 @@
 ---
 name: steuernummer-und-ust-id
-description: "Wenn es um Anmeldung und Behörden: Klärt steuernummer in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anmeldung und Behörden: Klärt steuernummer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anmeldung und Behörden: Klärt steuernummer

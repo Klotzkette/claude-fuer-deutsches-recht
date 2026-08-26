@@ -1,6 +1,6 @@
 ---
 name: qualitaetsbericht-veroeffentlichungspflichten
-description: "Wenn es um Qualitätsbericht Veröffentlichungspflichten in Krankenhausrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätsbericht Veröffentlichungspflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitätsbericht Veröffentlichungspflichten

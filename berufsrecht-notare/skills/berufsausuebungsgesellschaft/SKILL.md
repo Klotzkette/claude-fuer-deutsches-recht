@@ -1,6 +1,6 @@
 ---
 name: berufsausuebungsgesellschaft
-description: "Wenn es um Berufsausübungsgesellschaft in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Berufsausübungsgesellschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Notare."
 ---
 
 # Berufsausübungsgesellschaft

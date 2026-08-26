@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-messstellenbetrieb-msbg-smart-meter-unt
-description: "Wenn es um Energie-Regulierungsakte: Messstellenbetrieb MsbG Smart Meter — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: Messstellenbetrieb MsbG Smart Meter — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: Messstellenbetrieb MsbG Smart Meter — Unterlagenanforderung

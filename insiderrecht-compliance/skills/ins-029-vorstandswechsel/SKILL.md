@@ -1,6 +1,6 @@
 ---
 name: ins-029-vorstandswechsel
-description: "Wenn es um Insiderrecht: Vorstandswechsel in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Insiderrecht: Vorstandswechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Vorstandswechsel

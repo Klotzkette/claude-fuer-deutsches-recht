@@ -1,6 +1,6 @@
 ---
 name: bmftr-kuenstliche-intelligenz
-description: "Wenn es um Kuenstliche Intelligenz und Technikregulierung (BMFTR) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmftr Kuenstliche Intelligenz; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Künstliche Intelligenz und Technikregulierung (BMFTR): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmftr-kuenstliche-intelligenz."
 ---
 
 # Kuenstliche Intelligenz und Technikregulierung (BMFTR)

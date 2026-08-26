@@ -1,6 +1,6 @@
 ---
 name: smart-factory-softwareupdate-als
-description: "Wenn es um Smart Factory und Industrie 4.0 in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Smart Factory Softwareupdate Als; Arbeitsfeld: robotik-recht."
+description: "Für Smart Factory und Industrie 4.0: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Smart Factory und Industrie 4.0

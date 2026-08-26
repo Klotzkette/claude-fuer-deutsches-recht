@@ -1,6 +1,6 @@
 ---
 name: haftpflicht-und-schadenanzeige-kaltstart
-description: "Wenn es um Haftpflicht Und Schadenanzeige Kaltstart in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftpflicht und Schadenanzeige Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: haftpflicht und schadenanzeige - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

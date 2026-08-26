@@ -1,6 +1,6 @@
 ---
 name: gkv-mitgliedschaft-pflicht-freiwillig-familienversicherun
-description: "Wenn es um GKV-Mitgliedschaft: Pflicht, freiwillig, Familienversicherung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GKV-Mitgliedschaft: Pflicht, freiwillig, Familienversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GKV-Mitgliedschaft: Pflicht, freiwillig, Familienversicherung

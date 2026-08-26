@@ -1,6 +1,6 @@
 ---
 name: konkurrentenschutz-sofortprogramm-einzelgerechtigkeit
-description: "Wenn es um konkurrentenschutz-sofortprogramm-einzelgerechtigkeit in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für konkurrentenschutz-sofortprogramm-einzelgerechtigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # konkurrentenschutz-sofortprogramm-einzelgerechtigkeit

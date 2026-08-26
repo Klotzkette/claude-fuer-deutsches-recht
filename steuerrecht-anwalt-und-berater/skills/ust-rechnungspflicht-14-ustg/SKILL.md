@@ -1,6 +1,6 @@
 ---
 name: ust-rechnungspflicht-14-ustg
-description: "Wenn es um Rechnungspflicht und Rechnungsberichtigung — Paragraf 14 Paragraf 14a Paragraf 14c UStG in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Ust Rechnungspflicht 14 Ustg; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Rechnungspflicht und Rechnungsberichtigung — Paragraf 14 Paragraf 14a Paragraf 14c UStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechnungspflicht und Rechnungsberichtigung — § 14 § 14a § 14c UStG

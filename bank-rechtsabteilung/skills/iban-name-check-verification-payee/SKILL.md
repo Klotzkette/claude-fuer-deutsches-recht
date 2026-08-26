@@ -1,6 +1,6 @@
 ---
 name: iban-name-check-verification-payee
-description: "Wenn es um IBAN-Name-Check in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für IBAN-Name-Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IBAN-Name-Check

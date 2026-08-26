@@ -1,6 +1,6 @@
 ---
 name: bank-tatbestand-beweis-und-belege
-description: "Wenn es um Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Bank Kapitalmarktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage

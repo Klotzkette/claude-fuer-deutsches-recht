@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-kyc-homeoffice-honorar-gebuehren
-description: "Wenn es um Geldwäsche und KYC in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Geldwäsche und KYC: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Berufsrecht Wirtschaftsprüfer."
 ---
 
 # Geldwäsche und KYC

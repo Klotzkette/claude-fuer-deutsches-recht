@@ -1,6 +1,6 @@
 ---
 name: kelsen-demokratie-verfahren
-description: "Wenn es um Demokratie als Verfahren und Minderheitenschutz in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Demokratie als Verfahren und Minderheitenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Demokratie als Verfahren und Minderheitenschutz

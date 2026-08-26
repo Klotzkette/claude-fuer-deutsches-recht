@@ -1,6 +1,6 @@
 ---
 name: internationale-kooperation-memorandum-of-understanding
-description: "Wenn es um Weltraumrecht: Internationale Kooperation: Memorandum of Understanding in Weltraumrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Weltraumrecht: Internationale Kooperation: Memorandum of Understanding: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Weltraumrecht: Internationale Kooperation: Memorandum of Understanding

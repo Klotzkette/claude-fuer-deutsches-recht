@@ -1,6 +1,6 @@
 ---
 name: amts-fristen-form-zustaendigkeit
-description: "Wenn es um Amts: Fristen, Form, Zuständigkeit und Rechtsweg in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Amts Fristen Form Zuständigkeit; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Amts: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Amts: Fristen, Form, Zuständigkeit und Rechtsweg

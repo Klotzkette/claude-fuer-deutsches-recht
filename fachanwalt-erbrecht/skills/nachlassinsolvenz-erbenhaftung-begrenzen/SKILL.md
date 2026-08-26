@@ -1,6 +1,6 @@
 ---
 name: nachlassinsolvenz-erbenhaftung-begrenzen
-description: "Wenn es um Nachlassinsolvenz Erbenhaftung Begrenzen in Fachanwalt Erbrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Nachlassinsolvenz Erbenhaftung Begrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass begrenzen wenn Nachlass ueberschuldet ist

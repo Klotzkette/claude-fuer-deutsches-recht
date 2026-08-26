@@ -1,6 +1,6 @@
 ---
 name: public-sector-ai-procurement-ausschreibung
-description: "Wenn es um Öffentliche digitale Werkzeuge-Beschaffung in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Öffentliche digitale Werkzeuge-Beschaffung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Öffentliche KI-Beschaffung

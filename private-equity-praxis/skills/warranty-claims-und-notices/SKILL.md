@@ -1,6 +1,6 @@
 ---
 name: warranty-claims-und-notices
-description: "Wenn es um Warranty Claims und Notices in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Warranty Claims und Notices: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Warranty Claims und Notices

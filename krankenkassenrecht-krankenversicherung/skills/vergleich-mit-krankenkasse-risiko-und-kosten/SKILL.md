@@ -1,6 +1,6 @@
 ---
 name: vergleich-mit-krankenkasse-risiko-und-kosten
-description: "Wenn es um Vergleich mit Krankenkasse: Risiko und Kosten in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vergleich mit Krankenkasse: Risiko und Kosten: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleich mit Krankenkasse: Risiko und Kosten

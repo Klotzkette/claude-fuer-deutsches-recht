@@ -1,6 +1,6 @@
 ---
 name: erklaerung-feedback-durchsetzung
-description: "Wenn es um Erklärung, Feedback, Durchsetzung in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erklärung, Feedback, Durchsetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erklärung, Feedback, Durchsetzung

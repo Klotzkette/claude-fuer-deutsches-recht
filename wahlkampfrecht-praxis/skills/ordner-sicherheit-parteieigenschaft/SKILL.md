@@ -1,6 +1,6 @@
 ---
 name: ordner-sicherheit-parteieigenschaft
-description: "Wenn es um Ordner Und Sicherheit in Wahlkampfrecht Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Ordner und Sicherheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ordner Und Sicherheit

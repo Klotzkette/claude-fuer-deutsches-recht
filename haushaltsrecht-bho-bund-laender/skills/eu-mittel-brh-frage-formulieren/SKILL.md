@@ -1,6 +1,6 @@
 ---
 name: eu-mittel-brh-frage-formulieren
-description: "Wenn es um Eu Mittel Brh Frage Formulieren in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eu Mittel BRH Frage Formulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Eu Mittel Brh Frage Formulieren

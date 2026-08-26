@@ -1,6 +1,6 @@
 ---
 name: articles-association-satzung
-description: "Wenn es um Articles of Association und Satzung in Didaktisches Gesellschaftsrecht — English Business Terms geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Articles of Association und Satzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Articles of Association und Satzung

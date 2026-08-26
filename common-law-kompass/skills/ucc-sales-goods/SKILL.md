@@ -1,6 +1,6 @@
 ---
 name: ucc-sales-goods
-description: "Wenn es um UCC und Sale of Goods in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für UCC und Sale of Goods: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # UCC und Sale of Goods

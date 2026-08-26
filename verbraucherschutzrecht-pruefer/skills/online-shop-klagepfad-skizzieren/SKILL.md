@@ -1,6 +1,6 @@
 ---
 name: online-shop-klagepfad-skizzieren
-description: "Wenn es um Online Shop Klagepfad Skizzieren in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Online Shop Klagepfad Skizzieren: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Online Shop Klagepfad Skizzieren

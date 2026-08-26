@@ -1,6 +1,6 @@
 ---
 name: slot-dashboard-bauen
-description: "Wenn es um Slot – Dashboard bauen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Slot – Dashboard bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Slot – Dashboard bauen

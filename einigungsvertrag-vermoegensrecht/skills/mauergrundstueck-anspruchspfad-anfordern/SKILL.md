@@ -1,6 +1,6 @@
 ---
 name: mauergrundstueck-anspruchspfad-anfordern
-description: "Wenn es um Mauergrundstueck Anspruchspfad Prüfen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mauergrundstück Anspruchspfad Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: mauergrundstueck-anspruchspfad-anfordern."
 ---
 
 # Mauergrundstueck Anspruchspfad Prüfen

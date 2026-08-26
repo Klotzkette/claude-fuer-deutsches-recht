@@ -1,6 +1,6 @@
 ---
 name: sage-buchhalter-bwa
-description: "Wenn es um Sage Buchhalter BWA in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sage Buchhalter Bwa; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Sage Buchhalter BWA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: sage-buchhalter-bwa."
 ---
 
 # Sage Buchhalter BWA

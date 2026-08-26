@@ -1,6 +1,6 @@
 ---
 name: pralr-033-normtext-in-heutige-sprache-uebertragen
-description: "Wenn es um In heutige Sprache übertragen in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 033 Normtext In Heutige Sprache Uebertragen; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für In heutige Sprache übertragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-033-normtext-in-heutige-sprache-uebertragen."
 ---
 
 # In heutige Sprache übertragen

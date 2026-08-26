@@ -1,6 +1,6 @@
 ---
 name: homeoffice-kontrolle-arbeitnehmerdatenschutz
-description: "Prüft digitale Leistungs- und Verhaltenskontrollen im Homeoffice: Weisungsrecht, Datenschutz, Verhältnismäßigkeit, Mitbestimmung, Beweisverwertung und mildere Mittel. Bewertet Bildschirmmitschnitt, Keylogger, Aktivitätsstatus, Kamera und Protokolldaten und liefert Freigabematrix, Betriebsvereinbarungs- oder Abwehrbaustein."
+description: "Prüft digitale Leistungs- und Verhaltenskontrollen im Homeoffice: Weisungsrecht, Datenschutz, Verhältnismäßigkeit, Mitbestimmung, Beweisverwertung und mildere Mittel."
 ---
 
 # Kontrolle im Homeoffice rechtmäßig gestalten

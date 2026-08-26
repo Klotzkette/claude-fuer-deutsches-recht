@@ -1,6 +1,6 @@
 ---
 name: bgb-risikoampel-und-gegenargumente
-description: "Wenn es um BGB Risikoampel Und Gegenargumente in Fachanwalt Miet- und Wohnungseigentumsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BGB Risikoampel und Gegenargumente: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

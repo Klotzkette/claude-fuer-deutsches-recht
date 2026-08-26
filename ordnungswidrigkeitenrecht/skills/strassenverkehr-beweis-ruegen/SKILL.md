@@ -1,6 +1,6 @@
 ---
 name: strassenverkehr-beweis-ruegen
-description: "Wenn es um Strassenverkehr Beweis Ruegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenverkehr Beweis Rügen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Strassenverkehr Beweis Ruegen

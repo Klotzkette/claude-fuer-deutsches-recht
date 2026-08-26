@@ -1,6 +1,6 @@
 ---
 name: quality-crisis-and-recall
-description: "Wenn es um Qualitätskrise und Rückruf China-Import: Haftung und Protokoll in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätskrise und Rückruf China-Import: Haftung und Protokoll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Qualitätskrise und Rückruf China-Import: Haftung und Protokoll

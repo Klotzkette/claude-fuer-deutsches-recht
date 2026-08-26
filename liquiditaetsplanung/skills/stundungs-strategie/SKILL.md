@@ -1,6 +1,6 @@
 ---
 name: stundungs-strategie
-description: "Wenn es um Stundungs-Strategie in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Stundungs-Strategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Stundungs-Strategie

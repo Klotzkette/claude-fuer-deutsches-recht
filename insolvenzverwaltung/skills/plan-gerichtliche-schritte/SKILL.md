@@ -1,6 +1,6 @@
 ---
 name: plan-gerichtliche-schritte
-description: "Wenn es um IV-integrierte Gerichtliche Schritte in Insolvenzverwaltung - IV-Cockpit geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für IV-integrierte Gerichtliche Schritte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IV-integrierte Gerichtliche Schritte

@@ -1,6 +1,6 @@
 ---
 name: red-team-plan
-description: "Wenn es um Red Team Plan in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Red Team Plan: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team des Schuldenbereinigungsplans: unrealistische Quote, vergessene Forderung, falsche Mehrheit, Formfehler.

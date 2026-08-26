@@ -1,6 +1,6 @@
 ---
 name: tod-im-ausland-hinterbliebene
-description: "Wenn es um tod-im-ausland-hinterbliebene in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für tod-im-ausland-hinterbliebene: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # tod-im-ausland-hinterbliebene

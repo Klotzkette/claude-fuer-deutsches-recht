@@ -1,6 +1,6 @@
 ---
 name: abmahnung-gebrauchsmuster-abzweigung
-description: "Wenn es um Abmahnung Gebrauchsmuster Verteidigung in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abmahnung Gebrauchsmuster Verteidigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abmahnung Gebrauchsmuster Verteidigung

@@ -1,6 +1,6 @@
 ---
 name: brki-eu-us-dpf-transferpruefung
-description: "Wenn es um BRKI: EU-US-DPF Transfer in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für BRKI: EU-US-DPF Transfer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # BRKI: EU-US-DPF Transfer

@@ -1,6 +1,6 @@
 ---
 name: vg-wort-meldung-beteiligung-und-ausschuettung
-description: "Wenn es um Verl-017 · VG Wort: Meldung, Beteiligung und Ausschüttung in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-017 · VG Wort: Meldung, Beteiligung und Ausschüttung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-017 · VG Wort: Meldung, Beteiligung und Ausschüttung

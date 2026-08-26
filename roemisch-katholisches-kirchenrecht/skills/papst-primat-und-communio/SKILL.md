@@ -1,6 +1,6 @@
 ---
 name: papst-primat-und-communio
-description: "Wenn es um Papst, Primat und Communio in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Papst, Primat und Communio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Papst, Primat und Communio

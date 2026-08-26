@@ -1,6 +1,6 @@
 ---
 name: rechtspluralismus-und-mehrebenen-system
-description: "Wenn es um Rechtspluralismus und Mehrebenen-System in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtspluralismus und Mehrebenen-System: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtspluralismus und Mehrebenen-System

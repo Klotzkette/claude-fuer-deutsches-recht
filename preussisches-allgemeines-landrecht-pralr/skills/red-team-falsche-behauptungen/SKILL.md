@@ -1,6 +1,6 @@
 ---
 name: red-team-falsche-behauptungen
-description: "Wenn es um Red-Team in Preußisches Allgemeines Landrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Red Team Falsche Behauptungen; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Red-Team: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Preußisches Allgemeines Landrecht. Route: red-team-falsche-behauptungen."
 ---
 
 # Red-Team

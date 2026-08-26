@@ -1,6 +1,6 @@
 ---
 name: materielle-petition-sonderfall-recherche
-description: "Wenn es um Materielle: Internationaler Bezug und Schnittstellen in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Materielle: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Materielle: Internationaler Bezug und Schnittstellen

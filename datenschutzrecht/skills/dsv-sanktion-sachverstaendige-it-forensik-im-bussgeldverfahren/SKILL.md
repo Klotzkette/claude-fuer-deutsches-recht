@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-sachverstaendige-it-forensik-im-bussgeldverfahren
-description: "Wenn es um Dsv Sanktion Sachverstaendige It Forensik Im Bussgeldverfahren in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dsv Sanktion Sachverständige It Forensik im Bussgeldverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutzrecht-Brückenskill: IT-Forensik und Sachverständige: Gutachten zu Logs, TOMs, Verschlüsselung, Löschung, Zugriffen und Datenabfluss gerichtsfest vorbereiten

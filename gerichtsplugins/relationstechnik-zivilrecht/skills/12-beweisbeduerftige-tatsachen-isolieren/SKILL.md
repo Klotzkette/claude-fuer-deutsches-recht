@@ -1,6 +1,6 @@
 ---
 name: 12-beweisbeduerftige-tatsachen-isolieren
-description: "Wenn es um 12 Beweisbedürftige Tatsachen Isolieren in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 12 Beweisbedürftige Tatsachen Isolieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # 12 Beweisbedürftige Tatsachen Isolieren

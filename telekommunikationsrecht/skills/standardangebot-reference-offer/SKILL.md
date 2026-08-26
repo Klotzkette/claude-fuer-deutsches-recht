@@ -1,6 +1,6 @@
 ---
 name: standardangebot-reference-offer
-description: "Wenn es um Standardangebot und Reference Offer in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Standardangebot und Reference Offer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Standardangebot und Reference Offer

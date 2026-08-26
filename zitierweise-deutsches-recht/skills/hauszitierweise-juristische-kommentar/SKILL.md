@@ -1,6 +1,6 @@
 ---
 name: hauszitierweise-juristische-kommentar
-description: "Wenn es um Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage in Zitierweise deutsches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage

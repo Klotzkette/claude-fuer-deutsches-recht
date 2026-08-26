@@ -1,6 +1,6 @@
 ---
 name: energieaudit-edl-entsendungen-a1-eudr
-description: "Wenn es um Energieaudit EDL-G und EnEfG-Schnittstelle in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energieaudit EDL-G und EnEfG-Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Energieaudit EDL-G und EnEfG-Schnittstelle

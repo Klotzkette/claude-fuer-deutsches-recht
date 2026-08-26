@@ -1,6 +1,6 @@
 ---
 name: eilverfahren-konkurrentenstreit
-description: "Wenn es um Eilverfahren – Konkurrentenstreit vor dem Wehrdienstsenat in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eilverfahren – Konkurrentenstreit vor dem Wehrdienstsenat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eilverfahren – Konkurrentenstreit vor dem Wehrdienstsenat

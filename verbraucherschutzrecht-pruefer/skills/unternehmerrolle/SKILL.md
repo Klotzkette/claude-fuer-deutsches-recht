@@ -1,6 +1,6 @@
 ---
 name: unternehmerrolle
-description: "Wenn es um Unternehmerrolle Und Plattformrolle Pr in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unternehmerrolle und Plattformrolle Pr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unternehmerrolle Und Plattformrolle Pr

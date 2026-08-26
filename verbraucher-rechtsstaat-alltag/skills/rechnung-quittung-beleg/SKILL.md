@@ -1,6 +1,6 @@
 ---
 name: rechnung-quittung-beleg
-description: "Wenn es um Rechnung, Quittung und Beleg in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechnung, Quittung und Beleg: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechnung, Quittung und Beleg

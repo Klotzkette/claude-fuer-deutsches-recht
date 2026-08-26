@@ -1,6 +1,6 @@
 ---
 name: nicht-hochrisiko-bestaetigt-end-to
-description: "Wenn es um Kein Hochrisiko bestätigt — die End-to-End-Roadmap in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt Stichwort für die Auswahl: Nicht Hochrisiko Bestaetigt End To."
+description: "Für Kein Hochrisiko bestätigt — die End-to-End-Roadmap: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: nicht-hochrisiko-bestaetigt-end-to."
 ---
 
 # Kein Hochrisiko bestätigt — die End-to-End-Roadmap

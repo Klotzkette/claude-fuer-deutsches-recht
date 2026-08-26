@@ -1,6 +1,6 @@
 ---
 name: ins-016-schulung-policy
-description: "Wenn es um Policy und Schulung in Insiderrecht Compliance geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Policy und Schulung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Policy und Schulung

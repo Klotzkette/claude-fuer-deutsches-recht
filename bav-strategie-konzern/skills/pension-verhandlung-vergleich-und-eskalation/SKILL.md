@@ -1,6 +1,6 @@
 ---
 name: pension-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Pension: Verhandlung, Vergleich und Eskalation in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Pension: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Pension: Verhandlung, Vergleich und Eskalation

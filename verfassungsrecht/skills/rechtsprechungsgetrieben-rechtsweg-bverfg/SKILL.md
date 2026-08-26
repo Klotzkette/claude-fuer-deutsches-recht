@@ -1,6 +1,6 @@
 ---
 name: rechtsprechungsgetrieben-rechtsweg-bverfg
-description: "Wenn es um Rechtsprechungsgetrieben: Behörden-, Gerichts- oder Registerweg in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsprechungsgetrieben: Behörden-, Gerichts- oder Registerweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsprechungsgetrieben: Behörden-, Gerichts- oder Registerweg

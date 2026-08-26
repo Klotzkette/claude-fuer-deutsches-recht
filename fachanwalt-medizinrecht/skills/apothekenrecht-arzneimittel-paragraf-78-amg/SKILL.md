@@ -1,6 +1,6 @@
 ---
 name: apothekenrecht-arzneimittel-paragraf-78-amg
-description: "Wenn es um Apothekenrecht Arzneimittel Paragraf 78 AMG in Fachanwalt Medizinrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Apothekenrecht Arzneimittel Paragraf 78 AMG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Apothekenrecht Arzneimittel § 78 AMG

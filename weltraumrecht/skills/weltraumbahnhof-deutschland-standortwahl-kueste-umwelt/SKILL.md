@@ -1,6 +1,6 @@
 ---
 name: weltraumbahnhof-deutschland-standortwahl-kueste-umwelt
-description: "Wenn es um Weltraumrecht: Weltraumbahnhof Deutschland: Standortwahl, Küste, Umwelt und Sicherheit in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Weltraumbahnhof Deutschland: Standortwahl, Küste, Umwelt und Sicherheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Weltraumrecht: Weltraumbahnhof Deutschland: Standortwahl, Küste, Umwelt und Sicherheit

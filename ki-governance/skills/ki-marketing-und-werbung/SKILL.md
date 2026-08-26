@@ -1,6 +1,6 @@
 ---
 name: ki-marketing-und-werbung
-description: "Wenn es um digitale Werkzeuge: Marketing und Werbung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für digitale Werkzeuge: Marketing und Werbung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI: Marketing und Werbung

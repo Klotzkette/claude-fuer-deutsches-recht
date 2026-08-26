@@ -1,6 +1,6 @@
 ---
 name: bmv-schienen-und-bahnregulierung-aeg
-description: "Wenn es um Schienen- und Bahnregulierung (AEG) (BMV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Schienen- und Bahnregulierung (AEG) (BMV): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schienen- und Bahnregulierung (AEG) (BMV)

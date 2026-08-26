@@ -1,6 +1,6 @@
 ---
 name: hafenvertiefung-akteneinsicht-erzwinge
-description: "Wenn es um Hafenvertiefung Akteneinsicht Erzwinge in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Hafenvertiefung Akteneinsicht Erzwinge: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hafenvertiefung Akteneinsicht Erzwinge

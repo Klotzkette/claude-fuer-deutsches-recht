@@ -1,6 +1,6 @@
 ---
 name: db-061-datenbankrecht-im-logistik-tracking
-description: "Wenn es um Datenbankrecht: Datenbankrecht im Logistik-Tracking in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Datenbankrecht im Logistik-Tracking: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Datenbankrecht im Logistik-Tracking

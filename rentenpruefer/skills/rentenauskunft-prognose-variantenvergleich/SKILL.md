@@ -1,6 +1,6 @@
 ---
 name: rentenauskunft-prognose-variantenvergleich
-description: "Wenn es um Rentenauskunft Prognose Variantenvergleich in Rentenprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Rentenauskunft Prognose Variantenvergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Rentenauskunft Prognose Variantenvergleich

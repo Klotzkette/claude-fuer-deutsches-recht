@@ -1,6 +1,6 @@
 ---
 name: ihl-010-rom-i-und-rechtswahl
-description: "Wenn es um Rom I Und Rechtswahl in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom I und Rechtswahl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom I Und Rechtswahl

@@ -1,6 +1,6 @@
 ---
 name: registerstand-fristen-verlaengerung
-description: "Wenn es um Registerstand Fristen Verlaengerung in designrecht-geschmacksmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Registerstand Fristen Verlängerung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Registerstand Fristen Verlaengerung

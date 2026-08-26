@@ -1,6 +1,6 @@
 ---
 name: risiko-dashboard-leasingportfolio
-description: "Wenn es um Risiko-Dashboard: Leasingportfolio in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Risiko-Dashboard: Leasingportfolio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Risiko-Dashboard: Leasingportfolio

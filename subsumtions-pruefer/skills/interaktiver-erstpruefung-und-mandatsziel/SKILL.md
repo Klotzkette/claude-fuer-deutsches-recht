@@ -1,6 +1,6 @@
 ---
 name: interaktiver-erstpruefung-und-mandatsziel
-description: "Wenn es um Interaktiv: Erstprüfung, Rollenklärung und Mandatsziel in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Interaktiv: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Interaktiv: Erstprüfung, Rollenklärung und Mandatsziel
@@ -117,3 +117,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen und begründen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-interaktiver-erstpruefung-und-mandatsziel` beziehungsweise Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-interaktiver-erstpruefung-und-mandatsziel.md).

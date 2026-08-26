@@ -1,6 +1,6 @@
 ---
 name: beweissicherung-testkauf-screenshot-chain
-description: "Wenn es um Beweissicherung, Testkauf und Screenshot in markenrecht-fashion-luxus geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweissicherung, Testkauf und Screenshot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweissicherung, Testkauf und Screenshot

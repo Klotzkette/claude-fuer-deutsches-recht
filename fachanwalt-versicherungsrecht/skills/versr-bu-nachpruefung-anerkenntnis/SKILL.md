@@ -1,6 +1,6 @@
 ---
 name: versr-bu-nachpruefung-anerkenntnis
-description: "Wenn es um Versr Bu Nachpruefung Anerkenntnis in Fachanwalt Versicherungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Versr Bu Nachprüfung Anerkenntnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # BU-Anerkenntnis, Nachprüfung und Leistungseinstellung: Vergleichszustand, Gesundheitsverbesserung, Berufswechsel, Mitwirkung und Prozessstrategie.

@@ -1,6 +1,6 @@
 ---
 name: nachlass-und-testamentsvollstrecker-register
-description: "Wenn es um Nachlassvertretung im Register in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachlassvertretung im Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Nachlassvertretung im Register

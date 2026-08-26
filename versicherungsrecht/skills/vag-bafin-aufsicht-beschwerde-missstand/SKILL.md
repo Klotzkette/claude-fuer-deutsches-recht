@@ -1,6 +1,6 @@
 ---
 name: vag-bafin-aufsicht-beschwerde-missstand
-description: "Wenn es um VAG/BaFin-Aufsicht: Beschwerde und Missstand in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für VAG/BaFin-Aufsicht: Beschwerde und Missstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VAG/BaFin-Aufsicht: Beschwerde und Missstand

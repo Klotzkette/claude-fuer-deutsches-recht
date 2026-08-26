@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-behoerdenvergleich-erledigung-und-auflagen
-description: "Wenn es um Dsv Sanktion Behoerdenvergleich Erledigung Und Auflagen in Datenschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Dsv Sanktion Behördenvergleich Erledigung und Auflagen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Datenschutzrecht-Brückenskill: Erledigung mit der Aufsicht verhandeln: Informelle Erledigung, Verwarnung, Auflage, reduzierte Geldbuße oder Rücknahme rechtlich sauber verhandeln

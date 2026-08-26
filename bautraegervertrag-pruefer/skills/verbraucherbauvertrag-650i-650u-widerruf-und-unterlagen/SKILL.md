@@ -1,6 +1,6 @@
 ---
 name: verbraucherbauvertrag-650i-650u-widerruf-und-unterlagen
-description: "Wenn es um Verbraucherbauvertrag, Bauträgervertrag, Widerruf und Unterlagen in Bauträgervertrag-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Verbraucherbauvertrag, Bauträgervertrag, Widerruf und Unterlagen: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Verbraucherbauvertrag, Bauträgervertrag, Widerruf und Unterlagen

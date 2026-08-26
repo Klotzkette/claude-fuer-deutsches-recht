@@ -1,6 +1,6 @@
 ---
 name: zustaendigkeits-router-bnetza-vg-lg
-description: "Wenn es um Zuständigkeit: BNetzA, Verwaltungsgericht, Zivilgericht, Kartellspur in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Zuständigkeit: BNetzA, Verwaltungsgericht, Zivilgericht, Kartellspur: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zuständigkeit: BNetzA, Verwaltungsgericht, Zivilgericht, Kartellspur

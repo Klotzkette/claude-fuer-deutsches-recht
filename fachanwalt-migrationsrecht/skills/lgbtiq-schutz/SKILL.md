@@ -1,6 +1,6 @@
 ---
 name: lgbtiq-schutz
-description: "Wenn es um LSBTIQ*-Schutzgründe: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LSBTIQ*-Schutzgründe: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LSBTIQ*-Schutzgründe: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um LSBTIQ*-Schutzgründe: Fachmodul im Migrationsrecht in 
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-lgbtiq-schutz` beziehungsweise LSBTIQ*-Schutzgründe: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-lgbtiq-schutz.md).

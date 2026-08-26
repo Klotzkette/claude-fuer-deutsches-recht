@@ -1,6 +1,6 @@
 ---
 name: franchisevertrag-agb-redline
-description: "Wenn es um Franchiserecht: Franchisevertrag – AGB-Redline in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Franchisevertrag – AGB-Redline: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Franchisevertrag – AGB-Redline

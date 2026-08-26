@@ -1,6 +1,6 @@
 ---
 name: anfechtung-und-rechtsmissbrauch
-description: "Wenn es um Anfechtung Und Rechtsmissbrauch in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Anfechtung und Rechtsmissbrauch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anfechtung Und Rechtsmissbrauch

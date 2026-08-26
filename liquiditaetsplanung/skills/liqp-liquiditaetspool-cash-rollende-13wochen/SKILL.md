@@ -1,6 +1,6 @@
 ---
 name: liqp-liquiditaetspool-cash-rollende-13wochen
-description: "Wenn es um Liqp Liquiditaetspool Cash Rollende 13wochen in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Liqp Liquiditätspool Cash Rollende 13wochen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liqp Liquiditaetspool Cash Rollende 13wochen

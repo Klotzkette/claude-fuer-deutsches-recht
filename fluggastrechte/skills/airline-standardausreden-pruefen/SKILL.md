@@ -1,6 +1,6 @@
 ---
 name: airline-standardausreden-pruefen
-description: "Wenn es um Airline-Standardausreden — Katalog und Gegenargumente in Fluggastrechte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Airline Standardausreden Pruefen; Arbeitsfeld: Fluggastrechte."
+description: "Für Airline-Standardausreden — Katalog und Gegenargumente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fluggastrechte. Route: airline-standardausreden-pruefen."
 ---
 
 # Airline-Standardausreden — Katalog und Gegenargumente

@@ -1,6 +1,6 @@
 ---
 name: open-source-ki-an-drohnen-high
-description: "Wenn es um Weltraumrecht: Open-Source-Software im Satelliten in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Open-Source-Software im Satelliten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Open-Source-Software im Satelliten

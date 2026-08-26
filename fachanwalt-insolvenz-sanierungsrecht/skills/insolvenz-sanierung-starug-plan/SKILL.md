@@ -1,6 +1,6 @@
 ---
 name: insolvenz-sanierung-starug-plan
-description: "Steuert die vorinsolvenzliche Sanierung mit Restrukturierungsplan: Insolvenzreifetest, gestaltbare Rechte, Planaufbau, Gruppen, Mehrheiten, Anzeige, Stabilisierung, Bestätigung und Krisenwechsel. Liefert eine Verfahrensroute, 30-Tage-Arbeitsplan, Planmatrix und gerichtliche Kerntexte."
+description: "Steuert die vorinsolvenzliche Sanierung mit Restrukturierungsplan: Insolvenzreifetest, gestaltbare Rechte, Planaufbau, Gruppen, Mehrheiten, Anzeige, Stabilisierung, Bestätigung und Krisenwechsel."
 ---
 
 # 1. StaRUG-Plan als Sanierungsroute

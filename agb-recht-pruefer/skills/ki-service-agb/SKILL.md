@@ -1,6 +1,6 @@
 ---
 name: ki-service-agb
-description: "Wenn es um digitale Werkzeuge Service AGB in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Ki Service Agb; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für digitale Werkzeuge Service AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: ki-service-agb."
 ---
 
 # KI Service AGB

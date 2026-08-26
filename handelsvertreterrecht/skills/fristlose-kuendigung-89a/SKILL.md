@@ -1,6 +1,6 @@
 ---
 name: fristlose-kuendigung-89a
-description: "Wenn es um Fristlose Kündigung nach Paragraf 89a HGB — wichtiger Grund und Rechtsfolgen in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristlose Kündigung nach Paragraf 89a HGB — wichtiger Grund und Rechtsfolgen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristlose Kündigung nach § 89a HGB — wichtiger Grund und Rechtsfolgen

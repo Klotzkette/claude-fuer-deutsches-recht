@@ -1,6 +1,6 @@
 ---
 name: voting-tabulation-1126
-description: "Wenn es um Voting and Tabulation Paragraf 1126 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Voting and Tabulation Paragraf 1126: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Voting and Tabulation § 1126

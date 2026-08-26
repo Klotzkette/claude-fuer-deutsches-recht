@@ -1,6 +1,6 @@
 ---
 name: beweissicherung
-description: "Wenn es um Beweissicherung nach Datenschutzvorfall — Chain of Custody in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweissicherung nach Datenschutzvorfall — Chain of Custody: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweissicherung nach Datenschutzvorfall — Chain of Custody
@@ -44,3 +44,7 @@ Zeugen: Wer hat wann was wahrgenommen — in eigenen Worten und mit Zeitstempel 
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-beweissicherung` beziehungsweise Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass die Beweismittel in einem späteren Bußgeldverfahren, Strafverfahren oder Zivilprozess verwertbar bleiben: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-beweissicherung.md).

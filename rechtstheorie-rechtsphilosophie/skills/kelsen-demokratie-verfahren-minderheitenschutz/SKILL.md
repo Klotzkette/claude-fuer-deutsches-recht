@@ -1,6 +1,6 @@
 ---
 name: kelsen-demokratie-verfahren-minderheitenschutz
-description: "Wenn es um Kelsen Demokratie Verfahren Minderheitenschutz in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kelsen Demokratie Verfahren Minderheitenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheitenschutz, Normbindung, institutionelle Rollen, Rechtsschutz und die Grenze plebiszitaerer oder autoritaerer Direktlegitimation.

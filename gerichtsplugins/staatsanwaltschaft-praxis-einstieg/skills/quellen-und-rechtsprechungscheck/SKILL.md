@@ -1,6 +1,6 @@
 ---
 name: quellen-und-rechtsprechungscheck
-description: "Wenn es um Quellen- und Rechtsprechungscheck in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Quellen Und Rechtsprechungscheck; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
+description: "Für Quellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Staatsanwaltschaft Praxis-Einstieg. Route: quellen-und-rechtsprechungscheck."
 ---
 
 # Quellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: mandantenakten-kanzlei
-description: "Wenn es um Mandantenakten Kanzlei in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mandantenakten Kanzlei: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandantenakten Kanzlei

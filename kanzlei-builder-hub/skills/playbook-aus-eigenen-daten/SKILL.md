@@ -1,6 +1,6 @@
 ---
 name: playbook-aus-eigenen-daten
-description: "Wenn es um Skill: Playbook aus eigenen Daten in Kanzlei-Builder-Hub geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Skill: Playbook aus eigenen Daten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Skill: Playbook aus eigenen Daten

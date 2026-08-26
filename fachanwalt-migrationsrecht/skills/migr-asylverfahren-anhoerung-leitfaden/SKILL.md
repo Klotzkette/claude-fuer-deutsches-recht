@@ -1,6 +1,6 @@
 ---
 name: migr-asylverfahren-anhoerung-leitfaden
-description: "Wenn es um Migr Asylverfahren Anhoerung Leitfaden in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Migr Asylverfahren Anhörung Leitfaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leitfaden Asylverfahren und Anhörung BAMF: Vorbereitung Mandantengespraech, dolmetscherische Pflichten, Niederschriftpruefung

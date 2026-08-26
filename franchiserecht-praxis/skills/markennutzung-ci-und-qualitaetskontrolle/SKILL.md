@@ -1,6 +1,6 @@
 ---
 name: markennutzung-ci-und-qualitaetskontrolle
-description: "Wenn es um Franchiserecht: Markennutzung, Corporate Identity und Qualitätskontrolle in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Franchiserecht: Markennutzung, Corporate Identity und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Franchiserecht: Markennutzung, Corporate Identity und Qualitätskontrolle

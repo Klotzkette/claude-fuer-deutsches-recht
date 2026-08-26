@@ -1,6 +1,6 @@
 ---
 name: agb-und-ipr-art-6-rom-i-verbraucher
-description: "Wenn es um Agb Und Ipr Art 6 Rom I Verbraucher in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Und Ipr Art 6 Rom I Verbraucher; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für AGB und Ipr Art 6 Rom I Verbraucher: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: agb-und-ipr-art-6-rom-i-verbraucher."
 ---
 
 # Agb Und Ipr Art 6 Rom I Verbraucher

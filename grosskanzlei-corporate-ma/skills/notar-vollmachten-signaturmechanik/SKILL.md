@@ -1,6 +1,6 @@
 ---
 name: notar-vollmachten-signaturmechanik
-description: "Wenn es um Notar Vollmachten Signaturmechanik in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notar Vollmachten Signaturmechanik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: notar-vollmachten-signaturmechanik."
 ---
 
 # Notar-, Vollmachts- und Signaturmechanik für Corporate/M&A: plant Beurkundung, notarielle Vollmachten, Legalisation/Apostille, elektronische Signatur und Closing-Mechanik.

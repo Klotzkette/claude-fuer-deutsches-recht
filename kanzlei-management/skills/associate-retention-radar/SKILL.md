@@ -1,6 +1,6 @@
 ---
 name: associate-retention-radar
-description: "Wenn es um Associate-Retention-Radar in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Associate-Retention-Radar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Associate-Retention-Radar

@@ -1,6 +1,6 @@
 ---
 name: sachliche-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Sachliche: Schriftsatz-, Brief- und Memo-Bausteine in E-Mail-Umformulierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sachliche: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: E-Mail-Umformulierer. Route: sachliche-schriftsatz-brief-und-memo-bausteine."
 ---
 
 # Sachliche: Schriftsatz-, Brief- und Memo-Bausteine

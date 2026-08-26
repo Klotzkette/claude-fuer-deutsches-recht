@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-vob-schiedsgutachten-schlichtung
-description: "Wenn es um VOB-Schiedsgericht / SOBau / Schlichtung im Baurecht in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für VOB-Schiedsgericht / SOBau / Schlichtung im Baurecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VOB-Schiedsgericht / SOBau / Schlichtung im Baurecht

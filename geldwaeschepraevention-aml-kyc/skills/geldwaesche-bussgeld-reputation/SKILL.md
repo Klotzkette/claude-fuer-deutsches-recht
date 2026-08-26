@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-bussgeld-reputation
-description: "Wenn es um Bußgeld, Haftung und Reputation in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bußgeld, Haftung und Reputation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bußgeld, Haftung und Reputation

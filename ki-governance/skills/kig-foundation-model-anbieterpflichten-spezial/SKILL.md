@@ -1,6 +1,6 @@
 ---
 name: kig-foundation-model-anbieterpflichten-spezial
-description: "Wenn es um KIG: GPAI Anbieterpflichten in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für KIG: GPAI Anbieterpflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KIG: GPAI Anbieterpflichten

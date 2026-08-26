@@ -1,6 +1,6 @@
 ---
 name: confidentiality-and-trade-secrets
-description: "Wenn es um Vertraulichkeit und Geschäftsgeheimnisse in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertraulichkeit und Geschäftsgeheimnisse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertraulichkeit und Geschäftsgeheimnisse

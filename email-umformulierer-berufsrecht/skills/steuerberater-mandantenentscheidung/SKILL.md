@@ -1,6 +1,6 @@
 ---
 name: steuerberater-mandantenentscheidung
-description: "Wenn es um Steuerberater: Mandantenkommunikation und Entscheidungsvorlage in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuerberater: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: Mandantenkommunikation und Entscheidungsvorlage

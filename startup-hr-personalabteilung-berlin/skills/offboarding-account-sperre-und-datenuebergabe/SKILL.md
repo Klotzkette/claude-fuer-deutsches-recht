@@ -1,6 +1,6 @@
 ---
 name: offboarding-account-sperre-und-datenuebergabe
-description: "Wenn es um Offboarding Account Sperre Und Datenuebergabe in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Offboarding Account Sperre und Datenübergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Offboarding Account Sperre Und Datenuebergabe

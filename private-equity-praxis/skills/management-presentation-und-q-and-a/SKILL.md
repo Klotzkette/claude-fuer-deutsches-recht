@@ -1,6 +1,6 @@
 ---
 name: management-presentation-und-q-and-a
-description: "Wenn es um Management Presentation und Q&A in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Management Presentation und Q&A: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Management Presentation und Q&A

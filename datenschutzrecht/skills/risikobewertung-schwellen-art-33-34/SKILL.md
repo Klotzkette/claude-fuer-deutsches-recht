@@ -1,6 +1,6 @@
 ---
 name: risikobewertung-schwellen-art-33-34
-description: "Wenn es um Schwellenwerte Art. 33 und Art. 34 DSGVO — Entscheidungsbaum in Datenschutzrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Schwellenwerte Art. 33 und Art. 34 DSGVO — Entscheidungsbaum: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Schwellenwerte Art. 33 und Art. 34 DSGVO — Entscheidungsbaum
@@ -48,3 +48,7 @@ Frage 4: Art. 34 Abs. 3 DSGVO Ausnahme? Ja → öffentliche Bekanntmachung statt
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-risikobewertung-edsa-leitlinie` und `dsv-risikobewertung-enisa-schweregrad` liefern die methodische Tiefe.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-risikobewertung-schwellen-art-33-34` beziehungsweise Strukturiert die Schwellenwertentscheidung nach Art: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-risikobewertung-schwellen-art-33-34.md).

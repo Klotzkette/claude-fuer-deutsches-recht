@@ -1,6 +1,6 @@
 ---
 name: szenario-finanzierungsstruktur-bereinigen
-description: "Wenn es um Szenario Finanzierungsstruktur bereinigen in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Szenario Finanzierungsstruktur bereinigen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Szenario Finanzierungsstruktur bereinigen

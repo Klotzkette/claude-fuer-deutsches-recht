@@ -1,6 +1,6 @@
 ---
 name: klauselschutz-vertragserstellung
-description: "Wenn es um Klauselschutz: Behörden-, Gerichts- oder Registerweg in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klauselschutz: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klauselschutz: Behörden-, Gerichts- oder Registerweg

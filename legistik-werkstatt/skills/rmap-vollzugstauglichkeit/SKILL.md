@@ -1,6 +1,6 @@
 ---
 name: rmap-vollzugstauglichkeit
-description: "Wenn es um Vollzugstauglichkeit der Rulemap im Verwaltungsverfahren in Legistik-Werkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vollzugstauglichkeit der Rulemap im Verwaltungsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollzugstauglichkeit der Rulemap im Verwaltungsverfahren

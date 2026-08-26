@@ -1,6 +1,6 @@
 ---
 name: sondervermoegen-bundeswehr
-description: "Wenn es um Sondervermoegen Bundeswehr Risiko Mark in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sondervermögen Bundeswehr Risiko Mark: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sondervermoegen Bundeswehr Risiko Mark

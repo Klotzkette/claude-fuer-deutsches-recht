@@ -1,6 +1,6 @@
 ---
 name: mietsenkungsverlangen-international-schnittstellen
-description: "Wenn es um Mietsenkungsverlangen: Internationaler Bezug und Schnittstellen in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mietsenkungsverlangen: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mietsenkungsverlangen: Internationaler Bezug und Schnittstellen

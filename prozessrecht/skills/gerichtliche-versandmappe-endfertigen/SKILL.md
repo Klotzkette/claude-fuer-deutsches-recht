@@ -1,6 +1,6 @@
 ---
 name: gerichtliche-versandmappe-endfertigen
-description: "Endfertigt einen vorhandenen gerichtlichen Schriftsatz mit Anlagen zur kontrollierten beA-Versandmappe: liest Aktenordner und gerichtliche Vorgaben zuerst, prüft Anträge, Tatsachenfundstellen und Beweisbezüge, führt K-, B-, AST- oder AG-Nummern fort, erzeugt einzelne gestempelte PDFs, wählt das dokumentierte Dateinamensprofil und liefert Manifest, Freigabevermerk und Eingangskontrolle."
+description: "Endfertigt einen vorhandenen gerichtlichen Schriftsatz mit Anlagen zur kontrollierten beA-Versandmappe: liest Aktenordner und gerichtliche Vorgaben zuerst, prüft Anträge, Tatsachenfundstellen und Beweisbezüge, führt K-, B-, AST- oder AG-Nummern fort, erzeugt einzelne gestempelte PDFs, wählt das dokumentierte Dateinamensprofil und liefert Manifest."
 ---
 
 # Gerichtliche Versandmappe endfertigen

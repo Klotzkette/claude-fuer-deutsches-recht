@@ -1,6 +1,6 @@
 ---
 name: vbr-021-haustuergeschaeft-anspruch-pruefen
-description: "Wenn es um Haustuergeschaeft Anspruch Pruefen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haustürgeschäft Anspruch Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: vbr-021-haustuergeschaeft-anspruch-pruefen."
 ---
 
 # Haustuergeschaeft Anspruch Pruefen

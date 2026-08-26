@@ -1,6 +1,6 @@
 ---
 name: spezial-quellenreferenz-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Quellenreferenz: Livequellen- und Rechtsprechungscheck in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Quellenreferenz: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quellenreferenz: Livequellen- und Rechtsprechungscheck

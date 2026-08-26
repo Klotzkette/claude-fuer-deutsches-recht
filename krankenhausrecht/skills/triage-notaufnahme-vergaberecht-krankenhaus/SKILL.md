@@ -1,6 +1,6 @@
 ---
 name: triage-notaufnahme-vergaberecht-krankenhaus
-description: "Bereitet die Beschaffung und Einführung eines Triage- oder Notaufnahme-Systems im Krankenhaus vor. Verknüpft Bedarfsbeschreibung, Los- und Verfahrenswahl, Eignung, Wertung, Datenschutz, Interoperabilität, Schulung und Abnahme; liefert Leistungsbeschreibung, Kriterienmatrix, Vergabevermerk und Einführungsplan."
+description: "Bereitet die Beschaffung und Einführung eines Triage- oder Notaufnahme-Systems im Krankenhaus vor."
 ---
 
 # Triage-System für die Notaufnahme beschaffen und einführen

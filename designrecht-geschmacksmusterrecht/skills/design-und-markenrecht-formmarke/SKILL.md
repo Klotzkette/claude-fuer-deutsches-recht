@@ -1,6 +1,6 @@
 ---
 name: design-und-markenrecht-formmarke
-description: "Wenn es um Design Und Markenrecht Formmarke in designrecht-geschmacksmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Design und Markenrecht Formmarke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Design Und Markenrecht Formmarke

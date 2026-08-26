@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-schulung-awareness
-description: "Wenn es um Schulung und Awareness in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulung und Awareness: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulung und Awareness

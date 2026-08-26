@@ -1,6 +1,6 @@
 ---
 name: sachlicher-ausschluss-schwerwiegender-vorfall
-description: "Wenn es um Sachliche Ausschlüsse — Art. 2 Abs. 3 bis 12 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Sachlicher Ausschluss Schwerwiegender Vorfall; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für Sachliche Ausschlüsse — Art. 2 Abs. 3 bis 12 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: sachlicher-ausschluss-schwerwiegender-vorfall."
 ---
 
 # Sachliche Ausschlüsse — Art. 2 Abs. 3 bis 12 KI-VO

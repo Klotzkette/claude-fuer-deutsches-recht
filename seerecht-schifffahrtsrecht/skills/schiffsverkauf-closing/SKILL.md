@@ -1,6 +1,6 @@
 ---
 name: schiffsverkauf-closing
-description: "Wenn es um Schiffsverkauf Closing – Durchführung und Übergabe in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiffsverkauf Closing – Durchführung und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiffsverkauf Closing – Durchführung und Übergabe

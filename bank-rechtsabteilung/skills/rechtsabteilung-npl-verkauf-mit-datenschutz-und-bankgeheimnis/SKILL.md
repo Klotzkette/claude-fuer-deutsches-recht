@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-npl-verkauf-mit-datenschutz-und-bankgeheimnis
-description: "Wenn es um Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis

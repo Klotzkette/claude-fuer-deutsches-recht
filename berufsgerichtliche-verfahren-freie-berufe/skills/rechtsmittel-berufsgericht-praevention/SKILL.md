@@ -1,6 +1,6 @@
 ---
 name: rechtsmittel-berufsgericht-praevention
-description: "Wenn es um Rechtsmittel im Berufsgericht: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsmittel im Berufsgericht: Präventions- und Organisationspaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsmittel im Berufsgericht: Präventions- und Organisationspaket

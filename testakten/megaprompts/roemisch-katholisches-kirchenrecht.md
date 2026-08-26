@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 127 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Römisch Katholisches Kirchenrecht ein juristisches Arbeitsprodukt tragfähig begründet werden …
-2. **voruntersuchung-wallfahrt-pilgerpastoral** — Wenn es um Voruntersuchung nach can. 1717 in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverh…
-3. **pfarrbrief-katechetisch-pfarrei-pfarrer** — Wenn es um Pfarrbrief katechetisch und lehrtreu in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: erstellt …
-4. **voruntersuchung-nach-can-1717** — Wenn es um Voruntersuchung nach can. 1717 in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverh…
-5. **pfarrbrief-katechetisch-und-lehrtreu** — Wenn es um Pfarrbrief katechetisch und lehrtreu in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: erstellt …
-6. **ehe-konsens-ehenichtigkeit-kirchlichen** — Wenn es um Ehe: Konsens, Form und Hindernisse in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist…
-7. **credo-glaubensbekenntnis-diakonat-dienst** — Wenn es um Credo und Glaubensbekenntnis in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form…
-8. **eucharistie-und-kommunionzulassung** — Wenn es um Eucharistie und Kommunionzulassung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist…
+2. **kirchensteuer-und-staatskirchenrecht** — Für Kirchensteuer und Staatskirchenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Z…
+3. **holle-umkehr-italienische-kurienkommunikation** — Für Hölle, Gericht, Umkehr und Barmherzigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risi…
+4. **taufregister-korrektur-tod-begrabnis-tribunal** — Für Taufregister: Korrektur und Randvermerke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit …
+5. **kirchenaustritt-deutschland-kirchenmusik** — Für Kirchenaustritt in Deutschland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständ…
+6. **eucharistie-und-kommunionzulassung** — Für Eucharistie und Kommunionzulassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zus…
+7. **kirchensteuer-staatskirchenrecht** — Für Kirchensteuer und Staatskirchenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Z…
+8. **pfarrbrief-katechetisch-pfarrei-pfarrer** — Für Pfarrbrief katechetisch und lehrtreu: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Beg…
 
 ---
 
@@ -140,11 +140,64 @@ Ausgangspunkt für dieses Plugin: Antragsteller für Parteistellung, Urkunde und
 
 ---
 
-## Skill: `voruntersuchung-wallfahrt-pilgerpastoral`
+## Skill: `kirchensteuer-und-staatskirchenrecht`
 
-_Wenn es um Voruntersuchung nach can. 1717 in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Voruntersuchung Wallfahrt Pilgerpastoral; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus._
+_Für Kirchensteuer und Staatskirchenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: kirchensteuer-und-staatskirchenrecht._
 
-# Voruntersuchung nach can. 1717
+# Kirchensteuer und Staatskirchenrecht
+
+## Auftrag
+
+Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
+
+## Sofortfragen
+
+1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
+2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
+3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
+4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
+5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
+
+## Canonischer und katechetischer Fokus
+
+Dieser Skill prüft insbesondere: **kirchliche Beitragspflicht, Kirchensteuertechnik und Austrittsfolgen**.
+
+**CIC-/Normanker:** can. 222, 1260-1263.
+
+**Katechismusanker:** KKK 2043, 2401-2463.
+
+Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
+
+## Arbeitsworkflow
+
+1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
+2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
+3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
+4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
+5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
+6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
+7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
+
+## Ausgabeformate
+
+- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
+- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
+- Spezialskill-Empfehlung für den nächsten Schritt.
+
+## Qualitäts- und Quellenregel
+
+- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
+- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
+- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
+- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+
+---
+
+## Skill: `holle-umkehr-italienische-kurienkommunikation`
+
+_Für Hölle, Gericht, Umkehr und Barmherzigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: holle-umkehr-italienische-kurienkommunikation._
+
+# Hölle, Gericht, Umkehr und Barmherzigkeit
 
 ## Canones- und Quellenanker
 
@@ -171,7 +224,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Pfarrer, Bischof, Offizial, Diözesangericht (1. Instanz), Rota Romana, Dikasterium für die Glaubenslehre, Apostolische Signatur, Ordinarius.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klagelibell (libellus), Dekret, Eheprozessakte, Taufregister-Eintrag, Firmungsbescheinigung, Dispens, Inkardinationsurkunde, Visitationsprotokoll, kirchenrechtliches Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Voruntersuchung nach can. 1717
+## Fachkern: Hölle, Gericht, Umkehr und Barmherzigkeit
 - **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.
 - **Entscheidende Weiche:** Canon, kirchliche Zuständigkeit, pastoraler Zweck, Rechtsweg, Dispens/Remonstration/Rekurs, Beweis und mehrsprachige Kommunikation trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
@@ -190,11 +243,335 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Prüft insbesondere: **Anfangsverdacht, Rufschutz, Beweissicherung, Befangenheit und Aktenführung**.
+Prüft insbesondere: **Gericht und Hölle klar katholisch erklären ohne Drohrhetorik**.
 
-**CIC-/Normanker:** can. 1717-1719.
+**CIC-/Normanker:** can. 747-755, 959-997.
 
-**Katechismusanker:** KKK 2477-2479.
+**Katechismusanker:** KKK 1020-1065, 1846-1876.
+
+Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
+
+## Arbeitsworkflow
+
+1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
+2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
+3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
+4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
+5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
+6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
+7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
+
+## Ausgabeformate
+
+- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
+- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
+- Fachmodul-Empfehlung für den nächsten Schritt.
+
+## Qualitäts- und Quellenregel
+
+- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
+- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
+- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
+- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+
+---
+
+## Skill: `taufregister-korrektur-tod-begrabnis-tribunal`
+
+_Für Taufregister: Korrektur und Randvermerke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: taufregister-korrektur-tod-begrabnis-tribunal._
+
+# Taufregister: Korrektur und Randvermerke
+
+## Canones- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `CIC can. 7` — Inkrafttreten kirchlicher Gesetze.
+- `CIC can. 11` — Adressaten rein kirchlicher Gesetze.
+- `CIC can. 96` — Rechtsstellung der Getauften.
+- `CIC can. 1055 § 1` — Ehebegriff.
+- `CIC can. 1108 § 1` — kanonische Eheschliessungsform.
+- `CIC can. 1246 § 1` — Sonn- und Feiertage.
+- `CIC can. 1752` — salus animarum als Auslegungsziel.
+- `KKK 1776` — Gewissen.
+- `KKK 1783` — Gewissensbildung.
+- `KKK 2032` — kirchliche Morallehre.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: CIC can. 1734 Rekurs 10 Tage / 15 Tage, can. 1646 Berufung 15 Tage, can. 1641 Rechtskraft nach 2 gleichlautenden Urteilen (entfällt 2015 Mitis Iudex).
+- Tragende Normen verifizieren: CIC/1983 cann. 1, 96, 113, 204, 208, 515, 519, 528, 1055, 1095, 1141, 1148, 1419, 1671, 1673, 1717, 1719, 1730, Codex Canonum Ecclesiarum Orientalium, Apostolische Konstitution Pastor bonus, Apostolische Konstitution Praedicate evangelium, Vos estis lux mundi — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Pfarrer, Bischof, Offizial, Diözesangericht (1. Instanz), Rota Romana, Dikasterium für die Glaubenslehre, Apostolische Signatur, Ordinarius.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klagelibell (libellus), Dekret, Eheprozessakte, Taufregister-Eintrag, Firmungsbescheinigung, Dispens, Inkardinationsurkunde, Visitationsprotokoll, kirchenrechtliches Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Taufregister: Korrektur und Randvermerke
+- **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.
+- **Entscheidende Weiche:** Canon, kirchliche Zuständigkeit, pastoraler Zweck, Rechtsweg, Dispens/Remonstration/Rekurs, Beweis und mehrsprachige Kommunikation trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+## Auftrag
+
+Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
+
+## Sofortfragen
+
+1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
+2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
+3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
+4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
+5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
+
+## Canonischer und katechetischer Fokus
+
+Prüft insbesondere: **Taufregister und spätere Vermerke**.
+
+**CIC-/Normanker:** can. 535, 877-878, 1121-1123.
+
+**Katechismusanker:** KKK 1213-1284.
+
+Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
+
+## Arbeitsworkflow
+
+1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
+2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
+3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
+4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
+5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
+6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
+7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
+
+## Ausgabeformate
+
+- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
+- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
+- Fachmodul-Empfehlung für den nächsten Schritt.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Qualitäts- und Quellenregel
+
+- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
+- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
+- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
+- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+
+---
+
+## Skill: `kirchenaustritt-deutschland-kirchenmusik`
+
+_Für Kirchenaustritt in Deutschland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: kirchenaustritt-deutschland-kirchenmusik._
+
+# Kirchenaustritt in Deutschland
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: CIC can. 1734 Rekurs 10 Tage / 15 Tage, can. 1646 Berufung 15 Tage, can. 1641 Rechtskraft nach 2 gleichlautenden Urteilen (entfällt 2015 Mitis Iudex).
+- Tragende Normen verifizieren: CIC/1983 cann. 1, 96, 113, 204, 208, 515, 519, 528, 1055, 1095, 1141, 1148, 1419, 1671, 1673, 1717, 1719, 1730, Codex Canonum Ecclesiarum Orientalium, Apostolische Konstitution Pastor bonus, Apostolische Konstitution Praedicate evangelium, Vos estis lux mundi — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Pfarrer, Bischof, Offizial, Diözesangericht (1. Instanz), Rota Romana, Dikasterium für die Glaubenslehre, Apostolische Signatur, Ordinarius.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klagelibell (libellus), Dekret, Eheprozessakte, Taufregister-Eintrag, Firmungsbescheinigung, Dispens, Inkardinationsurkunde, Visitationsprotokoll, kirchenrechtliches Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Kirchenaustritt in Deutschland
+- **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.
+- **Entscheidende Weiche:** Canon, kirchliche Zuständigkeit, pastoraler Zweck, Rechtsweg, Dispens/Remonstration/Rekurs, Beweis und mehrsprachige Kommunikation trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+## Auftrag
+
+Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
+
+## Sofortfragen
+
+1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
+2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
+3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
+4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
+5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
+
+## Canonischer und katechetischer Fokus
+
+Prüft insbesondere: **staatlicher Austritt, Kirchensteuer, Taufstatus, Folgen und Rückkehr**.
+
+**CIC-/Normanker:** can. 205, 209, 222, 751, 1364.
+
+**Katechismusanker:** KKK 837-838, 846-848, 1846-1876.
+
+Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
+
+## Arbeitsworkflow
+
+1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
+2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
+3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
+4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
+5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
+6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
+7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
+
+## Aktualisierte Norm- und Reformlage
+
+### Staatlicher Kirchenaustritt
+- Bundesrechtlich gibt es keinen Kirchenaustritt im staatsrechtlichen Sinne. Die Kirchensteuerpflicht erlischt mit Austrittserklaerung; die Regelung erfolgt landesrechtlich (z. B. § 26 KiStG NRW, Art. 8 ff. BayKiStG, § 3 KiStG Berlin).
+- Erklaerung in der Regel persoenlich vor dem Standesamt oder Amtsgericht; teils mit Gebuehr (etwa 25-35 Euro).
+- Wirkung: Beendigung des Kirchensteuerstatus mit Wirkung vom Folgemonat / Ende des Austrittsmonats (landesrechtlich unterschiedlich).
+
+### Kanonische Wirkung
+- Der staatliche Austritt loest nach DBK-Allgemeinem Dekret vom 20.09.2012 weitreichende kirchenrechtliche Folgen aus:
+ - Verlust des Rechts auf Sakramente (Eucharistie, Beichte, Krankensalbung) mit Ausnahme der Todesgefahr.
+ - Verlust des Rechts auf kirchliches Begraebnis (im Einzelfall durch den Ortsordinarius dispensierbar).
+ - Verlust des Patenamtes und des Taufpatenrechts.
+ - Verlust des Wahlrechts in kirchlichen Gremien.
+ - Verlust des Mandatum für kirchliche Lehraemter.
+ - Verlust der Anstellungsfaehigkeit in kirchlichen Berufen (mit Differenzierungen nach Grundordnung 2022).
+- Der Austritt fuehrt nicht automatisch zum kanonischen Verlust der Kirchengliedschaft (c. 11 CIC i.V.m. c. 96 CIC: Taufe begruendet die Mitgliedschaft).
+- Die Diskussion um den actus formalis defectionis ab Ecclesia catholica ist mit den Mitteilungen der Glaubenskongregation 2006 entschaerft, aber nicht final geklaert.
+
+### Grundordnung 2022
+- Die Grundordnung des kirchlichen Dienstes (Beschluss DBK 22.11.2022): der Kirchenaustritt fuehrt zur Loyalitaetspflichtverletzung und kann arbeitsrechtliche Folgen haben — milder als in der Vorfassung.
+- Tendenzschutz Art. 137 III WRV i.V.m. Art. 140 GG.
+
+### Wiedereintritt
+- can. 1064 CIC i.V.m. den DBK-Vorschriften: pastoraler Vorbereitungsweg, Glaubensbekenntnis vor Pfarrer, eventuell Lossprechung von latae sententiae-Strafen.
+
+### Prüfraster
+1. Datum des Austritts? — landesrechtliche Wirkung prüfen.
+2. Pastorale Konsequenzen (Begraebnis, Sakramente, Pateamt)? — Dekret 2012 und Diozesanrecht.
+3. Arbeitsrechtliche Konsequenzen? — Grundordnung 2022.
+4. Wiedereintritt? — Pfarrei + Diozese kontaktieren.
+
+## Ausgabeformate
+
+- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
+- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
+- Fachmodul-Empfehlung für den nächsten Schritt.
+
+## Qualitäts- und Quellenregel
+
+- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
+- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
+- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
+- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+
+---
+
+## Skill: `eucharistie-und-kommunionzulassung`
+
+_Für Eucharistie und Kommunionzulassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: eucharistie-und-kommunionzulassung._
+
+# Eucharistie und Kommunionzulassung
+
+## Auftrag
+
+Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
+
+## Sofortfragen
+
+1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
+2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
+3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
+4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
+5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
+
+## Canonischer und katechetischer Fokus
+
+Dieser Skill prüft insbesondere: **Zulassung, würdiger Empfang, öffentliche schwere Sünde und Gespräch**.
+
+**CIC-/Normanker:** can. 897-958, 912-923.
+
+**Katechismusanker:** KKK 1322-1419.
+
+Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
+
+## Arbeitsworkflow
+
+1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
+2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
+3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
+4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
+5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
+6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
+7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
+
+## Ausgabeformate
+
+- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
+- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
+- Spezialskill-Empfehlung für den nächsten Schritt.
+
+## Qualitäts- und Quellenregel
+
+- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
+- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
+- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
+- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+
+---
+
+## Skill: `kirchensteuer-staatskirchenrecht`
+
+_Für Kirchensteuer und Staatskirchenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: kirchensteuer-staatskirchenrecht._
+
+# Kirchensteuer und Staatskirchenrecht
+
+## Canones- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `CIC can. 7` — Inkrafttreten kirchlicher Gesetze.
+- `CIC can. 11` — Adressaten rein kirchlicher Gesetze.
+- `CIC can. 96` — Rechtsstellung der Getauften.
+- `CIC can. 1055 § 1` — Ehebegriff.
+- `CIC can. 1108 § 1` — kanonische Eheschliessungsform.
+- `CIC can. 1246 § 1` — Sonn- und Feiertage.
+- `CIC can. 1752` — salus animarum als Auslegungsziel.
+- `KKK 1776` — Gewissen.
+- `KKK 1783` — Gewissensbildung.
+- `KKK 2032` — kirchliche Morallehre.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: CIC can. 1734 Rekurs 10 Tage / 15 Tage, can. 1646 Berufung 15 Tage, can. 1641 Rechtskraft nach 2 gleichlautenden Urteilen (entfällt 2015 Mitis Iudex).
+- Tragende Normen verifizieren: CIC/1983 cann. 1, 96, 113, 204, 208, 515, 519, 528, 1055, 1095, 1141, 1148, 1419, 1671, 1673, 1717, 1719, 1730, Codex Canonum Ecclesiarum Orientalium, Apostolische Konstitution Pastor bonus, Apostolische Konstitution Praedicate evangelium, Vos estis lux mundi — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Pfarrer, Bischof, Offizial, Diözesangericht (1. Instanz), Rota Romana, Dikasterium für die Glaubenslehre, Apostolische Signatur, Ordinarius.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klagelibell (libellus), Dekret, Eheprozessakte, Taufregister-Eintrag, Firmungsbescheinigung, Dispens, Inkardinationsurkunde, Visitationsprotokoll, kirchenrechtliches Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Kirchensteuer und Staatskirchenrecht
+- **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.
+- **Entscheidende Weiche:** Canon, kirchliche Zuständigkeit, pastoraler Zweck, Rechtsweg, Dispens/Remonstration/Rekurs, Beweis und mehrsprachige Kommunikation trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+## Auftrag
+
+Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
+
+## Sofortfragen
+
+1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
+2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
+3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
+4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
+5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
+
+## Canonischer und katechetischer Fokus
+
+Prüft insbesondere: **kirchliche Beitragspflicht, Kirchensteuertechnik und Austrittsfolgen**.
+
+**CIC-/Normanker:** can. 222, 1260-1263.
+
+**Katechismusanker:** KKK 2043, 2401-2463.
 
 Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
 
@@ -225,7 +602,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## Skill: `pfarrbrief-katechetisch-pfarrei-pfarrer`
 
-_Wenn es um Pfarrbrief katechetisch und lehrtreu in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Pfarrbrief Katechetisch Pfarrei Pfarrer; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus._
+_Für Pfarrbrief katechetisch und lehrtreu: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: pfarrbrief-katechetisch-pfarrei-pfarrer._
 
 # Pfarrbrief katechetisch und lehrtreu
 
@@ -296,344 +673,6 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
 - Fachmodul-Empfehlung für den nächsten Schritt.
-
-## Qualitäts- und Quellenregel
-
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-
----
-
-## Skill: `voruntersuchung-nach-can-1717`
-
-_Wenn es um Voruntersuchung nach can. 1717 in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Voruntersuchung Nach Can 1717; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus._
-
-# Voruntersuchung nach can. 1717
-
-## Auftrag
-
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
-
-## Sofortfragen
-
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
-
-## Canonischer und katechetischer Fokus
-
-Dieser Skill prüft insbesondere: **Anfangsverdacht, Rufschutz, Beweissicherung, Befangenheit und Aktenführung**.
-
-**CIC-/Normanker:** can. 1717-1719.
-
-**Katechismusanker:** KKK 2477-2479.
-
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
-
-## Arbeitsworkflow
-
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
-
-## Ausgabeformate
-
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
-
-## Qualitäts- und Quellenregel
-
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-
----
-
-## Skill: `pfarrbrief-katechetisch-und-lehrtreu`
-
-_Wenn es um Pfarrbrief katechetisch und lehrtreu in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Pfarrbrief Katechetisch Und Lehrtreu; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus._
-
-# Pfarrbrief katechetisch und lehrtreu
-
-## Auftrag
-
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
-
-## Sofortfragen
-
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
-
-## Canonischer und katechetischer Fokus
-
-Dieser Skill prüft insbesondere: **verständliche Pfarrbrieftexte ohne Lehrverdünnung**.
-
-**CIC-/Normanker:** can. 747-755, 822-832.
-
-**Katechismusanker:** KKK Prolog, 1-25.
-
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
-
-## Arbeitsworkflow
-
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
-
-## Ausgabeformate
-
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
-
-## Qualitäts- und Quellenregel
-
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-
----
-
-## Skill: `ehe-konsens-ehenichtigkeit-kirchlichen`
-
-_Wenn es um Ehe: Konsens, Form und Hindernisse in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ehe Konsens Ehenichtigkeit Kirchlichen; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus._
-
-# Ehe: Konsens, Form und Hindernisse
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: CIC can. 1734 Rekurs 10 Tage / 15 Tage, can. 1646 Berufung 15 Tage, can. 1641 Rechtskraft nach 2 gleichlautenden Urteilen (entfällt 2015 Mitis Iudex).
-- Tragende Normen verifizieren: CIC/1983 cann. 1, 96, 113, 204, 208, 515, 519, 528, 1055, 1095, 1141, 1148, 1419, 1671, 1673, 1717, 1719, 1730, Codex Canonum Ecclesiarum Orientalium, Apostolische Konstitution Pastor bonus, Apostolische Konstitution Praedicate evangelium, Vos estis lux mundi — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Pfarrer, Bischof, Offizial, Diözesangericht (1. Instanz), Rota Romana, Dikasterium für die Glaubenslehre, Apostolische Signatur, Ordinarius.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klagelibell (libellus), Dekret, Eheprozessakte, Taufregister-Eintrag, Firmungsbescheinigung, Dispens, Inkardinationsurkunde, Visitationsprotokoll, kirchenrechtliches Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Ehe: Konsens, Form und Hindernisse
-- **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.
-- **Entscheidende Weiche:** Canon, kirchliche Zuständigkeit, pastoraler Zweck, Rechtsweg, Dispens/Remonstration/Rekurs, Beweis und mehrsprachige Kommunikation trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Auftrag
-
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
-
-## Sofortfragen
-
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
-
-## Canonischer und katechetischer Fokus
-
-Prüft insbesondere: **Ehefähigkeit, Konsensmängel, Formpflicht, Dispens und Nichtigkeit**.
-
-**CIC-/Normanker:** can. 1055-1165.
-
-**Katechismusanker:** KKK 1601-1666.
-
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
-
-## Arbeitsworkflow
-
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
-
-## Aktualisierte Norm- und Reformlage
-
-### CIC 1983: Schlüsselcanones
-- **can. 1055 § 1 CIC**: Definition der Ehe als foedus, das von Christus zum Sakrament erhoben ist; ad bonum coniugum und ad procreationem et educationem prolis.
-- **can. 1057 § 1 CIC**: Konsens als wirksame Ursache; nicht durch menschliche Macht ersetzbar.
-- **can. 1083 CIC**: Eheschliessungsalter (Mann 16, Frau 14, mit dispensativem Vorbehalt der Bischofskonferenz).
-- **can. 1090-1094 CIC**: Trennende Hindernisse aus Vorsatz, Verwandtschaft, Schwaegerschaft, öffentlicher Anstand.
-- **can. 1095 CIC**: Konsensunfaehigkeit (mangelnder Vernunftgebrauch, schwerer Mangel der Urteilsfaehigkeit, psychisch begruendete Unfaehigkeit zu wesentlichen Pflichten).
-- **can. 1097-1101 CIC**: Konsensmaengel (Irrtum über Person/wesentliche Eigenschaften, Furcht, Simulation).
-- **can. 1108-1117 CIC**: Formpflicht; Eheschliessung vor Ortspfarrer oder dessen Delegat sowie zwei Zeugen.
-
-### Reformen
-- **Mitis Iudex Dominus Iesus** (M.P. Franziskus, 15.08.2015): Reform des Ehenichtigkeitsverfahrens. Beschleunigtes Verfahren (processus brevior) bei klaren Faellen; Wegfall der zweiten zustimmenden Sentenz; Bischof als Richter im processus brevior. cc. 1671-1691 CIC neu gefasst.
-- **Mitis et misericors Iesus** (M.P. Franziskus, 15.08.2015): Parallel-Reform für CCEO (Ostkirchen).
-- **Dignitas Connubii** (Instr. Apostol. Signatur 25.01.2005) bleibt Verfahrensrahmen, ergaenzt durch Mitis Iudex.
-
-### KKK
-- KKK 1601-1666 als pastoral-theologischer Anker.
-- Insbesondere KKK 1626-1632 zur ehelichen Zustimmung.
-
-### Staatliches Recht in Deutschland
-- Kirchliche Eheschliessung hat keine zivilrechtliche Wirkung (§ 1310 BGB i.V.m. § 67 PStG).
-- Religionsausuebungsrecht Art. 4 GG schuetzt aber die kirchliche Form als religioesen Akt.
-
-### Prüfraster
-1. Ist die Ehe vor 2015 oder danach geschlossen? Beim Nichtigkeitsverfahren immer Mitis Iudex prüfen.
-2. Konsensmangel oder Hindernis? — cc. 1083-1094 vor cc. 1095-1107.
-3. Liegt einer der vier Faelle für processus brevior vor (cc. 1683-1687 CIC)?
-4. Bei orientalisch-katholischer Trauung: CCEO statt CIC.
-
-## Ausgabeformate
-
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Fachmodul-Empfehlung für den nächsten Schritt.
-
-## Qualitäts- und Quellenregel
-
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-
----
-
-## Skill: `credo-glaubensbekenntnis-diakonat-dienst`
-
-_Wenn es um Credo und Glaubensbekenntnis in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Credo Glaubensbekenntnis Diakonat Dienst; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus._
-
-# Credo und Glaubensbekenntnis
-
-## Canones- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `CIC can. 7` — Inkrafttreten kirchlicher Gesetze.
-- `CIC can. 11` — Adressaten rein kirchlicher Gesetze.
-- `CIC can. 96` — Rechtsstellung der Getauften.
-- `CIC can. 1055 § 1` — Ehebegriff.
-- `CIC can. 1108 § 1` — kanonische Eheschliessungsform.
-- `CIC can. 1246 § 1` — Sonn- und Feiertage.
-- `CIC can. 1752` — salus animarum als Auslegungsziel.
-- `KKK 1776` — Gewissen.
-- `KKK 1783` — Gewissensbildung.
-- `KKK 2032` — kirchliche Morallehre.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: CIC can. 1734 Rekurs 10 Tage / 15 Tage, can. 1646 Berufung 15 Tage, can. 1641 Rechtskraft nach 2 gleichlautenden Urteilen (entfällt 2015 Mitis Iudex).
-- Tragende Normen verifizieren: CIC/1983 cann. 1, 96, 113, 204, 208, 515, 519, 528, 1055, 1095, 1141, 1148, 1419, 1671, 1673, 1717, 1719, 1730, Codex Canonum Ecclesiarum Orientalium, Apostolische Konstitution Pastor bonus, Apostolische Konstitution Praedicate evangelium, Vos estis lux mundi — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Pfarrer, Bischof, Offizial, Diözesangericht (1. Instanz), Rota Romana, Dikasterium für die Glaubenslehre, Apostolische Signatur, Ordinarius.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klagelibell (libellus), Dekret, Eheprozessakte, Taufregister-Eintrag, Firmungsbescheinigung, Dispens, Inkardinationsurkunde, Visitationsprotokoll, kirchenrechtliches Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Credo und Glaubensbekenntnis
-- **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.
-- **Entscheidende Weiche:** Canon, kirchliche Zuständigkeit, pastoraler Zweck, Rechtsweg, Dispens/Remonstration/Rekurs, Beweis und mehrsprachige Kommunikation trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Auftrag
-
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
-
-## Sofortfragen
-
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
-
-## Canonischer und katechetischer Fokus
-
-Prüft insbesondere: **Glaubensartikel und Gehorsamspflicht**.
-
-**CIC-/Normanker:** can. 750-754.
-
-**Katechismusanker:** KKK 185-1065.
-
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
-
-## Arbeitsworkflow
-
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
-
-## Ausgabeformate
-
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Fachmodul-Empfehlung für den nächsten Schritt.
-
-## Qualitäts- und Quellenregel
-
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-
----
-
-## Skill: `eucharistie-und-kommunionzulassung`
-
-_Wenn es um Eucharistie und Kommunionzulassung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Eucharistie Und Kommunionzulassung; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus._
-
-# Eucharistie und Kommunionzulassung
-
-## Auftrag
-
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
-
-## Sofortfragen
-
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
-
-## Canonischer und katechetischer Fokus
-
-Dieser Skill prüft insbesondere: **Zulassung, würdiger Empfang, öffentliche schwere Sünde und Gespräch**.
-
-**CIC-/Normanker:** can. 897-958, 912-923.
-
-**Katechismusanker:** KKK 1322-1419.
-
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
-
-## Arbeitsworkflow
-
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
-
-## Ausgabeformate
-
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

@@ -1,6 +1,6 @@
 ---
 name: influencer-affiliate-kennzeichnung-uwg
-description: "Wenn es um Influencer Affiliate Kennzeichnung UWG in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer Affiliate Kennzeichnung UWG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer Affiliate Kennzeichnung UWG

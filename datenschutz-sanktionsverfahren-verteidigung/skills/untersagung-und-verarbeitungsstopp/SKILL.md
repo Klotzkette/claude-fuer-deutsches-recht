@@ -1,6 +1,6 @@
 ---
 name: untersagung-und-verarbeitungsstopp
-description: "Wenn es um Untersagung und Verarbeitungsstopp in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Untersagung und Verarbeitungsstopp: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Untersagung und Verarbeitungsstopp

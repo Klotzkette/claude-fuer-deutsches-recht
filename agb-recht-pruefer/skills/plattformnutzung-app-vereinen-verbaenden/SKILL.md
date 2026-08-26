@@ -1,6 +1,6 @@
 ---
 name: plattformnutzung-app-vereinen-verbaenden
-description: "Wenn es um Agb Bei Plattformnutzung App Stores in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Plattformnutzung App Vereinen Verbaenden; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für AGB bei Plattformnutzung App Stores: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: plattformnutzung-app-vereinen-verbaenden."
 ---
 
 # Agb Bei Plattformnutzung App Stores

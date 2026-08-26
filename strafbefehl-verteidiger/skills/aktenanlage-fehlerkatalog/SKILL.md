@@ -1,6 +1,6 @@
 ---
 name: aktenanlage-fehlerkatalog
-description: "Wenn es um Aktenanlage Fehlerkatalog in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktenanlage Fehlerkatalog: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenanlage Fehlerkatalog

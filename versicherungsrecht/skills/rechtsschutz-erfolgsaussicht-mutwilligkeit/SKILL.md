@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-erfolgsaussicht-mutwilligkeit
-description: "Wenn es um Rechtsschutz: Erfolgsaussicht und Mutwilligkeit in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsschutz: Erfolgsaussicht und Mutwilligkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsschutz: Erfolgsaussicht und Mutwilligkeit

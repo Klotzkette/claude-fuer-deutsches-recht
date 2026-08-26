@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-geldwaesche-261-stgb-neu-2021
-description: "Wenn es um Strafrecht Spezial Geldwaesche 261 Stgb Neu 2021 in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Geldwäsche 261 Stgb Neu 2021: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Geldwaesche § 261 StGB Reform 2021 All-Crimes-Approach: Anwendungsfall Verteidigung seit Wegfall des Vortatkatalogs jede Straftat tauglich als Vortat

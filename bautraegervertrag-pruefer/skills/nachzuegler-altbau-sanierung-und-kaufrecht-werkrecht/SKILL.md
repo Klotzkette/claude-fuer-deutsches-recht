@@ -1,6 +1,6 @@
 ---
 name: nachzuegler-altbau-sanierung-und-kaufrecht-werkrecht
-description: "Wenn es um Nachzügler, Altbau, Sanierung und Kaufrecht/Werkrecht in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Nachzügler, Altbau, Sanierung und Kaufrecht/Werkrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachzügler, Altbau, Sanierung und Kaufrecht/Werkrecht

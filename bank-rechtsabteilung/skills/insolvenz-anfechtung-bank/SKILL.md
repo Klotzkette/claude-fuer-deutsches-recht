@@ -1,6 +1,6 @@
 ---
 name: insolvenz-anfechtung-bank
-description: "Wenn es um Insolvenzanfechtung Bank in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Insolvenzanfechtung Bank: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenzanfechtung Bank

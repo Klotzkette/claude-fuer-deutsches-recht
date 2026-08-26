@@ -1,6 +1,6 @@
 ---
 name: design-due-markenrecht
-description: "Wenn es um Design Due Diligence Ma in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Design Due Diligence Ma: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Design Due Diligence Ma

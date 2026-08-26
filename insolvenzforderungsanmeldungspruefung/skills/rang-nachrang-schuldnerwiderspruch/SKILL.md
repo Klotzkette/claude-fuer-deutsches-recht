@@ -1,6 +1,6 @@
 ---
 name: rang-nachrang-schuldnerwiderspruch
-description: "Wenn es um Rang, Nachrang und Sicherungsrechte in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rang, Nachrang und Sicherungsrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rang, Nachrang und Sicherungsrechte

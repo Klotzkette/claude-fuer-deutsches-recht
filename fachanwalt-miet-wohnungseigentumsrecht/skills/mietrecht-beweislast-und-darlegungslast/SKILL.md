@@ -1,6 +1,6 @@
 ---
 name: mietrecht-beweislast-und-darlegungslast
-description: "Wenn es um Mietrecht Beweislast Und Darlegungslast in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mietrecht Beweislast und Darlegungslast: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Mietrecht: Beweislast, Darlegungslast und Substantiierung im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -50,3 +50,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Eigenbedarf (§ 573 Abs. 2 Nr. 2 BGB):** Vermieter muss die Eigenbedarfsperson, den konkreten Nutzungswunsch und die Ernsthaftigkeit darlegen. Nach Räumung: Beweislastumkehr für vorgetäuschten Eigenbedarf liegt beim Mieter (BGH ständige Rspr.), bei plausiblen Indizien sekundäre Darlegungslast des Vermieters zur Nutzung nach Auszug.
 - **Betriebskosten (§ 556 BGB):** Vermieter trägt Beweislast für jede einzelne Position der Abrechnung (Anfall, Höhe, Verteilungsmaßstab, Wirtschaftlichkeit). Mieter trägt Beweislast für seine Einwände nur, wenn er bestimmte Behauptungen aufstellt (z. B. Verstoß gegen Wirtschaftlichkeitsgebot konkret).
 - **Mieterhöhung (§ 558 BGB):** Vermieter beweist die ortsübliche Vergleichsmiete (Mietspiegel, Vergleichswohnungen, Sachverständigengutachten). Mieter kann substantiiert bestreiten.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-mietrecht-beweislast-und-darlegungslast` beziehungsweise Mietrecht: Beweislast, Darlegungslast und Substantiierung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-mietrecht-beweislast-und-darlegungslast.md).

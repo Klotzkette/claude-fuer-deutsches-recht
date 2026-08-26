@@ -1,6 +1,6 @@
 ---
 name: vermoegensvergleich-und-nettobetrachtung
-description: "Wenn es um Vermögensvergleich und Nettobetrachtung in bereicherungs-und-anfechtungsrecht-prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vermögensvergleich und Nettobetrachtung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vermögensvergleich und Nettobetrachtung

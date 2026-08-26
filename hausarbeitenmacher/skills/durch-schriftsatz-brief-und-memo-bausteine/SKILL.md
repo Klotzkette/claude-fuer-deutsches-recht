@@ -1,6 +1,6 @@
 ---
 name: durch-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Schriftsatz-, Brief- und Memo-Bausteine (Hausarbeiten) in hausarbeitenmacher — Didaktisches Plugin für juristische geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schriftsatz-, Brief- und Memo-Bausteine (Hausarbeiten): erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Schriftsatz-, Brief- und Memo-Bausteine (Hausarbeiten)
@@ -46,3 +46,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-durch-schriftsatz-brief-und-memo-bausteine` beziehungsweise Durch: Schriftsatz-, Brief- und Memo-Bausteine: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-durch-schriftsatz-brief-und-memo-bausteine.md).

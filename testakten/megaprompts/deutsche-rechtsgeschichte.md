@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 206 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Deutsche Rechtsgeschichte ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ve…
-2. **kaltstart-triage** — Wenn es um Deutsche Rechtsgeschichte - Allgemeiner Einstieg in Deutsche Rechtsgeschichte geht: klärt Rolle, Ziel, Frist,…
-3. **drg-107-generalklauseln-als-einbruchstelle-zeitgeist** — Wenn es um Generalklauseln als Einbruchstelle des Zeitgeists in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm…
-4. **generalklauseln-als-einbruchstelle-zeitgeist** — Wenn es um Generalklauseln als Einbruchstelle des Zeitgeists in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm…
-5. **drg-103-ns-rechtserneuerung-methodeninstrumente** — Wenn es um Methodeninstrumente der NS-Rechtserneuerung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Bewe…
-6. **drg-108-rechtsperversion-ohne-gesetzesaenderung** — Wenn es um Rechtsperversion ohne Gesetzesänderung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislas…
-7. **ns-rechtserneuerung-methodeninstrumente** — Wenn es um Methodeninstrumente der NS-Rechtserneuerung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Bewe…
-8. **drg-101-personelle-kontinuitaeten-nach-1945** — Wenn es um Personelle Kontinuitäten nach 1945 in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, G…
+2. **kaltstart-triage** — Für Deutsche Rechtsgeschichte - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfpro…
+3. **drg-103-ns-rechtserneuerung-methodeninstrumente** — Für Methodeninstrumente der NS-Rechtserneuerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkart…
+4. **drg-107-generalklauseln-als-einbruchstelle-zeitgeist** — Für Generalklauseln als Einbruchstelle des Zeitgeists: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt …
+5. **drg-109-entnazifizierung-warteschleifen-und-rueckkehr** — Für Entnazifizierung, Warteschleifen und Rückkehr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit …
+6. **ns-rechtserneuerung-methodeninstrumente** — Für Methodeninstrumente der NS-Rechtserneuerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkart…
+7. **generalklauseln-als-einbruchstelle-zeitgeist** — Für Generalklauseln als Einbruchstelle des Zeitgeists: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt …
+8. **drg-104-ddr-unrechtsstaat-und-juristische-aufarbeitung** — Für DDR-Recht und juristische Aufarbeitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko …
 
 ---
 
@@ -140,7 +140,7 @@ Ausgangspunkt für dieses Plugin: Bearbeiter für Textzeuge, Fassung, Übersetzu
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Deutsche Rechtsgeschichte - Allgemeiner Einstieg in Deutsche Rechtsgeschichte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Deutsche Rechtsgeschichte - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Deutsche Rechtsgeschichte - Allgemeiner Einstieg
 
@@ -193,90 +193,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `drg-107-generalklauseln-als-einbruchstelle-zeitgeist`
-
-_Wenn es um Generalklauseln als Einbruchstelle des Zeitgeists in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Drg 107 Generalklauseln Als Einbruchstelle Zeitgeist; Arbeitsfeld: Deutsche Rechtsgeschichte._
-
-# Generalklauseln als Einbruchstelle des Zeitgeists
-
-## Einsatz
-
-Generalklauseln sind unverzichtbar, aber gefährlich. Dieser Skill zeigt historisch, wann sie flexible Gerechtigkeit ermöglichen und wann sie zur Schleuse politischer Vorgaben werden.
-
-## Prüfschritte
-
-1. Generalklausel identifizieren.
-2. Zeitkontext und herrschende Wertordnung bestimmen.
-3. Rechtsprechungspraxis und Lehrbuchdeutung vergleichen.
-4. Subjektive Rechte und Minderheitenschutz gesondert prüfen.
-5. Gegenwartslehre: Generalklauseln heute durch Grundrechte, Gesetzeszweck und Begründungspflichten disziplinieren.
-
-## Output
-
-Generalklausel-Historie mit Risikoampel: legitime Konkretisierung, zeitgeistige Überformung oder rechtsstaatliche Entkernung.
-
-## Quellen- und Zitierdisziplin
-
-- Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
-- Keine wörtlichen Übernahmen aus fremden Texten; nur eigenständig formulierte Prüfgedanken verwenden.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
-- Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
-
----
-
-## Skill: `generalklauseln-als-einbruchstelle-zeitgeist`
-
-_Wenn es um Generalklauseln als Einbruchstelle des Zeitgeists in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Generalklauseln Als Einbruchstelle Zeitgeist; Arbeitsfeld: Deutsche Rechtsgeschichte._
-
-# Generalklauseln als Einbruchstelle des Zeitgeists
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
-- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
-- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
-- `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
-- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
-- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
-- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
-- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
-- `§ 3 VermG` — Rückübertragung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach jeweiliger Quelle; heutige Relevanz über Art. 184 ff. EGBGB und Auslegungshilfe für Grundrechtsverständnis.
-- Tragende Normen verifizieren: Sachsenspiegel, Schwabenspiegel, Carolina (CCC 1532), Preußisches ALR 1794, Code civil (1804), Sächsisches BGB 1865, BGB 1900, WRV 1919, GG 1949; rechtshistorische Quellen MGH, Constitutiones — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Prüfschritte
-
-1. Generalklausel identifizieren.
-2. Zeitkontext und herrschende Wertordnung bestimmen.
-3. Rechtsprechungspraxis und Lehrbuchdeutung vergleichen.
-4. Subjektive Rechte und Minderheitenschutz gesondert prüfen.
-5. Gegenwartslehre: Generalklauseln heute durch Grundrechte, Gesetzeszweck und Begründungspflichten disziplinieren.
-
-## Quellen- und Zitierdisziplin
-
-- Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
-- Keine wörtlichen Übernahmen aus fremden Texten; nur eigenständig formulierte Prüfgedanken verwenden.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
-- Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
-
----
-
 ## Skill: `drg-103-ns-rechtserneuerung-methodeninstrumente`
 
-_Wenn es um Methodeninstrumente der NS-Rechtserneuerung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Drg 103 Ns Rechtserneuerung Methodeninstrumente; Arbeitsfeld: Deutsche Rechtsgeschichte._
+_Für Methodeninstrumente der NS-Rechtserneuerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Deutsche Rechtsgeschichte. Route: drg-103-ns-rechtserneuerung-methodeninstrumente._
 
 # Methodeninstrumente der NS-Rechtserneuerung
 
@@ -307,27 +226,59 @@ Methodenarchäologie mit Gegenwartswarnung: Welche Argumentfigur ist historisch 
 
 ---
 
-## Skill: `drg-108-rechtsperversion-ohne-gesetzesaenderung`
+## Skill: `drg-107-generalklauseln-als-einbruchstelle-zeitgeist`
 
-_Wenn es um Rechtsperversion ohne Gesetzesänderung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Drg 108 Rechtsperversion Ohne Gesetzesaenderung; Arbeitsfeld: Deutsche Rechtsgeschichte._
+_Für Generalklauseln als Einbruchstelle des Zeitgeists: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: drg-107-generalklauseln-als-einbruchstelle-zeitgeist._
 
-# Rechtsperversion ohne Gesetzesänderung
+# Generalklauseln als Einbruchstelle des Zeitgeists
 
 ## Einsatz
 
-Dieser Skill ist für Fälle gedacht, in denen formale Normkontinuität täuscht. Er trennt Gesetzestext, institutionelle Macht, Auslegungslehre und tatsächliche Rechtsanwendung.
+Generalklauseln sind unverzichtbar, aber gefährlich. Dieser Skill zeigt historisch, wann sie flexible Gerechtigkeit ermöglichen und wann sie zur Schleuse politischer Vorgaben werden.
 
-## Prüffragen
+## Prüfschritte
 
-- Galt der Text weiter, aber mit neuem Inhalt?
-- Welche neue Leitidee verdrängte die alte Normbindung?
-- Wer trieb die Umcodierung: Gericht, Ministerium, Fakultät, Partei, Verwaltung?
-- Welche Grundrechte oder subjektiven Rechte wurden entleert?
-- Welche Nachkriegsdeutung verschweigt diese Mechanik?
+1. Generalklausel identifizieren.
+2. Zeitkontext und herrschende Wertordnung bestimmen.
+3. Rechtsprechungspraxis und Lehrbuchdeutung vergleichen.
+4. Subjektive Rechte und Minderheitenschutz gesondert prüfen.
+5. Gegenwartslehre: Generalklauseln heute durch Grundrechte, Gesetzeszweck und Begründungspflichten disziplinieren.
 
 ## Output
 
-Umcodierungsanalyse mit Textkontinuität, Bedeutungsbruch und Belegmatrix.
+Generalklausel-Historie mit Risikoampel: legitime Konkretisierung, zeitgeistige Überformung oder rechtsstaatliche Entkernung.
+
+## Quellen- und Zitierdisziplin
+
+- Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
+- Keine wörtlichen Übernahmen aus fremden Texten; nur eigenständig formulierte Prüfgedanken verwenden.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
+- Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
+
+---
+
+## Skill: `drg-109-entnazifizierung-warteschleifen-und-rueckkehr`
+
+_Für Entnazifizierung, Warteschleifen und Rückkehr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: drg-109-entnazifizierung-warteschleifen-und-rueckkehr._
+
+# Entnazifizierung, Warteschleifen und Rückkehr
+
+## Einsatz
+
+Nutze diesen Skill zur Nachkriegsgeschichte belasteter Juristen und Institutionen. Er vermeidet beides: pauschale Verdammung ohne Belege und verharmlosende Integrationsrhetorik.
+
+## Struktur
+
+1. Belastung vor 1945 anhand Funktionen und Schriften prüfen.
+2. Maßnahme nach 1945 dokumentieren: Entlassung, Spruchkammer, Internierung, Rückkehr, Branchenwechsel.
+3. Netzwerke und Protektion analysieren.
+4. Wirkung auf Ausbildung, Rechtsprechung, Verwaltung und Wirtschaft bewerten.
+5. Offene Erinnerung und spätere Legendenbildung prüfen.
+
+## Output
+
+Nachkriegsstatus-Matrix mit Verantwortungsgrad und institutioneller Folgewirkung.
 
 ## Quellen- und Zitierdisziplin
 
@@ -341,7 +292,7 @@ Umcodierungsanalyse mit Textkontinuität, Bedeutungsbruch und Belegmatrix.
 
 ## Skill: `ns-rechtserneuerung-methodeninstrumente`
 
-_Wenn es um Methodeninstrumente der NS-Rechtserneuerung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Ns Rechtserneuerung Methodeninstrumente; Arbeitsfeld: Deutsche Rechtsgeschichte._
+_Für Methodeninstrumente der NS-Rechtserneuerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Deutsche Rechtsgeschichte. Route: ns-rechtserneuerung-methodeninstrumente._
 
 # Methodeninstrumente der NS-Rechtserneuerung
 
@@ -389,27 +340,84 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `drg-101-personelle-kontinuitaeten-nach-1945`
+## Skill: `generalklauseln-als-einbruchstelle-zeitgeist`
 
-_Wenn es um Personelle Kontinuitäten nach 1945 in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Drg 101 Personelle Kontinuitaeten Nach 1945; Arbeitsfeld: Deutsche Rechtsgeschichte._
+_Für Generalklauseln als Einbruchstelle des Zeitgeists: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: generalklauseln-als-einbruchstelle-zeitgeist._
 
-# Personelle Kontinuitäten nach 1945
+# Generalklauseln als Einbruchstelle des Zeitgeists
+
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach jeweiliger Quelle; heutige Relevanz über Art. 184 ff. EGBGB und Auslegungshilfe für Grundrechtsverständnis.
+- Tragende Normen verifizieren: Sachsenspiegel, Schwabenspiegel, Carolina (CCC 1532), Preußisches ALR 1794, Code civil (1804), Sächsisches BGB 1865, BGB 1900, WRV 1919, GG 1949; rechtshistorische Quellen MGH, Constitutiones — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Prüfschritte
+
+1. Generalklausel identifizieren.
+2. Zeitkontext und herrschende Wertordnung bestimmen.
+3. Rechtsprechungspraxis und Lehrbuchdeutung vergleichen.
+4. Subjektive Rechte und Minderheitenschutz gesondert prüfen.
+5. Gegenwartslehre: Generalklauseln heute durch Grundrechte, Gesetzeszweck und Begründungspflichten disziplinieren.
+
+## Quellen- und Zitierdisziplin
+
+- Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
+- Keine wörtlichen Übernahmen aus fremden Texten; nur eigenständig formulierte Prüfgedanken verwenden.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
+- Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
+
+---
+
+## Skill: `drg-104-ddr-unrechtsstaat-und-juristische-aufarbeitung`
+
+_Für DDR-Recht und juristische Aufarbeitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: drg-104-ddr-unrechtsstaat-und-juristische-aufarbeitung._
+
+# DDR-Recht und juristische Aufarbeitung
 
 ## Einsatz
 
-Nutze diesen Skill, wenn ein rechtshistorisches Projekt fragt, wie eine demokratische Rechtsordnung mit belasteten Funktionseliten weiterarbeitete.
+Nutze diesen Skill für DDR-Rechtsgeschichte, Rehabilitierung, Vermögensfragen, Verwaltungsakten, Hochschulgeschichte und Debatten über den Begriff Unrechtsstaat.
 
-## Analysefelder
+## Prüfschritte
 
-- Entlassung, Internierung, Entnazifizierung, Rückkehr.
-- Umschreiben eigener Werke und Weglassen belastender Passagen.
-- Fortsetzung von Lehrstühlen, Kommentierungen und Ausbildungsautorität.
-- Schülernetzwerke, Loyalität, akademisches Schweigen.
-- Unterschied zwischen notwendiger Integration und problematischer Verdrängung.
+1. Rechtsquelle der DDR bestimmen: Gesetz, Verordnung, Parteivorgabe, Verwaltungspraxis, Gerichtspraxis.
+2. Verhältnis von Normtext und politischer Steuerung prüfen.
+3. Nach 1990: Einigungsvertrag, Rehabilitierungsgesetze, Vermögensgesetz, Verwaltungs- und Gerichtsüberleitung einordnen.
+4. Erinnerungskonflikt trennen von Rechtsfolge.
+5. Keine Gleichsetzung verschiedener Diktaturen ohne Funktionsvergleich.
 
 ## Output
 
-Kontinuitätsvermerk mit Zeitachse, Akteursmatrix, institutionellem Risiko und offener Frage: Was wurde fachlich weiterverwendet, was hätte ausdrücklich gebrochen werden müssen?
+DDR-Aufarbeitungs-Memo mit Quellenmatrix, Rechtsfolgenpfad und sensibler Begriffsklärung.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellen- und Zitierdisziplin
 

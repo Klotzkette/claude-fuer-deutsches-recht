@@ -1,6 +1,6 @@
 ---
 name: erwerbsminderungsrente-belegfuehrung
-description: "Wenn es um Erwerbsminderungsrente Belegfuehrung in selbstvertreter-sozialgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Erwerbsminderungsrente Belegführung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erwerbsminderungsrente Belegfuehrung

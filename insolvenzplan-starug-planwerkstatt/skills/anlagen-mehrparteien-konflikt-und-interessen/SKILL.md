@@ -1,6 +1,6 @@
 ---
 name: anlagen-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Anlagen: Mehrparteienkonflikt und Interessenmatrix in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anlagen: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagen: Mehrparteienkonflikt und Interessenmatrix

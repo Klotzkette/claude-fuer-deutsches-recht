@@ -1,6 +1,6 @@
 ---
 name: preisanpassung-klausel
-description: "Wenn es um Preisanpassung Klausel in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Preisanpassung Klausel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Preisanpassung Klausel

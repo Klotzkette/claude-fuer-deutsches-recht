@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-bankrott-283-stgb
-description: "Wenn es um Bankrott nach Paragraph 283 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bankrott nach Paragraph 283 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bankrott nach Paragraph 283 StGB

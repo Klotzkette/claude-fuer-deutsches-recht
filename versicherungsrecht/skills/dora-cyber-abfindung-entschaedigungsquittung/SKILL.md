@@ -1,6 +1,6 @@
 ---
 name: dora-cyber-abfindung-entschaedigungsquittung
-description: "Wenn es um DORA für Versicherer und Vermittler in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für DORA für Versicherer und Vermittler: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DORA für Versicherer und Vermittler

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-risikoanalyse-kanzlei-kammerantwort
-description: "Wenn es um Geldwaesche Risikoanalyse Kanzlei Kammerantwort in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Geldwäsche Risikoanalyse Kanzlei Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: geldwaesche risikoanalyse kanzlei - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

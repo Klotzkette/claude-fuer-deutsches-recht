@@ -1,6 +1,6 @@
 ---
 name: internationale-country-route-design
-description: "Wenn es um Internationale Country Route Design in designrecht-geschmacksmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internationale Country Route Design: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationale Country Route Design

@@ -1,6 +1,6 @@
 ---
 name: meldung-art-33-pflichtangaben
-description: "Wenn es um Meldung nach Art. 33 DSGVO — Pflichtangaben generisch in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Meldung nach Art. 33 DSGVO — Pflichtangaben generisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Meldung nach Art. 33 DSGVO — Pflichtangaben generisch
@@ -96,3 +96,7 @@ Output ist Text, kein Code, kein JSON.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - Behördenspezifische Eingabewege und Adressen siehe dsv-meldung-bfdi / dsv-meldung-baylda / dsv-meldung-ldi-nrw etc.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-meldung-art-33-pflichtangaben` beziehungsweise Erstellt eine vollständige Meldung nach Art: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-meldung-art-33-pflichtangaben.md).

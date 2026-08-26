@@ -1,6 +1,6 @@
 ---
 name: sanktion-verteidigerrolle-dsb-gf-externe
-description: "Wenn es um Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater

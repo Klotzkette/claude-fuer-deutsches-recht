@@ -1,6 +1,6 @@
 ---
 name: workload-balance
-description: "Wenn es um Misst Überlast und Leerlauf nach Person, Team, Mandat und Woche in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Misst Überlast und Leerlauf nach Person, Team, Mandat und Woche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Misst Überlast und Leerlauf nach Person, Team, Mandat und Woche

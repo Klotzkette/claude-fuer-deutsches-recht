@@ -1,6 +1,6 @@
 ---
 name: beweismittel-im-sozialgericht-uebersicht
-description: "Wenn es um Beweismittel am Sozialgericht — Überblick in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beweismittel am Sozialgericht — Überblick: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweismittel am Sozialgericht — Überblick

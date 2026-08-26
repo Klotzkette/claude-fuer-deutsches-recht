@@ -1,6 +1,6 @@
 ---
 name: unsachlichkeit-kollegenstreit-rechtsprechungscheck
-description: "Wenn es um Unsachlichkeit Kollegenstreit Rechtsprechungscheck in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Unsachlichkeit Kollegenstreit Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: unsachlichkeit kollegenstreit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

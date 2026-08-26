@@ -1,6 +1,6 @@
 ---
 name: drittbeteiligung-bei-betriebsgeheimnis
-description: "Wenn es um Drittbeteiligung Bei Betriebsgeheimnis in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Drittbeteiligung bei Betriebsgeheimnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drittbeteiligung Bei Betriebsgeheimnis

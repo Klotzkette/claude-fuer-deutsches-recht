@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrer-haftung-43-gmbhg
-description: "Wenn es um Geschäftsführer-Haftung Paragraf 43 GmbHG prüfen in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Geschäftsführer-Haftung Paragraf 43 GmbHG prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschäftsführer-Haftung Paragraf 43 GmbHG prüfen

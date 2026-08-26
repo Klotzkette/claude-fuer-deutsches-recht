@@ -1,6 +1,6 @@
 ---
 name: konnossement-und-seefrachtbrief
-description: "Wenn es um Konnossement und Seefrachtbrief in Internationales Handelsrecht und Lex Mercatoria geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Konnossement und Seefrachtbrief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Konnossement und Seefrachtbrief

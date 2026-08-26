@@ -1,6 +1,6 @@
 ---
 name: airline-bonitaet-und-vollstreckung
-description: "Wenn es um Airline-Bonitaet und Vollstreckung in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Airline-Bonität und Vollstreckung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Airline-Bonitaet und Vollstreckung

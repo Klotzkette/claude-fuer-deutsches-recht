@@ -1,6 +1,6 @@
 ---
 name: notariat-023-identitaetspruefung-videoident-praesenztermin
-description: "Wenn es um Notariat im Alltag: Identitätsprüfung Videoident und Präsenztermin Grenzen in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Identitätsprüfung Videoident und Präsenztermin Grenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Notariat im Alltag: Identitätsprüfung Videoident und Präsenztermin Grenzen

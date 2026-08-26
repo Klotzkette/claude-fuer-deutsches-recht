@@ -1,6 +1,6 @@
 ---
 name: glaeubigerliste-richtig-bauen
-description: "Wenn es um Glaeubigerliste Richtig Bauen in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gläubigerliste Richtig Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gläubigerliste richtig bauen: Hauptforderung, Zinsen, Kosten, titulierte Forderungen, Abtretungen, Inkasso und Adressprüfung.

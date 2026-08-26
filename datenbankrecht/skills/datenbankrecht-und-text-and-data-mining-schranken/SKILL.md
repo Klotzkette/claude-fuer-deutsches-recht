@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-und-text-and-data-mining-schranken
-description: "Wenn es um Text- und Data-Mining-Schranken im Datenbankrecht — Paragrafen 44b und 60d UrhG in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Text- und Data-Mining-Schranken im Datenbankrecht — Paragrafen 44b und 60d UrhG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Text- und Data-Mining-Schranken im Datenbankrecht — §§ 44b und 60d UrhG

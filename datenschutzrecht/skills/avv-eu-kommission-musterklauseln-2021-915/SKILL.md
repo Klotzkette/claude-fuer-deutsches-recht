@@ -1,6 +1,6 @@
 ---
 name: avv-eu-kommission-musterklauseln-2021-915
-description: "Wenn es um EU-Kommissions-Standardvertragsklauseln Controller-Processor (Beschluss (EU) 2021/915) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU-Kommissions-Standardvertragsklauseln Controller-Processor (Beschluss (EU) 2021/915): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-Kommissions-Standardvertragsklauseln Controller-Processor (Beschluss (EU) 2021/915)

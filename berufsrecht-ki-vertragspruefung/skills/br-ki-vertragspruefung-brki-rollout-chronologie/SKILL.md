@@ -1,6 +1,6 @@
 ---
 name: br-ki-vertragspruefung-brki-rollout-chronologie
-description: "Wenn es um Berufsrecht digitale Werkzeuge-Vertragspruefung — Allgemein in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Berufsrecht digitale Werkzeuge-Vertragsprüfung — Allgemein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Berufsrecht KI-Vertragspruefung — Allgemein

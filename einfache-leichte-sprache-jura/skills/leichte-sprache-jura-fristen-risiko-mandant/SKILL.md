@@ -1,6 +1,6 @@
 ---
 name: leichte-sprache-jura-fristen-risiko-mandant
-description: "Wenn es um Fristen- und Risikoampel in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: leichte-sprache-jura-fristen-risiko-mandant."
 ---
 
 # Fristen- und Risikoampel

@@ -1,6 +1,6 @@
 ---
 name: sozietaetswechsel-mandantenmitnahme
-description: "Wenn es um Sozietaetswechsel Mandantenmitnahme in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Sozietätswechsel Mandantenmitnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: sozietaetswechsel und mandantenmitnahme - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

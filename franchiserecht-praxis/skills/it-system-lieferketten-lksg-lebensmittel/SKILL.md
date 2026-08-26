@@ -1,6 +1,6 @@
 ---
 name: it-system-lieferketten-lksg-lebensmittel
-description: "Wenn es um Franchiserecht: IT-System, POS-Kassendaten und Datenzugriff in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Franchiserecht: IT-System, POS-Kassendaten und Datenzugriff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: IT-System, POS-Kassendaten und Datenzugriff

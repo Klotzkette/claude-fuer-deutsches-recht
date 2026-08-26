@@ -1,6 +1,6 @@
 ---
 name: englische-hv-unterlagen
-description: "Wenn es um Englische HV Unterlagen in Hauptversammlung AG und SE geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Englische HV Unterlagen: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Englische HV Unterlagen

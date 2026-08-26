@@ -1,6 +1,6 @@
 ---
 name: geldwaeschepruefung-immobilienkauf-rechtsprechungscheck
-description: "Wenn es um Geldwaeschepruefung Immobilienkauf Rechtsprechungscheck in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Geldwäscheprüfung Immobilienkauf Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Notare: geldwaeschepruefung immobilienkauf - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

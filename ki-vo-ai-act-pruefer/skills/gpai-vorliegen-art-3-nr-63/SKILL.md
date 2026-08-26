@@ -1,6 +1,6 @@
 ---
 name: gpai-vorliegen-art-3-nr-63
-description: "Wenn es um GPAI, allgemeiner Chatbot und Hochrisiko-Abgrenzung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für GPAI, allgemeiner Chatbot und Hochrisiko-Abgrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GPAI, allgemeiner Chatbot und Hochrisiko-Abgrenzung

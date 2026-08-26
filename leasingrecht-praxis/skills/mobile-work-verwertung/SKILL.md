@@ -1,6 +1,6 @@
 ---
 name: mobile-work-verwertung
-description: "Wenn es um Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones

@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-berufsaufsicht-wpo
-description: "Wenn es um Wirtschaftspruefer Berufsaufsicht Wpo in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wirtschaftsprüfer Berufsaufsicht Wpo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer Berufsaufsicht WPO: prüft WPK, APAS, Qualitätskontrolle, berufsgerichtliche Maßnahmen und Prüfungsfehler in berufsgerichtlichen Verfahren freier Berufe

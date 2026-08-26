@@ -1,6 +1,6 @@
 ---
 name: vbuh-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Vbuh Verhandlung Vergleich Und Eskalation in Insolvenzforderungsanmeldungsprüfung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vbuh Verhandlung Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vbuh: Verhandlung, Vergleich und Eskalation im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -51,3 +51,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Typische Konstellationen:** Betrug (§ 263 StGB), Untreue (§ 266 StGB), unerlaubte Handlung gegen Lebensgüter, Steuerhinterziehung als Schädigung des Fiskus (mit Streitstand).
 - **Trade-off:** vbuH-Anmeldung macht im Restschuldbefreiungsverfahren wirtschaftlich Sinn — Mehrkosten der Beweisführung gegen die Aussicht auf vollständige Forderung nach dem Verfahren abwägen.
 - **Praxis:** Bei Strafurteil als Beweismittel früh ankündigen; bei laufendem Strafverfahren ggf. Tabellenfeststellung aussetzen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-vbuh-verhandlung-vergleich-und-eskalation` beziehungsweise Vbuh: Verhandlung, Vergleich und Eskalation: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-vbuh-verhandlung-vergleich-und-eskalation.md).

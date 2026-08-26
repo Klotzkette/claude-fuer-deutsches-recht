@@ -1,6 +1,6 @@
 ---
 name: kirchenmusik-und-liturgie
-description: "Wenn es um Kirchenmusik und Liturgie in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kirchenmusik und Liturgie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kirchenmusik und Liturgie

@@ -1,6 +1,6 @@
 ---
 name: hochschulgesetz-nordrhein-rheinland
-description: "Wenn es um Hochschulgesetz Nordrhein Westfalen in Hochschulrecht der Bundesländer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Hochschulgesetz Nordrhein Westfalen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hochschulgesetz Nordrhein Westfalen

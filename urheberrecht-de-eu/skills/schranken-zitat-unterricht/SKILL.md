@@ -1,6 +1,6 @@
 ---
 name: schranken-zitat-unterricht
-description: "Wenn es um Schranken: Zitat, Unterricht und Wissenschaft in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schranken: Zitat, Unterricht und Wissenschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schranken: Zitat, Unterricht und Wissenschaft

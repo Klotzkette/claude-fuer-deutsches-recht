@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-regelenergie-stellungnahme-entwurf
-description: "Wenn es um Energie-Regulierungsakte: Regelenergie — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie-Regulierungsakte: Regelenergie — Stellungnahme-Entwurf: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: Regelenergie — Stellungnahme-Entwurf

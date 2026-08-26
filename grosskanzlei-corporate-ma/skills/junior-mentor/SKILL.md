@@ -1,6 +1,6 @@
 ---
 name: junior-mentor
-description: "Wenn es um Junior Mentor Training Loop in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Junior Mentor Training Loop: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: junior-mentor."
 ---
 
 # Junior Mentor Training Loop

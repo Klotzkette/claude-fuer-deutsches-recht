@@ -1,6 +1,6 @@
 ---
 name: technische-laborbuch-teilloeschung
-description: "Wenn es um Technische Dokumentation Laborbuch in gebrauchsmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Technische Dokumentation Laborbuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Technische Dokumentation Laborbuch

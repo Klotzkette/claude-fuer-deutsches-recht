@@ -1,6 +1,6 @@
 ---
 name: fristenkalender-kdv
-description: "Wenn es um Fristenkalender KDV in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristenkalender KDV: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristenkalender KDV

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-meta-plattformdaten-als-kartell-und-datenschutzs
-description: "Wenn es um Rechtsabteilung: Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Rechtsabteilung: Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle

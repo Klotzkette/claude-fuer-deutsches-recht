@@ -1,6 +1,6 @@
 ---
 name: klageantraege-verletzung
-description: "Wenn es um Klageantraege Verletzung in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klageanträge Verletzung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klageantraege Verletzung

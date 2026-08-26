@@ -1,6 +1,6 @@
 ---
 name: bgb-at-minderjaehrige-fehlsubsumtion
-description: "Wenn es um Minderjährigenrecht: Fehlsubsumtion erkennen in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Minderjährigenrecht: Fehlsubsumtion erkennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Minderjährigenrecht: Fehlsubsumtion erkennen

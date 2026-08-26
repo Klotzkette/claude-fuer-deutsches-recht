@@ -1,6 +1,6 @@
 ---
 name: zweifel-ausraeumen-gesamtvorbringen
-description: "Wenn es um Zweifel ausräumen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zweifel ausräumen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zweifel ausräumen

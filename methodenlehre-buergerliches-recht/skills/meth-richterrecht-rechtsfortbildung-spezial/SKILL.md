@@ -1,6 +1,6 @@
 ---
 name: meth-richterrecht-rechtsfortbildung-spezial
-description: "Wenn es um Richterrecht und Rechtsfortbildung: Spezialanalyse in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Richterrecht und Rechtsfortbildung: Spezialanalyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Richterrecht und Rechtsfortbildung: Spezialanalyse

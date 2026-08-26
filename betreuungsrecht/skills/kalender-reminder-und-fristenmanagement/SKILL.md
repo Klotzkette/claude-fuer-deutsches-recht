@@ -1,6 +1,6 @@
 ---
 name: kalender-reminder-und-fristenmanagement
-description: "Wenn es um Kalender, Reminder und Fristenmanagement in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kalender, Reminder und Fristenmanagement: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Kalender, Reminder und Fristenmanagement

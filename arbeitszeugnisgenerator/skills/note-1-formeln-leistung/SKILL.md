@@ -1,6 +1,6 @@
 ---
 name: note-1-formeln-leistung
-description: "Formuliert eine sehr gute Leistungsbeurteilung nur aus belastbaren Spitzentatsachen und stimmt Zufriedenheitsformel, Arbeitsweise, Qualität, Menge und Erfolg konsistent ab. Liefert eine glaubwürdige Bestnotenfassung plus Belegcheck für ein mögliches Berichtigungsverfahren."
+description: "Formuliert eine sehr gute Leistungsbeurteilung nur aus belastbaren Spitzentatsachen und stimmt Zufriedenheitsformel, Arbeitsweise, Qualität, Menge und Erfolg konsistent ab."
 ---
 
 # Note 1 — Formeln Leistung

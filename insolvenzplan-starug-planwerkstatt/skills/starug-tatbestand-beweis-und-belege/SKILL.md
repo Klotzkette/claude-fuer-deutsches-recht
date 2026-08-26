@@ -1,6 +1,6 @@
 ---
 name: starug-tatbestand-beweis-und-belege
-description: "Wenn es um StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage in Insolvenzplan- und StaRUG-Planwerkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage

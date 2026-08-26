@@ -1,6 +1,6 @@
 ---
 name: bundesrechnungshof-bemerkungen
-description: "Wenn es um Bundesrechnungshof Bemerkungen in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bundesrechnungshof Bemerkungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bundesrechnungshof Bemerkungen

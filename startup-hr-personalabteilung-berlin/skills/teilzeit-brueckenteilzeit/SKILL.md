@@ -1,6 +1,6 @@
 ---
 name: teilzeit-brueckenteilzeit
-description: "Wenn es um Teilzeit Brueckenteilzeit in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Teilzeit Brückenteilzeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Teilzeit Brueckenteilzeit

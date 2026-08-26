@@ -1,6 +1,6 @@
 ---
 name: multimodaler-transport-paragraf-452-hgb
-description: "Wenn es um Multimodaler Transport Paragraf 452 HGB in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Multimodaler Transport Paragraf 452 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Multimodaler Transport § 452 HGB

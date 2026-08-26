@@ -1,6 +1,6 @@
 ---
 name: absolute-grenze-menschenwuerde-art-1-i-gg
-description: "Wenn es um Absolute Grenze: Menschenwuerde Art 1 I GG in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Absolute Grenze: Menschenwürde Art 1 I GG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Absolute Grenze: Menschenwuerde Art 1 I GG

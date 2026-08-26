@@ -1,6 +1,6 @@
 ---
 name: aufhebungsvertrag-sperrzeit-prognose
-description: "Wenn es um Aufhebungsvertrag Sperrzeit Prognose in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufhebungsvertrag Sperrzeit Prognose: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufhebungsvertrag Sperrzeit Prognose: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

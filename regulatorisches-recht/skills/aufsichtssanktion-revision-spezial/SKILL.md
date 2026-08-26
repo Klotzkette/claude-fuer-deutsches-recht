@@ -1,6 +1,6 @@
 ---
 name: aufsichtssanktion-revision-spezial
-description: "Wenn es um Aufsichtssanktion: Revision in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufsichtssanktion: Revision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufsichtssanktion: Revision

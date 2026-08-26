@@ -1,6 +1,6 @@
 ---
 name: belehrungspflicht-verbraucher-beurkundung
-description: "Wenn es um Belehrungspflicht Verbraucher Beurkundung in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Belehrungspflicht Verbraucher Beurkundung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notare: belehrungspflicht und verbraucher - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

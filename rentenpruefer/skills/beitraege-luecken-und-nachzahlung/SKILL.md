@@ -1,6 +1,6 @@
 ---
 name: beitraege-luecken-und-nachzahlung
-description: "Wenn es um beitraege-luecken-und-nachzahlung in Rentenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für beitraege-luecken-und-nachzahlung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # beitraege-luecken-und-nachzahlung

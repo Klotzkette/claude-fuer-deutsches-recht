@@ -1,6 +1,6 @@
 ---
 name: schatten-ki-governance-und-sanktionslogik
-description: "Wenn es um Schatten-digitale Werkzeuge-Governance und Sanktionslogik in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Schatten-digitale Werkzeuge-Governance und Sanktionslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schatten-KI-Governance und Sanktionslogik

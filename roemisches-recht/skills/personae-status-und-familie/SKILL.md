@@ -1,6 +1,6 @@
 ---
 name: personae-status-und-familie
-description: "Wenn es um Personae Status Und Familie in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Personae Status und Familie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personae Status Und Familie

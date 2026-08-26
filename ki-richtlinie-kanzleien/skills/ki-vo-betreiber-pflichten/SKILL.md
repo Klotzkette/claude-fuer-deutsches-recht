@@ -1,6 +1,6 @@
 ---
 name: ki-vo-betreiber-pflichten
-description: "Wenn es um europäischer Technikregulierungsrahmen Betreiber-Pflichten in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für europäischer Technikregulierungsrahmen Betreiber-Pflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-VO Betreiber-Pflichten

@@ -1,6 +1,6 @@
 ---
 name: bestandsverzeichnis-flurstueck-briefrecht
-description: "Wenn es um Bestandsverzeichnis verstehen in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Bestandsverzeichnis verstehen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Bestandsverzeichnis verstehen

@@ -1,6 +1,6 @@
 ---
 name: ki-erforderlichkeit-no-training-mandanten
-description: "Wenn es um Ex-ante-Vermerk zur Erforderlichkeit in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Ki Erforderlichkeit No Training Mandanten; Arbeitsfeld: anwaltlichem Berufsrecht und Vertragsprüfung."
+description: "Für Ex-ante-Vermerk zur Erforderlichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: ki-erforderlichkeit-no-training-mandanten."
 ---
 
 # Ex-ante-Vermerk zur Erforderlichkeit

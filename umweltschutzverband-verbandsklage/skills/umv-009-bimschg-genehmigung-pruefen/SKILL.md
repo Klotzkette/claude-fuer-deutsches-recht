@@ -1,6 +1,6 @@
 ---
 name: umv-009-bimschg-genehmigung-pruefen
-description: "Wenn es um Bimschg Genehmigung Pruefen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Bimschg Genehmigung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Umweltschutzverband Verbandsklage. Route: umv-009-bimschg-genehmigung-pruefen."
 ---
 
 # Bimschg Genehmigung Pruefen

@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-monatsroutine-scannen
-description: "Wenn es um Familienbetreuer: Monatsroutine und Kalender in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Familienbetreuer Monatsroutine Scannen; Arbeitsfeld: Betreuungsrecht."
+description: "Für Familienbetreuer: Monatsroutine und Kalender: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: familienbetreuer-monatsroutine-scannen."
 ---
 
 # Familienbetreuer: Monatsroutine und Kalender

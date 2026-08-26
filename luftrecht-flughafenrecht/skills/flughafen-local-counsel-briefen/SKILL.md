@@ -1,6 +1,6 @@
 ---
 name: flughafen-local-counsel-briefen
-description: "Wenn es um Flughafen – Local Counsel briefen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Flughafen – Local Counsel briefen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Flughafen – Local Counsel briefen

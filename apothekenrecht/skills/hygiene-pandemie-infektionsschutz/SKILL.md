@@ -1,6 +1,6 @@
 ---
 name: hygiene-pandemie-infektionsschutz
-description: "Wenn es um Hygiene Pandemie Infektionsschutz in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Hygiene Pandemie Infektionsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hygiene Pandemie Infektionsschutz

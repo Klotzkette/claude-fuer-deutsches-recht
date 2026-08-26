@@ -1,6 +1,6 @@
 ---
 name: long-covid-me-cfs-pem-beweis
-description: "Wenn es um Long Covid Me Cfs Pem Beweis in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Long Covid Me Cfs Pem Beweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # ME/CFS, PEM und Beweisführung: Belastungsintoleranz, Pacing, Tagesprofil, Fremdanamnese, Aktivitätsprotokoll und Gutachtenfehler.

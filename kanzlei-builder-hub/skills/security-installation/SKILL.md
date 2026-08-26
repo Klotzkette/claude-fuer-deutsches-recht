@@ -1,6 +1,6 @@
 ---
 name: security-installation
-description: "Wenn es um Security: Dokumentenmatrix, Lückenliste und Nachforderung in Kanzlei-Builder-Hub geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Security: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Security: Dokumentenmatrix, Lückenliste und Nachforderung

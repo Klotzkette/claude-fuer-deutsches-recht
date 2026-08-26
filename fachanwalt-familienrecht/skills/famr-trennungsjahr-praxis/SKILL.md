@@ -1,6 +1,6 @@
 ---
 name: famr-trennungsjahr-praxis
-description: "Wenn es um Famr Trennungsjahr Praxis in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Famr Trennungsjahr Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trennungsjahr in der Praxis Paragraf 1565 BGB: Voraussetzungen, Beleg, Trennung innerhalb der Ehewohnung, Ausnahmen Haertefall

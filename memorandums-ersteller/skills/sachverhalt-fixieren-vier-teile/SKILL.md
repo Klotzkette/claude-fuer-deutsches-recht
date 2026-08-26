@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-fixieren-vier-teile
-description: "Wenn es um Memo: Sachverhalt fixieren in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Memo: Sachverhalt fixieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Memo: Sachverhalt fixieren

@@ -1,6 +1,6 @@
 ---
 name: frequenzzuteilung-auktionsdesign
-description: "Wenn es um Frequenzzuteilung und Auktionen in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Frequenzzuteilung und Auktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Frequenzzuteilung und Auktionen

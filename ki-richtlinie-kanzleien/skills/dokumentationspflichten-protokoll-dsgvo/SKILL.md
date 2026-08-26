@@ -1,6 +1,6 @@
 ---
 name: dokumentationspflichten-protokoll-dsgvo
-description: "Wenn es um Dokumentationspflichten Protokoll in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Dokumentationspflichten Protokoll: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentationspflichten Protokoll

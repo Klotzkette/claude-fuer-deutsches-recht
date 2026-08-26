@@ -1,6 +1,6 @@
 ---
 name: authorschaft-work-backlist-rights-best
-description: "Wenn es um Autorenschaft, Work Made For Hire und Rechtekette in US Copyright Act und Registrierung für deutsche Verlage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Autorenschaft, Work Made For Hire und Rechtekette: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Autorenschaft, Work Made For Hire und Rechtekette

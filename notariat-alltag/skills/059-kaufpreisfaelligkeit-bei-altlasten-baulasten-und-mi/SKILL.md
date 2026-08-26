@@ -1,6 +1,6 @@
 ---
 name: 059-kaufpreisfaelligkeit-bei-altlasten-baulasten-und-mi
-description: "Wenn es um Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten, Baulasten, Mietverträgen in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten, Baulasten, Mietverträgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten, Baulasten, Mietverträgen

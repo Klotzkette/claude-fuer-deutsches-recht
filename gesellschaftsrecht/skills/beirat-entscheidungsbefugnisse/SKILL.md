@@ -1,6 +1,6 @@
 ---
 name: beirat-entscheidungsbefugnisse
-description: "Wenn es um Beirat Entscheidungsbefugnisse in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beirat Entscheidungsbefugnisse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht."
 ---
 
 # Beirat Entscheidungsbefugnisse

@@ -1,6 +1,6 @@
 ---
 name: chn-018-awg-awv-investitionspruefung
-description: "Wenn es um AWG AWV Investitionspruefung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AWG AWV Investitionsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # AWG AWV Investitionspruefung

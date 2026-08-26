@@ -1,6 +1,6 @@
 ---
 name: transparenzregister-gwg-umlaufbeschluss
-description: "Wenn es um Transparenzregister und GwG in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transparenzregister und GwG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Transparenzregister und GwG

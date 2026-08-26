@@ -1,6 +1,6 @@
 ---
 name: checkliste-nach-antrag
-description: "Wenn es um Checkliste nach Antrag in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Checkliste nach Antrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Checkliste nach Antrag

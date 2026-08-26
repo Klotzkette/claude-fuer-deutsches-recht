@@ -1,6 +1,6 @@
 ---
 name: str-053-kreisstrasse-planrecht-pruefen
-description: "Wenn es um Kreisstrasse Planrecht Pruefen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kreisstrasse Planrecht Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenrecht und Infrastruktur. Route: str-053-kreisstrasse-planrecht-pruefen."
 ---
 
 # Kreisstrasse Planrecht Pruefen

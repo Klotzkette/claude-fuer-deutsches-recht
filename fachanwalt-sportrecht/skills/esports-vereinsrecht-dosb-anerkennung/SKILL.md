@@ -1,6 +1,6 @@
 ---
 name: esports-vereinsrecht-dosb-anerkennung
-description: "Wenn es um Esports Vereinsrecht Dosb Anerkennung in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Esports Vereinsrecht Dosb Anerkennung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # eSports-Organisator oder Verein fragt ob DOSB-Anerkennung möglich und wie steuerliche Gemeinnuetzigkeit erreichbar ist

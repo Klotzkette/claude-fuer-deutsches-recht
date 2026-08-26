@@ -1,6 +1,6 @@
 ---
 name: auslandsgesellschafter-kyc
-description: "Wenn es um Auslandsgesellschafter und KYC in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Auslandsgesellschafter und KYC: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auslandsgesellschafter und KYC

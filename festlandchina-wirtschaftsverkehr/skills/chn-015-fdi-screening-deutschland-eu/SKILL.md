@@ -1,6 +1,6 @@
 ---
 name: chn-015-fdi-screening-deutschland-eu
-description: "Wenn es um FDI Screening Deutschland EU in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für FDI Screening Deutschland EU: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # FDI Screening Deutschland EU

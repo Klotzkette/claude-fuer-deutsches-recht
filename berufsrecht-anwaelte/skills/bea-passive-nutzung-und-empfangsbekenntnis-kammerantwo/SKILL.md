@@ -1,6 +1,6 @@
 ---
 name: bea-passive-nutzung-und-empfangsbekenntnis-kammerantwo
-description: "Wenn es um Bea Passive Nutzung Und Empfangsbekenntnis Kammerantwo in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Bea Passive Nutzung und Empfangsbekenntnis Kammerantwo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: bea passive nutzung und empfangsbekenntnis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

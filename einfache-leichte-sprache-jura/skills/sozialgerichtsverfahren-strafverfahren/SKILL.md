@@ -1,6 +1,6 @@
 ---
 name: sozialgerichtsverfahren-strafverfahren
-description: "Wenn es um ELS-J Sozialgerichtsverfahren in Einfache und Leichte Sprache für juristische Texte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ELS-J Sozialgerichtsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: sozialgerichtsverfahren-strafverfahren."
 ---
 
 # ELS-J Sozialgerichtsverfahren

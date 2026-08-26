@@ -1,6 +1,6 @@
 ---
 name: prioritaetsmitteilung-und-rangbescheinigung
-description: "Wenn es um Priorität und Rangbescheinigung in Grundbuchamt Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Priorität und Rangbescheinigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Priorität und Rangbescheinigung

@@ -1,6 +1,6 @@
 ---
 name: drohende-zahlungsunfaehigkeit
-description: "Prüft drohende Zahlungsunfähigkeit nach Paragraf 18 InsO aus Liquiditätsstatus, Fälligkeiten und regelmäßig 24-monatiger Prognose. Grenzt Paragrafen 17 und 19 InsO ab, behandelt streitige und titulierte Forderungen korrekt und liefert Statusmemo, Szenarien, Belegmatrix sowie Entscheidung über StaRUG-Instrumente."
+description: "Prüft drohende Zahlungsunfähigkeit nach Paragraf 18 InsO aus Liquiditätsstatus, Fälligkeiten und regelmäßig 24-monatiger Prognose."
 ---
 
 # 1. Drohende Zahlungsunfähigkeit nach Paragraf 18 InsO

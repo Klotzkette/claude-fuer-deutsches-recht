@@ -1,6 +1,6 @@
 ---
 name: kuendigungsschreiben
-description: "Wenn es um Kündigungsschreiben im Handelsvertretervertrag — Form, Fristen und Inhalt in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kündigungsschreiben im Handelsvertretervertrag — Form, Fristen und Inhalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kündigungsschreiben im Handelsvertretervertrag — Form, Fristen und Inhalt

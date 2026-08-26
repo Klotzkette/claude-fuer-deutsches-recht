@@ -1,6 +1,6 @@
 ---
 name: vertrauensgremium-szenario-rechnen
-description: "Wenn es um Vertrauensgremium Szenario Rechnen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertrauensgremium Szenario Rechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertrauensgremium Szenario Rechnen

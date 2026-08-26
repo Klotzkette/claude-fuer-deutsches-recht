@@ -1,6 +1,6 @@
 ---
 name: ki-output-menschlicher-beitrag
-description: "Wenn es um digitale Werkzeuge-Output und menschlicher Beitrag in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für digitale Werkzeuge-Output und menschlicher Beitrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Output und menschlicher Beitrag

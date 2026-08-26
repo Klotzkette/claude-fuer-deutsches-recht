@@ -1,6 +1,6 @@
 ---
 name: space-081-finanzaufsicht-tokenisierung-von-satellitenertraegen
-description: "Wenn es um Weltraumrecht: Finanzaufsicht Tokenisierung von Satellitenerträgen in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Finanzaufsicht Tokenisierung von Satellitenerträgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Finanzaufsicht Tokenisierung von Satellitenerträgen

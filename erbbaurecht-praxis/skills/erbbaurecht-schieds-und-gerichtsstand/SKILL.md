@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-schieds-und-gerichtsstand
-description: "Wenn es um Streitbeilegung in Erbbaurecht Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Streitbeilegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Streitbeilegung

@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-selbstbehalt-wahltarif-kuendigung
-description: "Wenn es um Selbstbehalt-Wahltarif und Kündigung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Selbstbehalt-Wahltarif und Kündigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Selbstbehalt-Wahltarif und Kündigung

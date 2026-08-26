@@ -1,6 +1,6 @@
 ---
 name: neue-rueckfragen-strippen
-description: "Wenn es um Neue: Internationaler Bezug und Schnittstellen in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Neue: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Neue: Internationaler Bezug und Schnittstellen

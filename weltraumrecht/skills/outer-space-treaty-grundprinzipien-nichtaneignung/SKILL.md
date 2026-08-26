@@ -1,6 +1,6 @@
 ---
 name: outer-space-treaty-grundprinzipien-nichtaneignung
-description: "Wenn es um Outer Space Treaty Grundprinzipien Nichtaneignung in Weltraumrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Outer Space Treaty Grundprinzipien Nichtaneignung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Outer Space Treaty: Grundprinzipien, Nichtaneignung und nationale Verantwortung

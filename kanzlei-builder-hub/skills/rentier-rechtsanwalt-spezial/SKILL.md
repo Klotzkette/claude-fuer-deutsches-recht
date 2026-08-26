@@ -1,6 +1,6 @@
 ---
 name: rentier-rechtsanwalt-spezial
-description: "Wenn es um Einzelanwalt-Spezial in Kanzlei-Builder-Hub geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Einzelanwalt-Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einzelanwalt-Spezial

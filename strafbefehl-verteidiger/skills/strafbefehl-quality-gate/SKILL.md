@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-quality-gate
-description: "Wenn es um Quality Gate — Strafbefehl-Mandat in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quality Gate — Strafbefehl-Mandat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quality Gate — Strafbefehl-Mandat

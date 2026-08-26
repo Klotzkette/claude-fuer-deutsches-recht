@@ -1,6 +1,6 @@
 ---
 name: remedies-damages-representations-warranties
-description: "Wenn es um Remedies, Damages und Equity in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Remedies, Damages und Equity: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Remedies, Damages und Equity

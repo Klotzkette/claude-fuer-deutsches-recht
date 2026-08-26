@@ -1,6 +1,6 @@
 ---
 name: ausgleich-berechnung
-description: "Wenn es um Ausgleich Berechnung in Handelsvertreterrecht und Vertriebsverträge geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Ausgleich Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Ausgleich Berechnung

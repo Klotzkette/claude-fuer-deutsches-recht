@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg
-description: "Wenn es um Güte-Verhandlung Arbeitsgericht / Abfindungs-Vergleich in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Güte-Verhandlung Arbeitsgericht / Abfindungs-Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Güte-Verhandlung Arbeitsgericht / Abfindungs-Vergleich

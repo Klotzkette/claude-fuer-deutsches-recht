@@ -1,6 +1,6 @@
 ---
 name: werk-und-diensttypen
-description: "Wenn es um Werk Und Diensttypen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Werk und Diensttypen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Werk Und Diensttypen

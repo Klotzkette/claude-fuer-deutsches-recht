@@ -1,6 +1,6 @@
 ---
 name: zitat-rechtsprechung-ohne-fundstelle
-description: "Wenn es um Rechtsprechung ohne amtl. Fundstelle in Zitierweise deutsches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsprechung ohne amtl. Fundstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsprechung ohne amtl. Fundstelle

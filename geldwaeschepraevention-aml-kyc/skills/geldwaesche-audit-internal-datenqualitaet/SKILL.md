@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-audit-internal-datenqualitaet
-description: "Wenn es um Audit und interne Revision in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Audit und interne Revision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Audit und interne Revision

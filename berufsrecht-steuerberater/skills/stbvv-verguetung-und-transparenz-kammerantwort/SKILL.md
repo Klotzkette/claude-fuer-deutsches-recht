@@ -1,6 +1,6 @@
 ---
 name: stbvv-verguetung-und-transparenz-kammerantwort
-description: "Wenn es um Stbvv Verguetung Und Transparenz Kammerantwort in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Stbvv Vergütung und Transparenz Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: stbvv vergütung und transparenz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

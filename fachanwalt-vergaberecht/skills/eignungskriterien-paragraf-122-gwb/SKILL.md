@@ -1,6 +1,6 @@
 ---
 name: eignungskriterien-paragraf-122-gwb
-description: "Wenn es um Eignungskriterien Paragraf 122 GWB in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eignungskriterien Paragraf 122 GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eignungskriterien § 122 GWB

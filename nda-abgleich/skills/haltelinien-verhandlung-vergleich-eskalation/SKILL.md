@@ -1,6 +1,6 @@
 ---
 name: haltelinien-verhandlung-vergleich-eskalation
-description: "Wenn es um Haltelinien: Verhandlung, Vergleich und Eskalation in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haltelinien: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Haltelinien: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: anlagen-aus-mandantenmaterial
-description: "Wenn es um Anlagen aus Mandantenmaterial in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anlagen aus Mandantenmaterial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagen aus Mandantenmaterial

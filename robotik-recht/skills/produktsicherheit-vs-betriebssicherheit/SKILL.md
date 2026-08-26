@@ -1,6 +1,6 @@
 ---
 name: produktsicherheit-vs-betriebssicherheit
-description: "Wenn es um Produktsicherheit vs Betriebssicherheit in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Produktsicherheit vs Betriebssicherheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produktsicherheit vs Betriebssicherheit

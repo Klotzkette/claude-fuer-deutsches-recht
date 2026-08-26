@@ -1,6 +1,6 @@
 ---
 name: dienstpflichten-treue-maessigung-neutralitaet
-description: "Wenn es um Dienstpflichten Treue Maessigung Neutralitaet in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dienstpflichten Treue Mäßigung Neutralität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Dienstpflichten Treue Maessigung Neutralitaet

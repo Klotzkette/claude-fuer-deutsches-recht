@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-tierhaltung-genehmigung
-description: "Wenn es um Tierhaltungs-Genehmigung in Fachanwalt Agrarrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Tierhaltungs-Genehmigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tierhaltungs-Genehmigung

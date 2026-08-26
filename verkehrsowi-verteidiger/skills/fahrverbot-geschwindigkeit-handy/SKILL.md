@@ -1,6 +1,6 @@
 ---
 name: fahrverbot-geschwindigkeit-handy
-description: "Wenn es um Fahrverbot: Behörden-, Gerichts- oder Registerweg in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fahrverbot: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fahrverbot: Behörden-, Gerichts- oder Registerweg

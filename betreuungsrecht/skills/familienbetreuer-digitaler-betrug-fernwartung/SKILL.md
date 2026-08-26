@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-digitaler-betrug-fernwartung
-description: "Wenn es um Familienbetreuer: digitaler Betrug und Fernwartung stoppen in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Familienbetreuer: digitaler Betrug und Fernwartung stoppen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: familienbetreuer-digitaler-betrug-fernwartung."
 ---
 
 # Familienbetreuer: digitaler Betrug und Fernwartung stoppen

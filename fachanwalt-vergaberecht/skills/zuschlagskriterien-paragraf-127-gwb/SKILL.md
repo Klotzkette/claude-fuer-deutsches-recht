@@ -1,6 +1,6 @@
 ---
 name: zuschlagskriterien-paragraf-127-gwb
-description: "Wenn es um Zuschlagskriterien Paragraf 127 GWB in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zuschlagskriterien Paragraf 127 GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zuschlagskriterien § 127 GWB

@@ -1,6 +1,6 @@
 ---
 name: bmwsb-bau-bauproduktenrecht-technische
-description: "Wenn es um Bau- und Planungsrecht (BauGB; BauNVO) (BMWSB) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmwsb Bau Bauproduktenrecht Technische; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Bau- und Planungsrecht (BauGB; BauNVO) (BMWSB): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmwsb-bau-bauproduktenrecht-technische."
 ---
 
 # Bau- und Planungsrecht (BauGB; BauNVO) (BMWSB)

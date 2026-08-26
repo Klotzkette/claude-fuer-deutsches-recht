@@ -1,6 +1,6 @@
 ---
 name: verl-008-open-access-creative-commons-und-verlagspolitik
-description: "Wenn es um Verlagsrecht: Open Access Creative Commons und Verlagspolitik in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Open Access Creative Commons und Verlagspolitik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Open Access Creative Commons und Verlagspolitik

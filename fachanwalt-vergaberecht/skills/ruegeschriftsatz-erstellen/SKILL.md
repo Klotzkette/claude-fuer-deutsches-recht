@@ -1,6 +1,6 @@
 ---
 name: ruegeschriftsatz-erstellen
-description: "Wenn es um Ruegeschriftsatz nach Paragraf 160 Abs in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rügeschriftsatz nach Paragraf 160 Abs: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Ruegeschriftsatz nach § 160 Abs

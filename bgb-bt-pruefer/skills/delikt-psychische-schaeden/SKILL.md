@@ -1,6 +1,6 @@
 ---
 name: delikt-psychische-schaeden
-description: "Wenn es um Delikt: Psychische Schäden in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Delikt: Psychische Schäden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Delikt: Psychische Schäden

@@ -1,6 +1,6 @@
 ---
 name: 043-kanzleiorganisation-vier-augen-prinzip-und-fehlerku
-description: "Wenn es um Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip, Fehlerkultur in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip, Fehlerkultur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip, Fehlerkultur

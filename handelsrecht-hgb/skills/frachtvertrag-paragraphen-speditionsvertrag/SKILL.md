@@ -1,6 +1,6 @@
 ---
 name: frachtvertrag-paragraphen-speditionsvertrag
-description: "Wenn es um Frachtvertrag Paragrafen 407 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Frachtvertrag Paragrafen 407 ff. HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Frachtvertrag §§ 407 ff. HGB

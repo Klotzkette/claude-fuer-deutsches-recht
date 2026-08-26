@@ -1,6 +1,6 @@
 ---
 name: pkh-ratenzahlung-bewilligung
-description: "Wenn es um PKH mit Ratenzahlung in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PKH mit Ratenzahlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PKH mit Ratenzahlung

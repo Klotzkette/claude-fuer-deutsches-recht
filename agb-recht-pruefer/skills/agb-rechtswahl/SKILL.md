@@ -1,6 +1,6 @@
 ---
 name: agb-rechtswahl
-description: "Wenn es um Rechtswahl in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Rechtswahl; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Rechtswahl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: agb-rechtswahl."
 ---
 
 # Rechtswahl

@@ -1,6 +1,6 @@
 ---
 name: hochschulerfindungen-und-ip
-description: "Wenn es um Hochschulerfindungen Und Ip in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hochschulerfindungen und Ip: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hochschulerfindungen Und Ip

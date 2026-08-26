@@ -1,6 +1,6 @@
 ---
 name: einstellung-anregen-vor-bescheid
-description: "Wenn es um Einstellung vor Bescheid anregen in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Einstellung vor Bescheid anregen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstellung vor Bescheid anregen

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-vvt-tom-avv-hausverwaltung
-description: "Wenn es um Datenschutz: VVT, TOM und AVV für die Hausverwaltung in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz: VVT, TOM und AVV für die Hausverwaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz: VVT, TOM und AVV für die Hausverwaltung

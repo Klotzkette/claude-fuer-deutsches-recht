@@ -1,6 +1,6 @@
 ---
 name: kassenpruefung-kreisverband
-description: "Wenn es um Kassenpruefung Kreisverband in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kassenprüfung Kreisverband: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Kassenpruefung Kreisverband

@@ -1,6 +1,6 @@
 ---
 name: satellitenbetrieb-deutschland
-description: "Wenn es um Weltraumrecht: Satellitenbetrieb aus Deutschland: Genehmigung, Versicherung, Aufsicht in Weltraumrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Weltraumrecht: Satellitenbetrieb aus Deutschland: Genehmigung, Versicherung, Aufsicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Weltraumrecht: Satellitenbetrieb aus Deutschland: Genehmigung, Versicherung, Aufsicht

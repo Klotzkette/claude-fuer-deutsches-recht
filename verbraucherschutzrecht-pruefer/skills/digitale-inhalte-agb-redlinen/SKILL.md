@@ -1,6 +1,6 @@
 ---
 name: digitale-inhalte-agb-redlinen
-description: "Wenn es um Digitale Inhalte Agb Redlinen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitale Inhalte AGB Redlinen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitale Inhalte Agb Redlinen

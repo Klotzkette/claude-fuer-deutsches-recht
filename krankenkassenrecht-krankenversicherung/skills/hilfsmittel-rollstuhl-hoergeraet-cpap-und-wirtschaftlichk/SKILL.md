@@ -1,6 +1,6 @@
 ---
 name: hilfsmittel-rollstuhl-hoergeraet-cpap-und-wirtschaftlichk
-description: "Prüft Hilfsmittelansprüche für Rollstuhl, Hörgerät, Beatmung und weitere Versorgungen nach Versorgungsziel, individuellem Gebrauchsvorteil und Wirtschaftlichkeit. Liefert Antrag, Versorgungsvergleich, Beweisplan sowie Widerspruchs- oder Eilantrag."
+description: "Prüft Hilfsmittelansprüche für Rollstuhl, Hörgerät, Beatmung und weitere Versorgungen nach Versorgungsziel, individuellem Gebrauchsvorteil und Wirtschaftlichkeit."
 ---
 
 # Hilfsmittel: Rollstuhl, Hörgerät, CPAP und Wirtschaftlichkeit

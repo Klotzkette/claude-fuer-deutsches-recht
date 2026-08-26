@@ -1,6 +1,6 @@
 ---
 name: durchsuchung-beschlagnahme-kanzlei-arzt
-description: "Wenn es um Durchsuchung und Beschlagnahme in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Durchsuchung und Beschlagnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Staatsanwaltschaft Praxis-Einstieg."
 ---
 
 # Durchsuchung und Beschlagnahme

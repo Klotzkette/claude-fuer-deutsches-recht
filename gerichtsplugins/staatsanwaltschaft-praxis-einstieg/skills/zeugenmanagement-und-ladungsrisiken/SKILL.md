@@ -1,6 +1,6 @@
 ---
 name: zeugenmanagement-und-ladungsrisiken
-description: "Wenn es um Zeugenmanagement für die Hauptverhandlung in Staatsanwaltschaft Praxis-Einstieg geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Zeugenmanagement für die Hauptverhandlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zeugenmanagement für die Hauptverhandlung

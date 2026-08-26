@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-verzicht-bilanz-im-plan
-description: "Wenn es um Sanierungsgewinn — Forderungsverzicht im Plan, bilanzielle Folgen in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungsgewinn — Forderungsverzicht im Plan, bilanzielle Folgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn — Forderungsverzicht im Plan, bilanzielle Folgen

@@ -1,6 +1,6 @@
 ---
 name: markenrecherche-risikoampel-und-gegenargumente
-description: "Wenn es um Spezial: Markenrecherche – Risikoampel und Gegenargumente in Plugin: Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Spezial: Markenrecherche – Risikoampel und Gegenargumente: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Spezial: Markenrecherche – Risikoampel und Gegenargumente
@@ -142,3 +142,7 @@ Mandatsbezug: Mandant will neue Marke anmelden und fragt: Kann ich „XYZ" als M
 - `gewr-markenanmeldung-bauleiter` – Anmeldeprozess
 - `unterlassungsverlangen` – Reaktion auf Abmahnung
 - `spezial-dpma-fristen-form-und-zuständigkeit` – DPMA-Widerspruch
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-markenrecherche-risikoampel-und-gegenargumente` beziehungsweise Markenrecherche: Risikoampel, Gegenargumente und Verteidigungslinien: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-markenrecherche-risikoampel-und-gegenargumente.md).

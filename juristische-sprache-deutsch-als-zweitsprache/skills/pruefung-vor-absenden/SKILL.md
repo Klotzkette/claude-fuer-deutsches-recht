@@ -1,6 +1,6 @@
 ---
 name: pruefung-vor-absenden
-description: "Wenn es um Pruefung Vor Absenden in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfung vor Absenden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Pruefung Vor Absenden

@@ -1,6 +1,6 @@
 ---
 name: wahl-o-mat-und-thesen
-description: "Wenn es um Wahl O Mat Und Thesen in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wahl O Mat und Thesen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wahl O Mat Und Thesen

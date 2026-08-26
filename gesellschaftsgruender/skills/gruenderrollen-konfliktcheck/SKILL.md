@@ -1,6 +1,6 @@
 ---
 name: gruenderrollen-konfliktcheck
-description: "Wenn es um Gründerrollen und Konfliktcheck in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gründerrollen und Konfliktcheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gründerrollen und Konfliktcheck

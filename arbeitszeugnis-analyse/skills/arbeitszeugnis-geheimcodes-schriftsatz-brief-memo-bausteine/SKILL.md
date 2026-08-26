@@ -1,6 +1,6 @@
 ---
 name: arbeitszeugnis-geheimcodes-schriftsatz-brief-memo-bausteine
-description: "Wenn es um Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine in Arbeitszeugnis-Analyse geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine

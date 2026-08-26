@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-eignungspruefung
-description: "Wenn es um Eignungsprüfung in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eignungsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Fachanwalt Vergaberecht. Route: fachanwalt-vergaberecht-eignungspruefung."
 ---
 
 # Eignungsprüfung

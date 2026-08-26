@@ -1,6 +1,6 @@
 ---
 name: betriebskostenverordnung-anlage-3
-description: "Wenn es um Betriebskostenverordnung Anlage 3 in Fachanwalt Miet- und Wohnungseigentumsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebskostenverordnung Anlage 3: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebskostenverordnung Anlage 3

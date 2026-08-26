@@ -1,6 +1,6 @@
 ---
 name: norm-zerlegen-mandantenbrief
-description: "Wenn es um Norm zerlegen in Tatbestandsmerkmale in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Norm zerlegen in Tatbestandsmerkmale: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Norm zerlegen in Tatbestandsmerkmale

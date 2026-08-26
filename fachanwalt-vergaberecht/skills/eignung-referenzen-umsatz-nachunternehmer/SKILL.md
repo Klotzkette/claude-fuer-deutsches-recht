@@ -1,6 +1,6 @@
 ---
 name: eignung-referenzen-umsatz-nachunternehmer
-description: "Wenn es um Eignung Referenzen Umsatz Nachunternehmer in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eignung Referenzen Umsatz Nachunternehmer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eignung vertieft prüfen: Referenzen, Mindestumsatz, technische Leistungsfaehigkeit, EEE, Nachunternehmer, Eignungsleihe, Konsortien und Nachforderung.

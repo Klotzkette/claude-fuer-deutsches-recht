@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag
-description: "Wenn es um Fachanwalt Insolvenz Sanierungsrecht Glaeubigerantrag in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Fachanwalt Insolvenz Sanierungsrecht Gläubigerantrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 ## Mandantenfragen beim Kaltstart

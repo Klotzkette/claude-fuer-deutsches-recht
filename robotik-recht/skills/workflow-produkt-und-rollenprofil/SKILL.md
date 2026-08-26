@@ -1,6 +1,6 @@
 ---
 name: workflow-produkt-und-rollenprofil
-description: "Wenn es um Produkt- und Rollenprofil in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Workflow Produkt Und Rollenprofil; Arbeitsfeld: robotik-recht."
+description: "Für Produkt- und Rollenprofil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: workflow-produkt-und-rollenprofil."
 ---
 
 # Produkt- und Rollenprofil

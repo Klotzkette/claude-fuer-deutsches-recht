@@ -8,19 +8,19 @@ Diese Vollprüfung enthält top-15 von 22 Skills des Plugins `europaeisches-proz
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Europäisches Prozessrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ve…
 2. **e-curia-versandmappe-endfertigen** — Endfertigt Klageschrift, Rechtsmittel, Streithilfeantrag und sonstige Verfahrensschrift vor Gericht und Gerichtshof der …
-3. **vertraulichkeit-beweis-anlagen** — Steuert vertrauliche Fassungen, Anlagenverzeichnis, Geschäftsgeheimnisse, Beweisangebote, Aktenauszüge und Schwärzungen …
-4. **kaltstart-verfahrensrouting** — Routet unionsprozessuale Mandate schnell auf Vorlage, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, e…
-5. **eugh-vorabentscheidung-art-267** — Entwickelt Vorlagefragen, Vorlagebeschluss, Parteivortrag und nationale Verfahrensstrategie nach Art. 267 AEUV, inklusiv…
-6. **vertragsverletzung-art-258-260** — Ordnet Vertragsverletzungsverfahren nach Art. 258 bis 260 AEUV: Kommissionsbeschwerde, Vorverfahren, mit Gründen versehe…
-7. **untatigkeitsklage-art-265** — Bereitet Untätigkeitsklagen gegen Organe, Einrichtungen und sonstige Stellen der Union vor, mit Aufforderung zum Tätigwe…
-8. **vorlage-transfer-eug-2024** — Berücksichtigt die seit 2024 praktisch wichtige Verteilung bestimmter Vorabentscheidungsbereiche zwischen Gerichtshof un…
-9. **intervention-streithelfer** — Plant Streitbeitritt und Intervention nach Satzung und Verfahrensordnungen: Interesse am Ausgang, Frist, Rolle, Schrifts…
-10. **klagebefugnis-private-plaumann** — Prüft individuelle und unmittelbare Betroffenheit Privater nach Art. 263 AEUV, einschließlich Plaumann-Linie, regulatori…
-11. **amtshaftung-art-268-340** — Prüft Schadensersatzklagen wegen außervertraglicher Haftung der Union nach Art. 268 und 340 AEUV mit qualifiziertem Rech…
-12. **e-curia-einreichung-zustellung** — Führt durch e-Curia-Einreichung, Anlagen, Zustellung, Dateibenennung, Vertreterrolle, Fristenkontrolle und Empfangsprüfu…
-13. **eug-nichtigkeitsklage-art-263** — Prüft Nichtigkeitsklagen vor dem Gericht der Europäischen Union gegen EU-Rechtsakte: Klagebefugnis, Frist, anfechtbarer …
-14. **euipo-eu-gericht-route** — Routet Marken- und Designverfahren vom EUIPO über Beschwerdekammer, Gericht der Europäischen Union und Gerichtshof mit F…
-15. **muendliche-verhandlung-plaedoyer** — Bereitet mündliche Verhandlung, Richterfragen, Minutenplan, Sprachfassung, Replikpunkte und Entscheidungsbitten vor, ohn…
+3. **kaltstart-verfahrensrouting** — Routet unionsprozessuale Mandate schnell auf Vorlage, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, e…
+4. **untatigkeitsklage-art-265** — Bereitet Untätigkeitsklagen gegen Organe, Einrichtungen und sonstige Stellen der Union vor, mit Aufforderung zum Tätigwe…
+5. **vorlage-transfer-eug-2024** — Berücksichtigt die seit 2024 praktisch wichtige Verteilung bestimmter Vorabentscheidungsbereiche zwischen Gerichtshof un…
+6. **intervention-streithelfer** — Plant Streitbeitritt und Intervention nach Satzung und Verfahrensordnungen: Interesse am Ausgang, Frist, Rolle, Schrifts…
+7. **vertraulichkeit-beweis-anlagen** — Steuert vertrauliche Fassungen, Anlagenverzeichnis, Geschäftsgeheimnisse, Beweisangebote, Aktenauszüge und Schwärzungen …
+8. **einstweiliger-rechtsschutz-art-278-279** — Für Einstweiliger Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+9. **e-curia-einreichung-zustellung** — Führt durch e-Curia-Einreichung, Anlagen, Zustellung, Dateibenennung, Vertreterrolle, Fristenkontrolle und Empfangsprüfu…
+10. **eug-nichtigkeitsklage-art-263** — Prüft Nichtigkeitsklagen vor dem Gericht der Europäischen Union gegen EU-Rechtsakte: Klagebefugnis, Frist, anfechtbarer …
+11. **euipo-eu-gericht-route** — Routet Marken- und Designverfahren vom EUIPO über Beschwerdekammer, Gericht der Europäischen Union und Gerichtshof mit F…
+12. **muendliche-verhandlung-plaedoyer** — Bereitet mündliche Verhandlung, Richterfragen, Minutenplan, Sprachfassung, Replikpunkte und Entscheidungsbitten vor, ohn…
+13. **rechtsmittel-eug-eugh** — Prüft Rechtsmittel gegen Urteile des Gerichts der Europäischen Union: Rechtsfragen, Zulässigkeit, Klagegründe, keine neu…
+14. **kosten-und-prozessrisiko** — Erstellt Kosten-, Dauer- und Risikomatrix für unionsprozessuale Verfahren, inklusive Vergleichsfenster, reputationssensi…
+15. **schriftsatzbau-eugh-eug** — Erstellt Klage, Klagebeantwortung, Streithilfeschriftsatz, Rechtsmittel, Antrag auf einstweilige Anordnung und mündliche…
 
 ---
 
@@ -150,7 +150,7 @@ Ausgangspunkt für dieses Plugin: Kläger für Zulässigkeit, Betroffenheit, Fri
 
 ## Skill: `e-curia-versandmappe-endfertigen`
 
-_Endfertigt Klageschrift, Rechtsmittel, Streithilfeantrag und sonstige Verfahrensschrift vor Gericht und Gerichtshof der Europäischen Union: bestimmt Spruchkörper, Klageart, Frist und Verfahrenssprache, prüft Anträge und Vertretungsnachweise, ordnet Anlagen und Vertraulichkeitsfassungen, erzeugt e-Curia-gerechte Einzel-PDFs und liefert Einreichungsregister und Bestätigungskontrolle._
+_Endfertigt Klageschrift, Rechtsmittel, Streithilfeantrag und sonstige Verfahrensschrift vor Gericht und Gerichtshof der Europäischen Union: bestimmt Spruchkörper, Klageart, Frist und Verfahrenssprache, prüft Anträge und Vertretungsnachweise, ordnet Anlagen und Vertraulichkeitsfassungen, erzeugt e-Curia-gerechte Einzel-PDFs und liefert Einreichungsregister._
 
 # e-Curia-Versandmappe endfertigen
 
@@ -188,153 +188,11 @@ Liefere Einreichungsdateien, Anlagenverzeichnis, Fristen- und Sprachenblatt, Ver
 
 ---
 
-## Skill: `vertraulichkeit-beweis-anlagen`
-
-_Steuert vertrauliche Fassungen, Anlagenverzeichnis, Geschäftsgeheimnisse, Beweisangebote, Aktenauszüge und Schwärzungen in Verfahren vor Gerichtshof, Gericht und Beschwerdekammern. Aktivieren bei e-Curia-Einreichung, Art.-103-Vertraulichkeit, Interventionsakten, EUIPO-Folgewegen, Sicherheitsinformationen, Anlagenlücken oder Streit über Akteneinsicht._
-
-# Vertraulichkeit, Beweis und Anlagen
-
-## 1. Sofortstart
-
-Beginne mit einer Anlagen- und Vertraulichkeitsmatrix, nicht mit einer allgemeinen Prozessübersicht. Lege zuerst fest: Gericht oder Beschwerdekammer, Verfahrensart, Einreichungsfrist, Parteirolle, Sprache, e-Curia-Status und ob eine vertrauliche Fassung, nicht vertrauliche Fassung oder Schwärzung benötigt wird.
-
-## 2. Prüfraster
-
-1. Verfahren und Aktenlage trennen: Vorabentscheidung, direkte Klage, Rechtsmittel, einstweiliger Rechtsschutz, Intervention oder EUIPO-Folgeweg.
-2. Jede Anlage klassifizieren: öffentlich einreichbar, vertraulich gegenüber der Öffentlichkeit, vertraulich gegenüber Streithelfern, vertraulich gegenüber einer Hauptpartei oder sicherheitsbezogen.
-3. Für jede Schwärzung den Schutzgrund notieren: Geschäftsgeheimnis, personenbezogenes Datum, Ermittlungs- oder Sicherheitsbezug, internes Entscheidungsdokument oder nicht entscheidungserheblicher Randinhalt.
-4. Zu jeder geschwärzten Passage eine nicht vertrauliche Ersatzfassung formulieren, damit der kontradiktorische Kern gewahrt bleibt.
-5. Beweisangebote und Aktenauszüge nur so weit in den Schriftsatz ziehen, wie sie für Zulässigkeit, Klagegrund, Dringlichkeit oder Schaden wirklich tragen.
-6. Anlagenverzeichnis, Dateinamen, Seitenverweise und e-Curia-Uploadfolge so aufbauen, dass Gericht, Kanzlei und Gegenseite dieselbe Fundstelle finden.
-
-## 3. Normanker
-
-1. Verfahrensordnung des Gerichts Artikel 76: Klageschrift, Bezeichnung der Parteien, Streitgegenstand, Klagegründe, Anträge und Anlagenlogik.
-2. Verfahrensordnung des Gerichts Artikel 103: Behandlung vertraulicher Informationen oder Unterlagen im Rahmen von Beweisaufnahme und kontradiktorischem Verfahren.
-3. Satzung des Gerichtshofs Artikel 23: Vorlageverfahren, Beteiligte und schriftliche Erklärungen.
-4. Satzung des Gerichtshofs Artikel 40: Streitbeitritt und Schutz sensibler Akteninhalte gegenüber Streithelfern.
-5. Praktische Durchführungsbestimmungen und e-Curia-Regeln: elektronische Einreichung, Zustellung, Anlagenbezeichnung und Empfangskontrolle.
-
-## 4. Ausgabeformat
-
-| Abschnitt | Inhalt | Qualitätsgriff |
-| --- | --- | --- |
-| Anlagenmatrix | Anlage, Fundstelle, Zweck, Vertraulichkeitsstufe | jede Schwärzung bekommt Schutzgrund |
-| Nicht vertrauliche Fassung | Ersatztext, Zusammenfassung, Seitenverweis | Verteidigungsrechte nicht leerlaufen lassen |
-| Beweislinie | Tatsache, Beleg, Klagegrund, Gegenargument | nur entscheidungserhebliche Anlagen verwenden |
-| e-Curia-Check | Dateiname, Format, Reihenfolge, Empfang | Upload und Zustellung getrennt prüfen |
-| Nächster Schritt | Antrag, Nachforderung, Schwärzung oder Einreichung | konkretes Datum und Verantwortlicher |
-
-## 5. Schlusskontrolle
-
-1. Frist, Gericht, Verfahrenssprache und Uploadweg stehen oben.
-2. Vertrauliche und nicht vertrauliche Fassung sind eindeutig getrennt.
-3. Jede Schwärzung ist begründet und auf das Nötige begrenzt.
-4. Jede Anlage hat Aktenzeichen, Datum, Seitenverweis und Beweiszweck.
-5. Streithelfer-, Öffentlichkeits- und Gegenparteizugriff sind getrennt geprüft.
-6. Der Output ist als Anlagenverzeichnis, Antrag oder Kanzlei-Checkliste sofort weiterverwendbar.
-
----
-
 ## Skill: `kaltstart-verfahrensrouting`
 
 _Routet unionsprozessuale Mandate schnell auf Vorlage, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiligen Rechtsschutz oder Rechtsmittel und liefert sofort Fristen-, Zuständigkeits- und Dokumentenplan._
 
 # Kaltstart und Verfahrensrouting
-
-## 1. Sofortstart
-
-Beginne mit einem Arbeitsprodukt, nicht mit einer Materialinventur. Lege in fünf Sätzen fest: Parteirolle, Verfahrensart, Gericht, Frist und stärkster prozessualer Engpass. Wenn die Zuständigkeit zwischen Gerichtshof und Gericht offen ist, stelle zuerst die Zuständigkeitsfrage, dann erst die materielle Linie.
-
-## 2. Prüfraster
-
-1. Verfahrensart bestimmen: Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder Sonderweg EUIPO.
-2. Zuständigkeit und Spruchkörperlogik prüfen: Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht.
-3. Zulässigkeit sichern: Frist, anfechtbarer Akt, Klagebefugnis, Vertretung, Verfahrenssprache, Form und Anlagen.
-4. Begründetheit nur mit tragenden Klagegründen ausarbeiten: Zuständigkeit, wesentliche Formverletzung, Vertragsverletzung, Ermessensfehler, Verhältnismäßigkeit, Gleichbehandlung, Grundrechte.
-5. Gegenargumente der Union oder der Gegenpartei vorwegnehmen und mit Beleg, Norm und Risiko beantworten.
-6. Ausgabe als Fristenblatt, Schriftsatzgerüst, Vorlagefrage, Eilantrag, Rechtsmittelvermerk oder Mandantenmemo liefern.
-
-## 3. Normanker
-
-1. Art. 19 EUV als institutioneller Rechtsschutzrahmen.
-2. Art. 256, 258 bis 260, 263, 265, 267, 268, 278, 279 und 340 AEUV je nach Verfahrensart.
-3. Satzung des Gerichtshofs, insbesondere Art. 23, 40, 56 und 58.
-4. Verfahrensordnungen des Gerichtshofs und des Gerichts sowie Praktische Durchführungsbestimmungen.
-5. e-Curia-Regeln zu Einreichung, Zustellung und elektronischer Fristenkontrolle.
-
-## 4. Ausgabeformat
-
-| Abschnitt | Inhalt | Qualitätsgriff |
-| --- | --- | --- |
-| Kurzlage | Verfahrensart, Gericht, Frist, Rolle | keine materielle Prüfung ohne Zulässigkeit |
-| Zulässigkeit | Akt, Klagebefugnis, Form, Sprache | negative Punkte offen markieren |
-| Begründung | drei stärkste Klage- oder Verteidigungslinien | jede Linie mit Norm und Beleg |
-| Risiko | stärkstes Gegenargument und Beweisproblem | prozessuale Folgen nennen |
-| Nächster Schritt | Einreichung, Nachfrage, Entwurf oder Vergleich | konkretes Datum und Zuständigkeit |
-
-## 5. Schlusskontrolle
-
-1. Frist und Verfahrenssprache stehen oben.
-2. Gerichtshof und Gericht sind nicht vermischt.
-3. e-Curia, Anlagen und Zustellung sind praktisch vorbereitet.
-4. Kein Klagegrund bleibt ohne Normanker.
-5. Der Output ist unmittelbar weiterverwendbar.
-
----
-
-## Skill: `eugh-vorabentscheidung-art-267`
-
-_Entwickelt Vorlagefragen, Vorlagebeschluss, Parteivortrag und nationale Verfahrensstrategie nach Art. 267 AEUV, inklusive Entscheidungserheblichkeit, acte clair, acte éclairé und Vorlagepflicht letzter Instanzen._
-
-# Vorabentscheidung nach Art. 267 AEUV
-
-## 1. Sofortstart
-
-Beginne mit einem Arbeitsprodukt, nicht mit einer Materialinventur. Lege in fünf Sätzen fest: Parteirolle, Verfahrensart, Gericht, Frist und stärkster prozessualer Engpass. Wenn die Zuständigkeit zwischen Gerichtshof und Gericht offen ist, stelle zuerst die Zuständigkeitsfrage, dann erst die materielle Linie.
-
-## 2. Prüfraster
-
-1. Verfahrensart bestimmen: Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder Sonderweg EUIPO.
-2. Zuständigkeit und Spruchkörperlogik prüfen: Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht.
-3. Zulässigkeit sichern: Frist, anfechtbarer Akt, Klagebefugnis, Vertretung, Verfahrenssprache, Form und Anlagen.
-4. Begründetheit nur mit tragenden Klagegründen ausarbeiten: Zuständigkeit, wesentliche Formverletzung, Vertragsverletzung, Ermessensfehler, Verhältnismäßigkeit, Gleichbehandlung, Grundrechte.
-5. Gegenargumente der Union oder der Gegenpartei vorwegnehmen und mit Beleg, Norm und Risiko beantworten.
-6. Ausgabe als Fristenblatt, Schriftsatzgerüst, Vorlagefrage, Eilantrag, Rechtsmittelvermerk oder Mandantenmemo liefern.
-
-## 3. Normanker
-
-1. Art. 19 EUV als institutioneller Rechtsschutzrahmen.
-2. Art. 256, 258 bis 260, 263, 265, 267, 268, 278, 279 und 340 AEUV je nach Verfahrensart.
-3. Satzung des Gerichtshofs, insbesondere Art. 23, 40, 56 und 58.
-4. Verfahrensordnungen des Gerichtshofs und des Gerichts sowie Praktische Durchführungsbestimmungen.
-5. e-Curia-Regeln zu Einreichung, Zustellung und elektronischer Fristenkontrolle.
-
-## 4. Ausgabeformat
-
-| Abschnitt | Inhalt | Qualitätsgriff |
-| --- | --- | --- |
-| Kurzlage | Verfahrensart, Gericht, Frist, Rolle | keine materielle Prüfung ohne Zulässigkeit |
-| Zulässigkeit | Akt, Klagebefugnis, Form, Sprache | negative Punkte offen markieren |
-| Begründung | drei stärkste Klage- oder Verteidigungslinien | jede Linie mit Norm und Beleg |
-| Risiko | stärkstes Gegenargument und Beweisproblem | prozessuale Folgen nennen |
-| Nächster Schritt | Einreichung, Nachfrage, Entwurf oder Vergleich | konkretes Datum und Zuständigkeit |
-
-## 5. Schlusskontrolle
-
-1. Frist und Verfahrenssprache stehen oben.
-2. Gerichtshof und Gericht sind nicht vermischt.
-3. e-Curia, Anlagen und Zustellung sind praktisch vorbereitet.
-4. Kein Klagegrund bleibt ohne Normanker.
-5. Der Output ist unmittelbar weiterverwendbar.
-
----
-
-## Skill: `vertragsverletzung-art-258-260`
-
-_Ordnet Vertragsverletzungsverfahren nach Art. 258 bis 260 AEUV: Kommissionsbeschwerde, Vorverfahren, mit Gründen versehene Stellungnahme, Klage, Zwangsgeld und strategische Parallelverfahren._
-
-# Vertragsverletzungsverfahren
 
 ## 1. Sofortstart
 
@@ -518,58 +376,59 @@ Beginne mit einem Arbeitsprodukt, nicht mit einer Materialinventur. Lege in fün
 
 ---
 
-## Skill: `klagebefugnis-private-plaumann`
+## Skill: `vertraulichkeit-beweis-anlagen`
 
-_Prüft individuelle und unmittelbare Betroffenheit Privater nach Art. 263 AEUV, einschließlich Plaumann-Linie, regulatorischer Akt, Durchführungsmaßnahmen und Belegstrategie._
+_Steuert vertrauliche Fassungen, Anlagenverzeichnis, Geschäftsgeheimnisse, Beweisangebote, Aktenauszüge und Schwärzungen in Verfahren vor Gerichtshof, Gericht und Beschwerdekammern._
 
-# Klagebefugnis Privater
+# Vertraulichkeit, Beweis und Anlagen
 
 ## 1. Sofortstart
 
-Beginne mit einem Arbeitsprodukt, nicht mit einer Materialinventur. Lege in fünf Sätzen fest: Parteirolle, Verfahrensart, Gericht, Frist und stärkster prozessualer Engpass. Wenn die Zuständigkeit zwischen Gerichtshof und Gericht offen ist, stelle zuerst die Zuständigkeitsfrage, dann erst die materielle Linie.
+Beginne mit einer Anlagen- und Vertraulichkeitsmatrix, nicht mit einer allgemeinen Prozessübersicht. Lege zuerst fest: Gericht oder Beschwerdekammer, Verfahrensart, Einreichungsfrist, Parteirolle, Sprache, e-Curia-Status und ob eine vertrauliche Fassung, nicht vertrauliche Fassung oder Schwärzung benötigt wird.
 
 ## 2. Prüfraster
 
-1. Verfahrensart bestimmen: Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder Sonderweg EUIPO.
-2. Zuständigkeit und Spruchkörperlogik prüfen: Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht.
-3. Zulässigkeit sichern: Frist, anfechtbarer Akt, Klagebefugnis, Vertretung, Verfahrenssprache, Form und Anlagen.
-4. Begründetheit nur mit tragenden Klagegründen ausarbeiten: Zuständigkeit, wesentliche Formverletzung, Vertragsverletzung, Ermessensfehler, Verhältnismäßigkeit, Gleichbehandlung, Grundrechte.
-5. Gegenargumente der Union oder der Gegenpartei vorwegnehmen und mit Beleg, Norm und Risiko beantworten.
-6. Ausgabe als Fristenblatt, Schriftsatzgerüst, Vorlagefrage, Eilantrag, Rechtsmittelvermerk oder Mandantenmemo liefern.
+1. Verfahren und Aktenlage trennen: Vorabentscheidung, direkte Klage, Rechtsmittel, einstweiliger Rechtsschutz, Intervention oder EUIPO-Folgeweg.
+2. Jede Anlage klassifizieren: öffentlich einreichbar, vertraulich gegenüber der Öffentlichkeit, vertraulich gegenüber Streithelfern, vertraulich gegenüber einer Hauptpartei oder sicherheitsbezogen.
+3. Für jede Schwärzung den Schutzgrund notieren: Geschäftsgeheimnis, personenbezogenes Datum, Ermittlungs- oder Sicherheitsbezug, internes Entscheidungsdokument oder nicht entscheidungserheblicher Randinhalt.
+4. Zu jeder geschwärzten Passage eine nicht vertrauliche Ersatzfassung formulieren, damit der kontradiktorische Kern gewahrt bleibt.
+5. Beweisangebote und Aktenauszüge nur so weit in den Schriftsatz ziehen, wie sie für Zulässigkeit, Klagegrund, Dringlichkeit oder Schaden wirklich tragen.
+6. Anlagenverzeichnis, Dateinamen, Seitenverweise und e-Curia-Uploadfolge so aufbauen, dass Gericht, Kanzlei und Gegenseite dieselbe Fundstelle finden.
 
 ## 3. Normanker
 
-1. Art. 19 EUV als institutioneller Rechtsschutzrahmen.
-2. Art. 256, 258 bis 260, 263, 265, 267, 268, 278, 279 und 340 AEUV je nach Verfahrensart.
-3. Satzung des Gerichtshofs, insbesondere Art. 23, 40, 56 und 58.
-4. Verfahrensordnungen des Gerichtshofs und des Gerichts sowie Praktische Durchführungsbestimmungen.
-5. e-Curia-Regeln zu Einreichung, Zustellung und elektronischer Fristenkontrolle.
+1. Verfahrensordnung des Gerichts Artikel 76: Klageschrift, Bezeichnung der Parteien, Streitgegenstand, Klagegründe, Anträge und Anlagenlogik.
+2. Verfahrensordnung des Gerichts Artikel 103: Behandlung vertraulicher Informationen oder Unterlagen im Rahmen von Beweisaufnahme und kontradiktorischem Verfahren.
+3. Satzung des Gerichtshofs Artikel 23: Vorlageverfahren, Beteiligte und schriftliche Erklärungen.
+4. Satzung des Gerichtshofs Artikel 40: Streitbeitritt und Schutz sensibler Akteninhalte gegenüber Streithelfern.
+5. Praktische Durchführungsbestimmungen und e-Curia-Regeln: elektronische Einreichung, Zustellung, Anlagenbezeichnung und Empfangskontrolle.
 
 ## 4. Ausgabeformat
 
 | Abschnitt | Inhalt | Qualitätsgriff |
 | --- | --- | --- |
-| Kurzlage | Verfahrensart, Gericht, Frist, Rolle | keine materielle Prüfung ohne Zulässigkeit |
-| Zulässigkeit | Akt, Klagebefugnis, Form, Sprache | negative Punkte offen markieren |
-| Begründung | drei stärkste Klage- oder Verteidigungslinien | jede Linie mit Norm und Beleg |
-| Risiko | stärkstes Gegenargument und Beweisproblem | prozessuale Folgen nennen |
-| Nächster Schritt | Einreichung, Nachfrage, Entwurf oder Vergleich | konkretes Datum und Zuständigkeit |
+| Anlagenmatrix | Anlage, Fundstelle, Zweck, Vertraulichkeitsstufe | jede Schwärzung bekommt Schutzgrund |
+| Nicht vertrauliche Fassung | Ersatztext, Zusammenfassung, Seitenverweis | Verteidigungsrechte nicht leerlaufen lassen |
+| Beweislinie | Tatsache, Beleg, Klagegrund, Gegenargument | nur entscheidungserhebliche Anlagen verwenden |
+| e-Curia-Check | Dateiname, Format, Reihenfolge, Empfang | Upload und Zustellung getrennt prüfen |
+| Nächster Schritt | Antrag, Nachforderung, Schwärzung oder Einreichung | konkretes Datum und Verantwortlicher |
 
 ## 5. Schlusskontrolle
 
-1. Frist und Verfahrenssprache stehen oben.
-2. Gerichtshof und Gericht sind nicht vermischt.
-3. e-Curia, Anlagen und Zustellung sind praktisch vorbereitet.
-4. Kein Klagegrund bleibt ohne Normanker.
-5. Der Output ist unmittelbar weiterverwendbar.
+1. Frist, Gericht, Verfahrenssprache und Uploadweg stehen oben.
+2. Vertrauliche und nicht vertrauliche Fassung sind eindeutig getrennt.
+3. Jede Schwärzung ist begründet und auf das Nötige begrenzt.
+4. Jede Anlage hat Aktenzeichen, Datum, Seitenverweis und Beweiszweck.
+5. Streithelfer-, Öffentlichkeits- und Gegenparteizugriff sind getrennt geprüft.
+6. Der Output ist als Anlagenverzeichnis, Antrag oder Kanzlei-Checkliste sofort weiterverwendbar.
 
 ---
 
-## Skill: `amtshaftung-art-268-340`
+## Skill: `einstweiliger-rechtsschutz-art-278-279`
 
-_Prüft Schadensersatzklagen wegen außervertraglicher Haftung der Union nach Art. 268 und 340 AEUV mit qualifiziertem Rechtsverstoß, Schaden, Kausalität und Bezifferung._
+_Für Einstweiliger Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Europäisches Prozessrecht._
 
-# Unionsamtshaftung
+# Einstweiliger Rechtsschutz
 
 ## 1. Sofortstart
 
@@ -758,6 +617,147 @@ Beginne mit einem Arbeitsprodukt, nicht mit einer Materialinventur. Lege in fün
 _Bereitet mündliche Verhandlung, Richterfragen, Minutenplan, Sprachfassung, Replikpunkte und Entscheidungsbitten vor, ohne die schriftliche Linie zu verlassen._
 
 # Mündliche Verhandlung und Plädoyer
+
+## 1. Sofortstart
+
+Beginne mit einem Arbeitsprodukt, nicht mit einer Materialinventur. Lege in fünf Sätzen fest: Parteirolle, Verfahrensart, Gericht, Frist und stärkster prozessualer Engpass. Wenn die Zuständigkeit zwischen Gerichtshof und Gericht offen ist, stelle zuerst die Zuständigkeitsfrage, dann erst die materielle Linie.
+
+## 2. Prüfraster
+
+1. Verfahrensart bestimmen: Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder Sonderweg EUIPO.
+2. Zuständigkeit und Spruchkörperlogik prüfen: Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht.
+3. Zulässigkeit sichern: Frist, anfechtbarer Akt, Klagebefugnis, Vertretung, Verfahrenssprache, Form und Anlagen.
+4. Begründetheit nur mit tragenden Klagegründen ausarbeiten: Zuständigkeit, wesentliche Formverletzung, Vertragsverletzung, Ermessensfehler, Verhältnismäßigkeit, Gleichbehandlung, Grundrechte.
+5. Gegenargumente der Union oder der Gegenpartei vorwegnehmen und mit Beleg, Norm und Risiko beantworten.
+6. Ausgabe als Fristenblatt, Schriftsatzgerüst, Vorlagefrage, Eilantrag, Rechtsmittelvermerk oder Mandantenmemo liefern.
+
+## 3. Normanker
+
+1. Art. 19 EUV als institutioneller Rechtsschutzrahmen.
+2. Art. 256, 258 bis 260, 263, 265, 267, 268, 278, 279 und 340 AEUV je nach Verfahrensart.
+3. Satzung des Gerichtshofs, insbesondere Art. 23, 40, 56 und 58.
+4. Verfahrensordnungen des Gerichtshofs und des Gerichts sowie Praktische Durchführungsbestimmungen.
+5. e-Curia-Regeln zu Einreichung, Zustellung und elektronischer Fristenkontrolle.
+
+## 4. Ausgabeformat
+
+| Abschnitt | Inhalt | Qualitätsgriff |
+| --- | --- | --- |
+| Kurzlage | Verfahrensart, Gericht, Frist, Rolle | keine materielle Prüfung ohne Zulässigkeit |
+| Zulässigkeit | Akt, Klagebefugnis, Form, Sprache | negative Punkte offen markieren |
+| Begründung | drei stärkste Klage- oder Verteidigungslinien | jede Linie mit Norm und Beleg |
+| Risiko | stärkstes Gegenargument und Beweisproblem | prozessuale Folgen nennen |
+| Nächster Schritt | Einreichung, Nachfrage, Entwurf oder Vergleich | konkretes Datum und Zuständigkeit |
+
+## 5. Schlusskontrolle
+
+1. Frist und Verfahrenssprache stehen oben.
+2. Gerichtshof und Gericht sind nicht vermischt.
+3. e-Curia, Anlagen und Zustellung sind praktisch vorbereitet.
+4. Kein Klagegrund bleibt ohne Normanker.
+5. Der Output ist unmittelbar weiterverwendbar.
+
+---
+
+## Skill: `rechtsmittel-eug-eugh`
+
+_Prüft Rechtsmittel gegen Urteile des Gerichts der Europäischen Union: Rechtsfragen, Zulässigkeit, Klagegründe, keine neue Tatsacheninstanz, Frist und Antrag._
+
+# Rechtsmittel vom EuG zum EuGH
+
+## 1. Sofortstart
+
+Beginne mit einem Arbeitsprodukt, nicht mit einer Materialinventur. Lege in fünf Sätzen fest: Parteirolle, Verfahrensart, Gericht, Frist und stärkster prozessualer Engpass. Wenn die Zuständigkeit zwischen Gerichtshof und Gericht offen ist, stelle zuerst die Zuständigkeitsfrage, dann erst die materielle Linie.
+
+## 2. Prüfraster
+
+1. Verfahrensart bestimmen: Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder Sonderweg EUIPO.
+2. Zuständigkeit und Spruchkörperlogik prüfen: Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht.
+3. Zulässigkeit sichern: Frist, anfechtbarer Akt, Klagebefugnis, Vertretung, Verfahrenssprache, Form und Anlagen.
+4. Begründetheit nur mit tragenden Klagegründen ausarbeiten: Zuständigkeit, wesentliche Formverletzung, Vertragsverletzung, Ermessensfehler, Verhältnismäßigkeit, Gleichbehandlung, Grundrechte.
+5. Gegenargumente der Union oder der Gegenpartei vorwegnehmen und mit Beleg, Norm und Risiko beantworten.
+6. Ausgabe als Fristenblatt, Schriftsatzgerüst, Vorlagefrage, Eilantrag, Rechtsmittelvermerk oder Mandantenmemo liefern.
+
+## 3. Normanker
+
+1. Art. 19 EUV als institutioneller Rechtsschutzrahmen.
+2. Art. 256, 258 bis 260, 263, 265, 267, 268, 278, 279 und 340 AEUV je nach Verfahrensart.
+3. Satzung des Gerichtshofs, insbesondere Art. 23, 40, 56 und 58.
+4. Verfahrensordnungen des Gerichtshofs und des Gerichts sowie Praktische Durchführungsbestimmungen.
+5. e-Curia-Regeln zu Einreichung, Zustellung und elektronischer Fristenkontrolle.
+
+## 4. Ausgabeformat
+
+| Abschnitt | Inhalt | Qualitätsgriff |
+| --- | --- | --- |
+| Kurzlage | Verfahrensart, Gericht, Frist, Rolle | keine materielle Prüfung ohne Zulässigkeit |
+| Zulässigkeit | Akt, Klagebefugnis, Form, Sprache | negative Punkte offen markieren |
+| Begründung | drei stärkste Klage- oder Verteidigungslinien | jede Linie mit Norm und Beleg |
+| Risiko | stärkstes Gegenargument und Beweisproblem | prozessuale Folgen nennen |
+| Nächster Schritt | Einreichung, Nachfrage, Entwurf oder Vergleich | konkretes Datum und Zuständigkeit |
+
+## 5. Schlusskontrolle
+
+1. Frist und Verfahrenssprache stehen oben.
+2. Gerichtshof und Gericht sind nicht vermischt.
+3. e-Curia, Anlagen und Zustellung sind praktisch vorbereitet.
+4. Kein Klagegrund bleibt ohne Normanker.
+5. Der Output ist unmittelbar weiterverwendbar.
+
+---
+
+## Skill: `kosten-und-prozessrisiko`
+
+_Erstellt Kosten-, Dauer- und Risikomatrix für unionsprozessuale Verfahren, inklusive Vergleichsfenster, reputationssensibler Punkte und Folgeentscheidungen._
+
+# Kosten und Prozessrisiko
+
+## 1. Sofortstart
+
+Beginne mit einem Arbeitsprodukt, nicht mit einer Materialinventur. Lege in fünf Sätzen fest: Parteirolle, Verfahrensart, Gericht, Frist und stärkster prozessualer Engpass. Wenn die Zuständigkeit zwischen Gerichtshof und Gericht offen ist, stelle zuerst die Zuständigkeitsfrage, dann erst die materielle Linie.
+
+## 2. Prüfraster
+
+1. Verfahrensart bestimmen: Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder Sonderweg EUIPO.
+2. Zuständigkeit und Spruchkörperlogik prüfen: Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht.
+3. Zulässigkeit sichern: Frist, anfechtbarer Akt, Klagebefugnis, Vertretung, Verfahrenssprache, Form und Anlagen.
+4. Begründetheit nur mit tragenden Klagegründen ausarbeiten: Zuständigkeit, wesentliche Formverletzung, Vertragsverletzung, Ermessensfehler, Verhältnismäßigkeit, Gleichbehandlung, Grundrechte.
+5. Gegenargumente der Union oder der Gegenpartei vorwegnehmen und mit Beleg, Norm und Risiko beantworten.
+6. Ausgabe als Fristenblatt, Schriftsatzgerüst, Vorlagefrage, Eilantrag, Rechtsmittelvermerk oder Mandantenmemo liefern.
+
+## 3. Normanker
+
+1. Art. 19 EUV als institutioneller Rechtsschutzrahmen.
+2. Art. 256, 258 bis 260, 263, 265, 267, 268, 278, 279 und 340 AEUV je nach Verfahrensart.
+3. Satzung des Gerichtshofs, insbesondere Art. 23, 40, 56 und 58.
+4. Verfahrensordnungen des Gerichtshofs und des Gerichts sowie Praktische Durchführungsbestimmungen.
+5. e-Curia-Regeln zu Einreichung, Zustellung und elektronischer Fristenkontrolle.
+
+## 4. Ausgabeformat
+
+| Abschnitt | Inhalt | Qualitätsgriff |
+| --- | --- | --- |
+| Kurzlage | Verfahrensart, Gericht, Frist, Rolle | keine materielle Prüfung ohne Zulässigkeit |
+| Zulässigkeit | Akt, Klagebefugnis, Form, Sprache | negative Punkte offen markieren |
+| Begründung | drei stärkste Klage- oder Verteidigungslinien | jede Linie mit Norm und Beleg |
+| Risiko | stärkstes Gegenargument und Beweisproblem | prozessuale Folgen nennen |
+| Nächster Schritt | Einreichung, Nachfrage, Entwurf oder Vergleich | konkretes Datum und Zuständigkeit |
+
+## 5. Schlusskontrolle
+
+1. Frist und Verfahrenssprache stehen oben.
+2. Gerichtshof und Gericht sind nicht vermischt.
+3. e-Curia, Anlagen und Zustellung sind praktisch vorbereitet.
+4. Kein Klagegrund bleibt ohne Normanker.
+5. Der Output ist unmittelbar weiterverwendbar.
+
+---
+
+## Skill: `schriftsatzbau-eugh-eug`
+
+_Erstellt Klage, Klagebeantwortung, Streithilfeschriftsatz, Rechtsmittel, Antrag auf einstweilige Anordnung und mündliche Notes im Stil der Unionsgerichte._
+
+# Schriftsatzbau EuGH und EuG
 
 ## 1. Sofortstart
 

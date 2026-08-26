@@ -1,6 +1,6 @@
 ---
 name: 009-geldwaeschepruefung-immobilientransaktion-wirtschaf
-description: "Wenn es um Geldwaeschepruefung Immobilientransaktion Wirtschaf in Notariat im Alltag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Geldwäscheprüfung Immobilientransaktion Wirtschaf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Notariat im Alltag: Geldwäscheprüfung – Immobilientransaktion, wirtschaftlich Berechtigter, Risikoklassifizierung

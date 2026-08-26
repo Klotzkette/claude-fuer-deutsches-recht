@@ -1,6 +1,6 @@
 ---
 name: gebrauchsmuster-kaltstart-interview
-description: "Wenn es um Gebrauchsmuster Kaltstart Interview in gebrauchsmusterrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Gebrauchsmuster Kaltstart Interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gebrauchsmuster Kaltstart Interview

@@ -1,6 +1,6 @@
 ---
 name: bgb-at-fallaufnahme-und-pruefprogramm
-description: "Wenn es um Bgb At Fallaufnahme Und Pruefprogramm in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BGB At Fallaufnahme und Prüfprogramm: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bgb At Fallaufnahme Und Pruefprogramm

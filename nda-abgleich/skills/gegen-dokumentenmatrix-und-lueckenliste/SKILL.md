@@ -1,6 +1,6 @@
 ---
 name: gegen-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Gegen: Dokumentenmatrix, Lückenliste und Nachforderung in NDA-Abgleich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Gegen Dokumentenmatrix Und Lückenliste; Arbeitsfeld: NDA-Abgleich."
+description: "Für Gegen: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Gegen: Dokumentenmatrix, Lückenliste und Nachforderung

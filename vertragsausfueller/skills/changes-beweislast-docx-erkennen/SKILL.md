@@ -1,6 +1,6 @@
 ---
 name: changes-beweislast-docx-erkennen
-description: "Wenn es um Changes: Beweislast, Darlegungslast und Substantiierung in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Changes: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Changes: Beweislast, Darlegungslast und Substantiierung

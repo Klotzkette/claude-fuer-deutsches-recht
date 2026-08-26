@@ -1,6 +1,6 @@
 ---
 name: spin-short
-description: "Wenn es um Spin-off – Insiderrecht bei Unternehmensabspaltungen in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Spin-off – Insiderrecht bei Unternehmensabspaltungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spin-off – Insiderrecht bei Unternehmensabspaltungen

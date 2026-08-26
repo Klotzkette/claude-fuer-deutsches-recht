@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-unbundling-entflechtung-stellungnahme-e
-description: "Wenn es um Energie-Regulierungsakte: Unbundling Entflechtung — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie-Regulierungsakte: Unbundling Entflechtung — Stellungnahme-Entwurf: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: Unbundling Entflechtung — Stellungnahme-Entwurf

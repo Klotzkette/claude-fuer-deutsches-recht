@@ -1,6 +1,6 @@
 ---
 name: space-029-insolvenz-satellitenbetreiber-nutzlast-frequenz
-description: "Wenn es um Weltraumrecht: Insolvenz eines Satellitenbetreibers Nutzlast Frequenz und Betrieb in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Insolvenz eines Satellitenbetreibers Nutzlast Frequenz und Betrieb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Insolvenz eines Satellitenbetreibers Nutzlast Frequenz und Betrieb

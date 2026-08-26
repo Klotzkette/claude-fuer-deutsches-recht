@@ -1,6 +1,6 @@
 ---
 name: muendliche-pruefung-protokoll
-description: "Wenn es um Mündliche Prüfung Protokoll in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mündliche Prüfung Protokoll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Mündliche Prüfung Protokoll

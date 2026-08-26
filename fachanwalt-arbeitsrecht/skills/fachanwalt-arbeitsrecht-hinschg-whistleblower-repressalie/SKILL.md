@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie
-description: "Wenn es um HinSchG-Whistleblower-Schutz gegen Repressalie in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HinSchG-Whistleblower-Schutz gegen Repressalie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HinSchG-Whistleblower-Schutz gegen Repressalie

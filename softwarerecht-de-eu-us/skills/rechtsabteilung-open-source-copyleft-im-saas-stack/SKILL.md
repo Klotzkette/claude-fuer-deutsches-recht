@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-open-source-copyleft-im-saas-stack
-description: "Wenn es um Rechtsabteilung: Open-Source-Copyleft im SaaS-Stack in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Open-Source-Copyleft im SaaS-Stack: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Open-Source-Copyleft im SaaS-Stack

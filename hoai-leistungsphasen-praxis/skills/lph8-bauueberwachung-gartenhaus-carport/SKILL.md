@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-gartenhaus-carport
-description: "Wenn es um Bauueberwachung Gartenhaus und Carport (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Gartenhaus und Carport (LPH 8): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Gartenhaus und Carport (LPH 8)

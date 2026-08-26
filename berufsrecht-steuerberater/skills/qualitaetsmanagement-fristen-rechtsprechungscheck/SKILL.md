@@ -1,6 +1,6 @@
 ---
 name: qualitaetsmanagement-fristen-rechtsprechungscheck
-description: "Wenn es um Qualitaetsmanagement Fristen Rechtsprechungscheck in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätsmanagement Fristen Rechtsprechungscheck: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Steuerberater: qualitaetsmanagement fristen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

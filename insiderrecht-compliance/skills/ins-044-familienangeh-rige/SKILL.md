@@ -1,6 +1,6 @@
 ---
 name: ins-044-familienangeh-rige
-description: "Wenn es um Insiderrecht: Familienangehörige in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Insiderrecht: Familienangehörige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Familienangehörige

@@ -1,6 +1,6 @@
 ---
 name: arbeitspapiere-netzwerk-qualitaetskontrolle
-description: "Wenn es um Arbeitspapiere Netzwerk Qualitaetskontrolle in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitspapiere Netzwerk Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: mangelhafte arbeitspapiere - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: schuldschein-transfer
-description: "Wenn es um Übertragung von Schuldscheindarlehen in Private Equity Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Übertragung von Schuldscheindarlehen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Übertragung von Schuldscheindarlehen

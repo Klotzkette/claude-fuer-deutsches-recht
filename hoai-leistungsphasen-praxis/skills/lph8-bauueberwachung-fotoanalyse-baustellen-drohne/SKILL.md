@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-fotoanalyse-baustellen-drohne
-description: "Wenn es um Fotoanalyse Baustellen-Drohne in der Bauueberwachung LPH 8 in HOAI Leistungsphasen Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Fotoanalyse Baustellen-Drohne in der Bauüberwachung LPH 8: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fotoanalyse Baustellen-Drohne in der Bauueberwachung LPH 8

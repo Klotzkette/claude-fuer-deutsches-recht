@@ -1,6 +1,6 @@
 ---
 name: euveca-eltif-und-vc-fonds
-description: "Wenn es um EuVECA, ELTIF und VC-Fonds in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EuVECA, ELTIF und VC-Fonds: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EuVECA, ELTIF und VC-Fonds

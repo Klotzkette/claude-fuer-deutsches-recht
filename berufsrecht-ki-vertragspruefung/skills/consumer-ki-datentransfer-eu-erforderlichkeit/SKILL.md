@@ -1,6 +1,6 @@
 ---
 name: consumer-ki-datentransfer-eu-erforderlichkeit
-description: "Wenn es um Consumer-digitale Werkzeuge vs. Paragraf-43e-Dienstleister in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Consumer Ki Datentransfer EU Erforderlichkeit; Arbeitsfeld: anwaltlichem Berufsrecht und Vertragsprüfung."
+description: "Für Consumer-digitale Werkzeuge vs. Paragraf-43e-Dienstleister: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Consumer-KI vs. §-43e-Dienstleister

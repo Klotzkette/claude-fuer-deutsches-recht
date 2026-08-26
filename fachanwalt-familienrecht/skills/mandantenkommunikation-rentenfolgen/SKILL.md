@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation-rentenfolgen
-description: "Wenn es um Mandantenkommunikation Rentenfolgen in Fachanwalt Familienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Mandantenkommunikation Rentenfolgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Mandantenkommunikation Rentenfolgen.

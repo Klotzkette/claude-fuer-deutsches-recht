@@ -1,6 +1,6 @@
 ---
 name: stadtwerke-kontrolle-sichern
-description: "Wenn es um Stadtwerke Kontrolle Sichern in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stadtwerke Kontrolle Sichern: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Stadtwerke Kontrolle Sichern

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Informationsfreiheit und Presseauskunft - Allgemeiner Einstieg in Informationsfreiheit und Presseauskunft geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Informationsfreiheit und Presseauskunft - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Informationsfreiheit und Presseauskunft - Allgemeiner Einstieg

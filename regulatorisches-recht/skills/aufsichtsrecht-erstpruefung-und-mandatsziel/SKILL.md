@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrecht-erstpruefung-und-mandatsziel
-description: "Wenn es um Aufsichtsrecht: Erstprüfung, Rollenklärung und Mandatsziel in Regulatorisches Recht – Plugin für deutsches geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufsichtsrecht: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Aufsichtsrecht: Erstprüfung, Rollenklärung und Mandatsziel

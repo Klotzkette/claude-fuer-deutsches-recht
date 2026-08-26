@@ -1,6 +1,6 @@
 ---
 name: vowi-bussgeldbescheid-pruefung-bauleiter
-description: "Wenn es um VOWi: Bussgeldbescheid-Pruefung in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für VOWi: Bussgeldbescheid-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # VOWi: Bussgeldbescheid-Pruefung

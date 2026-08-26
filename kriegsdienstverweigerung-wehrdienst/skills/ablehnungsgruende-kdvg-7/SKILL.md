@@ -1,6 +1,6 @@
 ---
 name: ablehnungsgruende-kdvg-7
-description: "Wenn es um Ablehnungsgründe Paragraf 7 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ablehnungsgründe Paragraf 7 KDVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ablehnungsgründe § 7 KDVG

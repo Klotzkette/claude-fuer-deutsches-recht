@@ -1,6 +1,6 @@
 ---
 name: individualabrede-305b
-description: "Wenn es um Individualabrede 305b in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Individualabrede 305b: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Individualabrede 305b

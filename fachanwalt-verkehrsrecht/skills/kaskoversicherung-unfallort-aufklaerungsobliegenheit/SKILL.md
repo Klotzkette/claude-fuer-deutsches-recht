@@ -1,6 +1,6 @@
 ---
 name: kaskoversicherung-unfallort-aufklaerungsobliegenheit
-description: "Prüft Kaskoleistung nach Entfernen vom Unfallort oder fehlerhafter Schadenmeldung. Trennt Herbeiführung des Versicherungsfalls nach Paragraf 81 VVG von nachträglicher Aufklärungsobliegenheit nach Paragraf 28 VVG und liefert AKB-Prüfung, Kausalitätsgegenbeweis und Deckungsklage."
+description: "Prüft Kaskoleistung nach Entfernen vom Unfallort oder fehlerhafter Schadenmeldung."
 ---
 
 # Kaskoleistung und Aufklärungsobliegenheit prüfen

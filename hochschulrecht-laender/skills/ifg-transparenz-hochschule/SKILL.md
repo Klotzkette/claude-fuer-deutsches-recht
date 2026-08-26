@@ -1,6 +1,6 @@
 ---
 name: ifg-transparenz-hochschule
-description: "Wenn es um IFG und Transparenz Hochschule in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IFG und Transparenz Hochschule: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IFG und Transparenz Hochschule

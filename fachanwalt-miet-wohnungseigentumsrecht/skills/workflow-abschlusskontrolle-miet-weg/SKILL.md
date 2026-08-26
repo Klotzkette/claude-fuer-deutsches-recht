@@ -1,6 +1,6 @@
 ---
 name: workflow-abschlusskontrolle-miet-weg
-description: "Wenn es um Abschlusskontrolle Miet/WEG: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Abschlusskontrolle Miet/WEG: Prüfungslinie für Miet- und WEG-Recht: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Abschlusskontrolle Miet/WEG: Prüfungslinie für Miet- und WEG-Recht

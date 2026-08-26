@@ -1,6 +1,6 @@
 ---
 name: orbit-slot-verwertung-sicherheiten-und-streit
-description: "Wenn es um Weltraumrecht: Orbit-Slot: Verwertung, Sicherheiten und Streit in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Orbit-Slot: Verwertung, Sicherheiten und Streit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Orbit-Slot: Verwertung, Sicherheiten und Streit

@@ -1,6 +1,6 @@
 ---
 name: vertriebsvertraege-fristen-form-und-zustaendigkeit
-description: "Wenn es um Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertriebsverträge: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg

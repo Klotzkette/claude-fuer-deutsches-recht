@@ -1,6 +1,6 @@
 ---
 name: markterkundung-und-vorbefassung
-description: "Wenn es um Markterkundung Und Vorbefassung in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Markterkundung und Vorbefassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Markterkundung, Vorbefassung und Interessenkonflikte rechtssicher steuern: zulaessige Informationsgewinnung, Ausgleichsmassnahmen, Dokumentation und Rugeabwehr.

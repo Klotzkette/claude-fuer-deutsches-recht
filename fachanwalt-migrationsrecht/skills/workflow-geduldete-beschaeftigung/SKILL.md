@@ -1,6 +1,6 @@
 ---
 name: workflow-geduldete-beschaeftigung
-description: "Wenn es um Geduldete Beschäftigung: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geduldete Beschäftigung: Prüfungslinie für Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geduldete Beschäftigung: Prüfungslinie für Migrationsrecht

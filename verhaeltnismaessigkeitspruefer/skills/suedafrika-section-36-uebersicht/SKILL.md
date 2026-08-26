@@ -1,6 +1,6 @@
 ---
 name: suedafrika-section-36-uebersicht
-description: "Wenn es um Suedafrika Section 36 Übersicht in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Südafrika Section 36 Übersicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Suedafrika Section 36 Übersicht

@@ -1,6 +1,6 @@
 ---
 name: mandat-aus-krypto-transaktionen-kammerantwort
-description: "Wenn es um Mandat Aus Krypto Transaktionen Kammerantwort in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Mandat aus Krypto Transaktionen Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: mandat aus krypto transaktionen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

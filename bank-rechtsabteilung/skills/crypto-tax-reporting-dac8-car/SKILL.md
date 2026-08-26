@@ -1,6 +1,6 @@
 ---
 name: crypto-tax-reporting-dac8-car
-description: "Wenn es um Krypto-Steuerreporting DAC8 in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Krypto-Steuerreporting DAC8: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krypto-Steuerreporting DAC8

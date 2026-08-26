@@ -1,6 +1,6 @@
 ---
 name: notariat-042-urkundensammlung-aufbewahrung-ausfertigung
-description: "Wenn es um Notariat im Alltag: Urkundensammlung Aufbewahrung Ausfertigung beglaubigte Abschrift in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Urkundensammlung Aufbewahrung Ausfertigung beglaubigte Abschrift: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Urkundensammlung Aufbewahrung Ausfertigung beglaubigte Abschrift

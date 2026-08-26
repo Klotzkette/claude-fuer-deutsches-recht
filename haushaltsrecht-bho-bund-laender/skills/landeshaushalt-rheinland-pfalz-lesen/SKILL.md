@@ -1,6 +1,6 @@
 ---
 name: landeshaushalt-rheinland-pfalz-lesen
-description: "Wenn es um Landeshaushalt Rheinland Pfalz Lesen in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Landeshaushalt Rheinland Pfalz Lesen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landeshaushalt Rheinland Pfalz Lesen

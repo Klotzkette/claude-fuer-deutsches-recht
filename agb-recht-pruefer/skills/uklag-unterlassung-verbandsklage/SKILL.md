@@ -1,6 +1,6 @@
 ---
 name: uklag-unterlassung-verbandsklage
-description: "Wenn es um UKlaG Unterlassung Verbandsklage in AGB-Recht-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für UKlaG Unterlassung Verbandsklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # UKlaG Unterlassung Verbandsklage

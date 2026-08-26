@@ -1,6 +1,6 @@
 ---
 name: wesentlichkeitstheorie-parlamentsvorbehalt
-description: "Wenn es um Wesentlichkeitstheorie und Parlamentsvorbehalt in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wesentlichkeitstheorie und Parlamentsvorbehalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wesentlichkeitstheorie und Parlamentsvorbehalt

@@ -1,6 +1,6 @@
 ---
 name: faktencheck-quellenmatrix
-description: "Wenn es um Faktencheck Quellenmatrix in Juristische Presseberichterstattung geht: baut eine Quellenmatrix für jede Tatsachenbehauptung, priorisiert Lücken und markiert Formulierungsrisiken."
+description: "Für Faktencheck Quellenmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Faktencheck Quellenmatrix

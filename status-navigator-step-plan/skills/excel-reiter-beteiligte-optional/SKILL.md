@@ -1,6 +1,6 @@
 ---
 name: excel-reiter-beteiligte-optional
-description: "Wenn es um Optionaler Reiter Beteiligte in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Optionaler Reiter Beteiligte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Optionaler Reiter Beteiligte

@@ -1,6 +1,6 @@
 ---
 name: tr3d-pruefkategorien-bauleiter
-description: "Wenn es um TR3D: Prüfkategorien Bauleiter in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tr3d Pruefkategorien Bauleiter; Arbeitsfeld: Tabellenreview 3D."
+description: "Für TR3D: Prüfkategorien Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tabellenreview 3D. Route: tr3d-pruefkategorien-bauleiter."
 ---
 
 # TR3D: Prüfkategorien Bauleiter

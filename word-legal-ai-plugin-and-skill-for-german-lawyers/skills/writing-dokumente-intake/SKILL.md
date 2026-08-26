@@ -1,6 +1,6 @@
 ---
 name: writing-dokumente-intake
-description: "Wenn es um Dokumentenintake in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Dokumentenintake: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Word-Workflows für deutsche Juristen."
 ---
 
 # Dokumentenintake

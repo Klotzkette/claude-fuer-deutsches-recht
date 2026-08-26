@@ -1,6 +1,6 @@
 ---
 name: 01-eroeffnungsantrag-pruefen-insolvenz
-description: "Wenn es um 01 Eröffnungsantrag Prüfen Insolvenz in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 01 Eröffnungsantrag Prüfen Insolvenz: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # 01 Eröffnungsantrag Prüfen Insolvenz

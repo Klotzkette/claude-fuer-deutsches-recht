@@ -1,6 +1,6 @@
 ---
 name: finance-banking-dispute
-description: "Wenn es um Finance Disputes in commercial-courts-deutschland geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Finance Disputes: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finance Disputes

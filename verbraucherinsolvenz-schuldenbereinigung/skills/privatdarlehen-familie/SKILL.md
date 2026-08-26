@@ -1,6 +1,6 @@
 ---
 name: privatdarlehen-familie
-description: "Wenn es um Privatdarlehen Familie in Verbraucherinsolvenz und Schuldenbereinigung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Privatdarlehen Familie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote.

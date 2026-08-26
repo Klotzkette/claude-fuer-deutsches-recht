@@ -1,6 +1,6 @@
 ---
 name: dokumenteninkasso-retention-title
-description: "Wenn es um Dokumenteninkasso nach URC 522 in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Dokumenteninkasso nach URC 522: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumenteninkasso nach URC 522

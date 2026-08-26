@@ -1,6 +1,6 @@
 ---
 name: ablehnungsbescheid-angriffspunkte
-description: "Wenn es um Ablehnungsbescheid In Angriffspunkte Z in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ablehnungsbescheid in Angriffspunkte Z: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ablehnungsbescheid In Angriffspunkte Z

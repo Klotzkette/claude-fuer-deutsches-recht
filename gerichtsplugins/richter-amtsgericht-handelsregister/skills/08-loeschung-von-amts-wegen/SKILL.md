@@ -1,6 +1,6 @@
 ---
 name: 08-loeschung-von-amts-wegen
-description: "Wenn es um 08 Löschung Von Amts Wegen in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für 08 Löschung von Amts Wegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 08 Löschung Von Amts Wegen

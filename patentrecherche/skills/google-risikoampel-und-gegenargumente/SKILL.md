@@ -1,6 +1,6 @@
 ---
 name: google-risikoampel-und-gegenargumente
-description: "Wenn es um Google: Risikoampel, Gegenargumente und Verteidigungslinien in patentrecherche geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Google: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Google: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -1,6 +1,6 @@
 ---
 name: kapitalmarktrecht-fristen-form-und-zustaendigkeit
-description: "Wenn es um Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg

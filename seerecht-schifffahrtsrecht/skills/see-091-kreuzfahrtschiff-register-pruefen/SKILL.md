@@ -1,6 +1,6 @@
 ---
 name: see-091-kreuzfahrtschiff-register-pruefen
-description: "Wenn es um Kreuzfahrtschiff Register Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kreuzfahrtschiff Register Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Kreuzfahrtschiff Register Pruefen

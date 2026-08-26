@@ -1,6 +1,6 @@
 ---
 name: neu-005-deutscher-bund-1815-bundesakte-und-bundesbeschluesse
-description: "Wenn es um Deutsche Rechtsgeschichte: 005 Deutscher Bund 1815 Bundesakte Und Bundesbeschluesse in Deutsche Rechtsgeschichte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Deutsche Rechtsgeschichte: 005 Deutscher Bund 1815 Bundesakte und Bundesbeschlüsse: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: 005 Deutscher Bund 1815 Bundesakte Und Bundesbeschluesse

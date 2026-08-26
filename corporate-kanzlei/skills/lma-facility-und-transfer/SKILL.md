@@ -1,6 +1,6 @@
 ---
 name: lma-facility-und-transfer
-description: "Wenn es um Corporate: LMA Facility und Transfer in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Corporate: LMA Facility und Transfer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Corporate: LMA Facility und Transfer

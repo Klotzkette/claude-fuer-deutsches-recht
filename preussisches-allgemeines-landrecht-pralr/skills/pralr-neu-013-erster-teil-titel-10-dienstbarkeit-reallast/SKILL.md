@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-013-erster-teil-titel-10-dienstbarkeit-reallast
-description: "Wenn es um PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen in Preußisches Allgemeines Landrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen

@@ -1,6 +1,6 @@
 ---
 name: fristentracker-befristung-probezeit-visa
-description: "Wenn es um Fristentracker Befristung Probezeit Visa in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristentracker Befristung Probezeit Visa: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristentracker Befristung Probezeit Visa

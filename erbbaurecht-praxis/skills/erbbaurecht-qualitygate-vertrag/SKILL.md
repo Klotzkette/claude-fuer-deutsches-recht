@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-qualitygate-vertrag
-description: "Wenn es um Quality Gate Vertrag in Erbbaurecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quality Gate Vertrag: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Quality Gate Vertrag

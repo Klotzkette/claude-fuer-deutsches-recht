@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-konzern-und-cross-border
-description: "Wenn es um Sanierungsgewinn – Konzern und Cross-Border in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sanierungsgewinn Konzern Und Cross Border; Arbeitsfeld: Großkanzlei Corporate/M&A."
+description: "Für Sanierungsgewinn – Konzern und Cross-Border: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn – Konzern und Cross-Border
@@ -106,3 +106,7 @@ Drei Beobachtungen aus der internationalen Restrukturierungspraxis:
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
 - FG Köln, Urteil vom 04.11.2025 - 12 K 1413/25: Eine Steuerbefreiung nach Paragraf 3a EStG setzt den Nachweis von Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung, Sanierungsabsicht und betrieblicher Veranlassung des Schuldenerlasses voraus; die Eignung ist aus Sicht des Erlasszeitpunkts zu beurteilen.
 - BFH zur Konzern-Verlustnutzung – ständige Rspr.; bundesfinanzhof.de.
+
+## Vertiefung bei Bedarf
+
+- Bei `gk-sanierungsgewinn-konzern-und-cross-border` beziehungsweise Sanierungsgewinn – Konzern und Cross-Border: [die zusätzliche Vertiefung laden](./references/vertiefung-gk-sanierungsgewinn-konzern-und-cross-border.md).

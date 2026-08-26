@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-noetigung-240-stgb
-description: "Wenn es um Noetigung nach Paragraf 240 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nötigung nach Paragraf 240 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Noetigung nach § 240 StGB

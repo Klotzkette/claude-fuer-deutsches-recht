@@ -1,6 +1,6 @@
 ---
 name: titulierung-streckung-leitfaden
-description: "Wenn es um Titulierung und Streckung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Titulierung und Streckung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Titulierung und Streckung

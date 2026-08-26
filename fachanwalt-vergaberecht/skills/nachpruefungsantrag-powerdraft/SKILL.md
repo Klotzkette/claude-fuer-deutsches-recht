@@ -1,6 +1,6 @@
 ---
 name: nachpruefungsantrag-powerdraft
-description: "Wenn es um Nachpruefungsantrag Powerdraft in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachprüfungsantrag Powerdraft: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Nachpruefungsantrag als Powerdraft erstellen: Zulassung, Antragsbefugnis, Ruge, Fristen, Sachantraege, Akteneinsicht, Beweisangebote und Eilantraege.

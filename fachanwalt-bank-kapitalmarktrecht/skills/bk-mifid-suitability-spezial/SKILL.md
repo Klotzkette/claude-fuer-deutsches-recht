@@ -1,6 +1,6 @@
 ---
 name: bk-mifid-suitability-spezial
-description: "Wenn es um Bk Mifid Suitability Spezial in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bk Mifid Suitability Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall MiFID II Geeignetheits- und Angemessenheitspruefung: Anlegerprofil, Ziele, Risikobereitschaft, Verlusttragfaehigkeit

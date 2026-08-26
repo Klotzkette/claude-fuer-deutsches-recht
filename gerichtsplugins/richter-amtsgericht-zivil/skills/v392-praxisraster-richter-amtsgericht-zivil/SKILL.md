@@ -1,6 +1,6 @@
 ---
 name: v392-praxisraster-richter-amtsgericht-zivil
-description: "Wenn es um Praxisraster Amtsgericht Zivil in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Praxisraster Amtsgericht Zivil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praxisraster Amtsgericht Zivil

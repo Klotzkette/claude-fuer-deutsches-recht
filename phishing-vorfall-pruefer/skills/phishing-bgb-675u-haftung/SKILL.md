@@ -1,6 +1,6 @@
 ---
 name: phishing-bgb-675u-haftung
-description: "Wenn es um Paragraf 675u BGB Prüfraster in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Paragraf 675u BGB Prüfraster: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 675u BGB Prüfraster

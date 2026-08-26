@@ -1,6 +1,6 @@
 ---
 name: flugzeugleasing-mandantenmemo
-description: "Wenn es um Flugzeugleasing – Mandantenmemo schreiben in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Flugzeugleasing – Mandantenmemo schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Flugzeugleasing – Mandantenmemo schreiben

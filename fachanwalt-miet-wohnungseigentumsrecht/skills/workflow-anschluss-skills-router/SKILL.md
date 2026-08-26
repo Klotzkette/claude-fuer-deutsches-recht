@@ -1,6 +1,6 @@
 ---
 name: workflow-anschluss-skills-router
-description: "Wenn es um Anschluss-Skills Router in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anschluss-Skills Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Miet- und Wohnungseigentumsrecht."
 ---
 
 # Anschluss-Skills Router

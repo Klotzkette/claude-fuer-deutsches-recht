@@ -1,6 +1,6 @@
 ---
 name: art-4-ki-kompetenz-schulungsprogramm
-description: "Wenn es um Art. 4 europäischer Technikregulierungsrahmen — digitale Werkzeuge-Kompetenz als Compliance-Programm in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Art. 4 europäischer Technikregulierungsrahmen — digitale Werkzeuge-Kompetenz als Compliance-Programm: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Art. 4 KI-VO — KI-Kompetenz als Compliance-Programm

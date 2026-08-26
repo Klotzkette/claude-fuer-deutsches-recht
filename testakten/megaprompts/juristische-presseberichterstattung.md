@@ -7,26 +7,26 @@ Diese Vollprüfung enthält alle 21 Skills des Plugins `juristische-presseberich
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Juristische Presseberichterstattung ein juristisches Arbeitsprodukt tragfähig begründet werde…
-2. **familien-erbrecht-diskret-bericht** — Wenn es um Diskrete Berichterstattung Familienrecht und Erbrecht in Juristische Presseberichterstattung geht: hilft bei …
-3. **verdachtsberichterstattung-pruefung** — Wenn es um Verdachtsberichterstattung Prüfung in Juristische Presseberichterstattung geht: prüft Verdachtslage, Mindestb…
-4. **kaltstart-redaktionsauftrag** — Wenn es um Kaltstart Redaktionsauftrag in Juristische Presseberichterstattung geht: klärt Format, Quelle, Status, Betrof…
-5. **redaktionsschluss-qualitygate** — Wenn es um Redaktionsschluss Qualitygate in Juristische Presseberichterstattung geht: führt vor Veröffentlichung den Sch…
-6. **pressemitteilung-kanzlei-behoerde** — Wenn es um Pressemitteilung Kanzlei Behörde in Juristische Presseberichterstattung geht: erstellt sachliche Pressemittei…
-7. **verwaltungsgericht-politikrecht-bericht** — Wenn es um Verwaltungsgericht und Politikrecht Bericht in Juristische Presseberichterstattung geht: erstellt Berichte zu…
-8. **gerichtstermin-sitzungsbericht** — Wenn es um Gerichtstermin Sitzungsbericht in Juristische Presseberichterstattung geht: erstellt aus Terminsnotizen einen…
-9. **entscheidung-meldung-und-urteilsbericht** — Wenn es um Entscheidung Meldung und Urteilsbericht in Juristische Presseberichterstattung geht: macht aus Urteil, Beschl…
-10. **wirtschaftsverfahren-compliance-bericht** — Wenn es um Wirtschaftsverfahren Compliance Bericht in Juristische Presseberichterstattung geht: bereitet komplexe Wirtsc…
-11. **interview-fragekatalog-juristisch** — Wenn es um Interview Fragekatalog juristisch in Juristische Presseberichterstattung geht: entwickelt präzise Interviewfr…
-12. **korrektur-gegendarstellung-risiko** — Wenn es um Korrektur Gegendarstellung Risiko in Juristische Presseberichterstattung geht: prüft vor und nach Veröffentli…
-13. **persoenlichkeitsrecht-abwaegung** — Wenn es um Persönlichkeitsrecht Abwägung in Juristische Presseberichterstattung geht: ordnet Informationsinteresse und P…
-14. **strafverfahren-unschuldsvermutung** — Wenn es um Strafverfahren und Unschuldsvermutung in Juristische Presseberichterstattung geht: formuliert Strafverfahrens…
-15. **social-media-thread-recht** — Wenn es um Social Media Thread Recht in Juristische Presseberichterstattung geht: macht aus juristischem Material kurze …
-16. **bildunterschrift-foto-kug** — Wenn es um Bildunterschrift und Foto KUG in Juristische Presseberichterstattung geht: prüft Fotoauswahl, Bildunterschrif…
-17. **faq-explainer-rechtsfrage** — Wenn es um FAQ und Explainer Rechtsfrage in Juristische Presseberichterstattung geht: erklärt juristische Streitfragen a…
-18. **anonymisierung-identifizierbarkeit** — Wenn es um Anonymisierung und Identifizierbarkeit in Juristische Presseberichterstattung geht: entwirft Anonymisierung, …
-19. **liveblog-ticker-gericht** — Wenn es um Liveblog Ticker Gericht in Juristische Presseberichterstattung geht: strukturiert Liveblog oder Ticker aus Ge…
-20. **faktencheck-quellenmatrix** — Wenn es um Faktencheck Quellenmatrix in Juristische Presseberichterstattung geht: baut eine Quellenmatrix für jede Tatsa…
-21. **headline-und-vorspann** — Wenn es um Headline und Vorspann in Juristische Presseberichterstattung geht: entwickelt Headlines und Vorspänne, die sc…
+2. **familien-erbrecht-diskret-bericht** — Für Diskrete Berichterstattung Familienrecht und Erbrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprod…
+3. **verwaltungsgericht-politikrecht-bericht** — Für Verwaltungsgericht und Politikrecht Bericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
+4. **entscheidung-meldung-und-urteilsbericht** — Für Entscheidung Meldung und Urteilsbericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko…
+5. **wirtschaftsverfahren-compliance-bericht** — Für Wirtschaftsverfahren Compliance Bericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko…
+6. **anonymisierung-identifizierbarkeit** — Für Anonymisierung und Identifizierbarkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko …
+7. **strafverfahren-unschuldsvermutung** — Für Strafverfahren und Unschuldsvermutung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko u…
+8. **interview-fragekatalog-juristisch** — Für Interview Fragekatalog juristisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und n…
+9. **kaltstart-redaktionsauftrag** — Für Kaltstart Redaktionsauftrag: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und n…
+10. **korrektur-gegendarstellung-risiko** — Für Korrektur Gegendarstellung Risiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und n…
+11. **pressemitteilung-kanzlei-behoerde** — Für Pressemitteilung Kanzlei Behörde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nä…
+12. **gerichtstermin-sitzungsbericht** — Für Gerichtstermin Sitzungsbericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und näch…
+13. **redaktionsschluss-qualitygate** — Für Redaktionsschluss Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und …
+14. **bildunterschrift-foto-kug** — Für Bildunterschrift und Foto KUG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächs…
+15. **faq-explainer-rechtsfrage** — Für FAQ und Explainer Rechtsfrage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächs…
+16. **persoenlichkeitsrecht-abwaegung** — Für Persönlichkeitsrecht Abwägung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächs…
+17. **social-media-thread-recht** — Für Social Media Thread Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem …
+18. **verdachtsberichterstattung-pruefung** — Für Verdachtsberichterstattung Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchs…
+19. **liveblog-ticker-gericht** — Für Liveblog Ticker Gericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+20. **headline-und-vorspann** — Für Headline und Vorspann: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schr…
+21. **faktencheck-quellenmatrix** — Für Faktencheck Quellenmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt.
 
 ---
 
@@ -156,7 +156,7 @@ Ausgangspunkt für dieses Plugin: Redaktion für Beweistatsachen, Recherche, Ste
 
 ## Skill: `familien-erbrecht-diskret-bericht`
 
-_Wenn es um Diskrete Berichterstattung Familienrecht und Erbrecht in Juristische Presseberichterstattung geht: hilft bei diskreter Berichterstattung über Familien-, Erb- und Betreuungsfälle mit besonderem Schutz privater Details._
+_Für Diskrete Berichterstattung Familienrecht und Erbrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Diskrete Berichterstattung Familienrecht und Erbrecht
 
@@ -198,185 +198,9 @@ Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fa
 
 ---
 
-## Skill: `verdachtsberichterstattung-pruefung`
-
-_Wenn es um Verdachtsberichterstattung Prüfung in Juristische Presseberichterstattung geht: prüft Verdachtslage, Mindestbestand an Beweistatsachen, Stellungnahme, Unschuldsvermutung und faire Statussprache vor Veröffentlichung._
-
-# Verdachtsberichterstattung Prüfung
-
-## 1. Wann einsetzen
-
-Nutze diesen Skill, wenn der Arbeitsauftrag auf verdachtsberichterstattung prüfung zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
-
-## 2. Sofortausgabe
-
-Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Risikovermerk oder Korrekturvorschlag. Keine Vorrede, keine Materialinventur.
-
-## 3. Prüfraster
-
-1. Verdacht nur bei belastbarem Tatsachenkern.
-2. Stellungnahme konkret anfragen und Frist dokumentieren.
-3. Headline, Vorspann und Bild müssen den Verdachtsstatus tragen.
-4. Gegenposition sichtbar und fair einbauen.
-
-## 4. Quellen- und Risikoanker
-
-- Artikel 5 GG: Presse- und Berichterstattungsfreiheit als Ausgangspunkt.
-- KUG Paragraf 22 und Paragraf 23: Bildnis, Einwilligung, Zeitgeschichte und Schutzinteressen.
-- BGB Paragraf 823 und Paragraf 1004 analog: Persönlichkeitsrecht, Unterlassung und Folgenbeseitigung.
-- Pressekodex: Wahrhaftigkeit, Sorgfalt, Schutz der Persönlichkeit und Unschuldsvermutung.
-- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
-
-## 5. Ausgabeformat
-
-| Baustein | Inhalt |
-| --- | --- |
-| Lead | ein Satz mit Quelle und Status |
-| Matrix | Behauptung, Quelle, Status, Risiko, Formulierung |
-| Text | veröffentlichungsfähige Fassung mit vorsichtiger Statussprache |
-| Reserve | offene Nachfragen, Korrekturoption, rote Linien |
-
-## 6. Stoppregel
-
-Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. Keine Lücke durch Zuspitzung schließen.
-
----
-
-## Skill: `kaltstart-redaktionsauftrag`
-
-_Wenn es um Kaltstart Redaktionsauftrag in Juristische Presseberichterstattung geht: klärt Format, Quelle, Status, Betroffene, Redaktionsschluss und Ausgabeform; liefert sofort eine Redaktionsmatrix mit nächstem Textprodukt._
-
-# Kaltstart Redaktionsauftrag
-
-## 1. Wann einsetzen
-
-Nutze diesen Skill, wenn der Arbeitsauftrag auf kaltstart redaktionsauftrag zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
-
-## 2. Sofortausgabe
-
-Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Risikovermerk oder Korrekturvorschlag. Keine Vorrede, keine Materialinventur.
-
-## 3. Prüfraster
-
-1. Format und Veröffentlichungsziel festlegen.
-2. Quellenbestand sortieren: Entscheidung, Termin, Pressemitteilung, Stellungnahme, eigene Beobachtung.
-3. Risiko markieren: Name, Bild, Verdacht, Zitat, Minderjährige, private Details.
-4. Sofortausgabe: Lead, Quellenmatrix und offene Nachfragen.
-
-## 4. Quellen- und Risikoanker
-
-- Artikel 5 GG: Presse- und Berichterstattungsfreiheit als Ausgangspunkt.
-- KUG Paragraf 22 und Paragraf 23: Bildnis, Einwilligung, Zeitgeschichte und Schutzinteressen.
-- BGB Paragraf 823 und Paragraf 1004 analog: Persönlichkeitsrecht, Unterlassung und Folgenbeseitigung.
-- Pressekodex: Wahrhaftigkeit, Sorgfalt, Schutz der Persönlichkeit und Unschuldsvermutung.
-- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
-
-## 5. Ausgabeformat
-
-| Baustein | Inhalt |
-| --- | --- |
-| Lead | ein Satz mit Quelle und Status |
-| Matrix | Behauptung, Quelle, Status, Risiko, Formulierung |
-| Text | veröffentlichungsfähige Fassung mit vorsichtiger Statussprache |
-| Reserve | offene Nachfragen, Korrekturoption, rote Linien |
-
-## 6. Stoppregel
-
-Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. Keine Lücke durch Zuspitzung schließen.
-
----
-
-## Skill: `redaktionsschluss-qualitygate`
-
-_Wenn es um Redaktionsschluss Qualitygate in Juristische Presseberichterstattung geht: führt vor Veröffentlichung den Schlusscheck für Quelle, Status, Stellungnahme, Namensnennung, Bild, Headline und Korrekturreserve durch._
-
-# Redaktionsschluss Qualitygate
-
-## 1. Wann einsetzen
-
-Nutze diesen Skill, wenn der Arbeitsauftrag auf redaktionsschluss qualitygate zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
-
-## 2. Sofortausgabe
-
-Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Risikovermerk oder Korrekturvorschlag. Keine Vorrede, keine Materialinventur.
-
-## 3. Prüfraster
-
-1. Lead, Headline und Textstatus vergleichen.
-2. Quellenmatrix gegen Text abgleichen.
-3. Stellungnahme und Gegenposition kontrollieren.
-4. Veröffentlichungsrisiko mit Handlungsempfehlung ausgeben.
-
-## 4. Quellen- und Risikoanker
-
-- Artikel 5 GG: Presse- und Berichterstattungsfreiheit als Ausgangspunkt.
-- KUG Paragraf 22 und Paragraf 23: Bildnis, Einwilligung, Zeitgeschichte und Schutzinteressen.
-- BGB Paragraf 823 und Paragraf 1004 analog: Persönlichkeitsrecht, Unterlassung und Folgenbeseitigung.
-- Pressekodex: Wahrhaftigkeit, Sorgfalt, Schutz der Persönlichkeit und Unschuldsvermutung.
-- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
-
-## 5. Ausgabeformat
-
-| Baustein | Inhalt |
-| --- | --- |
-| Lead | ein Satz mit Quelle und Status |
-| Matrix | Behauptung, Quelle, Status, Risiko, Formulierung |
-| Text | veröffentlichungsfähige Fassung mit vorsichtiger Statussprache |
-| Reserve | offene Nachfragen, Korrekturoption, rote Linien |
-
-## 6. Stoppregel
-
-Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. Keine Lücke durch Zuspitzung schließen.
-
----
-
-## Skill: `pressemitteilung-kanzlei-behoerde`
-
-_Wenn es um Pressemitteilung Kanzlei Behörde in Juristische Presseberichterstattung geht: erstellt sachliche Pressemitteilungen für Kanzlei, Verband, Behörde oder Unternehmen mit Zitat, Kernbotschaft und Rückfrageblock._
-
-# Pressemitteilung Kanzlei Behörde
-
-## 1. Wann einsetzen
-
-Nutze diesen Skill, wenn der Arbeitsauftrag auf pressemitteilung kanzlei behörde zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
-
-## 2. Sofortausgabe
-
-Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Risikovermerk oder Korrekturvorschlag. Keine Vorrede, keine Materialinventur.
-
-## 3. Prüfraster
-
-1. Nachricht und Anlass in den ersten Absatz.
-2. Zitat nur als echte Position, nicht als zweite Überschrift.
-3. Rechtsstand, Fristen und Zuständigkeit knapp erklären.
-4. Kontakt, Hintergrund und Sperrfrist sauber setzen.
-
-## 4. Quellen- und Risikoanker
-
-- Artikel 5 GG: Presse- und Berichterstattungsfreiheit als Ausgangspunkt.
-- KUG Paragraf 22 und Paragraf 23: Bildnis, Einwilligung, Zeitgeschichte und Schutzinteressen.
-- BGB Paragraf 823 und Paragraf 1004 analog: Persönlichkeitsrecht, Unterlassung und Folgenbeseitigung.
-- Pressekodex: Wahrhaftigkeit, Sorgfalt, Schutz der Persönlichkeit und Unschuldsvermutung.
-- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
-
-## 5. Ausgabeformat
-
-| Baustein | Inhalt |
-| --- | --- |
-| Lead | ein Satz mit Quelle und Status |
-| Matrix | Behauptung, Quelle, Status, Risiko, Formulierung |
-| Text | veröffentlichungsfähige Fassung mit vorsichtiger Statussprache |
-| Reserve | offene Nachfragen, Korrekturoption, rote Linien |
-
-## 6. Stoppregel
-
-Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. Keine Lücke durch Zuspitzung schließen.
-
----
-
 ## Skill: `verwaltungsgericht-politikrecht-bericht`
 
-_Wenn es um Verwaltungsgericht und Politikrecht Bericht in Juristische Presseberichterstattung geht: erstellt Berichte zu Verwaltungsgericht, Normenkontrolle, Wahlrecht, Versammlungsrecht und Behördenentscheidungen._
+_Für Verwaltungsgericht und Politikrecht Bericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Verwaltungsgericht und Politikrecht Bericht
 
@@ -418,53 +242,9 @@ Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fa
 
 ---
 
-## Skill: `gerichtstermin-sitzungsbericht`
-
-_Wenn es um Gerichtstermin Sitzungsbericht in Juristische Presseberichterstattung geht: erstellt aus Terminsnotizen einen präzisen Gerichtsbericht mit Rollen, Anträgen, Beweisaufnahme, Zitaten und nächstem Termin._
-
-# Gerichtstermin Sitzungsbericht
-
-## 1. Wann einsetzen
-
-Nutze diesen Skill, wenn der Arbeitsauftrag auf gerichtstermin sitzungsbericht zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
-
-## 2. Sofortausgabe
-
-Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Risikovermerk oder Korrekturvorschlag. Keine Vorrede, keine Materialinventur.
-
-## 3. Prüfraster
-
-1. Saal, Gericht, Verfahren und Beteiligte knapp benennen.
-2. Nur beobachtete oder belegte Vorgänge als Tatsache formulieren.
-3. Zitate wörtlich kennzeichnen und unsichere Mitschriften paraphrasieren.
-4. Nächsten Termin, Beweisaufnahme und Einordnung trennen.
-
-## 4. Quellen- und Risikoanker
-
-- Artikel 5 GG: Presse- und Berichterstattungsfreiheit als Ausgangspunkt.
-- KUG Paragraf 22 und Paragraf 23: Bildnis, Einwilligung, Zeitgeschichte und Schutzinteressen.
-- BGB Paragraf 823 und Paragraf 1004 analog: Persönlichkeitsrecht, Unterlassung und Folgenbeseitigung.
-- Pressekodex: Wahrhaftigkeit, Sorgfalt, Schutz der Persönlichkeit und Unschuldsvermutung.
-- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
-
-## 5. Ausgabeformat
-
-| Baustein | Inhalt |
-| --- | --- |
-| Lead | ein Satz mit Quelle und Status |
-| Matrix | Behauptung, Quelle, Status, Risiko, Formulierung |
-| Text | veröffentlichungsfähige Fassung mit vorsichtiger Statussprache |
-| Reserve | offene Nachfragen, Korrekturoption, rote Linien |
-
-## 6. Stoppregel
-
-Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. Keine Lücke durch Zuspitzung schließen.
-
----
-
 ## Skill: `entscheidung-meldung-und-urteilsbericht`
 
-_Wenn es um Entscheidung Meldung und Urteilsbericht in Juristische Presseberichterstattung geht: macht aus Urteil, Beschluss oder Pressemitteilung eine Meldung mit Tenor, Gründen, Folgen und Rechtsmittelstatus._
+_Für Entscheidung Meldung und Urteilsbericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Entscheidung Meldung und Urteilsbericht
 
@@ -508,7 +288,7 @@ Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fa
 
 ## Skill: `wirtschaftsverfahren-compliance-bericht`
 
-_Wenn es um Wirtschaftsverfahren Compliance Bericht in Juristische Presseberichterstattung geht: bereitet komplexe Wirtschafts-, Insolvenz-, Aufsichts- und Compliance-Verfahren als verständlichen Bericht auf._
+_Für Wirtschaftsverfahren Compliance Bericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Wirtschaftsverfahren Compliance Bericht
 
@@ -550,15 +330,15 @@ Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fa
 
 ---
 
-## Skill: `interview-fragekatalog-juristisch`
+## Skill: `anonymisierung-identifizierbarkeit`
 
-_Wenn es um Interview Fragekatalog juristisch in Juristische Presseberichterstattung geht: entwickelt präzise Interviewfragen an Anwälte, Behörden, Unternehmen, Gerichte oder Betroffene ohne Suggestivfallen._
+_Für Anonymisierung und Identifizierbarkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Interview Fragekatalog juristisch
+# Anonymisierung und Identifizierbarkeit
 
 ## 1. Wann einsetzen
 
-Nutze diesen Skill, wenn der Arbeitsauftrag auf interview fragekatalog juristisch zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
+Nutze diesen Skill, wenn der Arbeitsauftrag auf anonymisierung und identifizierbarkeit zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
 
 ## 2. Sofortausgabe
 
@@ -566,98 +346,10 @@ Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Ri
 
 ## 3. Prüfraster
 
-1. Ziel und Rolle des Gesprächspartners klären.
-2. Fragen nach Quelle, Status, Folge und Gegenposition ordnen.
-3. Keine Schuldbehauptung in Frageform verstecken.
-4. Nachfassfragen für Ausweichantworten vorbereiten.
-
-## 4. Quellen- und Risikoanker
-
-- Artikel 5 GG: Presse- und Berichterstattungsfreiheit als Ausgangspunkt.
-- KUG Paragraf 22 und Paragraf 23: Bildnis, Einwilligung, Zeitgeschichte und Schutzinteressen.
-- BGB Paragraf 823 und Paragraf 1004 analog: Persönlichkeitsrecht, Unterlassung und Folgenbeseitigung.
-- Pressekodex: Wahrhaftigkeit, Sorgfalt, Schutz der Persönlichkeit und Unschuldsvermutung.
-- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
-
-## 5. Ausgabeformat
-
-| Baustein | Inhalt |
-| --- | --- |
-| Lead | ein Satz mit Quelle und Status |
-| Matrix | Behauptung, Quelle, Status, Risiko, Formulierung |
-| Text | veröffentlichungsfähige Fassung mit vorsichtiger Statussprache |
-| Reserve | offene Nachfragen, Korrekturoption, rote Linien |
-
-## 6. Stoppregel
-
-Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. Keine Lücke durch Zuspitzung schließen.
-
----
-
-## Skill: `korrektur-gegendarstellung-risiko`
-
-_Wenn es um Korrektur Gegendarstellung Risiko in Juristische Presseberichterstattung geht: prüft vor und nach Veröffentlichung Berichtigung, Gegendarstellung, Unterlassung, Richtigstellung und Update-Text._
-
-# Korrektur Gegendarstellung Risiko
-
-## 1. Wann einsetzen
-
-Nutze diesen Skill, wenn der Arbeitsauftrag auf korrektur gegendarstellung risiko zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
-
-## 2. Sofortausgabe
-
-Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Risikovermerk oder Korrekturvorschlag. Keine Vorrede, keine Materialinventur.
-
-## 3. Prüfraster
-
-1. Beanstandung in Tatsache, Meinung, Zitat und Kontext trennen.
-2. Beleglage der angegriffenen Aussage prüfen.
-3. Korrekturtext knapp, sichtbar und ohne Trotz formulieren.
-4. Unterlassungsrisiko und Vergleichsoption nennen.
-
-## 4. Quellen- und Risikoanker
-
-- Artikel 5 GG: Presse- und Berichterstattungsfreiheit als Ausgangspunkt.
-- KUG Paragraf 22 und Paragraf 23: Bildnis, Einwilligung, Zeitgeschichte und Schutzinteressen.
-- BGB Paragraf 823 und Paragraf 1004 analog: Persönlichkeitsrecht, Unterlassung und Folgenbeseitigung.
-- Pressekodex: Wahrhaftigkeit, Sorgfalt, Schutz der Persönlichkeit und Unschuldsvermutung.
-- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
-
-## 5. Ausgabeformat
-
-| Baustein | Inhalt |
-| --- | --- |
-| Lead | ein Satz mit Quelle und Status |
-| Matrix | Behauptung, Quelle, Status, Risiko, Formulierung |
-| Text | veröffentlichungsfähige Fassung mit vorsichtiger Statussprache |
-| Reserve | offene Nachfragen, Korrekturoption, rote Linien |
-
-## 6. Stoppregel
-
-Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. Keine Lücke durch Zuspitzung schließen.
-
----
-
-## Skill: `persoenlichkeitsrecht-abwaegung`
-
-_Wenn es um Persönlichkeitsrecht Abwägung in Juristische Presseberichterstattung geht: ordnet Informationsinteresse und Persönlichkeitsrecht, prüft Namensnennung, Detailtiefe, Prangerwirkung und Kontext._
-
-# Persönlichkeitsrecht Abwägung
-
-## 1. Wann einsetzen
-
-Nutze diesen Skill, wenn der Arbeitsauftrag auf persönlichkeitsrecht abwägung zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
-
-## 2. Sofortausgabe
-
-Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Risikovermerk oder Korrekturvorschlag. Keine Vorrede, keine Materialinventur.
-
-## 3. Prüfraster
-
-1. Öffentliches Interesse konkret benennen.
-2. Intimsphäre, Privatsphäre und Sozialsphäre trennen.
-3. Identifizierbarkeit durch Umfelddetails prüfen.
-4. Schonendere Darstellung als Variante anbieten.
+1. Direkte Namen, indirekte Merkmale und Bilddetails erfassen.
+2. Region, Beruf, Alter und Familienrolle auf Identifizierbarkeit prüfen.
+3. Drei Fassungen liefern: offen, reduziert, stark anonymisiert.
+4. Lesbarkeit und Schutzinteresse gegeneinander abwägen.
 
 ## 4. Quellen- und Risikoanker
 
@@ -684,7 +376,7 @@ Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fa
 
 ## Skill: `strafverfahren-unschuldsvermutung`
 
-_Wenn es um Strafverfahren und Unschuldsvermutung in Juristische Presseberichterstattung geht: formuliert Strafverfahrensberichte statusgenau von Ermittlungen bis Urteil und verhindert Vorverurteilung._
+_Für Strafverfahren und Unschuldsvermutung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Strafverfahren und Unschuldsvermutung
 
@@ -726,15 +418,15 @@ Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fa
 
 ---
 
-## Skill: `social-media-thread-recht`
+## Skill: `interview-fragekatalog-juristisch`
 
-_Wenn es um Social Media Thread Recht in Juristische Presseberichterstattung geht: macht aus juristischem Material kurze Social-Posts oder Threads mit Quellenstatus, Vorsichtssprache und Linklogik._
+_Für Interview Fragekatalog juristisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Social Media Thread Recht
+# Interview Fragekatalog juristisch
 
 ## 1. Wann einsetzen
 
-Nutze diesen Skill, wenn der Arbeitsauftrag auf social media thread recht zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
+Nutze diesen Skill, wenn der Arbeitsauftrag auf interview fragekatalog juristisch zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
 
 ## 2. Sofortausgabe
 
@@ -742,10 +434,230 @@ Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Ri
 
 ## 3. Prüfraster
 
-1. Jeder Post muss für sich korrekt sein.
-2. Thread-Anfang darf nicht stärker sein als Quelle.
-3. Namen, Bilder und Vorwürfe besonders knapp prüfen.
-4. Korrekturpfad für gelöschte oder geänderte Posts vorsehen.
+1. Ziel und Rolle des Gesprächspartners klären.
+2. Fragen nach Quelle, Status, Folge und Gegenposition ordnen.
+3. Keine Schuldbehauptung in Frageform verstecken.
+4. Nachfassfragen für Ausweichantworten vorbereiten.
+
+## 4. Quellen- und Risikoanker
+
+- Artikel 5 GG: Presse- und Berichterstattungsfreiheit als Ausgangspunkt.
+- KUG Paragraf 22 und Paragraf 23: Bildnis, Einwilligung, Zeitgeschichte und Schutzinteressen.
+- BGB Paragraf 823 und Paragraf 1004 analog: Persönlichkeitsrecht, Unterlassung und Folgenbeseitigung.
+- Pressekodex: Wahrhaftigkeit, Sorgfalt, Schutz der Persönlichkeit und Unschuldsvermutung.
+- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
+
+## 5. Ausgabeformat
+
+| Baustein | Inhalt |
+| --- | --- |
+| Lead | ein Satz mit Quelle und Status |
+| Matrix | Behauptung, Quelle, Status, Risiko, Formulierung |
+| Text | veröffentlichungsfähige Fassung mit vorsichtiger Statussprache |
+| Reserve | offene Nachfragen, Korrekturoption, rote Linien |
+
+## 6. Stoppregel
+
+Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. Keine Lücke durch Zuspitzung schließen.
+
+---
+
+## Skill: `kaltstart-redaktionsauftrag`
+
+_Für Kaltstart Redaktionsauftrag: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Kaltstart Redaktionsauftrag
+
+## 1. Wann einsetzen
+
+Nutze diesen Skill, wenn der Arbeitsauftrag auf kaltstart redaktionsauftrag zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
+
+## 2. Sofortausgabe
+
+Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Risikovermerk oder Korrekturvorschlag. Keine Vorrede, keine Materialinventur.
+
+## 3. Prüfraster
+
+1. Format und Veröffentlichungsziel festlegen.
+2. Quellenbestand sortieren: Entscheidung, Termin, Pressemitteilung, Stellungnahme, eigene Beobachtung.
+3. Risiko markieren: Name, Bild, Verdacht, Zitat, Minderjährige, private Details.
+4. Sofortausgabe: Lead, Quellenmatrix und offene Nachfragen.
+
+## 4. Quellen- und Risikoanker
+
+- Artikel 5 GG: Presse- und Berichterstattungsfreiheit als Ausgangspunkt.
+- KUG Paragraf 22 und Paragraf 23: Bildnis, Einwilligung, Zeitgeschichte und Schutzinteressen.
+- BGB Paragraf 823 und Paragraf 1004 analog: Persönlichkeitsrecht, Unterlassung und Folgenbeseitigung.
+- Pressekodex: Wahrhaftigkeit, Sorgfalt, Schutz der Persönlichkeit und Unschuldsvermutung.
+- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
+
+## 5. Ausgabeformat
+
+| Baustein | Inhalt |
+| --- | --- |
+| Lead | ein Satz mit Quelle und Status |
+| Matrix | Behauptung, Quelle, Status, Risiko, Formulierung |
+| Text | veröffentlichungsfähige Fassung mit vorsichtiger Statussprache |
+| Reserve | offene Nachfragen, Korrekturoption, rote Linien |
+
+## 6. Stoppregel
+
+Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. Keine Lücke durch Zuspitzung schließen.
+
+---
+
+## Skill: `korrektur-gegendarstellung-risiko`
+
+_Für Korrektur Gegendarstellung Risiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Korrektur Gegendarstellung Risiko
+
+## 1. Wann einsetzen
+
+Nutze diesen Skill, wenn der Arbeitsauftrag auf korrektur gegendarstellung risiko zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
+
+## 2. Sofortausgabe
+
+Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Risikovermerk oder Korrekturvorschlag. Keine Vorrede, keine Materialinventur.
+
+## 3. Prüfraster
+
+1. Beanstandung in Tatsache, Meinung, Zitat und Kontext trennen.
+2. Beleglage der angegriffenen Aussage prüfen.
+3. Korrekturtext knapp, sichtbar und ohne Trotz formulieren.
+4. Unterlassungsrisiko und Vergleichsoption nennen.
+
+## 4. Quellen- und Risikoanker
+
+- Artikel 5 GG: Presse- und Berichterstattungsfreiheit als Ausgangspunkt.
+- KUG Paragraf 22 und Paragraf 23: Bildnis, Einwilligung, Zeitgeschichte und Schutzinteressen.
+- BGB Paragraf 823 und Paragraf 1004 analog: Persönlichkeitsrecht, Unterlassung und Folgenbeseitigung.
+- Pressekodex: Wahrhaftigkeit, Sorgfalt, Schutz der Persönlichkeit und Unschuldsvermutung.
+- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
+
+## 5. Ausgabeformat
+
+| Baustein | Inhalt |
+| --- | --- |
+| Lead | ein Satz mit Quelle und Status |
+| Matrix | Behauptung, Quelle, Status, Risiko, Formulierung |
+| Text | veröffentlichungsfähige Fassung mit vorsichtiger Statussprache |
+| Reserve | offene Nachfragen, Korrekturoption, rote Linien |
+
+## 6. Stoppregel
+
+Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. Keine Lücke durch Zuspitzung schließen.
+
+---
+
+## Skill: `pressemitteilung-kanzlei-behoerde`
+
+_Für Pressemitteilung Kanzlei Behörde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Pressemitteilung Kanzlei Behörde
+
+## 1. Wann einsetzen
+
+Nutze diesen Skill, wenn der Arbeitsauftrag auf pressemitteilung kanzlei behörde zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
+
+## 2. Sofortausgabe
+
+Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Risikovermerk oder Korrekturvorschlag. Keine Vorrede, keine Materialinventur.
+
+## 3. Prüfraster
+
+1. Nachricht und Anlass in den ersten Absatz.
+2. Zitat nur als echte Position, nicht als zweite Überschrift.
+3. Rechtsstand, Fristen und Zuständigkeit knapp erklären.
+4. Kontakt, Hintergrund und Sperrfrist sauber setzen.
+
+## 4. Quellen- und Risikoanker
+
+- Artikel 5 GG: Presse- und Berichterstattungsfreiheit als Ausgangspunkt.
+- KUG Paragraf 22 und Paragraf 23: Bildnis, Einwilligung, Zeitgeschichte und Schutzinteressen.
+- BGB Paragraf 823 und Paragraf 1004 analog: Persönlichkeitsrecht, Unterlassung und Folgenbeseitigung.
+- Pressekodex: Wahrhaftigkeit, Sorgfalt, Schutz der Persönlichkeit und Unschuldsvermutung.
+- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
+
+## 5. Ausgabeformat
+
+| Baustein | Inhalt |
+| --- | --- |
+| Lead | ein Satz mit Quelle und Status |
+| Matrix | Behauptung, Quelle, Status, Risiko, Formulierung |
+| Text | veröffentlichungsfähige Fassung mit vorsichtiger Statussprache |
+| Reserve | offene Nachfragen, Korrekturoption, rote Linien |
+
+## 6. Stoppregel
+
+Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. Keine Lücke durch Zuspitzung schließen.
+
+---
+
+## Skill: `gerichtstermin-sitzungsbericht`
+
+_Für Gerichtstermin Sitzungsbericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Gerichtstermin Sitzungsbericht
+
+## 1. Wann einsetzen
+
+Nutze diesen Skill, wenn der Arbeitsauftrag auf gerichtstermin sitzungsbericht zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
+
+## 2. Sofortausgabe
+
+Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Risikovermerk oder Korrekturvorschlag. Keine Vorrede, keine Materialinventur.
+
+## 3. Prüfraster
+
+1. Saal, Gericht, Verfahren und Beteiligte knapp benennen.
+2. Nur beobachtete oder belegte Vorgänge als Tatsache formulieren.
+3. Zitate wörtlich kennzeichnen und unsichere Mitschriften paraphrasieren.
+4. Nächsten Termin, Beweisaufnahme und Einordnung trennen.
+
+## 4. Quellen- und Risikoanker
+
+- Artikel 5 GG: Presse- und Berichterstattungsfreiheit als Ausgangspunkt.
+- KUG Paragraf 22 und Paragraf 23: Bildnis, Einwilligung, Zeitgeschichte und Schutzinteressen.
+- BGB Paragraf 823 und Paragraf 1004 analog: Persönlichkeitsrecht, Unterlassung und Folgenbeseitigung.
+- Pressekodex: Wahrhaftigkeit, Sorgfalt, Schutz der Persönlichkeit und Unschuldsvermutung.
+- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
+
+## 5. Ausgabeformat
+
+| Baustein | Inhalt |
+| --- | --- |
+| Lead | ein Satz mit Quelle und Status |
+| Matrix | Behauptung, Quelle, Status, Risiko, Formulierung |
+| Text | veröffentlichungsfähige Fassung mit vorsichtiger Statussprache |
+| Reserve | offene Nachfragen, Korrekturoption, rote Linien |
+
+## 6. Stoppregel
+
+Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. Keine Lücke durch Zuspitzung schließen.
+
+---
+
+## Skill: `redaktionsschluss-qualitygate`
+
+_Für Redaktionsschluss Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck._
+
+# Redaktionsschluss Qualitygate
+
+## 1. Wann einsetzen
+
+Nutze diesen Skill, wenn der Arbeitsauftrag auf redaktionsschluss qualitygate zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
+
+## 2. Sofortausgabe
+
+Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Risikovermerk oder Korrekturvorschlag. Keine Vorrede, keine Materialinventur.
+
+## 3. Prüfraster
+
+1. Lead, Headline und Textstatus vergleichen.
+2. Quellenmatrix gegen Text abgleichen.
+3. Stellungnahme und Gegenposition kontrollieren.
+4. Veröffentlichungsrisiko mit Handlungsempfehlung ausgeben.
 
 ## 4. Quellen- und Risikoanker
 
@@ -772,7 +684,7 @@ Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fa
 
 ## Skill: `bildunterschrift-foto-kug`
 
-_Wenn es um Bildunterschrift und Foto KUG in Juristische Presseberichterstattung geht: prüft Fotoauswahl, Bildunterschrift, Einwilligung, Zeitgeschichte, Beiwerk und Schutz unbeteiligter Personen._
+_Für Bildunterschrift und Foto KUG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Bildunterschrift und Foto KUG
 
@@ -816,7 +728,7 @@ Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fa
 
 ## Skill: `faq-explainer-rechtsfrage`
 
-_Wenn es um FAQ und Explainer Rechtsfrage in Juristische Presseberichterstattung geht: erklärt juristische Streitfragen als FAQ oder Hintergrundstück mit klarer Sprache und ohne Scheinsicherheit._
+_Für FAQ und Explainer Rechtsfrage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # FAQ und Explainer Rechtsfrage
 
@@ -858,15 +770,15 @@ Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fa
 
 ---
 
-## Skill: `anonymisierung-identifizierbarkeit`
+## Skill: `persoenlichkeitsrecht-abwaegung`
 
-_Wenn es um Anonymisierung und Identifizierbarkeit in Juristische Presseberichterstattung geht: entwirft Anonymisierung, Kürzung und Kontextreduktion, ohne den Bericht unverständlich zu machen._
+_Für Persönlichkeitsrecht Abwägung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Anonymisierung und Identifizierbarkeit
+# Persönlichkeitsrecht Abwägung
 
 ## 1. Wann einsetzen
 
-Nutze diesen Skill, wenn der Arbeitsauftrag auf anonymisierung und identifizierbarkeit zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
+Nutze diesen Skill, wenn der Arbeitsauftrag auf persönlichkeitsrecht abwägung zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
 
 ## 2. Sofortausgabe
 
@@ -874,10 +786,98 @@ Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Ri
 
 ## 3. Prüfraster
 
-1. Direkte Namen, indirekte Merkmale und Bilddetails erfassen.
-2. Region, Beruf, Alter und Familienrolle auf Identifizierbarkeit prüfen.
-3. Drei Fassungen liefern: offen, reduziert, stark anonymisiert.
-4. Lesbarkeit und Schutzinteresse gegeneinander abwägen.
+1. Öffentliches Interesse konkret benennen.
+2. Intimsphäre, Privatsphäre und Sozialsphäre trennen.
+3. Identifizierbarkeit durch Umfelddetails prüfen.
+4. Schonendere Darstellung als Variante anbieten.
+
+## 4. Quellen- und Risikoanker
+
+- Artikel 5 GG: Presse- und Berichterstattungsfreiheit als Ausgangspunkt.
+- KUG Paragraf 22 und Paragraf 23: Bildnis, Einwilligung, Zeitgeschichte und Schutzinteressen.
+- BGB Paragraf 823 und Paragraf 1004 analog: Persönlichkeitsrecht, Unterlassung und Folgenbeseitigung.
+- Pressekodex: Wahrhaftigkeit, Sorgfalt, Schutz der Persönlichkeit und Unschuldsvermutung.
+- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
+
+## 5. Ausgabeformat
+
+| Baustein | Inhalt |
+| --- | --- |
+| Lead | ein Satz mit Quelle und Status |
+| Matrix | Behauptung, Quelle, Status, Risiko, Formulierung |
+| Text | veröffentlichungsfähige Fassung mit vorsichtiger Statussprache |
+| Reserve | offene Nachfragen, Korrekturoption, rote Linien |
+
+## 6. Stoppregel
+
+Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. Keine Lücke durch Zuspitzung schließen.
+
+---
+
+## Skill: `social-media-thread-recht`
+
+_Für Social Media Thread Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Social Media Thread Recht
+
+## 1. Wann einsetzen
+
+Nutze diesen Skill, wenn der Arbeitsauftrag auf social media thread recht zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
+
+## 2. Sofortausgabe
+
+Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Risikovermerk oder Korrekturvorschlag. Keine Vorrede, keine Materialinventur.
+
+## 3. Prüfraster
+
+1. Jeder Post muss für sich korrekt sein.
+2. Thread-Anfang darf nicht stärker sein als Quelle.
+3. Namen, Bilder und Vorwürfe besonders knapp prüfen.
+4. Korrekturpfad für gelöschte oder geänderte Posts vorsehen.
+
+## 4. Quellen- und Risikoanker
+
+- Artikel 5 GG: Presse- und Berichterstattungsfreiheit als Ausgangspunkt.
+- KUG Paragraf 22 und Paragraf 23: Bildnis, Einwilligung, Zeitgeschichte und Schutzinteressen.
+- BGB Paragraf 823 und Paragraf 1004 analog: Persönlichkeitsrecht, Unterlassung und Folgenbeseitigung.
+- Pressekodex: Wahrhaftigkeit, Sorgfalt, Schutz der Persönlichkeit und Unschuldsvermutung.
+- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
+
+## 5. Ausgabeformat
+
+| Baustein | Inhalt |
+| --- | --- |
+| Lead | ein Satz mit Quelle und Status |
+| Matrix | Behauptung, Quelle, Status, Risiko, Formulierung |
+| Text | veröffentlichungsfähige Fassung mit vorsichtiger Statussprache |
+| Reserve | offene Nachfragen, Korrekturoption, rote Linien |
+
+## 6. Stoppregel
+
+Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. Keine Lücke durch Zuspitzung schließen.
+
+---
+
+## Skill: `verdachtsberichterstattung-pruefung`
+
+_Für Verdachtsberichterstattung Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix._
+
+# Verdachtsberichterstattung Prüfung
+
+## 1. Wann einsetzen
+
+Nutze diesen Skill, wenn der Arbeitsauftrag auf verdachtsberichterstattung prüfung zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
+
+## 2. Sofortausgabe
+
+Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Risikovermerk oder Korrekturvorschlag. Keine Vorrede, keine Materialinventur.
+
+## 3. Prüfraster
+
+1. Verdacht nur bei belastbarem Tatsachenkern.
+2. Stellungnahme konkret anfragen und Frist dokumentieren.
+3. Headline, Vorspann und Bild müssen den Verdachtsstatus tragen.
+4. Gegenposition sichtbar und fair einbauen.
 
 ## 4. Quellen- und Risikoanker
 
@@ -904,7 +904,7 @@ Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fa
 
 ## Skill: `liveblog-ticker-gericht`
 
-_Wenn es um Liveblog Ticker Gericht in Juristische Presseberichterstattung geht: strukturiert Liveblog oder Ticker aus Gerichtsterminen mit Zeitmarken, Statussprache und späterer Bereinigung._
+_Für Liveblog Ticker Gericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Liveblog Ticker Gericht
 
@@ -946,15 +946,15 @@ Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fa
 
 ---
 
-## Skill: `faktencheck-quellenmatrix`
+## Skill: `headline-und-vorspann`
 
-_Wenn es um Faktencheck Quellenmatrix in Juristische Presseberichterstattung geht: baut eine Quellenmatrix für jede Tatsachenbehauptung, priorisiert Lücken und markiert Formulierungsrisiken._
+_Für Headline und Vorspann: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Faktencheck Quellenmatrix
+# Headline und Vorspann
 
 ## 1. Wann einsetzen
 
-Nutze diesen Skill, wenn der Arbeitsauftrag auf faktencheck quellenmatrix zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
+Nutze diesen Skill, wenn der Arbeitsauftrag auf headline und vorspann zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
 
 ## 2. Sofortausgabe
 
@@ -962,10 +962,10 @@ Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Ri
 
 ## 3. Prüfraster
 
-1. Behauptung, Quelle, Status und Risiko tabellarisch erfassen.
-2. Primärquelle vor Sekundärquelle.
-3. Offene Punkte als konkrete Recherchefrage formulieren.
-4. Unbelegte Zuspitzungen streichen oder abschwächen.
+1. Headline darf den Text nicht überholen.
+2. Verdacht, Urteil und Meinung sprachlich trennen.
+3. Drei Varianten liefern: nüchtern, lesbar, zugespitzt mit Risiko.
+4. Keine Personalisierung ohne tragenden Grund.
 
 ## 4. Quellen- und Risikoanker
 
@@ -990,15 +990,15 @@ Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fa
 
 ---
 
-## Skill: `headline-und-vorspann`
+## Skill: `faktencheck-quellenmatrix`
 
-_Wenn es um Headline und Vorspann in Juristische Presseberichterstattung geht: entwickelt Headlines und Vorspänne, die schnell sind, aber Verfahrensstatus und Risiko nicht verschärfen._
+_Für Faktencheck Quellenmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Headline und Vorspann
+# Faktencheck Quellenmatrix
 
 ## 1. Wann einsetzen
 
-Nutze diesen Skill, wenn der Arbeitsauftrag auf headline und vorspann zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
+Nutze diesen Skill, wenn der Arbeitsauftrag auf faktencheck quellenmatrix zielt und aus juristischem Material ein veröffentlichungsfähiges Redaktionsprodukt werden soll.
 
 ## 2. Sofortausgabe
 
@@ -1006,10 +1006,10 @@ Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Ri
 
 ## 3. Prüfraster
 
-1. Headline darf den Text nicht überholen.
-2. Verdacht, Urteil und Meinung sprachlich trennen.
-3. Drei Varianten liefern: nüchtern, lesbar, zugespitzt mit Risiko.
-4. Keine Personalisierung ohne tragenden Grund.
+1. Behauptung, Quelle, Status und Risiko tabellarisch erfassen.
+2. Primärquelle vor Sekundärquelle.
+3. Offene Punkte als konkrete Recherchefrage formulieren.
+4. Unbelegte Zuspitzungen streichen oder abschwächen.
 
 ## 4. Quellen- und Risikoanker
 

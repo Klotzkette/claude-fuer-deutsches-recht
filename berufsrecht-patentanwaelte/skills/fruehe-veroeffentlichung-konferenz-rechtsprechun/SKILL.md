@@ -1,6 +1,6 @@
 ---
 name: fruehe-veroeffentlichung-konferenz-rechtsprechun
-description: "Wenn es um Fruehe Veroeffentlichung Konferenz Rechtsprechun in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Frühe Veröffentlichung Konferenz Rechtsprechun: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: fruehe veroeffentlichung konferenz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

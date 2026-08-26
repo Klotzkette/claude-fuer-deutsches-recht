@@ -1,6 +1,6 @@
 ---
 name: akkreditiv-ucp-600
-description: "Wenn es um Akkreditiv nach UCP 600 in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Akkreditiv nach UCP 600: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Akkreditiv nach UCP 600

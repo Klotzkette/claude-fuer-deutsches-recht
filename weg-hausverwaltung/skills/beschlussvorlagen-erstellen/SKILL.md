@@ -1,6 +1,6 @@
 ---
 name: beschlussvorlagen-erstellen
-description: "Wenn es um Beschlussvorlagen Erstellen in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschlussvorlagen Erstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschlussvorlagen Erstellen

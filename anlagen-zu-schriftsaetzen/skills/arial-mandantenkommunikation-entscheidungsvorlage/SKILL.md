@@ -1,6 +1,6 @@
 ---
 name: arial-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Stempelbild und Entscheidungsvorlage in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Stempelbild und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Anlagen zu Schriftsätzen. Route: arial-mandantenkommunikation-entscheidungsvorlage."
 ---
 
 # Stempelbild und Entscheidungsvorlage

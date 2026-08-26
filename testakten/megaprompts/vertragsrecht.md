@@ -2,25 +2,25 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `vertragsrecht`.
+Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `vertragsrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Vertragsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konk…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Vertragsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten F…
-3. **vertragsrecht-erstpruefung-und-mandatsziel** — Wenn es um Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel in Vertragsrecht geht: klärt Rolle, Ziel, Frist, Un…
-4. **nda-durchsetzer** — Wenn es um NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse in Vertragsrecht geht: prü…
-5. **vr-leistungsstoerungen-widerruf-fernabsatz** — Wenn es um Vertragsrecht: Leistungsstoerungen in Vertragsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
-6. **business-compliance-dokumentation-und-akte** — Wenn es um Business: Compliance-Dokumentation und Aktenvermerk in Vertragsrecht geht: ordnet Akteninhalt, Belege, Lücken…
-7. **lieferanten-tatbestand-beweis-und-belege** — Wenn es um Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage in Vertragsrecht geht: zerlegt Ergebnis, Frist, …
-8. **vertragsmandat-workspace-kontexttrennung** — Wenn es um Mandatsworkspace, Kontexttrennung und Fristensteuerung Vertragsrecht in Vertragsrecht geht: prüft Frist, Form…
-9. **stakeholder-zusammenfassung** — Wenn es um Mandantenzusammenfassung Vertragsrecht in Vertragsrecht geht: erstellt den passenden Entwurf aus Sachverhalt,…
-10. **rechtsquellen** — Wenn es um Rechtsquellen: Abschlussprodukt und Übergabe in Vertragsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Geg…
-11. **saas-tracking-vert** — Wenn es um Saas: Risikoampel, Gegenargumente und Verteidigungslinien in Vertragsrecht geht: zerlegt Ergebnis, Frist, Zus…
-12. **vertriebsvertraege-fristen-form-und-zustaendigkeit** — Wenn es um Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg in Vertragsrecht geht: prüft Frist, Form, Zust…
-13. **rahmenvertrag-beweislast-vertragsrecht-vert** — Wenn es um Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung in Vertragsrecht geht: prüft Frist, Form, Zustä…
-14. **zusammenfassungen-mehrparteien-konflikt-und-interessen** — Wenn es um Zusammenfassungen: Mehrparteienkonflikt und Interessenmatrix in Vertragsrecht geht: prüft Frist, Form, Zustän…
-15. **agb-pruefung** — Wenn es um AGB-Prüfung – Einbeziehung und Inhaltskontrolle in Vertragsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **vertragsrecht-erstpruefung-und-mandatsziel** — Für Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis…
+4. **nda-durchsetzer** — Für NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse: ordnet Norm, Beweislast und Gege…
+5. **rechtsquellen** — Für Rechtsquellen: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit R…
+6. **pruefung-red-team-und-qualitaetskontrolle** — Für Prüfung: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit B…
+7. **vertragsmandat-workspace-kontexttrennung** — Für Mandatsworkspace, Kontexttrennung und Fristensteuerung Vertragsrecht: ordnet Norm, Beweislast und Gegenargument; Erg…
+8. **zusammenfassungen-mehrparteien-konflikt-und-interessen** — Für Zusammenfassungen: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: P…
+9. **routing-zahlen-schwellen-und-berechnung** — Für Routing: Zahlen, Schwellenwerte und Berechnung: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Berechnun…
+10. **saas-tracking-vert** — Für Saas: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüf…
+11. **rahmenvertrag-beweislast-vertragsrecht-vert** — Für Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: …
+12. **renewal-review-routing** — Für Renewal: Schriftsatz-, Brief- und Memo-Bausteine: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfpro…
+13. **vert-mandantenkommunikation-entscheidungsvorlage** — Für Vert: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandante…
+14. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+15. **widerruf-fernabsatz** — Für Widerruf im Fernabsatz- und Außergeschäftsraumvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprod…
 
 ---
 
@@ -147,7 +147,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Vertrag, Pflichtverletzun
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Vertragsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Vertragsrecht._
 
 # Einstieg und Routing
 
@@ -191,7 +191,7 @@ Dieser Einstieg routet **Vertragsrecht** vom ersten Sachverhalt zu Rollen, Frist
 
 ## Skill: `vertragsrecht-erstpruefung-und-mandatsziel`
 
-_Wenn es um Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel in Vertragsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -257,7 +257,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `nda-durchsetzer`
 
-_Wenn es um NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse
 
@@ -435,74 +435,11 @@ eigenständig zu prüfen.*
 
 ---
 
-## Skill: `vr-leistungsstoerungen-widerruf-fernabsatz`
+## Skill: `rechtsquellen`
 
-_Wenn es um Vertragsrecht: Leistungsstoerungen in Vertragsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Rechtsquellen: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Vertragsrecht._
 
-# Vertragsrecht: Leistungsstoerungen
-
-## Arbeitsbereich
-
-Spezialfall Leistungsstoerungen: Unmoeglichkeit § 275 BGB, Verzug § 286 BGB, Schlechtleistung mit Nacherfuellung § 439 / § 635 BGB. Rechtsfolgen Schadensersatz, Ruecktritt, Minderung. Prüfraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Vertragsrecht: Leistungsstoerungen
-- **Normen-/Quellenanker:** BGB.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `business-compliance-dokumentation-und-akte`
-
-_Wenn es um Business: Compliance-Dokumentation und Aktenvermerk in Vertragsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Business: Compliance-Dokumentation und Aktenvermerk
+# Rechtsquellen: Abschlussprodukt und Übergabe
 
 ## Normenanker
 
@@ -519,14 +456,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Business: Compliance-Dokumentation und Aktenvermerk
+## Spezialwissen: Rechtsquellen: Abschlussprodukt und Übergabe
 - **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
 
 ## Fallweichen
@@ -540,38 +470,33 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Business** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsquellen** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `lieferanten-tatbestand-beweis-und-belege`
+## Skill: `pruefung-red-team-und-qualitaetskontrolle`
 
-_Wenn es um Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage in Vertragsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck._
+_Für Prüfung: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Vertragsrecht._
 
-# Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage
+# Prüfung: Red-Team und Qualitätskontrolle
 
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 433 BGB` — Kaufvertragliche Hauptpflichten.
-- `§ 434 BGB` — Sachmangel und Beschaffenheitsanforderungen.
-- `§ 437 BGB` — Rechte des Käufers bei Mängeln.
-- `§ 438 Abs. 1 Nr. 3 BGB` — zweijährige Regelverjährung kaufrechtlicher Mängelansprüche.
-- `§ 446 BGB` — Gefahrübergang bei Übergabe.
-- `§ 477 BGB` — Beweislastumkehr nur beim Verbrauchsgüterkauf.
-- `§ 377 HGB` — Untersuchungs- und Rügeobliegenheit im beiderseitigen Handelskauf.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
+- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
+- `§ 2 HRG` — Aufgaben der Hochschulen.
+- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
+- `§ 7 HRG` — Ziel des Studiums.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
+- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -582,12 +507,8 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Lieferantenmangel, Beweisfragen und Beleglage
-
-- **Mangel bei Gefahrübergang:** Bei B2B-Lieferantenfällen reicht es nicht, einen späteren Ausfall zu zeigen. Der Käufer muss darlegen und beweisen, dass die Ware bei Übergabe/Ablieferung mangelhaft war. Dafür braucht der Vermerk eine Belegzeile für Lieferung, Zustand, Prüfergebnis, Charge/Seriennummer und Zeugen.
-- **B2C-Kontrast:** § 477 BGB hilft nur beim Verbrauchsgüterkauf. Der BGH hat mit Urteilen vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23 bestätigt, dass eine Mangelerscheinung binnen Jahresfrist genügt, wenn eine Verkäuferursache ernsthaft möglich ist. Diese Vermutung darf im B2B-Lieferantenstreit nicht übernommen werden.
-- **§ 377-HGB-Filter:** Bei beiderseitigem Handelskauf sind Untersuchung, Rügeinhalt und Rügezugang eigene Beweisfelder. Versäumte oder zu unbestimmte Rügen gefährden die Mängelrechte unabhängig davon, ob technisch ein Defekt vorliegt.
-- **Dokumentationsstandard:** Wareneingangsprotokoll, Fotos, Messwerte, Prüfbericht, Rückstellmuster, Reklamationsticket, Rüge-E-Mail mit Zugangsnachweis, Lieferantenantwort und interne Sperrentscheidung werden als eine Beweiskette behandelt.
+## Spezialwissen: Prüfung: Red-Team und Qualitätskontrolle
+- **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -600,26 +521,20 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Lieferanten** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Prüfung** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## Belegmatrix für B2B-Liefermängel
+## Vertiefung bei Bedarf
 
-| Element | Beleg | Wertung |
-|---|---|---|
-| Vertragliche Beschaffenheit | Bestellung, Spezifikation, Zeichnung, Qualitätssicherungsvereinbarung | Maßstab für § 434 Abs. 2 BGB |
-| Gefahrübergang | Abliefernachweis, Übergabeprotokoll, Incoterms/Transportklausel | Stichtag für Mangelbeweis |
-| Wareneingangsprüfung | Prüfplan, Messwerte, Fotos, Rückstellmuster | Beweis und § 377-HGB-Compliance |
-| Rüge | E-Mail/Portal-Ticket mit Datum, Inhalt und Zugang | Erhalt der Mängelrechte |
-| Alternativursachen | Lagerlog, Bedienungsdaten, Transportbericht, Sachverständiger | Gegenargumente des Lieferanten antizipieren |
+- Bei `spezial-pruefung-red-team-und-qualitaetskontrolle` beziehungsweise Pruefung: Red-Team und Qualitätskontrolle: [die zusätzliche Vertiefung laden](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragsrecht/skills/pruefung-red-team-und-qualitaetskontrolle/references/vertiefung-spezial-pruefung-red-team-und-qualitaetskontrolle.md).
 
 ---
 
 ## Skill: `vertragsmandat-workspace-kontexttrennung`
 
-_Wenn es um Mandatsworkspace, Kontexttrennung und Fristensteuerung Vertragsrecht in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Mandatsworkspace, Kontexttrennung und Fristensteuerung Vertragsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Mandatsworkspace, Kontexttrennung und Fristensteuerung Vertragsrecht
 
@@ -921,411 +836,9 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ---
 
-## Skill: `stakeholder-zusammenfassung`
-
-_Wenn es um Mandantenzusammenfassung Vertragsrecht in Vertragsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Mandantenzusammenfassung Vertragsrecht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-- Das fertige Prüfungsmemo (aus `/vertragsrecht:vertragsprüfung`)
-- Optional: Empfänger (Geschäftsführung, Vorstand, Einkauf, Finance, IT)
-- Optional: Kanal (E-Mail, Slack, Jour fixe)
-
-## Rechtlicher Rahmen
-
-### Grundlagen der rechtssicheren Kommunikation an Mandanten
-
-Zusammenfassungen an Mandanten und interne Nicht-Juristen unterliegen
-besonderen Sorgfaltsanforderungen — auch informelle Kurzfassungen erzeugen
-Vertrauen beim Empfänger und können haftungsrechtliche Folgen haben, wenn
-sie wesentliche Risiken weglassen.
-
-- § 280 Abs. 1 BGB — Pflichtverletzung durch fehlerhafte Beratung;
- Schadensersatzpflicht des Anwalts bei falsch oder unvollständig
- kommunizierten Risiken
-- § 675 BGB i.V.m. §§ 611 ff. BGB — Anwaltsvertrag als Dienstvertrag
- mit besonderer Sorgfaltspflicht; vollständige und zutreffende Aufklärung
- des Mandanten
-- § 43a Abs. 2 BRAO — Mandatsgeheimnis; Weiterleitung von Zusammenfassungen
- außerhalb des Vertrauenskreises bedarf der Prüfung (Privilegkreis)
-- §§ 164 ff. BGB — Vollmacht; eine Zusammenfassung, die impliziert, der
- Vertrag sei unterschriftsreif, kann als Beratungsleistung wirken, auf
- die sich der Mandant verlässt
-
-### Sorgfaltspflicht bei Risikoangaben
-
- (Aufklärungspflicht bei Vertragsgestaltung; Hinweis auf AGB-Unwirksamkeit
- als Bestandteil ordnungsgemäßer Beratung)
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Ablauf
-
-### Schritt 1 — Mandatskontext
-
-Prüfe `## Mandatsarbeitsbereiche` im Kanzleiprofil. Wenn aktiviert und
-kein aktives Mandat gesetzt: "Für welches Mandat ist diese Zusammenfassung?
-(`/vertragsrecht:vertragsrecht-mandat-arbeitsbereich wechseln <kürzel>` oder `kanzleiebene`)."
-Aktive `mandat.md` für mandatsspezifischen Kontext laden.
-
-### Schritt 2 — Privilegkreis-Check
-
-Vor der Ausgabe prüfen, wohin sie geht. Wenn der Nutzer einen Empfänger
-oder Kanal genannt hat:
-
-- Interne Rechtsabteilung / unter anwaltlicher Aufsicht → privilegiertes
- Arbeitsergebnis behalten
-- Geschäftsführung, Vorstand, Einkauf (intern) → Arbeitergebnis-Kennzeichnung
- entfernen oder anpassen; kein Mandatsgeheimnis verletzt, aber Kennzeichnung
- täuscht über Privilegstatus
-- Gegenseite, externe Berater, Lieferant → ROT; privilegierte Kennzeichnung
- entfernen; Mandant darauf hinweisen, dass die Weiterleitung den Privilegstatus
- dieser Kommunikation beeinflussen kann
-
-Angebot: (a) privilegierte Version für interne Rechtsabteilung, (b) bereinigte
-Version für Weitergabe, (c) beides.
-
-### Schritt 3 — Empfänger bestimmen
-
-Wenn nicht angegeben, fragen:
-
-> Für wen ist diese Zusammenfassung? Das bestimmt, was wichtig ist und
-> was wegfällt.
-
-| Empfänger | Interessiert an | Interessiert nicht an |
-|---|---|---|
-| **Geschäftsführung / Vorstand** | Unterschriftsempfehlung, Hauptrisiken, Eskalationsbedarf | Paragraphen, Klauselstruktur |
-| **Einkauf / Beschaffung** | Preis, Verlängerungsmechanik, Genehmigungsweg | Haftungsstruktur |
-| **Budget-/Kostenstellenverantwortlicher** | Gesamtkosten, Verlängerungspreisrisiko, außerbilanzielle Verpflichtungen | Gerichtsstand |
-| **IT / Datenschutz** | Datenspeicherung, Unterauftragnehmer, AVV, ISO/SOC-Zertifizierung | Alles andere |
-| **Geschäftsführer als Sponsor** | Reputationsrisiko, Rechtssicherheit, Zeitplanung | Einzelheiten |
-
-### Schritt 4 — Zusammenfassung erstellen
-
-**Längen-Maximum: 200 Wörter (ohne Risikomatrix und Eskalationsstatus).**
-Wer mehr schreibt, packt Details hinein, die der Empfänger nicht braucht —
-dafür ist das Memo da.
-
-**Struktur (in dieser Reihenfolge):**
-
-1. **Ein Absatz** — Urteil und Vertragsinhalt in Geschäftssprache.
- Nicht "Dienstleistungsrahmenvertrag für die Bereitstellung
- cloudbasierter Analysedienste" — sondern "das ist der Vertrag für
- das Dashboard-Tool, das das Marketing-Team angefragt hat."
-
-2. **Ein Absatz** — Der Haken, wenn es einen gibt. Was überrascht den
- Empfänger später, wenn es ihm jetzt keiner sagt? Beispiel: "Achtung:
- der Vertrag verlängert sich automatisch jährlich; Kündigung muss
- 6 Wochen vorher erfolgen. Ich habe es im Fristen-Tracker eingetragen,
- aber Sie sollten das wissen." Bei sauberem Vertrag: "Kein besonderer
- Hinweis — alles entspricht Standard."
-
-3. **2–3 Punkte Checkliste** — Was der Empfänger konkret tun muss
- (höchstens drei Punkte; wenn ein vierter nötig ist, sind die ersten
- drei nicht präzise genug).
-
-4. **Eine Zeile Abschluss** — Wer genehmigt, bis wann.
-
-### Schritt 5 — Risikomatrix (optional, für Eskalationsfälle)
-
-Wenn das Prüfungsmemo ROTE Befunde enthält oder mehrere GELBE Positionen
-gleichzeitig betroffen sind, optionale Risikomatrix erstellen:
-
-| Klausel | Risiko | Wahrscheinlichkeit | Handlung |
-|---|---|---|---|
-| [Klausel] | [Risiko in Geschäftssprache] | Gering / Mittel / Hoch | [konkrete Handlung] |
-
-Die Matrix ist vom 200-Wörter-Limit ausgenommen.
-
-### Schritt 6 — Eskalationsstatus
-
-Das Prüfungsmemo kann mehrere Genehmigungsadressaten benennen
-(GC, CISO, CFO, Geschäftsführung). Vor der Zusammenfassung zählen:
-
-1. Wie viele Eskalationsziele hat das Prüfungsmemo genannt?
-2. Wie viele Eskalationsentwürfe liegen bereits vor?
-3. Delta = noch nicht eingeleitet.
-
-Kurzer Eskalationsblock in der Zusammenfassung (oberhalb der Checkliste):
-
-```
-Eskalationsstatus: [M] von [N] Eskalationspfaden eingeleitet.
-Noch ausstehend:
-- [Adressat] — [ein Satz zum Befund]
-```
-
-Wenn alle eingeleitet: `[N] von [N] Eskalationspfaden eingeleitet.`
-Wenn das Prüfungsmemo keine Eskalationen vorsieht: Block weglassen.
-
-## Beispiel
-
-**Szenario:** SaaS-Vertrag für ein Marketing-Tool, Kunden-Seite,
-zwei GELBE Befunde (automatische Verlängerung, Preisanpassungsklausel),
-kein ROTER Befund. Empfänger: Geschäftsführerin.
-
-```
-VERTRAULICH — ANWALTLICHES ARBEITSERGEBNIS
-
-**TechSoft GmbH SaaS-Lizenzvertrag** — UNTERSCHRIFTSREIF (mit Hinweis)
-
-Das ist der Vertrag für die neue Marketing-Automatisierungsplattform,
-die das Team seit Q3 testen möchte. Laufzeit 12 Monate, Jahresgebühr
-24.000 €, Datenspeicherung ausschließlich in der EU.
-
-Zwei Punkte, die Sie kennen sollten: Der Vertrag verlängert sich automatisch
-um ein Jahr, wenn wir nicht 6 Wochen vorher kündigen — ich habe das im
-Fristen-Tracker eingetragen. Außerdem darf TechSoft den Preis bei Verlängerung
-um bis zu 5 % erhöhen; das muss in die Budgetplanung für nächstes Jahr.
-
-Eskalationsstatus: kein Eskalationsbedarf nach Playbook-Prüfung.
-
-**Was jetzt zu tun ist:**
-- [ ] Verlängerungstermin im Kalender sichern (6 Wochen vor Ende = XX.XX.XXXX)
-- [ ] Preisanpassung in Budgetplanung aufnehmen (+max. 5 % ab 2. Jahr)
-
-**Genehmigung:** Unterschrift durch Prokuristin; keine GC-Freigabe erforderlich.
-```
-
-## Risiken und typische Fehler
-
-- **Fristen-Tracker-Eintragung behaupten ohne Prüfung.** Nur dann schreiben
- "im Fristen-Tracker eingetragen", wenn `/vertragsrecht:vertragsverlängerungs-monitor`
- tatsächlich für diesen Vertrag ausgeführt wurde. Andernfalls:
- "noch nicht eingetragen — bitte als Handlungspunkt aufnehmen."
-- **Klauseln trunkieren.** Bedingte Klauseln vollständig paraphrasieren —
- nie verkürzte Version, die die Bedingung weglässt.
-- **Privilegkreis ignorieren.** Bei Weiterleitung außerhalb der
- Rechtsabteilung Kennzeichnung anpassen; darauf hinweisen, dass die
- Weiterleitung vertraulicher Rechtsberatung an Dritte den Schutz
- dieser Kommunikation beeinflusst.
-- **Eskalationsadressen weglassen.** Auch wenn der Empfänger die Namen
- nicht kennt, muss der Eskalationsstatus intern vollständig sein.
- Die Zusammenfassung signalisiert dem Anwalt, ob alle Eskalationspfade
- beschritten wurden.
-- **"Kein Risiko" bei sauberem Vertrag nicht sagen.** Stattdessen:
- "Kein besonderer Hinweis — der Vertrag entspricht unserem Standard
- und ist unterzeichnungsreif."
-
-## Quellenpflicht
-
-Wenn die Zusammenfassung auf ein spezifisches Risiko hinweist (z. B.
-DSGVO-Pflicht, Haftungsobergrenze), muss das zugrundeliegende Prüfungsmemo
-die folgenden Quellen enthalten (nicht die Zusammenfassung selbst — die
-ist für Nicht-Juristen):
-- Gesetzesnorm (z. B. Art. 28 DSGVO, § 309 Nr. 7 BGB)
-- BGH-Entscheidung in korrekter Zitierweise
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
- Literaturfundstellen nicht beispielhaft erfinden; bei Bedarf Platzhalter "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" verwenden.
-
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `rechtsquellen`
-
-_Wenn es um Rechtsquellen: Abschlussprodukt und Übergabe in Vertragsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten._
-
-# Rechtsquellen: Abschlussprodukt und Übergabe
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Rechtsquellen: Abschlussprodukt und Übergabe
-- **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsquellen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `saas-tracking-vert`
-
-_Wenn es um Saas: Risikoampel, Gegenargumente und Verteidigungslinien in Vertragsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Saas: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Saas: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Saas** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `vertriebsvertraege-fristen-form-und-zustaendigkeit`
-
-_Wenn es um Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vertriebsvertraege** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `rahmenvertrag-beweislast-vertragsrecht-vert`
-
-_Wenn es um Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung
-- **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rahmenvertrag** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
 ## Skill: `zusammenfassungen-mehrparteien-konflikt-und-interessen`
 
-_Wenn es um Zusammenfassungen: Mehrparteienkonflikt und Interessenmatrix in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Zusammenfassungen: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Zusammenfassungen: Mehrparteienkonflikt und Interessenmatrix
 
@@ -1372,11 +885,329 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `agb-pruefung`
+## Skill: `routing-zahlen-schwellen-und-berechnung`
 
-_Wenn es um AGB-Prüfung – Einbeziehung und Inhaltskontrolle in Vertragsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck._
+_Für Routing: Zahlen, Schwellenwerte und Berechnung: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen._
 
-# AGB-Prüfung – Einbeziehung und Inhaltskontrolle
+# Routing: Zahlen, Schwellenwerte und Berechnung
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Routing: Zahlen, Schwellenwerte und Berechnung
+- **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Routing** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `saas-tracking-vert`
+
+_Für Saas: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Saas: Risikoampel, Gegenargumente und Verteidigungslinien
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Saas: Risikoampel, Gegenargumente und Verteidigungslinien
+- **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Saas** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `rahmenvertrag-beweislast-vertragsrecht-vert`
+
+_Für Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix._
+
+# Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung
+- **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rahmenvertrag** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `renewal-review-routing`
+
+_Für Renewal: Schriftsatz-, Brief- und Memo-Bausteine: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Renewal: Schriftsatz-, Brief- und Memo-Bausteine
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Renewal: Schriftsatz-, Brief- und Memo-Bausteine
+- **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Renewal** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `vert-mandantenkommunikation-entscheidungsvorlage`
+
+_Für Vert: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage._
+
+# Vert: Mandantenkommunikation und Entscheidungsvorlage
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1353 Abs. 1 BGB` — eheliche Lebensgemeinschaft.
+- `§ 1360 BGB` — Familienunterhalt.
+- `§ 1565 Abs. 1 BGB` — Scheidung.
+- `§ 1570 BGB` — Betreuungsunterhalt.
+- `§ 1601 BGB` — Verwandtenunterhalt.
+- `§ 1626 Abs. 1 BGB` — elterliche Sorge.
+- `§ 1671 BGB` — Sorgerechtsuebertragung.
+- `§ 1684 BGB` — Umgangsrecht.
+- `§ 23a Abs. 1 GVG` — Familiengerichtsbarkeit.
+- `§ 113 FamFG` — Verfahrensregeln in Familienstreitsachen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Vert: Mandantenkommunikation und Entscheidungsvorlage
+- **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vert** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `workflow-kaltstart-und-routing`
+
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Vertragsrecht._
+
+# Kaltstart und Routing
+
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Routing-Heuristik Vertragsrecht
+
+- **Verbraucher (§ 13 BGB) involviert?**
+  - Ja, und Fernabsatz/außerhalb von Geschäftsräumen: -> Skill `widerruf-fernabsatz`.
+  - Ja, AGB der Gegenseite: -> Plugin `agb-recht-pruefer`, Skill `agb-pruefung-kaltstart`.
+- **Vertragsschluss-Stadium?**
+  - Antrag/Annahme strittig (§§ 145 ff. BGB): Auslegungs- und Bindungsdauer prüfen (§§ 145, 147, 148 BGB).
+  - Form streitig: § 126 BGB Schriftform, § 126a BGB qES, § 126b BGB Textform (-> Plugin `schriftform-und-textform-bgb`).
+- **Leistungsstörung?**
+  - Verzug §§ 280, 286, 288 BGB; Schadensersatz §§ 280-283 BGB; Rücktritt §§ 323, 326 BGB; Skill `vert-leistungsstoerungen-leitfaden`.
+- **Mängel?**
+  - Kauf: §§ 434-453 BGB, Verjährung § 438 BGB.
+  - Werk: §§ 633-651 BGB, Verjährung § 634a BGB.
+- **NDA-Bezug?**
+  - Vertragsentwurf: Plugin `nda-abgleich`.
+- **B2B Rahmenvertrag/SaaS:**
+  - Skills `saas-msa-pruefung`, `vert-rahmenvertrag-einzelabrufe-spezial`.
+- **Internationaler Bezug?**
+  - Rom I-VO Art. 3, 4 (Rechtswahl, objektive Anknüpfung); CISG Art. 1, 6 (UN-Kaufrecht); Brüssel Ia-VO 1215/2012 (Gerichtsstand).
+
+## Erste-Schritt-Sofortmaßnahmen je nach Fall
+
+- **Verjährungsfrist droht (binnen 30 Tagen):** Sofort Verjährungshemmung prüfen (§ 203 BGB Verhandlungen, § 204 BGB Klage, Mahnverfahren § 204 Abs. 1 Nr. 3 BGB).
+- **Widerrufsfrist droht:** § 355 Abs. 2 BGB (14 Tage ab Erhalt) bzw. § 356 Abs. 3 S. 2 BGB (12 Monate + 14 Tage bei fehlender Belehrung).
+- **Verzug der Gegenseite:** Mahnung + Fristsetzung (§ 286 Abs. 1 BGB) als Erstmaßnahme.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+---
+
+## Skill: `widerruf-fernabsatz`
+
+_Für Widerruf im Fernabsatz- und Außergeschäftsraumvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Widerruf im Fernabsatz- und Außergeschäftsraumvertrag
 
 ## Arbeitsweg
 
@@ -1387,51 +1218,58 @@ _Wenn es um AGB-Prüfung – Einbeziehung und Inhaltskontrolle in Vertragsrecht 
 
 ## Zweck
 
-Begleitet die vollständige AGB-rechtliche Prüfung nach §§ 305–310 BGB. Er deckt
-drei Prüfungsebenen ab: (1) wirksame Einbeziehung (§§ 305–305c BGB), (2) Auslegung
-(§§ 305b, 305c Abs. 2 BGB) und (3) Inhaltskontrolle (§§ 307–309 BGB). Typische Mandate:
-Gestaltung oder Revision von Online-AGB (B2C/E-Commerce), Lieferanten- und Einkaufsbedingungen
-(B2B), Prüfung fremder AGB im Rahmen einer Vertragsverhandlung.
+Begleitet rechtliche Fragestellungen rund um das verbraucherschützende Widerrufsrecht
+bei Fernabsatzverträgen (§ 312c BGB) und Außergeschäftsraumverträgen (§ 312b BGB). Typische
+Mandate: (1) Prüfung der Ordnungsmäßigkeit einer Widerrufsbelehrung für einen Online-Shop,
+(2) Durchsetzung des Widerrufsrechts für einen Verbraucher, (3) Abwehr eines erklärten Widerrufs
+durch einen Unternehmer, (4) Beratung zu Ausnahmen (§ 312g Abs. 2 BGB) und (5) Rückabwicklung
+nach § 357 BGB.
 
 ## Eingaben
 
 Das Modell benötigt:
 
-1. **AGB-Text**: vollständiger Wortlaut der zu prüfenden Klauseln oder des gesamten Klauselwerks
-2. **Vertragstyp**: Kauf-, Werk-, Dienst-, Miet- oder sonstiger Vertrag
-3. **Vertragsparteien**: B2C (Verbraucher i. S. v. § 13 BGB) oder B2B (Unternehmer § 14 BGB);
- ggf. gemischte Konstellationen
-4. **Einbeziehungsmodalitäten**: Wie werden AGB einbezogen (Webshop, Bestellformular,
- Rahmenvertrag)? Liegen Hinweis und Möglichkeit zur Kenntnisnahme vor?
-5. **Besondere Branchen**: Energieversorgung, Banken, Versicherungen (Sonderregelungen)
+1. **Art des Vertrags**: Kauf, Werk, Dienstleistung, digitale Inhalte, Finanzdienstleistung
+2. **Vertragsschluss**: Datum, Kanal (Webshop, Telefon, App, Haustür, Messe)
+3. **Widerrufsbelehrung**: Wortlaut der verwendeten Belehrung (oder Angabe, dass keine
+ erteilt wurde); Verweis auf Muster-Widerrufsformular (Anlage 2 EGBGB)?
+4. **Widerrufserklärung**: Datum und Form der Widerrufserklärung des Verbrauchers
+5. **Besonderheiten**: Digitale Inhalte? Zugeschnittene Waren? Hygieneartikel? (Ausnahmen!)
+6. **Streitwert**: Für Kostenentscheidung relevant
 
 ## Rechtlicher Rahmen
 
 ### Normen
 
-- **§ 305 Abs. 1–3 BGB** – AGB-Begriff, Einbeziehungsvoraussetzungen
-- **§ 305a BGB** – Einbeziehung durch besondere Umstände (Fernkommunikation etc.)
-- **§ 305b BGB** – Vorrang der Individualabrede
-- **§ 305c BGB** – überraschende und mehrdeutige Klauseln; Unklarheitenregel Abs. 2
-- **§ 306 BGB** – Rechtsfolge der Unwirksamkeit (Restgültigkeit des Vertrags, dispositivem Recht)
-- **§ 307 BGB** – Inhaltskontrolle; Abs. 1 S. 2 Transparenzgebot; Abs. 2 Nr. 1 (Abweichung
- von Grundgedanken), Nr. 2 (Gefährdung des Vertragszwecks)
-- **§ 308 BGB** – Klauselverbote mit Wertungsmöglichkeit
-- **§ 309 BGB** – Klauselverbote ohne Wertungsmöglichkeit (absolute Verbote)
-- **§ 310 Abs. 1 BGB** – eingeschränkte Anwendung §§ 308, 309 im B2B-Verkehr; nur § 307 BGB
- vollanwendbar
+- **§ 312b BGB** – Außergeschäftsraumvertrag (Definition)
+- **§ 312c BGB** – Fernabsatzvertrag (Definition)
+- **§ 312d BGB** – Informationspflichten bei Fernabsatzverträgen (i. V. m. Art. 246a EGBGB)
+- **§ 312g Abs. 1 BGB** – Widerrufsrecht als Grundregel
+- **§ 312g Abs. 2 BGB** – Ausnahmen vom Widerrufsrecht (Nr. 1–13, z. B. nach Maß angefertigte
+ Waren, digitale Inhalte nach Ausführungsbeginn mit Zustimmung, Hygieneartikel nach Entsiegelung)
+- **§ 355 BGB** – Widerrufsrecht, Widerrufserklärung, Form
+- **§ 356 BGB** – Widerrufsfrist (14 Tage; bei fehlender/fehlerhafter Belehrung: 12 Monate +
+ 14 Tage, § 356 Abs. 3 S. 2 BGB)
+- **§ 357 BGB** – Rechtsfolgen des Widerrufs (gegenseitige Rückgewähr, Wertersatz für
+ Verschlechterung § 357 Abs. 7 BGB)
+- **Anlage 1 EGBGB** – Muster-Widerrufsbelehrung (amtliches Gestaltungshinweis-Muster;
+ bei ordnungsgemäßer Verwendung gesetzliche Fiktion der ordnungsmäßigen Belehrung)
+- **Anlage 2 EGBGB** – Muster-Widerrufsformular
+- **Art. 246a EGBGB** – Informationspflichten im Fernabsatz; § 1 Abs. 2 Nr. 1 (ausdrückliche
+ Hinweispflicht auf Widerrufsrecht)
 
 ### Leitentscheidungen
 
- von AGB im Onlinehandel; der bloße Verweis auf "unsere AGB" genügt, wenn die Klauseln vor
- Vertragsschluss klar zugänglich sind; kein Erfordernis, dass der Verbraucher die AGB
- tatsächlich liest.
- § 307 Abs. 1 S. 2 BGB; eine Preisanpassungsklausel ist unwirksam, wenn sie dem Verwender
- die einseitige Anpassung ermöglicht, ohne dass der Vertragspartner die Höhe vorhersehen kann.
- Laufzeitklauseln im B2B-Bereich; auch im B2B gilt § 307 BGB; eine übermäßig lange
- Bindungsfrist kann den Vertragspartner unangemessen benachteiligen.
- § 305c Abs. 2 BGB; bei zwei vertretbaren Auslegungen ist die für den Verwender ungünstigere
- maßgeblich.
+ Wertersatzanspruch des Unternehmers für die Benutzung der Ware vor Ausübung des Widerrufs nur
+ dann zu leisten, wenn er die Ware über das zur Prüfung notwendige Maß hinaus benutzt hat; eine
+ pauschale Nutzungsentschädigung ist mit dem Widerrufsrecht unvereinbar.
+ fehlerhafter Widerrufsbelehrung; die Widerrufsfrist beginnt nicht zu laufen, wenn der
+ Unternehmer keine oder eine fehlerhafte Belehrung erteilt hat; der Verbraucher kann auch
+ Monate nach Lieferung noch widerrufen.
+ versiegelte Waren § 312g Abs. 2 Nr. 3 BGB; die Entsiegelung muss produktspezifisch
+ hygienisch bedeutsam sein; eine Schutzfolie auf einem Buch fällt nicht darunter.
+ Widerrufsrechts bei Verbraucherdarlehen; auch bei formell fehlerhafter Belehrung kann das
+ Widerrufsrecht verwirkt sein, wenn der Verbraucher jahrelang Leistungen erbracht hat.
 
 ### Quellenregel
 
@@ -1439,71 +1277,66 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Ablauf
 
-1. **Qualifikation als AGB** (§ 305 Abs. 1 BGB): Sind die Klauseln vorformuliert für eine
- Vielzahl von Verträgen? Wurde der Inhalt vom Verwender gestellt? Cave: 3-Verträge-Regel
- der Rspr.
-2. **Einbeziehungsprüfung** (§§ 305 Abs. 2, 305a BGB):
- - Deutlicher Hinweis vor Vertragsschluss?
- - Zumutbare Möglichkeit der Kenntnisnahme (Link oder Aushang)?
- - Bei B2B: § 305 Abs. 2 BGB gilt nicht; konkludente Einbeziehung durch Handelsbrauch
- möglich (§ 346 HGB).
-3. **Individualabrede** (§ 305b BGB): Vorrang prüfen; Individualabrede muss ernsthaft
- ausgehandelt sein (BGH: blo­ßes Textmarkieren im Formular ≠ Aushandeln).
-4. **Überraschungsklauseln** (§ 305c Abs. 1 BGB): Ungewöhnlich und nicht zu erwarten?
- Klausel wird nicht Vertragsbestandteil.
-5. **Auslegung** (§ 305c Abs. 2 BGB): Bei Unklarheit → kundenfreundlichste Auslegung.
-6. **Inhaltskontrolle** §§ 307–309 BGB in der Prüfreihenfolge:
- a. § 309 BGB (Verbote ohne Wertungsmöglichkeit) – abschließende schwarze Liste
- b. § 308 BGB (Verbote mit Wertungsmöglichkeit) – graue Liste
- c. § 307 BGB (Generalklausel) – unangemessene Benachteiligung; Transparenzgebot
- Im B2B-Verkehr: §§ 308, 309 BGB gelten nur als Indizien für § 307 BGB
- (§ 310 Abs. 1 S. 2 BGB).
-7. **Rechtsfolge** (§ 306 BGB): Unwirksame Klausel entfällt; Vertrag bleibt im Übrigen
- wirksam; dispositives Recht tritt an die Stelle (Lückenfüllung).
-8. **Empfehlung**: Klausel-für-Klausel-Tabelle mit Ampelsystem (grün/gelb/rot) und
- Überarbeitungsvorschlägen.
+1. **Qualifikation des Vertrags**: Liegt ein Fernabsatz- oder Außergeschäftsraumvertrag vor?
+ Prüfung der Definition (§§ 312b, 312c BGB); Verbrauchereigenschaft (§ 13 BGB)?
+2. **Ausnahmen prüfen** (§ 312g Abs. 2 BGB): Individuelle Anfertigung? Digitale Inhalte nach
+ Ausführungsbeginn? Entsiegelte Hygieneartikel? Gilt kein Widerrufsrecht → Hinweis an Mandant.
+3. **Belehrungsprüfung**:
+ - Stimmt die Belehrung mit Anlage 1 EGBGB überein? (Musterverwendung = Fiktion)
+ - Fehler? → Frist läuft nicht → Widerruf noch möglich (§ 356 Abs. 3 BGB)
+ - Ist das Muster-Widerrufsformular (Anlage 2 EGBGB) mitgeteilt worden?
+4. **Fristberechnung** (§ 355 Abs. 2 BGB): 14 Tage ab Vertragsschluss (Dienstleistungen) bzw.
+ ab Warenerhalt (§ 356 Abs. 2 BGB). Fristbeginn erst nach vollständiger Information.
+5. **Widerrufserklärung**: Formfrei (§ 355 Abs. 1 S. 2 BGB), aber eindeutig; Fax, E-Mail,
+ Brief, Rücksendung ausreichend. Fristwahrung: Absendung entscheidend.
+6. **Rückabwicklung** (§ 357 BGB): Unternehmer muss Zahlung inkl. Lieferkosten (Standard)
+ binnen 14 Tagen zurückgewähren. Verbraucher muss Ware binnen 14 Tagen zurücksenden.
+ Kosten der Rücksendung trägt Unternehmer, sofern er darüber informiert hat (§ 357 Abs. 6 BGB).
+7. **Wertersatz** (§ 357 Abs. 7 BGB): Unternehmer kann Wertersatz verlangen bei Verschlechterung
+ durch bestimmungswidrige Nutzung (nicht: normaler Prüfgebrauch, vgl. EuGH – "Messner").
+8. **Auskunft zu Kosten**: Ggf. Hinweis auf Schadensersatzpflicht bei schuldhafter Verletzung
+ der Rückgabepflicht.
 
 ## Beispiel
 
-**Sachverhalt**: Eine Online-Plattform (B2C) verwendet folgende Klausel: "Änderungen an den
-AGB werden dem Kunden per E-Mail mitgeteilt. Widerspricht der Kunde nicht binnen 6 Wochen,
-gilt seine Zustimmung als erteilt."
+**Sachverhalt**: Verbraucher V kaufte am 01.03.2025 ein Smartphone im Webshop des Unternehmers U.
+Die Widerrufsbelehrung nannte keine Rücksendekosten. V erklärte den Widerruf am 20.03.2025.
 
 **Prüfung (Gutachtenstil)**:
 
-*§ 308 Nr. 5 BGB*: Die Klausel fingiert eine Willenserklärung (Zustimmung) durch Schweigen.
-Nach § 308 Nr. 5 lit. b BGB müsste der Verwender den Kunden auf die Bedeutung seines
-Schweigens hinweisen. Ob ein ausreichender Hinweis in der E-Mail liegt, ist im Einzelfall zu
-prüfen. Fehlt er, ist die Klausel nach § 308 Nr. 5 BGB unwirksam.
+*Widerrufsrecht (§ 312g Abs. 1 BGB)*: Fernabsatzvertrag über bewegliche Sache; kein
+Ausnahmetatbestand § 312g Abs. 2 BGB einschlägig. Widerrufsrecht besteht.
 
-*Zusätzlich § 307 Abs. 1 S. 2 BGB (Transparenzgebot)*: Die Frist von 6 Wochen ist nach
+*Frist (§ 356 Abs. 2 Nr. 1 BGB)*: Fristbeginn mit Erhalt der Ware. Belehrung wurde erteilt;
+es ist zu prüfen, ob die Nichtnennung der Rücksendekosten einen Belehrungsfehler darstellt.
+Da § 357 Abs. 6 S. 2 BGB die Tragungspflicht des Unternehmers an eine ordnungsgemäße
+Information knüpft, ist die Belehrung insoweit fehlerhaft. Die 14-Tage-Frist ist dennoch
+in Gang gesetzt, sofern die übrigen Belehrungsinhalte korrekt waren. Widerruf am 20.03.2025
+(19 Tage nach Lieferannahme) ist verspätet, sofern Lieferung vor dem 06.03.2025 erfolgte.
+
+*Kostenfolge*: Da U nicht über die Pflicht zur Übernahme der Rücksendekosten informiert hat,
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Verbraucher nicht erkennen kann, welche konkreten Änderungen gelten sollen.
-
-**Ergebnis**: Klausel ist unwirksam. Empfohlen: Opt-in-Lösung mit aktiver Bestätigung.
 
 ## Risiken und typische Fehler
 
-- **Einbeziehungsfehler**: AGB werden erst nach Vertragsschluss übermittelt → nicht wirksam
- einbezogen (§ 305 Abs. 2 BGB); besonders kritisch bei E-Commerce.
-- **Überraschungsklauseln** (§ 305c BGB): Klauseln an unerwarteter Stelle (z. B. Haftungsaus-
- schluss in Lieferbedingungen) → unwirksam ohne Hinweis.
-- **Unterschätzung des B2B-Risikos**: Auch B2B-AGB unterliegen § 307 BGB; übermäßige
- Haftungsfreizeichnungen und einseitige Preisänderungsrechte werden vom BGH kassiert.
-- **Transparenzgebot** § 307 Abs. 1 S. 2 BGB: Preis­nachberechnungsklauseln ohne
-- **Geltungserhaltende Reduktion**: Im deutschen AGB-Recht grundsätzlich nicht zulässig
- (BGH st. Rspr.); unwirksame Klausel entfällt ersatzlos oder wird durch dispositives Recht
- ersetzt.
-- **Berufsrecht**: Keine Klauseln entwerfen, die § 43a BRAO oder berufsrechtliche Verbote
- umgehen; Verschwiegenheit § 203 StGB beachten.
+- **Keine oder fehlerhafte Belehrung**: Widerrufsfrist läuft nicht → unbegrenzte Widerrufsmöglich-
+ keit (bis 12 Monate + 14 Tage). Unternehmer-Risiko: erhebliches Haftungsvolumen.
+- **Ausnahmen § 312g Abs. 2 BGB übersehen**: Unternehmer weist Widerruf zu Unrecht zurück →
+ Zahlungsverzug, Verzugszinsen, Schadensersatz.
+- **Wertersatz nach § 357 Abs. 7 BGB**: Zu hohe Forderung → Verbraucher schuldet nur
+ Verschlechterung über normalen Prüfgebrauch hinaus; pauschale Nutzungsentschädigung
+ unionsrechtswidrig (EuGH – "Messner").
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Berufsrecht**: Mandantendaten (Bestell- und Zahlungsdaten) unterliegen § 43a Abs. 2 BRAO,
+ § 203 StGB; Verarbeitung nur in gesicherten Systemen.
 
 ## Quellenpflicht
 
-Jede AGB-Bewertung ist nach `references/zitierweise.md` zu belegen. Für jede als unwirksam
-eingestufte Klausel ist die einschlägige BGH-Entscheidung oder die herrschende Kommentarmeinung
-zu zitieren (Bearbeiter, Werk, Aufl., §, Rn.). Bei abweichender Instanzrechtsprechung ist auf
-den Streitstand hinzuweisen. "Die Klausel ist unwirksam" ohne Beleg ist kein ausreichendes
-Ergebnis.
+Jede Aussage zur Belehrungspflicht, Fristberechnung und Rückabwicklung ist nach
+`references/zitierweise.md` zu belegen. Insbesondere EuGH-Entscheidungen mit vollständigem
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+dass Rechtsprechung insoweit nicht vorliegt.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 

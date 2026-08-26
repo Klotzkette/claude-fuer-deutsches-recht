@@ -1,6 +1,6 @@
 ---
 name: gefluegelmast-beweise-sichern
-description: "Wenn es um Gefluegelmast Beweise Sichern in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geflügelmast Beweise Sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Gefluegelmast Beweise Sichern

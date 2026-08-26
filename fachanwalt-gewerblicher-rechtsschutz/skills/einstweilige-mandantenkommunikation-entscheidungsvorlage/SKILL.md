@@ -1,6 +1,6 @@
 ---
 name: einstweilige-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Einstweilige Mandantenkommunikation Entscheidungsvorlage in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Einstweilige Mandantenkommunikation Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Mandantenkommunikation im Eilverfahren: Entscheidungsvorlage für einstweilige Verfügung, Risiko-Chancen-Abwägung, Kostenaufklärung § 49b BRAO, Mandantenbrief EV-Antrag oder Reaktion auf EV, Informationspflichten und Dokumentation.
@@ -141,3 +141,7 @@ Wir empfehlen [Option] weil [Begründung].
 ## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Kostenberechnung ohne vollständige Daten.
 - Kein Ersatz für vollständige Mandantenberatung und individuelle Aufklärung.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-einstweilige-mandantenkommunikation-entscheidungsvorlage` beziehungsweise Einstweilige: Mandantenkommunikation und Entscheidungsvorlage: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-einstweilige-mandantenkommunikation-entscheidungsvorlage.md).

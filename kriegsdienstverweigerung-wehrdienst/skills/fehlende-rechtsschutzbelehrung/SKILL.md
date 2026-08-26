@@ -1,6 +1,6 @@
 ---
 name: fehlende-rechtsschutzbelehrung
-description: "Wenn es um Rechtsbehelfsbelehrung prüfen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsbehelfsbelehrung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsbehelfsbelehrung prüfen

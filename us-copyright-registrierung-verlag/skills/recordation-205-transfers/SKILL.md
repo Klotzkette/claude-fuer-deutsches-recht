@@ -1,6 +1,6 @@
 ---
 name: recordation-205-transfers
-description: "Wenn es um Recordation Paragraf 205 Transfers in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Recordation Paragraf 205 Transfers: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Recordation § 205 Transfers

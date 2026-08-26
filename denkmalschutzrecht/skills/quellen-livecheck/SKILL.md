@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Wenn es um Quellen-Livecheck Denkmalrecht in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Quellen-Livecheck Denkmalrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quellen-Livecheck Denkmalrecht

@@ -1,6 +1,6 @@
 ---
 name: monatlicher-rechtscheck
-description: "Wenn es um Kaltstart und Orientierung: Führt einen wiederkehrenden monatscheck für fristen in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart und Orientierung: Führt einen wiederkehrenden monatscheck für fristen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart und Orientierung: Führt einen wiederkehrenden monatscheck für fristen

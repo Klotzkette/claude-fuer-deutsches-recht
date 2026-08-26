@@ -1,6 +1,6 @@
 ---
 name: messe-verletzung-und-gv-einsatz
-description: "Wenn es um Markenverletzung auf Messen und Gerichtsvollzieher-Einsatz in markenrecht-fashion-luxus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Markenverletzung auf Messen und Gerichtsvollzieher-Einsatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Markenverletzung auf Messen und Gerichtsvollzieher-Einsatz

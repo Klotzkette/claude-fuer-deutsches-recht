@@ -1,6 +1,6 @@
 ---
 name: ein-028-volkseigener-betrieb-widerspruch-pruef
-description: "Wenn es um Volkseigener Betrieb Widerspruch Pruef in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Volkseigener Betrieb Widerspruch Prüf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Volkseigener Betrieb Widerspruch Pruef

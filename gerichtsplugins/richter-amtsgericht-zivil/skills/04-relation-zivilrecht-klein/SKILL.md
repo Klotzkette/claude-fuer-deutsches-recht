@@ -1,6 +1,6 @@
 ---
 name: 04-relation-zivilrecht-klein
-description: "Wenn es um 04 Relation Zivilrecht Klein in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 04 Relation Zivilrecht Klein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 04 Relation Zivilrecht Klein

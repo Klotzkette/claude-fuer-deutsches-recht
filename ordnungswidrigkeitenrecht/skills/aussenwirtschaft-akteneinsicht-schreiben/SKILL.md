@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-akteneinsicht-schreiben
-description: "Wenn es um Außenwirtschaft Akteneinsicht Schreib in Ordnungswidrigkeitenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Außenwirtschaft Akteneinsicht Schreib: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Ordnungswidrigkeitenrecht. Route: aussenwirtschaft-akteneinsicht-schreiben."
 ---
 
 # Außenwirtschaft Akteneinsicht Schreib

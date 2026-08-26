@@ -1,6 +1,6 @@
 ---
 name: einreichung-fax-und-grenzen-sozialgericht
-description: "Wenn es um Klage per Fax beim SG — Grenzen und Tipps in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klage per Fax beim SG — Grenzen und Tipps: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Klage per Fax beim SG — Grenzen und Tipps

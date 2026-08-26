@@ -1,6 +1,6 @@
 ---
 name: data-room-index-vc
-description: "Wenn es um Datenraum-Index VC in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenraum-Index VC: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenraum-Index VC

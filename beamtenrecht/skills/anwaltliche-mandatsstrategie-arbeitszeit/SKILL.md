@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-mandatsstrategie-arbeitszeit
-description: "Wenn es um Anwaltliche Mandatsstrategie Beamtenrecht in Beamtenrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Anwaltliche Mandatsstrategie Beamtenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Anwaltliche Mandatsstrategie Beamtenrecht

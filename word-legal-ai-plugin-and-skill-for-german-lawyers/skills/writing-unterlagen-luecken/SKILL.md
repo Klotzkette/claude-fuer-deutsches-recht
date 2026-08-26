@@ -1,6 +1,6 @@
 ---
 name: writing-unterlagen-luecken
-description: "Wenn es um Unterlagen und Lücken in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Unterlagen und Lücken: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Word-Workflows für deutsche Juristen."
 ---
 
 # Unterlagen und Lücken

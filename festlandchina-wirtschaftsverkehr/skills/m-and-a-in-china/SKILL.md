@@ -1,6 +1,6 @@
 ---
 name: m-and-a-in-china
-description: "Wenn es um M&A in China: Due Diligence und Transaktionsstruktur in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für M&A in China: Due Diligence und Transaktionsstruktur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # M&A in China: Due Diligence und Transaktionsstruktur

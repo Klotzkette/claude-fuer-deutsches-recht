@@ -1,6 +1,6 @@
 ---
 name: markeng-risikoampel-und-gegenargumente
-description: "Wenn es um MarkenG: Risikoampel und Gegenargumente in Fachanwalt Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für MarkenG: Risikoampel und Gegenargumente: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # MarkenG: Risikoampel und Gegenargumente
@@ -107,3 +107,7 @@ description: "Wenn es um MarkenG: Risikoampel und Gegenargumente in Fachanwalt G
 ## Was dieser Arbeitsgang nicht macht
 - Keine vollständige Verwechslungsbeurteilung ohne Kenntnis beider Zeichen.
 - Kein Ersatz für vollständige Mandantenberatung.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-markeng-risikoampel-und-gegenargumente` beziehungsweise Markeng: Risikoampel, Gegenargumente und Verteidigungslinien: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-markeng-risikoampel-und-gegenargumente.md).

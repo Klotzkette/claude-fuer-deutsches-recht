@@ -1,6 +1,6 @@
 ---
 name: dsa-pflichten-e-commerce-einstweilige
-description: "Wenn es um DSA Pflichten Vermittlungsdienste Online-Plattformen in E-Commerce-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSA Pflichten Vermittlungsdienste Online-Plattformen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSA Pflichten Vermittlungsdienste Online-Plattformen

@@ -1,6 +1,6 @@
 ---
 name: bverfg-rechtsprechung-recherchieren
-description: "Wenn es um BVerfG-Rechtsprechung recherchieren in verfassungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für BVerfG-Rechtsprechung recherchieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BVerfG-Rechtsprechung recherchieren

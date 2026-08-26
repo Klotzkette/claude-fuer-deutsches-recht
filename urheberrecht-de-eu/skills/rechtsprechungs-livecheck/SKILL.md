@@ -1,6 +1,6 @@
 ---
 name: rechtsprechungs-livecheck
-description: "Wenn es um Rechtsprechungs- und Quellenlivecheck in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsprechungs- und Quellenlivecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsprechungs- und Quellenlivecheck

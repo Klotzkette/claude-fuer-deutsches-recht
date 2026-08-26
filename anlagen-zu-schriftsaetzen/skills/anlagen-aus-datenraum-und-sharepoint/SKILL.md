@@ -1,6 +1,6 @@
 ---
 name: anlagen-aus-datenraum-und-sharepoint
-description: "Wenn es um Datenraum und SharePoint als Anlagenquelle in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Datenraum und SharePoint als Anlagenquelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenraum und SharePoint als Anlagenquelle

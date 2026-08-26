@@ -1,6 +1,6 @@
 ---
 name: positive-beschlussfeststellung
-description: "Wenn es um Positive Beschlussfeststellung in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Positive Beschlussfeststellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Positive Beschlussfeststellung

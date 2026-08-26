@@ -1,6 +1,6 @@
 ---
 name: intwr-rom-i-ii-leitfaden
-description: "Wenn es um Intwr Rom I Ii Leitfaden in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Intwr Rom I Ii Leitfaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art

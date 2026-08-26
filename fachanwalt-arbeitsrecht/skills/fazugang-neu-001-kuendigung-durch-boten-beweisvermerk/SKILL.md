@@ -1,6 +1,6 @@
 ---
 name: fazugang-neu-001-kuendigung-durch-boten-beweisvermerk
-description: "Wenn es um Fachanwalt Arbeitsrecht: Kündigung durch Boten Beweisvermerk und Prozessstrategie in Fachanwalt Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachanwalt Arbeitsrecht: Kündigung durch Boten Beweisvermerk und Prozessstrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Fachanwalt Arbeitsrecht: Kündigung durch Boten Beweisvermerk und Prozessstrategie

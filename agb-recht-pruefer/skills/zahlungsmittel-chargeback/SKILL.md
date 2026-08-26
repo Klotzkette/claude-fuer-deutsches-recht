@@ -1,6 +1,6 @@
 ---
 name: zahlungsmittel-chargeback
-description: "Wenn es um Zahlungsmittel Chargeback in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zahlungsmittel Chargeback: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zahlungsmittel Chargeback

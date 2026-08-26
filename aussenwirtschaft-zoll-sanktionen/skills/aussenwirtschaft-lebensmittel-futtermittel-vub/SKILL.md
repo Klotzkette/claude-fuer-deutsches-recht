@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-lebensmittel-futtermittel-vub
-description: "Wenn es um Lebensmittel- und Futtermitteleinfuhr: Verbote, Beschraenkungen und Grenzkontrolle in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lebensmittel- und Futtermitteleinfuhr: Verbote, Beschränkungen und Grenzkontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lebensmittel- und Futtermitteleinfuhr: Verbote, Beschraenkungen und Grenzkontrolle

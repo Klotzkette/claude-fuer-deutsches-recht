@@ -1,6 +1,6 @@
 ---
 name: rechtssprache-und-begriffsgeschichte
-description: "Wenn es um Rechtssprache und Begriffsgeschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtssprache und Begriffsgeschichte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtssprache und Begriffsgeschichte

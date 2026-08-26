@@ -1,6 +1,6 @@
 ---
 name: strafz-aufklaerungshilfe-kronzeuge
-description: "Wenn es um StrafZ: Aufklaerungshilfe in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für StrafZ: Aufklärungshilfe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # StrafZ: Aufklaerungshilfe

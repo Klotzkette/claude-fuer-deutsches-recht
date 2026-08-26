@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsychologie-mehrfach-vernommene-zeugen
-description: "Wenn es um Strafrecht Spezial Aussagepsychologie Mehrfach Vernommene Zeugen in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Aussagepsychologie Mehrfach Vernommene Zeugen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mehrfach vernommene Zeugen: Quellenamnesie, Skripteffekt, Verfestigung suggestiver Vernehmungsfolgen, post-event-information

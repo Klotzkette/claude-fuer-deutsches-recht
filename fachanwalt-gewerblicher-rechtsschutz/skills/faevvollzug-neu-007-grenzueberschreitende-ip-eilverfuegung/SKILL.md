@@ -1,6 +1,6 @@
 ---
 name: faevvollzug-neu-007-grenzueberschreitende-ip-eilverfuegung
-description: "Wenn es um Faevvollzug Neu 007 Grenzueberschreitende Ip Eilverfuegung in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Faevvollzug Neu 007 Grenzüberschreitende Ip Eilverfügung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grenzüberschreitende IP-Eilmaßnahmen: Internationale Zuständigkeit EuGVVO, fliegender Gerichtsstand, Unionsmarke und Gemeinschaftsgeschmacksmuster-Gerichte, UPC (Einheitspatent), Cross-border-Injunctions, WIPO-UDRP, Vollstreckung im EU-Ausland.

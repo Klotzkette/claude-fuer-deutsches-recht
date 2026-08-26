@@ -1,6 +1,6 @@
 ---
 name: handelsregister-paragraphen-8-16-hgb
-description: "Wenn es um Handelsregister Paragrafen 8 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsregister Paragrafen 8 ff. HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Handelsregister §§ 8 ff. HGB

@@ -1,6 +1,6 @@
 ---
 name: krypto-transaktionen
-description: "Wenn es um Krypto Transaktionen in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krypto Transaktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: mandat aus krypto transaktionen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

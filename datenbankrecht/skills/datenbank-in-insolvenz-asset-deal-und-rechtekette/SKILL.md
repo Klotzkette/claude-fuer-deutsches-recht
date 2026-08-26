@@ -1,6 +1,6 @@
 ---
 name: datenbank-in-insolvenz-asset-deal-und-rechtekette
-description: "Wenn es um Datenbank in der Insolvenz — Asset Deal und Rechtekette in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbank in der Insolvenz — Asset Deal und Rechtekette: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbank in der Insolvenz — Asset Deal und Rechtekette

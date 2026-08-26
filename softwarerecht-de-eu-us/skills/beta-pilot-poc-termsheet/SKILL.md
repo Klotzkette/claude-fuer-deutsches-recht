@@ -1,6 +1,6 @@
 ---
 name: beta-pilot-poc-termsheet
-description: "Wenn es um Beta Pilot PoC Termsheet in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beta Pilot PoC Termsheet: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beta Pilot PoC Termsheet

@@ -1,6 +1,6 @@
 ---
 name: kassenwahl-kuendigung-bindungsfrist-wahltarif
-description: "Wenn es um Kassenwahl: Kündigung, Bindungsfrist und Wahltarif in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kassenwahl: Kündigung, Bindungsfrist und Wahltarif: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Kassenwahl: Kündigung, Bindungsfrist und Wahltarif

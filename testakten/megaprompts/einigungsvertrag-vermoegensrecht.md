@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 124 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Einigungsvertrag Vermögensrecht ein juristisches Arbeitsprodukt tragfähig begründet werden mu…
-2. **kaltstart-triage** — Wenn es um Einigungsvertrag und Vermögensrecht - Allgemeiner Einstieg in Einigungsvertrag und Vermögensrecht geht: klärt…
-3. **ein-099-wohnhaus-ddr-enteignung-klage-skizzier** — Wenn es um Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Klage skizzieren in Einigungsvertrag und Vermög…
-4. **ein-027-volkseigener-betrieb-behoerdenbrief-sc** — Wenn es um Volkseigener Betrieb Behoerdenbrief Sc in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden En…
-5. **ein-047-mauergrundstueck-behoerdenbrief-schrei** — Wenn es um Mauergrundstueck Behoerdenbrief Schrei in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden En…
-6. **ein-057-bodenreformland-behoerdenbrief-schreib** — Wenn es um Bodenreformland Behoerdenbrief Schreib in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden En…
-7. **ein-067-parteivermoegen-behoerdenbrief-schreib** — Wenn es um Parteivermoegen Behoerdenbrief Schreib in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden En…
-8. **ein-077-kommunalvermoegen-behoerdenbrief-schre** — Wenn es um Kommunalvermoegen Behoerdenbrief Schre in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden En…
+2. **kaltstart-triage** — Für Einigungsvertrag und Vermögensrecht - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebni…
+3. **ein-027-volkseigener-betrieb-behoerdenbrief-sc** — Für Volkseigener Betrieb Behördenbrief Sc: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Be…
+4. **ein-057-bodenreformland-behoerdenbrief-schreib** — Für Bodenreformland Behördenbrief Schreib: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Be…
+5. **ein-097-wohnhaus-ddr-enteignung-behoerdenbrief** — Für Wohnhaus Ddr Enteignung Behördenbrief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Be…
+6. **ein-047-mauergrundstueck-behoerdenbrief-schrei** — Für Mauergrundstück Behördenbrief Schrei: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Beg…
+7. **ein-067-parteivermoegen-behoerdenbrief-schreib** — Für Parteivermögen Behördenbrief Schreib: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Beg…
+8. **ein-037-treuhandprivatisierung-behoerdenbrief** — Für Treuhandprivatisierung Behördenbrief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Beg…
 
 ---
 
@@ -136,7 +136,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Einigungsvertrag und Vermögensrecht - Allgemeiner Einstieg in Einigungsvertrag und Vermögensrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einigungsvertrag und Vermögensrecht - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Einigungsvertrag und Vermögensrecht - Allgemeiner Einstieg
 
@@ -191,45 +191,9 @@ Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen
 
 ---
 
-## Skill: `ein-099-wohnhaus-ddr-enteignung-klage-skizzier`
-
-_Wenn es um Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Klage skizzieren in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Klage skizzieren
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: VermG § 30 Anmeldefrist 31.12.1992 (Mobilien) bzw. 30.06.1993 (Immobilien) — Ausschlussfrist, § 30a Wiedereinsetzung, VwGO § 74 Klagefrist 1 Monat.
-- Tragende Normen verifizieren: VermG §§ 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG, SachenRBerG, Einigungsvertrag Anlage I/II, BGB §§ 985, 894 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Anmeldung nach § 30 VermG, Restitutionsbescheid, Investitionsvorrangbescheid, Grundbuchauszug, Notar-Auflassung, Investitionsbescheinigung, EALG-Bescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Klage skizzieren. Klage skizzieren für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
-
-### Wohnhaus Ddr Enteignung Klage Skizzier
-
-## Norm- und Quellenanker
-
-- Einigungsvertrag und fortgeltende/überleitende Normen
-- VermG, MauerG, SachenRBerG, Investitionsvorrang, Treuhand-Kontexte
-- Bodenreform, Parteivermögen, Volkseigentum, Register-/Grundbuchfolgen
-- Rechtshistorische Einordnung mit aktuellem Nachweisbedarf
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
 ## Skill: `ein-027-volkseigener-betrieb-behoerdenbrief-sc`
 
-_Wenn es um Volkseigener Betrieb Behoerdenbrief Sc in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Volkseigener Betrieb Behördenbrief Sc: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: ein-027-volkseigener-betrieb-behoerdenbrief-sc._
 
 # Volkseigener Betrieb Behoerdenbrief Sc
 
@@ -294,76 +258,9 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ---
 
-## Skill: `ein-047-mauergrundstueck-behoerdenbrief-schrei`
-
-_Wenn es um Mauergrundstueck Behoerdenbrief Schrei in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Mauergrundstueck Behoerdenbrief Schrei
-
-## Arbeitsauftrag
-
-Mauergrundstueck Behoerdenbrief Schrei wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
-
-## Einstieg ohne Leerlauf
-
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
-
-## Norm- und Quellenanker
-
-- Einigungsvertrag und fortgeltende/überleitende Normen
-- VermG, MauerG, SachenRBerG, Investitionsvorrang, Treuhand-Kontexte
-- Bodenreform, Parteivermögen, Volkseigentum, Register-/Grundbuchfolgen
-- Rechtshistorische Einordnung mit aktuellem Nachweisbedarf
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
-## Typische Artefakte
-
-- Überleitungs- und Normpfadkarte
-- Grundbuch-/Registerkettenanalyse
-- Restitutions-/Entschädigungsroute
-- Chronologie 1945/1949/1961/1990/heute
-
-## Red-Team-Fragen
-
-- heutige Rechtslage mit DDR-Recht verwechselt
-- Ausschlussfristen/Nachweise fehlen
-- Treuhand- oder Parteivermögen pauschalisiert
-- Grundbuchlage nicht rekonstruiert
-
-## Ausgabeformat
-
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Qualitätsregel
-
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
-
----
-
 ## Skill: `ein-057-bodenreformland-behoerdenbrief-schreib`
 
-_Wenn es um Bodenreformland Behoerdenbrief Schreib in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Bodenreformland Behördenbrief Schreib: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: ein-057-bodenreformland-behoerdenbrief-schreib._
 
 # Bodenreformland Behoerdenbrief Schreib
 
@@ -428,9 +325,143 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ---
 
+## Skill: `ein-097-wohnhaus-ddr-enteignung-behoerdenbrief`
+
+_Für Wohnhaus Ddr Enteignung Behördenbrief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: ein-097-wohnhaus-ddr-enteignung-behoerdenbrief._
+
+# Wohnhaus Ddr Enteignung Behoerdenbrief
+
+## Arbeitsauftrag
+
+Wohnhaus Ddr Enteignung Behoerdenbrief wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- Einigungsvertrag und fortgeltende/überleitende Normen
+- VermG, MauerG, SachenRBerG, Investitionsvorrang, Treuhand-Kontexte
+- Bodenreform, Parteivermögen, Volkseigentum, Register-/Grundbuchfolgen
+- Rechtshistorische Einordnung mit aktuellem Nachweisbedarf
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Überleitungs- und Normpfadkarte
+- Grundbuch-/Registerkettenanalyse
+- Restitutions-/Entschädigungsroute
+- Chronologie 1945/1949/1961/1990/heute
+
+## Red-Team-Fragen
+
+- heutige Rechtslage mit DDR-Recht verwechselt
+- Ausschlussfristen/Nachweise fehlen
+- Treuhand- oder Parteivermögen pauschalisiert
+- Grundbuchlage nicht rekonstruiert
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+---
+
+## Skill: `ein-047-mauergrundstueck-behoerdenbrief-schrei`
+
+_Für Mauergrundstück Behördenbrief Schrei: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: ein-047-mauergrundstueck-behoerdenbrief-schrei._
+
+# Mauergrundstueck Behoerdenbrief Schrei
+
+## Arbeitsauftrag
+
+Mauergrundstueck Behoerdenbrief Schrei wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- Einigungsvertrag und fortgeltende/überleitende Normen
+- VermG, MauerG, SachenRBerG, Investitionsvorrang, Treuhand-Kontexte
+- Bodenreform, Parteivermögen, Volkseigentum, Register-/Grundbuchfolgen
+- Rechtshistorische Einordnung mit aktuellem Nachweisbedarf
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Überleitungs- und Normpfadkarte
+- Grundbuch-/Registerkettenanalyse
+- Restitutions-/Entschädigungsroute
+- Chronologie 1945/1949/1961/1990/heute
+
+## Red-Team-Fragen
+
+- heutige Rechtslage mit DDR-Recht verwechselt
+- Ausschlussfristen/Nachweise fehlen
+- Treuhand- oder Parteivermögen pauschalisiert
+- Grundbuchlage nicht rekonstruiert
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+---
+
 ## Skill: `ein-067-parteivermoegen-behoerdenbrief-schreib`
 
-_Wenn es um Parteivermoegen Behoerdenbrief Schreib in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Parteivermögen Behördenbrief Schreib: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: ein-067-parteivermoegen-behoerdenbrief-schreib._
 
 # Parteivermoegen Behoerdenbrief Schreib
 
@@ -495,15 +526,15 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ---
 
-## Skill: `ein-077-kommunalvermoegen-behoerdenbrief-schre`
+## Skill: `ein-037-treuhandprivatisierung-behoerdenbrief`
 
-_Wenn es um Kommunalvermoegen Behoerdenbrief Schre in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Treuhandprivatisierung Behördenbrief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: ein-037-treuhandprivatisierung-behoerdenbrief._
 
-# Kommunalvermoegen Behoerdenbrief Schre
+# Treuhandprivatisierung Behoerdenbrief
 
 ## Arbeitsauftrag
 
-Kommunalvermoegen Behoerdenbrief Schre wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+Treuhandprivatisierung Behoerdenbrief wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
 ## Einstieg ohne Leerlauf
 

@@ -1,6 +1,6 @@
 ---
 name: produktbeobachtung-und-field-data
-description: "Wenn es um Produktbeobachtung und Field Data in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Produktbeobachtung und Field Data: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produktbeobachtung und Field Data

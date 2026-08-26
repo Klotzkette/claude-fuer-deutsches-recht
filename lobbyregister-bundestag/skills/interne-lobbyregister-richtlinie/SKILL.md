@@ -1,6 +1,6 @@
 ---
 name: interne-lobbyregister-richtlinie
-description: "Wenn es um Interne Lobbyregister-Richtlinie in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Interne Lobbyregister-Richtlinie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Interne Lobbyregister-Richtlinie

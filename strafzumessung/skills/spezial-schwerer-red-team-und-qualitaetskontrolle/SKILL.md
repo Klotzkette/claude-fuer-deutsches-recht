@@ -1,6 +1,6 @@
 ---
 name: spezial-schwerer-red-team-und-qualitaetskontrolle
-description: "Wenn es um Schwerer: Red-Team und Qualitätskontrolle in Strafzumessung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schwerer: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Schwerer: Red-Team und Qualitätskontrolle

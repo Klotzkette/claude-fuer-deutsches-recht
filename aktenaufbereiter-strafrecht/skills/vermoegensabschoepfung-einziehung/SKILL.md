@@ -1,6 +1,6 @@
 ---
 name: vermoegensabschoepfung-einziehung
-description: "Wenn es um Vermögensabschoepfung/Einziehung in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vermögensabschöpfung/Einziehung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vermögensabschoepfung/Einziehung

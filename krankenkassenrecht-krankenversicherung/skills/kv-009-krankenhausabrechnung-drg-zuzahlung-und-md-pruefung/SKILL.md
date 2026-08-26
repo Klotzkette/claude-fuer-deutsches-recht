@@ -1,6 +1,6 @@
 ---
 name: kv-009-krankenhausabrechnung-drg-zuzahlung-und-md-pruefung
-description: "Wenn es um Krankenversicherung: Krankenhausabrechnung DRG Zuzahlung und MD-Prüfung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Krankenhausabrechnung DRG Zuzahlung und MD-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Krankenversicherung: Krankenhausabrechnung DRG Zuzahlung und MD-Prüfung

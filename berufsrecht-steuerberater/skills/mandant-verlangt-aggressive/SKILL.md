@@ -1,6 +1,6 @@
 ---
 name: mandant-verlangt-aggressive
-description: "Wenn es um Mandant Verlangt Aggressive in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Mandant Verlangt Aggressive: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: mandant verlangt aggressive gestaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

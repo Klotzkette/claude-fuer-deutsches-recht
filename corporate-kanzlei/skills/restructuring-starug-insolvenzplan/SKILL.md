@@ -1,6 +1,6 @@
 ---
 name: restructuring-starug-insolvenzplan
-description: "Vergleicht StaRUG- und Insolvenzplan transaktionsbezogen und führt die gewählte Route bis zum Closing. Prüft Status, Planreichweite, Gruppen, Mehrheiten, Minderheitenschutz, Organ- und Registermaßnahmen, Finanzierung, M&A-Schnittstellen und Vollzug. Liefert Route-Memo, Term Sheet, Closing- und Rückfallplan."
+description: "Vergleicht StaRUG- und Insolvenzplan transaktionsbezogen und führt die gewählte Route bis zum Closing."
 ---
 
 # 1. StaRUG- oder Insolvenzplan als Transaktionsroute

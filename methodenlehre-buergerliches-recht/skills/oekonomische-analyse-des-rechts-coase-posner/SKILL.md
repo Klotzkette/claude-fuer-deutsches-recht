@@ -1,6 +1,6 @@
 ---
 name: oekonomische-analyse-des-rechts-coase-posner
-description: "Wenn es um Oekonomische Analyse des Rechts (Law and Economics) in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ökonomische Analyse des Rechts (Law and Economics): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Oekonomische Analyse des Rechts (Law and Economics)

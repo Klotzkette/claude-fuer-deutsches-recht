@@ -1,6 +1,6 @@
 ---
 name: mahnvorlauf-dokumentenmatrix
-description: "Wenn es um Mahnvorlauf Dokumentenmatrix in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mahnvorlauf Dokumentenmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Mahnvorlauf Dokumentenmatrix

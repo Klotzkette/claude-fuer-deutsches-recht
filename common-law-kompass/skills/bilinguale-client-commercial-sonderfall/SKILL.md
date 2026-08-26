@@ -1,6 +1,6 @@
 ---
 name: bilinguale-client-commercial-sonderfall
-description: "Wenn es um Bilinguale: Compliance-Dokumentation und Aktenvermerk in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bilinguale: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bilinguale: Compliance-Dokumentation und Aktenvermerk

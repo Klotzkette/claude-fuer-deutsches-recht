@@ -1,6 +1,6 @@
 ---
 name: wahlpruefung-nachwahl
-description: "Wenn es um Wahlpruefung Nachwahl in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wahlprüfung Nachwahl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wahlpruefung Nachwahl

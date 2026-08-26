@@ -1,6 +1,6 @@
 ---
 name: workflow-indexmiete-staffelmiete
-description: "Wenn es um Index-/Staffelmiete: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Index-/Staffelmiete: Prüfungslinie für Miet- und WEG-Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Index-/Staffelmiete: Prüfungslinie für Miet- und WEG-Recht

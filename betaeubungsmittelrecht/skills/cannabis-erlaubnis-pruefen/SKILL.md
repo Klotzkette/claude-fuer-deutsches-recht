@@ -1,6 +1,6 @@
 ---
 name: cannabis-erlaubnis-pruefen
-description: "Wenn es um Cannabis Erlaubnis Prüfen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cannabis Erlaubnis Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betäubungsmittelrecht. Route: cannabis-erlaubnis-pruefen."
 ---
 
 # Cannabis Erlaubnis Prüfen

@@ -1,6 +1,6 @@
 ---
 name: workflow-mandantenkommunikation
-description: "Wenn es um Mandantenkommunikation in Plugin für die studentische Rechtsberatungsstelle geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle."
 ---
 
 # Mandantenkommunikation

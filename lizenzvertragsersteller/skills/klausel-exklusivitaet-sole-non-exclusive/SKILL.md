@@ -1,6 +1,6 @@
 ---
 name: klausel-exklusivitaet-sole-non-exclusive
-description: "Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusive in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Klausel Exklusivität — sole, exclusive, non-exclusive: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klausel Exklusivitaet — sole, exclusive, non-exclusive

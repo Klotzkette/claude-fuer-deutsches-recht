@@ -1,6 +1,6 @@
 ---
 name: bmas-rente-und-altersvorsorgerecht
-description: "Wenn es um Rente und Altersvorsorgerecht (BMAS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rente und Altersvorsorgerecht (BMAS): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rente und Altersvorsorgerecht (BMAS)

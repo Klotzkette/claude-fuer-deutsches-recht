@@ -1,6 +1,6 @@
 ---
 name: fixed-fee-fte-kapazitaetsmodell-investment
-description: "Wenn es um Fixed Fee profitabel machen in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fixed Fee profitabel machen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fixed Fee profitabel machen

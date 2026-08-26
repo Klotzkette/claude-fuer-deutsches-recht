@@ -1,6 +1,6 @@
 ---
 name: mandantenmemo-und-partner-update
-description: "Wenn es um Mandantenmemo und Partner-Update in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandantenmemo und Partner-Update: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mandantenmemo und Partner-Update

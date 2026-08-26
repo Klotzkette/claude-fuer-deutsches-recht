@@ -1,6 +1,6 @@
 ---
 name: incoterms-und-gefahruebergang
-description: "Wenn es um Incoterms und Gefahrübergang in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Incoterms und Gefahrübergang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Incoterms und Gefahrübergang

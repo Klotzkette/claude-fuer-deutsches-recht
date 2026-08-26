@@ -1,6 +1,6 @@
 ---
 name: health-insolvenz-irrefuehrende
-description: "Wenn es um Franchise: Health- und Pflege-Franchise mit HWG-Risiko in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Franchise: Health- und Pflege-Franchise mit HWG-Risiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise: Health- und Pflege-Franchise mit HWG-Risiko

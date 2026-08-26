@@ -1,6 +1,6 @@
 ---
 name: werkvertrag-abnahme-und-faelligkeit
-description: "Wenn es um Werkvertrag: Abnahme und Fälligkeit Paragrafen 640 und 641 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Werkvertrag: Abnahme und Fälligkeit Paragrafen 640 und 641 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Werkvertrag: Abnahme und Fälligkeit §§ 640 und 641 BGB

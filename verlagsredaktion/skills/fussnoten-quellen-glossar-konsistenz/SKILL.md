@@ -1,6 +1,6 @@
 ---
 name: fussnoten-quellen-glossar-konsistenz
-description: "Wenn es um Fussnoten- und Quellen-Konsolidierung in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fussnoten- und Quellen-Konsolidierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fussnoten- und Quellen-Konsolidierung

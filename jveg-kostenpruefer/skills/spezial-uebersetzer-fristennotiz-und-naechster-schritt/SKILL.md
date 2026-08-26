@@ -1,6 +1,6 @@
 ---
 name: spezial-uebersetzer-fristennotiz-und-naechster-schritt
-description: "Wenn es um Uebersetzer: Fristennotiz und nächster Schritt in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Übersetzer: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: JVEG-Kostenprüfer. Route: spezial-uebersetzer-fristennotiz-und-naechster-schritt."
 ---
 
 # Uebersetzer: Fristennotiz und nächster Schritt

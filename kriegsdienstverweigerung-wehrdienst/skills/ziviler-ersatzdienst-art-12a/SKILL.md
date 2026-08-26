@@ -1,6 +1,6 @@
 ---
 name: ziviler-ersatzdienst-art-12a
-description: "Wenn es um Ziviler Ersatzdienst in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ziviler Ersatzdienst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ziviler Ersatzdienst

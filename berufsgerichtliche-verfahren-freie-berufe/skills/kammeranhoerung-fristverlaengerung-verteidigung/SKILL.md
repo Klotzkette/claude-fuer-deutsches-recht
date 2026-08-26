@@ -1,6 +1,6 @@
 ---
 name: kammeranhoerung-fristverlaengerung-verteidigung
-description: "Wenn es um Kammeranhörung Fristverlängerung: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kammeranhörung Fristverlängerung: Verteidigungs- und Kammerantwort: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Kammeranhörung Fristverlängerung: Verteidigungs- und Kammerantwort

@@ -1,6 +1,6 @@
 ---
 name: einstieg-in-den-skill-verbund-internationales-wirtschaftsrecht
-description: "Wenn es um Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht in Fachanwalt Internationales Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht

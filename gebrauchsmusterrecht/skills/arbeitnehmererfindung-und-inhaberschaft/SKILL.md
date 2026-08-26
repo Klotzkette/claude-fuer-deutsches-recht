@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmererfindung-und-inhaberschaft
-description: "Wenn es um Arbeitnehmererfindung Und Inhaberschaft in gebrauchsmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Arbeitnehmererfindung und Inhaberschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitnehmererfindung Und Inhaberschaft

@@ -1,6 +1,6 @@
 ---
 name: hotel-maengel-inkasso-erste-mahnung
-description: "Wenn es um Hotelmängel und Bewertung in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hotelmängel und Bewertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hotelmängel und Bewertung

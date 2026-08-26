@@ -1,6 +1,6 @@
 ---
 name: auslandszeiten-eu
-description: "Wenn es um auslandszeiten-eu-ewr-schweiz in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für auslandszeiten-eu-ewr-schweiz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # auslandszeiten-eu-ewr-schweiz

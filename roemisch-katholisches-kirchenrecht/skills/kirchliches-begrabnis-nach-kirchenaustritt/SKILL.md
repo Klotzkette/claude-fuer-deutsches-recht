@@ -1,6 +1,6 @@
 ---
 name: kirchliches-begrabnis-nach-kirchenaustritt
-description: "Wenn es um Kirchliches Begräbnis nach Kirchenaustritt in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kirchliches Begräbnis nach Kirchenaustritt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kirchliches Begräbnis nach Kirchenaustritt

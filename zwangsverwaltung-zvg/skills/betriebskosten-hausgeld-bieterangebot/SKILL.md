@@ -1,6 +1,6 @@
 ---
 name: betriebskosten-hausgeld-bieterangebot
-description: "Wenn es um Betriebskosten, Hausgeld und laufende Objektkosten in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Betriebskosten, Hausgeld und laufende Objektkosten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebskosten, Hausgeld und laufende Objektkosten

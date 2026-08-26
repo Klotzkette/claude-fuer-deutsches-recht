@@ -1,6 +1,6 @@
 ---
 name: vendor-behoerden-gericht-und-registerweg
-description: "Wenn es um Vendor: Behörden-, Gerichts- oder Registerweg in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Vendor: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Vendor: Behörden-, Gerichts- oder Registerweg

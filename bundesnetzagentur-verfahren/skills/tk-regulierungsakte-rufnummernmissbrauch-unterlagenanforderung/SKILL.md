@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-rufnummernmissbrauch-unterlagenanforderung
-description: "Wenn es um TK-Regulierungsakte: Rufnummernmissbrauch — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für TK-Regulierungsakte: Rufnummernmissbrauch — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # TK-Regulierungsakte: Rufnummernmissbrauch — Unterlagenanforderung

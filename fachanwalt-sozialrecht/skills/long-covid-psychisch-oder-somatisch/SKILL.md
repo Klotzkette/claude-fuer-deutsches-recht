@@ -1,6 +1,6 @@
 ---
 name: long-covid-psychisch-oder-somatisch
-description: "Wenn es um Long Covid Psychisch Oder Somatisch in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Long Covid Psychisch oder Somatisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Long-Covid psychisch, somatisch oder multifaktoriell: falsche Entweder-oder-Prüfung vermeiden, Funktionsfolgen sauber beschreiben.

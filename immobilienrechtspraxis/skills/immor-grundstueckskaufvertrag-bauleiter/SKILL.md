@@ -1,6 +1,6 @@
 ---
 name: immor-grundstueckskaufvertrag-bauleiter
-description: "Wenn es um ImmoR: Grundstueckskaufvertrag in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ImmoR: Grundstückskaufvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ImmoR: Grundstueckskaufvertrag

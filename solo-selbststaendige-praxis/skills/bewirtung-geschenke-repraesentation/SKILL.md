@@ -1,6 +1,6 @@
 ---
 name: bewirtung-geschenke-repraesentation
-description: "Wenn es um Steuern und Buchhaltung: Sortiert bewirtung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuern und Buchhaltung: Sortiert bewirtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuern und Buchhaltung: Sortiert bewirtung

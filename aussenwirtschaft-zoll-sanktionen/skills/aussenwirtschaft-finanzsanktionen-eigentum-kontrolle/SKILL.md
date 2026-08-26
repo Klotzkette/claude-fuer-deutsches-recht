@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-finanzsanktionen-eigentum-kontrolle
-description: "Wenn es um 50-Prozent-Regel bei Sanktionen: Eigentum, Kontrolle und Umgehungsrisiken in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 50-Prozent-Regel bei Sanktionen: Eigentum, Kontrolle und Umgehungsrisiken: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # 50-Prozent-Regel bei Sanktionen: Eigentum, Kontrolle und Umgehungsrisiken

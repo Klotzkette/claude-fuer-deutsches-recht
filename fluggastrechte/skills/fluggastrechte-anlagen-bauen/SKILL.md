@@ -1,6 +1,6 @@
 ---
 name: fluggastrechte-anlagen-bauen
-description: "Wenn es um Fluggastrechte-Anlagen bauen in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Fluggastrechte-Anlagen bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fluggastrechte-Anlagen bauen

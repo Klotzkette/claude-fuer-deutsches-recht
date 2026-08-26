@@ -1,6 +1,6 @@
 ---
 name: remote-update-und-secure-channel
-description: "Wenn es um Remote Update und Secure Channel in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Remote Update und Secure Channel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Remote Update und Secure Channel

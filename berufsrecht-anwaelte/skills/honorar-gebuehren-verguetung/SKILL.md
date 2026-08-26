@@ -1,6 +1,6 @@
 ---
 name: honorar-gebuehren-verguetung
-description: "Wenn es um Honorar, Gebühren und Vergütung in Berufsrecht Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Honorar, Gebühren und Vergütung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Berufsrecht Anwälte."
 ---
 
 # Honorar, Gebühren und Vergütung

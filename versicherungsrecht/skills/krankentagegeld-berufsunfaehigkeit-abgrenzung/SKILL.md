@@ -1,6 +1,6 @@
 ---
 name: krankentagegeld-berufsunfaehigkeit-abgrenzung
-description: "Wenn es um Krankentagegeld vs. Berufsunfähigkeit in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Krankentagegeld vs. Berufsunfähigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankentagegeld vs. Berufsunfähigkeit

@@ -1,6 +1,6 @@
 ---
 name: principal-direktgeschaeft
-description: "Wenn es um Direktgeschäfte des Unternehmers im Handelsvertretergebiet nach Paragraf 87 HGB in Handelsvertreterrecht und Vertriebsverträge geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Direktgeschäfte des Unternehmers im Handelsvertretergebiet nach Paragraf 87 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Direktgeschäfte des Unternehmers im Handelsvertretergebiet nach § 87 HGB

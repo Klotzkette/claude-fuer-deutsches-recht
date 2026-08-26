@@ -1,6 +1,6 @@
 ---
 name: red-team
-description: "Wenn es um Red-Team-Review für Insiderrecht-Compliance in Insiderrecht Compliance geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Red-Team-Review für Insiderrecht-Compliance: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team-Review für Insiderrecht-Compliance

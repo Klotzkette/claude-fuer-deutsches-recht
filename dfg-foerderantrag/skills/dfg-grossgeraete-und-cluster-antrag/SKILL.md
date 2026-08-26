@@ -1,6 +1,6 @@
 ---
 name: dfg-grossgeraete-und-cluster-antrag
-description: "Wenn es um DFG: Grossgeraete und Cluster in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für DFG: Grossgeräte und Cluster: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # DFG: Grossgeraete und Cluster

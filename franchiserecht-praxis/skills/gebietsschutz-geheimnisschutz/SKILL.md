@@ -1,6 +1,6 @@
 ---
 name: gebietsschutz-geheimnisschutz
-description: "Wenn es um Franchise: Gebietsschutz gegen Online- und Plattformkanäle in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Franchise: Gebietsschutz gegen Online- und Plattformkanäle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise: Gebietsschutz gegen Online- und Plattformkanäle

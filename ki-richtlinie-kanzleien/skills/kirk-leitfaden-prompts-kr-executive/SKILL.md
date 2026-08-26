@@ -1,6 +1,6 @@
 ---
 name: kirk-leitfaden-prompts-kr-executive
-description: "Wenn es um KIRK: Mandantenkommunikation in diesem Spezialbereich geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für KIRK: Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KIRK: Mandantenkommunikation

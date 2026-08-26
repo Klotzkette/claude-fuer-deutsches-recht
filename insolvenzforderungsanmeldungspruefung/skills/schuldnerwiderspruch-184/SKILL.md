@@ -1,6 +1,6 @@
 ---
 name: schuldnerwiderspruch-184
-description: "Wenn es um Schuldnerwiderspruch nach Paragraf 184 InsO in Insolvenzforderungsanmeldungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schuldnerwiderspruch nach Paragraf 184 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schuldnerwiderspruch nach § 184 InsO

@@ -1,6 +1,6 @@
 ---
 name: software-foerderung-rd-tax
-description: "Wenn es um Software-F&E und Förderlogik in Softwarerecht Deutschland/EU/International/USA geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Software-F&E und Förderlogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Software-F&E und Förderlogik

@@ -1,6 +1,6 @@
 ---
 name: flughafen-dashboard-mandantenmemo
-description: "Wenn es um Flughafen – Dashboard bauen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Flughafen – Dashboard bauen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Flughafen – Dashboard bauen

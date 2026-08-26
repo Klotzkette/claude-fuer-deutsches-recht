@@ -1,6 +1,6 @@
 ---
 name: gewr-markenanmeldung-bauleiter
-description: "Wenn es um GewR: Markenanmeldung – Strukturierter Bauleiter in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GewR: Markenanmeldung – Strukturierter Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GewR: Markenanmeldung – Strukturierter Bauleiter

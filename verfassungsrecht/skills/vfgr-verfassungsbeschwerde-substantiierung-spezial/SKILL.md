@@ -1,6 +1,6 @@
 ---
 name: vfgr-verfassungsbeschwerde-substantiierung-spezial
-description: "Wenn es um Vfgr Verfassungsbeschwerde Substantiierung Spezial in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vfgr Verfassungsbeschwerde Substantiierung Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Spezialfall Verfassungsbeschwerde Substantiierung § 23, § 92 BVerfGG: Beschwerdebefugnis, Selbst- gegenwaertig- unmittelbar, Rechtswegerschoepfung

@@ -1,6 +1,6 @@
 ---
 name: urb-mehrere-streitgegenstaende-spezial
-description: "Wenn es um Urb: Mehrere Streitgegenstaende in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urb: Mehrere Streitgegenstände: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urb: Mehrere Streitgegenstaende

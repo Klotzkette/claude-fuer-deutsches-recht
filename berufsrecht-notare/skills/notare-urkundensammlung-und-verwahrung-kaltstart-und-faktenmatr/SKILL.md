@@ -1,6 +1,6 @@
 ---
 name: notare-urkundensammlung-und-verwahrung-kaltstart-und-faktenmatr
-description: "Wenn es um Notare Urkundensammlung Und Verwahrung Kaltstart Und Faktenmatr in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notare Urkundensammlung und Verwahrung Kaltstart und Faktenmatr: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: urkundensammlung und verwahrung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

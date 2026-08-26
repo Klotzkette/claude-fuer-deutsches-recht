@@ -1,6 +1,6 @@
 ---
 name: patent-software-saas-terms-trade-secret
-description: "Wenn es um US Software Patent Paragrafen 102/103/112 in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für US Software Patent Paragrafen 102/103/112: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US Software Patent §§ 102/103/112

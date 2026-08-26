@@ -1,6 +1,6 @@
 ---
 name: pkh-anwaltsbeiordnung-erfolgsaussicht
-description: "Wenn es um PKH-Bewilligung — die Erfolgsaussicht in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PKH-Bewilligung — die Erfolgsaussicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PKH-Bewilligung — die Erfolgsaussicht

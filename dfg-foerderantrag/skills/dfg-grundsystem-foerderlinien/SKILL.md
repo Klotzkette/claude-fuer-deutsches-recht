@@ -1,6 +1,6 @@
 ---
 name: dfg-grundsystem-foerderlinien
-description: "Wenn es um Grundsystem DFG-Foerderlinien in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Grundsystem DFG-Förderlinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grundsystem DFG-Foerderlinien

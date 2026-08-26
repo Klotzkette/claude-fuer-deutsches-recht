@@ -1,6 +1,6 @@
 ---
 name: einschlaegige-normen-vorschlagen-de
-description: "Wenn es um Einschlägige Normen vorschlagen — Deutsches Recht in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Einschlägige Normen vorschlagen — Deutsches Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Einschlägige Normen vorschlagen — Deutsches Recht

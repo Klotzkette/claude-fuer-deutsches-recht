@@ -1,6 +1,6 @@
 ---
 name: workflow-mdr-und-gesundheitsrobotik
-description: "Wenn es um MDR und Gesundheitsrobotik in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für MDR und Gesundheitsrobotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: workflow-mdr-und-gesundheitsrobotik."
 ---
 
 # MDR und Gesundheitsrobotik

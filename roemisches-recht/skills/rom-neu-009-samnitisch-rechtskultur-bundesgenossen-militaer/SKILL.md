@@ -1,6 +1,6 @@
 ---
 name: rom-neu-009-samnitisch-rechtskultur-bundesgenossen-militaer
-description: "Wenn es um Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung

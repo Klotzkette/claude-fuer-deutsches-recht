@@ -1,6 +1,6 @@
 ---
 name: redteam-vor-absenden
-description: "Wenn es um Red-Team vor Absenden in Bürokratieversteher und Entbürokratisierer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team vor Absenden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Red-Team vor Absenden

@@ -1,6 +1,6 @@
 ---
 name: management-letter
-description: "Wenn es um Management Letter in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Management Letter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: management letter formulierung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

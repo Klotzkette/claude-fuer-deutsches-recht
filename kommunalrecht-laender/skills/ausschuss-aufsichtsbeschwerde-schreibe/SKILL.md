@@ -1,6 +1,6 @@
 ---
 name: ausschuss-aufsichtsbeschwerde-schreibe
-description: "Wenn es um Ausschuss Aufsichtsbeschwerde Schreibe in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausschuss Aufsichtsbeschwerde Schreibe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausschuss Aufsichtsbeschwerde Schreibe

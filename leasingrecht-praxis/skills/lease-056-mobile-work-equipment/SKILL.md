@@ -1,6 +1,6 @@
 ---
 name: lease-056-mobile-work-equipment
-description: "Wenn es um Mobile Arbeitsmittel Leasing in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Mobile Arbeitsmittel Leasing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mobile Arbeitsmittel Leasing

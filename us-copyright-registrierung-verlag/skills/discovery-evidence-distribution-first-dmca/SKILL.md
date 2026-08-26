@@ -1,6 +1,6 @@
 ---
 name: discovery-evidence-distribution-first-dmca
-description: "Wenn es um Discovery and Evidence Copyright in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Discovery and Evidence Copyright: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Discovery and Evidence Copyright

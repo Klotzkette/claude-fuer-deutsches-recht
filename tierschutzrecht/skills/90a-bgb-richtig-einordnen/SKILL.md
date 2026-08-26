@@ -1,6 +1,6 @@
 ---
 name: 90a-bgb-richtig-einordnen
-description: "Wenn es um 90a Bgb Richtig Einordnen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 90a BGB Richtig Einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 90a Bgb Richtig Einordnen

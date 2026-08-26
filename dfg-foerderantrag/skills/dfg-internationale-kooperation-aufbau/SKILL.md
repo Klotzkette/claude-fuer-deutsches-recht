@@ -1,6 +1,6 @@
 ---
 name: dfg-internationale-kooperation-aufbau
-description: "Wenn es um DFG: Internationale Kooperation in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Dfg Internationale Kooperation Aufbau; Arbeitsfeld: DFG-Förderantrag."
+description: "Für DFG: Internationale Kooperation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: DFG-Förderantrag. Route: dfg-internationale-kooperation-aufbau."
 ---
 
 # DFG: Internationale Kooperation

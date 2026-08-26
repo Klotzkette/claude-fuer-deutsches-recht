@@ -1,6 +1,6 @@
 ---
 name: livecheck-sonderfall-mobilitaetsprojekt
-description: "Wenn es um Livecheck: Sonderfall und Edge-Case-Prüfung in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Livecheck: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verkehrs- und Infrastrukturrecht."
 ---
 
 # Livecheck: Sonderfall und Edge-Case-Prüfung

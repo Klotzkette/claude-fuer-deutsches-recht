@@ -1,6 +1,6 @@
 ---
 name: gmbh-kapitalerhoehung-notar-shareholder-agreement-investment
-description: "Wenn es um GmbH-Kapitalerhöhung und Notar in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GmbH-Kapitalerhöhung und Notar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GmbH-Kapitalerhöhung und Notar

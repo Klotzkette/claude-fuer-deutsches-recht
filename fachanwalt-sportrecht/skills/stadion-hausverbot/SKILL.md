@@ -1,6 +1,6 @@
 ---
 name: stadion-hausverbot
-description: "Wenn es um Fan erhaelt bundesweites Stadion-Hausverbot und will dieses anfechten in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fan erhält bundesweites Stadion-Hausverbot und will dieses anfechten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fan erhaelt bundesweites Stadion-Hausverbot und will dieses anfechten

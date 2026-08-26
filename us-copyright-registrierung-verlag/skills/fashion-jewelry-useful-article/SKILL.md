@@ -1,6 +1,6 @@
 ---
 name: fashion-jewelry-useful-article
-description: "Wenn es um Fashion, Jewelry und Product Design in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fashion, Jewelry und Product Design: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fashion, Jewelry und Product Design

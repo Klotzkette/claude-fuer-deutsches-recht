@@ -1,6 +1,6 @@
 ---
 name: termsheet-mapping
-description: "Wenn es um Term-Sheet-Mapping in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Term-Sheet-Mapping: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Term-Sheet-Mapping

@@ -1,6 +1,6 @@
 ---
 name: shareholder-loans-in-crisis
-description: "Wenn es um Gesellschafterdarlehen in Krise in Private Equity Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gesellschafterdarlehen in Krise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschafterdarlehen in Krise

@@ -1,6 +1,6 @@
 ---
 name: rule-by-law-vs-rechtsstaat
-description: "Wenn es um Rule by Law vs. Rechtsstaat in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Rule by Law vs. Rechtsstaat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rule by Law vs. Rechtsstaat

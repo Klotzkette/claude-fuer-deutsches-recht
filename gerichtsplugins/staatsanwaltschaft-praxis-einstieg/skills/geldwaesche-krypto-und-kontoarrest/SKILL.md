@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-krypto-und-kontoarrest
-description: "Wenn es um Geldwäsche mit Krypto- oder Kontospuren in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Geldwaesche Krypto Und Kontoarrest; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
+description: "Für Geldwäsche mit Krypto- oder Kontospuren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geldwäsche mit Krypto- oder Kontospuren

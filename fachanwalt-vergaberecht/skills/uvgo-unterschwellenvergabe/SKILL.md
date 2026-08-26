@@ -1,6 +1,6 @@
 ---
 name: uvgo-unterschwellenvergabe
-description: "Wenn es um Uvgo Unterschwellenvergabe in Fachanwalt Vergaberecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für UVgO Unterschwellenvergabe: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Unterschwellenvergabe nach UVgO durchfuehren und angreifen: Auftraggeber unter EU-Schwellenwert oder Bieter will UVgO-Verstoss ruegen

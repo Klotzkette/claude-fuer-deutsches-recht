@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-psychotherapie-kostenerstattung
-description: "Wenn es um Psychotherapie: Kostenerstattung, Systemversagen und Akutbehandlung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Psychotherapie: Kostenerstattung, Systemversagen und Akutbehandlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Psychotherapie: Kostenerstattung, Systemversagen und Akutbehandlung

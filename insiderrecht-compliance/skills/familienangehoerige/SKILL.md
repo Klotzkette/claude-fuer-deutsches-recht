@@ -1,6 +1,6 @@
 ---
 name: familienangehoerige
-description: "Wenn es um Familienangehörige und nahestehende Personen – Insiderrecht in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Familienangehörige und nahestehende Personen – Insiderrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Familienangehörige und nahestehende Personen – Insiderrecht

@@ -1,6 +1,6 @@
 ---
 name: high-risk-negative-determination-memo
-description: "Wenn es um High-Risk Negative Determination Memo in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für High-Risk Negative Determination Memo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # High-Risk Negative Determination Memo

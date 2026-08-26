@@ -1,6 +1,6 @@
 ---
 name: berufsgesellschaft-02
-description: "Wenn es um Berufsgesellschaft 02 in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berufsgesellschaft 02: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: berufsgesellschaft zulassung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

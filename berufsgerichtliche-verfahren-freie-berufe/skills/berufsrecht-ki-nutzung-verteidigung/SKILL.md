@@ -1,6 +1,6 @@
 ---
 name: berufsrecht-ki-nutzung-verteidigung
-description: "Wenn es um Berufsrecht digitale Werkzeuge-Nutzung: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Berufsrecht digitale Werkzeuge-Nutzung: Verteidigungs- und Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berufsrecht KI-Nutzung: Verteidigungs- und Kammerantwort

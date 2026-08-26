@@ -1,6 +1,6 @@
 ---
 name: portal-quellenkarte
-description: "Wenn es um Portal Quellenkarte in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Portal Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Portal Quellenkarte

@@ -1,6 +1,6 @@
 ---
 name: campusnetze-private-5g
-description: "Wenn es um Campusnetze und private 5G-Netze in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Campusnetze und private 5G-Netze: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Campusnetze und private 5G-Netze

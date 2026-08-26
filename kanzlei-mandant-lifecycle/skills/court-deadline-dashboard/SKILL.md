@@ -1,6 +1,6 @@
 ---
 name: court-deadline-dashboard
-description: "Wenn es um Court Deadline Dashboard in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Court Deadline Dashboard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Court Deadline Dashboard

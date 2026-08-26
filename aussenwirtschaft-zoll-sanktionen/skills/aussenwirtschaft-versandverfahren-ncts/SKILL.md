@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-versandverfahren-ncts
-description: "Wenn es um NCTS-Versandverfahren T1/T2: Anmeldung Sicherheitsleistung und Bestimmungsstelle in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für NCTS-Versandverfahren T1/T2: Anmeldung Sicherheitsleistung und Bestimmungsstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NCTS-Versandverfahren T1/T2: Anmeldung Sicherheitsleistung und Bestimmungsstelle

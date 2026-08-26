@@ -1,6 +1,6 @@
 ---
 name: zugang-paragraph-130
-description: "Wenn es um Zugang — Paragraf 130 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zugang — Paragraf 130 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zugang — § 130 BGB

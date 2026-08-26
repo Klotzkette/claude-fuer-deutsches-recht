@@ -1,6 +1,6 @@
 ---
 name: urhmr-urhebervertrag-bauleiter
-description: "Wenn es um Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten Paragrafen 31 ff in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauleiter Urhebervertrag: Einräumung von Nutzungsrechten Paragrafen 31 ff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff

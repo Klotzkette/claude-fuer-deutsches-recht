@@ -1,6 +1,6 @@
 ---
 name: landeshaushalt-nordrhein-westfalen-les
-description: "Wenn es um Landeshaushalt Nordrhein Westfalen Les in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Landeshaushalt Nordrhein Westfalen Les: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landeshaushalt Nordrhein Westfalen Les

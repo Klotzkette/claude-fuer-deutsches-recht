@@ -1,6 +1,6 @@
 ---
 name: landwirtschaftliche-flaeche-akte-anfor
-description: "Wenn es um Landwirtschaftliche Flaeche Akte Anfor in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Landwirtschaftliche Fläche Akte Anfor: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landwirtschaftliche Flaeche Akte Anfor

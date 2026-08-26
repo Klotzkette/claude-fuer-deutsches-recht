@@ -1,6 +1,6 @@
 ---
 name: trusted-flagger-beschwerdemanagement-dsa
-description: "Wenn es um Trusted Flagger Beschwerdemanagement DSA in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Trusted Flagger Beschwerdemanagement DSA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trusted Flagger Beschwerdemanagement DSA

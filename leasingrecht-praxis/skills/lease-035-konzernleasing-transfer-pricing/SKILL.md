@@ -1,6 +1,6 @@
 ---
 name: lease-035-konzernleasing-transfer-pricing
-description: "Wenn es um Leasingrecht: Konzernleasing Transfer Pricing in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Konzernleasing Transfer Pricing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Konzernleasing Transfer Pricing

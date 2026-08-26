@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 95 Skills des Plugins `gewerblicher-rechtsschutz`.
+Diese Vollprüfung enthält top-10 von 82 Skills des Plugins `gewerblicher-rechtsschutz`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Gewerblicher Rechtsschutz ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ve…
 2. **verfuegungs-versandmappe-endfertigen** — Endfertigt Abmahnung, Schutzschrift, einstweilige Verfügung und Hauptsache im gewerblichen Rechtsschutz: fixiert Zeichen…
-3. **einstieg-routing** — Wenn es um Einstieg und Routing in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den …
-4. **gw-einfuehrung-gw-einstweilige-mandat-triage** — Wenn es um GewR: Einführung – Rechtsschutzwege im Überblick in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel…
-5. **mandat-triage-gewerblicher-rechtsschutz** — Wenn es um Mandat-Triage Gewerblicher Rechtsschutz in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, …
-6. **gewerblicher-erstpruefung-und-mandatsziel** — Wenn es um Spezial: Erstprüfung und Mandatsziel im Gewerblichen Rechtsschutz in Plugin: Gewerblicher Rechtsschutz geht: …
-7. **spezial-gewerblicher-erstpruefung-und-mandatsziel** — Wenn es um Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel in Plugin: Gewerblicher Rechtsschutz geht: klärt Rol…
-8. **evvollzug-neu-008-schutzschrift-register-und-forumstrategie** — Wenn es um EV-Vollzug 008: Schutzschrift, Register und Forumstrategie (Antragsgegnerperspektive) in Plugin: Gewerblicher…
-9. **evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun** — Wenn es um EV-Vollzug 005: Ordnungsmittelantrag (Paragraf 890 ZPO) nach Unterlassungstitel in Plugin: Gewerblicher Recht…
-10. **gewr-geschaeftsgeheimnisgesetz** — Wenn es um GewR: Geschäftsgeheimnisgesetz (GeschGehG) – Spezial in Plugin: Gewerblicher Rechtsschutz geht: ordnet Sachve…
+3. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+4. **gw-einfuehrung-gw-einstweilige-mandat-triage** — Für GewR: Einführung – Rechtsschutzwege im Überblick: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfpro…
+5. **mandat-triage-gewerblicher-rechtsschutz** — Für Mandat-Triage Gewerblicher Rechtsschutz: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit …
+6. **gewerblicher-erstpruefung-und-mandatsziel** — Für Spezial: Erstprüfung und Mandatsziel im Gewerblichen Rechtsschutz: routet Rolle, Frist, Unterlagen und Fachschritt; …
+7. **evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi** — Für EV-Vollzug 004: beA-Zustellung im Einstweiligen Rechtsschutz – Risiken und Praxis: ordnet Norm, Beweislast und Gegen…
+8. **evvollzug-neu-005-ordnungsmittel-vollstreckung** — Für Gewerblicher Rechtsschutz: Ordnungsmittelantrag Vollstreckung Unterlassungstitel: ordnet Norm, Beweislast und Gegena…
+9. **evvollzug-neu-003-zustellung-durch-gv-ip-verfahren** — Für Gewerblicher Rechtsschutz: Zustellung durch Gerichtsvollzieher im IP-Verfahren: ordnet Norm, Beweislast und Gegenarg…
+10. **evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung** — Für Gewerblicher Rechtsschutz: Urteilsverfügung Beschlussverfügung und Zustellweg: ordnet Norm, Beweislast und Gegenargu…
 
 ---
 
@@ -170,7 +170,7 @@ Liefere je Empfänger Hauptdokument, Einzelanlagen, Verletzungsformen- und Dring
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Plugin: Gewerblicher Rechtsschutz._
 
 # Einstieg und Routing
 
@@ -214,7 +214,7 @@ Dieser Einstieg routet **Gewerblicher Rechtsschutz** vom ersten Sachverhalt zu R
 
 ## Skill: `gw-einfuehrung-gw-einstweilige-mandat-triage`
 
-_Wenn es um GewR: Einführung – Rechtsschutzwege im Überblick in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für GewR: Einführung – Rechtsschutzwege im Überblick: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # GewR: Einführung – Rechtsschutzwege im Überblick
 
@@ -373,7 +373,7 @@ Mandatsbezug: Mandant kommt mit einem IP-Problem, weiß aber nicht, ob er klagen
 
 ## Skill: `mandat-triage-gewerblicher-rechtsschutz`
 
-_Wenn es um Mandat-Triage Gewerblicher Rechtsschutz in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Mandat-Triage Gewerblicher Rechtsschutz: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Mandat-Triage Gewerblicher Rechtsschutz
 
@@ -540,7 +540,7 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 ## Skill: `gewerblicher-erstpruefung-und-mandatsziel`
 
-_Wenn es um Spezial: Erstprüfung und Mandatsziel im Gewerblichen Rechtsschutz in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten._
+_Für Spezial: Erstprüfung und Mandatsziel im Gewerblichen Rechtsschutz: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Spezial: Erstprüfung und Mandatsziel im Gewerblichen Rechtsschutz
 
@@ -704,310 +704,184 @@ Nächster Termin: _______________
 - `gw-einfuehrung-rechtsschutzwege` – Überblick Rechtsschutzwege
 - `verletzungs-triage` – IP-Verletzung Erstentscheidung
 
+## Vertiefung bei Bedarf
+
+- Bei `spezial-gewerblicher-erstpruefung-und-mandatsziel` beziehungsweise Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel: [die zusätzliche Vertiefung laden](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gewerblicher-rechtsschutz/skills/gewerblicher-erstpruefung-und-mandatsziel/references/vertiefung-spezial-gewerblicher-erstpruefung-und-mandatsziel.md).
+
 ---
 
-## Skill: `spezial-gewerblicher-erstpruefung-und-mandatsziel`
+## Skill: `evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi`
 
-_Wenn es um Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für EV-Vollzug 004: beA-Zustellung im Einstweiligen Rechtsschutz – Risiken und Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel
+# EV-Vollzug 004: beA-Zustellung im Einstweiligen Rechtsschutz – Risiken und Praxis
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Zweck und Mandatsbezug
+
+Analysiere, wann und ob die **Zustellung über das besondere elektronische Anwaltspostfach (beA)** für den Vollzug einer einstweiligen Verfügung im gewerblichen Rechtsschutz geeignet ist. Die beA-Zustellung ist technisch möglich, aber mit spezifischen Risiken verbunden – insbesondere wenn der Schuldner nicht anwaltlich vertreten ist oder der beA-Empfang nicht gesichert ist.
+
+Mandatsbezug: Anwalt erwägt, statt des Gerichtsvollziehers die beA-Zustellung zu nutzen, um Kosten und Zeit zu sparen. Kläre, wann das vertretbar ist und wo die Risiken liegen.
+
+## Rechtlicher Rahmen
+
+### Zentrale Normen
+
+- **§ 173 ZPO** – Elektronische Zustellung; Zustellung durch elektronisches Dokument als gleichwertige Form zur körperlichen Zustellung.
+- **§ 173 Abs. 1 ZPO** – Zustellung an Anwälte über beA möglich, wenn diese über beA erreichbar sind.
+- **§ 174 ZPO** – Zustellung gegen Empfangsbekenntnis: Anwalt muss Empfang bestätigen; erst mit Empfangsbekenntnis ist Zustellung bewirkt.
+- **§ 130a ZPO** – Elektronisches Dokument; technische Anforderungen (qualifizierte elektronische Signatur oder Übermittlung aus De-Mail/beA).
+- **§ 192 ZPO** – Parteizustellung; regelt, dass Parteien die Zustellung veranlassen können.
+- **§ 929 Abs. 2 ZPO** – Vollziehungsfrist; Fristversäumnis bei unvollständiger Zustellung.
+
+### Zustellungsformen im Vergleich
+
+| Form | Norm | Voraussetzung | Nachweis | Risiko |
+|---|---|---|---|---|
+| GV-Zustellung | § 192, 182 ZPO | Adresse bekannt | Zustellurkunde | Adressfehler |
+| beA an Anwalt des Schuldners | § 173 ZPO | Schuldner anwaltlich vertreten, beA aktiv | Übermittlungsprotokoll + Empfangsbekenntnis | Kein ERB, Fristversäumnis |
+| beA an Partei direkt | § 173 Abs. 2 ZPO | Nur bei Unternehmern mit Pflicht-beA | Schwierig | Hohe Unsicherheit |
+| Post-Zustellungsauftrag | § 175 ZPO | Einschreiben mit Rückschein | Rückschein | Annahmeablehnung |
+
+## Kaltstart in 5 Fragen
+
+1. **Anwaltliche Vertretung Schuldner:** Ist der Schuldner durch einen Anwalt vertreten und ist dessen beA-Adresse bekannt?
+2. **Empfangsbereitschaft:** Liegt ein vorangegangener Schriftwechsel per beA vor, der Empfangsbereitschaft belegt?
+3. **Fristlage:** Wie viel Zeit verbleibt bis zum Fristende nach § 929 Abs. 2 ZPO? Reicht Zeit für Rückfragen?
+4. **Empfangsbekenntnis-Strategie:** Wie wird sichergestellt, dass das ERB auch tatsächlich und rechtzeitig zurückkommt?
+5. **Fallback:** Was ist der Plan, wenn beA-Zustellung scheitert oder ERB nicht zurückkommt?
+
+## Prüfprogramm
+
+### Schritt 1 – Prüfen, ob beA-Zustellung möglich ist
+
+- Schuldner muss durch Anwalt vertreten sein, der ein aktives beA hat.
+- Eigener Anwalt sucht die beA-Adresse des gegnerischen Anwalts im BRAK-Verzeichnis.
+- Kein beA-Zwang für nicht-anwaltliche Parteien; beA-Zustellung an GmbH-Geschäftsführer persönlich in der Regel nicht möglich.
+
+### Schritt 2 – Übermittlung und Protokoll
+
+- Dokument mit QES oder aus dem beA des eigenen Anwalts versenden.
+- Übermittlungsprotokoll des beA abspeichern (zeigt: Datum, Uhrzeit, Empfänger, Größe, Ergebnis).
+- Übermittlungsprotokoll allein ist **kein Zustellnachweis**; es belegt nur den Versand.
+
+### Schritt 3 – Empfangsbekenntnis einholen
+
+- Nach § 174 ZPO ist Zustellung erst mit Eingang des Empfangsbekenntnisses (ERB) bewirkt.
+- ERB muss Datum des tatsächlichen Empfangs enthalten.
+- Gegnerischer Anwalt ist nicht zur sofortigen ERB-Übermittlung verpflichtet.
+- Praktisches Problem: Schuldneranwalt verzögert ERB strategisch, Frist läuft ab.
+
+### Schritt 4 – Risikobewertung
+
+**Risikoampel:**
+- **Grün (beA-Zustellung sicher):** Schuldneranwalt hat zuvor beA-Empfangsbereitschaft gezeigt, ERB ist schnell zu erwarten, Frist hat noch > 2 Wochen.
+- **Gelb (beA-Zustellung riskant):** Erstmaliger Kontakt, Frist läuft in < 1 Woche ab, Unsicherheit über ERB-Zeitpunkt.
+- **Rot (GV bevorzugen):** Schuldner nicht anwaltlich vertreten; Frist läuft in < 5 Tagen ab; Schuldneranwalt bekannt für Verzögerungstaktik.
+
+### Schritt 5 – Fallback-Szenario vorbereiten
+
+- Gleichzeitig GV-Auftrag vorbereiten und bei Ausbleiben des ERB sofort erteilen.
+- Nie ausschließlich auf beA-Zustellung setzen, wenn Frist eng ist.
+- Bei ambivalenter Lage: GV-Zustellung als primären Weg wählen.
+
+## Verfahrenstechnische Details
+
+### Qualifizierte elektronische Signatur (QES)
+
+- Vollstreckbare Ausfertigung muss für beA-Übermittlung als PDF/A vorliegen.
+- QES des übermittelnden Anwalts muss gültig und zertifiziert sein.
+- Prüfung: BRAK-Zertifikat aktuell? Zeitstempel korrekt?
+
+### Hybridlösung
+
+- Manche Kanzleien nutzen beA-Zustellung parallel zur GV-Zustellung.
+- Erste Zustellung (beA oder GV) bewirkt Vollziehung; keine Doppelwirkung.
+- Dokumentation beider Wege für den Fall, dass eine angegriffen wird.
+
+## Typische Fallen
+
+- **ERB-Strategie des Gegners:** Empfangsbekenntnis wird mit falschem Datum ausgefüllt; Prüfung des Übermittlungsprotokolls dagegen halten.
+- **beA-Postfach inaktiv:** Gegnerisches beA ist seit Entzug der Zulassung inaktiv; keine Zustellung möglich.
+- **Kein Anwalt auf Schuldnerseite:** Direkte beA-Zustellung an Partei scheitert.
+- **ERB zu spät:** ERB kommt nach Fristablauf; Zustellung gilt als erst dann bewirkt.
+- **Falsches Dokument:** Einfache Kopie statt vollstreckbarer Ausfertigung übermittelt; Zustellung unwirksam.
+
+## Output-Module
+
+- **Risikoampel beA vs. GV:** Einschätzung im konkreten Fall.
+- **Checkliste beA-Zustellung:** Adresse BRAK-Verzeichnis, QES, Protokoll, ERB.
+- **ERB-Tracking-Vorlage:** Datum Versand, erwarteter ERB-Eingang, tatsächlicher Eingang.
+- **Fallback-Auftrag GV:** Parallelauftrag für den Fall des Scheiterns.
+
+## Quellenregel
+
+- [§ 173 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/173.html)
+- [§ 174 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/174.html)
+- [§ 130a ZPO – dejure.org](https://dejure.org/gesetze/ZPO/130a.html)
+- BRAK-Hinweise zu beA und Zustellung: [brak.de](https://www.brak.de)
+- Keine Kommentar-Blindzitate; aktuelle beA-Praxis über Kammermitteilungen prüfen.
+
+## Anschluss-Skills
+
+- `evvollzug-neu-001` – Vollziehungsfrist Überblick
+- `evvollzug-neu-003` – GV-Zustellung als verlässliche Alternative
+- `evvollzug-neu-005` – Ordnungsmittelantrag nach Vollzug
+- `evvollzug-neu-006` – Auslandszustellung EV
+
+---
+
+## Skill: `evvollzug-neu-005-ordnungsmittel-vollstreckung`
+
+_Für Gewerblicher Rechtsschutz: Ordnungsmittelantrag Vollstreckung Unterlassungstitel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Gewerblicher Rechtsschutz: Ordnungsmittelantrag Vollstreckung Unterlassungstitel
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
 
-Er führt durch **Erstprüfung, Rollenklärung und Mandatsziel** im Themenfeld **Gewerblicher**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill bearbeitet **Ordnungsmittelantrag Vollstreckung Unterlassungstitel** im Bereich **Gewerblicher Rechtsschutz**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
+## Kaltstart in 6 Fragen
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Gewerblicher.
-- **Arbeitsfokus:** Erstprüfung, Rollenklärung und Mandatsziel.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gewerblicher** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
----
-
-## Skill: `evvollzug-neu-008-schutzschrift-register-und-forumstrategie`
-
-_Wenn es um EV-Vollzug 008: Schutzschrift, Register und Forumstrategie (Antragsgegnerperspektive) in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# EV-Vollzug 008: Schutzschrift, Register und Forumstrategie (Antragsgegnerperspektive)
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck und Mandatsbezug
-
-Behandelt die **präventive Verteidigungsstrategie des potentiellen Antragsgegners** bei drohender einstweiliger Verfügung im gewerblichen Rechtsschutz. Wer eine Abmahnung erhalten hat oder mit einer EV rechnet, kann durch Einreichung einer Schutzschrift ins zentrale Schutzschriftenregister (ZSSR) das Gericht vorwarnen und die Gewährung einer EV ohne mündliche Verhandlung erschweren.
-
-Mandatsbezug: Mandant hat Abmahnung erhalten (Marke, Patent, UWG, Urheberrecht) und lehnt sie ab; Abmahner hat Klageerhebung angedroht. Mandant will Beschlussverfügung ohne Anhörung verhindern. Oder: Mandant ist Wettbewerber, der beim Markteintritt mit Verfügungsantrag rechnet.
-
-## Rechtlicher Rahmen
-
-### Zentrale Normen und Grundlagen
-
-- **§ 945a ZPO** – Zentrale Schutzschriften-Einreichung; Schutzschriften können beim ZSSR eingereicht werden und sind von allen ordentlichen Gerichten vor Erlass einer EV einzusehen.
-- **§ 937 Abs. 2 ZPO** – Beschlussverfügung ohne mündliche Verhandlung; Schutzschrift kann diesen Weg verhindern oder erschweren.
-- **§ 922 Abs. 1 ZPO** – Recht des Antragsgegners auf mündliche Verhandlung bei ernsthaften Einwendungen.
-- **§ 919 ZPO** – Allgemeine Zuständigkeitsregeln; Forumstrategie des Antragsgegners.
-- **§ 32 ZPO** – Besonderer Gerichtsstand der unerlaubten Handlung; beliebter Verfügungsgerichtsstand des Antragstellers.
-
-### Das zentrale Schutzschriftenregister (ZSSR)
-
-- Betrieben von: Elektronisches Gerichts- und Verwaltungspostfach (EGVP) unter www.schutzschriftenregister.de
-- Zugang: Rechtsanwälte können Schutzschriften einreichen; Gerichte können abrufen.
-- Geltungsdauer: 6 Monate ab Einreichung; Verlängerung möglich.
-- Kosten: Keine Gerichtsgebühren; nur Anwaltskosten.
-- Pflicht des Gerichts: Vor Erlass einer Beschlussverfügung muss das Gericht das Register abrufen (§ 945a Abs. 3 ZPO).
-
-## Kaltstart in 5 Fragen
-
-1. **Bedrohungslage:** Hat Mandant eine Abmahnung erhalten? Von wem, welcher Anspruch (Marke, UWG, Patent)?
-2. **Abmahninhalt:** Welche Verletzungshandlung wird gerügt? Welche Unterlassungserklärung wird verlangt?
-3. **Forumsfrage:** Wo würde Antragsteller voraussichtlich EV beantragen (Düsseldorf, Hamburg, München, Frankfurt)?
-4. **Dringlichkeit:** Ist Schutzschrift bereits nötig oder gibt es noch Zeit für Korrespondenz?
-5. **Output:** Schutzschrift-Entwurf, Forumstrategie-Memo, Entscheidungsempfehlung Unterlassungserklärung ja/nein?
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
 ## Prüfprogramm
 
-### Schritt 1 – Schutzschrift als Instrument einschätzen
-
-**Wann sinnvoll:**
-- Abmahnung wurde abgelehnt oder modifiziert beantwortet; Antragsteller hat Klage angedroht.
-- Mandant hat ernsthafte materielle Einwendungen (kein Schutzrecht, kein Verstoß, Verwirkung, Erschöpfung).
-- Antragsteller neigt zu schnellen EV-Anträgen ohne vorherige Reaktion abzuwarten.
-
-**Wann weniger sinnvoll:**
-- Verletzung ist offensichtlich; Schutzschrift kaschiert nur das Problem.
-- Mandant will ohnehin Hauptsachestreit vermeiden; Einigung besser.
-- Schutzschrift enthüllt Verteidigungsstrategie und gibt Antragsteller Gelegenheit zur Vorbereitung.
-
-### Schritt 2 – Schutzschriftinhalt
-
-Pflichtinhalt einer Schutzschrift:
-1. **Rubrum:** Antragsgegner (Mandant), potentieller Antragsteller, Anspruchsgegenstand.
-2. **Sachverhalt:** Tatsachen aus Sicht des Antragsgegners; konkreter Tatbestand.
-3. **Einwendungen:** Warum EV nicht ergehen darf.
- - Material: Schutzrecht ungültig, kein Verstoß, Erschöpfung (§ 24 MarkenG), Verwirkung.
- - Formal: Keine Dringlichkeit, fehlende Aktivlegitimation, Missbrauch.
-4. **Beweisangebote:** Dokumente, eidesstattliche Versicherungen, Zeugen.
-5. **Antrag:** Gericht möge von Erlass einer EV ohne mündliche Verhandlung absehen.
-
-### Schritt 3 – Forumstrategie
-
-**Bekannte IP-Gerichte und ihre Tendenz:**
-| Gericht | Besonderheit | Tendenz EV ohne Verhandlung |
-|---|---|---|
-| LG Hamburg | „Fliegender Gerichtsstand"; strenger | Häufig EV ohne Verhandlung |
-| LG München I | IP-Spezialkammer | Ausgewogen |
-| LG Düsseldorf | Starkes Patentgericht | Ausgewogen |
-| LG Frankfurt | UWG-Erfahrung | Ausgewogen |
-| LG Berlin | UWG, Urheberrecht | Häufig EV ohne Verhandlung |
-
-- Schutzschrift bei allen wahrscheinlichen Gerichtsstandorten einreichen.
-- Bei Marke: Sitz des Rechtsinhabers und Ort der Verletzungshandlung (§ 32 ZPO).
-- Bei UWG: Ort der Verletzungshandlung oder Niederlassung des Verletzers.
-
-### Schritt 4 – Fristverlängerung nach Abmahnung
-
-- Angemessene Reaktionsfrist auf Abmahnung ist Voraussetzung für Dringlichkeit der EV.
-- Schutzschrift + Bitte um Fristverlängerung in Reaktion auf Abmahnung: entzieht dem Antragsteller die Dringlichkeit.
-- Wenn Antragsteller trotz laufender Verhandlungen sofort EV beantragt, Selbstwiderlegung der Dringlichkeit rügen.
-
-### Schritt 5 – Abwägung Unterlassungserklärung vs. Schutzschrift
-
-| Option | Vorteile | Nachteile |
-|---|---|---|
-| Modifizierte Unterlassungserklärung | Verfahrensbeendigung, Kostenkontrolle | Anerkenntnis der Verletzung (faktisch) |
-| Schutzschrift ohne Unterlassungserklärung | Keine Anerkennung; Verfahren bleibt offen | Kosten bei Niederlage im Hauptsacheverfahren |
-| Keine Reaktion | Kostenlos | EV ohne mündliche Verhandlung wahrscheinlich |
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Normtext und aktuelle Rechtsprechung live prüfen
+- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
+- Keine BeckRS- oder Literatur-Blindzitate
+- Ergebnis immer in Handlungsschritt übersetzen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
 ## Typische Fallen
 
-- **Schutzschrift enthüllt Hauptverteidigungsstrategie:** Antragsteller kann diese in EV-Antrag kontern.
-- **Schutzschrift nicht beim richtigen Gericht:** Register wird abgerufen, aber Mandant hat falschen Gerichtsstand erwartet.
-- **Ablaufende Geltungsdauer übersehen:** Schutzschrift erlischt nach 6 Monaten; bei laufender Abmahnkorrespondenz verlängern.
-- **Keine Beweisangebote:** Schutzschrift ohne Belege überzeugt Gericht nicht, von Beschlussverfügung abzusehen.
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-## Output-Module
+## Output
 
-- **Schutzschrift-Vorlage:** Muster mit Rubrum, Sachverhalt, Einwendungen, Beweisangeboten.
-- **Forumstrategie-Matrix:** Wahrscheinliche Gerichtsstände mit Tendenzeinschätzung.
-- **Entscheidungsbaum:** Schutzschrift / Unterlassungserklärung / Keine Reaktion.
-- **Fristverlängerungsschreiben an Abmahner:** Entwurf mit Bitte um Verhandlungszeit.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellenregel
-
-- [§ 945a ZPO – dejure.org](https://dejure.org/gesetze/ZPO/945a.html)
-- [§ 937 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/937.html)
-- ZSSR: [schutzschriftenregister.de](https://www.schutzschriftenregister.de)
-- Rechtsprechung zur Dringlichkeitsschädlichkeit: BGH und OLG-Entscheidungen auf openjur.de.
-- Keine Kommentar-Blindzitate; aktuelle Gerichtspraxis zu Dringlichkeit per Gerichtsstandort prüfen.
-
-## Anschluss-Skills
-
-- `schutzschrift-eilverfuegung` – Schutzschrift im Detail
-- `unterlassungsverlangen` – Unterlassungserklärung als Alternative
-- `evvollzug-neu-001` – Vollziehungsfrist (Antragstellerperspektive)
-- `verletzungs-triage` – Erstentscheidung IP-Verletzung
-
----
-
-## Skill: `evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun`
-
-_Wenn es um EV-Vollzug 005: Ordnungsmittelantrag (Paragraf 890 ZPO) nach Unterlassungstitel in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# EV-Vollzug 005: Ordnungsmittelantrag (§ 890 ZPO) nach Unterlassungstitel
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck und Mandatsbezug
-
-Behandelt den **Ordnungsmittelantrag nach § 890 ZPO** als das zentrale Vollstreckungsinstrument bei Unterlassungsverfügungen im gewerblichen Rechtsschutz. Der Schuldner hat gegen eine rechtskräftige oder vollzogene Unterlassungsverfügung verstoßen – jetzt muss der Antragsteller die Einhaltung erzwingen.
-
-Mandatsbezug: Markeninhaber hat Unterlassungsverfügung gegen Verletzer erwirkt und vollzogen; Verletzer nutzt das Zeichen weiter. Oder: UWG-Antragsteller hat EV gegen unlauteren Wettbewerber; Wettbewerber stellt nach Verfügungszustellung weiter dieselbe irreführende Werbung ein.
-
-## Rechtlicher Rahmen
-
-### Zentrale Normen
-
-- **§ 890 Abs. 1 ZPO** – Vollstreckung eines Unterlassungsurteils durch Ordnungsgeld (bis 250.000 EUR) oder Ordnungshaft (bis sechs Monate pro Verstoß).
-- **§ 890 Abs. 2 ZPO** – Androhungsgebot: Ordnungsmittel dürfen nur vollstreckt werden, wenn sie vorab angedroht wurden; die Androhung erfolgt regelmäßig durch die Unterlassungsverfügung selbst oder einen separaten Androhungsbeschluss.
-- **§ 891 ZPO** – Verfahren bei Ordnungsmittelantrag: Antrag des Gläubigers, rechtliches Gehör des Schuldners, Beschluss des Vollstreckungsgerichts.
-- **§ 928 ZPO** – Anwendbarkeit der allgemeinen Vollstreckungsvorschriften auf EV.
-- **§ 936 ZPO** – Anwendbarkeit der Arrestvorschriften.
-
-### Voraussetzungen des Ordnungsmittelantrags
-
-| Voraussetzung | Inhalt | Prüfpunkt |
-|---|---|---|
-| Vollstreckbarer Unterlassungstitel | Vollzogene EV oder rechtskräftiges Urteil | Zustellurkunde vorhanden? |
-| Androhung der Ordnungsmittel | Im Tenor der EV enthalten oder separater Beschluss | Tenor lesen |
-| Zuwiderhandlung | Konkreter Verstoß nach Zustellung der EV | Beleg: Screenshot, Zeuge, Testkauf |
-| Verschulden | Schuldner hat vorsätzlich oder fahrlässig gehandelt | Schuldner muss sich entlasten |
-| Antrag beim Vollstreckungsgericht | Schriftlicher Antrag mit Belegen | Form und Zuständigkeit prüfen |
-
-## Kaltstart in 5 Fragen
-
-1. **Titelnachweis:** Liegt vollzogene EV mit Zustellurkunde vor? Enthält der Tenor eine Ordnungsmittelandrohung?
-2. **Verstoßbeleg:** Wann, wo und wie genau hat der Schuldner gegen die Unterlassung verstoßen? Welche Belege liegen vor?
-3. **Zeitpunkt:** War der Verstoß nach der Zustellung der EV an den Schuldner?
-4. **Zuständigkeit:** Welches Gericht hat die EV erlassen? Ordnungsmittelantrag an dasselbe Gericht (§ 891 ZPO)?
-5. **Output:** Antragsschriftsatz, Checkliste Beleglage, Memo zur Höhe des Ordnungsgeldes?
-
-## Prüfprogramm
-
-### Schritt 1 – Titel und Androhung prüfen
-
-- Tenor der EV auf Androhungspassage prüfen: „Bei Zuwiderhandlung wird ein Ordnungsgeld bis zu 250.000 EUR, ersatzweise Ordnungshaft, angedroht."
-- Fehlt die Androhung im Tenor, muss vor dem Ordnungsmittelantrag ein separater Androhungsbeschluss beantragt werden (§ 890 Abs. 2 ZPO).
-- Prüfen, ob EV durch Widerspruch oder Berufung aufgehoben wurde – dann kein Ordnungsmittelantrag.
-
-### Schritt 2 – Zuwiderhandlung dokumentieren
-
-- **Datum und Uhrzeit** des Verstoßes genau festhalten (wichtig für Verschuldensfrage).
-- **Beweismittel:**
- - Screenshot mit Datum, URL, Metadaten
- - Testkauf mit Quittung
- - Zeuge mit schriftlicher Erklärung
- - eidesstattliche Versicherung des Antragstellers
-- Verstoß muss **nach** Zustellung der EV an Schuldner erfolgt sein; Datum der Zustellurkunde ist Bezugspunkt.
-- Mehrere Verstöße getrennt dokumentieren; jeder Verstoß kann gesondert geahndet werden.
-
-### Schritt 3 – Antragsschrift verfassen
-
-Pflichtbestandteile:
-1. Bezeichnung des Vollstreckungsgerichts
-2. Rubrum (Gläubiger, Schuldner)
-3. AZ der EV
-4. Datum der Zustellung der EV (mit Bezug auf Zustellurkunde)
-5. Konkrete Darstellung der Zuwiderhandlung mit Datum
-6. Beweismittel als Anlage
-7. Antrag: „Es wird beantragt, gegen den Schuldner wegen Zuwiderhandlung gegen den Beschluss des [Gericht] vom [Datum] – AZ [AZ] – ein Ordnungsgeld in Höhe von mindestens [X] EUR, ersatzweise Ordnungshaft, festzusetzen."
-
-### Schritt 4 – Ordnungsgeldhöhe einschätzen
-
-- Keine gesetzliche Tabelle; Gericht übt Ermessen aus.
-- Faktoren: Schwere des Verstoßes, Umsatz des Schuldners, Wiederholungsgefahr, Vorsatz/Fahrlässigkeit.
-- Richtwerte in IP-Verfahren: 5.000–50.000 EUR für einfachen Verstoß; bei Unternehmen mit hohem Umsatz bis 250.000 EUR.
-- Empfehlung im Antrag: Konkreten Betrag nennen; Gericht kann abweichen, aber Orientierungsrahmen setzen.
-
-### Schritt 5 – Schuldnerverteidigung antizipieren
-
-Typische Einwände des Schuldners:
-- **Kein Verschulden:** Mitarbeiter habe ohne Wissen gehandelt; Gegenargument: Organisationsverschulden.
-- **Titel deckt Verstoß nicht ab:** Verstoßverhalten fällt nicht unter Unterlassungsgebot; prüfen, ob Tenor weit genug formuliert.
-- **Verstoß vor Zustellung:** Prüfen: Wurde Verstoß wirklich erst nach Zustellungsdatum begangen?
-- **Einstellung des Vertriebs:** Schuldner behauptet, Verstoß eingestellt zu haben; Belege für Fortsetzung beschaffen.
-
-## Nachgelagerte Schritte
-
-- **Ordnungsgeld-Beschluss:** Einzahlung des Ordnungsgeldes an Staatskasse; kein direkter Nutzen für Gläubiger.
-- **Unterlassungsklage in der Hauptsache:** Falls EV nur einstweilig – muss Hauptsacheklage innerhalb Frist erhoben werden (Abschlussschreiben beachten → evvollzug-neu-007).
-- **Wiederholter Verstoß:** Jeder erneute Verstoß führt zu neuem Ordnungsmittelantrag; kumulativ möglich.
-
-## Output-Module
-
-- **Antragsschriftsatz-Vorlage:** Vollständiger Mustertext mit Platzhaltern.
-- **Belegliste Verstoß:** Datum, Art des Verstoßes, Beweismittel, Anlage-Nummer.
-- **Ordnungsgeld-Einschätzungsmatrix:** Umsatz, Schwere, Vorsatz, Wiederholung → empfohlene Höhe.
-- **Antizipierte Verteidigung:** Tabelle Schuldnereinwand / Gegenargument.
+- Memo
+- Checkliste
+- Mustertext
+- Fristenplan
+- Red-Team
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
@@ -1017,142 +891,99 @@ Typische Einwände des Schuldners:
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Anschluss-Skills
-
-- `evvollzug-neu-001` – Vollziehungsfrist und Parteizustellung
-- `evvollzug-neu-007` – Abmahnung, Abschlussschreiben und Hauptsache
-- `unterlassungsverlangen` – Unterlassungserklärung als Alternative zum Gerichtsverfahren
-- `verletzungs-triage` – Erstentscheidung bei IP-Verletzung
-
 ---
 
-## Skill: `gewr-geschaeftsgeheimnisgesetz`
+## Skill: `evvollzug-neu-003-zustellung-durch-gv-ip-verfahren`
 
-_Wenn es um GewR: Geschäftsgeheimnisgesetz (GeschGehG) – Spezial in Plugin: Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Gewerblicher Rechtsschutz: Zustellung durch Gerichtsvollzieher im IP-Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# GewR: Geschäftsgeheimnisgesetz (GeschGehG) – Spezial
+# Gewerblicher Rechtsschutz: Zustellung durch Gerichtsvollzieher im IP-Verfahren
 
-## Arbeitsweg
+## Aufgabe
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Skill bearbeitet **Zustellung durch Gerichtsvollzieher im IP-Verfahren** im Bereich **Gewerblicher Rechtsschutz**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
-## Zweck und Mandatsbezug
+## Kaltstart in 6 Fragen
 
-Behandelt den **Schutz von Geschäftsgeheimnissen nach dem GeschGehG** (Gesetz zum Schutz von Geschäftsgeheimnissen, in Kraft seit 26.04.2019) als eigenständigen Rechtsbaustein im gewerblichen Rechtsschutz. Das GeschGehG hat die frühere Rechtslage nach §§ 17–19 UWG a.F. abgelöst und neue Anforderungen an den Schutz eingeführt – insbesondere die Pflicht zu „angemessenen Geheimhaltungsmaßnahmen".
-
-Mandatsbezug: Mitarbeiter verlässt Unternehmen und nimmt Kundendaten mit; Wettbewerber hat Zugang zu Produktionsrezepturen erlangt; Auftragnehmer nutzt vertrauliche Konstruktionszeichnungen ohne Erlaubnis. Oder: Unternehmen erhält Abmahnung wegen angeblicher GeschGehG-Verletzung.
-
-## Rechtlicher Rahmen
-
-### Zentrale Normen
-
-- **§ 2 GeschGehG** – Definition des Geschäftsgeheimnisses: Information, die (1) geheim ist, (2) kommerziellen Wert hat und (3) angemessenen Geheimhaltungsmaßnahmen unterliegt.
-- **§ 3 GeschGehG** – Erlaubte Handlungen; kein Schutz für eigenständig entwickelte Informationen, Reverse Engineering unter Voraussetzungen.
-- **§ 4 GeschGehG** – Verbotene Handlungen: unbefugter Erwerb, Nutzung, Offenlegung.
-- **§ 5 GeschGehG** – Ausnahmen: Aufdeckung von Rechtsverstoß (Whistleblower), Ausübung von Meinungsfreiheit.
-- **§ 6 GeschGehG** – Unterlassungsanspruch.
-- **§ 10 GeschGehG** – Schadensersatz.
-- **§ 20 GeschGehG** – Straf- und Bußgeldvorschriften.
-- **Richtlinie (EU) 2016/943** – Trade Secrets Directive; Grundlage des GeschGehG.
-
-### Schutzvoraussetzungen nach § 2 Nr. 1 GeschGehG
-
-| Element | Inhalt | Prüfpunkt |
-|---|---|---|
-| Geheimheit | Information nicht allgemein bekannt oder leicht zugänglich | Marktwissen, Fachpublikation, offene Quellen? |
-| Kommerzieller Wert | Wirtschaftlicher Wert der Geheimhaltung | Wettbewerbsvorteil? Lizenzierbar? |
-| Angemessene Geheimhaltungsmaßnahmen | Aktive Schritte des Inhabers | NDA, Zugangsbeschränkung, Verschlüsselung, Schulung |
-
-## Kaltstart in 5 Fragen
-
-1. **Informationsart:** Was soll geschützt werden? Kundenliste, Rezeptur, Quellcode, Konstruktionszeichnung, Geschäftsstrategie?
-2. **Geheimhaltungsmaßnahmen:** Welche Maßnahmen wurden ergriffen? NDA, IT-Zugangsschutz, physischer Zugangsschutz, Mitarbeiterschulung?
-3. **Verletzungshandlung:** Was hat der Verletzer getan? Entwendet, weitergegeben, genutzt?
-4. **Beziehung zum Verletzer:** Ehemaliger Mitarbeiter, Auftragnehmer, Wettbewerber, Einbrecher?
-5. **Output:** Unterlassungsantrag (EV), Schadensersatz-Memo, Checkliste Geheimhaltungsmaßnahmen oder Abmahnung?
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
 ## Prüfprogramm
 
-### Schritt 1 – Schutzfähigkeit prüfen
-
-**Geheimheit:**
-- Information nicht in Fachzeitschriften, Patentschriften oder im Internet verfügbar?
-- Kein „allgemeines Branchenwissen" der Mitarbeiter?
-- Nicht durch Reverse Engineering einfach gewinnbar (§ 3 Abs. 1 Nr. 2 GeschGehG)?
-
-**Kommerzieller Wert:**
-- Unternehmen spart Kosten/erzielt Erlöse durch Geheimhaltung?
-- Lizenzierungspotential vorhanden?
-- Wettbewerber würde profitieren?
-
-**Angemessene Geheimhaltungsmaßnahmen (critical!):**
-- **Vertragliche Maßnahmen:** NDA mit Mitarbeitern und Vertragspartnern; Vertraulichkeitsklauseln.
-- **Technische Maßnahmen:** Passwortschutz, Verschlüsselung, Zugriffsberechtigungen.
-- **Organisatorische Maßnahmen:** Need-to-know-Prinzip, Schulungen, Kennzeichnung als „vertraulich".
-- **Physische Maßnahmen:** Abgesicherter Serverraum, verschlossene Schränke.
-- Fehlen angemessener Maßnahmen: **Kein Schutz nach § 2 GeschGehG** – auch wenn Information wertvoll war.
-
-### Schritt 2 – Verletzungshandlung nach § 4 GeschGehG
-
-**Verbotener Erwerb (§ 4 Abs. 1 GeschGehG):**
-- Unbefugter Zugriff auf Computer, Dateien, Räumlichkeiten.
-- Mitnahme von Unterlagen ohne Erlaubnis.
-
-**Verbotene Nutzung/Offenlegung (§ 4 Abs. 2 GeschGehG):**
-- Nutzung in neuem Unternehmen; Weitergabe an Wettbewerber.
-- Auch: Drittperson, die weiß, dass Information unerlaubt erlangt wurde (§ 4 Abs. 3 GeschGehG).
-
-**Ausnahmen prüfen (§ 5 GeschGehG):**
-- Whistleblowing zur Aufdeckung von Rechtsverstoß: schutzlos.
-- Meinungsfreiheit, Pressefreiheit: Interessenabwägung.
-- Ausübung gesetzlicher Rechte (z.B. Betriebsratsinformationsrecht).
-
-### Schritt 3 – Einstweilige Verfügung
-
-- Verfügungsanspruch: §§ 6 ff. GeschGehG (Unterlassung, Herausgabe).
-- Verfügungsgrund: Dringlichkeit, drohende irreversible Offenbarung.
-- Glaubhaftmachung: Nachweis der Schutzvoraussetzungen + Verletzungshandlung + Geheimhaltungsmaßnahmen.
-- Besonderheit: § 16 GeschGehG – Vertraulichkeitsschutz im Verfahren; Gericht kann Verfahren unter Ausschluss der Öffentlichkeit führen.
-
-### Schritt 4 – Schadensersatz und Herausgabe
-
-- § 10 GeschGehG: Schadensersatz bei vorsätzlicher oder fahrlässiger Verletzung.
-- Berechnungsmethoden: Tatsächlicher Schaden, entgangener Gewinn, Lizenzanalogie.
-- § 7 GeschGehG: Herausgabe des Verletzergewinns.
-- § 8 GeschGehG: Vernichtung und Rückruf der verletzenden Produkte.
-
-### Schritt 5 – Arbeitnehmer-Sonderfall
-
-- Nachvertragliches Wettbewerbsverbot: §§ 74 ff. HGB; muss gesondert vereinbart sein.
-- Mitnahme von Arbeitgeberunterlagen: § 4 Abs. 1 GeschGehG; aber: eigene Notizen, Erfahrungswissen zulässig.
-- Abgrenzung: „persönliches berufliches Wissen" vs. konkrete Unternehmensgeheimnisse.
-- Strafrecht: § 20 GeschGehG; parallel zu zivilrechtlichen Ansprüchen.
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Normtext und aktuelle Rechtsprechung live prüfen
+- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
+- Keine BeckRS- oder Literatur-Blindzitate
+- Ergebnis immer in Handlungsschritt übersetzen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
 ## Typische Fallen
 
-- **Fehlende Geheimhaltungsmaßnahmen:** Kein NDA, keine Zugangsbeschränkung → kein GeschGehG-Schutz trotz wertvoller Information.
-- **Information war öffentlich:** Patentschrift, Fachpublikation, offene Quellen → Geheimheit fehlt.
-- **Whistleblower-Ausnahme übersehen:** Mitarbeiter hat Rechtsverstoß aufgedeckt; kein Anspruch.
-- **Verjährung:** Ansprüche nach § 9 GeschGehG verjähren in 3 Jahren (§ 195 BGB); Fristbeginn beachten.
-- **Verwechslung mit Strafrecht:** GeschGehG und § 20 GeschGehG gelten nebeneinander; Strafanzeige ≠ Abmahnung.
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-## Output-Module
+## Output
 
-- **Schutzfähigkeits-Checkliste:** Geheimheit, kommerzieller Wert, Geheimhaltungsmaßnahmen.
-- **Maßnahmen-Audit:** Vorhandene vs. empfohlene Geheimhaltungsmaßnahmen.
-- **EV-Antrag-Skizze:** Verfügungsanspruch §§ 6 ff. GeschGehG, Glaubhaftmachungspaket.
-- **Abmahnung Muster GeschGehG:** Verletzungshandlung, Anspruchsgrundlage, Unterlassungsaufforderung.
+- Memo
+- Checkliste
+- Mustertext
+- Fristenplan
+- Red-Team
 
-## Anschluss-Skills
+---
 
-- `gewr-einstweilige-verfuegung-eilverfahren-spezial` – EV-Antrag
-- `verletzungs-triage` – Erstentscheidung
-- `unterlassungsverlangen` – Unterlassungserklärung
-- `spezial-rechtsschutz-tatbestand-beweis-und-belege` – Tatbestand und Beweis
+## Skill: `evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung`
+
+_Für Gewerblicher Rechtsschutz: Urteilsverfügung Beschlussverfügung und Zustellweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Gewerblicher Rechtsschutz: Urteilsverfügung Beschlussverfügung und Zustellweg
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Urteilsverfügung Beschlussverfügung und Zustellweg** im Bereich **Gewerblicher Rechtsschutz**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Normtext und aktuelle Rechtsprechung live prüfen
+- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
+- Keine BeckRS- oder Literatur-Blindzitate
+- Ergebnis immer in Handlungsschritt übersetzen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Memo
+- Checkliste
+- Mustertext
+- Fristenplan
+- Red-Team
 
 ---
 

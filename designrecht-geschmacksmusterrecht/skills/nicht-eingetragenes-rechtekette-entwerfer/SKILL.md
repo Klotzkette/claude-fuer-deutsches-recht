@@ -1,6 +1,6 @@
 ---
 name: nicht-eingetragenes-rechtekette-entwerfer
-description: "Wenn es um Nicht Eingetragenes Eu Design in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Nicht Eingetragenes Eu Design: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nicht Eingetragenes Eu Design

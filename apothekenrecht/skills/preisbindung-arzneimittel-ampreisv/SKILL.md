@@ -1,6 +1,6 @@
 ---
 name: preisbindung-arzneimittel-ampreisv
-description: "Wenn es um Preisbindung Arzneimittel AMPreisV in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Preisbindung Arzneimittel AMPreisV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Preisbindung Arzneimittel AMPreisV

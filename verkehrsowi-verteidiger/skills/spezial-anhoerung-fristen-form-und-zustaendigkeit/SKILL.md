@@ -1,6 +1,6 @@
 ---
 name: spezial-anhoerung-fristen-form-und-zustaendigkeit
-description: "Wenn es um Anhoerung: Fristen, Form, Zuständigkeit und Rechtsweg in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Anhoerung: Fristen, Form, Zuständigkeit und Rechtsweg

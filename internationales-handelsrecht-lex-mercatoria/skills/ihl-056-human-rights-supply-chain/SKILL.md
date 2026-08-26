@@ -1,6 +1,6 @@
 ---
 name: ihl-056-human-rights-supply-chain
-description: "Wenn es um Human Rights Supply Chain in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Human Rights Supply Chain: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Human Rights Supply Chain

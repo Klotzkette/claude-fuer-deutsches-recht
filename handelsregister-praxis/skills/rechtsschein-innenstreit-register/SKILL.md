@@ -1,6 +1,6 @@
 ---
 name: rechtsschein-innenstreit-register
-description: "Wenn es um Innenstreit trotz Registerschein in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Innenstreit trotz Registerschein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Innenstreit trotz Registerschein

@@ -1,6 +1,6 @@
 ---
 name: phishing-strafanzeige-vorbereiten
-description: "Wenn es um Strafanzeige Paragraf 263a StGB in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Strafanzeige Paragraf 263a StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafanzeige § 263a StGB

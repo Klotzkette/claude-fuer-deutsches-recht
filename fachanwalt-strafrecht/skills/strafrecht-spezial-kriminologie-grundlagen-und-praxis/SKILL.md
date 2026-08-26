@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-kriminologie-grundlagen-und-praxis
-description: "Wenn es um Strafrecht Spezial Kriminologie Grundlagen Und Praxis in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Kriminologie Grundlagen und Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kriminologie als Bezugswissenschaft des Strafrechts: Aetiologie, Phaenomenologie, Viktimologie, Praevention, Repression

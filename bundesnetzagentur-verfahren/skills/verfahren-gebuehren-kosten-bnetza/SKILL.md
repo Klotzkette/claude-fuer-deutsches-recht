@@ -1,6 +1,6 @@
 ---
 name: verfahren-gebuehren-kosten-bnetza
-description: "Wenn es um Verfahren: Gebühren Kosten BNetzA in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Verfahren: Gebühren Kosten BNetzA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Verfahren: Gebühren Kosten BNetzA

@@ -1,6 +1,6 @@
 ---
 name: nda-fuer-ai-und-modelltraining
-description: "Wenn es um NDA Für Ai Und Modelltraining in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für NDA für Ai und Modelltraining: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA Für Ai Und Modelltraining

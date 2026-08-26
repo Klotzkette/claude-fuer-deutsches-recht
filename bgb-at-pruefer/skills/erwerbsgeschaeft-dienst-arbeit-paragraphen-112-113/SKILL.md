@@ -1,6 +1,6 @@
 ---
 name: erwerbsgeschaeft-dienst-arbeit-paragraphen-112-113
-description: "Wenn es um Erwerbsgeschaeft Dienst Arbeit Paragraphen 112 113 in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Erwerbsgeschäft Dienst Arbeit Paragraphen 112 113: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erwerbsgeschaeft Dienst Arbeit Paragraphen 112 113

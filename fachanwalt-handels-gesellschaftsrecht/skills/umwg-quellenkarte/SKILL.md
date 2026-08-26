@@ -1,6 +1,6 @@
 ---
 name: umwg-quellenkarte
-description: "Wenn es um Umwg Quellenkarte in Fachanwalt Handels- und Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Umwg Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umwg Quellenkarte

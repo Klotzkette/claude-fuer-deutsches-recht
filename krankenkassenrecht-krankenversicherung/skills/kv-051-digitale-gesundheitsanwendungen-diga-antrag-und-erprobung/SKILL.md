@@ -1,6 +1,6 @@
 ---
 name: kv-051-digitale-gesundheitsanwendungen-diga-antrag-und-erprobung
-description: "Wenn es um Krankenversicherung: Digitale Gesundheitsanwendungen DiGA Antrag und Erprobung in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Digitale Gesundheitsanwendungen DiGA Antrag und Erprobung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Krankenversicherung: Digitale Gesundheitsanwendungen DiGA Antrag und Erprobung

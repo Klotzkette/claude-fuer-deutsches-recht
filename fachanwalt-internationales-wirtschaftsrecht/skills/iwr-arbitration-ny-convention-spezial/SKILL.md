@@ -1,6 +1,6 @@
 ---
 name: iwr-arbitration-ny-convention-spezial
-description: "Wenn es um Iwr Arbitration Ny Convention Spezial in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Iwr Arbitration Ny Convention Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall internationale Schiedsgerichtsbarkeit nach New York Convention 1958: Vollstreckung im Ausland, Prüfung Versagungsgruende Art

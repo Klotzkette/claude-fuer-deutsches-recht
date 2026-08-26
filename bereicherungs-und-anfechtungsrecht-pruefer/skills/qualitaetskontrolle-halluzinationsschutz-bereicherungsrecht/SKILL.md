@@ -1,6 +1,6 @@
 ---
 name: qualitaetskontrolle-halluzinationsschutz-bereicherungsrecht
-description: "Wenn es um Qualitätskontrolle und Halluzinationsschutz in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Qualitaetskontrolle Halluzinationsschutz Bereicherungsrecht; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Qualitätskontrolle und Halluzinationsschutz: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: qualitaetskontrolle-halluzinationsschutz-bereicherungsrecht."
 ---
 
 # Qualitätskontrolle und Halluzinationsschutz

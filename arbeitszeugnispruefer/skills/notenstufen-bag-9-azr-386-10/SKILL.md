@@ -1,6 +1,6 @@
 ---
 name: notenstufen-bag-9-azr-386-10
-description: "Wenn es um Notenstufen nach BAG 9 AZR 386.10 in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Notenstufen nach BAG 9 AZR 386.10: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notenstufen nach BAG 9 AZR 386.10

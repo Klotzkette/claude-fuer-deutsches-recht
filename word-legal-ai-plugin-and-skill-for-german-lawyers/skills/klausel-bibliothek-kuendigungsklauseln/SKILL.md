@@ -1,6 +1,6 @@
 ---
 name: klausel-bibliothek-kuendigungsklauseln
-description: "Wenn es um Klauselbibliothek-Katalog in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Klauselbibliothek-Katalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klauselbibliothek-Katalog

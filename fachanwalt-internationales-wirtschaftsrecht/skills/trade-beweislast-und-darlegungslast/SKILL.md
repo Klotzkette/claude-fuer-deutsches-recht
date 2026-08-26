@@ -1,6 +1,6 @@
 ---
 name: trade-beweislast-und-darlegungslast
-description: "Wenn es um Trade: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Trade: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Trade: Beweislast, Darlegungslast und Substantiierung

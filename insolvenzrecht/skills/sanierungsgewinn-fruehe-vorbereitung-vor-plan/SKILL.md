@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-fruehe-vorbereitung-vor-plan
-description: "Wenn es um Sanierungsgewinn — fruehe Vorbereitung vor Insolvenzantrag oder StaRUG-Anzeige in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sanierungsgewinn — frühe Vorbereitung vor Insolvenzantrag oder StaRUG-Anzeige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn — fruehe Vorbereitung vor Insolvenzantrag oder StaRUG-Anzeige

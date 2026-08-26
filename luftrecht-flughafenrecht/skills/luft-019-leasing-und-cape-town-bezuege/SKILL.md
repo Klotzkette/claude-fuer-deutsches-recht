@@ -1,6 +1,6 @@
 ---
 name: luft-019-leasing-und-cape-town-bezuege
-description: "Wenn es um Leasing Und Cape Town Bezuege in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasing und Cape Town Bezüge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasing Und Cape Town Bezuege

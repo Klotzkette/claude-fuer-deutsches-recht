@@ -1,6 +1,6 @@
 ---
 name: fitnessstudio-agb-force-majeure-formvorgaben
-description: "Wenn es um Fitnessstudio AGB in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Fitnessstudio Agb Force Majeure Formvorgaben; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Fitnessstudio AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fitnessstudio AGB

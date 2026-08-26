@@ -1,6 +1,6 @@
 ---
 name: datenbankherstellerrecht-wesentliche-investition
-description: "Wenn es um Datenbankherstellerrecht: Wesentliche Investition nachweisen in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankherstellerrecht: Wesentliche Investition nachweisen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankherstellerrecht: Wesentliche Investition nachweisen

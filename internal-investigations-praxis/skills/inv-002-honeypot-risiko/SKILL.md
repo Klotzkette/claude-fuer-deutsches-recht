@@ -1,6 +1,6 @@
 ---
 name: inv-002-honeypot-risiko
-description: "Wenn es um Honeypot-Risiko Staatsanwaltschaft in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Honeypot-Risiko Staatsanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Honeypot-Risiko Staatsanwaltschaft

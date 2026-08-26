@@ -1,6 +1,6 @@
 ---
 name: elementarschaden-starkregen-ueberschwemmung
-description: "Wenn es um Elementarschaden: Starkregen und Überschwemmung in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Elementarschaden: Starkregen und Überschwemmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Elementarschaden: Starkregen und Überschwemmung

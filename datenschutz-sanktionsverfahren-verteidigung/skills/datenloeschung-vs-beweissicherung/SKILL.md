@@ -1,6 +1,6 @@
 ---
 name: datenloeschung-vs-beweissicherung
-description: "Wenn es um Datenlöschung vs. Beweissicherung in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Datenlöschung vs. Beweissicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Datenlöschung vs. Beweissicherung

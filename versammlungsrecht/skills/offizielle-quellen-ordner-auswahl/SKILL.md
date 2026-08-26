@@ -1,6 +1,6 @@
 ---
 name: offizielle-quellen-ordner-auswahl
-description: "Wenn es um Quellenhygiene vor Antwort in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quellenhygiene vor Antwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quellenhygiene vor Antwort

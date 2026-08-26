@@ -1,6 +1,6 @@
 ---
 name: nda-abschlussbericht-playbook
-description: "Wenn es um NDA Abschlussbericht Playbook in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für NDA Abschlussbericht Playbook: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA Abschlussbericht Playbook

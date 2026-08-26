@@ -1,6 +1,6 @@
 ---
 name: db-007-api-nutzung-rate-limits-und-vertragsbruch
-description: "Wenn es um Datenbankrecht: API-Nutzung Rate Limits und Vertragsbruch in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: API-Nutzung Rate Limits und Vertragsbruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: API-Nutzung Rate Limits und Vertragsbruch

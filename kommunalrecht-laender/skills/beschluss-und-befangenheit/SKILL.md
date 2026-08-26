@@ -1,6 +1,6 @@
 ---
 name: beschluss-und-befangenheit
-description: "Wenn es um Beschluss Und Befangenheit in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschluss und Befangenheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschluss Und Befangenheit

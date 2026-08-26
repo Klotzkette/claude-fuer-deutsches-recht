@@ -1,6 +1,6 @@
 ---
 name: ausweisung-abwaegung
-description: "Prüft eine Ausweisung nach den Paragrafen 53 bis 55 AufenthG mit Gefahrenprognose, besonderem Schutz, Bleibeinteressen und Folgen für Familie und Aufenthalt. Liefert Abwägungsmatrix, Belegplan, Eilstrategie und einen ausformulierten Widerspruchs- oder Klagekern."
+description: "Prüft eine Ausweisung nach den Paragrafen 53 bis 55 AufenthG mit Gefahrenprognose, besonderem Schutz, Bleibeinteressen und Folgen für Familie und Aufenthalt."
 ---
 
 # 1. Ausweisung abwägen
@@ -56,3 +56,7 @@ Liefere:
 4. Prognosekritik und verhältnismäßige Alternativen.
 5. Ausformulierten Antrag und Begründungskern.
 6. Liste fehlender Nachweise und nächsten Vollzugsschritt.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-ausweisung-abwaegung` beziehungsweise Ausweisung Abwägung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-ausweisung-abwaegung.md).

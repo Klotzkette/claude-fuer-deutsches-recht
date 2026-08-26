@@ -1,6 +1,6 @@
 ---
 name: bgb-at-training-fallvarianten
-description: "Wenn es um Bgb At Training Fallvarianten in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für BGB At Training Fallvarianten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bgb At Training Fallvarianten

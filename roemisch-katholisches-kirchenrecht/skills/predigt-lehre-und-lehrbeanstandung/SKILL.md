@@ -1,6 +1,6 @@
 ---
 name: predigt-lehre-und-lehrbeanstandung
-description: "Wenn es um Predigt, Lehre und Lehrbeanstandung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Predigt, Lehre und Lehrbeanstandung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Predigt, Lehre und Lehrbeanstandung

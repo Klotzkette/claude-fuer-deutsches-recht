@@ -1,6 +1,6 @@
 ---
 name: beschwerde-rechtsanwaltskammer-fakte
-description: "Wenn es um Beschwerde Rechtsanwaltskammer Fakte in Berufsrecht Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschwerde Rechtsanwaltskammer Fakte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: beschwerde bei rechtsanwaltskammer - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

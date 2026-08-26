@@ -1,6 +1,6 @@
 ---
 name: zustandigkeit-119b-gvg-check
-description: "Wenn es um Zuständigkeit und Eingangstor in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Zuständigkeit und Eingangstor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zuständigkeit und Eingangstor

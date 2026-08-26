@@ -1,6 +1,6 @@
 ---
 name: trade-secret-misappropriation-code
-description: "Wenn es um Trade Secret Misappropriation Code in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Trade Secret Misappropriation Code: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trade Secret Misappropriation Code

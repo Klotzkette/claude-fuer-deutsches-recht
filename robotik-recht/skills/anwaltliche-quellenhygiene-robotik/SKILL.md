@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-quellenhygiene-robotik
-description: "Wenn es um Anwaltliche Quellenhygiene Robotik in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Anwaltliche Quellenhygiene Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwaltliche Quellenhygiene Robotik

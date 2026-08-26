@@ -1,6 +1,6 @@
 ---
 name: bussgeld-schulpflicht
-description: "Wenn es um Bußgeld wegen Schulpflicht in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bußgeld wegen Schulpflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bußgeld wegen Schulpflicht

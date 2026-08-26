@@ -1,6 +1,6 @@
 ---
 name: forderungsschreiben-mahnung
-description: "Wenn es um Forderungsschreiben — Mahnung (zweite Stufe) in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Forderungsschreiben Mahnung; Arbeitsfeld: Fluggastrechte."
+description: "Für Forderungsschreiben — Mahnung (zweite Stufe): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forderungsschreiben — Mahnung (zweite Stufe)

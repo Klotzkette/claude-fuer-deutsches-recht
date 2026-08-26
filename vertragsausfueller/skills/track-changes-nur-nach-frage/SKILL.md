@@ -1,6 +1,6 @@
 ---
 name: track-changes-nur-nach-frage
-description: "Wenn es um Track Changes nur nach Frage in Vertragsausfüller geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Track Changes nur nach Frage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Track Changes nur nach Frage

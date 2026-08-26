@@ -1,6 +1,6 @@
 ---
 name: nachfolge-und-vertretung
-description: "Wenn es um Wachstum Zusammenarbeit und Rechtsform: Plant stellvertretung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wachstum Zusammenarbeit und Rechtsform: Plant stellvertretung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wachstum Zusammenarbeit und Rechtsform: Plant stellvertretung

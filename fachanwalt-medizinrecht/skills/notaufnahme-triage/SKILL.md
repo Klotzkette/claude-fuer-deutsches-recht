@@ -1,6 +1,6 @@
 ---
 name: notaufnahme-triage
-description: "Wenn es um Notaufnahme Triage in Fachanwalt Medizinrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notaufnahme Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notaufnahme-Triage: moderner Medizinrechts-Skill für Triagefehler, Überlastung, Dokumentation, Wartezeit, ESI/MTS und Organisationshaftung

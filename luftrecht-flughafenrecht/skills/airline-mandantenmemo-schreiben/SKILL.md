@@ -1,6 +1,6 @@
 ---
 name: airline-mandantenmemo-schreiben
-description: "Wenn es um Airline – Mandantenmemo schreiben in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Airline – Mandantenmemo schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Airline – Mandantenmemo schreiben

@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-immaterieller-schaden-bgh
-description: "Wenn es um Rechtsprechung BGH und OLG zum immateriellen Schaden Art. 82 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsprechung BGH und OLG zum immateriellen Schaden Art. 82 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsprechung BGH und OLG zum immateriellen Schaden Art. 82 DSGVO

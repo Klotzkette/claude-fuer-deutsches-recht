@@ -1,6 +1,6 @@
 ---
 name: pfandrecht-pignus-hypotheca
-description: "Wenn es um Pfandrecht Pignus Hypotheca in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pfandrecht Pignus Hypotheca: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pfandrecht Pignus Hypotheca

@@ -1,6 +1,6 @@
 ---
 name: vertical-restraints-vber-global
-description: "Wenn es um Vertical Restraints und VBER in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertical Restraints und VBER: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertical Restraints und VBER

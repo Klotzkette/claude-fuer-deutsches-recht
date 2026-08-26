@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema
-description: "Wenn es um Zuschlagskriterien und Wertungsschema in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zuschlagskriterien und Wertungsschema: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zuschlagskriterien und Wertungsschema

@@ -1,6 +1,6 @@
 ---
 name: alte-ddr-unterlagen-auswerten
-description: "Wenn es um Alte Ddr Unterlagen Auswerten in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Alte Ddr Unterlagen Auswerten: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Alte Ddr Unterlagen Auswerten

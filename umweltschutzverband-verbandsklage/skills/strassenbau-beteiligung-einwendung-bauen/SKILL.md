@@ -1,6 +1,6 @@
 ---
 name: strassenbau-beteiligung-einwendung-bauen
-description: "Wenn es um Strassenbau Beteiligung Prüfen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strassenbau Beteiligung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Umweltschutzverband Verbandsklage. Route: strassenbau-beteiligung-einwendung-bauen."
 ---
 
 # Strassenbau Beteiligung Prüfen

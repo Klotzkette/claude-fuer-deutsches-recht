@@ -1,6 +1,6 @@
 ---
 name: notruf-online
-description: "Wenn es um Akute Gefahr: Notruf statt Plugin in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Akute Gefahr: Notruf statt Plugin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Akute Gefahr: Notruf statt Plugin

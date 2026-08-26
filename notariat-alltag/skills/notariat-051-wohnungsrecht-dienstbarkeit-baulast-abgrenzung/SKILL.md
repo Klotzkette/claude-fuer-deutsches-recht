@@ -1,6 +1,6 @@
 ---
 name: notariat-051-wohnungsrecht-dienstbarkeit-baulast-abgrenzung
-description: "Wenn es um Notariat im Alltag: Wohnungsrecht Dienstbarkeit Baulast Abgrenzung in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Wohnungsrecht Dienstbarkeit Baulast Abgrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Wohnungsrecht Dienstbarkeit Baulast Abgrenzung

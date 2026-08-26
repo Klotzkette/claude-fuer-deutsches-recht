@@ -1,6 +1,6 @@
 ---
 name: ressort-bmbfsfj
-description: "Wenn es um Ressort-Heranfuehrung BMBFSFJ in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ressort-Heranführung BMBFSFJ: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ressort-Heranfuehrung BMBFSFJ

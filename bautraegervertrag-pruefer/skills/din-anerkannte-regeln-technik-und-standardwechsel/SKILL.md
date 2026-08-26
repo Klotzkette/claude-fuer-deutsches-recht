@@ -1,6 +1,6 @@
 ---
 name: din-anerkannte-regeln-technik-und-standardwechsel
-description: "Wenn es um DIN, anerkannte Regeln der Technik und Standardwechsel in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für DIN, anerkannte Regeln der Technik und Standardwechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DIN, anerkannte Regeln der Technik und Standardwechsel

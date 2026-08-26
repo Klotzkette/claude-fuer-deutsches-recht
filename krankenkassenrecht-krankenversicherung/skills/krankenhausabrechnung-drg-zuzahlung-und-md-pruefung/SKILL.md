@@ -1,6 +1,6 @@
 ---
 name: krankenhausabrechnung-drg-zuzahlung-und-md-pruefung
-description: "Wenn es um Krankenhausabrechnung: DRG, Zuzahlung und MD-Prüfung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenhausabrechnung: DRG, Zuzahlung und MD-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Krankenhausabrechnung: DRG, Zuzahlung und MD-Prüfung

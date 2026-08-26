@@ -1,6 +1,6 @@
 ---
 name: kostenrechnung-gnotkg-nebentaetigkeit
-description: "Wenn es um Kostenrechnung Gnotkg Nebentaetigkeit in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Kostenrechnung Gnotkg Nebentätigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: kostenrechnung gnotkg beschwerde - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

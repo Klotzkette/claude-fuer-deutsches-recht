@@ -1,6 +1,6 @@
 ---
 name: internationale-buyout-datenflows-und-datenschutz
-description: "Wenn es um Internationale Buyout-Datenflows und Datenschutz in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Internationale Buyout-Datenflows und Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationale Buyout-Datenflows und Datenschutz

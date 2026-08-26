@@ -1,6 +1,6 @@
 ---
 name: sanktion-massnahmenplan
-description: "Wenn es um Maßnahmenplan als Sanktionsminderung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Maßnahmenplan als Sanktionsminderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Maßnahmenplan als Sanktionsminderung

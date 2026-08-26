@@ -1,6 +1,6 @@
 ---
 name: fusion-netzanschluss-und-systemnutzen
-description: "Wenn es um Fusion: Netzanschluss, Systemnutzen und Vermarktung in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fusion: Netzanschluss, Systemnutzen und Vermarktung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fusion: Netzanschluss, Systemnutzen und Vermarktung

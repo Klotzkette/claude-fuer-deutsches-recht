@@ -1,6 +1,6 @@
 ---
 name: rezeptsammelstelle-botendienst-versandhandel
-description: "Wenn es um Rezeptsammelstelle Botendienst Versandhandel in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rezeptsammelstelle Botendienst Versandhandel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rezeptsammelstelle Botendienst Versandhandel

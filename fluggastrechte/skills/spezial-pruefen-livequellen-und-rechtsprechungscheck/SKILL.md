@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefen-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Pruefen: Livequellen- und Rechtsprechungscheck in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfen: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pruefen: Livequellen- und Rechtsprechungscheck

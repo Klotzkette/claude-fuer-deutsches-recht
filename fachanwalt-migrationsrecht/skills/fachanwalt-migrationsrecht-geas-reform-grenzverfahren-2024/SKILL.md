@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024
-description: "Wenn es um GEAS-Reform: EU-Grenzverfahren 2024 in Fachanwalt Migrationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für GEAS-Reform: EU-Grenzverfahren 2024: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GEAS-Reform: EU-Grenzverfahren 2024

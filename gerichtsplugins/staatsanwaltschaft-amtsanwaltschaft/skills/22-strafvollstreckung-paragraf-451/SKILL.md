@@ -1,6 +1,6 @@
 ---
 name: 22-strafvollstreckung-paragraf-451
-description: "Wenn es um 22 Strafvollstreckung Paragraf 451 in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 22 Strafvollstreckung Paragraf 451: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 22 Strafvollstreckung Paragraf 451

@@ -1,6 +1,6 @@
 ---
 name: dsa-art-40-forschungsdatenzugang-algorithmen
-description: "Wenn es um DSA — Art. 40 Forschungsdatenzugang in DSA, DMA und Digitalregulierung der EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für DSA — Art. 40 Forschungsdatenzugang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSA — Art. 40 Forschungsdatenzugang

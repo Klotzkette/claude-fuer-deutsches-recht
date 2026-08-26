@@ -1,6 +1,6 @@
 ---
 name: berufsverbot-sofortvollzug-verteidigung
-description: "Wenn es um Berufsverbot und Sofortvollzug: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Berufsverbot und Sofortvollzug: Präventions- und Organisationspaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berufsverbot und Sofortvollzug: Präventions- und Organisationspaket

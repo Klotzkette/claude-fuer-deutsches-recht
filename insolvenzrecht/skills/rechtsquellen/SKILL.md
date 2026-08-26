@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen
-description: "Wenn es um Rechtsquellen: Zahlen, Schwellenwerte und Berechnung in Insolvenzrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Rechtsquellen: Zahlen, Schwellenwerte und Berechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsquellen: Zahlen, Schwellenwerte und Berechnung

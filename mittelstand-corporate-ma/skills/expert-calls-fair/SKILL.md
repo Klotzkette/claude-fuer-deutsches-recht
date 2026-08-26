@@ -1,6 +1,6 @@
 ---
 name: expert-calls-fair
-description: "Wenn es um DD Reporting und Legal Fact Book in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für DD Reporting und Legal Fact Book: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # DD Reporting und Legal Fact Book

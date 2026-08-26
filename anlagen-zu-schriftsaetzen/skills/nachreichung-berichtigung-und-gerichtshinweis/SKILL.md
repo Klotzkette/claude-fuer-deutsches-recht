@@ -1,6 +1,6 @@
 ---
 name: nachreichung-berichtigung-und-gerichtshinweis
-description: "Wenn es um Nachreichung, Berichtigung und gerichtlicher Hinweis in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Nachreichung Berichtigung Und Gerichtshinweis; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Nachreichung, Berichtigung und gerichtlicher Hinweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: nachreichung-berichtigung-und-gerichtshinweis."
 ---
 
 # Nachreichung, Berichtigung und gerichtlicher Hinweis

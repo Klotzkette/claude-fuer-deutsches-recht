@@ -1,6 +1,6 @@
 ---
 name: associate-nicht-retention-radar-bea-erv
-description: "Wenn es um Associates nicht vergraulen in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Associates nicht vergraulen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Associates nicht vergraulen

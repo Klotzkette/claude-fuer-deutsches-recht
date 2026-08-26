@@ -1,6 +1,6 @@
 ---
 name: plattform-sperre-anspruchsgruppen-bild
-description: "Wenn es um Plattform Sperre Klageschrift Struktur in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Plattform Sperre Klageschrift Struktur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Plattform Sperre Klageschrift Struktur

@@ -1,6 +1,6 @@
 ---
 name: funds-flow-closing-payments
-description: "Wenn es um Funds Flow und Closing Payments in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Funds Flow und Closing Payments: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Funds Flow und Closing Payments
 

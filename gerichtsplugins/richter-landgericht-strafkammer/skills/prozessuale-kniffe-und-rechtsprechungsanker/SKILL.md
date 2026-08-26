@@ -1,6 +1,6 @@
 ---
 name: prozessuale-kniffe-und-rechtsprechungsanker
-description: "Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Strafkammer am Landgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Strafkammer am Landgericht."
 ---
 # Prozessuale Kniffe und Rechtsprechungsanker
 

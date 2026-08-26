@@ -1,6 +1,6 @@
 ---
 name: rechnungskorrektur-rechtsprechu-selbstanzeige
-description: "Wenn es um Rechnungskorrektur Rechtsprechu Selbstanzeige in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Rechnungskorrektur Rechtsprechu Selbstanzeige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: rechnungskorrektur und dokumentation - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

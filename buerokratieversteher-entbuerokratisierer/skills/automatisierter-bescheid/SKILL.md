@@ -1,6 +1,6 @@
 ---
 name: automatisierter-bescheid
-description: "Wenn es um Automatisierter Bescheid in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Automatisierter Bescheid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Automatisierter Bescheid

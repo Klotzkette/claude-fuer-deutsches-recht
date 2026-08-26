@@ -77,9 +77,9 @@ Entwurfsgriff Arbeitsprodukt: Term Sheet, SPA-Klauseln, DD-Report-Kapitel, Gremi
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Geschäfts- und Regelungskern | Client Update Pack | BGB Paragraf 433 und Paragraf 453 | Entwurfsvermerk mit Ziel- und Rückfallposition |
+| Geschäfts- und Regelungskern | Legal Due Diligence | BGB Paragraf 433 und Paragraf 453 | Entwurfsvermerk mit Ziel- und Rückfallposition |
 | Mechanik und Fassung | Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf | GmbHG Paragraf 15 | Klausel oder Redline mit Varianten |
-| Nachweis und Freigabe | Beirat Abgrenzung Aufsichtsrat | Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen; der Bearbeiter führt DD-Fund, Q&A, Disclosure, Freigabe, Zahlung und Registervollzug lückenlos auf den Vertragsmechanismus zurück | Gremien-, Bedingungs- und Dokumentenmatrix |
+| Nachweis und Freigabe | Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf Paragraf 8c KStG | Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen; der Bearbeiter führt DD-Fund, Q&A, Disclosure, Freigabe, Zahlung und Registervollzug lückenlos auf den Vertragsmechanismus zurück | Gremien-, Bedingungs- und Dokumentenmatrix |
 | Vollzug | Term Sheet, Bid Grid, Due-Diligence-Bericht, SPA- oder Beteiligungsklausel, Gremienvorlage, Signing- und Closing-Set oder Post-Closing-Plan | Verantwortlicher, Termin und Erfüllungsnachweis | Signing-, Closing- oder Registerliste |
 
 ## 5. Rechtsanker, Regelungsmechanik, Nachweis und Vollzug
@@ -143,7 +143,7 @@ Entwurfsgriff Arbeitsprodukt: Term Sheet, SPA-Klauseln, DD-Report-Kapitel, Gremi
 
 10.1. Regelungsziel: Benenne Parteien, Geschäftsziel, gewünschte Rechtswirkung und Vollzugszustand: Term Sheet, Bid Grid, Due-Diligence-Bericht, SPA- oder Beteiligungsklausel, Gremienvorlage, Signing- und Closing-Set oder Post-Closing-Plan.
 10.2. Rechtsrahmen: Stelle zwingende Grenze und dispositiven Gestaltungsspielraum voran; erste Anker sind BGB Paragraf 433 und Paragraf 453; GmbHG Paragraf 15.
-10.3. Mechanik: Arbeite zuerst Client Update Pack; Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf müssen ineinandergreifen.
+10.3. Mechanik: Arbeite zuerst Legal Due Diligence; Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf müssen ineinandergreifen.
 10.4. Dokumentstand: Nenne Fassung, Datum, Klausel, Datenraumfund, Beschluss oder Q&A-Antwort; im Bereich M&A, Beteiligungs- und Finanzierungstransaktionen tragen regelmäßig Process Letter, Datenraumindex, Q&A, Due-Diligence-Berichte, Term Sheet, SPA oder Beteiligungsvertrag, Disclosure Letter, Gremienbeschlüsse und Closing Checklist den Nachweis.
 10.5. Nachweis und Freigabe: Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen; der Bearbeiter führt DD-Fund, Q&A, Disclosure, Freigabe, Zahlung und Registervollzug lückenlos auf den Vertragsmechanismus zurück. Zeige die Folge eines offenen Parameters oder fehlenden Beschlusses.
 10.6. Gegenposition: Formuliere die stärkste Verhandlungsposition der anderen Seite; sie setzt typischerweise bei Datenraumlücken, unklarer Risikozuweisung, Kaufpreismechanik, Wissensqualifikation, Haftungsgrenzen und unerfüllten Vollzugsbedingungen an.
@@ -183,78 +183,81 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
+| Legal Due Diligence | Corporate und Register: Paragraf 15, 16, 40, 46 GmbHG; Paragraf 8, 15 HGB; Gesellschafterliste, Satzung, Vollmachten und Beschlüsse. | Due-Diligence-Matrix mit Datenraumfundstelle, Befund, Deal-Auswirkung, Nachforderung und Vertragsabbildung |
+| Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf Paragraf 8c KStG | Fixiere den noch nicht verwirklichten Sachverhalt, die konkrete steuerliche Rechtsfrage, das erhebliche Interesse, den Gebührenwert, den beantragten Bindungsausspruch und die Umsetzung erst nach Auskunft | abstimmungsfähiger Auskunftsantrag mit nicht verwirklichtem Sachverhalt, konkreter Rechtsfrage, Rechtsauffassung, erheblichem Interesse, Gebührenwert, Anlagen und Umsetzungssperre |
 | Client Update Pack | Trenne bestätigte Tatsache, Annahme, offene Frage und Verhandlungsposition sichtbar. Benenne für jeden offenen Punkt einen verantwortlichen Bearbeiter, eine Gegenstelle, eine Frist und das erwartete Belegdokument. | Entwurfsbaustein zu Client Update Pack mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-| Beirat Abgrenzung Aufsichtsrat | Verankere Beirat Abgrenzung Aufsichtsrat in Dealphase, Parteien, Datenraumfund, Wertwirkung, Vertragsabbildung, Freigabe, Vollzug und verantwortlichem Owner. | Kontrollvermerk zu Beirat Abgrenzung Aufsichtsrat mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
 | Cap Table Ownership Chain | Rekonstruiere Legal Ownership und wirtschaftliche Beteiligung stichtagsbezogen aus Register, Gesellschafterliste, Anteilskauf, Optionen, Wandeldarlehen, VSOP und Treuhand. | Entwurfsbaustein zu Cap Table Ownership Chain mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 | Corporate-Rechtsprechungsrecherche | Formuliere aus dem konkreten Deal-Befund je Rechtsordnung und Workstream eine enge Rechtsfrage, priorisiere Gesetz, amtliche Entscheidung und belastbaren Fachbeleg und prüfe Instanz, Datum, Aktenzeichen, Verfahrensstand. | Entwurfsbaustein zu Corporate-Rechtsprechungsrecherche mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
+| Deal-OS-Orchestrator für große Corporate- und M&A-Mandate | Verankere Deal-OS-Orchestrator für große Corporate- und M&A-Mandate in Dealphase, Parteien, Datenraumfund, Wertwirkung, Vertragsabbildung, Freigabe, Vollzug und verantwortlichem Owner. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Authority Matrix Approvals | Erstelle je Transaktionsschritt eine Authority Matrix aus Gesellschaft, Rechtsordnung, Organ, Satzungs- oder Vertragsgrundlage, Mehrheit, Quorum, Interessenkonflikt, Zeichnungsbefugnis, Form und Wirksamkeitszeitpunkt. | Entwurfsbaustein zu Authority Matrix Approvals mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
+| Beirat: Gestaltung und Governance | Verankere Beirat: Gestaltung und Governance in Dealphase, Parteien, Datenraumfund, Wertwirkung, Vertragsabbildung, Freigabe, Vollzug und verantwortlichem Owner. | Kontrollvermerk zu Beirat: Gestaltung und Governance mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
 | Data Protection Transfer DD | Ordne im Share- oder Asset-Deal Datenbestand, Verantwortlichenrolle, Zweck, Rechtsgrundlage, Betroffeneninformation, Auftragsverarbeitung, Drittlandtransfer, Löschpflicht und Sicherheitsmaßnahme. | Entwurfsbaustein zu Data Protection Transfer DD mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-| Datenraum-Aufbau | Klassifiziere jedes VDR-Dokument nach Gesellschaft, Rechtsordnung, Workstream, Zeitraum, Vertraulichkeitsstufe und Versionsstand. | Due-Diligence-Matrix mit Datenraumfundstelle, Befund, Deal-Auswirkung, Nachforderung und Vertragsabbildung |
-| Freistehender Deal-Fristen- und CP-Kalender | Führe jede Condition Precedent, Covenant, Consent-, Filing-, Long-stop- und Zahlungsfrist mit Vertragsfundstelle, Auslöser, Abhängigkeit, Owner, Prüfer, Nachweis und Eskalationsdatum. | Deal-Kalender mit Pflicht, Vertragsfundstelle, Auslöser, Fälligkeit, Owner, Abhängigkeit, Status, Nachweis und Eskalationsdatum |
-| Mandatsannahme-Prüfung im Corporate/M&A-Mandat | Verankere Mandatsannahme-Prüfung im Corporate/M&A-Mandat in Dealphase, Parteien, Datenraumfund, Wertwirkung, Vertragsabbildung, Freigabe, Vollzug und verantwortlichem Owner. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 
 ## 16. Fachspezifische Praxisrouten
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Client Update Pack
+### 16.1. Legal Due Diligence
+
+Bearbeitungsauftrag: Corporate und Register: Paragraf 15, 16, 40, 46 GmbHG; Paragraf 8, 15 HGB; Gesellschafterliste, Satzung, Vollmachten und Beschlüsse. Datenraum und Vertraulichkeit: GeschGehG, NDA, Clean-Room-Regeln, MAR Artikel 7, 17, 18 bei Public-M&A-Bezug. Regulatory: Paragraf 35 bis 41 GWB, FKVO, AWG/AWV, Sanktionen und sektorale Genehmigungen als Closing- oder Pricing-Thema.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: Corporate und Register: Paragraf 15, 16, 40, 46 GmbHG; Paragraf 8, 15 HGB; Gesellschafterliste, Satzung, Vollmachten und Beschlüsse; Vertrags- und Aufklärungslage: Paragraf 241 Absatz 2, 280, 311 Absatz 2, 433, 453 BGB.
+Lieferstück: Due-Diligence-Matrix mit Datenraumfundstelle, Befund, Deal-Auswirkung, Nachforderung und Vertragsabbildung.
+
+### 16.2. Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf Paragraf 8c KStG
+
+Bearbeitungsauftrag: Fixiere den noch nicht verwirklichten Sachverhalt, die konkrete steuerliche Rechtsfrage, das erhebliche Interesse, den Gebührenwert, den beantragten Bindungsausspruch und die Umsetzung erst nach Auskunft.
+Prüfschritte: Geschieht der Anteilseignerwechsel über 50 % vor dem Wirksamwerden des Verzichts, schlägt Paragraf 8c Absatz 1 Satz 1 KStG zu: der Verlustvortrag ist im Grundsatz untergegangen; Wenn dann der Forderungsverzicht den Sanierungsertrag erzeugt, gibt es keinen Verlustvortrag mehr, der ihn nach Paragraf 3a Absatz 3 EStG aufzehrt; Im umgekehrten Fall – Verzicht vor Anteilseignerwechsel – ist der Verlustvortrag bereits durch den Sanierungsertrag verbraucht; Dieser Skill löst das Konkurrenzverhältnis Schritt für Schritt auf.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: Geschieht der Anteilseignerwechsel über 50 % vor dem Wirksamwerden des Verzichts, schlägt Paragraf 8c Absatz 1 Satz 1 KStG zu: der Verlustvortrag ist im Grundsatz untergegangen.
+Lieferstück: abstimmungsfähiger Auskunftsantrag mit nicht verwirklichtem Sachverhalt, konkreter Rechtsfrage, Rechtsauffassung, erheblichem Interesse, Gebührenwert, Anlagen und Umsetzungssperre.
+
+### 16.3. Client Update Pack
 
 Bearbeitungsauftrag: Trenne bestätigte Tatsache, Annahme, offene Frage und Verhandlungsposition sichtbar. Benenne für jeden offenen Punkt einen verantwortlichen Bearbeiter, eine Gegenstelle, eine Frist und das erwartete Belegdokument. Stelle Widersprüche zwischen Due Diligence, Vertragsentwurf, Kaufpreismodell und Closing-Checkliste gesondert heraus.
 Prüfschritte: Lies zuerst Issues List, Due-Diligence-Berichte, Verhandlungsstände, Kaufpreismodell, Freigaben, Signing- und Closing-Checklisten sowie den letzten Mandantenbericht; Liefere sofort einen aktualisierten Entscheidungsstand; frage nur nach Informationen, die Priorität, Preis, Haftung, Vollzug oder Terminplan verändern.
 Lieferstück: Entwurfsbaustein zu Client Update Pack mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.2. Beirat Abgrenzung Aufsichtsrat
-
-Bearbeitungsauftrag: Verankere Beirat Abgrenzung Aufsichtsrat in Dealphase, Parteien, Datenraumfund, Wertwirkung, Vertragsabbildung, Freigabe, Vollzug und verantwortlichem Owner. Ordne Gegenstand, Zusammensetzung, Zweckbestimmung, Menge, Herkunft und tatsächliche Verwendung der richtigen gesetzlichen Kategorie zu; sichere Gutachten, Labor- oder Registerbeleg und behandle den Grenzfall mit beiden Rechtsfolgen.
-Lieferstück: Kontrollvermerk zu Beirat Abgrenzung Aufsichtsrat mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
-
-### 16.3. Cap Table Ownership Chain
+### 16.4. Cap Table Ownership Chain
 
 Bearbeitungsauftrag: Rekonstruiere Legal Ownership und wirtschaftliche Beteiligung stichtagsbezogen aus Register, Gesellschafterliste, Anteilskauf, Optionen, Wandeldarlehen, VSOP und Treuhand. Prüfe Fully-Diluted- Nenner, Verwässerung, Verfügungsbeschränkungen, wirtschaftlich Berechtigte und die Ownership Chain bis zur obersten kontrollierenden Person; markiere jede Differenz zwischen Cap Table und Rechtsnachweis.
 Lieferstück: Entwurfsbaustein zu Cap Table Ownership Chain mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.4. Corporate-Rechtsprechungsrecherche
+### 16.5. Corporate-Rechtsprechungsrecherche
 
 Bearbeitungsauftrag: Formuliere aus dem konkreten Deal-Befund je Rechtsordnung und Workstream eine enge Rechtsfrage, priorisiere Gesetz, amtliche Entscheidung und belastbaren Fachbeleg und prüfe Instanz, Datum, Aktenzeichen, Verfahrensstand sowie tragende Passage. Liefere eine zitierfähige Quellenkarte mit Sachverhaltsvergleich, Gegenansicht, Deal-Auswirkung und Umsetzung in SPA, Disclosure, Gremienpapier, Legal Opinion oder Closing-Schritt; kennzeichne offene lokale Beratung ausdrücklich.
 Lieferstück: Entwurfsbaustein zu Corporate-Rechtsprechungsrecherche mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.5. Authority Matrix Approvals
+### 16.6. Deal-OS-Orchestrator für große Corporate- und M&A-Mandate
+
+Bearbeitungsauftrag: Verankere Deal-OS-Orchestrator für große Corporate- und M&A-Mandate in Dealphase, Parteien, Datenraumfund, Wertwirkung, Vertragsabbildung, Freigabe, Vollzug und verantwortlichem Owner. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Struktur und Beteiligte: Share oder Asset Deal, Erwerbsvehikel, Kapitalstruktur und Gremienvorbehalte feststellen.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+
+### 16.7. Authority Matrix Approvals
 
 Bearbeitungsauftrag: Erstelle je Transaktionsschritt eine Authority Matrix aus Gesellschaft, Rechtsordnung, Organ, Satzungs- oder Vertragsgrundlage, Mehrheit, Quorum, Interessenkonflikt, Zeichnungsbefugnis, Form und Wirksamkeitszeitpunkt. Gleiche Board-, Shareholder-, Investment-Committee-, Lender- und Regulatory-Approvals mit Signing- und Closing-Reihenfolge ab.
 Lieferstück: Entwurfsbaustein zu Authority Matrix Approvals mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.6. Data Protection Transfer DD
+### 16.8. Beirat: Gestaltung und Governance
+
+Bearbeitungsauftrag: Verankere Beirat: Gestaltung und Governance in Dealphase, Parteien, Datenraumfund, Wertwirkung, Vertragsabbildung, Freigabe, Vollzug und verantwortlichem Owner. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Prüfschritte: Lies Satzung, Gesellschaftervereinbarung, Geschäftsordnung, Beteiligungsstruktur und konkrete Entscheidung zuerst; Bestimme danach, ob der Beirat nur berät, kontrolliert oder gesellschaftsvertraglich bindende Zustimmungskompetenzen erhält.
+Lieferstück: Kontrollvermerk zu Beirat: Gestaltung und Governance mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
+
+### 16.9. Data Protection Transfer DD
 
 Bearbeitungsauftrag: Ordne im Share- oder Asset-Deal Datenbestand, Verantwortlichenrolle, Zweck, Rechtsgrundlage, Betroffeneninformation, Auftragsverarbeitung, Drittlandtransfer, Löschpflicht und Sicherheitsmaßnahme. Trenne Due-Diligence-Zugriff, Signing, Closing und Migration; bilde Datenlücke in Clean-Team-Regel, Covenant, Garantie, Freistellung und Übergabeplan ab.
 Lieferstück: Entwurfsbaustein zu Data Protection Transfer DD mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.7. Datenraum-Aufbau
+### 16.10. Datenraum-Aufbau
 
 Bearbeitungsauftrag: Klassifiziere jedes VDR-Dokument nach Gesellschaft, Rechtsordnung, Workstream, Zeitraum, Vertraulichkeitsstufe und Versionsstand; verknüpfe Red Flag und Datenlücke mit Q&A, Materiality, Wertwirkung und Abbildung in SPA, Disclosure Letter, W&I-Police oder Closing Condition. Führe privilegierte, Clean-Team- und personenbezogene Unterlagen in getrennten Zugriffswegen.
 Lieferstück: Due-Diligence-Matrix mit Datenraumfundstelle, Befund, Deal-Auswirkung, Nachforderung und Vertragsabbildung.
 
-### 16.8. Freistehender Deal-Fristen- und CP-Kalender
+### 16.11. Disclosure Schedules und Guarantees-Abgleich im SPA/APA
 
-Bearbeitungsauftrag: Führe jede Condition Precedent, Covenant, Consent-, Filing-, Long-stop- und Zahlungsfrist mit Vertragsfundstelle, Auslöser, Abhängigkeit, Owner, Prüfer, Nachweis und Eskalationsdatum; trenne Signing, Pre-Closing, Closing und Post-Closing und löse keine Freigabe ohne belastbaren Erfüllungsbeleg aus.
-Lieferstück: Deal-Kalender mit Pflicht, Vertragsfundstelle, Auslöser, Fälligkeit, Owner, Abhängigkeit, Status, Nachweis und Eskalationsdatum.
-
-### 16.9. Mandatsannahme-Prüfung im Corporate/M&A-Mandat
-
-Bearbeitungsauftrag: Verankere Mandatsannahme-Prüfung im Corporate/M&A-Mandat in Dealphase, Parteien, Datenraumfund, Wertwirkung, Vertragsabbildung, Freigabe, Vollzug und verantwortlichem Owner. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Bearbeitungsauftrag: Verankere Disclosure Schedules und Guarantees-Abgleich im SPA/APA in Dealphase, Parteien, Datenraumfund, Wertwirkung, Vertragsabbildung, Freigabe, Vollzug und verantwortlichem Owner. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.10. Auction Bid Grid und Issues List
+### 16.12. Employment, Works Council und Betriebsübergang Skill
 
-Bearbeitungsauftrag: Übersetze Process Letter, Datenraum, Vertragsentwurf und Mandantenvorgaben in ein priorisiertes Angebotsraster mit Muss-Punkt, Abweichung, Wertwirkung und Eskalationsbedarf.
-Prüfschritte: Nutze diesen Skill in Auktionsprozessen, wenn mehrere Workstreams schnell in eine verhandlungsfähige Bieterliste übersetzt werden müssen.
-Lieferstück: priorisierte Bid- und Issues-Liste mit Vorgabe aus dem Process Letter, Abweichung, Wertwirkung, Rückfallposition und Freigabe.
-
-### 16.11. Deal-OS Orchestrator
-
-Bearbeitungsauftrag: Liefere eine verwertbare Matrix mit Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt und bei Bedarf einen ausformulierten Textbaustein. Wenn Material schon vorliegt, extrahiere die Antworten selbst und markiere nur echte Lücken.
-Lieferstück: Entwurfsbaustein zu Deal-OS Orchestrator mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.12. VDR-Klassifizierung
-
-Bearbeitungsauftrag: Ordne jedes Datenraumdokument nach Fundstelle, Gesellschaft, Zeitraum, Befund, Deal-Auswirkung, Nachforderung und Abbildung in Garantie, Freistellung, Covenant oder Kaufpreis.
-Lieferstück: Due-Diligence-Matrix mit Datenraumfundstelle, Befund, Deal-Auswirkung, Nachforderung und Vertragsabbildung.
+Bearbeitungsauftrag: Verankere Employment, Works Council und Betriebsübergang Skill in Dealphase, Parteien, Datenraumfund, Wertwirkung, Vertragsabbildung, Freigabe, Vollzug und verantwortlichem Owner. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: Entwurfsbaustein zu Employment, Works Council und Betriebsübergang Skill mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.

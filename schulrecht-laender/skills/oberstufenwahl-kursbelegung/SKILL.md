@@ -1,6 +1,6 @@
 ---
 name: oberstufenwahl-kursbelegung
-description: "Wenn es um Oberstufenwahl und Kursbelegung in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Oberstufenwahl und Kursbelegung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Oberstufenwahl und Kursbelegung

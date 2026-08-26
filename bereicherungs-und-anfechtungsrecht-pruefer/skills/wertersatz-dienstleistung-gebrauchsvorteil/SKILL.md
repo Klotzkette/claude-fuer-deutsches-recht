@@ -1,6 +1,6 @@
 ---
 name: wertersatz-dienstleistung-gebrauchsvorteil
-description: "Wenn es um Wertersatz bei Dienstleistung und Gebrauchsvorteil in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Wertersatz Dienstleistung Gebrauchsvorteil; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Wertersatz bei Dienstleistung und Gebrauchsvorteil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: wertersatz-dienstleistung-gebrauchsvorteil."
 ---
 
 # Wertersatz bei Dienstleistung und Gebrauchsvorteil

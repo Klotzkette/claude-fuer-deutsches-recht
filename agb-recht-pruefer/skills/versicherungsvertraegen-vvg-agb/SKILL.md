@@ -1,6 +1,6 @@
 ---
 name: versicherungsvertraegen-vvg-agb
-description: "Wenn es um Agb Bei Versicherungsvertraegen Vvg in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Versicherungsvertraegen VVG Agb; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für AGB bei Versicherungsverträgen VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: versicherungsvertraegen-vvg-agb."
 ---
 
 # Agb Bei Versicherungsvertraegen Vvg

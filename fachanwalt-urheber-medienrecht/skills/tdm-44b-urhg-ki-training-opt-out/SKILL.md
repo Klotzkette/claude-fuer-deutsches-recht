@@ -1,6 +1,6 @@
 ---
 name: tdm-44b-urhg-ki-training-opt-out
-description: "Wenn es um Tdm 44b Urhg Ki Training Opt Out in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tdm 44b Urhg Ki Training Opt Out: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn KI-Training mit urheberrechtlich geschützten Werken verhindert werden soll

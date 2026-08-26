@@ -1,6 +1,6 @@
 ---
 name: terminsvertreter-und-untervollmacht-kammerantwort
-description: "Wenn es um Terminsvertreter Und Untervollmacht Kammerantwort in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Terminsvertreter und Untervollmacht Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: terminsvertreter und untervollmacht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

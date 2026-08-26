@@ -1,6 +1,6 @@
 ---
 name: margin-squeeze-predation
-description: "Wenn es um Margin Squeeze und Predatory Pricing in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Margin Squeeze und Predatory Pricing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Margin Squeeze und Predatory Pricing

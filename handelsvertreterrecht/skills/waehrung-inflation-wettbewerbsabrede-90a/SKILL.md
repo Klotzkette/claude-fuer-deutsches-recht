@@ -1,6 +1,6 @@
 ---
 name: waehrung-inflation-wettbewerbsabrede-90a
-description: "Wenn es um Währungsrisiken und Inflation im Handelsvertretervertrag nach HGB und Paragraf 313 BGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Währungsrisiken und Inflation im Handelsvertretervertrag nach HGB und Paragraf 313 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Währungsrisiken und Inflation im Handelsvertretervertrag nach HGB und § 313 BGB

@@ -1,6 +1,6 @@
 ---
 name: kennzeichnungspflichten-veroeffentlichungen
-description: "Wenn es um Kennzeichnungspflichten für Veröffentlichungen in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kennzeichnungspflichten für Veröffentlichungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kennzeichnungspflichten für Veröffentlichungen

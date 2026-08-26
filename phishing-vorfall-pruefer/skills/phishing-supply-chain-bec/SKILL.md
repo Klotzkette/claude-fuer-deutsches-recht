@@ -1,6 +1,6 @@
 ---
 name: phishing-supply-chain-bec
-description: "Wenn es um BEC/Rechnungs-Phishing in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BEC/Rechnungs-Phishing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BEC/Rechnungs-Phishing

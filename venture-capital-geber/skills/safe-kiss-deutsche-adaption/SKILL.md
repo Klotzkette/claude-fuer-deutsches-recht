@@ -1,6 +1,6 @@
 ---
 name: safe-kiss-deutsche-adaption
-description: "Wenn es um SAFE/KISS deutsche Adaption in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SAFE/KISS deutsche Adaption: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # SAFE/KISS deutsche Adaption

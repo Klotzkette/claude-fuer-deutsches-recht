@@ -1,6 +1,6 @@
 ---
 name: wahlvorschlaege-fristen
-description: "Wenn es um Wahlvorschlaege Fristen in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wahlvorschläge Fristen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Wahlvorschlaege Fristen

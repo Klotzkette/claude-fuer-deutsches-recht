@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 159 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-familienrecht`.
+Diese Vollprüfung enthält top-8 von 143 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-familienrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Familienrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ver…
 2. **familiengerichtliche-versandmappe-endfertigen** — Endfertigt Scheidungsantrag, Unterhalts-, Zugewinn-, Sorge-, Umgangs- und Gewaltschutzschriftsätze für Familiengericht u…
-3. **einstieg-routing** — Startet ein familienrechtliches Mandat aus den vorhandenen Unterlagen ohne Abfragekaskade. Trennt Eilspur, Verfahrensgeg…
-4. **mandat-triage-familienrecht** — Wenn es um Mandat Triage Familienrecht in Fachanwalt Familienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pa…
-5. **fachanwalt-familienrecht-orientierung** — Wenn es um Fachanwalt für Familienrecht — Orientierung in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkei…
-6. **orientierung-fristen-form-und-zustaendigkeit** — Wenn es um Orientierung Fristen Form Und Zuständigkeit in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkei…
-7. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rech…
-8. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg un…
+3. **einstieg-routing** — Startet ein familienrechtliches Mandat aus den vorhandenen Unterlagen ohne Abfragekaskade.
+4. **mandat-triage-familienrecht** — Für Mandat Triage Familienrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und n…
+5. **orientierung-mandat-fachanwaltschaft** — Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+6. **fachanwalt-familienrecht-orientierung** — Für Fachanwalt für Familienrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
+7. **orientierung-fristen-form-und-zustaendigkeit** — Für Orientierung Fristen Form und Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und …
+8. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
 
 ---
 
@@ -138,7 +138,7 @@ Ausgangspunkt für dieses Plugin: Unterhaltsteller für Bedarf und Auskunft; Pfl
 
 ## Skill: `familiengerichtliche-versandmappe-endfertigen`
 
-_Endfertigt Scheidungsantrag, Unterhalts-, Zugewinn-, Sorge-, Umgangs- und Gewaltschutzschriftsätze für Familiengericht und Beschwerdegericht: trennt Familiensache und Familienstreitsache, prüft Antrag, Beteiligte, Frist und vertrauliche Daten, ordnet Urkunden, Auskünfte und Berechnungen zu und liefert einzelne gestempelte PDFs mit konsistentem AST-/AG- oder gerichtlichem Anlagenkreis._
+_Endfertigt Scheidungsantrag, Unterhalts-, Zugewinn-, Sorge-, Umgangs- und Gewaltschutzschriftsätze für Familiengericht und Beschwerdegericht: trennt Familiensache und Familienstreitsache, prüft Antrag, Beteiligte, Frist und vertrauliche Daten, ordnet Urkunden, Auskünfte und Berechnungen zu und liefert einzelne gestempelte PDFs mit konsistentem AST-/AG- oder._
 
 # Familiengerichtliche Versandmappe endfertigen
 
@@ -174,7 +174,7 @@ Liefere Versandordner, Anlagenverzeichnis, Berechnungs- oder Stichtagskontrolle,
 
 ## Skill: `einstieg-routing`
 
-_Startet ein familienrechtliches Mandat aus den vorhandenen Unterlagen ohne Abfragekaskade. Trennt Eilspur, Verfahrensgegenstand, Anwaltszwang, Stichtage, Berechnung und Kindeswohl und leitet mit einem konkreten Erstprodukt zu Unterhalt, Zugewinn, Versorgungsausgleich, Sorge, Umgang oder Gewaltschutz weiter._
+_Startet ein familienrechtliches Mandat aus den vorhandenen Unterlagen ohne Abfragekaskade._
 
 # Einstieg und Fallrouting im Familienrecht
 
@@ -233,7 +233,7 @@ Liefere in dieser Reihenfolge:
 
 ## Skill: `mandat-triage-familienrecht`
 
-_Wenn es um Mandat Triage Familienrecht in Fachanwalt Familienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Mandat Triage Familienrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Eingangs-Triage für familienrechtliche Mandate: Routing zu Scheidung, Sorge, Umgang, Unterhalt, Zugewinn oder Versorgungsausgleich
 
@@ -394,139 +394,9 @@ Weitere Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 
 ---
 
-## Skill: `fachanwalt-familienrecht-orientierung`
-
-_Wenn es um Fachanwalt für Familienrecht — Orientierung in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Fachanwalt für Familienrecht — Orientierung
-
-## Aktuelle Rechtsprechung (Orientierung Familienrecht, Stand 05/2026)
-
-Verifizierte Eckpfeiler — Live-Verifikation vor Verwendung in Schriftsätzen zwingend:
-
-- BGH, Beschluss vom 22.01.2025 - XII ZB 148/24 (Elternunterhalt; Selbstbehalt verheirateter Unterhaltspflichtiger)
-- BVerfG, Beschluss vom 07.10.2025 - 1 BvR 746/23 (Begründungsanforderungen bei mehrjährigem Umgangsausschluss)
-- BVerfG, Beschluss vom 27.08.2025 - 1 BvR 1473/25: Nichtannahme wegen unzureichender Substantiierung; zugleich Zweifel an einer tragfähigen Tatsachengrundlage für die Hauptsache und Hinweis auf die fachwissenschaftlichen Grenzen des PAS-Konzepts.
-- BVerfG, Beschluss vom 09.04.2025 - 1 BvR 1618/24 (internationale Zuständigkeit nach KSÜ, Sorgerechtswirkungen)
-- Düsseldorfer Tabelle 2026 (in Kraft seit 01.01.2026, OLG Düsseldorf, Pressemitteilung 01.12.2025; Mindestunterhalt nach 7. MUVÄndV vom 15.11.2024, BGBl. 2024 I Nr. 359)
-
-Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, bundesverfassungsgericht.de, dejure.org, openjur.de verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## FAO-Voraussetzungen (Paragraf 5 Abs. 1 FAO)
-
-- **Theoretischer Lehrgang** 120 Stunden (Paragraf 4 FAO).
-- **Drei Klausuren** zum Familienrecht (Paragraf 4a FAO).
-- **120 Fälle** in den letzten drei Jahren vor Antrag, davon mindestens 60 streitige Fälle (Paragraf 5 FAO).
-- **Anmeldung** bei der Rechtsanwaltskammer.
-
-## Wichtige Normen
-
-| Bereich | Norm |
-|---|---|
-| BGB Familienrecht | Paragrafen 1297 ff. BGB (Ehe Scheidung) Paragrafen 1601 ff. BGB (Unterhalt) Paragrafen 1626 ff. BGB (Elterliche Sorge) Paragrafen 1684 ff. BGB (Umgangsrecht) Paragrafen 1740 ff. BGB (Adoption) Paragrafen 1773 ff. BGB (Vormundschaft) |
-| Verfahrensrecht | FamFG Paragrafen 111 ff. (Familiensachen) Paragraf 137 FamFG (Scheidungsverbund) Paragrafen 151 ff. FamFG (Kindschaftssachen) |
-| Versorgungsausgleich | VersAusglG |
-| Lebenspartnerschaft | LPartG |
-| Gerichtsverfassung | Paragraf 23a GVG (Familiengericht beim AG) Paragraf 23b GVG |
-| EU- und Völkerrecht | Brüssel IIb-VO (EU) 2019/1111 |
-
-## Typische Mandate
-
-- Scheidung im Verbund (Scheidung + Versorgungsausgleich + Folgesachen)
-- Sorgerechtsverfahren bei getrennt lebenden Eltern
-- Umgangsrechtsstreit
-- Kindesunterhalt nach Düsseldorfer Tabelle
-- Ehegattenunterhalt (Trennungs- und nachehelicher Unterhalt)
-- Zugewinnausgleich
-- Ehevertrag und Scheidungsfolgenvereinbarung
-- Gewaltschutz nach GewSchG
-
-## Wichtige Fristen
-
-- **Beschwerde** Paragraf 63 FamFG — ein Monat.
-- **Sofortige Beschwerde** Paragraf 64 FamFG — zwei Wochen.
-- **Wiedereinsetzung** Paragraf 17 FamFG.
-- **Versorgungsausgleichs-Anträge** parallel zum Scheidungsverfahren.
-- **Anfechtungsfristen** Vaterschaft Paragraf 1600b BGB — zwei Jahre ab Kenntnis.
-
-## Hauptgericht
-
-- **Familiengericht** beim Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG).
-- **OLG-Familiensenat** als Beschwerdegericht (Paragraf 119 GVG).
-- **BGH XII. Zivilsenat** in Familiensachen.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Berufsverband
-
-- Deutscher Anwaltverein DAV Arbeitsgemeinschaft Familienrecht.
-- Deutsche Gesellschaft für Familienrecht.
-
-## Schnittstellen zu anderen Plugins
-
-- **kanzlei-allgemein** für Fristenbuch Timesheet Versand-Vor-Check.
-- **methodenlehre-buergerliches-recht** und **zitierweise-deutsches-recht** als Hausstandards.
-
-## Hinweis
-
-Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert die Expertise des Fachanwalts für Familienrecht.
-
----
-
-## Skill: `orientierung-fristen-form-und-zustaendigkeit`
-
-_Wenn es um Orientierung Fristen Form Und Zuständigkeit in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: FamFG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
-
-### Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
-
-## Fachlicher Kern — Familienrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
-- **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Spezialwissen: Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Normen-/Quellenanker:** FamFG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Orientierung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
 ## Skill: `orientierung-mandat-fachanwaltschaft`
 
-_Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Familienrecht._
 
 # Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB überblicken
 
@@ -630,9 +500,139 @@ Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert d
 
 ---
 
+## Skill: `fachanwalt-familienrecht-orientierung`
+
+_Für Fachanwalt für Familienrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Fachanwalt für Familienrecht — Orientierung
+
+## Aktuelle Rechtsprechung (Orientierung Familienrecht, Stand 05/2026)
+
+Verifizierte Eckpfeiler — Live-Verifikation vor Verwendung in Schriftsätzen zwingend:
+
+- BGH, Beschluss vom 22.01.2025 - XII ZB 148/24 (Elternunterhalt; Selbstbehalt verheirateter Unterhaltspflichtiger)
+- BVerfG, Beschluss vom 07.10.2025 - 1 BvR 746/23 (Begründungsanforderungen bei mehrjährigem Umgangsausschluss)
+- BVerfG, Beschluss vom 27.08.2025 - 1 BvR 1473/25: Nichtannahme wegen unzureichender Substantiierung; zugleich Zweifel an einer tragfähigen Tatsachengrundlage für die Hauptsache und Hinweis auf die fachwissenschaftlichen Grenzen des PAS-Konzepts.
+- BVerfG, Beschluss vom 09.04.2025 - 1 BvR 1618/24 (internationale Zuständigkeit nach KSÜ, Sorgerechtswirkungen)
+- Düsseldorfer Tabelle 2026 (in Kraft seit 01.01.2026, OLG Düsseldorf, Pressemitteilung 01.12.2025; Mindestunterhalt nach 7. MUVÄndV vom 15.11.2024, BGBl. 2024 I Nr. 359)
+
+Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, bundesverfassungsgericht.de, dejure.org, openjur.de verifizieren.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## FAO-Voraussetzungen (Paragraf 5 Abs. 1 FAO)
+
+- **Theoretischer Lehrgang** 120 Stunden (Paragraf 4 FAO).
+- **Drei Klausuren** zum Familienrecht (Paragraf 4a FAO).
+- **120 Fälle** in den letzten drei Jahren vor Antrag, davon mindestens 60 streitige Fälle (Paragraf 5 FAO).
+- **Anmeldung** bei der Rechtsanwaltskammer.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| BGB Familienrecht | Paragrafen 1297 ff. BGB (Ehe Scheidung) Paragrafen 1601 ff. BGB (Unterhalt) Paragrafen 1626 ff. BGB (Elterliche Sorge) Paragrafen 1684 ff. BGB (Umgangsrecht) Paragrafen 1740 ff. BGB (Adoption) Paragrafen 1773 ff. BGB (Vormundschaft) |
+| Verfahrensrecht | FamFG Paragrafen 111 ff. (Familiensachen) Paragraf 137 FamFG (Scheidungsverbund) Paragrafen 151 ff. FamFG (Kindschaftssachen) |
+| Versorgungsausgleich | VersAusglG |
+| Lebenspartnerschaft | LPartG |
+| Gerichtsverfassung | Paragraf 23a GVG (Familiengericht beim AG) Paragraf 23b GVG |
+| EU- und Völkerrecht | Brüssel IIb-VO (EU) 2019/1111 |
+
+## Typische Mandate
+
+- Scheidung im Verbund (Scheidung + Versorgungsausgleich + Folgesachen)
+- Sorgerechtsverfahren bei getrennt lebenden Eltern
+- Umgangsrechtsstreit
+- Kindesunterhalt nach Düsseldorfer Tabelle
+- Ehegattenunterhalt (Trennungs- und nachehelicher Unterhalt)
+- Zugewinnausgleich
+- Ehevertrag und Scheidungsfolgenvereinbarung
+- Gewaltschutz nach GewSchG
+
+## Wichtige Fristen
+
+- **Beschwerde** Paragraf 63 FamFG — ein Monat.
+- **Sofortige Beschwerde** Paragraf 64 FamFG — zwei Wochen.
+- **Wiedereinsetzung** Paragraf 17 FamFG.
+- **Versorgungsausgleichs-Anträge** parallel zum Scheidungsverfahren.
+- **Anfechtungsfristen** Vaterschaft Paragraf 1600b BGB — zwei Jahre ab Kenntnis.
+
+## Hauptgericht
+
+- **Familiengericht** beim Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG).
+- **OLG-Familiensenat** als Beschwerdegericht (Paragraf 119 GVG).
+- **BGH XII. Zivilsenat** in Familiensachen.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- Deutscher Anwaltverein DAV Arbeitsgemeinschaft Familienrecht.
+- Deutsche Gesellschaft für Familienrecht.
+
+## Schnittstellen zu anderen Plugins
+
+- **kanzlei-allgemein** für Fristenbuch Timesheet Versand-Vor-Check.
+- **methodenlehre-buergerliches-recht** und **zitierweise-deutsches-recht** als Hausstandards.
+
+## Hinweis
+
+Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert die Expertise des Fachanwalts für Familienrecht.
+
+---
+
+## Skill: `orientierung-fristen-form-und-zustaendigkeit`
+
+_Für Orientierung Fristen Form und Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel._
+
+# Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: FamFG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+
+### Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
+
+## Fachlicher Kern — Familienrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
+- **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
+- **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Spezialwissen: Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
+- **Normen-/Quellenanker:** FamFG.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Orientierung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Familienrecht._
 
 # Strukturierter Erstgespraechsleitfaden für Familien-, Kindschafts- und Versorgungsausgleichsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 

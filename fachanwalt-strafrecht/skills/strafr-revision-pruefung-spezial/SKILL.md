@@ -1,6 +1,6 @@
 ---
 name: strafr-revision-pruefung-spezial
-description: "Wenn es um Strafr Revision Prüfung Spezial in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafr Revision Prüfung Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Spezialfall Revisionspruefung StPO: § 337 sachlich- und verfahrensrechtliche Revision, Beruhensfrage, Verfahrensruegen Begruendungspflicht § 344 Abs

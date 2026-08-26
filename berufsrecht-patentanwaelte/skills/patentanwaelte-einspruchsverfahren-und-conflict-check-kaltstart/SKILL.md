@@ -1,6 +1,6 @@
 ---
 name: patentanwaelte-einspruchsverfahren-und-conflict-check-kaltstart
-description: "Wenn es um Patentanwaelte Einspruchsverfahren Und Conflict Check Kaltstart in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Patentanwälte Einspruchsverfahren und Conflict Check Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: einspruchsverfahren und conflict check - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

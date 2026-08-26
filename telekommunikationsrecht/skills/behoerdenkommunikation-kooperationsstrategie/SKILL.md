@@ -1,6 +1,6 @@
 ---
 name: behoerdenkommunikation-kooperationsstrategie
-description: "Wenn es um Behördenkommunikation mit BNetzA in Telekommunikationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Behördenkommunikation mit BNetzA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Behördenkommunikation mit BNetzA

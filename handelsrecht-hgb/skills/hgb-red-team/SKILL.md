@@ -1,6 +1,6 @@
 ---
 name: hgb-red-team
-description: "Wenn es um HGB Red-Team in Handelsrecht HGB geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HGB Red-Team: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # HGB Red-Team

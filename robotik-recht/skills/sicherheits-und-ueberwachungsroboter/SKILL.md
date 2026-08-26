@@ -1,6 +1,6 @@
 ---
 name: sicherheits-und-ueberwachungsroboter
-description: "Wenn es um Sicherheits- und Überwachungsroboter in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sicherheits- und Überwachungsroboter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sicherheits- und Überwachungsroboter

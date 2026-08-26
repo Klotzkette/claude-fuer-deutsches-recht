@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-krankenhauskommunikation
-description: "Wenn es um Barrierefreiheit Krankenhauskommunikation in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Barrierefreiheit Krankenhauskommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Barrierefreiheit Krankenhauskommunikation

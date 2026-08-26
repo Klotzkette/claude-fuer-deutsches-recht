@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-nichtversicherte-auffangpflichtversicherung
-description: "Wenn es um Nichtversicherte: Auffangpflichtversicherung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nichtversicherte: Auffangpflichtversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nichtversicherte: Auffangpflichtversicherung

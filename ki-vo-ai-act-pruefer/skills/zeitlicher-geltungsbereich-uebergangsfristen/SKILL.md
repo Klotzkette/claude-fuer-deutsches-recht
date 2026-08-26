@@ -1,6 +1,6 @@
 ---
 name: zeitlicher-geltungsbereich-uebergangsfristen
-description: "Wenn es um Zeitlicher Geltungsbereich und Übergangsfristen — europäischer Technikregulierungsrahmen in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zeitlicher Geltungsbereich und Übergangsfristen — europäischer Technikregulierungsrahmen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Zeitlicher Geltungsbereich und Übergangsfristen — KI-VO

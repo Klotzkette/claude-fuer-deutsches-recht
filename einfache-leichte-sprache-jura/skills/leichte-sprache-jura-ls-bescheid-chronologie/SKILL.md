@@ -1,6 +1,6 @@
 ---
 name: leichte-sprache-jura-ls-bescheid-chronologie
-description: "Wenn es um Einfache und Leichte Sprache Jura — Allgemein in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Einfache und Leichte Sprache Jura — Allgemein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Einfache und Leichte Sprache Jura — Allgemein

@@ -1,6 +1,6 @@
 ---
 name: sportr-doping-disziplinarverfahren-spezial
-description: "Wenn es um Sportr Doping Disziplinarverfahren Spezial in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sportr Doping Disziplinarverfahren Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Doping-Disziplinarverfahren CAS / NADA: Beweisregeln, Strict Liability, Whereabouts, Verkuerzungsruende, Therapeutic Use Exemption

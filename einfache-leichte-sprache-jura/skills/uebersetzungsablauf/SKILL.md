@@ -1,6 +1,6 @@
 ---
 name: uebersetzungsablauf
-description: "Wenn es um ELS-J: Übersetzungsablauf in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Uebersetzungsablauf; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
+description: "Für ELS-J: Übersetzungsablauf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: uebersetzungsablauf."
 ---
 
 # ELS-J: Übersetzungsablauf

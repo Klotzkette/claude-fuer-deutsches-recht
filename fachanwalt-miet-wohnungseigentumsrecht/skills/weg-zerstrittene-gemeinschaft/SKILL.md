@@ -1,6 +1,6 @@
 ---
 name: weg-zerstrittene-gemeinschaft
-description: "Wenn es um Zerstrittene Gemeinschaft: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zerstrittene Gemeinschaft: Fachmodul im Miet- und Wohnungseigentumsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zerstrittene Gemeinschaft: Fachmodul im Miet- und Wohnungseigentumsrecht
@@ -44,3 +44,7 @@ description: "Wenn es um Zerstrittene Gemeinschaft: Fachmodul im Miet- und Wohnu
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-weg-zerstrittene-gemeinschaft` beziehungsweise Zerstrittene Gemeinschaft: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-weg-zerstrittene-gemeinschaft.md).

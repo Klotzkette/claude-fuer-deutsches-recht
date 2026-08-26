@@ -1,6 +1,6 @@
 ---
 name: vig-lebensmittel-und-produkte-pressean
-description: "Wenn es um Vig Lebensmittel Und Produkte Pressean in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vig Lebensmittel und Produkte Pressean: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vig Lebensmittel Und Produkte Pressean

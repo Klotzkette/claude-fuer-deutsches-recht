@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-betreiberwechsel
-description: "Wenn es um Betreiberwechsel in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betreiberwechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betreiberwechsel

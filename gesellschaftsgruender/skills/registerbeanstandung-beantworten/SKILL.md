@@ -1,6 +1,6 @@
 ---
 name: registerbeanstandung-beantworten
-description: "Wenn es um Registerbeanstandung beantworten in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Registerbeanstandung beantworten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registerbeanstandung beantworten

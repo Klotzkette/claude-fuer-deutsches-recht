@@ -1,6 +1,6 @@
 ---
 name: inv-041-gdpr-fine-parallel
-description: "Wenn es um Internal Investigation: GDPR Fine Parallel in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: GDPR Fine Parallel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: GDPR Fine Parallel

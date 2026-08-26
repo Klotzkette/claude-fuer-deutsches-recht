@@ -1,6 +1,6 @@
 ---
 name: plan-modification-1127
-description: "Wenn es um Plan Modification Paragraf 1127 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Plan Modification Paragraf 1127: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plan Modification § 1127

@@ -1,6 +1,6 @@
 ---
 name: rueckruf-muster
-description: "Wenn es um Rückruf vergriffenes Werk und Neuauflage in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rückruf vergriffenes Werk und Neuauflage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rückruf vergriffenes Werk und Neuauflage

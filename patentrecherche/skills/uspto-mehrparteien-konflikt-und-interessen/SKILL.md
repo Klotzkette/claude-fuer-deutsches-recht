@@ -1,6 +1,6 @@
 ---
 name: uspto-mehrparteien-konflikt-und-interessen
-description: "Wenn es um USPTO: Mehrparteienkonflikt und Interessenmatrix in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für USPTO: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # USPTO: Mehrparteienkonflikt und Interessenmatrix

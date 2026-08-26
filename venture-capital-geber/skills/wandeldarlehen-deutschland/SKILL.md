@@ -1,6 +1,6 @@
 ---
 name: wandeldarlehen-deutschland
-description: "Wenn es um Wandeldarlehen Deutschland in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wandeldarlehen Deutschland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wandeldarlehen Deutschland

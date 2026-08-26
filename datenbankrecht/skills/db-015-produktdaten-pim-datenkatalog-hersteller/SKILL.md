@@ -1,6 +1,6 @@
 ---
 name: db-015-produktdaten-pim-datenkatalog-hersteller
-description: "Wenn es um Datenbankrecht: Produktdaten PIM Datenkatalog Hersteller in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Produktdaten PIM Datenkatalog Hersteller: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Produktdaten PIM Datenkatalog Hersteller

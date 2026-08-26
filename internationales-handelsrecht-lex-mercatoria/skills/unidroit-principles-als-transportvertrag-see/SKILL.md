@@ -1,6 +1,6 @@
 ---
 name: unidroit-principles-als-transportvertrag-see
-description: "Wenn es um UNIDROIT Principles 2016 als Vertragsrecht in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für UNIDROIT Principles 2016 als Vertragsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # UNIDROIT Principles 2016 als Vertragsrecht

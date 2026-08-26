@@ -1,6 +1,6 @@
 ---
 name: schutzschirmverfahren
-description: "Wenn es um Schutzschirmverfahren Paragraf 270d InsO Eigenverwaltung in Insolvenz in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schutzschirmverfahren Paragraf 270d InsO Eigenverwaltung in Insolvenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schutzschirmverfahren § 270d InsO Eigenverwaltung in Insolvenz

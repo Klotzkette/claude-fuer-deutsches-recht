@@ -1,6 +1,6 @@
 ---
 name: chn-019-dual-use-bafa-check
-description: "Wenn es um Dual Use BAFA Check in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dual Use BAFA Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dual Use BAFA Check

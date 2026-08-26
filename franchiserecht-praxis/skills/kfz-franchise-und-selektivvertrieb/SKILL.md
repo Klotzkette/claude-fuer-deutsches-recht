@@ -1,6 +1,6 @@
 ---
 name: kfz-franchise-und-selektivvertrieb
-description: "Wenn es um Franchiserecht: Kfz-Franchise und Selektivvertrieb in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Franchiserecht: Kfz-Franchise und Selektivvertrieb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Kfz-Franchise und Selektivvertrieb

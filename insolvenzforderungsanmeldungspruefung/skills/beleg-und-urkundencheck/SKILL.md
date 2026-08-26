@@ -1,6 +1,6 @@
 ---
 name: beleg-und-urkundencheck
-description: "Wenn es um Beleg- und Urkundencheck in Insolvenzforderungsanmeldungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beleg- und Urkundencheck: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beleg- und Urkundencheck

@@ -1,6 +1,6 @@
 ---
 name: wandlungspreis-wandlungspruefung-trigger
-description: "Wenn es um Wandlungspreis-Berechnung in Wandeldarlehen-Lebenszyklus geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Wandlungspreis-Berechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wandlungspreis-Berechnung

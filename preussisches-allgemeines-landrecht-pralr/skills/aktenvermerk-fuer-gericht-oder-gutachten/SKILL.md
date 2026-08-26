@@ -1,6 +1,6 @@
 ---
 name: aktenvermerk-fuer-gericht-oder-gutachten
-description: "Wenn es um Aktenvermerk in Preußisches Allgemeines Landrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Aktenvermerk für Gericht Oder Gutachten; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: aktenvermerk-fuer-gericht-oder-gutachten."
 ---
 
 # Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: junior-fehler-und-supervision-kaltstart
-description: "Wenn es um Junior Fehler Und Supervision Kaltstart in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Junior Fehler und Supervision Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: junior fehler und supervision - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

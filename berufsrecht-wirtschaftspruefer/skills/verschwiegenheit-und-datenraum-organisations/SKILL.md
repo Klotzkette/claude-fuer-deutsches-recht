@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-und-datenraum-organisations
-description: "Wenn es um Verschwiegenheit Und Datenraum Organisations in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verschwiegenheit und Datenraum Organisations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: verschwiegenheit und datenraum - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

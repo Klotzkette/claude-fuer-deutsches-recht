@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-betrug-263-stgb-grundtatbestand
-description: "Wenn es um Strafrecht Spezial Betrug 263 Stgb Grundtatbestand in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Betrug 263 Stgb Grundtatbestand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Betrug § 263 StGB Grundtatbestand: Anwendungsfall Verteidigung eines Beschuldigten oder Beistand für Geschaedigten in einem Vorwurf nach § 263 Abs

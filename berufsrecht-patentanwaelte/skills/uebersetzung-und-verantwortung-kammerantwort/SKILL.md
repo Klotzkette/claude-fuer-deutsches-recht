@@ -1,6 +1,6 @@
 ---
 name: uebersetzung-und-verantwortung-kammerantwort
-description: "Wenn es um Uebersetzung Und Verantwortung Kammerantwort in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Übersetzung und Verantwortung Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: übersetzung und verantwortung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

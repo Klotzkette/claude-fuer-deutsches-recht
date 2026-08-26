@@ -1,6 +1,6 @@
 ---
 name: transaktionswertschwelle-35-abs-1a-gwb
-description: "Wenn es um Transaktionswertschwelle Paragraf 35 Abs 1a GWB in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Transaktionswertschwelle Paragraf 35 Abs 1a GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transaktionswertschwelle § 35 Abs 1a GWB

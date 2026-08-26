@@ -1,6 +1,6 @@
 ---
 name: bmf-steuerrecht-und-fiskalnormen
-description: "Wenn es um Steuerrecht und Fiskalnormen (BMF) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Steuerrecht und Fiskalnormen (BMF): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerrecht und Fiskalnormen (BMF)

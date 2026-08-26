@@ -1,6 +1,6 @@
 ---
 name: europaeisierung-deutschen-menschenrechte
-description: "Wenn es um Europaeisierung des deutschen Rechts in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Europäisierung des deutschen Rechts: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Europaeisierung des deutschen Rechts

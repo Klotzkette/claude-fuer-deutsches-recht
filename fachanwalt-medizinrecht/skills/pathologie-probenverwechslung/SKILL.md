@@ -1,6 +1,6 @@
 ---
 name: pathologie-probenverwechslung
-description: "Wenn es um Pathologie Probenverwechslung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pathologie Probenverwechslung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pathologie Probenverwechslung: moderner Medizinrechts-Skill für Gewebeprobe, Barcode, Präanalytik, Chain of Custody und falsche Krebsdiagnose

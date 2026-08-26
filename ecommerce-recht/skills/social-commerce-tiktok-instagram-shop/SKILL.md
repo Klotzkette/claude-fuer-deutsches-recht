@@ -1,6 +1,6 @@
 ---
 name: social-commerce-tiktok-instagram-shop
-description: "Wenn es um Social Commerce TikTok Instagram Shop in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Social Commerce TikTok Instagram Shop: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Social Commerce TikTok Instagram Shop

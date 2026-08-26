@@ -1,6 +1,6 @@
 ---
 name: wpk-ruege-und-berufsaufsicht-kaltstart-und-f
-description: "Wenn es um Wpk Ruege Und Berufsaufsicht Kaltstart Und F in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wpk Rüge und Berufsaufsicht Kaltstart und F: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

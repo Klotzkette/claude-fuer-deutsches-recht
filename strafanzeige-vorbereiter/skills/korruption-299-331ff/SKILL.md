@@ -1,6 +1,6 @@
 ---
 name: korruption-299-331ff
-description: "Wenn es um Korruption Paragrafen 299. 331 ff. StGB in Strafanzeige-Vorbereiter geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Korruption Paragrafen 299. 331 ff. StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Korruption §§ 299, 331 ff. StGB

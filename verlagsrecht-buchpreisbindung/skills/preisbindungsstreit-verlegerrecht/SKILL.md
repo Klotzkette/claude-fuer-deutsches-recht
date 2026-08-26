@@ -1,6 +1,6 @@
 ---
 name: preisbindungsstreit-verlegerrecht
-description: "Wenn es um Verl-042 · Preisbindungsstreit: Unterlassung und Auskunft in Verlagsrecht und Buchpreisbindung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-042 · Preisbindungsstreit: Unterlassung und Auskunft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-042 · Preisbindungsstreit: Unterlassung und Auskunft

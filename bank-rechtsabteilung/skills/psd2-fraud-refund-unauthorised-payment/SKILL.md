@@ -1,6 +1,6 @@
 ---
 name: psd2-fraud-refund-unauthorised-payment
-description: "Wenn es um Unautorisierte Zahlung und Fraud in Bank-Rechtsabteilung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Unautorisierte Zahlung und Fraud: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unautorisierte Zahlung und Fraud

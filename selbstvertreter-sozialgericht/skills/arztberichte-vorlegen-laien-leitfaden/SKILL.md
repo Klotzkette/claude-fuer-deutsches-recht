@@ -1,6 +1,6 @@
 ---
 name: arztberichte-vorlegen-laien-leitfaden
-description: "Wenn es um Arzt-Atteste richtig nutzen in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arzt-Atteste richtig nutzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arzt-Atteste richtig nutzen

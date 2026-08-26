@@ -1,6 +1,6 @@
 ---
 name: nachpruefungsverfahren-textbausteine
-description: "Wenn es um Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Nachprüfungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine

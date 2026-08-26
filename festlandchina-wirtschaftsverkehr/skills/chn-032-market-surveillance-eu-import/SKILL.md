@@ -1,6 +1,6 @@
 ---
 name: chn-032-market-surveillance-eu-import
-description: "Wenn es um Market Surveillance EU Import in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Market Surveillance EU Import: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Market Surveillance EU Import

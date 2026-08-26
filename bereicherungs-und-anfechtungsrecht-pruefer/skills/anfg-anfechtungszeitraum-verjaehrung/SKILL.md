@@ -1,6 +1,6 @@
 ---
 name: anfg-anfechtungszeitraum-verjaehrung
-description: "Wenn es um Fristen und Anfechtungszeitraum — AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfg Anfechtungszeitraum Verjaehrung; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Fristen und Anfechtungszeitraum — AnfG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fristen und Anfechtungszeitraum — AnfG

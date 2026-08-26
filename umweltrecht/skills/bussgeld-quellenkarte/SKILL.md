@@ -1,6 +1,6 @@
 ---
 name: bussgeld-quellenkarte
-description: "Wenn es um Bussgeld Quellenkarte in Umweltrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Bussgeld Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bussgeld Quellenkarte

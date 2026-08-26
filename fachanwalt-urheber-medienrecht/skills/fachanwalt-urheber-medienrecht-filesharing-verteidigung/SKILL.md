@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-filesharing-verteidigung
-description: "Wenn es um Filesharing-Abmahnung Verteidigung in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Filesharing-Abmahnung Verteidigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Filesharing-Abmahnung Verteidigung

@@ -1,6 +1,6 @@
 ---
 name: polizei-und-ordnungsamt-kommunikation
-description: "Wenn es um Polizei Und Ordnungsamt Kommunikation in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Polizei und Ordnungsamt Kommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Polizei Und Ordnungsamt Kommunikation

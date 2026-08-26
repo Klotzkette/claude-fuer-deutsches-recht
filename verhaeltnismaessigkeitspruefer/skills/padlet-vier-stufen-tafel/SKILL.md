@@ -1,6 +1,6 @@
 ---
 name: padlet-vier-stufen-tafel
-description: "Wenn es um Echte Padlet-Tafel anlegen, nicht nur vorschlagen in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Echte Padlet-Tafel anlegen, nicht nur vorschlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Echte Padlet-Tafel anlegen, nicht nur vorschlagen

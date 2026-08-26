@@ -1,6 +1,6 @@
 ---
 name: besold-neu-005-ausland-einsatz-kaufkraft
-description: "Wenn es um Beamtenrecht: Auslandszuschlag Auslandseinsatz und Kaufkraftausgleich in Beamtenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beamtenrecht: Auslandszuschlag Auslandseinsatz und Kaufkraftausgleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beamtenrecht: Auslandszuschlag Auslandseinsatz und Kaufkraftausgleich

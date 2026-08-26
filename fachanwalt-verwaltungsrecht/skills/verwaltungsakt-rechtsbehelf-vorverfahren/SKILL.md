@@ -1,6 +1,6 @@
 ---
 name: verwaltungsakt-rechtsbehelf-vorverfahren
-description: "Wenn es um Verwaltungsakt Rechtsbehelf Vorverfahren in Fachanwalt Verwaltungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Verwaltungsakt Rechtsbehelf Vorverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwaltungsakt, Rechtsbehelf und Vorverfahren: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
@@ -48,3 +48,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 3. **Materielle Weichen:** Die Kernfragen zu **Verwaltungsakt, Rechtsbehelf und Vorverfahren** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
 4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
 5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-verwaltungsakt-rechtsbehelf-vorverfahren` beziehungsweise Verwaltungsakt, Rechtsbehelf und Vorverfahren: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-verwaltungsakt-rechtsbehelf-vorverfahren.md).

@@ -1,6 +1,6 @@
 ---
 name: kartellrecht-vertikal
-description: "Wenn es um Kartellrecht und vertikale Beschränkungen im Handelsvertretervertrieb nach Art. 101 AEUV in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kartellrecht und vertikale Beschränkungen im Handelsvertretervertrieb nach Art. 101 AEUV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kartellrecht und vertikale Beschränkungen im Handelsvertretervertrieb nach Art. 101 AEUV

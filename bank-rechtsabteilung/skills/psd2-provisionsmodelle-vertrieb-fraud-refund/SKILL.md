@@ -1,6 +1,6 @@
 ---
 name: psd2-provisionsmodelle-vertrieb-fraud-refund
-description: "Wenn es um Provision und Vertriebscompliance in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Provision und Vertriebscompliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Provision und Vertriebscompliance

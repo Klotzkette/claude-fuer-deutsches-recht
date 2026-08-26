@@ -1,6 +1,6 @@
 ---
 name: steps-plan-pmo
-description: "Wenn es um Deal-PMO und Steps Plan in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Deal-PMO und Steps Plan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Deal-PMO und Steps Plan

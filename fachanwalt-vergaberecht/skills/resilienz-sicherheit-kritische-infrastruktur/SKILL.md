@@ -1,6 +1,6 @@
 ---
 name: resilienz-sicherheit-kritische-infrastruktur
-description: "Wenn es um Resilienz Sicherheit Kritische Infrastruktur in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Resilienz Sicherheit Kritische Infrastruktur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Resilienz-, Sicherheits- und KRITIS-Beschaffung prüfen: Versorgungssicherheit, Geheimschutz, NIS2/KRITIS-Schnittstellen, Lieferkettenrisiko und Sektorenvergabe.

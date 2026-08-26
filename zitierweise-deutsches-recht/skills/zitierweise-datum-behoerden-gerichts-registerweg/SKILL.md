@@ -1,6 +1,6 @@
 ---
 name: zitierweise-datum-behoerden-gerichts-registerweg
-description: "Wenn es um Datum: Behörden-, Gerichts- oder Registerweg in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitierweise Datum Behoerden Gerichts Registerweg; Arbeitsfeld: Zitierweise deutsches Recht."
+description: "Für Datum: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Datum: Behörden-, Gerichts- oder Registerweg

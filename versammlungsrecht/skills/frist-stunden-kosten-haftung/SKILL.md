@@ -1,6 +1,6 @@
 ---
 name: frist-stunden-kosten-haftung
-description: "Wenn es um Die 48 Stunden laufen oft vor der Bekanntgabe in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Die 48 Stunden laufen oft vor der Bekanntgabe: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Die 48 Stunden laufen oft vor der Bekanntgabe

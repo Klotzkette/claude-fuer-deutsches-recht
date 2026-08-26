@@ -1,6 +1,6 @@
 ---
 name: bgb-at-form-und-prozessform
-description: "Wenn es um Materielle Form und Prozessform trennen in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Materielle Form und Prozessform trennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Materielle Form und Prozessform trennen

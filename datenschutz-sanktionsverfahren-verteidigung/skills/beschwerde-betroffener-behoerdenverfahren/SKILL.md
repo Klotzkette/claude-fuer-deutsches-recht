@@ -1,6 +1,6 @@
 ---
 name: beschwerde-betroffener-behoerdenverfahren
-description: "Wenn es um Beschwerde eines Betroffenen als Auslöser in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Beschwerde eines Betroffenen als Auslöser: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Beschwerde eines Betroffenen als Auslöser

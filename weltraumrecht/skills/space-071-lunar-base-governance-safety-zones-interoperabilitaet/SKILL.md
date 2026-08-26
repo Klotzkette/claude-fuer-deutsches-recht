@@ -1,6 +1,6 @@
 ---
 name: space-071-lunar-base-governance-safety-zones-interoperabilitaet
-description: "Wenn es um Weltraumrecht: Lunar base Governance Safety zones und Interoperabilität in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Lunar base Governance Safety zones und Interoperabilität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Lunar base Governance Safety zones und Interoperabilität

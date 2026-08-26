@@ -1,6 +1,6 @@
 ---
 name: bverwg-2018-innere-umkehr
-description: "Wenn es um BVerwG 2018 innere Umkehr in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BVerwG 2018 innere Umkehr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BVerwG 2018 innere Umkehr

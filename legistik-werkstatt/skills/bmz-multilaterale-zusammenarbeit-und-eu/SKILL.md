@@ -1,6 +1,6 @@
 ---
 name: bmz-multilaterale-zusammenarbeit-und-eu
-description: "Wenn es um Multilaterale Zusammenarbeit und EU (BMZ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Multilaterale Zusammenarbeit und EU (BMZ): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Multilaterale Zusammenarbeit und EU (BMZ)

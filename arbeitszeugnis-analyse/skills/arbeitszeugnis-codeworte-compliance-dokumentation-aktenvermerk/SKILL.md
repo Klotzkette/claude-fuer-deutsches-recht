@@ -1,6 +1,6 @@
 ---
 name: arbeitszeugnis-codeworte-compliance-dokumentation-aktenvermerk
-description: "Wenn es um Codeworte: Compliance-Dokumentation und Aktenvermerk in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Codeworte: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Codeworte: Compliance-Dokumentation und Aktenvermerk

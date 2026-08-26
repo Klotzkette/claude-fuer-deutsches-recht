@@ -1,6 +1,6 @@
 ---
 name: forderung-im-ausland-vollstrecken
-description: "Wenn es um Forderung im Ausland vollstrecken in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Forderung im Ausland vollstrecken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Forderung im Ausland vollstrecken

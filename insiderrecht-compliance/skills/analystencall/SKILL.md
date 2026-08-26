@@ -1,6 +1,6 @@
 ---
 name: analystencall
-description: "Wenn es um Analysten-Calls und Investorenkommunikation – Selective Disclosure in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Analysten-Calls und Investorenkommunikation – Selective Disclosure: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Analysten-Calls und Investorenkommunikation – Selective Disclosure

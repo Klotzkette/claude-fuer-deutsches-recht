@@ -1,6 +1,6 @@
 ---
 name: bankentgelte-umsetzung-risiko-rot
-description: "Wenn es um Bankentgelte Umsetzung Ueberwachen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bankentgelte Umsetzung Überwachen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bankentgelte Umsetzung Ueberwachen

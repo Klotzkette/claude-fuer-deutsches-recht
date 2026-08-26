@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-abschlussprodukt-und-uebergabe
-description: "Wenn es um Schadensersatz Abschlussprodukt Und Uebergabe in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schadensersatz Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schadensersatz-Abschlussprodukt und Übergabe: Schadensberechnung abschließen, Vergleichsverhandlung, Zahlungsvereinbarung, Vollstreckung des Schadensersatzurteils, Abschluss-Memo und Übergabe an Mandanten.
@@ -143,3 +143,7 @@ III. Übergabe an Mandant
 ## Was dieser Arbeitsgang nicht macht
 - Keine Schätzung des Lizenzsatzes ohne branchenspezifische Recherche.
 - Kein Ersatz für vollständige Mandantenberatung.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-schadensersatz-abschlussprodukt-und-uebergabe` beziehungsweise Schadensersatz: Abschlussprodukt und Übergabe: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-schadensersatz-abschlussprodukt-und-uebergabe.md).

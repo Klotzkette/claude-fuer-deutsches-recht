@@ -1,6 +1,6 @@
 ---
 name: ihl-012-schiedsklausel-icc-dis
-description: "Wenn es um Schiedsklausel ICC DIS in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiedsklausel ICC DIS: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiedsklausel ICC DIS

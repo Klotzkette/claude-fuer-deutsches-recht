@@ -1,6 +1,6 @@
 ---
 name: ruege-vor-zuschlag
-description: "Wenn es um Vergaberechtliche Ruege nach Paragraf 160 Abs in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vergaberechtliche Rüge nach Paragraf 160 Abs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vergaberechtliche Ruege nach § 160 Abs

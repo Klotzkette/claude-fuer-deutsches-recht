@@ -1,6 +1,6 @@
 ---
 name: ruecknahme-rest-paragraf-48-vwvfg
-description: "Wenn es um Ruecknahme Rest Paragraf 48 VwVfG in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rücknahme Rest Paragraf 48 VwVfG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ruecknahme Rest § 48 VwVfG

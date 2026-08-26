@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-hauptverhandlung-amtsgericht
-description: "Wenn es um Hauptverhandlung OWi am Amtsgericht in VerkehrsOWi-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Hauptverhandlung OWi am Amtsgericht: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Hauptverhandlung OWi am Amtsgericht

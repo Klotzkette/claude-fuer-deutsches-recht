@@ -1,6 +1,6 @@
 ---
 name: kanada-oakes-test-uebersicht
-description: "Wenn es um Kanada Oakes Test Übersicht in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kanada Oakes Test Übersicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kanada Oakes Test Übersicht

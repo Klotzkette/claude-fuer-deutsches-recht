@@ -1,6 +1,6 @@
 ---
 name: aktenaufbereiter-strafrecht
-description: "Wenn es um Aktenaufbereiter Strafrecht in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Aktenaufbereiter Strafrecht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenaufbereiter Strafrecht

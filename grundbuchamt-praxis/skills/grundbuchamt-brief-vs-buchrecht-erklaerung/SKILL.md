@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-brief-vs-buchrecht-erklaerung
-description: "Wenn es um Briefrecht vs. Buchrecht erklären in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Briefrecht vs. Buchrecht erklären: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Briefrecht vs. Buchrecht erklären

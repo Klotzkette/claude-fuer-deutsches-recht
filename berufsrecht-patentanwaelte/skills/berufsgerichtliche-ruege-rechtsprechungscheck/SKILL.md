@@ -1,6 +1,6 @@
 ---
 name: berufsgerichtliche-ruege-rechtsprechungscheck
-description: "Wenn es um Berufsgerichtliche Ruege Rechtsprechungscheck in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Berufsgerichtliche Rüge Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: berufsgerichtliche ruege - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

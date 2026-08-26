@@ -1,6 +1,6 @@
 ---
 name: factoringvertrag-rahmenvertrag-forderungskauf-kaufpreis-sicherhe
-description: "Wenn es um Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherheitseinbehalt in Factoring-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherheitseinbehalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherheitseinbehalt

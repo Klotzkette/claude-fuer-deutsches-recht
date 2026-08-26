@@ -1,6 +1,6 @@
 ---
 name: belegte-compliance-aktenvermerk
-description: "Wenn es um Belegte Compliance Aktenvermerk in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Belegte Compliance Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Belegte Compliance Aktenvermerk

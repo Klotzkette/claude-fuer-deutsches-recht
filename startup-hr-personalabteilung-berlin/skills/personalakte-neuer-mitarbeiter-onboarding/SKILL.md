@@ -1,6 +1,6 @@
 ---
 name: personalakte-neuer-mitarbeiter-onboarding
-description: "Wenn es um Personalakte Neuer Mitarbeiter Onboarding in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Personalakte Neuer Mitarbeiter Onboarding: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Personalakte Neuer Mitarbeiter Onboarding

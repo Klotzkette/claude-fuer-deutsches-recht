@@ -1,6 +1,6 @@
 ---
 name: klage-verwaltungsgericht-einfach
-description: "Wenn es um Klage Verwaltungsgericht einfach in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klage Verwaltungsgericht einfach: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klage Verwaltungsgericht einfach

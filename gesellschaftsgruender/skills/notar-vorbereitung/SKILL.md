@@ -1,6 +1,6 @@
 ---
 name: notar-vorbereitung
-description: "Wenn es um Notar-Vorbereitung in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Notar-Vorbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notar-Vorbereitung

@@ -1,6 +1,6 @@
 ---
 name: stpo-biometrischer-internetabgleich-und-ki-ermittlung
-description: "Wenn es um StPO: Biometrischer Internetabgleich und digitale Werkzeuge-Ermittlung in Prozessrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für StPO: Biometrischer Internetabgleich und digitale Werkzeuge-Ermittlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # StPO: Biometrischer Internetabgleich und KI-Ermittlung

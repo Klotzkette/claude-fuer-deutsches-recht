@@ -1,6 +1,6 @@
 ---
 name: rom-neu-020-rezeption-deutschland-rkg-usus-modernus
-description: "Wenn es um Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisches Recht. Route: rom-neu-020-rezeption-deutschland-rkg-usus-modernus."
 ---
 
 # Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus

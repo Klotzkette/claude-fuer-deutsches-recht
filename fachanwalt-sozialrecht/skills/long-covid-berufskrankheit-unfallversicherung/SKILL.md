@@ -1,6 +1,6 @@
 ---
 name: long-covid-berufskrankheit-unfallversicherung
-description: "Wenn es um Long Covid Berufskrankheit Unfallversicherung in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Long Covid Berufskrankheit Unfallversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Long-Covid als Berufskrankheit/Arbeitsunfall: Infektion im Gesundheitsdienst, Kausalität, MdE, Verletztenrente und BG-Gutachten.

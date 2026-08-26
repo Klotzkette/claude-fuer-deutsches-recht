@@ -1,6 +1,6 @@
 ---
 name: nachhaltige-bahninfrastruktur-emissionen
-description: "Wenn es um Bahninfrastruktur: Emissionen in Verkehrs- und Infrastrukturrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bahninfrastruktur: Emissionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bahninfrastruktur: Emissionen

@@ -1,6 +1,6 @@
 ---
 name: betrag-behoerden-gericht-und-registerweg
-description: "Wenn es um Betrag: Behörden-, Gerichts- oder Registerweg in Insolvenzforderungsanmeldungsprüfung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Betrag: Behörden-, Gerichts- oder Registerweg: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Betrag: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: therapie-statt-strafe
-description: "Wenn es um Therapie Statt Strafe in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Therapie Statt Strafe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Therapie Statt Strafe

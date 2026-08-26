@@ -1,6 +1,6 @@
 ---
 name: starug-stabilisierungsanordnung-vollstreckungsstopp
-description: "Wenn es um Stabilisierungsanordnung: Red-Team und Qualitätskontrolle in Krisenfrüherkennung und StaRUG-Management geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stabilisierungsanordnung: Red-Team und Qualitätskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stabilisierungsanordnung: Red-Team und Qualitätskontrolle

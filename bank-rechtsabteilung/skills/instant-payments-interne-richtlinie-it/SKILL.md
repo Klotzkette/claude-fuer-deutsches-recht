@@ -1,6 +1,6 @@
 ---
 name: instant-payments-interne-richtlinie-it
-description: "Wenn es um Instant Payments SEPA in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Instant Payments SEPA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Instant Payments SEPA

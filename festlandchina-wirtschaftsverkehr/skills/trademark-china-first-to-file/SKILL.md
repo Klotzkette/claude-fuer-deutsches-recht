@@ -1,6 +1,6 @@
 ---
 name: trademark-china-first-to-file
-description: "Wenn es um Markenschutz VR China: First-to-File und Anti-Squatting in China-Wirtschaftsverkehr geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Markenschutz VR China: First-to-File und Anti-Squatting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Markenschutz VR China: First-to-File und Anti-Squatting

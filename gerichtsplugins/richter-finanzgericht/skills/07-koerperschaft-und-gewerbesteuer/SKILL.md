@@ -1,6 +1,6 @@
 ---
 name: 07-koerperschaft-und-gewerbesteuer
-description: "Wenn es um 07 Körperschaft und Gewerbesteuer in Finanzgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 07 Körperschaft und Gewerbesteuer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # 07 Körperschaft und Gewerbesteuer

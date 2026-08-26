@@ -1,6 +1,6 @@
 ---
 name: dsv-benachrichtigung-art-34-betroffene
-description: "Wenn es um Dsv Benachrichtigung Art 34 Betroffene in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dsv Benachrichtigung Art 34 Betroffene: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erstellt das Benachrichtigungsschreiben an die von einer Datenschutzverletzung betroffenen Personen nach Art

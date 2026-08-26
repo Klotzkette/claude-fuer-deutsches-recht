@@ -1,6 +1,6 @@
 ---
 name: internationales-drittstaaten-konzerninsolvenz
-description: "Wenn es um Internationales Insolvenzrecht Drittstaaten — Inzidentprüfung in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Internationales Insolvenzrecht Drittstaaten — Inzidentprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationales Insolvenzrecht Drittstaaten — Inzidentprüfung

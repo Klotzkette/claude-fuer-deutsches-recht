@@ -1,6 +1,6 @@
 ---
 name: carve-out-operating-model
-description: "Wenn es um Carve-out Operating Model in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Carve-out Operating Model: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Carve-out Operating Model

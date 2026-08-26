@@ -1,6 +1,6 @@
 ---
 name: frequenzadverbien-katalog
-description: "Prüft Wörter wie stets, regelmäßig, häufig, meist und jederzeit in ihrem konkreten Satz- und Gesamtkontext. Trennt Häufigkeitsangabe von Qualitätssteigerung und liefert eine konsistente Ersatzfassung, ohne starre Übersetzungstabellen als Rechtsregel auszugeben."
+description: "Prüft Wörter wie stets, regelmäßig, häufig, meist und jederzeit in ihrem konkreten Satz- und Gesamtkontext."
 ---
 
 # Frequenzadverbien-Katalog

@@ -1,6 +1,6 @@
 ---
 name: original-abschrift-kopie-elektronische
-description: "Wenn es um Original, Abschrift, Kopie und elektronische Fassung in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Original Abschrift Kopie Elektronische; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Original, Abschrift, Kopie und elektronische Fassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: original-abschrift-kopie-elektronische."
 ---
 
 # Original, Abschrift, Kopie und elektronische Fassung

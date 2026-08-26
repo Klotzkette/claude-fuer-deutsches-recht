@@ -1,6 +1,6 @@
 ---
 name: sprachtest-auslaenderrecht
-description: "Wenn es um Sprachtest und Aufenthaltsrecht in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sprachtest und Aufenthaltsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sprachtest und Aufenthaltsrecht

@@ -1,6 +1,6 @@
 ---
 name: bankrott-bedrohung
-description: "Wenn es um Bankrott Paragraf 283 StGB in Strafanzeige-Vorbereiter geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bankrott Paragraf 283 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bankrott § 283 StGB

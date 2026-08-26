@@ -1,6 +1,6 @@
 ---
 name: camp-dauerversammlung-datenschutz-fotos
-description: "Wenn es um Camp ist nur geschützt, soweit es der Versammlung dient in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Camp ist nur geschützt, soweit es der Versammlung dient: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Camp ist nur geschützt, soweit es der Versammlung dient

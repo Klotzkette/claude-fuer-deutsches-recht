@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-interessenkollision-beratung-und-pruefung-re
-description: "Wenn es um Wirtschaftspruefer Interessenkollision Beratung Und Prüfung Re in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Wirtschaftsprüfer Interessenkollision Beratung und Prüfung Re: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: interessenkollision beratung und pruefung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

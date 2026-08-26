@@ -1,6 +1,6 @@
 ---
 name: defence-answer-director-officer
-description: "Wenn es um Statement of Defence in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Statement of Defence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Statement of Defence

@@ -1,6 +1,6 @@
 ---
 name: lebensbescheinigung-auslandszahlung
-description: "Wenn es um lebensbescheinigung-und-auslandszahlung in Rentenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für lebensbescheinigung-und-auslandszahlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # lebensbescheinigung-und-auslandszahlung

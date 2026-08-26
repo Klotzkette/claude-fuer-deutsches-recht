@@ -1,6 +1,6 @@
 ---
 name: euipo-internationaler-bezug-und-schnittstellen
-description: "Wenn es um EUIPO: Internationale Schnittstellen und Verfahren in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EUIPO: Internationale Schnittstellen und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EUIPO: Internationale Schnittstellen und Verfahren
@@ -126,3 +126,7 @@ Gültig in allen 27 EU-Mitgliedstaaten
 ## Was dieser Arbeitsgang nicht macht
 - Keine länderspezifische IP-Beratung für Nicht-EU-Länder ohne Quellenverifizierung.
 - Kein Ersatz für vollständige Mandantenberatung.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-euipo-internationaler-bezug-und-schnittstellen` beziehungsweise Euipo: Internationaler Bezug und Schnittstellen: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-euipo-internationaler-bezug-und-schnittstellen.md).

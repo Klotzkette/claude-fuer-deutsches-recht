@@ -1,6 +1,6 @@
 ---
 name: designportfolio-startup-designrecherche
-description: "Wenn es um Designportfolio Startup in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Designportfolio Startup: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Designportfolio Startup

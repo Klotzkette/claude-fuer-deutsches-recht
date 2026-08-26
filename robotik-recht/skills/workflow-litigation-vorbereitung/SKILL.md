@@ -1,6 +1,6 @@
 ---
 name: workflow-litigation-vorbereitung
-description: "Wenn es um Litigation-Vorbereitung in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Workflow Litigation Vorbereitung; Arbeitsfeld: robotik-recht."
+description: "Für Litigation-Vorbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: workflow-litigation-vorbereitung."
 ---
 
 # Litigation-Vorbereitung

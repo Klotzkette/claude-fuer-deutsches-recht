@@ -1,6 +1,6 @@
 ---
 name: mahnwesen-honorar
-description: "Wenn es um Mahnwesen für Kanzleihonorar in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mahnwesen für Kanzleihonorar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mahnwesen für Kanzleihonorar

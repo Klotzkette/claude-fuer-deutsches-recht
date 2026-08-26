@@ -1,6 +1,6 @@
 ---
 name: parkhaus-haushalt-anbinden
-description: "Wenn es um Parkhaus Haushalt Anbinden in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parkhaus Haushalt Anbinden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parkhaus Haushalt Anbinden

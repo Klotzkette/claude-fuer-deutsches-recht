@@ -1,6 +1,6 @@
 ---
 name: klagefreigabe-belegte-forderung
-description: "Wenn es um Klagefreigabe belegte Forderung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klagefreigabe belegte Forderung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klagefreigabe belegte Forderung
@@ -80,3 +80,7 @@ Klagefreigabe erteilt am [Datum].
 
 - [ZPO 253](https://www.gesetze-im-internet.de/zpo/__253.html)
 - [BGB 199](https://www.gesetze-im-internet.de/bgb/__199.html)
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-klagefreigabe-belegte-forderung` beziehungsweise Klagefreigabe nur für fällige, belegte und prozessreife Forderungen: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-klagefreigabe-belegte-forderung.md).

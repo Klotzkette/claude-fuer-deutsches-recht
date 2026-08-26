@@ -1,6 +1,6 @@
 ---
 name: 06-schluessigkeit-pruefen
-description: "Wenn es um 06 Schlüssigkeit Prüfen in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für 06 Schlüssigkeit Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 06 Schlüssigkeit Prüfen

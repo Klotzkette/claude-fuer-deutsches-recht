@@ -1,6 +1,6 @@
 ---
 name: ag-vorstandsvertrag-vorbereiten
-description: "Wenn es um Vorstandsvertrag AG vorbereiten: Paragrafen 84 ff in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorstandsvertrag AG vorbereiten: Paragrafen 84 ff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorstandsvertrag AG vorbereiten: §§ 84 ff

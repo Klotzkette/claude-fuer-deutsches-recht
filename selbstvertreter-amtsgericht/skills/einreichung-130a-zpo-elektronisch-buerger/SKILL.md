@@ -1,6 +1,6 @@
 ---
 name: einreichung-130a-zpo-elektronisch-buerger
-description: "Wenn es um Elektronische Einreichung nach Paragraf 130a ZPO in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Elektronische Einreichung nach Paragraf 130a ZPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Elektronische Einreichung nach § 130a ZPO

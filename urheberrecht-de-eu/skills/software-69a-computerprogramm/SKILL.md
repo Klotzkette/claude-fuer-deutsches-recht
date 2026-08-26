@@ -1,6 +1,6 @@
 ---
 name: software-69a-computerprogramm
-description: "Wenn es um Computerprogramm nach Paragrafen 69a ff. UrhG in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Computerprogramm nach Paragrafen 69a ff. UrhG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Computerprogramm nach §§ 69a ff. UrhG

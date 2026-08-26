@@ -1,6 +1,6 @@
 ---
 name: einfuhr-ausfuhr-durchfuhr
-description: "Wenn es um Einfuhr Ausfuhr Durchfuhr in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einfuhr Ausfuhr Durchfuhr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einfuhr Ausfuhr Durchfuhr

@@ -1,6 +1,6 @@
 ---
 name: kuendigung-quellenkarte
-description: "Wenn es um Kündigung Quellenkarte in Fachanwalt Miet- und Wohnungseigentumsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Kündigung Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kündigung Quellenkarte

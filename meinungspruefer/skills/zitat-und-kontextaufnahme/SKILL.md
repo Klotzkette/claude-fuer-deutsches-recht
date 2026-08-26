@@ -1,6 +1,6 @@
 ---
 name: zitat-und-kontextaufnahme
-description: "Wenn es um Zitat und Kontextaufnahme in Meinungsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zitat und Kontextaufnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zitat und Kontextaufnahme

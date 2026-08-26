@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr
-description: "Wenn es um IT-Vertrag-Verhandlung / EU-ODR in Fachanwalt It Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für IT-Vertrag-Verhandlung / EU-ODR: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # IT-Vertrag-Verhandlung / EU-ODR

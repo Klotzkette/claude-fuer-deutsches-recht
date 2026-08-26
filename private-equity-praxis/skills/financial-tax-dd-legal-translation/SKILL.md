@@ -1,6 +1,6 @@
 ---
 name: financial-tax-dd-legal-translation
-description: "Wenn es um Financial/Tax DD für Legal Teams übersetzen in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Financial/Tax DD für Legal Teams übersetzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Financial/Tax DD für Legal Teams übersetzen

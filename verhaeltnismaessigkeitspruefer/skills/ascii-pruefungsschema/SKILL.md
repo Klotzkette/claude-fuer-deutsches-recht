@@ -1,6 +1,6 @@
 ---
 name: ascii-pruefungsschema
-description: "Wenn es um ASCII-Prüfungsschema Verhältnismäßigkeit in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ASCII-Prüfungsschema Verhältnismäßigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # ASCII-Prüfungsschema Verhältnismäßigkeit

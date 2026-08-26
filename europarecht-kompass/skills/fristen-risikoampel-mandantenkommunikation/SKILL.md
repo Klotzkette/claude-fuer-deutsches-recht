@@ -1,6 +1,6 @@
 ---
 name: fristen-risikoampel-mandantenkommunikation
-description: "Wenn es um Fristen- und Risikoampel in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Europarecht-Kompass für deutsche Juristen."
 ---
 
 # Fristen- und Risikoampel

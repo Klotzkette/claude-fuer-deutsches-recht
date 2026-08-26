@@ -1,6 +1,6 @@
 ---
 name: ki-nutzung-gewissensbegruendung
-description: "Wenn es um digitale Werkzeuge bei Gewissensbegründung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für digitale Werkzeuge bei Gewissensbegründung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI bei Gewissensbegründung

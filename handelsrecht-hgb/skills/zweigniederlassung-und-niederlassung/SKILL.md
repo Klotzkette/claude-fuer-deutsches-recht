@@ -1,6 +1,6 @@
 ---
 name: zweigniederlassung-und-niederlassung
-description: "Wenn es um Zweigniederlassung und Niederlassung in Handelsrecht HGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Zweigniederlassung und Niederlassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zweigniederlassung und Niederlassung

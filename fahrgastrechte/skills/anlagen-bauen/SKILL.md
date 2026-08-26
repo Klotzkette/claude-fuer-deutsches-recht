@@ -1,6 +1,6 @@
 ---
 name: anlagen-bauen
-description: "Wenn es um Fahrgastrechte — Anlagen bauen in Fahrgastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Fahrgastrechte — Anlagen bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fahrgastrechte — Anlagen bauen

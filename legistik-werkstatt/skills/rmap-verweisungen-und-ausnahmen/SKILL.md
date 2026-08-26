@@ -1,6 +1,6 @@
 ---
 name: rmap-verweisungen-und-ausnahmen
-description: "Wenn es um Verweisungen und Ausnahmen in der Rulemap in Legistik-Werkstatt geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verweisungen und Ausnahmen in der Rulemap: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verweisungen und Ausnahmen in der Rulemap

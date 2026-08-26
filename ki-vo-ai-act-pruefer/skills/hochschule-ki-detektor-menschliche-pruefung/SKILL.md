@@ -1,6 +1,6 @@
 ---
 name: hochschule-ki-detektor-menschliche-pruefung
-description: "Wenn es um digitale Werkzeuge-Detektor plus menschliche Prüfung in europäischem Technikregulierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für digitale Werkzeuge-Detektor plus menschliche Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # KI-Detektor plus menschliche Prüfung

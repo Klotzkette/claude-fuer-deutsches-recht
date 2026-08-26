@@ -1,6 +1,6 @@
 ---
 name: aerzte-apotheker-altersrente-langjaehrig
-description: "Wenn es um aerzte-apotheker-architekten-versorgungswerk in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für aerzte-apotheker-architekten-versorgungswerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # aerzte-apotheker-architekten-versorgungswerk

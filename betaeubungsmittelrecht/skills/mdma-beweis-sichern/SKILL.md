@@ -1,6 +1,6 @@
 ---
 name: mdma-beweis-sichern
-description: "Wenn es um Mdma Beweis Sichern in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mdma Beweis Sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Mdma Beweis Sichern

@@ -1,6 +1,6 @@
 ---
 name: fremd-mehrbesitzverbot-gefahrstoffe
-description: "Wenn es um Fremd- und Mehrbesitzverbot Apothekenrecht in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fremd- und Mehrbesitzverbot Apothekenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fremd- und Mehrbesitzverbot Apothekenrecht

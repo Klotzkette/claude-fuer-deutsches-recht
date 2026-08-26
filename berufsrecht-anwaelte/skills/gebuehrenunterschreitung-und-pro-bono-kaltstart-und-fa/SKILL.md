@@ -1,6 +1,6 @@
 ---
 name: gebuehrenunterschreitung-und-pro-bono-kaltstart-und-fa
-description: "Wenn es um Gebuehrenunterschreitung Und Pro Bono Kaltstart Und Fa in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gebührenunterschreitung und Pro Bono Kaltstart und Fa: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Anwälte: gebuehrenunterschreitung und pro bono - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: oertliche-zustaendigkeit-57-sgg
-description: "Wenn es um Welches Sozialgericht in welcher Stadt? — Paragraf 57 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Welches Sozialgericht in welcher Stadt? — Paragraf 57 SGG: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Welches Sozialgericht in welcher Stadt? — § 57 SGG

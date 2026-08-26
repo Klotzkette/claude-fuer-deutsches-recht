@@ -1,6 +1,6 @@
 ---
 name: verkauf-des-geschaefts
-description: "Wenn es um Wachstum Zusammenarbeit und Rechtsform: Prüft asset-deal in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wachstum Zusammenarbeit und Rechtsform: Prüft asset-deal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wachstum Zusammenarbeit und Rechtsform: Prüft asset-deal

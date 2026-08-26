@@ -1,6 +1,6 @@
 ---
 name: disclosure-33g-gwb-akteneinsicht
-description: "Wenn es um Disclosure Paragraf 33g GWB Akteneinsicht in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Disclosure Paragraf 33g GWB Akteneinsicht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Disclosure § 33g GWB Akteneinsicht

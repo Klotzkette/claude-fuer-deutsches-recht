@@ -1,6 +1,6 @@
 ---
 name: bundestag-fristen-form-zustaendigkeit
-description: "Wenn es um Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bundestag Fristen Form Zuständigkeit; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Legistik-Werkstatt. Route: bundestag-fristen-form-zustaendigkeit."
 ---
 
 # Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg

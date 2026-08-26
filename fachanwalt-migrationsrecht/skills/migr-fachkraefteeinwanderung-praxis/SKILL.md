@@ -1,6 +1,6 @@
 ---
 name: migr-fachkraefteeinwanderung-praxis
-description: "Wenn es um Migr Fachkraefteeinwanderung Praxis in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Migr Fachkräfteeinwanderung Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fachkraefteeinwanderung in der Praxis: Schritte vom Visum über Erstaufenthalt zur Niederlassungserlaubnis, Anerkennung Berufsabschluss, Sprachpruefung, Gehaltsgrenzen, BA-Zustimmung

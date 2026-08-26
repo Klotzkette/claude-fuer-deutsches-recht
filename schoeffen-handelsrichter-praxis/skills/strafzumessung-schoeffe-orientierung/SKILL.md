@@ -1,6 +1,6 @@
 ---
 name: strafzumessung-schoeffe-orientierung
-description: "Wenn es um Strafzumessung für Schöffen: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Strafzumessung für Schöffen: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafzumessung für Schöffen: Orientierung

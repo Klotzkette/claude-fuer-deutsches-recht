@@ -1,6 +1,6 @@
 ---
 name: handelsrichter-kfh-rolle-sitzung
-description: "Wenn es um Handelsrichter in der Kammer für Handelssachen: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Handelsrichter in der Kammer für Handelssachen: Sitzungspraxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsrichter in der Kammer für Handelssachen: Sitzungspraxis

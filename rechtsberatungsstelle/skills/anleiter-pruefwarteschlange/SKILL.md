@@ -1,6 +1,6 @@
 ---
 name: anleiter-pruefwarteschlange
-description: "Wenn es um Supervisoren-Prüfwarteschlange (Optional) in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Supervisoren-Prüfwarteschlange (Optional): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Supervisoren-Prüfwarteschlange (Optional)

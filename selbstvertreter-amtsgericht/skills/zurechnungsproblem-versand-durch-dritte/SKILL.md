@@ -1,6 +1,6 @@
 ---
 name: zurechnungsproblem-versand-durch-dritte
-description: "Wenn es um Risiko: Versand durch Dritte (Boten, Bekannte, Familie) in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Risiko: Versand durch Dritte (Boten, Bekannte, Familie): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Risiko: Versand durch Dritte (Boten, Bekannte, Familie)

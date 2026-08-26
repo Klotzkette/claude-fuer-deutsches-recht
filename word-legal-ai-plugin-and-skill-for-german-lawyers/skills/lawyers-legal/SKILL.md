@@ -1,6 +1,6 @@
 ---
 name: lawyers-legal
-description: "Wenn es um Lawyers: Dokumentenmatrix, Lückenliste und Nachforderung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Lawyers: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lawyers: Dokumentenmatrix, Lückenliste und Nachforderung

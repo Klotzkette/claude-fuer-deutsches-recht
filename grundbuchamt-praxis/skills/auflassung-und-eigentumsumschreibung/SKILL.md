@@ -1,6 +1,6 @@
 ---
 name: auflassung-und-eigentumsumschreibung
-description: "Wenn es um Auflassung und Umschreibung in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Auflassung und Umschreibung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auflassung und Umschreibung

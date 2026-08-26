@@ -1,6 +1,6 @@
 ---
 name: compliance-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Spezial: Compliance – Mandantenkommunikation und Entscheidungsvorlage in Plugin: Gewerblicher Rechtsschutz geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Spezial: Compliance – Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Spezial: Compliance – Mandantenkommunikation und Entscheidungsvorlage
@@ -161,3 +161,7 @@ Datum: _______________ Unterschrift: _______________
 - `spezial-gewerblicher-erstpruefung-und-mandatsziel` – Erstprüfung und Zieldefinition
 - `workflow-output-waehlen` – Richtiges Outputformat wählen
 - `spezial-fristen-abschlussprodukt-und-uebergabe` – Fristenverwaltung
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-compliance-mandantenkommunikation-entscheidungsvorlage` beziehungsweise Compliance: Mandantenkommunikation und Entscheidungsvorlage: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-compliance-mandantenkommunikation-entscheidungsvorlage.md).

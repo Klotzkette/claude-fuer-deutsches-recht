@@ -1,6 +1,6 @@
 ---
 name: fitnessstudio-risiko-rot-markieren
-description: "Wenn es um Fitnessstudio Risiko Rot Markieren in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fitnessstudio Risiko Rot Markieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fitnessstudio Risiko Rot Markieren

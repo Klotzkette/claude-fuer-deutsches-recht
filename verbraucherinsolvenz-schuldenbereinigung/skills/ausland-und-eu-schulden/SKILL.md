@@ -1,6 +1,6 @@
 ---
 name: ausland-und-eu-schulden
-description: "Wenn es um Ausland Und EU Schulden in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausland und EU Schulden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auslandsschulden und EU-Bezug: Zuständigkeit, COMI, ausländische Gläubiger und Anerkennung.

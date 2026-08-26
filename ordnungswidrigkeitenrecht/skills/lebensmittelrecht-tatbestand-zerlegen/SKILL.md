@@ -1,6 +1,6 @@
 ---
 name: lebensmittelrecht-tatbestand-zerlegen
-description: "Wenn es um Lebensmittelrecht Tatbestand Zerlegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lebensmittelrecht Tatbestand Zerlegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Lebensmittelrecht Tatbestand Zerlegen

@@ -1,6 +1,6 @@
 ---
 name: vertragsstapel-vorlage-arbeitsvertrag
-description: "Wenn es um Vertragsstapel: Internationaler Bezug und Schnittstellen in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vertragsstapel Vorlage Arbeitsvertrag; Arbeitsfeld: Tabellenreview 3D."
+description: "Für Vertragsstapel: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertragsstapel: Internationaler Bezug und Schnittstellen

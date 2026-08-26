@@ -1,6 +1,6 @@
 ---
 name: aktenstruktur-und-dokumentenintake
-description: "Wenn es um Aktenstruktur Und Dokumentenintake in Beamtenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Aktenstruktur und Dokumentenintake: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenstruktur Und Dokumentenintake

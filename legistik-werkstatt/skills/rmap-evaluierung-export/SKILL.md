@@ -1,6 +1,6 @@
 ---
 name: rmap-evaluierung-export
-description: "Wenn es um Evaluierung und Änderung von Rulemap-Normen in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rmap Evaluierung Export; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Evaluierung und Änderung von Rulemap-Normen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: rmap-evaluierung-export."
 ---
 
 # Evaluierung und Änderung von Rulemap-Normen

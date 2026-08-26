@@ -1,6 +1,6 @@
 ---
 name: verk-fahrtenbuch-anordnung-spezial
-description: "Wenn es um Verk Fahrtenbuch Anordnung Spezial in Fachanwalt Verkehrsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verk Fahrtenbuch Anordnung Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Fahrtenbuchanordnung § 31a StVZO: Voraussetzungen, Ermessen, Mitwirkung, Verhältnismäßigkeit

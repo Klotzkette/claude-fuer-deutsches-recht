@@ -1,6 +1,6 @@
 ---
 name: schlachthof-beweise-sichern
-description: "Wenn es um Schlachthof Beweise Sichern in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schlachthof Beweise Sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Schlachthof Beweise Sichern

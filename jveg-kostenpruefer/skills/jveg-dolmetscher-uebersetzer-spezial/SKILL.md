@@ -1,6 +1,6 @@
 ---
 name: jveg-dolmetscher-uebersetzer-spezial
-description: "Wenn es um JVEG: Dolmetscher Uebersetzer in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für JVEG: Dolmetscher Übersetzer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: JVEG-Kostenprüfer. Route: jveg-dolmetscher-uebersetzer-spezial."
 ---
 
 # JVEG: Dolmetscher Uebersetzer

@@ -1,6 +1,6 @@
 ---
 name: syndikusrechtsanwalt-abgrenzung-kaltstart-und-faktenma
-description: "Wenn es um Syndikusrechtsanwalt Abgrenzung Kaltstart Und Faktenma in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Syndikusrechtsanwalt Abgrenzung Kaltstart und Faktenma: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: syndikusrechtsanwalt abgrenzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

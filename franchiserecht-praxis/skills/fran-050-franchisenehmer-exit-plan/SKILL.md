@@ -1,6 +1,6 @@
 ---
 name: fran-050-franchisenehmer-exit-plan
-description: "Wenn es um Franchiserecht: Franchisenehmer Exit-Plan in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Franchisenehmer Exit-Plan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Franchisenehmer Exit-Plan

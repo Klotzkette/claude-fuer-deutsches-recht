@@ -1,6 +1,6 @@
 ---
 name: steuerberater-vermoegensverfall-steuerberater-kammerantwort-und
-description: "Wenn es um Steuerberater Vermoegensverfall Steuerberater Kammerantwort Und in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Steuerberater Vermögensverfall Steuerberater Kammerantwort und: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: vermoegensverfall steuerberater - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

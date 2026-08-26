@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-bilanzkreis-gas-unterlagenanforderung
-description: "Wenn es um Energie-Regulierungsakte: Bilanzkreis Gas — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: Bilanzkreis Gas — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: Bilanzkreis Gas — Unterlagenanforderung

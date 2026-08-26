@@ -1,6 +1,6 @@
 ---
 name: luftfahrzeugpfandrecht
-description: "Wenn es um Luftfahrzeugpfandrecht – Bestellung, Rang und Vollstreckung in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Luftfahrzeugpfandrecht – Bestellung, Rang und Vollstreckung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Luftfahrzeugpfandrecht – Bestellung, Rang und Vollstreckung

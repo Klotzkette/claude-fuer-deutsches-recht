@@ -1,6 +1,6 @@
 ---
 name: notaranderkonto-auszahlungsreife-organisationspflicht
-description: "Wenn es um Notaranderkonto Auszahlungsreife Organisationspflicht in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notaranderkonto Auszahlungsreife Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: notaranderkonto auszahlungsreife - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

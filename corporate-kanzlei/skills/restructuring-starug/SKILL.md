@@ -1,6 +1,6 @@
 ---
 name: restructuring-starug
-description: "Entscheidet aus Corporate-Sicht zwischen freier Sanierung, StaRUG-Plan und Insolvenzplan. Verknüpft Insolvenzstatus, Finanzierungs- und Sicherheitenstruktur, Planbetroffenheit, Gruppenmehrheiten, Organbeschlüsse, Kapitalmaßnahmen, M&A-Vollzug und Haftungsdokumentation zu einem Board-Paper und umsetzbaren Transaktionsfahrplan."
+description: "Entscheidet aus Corporate-Sicht zwischen freier Sanierung, StaRUG-Plan und Insolvenzplan."
 ---
 
 # 1. Corporate Restructuring mit StaRUG und Insolvenzplan

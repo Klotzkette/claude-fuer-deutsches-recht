@@ -1,6 +1,6 @@
 ---
 name: insolvenz-eines-franchisenehmers-im-filialnetz
-description: "Wenn es um Franchise: Insolvenz eines Franchisenehmers im Filialnetz in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Franchise: Insolvenz eines Franchisenehmers im Filialnetz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise: Insolvenz eines Franchisenehmers im Filialnetz

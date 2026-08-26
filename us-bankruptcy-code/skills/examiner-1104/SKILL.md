@@ -1,6 +1,6 @@
 ---
 name: examiner-1104
-description: "Wenn es um Examiner Paragraf 1104 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Examiner Paragraf 1104: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Examiner § 1104

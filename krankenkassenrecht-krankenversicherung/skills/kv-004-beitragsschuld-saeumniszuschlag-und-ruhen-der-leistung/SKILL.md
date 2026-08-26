@@ -1,6 +1,6 @@
 ---
 name: kv-004-beitragsschuld-saeumniszuschlag-und-ruhen-der-leistung
-description: "Wenn es um Krankenversicherung: Beitragsschuld Säumniszuschlag und Ruhen der Leistung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Beitragsschuld Säumniszuschlag und Ruhen der Leistung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Krankenversicherung: Beitragsschuld Säumniszuschlag und Ruhen der Leistung

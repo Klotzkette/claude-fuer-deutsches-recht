@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-stadion-hausverbot
-description: "Wenn es um Stadion-Hausverbot in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stadion-Hausverbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stadion-Hausverbot

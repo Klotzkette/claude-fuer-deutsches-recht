@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-distributor-vertrag-exportkontrolle
-description: "Wenn es um Distributor-Vertrag und Exportkontrolle: Klauseln und Compliance-Pflichten in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Distributor-Vertrag und Exportkontrolle: Klauseln und Compliance-Pflichten: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Distributor-Vertrag und Exportkontrolle: Klauseln und Compliance-Pflichten

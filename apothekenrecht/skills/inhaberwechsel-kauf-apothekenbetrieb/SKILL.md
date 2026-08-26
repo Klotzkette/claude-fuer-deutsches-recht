@@ -1,6 +1,6 @@
 ---
 name: inhaberwechsel-kauf-apothekenbetrieb
-description: "Wenn es um Inhaberwechsel Kauf Apothekenbetrieb in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Inhaberwechsel Kauf Apothekenbetrieb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Inhaberwechsel Kauf Apothekenbetrieb

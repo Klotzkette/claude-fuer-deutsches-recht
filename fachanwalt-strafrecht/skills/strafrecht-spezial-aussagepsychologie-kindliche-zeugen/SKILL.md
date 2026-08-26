@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsychologie-kindliche-zeugen
-description: "Wenn es um Strafrecht Spezial Aussagepsychologie Kindliche Zeugen in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Aussagepsychologie Kindliche Zeugen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kindliche Zeugen: Entwicklungspsychologische Grundlagen, altersabhaengige Aussagefaehigkeit, Suggestibilitaet, Quellenamnesie, audiovisuelle Vernehmung nach § 58a StPO

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-geschaeftsfuehrerbestellung-mit-auslandsbezug
-description: "Wenn es um Rechtsabteilung: Geschäftsführerbestellung mit Auslandsbezug in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsabteilung: Geschäftsführerbestellung mit Auslandsbezug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsabteilung: Geschäftsführerbestellung mit Auslandsbezug

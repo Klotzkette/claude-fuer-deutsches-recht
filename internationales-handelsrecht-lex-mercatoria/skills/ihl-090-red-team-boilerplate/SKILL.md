@@ -1,6 +1,6 @@
 ---
 name: ihl-090-red-team-boilerplate
-description: "Wenn es um Red Team Boilerplate in Internationales Handelsrecht und Lex Mercatoria geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red Team Boilerplate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red Team Boilerplate

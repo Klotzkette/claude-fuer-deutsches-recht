@@ -1,6 +1,6 @@
 ---
 name: output-builder-urheberrecht
-description: "Wenn es um Output Builder Urheberrecht in Urheberrecht DE EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Output Builder Urheberrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Output Builder Urheberrecht

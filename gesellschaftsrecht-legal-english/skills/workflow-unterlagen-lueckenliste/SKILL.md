@@ -1,6 +1,6 @@
 ---
 name: workflow-unterlagen-lueckenliste
-description: "Wenn es um Unterlagen- und Lückenliste in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Gesellschaftsrecht Legal English."
 ---
 
 # Unterlagen- und Lückenliste

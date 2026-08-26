@@ -1,6 +1,6 @@
 ---
 name: bgb-fristen-form-und-zustaendigkeit
-description: "Wenn es um BGB: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BGB: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # BGB: Fristen, Form, Zuständigkeit und Rechtsweg

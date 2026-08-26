@@ -1,6 +1,6 @@
 ---
 name: berufsrecht-ueberhoehte-liquidation
-description: "Wenn es um Berufsrecht überhöhte Liquidation in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Berufsrecht überhöhte Liquidation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berufsrecht überhöhte Liquidation

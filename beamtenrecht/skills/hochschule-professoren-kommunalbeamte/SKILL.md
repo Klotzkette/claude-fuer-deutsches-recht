@@ -1,6 +1,6 @@
 ---
 name: hochschule-professoren-kommunalbeamte
-description: "Wenn es um Hochschule Professoren W Besoldung in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Hochschule Professoren W Besoldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hochschule Professoren W Besoldung

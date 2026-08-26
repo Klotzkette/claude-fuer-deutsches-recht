@@ -1,6 +1,6 @@
 ---
 name: agentische-datenbank-recherche
-description: "Wenn es um agentische-datenbank-recherche in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für agentische-datenbank-recherche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # agentische-datenbank-recherche

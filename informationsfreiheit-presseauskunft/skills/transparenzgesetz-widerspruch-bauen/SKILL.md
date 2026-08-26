@@ -1,6 +1,6 @@
 ---
 name: transparenzgesetz-widerspruch-bauen
-description: "Wenn es um Transparenzgesetz Widerspruch Bauen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transparenzgesetz Widerspruch Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transparenzgesetz Widerspruch Bauen

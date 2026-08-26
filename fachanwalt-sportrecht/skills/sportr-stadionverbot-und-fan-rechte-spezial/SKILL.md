@@ -1,6 +1,6 @@
 ---
 name: sportr-stadionverbot-und-fan-rechte-spezial
-description: "Wenn es um Sportr Stadionverbot Und Fan Rechte Spezial in Fachanwalt Sportrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sportr Stadionverbot und Fan Rechte Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Stadionverbot und Fan-Rechte: Hausrecht des Vereins, bundesweites Stadionverbot, Anhörungspflicht, Klage Anfechtung, Vergleichsverhandlung

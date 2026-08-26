@@ -1,6 +1,6 @@
 ---
 name: probearbeit-schnuppertag-und-assessment
-description: "Wenn es um Probearbeit Schnuppertag Und Assessment in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Probearbeit Schnuppertag und Assessment: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Probearbeit Schnuppertag Und Assessment

@@ -1,6 +1,6 @@
 ---
 name: gesr-kgaa-und-se-spezial
-description: "Wenn es um GesR: KGaA SE Spezial in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GesR: KGaA SE Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GesR: KGaA SE Spezial

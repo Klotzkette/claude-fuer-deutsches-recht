@@ -1,6 +1,6 @@
 ---
 name: hongkong-risikoszenario-national-security-law-und-rechtsstaat
-description: "Wenn es um Hongkong-Risikoszenario: National Security Law und Rechtsstaat in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hongkong-Risikoszenario: National Security Law und Rechtsstaat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hongkong-Risikoszenario: National Security Law und Rechtsstaat

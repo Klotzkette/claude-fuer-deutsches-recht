@@ -1,6 +1,6 @@
 ---
 name: post-beschwerde-brief-paket
-description: "Wenn es um Post: Beschwerde Brief Paket in Bundesnetzagentur-Verfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Post: Beschwerde Brief Paket: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Post: Beschwerde Brief Paket

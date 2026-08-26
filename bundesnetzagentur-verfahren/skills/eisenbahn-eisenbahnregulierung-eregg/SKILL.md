@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-eisenbahnregulierung-eregg
-description: "Wenn es um Eisenbahnregulierung nach dem ERegG: Überblick und anwaltlicher Einstieg in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Eisenbahnregulierung nach dem ERegG: Überblick und anwaltlicher Einstieg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eisenbahnregulierung nach dem ERegG: Überblick und anwaltlicher Einstieg

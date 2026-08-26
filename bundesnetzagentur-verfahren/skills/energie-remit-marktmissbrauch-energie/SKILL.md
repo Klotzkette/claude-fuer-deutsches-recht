@@ -1,6 +1,6 @@
 ---
 name: energie-remit-marktmissbrauch-energie
-description: "Wenn es um Energie: REMIT Marktmissbrauch Energie in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie: REMIT Marktmissbrauch Energie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie: REMIT Marktmissbrauch Energie

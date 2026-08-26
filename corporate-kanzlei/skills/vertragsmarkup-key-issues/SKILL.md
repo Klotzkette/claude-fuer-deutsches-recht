@@ -1,6 +1,6 @@
 ---
 name: vertragsmarkup-key-issues
-description: "Wenn es um Vertragsmarkup und Key Issues in Corporate-Kanzlei geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vertragsmarkup Key Issues; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Vertragsmarkup und Key Issues: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: vertragsmarkup-key-issues."
 ---
 
 # Vertragsmarkup und Key Issues

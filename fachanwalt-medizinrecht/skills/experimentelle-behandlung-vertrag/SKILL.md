@@ -1,6 +1,6 @@
 ---
 name: experimentelle-behandlung-vertrag
-description: "Wenn es um Experimentelle Behandlung Vertrag in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Experimentelle Behandlung Vertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Experimentelle Behandlung Vertrag: moderner Medizinrechts-Skill für Behandlungsvertrag für innovative Methode, keine Erfolgsgarantie, Aufklärung und Abgrenzung Forschung/Heilversuch

@@ -1,6 +1,6 @@
 ---
 name: satellitenkampagne-durch
-description: "Wenn es um Satellitenkampagne Durch Verein in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Satellitenkampagne durch Verein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Satellitenkampagne Durch Verein

@@ -1,6 +1,6 @@
 ---
 name: dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden
-description: "Wenn es um Dsfa Risikoanalyse Eintrittswahrscheinlichkeit Schaden in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSFA Risikoanalyse Eintrittswahrscheinlichkeit Schaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Risikoanalyse im Rahmen der DSFA: Eintrittswahrscheinlichkeit mal Schadenschwere für Bedrohungsszenarien systematisch ermitteln

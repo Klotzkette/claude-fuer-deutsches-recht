@@ -1,6 +1,6 @@
 ---
 name: thueringen-spezial-wartburg-klassisches-weimar-juedisches-erfurt
-description: "Wenn es um Wartburg, Klassisches Weimar, Bauhaus und juedisch-mittelalterliches Erfurt in Thueringen in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wartburg, Klassisches Weimar, Bauhaus und jüdisch-mittelalterliches Erfurt in Thüringen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wartburg, Klassisches Weimar, Bauhaus und juedisch-mittelalterliches Erfurt in Thueringen

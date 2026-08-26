@@ -1,6 +1,6 @@
 ---
 name: lager-zolllager-transportversicherung
-description: "Wenn es um Lager- und Zolllager in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lager- und Zolllager: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lager- und Zolllager

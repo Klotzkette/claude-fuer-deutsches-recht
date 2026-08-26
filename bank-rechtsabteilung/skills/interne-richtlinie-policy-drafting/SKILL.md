@@ -1,6 +1,6 @@
 ---
 name: interne-richtlinie-policy-drafting
-description: "Wenn es um Policy Drafting Bank in Bank-Rechtsabteilung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Policy Drafting Bank: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Policy Drafting Bank

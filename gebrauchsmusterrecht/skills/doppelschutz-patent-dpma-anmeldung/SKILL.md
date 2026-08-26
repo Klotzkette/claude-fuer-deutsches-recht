@@ -1,6 +1,6 @@
 ---
 name: doppelschutz-patent-dpma-anmeldung
-description: "Wenn es um Doppelschutz Patent Gebrauchsmuster in gebrauchsmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Doppelschutz Patent Gebrauchsmuster: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Doppelschutz Patent Gebrauchsmuster

@@ -1,6 +1,6 @@
 ---
 name: ausgleich-im-ma-deal
-description: "Wenn es um Ausgleichsanspruch bei M&A-Transaktionen und Unternehmensübergang in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausgleichsanspruch bei M&A-Transaktionen und Unternehmensübergang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausgleichsanspruch bei M&A-Transaktionen und Unternehmensübergang

@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-polizeifilmerei-201-kug
-description: "Wenn es um Strafbefehl Nach Polizeifilmerei in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafbefehl nach Polizeifilmerei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafbefehl Nach Polizeifilmerei

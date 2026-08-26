@@ -1,6 +1,6 @@
 ---
 name: pralr-023-gewerbe-zunft-und-wirtschaftsordnung
-description: "Wenn es um Gewerbe und Zunft in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 023 Gewerbe Zunft Und Wirtschaftsordnung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Gewerbe und Zunft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-023-gewerbe-zunft-und-wirtschaftsordnung."
 ---
 
 # Gewerbe und Zunft

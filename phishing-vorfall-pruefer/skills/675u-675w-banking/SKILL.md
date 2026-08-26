@@ -1,6 +1,6 @@
 ---
 name: 675u-675w-banking
-description: "Wenn es um 675U: Verhandlung, Vergleich und Eskalation in Phishing-Vorfall-Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für 675U: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 675U: Verhandlung, Vergleich und Eskalation

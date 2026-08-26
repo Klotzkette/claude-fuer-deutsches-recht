@@ -1,6 +1,6 @@
 ---
 name: datenraum-gap-clean
-description: "Wenn es um Datenraum-Gap-Analyse und Clean Room in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenraum-Gap-Analyse und Clean Room: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A."
 ---
 
 # Datenraum-Gap-Analyse und Clean Room

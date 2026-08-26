@@ -1,6 +1,6 @@
 ---
 name: gesellschafts-compliance
-description: "Wenn es um Gesellschafts Compliance in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschafts Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschafts-Compliance (Paragraf 325 HGB Bilanzpublizität; Paragraf 20 GwG Transparenzregister)

@@ -1,6 +1,6 @@
 ---
 name: luftfracht-pfaendung-genehmigung
-description: "Wenn es um Luftfracht – Pfändung planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Luftfracht – Pfändung planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Luftfracht – Pfändung planen

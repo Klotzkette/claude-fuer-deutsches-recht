@@ -1,6 +1,6 @@
 ---
 name: bank-und-finanziererrolle
-description: "Wenn es um Bank Und Finanziererrolle in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Bank und Finanziererrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bank Und Finanziererrolle

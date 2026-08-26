@@ -1,6 +1,6 @@
 ---
 name: satzbau-regeln
-description: "Wenn es um ELS-J: Satzbau-Regeln in Einfache und Leichte Sprache für juristische Texte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für ELS-J: Satzbau-Regeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ELS-J: Satzbau-Regeln

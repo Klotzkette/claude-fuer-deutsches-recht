@@ -1,6 +1,6 @@
 ---
 name: compliance-system-klinik-einkauf-forschung-spenden
-description: "Wenn es um Compliance-System Klinik Einkauf Forschung Spenden in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Compliance-System Klinik Einkauf Forschung Spenden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Compliance-System Klinik Einkauf Forschung Spenden

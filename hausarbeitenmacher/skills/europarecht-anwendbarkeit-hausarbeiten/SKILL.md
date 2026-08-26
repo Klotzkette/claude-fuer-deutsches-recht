@@ -1,6 +1,6 @@
 ---
 name: europarecht-anwendbarkeit-hausarbeiten
-description: "Wenn es um Europarecht — Anwendbarkeit, Vorrang, Vorabentscheidung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Europarecht — Anwendbarkeit, Vorrang, Vorabentscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Europarecht — Anwendbarkeit, Vorrang, Vorabentscheidung

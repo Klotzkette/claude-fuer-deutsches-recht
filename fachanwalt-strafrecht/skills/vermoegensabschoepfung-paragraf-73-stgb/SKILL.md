@@ -1,6 +1,6 @@
 ---
 name: vermoegensabschoepfung-paragraf-73-stgb
-description: "Wenn es um Vermögensabschoepfung Paragraf 73 StGB in Fachanwalt Strafrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vermögensabschöpfung Paragraf 73 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vermögensabschoepfung § 73 StGB

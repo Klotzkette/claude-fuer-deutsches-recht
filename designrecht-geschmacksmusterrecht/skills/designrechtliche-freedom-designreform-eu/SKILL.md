@@ -1,6 +1,6 @@
 ---
 name: designrechtliche-freedom-designreform-eu
-description: "Wenn es um Designrechtliche Freedom To Operate in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Designrechtliche Freedom To Operate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Designrechtliche Freedom To Operate

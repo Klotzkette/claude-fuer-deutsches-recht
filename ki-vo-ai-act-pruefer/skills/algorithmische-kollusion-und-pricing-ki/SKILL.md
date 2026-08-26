@@ -1,6 +1,6 @@
 ---
 name: algorithmische-kollusion-und-pricing-ki
-description: "Wenn es um Algorithmische Kollusion und Pricing-digitale Werkzeuge in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Algorithmische Kollusion und Pricing-digitale Werkzeuge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Algorithmische Kollusion und Pricing-KI

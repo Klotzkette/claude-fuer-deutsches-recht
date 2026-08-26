@@ -1,6 +1,6 @@
 ---
 name: bezirksprovision-bezirksvertreter-bonus
-description: "Wenn es um Bezirksprovision nach Paragraf 87 Abs. 2 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bezirksprovision nach Paragraf 87 Abs. 2 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bezirksprovision nach § 87 Abs. 2 HGB

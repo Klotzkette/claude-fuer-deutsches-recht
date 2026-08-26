@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-mehrfachvertretung
-description: "Wenn es um Interessenkollision Mehrfachvertretung in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Interessenkollision Mehrfachvertretung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: interessenkollision bei mehrfachvertretung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

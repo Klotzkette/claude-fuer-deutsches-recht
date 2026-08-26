@@ -1,6 +1,6 @@
 ---
 name: chn-052-cloud-and-erp-rollout-china
-description: "Wenn es um Cloud And ERP Rollout China in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cloud And ERP Rollout China: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cloud And ERP Rollout China

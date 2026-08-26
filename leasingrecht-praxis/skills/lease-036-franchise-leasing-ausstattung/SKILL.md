@@ -1,6 +1,6 @@
 ---
 name: lease-036-franchise-leasing-ausstattung
-description: "Wenn es um Leasingrecht: Franchise Leasing Ausstattung in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Franchise Leasing Ausstattung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Franchise Leasing Ausstattung

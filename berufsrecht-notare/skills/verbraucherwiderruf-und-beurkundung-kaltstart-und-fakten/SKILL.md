@@ -1,6 +1,6 @@
 ---
 name: verbraucherwiderruf-und-beurkundung-kaltstart-und-fakten
-description: "Wenn es um Verbraucherwiderruf Und Beurkundung Kaltstart Und Fakten in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbraucherwiderruf und Beurkundung Kaltstart und Fakten: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notare: verbraucherwiderruf und beurkundung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

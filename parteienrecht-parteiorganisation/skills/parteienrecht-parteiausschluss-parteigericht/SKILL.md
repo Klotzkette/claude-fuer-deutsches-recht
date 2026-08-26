@@ -1,6 +1,6 @@
 ---
 name: parteienrecht-parteiausschluss-parteigericht
-description: "Wenn es um Parteiausschluss in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Parteienrecht Parteiausschluss Parteigericht; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Parteiausschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: parteienrecht-parteiausschluss-parteigericht."
 ---
 
 # Parteiausschluss

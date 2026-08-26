@@ -1,6 +1,6 @@
 ---
 name: haftpflicht-paragraf-115-vvg
-description: "Wenn es um Haftpflicht Paragraf 115 VVG in Fachanwalt Verkehrsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftpflicht Paragraf 115 VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haftpflicht § 115 VVG

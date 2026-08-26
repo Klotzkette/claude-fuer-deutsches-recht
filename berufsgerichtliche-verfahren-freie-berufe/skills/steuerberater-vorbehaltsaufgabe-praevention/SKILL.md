@@ -1,6 +1,6 @@
 ---
 name: steuerberater-vorbehaltsaufgabe-praevention
-description: "Wenn es um Steuerberater Vorbehaltsaufgabe: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Steuerberater Vorbehaltsaufgabe: Präventions- und Organisationspaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater Vorbehaltsaufgabe: Präventions- und Organisationspaket

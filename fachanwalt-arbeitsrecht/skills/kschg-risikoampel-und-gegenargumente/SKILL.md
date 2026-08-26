@@ -1,6 +1,6 @@
 ---
 name: kschg-risikoampel-und-gegenargumente
-description: "Wenn es um Kschg Risikoampel Und Gegenargumente in Fachanwalt Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kschg Risikoampel und Gegenargumente: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # KSchG Risikoampel: systematische Bewertung der Kündigung nach betriebsbedingten, personenbedingten und verhaltensbedingten Gründen, Sozialauswahl, BR-Anhörung, Massenentlassung — Grün/Gelb/Rot mit Gegenargumenten und nächstem Handgriff.
@@ -129,3 +129,7 @@ Wenn eine Kündigung vorliegt, die unter das KSchG fällt:
 ## Was dieser Arbeitsgang nicht macht
 - Keine abschließende Kündigungsschutzprüfung ohne vollständige Dokumentenvorlage.
 - Keine garantierte Prognose zum Prozessausgang.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-kschg-risikoampel-und-gegenargumente` beziehungsweise Kschg: Risikoampel, Gegenargumente und Verteidigungslinien: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-kschg-risikoampel-und-gegenargumente.md).

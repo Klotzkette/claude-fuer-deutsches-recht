@@ -1,6 +1,6 @@
 ---
 name: kirchenaustritt-deutschland-kirchenmusik
-description: "Wenn es um Kirchenaustritt in Deutschland in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kirchenaustritt in Deutschland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: kirchenaustritt-deutschland-kirchenmusik."
 ---
 
 # Kirchenaustritt in Deutschland

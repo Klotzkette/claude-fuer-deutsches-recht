@@ -1,6 +1,6 @@
 ---
 name: international-klageerzwingung
-description: "Wenn es um Internationale Anzeigen und EU-Bezug in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Internationale Anzeigen und EU-Bezug: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Internationale Anzeigen und EU-Bezug

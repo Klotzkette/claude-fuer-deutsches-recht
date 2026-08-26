@@ -1,6 +1,6 @@
 ---
 name: rueckversicherung-cut-through-und-fronting
-description: "Wenn es um Rückversicherung, Cut-through und Fronting in Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rückversicherung, Cut-through und Fronting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rückversicherung, Cut-through und Fronting

@@ -1,6 +1,6 @@
 ---
 name: erstattung-zu-unrecht-50-sgb-x
-description: "Wenn es um Erstattung Zu Unrecht 50 Sgb X in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erstattung zu Unrecht 50 SGB X: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erstattung Zu Unrecht 50 Sgb X

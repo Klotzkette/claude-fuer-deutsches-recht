@@ -1,6 +1,6 @@
 ---
 name: export-control-sanctions-software
-description: "Wenn es um Exportkontrolle und Sanktionen Software in Softwarerecht Deutschland/EU/International/USA geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Exportkontrolle und Sanktionen Software: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Exportkontrolle und Sanktionen Software

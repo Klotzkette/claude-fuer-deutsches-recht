@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-tabellenreview
-description: "Wenn es um Freistehender Tabellenreview (Mittelstand) in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Freistehender Tabellenreview (Mittelstand): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freistehender Tabellenreview (Mittelstand)

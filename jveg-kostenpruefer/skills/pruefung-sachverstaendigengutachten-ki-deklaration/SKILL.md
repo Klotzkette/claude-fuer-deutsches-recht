@@ -1,6 +1,6 @@
 ---
 name: pruefung-sachverstaendigengutachten-ki-deklaration
-description: "Wenn es um Prüfung Sachverständigengutachten — digitale Werkzeuge-Deklaration und JVEG in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfung Sachverständigengutachten — digitale Werkzeuge-Deklaration und JVEG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfung Sachverständigengutachten — KI-Deklaration und JVEG

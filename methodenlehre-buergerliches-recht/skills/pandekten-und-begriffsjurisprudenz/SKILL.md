@@ -1,6 +1,6 @@
 ---
 name: pandekten-und-begriffsjurisprudenz
-description: "Wenn es um Pandektenwissenschaft und Begriffsjurisprudenz in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pandektenwissenschaft und Begriffsjurisprudenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pandektenwissenschaft und Begriffsjurisprudenz

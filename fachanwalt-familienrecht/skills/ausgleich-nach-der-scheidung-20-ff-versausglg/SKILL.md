@@ -1,6 +1,6 @@
 ---
 name: ausgleich-nach-der-scheidung-20-ff-versausglg
-description: "Wenn es um Ausgleich Nach Der Scheidung 20 Ff Versausglg in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausgleich nach der Scheidung 20 Ff Versausglg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausgleich nach der Scheidung Paragrafen 20 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

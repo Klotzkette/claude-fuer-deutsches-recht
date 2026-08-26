@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-elektronische-uebermittlung-ebilanz
-description: "Wenn es um E-Bilanz — Paragraf 5b EStG elektronische Uebermittlung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Jahresabschluss Elektronische Uebermittlung Ebilanz; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für E-Bilanz — Paragraf 5b EStG elektronische Übermittlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: jahresabschluss-elektronische-uebermittlung-ebilanz."
 ---
 
 # E-Bilanz — § 5b EStG elektronische Uebermittlung

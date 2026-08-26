@@ -1,6 +1,6 @@
 ---
 name: fazugang-neu-003-zugang-bei-urlaub-krankheit-klinik-und-auslands
-description: "Wenn es um Fazugang Neu 003 Zugang Bei Urlaub Krankheit Klinik Und Auslands in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fazugang Neu 003 Zugang bei Urlaub Krankheit Klinik und Auslands: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zugang bei Abwesenheit: Urlaub, Krankheit, Klinikaufenthalt, Auslandsaufenthalt — BAG-Linie zur Kenntnisnahmemöglichkeit, Zugangszeitpunkt, Sorgfaltspflicht des Empfängers, Empfangsbevollmächtigung, taktische Beratung.

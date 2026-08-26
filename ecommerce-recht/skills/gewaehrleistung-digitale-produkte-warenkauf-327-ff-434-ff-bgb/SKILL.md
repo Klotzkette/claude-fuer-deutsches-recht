@@ -1,6 +1,6 @@
 ---
 name: gewaehrleistung-digitale-produkte-warenkauf-327-ff-434-ff-bgb
-description: "Wenn es um Gewährleistung digitale Produkte Warenkauf Paragrafen 327 ff 434 ff BGB in E-Commerce-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gewährleistung digitale Produkte Warenkauf Paragrafen 327 ff 434 ff BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gewährleistung digitale Produkte Warenkauf §§ 327 ff 434 ff BGB

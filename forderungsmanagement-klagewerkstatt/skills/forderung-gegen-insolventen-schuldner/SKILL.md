@@ -1,6 +1,6 @@
 ---
 name: forderung-gegen-insolventen-schuldner
-description: "Wenn es um Forderung gegen insolventen Schuldner in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Forderung gegen insolventen Schuldner: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forderung gegen insolventen Schuldner

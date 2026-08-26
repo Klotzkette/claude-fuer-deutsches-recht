@@ -1,6 +1,6 @@
 ---
 name: mauergrundstuecke-und-restitution
-description: "Wenn es um Mauergrundstücke und Restitution in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mauergrundstücke und Restitution: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: mauergrundstuecke-und-restitution."
 ---
 
 # Mauergrundstücke und Restitution

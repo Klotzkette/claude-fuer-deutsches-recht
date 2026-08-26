@@ -1,6 +1,6 @@
 ---
 name: beleidigung-meinungspruefer
-description: "Wenn es um Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien in Meinungsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien

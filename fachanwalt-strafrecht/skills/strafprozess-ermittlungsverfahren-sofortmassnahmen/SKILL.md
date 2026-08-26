@@ -1,6 +1,6 @@
 ---
 name: strafprozess-ermittlungsverfahren-sofortmassnahmen
-description: "Wenn es um Strafprozess Ermittlungsverfahren Sofortmassnahmen in Fachanwalt Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Strafprozess Ermittlungsverfahren Sofortmassnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sofortmaßnahmen im Ermittlungsverfahren: Polizei- oder StA-Kontakt, Vorladung, Durchsuchung, Beschlagnahme, Festnahme, Akteneinsicht, Schweigerecht, Pflichtverteidigung, Presse- und Familienkontakt in eine sichere Verteidigungsroutine bringen.

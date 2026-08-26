@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-teilerbbaurecht-und-aufteilung
-description: "Wenn es um Teil-Erbbaurecht und Aufteilung in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Teil-Erbbaurecht und Aufteilung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Teil-Erbbaurecht und Aufteilung

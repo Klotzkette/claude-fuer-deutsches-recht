@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-zulaessigkeit-407
-description: "Wenn es um Zulaessigkeit des Strafbefehls — Paragraf 407 StPO in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Zulässigkeit des Strafbefehls — Paragraf 407 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zulaessigkeit des Strafbefehls — § 407 StPO

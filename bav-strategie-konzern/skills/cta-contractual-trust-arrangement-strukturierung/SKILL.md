@@ -1,6 +1,6 @@
 ---
 name: cta-contractual-trust-arrangement-strukturierung
-description: "Wenn es um CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation

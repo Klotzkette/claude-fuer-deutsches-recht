@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-beweis-ruegen
-description: "Wenn es um Außenwirtschaft Beweis Ruegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Außenwirtschaft Beweis Rügen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Ordnungswidrigkeitenrecht. Route: aussenwirtschaft-beweis-ruegen."
 ---
 
 # Außenwirtschaft Beweis Ruegen

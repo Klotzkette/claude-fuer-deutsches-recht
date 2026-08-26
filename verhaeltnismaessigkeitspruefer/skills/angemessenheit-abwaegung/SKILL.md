@@ -1,6 +1,6 @@
 ---
 name: angemessenheit-abwaegung
-description: "Wenn es um Angemessenheit Abwaegung in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Angemessenheit Abwägung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Angemessenheit Abwaegung

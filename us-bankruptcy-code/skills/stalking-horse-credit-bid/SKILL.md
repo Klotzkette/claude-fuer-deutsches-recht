@@ -1,6 +1,6 @@
 ---
 name: stalking-horse-credit-bid
-description: "Wenn es um Stalking Horse and Credit Bid in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stalking Horse and Credit Bid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stalking Horse and Credit Bid

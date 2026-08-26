@@ -1,6 +1,6 @@
 ---
 name: digitale-durchsuchung-daten-sicherung
-description: "Wenn es um Digitale Durchsuchung und Datensicherung in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Digitale Durchsuchung und Datensicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitale Durchsuchung und Datensicherung

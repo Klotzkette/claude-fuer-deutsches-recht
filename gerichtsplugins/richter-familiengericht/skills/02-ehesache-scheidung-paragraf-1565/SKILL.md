@@ -1,6 +1,6 @@
 ---
 name: 02-ehesache-scheidung-paragraf-1565
-description: "Wenn es um 02 Ehesache Scheidung Paragraf 1565 in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 02 Ehesache Scheidung Paragraf 1565: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 02 Ehesache Scheidung Paragraf 1565

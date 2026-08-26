@@ -1,6 +1,6 @@
 ---
 name: tier-003-tierschg-grundsatz-und-leiden-pruefen
-description: "Wenn es um Tierschg Grundsatz Und Leiden Pruefen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tierschg Grundsatz und Leiden Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tierschg Grundsatz Und Leiden Pruefen

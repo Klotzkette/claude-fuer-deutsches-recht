@@ -1,6 +1,6 @@
 ---
 name: eltif-private-markets-euveca-fonds-kvg-erlaubnis
-description: "Wenn es um ELTIF 2.0: europäischer Long-Term-Fund für Private Markets in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ELTIF 2.0: europäischer Long-Term-Fund für Private Markets: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # ELTIF 2.0: europäischer Long-Term-Fund für Private Markets

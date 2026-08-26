@@ -1,6 +1,6 @@
 ---
 name: insolvenzvermerk-registereintrag
-description: "Wenn es um Insolvenzvermerk im Register in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenzvermerk im Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Insolvenzvermerk im Register

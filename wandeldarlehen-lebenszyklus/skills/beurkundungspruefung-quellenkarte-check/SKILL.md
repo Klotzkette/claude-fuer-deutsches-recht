@@ -1,6 +1,6 @@
 ---
 name: beurkundungspruefung-quellenkarte-check
-description: "Wenn es um Beurkundungspruefung Quellenkarte Check in Wandeldarlehen-Lebenszyklus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Beurkundungsprüfung Quellenkarte Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beurkundungspruefung Quellenkarte Check

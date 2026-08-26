@@ -1,6 +1,6 @@
 ---
 name: batteriespeicher-gutachten-zerlegen
-description: "Wenn es um Batteriespeicher Gutachten Zerlegen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Batteriespeicher Gutachten Zerlegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Batteriespeicher Gutachten Zerlegen

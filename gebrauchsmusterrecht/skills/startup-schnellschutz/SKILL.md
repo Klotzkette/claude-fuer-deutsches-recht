@@ -1,6 +1,6 @@
 ---
 name: startup-schnellschutz
-description: "Wenn es um Startup Schnellschutz in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Startup Schnellschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Startup Schnellschutz

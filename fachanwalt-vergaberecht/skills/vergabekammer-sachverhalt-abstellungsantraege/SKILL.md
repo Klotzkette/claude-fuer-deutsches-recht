@@ -1,6 +1,6 @@
 ---
 name: vergabekammer-sachverhalt-abstellungsantraege
-description: "Wenn es um Vergabekammer: Sachverhalt und Abstellungsanträge in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vergabekammer: Sachverhalt und Abstellungsanträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vergabekammer: Sachverhalt und Abstellungsanträge

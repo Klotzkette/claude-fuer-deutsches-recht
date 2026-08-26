@@ -1,6 +1,6 @@
 ---
 name: interne-ermittlung-und-reporting-organisatio
-description: "Wenn es um Interne Ermittlung Und Reporting Organisatio in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Interne Ermittlung und Reporting Organisatio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: interne ermittlung und reporting - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

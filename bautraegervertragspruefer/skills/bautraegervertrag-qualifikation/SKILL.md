@@ -1,6 +1,6 @@
 ---
 name: bautraegervertrag-qualifikation
-description: "Wenn es um Bauträgervertrag-Qualifikation in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauträgervertrag-Qualifikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauträgervertrag-Qualifikation

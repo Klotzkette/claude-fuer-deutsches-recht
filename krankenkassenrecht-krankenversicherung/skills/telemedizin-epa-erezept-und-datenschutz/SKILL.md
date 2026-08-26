@@ -1,6 +1,6 @@
 ---
 name: telemedizin-epa-erezept-und-datenschutz
-description: "Wenn es um Telemedizin, ePA, eRezept und Datenschutz in Krankenkassenrecht und Krankenversicherung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Telemedizin, ePA, eRezept und Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telemedizin, ePA, eRezept und Datenschutz

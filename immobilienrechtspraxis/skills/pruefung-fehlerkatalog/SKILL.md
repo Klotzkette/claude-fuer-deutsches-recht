@@ -1,6 +1,6 @@
 ---
 name: pruefung-fehlerkatalog
-description: "Wenn es um Prüfung Fehlerkatalog in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfung Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfung Fehlerkatalog

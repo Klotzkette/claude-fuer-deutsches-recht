@@ -1,6 +1,6 @@
 ---
 name: verl-011-maengelexemplar-remittenden-und-preisbindung
-description: "Wenn es um Verlagsrecht: Mängelexemplar Remittenden und Preisbindung in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Mängelexemplar Remittenden und Preisbindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Mängelexemplar Remittenden und Preisbindung

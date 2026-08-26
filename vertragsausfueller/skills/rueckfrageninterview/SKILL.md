@@ -1,6 +1,6 @@
 ---
 name: rueckfrageninterview
-description: "Wenn es um Rückfrageninterview in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rückfrageninterview: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rückfrageninterview

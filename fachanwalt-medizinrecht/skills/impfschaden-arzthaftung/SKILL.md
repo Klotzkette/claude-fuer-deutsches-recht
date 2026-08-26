@@ -1,6 +1,6 @@
 ---
 name: impfschaden-arzthaftung
-description: "Wenn es um Impfschaden Arzthaftung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Impfschaden Arzthaftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Impfschaden und Arzthaftung: moderner Medizinrechts-Skill für Impfaufklärung, Chargenproblem, Versorgungsanspruch, Kausalität und Pharmakovigilanz

@@ -1,6 +1,6 @@
 ---
 name: verwertung-nach-kuendigung
-description: "Wenn es um Verwertung nach Kündigung: Prozess und Schadensminderung in Leasingrecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Verwertung nach Kündigung: Prozess und Schadensminderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwertung nach Kündigung: Prozess und Schadensminderung

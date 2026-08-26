@@ -1,6 +1,6 @@
 ---
 name: landespressegesetz-presseantwort-nachf
-description: "Wenn es um Landespressegesetz Presseantwort Nachf in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landespressegesetz Presseantwort Nachf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landespressegesetz Presseantwort Nachf

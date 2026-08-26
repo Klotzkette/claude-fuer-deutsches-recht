@@ -1,6 +1,6 @@
 ---
 name: ueberhang-aeste-wurzeln
-description: "Wenn es um Überhang, Äste und Wurzeln in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Überhang, Äste und Wurzeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Überhang, Äste und Wurzeln

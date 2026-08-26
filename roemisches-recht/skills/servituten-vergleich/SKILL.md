@@ -1,6 +1,6 @@
 ---
 name: servituten-vergleich
-description: "Wenn es um Servituten Vergleich in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Servituten Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Servituten Vergleich

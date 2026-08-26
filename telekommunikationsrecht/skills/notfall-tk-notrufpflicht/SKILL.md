@@ -1,6 +1,6 @@
 ---
 name: notfall-tk-notrufpflicht
-description: "Wenn es um Notfall- und Katastrophenkommunikation in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notfall- und Katastrophenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notfall- und Katastrophenkommunikation

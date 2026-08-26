@@ -1,6 +1,6 @@
 ---
 name: inv-010-us-discovery
-description: "Wenn es um US Discovery und Cross-Border in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für US Discovery und Cross-Border: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US Discovery und Cross-Border

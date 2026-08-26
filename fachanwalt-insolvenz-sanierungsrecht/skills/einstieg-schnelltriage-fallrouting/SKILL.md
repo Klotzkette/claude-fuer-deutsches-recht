@@ -1,6 +1,6 @@
 ---
 name: einstieg-schnelltriage-fallrouting
-description: "Wenn es um Einstieg, Schnelltriage und Fallrouting in Fachanwalt Insolvenz Sanierungsrecht in Fachanwalt Insolvenz- und Sanierungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einstieg, Schnelltriage und Fallrouting in Fachanwalt Insolvenz Sanierungsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstieg, Schnelltriage und Fallrouting im Fachanwalt Insolvenz Sanierungsrecht-Plugin

@@ -1,6 +1,6 @@
 ---
 name: rom-109-romanisch-byzantinische-synopse
-description: "Wenn es um Romanisch-byzantinische Synopse in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rom 109 Romanisch Byzantinische Synopse; Arbeitsfeld: Römisches Recht."
+description: "Für Romanisch-byzantinische Synopse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: rom-109-romanisch-byzantinische-synopse."
 ---
 
 # Romanisch-byzantinische Synopse

@@ -1,6 +1,6 @@
 ---
 name: grest-konzernklausel-6a
-description: "Wenn es um GrESt: Konzernklausel Paragraf 6a in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GrESt: Konzernklausel Paragraf 6a: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GrESt: Konzernklausel § 6a

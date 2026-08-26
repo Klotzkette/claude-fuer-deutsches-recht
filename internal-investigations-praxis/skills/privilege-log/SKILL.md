@@ -1,6 +1,6 @@
 ---
 name: privilege-log
-description: "Wenn es um Privilege-Log in Internal Investigations in Internal Investigations Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Privilege-Log in Internal Investigations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Privilege-Log in Internal Investigations

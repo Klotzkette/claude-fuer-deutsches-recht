@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-sonderpruefung-insiderrecht
-description: "Wenn es um Aufsichtsrats-Sonderprüfung – Insiderrecht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Aufsichtsrats-Sonderprüfung – Insiderrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Aufsichtsrats-Sonderprüfung – Insiderrecht

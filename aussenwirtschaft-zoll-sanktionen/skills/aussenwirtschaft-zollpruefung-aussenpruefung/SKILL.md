@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollpruefung-aussenpruefung
-description: "Wenn es um Zollaußenpruefung: Vorbereitung Prüferempfang und Risikobegrenzung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zollaußenprüfung: Vorbereitung Prüferempfang und Risikobegrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Zollaußenpruefung: Vorbereitung Prüferempfang und Risikobegrenzung

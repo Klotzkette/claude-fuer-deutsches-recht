@@ -1,6 +1,6 @@
 ---
 name: autorenkommunikation-compliance-dokumentation-und-akte
-description: "Wenn es um Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk

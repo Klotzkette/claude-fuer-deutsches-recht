@@ -1,6 +1,6 @@
 ---
 name: mandatum-pecuniae-credendae
-description: "Wenn es um Rom 138 Mandatum Pecuniae Credendae Bankvertrag in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mandatum Pecuniae Credendae; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 138 Mandatum Pecuniae Credendae Bankvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: mandatum-pecuniae-credendae."
 ---
 
 # Rom 138 Mandatum Pecuniae Credendae Bankvertrag

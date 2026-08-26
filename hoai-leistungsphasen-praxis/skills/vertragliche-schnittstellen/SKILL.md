@@ -1,6 +1,6 @@
 ---
 name: vertragliche-schnittstellen
-description: "Wenn es um HOAI Querschnitt: Prüft architekt in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für HOAI Querschnitt: Prüft architekt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # HOAI Querschnitt: Prüft architekt

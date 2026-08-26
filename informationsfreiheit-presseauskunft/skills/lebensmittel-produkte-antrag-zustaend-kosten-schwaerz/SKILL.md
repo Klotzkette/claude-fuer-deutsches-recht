@@ -1,6 +1,6 @@
 ---
 name: lebensmittel-produkte-antrag-zustaend-kosten-schwaerz
-description: "Wenn es um Vig Lebensmittel Und Produkte Antrag F in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vig Lebensmittel und Produkte Antrag F: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Vig Lebensmittel Und Produkte Antrag F

@@ -1,6 +1,6 @@
 ---
 name: plattform-analytics-als-beweis
-description: "Wenn es um Influencer-Recht: Plattform-Analytics als Beweis in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Influencer-Recht: Plattform-Analytics als Beweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Influencer-Recht: Plattform-Analytics als Beweis

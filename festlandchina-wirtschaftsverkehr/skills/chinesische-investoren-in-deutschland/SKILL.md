@@ -1,6 +1,6 @@
 ---
 name: chinesische-investoren-in-deutschland
-description: "Wenn es um Chinesische Investoren in Deutschland: Compliance und Verfahren in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Chinesische Investoren in Deutschland: Compliance und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Chinesische Investoren in Deutschland: Compliance und Verfahren

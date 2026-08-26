@@ -1,6 +1,6 @@
 ---
 name: handover-kanzleiwechsel
-description: "Wenn es um Handover Kanzleiwechsel in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handover Kanzleiwechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handover Kanzleiwechsel

@@ -1,6 +1,6 @@
 ---
 name: verl-012-subskriptionspreis-einfuehrungspreis-und-aktion
-description: "Wenn es um Verlagsrecht: Subskriptionspreis Einführungspreis und Aktion in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Subskriptionspreis Einführungspreis und Aktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Subskriptionspreis Einführungspreis und Aktion

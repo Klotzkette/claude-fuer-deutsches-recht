@@ -1,6 +1,6 @@
 ---
 name: bundesnotbremse-bverfge-159-223
-description: "Wenn es um Bundesnotbremse BVerfGE 159 223 in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Bundesnotbremse BVerfGE 159 223: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bundesnotbremse BVerfGE 159 223

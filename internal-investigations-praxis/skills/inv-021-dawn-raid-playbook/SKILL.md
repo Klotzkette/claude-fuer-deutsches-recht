@@ -1,6 +1,6 @@
 ---
 name: inv-021-dawn-raid-playbook
-description: "Wenn es um Internal Investigation: Dawn Raid Playbook in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: Dawn Raid Playbook: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Dawn Raid Playbook

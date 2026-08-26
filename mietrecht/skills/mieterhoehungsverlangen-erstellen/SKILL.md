@@ -1,6 +1,6 @@
 ---
 name: mieterhoehungsverlangen-erstellen
-description: "Wenn es um Mieterhöhungsverlangen erstellen (Vermieter / Hausverwaltung) in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mieterhöhungsverlangen erstellen (Vermieter / Hausverwaltung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mieterhöhungsverlangen erstellen (Vermieter / Hausverwaltung)

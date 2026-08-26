@@ -1,6 +1,6 @@
 ---
 name: prueffaehige-schlussrechnung-einwendungen
-description: "Wenn es um Prüffähige Schlussrechnung Und Einwendungen in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Prüffähige Schlussrechnung und Einwendungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüffähige Schlussrechnung Und Einwendungen

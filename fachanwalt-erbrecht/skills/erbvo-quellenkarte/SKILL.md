@@ -1,6 +1,6 @@
 ---
 name: erbvo-quellenkarte
-description: "Wenn es um Erbvo Quellenkarte in Fachanwalt Erbrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Erbvo Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbvo Quellenkarte

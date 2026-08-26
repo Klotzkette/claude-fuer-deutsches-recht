@@ -1,6 +1,6 @@
 ---
 name: ins-014-employee-stock-plan
-description: "Wenn es um Mitarbeiteraktien und ESOP in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mitarbeiteraktien und ESOP: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mitarbeiteraktien und ESOP

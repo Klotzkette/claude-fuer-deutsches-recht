@@ -1,6 +1,6 @@
 ---
 name: kreuzblatt-konsistenzpruefung
-description: "Wenn es um /tabellenreview-3d:kreuzblatt-konsistenzprüfung in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für /tabellenreview-3d:kreuzblatt-konsistenzprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # /tabellenreview-3d:kreuzblatt-konsistenzprüfung

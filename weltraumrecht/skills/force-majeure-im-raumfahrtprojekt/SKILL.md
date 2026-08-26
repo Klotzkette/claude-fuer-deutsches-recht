@@ -1,6 +1,6 @@
 ---
 name: force-majeure-im-raumfahrtprojekt
-description: "Wenn es um Weltraumrecht: Force Majeure im Raumfahrtprojekt in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Force Majeure im Raumfahrtprojekt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Weltraumrecht: Force Majeure im Raumfahrtprojekt

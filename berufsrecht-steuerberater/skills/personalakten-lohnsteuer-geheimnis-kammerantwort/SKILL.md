@@ -1,6 +1,6 @@
 ---
 name: personalakten-lohnsteuer-geheimnis-kammerantwort
-description: "Wenn es um Personalakten Lohnsteuer Geheimnis Kammerantwort in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Personalakten Lohnsteuer Geheimnis Kammerantwort: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: personalakten lohnsteuer geheimnis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

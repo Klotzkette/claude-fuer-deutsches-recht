@@ -1,6 +1,6 @@
 ---
 name: kreisstrasse-einwendung-bauen
-description: "Wenn es um Kreisstrasse Einwendung Bauen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kreisstrasse Einwendung Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kreisstrasse Einwendung Bauen

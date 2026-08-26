@@ -1,6 +1,6 @@
 ---
 name: informationstechnologierecht-tatbestand-beweis
-description: "Wenn es um Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt It Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

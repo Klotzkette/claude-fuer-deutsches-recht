@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-sanktionslisten-rechtsprechungscheck
-description: "Wenn es um Geldwaesche Sanktionslisten Rechtsprechungscheck in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Geldwäsche Sanktionslisten Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: geldwaesche sanktionslisten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

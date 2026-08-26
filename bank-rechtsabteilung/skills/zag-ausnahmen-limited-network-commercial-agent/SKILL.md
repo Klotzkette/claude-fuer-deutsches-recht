@@ -1,6 +1,6 @@
 ---
 name: zag-ausnahmen-limited-network-commercial-agent
-description: "Wenn es um ZAG-Ausnahmen in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für ZAG-Ausnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ZAG-Ausnahmen

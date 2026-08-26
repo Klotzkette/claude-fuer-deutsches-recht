@@ -1,6 +1,6 @@
 ---
 name: steuererklaerung-ohne-vollstaendige-belege-kammer
-description: "Wenn es um Steuererklaerung Ohne Vollstaendige Belege Kammer in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Steuererklärung ohne Vollständige Belege Kammer: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: steuererklaerung ohne vollstaendige belege - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

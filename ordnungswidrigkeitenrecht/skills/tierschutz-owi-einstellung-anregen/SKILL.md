@@ -1,6 +1,6 @@
 ---
 name: tierschutz-owi-einstellung-anregen
-description: "Wenn es um Tierschutz Owi Einstellung Anregen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tierschutz Owi Einstellung Anregen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tierschutz Owi Einstellung Anregen

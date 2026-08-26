@@ -1,6 +1,6 @@
 ---
 name: livecheck-bgb-uwg-ddg-dsa-pangv
-description: "Wenn es um Livecheck BGB UWG DDG DSA PAngV in E-Commerce-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Livecheck BGB UWG DDG DSA PAngV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Livecheck BGB UWG DDG DSA PAngV

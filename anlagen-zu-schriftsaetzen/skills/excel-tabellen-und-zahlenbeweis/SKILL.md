@@ -1,6 +1,6 @@
 ---
 name: excel-tabellen-und-zahlenbeweis
-description: "Wenn es um Excel-Tabellen und Zahlenbeweis in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Excel-Tabellen und Zahlenbeweis: rechnet Beträge, Schwellen und Varianten; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Excel-Tabellen und Zahlenbeweis

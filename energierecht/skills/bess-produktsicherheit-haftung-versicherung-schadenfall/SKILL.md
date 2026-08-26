@@ -1,6 +1,6 @@
 ---
 name: bess-produktsicherheit-haftung-versicherung-schadenfall
-description: "Wenn es um Produktsicherheit, Rückruf und Haftung in Energierecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Produktsicherheit, Rückruf und Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produktsicherheit, Rückruf und Haftung

@@ -1,6 +1,6 @@
 ---
 name: stpo-beschlagnahme
-description: "Wenn es um StPO-Beschlagnahme und Durchsuchung in Internal Investigations Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für StPO-Beschlagnahme und Durchsuchung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # StPO-Beschlagnahme und Durchsuchung

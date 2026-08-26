@@ -1,6 +1,6 @@
 ---
 name: abuse-of-economic-dependence
-description: "Wenn es um Relative Marktmacht und Economic Dependence in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Relative Marktmacht und Economic Dependence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Relative Marktmacht und Economic Dependence

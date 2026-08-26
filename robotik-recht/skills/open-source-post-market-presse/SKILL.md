@@ -1,6 +1,6 @@
 ---
 name: open-source-post-market-presse
-description: "Wenn es um Open Source und SBOM in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Open Source Post Market Presse; Arbeitsfeld: robotik-recht."
+description: "Für Open Source und SBOM: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: open-source-post-market-presse."
 ---
 
 # Open Source und SBOM

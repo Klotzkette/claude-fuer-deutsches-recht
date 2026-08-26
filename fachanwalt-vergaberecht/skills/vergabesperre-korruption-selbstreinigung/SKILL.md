@@ -1,6 +1,6 @@
 ---
 name: vergabesperre-korruption-selbstreinigung
-description: "Wenn es um Vergabesperre Korruption Selbstreinigung in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vergabesperre Korruption Selbstreinigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vergabesperre und fakultative Ausschlussgruende mit Selbstreinigung nach § 125 GWB managen: Bieter will Sperre abwenden oder beenden

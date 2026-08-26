@@ -1,6 +1,6 @@
 ---
 name: gmbh-tatbestand-beweis-und-belege
-description: "Wenn es um GmbH: Tatbestandsmerkmale, Beweisfragen und Beleglage in Gesellschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für GmbH: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # GmbH: Tatbestandsmerkmale, Beweisfragen und Beleglage

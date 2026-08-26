@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-internal-investigation-aussenwirtschaft
-description: "Wenn es um Interne Ermittlung bei Exportkontroll- und Sanktionsverstoss in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Interne Ermittlung bei Exportkontroll- und Sanktionsverstoss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Interne Ermittlung bei Exportkontroll- und Sanktionsverstoss

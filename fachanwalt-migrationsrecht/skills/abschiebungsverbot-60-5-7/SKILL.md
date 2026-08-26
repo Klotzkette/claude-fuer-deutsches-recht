@@ -1,6 +1,6 @@
 ---
 name: abschiebungsverbot-60-5-7
-description: "Wenn es um Abschiebungsverbot Paragraf 60 Abs in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abschiebungsverbot Paragraf 60 Abs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abschiebungsverbot § 60 Abs
@@ -38,3 +38,7 @@ description: "Wenn es um Abschiebungsverbot Paragraf 60 Abs in Fachanwalt Migrat
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-abschiebungsverbot-60-5-7` beziehungsweise Abschiebungsverbot § 60 Abs. 5/7: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-abschiebungsverbot-60-5-7.md).

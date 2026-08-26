@@ -1,6 +1,6 @@
 ---
 name: wahlkampf-in-vereinen-und-betrieben
-description: "Wenn es um In Vereinen Und Betrieben in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für In Vereinen und Betrieben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # In Vereinen Und Betrieben

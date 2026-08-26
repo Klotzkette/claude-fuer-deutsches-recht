@@ -1,6 +1,6 @@
 ---
 name: mieteranfragen-beantworten
-description: "Wenn es um Mieteranfragen beantworten (Vermieter / Hausverwaltung) in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mieteranfragen beantworten (Vermieter / Hausverwaltung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mieteranfragen beantworten (Vermieter / Hausverwaltung)

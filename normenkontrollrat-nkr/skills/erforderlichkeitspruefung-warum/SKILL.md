@@ -1,6 +1,6 @@
 ---
 name: erforderlichkeitspruefung-warum
-description: "Wenn es um NKR-Erforderlichkeitspruefung — Warum ueberhaupt regeln in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erforderlichkeitspruefung Warum; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
+description: "Für NKR-Erforderlichkeitsprüfung — Warum überhaupt regeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Normenkontrollrat (NKR) — Prüfung von Gesetzentwürfen. Route: erforderlichkeitspruefung-warum."
 ---
 
 # NKR-Erforderlichkeitspruefung — Warum ueberhaupt regeln

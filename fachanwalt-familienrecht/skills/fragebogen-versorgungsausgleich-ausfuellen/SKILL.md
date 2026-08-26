@@ -1,6 +1,6 @@
 ---
 name: fragebogen-versorgungsausgleich-ausfuellen
-description: "Wenn es um Fragebogen Versorgungsausgleich Ausfuellen in Fachanwalt Familienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fragebogen Versorgungsausgleich Ausfüllen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fragebogen Versorgungsausgleich ausfüllen.

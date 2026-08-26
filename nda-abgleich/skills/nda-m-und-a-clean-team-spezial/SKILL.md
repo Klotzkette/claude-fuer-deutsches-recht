@@ -1,6 +1,6 @@
 ---
 name: nda-m-und-a-clean-team-spezial
-description: "Wenn es um NDA: M-and-A Clean-Team in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NDA: M-and-A Clean-Team: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA: M-and-A Clean-Team

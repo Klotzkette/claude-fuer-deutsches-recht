@@ -1,6 +1,6 @@
 ---
 name: dienstzeit-soldat-auf-zeit-berufssoldat-fwdl
-description: "Wenn es um Dienstzeit: Soldat auf Zeit, Berufssoldat, FWDL in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dienstzeit: Soldat auf Zeit, Berufssoldat, FWDL: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dienstzeit: Soldat auf Zeit, Berufssoldat, FWDL

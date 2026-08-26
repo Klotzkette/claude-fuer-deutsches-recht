@@ -1,6 +1,6 @@
 ---
 name: sicherheit-650m-fuenf-prozent-einbehalt-und-buergschaft
-description: "Wenn es um Paragraf 650m-Sicherheit, Einbehalt und Bürgschaft in Bauträgervertrag-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paragraf 650m-Sicherheit, Einbehalt und Bürgschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 650m-Sicherheit, Einbehalt und Bürgschaft

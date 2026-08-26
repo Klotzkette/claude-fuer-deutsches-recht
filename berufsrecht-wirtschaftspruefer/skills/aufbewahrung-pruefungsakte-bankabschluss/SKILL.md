@@ -1,6 +1,6 @@
 ---
 name: aufbewahrung-pruefungsakte-bankabschluss
-description: "Wenn es um Aufbewahrung Pruefungsakte Bankabschluss in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Aufbewahrung Prüfungsakte Bankabschluss: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: aufbewahrung prüfungsakte - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

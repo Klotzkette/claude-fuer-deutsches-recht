@@ -1,6 +1,6 @@
 ---
 name: md-gutachten-angreifen-befundbericht-und-gegengutachten
-description: "Wenn es um MD-Gutachten angreifen: Befundbericht und Gegengutachten in Krankenkassenrecht und Krankenversicherung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für MD-Gutachten angreifen: Befundbericht und Gegengutachten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MD-Gutachten angreifen: Befundbericht und Gegengutachten

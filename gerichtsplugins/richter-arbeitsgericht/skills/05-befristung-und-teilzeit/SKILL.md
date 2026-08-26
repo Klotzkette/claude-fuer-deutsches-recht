@@ -1,6 +1,6 @@
 ---
 name: 05-befristung-und-teilzeit
-description: "Wenn es um 05 Befristung und Teilzeit in Arbeitsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 05 Befristung und Teilzeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # 05 Befristung und Teilzeit

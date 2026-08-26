@@ -1,6 +1,6 @@
 ---
 name: bad-umbau-bodengleiche-dusche-sondereigentum
-description: "Wenn es um Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum

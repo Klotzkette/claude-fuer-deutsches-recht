@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-grunderwerbsteuer-share-deal-closing
-description: "Wenn es um Rechtsabteilung: Grunderwerbsteuer-Share-Deal-Closing in Steuerrecht – Steuerberater und Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Rechtsabteilung Grunderwerbsteuer Share Deal Closing; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Rechtsabteilung: Grunderwerbsteuer-Share-Deal-Closing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: rechtsabteilung-grunderwerbsteuer-share-deal-closing."
 ---
 
 # Rechtsabteilung: Grunderwerbsteuer-Share-Deal-Closing

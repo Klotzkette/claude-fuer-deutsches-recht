@@ -1,6 +1,6 @@
 ---
 name: professionals-retention-327
-description: "Wenn es um Professionals Retention Paragraf 327 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Professionals Retention Paragraf 327: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Professionals Retention § 327

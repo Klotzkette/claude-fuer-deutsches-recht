@@ -1,6 +1,6 @@
 ---
 name: quellenhierarchie
-description: "Wenn es um Quellenhierarchie: CIC, Katechismus, Partikularrecht, staatliches Recht in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quellenhierarchie: CIC, Katechismus, Partikularrecht, staatliches Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quellenhierarchie: CIC, Katechismus, Partikularrecht, staatliches Recht

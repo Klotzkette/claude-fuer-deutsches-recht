@@ -1,6 +1,6 @@
 ---
 name: roman-law-false-friends
-description: "Wenn es um Roman Law False Friends in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Roman Law False Friends: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Roman Law False Friends

@@ -1,6 +1,6 @@
 ---
 name: rechtsfolge-bestimmen-einreden-interaktiver
-description: "Wenn es um Rechtsfolge bestimmen in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsfolge bestimmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsfolge bestimmen

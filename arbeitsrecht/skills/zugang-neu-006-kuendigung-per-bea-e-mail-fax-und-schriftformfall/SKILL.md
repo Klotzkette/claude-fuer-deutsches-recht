@@ -1,6 +1,6 @@
 ---
 name: zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfall
-description: "Wenn es um Zugang Neu 006 Kuendigung Per Bea E Mail Fax Und Schriftformfall in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zugang Neu 006 Kündigung Per Bea E Mail Fax und Schriftformfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.

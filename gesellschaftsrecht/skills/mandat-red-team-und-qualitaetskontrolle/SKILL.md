@@ -1,6 +1,6 @@
 ---
 name: mandat-red-team-und-qualitaetskontrolle
-description: "Wenn es um Mandat: Red-Team und Qualitätskontrolle in Gesellschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandat: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Gesellschaftsrecht."
 ---
 
 # Mandat: Red-Team und Qualitätskontrolle

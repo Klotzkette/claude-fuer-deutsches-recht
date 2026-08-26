@@ -1,6 +1,6 @@
 ---
 name: nda-fuer-datenraum-clean-team
-description: "Wenn es um NDA Für Datenraum Clean Team in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für NDA für Datenraum Clean Team: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA Für Datenraum Clean Team

@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-ueberbaubare-flaeche-bauweise
-description: "Wenn es um Überbaubare Grundstücksflächen und Bauweise in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Überbaubare Grundstücksflächen und Bauweise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Überbaubare Grundstücksflächen und Bauweise

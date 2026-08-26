@@ -1,6 +1,6 @@
 ---
 name: stufenbeauftragung
-description: "Wenn es um HOAI Querschnitt: Prüft abruf in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für HOAI Querschnitt: Prüft abruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI Querschnitt: Prüft abruf

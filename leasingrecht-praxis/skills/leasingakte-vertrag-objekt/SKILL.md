@@ -1,6 +1,6 @@
 ---
 name: leasingakte-vertrag-objekt
-description: "Wenn es um Kaltstart: Leasingakte, Vertrag, Objekt, Zahlungsstrom in Leasingrecht Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Kaltstart: Leasingakte, Vertrag, Objekt, Zahlungsstrom: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart: Leasingakte, Vertrag, Objekt, Zahlungsstrom

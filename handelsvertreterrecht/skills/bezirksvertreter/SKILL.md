@@ -1,6 +1,6 @@
 ---
 name: bezirksvertreter
-description: "Wenn es um Bezirksvertreter nach Paragraf 87 Abs. 2 HGB — Gebietsschutz und Provisionsrechte in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bezirksvertreter nach Paragraf 87 Abs. 2 HGB — Gebietsschutz und Provisionsrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bezirksvertreter nach § 87 Abs. 2 HGB — Gebietsschutz und Provisionsrechte

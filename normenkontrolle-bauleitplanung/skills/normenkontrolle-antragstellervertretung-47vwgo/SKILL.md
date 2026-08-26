@@ -1,6 +1,6 @@
 ---
 name: normenkontrolle-antragstellervertretung-47vwgo
-description: "Wenn es um Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Normenkontrolle Antragstellervertretung 47vwgo; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
+description: "Für Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung

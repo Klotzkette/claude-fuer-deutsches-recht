@@ -1,6 +1,6 @@
 ---
 name: zahlungsdienste-zag-psd3-psr
-description: "Wenn es um Zahlungsdienste Zag Psd3 Psr in Bank-Rechtsabteilung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zahlungsdienste Zag Psd3 Psr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zahlungsdienste nach ZAG, PSD2-Folgefragen, PSD3- und PSR-Entwicklungen prüfen: Rollen, Erlaubnis, starke Kundenauthentifizierung, Haftung, Betrugsfälle und Beschwerdeantworten.

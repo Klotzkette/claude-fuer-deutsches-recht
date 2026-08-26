@@ -1,6 +1,6 @@
 ---
 name: owi-032-gewerberecht-frist-pruefen
-description: "Wenn es um Gewerberecht Frist Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gewerberecht Frist Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Ordnungswidrigkeitenrecht. Route: owi-032-gewerberecht-frist-pruefen."
 ---
 
 # Gewerberecht Frist Pruefen

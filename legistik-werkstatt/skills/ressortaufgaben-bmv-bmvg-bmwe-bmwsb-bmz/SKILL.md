@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmv-bmvg-bmwe-bmwsb-bmz
-description: "Wenn es um Ressortaufgaben BMV in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ressortaufgaben Bmv Bmvg Bmwe Bmwsb Bmz; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Ressortaufgaben BMV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: ressortaufgaben-bmv-bmvg-bmwe-bmwsb-bmz."
 ---
 
 # Ressortaufgaben BMV

@@ -1,6 +1,6 @@
 ---
 name: beschlussverfahren-72-owig
-description: "Wenn es um Beschlussverfahren 72 Owig in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschlussverfahren 72 Owig: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschlussverfahren 72 Owig

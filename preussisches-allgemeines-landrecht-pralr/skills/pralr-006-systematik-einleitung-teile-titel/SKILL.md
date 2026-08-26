@@ -1,6 +1,6 @@
 ---
 name: pralr-006-systematik-einleitung-teile-titel
-description: "Wenn es um Systematik in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 006 Systematik Einleitung Teile Titel; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Systematik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-006-systematik-einleitung-teile-titel."
 ---
 
 # Systematik

@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-transparenz-informationen
-description: "Wenn es um Transparenz und Informationen für Betreiber — Art. 13 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Hochrisiko Transparenz Informationen; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für Transparenz und Informationen für Betreiber — Art. 13 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: hochrisiko-transparenz-informationen."
 ---
 
 # Transparenz und Informationen für Betreiber — Art. 13 KI-VO

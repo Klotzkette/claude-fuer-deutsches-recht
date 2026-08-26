@@ -1,6 +1,6 @@
 ---
 name: geschaeftsgegenstand-erlaubnispflichten
-description: "Wenn es um Geschäftsgegenstand und Erlaubnispflichten in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geschäftsgegenstand und Erlaubnispflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Geschäftsgegenstand und Erlaubnispflichten
 

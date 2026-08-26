@@ -1,6 +1,6 @@
 ---
 name: evaluierung-befristung-verfahrensgang
-description: "Wenn es um NKR-Evaluierung, Befristung, Sunset-Klausel in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Evaluierung Befristung Verfahrensgang; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
+description: "Für NKR-Evaluierung, Befristung, Sunset-Klausel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Normenkontrollrat (NKR) — Prüfung von Gesetzentwürfen. Route: evaluierung-befristung-verfahrensgang."
 ---
 
 # NKR-Evaluierung, Befristung, Sunset-Klausel

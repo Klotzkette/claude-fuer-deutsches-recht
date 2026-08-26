@@ -1,6 +1,6 @@
 ---
 name: einstweiliger-rechtsschutz-ersatzkraefte
-description: "Wenn es um Einstweiliger Rechtsschutz Sozialgericht in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einstweiliger Rechtsschutz Sozialgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstweiliger Rechtsschutz Sozialgericht

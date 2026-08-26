@@ -1,6 +1,6 @@
 ---
 name: output-alltagssprache-de
-description: "Wenn es um Output: Alltagssprache (Deutsch) in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Output: Alltagssprache (Deutsch): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Output: Alltagssprache (Deutsch)

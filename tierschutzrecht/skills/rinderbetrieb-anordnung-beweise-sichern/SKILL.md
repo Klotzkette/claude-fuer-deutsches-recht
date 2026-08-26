@@ -1,6 +1,6 @@
 ---
 name: rinderbetrieb-anordnung-beweise-sichern
-description: "Wenn es um Rinderbetrieb Anordnung Angreifen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rinderbetrieb Anordnung Angreifen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Rinderbetrieb Anordnung Angreifen

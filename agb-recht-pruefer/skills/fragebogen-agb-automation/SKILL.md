@@ -1,6 +1,6 @@
 ---
 name: fragebogen-agb-automation
-description: "Wenn es um Fragebogen AGB Automation in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Fragebogen AGB Automation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fragebogen AGB Automation

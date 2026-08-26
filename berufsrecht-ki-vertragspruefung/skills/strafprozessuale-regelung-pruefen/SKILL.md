@@ -1,6 +1,6 @@
 ---
 name: strafprozessuale-regelung-pruefen
-description: "Wenn es um Strafprozessuale Regelung prüfen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Strafprozessuale Regelung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafprozessuale Regelung prüfen

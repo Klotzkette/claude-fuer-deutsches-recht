@@ -1,6 +1,6 @@
 ---
 name: energie-ladesaeulen-elektromobilitaet-rechtsmittel
-description: "Wenn es um Energie-Regulierungsakte: Ladesäulen Elektromobilität — Rechtsmittel-Check in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energie-Regulierungsakte: Ladesäulen Elektromobilität — Rechtsmittel-Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Energie-Regulierungsakte: Ladesäulen Elektromobilität — Rechtsmittel-Check

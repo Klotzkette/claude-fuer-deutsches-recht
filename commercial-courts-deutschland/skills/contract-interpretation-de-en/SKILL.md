@@ -1,6 +1,6 @@
 ---
 name: contract-interpretation-de-en
-description: "Wenn es um Contract Interpretation DE/EN in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Contract Interpretation DE/EN: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Contract Interpretation DE/EN

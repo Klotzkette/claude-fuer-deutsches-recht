@@ -1,6 +1,6 @@
 ---
 name: security-procurement-training-management
-description: "Wenn es um Security Procurement Tender in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Security Procurement Tender: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Security Procurement Tender

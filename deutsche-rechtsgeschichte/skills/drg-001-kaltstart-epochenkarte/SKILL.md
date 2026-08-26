@@ -1,6 +1,6 @@
 ---
 name: drg-001-kaltstart-epochenkarte
-description: "Wenn es um Kaltstart Epochenkarte in Deutsche Rechtsgeschichte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart Epochenkarte: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart Epochenkarte

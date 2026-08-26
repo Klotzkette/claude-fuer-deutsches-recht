@@ -1,6 +1,6 @@
 ---
 name: environmental-esg
-description: "Wenn es um Environmental ESG Compliance DD in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Environmental ESG Compliance DD: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Environmental ESG Compliance DD

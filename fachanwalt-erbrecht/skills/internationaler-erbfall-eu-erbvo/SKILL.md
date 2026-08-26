@@ -1,6 +1,6 @@
 ---
 name: internationaler-erbfall-eu-erbvo
-description: "Wenn es um Internationaler Erbfall EU Erbvo in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internationaler Erbfall EU Erbvo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationaler Erbfall: gewöhnlicher Aufenthalt, Rechtswahl, Europäisches Nachlasszeugnis, Auslandsvermögen und Grundbuch.

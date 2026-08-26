@@ -1,6 +1,6 @@
 ---
 name: sektor-telekommunikation-infrastruktur-sharing
-description: "Wenn es um Sektor Telekommunikation und Infrastructure Sharing in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sektor Telekommunikation und Infrastructure Sharing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sektor Telekommunikation und Infrastructure Sharing

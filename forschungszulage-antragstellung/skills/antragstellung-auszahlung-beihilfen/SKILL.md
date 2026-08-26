@@ -1,6 +1,6 @@
 ---
 name: antragstellung-auszahlung-beihilfen
-description: "Wenn es um Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Forschungszulage-Antragstellung. Route: antragstellung-auszahlung-beihilfen."
 ---
 
 # Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage

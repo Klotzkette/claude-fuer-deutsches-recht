@@ -1,6 +1,6 @@
 ---
 name: politische-motive-abgrenzen
-description: "Wenn es um Politische Motive abgrenzen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Politische Motive abgrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Politische Motive abgrenzen

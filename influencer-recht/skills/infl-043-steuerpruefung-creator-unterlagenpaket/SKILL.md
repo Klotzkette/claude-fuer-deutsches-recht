@@ -1,6 +1,6 @@
 ---
 name: infl-043-steuerpruefung-creator-unterlagenpaket
-description: "Wenn es um Influencer-Recht: Steuerprüfung Creator Unterlagenpaket in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Steuerprüfung Creator Unterlagenpaket: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Influencer-Recht: Steuerprüfung Creator Unterlagenpaket

@@ -1,6 +1,6 @@
 ---
 name: art-78-rechtsschutz-und-betroffenenbeschwerde
-description: "Wenn es um Art. 78 Rechtsschutz in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Art. 78 Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Art. 78 Rechtsschutz

@@ -1,6 +1,6 @@
 ---
 name: tier-021-hundehaltung-schutzbedarf-pruefen
-description: "Wenn es um Hundehaltung Schutzbedarf Pruefen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hundehaltung Schutzbedarf Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tierschutzrecht. Route: tier-021-hundehaltung-schutzbedarf-pruefen."
 ---
 
 # Hundehaltung Schutzbedarf Pruefen

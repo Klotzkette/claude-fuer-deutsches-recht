@@ -1,6 +1,6 @@
 ---
 name: immor-bauvertrag-vob-erbbaurecht-vertrag
-description: "Wenn es um ImmoR: Bauvertrag VOB BGB in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ImmoR: Bauvertrag VOB BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ImmoR: Bauvertrag VOB BGB

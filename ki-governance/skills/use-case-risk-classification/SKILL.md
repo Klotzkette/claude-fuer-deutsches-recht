@@ -1,6 +1,6 @@
 ---
 name: use-case-risk-classification
-description: "Wenn es um Use-Case-Risikoklassifizierung nach europäischer Technikregulierungsrahmen und DSGVO in Technik-Governance geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Use-Case-Risikoklassifizierung nach europäischer Technikregulierungsrahmen und DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Use-Case-Risikoklassifizierung nach KI-VO und DSGVO

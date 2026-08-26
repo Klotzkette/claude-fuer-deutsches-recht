@@ -1,6 +1,6 @@
 ---
 name: gerichtsfeste-akte
-description: "Wenn es um HOAI Querschnitt: Macht aus projektdaten eine prozessakte mit belegpfad und zeugenliste in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für HOAI Querschnitt: Macht aus projektdaten eine prozessakte mit belegpfad und zeugenliste: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI Querschnitt: Macht aus projektdaten eine prozessakte mit belegpfad und zeugenliste

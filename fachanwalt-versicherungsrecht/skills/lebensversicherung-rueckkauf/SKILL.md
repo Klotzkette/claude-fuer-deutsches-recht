@@ -1,6 +1,6 @@
 ---
 name: lebensversicherung-rueckkauf
-description: "Rechnet die Abrechnung nach Kündigung oder Beitragsfreistellung einer Lebens- oder Rentenversicherung nach. Trennt Deckungskapital, Zeitwert, Kosten, Stornoabzug, Überschüsse und Bewertungsreserven und formuliert die erforderliche Beleganforderung."
+description: "Rechnet die Abrechnung nach Kündigung oder Beitragsfreistellung einer Lebens- oder Rentenversicherung nach."
 ---
 
 # Abrechnung des Rückkaufswerts

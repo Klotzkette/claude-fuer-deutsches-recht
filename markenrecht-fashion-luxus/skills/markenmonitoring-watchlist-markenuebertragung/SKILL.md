@@ -1,6 +1,6 @@
 ---
 name: markenmonitoring-watchlist-markenuebertragung
-description: "Wenn es um Markenmonitoring und Watchlist-Dienste in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Markenmonitoring und Watchlist-Dienste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Markenmonitoring und Watchlist-Dienste

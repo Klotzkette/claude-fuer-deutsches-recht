@@ -1,6 +1,6 @@
 ---
 name: fertigstellungssicherheit-650m-pruefen
-description: "Wenn es um Fertigstellungssicherheit Paragraf 650m Absatz 2 BGB prüfen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fertigstellungssicherheit Paragraf 650m Absatz 2 BGB prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fertigstellungssicherheit Paragraf 650m Absatz 2 BGB prüfen

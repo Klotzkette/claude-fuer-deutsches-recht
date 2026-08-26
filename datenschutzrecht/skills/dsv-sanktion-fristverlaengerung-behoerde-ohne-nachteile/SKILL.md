@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-fristverlaengerung-behoerde-ohne-nachteile
-description: "Wenn es um Dsv Sanktion Fristverlaengerung Behoerde Ohne Nachteile in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dsv Sanktion Fristverlängerung Behörde ohne Nachteile: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Datenschutzrecht-Brückenskill: Fristverlängerung gegenüber Aufsicht: Fristverlängerung und Teilantwort beantragen, ohne Verzögerung oder Pflichtverletzung einzuräumen

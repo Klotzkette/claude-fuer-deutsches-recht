@@ -1,6 +1,6 @@
 ---
 name: lieferbindung-eigenmarken-und-einkaufsmacht
-description: "Wenn es um Franchise: Lieferbindung, Eigenmarken und Einkaufsmacht in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Franchise: Lieferbindung, Eigenmarken und Einkaufsmacht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise: Lieferbindung, Eigenmarken und Einkaufsmacht

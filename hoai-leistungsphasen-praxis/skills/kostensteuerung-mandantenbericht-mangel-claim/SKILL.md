@@ -1,6 +1,6 @@
 ---
 name: kostensteuerung-mandantenbericht-mangel-claim
-description: "Wenn es um LPH 9 Objektbetreuung: Prüft kostenermittlung in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LPH 9 Objektbetreuung: Prüft kostenermittlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # LPH 9 Objektbetreuung: Prüft kostenermittlung

@@ -1,6 +1,6 @@
 ---
 name: haftung-fuer-herabfallende-raketenstufen
-description: "Wenn es um Weltraumrecht: Haftung für herabfallende Raketenstufen in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Haftung für herabfallende Raketenstufen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Haftung für herabfallende Raketenstufen

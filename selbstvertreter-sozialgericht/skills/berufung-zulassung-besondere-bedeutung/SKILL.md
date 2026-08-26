@@ -1,6 +1,6 @@
 ---
 name: berufung-zulassung-besondere-bedeutung
-description: "Wenn es um Wenn die Wertgrenze nicht erreicht ist — Zulassung? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Wenn die Wertgrenze nicht erreicht ist — Zulassung?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wenn die Wertgrenze nicht erreicht ist — Zulassung?

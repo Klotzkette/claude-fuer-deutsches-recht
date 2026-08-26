@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-3a-estg-praxis-corporate
-description: "Wenn es um Sanierungsgewinn – Paragraf 3a EStG Praxis für Corporate/M&A in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungsgewinn – Paragraf 3a EStG Praxis für Corporate/M&A: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn – Paragraf 3a EStG Praxis für Corporate/M&A

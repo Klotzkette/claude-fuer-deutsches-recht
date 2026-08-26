@@ -1,6 +1,6 @@
 ---
 name: polen-tk-zasada-proporcjonalnosci
-description: "Wenn es um Polen TK Zasada Proporcjonalnosci in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Polen TK Zasada Proporcjonalnosci: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Polen TK Zasada Proporcjonalnosci

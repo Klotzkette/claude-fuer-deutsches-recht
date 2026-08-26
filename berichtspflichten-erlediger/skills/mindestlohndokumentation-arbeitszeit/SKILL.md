@@ -1,6 +1,6 @@
 ---
 name: mindestlohndokumentation-arbeitszeit
-description: "Wenn es um Mindestlohn und Arbeitszeitdokumentation in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mindestlohn und Arbeitszeitdokumentation: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mindestlohn und Arbeitszeitdokumentation

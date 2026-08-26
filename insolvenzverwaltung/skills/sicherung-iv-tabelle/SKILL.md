@@ -1,6 +1,6 @@
 ---
 name: sicherung-iv-tabelle
-description: "Wenn es um Sicherung und Betriebsfortführung in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sicherung und Betriebsfortführung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sicherung und Betriebsfortführung

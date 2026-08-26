@@ -1,6 +1,6 @@
 ---
 name: ki-in-abschlusspruefung-kammerantwort-und-verhaeltnismaessigkeit
-description: "Wenn es um Ki In Abschlusspruefung Kammerantwort Und Verhaeltnismaessigkeit in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Ki in Abschlussprüfung Kammerantwort und Verhältnismäßigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: ki in abschlusspruefung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

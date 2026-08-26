@@ -1,6 +1,6 @@
 ---
 name: materialienarbeit-ohne-blindzitat
-description: "Wenn es um Materialienarbeit ohne Blindzitat in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Materialienarbeit ohne Blindzitat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Materialienarbeit ohne Blindzitat

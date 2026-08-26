@@ -1,6 +1,6 @@
 ---
 name: policy-db-abschlussmemo
-description: "Wenn es um Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung

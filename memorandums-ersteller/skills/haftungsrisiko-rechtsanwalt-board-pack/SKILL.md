@@ -1,6 +1,6 @@
 ---
 name: haftungsrisiko-rechtsanwalt-board-pack
-description: "Wenn es um Haftungsrisiko-Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Haftungsrisiko-Memo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haftungsrisiko-Memo

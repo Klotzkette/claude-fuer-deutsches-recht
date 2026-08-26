@@ -1,6 +1,6 @@
 ---
 name: sichern-sprache-standard
-description: "Wenn es um Sichern: Internationaler Bezug und Schnittstellen in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sichern Sprache Standard; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
+description: "Für Sichern: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sichern: Internationaler Bezug und Schnittstellen

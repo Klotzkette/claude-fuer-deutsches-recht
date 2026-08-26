@@ -1,6 +1,6 @@
 ---
 name: ddr-recht-und-sozialistische-gesetzlichkeit
-description: "Wenn es um DDR-Recht und sozialistische Gesetzlichkeit in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DDR-Recht und sozialistische Gesetzlichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DDR-Recht und sozialistische Gesetzlichkeit

@@ -1,6 +1,6 @@
 ---
 name: reguliertes-geschaeftsmodell
-description: "Wenn es um Reguliertes Geschäftsmodell in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Reguliertes Geschäftsmodell: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reguliertes Geschäftsmodell

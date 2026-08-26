@@ -1,6 +1,6 @@
 ---
 name: luft-060-registerpfandrecht-mandantenmemo-schre
-description: "Wenn es um Registerpfandrecht Mandantenmemo Schre in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Registerpfandrecht Mandantenmemo Schre: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Registerpfandrecht Mandantenmemo Schre

@@ -1,6 +1,6 @@
 ---
 name: rechtsanwendung-tatbestand-beweis-und-belege
-description: "Wenn es um Rechtsanwendung Tatbestand Beweis Und Belege in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Rechtsanwendung Tatbestand Beweis und Belege: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Dieses Skill leitet die vollständige Rechtsanwendung vom Tatbestand bis zur Beweisführung und Belegsicherung an
@@ -98,3 +98,7 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-rechtsanwendung-tatbestand-beweis-und-belege` beziehungsweise Rechtsanwendung: Tatbestandsmerkmale, Beweisfragen und Beleglage: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-rechtsanwendung-tatbestand-beweis-und-belege.md).

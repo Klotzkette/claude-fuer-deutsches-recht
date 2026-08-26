@@ -1,6 +1,6 @@
 ---
 name: pflichtenkollision-shift-restructuring-lounge
-description: "Wenn es um Pflichtenkollision und Shift of Fiduciary Duties in der Krise in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pflichtenkollision und Shift of Fiduciary Duties in der Krise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflichtenkollision und Shift of Fiduciary Duties in der Krise

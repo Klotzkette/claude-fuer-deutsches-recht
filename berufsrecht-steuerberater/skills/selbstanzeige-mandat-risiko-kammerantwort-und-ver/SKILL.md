@@ -1,6 +1,6 @@
 ---
 name: selbstanzeige-mandat-risiko-kammerantwort-und-ver
-description: "Wenn es um Selbstanzeige Mandat Risiko Kammerantwort Und Ver in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Selbstanzeige Mandat Risiko Kammerantwort und Ver: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: selbstanzeige mandat risiko - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: export
-description: "Wenn es um Export: Schriftsatz-, Brief- und Memo-Bausteine in Liquiditätsplanung — Power geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Export: Schriftsatz-, Brief- und Memo-Bausteine: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Export: Schriftsatz-, Brief- und Memo-Bausteine

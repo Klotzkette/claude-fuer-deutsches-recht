@@ -1,6 +1,6 @@
 ---
 name: grundschuld-bestellung-buchgrundschuld
-description: "Wenn es um Buchgrundschuld bestellen in Grundbuchamt Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Buchgrundschuld bestellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Buchgrundschuld bestellen

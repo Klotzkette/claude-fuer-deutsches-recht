@@ -1,6 +1,6 @@
 ---
 name: vg-anfechtungsklage-20-bdsg
-description: "Wenn es um Anfechtungsklage nach Paragraf 20 BDSG in Datenschutz-Sanktionsverfahren und Verteidigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anfechtungsklage nach Paragraf 20 BDSG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Anfechtungsklage nach § 20 BDSG

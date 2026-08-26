@@ -1,6 +1,6 @@
 ---
 name: inkassokosten-konzerninkasso-jugendamt
-description: "Wenn es um Inkassokosten Konzerninkasso Verzug in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Inkassokosten Konzerninkasso Verzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Inkassokosten Konzerninkasso Verzug

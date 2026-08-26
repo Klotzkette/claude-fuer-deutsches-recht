@@ -1,6 +1,6 @@
 ---
 name: klimaklagen-verbandsklage-umwrg
-description: "Wenn es um Klimaklagen und Verbandsklagen nach UmwRG in Umweltrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klimaklagen und Verbandsklagen nach UmwRG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klimaklagen und Verbandsklagen nach UmwRG

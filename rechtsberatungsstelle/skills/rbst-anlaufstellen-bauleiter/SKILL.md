@@ -1,6 +1,6 @@
 ---
 name: rbst-anlaufstellen-bauleiter
-description: "Wenn es um RBst: Anlaufstellen Bauleiter in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für RBst: Anlaufstellen Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # RBst: Anlaufstellen Bauleiter

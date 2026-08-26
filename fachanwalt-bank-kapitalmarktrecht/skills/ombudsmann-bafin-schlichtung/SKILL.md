@@ -1,6 +1,6 @@
 ---
 name: ombudsmann-bafin-schlichtung
-description: "Wenn es um Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen in Fachanwalt Bank Kapitalmarktrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen

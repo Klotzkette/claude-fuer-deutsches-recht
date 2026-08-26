@@ -1,6 +1,6 @@
 ---
 name: lizenzvertrag-mini
-description: "Wenn es um IP Content und Arbeitsergebnisse: Erstellt kleine lizenz mit laufzeit in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IP Content und Arbeitsergebnisse: Erstellt kleine lizenz mit laufzeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IP Content und Arbeitsergebnisse: Erstellt kleine lizenz mit laufzeit

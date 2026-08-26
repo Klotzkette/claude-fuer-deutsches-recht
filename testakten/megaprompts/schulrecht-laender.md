@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 101 Skills des Plugins `schulrecht-laende
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Schulrecht Länder ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet …
-2. **kaltstart-triage** — Wenn es um Allgemein in Schulrecht der Bundesländer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächste…
-3. **schulrecht-hausunterricht-schulsozialarbeit** — Wenn es um Hausunterricht, Ruhen der Schulpflicht und Schulverweigerung in Schulrecht der Bundesländer geht: entwickelt …
-4. **schulaufsicht-akteneinsicht-eltern** — Wenn es um Schulaufsicht und Akteneinsicht der Eltern in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, L…
-5. **widerspruch-und-eilrechtsschutz-schule** — Wenn es um Widerspruch Und Eilrechtsschutz Schule in Schulrecht der Bundesländer geht: erstellt den passenden Entwurf au…
-6. **gewaltschutz-und-schulischer-schutzplan** — Wenn es um Gewaltschutz und schulischer Schutzplan in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lück…
-7. **schulhund-allergie-schulische-ordnungsakte** — Wenn es um Schulhund, Allergie und Sicherheit in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken un…
-8. **oberstufenwahl-kursbelegung** — Wenn es um Oberstufenwahl und Kursbelegung in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und N…
-9. **ki-plagiat-hausarbeit-schule** — Wenn es um digitale Werkzeuge, Plagiat und Hausarbeit Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zus…
-10. **zeugnisbemerkung-arbeits-sozialverhalten** — Wenn es um Zeugnisbemerkung Arbeits- und Sozialverhalten in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständ…
+2. **kaltstart-triage** — Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. F…
+3. **schulrecht-hausunterricht-schulsozialarbeit** — Für Hausunterricht, Ruhen der Schulpflicht und Schulverweigerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: P…
+4. **zeugnisbemerkung-arbeits-sozialverhalten** — Für Zeugnisbemerkung Arbeits- und Sozialverhalten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenka…
+5. **hausaufgaben-und-betreuungspflichten** — Für Hausaufgaben und Betreuungspflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Z…
+6. **schultraeger-gebaeude-und-ausstattung** — Für Schulträger Gebäude und Ausstattung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zu…
+7. **ki-plagiat-hausarbeit-schule** — Für digitale Werkzeuge, Plagiat und Hausarbeit Schule: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt …
+8. **schulpflicht-und-schulversaeumnis** — Für Schulpflicht und Schulversäumnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zustä…
+9. **schulbusaufsicht-und-befoerderungssicherheit** — Für Schulbusaufsicht und Beförderungssicherheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
+10. **auslandsschule-rueckkehr** — Für Auslandsschule und Rückkehr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigk…
 
 ---
 
@@ -138,7 +138,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Allgemein in Schulrecht der Bundesländer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Schulrecht der Bundesländer._
 
 # Allgemein
 
@@ -215,7 +215,7 @@ Erzeuge bevorzugt: Fallfahrplan Schulrecht. Am Ende immer drei Zeilen: **Frist**
 
 ## Skill: `schulrecht-hausunterricht-schulsozialarbeit`
 
-_Wenn es um Hausunterricht, Ruhen der Schulpflicht und Schulverweigerung in Schulrecht der Bundesländer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
+_Für Hausunterricht, Ruhen der Schulpflicht und Schulverweigerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Hausunterricht, Ruhen der Schulpflicht und Schulverweigerung
 
@@ -281,11 +281,11 @@ Hausunterricht, Ruhen der Schulpflicht und Schulverweigerung wird als eigenstän
 
 ---
 
-## Skill: `schulaufsicht-akteneinsicht-eltern`
+## Skill: `zeugnisbemerkung-arbeits-sozialverhalten`
 
-_Wenn es um Schulaufsicht und Akteneinsicht der Eltern in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Zeugnisbemerkung Arbeits- und Sozialverhalten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Schulaufsicht und Akteneinsicht der Eltern
+# Zeugnisbemerkung Arbeits- und Sozialverhalten
 
 ## Arbeitsweg
 
@@ -295,18 +295,18 @@ _Wenn es um Schulaufsicht und Akteneinsicht der Eltern in Schulrecht der Bundesl
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Schulaufsicht und Akteneinsicht der Eltern
+## Fachkern: Zeugnisbemerkung Arbeits- und Sozialverhalten
 - **Normen-/Quellenanker:** Schulgesetz des Bundeslands, Schulordnung, VwVfG/VwGO, Grundrechte, Inklusions-/SGB-IX-Schnittstellen, Datenschutz und kommunale Satzung.
 - **Entscheidende Weiche:** Bestimme Bundesland, Schulform, Verwaltungsakt/Realakt, Frist, pädagogischen Beurteilungsspielraum, Kindeswohl und gerichtlichen Eilbedarf.
 
 ## Wofür dieser Arbeitsgang da ist
 
-Schulaufsicht und Akteneinsicht der Eltern wird als eigenständiger schulrechtlicher Arbeitsgang geführt: zuerst Landesrecht und Schulform bestimmen, dann Verwaltungsakt, pädagogische Wertung, Grundrechtsbezug, Frist und Belege trennen, damit Eltern, Schule oder Behörde aus unvollständigen Unterlagen eine belastbare Prüfspur erhalten.
+Zeugnisbemerkung Arbeits- und Sozialverhalten wird als eigenständiger schulrechtlicher Arbeitsgang geführt: zuerst Landesrecht und Schulform bestimmen, dann Verwaltungsakt, pädagogische Wertung, Grundrechtsbezug, Frist und Belege trennen, damit Eltern, Schule oder Behörde aus unvollständigen Unterlagen eine belastbare Prüfspur erhalten.
 
 ## Spezialfokus
 
-- **Konkreter Auftrag:** Prüft Akteneinsicht, Schulaufsichtsbeschwerde und Informationsrechte.
-- **Erste Trennlinie:** Ist das Problem wirklich Schulaufsicht und Akteneinsicht der Eltern, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Konkreter Auftrag:** Prüft Kopfnoten, Bemerkungen, Sozialverhalten und Löschung/Änderung im Zeugnis.
+- **Erste Trennlinie:** Ist das Problem wirklich Zeugnisbemerkung Arbeits- und Sozialverhalten, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
 - **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
@@ -349,11 +349,11 @@ Schulaufsicht und Akteneinsicht der Eltern wird als eigenständiger schulrechtli
 
 ---
 
-## Skill: `widerspruch-und-eilrechtsschutz-schule`
+## Skill: `hausaufgaben-und-betreuungspflichten`
 
-_Wenn es um Widerspruch Und Eilrechtsschutz Schule in Schulrecht der Bundesländer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Hausaufgaben und Betreuungspflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Widerspruch Und Eilrechtsschutz Schule
+# Hausaufgaben und Betreuungspflichten
 
 ## Arbeitsweg
 
@@ -363,20 +363,88 @@ _Wenn es um Widerspruch Und Eilrechtsschutz Schule in Schulrecht der Bundesländ
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Widerspruch Und Eilrechtsschutz Schule
+## Fachkern: Hausaufgaben und Betreuungspflichten
 - **Normen-/Quellenanker:** Schulgesetz des Bundeslands, Schulordnung, VwVfG/VwGO, Grundrechte, Inklusions-/SGB-IX-Schnittstellen, Datenschutz und kommunale Satzung.
 - **Entscheidende Weiche:** Bestimme Bundesland, Schulform, Verwaltungsakt/Realakt, Frist, pädagogischen Beurteilungsspielraum, Kindeswohl und gerichtlichen Eilbedarf.
 
 ## Wofür dieser Arbeitsgang da ist
 
-Rechtsbehelf, Frist, Sofortvollzug, Anordnungsgrund, Kindeswohl und Schulalltag.
+Hausaufgaben und Betreuungspflichten wird als eigenständiger schulrechtlicher Arbeitsgang geführt: zuerst Landesrecht und Schulform bestimmen, dann Verwaltungsakt, pädagogische Wertung, Grundrechtsbezug, Frist und Belege trennen, damit Eltern, Schule oder Behörde aus unvollständigen Unterlagen eine belastbare Prüfspur erhalten.
+
+## Spezialfokus
+
+- **Konkreter Auftrag:** Prüft Hausaufgaben, Lernzeiten, Ganztag, Zumutbarkeit und pädagogischen Spielraum.
+- **Erste Trennlinie:** Ist das Problem wirklich Hausaufgaben und Betreuungspflichten, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
+- **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
+- **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
+
+### Typische Fallen in diesem Gebiet
+
+- Erziehungsmaßnahme, Ordnungsmaßnahme, Verwaltungsakt und bloße pädagogische Einschätzung nicht vermengen.
+- Bundesland, Schulart, Schulträger und aktuelle Verordnung zuerst feststellen; Schulrecht ist hier fast nie bundesweit einheitlich.
+- Elternrechte, Schülerrechte, Datenschutz, Kindeswohl und pädagogischen Spielraum sichtbar voneinander trennen.
+- Bei Konflikten immer prüfen, ob ein Gespräch, ein Antrag, eine Beschwerde, Widerspruch oder Eilrechtsschutz der passende nächste Schritt ist.
+
+## Kaltstartfragen
+
+- In welchem Bundesland und bei welcher konkreten Einrichtung spielt der Fall?
+- Welche Entscheidung, Maßnahme, Satzung, Ordnung, E-Mail oder welches Protokoll liegt wirklich vor?
+- Welche Frist läuft, wann wurde bekanntgegeben und gibt es bereits Widerspruch, Remonstration, Antrag, Beschwerde oder Eilverfahren?
+- Welche Tatsachen sind durch Aktenstücke belegt und welche sind nur Erzählstand?
+- Welches Ziel soll erreicht werden: Aufhebung, Neubescheidung, Duldung, Gesprächslösung, Vergleich, Akteneinsicht oder nur Risikoeinschätzung?
+
+## Prüfprogramm
+
+1. **Normhierarchie trennen:** Landesschulgesetz, Schulverordnung, Erlasslage, Schulordnung, Bescheid und VwGO nicht vermischen; die konkrete Ordnung und den Bescheid immer zuerst lesen.
+2. **Zuständigkeit und Verfahren prüfen:** Wer durfte entscheiden, wer musste beteiligt werden, welches Gremium war zuständig und welche Anhörung fehlt möglicherweise?
+3. **Materielle Grenze bestimmen:** Ermessen, Beurteilungs- oder Bewertungsspielraum respektieren, aber Willkür, Verfahrensfehler, Gleichbehandlung, Grundrechte und Verhältnismäßigkeit sauber herausarbeiten.
+4. **Beweisroute bauen:** Aktenstück, Protokoll, Chat, E-Mail, Attest, Bewertungsbogen, Satzungsauszug oder amtliche Quelle jeder Tatsachenbehauptung zuordnen.
+5. **Nächsten Schritt liefern:** knappe Lageeinschätzung, Fristenliste, Antrag, Widerspruch, Remonstration, Eilantragsgerüst, Gesprächsleitfaden oder Beschluss-/Bescheidkritik.
+
+## Fachliche Leitplanken
+
+- Landesrecht und Satzungsrecht sind dynamisch; vor einer konkreten Ausgabe müssen aktuelle amtliche Quellen oder Originalordnungen geprüft werden.
+- Rechtsprechung nur zitieren, wenn Gericht, Datum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- Keine pauschalen Aussagen wie "immer rechtswidrig" oder "pädagogisch nicht angreifbar"; entscheidend sind Verfahrensspur, Dokumentation, Gleichbehandlung und konkrete Rechtsgrundlage.
+
+## Output-Muster
+
+- **Sofortlage:** Was ist entschieden, was läuft, was droht?
+- **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
+- **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
+- **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
+
+---
+
+## Skill: `schultraeger-gebaeude-und-ausstattung`
+
+_Für Schulträger Gebäude und Ausstattung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Schultraeger Gebaeude Und Ausstattung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Schultraeger Gebaeude Und Ausstattung
+- **Normen-/Quellenanker:** Schulgesetz des Bundeslands, Schulordnung, VwVfG/VwGO, Grundrechte, Inklusions-/SGB-IX-Schnittstellen, Datenschutz und kommunale Satzung.
+- **Entscheidende Weiche:** Bestimme Bundesland, Schulform, Verwaltungsakt/Realakt, Frist, pädagogischen Beurteilungsspielraum, Kindeswohl und gerichtlichen Eilbedarf.
+
+## Wofür dieser Arbeitsgang da ist
+
+Zuständigkeit Schule/Träger, Sanierung, Brandschutz, digitale Ausstattung, Barrierefreiheit.
 
 Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
 ## Spezialfokus
 
-- **Konkreter Auftrag:** Baut Widerspruch und Eilantrag im Schulrecht.
-- **Erste Trennlinie:** Ist das Problem wirklich Widerspruch Und Eilrechtsschutz Schule, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Konkreter Auftrag:** Prüft Schulträgerpflichten für Gebäude, Ausstattung und Barrierefreiheit.
+- **Erste Trennlinie:** Ist das Problem wirklich Schultraeger Gebaeude Und Ausstattung, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
 - **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
@@ -406,7 +474,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 
 ## Fachanker
 
-- Primäre Anker: VwGO; Landesrecht Rechtsbehelf.
+- Primäre Anker: Kommunalrecht; Schulrecht; Bau/Arbeitsschutz.
 - Landesrecht, aktuelle Satzungen und Prüfungsordnungen immer live aus amtlichen Portalen oder Originaldokumenten prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei überprüfbarer Quelle nennen.
 
@@ -419,217 +487,13 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 
 ## Ergebnisformat
 
-Erzeuge bevorzugt: Eilantragsgerüst. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
-
----
-
-## Skill: `gewaltschutz-und-schulischer-schutzplan`
-
-_Wenn es um Gewaltschutz und schulischer Schutzplan in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Gewaltschutz und schulischer Schutzplan
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Gewaltschutz und schulischer Schutzplan
-- **Normen-/Quellenanker:** Schulgesetz des Bundeslands, Schulordnung, VwVfG/VwGO, Grundrechte, Inklusions-/SGB-IX-Schnittstellen, Datenschutz und kommunale Satzung.
-- **Entscheidende Weiche:** Bestimme Bundesland, Schulform, Verwaltungsakt/Realakt, Frist, pädagogischen Beurteilungsspielraum, Kindeswohl und gerichtlichen Eilbedarf.
-
-## Wofür dieser Arbeitsgang da ist
-
-Gewaltschutz und schulischer Schutzplan wird als eigenständiger schulrechtlicher Arbeitsgang geführt: zuerst Landesrecht und Schulform bestimmen, dann Verwaltungsakt, pädagogische Wertung, Grundrechtsbezug, Frist und Belege trennen, damit Eltern, Schule oder Behörde aus unvollständigen Unterlagen eine belastbare Prüfspur erhalten.
-
-## Spezialfokus
-
-- **Konkreter Auftrag:** Prüft Schutzplan, Trennung der Beteiligten, Aufsicht und Dokumentation bei Gewalt.
-- **Erste Trennlinie:** Ist das Problem wirklich Gewaltschutz und schulischer Schutzplan, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
-- **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
-- **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
-- **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
-
-### Typische Fallen in diesem Gebiet
-
-- Erziehungsmaßnahme, Ordnungsmaßnahme, Verwaltungsakt und bloße pädagogische Einschätzung nicht vermengen.
-- Bundesland, Schulart, Schulträger und aktuelle Verordnung zuerst feststellen; Schulrecht ist hier fast nie bundesweit einheitlich.
-- Elternrechte, Schülerrechte, Datenschutz, Kindeswohl und pädagogischen Spielraum sichtbar voneinander trennen.
-- Bei Konflikten immer prüfen, ob ein Gespräch, ein Antrag, eine Beschwerde, Widerspruch oder Eilrechtsschutz der passende nächste Schritt ist.
-
-## Kaltstartfragen
-
-- In welchem Bundesland und bei welcher konkreten Einrichtung spielt der Fall?
-- Welche Entscheidung, Maßnahme, Satzung, Ordnung, E-Mail oder welches Protokoll liegt wirklich vor?
-- Welche Frist läuft, wann wurde bekanntgegeben und gibt es bereits Widerspruch, Remonstration, Antrag, Beschwerde oder Eilverfahren?
-- Welche Tatsachen sind durch Aktenstücke belegt und welche sind nur Erzählstand?
-- Welches Ziel soll erreicht werden: Aufhebung, Neubescheidung, Duldung, Gesprächslösung, Vergleich, Akteneinsicht oder nur Risikoeinschätzung?
-
-## Prüfprogramm
-
-1. **Normhierarchie trennen:** Landesschulgesetz, Schulverordnung, Erlasslage, Schulordnung, Bescheid und VwGO nicht vermischen; die konkrete Ordnung und den Bescheid immer zuerst lesen.
-2. **Zuständigkeit und Verfahren prüfen:** Wer durfte entscheiden, wer musste beteiligt werden, welches Gremium war zuständig und welche Anhörung fehlt möglicherweise?
-3. **Materielle Grenze bestimmen:** Ermessen, Beurteilungs- oder Bewertungsspielraum respektieren, aber Willkür, Verfahrensfehler, Gleichbehandlung, Grundrechte und Verhältnismäßigkeit sauber herausarbeiten.
-4. **Beweisroute bauen:** Aktenstück, Protokoll, Chat, E-Mail, Attest, Bewertungsbogen, Satzungsauszug oder amtliche Quelle jeder Tatsachenbehauptung zuordnen.
-5. **Nächsten Schritt liefern:** knappe Lageeinschätzung, Fristenliste, Antrag, Widerspruch, Remonstration, Eilantragsgerüst, Gesprächsleitfaden oder Beschluss-/Bescheidkritik.
-
-## Fachliche Leitplanken
-
-- Landesrecht und Satzungsrecht sind dynamisch; vor einer konkreten Ausgabe müssen aktuelle amtliche Quellen oder Originalordnungen geprüft werden.
-- Rechtsprechung nur zitieren, wenn Gericht, Datum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
-- Keine pauschalen Aussagen wie "immer rechtswidrig" oder "pädagogisch nicht angreifbar"; entscheidend sind Verfahrensspur, Dokumentation, Gleichbehandlung und konkrete Rechtsgrundlage.
-
-## Output-Muster
-
-- **Sofortlage:** Was ist entschieden, was läuft, was droht?
-- **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
-- **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
-- **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
-
----
-
-## Skill: `schulhund-allergie-schulische-ordnungsakte`
-
-_Wenn es um Schulhund, Allergie und Sicherheit in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Schulhund, Allergie und Sicherheit
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Schulhund, Allergie und Sicherheit
-- **Normen-/Quellenanker:** Schulgesetz des Bundeslands, Schulordnung, VwVfG/VwGO, Grundrechte, Inklusions-/SGB-IX-Schnittstellen, Datenschutz und kommunale Satzung.
-- **Entscheidende Weiche:** Bestimme Bundesland, Schulform, Verwaltungsakt/Realakt, Frist, pädagogischen Beurteilungsspielraum, Kindeswohl und gerichtlichen Eilbedarf.
-
-## Wofür dieser Arbeitsgang da ist
-
-Schulhund, Allergie und Sicherheit wird als eigenständiger schulrechtlicher Arbeitsgang geführt: zuerst Landesrecht und Schulform bestimmen, dann Verwaltungsakt, pädagogische Wertung, Grundrechtsbezug, Frist und Belege trennen, damit Eltern, Schule oder Behörde aus unvollständigen Unterlagen eine belastbare Prüfspur erhalten.
-
-## Spezialfokus
-
-- **Konkreter Auftrag:** Prüft Schulhundkonzept, Allergien, Angst, Aufsicht, Versicherung und Elternrechte.
-- **Erste Trennlinie:** Ist das Problem wirklich Schulhund, Allergie und Sicherheit, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
-- **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
-- **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
-- **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
-
-### Typische Fallen in diesem Gebiet
-
-- Erziehungsmaßnahme, Ordnungsmaßnahme, Verwaltungsakt und bloße pädagogische Einschätzung nicht vermengen.
-- Bundesland, Schulart, Schulträger und aktuelle Verordnung zuerst feststellen; Schulrecht ist hier fast nie bundesweit einheitlich.
-- Elternrechte, Schülerrechte, Datenschutz, Kindeswohl und pädagogischen Spielraum sichtbar voneinander trennen.
-- Bei Konflikten immer prüfen, ob ein Gespräch, ein Antrag, eine Beschwerde, Widerspruch oder Eilrechtsschutz der passende nächste Schritt ist.
-
-## Kaltstartfragen
-
-- In welchem Bundesland und bei welcher konkreten Einrichtung spielt der Fall?
-- Welche Entscheidung, Maßnahme, Satzung, Ordnung, E-Mail oder welches Protokoll liegt wirklich vor?
-- Welche Frist läuft, wann wurde bekanntgegeben und gibt es bereits Widerspruch, Remonstration, Antrag, Beschwerde oder Eilverfahren?
-- Welche Tatsachen sind durch Aktenstücke belegt und welche sind nur Erzählstand?
-- Welches Ziel soll erreicht werden: Aufhebung, Neubescheidung, Duldung, Gesprächslösung, Vergleich, Akteneinsicht oder nur Risikoeinschätzung?
-
-## Prüfprogramm
-
-1. **Normhierarchie trennen:** Landesschulgesetz, Schulverordnung, Erlasslage, Schulordnung, Bescheid und VwGO nicht vermischen; die konkrete Ordnung und den Bescheid immer zuerst lesen.
-2. **Zuständigkeit und Verfahren prüfen:** Wer durfte entscheiden, wer musste beteiligt werden, welches Gremium war zuständig und welche Anhörung fehlt möglicherweise?
-3. **Materielle Grenze bestimmen:** Ermessen, Beurteilungs- oder Bewertungsspielraum respektieren, aber Willkür, Verfahrensfehler, Gleichbehandlung, Grundrechte und Verhältnismäßigkeit sauber herausarbeiten.
-4. **Beweisroute bauen:** Aktenstück, Protokoll, Chat, E-Mail, Attest, Bewertungsbogen, Satzungsauszug oder amtliche Quelle jeder Tatsachenbehauptung zuordnen.
-5. **Nächsten Schritt liefern:** knappe Lageeinschätzung, Fristenliste, Antrag, Widerspruch, Remonstration, Eilantragsgerüst, Gesprächsleitfaden oder Beschluss-/Bescheidkritik.
-
-## Fachliche Leitplanken
-
-- Landesrecht und Satzungsrecht sind dynamisch; vor einer konkreten Ausgabe müssen aktuelle amtliche Quellen oder Originalordnungen geprüft werden.
-- Rechtsprechung nur zitieren, wenn Gericht, Datum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
-- Keine pauschalen Aussagen wie "immer rechtswidrig" oder "pädagogisch nicht angreifbar"; entscheidend sind Verfahrensspur, Dokumentation, Gleichbehandlung und konkrete Rechtsgrundlage.
-
-## Output-Muster
-
-- **Sofortlage:** Was ist entschieden, was läuft, was droht?
-- **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
-- **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
-- **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
-
----
-
-## Skill: `oberstufenwahl-kursbelegung`
-
-_Wenn es um Oberstufenwahl und Kursbelegung in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Oberstufenwahl und Kursbelegung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Oberstufenwahl und Kursbelegung
-- **Normen-/Quellenanker:** Schulgesetz des Bundeslands, Schulordnung, VwVfG/VwGO, Grundrechte, Inklusions-/SGB-IX-Schnittstellen, Datenschutz und kommunale Satzung.
-- **Entscheidende Weiche:** Bestimme Bundesland, Schulform, Verwaltungsakt/Realakt, Frist, pädagogischen Beurteilungsspielraum, Kindeswohl und gerichtlichen Eilbedarf.
-
-## Wofür dieser Arbeitsgang da ist
-
-Oberstufenwahl und Kursbelegung wird als eigenständiger schulrechtlicher Arbeitsgang geführt: zuerst Landesrecht und Schulform bestimmen, dann Verwaltungsakt, pädagogische Wertung, Grundrechtsbezug, Frist und Belege trennen, damit Eltern, Schule oder Behörde aus unvollständigen Unterlagen eine belastbare Prüfspur erhalten.
-
-## Spezialfokus
-
-- **Konkreter Auftrag:** Prüft Kurswahlen, Umwahl, Belegpflichten und Laufbahnfolgen.
-- **Erste Trennlinie:** Ist das Problem wirklich Oberstufenwahl und Kursbelegung, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
-- **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
-- **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
-- **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
-
-### Typische Fallen in diesem Gebiet
-
-- Erziehungsmaßnahme, Ordnungsmaßnahme, Verwaltungsakt und bloße pädagogische Einschätzung nicht vermengen.
-- Bundesland, Schulart, Schulträger und aktuelle Verordnung zuerst feststellen; Schulrecht ist hier fast nie bundesweit einheitlich.
-- Elternrechte, Schülerrechte, Datenschutz, Kindeswohl und pädagogischen Spielraum sichtbar voneinander trennen.
-- Bei Konflikten immer prüfen, ob ein Gespräch, ein Antrag, eine Beschwerde, Widerspruch oder Eilrechtsschutz der passende nächste Schritt ist.
-
-## Kaltstartfragen
-
-- In welchem Bundesland und bei welcher konkreten Einrichtung spielt der Fall?
-- Welche Entscheidung, Maßnahme, Satzung, Ordnung, E-Mail oder welches Protokoll liegt wirklich vor?
-- Welche Frist läuft, wann wurde bekanntgegeben und gibt es bereits Widerspruch, Remonstration, Antrag, Beschwerde oder Eilverfahren?
-- Welche Tatsachen sind durch Aktenstücke belegt und welche sind nur Erzählstand?
-- Welches Ziel soll erreicht werden: Aufhebung, Neubescheidung, Duldung, Gesprächslösung, Vergleich, Akteneinsicht oder nur Risikoeinschätzung?
-
-## Prüfprogramm
-
-1. **Normhierarchie trennen:** Landesschulgesetz, Schulverordnung, Erlasslage, Schulordnung, Bescheid und VwGO nicht vermischen; die konkrete Ordnung und den Bescheid immer zuerst lesen.
-2. **Zuständigkeit und Verfahren prüfen:** Wer durfte entscheiden, wer musste beteiligt werden, welches Gremium war zuständig und welche Anhörung fehlt möglicherweise?
-3. **Materielle Grenze bestimmen:** Ermessen, Beurteilungs- oder Bewertungsspielraum respektieren, aber Willkür, Verfahrensfehler, Gleichbehandlung, Grundrechte und Verhältnismäßigkeit sauber herausarbeiten.
-4. **Beweisroute bauen:** Aktenstück, Protokoll, Chat, E-Mail, Attest, Bewertungsbogen, Satzungsauszug oder amtliche Quelle jeder Tatsachenbehauptung zuordnen.
-5. **Nächsten Schritt liefern:** knappe Lageeinschätzung, Fristenliste, Antrag, Widerspruch, Remonstration, Eilantragsgerüst, Gesprächsleitfaden oder Beschluss-/Bescheidkritik.
-
-## Fachliche Leitplanken
-
-- Landesrecht und Satzungsrecht sind dynamisch; vor einer konkreten Ausgabe müssen aktuelle amtliche Quellen oder Originalordnungen geprüft werden.
-- Rechtsprechung nur zitieren, wenn Gericht, Datum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
-- Keine pauschalen Aussagen wie "immer rechtswidrig" oder "pädagogisch nicht angreifbar"; entscheidend sind Verfahrensspur, Dokumentation, Gleichbehandlung und konkrete Rechtsgrundlage.
-
-## Output-Muster
-
-- **Sofortlage:** Was ist entschieden, was läuft, was droht?
-- **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
-- **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
-- **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
+Erzeuge bevorzugt: Schulträger-Memo. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
 
 ---
 
 ## Skill: `ki-plagiat-hausarbeit-schule`
 
-_Wenn es um digitale Werkzeuge, Plagiat und Hausarbeit Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für digitale Werkzeuge, Plagiat und Hausarbeit Schule: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # KI, Plagiat und Hausarbeit Schule
 
@@ -695,11 +559,11 @@ KI, Plagiat und Hausarbeit Schule wird als eigenständiger schulrechtlicher Arbe
 
 ---
 
-## Skill: `zeugnisbemerkung-arbeits-sozialverhalten`
+## Skill: `schulpflicht-und-schulversaeumnis`
 
-_Wenn es um Zeugnisbemerkung Arbeits- und Sozialverhalten in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Schulpflicht und Schulversäumnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Zeugnisbemerkung Arbeits- und Sozialverhalten
+# Schulpflicht Und Schulversaeumnis
 
 ## Arbeitsweg
 
@@ -709,18 +573,160 @@ _Wenn es um Zeugnisbemerkung Arbeits- und Sozialverhalten in Schulrecht der Bund
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Zeugnisbemerkung Arbeits- und Sozialverhalten
+## Fachkern: Schulpflicht Und Schulversaeumnis
 - **Normen-/Quellenanker:** Schulgesetz des Bundeslands, Schulordnung, VwVfG/VwGO, Grundrechte, Inklusions-/SGB-IX-Schnittstellen, Datenschutz und kommunale Satzung.
 - **Entscheidende Weiche:** Bestimme Bundesland, Schulform, Verwaltungsakt/Realakt, Frist, pädagogischen Beurteilungsspielraum, Kindeswohl und gerichtlichen Eilbedarf.
 
 ## Wofür dieser Arbeitsgang da ist
 
-Zeugnisbemerkung Arbeits- und Sozialverhalten wird als eigenständiger schulrechtlicher Arbeitsgang geführt: zuerst Landesrecht und Schulform bestimmen, dann Verwaltungsakt, pädagogische Wertung, Grundrechtsbezug, Frist und Belege trennen, damit Eltern, Schule oder Behörde aus unvollständigen Unterlagen eine belastbare Prüfspur erhalten.
+Fehlzeiten nicht moralisch, sondern nach Pflicht, Entschuldigung, Anhörung, Verhältnismäßigkeit und Nachweisen prüfen.
+
+Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
 ## Spezialfokus
 
-- **Konkreter Auftrag:** Prüft Kopfnoten, Bemerkungen, Sozialverhalten und Löschung/Änderung im Zeugnis.
-- **Erste Trennlinie:** Ist das Problem wirklich Zeugnisbemerkung Arbeits- und Sozialverhalten, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Konkreter Auftrag:** Prüft Schulpflicht, Fehlzeiten, Atteste, Bußgeld, Jugendamt und Eskalation.
+- **Erste Trennlinie:** Ist das Problem wirklich Schulpflicht Und Schulversaeumnis, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
+- **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
+- **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
+
+### Typische Fallen in diesem Gebiet
+
+- Erziehungsmaßnahme, Ordnungsmaßnahme, Verwaltungsakt und bloße pädagogische Einschätzung nicht vermengen.
+- Bundesland, Schulart, Schulträger und aktuelle Verordnung zuerst feststellen; Schulrecht ist hier fast nie bundesweit einheitlich.
+- Elternrechte, Schülerrechte, Datenschutz, Kindeswohl und pädagogischen Spielraum sichtbar voneinander trennen.
+- Bei Konflikten immer prüfen, ob ein Gespräch, ein Antrag, eine Beschwerde, Widerspruch oder Eilrechtsschutz der passende nächste Schritt ist.
+
+## Kaltstartfragen
+
+- In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
+- Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
+- Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Welche Tatsachen sind belegt und welche werden nur behauptet?
+
+## Arbeitslogik
+
+1. **Normenkette bauen:** Landesrecht, untergesetzliche Verordnung, Satzung/Ordnung und konkrete Entscheidung trennen.
+2. **Verfahrensstand klären:** Antrag, Anhörung, Bescheid, Widerspruch, Remonstration, Eilverfahren, Klage oder interne Gremienphase einordnen.
+3. **Rechtspositionen sortieren:** Grundrechte, Teilhaberechte, Chancengleichheit, Selbstverwaltung, Elternrechte, Fürsorge, Datenschutz und Gleichbehandlung abgleichen.
+4. **Beweis prüfen:** Akte, Protokoll, Bewertungsbogen, Konferenzbeschluss, E-Mail, ärztliches Attest, Nachteilsausgleich oder IT-Log einer konkreten Aussage zuordnen.
+5. **Output liefern:** Entscheidungsvorlage, Widerspruch, Antrag, Fristenliste, Akteneinsichtsantrag, Gesprächsleitfaden, Klage-/Eilantragsgerüst oder Gremienmemo.
+
+## Fachanker
+
+- Primäre Anker: Landesschulrecht Schulpflicht; OWi; Jugendhilfe.
+- Landesrecht, aktuelle Satzungen und Prüfungsordnungen immer live aus amtlichen Portalen oder Originaldokumenten prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei überprüfbarer Quelle nennen.
+
+## Typische Fehler
+
+- Bundesland oder Prüfungsordnung wird übersehen.
+- Eine E-Mail wird wie ein Verwaltungsakt behandelt oder ein Verwaltungsakt nur wie eine Information.
+- Bewertungs- und pädagogische Spielräume werden entweder zu weit oder zu eng verstanden.
+- Fristen laufen, während nur über Fairness diskutiert wird.
+
+## Ergebnisformat
+
+Erzeuge bevorzugt: Fehlzeitenmatrix. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+
+---
+
+## Skill: `schulbusaufsicht-und-befoerderungssicherheit`
+
+_Für Schulbusaufsicht und Beförderungssicherheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Schulbusaufsicht und Beförderungssicherheit
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Schulbusaufsicht und Beförderungssicherheit
+- **Normen-/Quellenanker:** Schulgesetz des Bundeslands, Schulordnung, VwVfG/VwGO, Grundrechte, Inklusions-/SGB-IX-Schnittstellen, Datenschutz und kommunale Satzung.
+- **Entscheidende Weiche:** Bestimme Bundesland, Schulform, Verwaltungsakt/Realakt, Frist, pädagogischen Beurteilungsspielraum, Kindeswohl und gerichtlichen Eilbedarf.
+
+## Wofür dieser Arbeitsgang da ist
+
+Schulbusaufsicht und Beförderungssicherheit wird als eigenständiger schulrechtlicher Arbeitsgang geführt: zuerst Landesrecht und Schulform bestimmen, dann Verwaltungsakt, pädagogische Wertung, Grundrechtsbezug, Frist und Belege trennen, damit Eltern, Schule oder Behörde aus unvollständigen Unterlagen eine belastbare Prüfspur erhalten.
+
+## Spezialfokus
+
+- **Konkreter Auftrag:** Prüft Beförderungssicherheit, Haltestelle, Schulträger und Verkehrssicherung.
+- **Erste Trennlinie:** Ist das Problem wirklich Schulbusaufsicht und Beförderungssicherheit, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
+- **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
+- **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
+
+### Typische Fallen in diesem Gebiet
+
+- Erziehungsmaßnahme, Ordnungsmaßnahme, Verwaltungsakt und bloße pädagogische Einschätzung nicht vermengen.
+- Bundesland, Schulart, Schulträger und aktuelle Verordnung zuerst feststellen; Schulrecht ist hier fast nie bundesweit einheitlich.
+- Elternrechte, Schülerrechte, Datenschutz, Kindeswohl und pädagogischen Spielraum sichtbar voneinander trennen.
+- Bei Konflikten immer prüfen, ob ein Gespräch, ein Antrag, eine Beschwerde, Widerspruch oder Eilrechtsschutz der passende nächste Schritt ist.
+
+## Kaltstartfragen
+
+- In welchem Bundesland und bei welcher konkreten Einrichtung spielt der Fall?
+- Welche Entscheidung, Maßnahme, Satzung, Ordnung, E-Mail oder welches Protokoll liegt wirklich vor?
+- Welche Frist läuft, wann wurde bekanntgegeben und gibt es bereits Widerspruch, Remonstration, Antrag, Beschwerde oder Eilverfahren?
+- Welche Tatsachen sind durch Aktenstücke belegt und welche sind nur Erzählstand?
+- Welches Ziel soll erreicht werden: Aufhebung, Neubescheidung, Duldung, Gesprächslösung, Vergleich, Akteneinsicht oder nur Risikoeinschätzung?
+
+## Prüfprogramm
+
+1. **Normhierarchie trennen:** Landesschulgesetz, Schulverordnung, Erlasslage, Schulordnung, Bescheid und VwGO nicht vermischen; die konkrete Ordnung und den Bescheid immer zuerst lesen.
+2. **Zuständigkeit und Verfahren prüfen:** Wer durfte entscheiden, wer musste beteiligt werden, welches Gremium war zuständig und welche Anhörung fehlt möglicherweise?
+3. **Materielle Grenze bestimmen:** Ermessen, Beurteilungs- oder Bewertungsspielraum respektieren, aber Willkür, Verfahrensfehler, Gleichbehandlung, Grundrechte und Verhältnismäßigkeit sauber herausarbeiten.
+4. **Beweisroute bauen:** Aktenstück, Protokoll, Chat, E-Mail, Attest, Bewertungsbogen, Satzungsauszug oder amtliche Quelle jeder Tatsachenbehauptung zuordnen.
+5. **Nächsten Schritt liefern:** knappe Lageeinschätzung, Fristenliste, Antrag, Widerspruch, Remonstration, Eilantragsgerüst, Gesprächsleitfaden oder Beschluss-/Bescheidkritik.
+
+## Fachliche Leitplanken
+
+- Landesrecht und Satzungsrecht sind dynamisch; vor einer konkreten Ausgabe müssen aktuelle amtliche Quellen oder Originalordnungen geprüft werden.
+- Rechtsprechung nur zitieren, wenn Gericht, Datum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- Keine pauschalen Aussagen wie "immer rechtswidrig" oder "pädagogisch nicht angreifbar"; entscheidend sind Verfahrensspur, Dokumentation, Gleichbehandlung und konkrete Rechtsgrundlage.
+
+## Output-Muster
+
+- **Sofortlage:** Was ist entschieden, was läuft, was droht?
+- **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
+- **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
+- **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
+
+---
+
+## Skill: `auslandsschule-rueckkehr`
+
+_Für Auslandsschule und Rückkehr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Auslandsschule und Rückkehr
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Auslandsschule und Rückkehr
+- **Normen-/Quellenanker:** Schulgesetz des Bundeslands, Schulordnung, VwVfG/VwGO, Grundrechte, Inklusions-/SGB-IX-Schnittstellen, Datenschutz und kommunale Satzung.
+- **Entscheidende Weiche:** Bestimme Bundesland, Schulform, Verwaltungsakt/Realakt, Frist, pädagogischen Beurteilungsspielraum, Kindeswohl und gerichtlichen Eilbedarf.
+
+## Wofür dieser Arbeitsgang da ist
+
+Auslandsschule und Rückkehr wird als eigenständiger schulrechtlicher Arbeitsgang geführt: zuerst Landesrecht und Schulform bestimmen, dann Verwaltungsakt, pädagogische Wertung, Grundrechtsbezug, Frist und Belege trennen, damit Eltern, Schule oder Behörde aus unvollständigen Unterlagen eine belastbare Prüfspur erhalten.
+
+## Spezialfokus
+
+- **Konkreter Auftrag:** Prüft Anerkennung, Einstufung, Schulartwechsel und Leistungsnachweise nach Auslandsaufenthalt.
+- **Erste Trennlinie:** Ist das Problem wirklich Auslandsschule und Rückkehr, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
 - **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.

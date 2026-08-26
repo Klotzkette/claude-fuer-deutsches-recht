@@ -1,6 +1,6 @@
 ---
 name: versicherungsverlauf-monatsraster-luecken
-description: "Wenn es um Versicherungsverlauf Monatsraster Lücken in Rentenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Versicherungsverlauf Monatsraster Lücken: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versicherungsverlauf Monatsraster Lücken

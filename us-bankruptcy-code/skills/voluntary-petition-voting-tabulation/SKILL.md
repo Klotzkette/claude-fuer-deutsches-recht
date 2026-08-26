@@ -1,6 +1,6 @@
 ---
 name: voluntary-petition-voting-tabulation
-description: "Wenn es um Voluntary Petition Intake in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Voluntary Petition Intake: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Voluntary Petition Intake

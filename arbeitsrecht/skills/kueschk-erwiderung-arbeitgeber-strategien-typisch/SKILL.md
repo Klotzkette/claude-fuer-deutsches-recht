@@ -1,6 +1,6 @@
 ---
 name: kueschk-erwiderung-arbeitgeber-strategien-typisch
-description: "Wenn es um Kueschk Erwiderung Arbeitgeber Strategien Typisch in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kueschk Erwiderung Arbeitgeber Strategien Typisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Typische Verteidigungsstrategien des Arbeitgebers im Kündigungsschutzprozess: Hinhaltetaktik

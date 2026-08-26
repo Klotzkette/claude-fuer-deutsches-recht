@@ -1,6 +1,6 @@
 ---
 name: kommunalrecht-und-selbstverwaltung
-description: "Wenn es um Kommunalrecht und Selbstverwaltung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunalrecht und Selbstverwaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunalrecht und Selbstverwaltung

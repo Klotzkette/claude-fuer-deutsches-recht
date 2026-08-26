@@ -1,6 +1,6 @@
 ---
 name: gmbh-gruendung-gesellschafterliste
-description: "Wenn es um Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung

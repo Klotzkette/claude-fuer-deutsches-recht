@@ -1,6 +1,6 @@
 ---
 name: spezial-schnelle-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Schnelle: Livequellen- und Rechtsprechungscheck in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schnelle: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schnelle: Livequellen- und Rechtsprechungscheck

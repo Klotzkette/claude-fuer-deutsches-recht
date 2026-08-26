@@ -1,6 +1,6 @@
 ---
 name: kostenstop-und-sparplan
-description: "Wenn es um Pricing Liquidität und Wachstum: Findet kostenblöcke ohne geschäftsmodell zu zerstören in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pricing Liquidität und Wachstum: Findet kostenblöcke ohne geschäftsmodell zu zerstören: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pricing Liquidität und Wachstum: Findet kostenblöcke ohne geschäftsmodell zu zerstören

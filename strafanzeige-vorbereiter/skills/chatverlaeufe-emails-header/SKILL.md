@@ -1,6 +1,6 @@
 ---
 name: chatverlaeufe-emails-header
-description: "Wenn es um Chats, E-Mails und Header sichern in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Chats, E-Mails und Header sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Chats, E-Mails und Header sichern

@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-saarland-spezial-voelklinger-huette-welterbe
-description: "Wenn es um Voelklinger Huette als UNESCO-Welterbe im Saarland in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Völklinger Hütte als UNESCO-Welterbe im Saarland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Voelklinger Huette als UNESCO-Welterbe im Saarland

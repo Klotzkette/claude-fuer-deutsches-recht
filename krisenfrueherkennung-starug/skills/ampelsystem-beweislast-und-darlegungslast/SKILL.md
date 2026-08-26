@@ -1,6 +1,6 @@
 ---
 name: ampelsystem-beweislast-und-darlegungslast
-description: "Wenn es um Ampelsystem: Beweislast, Darlegungslast und Substantiierung in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ampelsystem: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Ampelsystem: Beweislast, Darlegungslast und Substantiierung

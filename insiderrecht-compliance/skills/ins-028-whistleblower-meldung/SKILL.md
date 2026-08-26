@@ -1,6 +1,6 @@
 ---
 name: ins-028-whistleblower-meldung
-description: "Wenn es um Insiderrecht: Whistleblower-Meldung in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Insiderrecht: Whistleblower-Meldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Whistleblower-Meldung

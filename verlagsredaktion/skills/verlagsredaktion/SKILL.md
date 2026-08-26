@@ -1,6 +1,6 @@
 ---
 name: verlagsredaktion
-description: "Wenn es um Verlagsredaktion — Kernskill in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verlagsredaktion — Kernskill: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsredaktion — Kernskill

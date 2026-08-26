@@ -1,6 +1,6 @@
 ---
 name: stberg-compliance-dokumentation-aktenvermerk
-description: "Wenn es um Stberg: Compliance-Dokumentation und Aktenvermerk in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stberg: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: stberg-compliance-dokumentation-aktenvermerk."
 ---
 
 # Stberg: Compliance-Dokumentation und Aktenvermerk

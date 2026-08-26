@@ -1,6 +1,6 @@
 ---
 name: beweisverwertungsverbote-staatsanwaelte
-description: "Wenn es um Beweisverwertungsverbote aus Sicht der StA in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweisverwertungsverbote aus Sicht der StA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweisverwertungsverbote aus Sicht der StA

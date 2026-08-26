@@ -1,6 +1,6 @@
 ---
 name: owi-042-umwelt-owi-frist-pruefen
-description: "Wenn es um Umwelt Owi Frist Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umwelt Owi Frist Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Ordnungswidrigkeitenrecht. Route: owi-042-umwelt-owi-frist-pruefen."
 ---
 
 # Umwelt Owi Frist Pruefen

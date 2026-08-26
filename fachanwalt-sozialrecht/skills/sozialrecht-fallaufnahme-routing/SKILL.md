@@ -1,6 +1,6 @@
 ---
 name: sozialrecht-fallaufnahme-routing
-description: "Wenn es um Master-Routing-Skill der sozialrechtlichen Kanzlei in Fachanwalt Sozialrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Master-Routing-Skill der sozialrechtlichen Kanzlei: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Master-Routing-Skill der sozialrechtlichen Kanzlei

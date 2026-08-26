@@ -1,6 +1,6 @@
 ---
 name: workflow-unterlagen-lueckenliste
-description: "Wenn es um Unterlagen- und Lückenliste in DSA, DMA und Digitalregulierung der EU geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: DSA, DMA und Digitalregulierung der EU."
 ---
 
 # Unterlagen- und Lückenliste

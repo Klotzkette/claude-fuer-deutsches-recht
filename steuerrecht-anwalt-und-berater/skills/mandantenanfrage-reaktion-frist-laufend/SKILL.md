@@ -1,6 +1,6 @@
 ---
 name: mandantenanfrage-reaktion-frist-laufend
-description: "Wenn es um Reaktionsfristen für Mandantenanfragen — Servicelevel in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reaktionsfristen für Mandantenanfragen — Servicelevel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: mandantenanfrage-reaktion-frist-laufend."
 ---
 
 # Reaktionsfristen für Mandantenanfragen — Servicelevel

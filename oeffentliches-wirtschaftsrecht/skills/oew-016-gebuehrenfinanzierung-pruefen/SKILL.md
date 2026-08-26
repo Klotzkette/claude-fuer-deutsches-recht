@@ -1,6 +1,6 @@
 ---
 name: oew-016-gebuehrenfinanzierung-pruefen
-description: "Wenn es um Gebuehrenfinanzierung Pruefen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gebührenfinanzierung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Öffentliches Wirtschaftsrecht. Route: oew-016-gebuehrenfinanzierung-pruefen."
 ---
 
 # Gebuehrenfinanzierung Pruefen

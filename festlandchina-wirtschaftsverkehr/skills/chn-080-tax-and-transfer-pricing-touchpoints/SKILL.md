@@ -1,6 +1,6 @@
 ---
 name: chn-080-tax-and-transfer-pricing-touchpoints
-description: "Wenn es um Tax And Transfer Pricing Touchpoints in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tax And Transfer Pricing Touchpoints: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tax And Transfer Pricing Touchpoints

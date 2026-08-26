@@ -1,6 +1,6 @@
 ---
 name: telos-interessen
-description: "Wenn es um Teleologische Auslegung im Mehrparteien-Konflikt in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Teleologische Auslegung im Mehrparteien-Konflikt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Teleologische Auslegung im Mehrparteien-Konflikt

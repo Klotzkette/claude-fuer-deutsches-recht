@@ -1,6 +1,6 @@
 ---
 name: fran-010-onlinevertrieb-plattformen-und-social-media
-description: "Wenn es um Franchiserecht: Onlinevertrieb Plattformen und Social Media in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Onlinevertrieb Plattformen und Social Media: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Onlinevertrieb Plattformen und Social Media

@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-abnahmeprotokoll-foerder-erp
-description: "Wenn es um Abnahmeprotokoll und Foerder-ERP in der Bauueberwachung LPH 8 in HOAI Leistungsphasen Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Abnahmeprotokoll und Förder-ERP in der Bauüberwachung LPH 8: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abnahmeprotokoll und Foerder-ERP in der Bauueberwachung LPH 8

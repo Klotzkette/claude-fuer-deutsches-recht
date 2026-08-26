@@ -1,6 +1,6 @@
 ---
 name: anderkonto-verwahrung-faktenmatrix
-description: "Wenn es um Anderkonto Verwahrung Faktenmatrix in Berufsrecht Notare geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anderkonto Verwahrung Faktenmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: anderkonto und verwahrung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

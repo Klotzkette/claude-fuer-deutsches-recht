@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 129 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Tierschutzrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet ko…
-2. **kaltstart-triage** — Wenn es um Tierschutzrecht - Allgemeiner Einstieg in Tierschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den …
-3. **rinderbetrieb-halterpflichten-eilantrag** — Wenn es um Rinderbetrieb Halterpflichten Erklaere in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhal…
-4. **tier-022-hundehaltung-behoerdenantrag-schreiben** — Wenn es um Hundehaltung Behoerdenantrag Schreiben in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhal…
-5. **tier-032-katzenkolonie-behoerdenantrag-schreibe** — Wenn es um Katzenkolonie Behoerdenantrag Schreibe in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhal…
-6. **tier-052-rinderbetrieb-behoerdenantrag-schreibe** — Wenn es um Rinderbetrieb Behoerdenantrag Schreibe in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhal…
-7. **tier-062-schweinehaltung-behoerdenantrag-schrei** — Wenn es um Schweinehaltung Behoerdenantrag Schrei in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhal…
-8. **tier-072-gefluegelmast-behoerdenantrag-schreibe** — Wenn es um Gefluegelmast Behoerdenantrag Schreibe in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhal…
+2. **kaltstart-triage** — Für Tierschutzrecht - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit R…
+3. **tier-022-hundehaltung-behoerdenantrag-schreiben** — Für Hundehaltung Behördenantrag Schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Be…
+4. **tier-032-katzenkolonie-behoerdenantrag-schreibe** — Für Katzenkolonie Behördenantrag Schreibe: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Be…
+5. **tier-052-rinderbetrieb-behoerdenantrag-schreibe** — Für Rinderbetrieb Behördenantrag Schreibe: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Be…
+6. **tier-062-schweinehaltung-behoerdenantrag-schrei** — Für Schweinehaltung Behördenantrag Schrei: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Be…
+7. **tier-082-tiertransport-behoerdenantrag-schreibe** — Für Tiertransport Behördenantrag Schreibe: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Be…
+8. **tier-072-gefluegelmast-behoerdenantrag-schreibe** — Für Geflügelmast Behördenantrag Schreibe: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Beg…
 
 ---
 
@@ -136,7 +136,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Tierschutzrecht - Allgemeiner Einstieg in Tierschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Tierschutzrecht - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Tierschutzrecht - Allgemeiner Einstieg
 
@@ -208,54 +208,9 @@ Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen
 
 ---
 
-## Skill: `rinderbetrieb-halterpflichten-eilantrag`
-
-_Wenn es um Rinderbetrieb Halterpflichten Erklaere in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Rinderbetrieb Halterpflichten Erklaere
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; TierSchG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 TierSchG` — Schutzzweck und Mitgeschoepflichkeit.
-- `§ 2 TierSchG` — Haltung, Pflege, verhaltensgerechte Unterbringung.
-- `§ 3 TierSchG` — Verbote.
-- `§ 4 TierSchG` — Toeten von Tieren.
-- `§ 6 TierSchG` — Amputation/Gewebeentnahme.
-- `§ 11 TierSchG` — erlaubnispflichtige Taetigkeiten.
-- `§ 16 TierSchG` — Behördenaufsicht.
-- `§ 17 TierSchG` — Straftaten.
-- `§ 18 TierSchG` — Ordnungswidrigkeiten.
-- `§ 90a BGB` — Tiere sind keine Sachen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- TierSchG, Tierschutz-Nutztierhaltungsverordnung, EU-Tiertransport
-- § 90a BGB, Sachenrecht nur entsprechend und mit Schutzlogik
-- Veterinärbehörden, Anordnung, Fortnahme, Haltungserlaubnis
-- Straf-/OWi-Schnittstelle, Beweis, Gutachten, Eilrechtsschutz
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
 ## Skill: `tier-022-hundehaltung-behoerdenantrag-schreiben`
 
-_Wenn es um Hundehaltung Behoerdenantrag Schreiben in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Hundehaltung Behördenantrag Schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Tierschutzrecht. Route: tier-022-hundehaltung-behoerdenantrag-schreiben._
 
 # Hundehaltung Behoerdenantrag Schreiben
 
@@ -322,7 +277,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## Skill: `tier-032-katzenkolonie-behoerdenantrag-schreibe`
 
-_Wenn es um Katzenkolonie Behoerdenantrag Schreibe in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Katzenkolonie Behördenantrag Schreibe: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Tierschutzrecht. Route: tier-032-katzenkolonie-behoerdenantrag-schreibe._
 
 # Katzenkolonie Behoerdenantrag Schreibe
 
@@ -389,7 +344,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## Skill: `tier-052-rinderbetrieb-behoerdenantrag-schreibe`
 
-_Wenn es um Rinderbetrieb Behoerdenantrag Schreibe in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Rinderbetrieb Behördenantrag Schreibe: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Tierschutzrecht. Route: tier-052-rinderbetrieb-behoerdenantrag-schreibe._
 
 # Rinderbetrieb Behoerdenantrag Schreibe
 
@@ -456,7 +411,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## Skill: `tier-062-schweinehaltung-behoerdenantrag-schrei`
 
-_Wenn es um Schweinehaltung Behoerdenantrag Schrei in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Schweinehaltung Behördenantrag Schrei: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Tierschutzrecht. Route: tier-062-schweinehaltung-behoerdenantrag-schrei._
 
 # Schweinehaltung Behoerdenantrag Schrei
 
@@ -521,9 +476,76 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ---
 
+## Skill: `tier-082-tiertransport-behoerdenantrag-schreibe`
+
+_Für Tiertransport Behördenantrag Schreibe: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Tierschutzrecht. Route: tier-082-tiertransport-behoerdenantrag-schreibe._
+
+# Tiertransport Behoerdenantrag Schreibe
+
+## Arbeitsauftrag
+
+Tiertransport Behoerdenantrag Schreibe wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Tierschutzrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- TierSchG, Tierschutz-Nutztierhaltungsverordnung, EU-Tiertransport
+- § 90a BGB, Sachenrecht nur entsprechend und mit Schutzlogik
+- Veterinärbehörden, Anordnung, Fortnahme, Haltungserlaubnis
+- Straf-/OWi-Schnittstelle, Beweis, Gutachten, Eilrechtsschutz
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Tierwohl- und Haltungscheck
+- Anordnungs-/Bescheidanalyse
+- Eilantrag oder Behördenantwort
+- Beweisplan mit Fotos, Vet-Befunden, Zeugen
+
+## Red-Team-Fragen
+
+- Tiere wie bloße Sachen behandeln
+- Gefahr im Verzug übersehen
+- Beweissicherung emotional statt fachlich
+- Tierhalterrolle/Eigentum/Besitz unklar
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+---
+
 ## Skill: `tier-072-gefluegelmast-behoerdenantrag-schreibe`
 
-_Wenn es um Gefluegelmast Behoerdenantrag Schreibe in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Geflügelmast Behördenantrag Schreibe: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Tierschutzrecht. Route: tier-072-gefluegelmast-behoerdenantrag-schreibe._
 
 # Gefluegelmast Behoerdenantrag Schreibe
 

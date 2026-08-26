@@ -1,6 +1,6 @@
 ---
 name: nda-mit-personenbezogenen-daten
-description: "Wenn es um Personenbezogene Daten + NDA in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Personenbezogene Daten + NDA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personenbezogene Daten + NDA

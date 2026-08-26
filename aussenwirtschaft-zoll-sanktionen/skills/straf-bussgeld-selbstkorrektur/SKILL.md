@@ -1,6 +1,6 @@
 ---
 name: straf-bussgeld-selbstkorrektur
-description: "Wenn es um Zollstrafrecht und Selbstkorrektur: Strafbarkeit Bussgeld und Selbstanzeige in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zollstrafrecht und Selbstkorrektur: Strafbarkeit Bussgeld und Selbstanzeige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zollstrafrecht und Selbstkorrektur: Strafbarkeit Bussgeld und Selbstanzeige

@@ -1,6 +1,6 @@
 ---
 name: computer-kunst-datenbank-dataset-einstweilige
-description: "Wenn es um Computerkunst und generative Modelle in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Computerkunst und generative Modelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Computerkunst und generative Modelle

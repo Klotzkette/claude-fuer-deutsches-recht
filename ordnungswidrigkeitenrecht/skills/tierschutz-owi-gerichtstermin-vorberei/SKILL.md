@@ -1,6 +1,6 @@
 ---
 name: tierschutz-owi-gerichtstermin-vorberei
-description: "Wenn es um Tierschutz Owi Gerichtstermin Vorberei in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tierschutz Owi Gerichtstermin Vorberei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tierschutz Owi Gerichtstermin Vorberei

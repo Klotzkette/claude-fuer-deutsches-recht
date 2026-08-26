@@ -1,6 +1,6 @@
 ---
 name: internationaler-bezug-schnittstellen-buergerlichen
-description: "Wenn es um Internationaler Bezug und Schnittstellen im bürgerlichen Recht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internationaler Bezug und Schnittstellen im bürgerlichen Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationaler Bezug und Schnittstellen im bürgerlichen Recht

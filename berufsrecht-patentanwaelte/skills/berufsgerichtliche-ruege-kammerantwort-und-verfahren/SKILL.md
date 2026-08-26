@@ -1,6 +1,6 @@
 ---
 name: berufsgerichtliche-ruege-kammerantwort-und-verfahren
-description: "Wenn es um Berufsgerichtliche Ruege Kammerantwort Und Verfahren in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Berufsgerichtliche Rüge Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: berufsgerichtliche ruege - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

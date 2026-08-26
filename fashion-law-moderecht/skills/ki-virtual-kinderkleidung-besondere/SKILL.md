@@ -1,6 +1,6 @@
 ---
 name: ki-virtual-kinderkleidung-besondere
-description: "Wenn es um Ki Virtual Try On Models in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Ki Virtual Try On Models: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ki Virtual Try On Models

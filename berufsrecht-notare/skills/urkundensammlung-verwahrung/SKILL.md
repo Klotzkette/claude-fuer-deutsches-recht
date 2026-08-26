@@ -1,6 +1,6 @@
 ---
 name: urkundensammlung-verwahrung
-description: "Wenn es um Urkundensammlung Verwahrung in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urkundensammlung Verwahrung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: urkundensammlung und verwahrung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

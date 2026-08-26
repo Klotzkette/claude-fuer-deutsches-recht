@@ -1,6 +1,6 @@
 ---
 name: richter-zahlen-schwellenwerte
-description: "Wenn es um Richter: Zahlen, Schwellenwerte und Berechnung in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Richter: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Richter: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: reverse-lieferantenfinanzierung-risikomatrix
-description: "Wenn es um Reverse Factoring Lieferantenfinanzierung und Abgrenzung Kreditgeschäft in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Reverse Factoring Lieferantenfinanzierung und Abgrenzung Kreditgeschäft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reverse Factoring Lieferantenfinanzierung und Abgrenzung Kreditgeschäft

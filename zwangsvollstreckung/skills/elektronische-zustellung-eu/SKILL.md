@@ -1,6 +1,6 @@
 ---
 name: elektronische-zustellung-eu
-description: "Wenn es um Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG

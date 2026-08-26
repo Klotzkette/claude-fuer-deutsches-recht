@@ -1,6 +1,6 @@
 ---
 name: erzeugen-red-fassungen-sonderfall-felder
-description: "Wenn es um Erzeugen: Red-Team und Qualitätskontrolle in Vertragsausfüller geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erzeugen: Red-Team und Qualitätskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Erzeugen: Red-Team und Qualitätskontrolle

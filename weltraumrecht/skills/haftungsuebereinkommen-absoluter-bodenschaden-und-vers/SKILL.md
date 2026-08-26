@@ -1,6 +1,6 @@
 ---
 name: haftungsuebereinkommen-absoluter-bodenschaden-und-vers
-description: "Wenn es um Haftungsuebereinkommen Absoluter Bodenschaden Und Vers in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftungsübereinkommen Absoluter Bodenschaden und Vers: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Haftungsübereinkommen: Absoluter Bodenschaden und Verschuldenshaftung im All

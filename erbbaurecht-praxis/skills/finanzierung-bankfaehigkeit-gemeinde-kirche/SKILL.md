@@ -1,6 +1,6 @@
 ---
 name: finanzierung-bankfaehigkeit-gemeinde-kirche
-description: "Wenn es um Finanzierung des Erbbaurechts in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Finanzierung des Erbbaurechts: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finanzierung des Erbbaurechts

@@ -1,6 +1,6 @@
 ---
 name: grafikdesign-agentur
-description: "Wenn es um Branchenfälle: Prüft designauftrag in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Branchenfälle: Prüft designauftrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Branchenfälle: Prüft designauftrag

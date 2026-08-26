@@ -1,6 +1,6 @@
 ---
 name: stv-081-ladezone-regel-pruefen
-description: "Wenn es um Ladezone Regel Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ladezone Regel Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenverkehrsrecht StVO. Route: stv-081-ladezone-regel-pruefen."
 ---
 
 # Ladezone Regel Pruefen

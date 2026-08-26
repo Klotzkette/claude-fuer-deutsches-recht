@@ -1,6 +1,6 @@
 ---
 name: theorie-alexy-prinzipientheorie
-description: "Wenn es um Theorie der Grundrechte — Alexy und das Prinzip der Verhältnismäßigkeit in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Theorie der Grundrechte — Alexy und das Prinzip der Verhältnismäßigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Theorie der Grundrechte — Alexy und das Prinzip der Verhältnismäßigkeit

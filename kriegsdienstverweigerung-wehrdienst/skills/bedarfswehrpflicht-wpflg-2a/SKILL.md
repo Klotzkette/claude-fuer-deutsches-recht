@@ -1,6 +1,6 @@
 ---
 name: bedarfswehrpflicht-wpflg-2a
-description: "Wenn es um Bedarfswehrpflicht Paragraf 2a WPflG in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bedarfswehrpflicht Paragraf 2a WPflG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bedarfswehrpflicht § 2a WPflG

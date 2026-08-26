@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-datenuebermittlung-auskunft-behoerden
-description: "Wenn es um Telekommunikation: Datenübermittlung Auskunft Behörden in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Telekommunikation: Datenübermittlung Auskunft Behörden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telekommunikation: Datenübermittlung Auskunft Behörden

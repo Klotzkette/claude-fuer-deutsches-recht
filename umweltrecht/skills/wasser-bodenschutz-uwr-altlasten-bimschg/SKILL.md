@@ -1,6 +1,6 @@
 ---
 name: wasser-bodenschutz-uwr-altlasten-bimschg
-description: "Wenn es um Wasser- und Bodenschutzrecht in Umweltrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Wasser- und Bodenschutzrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wasser- und Bodenschutzrecht

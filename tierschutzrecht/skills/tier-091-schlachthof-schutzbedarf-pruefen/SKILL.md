@@ -1,6 +1,6 @@
 ---
 name: tier-091-schlachthof-schutzbedarf-pruefen
-description: "Wenn es um Schlachthof Schutzbedarf Pruefen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schlachthof Schutzbedarf Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tierschutzrecht. Route: tier-091-schlachthof-schutzbedarf-pruefen."
 ---
 
 # Schlachthof Schutzbedarf Pruefen

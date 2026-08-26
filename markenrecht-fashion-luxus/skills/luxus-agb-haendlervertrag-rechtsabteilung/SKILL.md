@@ -1,6 +1,6 @@
 ---
 name: luxus-agb-haendlervertrag-rechtsabteilung
-description: "Wenn es um Luxus: Fristen, Form, Zuständigkeit und Rechtsweg in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Luxus: Fristen, Form, Zuständigkeit und Rechtsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Luxus: Fristen, Form, Zuständigkeit und Rechtsweg

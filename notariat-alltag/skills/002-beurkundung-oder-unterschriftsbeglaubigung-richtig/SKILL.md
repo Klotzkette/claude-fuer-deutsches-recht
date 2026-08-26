@@ -1,6 +1,6 @@
 ---
 name: 002-beurkundung-oder-unterschriftsbeglaubigung-richtig
-description: "Wenn es um Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung – richtig einordnen in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung – richtig einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung – richtig einordnen

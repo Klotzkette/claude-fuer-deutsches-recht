@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 51 Skills des Plugins `gebrauchsmusterrec
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Gebrauchsmusterrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbind…
-2. **kaltstart-triage** — Wenn es um Allgemein in gebrauchsmusterrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachs…
-3. **auskunft-schadensersatz-geheimhaltung** — Wenn es um Auskunft Schadensersatz Und Rechnungslegung in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislas…
-4. **computerprogramm-verfahrensausschluss** — Wenn es um Computerprogramm Und Verfahrensausschluss in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
-5. **einstweilige-verfuegung-fto-schutzbereich** — Wenn es um Einstweilige Verfuegung Gebrauchsmuster in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, G…
-6. **teilloeschung-und-hilfsantraege** — Wenn es um Teilloeschung Und Hilfsantraege in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargu…
-7. **lizenzvertrag-gebrauchsmuster** — Wenn es um Lizenzvertrag Gebrauchsmuster in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
-8. **neuheit-erfinderischer-patent-gebrauchsmuster** — Wenn es um Neuheit Und Erfinderischer Schritt in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
-9. **beschreibung-und-zeichnungen** — Wenn es um Beschreibung Und Zeichnungen in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumen…
-10. **schutzgegenstand-und-ausschluesse** — Wenn es um Schutzgegenstand Und Ausschluesse in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenar…
-11. **chemie-biotech-china-utility** — Wenn es um Chemie Biotech Und Stoffschutz in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
-12. **insolvenz-und-verwertung** — Wenn es um Insolvenz Und Verwertung in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente u…
-13. **auslandsroute-kein-beschreibung-zeichnungen** — Wenn es um Auslandsroute Kein Eu Gebrauchsmuster in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachve…
-14. **produktlaunch-und-neuheit** — Wenn es um Produktlaunch Und Neuheit in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente …
-15. **recherche-nach-schutzgegenstand-ausschluesse** — Wenn es um Recherche Nach Paragraph 7 Gebrmg in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhal…
+2. **kaltstart-triage** — Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. F…
+3. **auslandsroute-kein-beschreibung-zeichnungen** — Für Auslandsroute Kein Eu Gebrauchsmuster: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit …
+4. **neuheit-erfinderischer-patent-gebrauchsmuster** — Für Neuheit und Erfinderischer Schritt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zus…
+5. **mandantenmemo-gebrauchsmusterstrategie** — Für Mandantenmemo Gebrauchsmusterstrategie: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit B…
+6. **auskunft-schadensersatz-geheimhaltung** — Für Auskunft Schadensersatz und Rechnungslegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
+7. **besichtigung-beschlagnahme-und-beweissicherung** — Für Besichtigung Beschlagnahme und Beweissicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und…
+8. **computerprogramm-verfahrensausschluss** — Für Computerprogramm und Verfahrensausschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risi…
+9. **gebrauchsmuster-kaltstart-interview** — Für Gebrauchsmuster Kaltstart Interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risi…
+10. **produktlaunch-und-neuheit** — Für Produktlaunch und Neuheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkei…
+11. **registerstand-aufrechterhaltung-lizenzvertrag** — Für Registerstand Fristen Aufrechterhaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit F…
+12. **arbeitnehmererfindung-und-inhaberschaft** — Für Arbeitnehmererfindung und Inhaberschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko…
+13. **prioritaet-anmeldetag-produktlaunch-neuheit** — Für Priorität und Anmeldetag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeit…
+14. **abmahnung-gebrauchsmuster-abzweigung** — Für Abmahnung Gebrauchsmuster Verteidigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko …
+15. **einstweilige-verfuegung-fto-schutzbereich** — Für Einstweilige Verfügung Gebrauchsmuster: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko …
 
 ---
 
@@ -143,7 +143,7 @@ Ausgangspunkt für dieses Plugin: Inhaber für eingetragenen Anspruch, Rechtsbes
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Allgemein in gebrauchsmusterrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
+_Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: gebrauchsmusterrecht._
 
 # Allgemein
 
@@ -182,45 +182,11 @@ Kaltstart für jedes Gebrauchsmustermandat.
 
 ---
 
-## Skill: `auskunft-schadensersatz-geheimhaltung`
+## Skill: `auslandsroute-kein-beschreibung-zeichnungen`
 
-_Wenn es um Auskunft Schadensersatz Und Rechnungslegung in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Auslandsroute Kein Eu Gebrauchsmuster: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Auskunft Schadensersatz Und Rechnungslegung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
-- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Nach Verletzung geht es um Folgeansprüche.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `computerprogramm-verfahrensausschluss`
-
-_Wenn es um Computerprogramm Und Verfahrensausschluss in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Computerprogramm Und Verfahrensausschluss
+# Auslandsroute Kein Eu Gebrauchsmuster
 
 ## Arbeitsweg
 
@@ -232,136 +198,7 @@ _Wenn es um Computerprogramm Und Verfahrensausschluss in gebrauchsmusterrecht ge
 
 ## Wann dieser Skill hilft
 
-Software- oder Prozessinnovation wird als Gebrauchsmuster gewünscht.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `einstweilige-verfuegung-fto-schutzbereich`
-
-_Wenn es um Einstweilige Verfuegung Gebrauchsmuster in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Einstweilige Verfuegung Gebrauchsmuster
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
-- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Schnelles Vorgehen wird erwogen.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Konkrete Norm-Anker
-
-### Voraussetzungen
-- Schutzrecht (eingetragenes Gebrauchsmuster).
-- Verletzungstatbestand (Anspruchsmerkmale).
-- Verfuegungsanspruch (§ 24 GebrMG).
-- Verfuegungsgrund (Eilbeduerftigkeit, § 935 ZPO).
-
-### Besonderheit Gebrauchsmuster
-- Anders als Patent: kein materieller Prüfungsfilter.
-- Gerichte stellen daher hoehere Anforderungen an die "**glaubhafte Aussicht auf Bestand**" als beim Patent.
-- BGH, Beschluss vom 20.06.2006 - X ZB 27/05 (Demonstrationsschrank): Der erfinderische Schritt verlangt eine wertende Prüfung der technischen Lehre. Im Eilverfahren genügt deshalb die ungeprüfte Eintragung nicht; Rechtsbestand, relevanter Stand der Technik und Gegenargumente sind eigenständig glaubhaft zu machen.
-
-### Faktoren für Verfuegungserlass
-1. **Rechtsbestand**: Stand der Technik bekannt? Erfinderischer Schritt belegbar?
-2. **Verletzung**: klar dargelegt?
-3. **Dringlichkeit**: 1-2 Monate Untaetigkeit kann die Eilbeduerftigkeit zerstoeren.
-4. **Schadenshoehe**: groß genug für einstweiligen Rechtsschutz?
-
-### Schutzschrift
-- Vorsorgliche Hinterlegung beim Gericht durch Anti-Verfuegungs-Bedrohten.
-- Wirksam beim zentralen Schutzschriftenregister.
-
-### Aktuelle Praxis
-- LG Duesseldorf, LG Mannheim und LG Muenchen I als zentrale Patentkammern bearbeiten viele Gebrauchsmuster-Verfuegungsverfahren.
-- Für Verfügungsanträge nie nur auf die Eintragung verweisen: Rechtsbestand mit Recherchebericht, Stand-der-Technik-Matrix, eidesstattlicher Versicherung und Merkmalsvergleich glaubhaft machen; konkrete Kammerrechtsprechung erst nach freier Quellenprüfung zitieren.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `teilloeschung-und-hilfsantraege`
-
-_Wenn es um Teilloeschung Und Hilfsantraege in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Teilloeschung Und Hilfsantraege
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
-- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Der Rechtsbestand ist teilweise gefährdet.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `lizenzvertrag-gebrauchsmuster`
-
-_Wenn es um Lizenzvertrag Gebrauchsmuster in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Lizenzvertrag Gebrauchsmuster
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
-- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Ein technisches Schutzrecht wird lizenziert.
+Mandant denkt an EU-weiten Gebrauchsmusterschutz.
 
 ## Prüfpunkte
 
@@ -381,7 +218,7 @@ Ein technisches Schutzrecht wird lizenziert.
 
 ## Skill: `neuheit-erfinderischer-patent-gebrauchsmuster`
 
-_Wenn es um Neuheit Und Erfinderischer Schritt in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Neuheit und Erfinderischer Schritt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Neuheit Und Erfinderischer Schritt
 
@@ -434,11 +271,11 @@ Ein eingetragenes oder geplantes Gebrauchsmuster braucht Rechtsbestandsprüfung.
 
 ---
 
-## Skill: `beschreibung-und-zeichnungen`
+## Skill: `mandantenmemo-gebrauchsmusterstrategie`
 
-_Wenn es um Beschreibung Und Zeichnungen in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Mandantenmemo Gebrauchsmusterstrategie: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
-# Beschreibung Und Zeichnungen
+# Mandantenmemo Gebrauchsmusterstrategie
 
 ## Arbeitsweg
 
@@ -450,7 +287,7 @@ _Wenn es um Beschreibung Und Zeichnungen in gebrauchsmusterrecht geht: ordnet Sa
 
 ## Wann dieser Skill hilft
 
-Unterlagen sollen eingereicht oder verteidigt werden.
+Mandant braucht Entscheidung statt Lehrbuch.
 
 ## Prüfpunkte
 
@@ -468,11 +305,11 @@ Unterlagen sollen eingereicht oder verteidigt werden.
 
 ---
 
-## Skill: `schutzgegenstand-und-ausschluesse`
+## Skill: `auskunft-schadensersatz-geheimhaltung`
 
-_Wenn es um Schutzgegenstand Und Ausschluesse in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Auskunft Schadensersatz und Rechnungslegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Schutzgegenstand Und Ausschluesse
+# Auskunft Schadensersatz Und Rechnungslegung
 
 ## Arbeitsweg
 
@@ -484,7 +321,7 @@ _Wenn es um Schutzgegenstand Und Ausschluesse in gebrauchsmusterrecht geht: ordn
 
 ## Wann dieser Skill hilft
 
-Es ist unklar, ob Gebrauchsmusterschutz überhaupt passt.
+Nach Verletzung geht es um Folgeansprüche.
 
 ## Prüfpunkte
 
@@ -502,11 +339,11 @@ Es ist unklar, ob Gebrauchsmusterschutz überhaupt passt.
 
 ---
 
-## Skill: `chemie-biotech-china-utility`
+## Skill: `besichtigung-beschlagnahme-und-beweissicherung`
 
-_Wenn es um Chemie Biotech Und Stoffschutz in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Besichtigung Beschlagnahme und Beweissicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix._
 
-# Chemie Biotech Und Stoffschutz
+# Besichtigung Beschlagnahme Und Beweissicherung
 
 ## Arbeitsweg
 
@@ -518,7 +355,42 @@ _Wenn es um Chemie Biotech Und Stoffschutz in gebrauchsmusterrecht geht: ordnet 
 
 ## Wann dieser Skill hilft
 
-Technische Lehre betrifft Stoffe, Formulierungen oder Biologie.
+Eine mutmaßliche Gebrauchsmusterverletzung lässt sich nicht allein aus Werbefotos oder Datenblättern beweisen.
+
+## Prüfpunkte
+
+- Produkt, Anspruchsmerkmale, Beweisziel und Gegnerrolle konkret erfassen.
+- Testkauf, Musterverwahrung, Fotos, Messprotokoll, Laborbericht und Zeugen sauber dokumentieren.
+- Geheimnisschutz des Gegners und eigene Geheimhaltungsinteressen mitdenken.
+- Technische Analyse und anwaltliche Bewertung trennen.
+- Vor eiligen Maßnahmen Rechtsbestand und Registerstand prüfen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
+## Skill: `computerprogramm-verfahrensausschluss`
+
+_Für Computerprogramm und Verfahrensausschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Computerprogramm Und Verfahrensausschluss
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Software- oder Prozessinnovation wird als Gebrauchsmuster gewünscht.
 
 ## Prüfpunkte
 
@@ -536,57 +408,30 @@ Technische Lehre betrifft Stoffe, Formulierungen oder Biologie.
 
 ---
 
-## Skill: `insolvenz-und-verwertung`
+## Skill: `gebrauchsmuster-kaltstart-interview`
 
-_Wenn es um Insolvenz Und Verwertung in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Gebrauchsmuster Kaltstart Interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Insolvenz Und Verwertung
+# Gebrauchsmuster Kaltstart Interview
 
-## Arbeitsweg
+## Direktstart: lesen, entscheiden, liefern
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
-- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-## Wann dieser Skill hilft
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Ein Schutzrecht steckt in Krise oder Insolvenz.
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-## Prüfpunkte
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `auslandsroute-kein-beschreibung-zeichnungen`
-
-_Wenn es um Auslandsroute Kein Eu Gebrauchsmuster in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Auslandsroute Kein Eu Gebrauchsmuster
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
-- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Wann dieser Skill hilft
 
-Mandant denkt an EU-weiten Gebrauchsmusterschutz.
+Ein technischer Schnellschutzfall kommt herein.
 
 ## Prüfpunkte
 
@@ -606,7 +451,7 @@ Mandant denkt an EU-weiten Gebrauchsmusterschutz.
 
 ## Skill: `produktlaunch-und-neuheit`
 
-_Wenn es um Produktlaunch Und Neuheit in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Produktlaunch und Neuheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Produktlaunch Und Neuheit
 
@@ -638,11 +483,11 @@ Launch steht kurz bevor.
 
 ---
 
-## Skill: `recherche-nach-schutzgegenstand-ausschluesse`
+## Skill: `registerstand-aufrechterhaltung-lizenzvertrag`
 
-_Wenn es um Recherche Nach Paragraph 7 Gebrmg in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Registerstand Fristen Aufrechterhaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck._
 
-# Recherche Nach Paragraph 7 Gebrmg
+# Registerstand Fristen Aufrechterhaltung
 
 ## Arbeitsweg
 
@@ -654,7 +499,7 @@ _Wenn es um Recherche Nach Paragraph 7 Gebrmg in gebrauchsmusterrecht geht: erst
 
 ## Wann dieser Skill hilft
 
-Der Rechtsbestand soll vor Durchsetzung geprüft werden.
+Ein Gebrauchsmuster muss verwaltet werden.
 
 ## Prüfpunkte
 
@@ -662,6 +507,213 @@ Der Rechtsbestand soll vor Durchsetzung geprüft werden.
 - Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
 - Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
 - Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
+## Skill: `arbeitnehmererfindung-und-inhaberschaft`
+
+_Für Arbeitnehmererfindung und Inhaberschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Arbeitnehmererfindung Und Inhaberschaft
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Die Erfindung stammt aus Team, Labor oder Dienstverhältnis.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Konkrete Norm-Anker
+
+### Anwendbares Recht
+- **§ 13 GebrMG**: Recht des Anmelders / Erfinders.
+- **ArbnErfG (Arbeitnehmererfindungsgesetz)**: greift auch für Gebrauchsmuster (§ 1 Abs. 1 ArbnErfG: "Erfindung im Sinne dieses Gesetzes sind nur patentfaehige und gebrauchsmusterfaehige Erfindungen").
+
+### Pflichten des Arbeitnehmers
+- **§ 5 ArbnErfG**: Meldepflicht der Diensterfindung an den Arbeitgeber unverzueglich.
+- **§ 6 ArbnErfG**: Arbeitgeber kann innerhalb von **vier Monaten** die Diensterfindung in Anspruch nehmen (Reform 2009: Inanspruchnahme-Fiktion bei Schweigen, frueher musste der Arbeitgeber aktiv handeln).
+
+### Vergütung
+- **§§ 9-11 ArbnErfG**: Vergütung nach Massgabe der Verguetungsrichtlinie.
+- Berechnungsfaktoren: erfinderische Leistung, Bedeutung der Erfindung, Aufgabenstellung im Betrieb.
+
+### Wichtig für Gebrauchsmuster
+- Auch wenn das Gebrauchsmuster nicht materiell geprueft wird: Verguetungspflicht des Arbeitgebers besteht.
+- Auch bei "freier Erfindung" (§ 4 Abs. 3 ArbnErfG) Anbietungspflicht.
+
+### Aktuelle Prüfungslinie
+- Vergütung und Inhaberschaft nicht aus dem ungeprüften Registerstand ableiten: maßgeblich sind Diensterfindungsmeldung (§ 5 ArbnErfG), Inanspruchnahme/Fiktion (§ 6 ArbnErfG), Vergütung (§§ 9-12 ArbnErfG), Rechtekette und tatsächliche Verwertung des Gebrauchsmusters.
+- BGH-Rechtsprechung zur Arbeitnehmererfindervergütung nur mit Datum, Aktenzeichen und frei prüfbarer Quelle in Mandantentexte übernehmen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
+## Skill: `prioritaet-anmeldetag-produktlaunch-neuheit`
+
+_Für Priorität und Anmeldetag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Prioritaet Und Anmeldetag
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Mehrere Anmeldungen oder Länder sind beteiligt.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
+## Skill: `abmahnung-gebrauchsmuster-abzweigung`
+
+_Für Abmahnung Gebrauchsmuster Verteidigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Abmahnung Gebrauchsmuster Verteidigung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Eine Abmahnung wird gesendet oder empfangen.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Konkrete GebrMG-Normen und BGH-Linie
+
+### Schlüsselnormen
+- **§ 24 GebrMG**: Unterlassungs- und Schadensersatzansprueche bei Verletzung.
+- **§ 24a-c GebrMG**: Auskunfts-, Schadensersatz- und Vernichtungsansprueche analog §§ 139-140d PatG.
+- **§ 25 GebrMG**: Strafbarkeit bei vorsaetzlicher Verletzung.
+
+### Besonderheit Gebrauchsmuster
+- Anders als Patent: **kein materieller Prüfungsfilter im Eintragungsverfahren** (DPMA prüft nur formell).
+- Folge: Eingetragenes Gebrauchsmuster sagt **nichts über Rechtsbestand** aus.
+- Die Abmahnung muss den ungeprüften Registertitel besonders sorgfältig gegen Rechtsbestandsangriffe absichern; konkrete BGH-Zitate nur nach Live-Check mit frei zugänglicher Quelle einsetzen.
+
+### Verteidigungsstrategie
+1. **Prüfe Rechtsbestand**: Stand der Technik recherchieren, Neuheit und erfinderischer Schritt § 3, § 4 GebrMG.
+2. **Loeschungsantrag** beim DPMA als Gegenangriff (§ 16 GebrMG); fuehrt im Verletzungsverfahren regelmaessig zur Aussetzung.
+3. **Schutzschrift** beim ZPO-Gericht hinterlegen, wenn einstweilige Verfuegung droht.
+4. **Schutzbereich prüfen**: Anspruchsmerkmale gegen verletzte Ausfuehrung prüfen — § 12a GebrMG i.V.m. § 14 PatG (Auslegung der Schutzansprueche).
+
+### BGH-Linie zum Schutzbereich
+- Für den Schutzbereich § 12a GebrMG i.V.m. § 14 PatG entlang Anspruchswortlaut, Beschreibung, Zeichnungen und Fachmannverständnis prüfen.
+- Äquivalenz- und Schutzbereichsrechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugänglicher Quelle in Abmahnung oder Erwiderung einsetzen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
+## Skill: `einstweilige-verfuegung-fto-schutzbereich`
+
+_Für Einstweilige Verfügung Gebrauchsmuster: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Einstweilige Verfuegung Gebrauchsmuster
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Schnelles Vorgehen wird erwogen.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Konkrete Norm-Anker
+
+### Voraussetzungen
+- Schutzrecht (eingetragenes Gebrauchsmuster).
+- Verletzungstatbestand (Anspruchsmerkmale).
+- Verfuegungsanspruch (§ 24 GebrMG).
+- Verfuegungsgrund (Eilbeduerftigkeit, § 935 ZPO).
+
+### Besonderheit Gebrauchsmuster
+- Anders als Patent: kein materieller Prüfungsfilter.
+- Gerichte stellen daher hoehere Anforderungen an die "**glaubhafte Aussicht auf Bestand**" als beim Patent.
+- BGH, Beschluss vom 20.06.2006 - X ZB 27/05 (Demonstrationsschrank): Der erfinderische Schritt verlangt eine wertende Prüfung der technischen Lehre. Im Eilverfahren genügt deshalb die ungeprüfte Eintragung nicht; Rechtsbestand, relevanter Stand der Technik und Gegenargumente sind eigenständig glaubhaft zu machen.
+
+### Faktoren für Verfuegungserlass
+1. **Rechtsbestand**: Stand der Technik bekannt? Erfinderischer Schritt belegbar?
+2. **Verletzung**: klar dargelegt?
+3. **Dringlichkeit**: 1-2 Monate Untaetigkeit kann die Eilbeduerftigkeit zerstoeren.
+4. **Schadenshoehe**: groß genug für einstweiligen Rechtsschutz?
+
+### Schutzschrift
+- Vorsorgliche Hinterlegung beim Gericht durch Anti-Verfuegungs-Bedrohten.
+- Wirksam beim zentralen Schutzschriftenregister.
+
+### Aktuelle Praxis
+- LG Duesseldorf, LG Mannheim und LG Muenchen I als zentrale Patentkammern bearbeiten viele Gebrauchsmuster-Verfuegungsverfahren.
+- Für Verfügungsanträge nie nur auf die Eintragung verweisen: Rechtsbestand mit Recherchebericht, Stand-der-Technik-Matrix, eidesstattlicher Versicherung und Merkmalsvergleich glaubhaft machen; konkrete Kammerrechtsprechung erst nach freier Quellenprüfung zitieren.
 
 ## Quellen-Hardening
 

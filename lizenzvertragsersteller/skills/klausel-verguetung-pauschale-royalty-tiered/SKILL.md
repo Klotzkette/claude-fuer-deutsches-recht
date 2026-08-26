@@ -1,6 +1,6 @@
 ---
 name: klausel-verguetung-pauschale-royalty-tiered
-description: "Wenn es um Klausel Vergütung — Pauschale, Royalty, Tiered in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Klausel Vergütung — Pauschale, Royalty, Tiered: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klausel Vergütung — Pauschale, Royalty, Tiered

@@ -1,6 +1,6 @@
 ---
 name: deutsch-englisch-digitale-inhalte-handbuch
-description: "Wenn es um Deutsch Englisch AGB in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Deutsch Englisch Digitale Inhalte Handbuch; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Deutsch Englisch AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: AGB-Recht-Prüfer. Route: deutsch-englisch-digitale-inhalte-handbuch."
 ---
 
 # Deutsch Englisch AGB

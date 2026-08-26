@@ -1,6 +1,6 @@
 ---
 name: umfassende-sperrminoritaet-unternehmerisches
-description: "Wenn es um Umfassende Sperrminorität in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umfassende Sperrminorität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umfassende Sperrminorität

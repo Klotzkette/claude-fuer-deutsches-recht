@@ -1,6 +1,6 @@
 ---
 name: neu-016-ddr-recht-sozialistische-gesetzlichkeit-und-ueberlei
-description: "Wenn es um Deutsche Rechtsgeschichte: 016 Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: 016 Ddr Recht Sozialistische Gesetzlichkeit und Überlei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: 016 Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei

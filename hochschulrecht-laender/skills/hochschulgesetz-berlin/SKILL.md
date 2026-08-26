@@ -1,6 +1,6 @@
 ---
 name: hochschulgesetz-berlin
-description: "Wenn es um Hochschulgesetz Berlin in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hochschulgesetz Berlin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hochschulgesetz Berlin

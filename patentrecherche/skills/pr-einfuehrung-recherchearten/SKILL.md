@@ -1,6 +1,6 @@
 ---
 name: pr-einfuehrung-recherchearten
-description: "Wenn es um Patentrecherche: Arten in patentrecherche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Patentrecherche: Arten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentrecherche: Arten

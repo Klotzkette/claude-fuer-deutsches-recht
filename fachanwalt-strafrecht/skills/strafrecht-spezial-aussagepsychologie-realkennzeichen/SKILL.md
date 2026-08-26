@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsychologie-realkennzeichen
-description: "Wenn es um Strafrecht Spezial Aussagepsychologie Realkennzeichen in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Aussagepsychologie Realkennzeichen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Realkennzeichen nach Steller und Koehnken (Criteria-Based Content Analysis, CBCA): Logische Konsistenz, ungeordnete Spontanitaet, Detailreichtum, raum-zeitliche Verknuepfung, Komplikationen, ungewoehnliche Details, ueberschiessende Belastung

@@ -1,6 +1,6 @@
 ---
 name: verg-nachpruefungsverfahren-spezial
-description: "Wenn es um Verg Nachpruefungsverfahren Spezial in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verg Nachprüfungsverfahren Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Spezialfall Nachpruefungsverfahren §§ 155 ff

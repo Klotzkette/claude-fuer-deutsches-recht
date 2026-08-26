@@ -1,6 +1,6 @@
 ---
 name: disziplinarrisiken-soldaten
-description: "Wenn es um Disziplinarrisiken in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Disziplinarrisiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Disziplinarrisiken

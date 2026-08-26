@@ -1,6 +1,6 @@
 ---
 name: vwgo-normenkontrolle
-description: "Wenn es um 47 Vwgo Normenkontrolle in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 47 VwGO Normenkontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # 47 Vwgo Normenkontrolle

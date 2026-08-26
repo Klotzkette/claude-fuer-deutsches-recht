@@ -1,6 +1,6 @@
 ---
 name: 11-beklagtenstation-votum
-description: "Wenn es um 11 Beklagtenstation Votum in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 11 Beklagtenstation Votum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 11 Beklagtenstation Votum

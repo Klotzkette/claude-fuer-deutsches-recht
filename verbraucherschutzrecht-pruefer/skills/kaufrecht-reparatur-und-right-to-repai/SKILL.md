@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-reparatur-und-right-to-repai
-description: "Wenn es um Kaufrecht Reparatur Und Right To Repai in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaufrecht Reparatur und Right To Repai: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaufrecht Reparatur Und Right To Repai

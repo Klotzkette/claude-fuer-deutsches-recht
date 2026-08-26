@@ -1,6 +1,6 @@
 ---
 name: betriebsratsanhoerung
-description: "Wenn es um Betriebsratsanhoerung nach Paragraf 102 BetrVG vor jeder Kündigung in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebsratsanhörung nach Paragraf 102 BetrVG vor jeder Kündigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsratsanhoerung nach Paragraf 102 BetrVG vor jeder Kündigung

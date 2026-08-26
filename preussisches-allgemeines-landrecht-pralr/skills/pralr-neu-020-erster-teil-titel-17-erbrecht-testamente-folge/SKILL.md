@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-020-erster-teil-titel-17-erbrecht-testamente-folge
-description: "Wenn es um PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge in Preußisches Allgemeines Landrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge

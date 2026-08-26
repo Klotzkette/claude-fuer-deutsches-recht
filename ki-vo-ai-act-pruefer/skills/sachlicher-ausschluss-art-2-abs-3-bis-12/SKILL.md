@@ -1,6 +1,6 @@
 ---
 name: sachlicher-ausschluss-art-2-abs-3-bis-12
-description: "Wenn es um Sachliche Ausschlüsse — Art. 2 Abs. 3 bis 12 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Sachlicher Ausschluss Art 2 Abs 3 Bis 12; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für Sachliche Ausschlüsse — Art. 2 Abs. 3 bis 12 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: sachlicher-ausschluss-art-2-abs-3-bis-12."
 ---
 
 # Sachliche Ausschlüsse — Art. 2 Abs. 3 bis 12 KI-VO

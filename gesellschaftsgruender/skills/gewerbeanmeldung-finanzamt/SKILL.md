@@ -1,6 +1,6 @@
 ---
 name: gewerbeanmeldung-finanzamt
-description: "Wenn es um Gewerbeanmeldung und Finanzamt-Erfassung in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gewerbeanmeldung und Finanzamt-Erfassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gewerbeanmeldung und Finanzamt-Erfassung

@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation-output-waehlen-redteam
-description: "Wenn es um Mandantenkommunikation in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Energierecht."
 ---
 
 # Mandantenkommunikation

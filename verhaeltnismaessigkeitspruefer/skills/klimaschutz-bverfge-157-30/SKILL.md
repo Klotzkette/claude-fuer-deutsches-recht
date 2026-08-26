@@ -1,6 +1,6 @@
 ---
 name: klimaschutz-bverfge-157-30
-description: "Wenn es um Klimaschutz BVerfGE 157 30 in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Klimaschutz BVerfGE 157 30: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klimaschutz BVerfGE 157 30

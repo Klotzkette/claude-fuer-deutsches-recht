@@ -1,6 +1,6 @@
 ---
 name: board-brief-agb
-description: "Wenn es um Board Brief AGB in AGB-Recht-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Board Brief AGB: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Board Brief AGB

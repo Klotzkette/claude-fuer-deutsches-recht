@@ -1,6 +1,6 @@
 ---
 name: datenschutz-und-informationelle-selbstbestimmung
-description: "Wenn es um Datenschutz und informationelle Selbstbestimmung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz und informationelle Selbstbestimmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz und informationelle Selbstbestimmung

@@ -1,6 +1,6 @@
 ---
 name: launch-readiness-legal-review
-description: "Wenn es um Weltraumrecht: Launch Readiness Legal Review in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Launch Readiness Legal Review: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Launch Readiness Legal Review

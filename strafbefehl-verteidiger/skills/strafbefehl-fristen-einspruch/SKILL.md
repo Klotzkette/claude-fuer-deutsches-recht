@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-fristen-einspruch
-description: "Wenn es um Frist und Einspruch nach Paragraf 410 StPO in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Frist und Einspruch nach Paragraf 410 StPO: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Frist und Einspruch nach § 410 StPO

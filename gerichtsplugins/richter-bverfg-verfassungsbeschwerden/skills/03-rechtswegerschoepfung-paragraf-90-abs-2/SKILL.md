@@ -1,6 +1,6 @@
 ---
 name: 03-rechtswegerschoepfung-paragraf-90-abs-2
-description: "Wenn es um 03 Rechtswegerschoepfung Paragraf 90 Abs 2 in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 03 Rechtswegerschöpfung Paragraf 90 Abs 2: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 03 Rechtswegerschoepfung Paragraf 90 Abs 2

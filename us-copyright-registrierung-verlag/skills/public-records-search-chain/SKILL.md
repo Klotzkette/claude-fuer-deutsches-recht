@@ -1,6 +1,6 @@
 ---
 name: public-records-search-chain
-description: "Wenn es um Public Records Search and Chain in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Public Records Search and Chain: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Public Records Search and Chain

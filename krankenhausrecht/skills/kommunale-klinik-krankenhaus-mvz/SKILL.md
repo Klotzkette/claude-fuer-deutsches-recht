@@ -1,6 +1,6 @@
 ---
 name: kommunale-klinik-krankenhaus-mvz
-description: "Wenn es um Kommunale Klinik Beihilfe und EU-Beihilfen in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Kommunale Klinik Beihilfe und EU-Beihilfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunale Klinik Beihilfe und EU-Beihilfen

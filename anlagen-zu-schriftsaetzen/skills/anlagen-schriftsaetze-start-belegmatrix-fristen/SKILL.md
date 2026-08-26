@@ -1,6 +1,6 @@
 ---
 name: anlagen-schriftsaetze-start-belegmatrix-fristen
-description: "Wenn es um Anlagen zu Schriftsätzen — Allgemein in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Anlagen zu Schriftsätzen — Allgemein: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Anlagen zu Schriftsätzen — Allgemein

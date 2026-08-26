@@ -1,6 +1,6 @@
 ---
 name: sportr-athletenvertrag-bauleiter
-description: "Wenn es um Sportr Athletenvertrag Bauleiter in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sportr Athletenvertrag Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauleiter Athletenvertrag: Vergütung, Image- und Vermarktungsrechte, Trainingspflichten, Wettkampfteilnahme, Dopingklausel, Beendigung

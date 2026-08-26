@@ -1,6 +1,6 @@
 ---
 name: amtlicher-bgb-zpo-normcheck
-description: "Wenn es um Amtlicher BGB/ZPO-Normcheck in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Amtlicher BGB/ZPO-Normcheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Amtlicher BGB/ZPO-Normcheck

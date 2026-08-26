@@ -1,6 +1,6 @@
 ---
 name: haftungsbegrenzung-und-carve-outs
-description: "Wenn es um Haftungsbegrenzung Und Carve Outs in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Haftungsbegrenzung und Carve Outs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haftungsbegrenzung Und Carve Outs

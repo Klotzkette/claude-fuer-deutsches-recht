@@ -1,6 +1,6 @@
 ---
 name: 07-berufungsverfahren-paragraf-511-ff
-description: "Wenn es um 07 Berufungsverfahren Paragraf 511 Ff in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 07 Berufungsverfahren Paragraf 511 Ff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 07 Berufungsverfahren Paragraf 511 Ff

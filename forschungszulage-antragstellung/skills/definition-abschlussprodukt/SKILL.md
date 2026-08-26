@@ -1,6 +1,6 @@
 ---
 name: definition-abschlussprodukt
-description: "Wenn es um Definition: Abschlussprodukt und Übergabe in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Definition: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Forschungszulage-Antragstellung. Route: definition-abschlussprodukt."
 ---
 
 # Definition: Abschlussprodukt und Übergabe

@@ -1,6 +1,6 @@
 ---
 name: physischer-deposit-shipping-slip
-description: "Wenn es um Physischer Deposit und Shipping Slip in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Physischer Deposit und Shipping Slip: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Physischer Deposit und Shipping Slip

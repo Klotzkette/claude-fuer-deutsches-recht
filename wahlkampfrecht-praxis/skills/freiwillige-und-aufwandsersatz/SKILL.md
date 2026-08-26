@@ -1,6 +1,6 @@
 ---
 name: freiwillige-und-aufwandsersatz
-description: "Wenn es um Freiwillige Und Aufwandsersatz in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freiwillige und Aufwandsersatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freiwillige Und Aufwandsersatz

@@ -1,6 +1,6 @@
 ---
 name: online-verfahren-11-buch-zpo-experimentell
-description: "Wenn es um Online-Verfahren — das neue digitale Zivilverfahren in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Online-Verfahren — das neue digitale Zivilverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Online-Verfahren — das neue digitale Zivilverfahren

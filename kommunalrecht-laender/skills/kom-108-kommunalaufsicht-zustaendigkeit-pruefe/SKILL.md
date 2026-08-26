@@ -1,6 +1,6 @@
 ---
 name: kom-108-kommunalaufsicht-zustaendigkeit-pruefe
-description: "Wenn es um Kommunalaufsicht Zustaendigkeit Pruefe in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunalaufsicht Zuständigkeit Prüfe: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kommunalrecht der Länder. Route: kom-108-kommunalaufsicht-zustaendigkeit-pruefe."
 ---
 
 # Kommunalaufsicht Zustaendigkeit Pruefe

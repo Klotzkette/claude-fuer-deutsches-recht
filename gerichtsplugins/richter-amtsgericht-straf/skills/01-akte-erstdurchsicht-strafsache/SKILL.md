@@ -1,6 +1,6 @@
 ---
 name: 01-akte-erstdurchsicht-strafsache
-description: "Wenn es um 01 Akte Erstdurchsicht Strafsache in Richter Amtsgericht Strafsachen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 01 Akte Erstdurchsicht Strafsache: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 01 Akte Erstdurchsicht Strafsache

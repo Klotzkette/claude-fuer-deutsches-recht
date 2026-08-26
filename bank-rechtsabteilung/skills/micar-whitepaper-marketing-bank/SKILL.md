@@ -1,6 +1,6 @@
 ---
 name: micar-whitepaper-marketing-bank
-description: "Wenn es um MiCAR Whitepaper und Werbung in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für MiCAR Whitepaper und Werbung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MiCAR Whitepaper und Werbung

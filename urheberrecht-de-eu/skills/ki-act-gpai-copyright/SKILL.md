@@ -1,6 +1,6 @@
 ---
 name: ki-act-gpai-copyright
-description: "Wenn es um europäischer Technikregulierungsrahmen GPAI und Urheberrechtspolitik in Urheberrecht DE EU geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für europäischer Technikregulierungsrahmen GPAI und Urheberrechtspolitik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-VO GPAI und Urheberrechtspolitik

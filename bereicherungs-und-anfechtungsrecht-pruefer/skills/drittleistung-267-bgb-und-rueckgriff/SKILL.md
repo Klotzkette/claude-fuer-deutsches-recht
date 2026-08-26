@@ -1,6 +1,6 @@
 ---
 name: drittleistung-267-bgb-und-rueckgriff
-description: "Wenn es um Drittleistung nach Paragraf 267 BGB und Rückgriff in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Drittleistung 267 BGB Und Rueckgriff; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Drittleistung nach Paragraf 267 BGB und Rückgriff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: drittleistung-267-bgb-und-rueckgriff."
 ---
 
 # Drittleistung nach § 267 BGB und Rückgriff

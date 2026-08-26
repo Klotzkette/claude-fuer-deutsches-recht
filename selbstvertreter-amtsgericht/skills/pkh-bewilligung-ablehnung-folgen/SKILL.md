@@ -1,6 +1,6 @@
 ---
 name: pkh-bewilligung-ablehnung-folgen
-description: "Wenn es um Wenn PKH bewilligt oder abgelehnt wird in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wenn PKH bewilligt oder abgelehnt wird: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wenn PKH bewilligt oder abgelehnt wird

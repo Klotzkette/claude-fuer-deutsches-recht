@@ -1,6 +1,6 @@
 ---
 name: share-classes-anfaenger
-description: "Wenn es um Share Classes und Vorzugsrechte in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Share Classes und Vorzugsrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Share Classes und Vorzugsrechte

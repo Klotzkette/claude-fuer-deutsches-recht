@@ -1,6 +1,6 @@
 ---
 name: humor-coach-interpretation-precedent-common
-description: "Wenn es um Low-Key Late-Night Coach in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Low-Key Late-Night Coach: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Low-Key Late-Night Coach

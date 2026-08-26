@@ -1,6 +1,6 @@
 ---
 name: hgesr-mbg-modernisierungsgesetz-praxis
-description: "Wenn es um Hgesr Mbg Modernisierungsgesetz Praxis in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hgesr Mbg Modernisierungsgesetz Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MoPeG (Modernisierungsgesetz Personengesellschaftsrecht) seit 2024 in der Praxis: neue GbR mit Rechtsfaehigkeit und Gesellschaftsregister, Auswirkungen auf Grundbuch, OHG-Aktualisierungen, KG-Detailaenderungen

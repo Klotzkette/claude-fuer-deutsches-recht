@@ -1,6 +1,6 @@
 ---
 name: urhg-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Urhg: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Urheber Medienrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Urhg: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Urhg: Dokumentenmatrix, Lückenliste und Nachforderung

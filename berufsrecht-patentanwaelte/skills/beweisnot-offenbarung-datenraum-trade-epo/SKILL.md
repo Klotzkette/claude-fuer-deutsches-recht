@@ -1,6 +1,6 @@
 ---
 name: beweisnot-offenbarung-datenraum-trade-epo
-description: "Wenn es um Beweisnot Offenbarung Datenraum Trade Epo in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Beweisnot Offenbarung Datenraum Trade Epo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Patentanwälte: beweisnot bei offenbarung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

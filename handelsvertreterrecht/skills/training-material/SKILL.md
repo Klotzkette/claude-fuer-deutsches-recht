@@ -1,6 +1,6 @@
 ---
 name: training-material
-description: "Wenn es um Schulungs- und Trainingsunterlagen zum Handelsvertreterrecht nach HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Schulungs- und Trainingsunterlagen zum Handelsvertreterrecht nach HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulungs- und Trainingsunterlagen zum Handelsvertreterrecht nach HGB

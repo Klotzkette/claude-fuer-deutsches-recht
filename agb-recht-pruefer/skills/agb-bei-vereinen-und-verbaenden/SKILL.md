@@ -1,6 +1,6 @@
 ---
 name: agb-bei-vereinen-und-verbaenden
-description: "Wenn es um Agb Bei Vereinen Und Verbaenden in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB bei Vereinen und Verbänden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agb Bei Vereinen Und Verbaenden

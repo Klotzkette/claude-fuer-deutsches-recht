@@ -1,6 +1,6 @@
 ---
 name: versandfreigabe-und-eingang-sichern
-description: "Führt die letzte technische und organisatorische Freigabe der Versandmappe durch: öffnet jede Enddatei, gleicht Empfänger, Aktenzeichen, Frist, Schriftsatzfassung, Anlagenfolge, Bytes, Hashes, Signaturroute und Nachrichtenteile ab, erzeugt einen unterschriftsreifen Freigabevermerk und bereitet die Prüfung und Ablage der automatisierten Eingangsbestätigung vor."
+description: "Führt die letzte technische und organisatorische Freigabe der Versandmappe durch: öffnet jede Enddatei, gleicht Empfänger, Aktenzeichen, Frist, Schriftsatzfassung, Anlagenfolge, Bytes, Hashes, Signaturroute und Nachrichtenteile ab, erzeugt einen unterschriftsreifen Freigabevermerk und bereitet die Prüfung und Ablage der automatisierten Eingangsbestätigung."
 ---
 
 # Versandfreigabe und Eingang sichern

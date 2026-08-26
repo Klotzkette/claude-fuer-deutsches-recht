@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 31 Skills des Plugins `arbeitszeugnisprue
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Arbeitszeugnisprüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbind…
-2. **zeugnisklarheit-objektiver-empfaengerhorizont** — Wenn es um Zeugnisklarheit nach dem objektiven Empfaengerhorizont (BAG 9 AZR 352.04; 9 AZR 386.10) in Arbeitszeugnisprue…
-3. **zusammenfassungsformel-erkennen** — Wenn es um Zusammenfassungsformel erkennen und decodieren in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Bewei…
-4. **rollen-und-modus-wahl** — Wenn es um Rollen- und Moduswahl vor der Zeugnispruefung in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweis…
-5. **taetigkeitsabschnitt-wertigkeit-pruefen** — Wenn es um Taetigkeitsabschnitt und Wertigkeit pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweisla…
-6. **doppelboeden-und-verneinungen** — Wenn es um Doppelboeden und Verneinungen erkennen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, G…
-7. **notenstufen-bag-9-azr-386-10** — Wenn es um Notenstufen nach BAG 9 AZR 386.10 in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
-8. **aufforderungsschreiben-berichtigung** — Wenn es um Aufforderungsschreiben Berichtigung in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
-9. **schaufenster-und-drift-erkennen** — Wenn es um Schaufenster- und Drift-Erkennung in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
-10. **fuehrungskraft-verhalten-pruefen** — Wenn es um Fuehrungskraft-Verhalten pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenar…
-11. **einfuehrung-pruefauftrag** — Wenn es um Einfuehrung in den Pruefauftrag in Arbeitszeugnispruefer geht: klärt Rolle, Ziel, Frist, Unterlagen und den p…
-12. **intake-und-stammdaten-pruefen** — Wenn es um Intake und Stammdaten pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
-13. **ampel-einschaetzung-pro-satz** — Wenn es um Ampel-Einschaetzung pro Satz in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
-14. **steigerungsadverbien-pruefen** — Wenn es um Steigerungsadverbien pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
-15. **personenreihenfolge-pruefen** — Wenn es um Personenreihenfolge pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumen…
+2. **zeugnisklarheit-objektiver-empfaengerhorizont** — Für Zeugnisklarheit nach dem objektiven Empfängerhorizont (BAG 9 AZR 352.04; 9 AZR 386.10): ordnet Norm, Beweislast und …
+3. **zusammenfassungsformel-erkennen** — Für Zusammenfassungsformel erkennen und decodieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit…
+4. **rollen-und-modus-wahl** — Für Rollen- und Moduswahl vor der Zeugnisprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit R…
+5. **taetigkeitsabschnitt-wertigkeit-pruefen** — Für Tätigkeitsabschnitt und Wertigkeit prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risi…
+6. **aeussere-form-und-briefkopf** — Für Äußere Form und Briefkopf prüfen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründ…
+7. **klagestrategie-und-vollstreckung** — Für Klagestrategie und Vollstreckung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründ…
+8. **doppelboeden-und-verneinungen** — Für Doppelböden und Verneinungen erkennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko u…
+9. **aufforderungsschreiben-berichtigung** — Für Aufforderungsschreiben Berichtigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und…
+10. **schlussformel-notenwirkung-bewerten** — Für Schlussformel-Notenwirkung bewerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und…
+11. **notenstufen-bag-9-azr-386-10** — Für Notenstufen nach BAG 9 AZR 386.10: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und n…
+12. **schaufenster-und-drift-erkennen** — Für Schaufenster- und Drift-Erkennung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und n…
+13. **fuehrungskraft-verhalten-pruefen** — Für Führungskraft-Verhalten prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und näch…
+14. **einfuehrung-pruefauftrag** — Für Einführung in den Prüfauftrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächs…
+15. **intake-und-stammdaten-pruefen** — Für Intake und Stammdaten prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächst…
 
 ---
 
@@ -150,7 +150,7 @@ Ausgangspunkt für dieses Plugin: Arbeitnehmer für Berichtigungsziel und besser
 
 ## Skill: `zeugnisklarheit-objektiver-empfaengerhorizont`
 
-_Wenn es um Zeugnisklarheit nach dem objektiven Empfaengerhorizont (BAG 9 AZR 352.04; 9 AZR 386.10) in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Zeugnisklarheit nach dem objektiven Empfängerhorizont (BAG 9 AZR 352.04; 9 AZR 386.10): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Zeugnisklarheit nach dem objektiven Empfaengerhorizont (BAG 9 AZR 352.04; 9 AZR 386.10)
 
@@ -166,7 +166,7 @@ Pruefanweisung: Der Pruefer prueft jede Formulierung, die auf den ersten Blick p
 
 ## Skill: `zusammenfassungsformel-erkennen`
 
-_Wenn es um Zusammenfassungsformel erkennen und decodieren in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Zusammenfassungsformel erkennen und decodieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Zusammenfassungsformel erkennen und decodieren
 
@@ -182,7 +182,7 @@ Zusammenfassungsformel und Einzelsaetze abgleichen: Im naechsten Schritt werden 
 
 ## Skill: `rollen-und-modus-wahl`
 
-_Wenn es um Rollen- und Moduswahl vor der Zeugnispruefung in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Rollen- und Moduswahl vor der Zeugnisprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Rollen- und Moduswahl vor der Zeugnispruefung
 
@@ -198,7 +198,7 @@ Ein Aufforderungsschreiben wird nur bei Arbeitnehmerperspektive und mindestens e
 
 ## Skill: `taetigkeitsabschnitt-wertigkeit-pruefen`
 
-_Wenn es um Taetigkeitsabschnitt und Wertigkeit pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Tätigkeitsabschnitt und Wertigkeit prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Taetigkeitsabschnitt und Wertigkeit pruefen
 
@@ -212,9 +212,43 @@ Schaufenster-Muster als Warnsignal: Ein langer, sehr positiver Aufgabenkatalog s
 
 ---
 
+## Skill: `aeussere-form-und-briefkopf`
+
+_Für Äußere Form und Briefkopf prüfen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
+
+# Aeussere Form und Briefkopf pruefen
+
+Ein Arbeitszeugnis muss den im Geschaeftsleben ueblichen Anforderungen genuegen. Der Pruefer untersucht die aeussere Form unabhaengig von Noten und Formulierungen, weil formale Maengel eigene Berichtigungspunkte sind und das Zeugnis in der Praxis entwerten koennen, selbst wenn der Text inhaltlich korrekt ist.
+
+Briefkopf und Gestaltung: Das Zeugnis muss auf dem Geschaeftspapier des Arbeitgebers ausgestellt sein. Fehlender Briefkopf oder neutrales Papier ist ein Formmangel. Nach gefestigter Rechtsprechung erfuellt ein qualifiziertes Zeugnis in tabellarischer Form oder im Ankreuzschema den Anspruch aus Paragraf 109 GewO regelmaessig nicht; notwendig ist Fliesstext mit individueller Hervorhebung und Differenzierung. Das einschlaegige BAG-Aktenzeichen ist vor Verwendung im Mandat in einer freien Quelle (bundesarbeitsgericht.de, dejure.org, openjur.de) zu verifizieren.
+
+Unterschrift: Schliesst das Zeugnis mit Name und Funktion einer Person in Maschinenschrift, muss genau diese Person eigenhaendig unterschreiben (BAG 21.9.1999 - 9 AZR 893.98). Eine Unterschrift durch eine hierarchisch tiefer stehende Person ist ein Formsignal, das der Pruefer als roten Befund kennzeichnet. Eine quer durch den Zeugnistext laufende Unterschrift oder ein in die Unterschrift eingearbeiteter Smiley mit herabgezogenen Mundwinkeln sind unzulaessige Geheimzeichen nach Paragraf 109 Absatz 2 Satz 2 GewO (ArbG Kiel 18.4.2013 - 5 Ca 80 b.13; LAG Hamm 14.11.2016 - 12 Ta 475.16).
+
+Knickstellen und Kopierbarkeit: Zweimaliges Falten fuer den Versand ist zulaessig, wenn das Original kopierfahig bleibt und Knicke nicht auf Kopien durchschlagen. Sichtbare Druckstellen oder Beschaedigungen koennen den Wert des Zeugnisses mindern und sind im Befund zu erwaehnen. Datum und Ort werden gegen die bekannten Beschaeftigungseckdaten abgeglichen; ein Ausstellungsdatum, das vor dem Beendigungsdatum liegt, ist ein Formmangel.
+
+---
+
+## Skill: `klagestrategie-und-vollstreckung`
+
+_Für Klagestrategie und Vollstreckung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
+
+# Klagestrategie und Vollstreckung
+
+Wenn das Aufforderungsschreiben fruchtlos bleibt oder der Arbeitgeber nur unzureichend reagiert, ist die Klage auf Zeugnisberichtigung der naechste Schritt. Sie ist eine Leistungsklage beim Arbeitsgericht auf Verurteilung des Arbeitgebers zur Erteilung eines Zeugnisses mit praezise formuliertem Wortlaut. Der Streitwert betraegt in der Regel ein Bruttomonatsgehalt; mehrere Streitpunkte addieren sich nicht, weil der Anspruch auf das berichtigte Zeugnis nur einmal entsteht.
+
+Musterklageantrag: Der Beklagte wird verurteilt, der Klaegerin ein qualifiziertes Arbeitszeugnis zu erteilen, das auf dem Briefkopf des Beklagten ausgestellt ist, das Beendigungsdatum traegt, vom dazu Befugten unterschrieben ist und folgenden Inhalt aufweist: erstens in der Leistungsbeurteilung statt [Originalwortlaut] die Formulierung [Neufassung]; zweitens in der Verhaltensbeurteilung die Reihenfolge Vorgesetzte vor Kollegen vor Kunden mit dem Steigerer [X] und dem Praedikat [Y]; drittens [weitere Punkte analog]. Jeder Antragspunkt bezieht sich auf eine benannte Streitstelle aus dem Mandantenbericht.
+
+Kostenrisiko: Paragraf 12a ArbGG schliesst im erstinstanzlichen arbeitsgerichtlichen Verfahren die Erstattung eigener Anwaltskosten aus, und die Gegenseite kann ihre Kosten ebenfalls nicht erstattet verlangen. Nach BAG 28.11.2019 (8 AZR 293.18) gilt das auch fur materiell-rechtliche Anspruche auf vor- und aussergerichtliche Rechtsverfolgungskosten. Dieses Kostenrisiko muss der Mandant realistisch kennen, bevor er klagt.
+
+Vergleichsfenster und Vollstreckung: Haufig ist vor dem Gutetermin ein Vergleich erreichbar. Ein vorformulierter Vergleichstext mit der Entwurfsklausel des Arbeitnehmers und einem Abweichungsvorbehalt nur aus wichtigem Grund schafft einen vollstreckbaren Titel. Erfullt der Arbeitgeber nach Urteil oder Vergleich nicht, steht Zwangsgeld nach Paragraf 888 ZPO zur Verfugung, weil die Zeugniserteilung eine nicht vertretbare Handlung ist. Ironische Ueberfuellung gilt als Nichterfuellung (LAG Hamm 14.11.2016 - 12 Ta 475.16). Bei substantiiertem Streit uber Zeugniswahrheit oder Zeugnisklarheit ist das Erkenntnisverfahren und nicht das Vollstreckungsverfahren zustandig.
+
+Ausgabeformat: Klageantrag, Vergleichstext und Begruendung werden als vollstaendig ausformuliertes Endprodukt in ganzen Saetzen geliefert; ein blosses Antrags- oder Klauselskelett ist als Endprodukt verboten. Fehlende Angaben werden als klar lesbare Platzhalter gesetzt (zum Beispiel [Name der Klaegerin], [Bruttomonatsgehalt in EUR], [Streitstelle]), der umgebende Text bleibt vollstaendig. Soweit technisch moeglich wird in Times New Roman 11 pt und ausschliesslich dezimaler Gliederung (1, dann 1.1, dann 1.1.1) ausgegeben; bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+
+---
+
 ## Skill: `doppelboeden-und-verneinungen`
 
-_Wenn es um Doppelboeden und Verneinungen erkennen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Doppelböden und Verneinungen erkennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Doppelboeden und Verneinungen erkennen
 
@@ -228,9 +262,43 @@ Pruefanweisung: Der Pruefer liest jeden Satz zweimal: einmal woertlich und einma
 
 ---
 
+## Skill: `aufforderungsschreiben-berichtigung`
+
+_Für Aufforderungsschreiben Berichtigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Aufforderungsschreiben Berichtigung
+
+Das aussergerichtliche Aufforderungsschreiben ist das erste formale Instrument der Berichtigungsstrategie. Es erfullt drei Funktionen: Es gibt dem Arbeitgeber eine faire Korrekturgelegenheit, es schaerft die Streitpunkte und es schafft die Grundlage fur Fristsetzung und Verzug. Ton ist hoeflich, sachlich und bestimmt. Keine Drohgebaerden, keine Ironie, die Klageandrohung erscheint nur einmal am Ende.
+
+Die acht Bausteine: Erstens Mandatsanzeige mit beigefugter Vollmacht und vollstaendigen Mandantendaten. Zweitens Bezugnahme auf das Zeugnis mit Datum der Erteilung, Datum der Aushandigung, Zeugnisart und Feststellung des Berichtigungsbedarfs. Drittens Rechtsgrundlage: Paragraf 109 Absatz 1 GewO Zeugnisanspruch, Paragraf 109 Absatz 2 GewO fur Klarheit und Geheimzeichenverbot, BAG-Beweislastregel (14.10.2003 - 9 AZR 12.03; 18.11.2014 - 9 AZR 584.13). Viertens Beanstandungen pro Streitstelle: Originalwortlaut in Anfuhrungszeichen, Decodierung, Neufassungsvorschlag in Anfuhrungszeichen, Begruendung. Fuenftens Schlussformel separat, wenn relevant. Sechstens Fristsetzung mit konkretem Datum (nicht „binnen zwei Wochen", sondern ein benanntes Datum, Standard zwei bis drei Wochen). Siebentens Klageandrohung, einmal, knapp, sachlich. Achtens Anlagenverzeichnis: Vollmacht, Zeugnis, Vorzeugnis oder weitere Belege.
+
+Stilregel Kosten: Vorgerichtliche Anwaltskosten im arbeitsgerichtlichen Kontext nicht standardmaessig als Verzugsschaden geltend machen. Der Ausschluss nach Paragraf 12a ArbGG erfasst nach BAG 28.11.2019 (8 AZR 293.18) auch materiell-rechtliche Anspruche auf aussergerichtliche Rechtsverfolgungskosten bis zum Schluss einer moglichen ersten Instanz. Dieser Punkt ist vor jeder Kostenforderung gesondert zu prufen.
+
+Berichtigungsverfahren und Massregelungsverbot: Das Aufforderungsschreiben lost das Berichtigungsverfahren aus. Der Mandant riskiert dadurch nicht den Verlust einer bereits erteilten Schlussformel; ihr Schutz folgt aus dem Massregelungsverbot (Paragraf 612a BGB; BAG 6.6.2023 - 9 AZR 272.22). Dieser Schutz ist im Schreiben nicht zu erwaehnen, aber intern bekannt zu halten.
+
+Ausgabeformat: Das Aufforderungsschreiben wird als vollstaendig ausformuliertes Endprodukt in ganzen, subsumtionstauglichen Saetzen geliefert; Stichpunkte, Halbsaetze und leere Klauselruempfe sind als Endprodukt verboten. Fehlende Mandantsangaben werden als klar lesbare Platzhalter gesetzt (zum Beispiel [Name der Mandantin], [Datum TT.MM.JJJJ], [Frist TT.MM.JJJJ]), der umgebende Text bleibt vollstaendig. Soweit technisch moeglich wird in Times New Roman 11 pt und ausschliesslich dezimaler Gliederung (1, dann 1.1, dann 1.1.1) ausgegeben; bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+
+---
+
+## Skill: `schlussformel-notenwirkung-bewerten`
+
+_Für Schlussformel-Notenwirkung bewerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Schlussformel-Notenwirkung bewerten
+
+Die Notenwirkung der Schlussformel ergibt sich aus der Vollstaendigkeit ihrer Bausteine. Der Pruefer zaehlt, welche der fuenf Standardbausteine vorhanden sind, und ordnet das Ergebnis der Ampel-Skala zu. Diese Bewertung fliesst in die Gesamtnotenspanne ein, wird aber immer mit dem Hinweis verbunden, dass die Schlussformel nur bedingt klagbar ist.
+
+Ampel-Tabelle Schlussbausteine: Alle fuenf Bausteine (Bedauern, Dank, beruflicher Wunsch, persoenlicher Wunsch, Erfolgswunsch) vorhanden: Note 1, gruen. Vier Bausteine: Note 2, gruen. Drei Bausteine: Note 3, orange. Nur Dank und Wunsch, kein Bedauern: Distanzsignal, orange. Nur Wunsch ohne Dank: Kalter Schluss, rot bis orange. Kommentarlos sachlich wie „Das Arbeitsverhaltnis endete am [Datum]": Distanzsignal, rot bis orange. Schlussformel fehlt: BAG-Sicht kein Anspruch, Verhandlungspunkt, orange.
+
+Sonderfaelle und Passivkonstruktionen: „Das Arbeitsverhaltnis endet" ohne weitere Worte ist eine Passivkonstruktion mit Distanzsignal, kein rechtlicher Mangel fuer sich allein, aber ein orangefarbener Befund im Gesamtbild. Eigenkuendigung ohne Bedauern ist haeufig erklaerbar und allein selten ein Berichtigungspunkt. Datumsangabe ohne weitere Worte am Ende ist ein Zeichen kalter Trennung und ein Verhandlungspunkt.
+
+Taktische Konsequenz: Die Schlussformel gehoert in die Verhandlung, nicht in den Klageantrag. Im Aufforderungsschreiben wird sie als Bitte und nicht als Rechtsanspruch formuliert, verbunden mit dem Hinweis auf das stimmige Gesamtbild. Im Klagestrategie-Modul erhaelt die Schlussformel keinen eigenstaendigen Klageantrag, es sei denn, sie enthalt unzulaessige Tatsachenbehauptungen oder ist Teil einer Massregelungssituation nach dem Berichtigungsverfahren.
+
+---
+
 ## Skill: `notenstufen-bag-9-azr-386-10`
 
-_Wenn es um Notenstufen nach BAG 9 AZR 386.10 in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Notenstufen nach BAG 9 AZR 386.10: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Notenstufen nach BAG 9 AZR 386.10
 
@@ -250,27 +318,9 @@ Anwendungshinweis: Der Pruefer ordnet die Leistungsformel der Notenstufe zu, ben
 
 ---
 
-## Skill: `aufforderungsschreiben-berichtigung`
-
-_Wenn es um Aufforderungsschreiben Berichtigung in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Aufforderungsschreiben Berichtigung
-
-Das aussergerichtliche Aufforderungsschreiben ist das erste formale Instrument der Berichtigungsstrategie. Es erfullt drei Funktionen: Es gibt dem Arbeitgeber eine faire Korrekturgelegenheit, es schaerft die Streitpunkte und es schafft die Grundlage fur Fristsetzung und Verzug. Ton ist hoeflich, sachlich und bestimmt. Keine Drohgebaerden, keine Ironie, die Klageandrohung erscheint nur einmal am Ende.
-
-Die acht Bausteine: Erstens Mandatsanzeige mit beigefugter Vollmacht und vollstaendigen Mandantendaten. Zweitens Bezugnahme auf das Zeugnis mit Datum der Erteilung, Datum der Aushandigung, Zeugnisart und Feststellung des Berichtigungsbedarfs. Drittens Rechtsgrundlage: Paragraf 109 Absatz 1 GewO Zeugnisanspruch, Paragraf 109 Absatz 2 GewO fur Klarheit und Geheimzeichenverbot, BAG-Beweislastregel (14.10.2003 - 9 AZR 12.03; 18.11.2014 - 9 AZR 584.13). Viertens Beanstandungen pro Streitstelle: Originalwortlaut in Anfuhrungszeichen, Decodierung, Neufassungsvorschlag in Anfuhrungszeichen, Begruendung. Fuenftens Schlussformel separat, wenn relevant. Sechstens Fristsetzung mit konkretem Datum (nicht „binnen zwei Wochen", sondern ein benanntes Datum, Standard zwei bis drei Wochen). Siebentens Klageandrohung, einmal, knapp, sachlich. Achtens Anlagenverzeichnis: Vollmacht, Zeugnis, Vorzeugnis oder weitere Belege.
-
-Stilregel Kosten: Vorgerichtliche Anwaltskosten im arbeitsgerichtlichen Kontext nicht standardmaessig als Verzugsschaden geltend machen. Der Ausschluss nach Paragraf 12a ArbGG erfasst nach BAG 28.11.2019 (8 AZR 293.18) auch materiell-rechtliche Anspruche auf aussergerichtliche Rechtsverfolgungskosten bis zum Schluss einer moglichen ersten Instanz. Dieser Punkt ist vor jeder Kostenforderung gesondert zu prufen.
-
-Berichtigungsverfahren und Massregelungsverbot: Das Aufforderungsschreiben lost das Berichtigungsverfahren aus. Der Mandant riskiert dadurch nicht den Verlust einer bereits erteilten Schlussformel; ihr Schutz folgt aus dem Massregelungsverbot (Paragraf 612a BGB; BAG 6.6.2023 - 9 AZR 272.22). Dieser Schutz ist im Schreiben nicht zu erwaehnen, aber intern bekannt zu halten.
-
-Ausgabeformat: Das Aufforderungsschreiben wird als vollstaendig ausformuliertes Endprodukt in ganzen, subsumtionstauglichen Saetzen geliefert; Stichpunkte, Halbsaetze und leere Klauselruempfe sind als Endprodukt verboten. Fehlende Mandantsangaben werden als klar lesbare Platzhalter gesetzt (zum Beispiel [Name der Mandantin], [Datum TT.MM.JJJJ], [Frist TT.MM.JJJJ]), der umgebende Text bleibt vollstaendig. Soweit technisch moeglich wird in Times New Roman 11 pt und ausschliesslich dezimaler Gliederung (1, dann 1.1, dann 1.1.1) ausgegeben; bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
-
----
-
 ## Skill: `schaufenster-und-drift-erkennen`
 
-_Wenn es um Schaufenster- und Drift-Erkennung in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Schaufenster- und Drift-Erkennung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Schaufenster- und Drift-Erkennung
 
@@ -286,7 +336,7 @@ Widerspruchs-Drift: Hohe Einzelnoten in den Detailsaetzen plus niedrige Hauptnot
 
 ## Skill: `fuehrungskraft-verhalten-pruefen`
 
-_Wenn es um Fuehrungskraft-Verhalten pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Führungskraft-Verhalten prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Fuehrungskraft-Verhalten pruefen
 
@@ -302,7 +352,7 @@ Unterschrifts-Hierarchie bei Fuehrungskraeften: Das Zeugnis einer Fuehrungskraft
 
 ## Skill: `einfuehrung-pruefauftrag`
 
-_Wenn es um Einfuehrung in den Pruefauftrag in Arbeitszeugnispruefer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Einführung in den Prüfauftrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Einfuehrung in den Pruefauftrag
 
@@ -333,7 +383,7 @@ Der Pruefer legt den Umfang der Analyse vor der eigentlichen Zeugnislektuere fes
 
 ## Skill: `intake-und-stammdaten-pruefen`
 
-_Wenn es um Intake und Stammdaten pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Intake und Stammdaten prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Intake und Stammdaten pruefen
 
@@ -344,60 +394,6 @@ Die acht Intake-Punkte sind: Rolle des Einsenders, Ziel der Pruefung, Zeugnisart
 Die Stammdaten werden gegen das Zeugnis abgeglichen. Typische Diskrepanzen sind abweichender Beschaeftigungszeitraum zwischen Zeugnis und Arbeitsvertrag, fehlende oder unvollstaendige Positionsbezeichnung, falscher Ausstellungsort, oder ein Datum, das nach dem tatsaechlichen Beendigungsdatum liegt. Jede Diskrepanz ist ein eigener Berichtigungspunkt und wird im Mandantenbericht als solcher ausgewiesen.
 
 Bei Ausbildungszeugnissen nach Paragraf 16 BBiG wird geprueft, ob Verhalten und Leistung nur auf Verlangen der Auszubildenden aufgenommen wurden. Seit 1.8.2024 ist elektronische Form mit qualifizierter elektronischer Signatur zulaessig. Bei qualifizierten Zeugnissen wird geprueft, ob Leistungs- und Verhaltensbeurteilung vorhanden sind; fehlt eine davon, ist das ein Mangel nach Paragraf 109 Absatz 1 Satz 3 GewO.
-
----
-
-## Skill: `ampel-einschaetzung-pro-satz`
-
-_Wenn es um Ampel-Einschaetzung pro Satz in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Ampel-Einschaetzung pro Satz
-
-Die satzweise Einschaetzungsmatrix ist das methodische Kernwerkzeug der Zeugnispruefung. Fuer jeden notenrelevanten Satz werden fuenf Informationen erhoben und in einer Tabellenzeile zusammengefasst. Das Ergebnis ist eine nachvollziehbare, rechtsprechungsbasierte Bewertung aller Schlusselsaetze.
-
-Die fuenf Matrixspalten: Erstens Originalwortlaut (exakt, in Anfuhrungszeichen), zweitens decodierte Aussage (was sagt der Satz im Klartext aus Sicht des objektiven Empfaengers), drittens Notentendenz als Zahl oder Spanne (zum Beispiel 3 bis 4), viertens Ampelfarbe in Worten (gruen, orange, rot) oder als Doppelwertung bei Mischbefunden (gruen-orange), fuenftens Katalogfundstelle und wo vorhanden die tragende BAG-Entscheidung aus dem Rechtsprechungsanker.
-
-Ampelzuordnung: gruen steht fuer Note 1 bis 2 und unbedenkliche Formulierungen. orange steht fuer Note 3, Abschwachungen und Verhandlungspunkte. rot steht fuer Note 4 bis 6, Negativcodes und dringende Berichtigungspunkte. Mischbefunde werden als Doppelwertung ausgewiesen, zum Beispiel gruen-orange bei einem Satz mit Standardsteigerer aber fehlendem Maximalfokus.
-
-Unsicherheitsvermerke: Wenn ein Satz nicht im Katalog steht und keine BAG-Entscheidung unmittelbar greift, wird die Notentendenz als Annahme gekennzeichnet (zum Beispiel: „Tendenz Note 3, Ableitung aus dem objektiven Empfaengerhorizont; keine direkte BAG-Stuetze; Live-Recherche empfohlen"). Der Pruefer behauptet nie eine sichere Codierung, wenn die Grundlage unsicher ist. Am Ende der Matrix wird eine Ampel-Bilanz-Zeile ausgegeben, die die Verteilung der Bewertungen auf einen Blick zeigt.
-
----
-
-## Skill: `steigerungsadverbien-pruefen`
-
-_Wenn es um Steigerungsadverbien pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Steigerungsadverbien pruefen
-
-Die deutsche Zeugnissprache regelt die Note massgeblich ueber das Adverb, das einer Bewertungsaussage vorangestellt ist. Ein fehlendes Adverb entspricht einer ganzen Note Abzug. Der Pruefer prueft systematisch, welche Adverbien an welcher Stelle stehen, und ordnet sie der Notenwirkung zu.
-
-Maximalsteigerer (Note 1): „stets vollster", „jederzeit aeusserst", „vollkommen", „aeusserst", „in hoechstem Masse", „uneingeschraenkt", „absolut", „in allen Belangen". Diese Adverbien sind nur an der Stelle Note 1 belegend, wo sie stehen; ein Maximalsteigerer in einem Detailsatz hebt nicht automatisch die Gesamtnote.
-
-Standardsteigerer (Note 1 bis 2): „stets", „jederzeit", „immer", „durchgehend", „zu jeder Zeit", „ohne Ausnahme". Sie heben die Aussage um eine Note gegenueber der Grundformel. „Stets zur vollen Zufriedenheit" ergibt Note 2; „zur vollen Zufriedenheit" ohne „stets" ergibt Note 3.
-
-Scheinsteigerer (Note 3): „regelmaessig", „im Allgemeinen", „zumeist". Diese Adverbien klingen nach Steigerung, beschreiben aber nur die Normallage und erheben die Note nicht.
-
-Abschwaecher (Note 3 bis 4): „ueberwiegend", „weitgehend", „grundsaetzlich". Alle drei beinhalten sprachlich die Implikation von Ausnahmen und draengen die Note in Richtung 3 bis 4.
-
-Starke Negativsteigerer (Note 4 bis 5): „im Wesentlichen", „im Grossen und Ganzen", „bei guten Tagen". Sie signalisieren erhebliche Maengel oder schwankende Leistung.
-
-Auslassungsregel: Fehlt der Steigerer im gesamten Zeugnis, ist Note 1 nicht erreichbar. Fehlt er an genau einer Stelle, waehrend alle anderen Saetze einen Standardsteigerer tragen, ist das ein punktuelles Drift-Signal an dieser Stelle. Der Pruefer fuehrt jeden Satz mit dem zugehoerigen Adverb in der Einschaetzungsmatrix auf.
-
----
-
-## Skill: `personenreihenfolge-pruefen`
-
-_Wenn es um Personenreihenfolge pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Personenreihenfolge pruefen
-
-Die Reihenfolge, in der die Bezugspersonen im Verhaltensabschnitt genannt werden, ist kein neutrales Stilmittel, sondern ein normativer Bestandteil der Zeugnissprache. Eine falsche Reihenfolge sendet ein klares Negativsignal und ist ein eigenstaendiger Berichtigungspunkt mit hoher Erfolgsaussicht.
-
-Standardreihenfolge: Vorgesetzte werden zuerst genannt, dann Kollegen, dann Kunden oder externe Partner. In manchen Branchen (zum Beispiel Dienstleistung, Handel) wird Kundenkontakt prominent und kann an zweiter Stelle stehen, wenn der Kundenkontakt nachweislich die primaere Interaktionsebene war. Der Pruefer prueft, ob eine Branchenanpassung sachlich begruendet ist oder ob die Umstellung ein verstecktes Signal darstellt.
-
-Signalwirkung einer Umkehrung: Werden Kollegen vor Vorgesetzten genannt, signalisiert das dem kundigen Leser, dass das Verhalten gegenueber Fuehrungskraeften Anlass zu Kritik gab. Werden Kunden vor Kollegen und Vorgesetzten genannt, bei einer Position ohne primaerem Kundenfokus, entsteht derselbe Eindruck fuer das interne Verhalten. Der Pruefer notiert die tatsaechliche Reihenfolge im Zeugnis, stellt ihr die Standardreihenfolge gegenueber und bewertet die Abweichung als orangefarbenen oder roten Befund.
-
-Klagbarkeit: Die falsche Reihenfolge im Sozialverhalten ist nach BAG-Rechtsprechung klagbar. Der Arbeitgeber muss eine Abweichung vom Standard begruenden. Im Aufforderungsschreiben wird die Umkehrung als Streitstelle mit dem Originalwortlaut und dem Vorschlag der korrekten Reihenfolge aufgefuehrt. Im Klagestrategie-Modul wird dieser Punkt als eigener Antrag formuliert.
 
 ---
 

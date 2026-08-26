@@ -1,6 +1,6 @@
 ---
 name: sachversicherung-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Sachversicherung: Verhandlung, Vergleich und Eskalation in Fachanwalt Versicherungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Sachversicherung: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Sachversicherung: Verhandlung, Vergleich und Eskalation

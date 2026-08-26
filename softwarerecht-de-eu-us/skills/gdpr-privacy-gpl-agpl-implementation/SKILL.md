@@ -1,6 +1,6 @@
 ---
 name: gdpr-privacy-gpl-agpl-implementation
-description: "Wenn es um Privacy by Design Software in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Privacy by Design Software: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Privacy by Design Software

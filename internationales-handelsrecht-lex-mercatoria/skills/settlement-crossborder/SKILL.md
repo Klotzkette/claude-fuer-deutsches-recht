@@ -1,6 +1,6 @@
 ---
 name: settlement-crossborder
-description: "Wenn es um Grenzüberschreitende Vergleiche in Internationales Handelsrecht und Lex Mercatoria geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Grenzüberschreitende Vergleiche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzüberschreitende Vergleiche

@@ -1,6 +1,6 @@
 ---
 name: spezial-finanzamt-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Finanzamt: Livequellen- und Rechtsprechungscheck in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Finanzamt: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finanzamt: Livequellen- und Rechtsprechungscheck

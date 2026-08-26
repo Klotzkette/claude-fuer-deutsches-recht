@@ -1,6 +1,6 @@
 ---
 name: public-sector-bsi-anforderungen
-description: "Wenn es um Public Sector BSI Anforderungen in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Public Sector BSI Anforderungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Public Sector BSI Anforderungen

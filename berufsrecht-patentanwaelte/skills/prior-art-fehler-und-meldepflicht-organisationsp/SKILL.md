@@ -1,6 +1,6 @@
 ---
 name: prior-art-fehler-und-meldepflicht-organisationsp
-description: "Wenn es um Prior Art Fehler Und Meldepflicht Organisationsp in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prior Art Fehler und Meldepflicht Organisationsp: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: prior art fehler und meldepflicht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

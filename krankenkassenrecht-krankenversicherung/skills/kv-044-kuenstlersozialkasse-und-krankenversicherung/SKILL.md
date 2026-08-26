@@ -1,6 +1,6 @@
 ---
 name: kv-044-kuenstlersozialkasse-und-krankenversicherung
-description: "Wenn es um Krankenversicherung: Künstlersozialkasse und Krankenversicherung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Künstlersozialkasse und Krankenversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Künstlersozialkasse und Krankenversicherung

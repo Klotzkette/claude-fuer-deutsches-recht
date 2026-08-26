@@ -1,6 +1,6 @@
 ---
 name: vvg-versicherung-wohngebaeude-leitungswasser
-description: "Wenn es um Versicherung für fremde Rechnung Paragrafen 43–48 VVG in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Versicherung für fremde Rechnung Paragrafen 43–48 VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Versicherung für fremde Rechnung §§ 43–48 VVG

@@ -1,6 +1,6 @@
 ---
 name: eu-ai-act-software
-description: "Wenn es um EU digitale Werkzeuge Act in Softwareprodukten in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für EU digitale Werkzeuge Act in Softwareprodukten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU AI Act in Softwareprodukten

@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-estrich-feuchteprotokoll
-description: "Wenn es um Bauueberwachung Estrich und Feuchteprotokoll in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Estrich und Feuchteprotokoll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bauueberwachung Estrich und Feuchteprotokoll

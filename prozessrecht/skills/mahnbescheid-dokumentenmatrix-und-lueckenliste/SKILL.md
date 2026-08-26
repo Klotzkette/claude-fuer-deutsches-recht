@@ -1,6 +1,6 @@
 ---
 name: mahnbescheid-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Mahnbescheid: Dokumentenmatrix, Lückenliste und Nachforderung in Prozessrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Mahnbescheid: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Mahnbescheid: Dokumentenmatrix, Lückenliste und Nachforderung

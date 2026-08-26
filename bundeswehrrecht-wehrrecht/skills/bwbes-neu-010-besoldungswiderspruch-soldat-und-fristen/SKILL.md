@@ -1,6 +1,6 @@
 ---
 name: bwbes-neu-010-besoldungswiderspruch-soldat-und-fristen
-description: "Wenn es um Bundeswehrrecht: Besoldungswiderspruch Soldat und Fristen in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bundeswehrrecht: Besoldungswiderspruch Soldat und Fristen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Bundeswehrrecht: Besoldungswiderspruch Soldat und Fristen

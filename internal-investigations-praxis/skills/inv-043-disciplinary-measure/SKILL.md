@@ -1,6 +1,6 @@
 ---
 name: inv-043-disciplinary-measure
-description: "Wenn es um Internal Investigation: Disciplinary Measure in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: Disciplinary Measure: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Disciplinary Measure

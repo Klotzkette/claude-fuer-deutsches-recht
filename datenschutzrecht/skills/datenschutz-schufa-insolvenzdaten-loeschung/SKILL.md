@@ -1,6 +1,6 @@
 ---
 name: datenschutz-schufa-insolvenzdaten-loeschung
-description: "Wenn es um Datenschutz: SCHUFA-Insolvenzdaten löschen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz: SCHUFA-Insolvenzdaten löschen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz: SCHUFA-Insolvenzdaten löschen

@@ -1,6 +1,6 @@
 ---
 name: erb-testamentsformen-grundzuege
-description: "Wenn es um Erb Testamentsformen Grundzuege in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erb Testamentsformen Grundzüge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Testamentsformen Grundzuege: eigenhaendiges Testament § 2247 BGB, öffentliches Testament § 2232 BGB, Nottestament § 2249 BGB, Berliner Testament § 2269 BGB

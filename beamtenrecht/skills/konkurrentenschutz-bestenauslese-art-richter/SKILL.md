@@ -1,6 +1,6 @@
 ---
 name: konkurrentenschutz-bestenauslese-art-richter
-description: "Wenn es um Konkurrentenschutz — Bestenauslese nach Art. 33 Abs. 2 GG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konkurrentenschutz — Bestenauslese nach Art. 33 Abs. 2 GG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konkurrentenschutz — Bestenauslese nach Art. 33 Abs. 2 GG

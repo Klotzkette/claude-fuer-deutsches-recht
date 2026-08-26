@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-einwilligung
-description: "Wenn es um Minderjaehrige Einwilligung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Minderjährige Einwilligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Minderjährige und Einwilligung: moderner Medizinrechts-Skill für Einwilligungsfähigkeit Minderjähriger, Elternkonflikt, dringende Behandlung und Datenschutz

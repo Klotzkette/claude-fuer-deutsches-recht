@@ -1,6 +1,6 @@
 ---
 name: familien-und-partnerzuwendungen
-description: "Wenn es um Familien- und Partnerzuwendungen in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Familien Und Partnerzuwendungen; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Familien- und Partnerzuwendungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: familien-und-partnerzuwendungen."
 ---
 
 # Familien- und Partnerzuwendungen

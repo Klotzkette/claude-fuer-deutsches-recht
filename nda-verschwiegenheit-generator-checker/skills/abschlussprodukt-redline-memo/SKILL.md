@@ -1,6 +1,6 @@
 ---
 name: abschlussprodukt-redline-memo
-description: "Wenn es um Abschlussprodukt Redline Memo in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Abschlussprodukt Redline Memo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Abschlussprodukt Redline Memo

@@ -1,6 +1,6 @@
 ---
 name: historische-anwendung-vs-heutiges
-description: "Wenn es um Historisch oder heute? in Preußisches Allgemeines Landrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Historische Anwendung Vs Heutiges; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Historisch oder heute?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Preußisches Allgemeines Landrecht. Route: historische-anwendung-vs-heutiges."
 ---
 
 # Historisch oder heute?

@@ -1,6 +1,6 @@
 ---
 name: bruecke-eilantrag-kostenlast-unterhaltung
-description: "Wenn es um Bruecke Eilantrag Skizzieren in Straßenrecht und Infrastruktur geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Brücke Eilantrag Skizzieren: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Bruecke Eilantrag Skizzieren

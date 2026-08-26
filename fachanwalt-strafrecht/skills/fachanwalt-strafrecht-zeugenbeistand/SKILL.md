@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-zeugenbeistand
-description: "Wenn es um Zeugenbeistand im Strafverfahren in Fachanwalt Strafrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Zeugenbeistand im Strafverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zeugenbeistand im Strafverfahren

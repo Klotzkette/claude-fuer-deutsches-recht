@@ -1,6 +1,6 @@
 ---
 name: checkout-beweislast-und-darlegungslast
-description: "Wenn es um Checkout: Beweislast, Darlegungslast und Substantiierung in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Checkout: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Checkout: Beweislast, Darlegungslast und Substantiierung

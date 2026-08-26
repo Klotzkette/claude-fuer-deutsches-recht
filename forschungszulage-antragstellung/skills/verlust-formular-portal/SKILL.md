@@ -1,6 +1,6 @@
 ---
 name: verlust-formular-portal
-description: "Wenn es um Verlust: Formular, Portal und Einreichungslogik in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlust: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Verlust: Formular, Portal und Einreichungslogik

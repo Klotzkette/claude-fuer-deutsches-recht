@@ -1,6 +1,6 @@
 ---
 name: bka-dgcomp-ftc-doj-routing
-description: "Wenn es um BKartA DG Competition FTC DOJ Routing in Kartellrecht — Marktabgrenzungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BKartA DG Competition FTC DOJ Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BKartA DG Competition FTC DOJ Routing

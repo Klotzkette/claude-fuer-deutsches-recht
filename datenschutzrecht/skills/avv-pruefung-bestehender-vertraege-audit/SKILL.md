@@ -1,6 +1,6 @@
 ---
 name: avv-pruefung-bestehender-vertraege-audit
-description: "Wenn es um AVV-Audit – Prüfung bestehender Verträge in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AVV-Audit – Prüfung bestehender Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # AVV-Audit – Prüfung bestehender Verträge

@@ -1,6 +1,6 @@
 ---
 name: transparenzregister-behoerden-gericht-und-registerweg
-description: "Wenn es um Transparenzregister: Behörden-, Gerichts- oder Registerweg in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transparenzregister: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Transparenzregister: Behörden-, Gerichts- oder Registerweg

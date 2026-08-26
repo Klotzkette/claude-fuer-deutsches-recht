@@ -1,6 +1,6 @@
 ---
 name: see-012-auslandsflagge-und-local-counsel
-description: "Wenn es um Auslandsflagge Und Local Counsel in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auslandsflagge und Local Counsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auslandsflagge Und Local Counsel

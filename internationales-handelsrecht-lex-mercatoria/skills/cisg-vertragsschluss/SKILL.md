@@ -1,6 +1,6 @@
 ---
 name: cisg-vertragsschluss
-description: "Wenn es um CISG Vertragsschluss (Art. 14-24) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für CISG Vertragsschluss (Art. 14-24): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CISG Vertragsschluss (Art. 14-24)

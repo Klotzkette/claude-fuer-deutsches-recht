@@ -1,6 +1,6 @@
 ---
 name: spezial-beweiswuerdigung-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Beweiswuerdigung: Livequellen- und Rechtsprechungscheck in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beweiswürdigung: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweiswuerdigung: Livequellen- und Rechtsprechungscheck

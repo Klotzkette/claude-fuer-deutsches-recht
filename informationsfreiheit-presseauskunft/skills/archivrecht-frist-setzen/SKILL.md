@@ -1,6 +1,6 @@
 ---
 name: archivrecht-frist-setzen
-description: "Wenn es um Archivrecht Frist Setzen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Archivrecht Frist Setzen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Archivrecht Frist Setzen

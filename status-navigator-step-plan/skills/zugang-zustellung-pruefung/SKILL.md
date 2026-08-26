@@ -1,6 +1,6 @@
 ---
 name: zugang-zustellung-pruefung
-description: "Wenn es um Zugang und Zustellung prüfen in Plugin: status-navigator-step-plan geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Zugang und Zustellung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Zugang und Zustellung prüfen

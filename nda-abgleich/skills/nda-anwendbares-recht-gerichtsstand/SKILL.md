@@ -1,6 +1,6 @@
 ---
 name: nda-anwendbares-recht-gerichtsstand
-description: "Wenn es um NDA: Recht und Gerichtsstand in NDA-Abgleich geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für NDA: Recht und Gerichtsstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA: Recht und Gerichtsstand

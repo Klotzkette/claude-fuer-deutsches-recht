@@ -1,6 +1,6 @@
 ---
 name: ablauf-laufzeitende-erbbaurecht-aktenstruktur
-description: "Wenn es um Laufzeitende und Exitplan in Erbbaurecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Laufzeitende und Exitplan: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laufzeitende und Exitplan

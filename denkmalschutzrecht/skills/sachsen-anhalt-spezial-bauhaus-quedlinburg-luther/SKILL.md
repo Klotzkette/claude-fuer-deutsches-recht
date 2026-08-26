@@ -1,6 +1,6 @@
 ---
 name: sachsen-anhalt-spezial-bauhaus-quedlinburg-luther
-description: "Wenn es um Bauhaus, Quedlinburg und Lutherstaetten als UNESCO-Welterbe in Sachsen-Anhalt in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bauhaus, Quedlinburg und Lutherstätten als UNESCO-Welterbe in Sachsen-Anhalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauhaus, Quedlinburg und Lutherstaetten als UNESCO-Welterbe in Sachsen-Anhalt

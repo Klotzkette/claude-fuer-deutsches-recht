@@ -1,6 +1,6 @@
 ---
 name: dsa-krisenreaktionsmechanismus-art-36
-description: "Wenn es um DSA: Krisenreaktion Art. 36 in DSA, DMA und Digitalregulierung der EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für DSA: Krisenreaktion Art. 36: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSA: Krisenreaktion Art. 36

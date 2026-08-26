@@ -1,6 +1,6 @@
 ---
 name: dba-49-estg-brueckentatbestand-nationalrecht
-description: "Wenn es um DBA, Paragraf 49 EStG und Brückentatbestände in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für DBA, Paragraf 49 EStG und Brückentatbestände: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # DBA, § 49 EStG und Brückentatbestände

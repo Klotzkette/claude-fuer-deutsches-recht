@@ -1,6 +1,6 @@
 ---
 name: vers-ombudsmann-versicherungsbetrug
-description: "Wenn es um Ombudsmann, BaFin-Beschwerde oder Klage? in Versicherungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Ombudsmann, BaFin-Beschwerde oder Klage?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ombudsmann, BaFin-Beschwerde oder Klage?

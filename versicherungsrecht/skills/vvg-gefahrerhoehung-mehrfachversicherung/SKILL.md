@@ -1,6 +1,6 @@
 ---
 name: vvg-gefahrerhoehung-mehrfachversicherung
-description: "Wenn es um Gefahrerhöhung Paragrafen 23–27 VVG in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gefahrerhöhung Paragrafen 23–27 VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gefahrerhöhung §§ 23–27 VVG

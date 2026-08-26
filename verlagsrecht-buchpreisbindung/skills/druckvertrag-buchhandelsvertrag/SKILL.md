@@ -1,6 +1,6 @@
 ---
 name: druckvertrag-buchhandelsvertrag
-description: "Wenn es um Verl-024 · Druckvertrag, Papierengpass und Lieferverzug in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-024 · Druckvertrag, Papierengpass und Lieferverzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-024 · Druckvertrag, Papierengpass und Lieferverzug

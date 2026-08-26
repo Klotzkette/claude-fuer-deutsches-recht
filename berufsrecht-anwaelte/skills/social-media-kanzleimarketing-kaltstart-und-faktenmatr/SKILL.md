@@ -1,6 +1,6 @@
 ---
 name: social-media-kanzleimarketing-kaltstart-und-faktenmatr
-description: "Wenn es um Social Media Kanzleimarketing Kaltstart Und Faktenmatr in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Social Media Kanzleimarketing Kaltstart und Faktenmatr: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: social media kanzleimarketing - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: anwaelte-geldwaesche-risikoanalyse-kanzlei-rechtsprechungscheck
-description: "Wenn es um Anwaelte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Anwälte Geldwäsche Risikoanalyse Kanzlei Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: geldwaesche risikoanalyse kanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

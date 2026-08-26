@@ -1,6 +1,6 @@
 ---
 name: gate-behoerden-gericht-und-registerweg
-description: "Wenn es um Gate: Behörden-, Gerichts- oder Registerweg in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gate: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Gate: Behörden-, Gerichts- oder Registerweg

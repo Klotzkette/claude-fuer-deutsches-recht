@@ -1,6 +1,6 @@
 ---
 name: einbuergerung-strafen
-description: "Wenn es um Einbürgerung Vorstrafen: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einbürgerung Vorstrafen: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einbürgerung Vorstrafen: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Einbürgerung Vorstrafen: Fachmodul im Migrationsrecht 
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-einbuergerung-strafen` beziehungsweise Einbürgerung Vorstrafen: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-einbuergerung-strafen.md).

@@ -1,6 +1,6 @@
 ---
 name: notariat-013-vorsorgevollmacht-patientenverfuegung-register
-description: "Wenn es um Notariat im Alltag: Vorsorgevollmacht Patientenverfügung Betreuungsverfügung und Register in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Vorsorgevollmacht Patientenverfügung Betreuungsverfügung und Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Notariat im Alltag: Vorsorgevollmacht Patientenverfügung Betreuungsverfügung und Register

@@ -1,6 +1,6 @@
 ---
 name: berichte-iv-masseunzulaenglichkeit
-description: "Wenn es um Berichte an Gericht und Gläubigerorgane in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berichte an Gericht und Gläubigerorgane: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Berichte an Gericht und Gläubigerorgane

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-einstandszahlung-und-agb-kontrolle
-description: "Wenn es um Rechtsabteilung: Einstandszahlung und AGB-Kontrolle in Handelsvertreterrecht und Vertriebsverträge geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Rechtsabteilung: Einstandszahlung und AGB-Kontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Rechtsabteilung: Einstandszahlung und AGB-Kontrolle

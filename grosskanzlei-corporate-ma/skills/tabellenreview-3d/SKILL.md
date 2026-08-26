@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-3d
-description: "Wenn es um 3D-Tabellenreview im Datenraum in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für 3D-Tabellenreview im Datenraum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A."
 ---
 
 # 3D-Tabellenreview im Datenraum

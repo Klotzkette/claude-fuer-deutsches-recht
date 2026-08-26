@@ -1,6 +1,6 @@
 ---
 name: reporting-controlling
-description: "Wenn es um Reporting und Controlling in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Reporting und Controlling: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reporting und Controlling

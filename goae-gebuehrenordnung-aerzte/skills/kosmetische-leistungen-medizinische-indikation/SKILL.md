@@ -1,6 +1,6 @@
 ---
 name: kosmetische-leistungen-medizinische-indikation
-description: "Wenn es um Kosmetische Leistungen medizinische Indikation in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Kosmetische Leistungen medizinische Indikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kosmetische Leistungen medizinische Indikation

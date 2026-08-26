@@ -1,6 +1,6 @@
 ---
 name: ropa-art-30-controller-deutsch-vorlage
-description: "Wenn es um RoPA-Vorlage Verantwortlicher (Controller) – Deutsch in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für RoPA-Vorlage Verantwortlicher (Controller) – Deutsch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # RoPA-Vorlage Verantwortlicher (Controller) – Deutsch

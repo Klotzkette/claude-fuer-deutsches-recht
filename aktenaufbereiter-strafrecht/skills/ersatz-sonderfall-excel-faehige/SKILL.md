@@ -1,6 +1,6 @@
 ---
 name: ersatz-sonderfall-excel-faehige
-description: "Wenn es um Ersatz: Sonderfall und Edge-Case-Prüfung in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ersatz: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ersatz: Sonderfall und Edge-Case-Prüfung

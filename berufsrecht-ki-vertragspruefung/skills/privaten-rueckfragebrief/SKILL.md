@@ -1,6 +1,6 @@
 ---
 name: privaten-rueckfragebrief
-description: "Wenn es um Privaten: Risikoampel, Gegenargumente und Verteidigungslinien in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Privaten: Risikoampel, Gegenargumente und Verteidigungslinien: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Privaten: Risikoampel, Gegenargumente und Verteidigungslinien

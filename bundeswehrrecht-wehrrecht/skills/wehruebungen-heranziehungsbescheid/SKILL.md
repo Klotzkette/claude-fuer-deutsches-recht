@@ -1,6 +1,6 @@
 ---
 name: wehruebungen-heranziehungsbescheid
-description: "Wenn es um Wehrübungen Heranziehungsbescheid in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wehrübungen Heranziehungsbescheid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wehrübungen Heranziehungsbescheid

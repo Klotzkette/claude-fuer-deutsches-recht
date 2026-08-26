@@ -1,6 +1,6 @@
 ---
 name: beschlagnahme-mietverwaltung-start
-description: "Wenn es um Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart

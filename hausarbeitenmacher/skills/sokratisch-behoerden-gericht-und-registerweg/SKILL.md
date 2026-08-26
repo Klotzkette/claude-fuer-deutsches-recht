@@ -1,6 +1,6 @@
 ---
 name: sokratisch-behoerden-gericht-und-registerweg
-description: "Wenn es um Sokratisch: Behörden-, Gerichts- oder Registerweg in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sokratisch: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Sokratisch: Behörden-, Gerichts- oder Registerweg

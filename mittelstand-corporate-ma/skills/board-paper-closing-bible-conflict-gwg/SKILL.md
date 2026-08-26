@@ -1,6 +1,6 @@
 ---
 name: board-paper-closing-bible-conflict-gwg
-description: "Wenn es um Board Paper und Business Judgment in Mittelstands-Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Board Paper und Business Judgment: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Board Paper und Business Judgment

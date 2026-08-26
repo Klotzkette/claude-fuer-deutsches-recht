@@ -1,6 +1,6 @@
 ---
 name: verteidigungsstrategie-bei-formangriff
-description: "Wenn es um Verteidigungsstrategie bei Formangriff in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verteidigungsstrategie bei Formangriff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Verteidigungsstrategie bei Formangriff

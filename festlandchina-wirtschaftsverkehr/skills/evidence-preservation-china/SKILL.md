@@ -1,6 +1,6 @@
 ---
 name: evidence-preservation-china
-description: "Wenn es um Beweissicherung China: Notarisierung/E-Discovery/Rechtshilfe in China-Wirtschaftsverkehr geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweissicherung China: Notarisierung/E-Discovery/Rechtshilfe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beweissicherung China: Notarisierung/E-Discovery/Rechtshilfe

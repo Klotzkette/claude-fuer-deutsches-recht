@@ -1,6 +1,6 @@
 ---
 name: einkommensteuer-vorauszahlungen
-description: "Wenn es um Steuern und Buchhaltung: Prüft vorauszahlungen in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuern und Buchhaltung: Prüft vorauszahlungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuern und Buchhaltung: Prüft vorauszahlungen

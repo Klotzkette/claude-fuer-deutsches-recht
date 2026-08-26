@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-3d-datenraum
-description: "Wenn es um Tabellenreview 3D-Datenraum in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tabellenreview 3d Datenraum; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Tabellenreview 3D-Datenraum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: tabellenreview-3d-datenraum."
 ---
 
 # Tabellenreview 3D-Datenraum

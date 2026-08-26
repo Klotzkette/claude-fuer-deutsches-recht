@@ -1,6 +1,6 @@
 ---
 name: verfuegung-nichtberechtigter-816-vertiefung
-description: "Wenn es um Paragraf 816 BGB vertieft: Verfügung Nichtberechtigter in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Verfuegung Nichtberechtigter 816 Vertiefung; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Paragraf 816 BGB vertieft: Verfügung Nichtberechtigter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: verfuegung-nichtberechtigter-816-vertiefung."
 ---
 
 # § 816 BGB vertieft: Verfügung Nichtberechtigter

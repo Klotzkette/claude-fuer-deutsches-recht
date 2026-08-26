@@ -1,6 +1,6 @@
 ---
 name: ins-013-berater-kanzlei-bank
-description: "Wenn es um Berater, Kanzlei und Bank in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berater, Kanzlei und Bank: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berater, Kanzlei und Bank

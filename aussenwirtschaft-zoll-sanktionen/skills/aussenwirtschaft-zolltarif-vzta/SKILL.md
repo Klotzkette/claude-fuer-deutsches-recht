@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zolltarif-vzta
-description: "Wenn es um Zolltarif, TARIC und vZTA in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zolltarif, TARIC und vZTA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zolltarif, TARIC und vZTA

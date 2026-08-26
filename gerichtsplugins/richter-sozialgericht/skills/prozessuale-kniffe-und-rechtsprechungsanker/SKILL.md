@@ -1,6 +1,6 @@
 ---
 name: prozessuale-kniffe-und-rechtsprechungsanker
-description: "Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Sozialgericht."
 ---
 # Prozessuale Kniffe und Rechtsprechungsanker
 

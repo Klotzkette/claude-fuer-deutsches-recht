@@ -1,6 +1,6 @@
 ---
 name: streitstellen-katalog-zwanzig-typische
-description: "Wenn es um Streitstellen — die 20 wichtigsten Kontroversen in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Streitstellen — die 20 wichtigsten Kontroversen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Streitstellen — die 20 wichtigsten Kontroversen

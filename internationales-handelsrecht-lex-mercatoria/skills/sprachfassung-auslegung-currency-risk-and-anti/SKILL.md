@@ -1,6 +1,6 @@
 ---
 name: sprachfassung-auslegung-currency-risk-and-anti
-description: "Wenn es um Mehrsprachige Verträge und Auslegung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mehrsprachige Verträge und Auslegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mehrsprachige Verträge und Auslegung

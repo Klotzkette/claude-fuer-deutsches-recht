@@ -1,6 +1,6 @@
 ---
 name: red-team-antrag
-description: "Wenn es um Red Team Antrag in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Red Team Antrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team des Verbraucherinsolvenzantrags: Lücken, falsche Gläubigeradresse, § 302-Risiko, fehlender RSB-Antrag.

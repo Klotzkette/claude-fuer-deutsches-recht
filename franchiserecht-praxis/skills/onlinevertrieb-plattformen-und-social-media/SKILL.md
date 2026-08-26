@@ -1,6 +1,6 @@
 ---
 name: onlinevertrieb-plattformen-und-social-media
-description: "Wenn es um Franchiserecht: Online-Vertrieb, Plattformen und Social Media in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Franchiserecht: Online-Vertrieb, Plattformen und Social Media: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Online-Vertrieb, Plattformen und Social Media

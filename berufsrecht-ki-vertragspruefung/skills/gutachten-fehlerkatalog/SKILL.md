@@ -1,6 +1,6 @@
 ---
 name: gutachten-fehlerkatalog
-description: "Wenn es um Gutachten Fehlerkatalog in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gutachten Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gutachten Fehlerkatalog

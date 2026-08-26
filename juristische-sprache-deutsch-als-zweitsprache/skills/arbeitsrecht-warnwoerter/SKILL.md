@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-warnwoerter
-description: "Wenn es um Arbeitsrecht Warnwoerter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsrecht Warnwörter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsrecht Warnwoerter

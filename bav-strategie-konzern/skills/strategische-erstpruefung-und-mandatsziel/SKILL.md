@@ -1,6 +1,6 @@
 ---
 name: strategische-erstpruefung-und-mandatsziel
-description: "Wenn es um Strategische: Erstprüfung, Rollenklärung und Mandatsziel in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strategische: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Strategische: Erstprüfung, Rollenklärung und Mandatsziel

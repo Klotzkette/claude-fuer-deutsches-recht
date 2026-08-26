@@ -1,6 +1,6 @@
 ---
 name: tierschutz-verjaehrung-gerichtstermin
-description: "Wenn es um Tierschutz Owi Verjährung Berechnen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tierschutz Owi Verjährung Berechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Ordnungswidrigkeitenrecht. Route: tierschutz-verjaehrung-gerichtstermin."
 ---
 
 # Tierschutz Owi Verjährung Berechnen

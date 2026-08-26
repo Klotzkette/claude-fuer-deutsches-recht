@@ -1,6 +1,6 @@
 ---
 name: vertragsstapel-internationaler-bezug
-description: "Wenn es um Vertragsstapel: Internationaler Bezug und Schnittstellen in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vertragsstapel Internationaler Bezug; Arbeitsfeld: Tabellenreview 3D."
+description: "Für Vertragsstapel: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vertragsstapel: Internationaler Bezug und Schnittstellen

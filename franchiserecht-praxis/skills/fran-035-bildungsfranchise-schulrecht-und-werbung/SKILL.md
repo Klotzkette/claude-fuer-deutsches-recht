@@ -1,6 +1,6 @@
 ---
 name: fran-035-bildungsfranchise-schulrecht-und-werbung
-description: "Wenn es um Franchiserecht: Bildungsfranchise Schulrecht und Werbung in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Bildungsfranchise Schulrecht und Werbung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Bildungsfranchise Schulrecht und Werbung

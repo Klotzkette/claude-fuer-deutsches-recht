@@ -1,6 +1,6 @@
 ---
 name: 765a-fehlerkatalog
-description: "Wenn es um 765a Fehlerkatalog in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 765a Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 765a Fehlerkatalog

@@ -1,6 +1,6 @@
 ---
 name: k1-sortierwerkstatt
-description: "Wenn es um K1-Sortierwerkstatt in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für K1-Sortierwerkstatt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # K1-Sortierwerkstatt

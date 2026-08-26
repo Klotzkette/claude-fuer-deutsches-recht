@@ -1,6 +1,6 @@
 ---
 name: geoblocking-verordnung-eu
-description: "Wenn es um Geoblocking-Verordnung EU in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Geoblocking-Verordnung EU: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Geoblocking-Verordnung EU

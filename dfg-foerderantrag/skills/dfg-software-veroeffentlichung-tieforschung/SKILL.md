@@ -1,6 +1,6 @@
 ---
 name: dfg-software-veroeffentlichung-tieforschung
-description: "Wenn es um DFG: Software-Veroeffentlichung in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Dfg Software Veroeffentlichung Tieforschung; Arbeitsfeld: DFG-Förderantrag."
+description: "Für DFG: Software-Veröffentlichung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: DFG-Förderantrag. Route: dfg-software-veroeffentlichung-tieforschung."
 ---
 
 # DFG: Software-Veroeffentlichung

@@ -1,6 +1,6 @@
 ---
 name: stundensatzarchitektur-subscription-retainer
-description: "Wenn es um Stundensatzarchitektur in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stundensatzarchitektur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stundensatzarchitektur

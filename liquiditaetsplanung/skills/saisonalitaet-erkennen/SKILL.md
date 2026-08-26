@@ -1,6 +1,6 @@
 ---
 name: saisonalitaet-erkennen
-description: "Wenn es um Liqui: Saisonalitaet in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Liqui: Saisonalität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liqui: Saisonalitaet

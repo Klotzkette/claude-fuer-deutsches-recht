@@ -1,6 +1,6 @@
 ---
 name: ai-act-rollen-kanzlei-provider-deployer-api
-description: "Wenn es um europäischer Technikregulierungsrahmen-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestratorin in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für europäischer Technikregulierungsrahmen-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestratorin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-VO-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestratorin

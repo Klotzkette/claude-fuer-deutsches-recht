@@ -1,6 +1,6 @@
 ---
 name: aufstellungsbeschluss-bekanntmachung
-description: "Wenn es um Aufstellungsbeschluss und Bekanntmachung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufstellungsbeschluss und Bekanntmachung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufstellungsbeschluss und Bekanntmachung

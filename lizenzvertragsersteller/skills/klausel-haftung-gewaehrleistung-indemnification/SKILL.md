@@ -1,6 +1,6 @@
 ---
 name: klausel-haftung-gewaehrleistung-indemnification
-description: "Wenn es um Klausel Haftung, Gewaehrleistung, Indemnification in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Klausel Haftung, Gewährleistung, Indemnification: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klausel Haftung, Gewaehrleistung, Indemnification

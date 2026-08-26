@@ -1,6 +1,6 @@
 ---
 name: pruefungsplanung-und-dokumentationsluecke-organisationspflicht
-description: "Wenn es um Pruefungsplanung Und Dokumentationsluecke Organisationspflicht in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungsplanung und Dokumentationslücke Organisationspflicht: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: prüfungsplanung und dokumentationsluecke - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

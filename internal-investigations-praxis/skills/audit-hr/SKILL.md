@@ -1,6 +1,6 @@
 ---
 name: audit-hr
-description: "Wenn es um Audit Committee in Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Audit Committee in Internal Investigations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Audit Committee in Internal Investigations

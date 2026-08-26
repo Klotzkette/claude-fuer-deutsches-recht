@@ -1,6 +1,6 @@
 ---
 name: marktueberwachung-dialog
-description: "Wenn es um Marktüberwachung Dialog in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Marktueberwachung Dialog; Arbeitsfeld: robotik-recht."
+description: "Für Marktüberwachung Dialog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: marktueberwachung-dialog."
 ---
 
 # Marktüberwachung Dialog

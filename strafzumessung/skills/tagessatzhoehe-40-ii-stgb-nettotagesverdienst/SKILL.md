@@ -1,6 +1,6 @@
 ---
 name: tagessatzhoehe-40-ii-stgb-nettotagesverdienst
-description: "Wenn es um Tagessatzhoehe — Paragraf 40 Abs. 2 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tagessatzhöhe — Paragraf 40 Abs. 2 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tagessatzhoehe — § 40 Abs. 2 StGB

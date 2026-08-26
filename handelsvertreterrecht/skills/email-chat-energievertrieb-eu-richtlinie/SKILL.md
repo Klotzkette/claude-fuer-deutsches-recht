@@ -1,6 +1,6 @@
 ---
 name: email-chat-energievertrieb-eu-richtlinie
-description: "Wenn es um E-Mails und Chat-Nachrichten als Beweismittel im Handelsvertreterstreit in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für E-Mails und Chat-Nachrichten als Beweismittel im Handelsvertreterstreit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # E-Mails und Chat-Nachrichten als Beweismittel im Handelsvertreterstreit

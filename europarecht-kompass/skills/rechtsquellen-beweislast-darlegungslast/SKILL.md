@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen-beweislast-darlegungslast
-description: "Wenn es um Rechtsquellen: Beweislast, Darlegungslast und Substantiierung in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsquellen: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Europarecht-Kompass für deutsche Juristen."
 ---
 
 # Rechtsquellen: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: loeschung-widerruf-nichtigkeit-global-route
-description: "Wenn es um Löschung, Widerruf, Nichtigkeit: globale Route in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Löschung, Widerruf, Nichtigkeit: globale Route: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Löschung, Widerruf, Nichtigkeit: globale Route

@@ -1,6 +1,6 @@
 ---
 name: idev-estatistik-core
-description: "Wenn es um IDEV und eSTATISTIK.core praktisch nutzen in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für IDEV und eSTATISTIK.core praktisch nutzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IDEV und eSTATISTIK.core praktisch nutzen

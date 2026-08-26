@@ -1,6 +1,6 @@
 ---
 name: nkbl-buergerentscheid-buergerbegehren-spezial
-description: "Wenn es um NkBl: Buergerbegehren in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NkBl: Bürgerbegehren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NkBl: Buergerbegehren

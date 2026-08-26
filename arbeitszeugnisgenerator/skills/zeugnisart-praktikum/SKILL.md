@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-praktikum
-description: "Erstellt Praktikumsnachweise und -zeugnisse nach Status, Vertrag und Ausbildungszweck. Trennt Pflichtpraktikum, freiwilliges Arbeitsverhältnis und bloßen Tätigkeitsnachweis und formuliert Aufgaben, Lernfortschritt und Verhalten nur aus belegten Angaben."
+description: "Erstellt Praktikumsnachweise und -zeugnisse nach Status, Vertrag und Ausbildungszweck."
 ---
 
 # Zeugnisart: Praktikumszeugnis

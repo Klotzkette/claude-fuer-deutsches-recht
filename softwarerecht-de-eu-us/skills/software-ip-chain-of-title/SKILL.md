@@ -1,6 +1,6 @@
 ---
 name: software-ip-chain-of-title
-description: "Wenn es um Software IP Chain of Title in Softwarerecht Deutschland/EU/International/USA geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Software IP Chain of Title: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Software IP Chain of Title

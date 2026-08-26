@@ -1,6 +1,6 @@
 ---
 name: haftung-arzt-klinik-hersteller
-description: "Wenn es um Haftung Arzt Klinik Hersteller in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftung Arzt Klinik Hersteller: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haftung Arzt Klinik Hersteller

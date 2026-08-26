@@ -1,6 +1,6 @@
 ---
 name: lease-052-equipment-finance-term-sheet
-description: "Wenn es um Equipment-Finance-Term-Sheet in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Equipment-Finance-Term-Sheet: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Equipment-Finance-Term-Sheet

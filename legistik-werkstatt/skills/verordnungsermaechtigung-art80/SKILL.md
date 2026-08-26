@@ -1,6 +1,6 @@
 ---
 name: verordnungsermaechtigung-art80
-description: "Wenn es um Verordnungsermaechtigung Art. 80 GG in Legistik-Werkstatt geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verordnungsermächtigung Art. 80 GG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verordnungsermaechtigung Art. 80 GG

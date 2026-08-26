@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-und-machine-learning-features
-description: "Wenn es um Datenbankrecht und Machine-Learning-Features — Feature Stores und Trainingsdaten in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht und Machine-Learning-Features — Feature Stores und Trainingsdaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht und Machine-Learning-Features — Feature Stores und Trainingsdaten

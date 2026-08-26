@@ -1,6 +1,6 @@
 ---
 name: 04-steuerbescheid-pruefen
-description: "Wenn es um 04 Steuerbescheid Prüfen in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für 04 Steuerbescheid Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # 04 Steuerbescheid Prüfen

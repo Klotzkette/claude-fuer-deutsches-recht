@@ -1,6 +1,6 @@
 ---
 name: infl-056-merch-drops-e-commerce-und-widerruf
-description: "Wenn es um Influencer-Recht: Merch Drops E-Commerce und Widerruf in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Merch Drops E-Commerce und Widerruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Merch Drops E-Commerce und Widerruf

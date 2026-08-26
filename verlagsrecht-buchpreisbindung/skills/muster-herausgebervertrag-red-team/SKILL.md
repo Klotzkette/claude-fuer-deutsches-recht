@@ -1,6 +1,6 @@
 ---
 name: muster-herausgebervertrag-red-team
-description: "Wenn es um Muster-Herausgebervertrag: Red-Team-Prüfung in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Muster-Herausgebervertrag: Red-Team-Prüfung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Muster-Herausgebervertrag: Red-Team-Prüfung

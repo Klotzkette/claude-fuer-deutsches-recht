@@ -1,6 +1,6 @@
 ---
 name: lph9-gewaehrleistungsmanagement-lph8
-description: "Wenn es um LPH 9 Gewährleistungsmanagement Und Fristen in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LPH 9 Gewährleistungsmanagement und Fristen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 9 Gewährleistungsmanagement Und Fristen

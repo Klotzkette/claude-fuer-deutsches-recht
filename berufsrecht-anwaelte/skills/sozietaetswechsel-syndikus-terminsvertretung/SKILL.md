@@ -1,6 +1,6 @@
 ---
 name: sozietaetswechsel-syndikus-terminsvertretung
-description: "Wenn es um Sozietaetswechsel Syndikus Terminsvertretung in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sozietätswechsel Syndikus Terminsvertretung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: sozietaetswechsel und mandantenmitnahme - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

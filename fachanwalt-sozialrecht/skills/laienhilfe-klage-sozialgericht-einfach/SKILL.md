@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-klage-sozialgericht-einfach
-description: "Wenn es um Laienhilfe: Klage Sozialgericht Einfach in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Laienhilfe: Klage Sozialgericht Einfach: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Laienhilfe: Klage Sozialgericht Einfach

@@ -1,6 +1,6 @@
 ---
 name: lager-und-intralogistikflotte
-description: "Wenn es um Lager- und Intralogistikflotte in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lager- und Intralogistikflotte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lager- und Intralogistikflotte

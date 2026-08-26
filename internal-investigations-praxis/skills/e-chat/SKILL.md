@@ -1,6 +1,6 @@
 ---
 name: e-chat
-description: "Wenn es um E-Mail-Review in Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für E-Mail-Review in Internal Investigations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E-Mail-Review in Internal Investigations

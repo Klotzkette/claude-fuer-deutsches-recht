@@ -1,6 +1,6 @@
 ---
 name: regulierungsanforderung
-description: "Wenn es um Regulierungsanforderung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Regulierungsanforderung; Arbeitsfeld: Fachanwalt Verkehrsrecht."
+description: "Für Regulierungsanforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Verkehrsrecht. Route: regulierungsanforderung."
 ---
 
 # Mandant hat Verkehrsunfall und fordert Schadensersatz vom Haftpflichtversicherer des Unfallverursachers

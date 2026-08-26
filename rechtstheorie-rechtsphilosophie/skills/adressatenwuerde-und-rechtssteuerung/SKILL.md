@@ -1,6 +1,6 @@
 ---
 name: adressatenwuerde-und-rechtssteuerung
-description: "Wenn es um Adressatenwürde und Rechtssteuerung in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Adressatenwürde und Rechtssteuerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Adressatenwürde und Rechtssteuerung

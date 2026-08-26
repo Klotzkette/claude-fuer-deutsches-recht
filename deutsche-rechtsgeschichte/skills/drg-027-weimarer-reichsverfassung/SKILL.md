@@ -1,6 +1,6 @@
 ---
 name: drg-027-weimarer-reichsverfassung
-description: "Wenn es um Weimarer Reichsverfassung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weimarer Reichsverfassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weimarer Reichsverfassung

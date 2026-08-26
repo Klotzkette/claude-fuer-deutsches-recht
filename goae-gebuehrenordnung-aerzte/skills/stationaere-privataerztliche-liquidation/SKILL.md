@@ -1,6 +1,6 @@
 ---
 name: stationaere-privataerztliche-liquidation
-description: "Wenn es um Stationäre privatärztliche Liquidation in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Stationäre privatärztliche Liquidation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stationäre privatärztliche Liquidation

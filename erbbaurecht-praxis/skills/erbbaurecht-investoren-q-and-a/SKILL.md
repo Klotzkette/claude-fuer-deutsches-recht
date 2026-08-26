@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-investoren-q-and-a
-description: "Wenn es um Investor Q&A in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Investor Q&A: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Investor Q&A

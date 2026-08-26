@@ -1,6 +1,6 @@
 ---
 name: pflichtverteidigung-quellenkarte
-description: "Wenn es um Pflichtverteidigung Quellenkarte in Strafbefehl-Verteidiger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Pflichtverteidigung Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflichtverteidigung Quellenkarte

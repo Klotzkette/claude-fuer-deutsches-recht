@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-pe-closing-continuation-fund
-description: "Wenn es um Closing Bible PE in Private Equity Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Closing Bible PE: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Closing Bible PE

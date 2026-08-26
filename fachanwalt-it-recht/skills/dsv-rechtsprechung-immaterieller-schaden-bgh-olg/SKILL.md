@@ -1,6 +1,6 @@
 ---
 name: dsv-rechtsprechung-immaterieller-schaden-bgh-olg
-description: "Wenn es um Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt It Recht."
 ---
 
 # Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art

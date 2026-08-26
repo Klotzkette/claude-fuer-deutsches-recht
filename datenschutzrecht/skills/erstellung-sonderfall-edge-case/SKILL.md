@@ -1,6 +1,6 @@
 ---
 name: erstellung-sonderfall-edge-case
-description: "Wenn es um Erstellung: Sonderfall und Edge-Case-Prüfung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erstellung: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erstellung: Sonderfall und Edge-Case-Prüfung

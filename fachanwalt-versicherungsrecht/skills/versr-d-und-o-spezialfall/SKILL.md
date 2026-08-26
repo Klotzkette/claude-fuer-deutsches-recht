@@ -1,6 +1,6 @@
 ---
 name: versr-d-und-o-spezialfall
-description: "Wenn es um Versr D Und O Spezialfall in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versr D und O Spezialfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall D-and-O-Versicherung: Versicherte Person Vorstand und Aufsichtsrat, Innenhaftung, Versicherungsfall claims-made, Deckungsausschluesse

@@ -1,6 +1,6 @@
 ---
 name: visas-expats-and-secondment
-description: "Wenn es um Visa und Entsendung China: Arbeitserlaubnis/Exit-Ban/Entsendungsrecht in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Visa und Entsendung China: Arbeitserlaubnis/Exit-Ban/Entsendungsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Visa und Entsendung China: Arbeitserlaubnis/Exit-Ban/Entsendungsrecht

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-idw-s6-sanierungskonzept
-description: "Wenn es um Sanierungskonzept auf IDW-S-6-Niveau in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungskonzept auf IDW-S-6-Niveau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungskonzept auf IDW-S-6-Niveau

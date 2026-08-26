@@ -1,6 +1,6 @@
 ---
 name: entscheidungsgruende-zivil-schreiben
-description: "Wenn es um Entscheidungsgründe schreiben in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Entscheidungsgruende Zivil Schreiben; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Entscheidungsgründe schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Urteilsbauer und Relationsmacher. Route: entscheidungsgruende-zivil-schreiben."
 ---
 
 # Entscheidungsgründe schreiben

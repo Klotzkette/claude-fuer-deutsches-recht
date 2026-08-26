@@ -1,6 +1,6 @@
 ---
 name: tankstellen-franchise-handelsvertreternaehe
-description: "Wenn es um Franchiserecht: Tankstellen-Franchise und Handelsvertreter-Nähe in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Tankstellen-Franchise und Handelsvertreter-Nähe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Tankstellen-Franchise und Handelsvertreter-Nähe

@@ -1,6 +1,6 @@
 ---
 name: late-submissions-296-zpo
-description: "Wenn es um Late Submissions in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Late Submissions: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Late Submissions

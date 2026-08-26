@@ -1,6 +1,6 @@
 ---
 name: smart-verbraucherrecht-abo
-description: "Wenn es um Smart Device Klagepfad Skizzieren in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Smart Device Klagepfad Skizzieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Smart Device Klagepfad Skizzieren

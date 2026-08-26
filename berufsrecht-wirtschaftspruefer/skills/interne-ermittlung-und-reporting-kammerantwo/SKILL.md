@@ -1,6 +1,6 @@
 ---
 name: interne-ermittlung-und-reporting-kammerantwo
-description: "Wenn es um Interne Ermittlung Und Reporting Kammerantwo in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Interne Ermittlung und Reporting Kammerantwo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: interne ermittlung und reporting - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: status-rechtsquellenfinder-agg-vs-besold
-description: "Wenn es um Status Und Rechtsquellenfinder in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Status und Rechtsquellenfinder: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Status Und Rechtsquellenfinder

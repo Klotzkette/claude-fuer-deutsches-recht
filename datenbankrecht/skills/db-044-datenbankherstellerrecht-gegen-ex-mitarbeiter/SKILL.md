@@ -1,6 +1,6 @@
 ---
 name: db-044-datenbankherstellerrecht-gegen-ex-mitarbeiter
-description: "Wenn es um Datenbankrecht: Datenbankherstellerrecht gegen Ex-Mitarbeiter in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Datenbankherstellerrecht gegen Ex-Mitarbeiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Datenbankherstellerrecht gegen Ex-Mitarbeiter

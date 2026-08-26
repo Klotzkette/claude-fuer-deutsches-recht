@@ -1,6 +1,6 @@
 ---
 name: lobbyregister-hauptfinanzierungsquellen-angaben
-description: "Wenn es um Hauptfinanzierungsquellen in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Hauptfinanzierungsquellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Hauptfinanzierungsquellen

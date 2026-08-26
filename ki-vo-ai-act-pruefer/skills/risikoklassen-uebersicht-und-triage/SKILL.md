@@ -1,6 +1,6 @@
 ---
 name: risikoklassen-uebersicht-und-triage
-description: "Wenn es um Risikoklassen-Übersicht und Triage — europäischer Technikregulierungsrahmen in diesem Spezialbereich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für die Auswahl: Risikoklassen Uebersicht Und Triage."
+description: "Für Risikoklassen-Übersicht und Triage — europäischer Technikregulierungsrahmen: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Risikoklassen-Übersicht und Triage — KI-VO

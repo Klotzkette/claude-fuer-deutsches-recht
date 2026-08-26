@@ -1,6 +1,6 @@
 ---
 name: trinkwasser-legionellen-umsatzsteuer
-description: "Wenn es um Trinkwasser und Legionellenmeldung in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Trinkwasser und Legionellenmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Trinkwasser und Legionellenmeldung

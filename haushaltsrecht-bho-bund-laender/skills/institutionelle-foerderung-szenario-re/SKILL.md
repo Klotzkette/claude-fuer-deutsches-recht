@@ -1,6 +1,6 @@
 ---
 name: institutionelle-foerderung-szenario-re
-description: "Wenn es um Institutionelle Förderung Szenario Re in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Institutionelle Förderung Szenario Re: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Institutionelle Förderung Szenario Re

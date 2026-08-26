@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-umweltstrafrecht-327-stgb-anlagen
-description: "Wenn es um Unerlaubtes Betreiben von Anlagen nach Paragraph 327 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unerlaubtes Betreiben von Anlagen nach Paragraph 327 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unerlaubtes Betreiben von Anlagen nach Paragraph 327 StGB

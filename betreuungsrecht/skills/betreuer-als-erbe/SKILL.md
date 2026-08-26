@@ -1,6 +1,6 @@
 ---
 name: betreuer-als-erbe
-description: "Wenn es um Betreuer als Erbe und Beschenkter in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuer Als Erbe; Arbeitsfeld: Betreuungsrecht."
+description: "Für Betreuer als Erbe und Beschenkter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: betreuer-als-erbe."
 ---
 
 # Betreuer als Erbe und Beschenkter

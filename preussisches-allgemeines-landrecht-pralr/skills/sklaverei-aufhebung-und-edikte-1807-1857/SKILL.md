@@ -1,6 +1,6 @@
 ---
 name: sklaverei-aufhebung-und-edikte-1807-1857
-description: "Wenn es um Aufhebung Sklaverei und Erbuntertaenigkeit in Preussen 1794-1857 in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sklaverei Aufhebung Und Edikte 1807 1857; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Aufhebung Sklaverei und Erbuntertänigkeit in Preussen 1794-1857: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: sklaverei-aufhebung-und-edikte-1807-1857."
 ---
 
 # Aufhebung Sklaverei und Erbuntertaenigkeit in Preussen 1794-1857

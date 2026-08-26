@@ -1,6 +1,6 @@
 ---
 name: marken-und-designmandate-kaltstart-und-faktenmat
-description: "Wenn es um Marken Und Designmandate Kaltstart Und Faktenmat in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Marken und Designmandate Kaltstart und Faktenmat: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: marken und designmandate - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

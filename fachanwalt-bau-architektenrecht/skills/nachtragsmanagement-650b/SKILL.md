@@ -1,6 +1,6 @@
 ---
 name: nachtragsmanagement-650b
-description: "Wenn es um Nachtragsmanagement 650b in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachtragsmanagement 650b: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: Mehrverguetung bei Änderungsanordnung

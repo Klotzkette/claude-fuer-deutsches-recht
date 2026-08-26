@@ -1,6 +1,6 @@
 ---
 name: triage-ki-vo-vorpruefung
-description: "Wenn es um Triage: europäischer Technikregulierungsrahmen-Vorprüfung — Was prüft der Nutzer? in europäischem Technikregulierungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Triage Ki Vo Vorpruefung; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für Triage: europäischer Technikregulierungsrahmen-Vorprüfung — Was prüft der Nutzer?: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Triage: KI-VO-Vorprüfung — Was prüft der Nutzer?

@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung-datenbankrecht-dringlichkeit
-description: "Wenn es um Einstweilige Verfügung im Datenbankrecht — Dringlichkeit und Verfügungsantrag in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Einstweilige Verfügung im Datenbankrecht — Dringlichkeit und Verfügungsantrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstweilige Verfügung im Datenbankrecht — Dringlichkeit und Verfügungsantrag

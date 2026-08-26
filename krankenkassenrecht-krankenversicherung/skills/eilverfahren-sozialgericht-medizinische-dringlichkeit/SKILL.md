@@ -1,6 +1,6 @@
 ---
 name: eilverfahren-sozialgericht-medizinische-dringlichkeit
-description: "Erstellt einen medizinisch und prozessual belastbaren Eilantrag zum Sozialgericht. Trennt Anordnungsanspruch, Anordnungsgrund, Prüfungsdichte und Folgenabwägung, baut die Glaubhaftmachung aus der Akte auf und formuliert Tenor, Beweisangebot und Hauptsachensicherung."
+description: "Erstellt einen medizinisch und prozessual belastbaren Eilantrag zum Sozialgericht."
 ---
 
 # Eilverfahren vor dem Sozialgericht bei medizinischer Dringlichkeit

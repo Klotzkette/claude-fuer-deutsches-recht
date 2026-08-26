@@ -1,6 +1,6 @@
 ---
 name: werbeaussagen-pruefung
-description: "Wenn es um Werbeaussagen-Prüfung (Marketing Claims Review) in Produkthaftung und Produktrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Werbeaussagen-Prüfung (Marketing Claims Review): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Werbeaussagen-Prüfung (Marketing Claims Review)

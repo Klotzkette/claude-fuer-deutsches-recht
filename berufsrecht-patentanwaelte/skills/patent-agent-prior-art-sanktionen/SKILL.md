@@ -1,6 +1,6 @@
 ---
 name: patent-agent-prior-art-sanktionen
-description: "Wenn es um Patent Agent Prior Art Sanktionen in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Patent Agent Prior Art Sanktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: patent agent title und werbung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

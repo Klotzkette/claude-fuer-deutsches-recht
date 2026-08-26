@@ -1,6 +1,6 @@
 ---
 name: generator-fehlerkatalog
-description: "Wenn es um Generator Fehlerkatalog in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Generator Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Generator Fehlerkatalog

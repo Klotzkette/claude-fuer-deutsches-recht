@@ -1,6 +1,6 @@
 ---
 name: elternrechte-und-sorgerecht
-description: "Wenn es um Elternrechte Und Sorgerecht in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Elternrechte und Sorgerecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Elternrechte Und Sorgerecht

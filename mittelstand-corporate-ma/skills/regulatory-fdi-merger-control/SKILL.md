@@ -1,6 +1,6 @@
 ---
 name: regulatory-fdi-merger-control
-description: "Wenn es um Fusionskontrolle und Investitionskontrolle in Mittelstands-Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Fusionskontrolle und Investitionskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Fusionskontrolle und Investitionskontrolle

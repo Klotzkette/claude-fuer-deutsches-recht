@@ -1,6 +1,6 @@
 ---
 name: parkhaus-organisationsform-pruefen
-description: "Wenn es um Parkhaus Organisationsform Prüfen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parkhaus Organisationsform Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Öffentliches Wirtschaftsrecht. Route: parkhaus-organisationsform-pruefen."
 ---
 
 # Parkhaus Organisationsform Prüfen

@@ -1,6 +1,6 @@
 ---
 name: plan-verfahrenswahl
-description: "Wenn es um IV-integrierte Verfahrenswahl und Routenentscheidung in Insolvenzverwaltung - IV-Cockpit geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für IV-integrierte Verfahrenswahl und Routenentscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IV-integrierte Verfahrenswahl und Routenentscheidung

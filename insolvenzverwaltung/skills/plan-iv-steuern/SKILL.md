@@ -1,6 +1,6 @@
 ---
 name: plan-iv-steuern
-description: "Wenn es um IV-integrierte Steuern und Bilanzfolgen in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IV-integrierte Steuern und Bilanzfolgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # IV-integrierte Steuern und Bilanzfolgen

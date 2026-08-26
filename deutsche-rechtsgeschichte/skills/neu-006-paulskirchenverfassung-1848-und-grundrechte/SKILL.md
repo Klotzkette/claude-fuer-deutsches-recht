@@ -1,6 +1,6 @@
 ---
 name: neu-006-paulskirchenverfassung-1848-und-grundrechte
-description: "Wenn es um Deutsche Rechtsgeschichte: 006 Paulskirchenverfassung 1848 Und Grundrechte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: 006 Paulskirchenverfassung 1848 und Grundrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: 006 Paulskirchenverfassung 1848 Und Grundrechte

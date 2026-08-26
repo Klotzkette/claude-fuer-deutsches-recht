@@ -1,6 +1,6 @@
 ---
 name: anti-corruption-fcpa-ukba
-description: "Wenn es um Anti-Korruption: FCPA und UK Bribery Act in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anti-Korruption: FCPA und UK Bribery Act: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anti-Korruption: FCPA und UK Bribery Act

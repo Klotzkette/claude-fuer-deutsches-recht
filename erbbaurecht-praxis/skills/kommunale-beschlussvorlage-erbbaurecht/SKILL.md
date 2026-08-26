@@ -1,6 +1,6 @@
 ---
 name: kommunale-beschlussvorlage-erbbaurecht
-description: "Wenn es um Kommunale Beschlussvorlage in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunale Beschlussvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunale Beschlussvorlage

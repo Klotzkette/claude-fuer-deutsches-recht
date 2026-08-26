@@ -1,6 +1,6 @@
 ---
 name: fran-005-eintrittsgebuehr-laufende-gebuehren-marketing-fee
-description: "Wenn es um Franchiserecht: Eintrittsgebühr laufende Gebühren Marketing Fee in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Eintrittsgebühr laufende Gebühren Marketing Fee: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Franchiserecht: Eintrittsgebühr laufende Gebühren Marketing Fee

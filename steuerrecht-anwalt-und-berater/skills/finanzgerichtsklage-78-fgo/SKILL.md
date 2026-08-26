@@ -1,6 +1,6 @@
 ---
 name: finanzgerichtsklage-78-fgo
-description: "Wenn es um Finanzgerichtsklage — Aufbau Frist und Akteneinsicht Paragraf 78 FGO in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Finanzgerichtsklage 78 Fgo; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Finanzgerichtsklage — Aufbau Frist und Akteneinsicht Paragraf 78 FGO: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Finanzgerichtsklage — Aufbau Frist und Akteneinsicht § 78 FGO

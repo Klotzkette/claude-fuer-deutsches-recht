@@ -1,6 +1,6 @@
 ---
 name: stadtrat-beteiligung-planen
-description: "Wenn es um Stadtrat Beteiligung Planen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stadtrat Beteiligung Planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stadtrat Beteiligung Planen

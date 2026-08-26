@@ -1,6 +1,6 @@
 ---
 name: crossborder-us-ksv-abgabe-kuenstler-ksvg
-description: "Wenn es um Cross-border US Freelancer in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Cross-border US Freelancer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cross-border US Freelancer

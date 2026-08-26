@@ -1,6 +1,6 @@
 ---
 name: befehl-und-gewissenskonflikt
-description: "Wenn es um Befehl und Gewissenskonflikt in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Befehl und Gewissenskonflikt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Befehl und Gewissenskonflikt

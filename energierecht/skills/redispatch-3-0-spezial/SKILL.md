@@ -1,6 +1,6 @@
 ---
 name: redispatch-3-0-spezial
-description: "Wenn es um Energie: Redispatch 3.0 in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie: Redispatch 3.0: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie: Redispatch 3.0

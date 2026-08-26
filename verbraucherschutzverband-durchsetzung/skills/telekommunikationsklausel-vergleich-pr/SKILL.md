@@ -1,6 +1,6 @@
 ---
 name: telekommunikationsklausel-vergleich-pr
-description: "Wenn es um Telekommunikationsklausel Vergleich Pr in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Telekommunikationsklausel Vergleich Pr: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Telekommunikationsklausel Vergleich Pr

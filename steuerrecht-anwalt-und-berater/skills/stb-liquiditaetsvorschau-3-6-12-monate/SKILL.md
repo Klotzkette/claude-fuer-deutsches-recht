@@ -1,6 +1,6 @@
 ---
 name: stb-liquiditaetsvorschau-3-6-12-monate
-description: "Wenn es um Liquiditaetsvorschau 3/6/12 Monate in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Liquiditätsvorschau 3/6/12 Monate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liquiditaetsvorschau 3/6/12 Monate

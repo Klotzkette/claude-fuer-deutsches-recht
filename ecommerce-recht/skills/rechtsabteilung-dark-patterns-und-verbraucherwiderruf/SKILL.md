@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-dark-patterns-und-verbraucherwiderruf
-description: "Wenn es um Rechtsabteilung: Dark Patterns und Verbraucherwiderruf in E-Commerce-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Dark Patterns und Verbraucherwiderruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Dark Patterns und Verbraucherwiderruf

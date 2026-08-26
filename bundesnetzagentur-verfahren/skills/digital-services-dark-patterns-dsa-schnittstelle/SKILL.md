@@ -1,6 +1,6 @@
 ---
 name: digital-services-dark-patterns-dsa-schnittstelle
-description: "Wenn es um Dark Patterns: DSA-, UWG- und DSGVO-Schnittstelle in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Dark Patterns: DSA-, UWG- und DSGVO-Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dark Patterns: DSA-, UWG- und DSGVO-Schnittstelle

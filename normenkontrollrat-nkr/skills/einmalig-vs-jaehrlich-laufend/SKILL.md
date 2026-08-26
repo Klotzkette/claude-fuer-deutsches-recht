@@ -1,6 +1,6 @@
 ---
 name: einmalig-vs-jaehrlich-laufend
-description: "Wenn es um NKR-Einmalig vs. jaehrlich laufend in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für NKR-Einmalig vs. jährlich laufend: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NKR-Einmalig vs. jaehrlich laufend

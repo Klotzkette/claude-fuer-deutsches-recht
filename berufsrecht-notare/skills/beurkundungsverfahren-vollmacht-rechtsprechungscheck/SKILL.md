@@ -1,6 +1,6 @@
 ---
 name: beurkundungsverfahren-vollmacht-rechtsprechungscheck
-description: "Wenn es um Beurkundungsverfahren Vollmacht Rechtsprechungscheck in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Beurkundungsverfahren Vollmacht Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notare: beurkundungsverfahren vollmacht - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

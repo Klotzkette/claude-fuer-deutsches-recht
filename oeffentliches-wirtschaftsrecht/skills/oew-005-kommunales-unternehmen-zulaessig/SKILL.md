@@ -1,6 +1,6 @@
 ---
 name: oew-005-kommunales-unternehmen-zulaessig
-description: "Wenn es um Kommunales Unternehmen Zulaessig in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunales Unternehmen Zulässig: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Öffentliches Wirtschaftsrecht. Route: oew-005-kommunales-unternehmen-zulaessig."
 ---
 
 # Kommunales Unternehmen Zulaessig

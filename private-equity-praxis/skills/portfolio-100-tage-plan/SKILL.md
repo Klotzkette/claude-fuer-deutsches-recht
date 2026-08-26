@@ -1,6 +1,6 @@
 ---
 name: portfolio-100-tage-plan
-description: "Wenn es um Portfolio: 100-Tage-Plan Legal in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Portfolio: 100-Tage-Plan Legal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Portfolio: 100-Tage-Plan Legal

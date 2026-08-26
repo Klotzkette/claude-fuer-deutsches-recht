@@ -1,6 +1,6 @@
 ---
 name: tr3d-massearmut-tabelle-spezial
-description: "Wenn es um TR3D: Massearmut Tabelle in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für TR3D: Massearmut Tabelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TR3D: Massearmut Tabelle

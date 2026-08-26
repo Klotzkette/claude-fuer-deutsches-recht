@@ -1,6 +1,6 @@
 ---
 name: postlauf
-description: "Wenn es um Postlauf um 11 Uhr in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Postlauf um 11 Uhr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Postlauf um 11 Uhr

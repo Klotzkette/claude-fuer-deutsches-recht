@@ -1,6 +1,6 @@
 ---
 name: pacht-abgrenzung
-description: "Wenn es um Pacht vs in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pacht vs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pacht vs
@@ -44,3 +44,7 @@ description: "Wenn es um Pacht vs in Fachanwalt Miet- und Wohnungseigentumsrecht
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-pacht-abgrenzung` beziehungsweise Pacht vs. Miete: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-pacht-abgrenzung.md).

@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-routerfreiheit-endgeraete
-description: "Wenn es um Telekommunikation: Routerfreiheit Endgeräte in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Telekommunikation: Routerfreiheit Endgeräte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telekommunikation: Routerfreiheit Endgeräte

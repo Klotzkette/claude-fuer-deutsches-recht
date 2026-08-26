@@ -1,6 +1,6 @@
 ---
 name: designrecht-und-muster
-description: "Wenn es um Designrecht Und Muster in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Designrecht und Muster: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Designrecht Und Muster

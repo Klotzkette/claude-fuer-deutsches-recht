@@ -1,6 +1,6 @@
 ---
 name: onboarding-fristen-uebersicht
-description: "Wenn es um Steuerrechtliche Fristen — der Überblick in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuerrechtliche Fristen — der Überblick: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: onboarding-fristen-uebersicht."
 ---
 
 # Steuerrechtliche Fristen — der Überblick

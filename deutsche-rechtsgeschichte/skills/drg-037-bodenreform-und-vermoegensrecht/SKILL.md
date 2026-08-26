@@ -1,6 +1,6 @@
 ---
 name: drg-037-bodenreform-und-vermoegensrecht
-description: "Wenn es um Bodenreform Und Vermoegensrecht in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bodenreform und Vermögensrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bodenreform Und Vermoegensrecht

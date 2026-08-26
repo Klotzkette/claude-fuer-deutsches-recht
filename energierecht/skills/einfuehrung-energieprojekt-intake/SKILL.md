@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-energieprojekt-intake
-description: "Wenn es um Einfuehrung: Mandantenkommunikation und Entscheidungsvorlage in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einführung: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einfuehrung: Mandantenkommunikation und Entscheidungsvorlage

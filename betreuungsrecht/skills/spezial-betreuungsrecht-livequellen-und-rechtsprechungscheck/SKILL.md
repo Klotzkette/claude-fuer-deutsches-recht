@@ -1,6 +1,6 @@
 ---
 name: spezial-betreuungsrecht-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Betreuungsrecht: Livequellen- und Rechtsprechungscheck in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betreuungsrecht: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Betreuungsrecht: Livequellen- und Rechtsprechungscheck

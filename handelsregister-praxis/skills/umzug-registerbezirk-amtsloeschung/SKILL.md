@@ -1,6 +1,6 @@
 ---
 name: umzug-registerbezirk-amtsloeschung
-description: "Wenn es um Sitzverlegung und Registerbezirk in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sitzverlegung und Registerbezirk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Sitzverlegung und Registerbezirk

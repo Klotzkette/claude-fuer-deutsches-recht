@@ -1,6 +1,6 @@
 ---
 name: mandatskuendigung-vor-frist-kammerantwort-und-ver
-description: "Wenn es um Mandatskuendigung Vor Frist Kammerantwort Und Ver in Berufsrecht Steuerberater geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandatskündigung vor Frist Kammerantwort und Ver: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Steuerberater: mandatskuendigung vor frist - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

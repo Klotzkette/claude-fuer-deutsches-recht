@@ -1,6 +1,6 @@
 ---
 name: db-014-immobiliendaten-portal-und-lead-datenbank
-description: "Wenn es um Datenbankrecht: Immobiliendaten Portal und Lead-Datenbank in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Immobiliendaten Portal und Lead-Datenbank: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Datenbankrecht: Immobiliendaten Portal und Lead-Datenbank

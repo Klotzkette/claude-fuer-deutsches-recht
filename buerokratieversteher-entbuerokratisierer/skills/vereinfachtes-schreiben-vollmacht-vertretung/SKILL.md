@@ -1,6 +1,6 @@
 ---
 name: vereinfachtes-schreiben-vollmacht-vertretung
-description: "Wenn es um Schreiben-Generator in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schreiben-Generator: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schreiben-Generator

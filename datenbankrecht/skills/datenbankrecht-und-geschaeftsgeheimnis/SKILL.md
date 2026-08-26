@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-und-geschaeftsgeheimnis
-description: "Wenn es um Datenbankrecht und Geschäftsgeheimnisschutz — Kumulative Schutzstrategie in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht und Geschäftsgeheimnisschutz — Kumulative Schutzstrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht und Geschäftsgeheimnisschutz — Kumulative Schutzstrategie

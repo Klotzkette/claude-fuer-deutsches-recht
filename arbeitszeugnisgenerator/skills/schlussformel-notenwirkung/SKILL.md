@@ -1,6 +1,6 @@
 ---
 name: schlussformel-notenwirkung
-description: "Bewertet, ob eine vorhandene Schlussformel den Gesamteindruck praktisch verändert, ohne aus ihr eine starre Schulnote oder einen gesetzlichen Anspruch abzuleiten. Liefert Kontextanalyse, Anspruchsstatus und taktische Änderungsoptionen."
+description: "Bewertet, ob eine vorhandene Schlussformel den Gesamteindruck praktisch verändert, ohne aus ihr eine starre Schulnote oder einen gesetzlichen Anspruch abzuleiten."
 ---
 
 # Schlussformel-Notenwirkung

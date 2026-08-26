@@ -1,6 +1,6 @@
 ---
 name: verbindliche-erstgespraech
-description: "Wenn es um Verbindliche Auskunft nach Paragraf 89 Abs. 2 AO in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Verbindliche Erstgespraech; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Verbindliche Auskunft nach Paragraf 89 Abs. 2 AO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: verbindliche-erstgespraech."
 ---
 
 # Verbindliche Auskunft nach § 89 Abs. 2 AO

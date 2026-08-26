@@ -1,6 +1,6 @@
 ---
 name: ksv-paedagogisch-mandanten-intake-mehrere
-description: "Wenn es um KSV pädagogisch-künstlerisch in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für KSV pädagogisch-künstlerisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KSV pädagogisch-künstlerisch

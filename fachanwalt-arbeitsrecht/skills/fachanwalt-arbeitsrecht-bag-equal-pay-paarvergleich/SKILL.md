@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich
-description: "Wenn es um Rechtsprechung live prüfen in Fachanwalt Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Rechtsprechung live prüfen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Rechtsprechung live prüfen

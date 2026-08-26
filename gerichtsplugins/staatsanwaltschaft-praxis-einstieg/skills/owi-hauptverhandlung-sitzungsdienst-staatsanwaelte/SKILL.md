@@ -1,6 +1,6 @@
 ---
 name: owi-hauptverhandlung-sitzungsdienst-staatsanwaelte
-description: "Wenn es um Owi Hauptverhandlung Sitzungsdienst Staatsanwaelte in Staatsanwaltschaft Praxis-Einstieg geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Owi Hauptverhandlung Sitzungsdienst Staatsanwälte: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # OWi-Hauptverhandlung im Sitzungsdienst: Teilnahme, Anträge, Beweisaufnahme, Einstellung und Urteilserwartung

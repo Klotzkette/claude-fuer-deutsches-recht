@@ -1,6 +1,6 @@
 ---
 name: korrespondenz-zahlen-schwellen-und-berechnung
-description: "Wenn es um Korrespondenz: Zahlen, Schwellenwerte und Berechnung in markenrecht-fashion-luxus geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Korrespondenz: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Korrespondenz: Zahlen, Schwellenwerte und Berechnung

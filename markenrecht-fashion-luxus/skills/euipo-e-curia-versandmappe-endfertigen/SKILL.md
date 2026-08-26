@@ -1,6 +1,6 @@
 ---
 name: euipo-e-curia-versandmappe-endfertigen
-description: "Endfertigt EUIPO-Widerspruch, Nichtigkeits- oder Verfallsantrag, Beschwerde zur Beschwerdekammer und anschließende Klage zum Gericht der Europäischen Union: trennt EUIPO-Portal und e-Curia, prüft Frist, Verfahrenssprache, Waren und Dienstleistungen, ältere Rechte und Benutzungsnachweise, strukturiert Beweisbündel und liefert portalgerechte Einzeldateien mit Einreichungsbestätigung."
+description: "Endfertigt EUIPO-Widerspruch, Nichtigkeits- oder Verfallsantrag, Beschwerde zur Beschwerdekammer und anschließende Klage zum Gericht der Europäischen Union: trennt EUIPO-Portal und e-Curia, prüft Frist, Verfahrenssprache, Waren und Dienstleistungen, ältere Rechte und Benutzungsnachweise, strukturiert Beweisbündel und liefert portalgerechte Einzeldateien mit."
 ---
 
 # EUIPO- und e-Curia-Versandmappe endfertigen

@@ -1,6 +1,6 @@
 ---
 name: sanktion-organisationsverschulden
-description: "Wenn es um Organisationsverschulden ersteinschätzen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Organisationsverschulden ersteinschätzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Organisationsverschulden ersteinschätzen

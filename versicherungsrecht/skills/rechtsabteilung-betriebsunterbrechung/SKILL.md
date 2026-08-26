@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-betriebsunterbrechung
-description: "Wenn es um Rechtsabteilung: Betriebsunterbrechung und Lieferkettenausfall in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Rechtsabteilung: Betriebsunterbrechung und Lieferkettenausfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Betriebsunterbrechung und Lieferkettenausfall

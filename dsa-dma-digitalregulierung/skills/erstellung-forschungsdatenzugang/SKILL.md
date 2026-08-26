@@ -1,6 +1,6 @@
 ---
 name: erstellung-forschungsdatenzugang
-description: "Wenn es um Erstellung: Abschlussprodukt und Übergabe in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erstellung: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erstellung: Abschlussprodukt und Übergabe

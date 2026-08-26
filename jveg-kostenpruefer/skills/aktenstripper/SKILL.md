@@ -1,6 +1,6 @@
 ---
 name: aktenstripper
-description: "Wenn es um JVEG-Aktenstripper in JVEG-Kostenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für JVEG-Aktenstripper: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # JVEG-Aktenstripper

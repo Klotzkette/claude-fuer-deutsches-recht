@@ -1,6 +1,6 @@
 ---
 name: system-zahlen-schwellen-und-berechnung
-description: "Wenn es um System Zahlen Schwellen Und Berechnung in Methodenlehre bürgerliches Recht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für System Zahlen Schwellen und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betragsgrenzwerte und Berechnungsformeln im bürgerlichen Recht und Zivilprozess
@@ -98,3 +98,7 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-system-zahlen-schwellen-und-berechnung` beziehungsweise System: Zahlen, Schwellenwerte und Berechnung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-system-zahlen-schwellen-und-berechnung.md).

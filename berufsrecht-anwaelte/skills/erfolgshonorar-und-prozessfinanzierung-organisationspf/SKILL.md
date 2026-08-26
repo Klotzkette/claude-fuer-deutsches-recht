@@ -1,6 +1,6 @@
 ---
 name: erfolgshonorar-und-prozessfinanzierung-organisationspf
-description: "Wenn es um Erfolgshonorar Und Prozessfinanzierung Organisationspf in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erfolgshonorar und Prozessfinanzierung Organisationspf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: erfolgshonorar und prozessfinanzierung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

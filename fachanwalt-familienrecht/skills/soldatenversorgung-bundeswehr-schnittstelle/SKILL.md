@@ -1,6 +1,6 @@
 ---
 name: soldatenversorgung-bundeswehr-schnittstelle
-description: "Wenn es um Soldatenversorgung Bundeswehr Schnittstelle in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Soldatenversorgung Bundeswehr Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Soldatenversorgung Bundeswehr Schnittstelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

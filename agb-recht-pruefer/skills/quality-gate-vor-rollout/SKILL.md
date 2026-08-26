@@ -1,6 +1,6 @@
 ---
 name: quality-gate-vor-rollout
-description: "Wenn es um Quality Gate Vor Rollout in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Quality Gate vor Rollout: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quality Gate Vor Rollout

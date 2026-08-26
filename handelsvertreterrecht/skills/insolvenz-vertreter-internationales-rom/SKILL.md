@@ -1,6 +1,6 @@
 ---
 name: insolvenz-vertreter-internationales-rom
-description: "Wenn es um Insolvenz des Handelsvertreters — Vertragsbeendigung und Anspruchsübertragung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenz des Handelsvertreters — Vertragsbeendigung und Anspruchsübertragung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Insolvenz des Handelsvertreters — Vertragsbeendigung und Anspruchsübertragung

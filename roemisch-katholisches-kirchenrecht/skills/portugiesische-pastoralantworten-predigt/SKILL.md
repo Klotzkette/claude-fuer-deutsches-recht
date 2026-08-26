@@ -1,6 +1,6 @@
 ---
 name: portugiesische-pastoralantworten-predigt
-description: "Wenn es um Portugiesische Pastoralantworten in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Portugiesische Pastoralantworten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: portugiesische-pastoralantworten-predigt."
 ---
 
 # Portugiesische Pastoralantworten

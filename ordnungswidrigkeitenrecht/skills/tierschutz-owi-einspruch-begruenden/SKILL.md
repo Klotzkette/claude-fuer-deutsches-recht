@@ -1,6 +1,6 @@
 ---
 name: tierschutz-owi-einspruch-begruenden
-description: "Wenn es um Tierschutz Owi Einspruch Begruenden in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tierschutz Owi Einspruch Begründen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tierschutz Owi Einspruch Begruenden

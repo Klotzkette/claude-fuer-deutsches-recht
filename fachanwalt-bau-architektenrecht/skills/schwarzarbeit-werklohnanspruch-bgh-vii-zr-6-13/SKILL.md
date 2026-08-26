@@ -1,6 +1,6 @@
 ---
 name: schwarzarbeit-werklohnanspruch-bgh-vii-zr-6-13
-description: "Prüft Werklohn, Mängelrechte und Rückzahlung bei einer Ohne-Rechnung-Abrede. Ermittelt Inhalt und Zeitpunkt der Steuerabrede, beiderseitigen Vorsatz, Gesamt- oder Teilnichtigkeit sowie vertragliche, bereicherungsrechtliche und deliktische Folgen und erstellt Beweismatrix und Klage- oder Abwehrbaustein."
+description: "Für Ohne-Rechnung-Abrede im Werkvertrag prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Ohne-Rechnung-Abrede im Werkvertrag prüfen

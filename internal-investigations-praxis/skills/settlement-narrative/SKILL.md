@@ -1,6 +1,6 @@
 ---
 name: settlement-narrative
-description: "Wenn es um Settlement-Narrativ und Verfahrensabschluss in Internal Investigations Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Settlement-Narrativ und Verfahrensabschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Settlement-Narrativ und Verfahrensabschluss

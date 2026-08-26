@@ -1,6 +1,6 @@
 ---
 name: verteilungsplan-155
-description: "Wenn es um Verteilungsplan Paragraf 155 ZVG in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verteilungsplan Paragraf 155 ZVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verteilungsplan § 155 ZVG

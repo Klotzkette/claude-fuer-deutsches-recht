@@ -1,6 +1,6 @@
 ---
 name: notare-bnotk-modus
-description: "Wenn es um Notar-Modus (BNotO/BNotK) in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notar-Modus (BNotO/BNotK): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notar-Modus (BNotO/BNotK)

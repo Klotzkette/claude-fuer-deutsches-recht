@@ -1,6 +1,6 @@
 ---
 name: tier-022-hundehaltung-behoerdenantrag-schreiben
-description: "Wenn es um Hundehaltung Behoerdenantrag Schreiben in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Hundehaltung Behördenantrag Schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Tierschutzrecht. Route: tier-022-hundehaltung-behoerdenantrag-schreiben."
 ---
 
 # Hundehaltung Behoerdenantrag Schreiben

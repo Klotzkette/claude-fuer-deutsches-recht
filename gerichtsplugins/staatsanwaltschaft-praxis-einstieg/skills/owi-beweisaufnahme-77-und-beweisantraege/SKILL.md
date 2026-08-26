@@ -1,6 +1,6 @@
 ---
 name: owi-beweisaufnahme-77-und-beweisantraege
-description: "Wenn es um Owi Beweisaufnahme 77 Und Beweisantraege in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Owi Beweisaufnahme 77 und Beweisanträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweisaufnahme im OWi-Verfahren: Aufklärungspflicht, vereinfachte Beweisaufnahme und Beweisanträge

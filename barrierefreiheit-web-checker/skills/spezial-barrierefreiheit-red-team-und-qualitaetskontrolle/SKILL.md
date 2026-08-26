@@ -1,6 +1,6 @@
 ---
 name: spezial-barrierefreiheit-red-team-und-qualitaetskontrolle
-description: "Wenn es um Barrierefreiheit: Red-Team und Qualitätskontrolle in Barrierefreiheit Web Checker geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Barrierefreiheit: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Barrierefreiheit: Red-Team und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: infl-003-affiliate-link-rabattcode-und-provision
-description: "Wenn es um Influencer-Recht: Affiliate Link Rabattcode und Provision in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Affiliate Link Rabattcode und Provision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Affiliate Link Rabattcode und Provision

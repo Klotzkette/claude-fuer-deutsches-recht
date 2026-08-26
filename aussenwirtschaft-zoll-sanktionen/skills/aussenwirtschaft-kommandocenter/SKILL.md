@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-kommandocenter
-description: "Wenn es um Kommandocenter Außenwirtschaft: Mehrfach-Sachverhalts-Steuerung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Kommandocenter Außenwirtschaft: Mehrfach-Sachverhalts-Steuerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommandocenter Außenwirtschaft: Mehrfach-Sachverhalts-Steuerung

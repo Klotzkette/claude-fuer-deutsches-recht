@@ -1,6 +1,6 @@
 ---
 name: unfreundliche-unsachliche-umform-anwaltsbrief
-description: "Wenn es um Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage in E-Mail-Umformulierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage

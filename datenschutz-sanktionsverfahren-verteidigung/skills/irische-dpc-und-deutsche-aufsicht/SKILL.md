@@ -1,6 +1,6 @@
 ---
 name: irische-dpc-und-deutsche-aufsicht
-description: "Wenn es um Irische DPC und deutsche Aufsicht in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Irische DPC und deutsche Aufsicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Irische DPC und deutsche Aufsicht

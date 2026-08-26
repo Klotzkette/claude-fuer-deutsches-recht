@@ -1,6 +1,6 @@
 ---
 name: bewegliche-sachen-router
-description: "Wenn es um Leasing von Netzwerkequipment: Router, Switches, Access Points in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Leasing von Netzwerkequipment: Router, Switches, Access Points: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasing von Netzwerkequipment: Router, Switches, Access Points

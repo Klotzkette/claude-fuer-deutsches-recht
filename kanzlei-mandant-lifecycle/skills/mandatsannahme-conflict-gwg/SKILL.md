@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-conflict-gwg
-description: "Wenn es um Mandatsannahme, Conflict und GwG in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandatsannahme, Conflict und GwG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandatsannahme, Conflict und GwG

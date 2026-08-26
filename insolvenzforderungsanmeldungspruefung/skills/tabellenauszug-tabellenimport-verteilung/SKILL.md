@@ -1,6 +1,6 @@
 ---
 name: tabellenauszug-tabellenimport-verteilung
-description: "Wenn es um Tabellenauszug und Feststellungswirkung in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tabellenauszug und Feststellungswirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tabellenauszug und Feststellungswirkung

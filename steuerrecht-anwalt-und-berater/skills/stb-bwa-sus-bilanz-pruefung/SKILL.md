@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-sus-bilanz-pruefung
-description: "Wenn es um BWA-, SuSa- und Bilanzpruefung bei Krisensignalen in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für BWA-, SuSa- und Bilanzprüfung bei Krisensignalen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # BWA-, SuSa- und Bilanzpruefung bei Krisensignalen

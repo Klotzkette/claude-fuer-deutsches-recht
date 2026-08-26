@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-netzanschluss-strom-unterlagenanforderu
-description: "Wenn es um Energie-Regulierungsakte: Netzanschluss Strom — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: Netzanschluss Strom — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: Netzanschluss Strom — Unterlagenanforderung

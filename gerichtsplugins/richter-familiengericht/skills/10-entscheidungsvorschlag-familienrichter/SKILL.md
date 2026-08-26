@@ -1,6 +1,6 @@
 ---
 name: 10-entscheidungsvorschlag-familienrichter
-description: "Wenn es um 10 Entscheidungsvorschlag Familienrichter in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 10 Entscheidungsvorschlag Familienrichter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 10 Entscheidungsvorschlag Familienrichter

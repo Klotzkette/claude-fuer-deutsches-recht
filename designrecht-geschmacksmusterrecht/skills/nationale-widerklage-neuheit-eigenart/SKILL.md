@@ -1,6 +1,6 @@
 ---
 name: nationale-widerklage-neuheit-eigenart
-description: "Wenn es um Nationale Widerklage Nichtigkeit in designrecht-geschmacksmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Nationale Widerklage Nichtigkeit: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Nationale Widerklage Nichtigkeit

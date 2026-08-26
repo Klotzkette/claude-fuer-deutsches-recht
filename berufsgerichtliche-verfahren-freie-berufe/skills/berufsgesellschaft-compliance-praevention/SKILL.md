@@ -1,6 +1,6 @@
 ---
 name: berufsgesellschaft-compliance-praevention
-description: "Wenn es um Berufsgesellschaft Compliance: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Berufsgesellschaft Compliance: Präventions- und Organisationspaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berufsgesellschaft Compliance: Präventions- und Organisationspaket

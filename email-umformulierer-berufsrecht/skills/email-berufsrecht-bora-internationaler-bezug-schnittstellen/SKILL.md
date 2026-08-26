@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-bora-internationaler-bezug-schnittstellen
-description: "Wenn es um Bora: Internationaler Bezug und Schnittstellen in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Bora Internationaler Bezug Schnittstellen; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für BORA: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: E-Mail-Umformulierer. Route: email-berufsrecht-bora-internationaler-bezug-schnittstellen."
 ---
 
 # Bora: Internationaler Bezug und Schnittstellen

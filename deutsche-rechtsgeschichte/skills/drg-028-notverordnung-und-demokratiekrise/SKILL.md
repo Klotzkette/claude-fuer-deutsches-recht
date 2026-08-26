@@ -1,6 +1,6 @@
 ---
 name: drg-028-notverordnung-und-demokratiekrise
-description: "Wenn es um Notverordnung Und Demokratiekrise in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notverordnung und Demokratiekrise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notverordnung Und Demokratiekrise

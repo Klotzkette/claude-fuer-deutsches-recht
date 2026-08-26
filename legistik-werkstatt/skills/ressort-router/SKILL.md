@@ -1,6 +1,6 @@
 ---
 name: ressort-router
-description: "Wenn es um Legistik-Werkstatt - Ressort-Router in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Legistik-Werkstatt - Ressort-Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Legistik-Werkstatt - Ressort-Router

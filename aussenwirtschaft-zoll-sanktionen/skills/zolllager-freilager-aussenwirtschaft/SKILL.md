@@ -1,6 +1,6 @@
 ---
 name: zolllager-freilager-aussenwirtschaft
-description: "Wenn es um Zolllager und Freilager: Bewilligung Lagerhalterpflichten und Bestandskontrolle in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zolllager und Freilager: Bewilligung Lagerhalterpflichten und Bestandskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zolllager und Freilager: Bewilligung Lagerhalterpflichten und Bestandskontrolle

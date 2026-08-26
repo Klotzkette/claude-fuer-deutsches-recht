@@ -1,6 +1,6 @@
 ---
 name: haftpflichtfall-krankenhaus-gutachtenstrategie
-description: "Wenn es um Haftpflichtfall Krankenhaus Gutachtenstrategie in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Haftpflichtfall Krankenhaus Gutachtenstrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Haftpflichtfall Krankenhaus Gutachtenstrategie

@@ -1,6 +1,6 @@
 ---
 name: datenstraftaten-diebstahl
-description: "Wenn es um Datenstraftaten Paragrafen 202a, 303a StGB in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenstraftaten Paragrafen 202a, 303a StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenstraftaten §§ 202a, 303a StGB

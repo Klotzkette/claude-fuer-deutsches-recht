@@ -1,6 +1,6 @@
 ---
 name: fragerecht-ohne-freispruch-zweifel
-description: "Wenn es um Fragerecht ohne Vorwegnahme in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fragerecht ohne Vorwegnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fragerecht ohne Vorwegnahme

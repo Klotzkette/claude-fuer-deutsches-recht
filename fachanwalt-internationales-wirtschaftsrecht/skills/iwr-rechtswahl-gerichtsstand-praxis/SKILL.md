@@ -1,6 +1,6 @@
 ---
 name: iwr-rechtswahl-gerichtsstand-praxis
-description: "Wenn es um Rechtswahl und Gerichtsstand in der Praxis: Prüfraster Art in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtswahl und Gerichtsstand in der Praxis: Prüfraster Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtswahl und Gerichtsstand in der Praxis: Prüfraster Art

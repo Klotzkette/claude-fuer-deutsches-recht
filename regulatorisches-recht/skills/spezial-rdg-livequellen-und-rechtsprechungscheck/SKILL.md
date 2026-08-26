@@ -1,6 +1,6 @@
 ---
 name: spezial-rdg-livequellen-und-rechtsprechungscheck
-description: "Wenn es um RDG: Livequellen- und Rechtsprechungscheck in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für RDG: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # RDG: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-genehmigungsfiktion-13-sgb-v
-description: "Wenn es um Krankenkassen Genehmigungsfiktion 13 Sgb V in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenkassen Genehmigungsfiktion 13 SGB V: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenkassen Genehmigungsfiktion 13 Sgb V

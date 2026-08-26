@@ -1,6 +1,6 @@
 ---
 name: kpi-pack-standard
-description: "Wenn es um KPI-Pack Standard in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für KPI-Pack Standard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KPI-Pack Standard

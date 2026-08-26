@@ -1,6 +1,6 @@
 ---
 name: dsa-vlop-vlose-einordnung-und-pflichten
-description: "Wenn es um DSA — VLOP/VLOSE-Einordnung und Pflichten in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSA — VLOP/VLOSE-Einordnung und Pflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSA — VLOP/VLOSE-Einordnung und Pflichten

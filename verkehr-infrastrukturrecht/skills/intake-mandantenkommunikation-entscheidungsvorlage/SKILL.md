@@ -1,6 +1,6 @@
 ---
 name: intake-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Intake: Mandantenkommunikation und Entscheidungsvorlage in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Intake: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Intake: Mandantenkommunikation und Entscheidungsvorlage

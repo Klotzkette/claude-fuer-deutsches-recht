@@ -1,6 +1,6 @@
 ---
 name: ausgabengruppen-systematik
-description: "Wenn es um Liqui: Ausgabengruppen in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Liqui: Ausgabengruppen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liqui: Ausgabengruppen

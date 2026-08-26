@@ -1,6 +1,6 @@
 ---
 name: aa-eu-grundlagen-und-ratsverfahren
-description: "Wenn es um EU-Grundlagen und Ratsverfahren (AA) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Aa EU Grundlagen Und Ratsverfahren; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für EU-Grundlagen und Ratsverfahren (AA): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Legistik-Werkstatt. Route: aa-eu-grundlagen-und-ratsverfahren."
 ---
 
 # EU-Grundlagen und Ratsverfahren (AA)

@@ -1,6 +1,6 @@
 ---
 name: exit-interview-founder-employee-freelancer
-description: "Wenn es um Exit Interview Und Retention Lernen in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Exit Interview und Retention Lernen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Exit Interview Und Retention Lernen

@@ -1,6 +1,6 @@
 ---
 name: dsv-benachrichtigung-art-34-schwelle-hohes-risiko
-description: "Wenn es um Bewertet, ob die Schwelle voraussichtlich hohes Risiko nach Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bewertet, ob die Schwelle voraussichtlich hohes Risiko nach Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Bewertet, ob die Schwelle voraussichtlich hohes Risiko nach Art

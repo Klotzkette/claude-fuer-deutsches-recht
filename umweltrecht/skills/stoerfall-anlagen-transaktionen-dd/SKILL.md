@@ -1,6 +1,6 @@
 ---
 name: stoerfall-anlagen-transaktionen-dd
-description: "Wenn es um Stoerfall, Anlagenbetrieb und Betreiberpflichten in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Störfall, Anlagenbetrieb und Betreiberpflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stoerfall, Anlagenbetrieb und Betreiberpflichten

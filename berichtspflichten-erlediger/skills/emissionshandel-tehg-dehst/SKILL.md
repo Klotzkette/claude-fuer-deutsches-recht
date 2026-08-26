@@ -1,6 +1,6 @@
 ---
 name: emissionshandel-tehg-dehst
-description: "Wenn es um TEHG Emissionsbericht und DEHSt in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für TEHG Emissionsbericht und DEHSt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TEHG Emissionsbericht und DEHSt

@@ -1,6 +1,6 @@
 ---
 name: kooperation-mit-rechtsanwalt-kaltstart-und-fakten
-description: "Wenn es um Kooperation Mit Rechtsanwalt Kaltstart Und Fakten in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kooperation mit Rechtsanwalt Kaltstart und Fakten: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: kooperation mit rechtsanwalt - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

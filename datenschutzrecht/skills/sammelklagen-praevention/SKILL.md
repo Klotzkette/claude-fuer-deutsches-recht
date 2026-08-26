@@ -1,6 +1,6 @@
 ---
 name: sammelklagen-praevention
-description: "Wenn es um Sammelklagen-Prävention nach Massendatenpanne in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sammelklagen-Prävention nach Massendatenpanne: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Sammelklagen-Prävention nach Massendatenpanne
@@ -51,3 +51,7 @@ Goodwill: pauschale Kulanzpakete (z.B. Schufa-Auskunft, Identitätsschutz) ohne 
 
 - `dsv-schadensersatz-art-82` deckt die zivilrechtliche Verteidigung ab.
 - `dsv-rechtsprechung-immaterieller-schaden-bgh-olg` deckt die Rechtsprechungsanalyse ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-sammelklagen-praevention` beziehungsweise Entwickelt eine Strategie zur Prävention und Steuerung von Sammelklagen und Massenverfahren nach einer Massendatenpanne: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-sammelklagen-praevention.md).

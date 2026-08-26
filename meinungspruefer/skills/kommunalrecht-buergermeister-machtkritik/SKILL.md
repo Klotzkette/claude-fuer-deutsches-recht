@@ -1,6 +1,6 @@
 ---
 name: kommunalrecht-buergermeister-machtkritik
-description: "Wenn es um Kommunalrechtlicher Grenzfall: Bürgermeister und Bauprojekt in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunalrechtlicher Grenzfall: Bürgermeister und Bauprojekt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunalrechtlicher Grenzfall: Bürgermeister und Bauprojekt

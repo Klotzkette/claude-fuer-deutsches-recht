@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-dac7-und-plattformreporting
-description: "Wenn es um Rechtsabteilung: DAC7 und Plattformreporting in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsabteilung: DAC7 und Plattformreporting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: DAC7 und Plattformreporting

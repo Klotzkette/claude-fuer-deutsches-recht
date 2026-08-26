@@ -1,6 +1,6 @@
 ---
 name: ristbv-verfuegungstechnik-standard
-description: "Wenn es um RiStBV-Verfügungstechnik und Dezernatsstandard in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für RiStBV-Verfügungstechnik und Dezernatsstandard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # RiStBV-Verfügungstechnik und Dezernatsstandard

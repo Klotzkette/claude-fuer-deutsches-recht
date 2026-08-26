@@ -1,6 +1,6 @@
 ---
 name: hinterbliebenenversorgung-witwen-waisen
-description: "Wenn es um Hinterbliebenenversorgung Witwen Witwer Waisen in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hinterbliebenenversorgung Witwen Witwer Waisen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hinterbliebenenversorgung Witwen Witwer Waisen

@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-naechste-schritte
-description: "Wenn es um Mandantenbrief nächste Schritte in gesellschaftsgründer — Gründungsassistent für deutsche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mandantenbrief nächste Schritte: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mandantenbrief nächste Schritte

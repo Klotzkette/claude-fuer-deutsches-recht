@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-unabhaengigkeit-bei-pie-pruefung-rechtsprech
-description: "Wenn es um Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Rechtsprech in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Wirtschaftsprüfer Unabhängigkeit bei Pie Prüfung Rechtsprech: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: unabhaengigkeit bei pie pruefung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

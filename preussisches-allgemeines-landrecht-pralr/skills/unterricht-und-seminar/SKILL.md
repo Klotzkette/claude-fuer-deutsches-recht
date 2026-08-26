@@ -1,6 +1,6 @@
 ---
 name: unterricht-und-seminar
-description: "Wenn es um Unterricht und Seminar in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Unterricht Und Seminar; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Unterricht und Seminar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: unterricht-und-seminar."
 ---
 
 # Unterricht und Seminar

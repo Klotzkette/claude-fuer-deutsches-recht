@@ -1,6 +1,6 @@
 ---
 name: ipr-art-versionierung-aenderungshistorie
-description: "Wenn es um Agb Und Ipr Art 6 Rom I Verbraucher in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ipr Art Versionierung Aenderungshistorie; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für AGB und Ipr Art 6 Rom I Verbraucher: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: ipr-art-versionierung-aenderungshistorie."
 ---
 
 # Agb Und Ipr Art 6 Rom I Verbraucher

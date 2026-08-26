@@ -1,6 +1,6 @@
 ---
 name: fachgebiet-routing-zivil-oeffentlich-straf
-description: "Wenn es um Fachgebiet-Routing: Zivilrecht — Öffentliches Recht — Strafrecht in hausarbeitenmacher — Didaktisches Plugin für juristische geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachgebiet-Routing: Zivilrecht — Öffentliches Recht — Strafrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fachgebiet-Routing: Zivilrecht — Öffentliches Recht — Strafrecht

@@ -1,6 +1,6 @@
 ---
 name: digitale-inhalte-widerruf-formulieren
-description: "Wenn es um Digitale Inhalte Anspruch Prüfen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitale Inhalte Anspruch Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitale Inhalte Anspruch Prüfen

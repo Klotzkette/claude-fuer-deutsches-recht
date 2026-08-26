@@ -1,6 +1,6 @@
 ---
 name: signaturweg-und-absender-pruefen
-description: "Klärt vor der Freigabe die verantwortende Person, den tatsächlichen Versender, das verwendete sichere Postfach und die verfahrensbezogene Formroute; unterscheidet persönlichen sicheren Versand mit einfacher Signatur von der qualifizierten elektronischen Signatur, prüft die Namenszeile im Hauptdokument und stoppt bei fremdem Postfach, Mitarbeiter-Versand oder ungeklärter Verantwortung."
+description: "Klärt vor der Freigabe die verantwortende Person, den tatsächlichen Versender, das verwendete sichere Postfach und die verfahrensbezogene Formroute; unterscheidet persönlichen sicheren Versand mit einfacher Signatur von der qualifizierten elektronischen Signatur, prüft die Namenszeile im Hauptdokument und stoppt bei fremdem Postfach, Mitarbeiter-Versand."
 ---
 
 # Signaturweg und Absender prüfen

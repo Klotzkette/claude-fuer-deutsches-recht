@@ -1,6 +1,6 @@
 ---
 name: ins-025-cyberangriff
-description: "Wenn es um Insiderrecht: Cyberangriff in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insiderrecht: Cyberangriff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Cyberangriff

@@ -1,6 +1,6 @@
 ---
 name: arbeitsgerichtliche-versandmappe-endfertigen
-description: "Endfertigt Kündigungsschutzklage, Zahlungsklage, Klageerwiderung, Berufungs- oder Revisionsschrift im Arbeitsrecht: liest die Mandatsakte zuerst, prüft Anträge und Dreiwochenfrist, ordnet Kündigung, Zugang, Vertrag, Betriebsratsanhörung, Sozialauswahl, Abrechnungen und Zeitnachweise den Beweisthemen zu und liefert eine formwirksame beA-Versandmappe mit fortgeführtem Anlagenkreis."
+description: "Endfertigt Kündigungsschutzklage, Zahlungsklage, Klageerwiderung, Berufungs- oder Revisionsschrift im Arbeitsrecht: liest die Mandatsakte zuerst, prüft Anträge und Dreiwochenfrist, ordnet Kündigung, Zugang, Vertrag, Betriebsratsanhörung, Sozialauswahl, Abrechnungen und Zeitnachweise den Beweisthemen zu und liefert eine formwirksame beA-Versandmappe mit."
 ---
 
 # Arbeitsgerichtliche Versandmappe endfertigen

@@ -1,6 +1,6 @@
 ---
 name: angestellter-steuerberater-nebentaetigkeit-kaltst
-description: "Wenn es um Angestellter Steuerberater Nebentaetigkeit Kaltst in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Angestellter Steuerberater Nebentätigkeit Kaltst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: angestellter steuerberater nebentaetigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

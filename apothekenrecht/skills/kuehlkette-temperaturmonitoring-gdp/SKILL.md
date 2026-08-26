@@ -1,6 +1,6 @@
 ---
 name: kuehlkette-temperaturmonitoring-gdp
-description: "Wenn es um Kühlkette Temperaturmonitoring GDP in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kühlkette Temperaturmonitoring GDP: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kühlkette Temperaturmonitoring GDP

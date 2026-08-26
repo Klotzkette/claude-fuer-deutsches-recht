@@ -1,6 +1,6 @@
 ---
 name: interessen-rechtsberatung-rechtsfolgen
-description: "Wenn es um Mehrparteienkonflikt und Interessenmatrix in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mehrparteienkonflikt und Interessenmatrix

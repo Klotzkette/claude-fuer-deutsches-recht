@@ -1,6 +1,6 @@
 ---
 name: breitband-beihilfe-markieren
-description: "Wenn es um Breitband Beihilfe Markieren in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Breitband Beihilfe Markieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Breitband Beihilfe Markieren

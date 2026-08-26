@@ -1,6 +1,6 @@
 ---
 name: spa-apa-entwurf
-description: "Wenn es um SPA/APA-Entwurf in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SPA/APA-Entwurf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A."
 ---
 
 # SPA/APA-Entwurf

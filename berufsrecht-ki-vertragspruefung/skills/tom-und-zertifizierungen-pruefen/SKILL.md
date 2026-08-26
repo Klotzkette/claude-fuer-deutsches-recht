@@ -1,6 +1,6 @@
 ---
 name: tom-und-zertifizierungen-pruefen
-description: "Wenn es um TOM und Zertifizierungen prüfen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für TOM und Zertifizierungen prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TOM und Zertifizierungen prüfen

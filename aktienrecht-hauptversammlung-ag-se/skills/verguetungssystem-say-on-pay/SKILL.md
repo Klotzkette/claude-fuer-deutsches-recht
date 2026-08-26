@@ -1,6 +1,6 @@
 ---
 name: verguetungssystem-say-on-pay
-description: "Wenn es um Verguetungssystem Say On Pay in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vergütungssystem Say On Pay: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verguetungssystem Say On Pay

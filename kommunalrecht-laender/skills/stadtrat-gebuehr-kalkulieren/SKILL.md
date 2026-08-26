@@ -1,6 +1,6 @@
 ---
 name: stadtrat-gebuehr-kalkulieren
-description: "Wenn es um Stadtrat Gebuehr Kalkulieren in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stadtrat Gebühr Kalkulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Stadtrat Gebuehr Kalkulieren

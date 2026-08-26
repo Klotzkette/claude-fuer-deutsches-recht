@@ -1,6 +1,6 @@
 ---
 name: dokumente-sichern-e-discovery-einstweiliger
-description: "Wenn es um Dokumente Sichern in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Dokumente Sichern: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumente Sichern

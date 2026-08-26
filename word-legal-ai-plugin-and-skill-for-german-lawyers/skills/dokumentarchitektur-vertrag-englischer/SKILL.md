@@ -1,6 +1,6 @@
 ---
 name: dokumentarchitektur-vertrag-englischer
-description: "Wenn es um Dokumentarchitektur: Vertrag und Schriftsatz in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Dokumentarchitektur: Vertrag und Schriftsatz: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentarchitektur: Vertrag und Schriftsatz

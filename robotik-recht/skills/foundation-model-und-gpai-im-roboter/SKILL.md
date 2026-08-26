@@ -1,6 +1,6 @@
 ---
 name: foundation-model-und-gpai-im-roboter
-description: "Wenn es um GPAI im Roboter in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GPAI im Roboter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GPAI im Roboter

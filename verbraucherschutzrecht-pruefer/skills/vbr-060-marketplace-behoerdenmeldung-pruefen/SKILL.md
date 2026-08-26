@@ -1,6 +1,6 @@
 ---
 name: vbr-060-marketplace-behoerdenmeldung-pruefen
-description: "Wenn es um Marketplace Behoerdenmeldung Pruefen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Marketplace Behördenmeldung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: vbr-060-marketplace-behoerdenmeldung-pruefen."
 ---
 
 # Marketplace Behoerdenmeldung Pruefen

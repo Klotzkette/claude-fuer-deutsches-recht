@@ -1,6 +1,6 @@
 ---
 name: anordnung-quellenkarte
-description: "Wenn es um Anordnung Quellenkarte in Fachanwalt Verwaltungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Anordnung Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anordnung Quellenkarte

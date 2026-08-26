@@ -1,6 +1,6 @@
 ---
 name: autobahnprojekt-kommunikation-schreibe
-description: "Wenn es um Autobahnprojekt Kommunikation Schreibe in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Autobahnprojekt Kommunikation Schreibe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Autobahnprojekt Kommunikation Schreibe

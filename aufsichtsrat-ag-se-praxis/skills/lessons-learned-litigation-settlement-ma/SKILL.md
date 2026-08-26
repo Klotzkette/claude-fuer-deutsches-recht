@@ -1,6 +1,6 @@
 ---
 name: lessons-learned-litigation-settlement-ma
-description: "Wenn es um Lessons Learned in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Lessons Learned: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AG/SE-Aufsichtsrat Praxis."
 ---
 
 # Lessons Learned

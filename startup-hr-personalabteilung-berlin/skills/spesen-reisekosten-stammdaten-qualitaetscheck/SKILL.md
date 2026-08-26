@@ -1,6 +1,6 @@
 ---
 name: spesen-reisekosten-stammdaten-qualitaetscheck
-description: "Wenn es um Spesen Reisekosten Policy in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Spesen Reisekosten Policy: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Spesen Reisekosten Policy

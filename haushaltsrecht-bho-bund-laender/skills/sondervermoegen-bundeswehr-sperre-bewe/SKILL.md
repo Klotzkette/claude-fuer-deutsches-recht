@@ -1,6 +1,6 @@
 ---
 name: sondervermoegen-bundeswehr-sperre-bewe
-description: "Wenn es um Sondervermoegen Bundeswehr Sperre Bewe in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sondervermögen Bundeswehr Sperre Bewe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sondervermoegen Bundeswehr Sperre Bewe

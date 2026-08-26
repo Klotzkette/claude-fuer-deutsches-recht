@@ -1,6 +1,6 @@
 ---
 name: datum-formular-portal-und-einreichung
-description: "Wenn es um Datum Formular Portal Und Einreichung in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datum Formular Portal und Einreichung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Datum, Formular, Portal und Einreichung im arbeitsrechtlichen Verfahren: Fristenkalender, elektronische Einreichung ERV/beA, Gerichtsportale Arbeitsgericht, Formulare Klage ArbG, Antragsformulare ELAN-K2, Massenentlassung-Anzeige, BA-Formulare.
@@ -114,3 +114,7 @@ Bei technischem Ausfall des beA: sofortige Einreichung per Telefax mit gleichzei
 ## Was dieser Arbeitsgang nicht macht
 - Keine technische Hilfe für beA-Einrichtung oder -Betrieb.
 - Keine Garantie für Aktualität von Formularversionen; stets aktuelle Version beim zuständigen Portal prüfen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-datum-formular-portal-und-einreichung` beziehungsweise Datum: Formular, Portal und Einreichungslogik: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-datum-formular-portal-und-einreichung.md).

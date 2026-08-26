@@ -1,6 +1,6 @@
 ---
 name: telefon-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Telefon: Mandantenkommunikation und Entscheidungsvorlage in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Telefon: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Telefon: Mandantenkommunikation und Entscheidungsvorlage

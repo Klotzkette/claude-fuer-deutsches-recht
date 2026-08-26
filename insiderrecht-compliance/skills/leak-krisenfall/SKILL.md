@@ -1,6 +1,6 @@
 ---
 name: leak-krisenfall
-description: "Wenn es um Leak Response – Reaktion auf Informationslecks in Insiderrecht Compliance geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Leak Response – Reaktion auf Informationslecks: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leak Response – Reaktion auf Informationslecks

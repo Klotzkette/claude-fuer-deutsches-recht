@@ -1,6 +1,6 @@
 ---
 name: schriftform-paragraph-126-bgb-eigenhaendige-unterschrift
-description: "Wenn es um Schriftform Paragraf 126 BGB — Eigenhändige Unterschrift in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schriftform Paragraf 126 BGB — Eigenhändige Unterschrift: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schriftform Paragraf 126 BGB — Eigenhändige Unterschrift

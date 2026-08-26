@@ -1,6 +1,6 @@
 ---
 name: bautraeger-eigenkapital-ueberpruefung-vor-vertrag
-description: "Wenn es um Bautraeger-Eigenkapital-Überprüfung vor Vertragsabschluss in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauträger-Eigenkapital-Überprüfung vor Vertragsabschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Bautraeger-Eigenkapital-Überprüfung vor Vertragsabschluss

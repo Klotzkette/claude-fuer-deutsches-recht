@@ -1,6 +1,6 @@
 ---
 name: anfg-unentgeltliche-leistung-4
-description: "Wenn es um Unentgeltliche Leistung — Paragraf 4 AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfg Unentgeltliche Leistung 4; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Unentgeltliche Leistung — Paragraf 4 AnfG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: anfg-unentgeltliche-leistung-4."
 ---
 
 # Unentgeltliche Leistung — § 4 AnfG

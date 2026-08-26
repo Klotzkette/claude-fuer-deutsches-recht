@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-exporteur-ausfuehrer-anmelder-rollen
-description: "Wenn es um Exporteur, Ausfuehrer, Anmelder: Rollen und Haftungsverteilung im Aussenhandel in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Exporteur, Ausführer, Anmelder: Rollen und Haftungsverteilung im Außenhandel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Exporteur, Ausfuehrer, Anmelder: Rollen und Haftungsverteilung im Aussenhandel

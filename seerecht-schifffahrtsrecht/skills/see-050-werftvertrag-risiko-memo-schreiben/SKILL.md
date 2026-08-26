@@ -1,6 +1,6 @@
 ---
 name: see-050-werftvertrag-risiko-memo-schreiben
-description: "Wenn es um Werftvertrag Risiko Memo Schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Werftvertrag Risiko Memo Schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Werftvertrag Risiko Memo Schreiben

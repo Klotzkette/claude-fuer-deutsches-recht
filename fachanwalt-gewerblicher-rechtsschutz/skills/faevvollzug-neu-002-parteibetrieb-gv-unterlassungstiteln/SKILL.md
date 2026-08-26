@@ -1,6 +1,6 @@
 ---
 name: faevvollzug-neu-002-parteibetrieb-gv-unterlassungstiteln
-description: "Wenn es um Faevvollzug Neu 002 Parteibetrieb Gv Unterlassungstiteln in Fachanwalt Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Faevvollzug Neu 002 Parteibetrieb Gv Unterlassungstiteln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fachanwalt Gewerblicher Rechtsschutz: Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln

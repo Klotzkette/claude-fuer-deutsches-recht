@@ -1,6 +1,6 @@
 ---
 name: umwelt-umweltrecht-umwrg
-description: "Wenn es um Umwelt: Zahlen, Schwellenwerte und Berechnung in Umweltrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Umwelt: Zahlen, Schwellenwerte und Berechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umwelt: Zahlen, Schwellenwerte und Berechnung

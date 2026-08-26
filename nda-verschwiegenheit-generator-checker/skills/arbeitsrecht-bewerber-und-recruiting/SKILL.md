@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-bewerber-und-recruiting
-description: "Wenn es um Arbeitsrecht Bewerber Und Recruiting in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Arbeitsrecht Bewerber und Recruiting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsrecht Bewerber Und Recruiting

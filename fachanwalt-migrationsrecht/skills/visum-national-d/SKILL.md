@@ -1,6 +1,6 @@
 ---
 name: visum-national-d
-description: "Wenn es um Nationales Visum D: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nationales Visum D: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nationales Visum D: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Nationales Visum D: Fachmodul im Migrationsrecht in Fac
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-visum-national-d` beziehungsweise Nationales Visum D: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-visum-national-d.md).

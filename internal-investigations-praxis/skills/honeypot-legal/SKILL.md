@@ -1,6 +1,6 @@
 ---
 name: honeypot-legal
-description: "Wenn es um Honeypot-Risiko in Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Honeypot-Risiko in Internal Investigations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Honeypot-Risiko in Internal Investigations

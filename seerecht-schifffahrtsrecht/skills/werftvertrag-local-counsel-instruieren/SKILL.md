@@ -1,6 +1,6 @@
 ---
 name: werftvertrag-local-counsel-instruieren
-description: "Wenn es um Werftvertrag – Local Counsel instruieren in See- und Schifffahrtsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Werftvertrag – Local Counsel instruieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Werftvertrag – Local Counsel instruieren

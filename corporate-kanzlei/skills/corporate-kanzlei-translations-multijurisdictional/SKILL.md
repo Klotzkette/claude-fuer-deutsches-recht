@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-translations-multijurisdictional
-description: "Wenn es um Multijurisdiktionale Uebersetzungen und Dokumente in Corporate-Kanzlei geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Multijurisdiktionale Übersetzungen und Dokumente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: corporate-kanzlei-translations-multijurisdictional."
 ---
 
 <!-- anthropic-depth-boost-v1 -->

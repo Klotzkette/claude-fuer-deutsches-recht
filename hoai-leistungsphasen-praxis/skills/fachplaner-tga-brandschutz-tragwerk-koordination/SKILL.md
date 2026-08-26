@@ -1,6 +1,6 @@
 ---
 name: fachplaner-tga-brandschutz-tragwerk-koordination
-description: "Wenn es um Fachplanerkoordination TGA, Brandschutz Und Tragwerk in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Fachplanerkoordination TGA, Brandschutz und Tragwerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fachplanerkoordination TGA, Brandschutz Und Tragwerk

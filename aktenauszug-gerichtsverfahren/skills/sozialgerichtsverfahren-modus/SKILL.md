@@ -1,6 +1,6 @@
 ---
 name: sozialgerichtsverfahren-modus
-description: "Wenn es um Sozialgerichtsverfahren-Modus (SGG) in aktenauszug-gerichtsverfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sozialgerichtsverfahren-Modus (SGG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sozialgerichtsverfahren-Modus (SGG)

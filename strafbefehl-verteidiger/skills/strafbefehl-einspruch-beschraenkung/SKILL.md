@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-einspruch-beschraenkung
-description: "Wenn es um Beschraenkter Einspruch gegen den Strafbefehl — Paragraf 410 Abs. 2 StPO in Strafbefehl-Verteidiger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beschränkter Einspruch gegen den Strafbefehl — Paragraf 410 Abs. 2 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschraenkter Einspruch gegen den Strafbefehl — § 410 Abs. 2 StPO

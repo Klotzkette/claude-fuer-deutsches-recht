@@ -1,6 +1,6 @@
 ---
 name: zahlung-fremde-schuld-putativschuldner
-description: "Wenn es um Zahlung auf fremde Schuld und Putativschuldner in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zahlung Fremde Schuld Putativschuldner; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Zahlung auf fremde Schuld und Putativschuldner: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: zahlung-fremde-schuld-putativschuldner."
 ---
 
 # Zahlung auf fremde Schuld und Putativschuldner

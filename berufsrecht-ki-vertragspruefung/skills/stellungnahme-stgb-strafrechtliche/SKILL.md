@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-stgb-strafrechtliche
-description: "Wenn es um Stellungnahme: Formular, Portal und Einreichungslogik in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Stellungnahme: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stellungnahme: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: negative-codeworte-katalog
-description: "Wenn es um Negative Codeworte und ihre kodierte Bedeutung in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Negative Codeworte und ihre kodierte Bedeutung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Negative Codeworte und ihre kodierte Bedeutung

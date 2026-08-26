@@ -1,6 +1,6 @@
 ---
 name: kaufvertrags-check-grundbuch
-description: "Wenn es um Kaufvertrag grundbuchseitig prüfen in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaufvertrag grundbuchseitig prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaufvertrag grundbuchseitig prüfen

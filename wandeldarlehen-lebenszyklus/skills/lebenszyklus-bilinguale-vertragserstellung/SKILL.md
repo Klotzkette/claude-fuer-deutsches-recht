@@ -1,6 +1,6 @@
 ---
 name: lebenszyklus-bilinguale-vertragserstellung
-description: "Wenn es um Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg

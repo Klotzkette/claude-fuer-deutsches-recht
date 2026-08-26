@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-ausweisung-widerspruch
-description: "Wenn es um Ausweisung-Widerspruch Paragraf 53 AufenthG in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Ausweisung-Widerspruch Paragraf 53 AufenthG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausweisung-Widerspruch § 53 AufenthG

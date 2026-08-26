@@ -1,6 +1,6 @@
 ---
 name: widerspruchsbescheid-was-jetzt
-description: "Wenn es um Widerspruchsbescheid erhalten — was jetzt? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Widerspruchsbescheid erhalten — was jetzt?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Widerspruchsbescheid erhalten — was jetzt?

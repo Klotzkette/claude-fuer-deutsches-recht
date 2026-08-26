@@ -1,6 +1,6 @@
 ---
 name: versr-rechtsschutz-stichentscheid-vorvertraglichkeit
-description: "Wenn es um Versr Rechtsschutz Stichentscheid Vorvertraglichkeit in Fachanwalt Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Versr Rechtsschutz Stichentscheid Vorvertraglichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsschutzversicherung: Deckungszusage, Stichentscheid, Vorvertraglichkeit, Mutwilligkeit, Kostenpositionen und RSV-Prozess.

@@ -1,6 +1,6 @@
 ---
 name: binnenschiff-risiko-memo-schreiben
-description: "Wenn es um Binnenschiff – Risiko-Memo schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Binnenschiff – Risiko-Memo schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Binnenschiff – Risiko-Memo schreiben

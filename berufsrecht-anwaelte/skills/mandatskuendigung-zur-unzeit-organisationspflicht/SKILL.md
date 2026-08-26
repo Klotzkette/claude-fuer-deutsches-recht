@@ -1,6 +1,6 @@
 ---
 name: mandatskuendigung-zur-unzeit-organisationspflicht
-description: "Wenn es um Mandatskuendigung Zur Unzeit Organisationspflicht in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandatskündigung zur Unzeit Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: mandatskuendigung zur unzeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

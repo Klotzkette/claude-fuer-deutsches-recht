@@ -1,6 +1,6 @@
 ---
 name: dokumentenintake-und-aktenlog
-description: "Wenn es um Dokumentenintake und Aktenlog in Schöffen und Handelsrichter Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Dokumentenintake und Aktenlog: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Schöffen und Handelsrichter Praxis."
 ---
 
 # Dokumentenintake und Aktenlog

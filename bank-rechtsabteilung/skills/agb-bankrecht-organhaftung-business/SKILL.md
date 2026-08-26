@@ -1,6 +1,6 @@
 ---
 name: agb-bankrecht-organhaftung-business
-description: "Wenn es um AGB-Klauselkontrolle Bank in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für AGB-Klauselkontrolle Bank: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AGB-Klauselkontrolle Bank

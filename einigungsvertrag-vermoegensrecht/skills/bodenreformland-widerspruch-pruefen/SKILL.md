@@ -1,6 +1,6 @@
 ---
 name: bodenreformland-widerspruch-pruefen
-description: "Wenn es um Bodenreformland Widerspruch Prüfen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bodenreformland Widerspruch Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: bodenreformland-widerspruch-pruefen."
 ---
 
 # Bodenreformland Widerspruch Prüfen

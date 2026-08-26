@@ -1,6 +1,6 @@
 ---
 name: landrat-landesrecht-routen
-description: "Wenn es um Landrat Landesrecht Routen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landrat Landesrecht Routen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landrat Landesrecht Routen

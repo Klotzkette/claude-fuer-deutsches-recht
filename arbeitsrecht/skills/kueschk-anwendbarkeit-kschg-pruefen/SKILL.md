@@ -1,6 +1,6 @@
 ---
 name: kueschk-anwendbarkeit-kschg-pruefen
-description: "Wenn es um Kueschk Anwendbarkeit Kschg Pruefen in Arbeitsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Kueschk Anwendbarkeit Kschg Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach Paragraf 1 Abs

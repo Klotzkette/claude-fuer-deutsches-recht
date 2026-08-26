@@ -1,6 +1,6 @@
 ---
 name: einmalig-vs-erforderlichkeitspruefung-warum
-description: "Wenn es um NKR-Einmalig vs. jaehrlich laufend in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für NKR-Einmalig vs. jährlich laufend: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # NKR-Einmalig vs. jaehrlich laufend

@@ -1,6 +1,6 @@
 ---
 name: unfallanalyse-chain-of-custody
-description: "Wenn es um Unfallanalyse Chain of Custody in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unfallanalyse Chain of Custody: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unfallanalyse Chain of Custody

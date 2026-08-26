@@ -1,6 +1,6 @@
 ---
 name: dienstunfall-folgekosten-unfallfuersorge
-description: "Wenn es um dienstunfall-folgekosten-unfallfuersorge in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für dienstunfall-folgekosten-unfallfuersorge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # dienstunfall-folgekosten-unfallfuersorge

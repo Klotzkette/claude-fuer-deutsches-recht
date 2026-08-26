@@ -1,6 +1,6 @@
 ---
 name: earn-out-dispute
-description: "Wenn es um Earn-out Dispute in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Earn-out Dispute: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Earn-out Dispute

@@ -67,13 +67,14 @@ Aktuelle Oberflächen- und Planvorgaben: [Plugins verwenden](https://support.cla
 
 ## 6. Große Akten und Microsoft 365 beschleunigen
 
-Lange Wartezeiten entstehen meist nicht beim Schreiben, sondern vor dem ersten Satz: Viele aktivierte Plugins vergrößern die Skill-Auswahl, eine unbestimmte Suche durchläuft zu viele Ablagen und wiederholtes Öffnen derselben Datei verbraucht unnötig Arbeitszeit. Diese Reihenfolge hält den Lauf klein:
+Lange Wartezeiten entstehen meist nicht beim Schreiben, sondern vor dem ersten Satz: Jede aktivierte automatische Skill-Route bringt ein Auswahlsignal mit, eine unbestimmte Suche durchläuft zu viele Ablagen und wiederholtes Öffnen derselben Datei verbraucht unnötig Arbeitszeit. Die installierbaren Plugins verdichten deshalb große Norm-, Länder-, Behörden- und Leistungsphasenserien hinter bedarfsgeladenen Fachroutern. Diese Reihenfolge hält den konkreten Lauf zusätzlich klein:
 
 1. Nur die für den Vorgang benötigten Plugins aktiv lassen und danach eine neue Aufgabe öffnen. Für einen einzelnen Fall ist ein Einzel-Plugin oder Schnellstart regelmäßig schneller als eine breite Auswahl.
-2. Bei einem lokalen Arbeitsordner zuerst Dateinamen, Unterordner, Datum und Dateityp erfassen. Bei Microsoft 365 zusätzlich Website, Bibliothek oder Ordner, Zeitraum, Absender und einen genauen Suchbegriff nennen.
-3. Im ersten Durchgang höchstens 20 Treffer erfassen und höchstens fünf tragende Unterlagen öffnen. Erst bei einer benannten Beleglücke weiter suchen.
-4. PDF- und Word-Dokumente einmal lesen, Tabellen auf das einschlägige Blatt und den benötigten Bereich begrenzen und bei E-Mails den maßgeblichen Gesprächsverlauf statt des gesamten Postfachs öffnen.
-5. Nach der ersten Sichtung sofort einen Teilstand mit Fundstellen, Frist, Risiko und nächstem Arbeitsprodukt liefern. Bereits gewonnene Tatsachen und Extrakte werden weiterverwendet.
+2. Wenn der Sachskill feststeht, ihn unmittelbar über `/` oder `+` wählen. Bei einer Serienfrage zuerst den passenden Fachrouter öffnen und dort genau eine Vertiefung laden; nicht mehrere Länder, Leistungsphasen oder Behörden vorsorglich mitlesen.
+3. Bei einem lokalen Arbeitsordner zuerst Dateinamen, Unterordner, Datum und Dateityp erfassen. Bei Microsoft 365 zusätzlich Website, Bibliothek oder Ordner, Zeitraum, Absender und einen genauen Suchbegriff nennen.
+4. Im ersten Durchgang höchstens 20 Treffer erfassen und höchstens fünf tragende Unterlagen öffnen. Erst bei einer benannten Beleglücke weiter suchen.
+5. PDF- und Word-Dokumente einmal lesen, Tabellen auf das einschlägige Blatt und den benötigten Bereich begrenzen und bei E-Mails den maßgeblichen Gesprächsverlauf statt des gesamten Postfachs öffnen.
+6. Nach der ersten Sichtung sofort einen Teilstand mit Fundstellen, Frist, Risiko und nächstem Arbeitsprodukt liefern. Bereits gewonnene Tatsachen und Extrakte werden weiterverwendet.
 
 Ein geeigneter Startsatz für große Ablagen lautet:
 

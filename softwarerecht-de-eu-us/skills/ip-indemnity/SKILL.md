@@ -1,6 +1,6 @@
 ---
 name: ip-indemnity
-description: "Wenn es um IP-Indemnity Software in Softwarerecht Deutschland/EU/International/USA geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für IP-Indemnity Software: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IP-Indemnity Software

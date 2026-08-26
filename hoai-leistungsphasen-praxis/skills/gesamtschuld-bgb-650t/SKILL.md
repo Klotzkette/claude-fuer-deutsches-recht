@@ -1,6 +1,6 @@
 ---
 name: gesamtschuld-bgb-650t
-description: "Wenn es um HOAI Querschnitt: Ordnet haftung architekt/bauunternehmer und vorrang der nacherfüllung in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für HOAI Querschnitt: Ordnet haftung architekt/bauunternehmer und vorrang der nacherfüllung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI Querschnitt: Ordnet haftung architekt/bauunternehmer und vorrang der nacherfüllung

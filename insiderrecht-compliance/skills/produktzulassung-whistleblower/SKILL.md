@@ -1,6 +1,6 @@
 ---
 name: produktzulassung-whistleblower
-description: "Wenn es um Produktzulassung – Insiderrecht bei regulatorischen Entscheidungen in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Produktzulassung – Insiderrecht bei regulatorischen Entscheidungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produktzulassung – Insiderrecht bei regulatorischen Entscheidungen

@@ -1,6 +1,6 @@
 ---
 name: term-sheet-zag-finanztransfergeschaeft
-description: "Wenn es um Verhandlung Term Sheet Factoringlinie in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verhandlung Term Sheet Factoringlinie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verhandlung Term Sheet Factoringlinie

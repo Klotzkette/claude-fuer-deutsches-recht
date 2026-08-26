@@ -1,6 +1,6 @@
 ---
 name: franchisegeber-franchisenehmer
-description: "Wenn es um Franchiserecht: Kaltstart – Systemakte anlegen in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Franchiserecht: Kaltstart – Systemakte anlegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Kaltstart – Systemakte anlegen

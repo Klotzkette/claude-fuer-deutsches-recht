@@ -1,6 +1,6 @@
 ---
 name: sondervermoegen-bundeswehr-szenario-re
-description: "Wenn es um Sondervermoegen Bundeswehr Szenario Re in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sondervermögen Bundeswehr Szenario Re: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sondervermoegen Bundeswehr Szenario Re

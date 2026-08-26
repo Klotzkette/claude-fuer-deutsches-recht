@@ -1,6 +1,6 @@
 ---
 name: beratung-und-abstimmung-orientierung
-description: "Wenn es um Beratung und Abstimmung: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beratung und Abstimmung: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beratung und Abstimmung: Orientierung

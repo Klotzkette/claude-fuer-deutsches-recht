@@ -1,6 +1,6 @@
 ---
 name: dublin-zustaendigkeit-ueberstellungsfrist-pruefen
-description: "Prüft die unionsrechtliche Zuständigkeit für Asylanträge mit sauberer Übergangsweiche zwischen Dublin III und der seit 12. Juni 2026 anwendbaren AMMR, berechnet Fristen und entwickelt Eilrechtsschutz."
+description: "Prüft die unionsrechtliche Zuständigkeit für Asylanträge mit sauberer Übergangsweiche zwischen Dublin III und der seit 12."
 ---
 
 # Zuständigkeit und Überstellungsfrist im europäischen Asylsystem prüfen

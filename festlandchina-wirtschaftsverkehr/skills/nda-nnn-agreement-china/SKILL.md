@@ -1,6 +1,6 @@
 ---
 name: nda-nnn-agreement-china
-description: "Wenn es um NDA und NNN-Vereinbarungen China: Gestaltung und Durchsetzung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NDA und NNN-Vereinbarungen China: Gestaltung und Durchsetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA und NNN-Vereinbarungen China: Gestaltung und Durchsetzung

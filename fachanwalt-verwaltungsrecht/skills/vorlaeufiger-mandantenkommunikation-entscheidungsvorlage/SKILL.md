@@ -1,6 +1,6 @@
 ---
 name: vorlaeufiger-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorläufiger: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage

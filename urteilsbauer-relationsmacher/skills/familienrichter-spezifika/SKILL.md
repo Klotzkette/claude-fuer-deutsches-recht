@@ -1,6 +1,6 @@
 ---
 name: familienrichter-spezifika
-description: "Wenn es um Familienrichter Spezifika in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Familienrichter Spezifika: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Familienrichter Spezifika

@@ -1,6 +1,6 @@
 ---
 name: plan-darstellender-gerichtliche
-description: "Wenn es um IV-integrierte Darstellender Teil in Insolvenzverwaltung - IV-Cockpit geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für IV-integrierte Darstellender Teil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IV-integrierte Darstellender Teil

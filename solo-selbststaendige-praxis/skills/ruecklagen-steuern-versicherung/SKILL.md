@@ -1,6 +1,6 @@
 ---
 name: ruecklagen-steuern-versicherung
-description: "Wenn es um Pricing Liquidität und Wachstum: Plant rücklagen für est in Solo-Selbstständige Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pricing Liquidität und Wachstum: Plant rücklagen für est: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Pricing Liquidität und Wachstum: Plant rücklagen für est

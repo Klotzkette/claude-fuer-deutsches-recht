@@ -1,6 +1,6 @@
 ---
 name: fristen-und-terminkalender
-description: "Wenn es um Fristen und Terminkalender in aktenauszug-gerichtsverfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen und Terminkalender: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristen und Terminkalender

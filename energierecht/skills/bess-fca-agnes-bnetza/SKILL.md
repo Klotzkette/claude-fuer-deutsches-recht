@@ -1,6 +1,6 @@
 ---
 name: bess-fca-agnes-bnetza
-description: "Wenn es um FCA/AgNes: Netzanschluss-Regelwerk lesen in Energierecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für FCA/AgNes: Netzanschluss-Regelwerk lesen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FCA/AgNes: Netzanschluss-Regelwerk lesen

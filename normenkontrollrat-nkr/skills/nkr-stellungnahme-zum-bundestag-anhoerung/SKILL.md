@@ -1,6 +1,6 @@
 ---
 name: nkr-stellungnahme-zum-bundestag-anhoerung
-description: "Wenn es um NKR-Stellungnahme zum Bundestag (Anhoerung) in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NKR-Stellungnahme zum Bundestag (Anhörung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrollrat (NKR) — Prüfung von Gesetzentwürfen. Route: nkr-stellungnahme-zum-bundestag-anhoerung."
 ---
 
 # NKR-Stellungnahme zum Bundestag (Anhoerung)

@@ -1,6 +1,6 @@
 ---
 name: spezial-bundesverfassungsgericht-livequellen-check
-description: "Wenn es um Bundesverfassungsgericht: Livequellen-Check in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bundesverfassungsgericht: Livequellen-Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bundesverfassungsgericht: Livequellen-Check

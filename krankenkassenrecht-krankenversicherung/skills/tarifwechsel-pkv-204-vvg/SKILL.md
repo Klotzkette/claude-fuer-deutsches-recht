@@ -1,6 +1,6 @@
 ---
 name: tarifwechsel-pkv-204-vvg
-description: "Wenn es um Tarifwechsel PKV: Paragraf 204 VVG in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tarifwechsel PKV: Paragraf 204 VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tarifwechsel PKV: § 204 VVG

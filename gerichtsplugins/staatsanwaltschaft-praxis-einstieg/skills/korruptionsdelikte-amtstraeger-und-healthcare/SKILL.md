@@ -1,6 +1,6 @@
 ---
 name: korruptionsdelikte-amtstraeger-und-healthcare
-description: "Wenn es um Korruption: Amtsträger, Healthcare und Unternehmen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Korruption: Amtsträger, Healthcare und Unternehmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Korruption: Amtsträger, Healthcare und Unternehmen

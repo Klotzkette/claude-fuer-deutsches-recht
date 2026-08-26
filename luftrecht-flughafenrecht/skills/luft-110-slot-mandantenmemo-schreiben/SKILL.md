@@ -1,6 +1,6 @@
 ---
 name: luft-110-slot-mandantenmemo-schreiben
-description: "Wenn es um Slot Mandantenmemo Schreiben in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Slot Mandantenmemo Schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Slot Mandantenmemo Schreiben

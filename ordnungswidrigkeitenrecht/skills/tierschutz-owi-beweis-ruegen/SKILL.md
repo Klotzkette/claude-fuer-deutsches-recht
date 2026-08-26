@@ -1,6 +1,6 @@
 ---
 name: tierschutz-owi-beweis-ruegen
-description: "Wenn es um Tierschutz Owi Beweis Ruegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tierschutz Owi Beweis Rügen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Tierschutz Owi Beweis Ruegen

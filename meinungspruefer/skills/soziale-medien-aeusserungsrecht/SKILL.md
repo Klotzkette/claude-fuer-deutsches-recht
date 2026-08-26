@@ -1,6 +1,6 @@
 ---
 name: soziale-medien-aeusserungsrecht
-description: "Wenn es um Soziale Medien: X, LinkedIn, Bewertungsportale in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Soziale Medien: X, LinkedIn, Bewertungsportale: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Soziale Medien: X, LinkedIn, Bewertungsportale

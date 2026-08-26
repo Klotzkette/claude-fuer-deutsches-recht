@@ -1,6 +1,6 @@
 ---
 name: aufenthaltsrecht-mandant-betreuung
-description: "Wenn es um ELS-J Aufenthaltsrecht in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aufenthaltsrecht Mandant Betreuung; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
+description: "Für ELS-J Aufenthaltsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # ELS-J Aufenthaltsrecht

@@ -1,6 +1,6 @@
 ---
 name: klage-fristennotiz-vorfall-phish-banking
-description: "Wenn es um Klage: Fristennotiz und nächster Schritt in Phishing-Vorfall-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klage: Fristennotiz und nächster Schritt: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Klage: Fristennotiz und nächster Schritt

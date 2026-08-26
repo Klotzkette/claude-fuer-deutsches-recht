@@ -1,6 +1,6 @@
 ---
 name: vvg-obliegenheit-28-quotelung-kausalitaet
-description: "Wenn es um Obliegenheitsverletzung Paragraf 28 VVG und Quotierung in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Obliegenheitsverletzung Paragraf 28 VVG und Quotierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Obliegenheitsverletzung § 28 VVG und Quotierung

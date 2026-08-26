@@ -1,6 +1,6 @@
 ---
 name: amtsloeschung-familienloeschung-registerblatt
-description: "Wenn es um Amtslöschung und Registerbereinigung in Handelsregister Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Amtslöschung und Registerbereinigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Amtslöschung und Registerbereinigung

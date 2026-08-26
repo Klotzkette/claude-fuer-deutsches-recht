@@ -1,6 +1,6 @@
 ---
 name: binnenschiff-local-counsel-instruieren
-description: "Wenn es um Binnenschiff – Local Counsel instruieren in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Binnenschiff – Local Counsel instruieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Binnenschiff – Local Counsel instruieren

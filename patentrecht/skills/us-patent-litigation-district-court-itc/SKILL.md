@@ -1,6 +1,6 @@
 ---
 name: us-patent-litigation-district-court-itc
-description: "Wenn es um US-Patentprozess: District Court und ITC in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für US-Patentprozess: District Court und ITC: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US-Patentprozess: District Court und ITC

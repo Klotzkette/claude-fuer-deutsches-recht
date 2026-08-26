@@ -1,6 +1,6 @@
 ---
 name: prozessablauf-papier-vs-elektronisch
-description: "Wenn es um Prozessablauf — Papier vs. Elektronisch in Schriftform und Textform im BGB geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Prozessablauf — Papier vs. Elektronisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prozessablauf — Papier vs. Elektronisch

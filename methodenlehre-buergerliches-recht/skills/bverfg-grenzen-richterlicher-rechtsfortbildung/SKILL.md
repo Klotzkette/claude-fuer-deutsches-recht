@@ -1,6 +1,6 @@
 ---
 name: bverfg-grenzen-richterlicher-rechtsfortbildung
-description: "Wenn es um Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht

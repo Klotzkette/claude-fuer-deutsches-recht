@@ -1,6 +1,6 @@
 ---
 name: datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung
-description: "Wenn es um Bußgeldverteidigung nach Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bußgeldverteidigung nach Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bußgeldverteidigung nach Art

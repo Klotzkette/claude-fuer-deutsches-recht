@@ -1,6 +1,6 @@
 ---
 name: qualitaetskontrolle
-description: "Wenn es um Qualitaetskontrolle in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: qualitaetskontrolle und inspektion - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

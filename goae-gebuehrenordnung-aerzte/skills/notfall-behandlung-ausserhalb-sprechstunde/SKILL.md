@@ -1,6 +1,6 @@
 ---
 name: notfall-behandlung-ausserhalb-sprechstunde
-description: "Wenn es um Notfall Behandlung außerhalb Sprechstunde in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Notfall Behandlung außerhalb Sprechstunde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notfall Behandlung außerhalb Sprechstunde

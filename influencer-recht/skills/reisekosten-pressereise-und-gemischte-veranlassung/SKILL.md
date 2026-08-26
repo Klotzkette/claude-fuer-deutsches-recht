@@ -1,6 +1,6 @@
 ---
 name: reisekosten-pressereise-und-gemischte-veranlassung
-description: "Wenn es um Influencer-Recht: Reisekosten, Pressereise und gemischte Veranlassung in Influencer-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Influencer-Recht: Reisekosten, Pressereise und gemischte Veranlassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Reisekosten, Pressereise und gemischte Veranlassung

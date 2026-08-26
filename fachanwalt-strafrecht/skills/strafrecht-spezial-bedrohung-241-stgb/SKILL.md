@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-bedrohung-241-stgb
-description: "Wenn es um Bedrohung nach Paragraf 241 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bedrohung nach Paragraf 241 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bedrohung nach § 241 StGB

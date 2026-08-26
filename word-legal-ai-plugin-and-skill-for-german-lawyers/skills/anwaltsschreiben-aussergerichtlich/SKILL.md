@@ -1,6 +1,6 @@
 ---
 name: anwaltsschreiben-aussergerichtlich
-description: "Wenn es um Anwaltsschreiben aussergerichtlich in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anwaltsschreiben aussergerichtlich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwaltsschreiben aussergerichtlich

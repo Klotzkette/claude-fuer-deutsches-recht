@@ -1,6 +1,6 @@
 ---
 name: miet-und-pachtrechtliche-rueckabwicklung
-description: "Wenn es um Miet- und pachtrechtliche Rückabwicklung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Miet- und pachtrechtliche Rückabwicklung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Miet- und pachtrechtliche Rückabwicklung

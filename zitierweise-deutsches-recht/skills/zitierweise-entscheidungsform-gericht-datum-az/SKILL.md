@@ -1,6 +1,6 @@
 ---
 name: zitierweise-entscheidungsform-gericht-datum-az
-description: "Wenn es um Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien in Zitierweise deutsches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitierweise Entscheidungsform Gericht Datum Az; Arbeitsfeld: Zitierweise deutsches Recht."
+description: "Für Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien

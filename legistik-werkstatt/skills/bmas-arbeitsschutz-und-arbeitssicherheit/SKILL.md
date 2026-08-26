@@ -1,6 +1,6 @@
 ---
 name: bmas-arbeitsschutz-und-arbeitssicherheit
-description: "Wenn es um Arbeitsschutz und Arbeitssicherheit (BMAS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Arbeitsschutz und Arbeitssicherheit (BMAS): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsschutz und Arbeitssicherheit (BMAS)

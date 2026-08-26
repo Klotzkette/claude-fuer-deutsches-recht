@@ -1,6 +1,6 @@
 ---
 name: ic-memo-und-entscheidungsvorlage
-description: "Wenn es um Investment Committee Memo in Private Equity Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Investment Committee Memo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Investment Committee Memo

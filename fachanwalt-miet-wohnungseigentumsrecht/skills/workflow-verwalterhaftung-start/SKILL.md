@@ -1,6 +1,6 @@
 ---
 name: workflow-verwalterhaftung-start
-description: "Wenn es um Verwalterhaftung-Start: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Verwalterhaftung-Start: Prüfungslinie für Miet- und WEG-Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwalterhaftung-Start: Prüfungslinie für Miet- und WEG-Recht

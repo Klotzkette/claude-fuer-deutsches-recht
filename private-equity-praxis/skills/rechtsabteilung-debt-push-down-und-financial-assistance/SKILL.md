@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-debt-push-down-und-financial-assistance
-description: "Wenn es um Rechtsabteilung: Debt Push-down und Financial Assistance in Private Equity Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Debt Push-down und Financial Assistance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Debt Push-down und Financial Assistance

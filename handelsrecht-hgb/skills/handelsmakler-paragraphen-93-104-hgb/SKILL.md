@@ -1,6 +1,6 @@
 ---
 name: handelsmakler-paragraphen-93-104-hgb
-description: "Wenn es um Handelsmakler Paragrafen 93-104 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsmakler Paragrafen 93-104 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsmakler §§ 93-104 HGB

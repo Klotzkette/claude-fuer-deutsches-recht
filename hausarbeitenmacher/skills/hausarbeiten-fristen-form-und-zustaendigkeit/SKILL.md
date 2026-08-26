@@ -1,6 +1,6 @@
 ---
 name: hausarbeiten-fristen-form-und-zustaendigkeit
-description: "Wenn es um Hausarbeiten: Fristen, Form, Zuständigkeit und Rechtsweg in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hausarbeiten: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Hausarbeiten: Fristen, Form, Zuständigkeit und Rechtsweg

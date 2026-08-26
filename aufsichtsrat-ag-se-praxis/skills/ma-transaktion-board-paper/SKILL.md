@@ -1,6 +1,6 @@
 ---
 name: ma-transaktion-board-paper
-description: "Wenn es um M&A Transaktion Board Paper in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für M&A Transaktion Board Paper: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # M&A Transaktion Board Paper

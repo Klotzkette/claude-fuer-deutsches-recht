@@ -1,6 +1,6 @@
 ---
 name: haushaltssperre-umschichtung-sperre
-description: "Wenn es um Haushaltssperre Umschichtung Simuliere in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haushaltssperre Umschichtung Simuliere: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haushaltssperre Umschichtung Simuliere

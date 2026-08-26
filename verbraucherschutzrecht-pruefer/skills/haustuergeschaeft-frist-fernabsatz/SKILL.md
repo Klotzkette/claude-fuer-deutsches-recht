@@ -1,6 +1,6 @@
 ---
 name: haustuergeschaeft-frist-fernabsatz
-description: "Wenn es um Haustuergeschaeft Frist Berechnen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haustürgeschäft Frist Berechnen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Haustuergeschaeft Frist Berechnen

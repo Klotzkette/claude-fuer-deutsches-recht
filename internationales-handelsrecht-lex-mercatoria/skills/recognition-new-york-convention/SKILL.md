@@ -1,6 +1,6 @@
 ---
 name: recognition-new-york-convention
-description: "Wenn es um New York Convention 1958: Anerkennung und Vollstreckung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für New York Convention 1958: Anerkennung und Vollstreckung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # New York Convention 1958: Anerkennung und Vollstreckung

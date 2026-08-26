@@ -1,6 +1,6 @@
 ---
 name: susa-monatlich-quartalsweise
-description: "Wenn es um Periodische SuSa-Erstellung — Monat oder Quartal in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Periodische SuSa-Erstellung — Monat oder Quartal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Periodische SuSa-Erstellung — Monat oder Quartal

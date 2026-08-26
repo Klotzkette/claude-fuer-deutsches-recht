@@ -1,6 +1,6 @@
 ---
 name: signing-closing-conditions
-description: "Wenn es um Signing Closing Conditions in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Signing Closing Conditions: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Signing-to-Closing-Prozess mit Conditions Precedent für M&A-Transaktionen: Anwendungsfall nach Signing müssen alle Closing-Bedingungen erfuellt und Closing Deliverables koordiniert werden

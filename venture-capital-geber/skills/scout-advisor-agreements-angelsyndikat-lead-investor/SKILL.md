@@ -1,6 +1,6 @@
 ---
 name: scout-advisor-agreements-angelsyndikat-lead-investor
-description: "Wenn es um Scout- und Advisor Agreements in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Scout- und Advisor Agreements: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Scout- und Advisor Agreements

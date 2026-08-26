@@ -1,6 +1,6 @@
 ---
 name: besitzuebernahme
-description: "Wenn es um Besitzerlangung und Objektaufnahme in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besitzerlangung und Objektaufnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besitzerlangung und Objektaufnahme

@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-gesellschafter
-description: "Wenn es um Minderjährige Gesellschafter in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Minderjährige Gesellschafter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Minderjährige Gesellschafter

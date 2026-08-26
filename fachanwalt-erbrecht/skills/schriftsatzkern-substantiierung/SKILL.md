@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Wenn es um Erbrechtsklage oder erbrechtlichen Antrag substantiiert formulieren in Fachanwalt Erbrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erbrechtsklage oder erbrechtlichen Antrag substantiiert formulieren: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Erbrechtsklage oder erbrechtlichen Antrag substantiiert formulieren

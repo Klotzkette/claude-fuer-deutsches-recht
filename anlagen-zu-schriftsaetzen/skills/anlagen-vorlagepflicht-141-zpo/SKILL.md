@@ -1,6 +1,6 @@
 ---
 name: anlagen-vorlagepflicht-141-zpo
-description: "Wenn es um Urkundenvorlage Paragrafen 142. 421 ZPO in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Urkundenvorlage Paragrafen 142. 421 ZPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urkundenvorlage §§ 142, 421 ZPO

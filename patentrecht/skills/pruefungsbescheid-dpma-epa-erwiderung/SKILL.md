@@ -1,6 +1,6 @@
 ---
 name: pruefungsbescheid-dpma-epa-erwiderung
-description: "Wenn es um Prüfungsbescheid DPMA/EPA in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Prüfungsbescheid DPMA/EPA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfungsbescheid DPMA/EPA

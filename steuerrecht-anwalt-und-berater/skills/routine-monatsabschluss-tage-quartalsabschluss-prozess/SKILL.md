@@ -1,6 +1,6 @@
 ---
 name: routine-monatsabschluss-tage-quartalsabschluss-prozess
-description: "Wenn es um 30-Tage-Zyklus Monatsabschluss in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Routine Monatsabschluss Tage Quartalsabschluss Prozess; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für 30-Tage-Zyklus Monatsabschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: routine-monatsabschluss-tage-quartalsabschluss-prozess."
 ---
 
 # 30-Tage-Zyklus Monatsabschluss

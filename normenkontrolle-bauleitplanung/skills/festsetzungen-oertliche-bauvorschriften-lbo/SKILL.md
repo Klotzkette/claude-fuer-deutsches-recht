@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-oertliche-bauvorschriften-lbo
-description: "Wenn es um Örtliche Bauvorschriften im Bebauungsplan in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Örtliche Bauvorschriften im Bebauungsplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Örtliche Bauvorschriften im Bebauungsplan

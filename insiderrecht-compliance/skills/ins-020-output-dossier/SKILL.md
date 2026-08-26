@@ -1,6 +1,6 @@
 ---
 name: ins-020-output-dossier
-description: "Wenn es um Output Dossier in Insiderrecht Compliance geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Output Dossier: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Output Dossier

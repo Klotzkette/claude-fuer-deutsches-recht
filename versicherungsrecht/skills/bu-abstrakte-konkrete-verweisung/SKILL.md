@@ -1,6 +1,6 @@
 ---
 name: bu-abstrakte-konkrete-verweisung
-description: "Wenn es um BU: abstrakte und konkrete Verweisung in Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für BU: abstrakte und konkrete Verweisung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BU: abstrakte und konkrete Verweisung

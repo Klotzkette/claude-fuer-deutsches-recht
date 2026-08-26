@@ -1,6 +1,6 @@
 ---
 name: modulhandbuch-bindung-modulpruefung
-description: "Wenn es um Modulhandbuch und Bindungswirkung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Modulhandbuch und Bindungswirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Modulhandbuch und Bindungswirkung

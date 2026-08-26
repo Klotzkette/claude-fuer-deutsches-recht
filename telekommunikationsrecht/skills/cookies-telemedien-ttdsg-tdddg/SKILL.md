@@ -1,6 +1,6 @@
 ---
 name: cookies-telemedien-ttdsg-tdddg
-description: "Wenn es um Cookies, Telemedien und TDDDG-Schnittstelle in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Cookies, Telemedien und TDDDG-Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cookies, Telemedien und TDDDG-Schnittstelle

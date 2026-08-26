@@ -1,6 +1,6 @@
 ---
 name: inhouse-interkommunal
-description: "Wenn es um Inhouse Interkommunal in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Inhouse Interkommunal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Inhouse-Geschäft und interkommunale Zusammenarbeit vergaberechtlich prüfen: öffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben

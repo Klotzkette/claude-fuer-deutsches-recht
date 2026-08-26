@@ -1,6 +1,6 @@
 ---
 name: sektor-energie-speicher-regelenergie-netz
-description: "Wenn es um Sektor Energie, Speicher, Regelenergie und Netz in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sektor Energie, Speicher, Regelenergie und Netz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sektor Energie, Speicher, Regelenergie und Netz

@@ -1,6 +1,6 @@
 ---
 name: companion-diagnostic-atmp
-description: "Wenn es um Companion Diagnostic Atmp in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Companion Diagnostic Atmp: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Companion Diagnostic bei ATMP: moderner Medizinrechts-Skill für Therapieselektion durch Biomarker, Testqualität, falsche Negativ-/Positivbefunde und Erstattung

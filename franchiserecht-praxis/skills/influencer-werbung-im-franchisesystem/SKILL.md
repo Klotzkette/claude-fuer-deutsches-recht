@@ -1,6 +1,6 @@
 ---
 name: influencer-werbung-im-franchisesystem
-description: "Wenn es um Franchiserecht: Influencer-Werbung im Franchisesystem in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Franchiserecht: Influencer-Werbung im Franchisesystem: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Influencer-Werbung im Franchisesystem

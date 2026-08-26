@@ -1,6 +1,6 @@
 ---
 name: kinderkleidung-und-besondere-sicherheitsrisiken
-description: "Wenn es um Kinderkleidung Und Besondere Sicherheitsrisiken in fashion-law-moderecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Kinderkleidung und Besondere Sicherheitsrisiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kinderkleidung Und Besondere Sicherheitsrisiken

@@ -1,6 +1,6 @@
 ---
 name: aktenanlage-iv-plan
-description: "Wenn es um Aktenanlage und Verfahrenscockpit in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktenanlage und Verfahrenscockpit: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenanlage und Verfahrenscockpit

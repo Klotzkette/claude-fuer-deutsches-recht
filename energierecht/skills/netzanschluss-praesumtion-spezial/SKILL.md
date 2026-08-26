@@ -1,6 +1,6 @@
 ---
 name: netzanschluss-praesumtion-spezial
-description: "Wenn es um Energie: Netzanschluss-Verweigerung in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie: Netzanschluss-Verweigerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie: Netzanschluss-Verweigerung

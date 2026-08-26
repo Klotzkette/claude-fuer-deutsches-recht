@@ -1,6 +1,6 @@
 ---
 name: fuehrungskraft-bewertung
-description: "Erstellt und prüft Führungskräftezeugnisse anhand von Führungsspanne, Zielerreichung, Personalentwicklung, Entscheidungen, Budget und Veränderungserfolgen. Liefert einen belegten Führungsabschnitt, der operative Leistung und Führungswirkung sauber trennt."
+description: "Erstellt und prüft Führungskräftezeugnisse anhand von Führungsspanne, Zielerreichung, Personalentwicklung, Entscheidungen, Budget und Veränderungserfolgen."
 ---
 
 # Führungskraft-Bewertung

@@ -1,6 +1,6 @@
 ---
 name: datenschutzpanne-lohnakte-datev-zugriff
-description: "Wenn es um Datenschutzpanne Lohnakte Datev Zugriff in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutzpanne Lohnakte DATEV Zugriff: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: datenschutzpanne lohnakte - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

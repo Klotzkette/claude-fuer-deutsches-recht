@@ -1,6 +1,6 @@
 ---
 name: erbschein-einziehung-unrichtigkeit-pruefen
-description: "Prüft die Einziehung eines unrichtigen Erbscheins nach einem später aufgefundenen Testament oder neuen Tatsachen. Rekonstruiert Erbfolge, Wirksamkeit und Auslegung der Verfügungen, Amtsermittlung und Beteiligung und liefert Einziehungsanregung, Beweismatrix und Beschwerdeplan."
+description: "Prüft die Einziehung eines unrichtigen Erbscheins nach einem später aufgefundenen Testament oder neuen Tatsachen."
 ---
 
 # Einziehung eines unrichtigen Erbscheins prüfen

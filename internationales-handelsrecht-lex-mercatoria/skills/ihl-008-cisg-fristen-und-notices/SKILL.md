@@ -1,6 +1,6 @@
 ---
 name: ihl-008-cisg-fristen-und-notices
-description: "Wenn es um CISG Fristen Und Notices in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für CISG Fristen und Notices: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # CISG Fristen Und Notices

@@ -1,6 +1,6 @@
 ---
 name: innerstaatliche-fluchtalternative
-description: "Wenn es um Innerstaatliche Fluchtalternative: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Innerstaatliche Fluchtalternative: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Innerstaatliche Fluchtalternative: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Innerstaatliche Fluchtalternative: Fachmodul im Migrati
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-innerstaatliche-fluchtalternative` beziehungsweise Innerstaatliche Fluchtalternative: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-innerstaatliche-fluchtalternative.md).

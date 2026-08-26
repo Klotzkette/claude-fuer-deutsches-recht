@@ -1,6 +1,6 @@
 ---
 name: nda-it-saas-vendor
-description: "Wenn es um NDA mit IT-/SaaS-Vendor in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nda It Saas Vendor; Arbeitsfeld: NDA-Abgleich."
+description: "Für NDA mit IT-/SaaS-Vendor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NDA-Abgleich. Route: nda-it-saas-vendor."
 ---
 
 # NDA mit IT-/SaaS-Vendor

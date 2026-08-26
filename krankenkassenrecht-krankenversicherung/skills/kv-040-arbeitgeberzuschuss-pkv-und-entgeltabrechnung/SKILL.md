@@ -1,6 +1,6 @@
 ---
 name: kv-040-arbeitgeberzuschuss-pkv-und-entgeltabrechnung
-description: "Wenn es um Krankenversicherung: Arbeitgeberzuschuss PKV und Entgeltabrechnung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Arbeitgeberzuschuss PKV und Entgeltabrechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Arbeitgeberzuschuss PKV und Entgeltabrechnung

@@ -1,6 +1,6 @@
 ---
 name: fao-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Fao Dokumentenmatrix Und Lückenliste in Fachanwalt Handels- und Gesellschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Fao Dokumentenmatrix und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Fachanwalt Handels- und Gesellschaftsrecht."
 ---
 
 # FAO: Dokumentenmatrix, Lückenliste und Nachforderung im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -53,3 +53,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Dokumentenmatrix erstellen:** Pro Fall: Mandatsgegenstand, Bereich (siehe Tabelle), eigene Tätigkeit (nicht nur Mitwirkung), Aktenzeichen Kanzlei, Verfahrensstand, Erfolg/Vergleich/Klageabweisung. Anonymisierung beachten § 43a Abs. 2 BRAO Verschwiegenheit.
 4. **Lückenliste:** Welche Bereiche sind unterrepräsentiert? Welche Theoriestunden fehlen noch (§ 4 FAO 120 Stunden, davon mindestens 30 als Lehrgang)?
 5. **Anschluss:** Nachforderungen organisieren (Eigenmandate akquirieren, Beck-Lehrgang oder DAA buchen), Falldarstellungen vor Antragstellung Anwaltskammer prüfen lassen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-fao-dokumentenmatrix-und-lueckenliste` beziehungsweise FAO: Dokumentenmatrix, Lückenliste und Nachforderung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-fao-dokumentenmatrix-und-lueckenliste.md).

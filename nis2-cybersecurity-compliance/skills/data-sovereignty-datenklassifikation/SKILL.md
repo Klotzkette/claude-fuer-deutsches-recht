@@ -1,6 +1,6 @@
 ---
 name: data-sovereignty-datenklassifikation
-description: "Wenn es um Data Sovereignty Cloud Region in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Data Sovereignty Cloud Region: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Data Sovereignty Cloud Region

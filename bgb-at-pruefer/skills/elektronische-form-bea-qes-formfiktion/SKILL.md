@@ -1,6 +1,6 @@
 ---
 name: elektronische-form-bea-qes-formfiktion
-description: "Wenn es um Elektronische Form BeA QES Formfiktion in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Elektronische Form Bea Qes Formfiktion; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Elektronische Form BeA QES Formfiktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: elektronische-form-bea-qes-formfiktion."
 ---
 
 # Elektronische Form BeA QES Formfiktion

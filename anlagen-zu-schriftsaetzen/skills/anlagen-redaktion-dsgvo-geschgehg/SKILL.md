@@ -1,6 +1,6 @@
 ---
 name: anlagen-redaktion-dsgvo-geschgehg
-description: "Wenn es um Redaktion, DSGVO und Geschäftsgeheimnisse in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Redaktion, DSGVO und Geschäftsgeheimnisse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Redaktion, DSGVO und Geschäftsgeheimnisse

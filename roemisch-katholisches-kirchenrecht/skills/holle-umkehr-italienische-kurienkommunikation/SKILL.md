@@ -1,6 +1,6 @@
 ---
 name: holle-umkehr-italienische-kurienkommunikation
-description: "Wenn es um Hölle, Gericht, Umkehr und Barmherzigkeit in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hölle, Gericht, Umkehr und Barmherzigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: holle-umkehr-italienische-kurienkommunikation."
 ---
 
 # Hölle, Gericht, Umkehr und Barmherzigkeit

@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-einrichtung
-description: "Wenn es um Oeffentliche Einrichtung in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Öffentliche Einrichtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Oeffentliche Einrichtung

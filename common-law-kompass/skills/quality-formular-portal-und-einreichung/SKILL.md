@@ -1,6 +1,6 @@
 ---
 name: quality-formular-portal-und-einreichung
-description: "Wenn es um Quality: Formular, Portal und Einreichungslogik in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quality: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Quality: Formular, Portal und Einreichungslogik

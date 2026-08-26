@@ -1,6 +1,6 @@
 ---
 name: schenkungen-und-mortisationsfragen
-description: "Wenn es um Schenkungen Und Mortisationsfragen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schenkungen und Mortisationsfragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schenkungen Und Mortisationsfragen

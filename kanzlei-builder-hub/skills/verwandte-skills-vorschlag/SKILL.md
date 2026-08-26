@@ -1,6 +1,6 @@
 ---
 name: verwandte-skills-vorschlag
-description: "Wenn es um /verwandte-skills-vorschlag — Verwandte-Skills-Empfehlung in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für /verwandte-skills-vorschlag — Verwandte-Skills-Empfehlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /verwandte-skills-vorschlag — Verwandte-Skills-Empfehlung

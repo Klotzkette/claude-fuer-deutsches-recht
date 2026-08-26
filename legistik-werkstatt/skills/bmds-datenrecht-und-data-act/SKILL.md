@@ -1,6 +1,6 @@
 ---
 name: bmds-datenrecht-und-data-act
-description: "Wenn es um Datenrecht und Data Act (BMDS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Datenrecht und Data Act (BMDS): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenrecht und Data Act (BMDS)

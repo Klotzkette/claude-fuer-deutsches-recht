@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-checkliste-vor-absenden
-description: "Wenn es um Laienhilfe: Checkliste Vor Absenden in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laienhilfe: Checkliste vor Absenden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laienhilfe: Checkliste Vor Absenden

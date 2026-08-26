@@ -1,6 +1,6 @@
 ---
 name: eu-mwst-betrug-mtic
-description: "Wenn es um eu Mwst Betrug Mtic in Fachanwalt Internationales Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für eu Mwst Betrug Mtic: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # eu Mwst Betrug Mtic

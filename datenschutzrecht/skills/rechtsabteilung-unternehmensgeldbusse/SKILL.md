@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-unternehmensgeldbusse
-description: "Wenn es um Rechtsabteilung: Unternehmensgeldbuße nach Deutsche Wohnen in Datenschutzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsabteilung: Unternehmensgeldbuße nach Deutsche Wohnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Unternehmensgeldbuße nach Deutsche Wohnen

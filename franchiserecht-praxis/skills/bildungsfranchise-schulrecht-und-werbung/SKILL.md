@@ -1,6 +1,6 @@
 ---
 name: bildungsfranchise-schulrecht-und-werbung
-description: "Wenn es um Franchiserecht: Bildungsfranchise, Schulrecht und Werbung in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Franchiserecht: Bildungsfranchise, Schulrecht und Werbung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Bildungsfranchise, Schulrecht und Werbung

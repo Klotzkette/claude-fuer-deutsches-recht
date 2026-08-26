@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-erklaerungsrecht-257-stpo
-description: "Wenn es um Erklaerungsrecht Paragraf 257 Abs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erklärungsrecht Paragraf 257 Abs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erklaerungsrecht § 257 Abs

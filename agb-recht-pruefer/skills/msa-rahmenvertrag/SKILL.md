@@ -1,6 +1,6 @@
 ---
 name: msa-rahmenvertrag
-description: "Wenn es um MSA Rahmenvertrag in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für MSA Rahmenvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MSA Rahmenvertrag

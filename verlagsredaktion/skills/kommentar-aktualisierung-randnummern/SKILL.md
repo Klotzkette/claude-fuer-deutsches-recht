@@ -1,6 +1,6 @@
 ---
 name: kommentar-aktualisierung-randnummern
-description: "Wenn es um Kommentar-Aktualisierung und Randnummern in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kommentar-Aktualisierung und Randnummern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommentar-Aktualisierung und Randnummern

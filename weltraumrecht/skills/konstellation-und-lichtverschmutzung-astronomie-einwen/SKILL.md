@@ -1,6 +1,6 @@
 ---
 name: konstellation-und-lichtverschmutzung-astronomie-einwen
-description: "Wenn es um Weltraumrecht: Konstellation und Lichtverschmutzung: Astronomie-Einwendungen in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Konstellation und Lichtverschmutzung: Astronomie-Einwendungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Konstellation und Lichtverschmutzung: Astronomie-Einwendungen

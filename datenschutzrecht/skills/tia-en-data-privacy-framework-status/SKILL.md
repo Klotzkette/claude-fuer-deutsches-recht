@@ -1,6 +1,6 @@
 ---
 name: tia-en-data-privacy-framework-status
-description: "Wenn es um EU-US Data Privacy Framework – Current Status (English) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU-US Data Privacy Framework – Current Status (English): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EU-US Data Privacy Framework – Current Status (English)

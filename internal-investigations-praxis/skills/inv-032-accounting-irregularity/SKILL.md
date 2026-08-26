@@ -1,6 +1,6 @@
 ---
 name: inv-032-accounting-irregularity
-description: "Wenn es um Internal Investigation: Accounting Irregularity in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: Accounting Irregularity: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Accounting Irregularity

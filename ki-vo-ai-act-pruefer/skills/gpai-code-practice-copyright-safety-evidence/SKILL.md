@@ -1,6 +1,6 @@
 ---
 name: gpai-code-practice-copyright-safety-evidence
-description: "Wenn es um GPAI Code of Practice: Evidence statt Etikett in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Gpai Code Practice Copyright Safety Evidence; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für GPAI Code of Practice: Evidence statt Etikett: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: gpai-code-practice-copyright-safety-evidence."
 ---
 
 # GPAI Code of Practice: Evidence statt Etikett

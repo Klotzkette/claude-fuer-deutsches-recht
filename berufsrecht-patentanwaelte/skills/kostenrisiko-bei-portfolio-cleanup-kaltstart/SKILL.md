@@ -1,6 +1,6 @@
 ---
 name: kostenrisiko-bei-portfolio-cleanup-kaltstart
-description: "Wenn es um Kostenrisiko Bei Portfolio Cleanup Kaltstart in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kostenrisiko bei Portfolio Cleanup Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: kostenrisiko bei portfolio cleanup - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

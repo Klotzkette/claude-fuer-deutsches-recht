@@ -1,6 +1,6 @@
 ---
 name: ihl-042-eigentuemsuebergang-und-sicherheiten
-description: "Wenn es um Eigentuemsuebergang Und Sicherheiten in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eigentumsübergang und Sicherheiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eigentuemsuebergang Und Sicherheiten

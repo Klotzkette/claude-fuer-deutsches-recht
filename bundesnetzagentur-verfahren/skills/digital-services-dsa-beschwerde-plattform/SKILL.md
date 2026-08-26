@@ -1,6 +1,6 @@
 ---
 name: digital-services-dsa-beschwerde-plattform
-description: "Wenn es um DSA-Beschwerde gegen eine Online-Plattform in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für DSA-Beschwerde gegen eine Online-Plattform: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSA-Beschwerde gegen eine Online-Plattform

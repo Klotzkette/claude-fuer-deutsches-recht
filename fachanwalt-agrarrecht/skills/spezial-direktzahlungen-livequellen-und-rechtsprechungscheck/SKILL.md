@@ -1,6 +1,6 @@
 ---
 name: spezial-direktzahlungen-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Direktzahlungen: Livequellen- und Rechtsprechungscheck in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Direktzahlungen: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Direktzahlungen: Livequellen- und Rechtsprechungscheck

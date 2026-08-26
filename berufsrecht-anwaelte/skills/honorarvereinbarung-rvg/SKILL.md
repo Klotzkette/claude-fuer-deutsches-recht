@@ -1,6 +1,6 @@
 ---
 name: honorarvereinbarung-rvg
-description: "Wenn es um Honorarvereinbarung Rvg in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Honorarvereinbarung RVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: honorarvereinbarung und rvg transparenz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

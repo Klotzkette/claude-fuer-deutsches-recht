@@ -1,6 +1,6 @@
 ---
 name: geografische-angaben-kollektiv-gewaehrleistungsmarke
-description: "Wenn es um Geografische Angaben, Kollektiv- und Gewährleistungsmarken in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Geografische Angaben, Kollektiv- und Gewährleistungsmarken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geografische Angaben, Kollektiv- und Gewährleistungsmarken

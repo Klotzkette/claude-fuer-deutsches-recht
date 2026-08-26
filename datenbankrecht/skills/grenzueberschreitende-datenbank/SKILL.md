@@ -1,6 +1,6 @@
 ---
 name: grenzueberschreitende-datenbank
-description: "Wenn es um Grenzüberschreitende Datenbanken — EU, UK und USA im Vergleich in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grenzüberschreitende Datenbanken — EU, UK und USA im Vergleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzüberschreitende Datenbanken — EU, UK und USA im Vergleich

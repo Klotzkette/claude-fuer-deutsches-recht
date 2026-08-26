@@ -1,6 +1,6 @@
 ---
 name: ki-erfindung-und-erfinderbenennung-rechtsprechun
-description: "Wenn es um Ki Erfindung Und Erfinderbenennung Rechtsprechun in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Ki Erfindung und Erfinderbenennung Rechtsprechun: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: ki erfindung und erfinderbenennung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

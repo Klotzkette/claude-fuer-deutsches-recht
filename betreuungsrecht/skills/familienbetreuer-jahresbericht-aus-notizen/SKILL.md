@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-jahresbericht-aus-notizen
-description: "Wenn es um Familienbetreuer: Jahresbericht aus Notizen in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Familienbetreuer: Jahresbericht aus Notizen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Familienbetreuer: Jahresbericht aus Notizen

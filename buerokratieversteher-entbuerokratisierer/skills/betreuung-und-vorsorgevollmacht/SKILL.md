@@ -1,6 +1,6 @@
 ---
 name: betreuung-und-vorsorgevollmacht
-description: "Wenn es um Betreuung und Vorsorgevollmacht in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betreuung und Vorsorgevollmacht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Betreuung und Vorsorgevollmacht

@@ -1,6 +1,6 @@
 ---
 name: faelle-abschlussprodukt-und-uebergabe
-description: "Wenn es um Faelle: Abschlussprodukt und Übergabe in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fälle: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Faelle: Abschlussprodukt und Übergabe

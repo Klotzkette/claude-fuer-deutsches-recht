@@ -1,6 +1,6 @@
 ---
 name: aktenauszug-verfahrensidentifikation-gericht
-description: "Wenn es um Verfahrensidentifikation in aktenauszug-gerichtsverfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verfahrensidentifikation: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfahrensidentifikation

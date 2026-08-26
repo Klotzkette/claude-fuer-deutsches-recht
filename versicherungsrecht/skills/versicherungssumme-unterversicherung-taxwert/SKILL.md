@@ -1,6 +1,6 @@
 ---
 name: versicherungssumme-unterversicherung-taxwert
-description: "Wenn es um Versicherungssumme, Unterversicherung und Taxwert in Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versicherungssumme, Unterversicherung und Taxwert: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versicherungssumme, Unterversicherung und Taxwert

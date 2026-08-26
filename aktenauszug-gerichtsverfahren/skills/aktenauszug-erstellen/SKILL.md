@@ -1,6 +1,6 @@
 ---
 name: aktenauszug-erstellen
-description: "Wenn es um Aktenauszug Erstellen — Hauptworkflow in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Aktenauszug Erstellen — Hauptworkflow: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenauszug Erstellen — Hauptworkflow

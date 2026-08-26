@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-mac-klausel-signing-closing
-description: "Wenn es um Rechtsabteilung: MAC-Klausel bei Signing-Closing-Bruch in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsabteilung: MAC-Klausel bei Signing-Closing-Bruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: MAC-Klausel bei Signing-Closing-Bruch

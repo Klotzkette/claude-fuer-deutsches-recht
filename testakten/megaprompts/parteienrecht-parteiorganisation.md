@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 111 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Parteienrecht Parteiorganisation ein juristisches Arbeitsprodukt tragfähig begründet werden m…
-2. **kaltstart-triage** — Wenn es um Parteienrecht — Allgemein in Parteienrecht und Parteiorganisation geht: klärt Rolle, Ziel, Frist, Unterlagen …
-3. **parteigericht-effektiver-parteigruendung** — Wenn es um Parteigericht: Effektiver Rechtsschutz in Parteienrecht und Parteiorganisation geht: ordnet Sachverhalt, Norm…
-4. **parteigericht-effektiver-rechtsschutz** — Wenn es um Parteigericht: Effektiver Rechtsschutz in Parteienrecht und Parteiorganisation geht: ordnet Sachverhalt, Norm…
-5. **kandidatenaufstellung-bundestag-kreis** — Wenn es um Kreiswahlvorschlag Bundestag in Parteienrecht und Parteiorganisation geht: ordnet Sachverhalt, Norm, Beweisla…
-6. **kandidatenaufstellung-bundestag** — Wenn es um Kreiswahlvorschlag Bundestag in Parteienrecht und Parteiorganisation geht: ordnet Sachverhalt, Norm, Beweisla…
-7. **parteienrecht-mitgliederrechte-innerparteilich** — Wenn es um Mitgliederrechte in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt…
-8. **parteienrecht-parteiausschluss-parteigericht** — Wenn es um Parteiausschluss in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt…
+2. **kaltstart-triage** — Für Parteienrecht — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und näc…
+3. **niederschrift-aufstellungsversammlung-online** — Für Niederschrift Aufstellungsversammlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko u…
+4. **koalitions-listenverbindung-kommunalmandat** — Für Kooperationen und Listenverbindungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+5. **parteigericht-effektiver-parteigruendung** — Für Parteigericht: Effektiver Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko …
+6. **parteienrecht-unterstuetzungsunterschriften-wahl** — Für Unterstützungsunterschriften: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächst…
+7. **parteigericht-effektiver-rechtsschutz** — Für Parteigericht: Effektiver Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko …
+8. **niederschrift-aufstellungsversammlung** — Für Niederschrift Aufstellungsversammlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko u…
 
 ---
 
@@ -134,7 +134,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Parteienrecht — Allgemein in Parteienrecht und Parteiorganisation geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Parteienrecht — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Parteienrecht — Allgemein
 
@@ -190,9 +190,93 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ---
 
+## Skill: `niederschrift-aufstellungsversammlung-online`
+
+_Für Niederschrift Aufstellungsversammlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: niederschrift-aufstellungsversammlung-online._
+
+# Niederschrift Aufstellungsversammlung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: PartG § 23 Rechenschaftsbericht bis 30.09. Folgejahr, § 19a Antrag staatliche Mittel bis 31.01., BWahlG § 18 Beteiligungsanzeige 97. Tag vor Wahl, § 21 Aufstellungsversammlung 32. Tag vor Wahl.
+- Tragende Normen verifizieren: GG Art. 21, PartG §§ 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26, 31a-d, EuPartV (VO 1141/2014), BWahlG, EuWG, AbgG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Parteisatzung, Rechenschaftsbericht, Mitgliederliste, Beteiligungsanzeige, Wahlvorschlag, Schiedsgerichtsentscheid, Parteitagsprotokoll, Spendenbescheinigung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Einstieg
+Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
+
+1. Welche Rolle hat die betroffene Person oder Organisation?
+2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
+3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
+4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
+
+## Arbeitsworkflow
+1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
+2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
+3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
+4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
+
+## Vorsichtsregel
+Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
+
+## Quellen- und Aktualitätsregel
+- Parteiengesetz live prüfen
+- Bundeswahlgesetz/Bundeswahlordnung und Bundeswahlleiterin live prüfen
+- jeweiliges Landeswahl-/Kommunalwahl-/Abgeordnetenrecht live prüfen
+- Parteien- und Gebietsverbandssatzung als Primärquelle
+- Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen
+- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+
+---
+
+## Skill: `koalitions-listenverbindung-kommunalmandat`
+
+_Für Kooperationen und Listenverbindungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: koalitions-listenverbindung-kommunalmandat._
+
+# Kooperationen und Listenverbindungen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: PartG § 23 Rechenschaftsbericht bis 30.09. Folgejahr, § 19a Antrag staatliche Mittel bis 31.01., BWahlG § 18 Beteiligungsanzeige 97. Tag vor Wahl, § 21 Aufstellungsversammlung 32. Tag vor Wahl.
+- Tragende Normen verifizieren: GG Art. 21, PartG §§ 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26, 31a-d, EuPartV (VO 1141/2014), BWahlG, EuWG, AbgG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Parteisatzung, Rechenschaftsbericht, Mitgliederliste, Beteiligungsanzeige, Wahlvorschlag, Schiedsgerichtsentscheid, Parteitagsprotokoll, Spendenbescheinigung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Einstieg
+Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
+
+1. Welche Rolle hat die betroffene Person oder Organisation?
+2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
+3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
+4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
+
+## Arbeitsworkflow
+1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
+2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
+3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
+4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
+
+## Vorsichtsregel
+Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
+
+## Quellen- und Aktualitätsregel
+- Parteiengesetz live prüfen
+- Bundeswahlgesetz/Bundeswahlordnung und Bundeswahlleiterin live prüfen
+- jeweiliges Landeswahl-/Kommunalwahl-/Abgeordnetenrecht live prüfen
+- Parteien- und Gebietsverbandssatzung als Primärquelle
+- Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen
+- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+
+---
+
 ## Skill: `parteigericht-effektiver-parteigruendung`
 
-_Wenn es um Parteigericht: Effektiver Rechtsschutz in Parteienrecht und Parteiorganisation geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Parteigericht Effektiver Parteigruendung; Arbeitsfeld: Parteienrecht und Parteiorganisation._
+_Für Parteigericht: Effektiver Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: parteigericht-effektiver-parteigruendung._
 
 # Parteigericht: Effektiver Rechtsschutz
 
@@ -248,12 +332,53 @@ Keine politischen Bewertungen. Der Skill prüft nur, ob das Verfahren formal und
 - Wahl- und Fristenbezug mit amtlichen Wahlleiterhinweisen abgleichen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+
+---
+
+## Skill: `parteienrecht-unterstuetzungsunterschriften-wahl`
+
+_Für Unterstützungsunterschriften: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: parteienrecht-unterstuetzungsunterschriften-wahl._
+
+# Unterstützungsunterschriften
+
+## Einstieg
+Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
+
+1. Welche Rolle hat die betroffene Person oder Organisation?
+2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
+3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
+4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
+
+## Arbeitsworkflow
+1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
+2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
+3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
+4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
+
+## Vorsichtsregel
+Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 9 PartG
+- § 17 PartG (Kandidatenaufstellung)
+
+## Quellen- und Aktualitätsregel
+- Parteiengesetz live prüfen
+- Bundeswahlgesetz/Bundeswahlordnung und Bundeswahlleiterin live prüfen
+- jeweiliges Landeswahl-/Kommunalwahl-/Abgeordnetenrecht live prüfen
+- Parteien- und Gebietsverbandssatzung als Primärquelle
+- Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen
+- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
 
 ---
 
 ## Skill: `parteigericht-effektiver-rechtsschutz`
 
-_Wenn es um Parteigericht: Effektiver Rechtsschutz in Parteienrecht und Parteiorganisation geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Parteigericht Effektiver Rechtsschutz; Arbeitsfeld: Parteienrecht und Parteiorganisation._
+_Für Parteigericht: Effektiver Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: parteigericht-effektiver-rechtsschutz._
 
 # Parteigericht: Effektiver Rechtsschutz
 
@@ -304,95 +429,11 @@ Keine politischen Bewertungen. Der Skill prüft nur, ob das Verfahren formal und
 
 ---
 
-## Skill: `kandidatenaufstellung-bundestag-kreis`
+## Skill: `niederschrift-aufstellungsversammlung`
 
-_Wenn es um Kreiswahlvorschlag Bundestag in Parteienrecht und Parteiorganisation geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Kandidatenaufstellung Bundestag Kreis; Arbeitsfeld: Parteienrecht und Parteiorganisation._
+_Für Niederschrift Aufstellungsversammlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: niederschrift-aufstellungsversammlung._
 
-# Kreiswahlvorschlag Bundestag
-
-## Einstieg
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
-
-1. Welche Rolle hat die betroffene Person oder Organisation?
-2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
-3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
-4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
-
-## Arbeitsworkflow
-1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
-2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
-3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
-4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
-
-## Vorsichtsregel
-Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- Art. 21 GG (Parteien)
-- §§ 1-41 PartG (Parteiengesetz)
-- § 23 PartG (Rechenschaftsbericht)
-
-## Quellen- und Aktualitätsregel
-- Parteiengesetz live prüfen
-- Bundeswahlgesetz/Bundeswahlordnung und Bundeswahlleiterin live prüfen
-- jeweiliges Landeswahl-/Kommunalwahl-/Abgeordnetenrecht live prüfen
-- Parteien- und Gebietsverbandssatzung als Primärquelle
-- Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen
-- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
-
----
-
-## Skill: `kandidatenaufstellung-bundestag`
-
-_Wenn es um Kreiswahlvorschlag Bundestag in Parteienrecht und Parteiorganisation geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Kandidatenaufstellung Bundestag; Arbeitsfeld: Parteienrecht und Parteiorganisation._
-
-# Kreiswahlvorschlag Bundestag
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: PartG § 23 Rechenschaftsbericht bis 30.09. Folgejahr, § 19a Antrag staatliche Mittel bis 31.01., BWahlG § 18 Beteiligungsanzeige 97. Tag vor Wahl, § 21 Aufstellungsversammlung 32. Tag vor Wahl.
-- Tragende Normen verifizieren: GG Art. 21, PartG §§ 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26, 31a-d, EuPartV (VO 1141/2014), BWahlG, EuWG, AbgG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Parteisatzung, Rechenschaftsbericht, Mitgliederliste, Beteiligungsanzeige, Wahlvorschlag, Schiedsgerichtsentscheid, Parteitagsprotokoll, Spendenbescheinigung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einstieg
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
-
-1. Welche Rolle hat die betroffene Person oder Organisation?
-2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
-3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
-4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
-
-## Arbeitsworkflow
-1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
-2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
-3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
-4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
-
-## Vorsichtsregel
-Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
-
-## Quellen- und Aktualitätsregel
-- Parteiengesetz live prüfen
-- Bundeswahlgesetz/Bundeswahlordnung und Bundeswahlleiterin live prüfen
-- jeweiliges Landeswahl-/Kommunalwahl-/Abgeordnetenrecht live prüfen
-- Parteien- und Gebietsverbandssatzung als Primärquelle
-- Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen
-- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
-
----
-
-## Skill: `parteienrecht-mitgliederrechte-innerparteilich`
-
-_Wenn es um Mitgliederrechte in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Parteienrecht Mitgliederrechte Innerparteilich; Arbeitsfeld: Parteienrecht und Parteiorganisation._
-
-# Mitgliederrechte
+# Niederschrift Aufstellungsversammlung
 
 ## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
@@ -418,54 +459,6 @@ Konkret zu prüfen:
 - Art. 21 GG (Parteien)
 - §§ 1-41 PartG (Parteiengesetz)
 - § 23 PartG (Rechenschaftsbericht)
-
-## Quellen- und Aktualitätsregel
-- Parteiengesetz live prüfen
-- Bundeswahlgesetz/Bundeswahlordnung und Bundeswahlleiterin live prüfen
-- jeweiliges Landeswahl-/Kommunalwahl-/Abgeordnetenrecht live prüfen
-- Parteien- und Gebietsverbandssatzung als Primärquelle
-- Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen
-- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
-
----
-
-## Skill: `parteienrecht-parteiausschluss-parteigericht`
-
-_Wenn es um Parteiausschluss in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Parteienrecht Parteiausschluss Parteigericht; Arbeitsfeld: Parteienrecht und Parteiorganisation._
-
-# Parteiausschluss
-
-## Einstieg
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
-
-1. Welche Rolle hat die betroffene Person oder Organisation?
-2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
-3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
-4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
-
-## Arbeitsworkflow
-1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
-2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
-3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
-4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
-
-## Zusatzzweig: Ausschlussverfahren vor Parteigericht
-
-- Schwerer Schaden, Satzungsverstoß und Verhältnismäßigkeit getrennt prüfen; politische Missliebigkeit ersetzt keinen tragfähigen Ausschlussgrund.
-- Anhörung, Akteneinsicht, Beweisangebote, Befangenheitsanträge und Besetzung des Schiedsgerichts dokumentieren.
-- Bei eiliger Suspendierung oder Ruhen von Mitgliedsrechten immer fragen, ob die Maßnahme vor der Hauptsache faktisch vollendete Tatsachen schafft.
-- Wenn der Parteiausschluss zugleich Kandidatur, Delegiertenstatus, Mandatsbewerbung oder Ämter betrifft, muss das Verfahren so beschleunigt werden, dass effektiver Rechtsschutz nicht erst nach Erledigung kommt.
-
-## Vorsichtsregel
-Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- § 10 Abs. 4, 5 PartG (Parteiordnungsverfahren)
-- BGH II ZR 154/87
 
 ## Quellen- und Aktualitätsregel
 - Parteiengesetz live prüfen

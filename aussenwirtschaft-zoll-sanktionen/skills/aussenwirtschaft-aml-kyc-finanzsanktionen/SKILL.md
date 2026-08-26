@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-aml-kyc-finanzsanktionen
-description: "Wenn es um AML/KYC und Sanktionen: Risikobasierte Kundenpruefung und Sanktionsscreening in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AML/KYC und Sanktionen: Risikobasierte Kundenprüfung und Sanktionsscreening: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AML/KYC und Sanktionen: Risikobasierte Kundenpruefung und Sanktionsscreening

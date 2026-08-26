@@ -1,6 +1,6 @@
 ---
 name: inv-025-hr-misconduct
-description: "Wenn es um Internal Investigation: HR Misconduct in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internal Investigation: HR Misconduct: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: HR Misconduct

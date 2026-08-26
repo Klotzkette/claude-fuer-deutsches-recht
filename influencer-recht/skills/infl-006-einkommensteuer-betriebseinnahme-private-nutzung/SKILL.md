@@ -1,6 +1,6 @@
 ---
 name: infl-006-einkommensteuer-betriebseinnahme-private-nutzung
-description: "Wenn es um Influencer-Recht: Einkommensteuer Betriebseinnahme private Nutzung in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Einkommensteuer Betriebseinnahme private Nutzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Influencer-Recht: Einkommensteuer Betriebseinnahme private Nutzung

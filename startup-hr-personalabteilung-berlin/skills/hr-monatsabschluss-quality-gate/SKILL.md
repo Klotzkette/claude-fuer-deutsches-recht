@@ -1,6 +1,6 @@
 ---
 name: hr-monatsabschluss-quality-gate
-description: "Wenn es um HR Monatsabschluss Quality Gate in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HR Monatsabschluss Quality Gate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HR Monatsabschluss Quality Gate

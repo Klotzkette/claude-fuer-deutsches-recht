@@ -1,6 +1,6 @@
 ---
 name: personelle-kontinuitaeten-nach-1945
-description: "Wenn es um Personelle Kontinuitäten nach 1945 in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Personelle Kontinuitaeten Nach 1945; Arbeitsfeld: Deutsche Rechtsgeschichte."
+description: "Für Personelle Kontinuitäten nach 1945: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: personelle-kontinuitaeten-nach-1945."
 ---
 
 # Personelle Kontinuitäten nach 1945

@@ -1,6 +1,6 @@
 ---
 name: sektor-cloud-infrastruktur-hyperscaler
-description: "Wenn es um Sektor Cloud-Infrastruktur und Hyperscaler in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sektor Cloud-Infrastruktur und Hyperscaler: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sektor Cloud-Infrastruktur und Hyperscaler

@@ -1,6 +1,6 @@
 ---
 name: legal-tech-rdg-grenze-rechtsprechungscheck-und-red-tea
-description: "Wenn es um Legal Tech Rdg Grenze Rechtsprechungscheck Und Red Tea in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Legal Tech Rdg Grenze Rechtsprechungscheck und Red Tea: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: legal tech rdg grenze - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: reste-und-uebertragbarkeit-szenario-re
-description: "Wenn es um Reste Und Uebertragbarkeit Szenario Re in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reste und Übertragbarkeit Szenario Re: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reste Und Uebertragbarkeit Szenario Re

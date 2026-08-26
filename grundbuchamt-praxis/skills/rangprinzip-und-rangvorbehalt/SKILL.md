@@ -1,6 +1,6 @@
 ---
 name: rangprinzip-und-rangvorbehalt
-description: "Wenn es um Rang und Rangvorbehalt in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rang und Rangvorbehalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rang und Rangvorbehalt

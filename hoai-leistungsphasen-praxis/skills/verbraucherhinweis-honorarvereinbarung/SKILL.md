@@ -1,6 +1,6 @@
 ---
 name: verbraucherhinweis-honorarvereinbarung
-description: "Wenn es um Verbraucherhinweis Und Honorarvereinbarung in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verbraucherhinweis und Honorarvereinbarung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbraucherhinweis Und Honorarvereinbarung

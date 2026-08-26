@@ -1,6 +1,6 @@
 ---
 name: kaufmaennisches-bestaetigungsschreiben
-description: "Wenn es um Kaufmännisches Bestätigungsschreiben in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaufmännisches Bestätigungsschreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaufmännisches Bestätigungsschreiben

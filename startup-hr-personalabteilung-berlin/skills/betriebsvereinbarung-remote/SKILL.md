@@ -1,6 +1,6 @@
 ---
 name: betriebsvereinbarung-remote
-description: "Wenn es um Betriebsvereinbarung Remote IT Benefits in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebsvereinbarung Remote IT Benefits: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsvereinbarung Remote IT Benefits

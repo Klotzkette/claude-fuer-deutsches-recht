@@ -1,6 +1,6 @@
 ---
 name: post-contract-principal-direktgeschaeft
-description: "Wenn es um Nachvertragliches Wettbewerbsverbot nach Paragraf 90a HGB — Durchsetzung und Verletzung in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Nachvertragliches Wettbewerbsverbot nach Paragraf 90a HGB — Durchsetzung und Verletzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachvertragliches Wettbewerbsverbot nach § 90a HGB — Durchsetzung und Verletzung

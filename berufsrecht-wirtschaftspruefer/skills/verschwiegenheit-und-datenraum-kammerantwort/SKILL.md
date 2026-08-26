@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-und-datenraum-kammerantwort
-description: "Wenn es um Verschwiegenheit Und Datenraum Kammerantwort in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verschwiegenheit und Datenraum Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: verschwiegenheit und datenraum - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

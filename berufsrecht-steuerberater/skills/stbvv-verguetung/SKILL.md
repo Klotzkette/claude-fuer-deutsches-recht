@@ -1,6 +1,6 @@
 ---
 name: stbvv-verguetung
-description: "Wenn es um Stbvv Verguetung in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stbvv Vergütung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: stbvv vergütung und transparenz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

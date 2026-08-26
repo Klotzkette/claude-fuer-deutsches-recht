@@ -1,6 +1,6 @@
 ---
 name: api-license-sdk
-description: "Wenn es um API- und SDK-Lizenz in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für API- und SDK-Lizenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # API- und SDK-Lizenz

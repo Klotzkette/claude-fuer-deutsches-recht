@@ -1,6 +1,6 @@
 ---
 name: infl-062-finanzamt-anfrage-beantworten
-description: "Wenn es um Influencer-Recht: Finanzamt Anfrage beantworten in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Finanzamt Anfrage beantworten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Finanzamt Anfrage beantworten

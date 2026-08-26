@@ -1,6 +1,6 @@
 ---
 name: mitarbeiterbeteiligung-esop-vsop
-description: "Wenn es um ESOP/VSOP Mitarbeiterbeteiligung in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ESOP/VSOP Mitarbeiterbeteiligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ESOP/VSOP Mitarbeiterbeteiligung

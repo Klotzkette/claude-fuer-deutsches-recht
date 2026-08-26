@@ -1,6 +1,6 @@
 ---
 name: rechtsfolgenabschaetzung-leitfaden
-description: "Wenn es um LegW: Gesetzesfolgenabschaetzung in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LegW: Gesetzesfolgenabschätzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LegW: Gesetzesfolgenabschaetzung

@@ -1,6 +1,6 @@
 ---
 name: hoefliche-konformitaet-mails
-description: "Wenn es um Hoefliche: Behörden-, Gerichts- oder Registerweg in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Hoefliche Konformitaet Mails; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für Höfliche: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hoefliche: Behörden-, Gerichts- oder Registerweg

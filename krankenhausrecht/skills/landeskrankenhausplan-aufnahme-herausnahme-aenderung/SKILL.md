@@ -1,6 +1,6 @@
 ---
 name: landeskrankenhausplan-aufnahme-herausnahme-aenderung
-description: "Wenn es um Landeskrankenhausplan Aufnahme Herausnahme Änderung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Landeskrankenhausplan Aufnahme Herausnahme Änderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landeskrankenhausplan Aufnahme Herausnahme Änderung

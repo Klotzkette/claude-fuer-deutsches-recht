@@ -1,6 +1,6 @@
 ---
 name: war-room-betriebsmodell
-description: "Wenn es um War Room Betriebsmodell in Wahlkampfrecht Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für War Room Betriebsmodell: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # War Room Betriebsmodell

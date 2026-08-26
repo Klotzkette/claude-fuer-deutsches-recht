@@ -1,6 +1,6 @@
 ---
 name: esg-csrd-pruefung-kammerantwort-und-verfahren
-description: "Wenn es um Esg Csrd Prüfung Kammerantwort Und Verfahren in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Esg Csrd Prüfung Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: esg csrd prüfung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

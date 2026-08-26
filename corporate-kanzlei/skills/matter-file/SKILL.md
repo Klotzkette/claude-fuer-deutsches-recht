@@ -1,6 +1,6 @@
 ---
 name: matter-file
-description: "Wenn es um Matter File und Aktenstruktur in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Matter File und Aktenstruktur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Matter File und Aktenstruktur

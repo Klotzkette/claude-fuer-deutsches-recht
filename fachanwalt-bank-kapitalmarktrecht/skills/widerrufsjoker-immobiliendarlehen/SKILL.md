@@ -1,6 +1,6 @@
 ---
 name: widerrufsjoker-immobiliendarlehen
-description: "Prüft Widerruf und Vorfälligkeitsentschädigung bei Immobiliar-Verbraucherdarlehen stichtagsgenau: bestimmt Vertragsfassung und Richtlinienregime, vergleicht Pflichtangaben mit Originalvertrag und Muster, trennt Widerruf von BGB Paragraf 502, ordnet EuGH- und BGH-Rechtsprechung ohne Übertragung auf Autokredite ein und liefert Wirtschaftlichkeitsrechnung und Anspruchsschreiben."
+description: "Prüft Widerruf und Vorfälligkeitsentschädigung bei Immobiliar-Verbraucherdarlehen stichtagsgenau: bestimmt Vertragsfassung und Richtlinienregime, vergleicht Pflichtangaben mit Originalvertrag und Muster, trennt Widerruf von BGB Paragraf 502, ordnet EuGH- und BGH-Rechtsprechung ohne Übertragung auf Autokredite ein und liefert Wirtschaftlichkeitsrechnung und."
 ---
 
 # Immobiliardarlehen: Widerruf und Vorfälligkeitsentschädigung

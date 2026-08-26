@@ -1,6 +1,6 @@
 ---
 name: zulassung-und-widerruf-kaltstart-und-faktenmatrix
-description: "Wenn es um Zulassung Und Widerruf Kaltstart Und Faktenmatrix in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zulassung und Widerruf Kaltstart und Faktenmatrix: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: zulassung und widerruf - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

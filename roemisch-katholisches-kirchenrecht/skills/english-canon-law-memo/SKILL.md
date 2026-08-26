@@ -1,6 +1,6 @@
 ---
 name: english-canon-law-memo
-description: "Wenn es um English Canon Law Memo in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für English Canon Law Memo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # English Canon Law Memo

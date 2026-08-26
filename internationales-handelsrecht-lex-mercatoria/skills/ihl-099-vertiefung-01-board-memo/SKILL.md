@@ -1,6 +1,6 @@
 ---
 name: ihl-099-vertiefung-01-board-memo
-description: "Wenn es um Vertiefung 01 Board Memo in Internationales Handelsrecht und Lex Mercatoria geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vertiefung 01 Board Memo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Internationales Handelsrecht und Lex Mercatoria."
 ---
 
 # Vertiefung 01 Board Memo

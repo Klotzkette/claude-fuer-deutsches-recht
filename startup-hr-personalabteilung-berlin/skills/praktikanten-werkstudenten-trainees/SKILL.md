@@ -1,6 +1,6 @@
 ---
 name: praktikanten-werkstudenten-trainees
-description: "Wenn es um Praktikanten Werkstudenten Trainees in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Praktikanten Werkstudenten Trainees: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praktikanten Werkstudenten Trainees

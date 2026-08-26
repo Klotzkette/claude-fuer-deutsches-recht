@@ -1,6 +1,6 @@
 ---
 name: 05-beweiswuerdigung-strafrecht
-description: "Wenn es um 05 Beweiswürdigung Strafrecht in Richter Amtsgericht Strafsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 05 Beweiswürdigung Strafrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # 05 Beweiswürdigung Strafrecht

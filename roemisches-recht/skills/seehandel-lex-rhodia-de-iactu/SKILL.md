@@ -1,6 +1,6 @@
 ---
 name: seehandel-lex-rhodia-de-iactu
-description: "Wenn es um Rom 122 Seehandel Lex Rhodia De Iactu in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom 122 Seehandel Lex Rhodia De Iactu: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 122 Seehandel Lex Rhodia De Iactu

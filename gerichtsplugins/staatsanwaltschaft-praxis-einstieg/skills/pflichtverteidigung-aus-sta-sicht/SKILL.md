@@ -1,6 +1,6 @@
 ---
 name: pflichtverteidigung-aus-sta-sicht
-description: "Wenn es um Pflichtverteidigung aus Sicht der Staatsanwaltschaft in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Pflichtverteidigung aus Sicht der Staatsanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflichtverteidigung aus Sicht der Staatsanwaltschaft

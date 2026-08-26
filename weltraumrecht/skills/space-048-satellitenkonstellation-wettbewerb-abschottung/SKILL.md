@@ -1,6 +1,6 @@
 ---
 name: space-048-satellitenkonstellation-wettbewerb-abschottung
-description: "Wenn es um Weltraumrecht: Satellitenkonstellation Wettbewerbsrecht und Marktabschottung in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Satellitenkonstellation Wettbewerbsrecht und Marktabschottung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Satellitenkonstellation Wettbewerbsrecht und Marktabschottung

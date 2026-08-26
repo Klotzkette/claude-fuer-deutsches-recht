@@ -1,6 +1,6 @@
 ---
 name: 061-sorgerechtsgenehmigung-familiengerichtliche-genehmi
-description: "Wenn es um Sorgerechtsgenehmigung Familiengerichtliche Genehmi in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sorgerechtsgenehmigung Familiengerichtliche Genehmi: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Sorgerechtsgenehmigung – familiengerichtliche Genehmigung, Minderjährige

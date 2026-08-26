@@ -1,6 +1,6 @@
 ---
 name: fa-vwgo-widerspruchsbescheid-abschleppen-oepnv
-description: "Wenn es um Fa Vwgo Widerspruchsbescheid Abschleppen Oepnv in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fa VwGO Widerspruchsbescheid Abschleppen ÖPNV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fa VwGO Widerspruchsbescheid Abschleppen Oepnv: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

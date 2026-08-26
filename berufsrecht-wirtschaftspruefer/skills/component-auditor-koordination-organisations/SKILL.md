@@ -1,6 +1,6 @@
 ---
 name: component-auditor-koordination-organisations
-description: "Wenn es um Component Auditor Koordination Organisations in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Component Auditor Koordination Organisations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: component auditor koordination - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: pflichtverletzung-93-aktg
-description: "Wenn es um Pflichtverletzung 93 Aktg in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Pflichtverletzung 93 Aktg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflichtverletzung 93 Aktg

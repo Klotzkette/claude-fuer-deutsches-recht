@@ -1,6 +1,6 @@
 ---
 name: schulung-und-rolle-accessibility-champion
-description: "Wenn es um Schulung und Champion-Modell in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schulung und Champion-Modell: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulung und Champion-Modell

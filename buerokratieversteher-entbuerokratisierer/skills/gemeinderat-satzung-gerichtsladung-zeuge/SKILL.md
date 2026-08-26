@@ -1,6 +1,6 @@
 ---
 name: gemeinderat-satzung-gerichtsladung-zeuge
-description: "Wenn es um Gemeinderat und Satzung verstehen in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gemeinderat und Satzung verstehen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gemeinderat und Satzung verstehen

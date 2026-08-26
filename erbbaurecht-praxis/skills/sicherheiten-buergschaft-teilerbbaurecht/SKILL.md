@@ -1,6 +1,6 @@
 ---
 name: sicherheiten-buergschaft-teilerbbaurecht
-description: "Wenn es um Sicherheiten für Erbbauzins und Rückbau in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sicherheiten für Erbbauzins und Rückbau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sicherheiten für Erbbauzins und Rückbau

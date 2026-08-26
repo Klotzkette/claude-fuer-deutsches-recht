@@ -1,6 +1,6 @@
 ---
 name: landesliste-bundestag
-description: "Wenn es um Landesliste Bundestag in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Landesliste Bundestag; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Landesliste Bundestag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: landesliste-bundestag."
 ---
 
 # Landesliste Bundestag

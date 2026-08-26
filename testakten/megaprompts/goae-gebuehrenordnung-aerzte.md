@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 66 Skills des Plugins `goae-gebuehrenordn
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in GOÄ Gebührenordnung Ärzte ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ve…
-2. **kaltstart-triage** — Wenn es um GOÄ Gebührenordnung für Ärzte — Allgemein in GOÄ Gebührenordnung für Ärzte geht: klärt Rolle, Ziel, Frist, Un…
-3. **goae-5-bemessung-gebuehrenrahmen-2-3-1-8-1-15-schwelle** — Wenn es um GOÄ Paragraf 5 Bemessung Gebührenrahmen 2.3 1.8 1.15 Schwelle in GOÄ Gebührenordnung für Ärzte geht: ordnet A…
-4. **goae-6-gebuehren-fuer-andere-leistungen-analogbewertung** — Wenn es um GOÄ Paragraf 6 Gebühren für andere Leistungen Analogbewertung in GOÄ Gebührenordnung für Ärzte geht: ordnet A…
-5. **goae-3-verguetungen-gebuehren-entschaedigungen-auslagen** — Wenn es um GOÄ Paragraf 3 Vergütungen Gebühren Entschädigungen Auslagen in GOÄ Gebührenordnung für Ärzte geht: ordnet Ak…
-6. **patientenbrief-und-einwendung-formulieren** — Wenn es um Patientenbrief und Einwendung formulieren in GOÄ Gebührenordnung für Ärzte geht: erstellt den passenden Entwu…
-7. **goae-selbstaendige-aerztliche-bemessung** — Wenn es um GOÄ Paragraf 4 selbständige ärztliche Leistung Zielleistungsprinzip in GOÄ Gebührenordnung für Ärzte geht: pr…
-8. **op-komplexe-patientenbrief-einwendung** — Wenn es um OP-Komplexe Narkose Assistenz Zuschläge in GOÄ Gebührenordnung für Ärzte geht: erstellt den passenden Entwurf…
-9. **faelligkeit-verzug-mahnung-honorarklage** — Wenn es um Fälligkeit Verzug Mahnung Honorarklage in GOÄ Gebührenordnung für Ärzte geht: erstellt den passenden Entwurf …
-10. **igel-aufklaerung-klageerwiderung** — Wenn es um IGeL Aufklärung Kosteninformation in GOÄ Gebührenordnung für Ärzte geht: erstellt den passenden Entwurf aus S…
+2. **kaltstart-triage** — Für GOÄ Gebührenordnung für Ärzte — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mi…
+3. **goae-5-bemessung-gebuehrenrahmen-2-3-1-8-1-15-schwelle** — Für GOÄ Paragraf 5 Bemessung Gebührenrahmen 2.3 1.8 1.15 Schwelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: …
+4. **goae-6-gebuehren-fuer-andere-leistungen-analogbewertung** — Für GOÄ Paragraf 6 Gebühren für andere Leistungen Analogbewertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: …
+5. **goae-3-verguetungen-gebuehren-entschaedigungen-auslagen** — Für GOÄ Paragraf 3 Vergütungen Gebühren Entschädigungen Auslagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: B…
+6. **goae-selbstaendige-aerztliche-bemessung** — Für GOÄ Paragraf 4 selbständige ärztliche Leistung Zielleistungsprinzip: ordnet Norm, Beweislast und Gegenargument; Erge…
+7. **goae-2-abweichende-vereinbarung-honorarvereinbarung** — Für GOÄ Paragraf 2 abweichende Vereinbarung Honorarvereinbarung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
+8. **goae-6a-stationaere-minderung-25-prozent-15-prozent** — Für GOÄ Paragraf 6a stationäre Minderung 25 Prozent 15 Prozent: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prü…
+9. **goae-14-zahlung-durch-oeffentliche-leistungstraeger** — Für GOÄ Paragraf 14 Zahlung durch öffentliche Leistungsträger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüf…
+10. **auslandsbehandlung-deutsche-goae-anwendung** — Für Auslandsbehandlung deutsche GOÄ Anwendung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte …
 
 ---
 
@@ -142,7 +142,7 @@ Ausgangspunkt für dieses Plugin: Patient oder Versicherter für Befund, Schaden
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um GOÄ Gebührenordnung für Ärzte — Allgemein in GOÄ Gebührenordnung für Ärzte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für GOÄ Gebührenordnung für Ärzte — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # GOÄ Gebührenordnung für Ärzte — Allgemein
 
@@ -305,7 +305,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 
 ## Skill: `goae-5-bemessung-gebuehrenrahmen-2-3-1-8-1-15-schwelle`
 
-_Wenn es um GOÄ Paragraf 5 Bemessung Gebührenrahmen 2.3 1.8 1.15 Schwelle in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+_Für GOÄ Paragraf 5 Bemessung Gebührenrahmen 2.3 1.8 1.15 Schwelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen._
 
 # GOÄ § 5 Bemessung Gebührenrahmen 2,3 1,8 1,15 Schwelle
 
@@ -347,7 +347,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## Skill: `goae-6-gebuehren-fuer-andere-leistungen-analogbewertung`
 
-_Wenn es um GOÄ Paragraf 6 Gebühren für andere Leistungen Analogbewertung in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+_Für GOÄ Paragraf 6 Gebühren für andere Leistungen Analogbewertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen._
 
 # GOÄ § 6 Gebühren für andere Leistungen Analogbewertung
 
@@ -389,7 +389,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## Skill: `goae-3-verguetungen-gebuehren-entschaedigungen-auslagen`
 
-_Wenn es um GOÄ Paragraf 3 Vergütungen Gebühren Entschädigungen Auslagen in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+_Für GOÄ Paragraf 3 Vergütungen Gebühren Entschädigungen Auslagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen._
 
 # GOÄ § 3 Vergütungen Gebühren Entschädigungen Auslagen
 
@@ -429,47 +429,9 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ---
 
-## Skill: `patientenbrief-und-einwendung-formulieren`
-
-_Wenn es um Patientenbrief und Einwendung formulieren in GOÄ Gebührenordnung für Ärzte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Patientenbrief und Einwendung formulieren
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Patientenbrief und Einwendung formulieren
-- **Normen-/Quellenanker:** GOÄ, BGB-Behandlungsvertrag, ärztliches Berufsrecht, § 12 GOÄ-Rechnung, Analogbewertung, Honorarvereinbarung, Erstattung PKV/Beihilfe.
-- **Entscheidende Weiche:** Prüfe Leistungsinhalt, Ziffer, Steigerungsfaktor, Begründung, Auslagen, Wahlleistung, Schuldner, Erstattungsfähigkeit und Einwendungsfrist.
-
-## Startfragen
-- Was soll sofort entstehen: Kurztriage, Aktenplan, Fragenliste, Memo, Schriftsatz, Vertrag, Formular oder Mandantenbrief?
-- Wo drohen Fristen, Formerfordernisse, Bußgelder, Gebührennachteile, Verfahrensfehler oder irreversible Schritte?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
----
-
 ## Skill: `goae-selbstaendige-aerztliche-bemessung`
 
-_Wenn es um GOÄ Paragraf 4 selbständige ärztliche Leistung Zielleistungsprinzip in GOÄ Gebührenordnung für Ärzte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für GOÄ Paragraf 4 selbständige ärztliche Leistung Zielleistungsprinzip: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # GOÄ § 4 selbständige ärztliche Leistung Zielleistungsprinzip
 
@@ -509,11 +471,15 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ---
 
-## Skill: `op-komplexe-patientenbrief-einwendung`
+## Skill: `goae-2-abweichende-vereinbarung-honorarvereinbarung`
 
-_Wenn es um OP-Komplexe Narkose Assistenz Zuschläge in GOÄ Gebührenordnung für Ärzte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für GOÄ Paragraf 2 abweichende Vereinbarung Honorarvereinbarung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# OP-Komplexe Narkose Assistenz Zuschläge
+# GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung
+
+## Arbeitsbereich
+
+GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -523,7 +489,122 @@ _Wenn es um OP-Komplexe Narkose Assistenz Zuschläge in GOÄ Gebührenordnung f�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: OP-Komplexe Narkose Assistenz Zuschläge
+## Fachkern: GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung
+- **Normen-/Quellenanker:** GOÄ, BGB-Behandlungsvertrag, ärztliches Berufsrecht, § 12 GOÄ-Rechnung, Analogbewertung, Honorarvereinbarung, Erstattung PKV/Beihilfe.
+- **Entscheidende Weiche:** Prüfe Leistungsinhalt, Ziffer, Steigerungsfaktor, Begründung, Auslagen, Wahlleistung, Schuldner, Erstattungsfähigkeit und Einwendungsfrist.
+
+## Worum geht es konkret
+
+Paragraf 2 GOÄ erlaubt eine abweichende Gebührenhöhe. Die Faktoren 3,5 für persönliche Leistungen, 2,5 für Leistungen der Abschnitte A, E und O sowie 1,3 für Laborleistungen sind Höchstsätze des Gebührenrahmens, nicht Schwellenwerte. Die Schwellenwerte nach Paragraf 5 GOÄ liegen bei 2,3, 1,8 und 1,15. Eine Überschreitung des Schwellenwerts innerhalb des Gebührenrahmens verlangt eine auf die einzelne Leistung bezogene Begründung in der Rechnung; eine Vereinbarung nach Paragraf 2 GOÄ wird insbesondere benötigt, wenn die Gebührenhöhe wirksam außerhalb des gesetzlichen Gebührenrahmens festgelegt werden soll. Sie muss nach persönlicher Absprache im Einzelfall vor der Leistung in einem gesonderten Schriftstück geschlossen werden.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+
+- Praxis will Honorarvereinbarung über Schwellenwert hinaus treffen.
+- PKV verweigert Erstattung wegen "fehlender Schriftform" der Vereinbarung.
+- Patient widerruft Honorarvereinbarung.
+- Streit über Wirksamkeit einer mündlichen Absprache.
+- Wahlleistungsvereinbarung Krankenhaus + GOÄ-Honorar (Abgrenzung § 6a GOÄ vs. § 2 GOÄ).
+
+Eingaben:
+- Bestehende oder geplante Honorarvereinbarung (Vorlage).
+- Datum der Behandlung / Unterzeichnung.
+- Korrespondenz Patient–PKV.
+- ggf. Aufklärungsdokumentation.
+
+## Rechtlicher Rahmen
+
+- **Paragraf 2 Absatz 1 GOÄ:** Abweichende Gebührenhöhe; keine abweichende Punktzahl oder kein abweichender Punktwert, keine Vereinbarung für Leistungen nach Paragraf 5a GOÄ und keine Abhängigkeit von Notfall- oder akuter Schmerzbehandlung.
+- **Paragraf 2 Absatz 2 GOÄ:** Persönliche Absprache im Einzelfall, Abschluss vor Leistungserbringung und gesondertes Schriftstück mit Leistungsnummer, Leistungsbezeichnung, Steigerungssatz, Betrag und Erstattungshinweis; weitere Erklärungen gehören nicht in dieses Schriftstück.
+- **Paragraf 2 Absatz 3 GOÄ:** Keine abweichende Vereinbarung für Leistungen der Abschnitte A, E, M und O; bei stationären wahlärztlichen Leistungen nur für höchstpersönlich durch den Wahlarzt erbrachte Leistungen.
+- **§ 305c BGB:** Überraschende Klauseln in AGB unwirksam.
+- **§§ 305 ff. BGB:** AGB-Kontrolle — Honorarvereinbarung als Individualabrede einzuordnen.
+- **§ 5 GOÄ:** Bemessung — Regelfall innerhalb Schwellenwert.
+- BGH staend. Rspr. zur Wirksamkeit § 2-Vereinbarungen, insb. Schriftform und vorheriger Abschluss.
+
+## / Schritt für Schritt
+
+1. **Leistungsgruppe und Gebührenrahmen:** persönlicher Leistung, Abschnitt A, E oder O oder Laborleistung den richtigen Schwellen- und Höchstfaktor zuordnen.
+2. **Nur oberhalb des Schwellenwerts, aber innerhalb des Höchstsatzes:** Besonderheiten von Schwierigkeit, Zeitaufwand oder Ausführungsumständen konkret feststellen und in der Rechnung leistungsbezogen begründen.
+3. **Abweichende Gebührenhöhe nach Paragraf 2 GOÄ:** Zulässigkeit für die Leistungsgruppe prüfen und ein gesondertes Schriftstück nach persönlicher Absprache vorbereiten.
+4. **Zeitpunkt:** Vor Erbringung der Leistung. Spätere Vereinbarung ist regelmässig unwirksam.
+5. **Inhalt:**
+ - Konkrete Leistung (Ziffer, Bezeichnung).
+ - Steigerungsfaktor und resultierender Betrag.
+ - Hinweis "Diese Vereinbarung weicht von den Gebührensätzen der GOÄ ab".
+ - Hinweis auf voraussichtliche fehlende Erstattung durch PKV/Beihilfe oberhalb des Schwellenwerts.
+6. **Individualität:** Keine Massentechnik — Patient muss konkret zustimmen.
+7. **Erstattungsfähigkeit:** PKV/Beihilfe erstatten regelmässig nur bis Schwellenwert ohne Bedingung; Mehrbetrag oft nicht.
+8. **Dokumentation:** Original in Patientenakte.
+
+## Trade-off-Matrix
+
+| Fallgruppe | § 2 GOÄ erforderlich | Erstattung | Risiko |
+|---|---|---|---|
+| Steigerung bis Schwellenwert (2,3) | nein | regelmässig voll | gering |
+| Persönliche Leistung über 2,3 bis höchstens 3,5 | nein | leistungsbezogene Begründung erforderlich | hoch ohne konkrete Begründung |
+| Technische Leistung über 1,8 bis höchstens 2,5 | nein | leistungsbezogene Begründung erforderlich | hoch ohne konkrete Begründung |
+| Laborleistung über 1,15 bis höchstens 1,3 | nein | leistungsbezogene Begründung erforderlich | hoch ohne konkrete Begründung |
+| Wirksame Abweichung außerhalb des Gebührenrahmens | grundsätzlich Vereinbarung nach Paragraf 2 GOÄ, soweit die Leistungsgruppe vereinbarungsfähig ist | Erstattung kann begrenzt sein | hoch bei Form- oder Inhaltsfehler |
+| Wahlleistung Krankenhaus | gesondert § 6a + Wahlvereinbarung | nach Wahlvereinbarung | mittel |
+| Wunschleistung (IGel) | gesondert IGel-Aufklärung | nicht durch Kasse | gering bei Doku |
+| Auslandsbehandlung | wie inland | nach Tarif | mittel |
+
+## Praxistipps
+
+- Honorarvereinbarung niemals "blanket" — Patient muss verstehen, was er unterschreibt.
+- Standardklauseln in Praxis-AGB sind regelmässig unwirksam (§ 305c BGB).
+- Faktorenangabe konkret, keine "bis zu"-Formulierung.
+- Patient ausdrücklich auf voraussichtliche fehlende PKV-Erstattung hinweisen (§ 630c BGB-Aufklärungspflicht).
+- Kopie an Patient aushändigen, Original Praxis.
+- Bei Beihilfe-Berechtigten: Beihilfe-Tarif kennt regelmässig nur den Schwellenwert; Mehrbetrag aus eigener Tasche.
+
+## Mustertexte
+
+### Honorarvereinbarung § 2 GOÄ (Auszug)
+"Honorarvereinbarung gemäss § 2 GOÄ. Zwischen [Patient, Anschrift, Geb.-Datum] und [Arzt, Anschrift] wird vereinbart: Die in der Anlage 1 aufgeführten Leistungen werden mit einem Gebührensatz von [Faktor], d. h. [EUR] berechnet. Dies weicht von den Regelsätzen der GOÄ ab (Schwellenwert 2,3 für persönliche, 1,8 für technische, 1,15 für Labor). Ich, der/die Patient:in, bin darüber aufgeklärt, dass meine Krankenversicherung diese erhöhte Vergütung ggf. nicht oder nicht vollständig erstattet. Eine Erstattungs- oder Kostenzusage liegt mir nicht vor. Die Vereinbarung ist vor Beginn der Behandlung individuell abgeschlossen. Ort, Datum, Unterschrift Patient:in / Arzt."
+
+### Hinweis an Patient zur PKV-Erstattung (Auszug)
+"Bitte beachten Sie: Die im Folgenden vereinbarten Honorare können den von Ihrer privaten Krankenversicherung erstatteten Betrag übersteigen. Wir empfehlen, die Erstattungsfähigkeit vor Behandlungsbeginn bei Ihrer Versicherung anzufragen. Die Differenz tragen Sie selbst."
+
+## Typische Fehler
+
+- Honorarvereinbarung erst nach Behandlung unterschrieben — unwirksam.
+- Standardklausel in Praxis-AGB — Massentechnik, unwirksam.
+- "Bis zu 3,5-fach"-Formulierung in einer Vereinbarung — vereinbarter Steigerungssatz und Betrag sind nicht hinreichend bestimmt.
+- Aufklärung über fehlende Erstattung fehlt — § 630c BGB-Verletzung.
+- Vereinbarung ohne konkrete Leistungsangabe — unwirksam.
+- Patient unterschreibt unter Zeitdruck im Empfang — Anfechtungsrisiko.
+
+## Quellen Stand 06/2026
+
+- GOÄ § 2, § 5, § 6a.
+- BGB §§ 305 ff., 630a–630h.
+- BGH staend. Rspr. zur Honorarvereinbarung (Schriftform, vorheriger Abschluss, Individualität).
+- Berufsordnung Ärztekammer.
+- GOÄ-Reform 2024/2025 — vom Anwender Aktualität zu verifizieren.
+- PKV-Verband — Hinweise zur Erstattung von Honorarvereinbarungen (informativ).
+
+---
+
+## Skill: `goae-6a-stationaere-minderung-25-prozent-15-prozent`
+
+_Für GOÄ Paragraf 6a stationäre Minderung 25 Prozent 15 Prozent: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# GOÄ § 6a stationäre Minderung 25 Prozent 15 Prozent
+
+## Arbeitsbereich
+
+GOÄ § 6a stationäre Minderung 25 Prozent 15 Prozent: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: GOÄ § 6a stationäre Minderung 25 Prozent 15 Prozent
 - **Normen-/Quellenanker:** GOÄ, BGB-Behandlungsvertrag, ärztliches Berufsrecht, § 12 GOÄ-Rechnung, Analogbewertung, Honorarvereinbarung, Erstattung PKV/Beihilfe.
 - **Entscheidende Weiche:** Prüfe Leistungsinhalt, Ziffer, Steigerungsfaktor, Begründung, Auslagen, Wahlleistung, Schuldner, Erstattungsfähigkeit und Einwendungsfrist.
 
@@ -547,11 +628,15 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ---
 
-## Skill: `faelligkeit-verzug-mahnung-honorarklage`
+## Skill: `goae-14-zahlung-durch-oeffentliche-leistungstraeger`
 
-_Wenn es um Fälligkeit Verzug Mahnung Honorarklage in GOÄ Gebührenordnung für Ärzte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für GOÄ Paragraf 14 Zahlung durch öffentliche Leistungsträger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Fälligkeit Verzug Mahnung Honorarklage
+# GOÄ § 14 Zahlung durch öffentliche Leistungsträger
+
+## Arbeitsbereich
+
+GOÄ § 14 Zahlung durch öffentliche Leistungsträger: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -561,7 +646,7 @@ _Wenn es um Fälligkeit Verzug Mahnung Honorarklage in GOÄ Gebührenordnung fü
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Fälligkeit Verzug Mahnung Honorarklage
+## Fachkern: GOÄ § 14 Zahlung durch öffentliche Leistungsträger
 - **Normen-/Quellenanker:** GOÄ, BGB-Behandlungsvertrag, ärztliches Berufsrecht, § 12 GOÄ-Rechnung, Analogbewertung, Honorarvereinbarung, Erstattung PKV/Beihilfe.
 - **Entscheidende Weiche:** Prüfe Leistungsinhalt, Ziffer, Steigerungsfaktor, Begründung, Auslagen, Wahlleistung, Schuldner, Erstattungsfähigkeit und Einwendungsfrist.
 
@@ -585,11 +670,11 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ---
 
-## Skill: `igel-aufklaerung-klageerwiderung`
+## Skill: `auslandsbehandlung-deutsche-goae-anwendung`
 
-_Wenn es um IGeL Aufklärung Kosteninformation in GOÄ Gebührenordnung für Ärzte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Auslandsbehandlung deutsche GOÄ Anwendung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# IGeL Aufklärung Kosteninformation
+# Auslandsbehandlung deutsche GOÄ Anwendung
 
 ## Arbeitsweg
 
@@ -599,7 +684,7 @@ _Wenn es um IGeL Aufklärung Kosteninformation in GOÄ Gebührenordnung für Är
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: IGeL Aufklärung Kosteninformation
+## Fachkern: Auslandsbehandlung deutsche GOÄ Anwendung
 - **Normen-/Quellenanker:** GOÄ, BGB-Behandlungsvertrag, ärztliches Berufsrecht, § 12 GOÄ-Rechnung, Analogbewertung, Honorarvereinbarung, Erstattung PKV/Beihilfe.
 - **Entscheidende Weiche:** Prüfe Leistungsinhalt, Ziffer, Steigerungsfaktor, Begründung, Auslagen, Wahlleistung, Schuldner, Erstattungsfähigkeit und Einwendungsfrist.
 

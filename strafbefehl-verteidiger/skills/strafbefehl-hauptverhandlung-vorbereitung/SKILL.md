@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-hauptverhandlung-vorbereitung
-description: "Wenn es um Hauptverhandlung nach Einspruch — Paragraf 411 StPO in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Hauptverhandlung nach Einspruch — Paragraf 411 StPO: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Hauptverhandlung nach Einspruch — § 411 StPO

@@ -1,6 +1,6 @@
 ---
 name: beurkundung-im-ausland-bezug-organisationspflicht-und-pr
-description: "Wenn es um Beurkundung Im Ausland Bezug Organisationspflicht Und Pr in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beurkundung im Ausland Bezug Organisationspflicht und Pr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notare: beurkundung im ausland bezug - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

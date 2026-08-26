@@ -1,6 +1,6 @@
 ---
 name: ihl-089-contract-playbook-importer
-description: "Wenn es um Contract Playbook Importer in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Contract Playbook Importer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Contract Playbook Importer

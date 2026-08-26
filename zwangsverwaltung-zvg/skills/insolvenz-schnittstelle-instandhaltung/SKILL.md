@@ -1,6 +1,6 @@
 ---
 name: insolvenz-schnittstelle-instandhaltung
-description: "Wenn es um Schnittstelle zur Insolvenz in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schnittstelle zur Insolvenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schnittstelle zur Insolvenz

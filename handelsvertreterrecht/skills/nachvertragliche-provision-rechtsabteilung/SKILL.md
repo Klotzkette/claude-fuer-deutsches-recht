@@ -1,6 +1,6 @@
 ---
 name: nachvertragliche-provision-rechtsabteilung
-description: "Wenn es um Provision nach Vertragsende nach Paragraf 87 Abs. 3 HGB — Folgeprovision und Nachwirkung in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Provision nach Vertragsende nach Paragraf 87 Abs. 3 HGB — Folgeprovision und Nachwirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Provision nach Vertragsende nach § 87 Abs. 3 HGB — Folgeprovision und Nachwirkung

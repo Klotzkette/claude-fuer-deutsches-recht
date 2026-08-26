@@ -1,6 +1,6 @@
 ---
 name: aufnahme-statusinformation
-description: "Wenn es um Datenschutzvorfall — Erstaufnahme als Statusinformation in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutzvorfall — Erstaufnahme als Statusinformation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutzvorfall — Erstaufnahme als Statusinformation
@@ -77,3 +77,7 @@ Nächster Schritt: konkret, mit Verantwortlichem und Zeitpunkt.
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-aufnahme-statusinformation` beziehungsweise Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten in Fließtextform: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-aufnahme-statusinformation.md).

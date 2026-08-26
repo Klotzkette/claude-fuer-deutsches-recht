@@ -1,6 +1,6 @@
 ---
 name: law-firm-feedback-loop
-description: "Wenn es um Law Firm Feedback Loop in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Law Firm Feedback Loop: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Law Firm Feedback Loop

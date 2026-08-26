@@ -1,6 +1,6 @@
 ---
 name: erdbeobachtung-datenschutz-geheimschutz-und-geodatenre
-description: "Wenn es um Weltraumrecht: Erdbeobachtung: Datenschutz, Geheimschutz und Geodatenrecht in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Erdbeobachtung: Datenschutz, Geheimschutz und Geodatenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Erdbeobachtung: Datenschutz, Geheimschutz und Geodatenrecht

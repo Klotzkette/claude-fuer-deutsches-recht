@@ -1,6 +1,6 @@
 ---
 name: personalakte-aenderungen-versionierung
-description: "Wenn es um Personalakte Änderungen Versionierung in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Personalakte Änderungen Versionierung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personalakte Änderungen Versionierung

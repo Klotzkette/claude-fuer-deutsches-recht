@@ -1,6 +1,6 @@
 ---
 name: social-media-und-oeffentlichkeit
-description: "Wenn es um Social Media und Öffentlichkeit in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Social Media und Öffentlichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Social Media und Öffentlichkeit

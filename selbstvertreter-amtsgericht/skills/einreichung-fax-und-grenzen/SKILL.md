@@ -1,6 +1,6 @@
 ---
 name: einreichung-fax-und-grenzen
-description: "Wenn es um Einreichung per Fax — was noch geht in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einreichung per Fax — was noch geht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Einreichung per Fax — was noch geht

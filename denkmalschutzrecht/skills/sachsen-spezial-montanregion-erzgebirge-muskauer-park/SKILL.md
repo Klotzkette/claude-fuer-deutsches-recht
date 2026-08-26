@@ -1,6 +1,6 @@
 ---
 name: sachsen-spezial-montanregion-erzgebirge-muskauer-park
-description: "Wenn es um Montanregion Erzgebirge und Muskauer Park als UNESCO-Welterbe in Sachsen in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Montanregion Erzgebirge und Muskauer Park als UNESCO-Welterbe in Sachsen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Montanregion Erzgebirge und Muskauer Park als UNESCO-Welterbe in Sachsen

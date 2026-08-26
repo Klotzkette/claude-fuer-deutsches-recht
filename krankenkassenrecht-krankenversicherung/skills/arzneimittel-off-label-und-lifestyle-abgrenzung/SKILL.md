@@ -1,6 +1,6 @@
 ---
 name: arzneimittel-off-label-und-lifestyle-abgrenzung
-description: "Wenn es um Arzneimittel: Off-Label-Use und Lifestyle-Abgrenzung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arzneimittel: Off-Label-Use und Lifestyle-Abgrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arzneimittel: Off-Label-Use und Lifestyle-Abgrenzung

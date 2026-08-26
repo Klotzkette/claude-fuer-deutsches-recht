@@ -1,6 +1,6 @@
 ---
 name: theorie-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Theorie: Mehrparteienkonflikt und Interessenmatrix in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Theorie: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Theorie: Mehrparteienkonflikt und Interessenmatrix

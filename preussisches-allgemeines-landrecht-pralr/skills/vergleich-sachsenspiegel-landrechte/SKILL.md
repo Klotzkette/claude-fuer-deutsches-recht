@@ -1,6 +1,6 @@
 ---
 name: vergleich-sachsenspiegel-landrechte
-description: "Wenn es um Ältere Landrechte in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Vergleich Sachsenspiegel Landrechte; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Ältere Landrechte: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Preußisches Allgemeines Landrecht. Route: vergleich-sachsenspiegel-landrechte."
 ---
 
 # Ältere Landrechte

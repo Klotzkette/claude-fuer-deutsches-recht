@@ -1,6 +1,6 @@
 ---
 name: berufsgericht-freie-berufe-dokumente-aktenlog
-description: "Wenn es um Dokumentenintake und Aktenlog in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Dokumentenintake und Aktenlog: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Dokumentenintake und Aktenlog

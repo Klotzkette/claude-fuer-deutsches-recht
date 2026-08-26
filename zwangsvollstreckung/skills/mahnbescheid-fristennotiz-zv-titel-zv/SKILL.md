@@ -1,6 +1,6 @@
 ---
 name: mahnbescheid-fristennotiz-zv-titel-zv
-description: "Wenn es um Mahnbescheid: Fristennotiz und nächster Schritt in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mahnbescheid: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Mahnbescheid: Fristennotiz und nächster Schritt

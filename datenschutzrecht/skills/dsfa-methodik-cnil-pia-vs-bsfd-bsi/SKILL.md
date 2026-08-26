@@ -1,6 +1,6 @@
 ---
 name: dsfa-methodik-cnil-pia-vs-bsfd-bsi
-description: "Wenn es um DSFA-Methodik CNIL PIA versus SDM/BSI in Datenschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für DSFA-Methodik CNIL PIA versus SDM/BSI: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSFA-Methodik CNIL PIA versus SDM/BSI

@@ -1,6 +1,6 @@
 ---
 name: nachteilsausgleich-hochschule
-description: "Wenn es um Nachteilsausgleich Hochschule in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachteilsausgleich Hochschule: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachteilsausgleich Hochschule

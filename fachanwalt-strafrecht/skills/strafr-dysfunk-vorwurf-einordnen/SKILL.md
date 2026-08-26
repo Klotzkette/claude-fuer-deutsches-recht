@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-vorwurf-einordnen
-description: "Wenn es um Strafr Dysfunk Vorwurf Einordnen in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafr Dysfunk Vorwurf Einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erste Reaktion wenn Gericht oder Staatsanwaltschaft den Vorwurf dysfunktionaler Strafverteidigung erhebt

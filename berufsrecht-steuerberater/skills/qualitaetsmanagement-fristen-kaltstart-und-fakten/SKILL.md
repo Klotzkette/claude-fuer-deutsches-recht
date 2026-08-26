@@ -1,6 +1,6 @@
 ---
 name: qualitaetsmanagement-fristen-kaltstart-und-fakten
-description: "Wenn es um Qualitaetsmanagement Fristen Kaltstart Und Fakten in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätsmanagement Fristen Kaltstart und Fakten: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Steuerberater: qualitaetsmanagement fristen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: verwr-vorlaeufiger-rechtsschutz-leitfaden
-description: "Wenn es um Leitfaden vorläufiger Rechtsschutz VwGO: Paragraf 80 Abs in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Leitfaden vorläufiger Rechtsschutz VwGO: Paragraf 80 Abs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Leitfaden vorläufiger Rechtsschutz VwGO: § 80 Abs

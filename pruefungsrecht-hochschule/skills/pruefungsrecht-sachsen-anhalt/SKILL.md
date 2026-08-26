@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-sachsen-anhalt
-description: "Wenn es um Prüfungsrecht Sachsen Anhalt in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungsrecht Sachsen Anhalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfungsrecht Sachsen Anhalt

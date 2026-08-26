@@ -1,6 +1,6 @@
 ---
 name: vermoegensarrest-einziehung-schnellcheck
-description: "Wenn es um Vermögensarrest und Einziehung: schneller Sicherungscheck in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Vermögensarrest und Einziehung: schneller Sicherungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vermögensarrest und Einziehung: schneller Sicherungscheck

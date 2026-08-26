@@ -1,6 +1,6 @@
 ---
 name: ressort-bmi
-description: "Wenn es um Ressort-Heranfuehrung BMI in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ressort-Heranführung BMI: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ressort-Heranfuehrung BMI

@@ -1,6 +1,6 @@
 ---
 name: tech-product-dd-fuer-vcs
-description: "Wenn es um Tech/Product-DD für VCs in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tech/Product-DD für VCs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tech/Product-DD für VCs

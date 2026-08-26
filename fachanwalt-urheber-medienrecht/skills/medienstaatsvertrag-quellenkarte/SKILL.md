@@ -1,6 +1,6 @@
 ---
 name: medienstaatsvertrag-quellenkarte
-description: "Wenn es um Medienstaatsvertrag Quellenkarte in Fachanwalt Urheber Medienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Medienstaatsvertrag Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Medienstaatsvertrag Quellenkarte

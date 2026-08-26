@@ -1,6 +1,6 @@
 ---
 name: rechtshistorische-timeline
-description: "Wenn es um Rechtshistorische Timeline in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Rechtshistorische Timeline: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Rechtshistorische Timeline

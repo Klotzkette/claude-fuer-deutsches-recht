@@ -1,6 +1,6 @@
 ---
 name: beraterdepot-employee
-description: "Wenn es um Berater-Depot und Treuhandkonten – Insiderrecht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Berater-Depot und Treuhandkonten – Insiderrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berater-Depot und Treuhandkonten – Insiderrecht

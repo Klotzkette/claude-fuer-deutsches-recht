@@ -1,6 +1,6 @@
 ---
 name: heimversorgung-versorgungsvertrag-mietvertrag
-description: "Wenn es um Heimversorgung Versorgungsvertrag in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Heimversorgung Versorgungsvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Heimversorgung Versorgungsvertrag

@@ -1,6 +1,6 @@
 ---
 name: competition-board-liability
-description: "Wenn es um Organhaftung und Kartellrecht in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Organhaftung und Kartellrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Organhaftung und Kartellrecht

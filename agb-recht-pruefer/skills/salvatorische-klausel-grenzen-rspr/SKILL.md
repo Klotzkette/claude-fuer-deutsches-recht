@@ -1,6 +1,6 @@
 ---
 name: salvatorische-klausel-grenzen-rspr
-description: "Wenn es um Salvatorische Klausel Grenzen Rspr in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Salvatorische Klausel Grenzen Rspr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Salvatorische Klausel Grenzen Rspr

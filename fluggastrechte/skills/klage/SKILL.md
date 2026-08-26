@@ -1,6 +1,6 @@
 ---
 name: klage
-description: "Wenn es um Klage: Mandantenkommunikation und Entscheidungsvorlage in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klage: Mandantenkommunikation und Entscheidungsvorlage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klage: Mandantenkommunikation und Entscheidungsvorlage

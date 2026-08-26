@@ -1,6 +1,6 @@
 ---
 name: kueschk-streitwert-kostenfolge-prozesskostenhilfe
-description: "Wenn es um Streitwert nach Paragraf 42 GKG drei Bruttomonatsgehaelter in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Streitwert nach Paragraf 42 GKG drei Bruttomonatsgehälter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Streitwert nach Paragraf 42 GKG drei Bruttomonatsgehaelter

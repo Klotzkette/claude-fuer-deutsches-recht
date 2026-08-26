@@ -1,6 +1,6 @@
 ---
 name: literatur-live-beweislast-lizenziertem
-description: "Wenn es um Literatur: Formular, Portal und Einreichungslogik in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Literatur Live Beweislast Lizenziertem; Arbeitsfeld: Zitierweise deutsches Recht."
+description: "Für Literatur: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Literatur: Formular, Portal und Einreichungslogik

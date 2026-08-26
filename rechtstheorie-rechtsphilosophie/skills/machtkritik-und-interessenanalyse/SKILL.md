@@ -1,6 +1,6 @@
 ---
 name: machtkritik-und-interessenanalyse
-description: "Wenn es um Machtkritik und Interessenanalyse in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Machtkritik und Interessenanalyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Machtkritik und Interessenanalyse

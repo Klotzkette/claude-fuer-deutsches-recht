@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-whistleblowerhinweis-im-pruefmandat-rechtspr
-description: "Wenn es um Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Rechtspr in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Wirtschaftsprüfer Whistleblowerhinweis im Prüfmandat Rechtspr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: whistleblowerhinweis im pruefmandat - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

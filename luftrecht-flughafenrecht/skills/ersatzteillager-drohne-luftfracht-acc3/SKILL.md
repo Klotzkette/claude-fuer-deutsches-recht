@@ -1,6 +1,6 @@
 ---
 name: ersatzteillager-drohne-luftfracht-acc3
-description: "Wenn es um Ersatzteillager – Zuständigkeit prüfen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ersatzteillager – Zuständigkeit prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ersatzteillager – Zuständigkeit prüfen

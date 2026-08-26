@@ -1,6 +1,6 @@
 ---
 name: dashboard-board-pack
-description: "Wenn es um Board Pack fürs Management Committee in Kanzlei Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Board Pack fürs Management Committee: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Board Pack fürs Management Committee

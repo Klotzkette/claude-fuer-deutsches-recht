@@ -1,6 +1,6 @@
 ---
 name: onboarding-equipment-und-homeoffice
-description: "Wenn es um Onboarding Equipment Und Homeoffice in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Onboarding Equipment und Homeoffice: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Onboarding Equipment Und Homeoffice

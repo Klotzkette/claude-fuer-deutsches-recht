@@ -1,6 +1,6 @@
 ---
 name: quellenreferenz-quellenkarte
-description: "Wenn es um Quellenreferenz Quellenkarte in Memorandums-Ersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Quellenreferenz Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quellenreferenz Quellenkarte

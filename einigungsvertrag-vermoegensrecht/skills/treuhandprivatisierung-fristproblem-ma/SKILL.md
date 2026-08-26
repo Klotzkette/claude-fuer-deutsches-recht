@@ -1,6 +1,6 @@
 ---
 name: treuhandprivatisierung-fristproblem-ma
-description: "Wenn es um Treuhandprivatisierung Fristproblem Ma in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Treuhandprivatisierung Fristproblem Ma: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Treuhandprivatisierung Fristproblem Ma

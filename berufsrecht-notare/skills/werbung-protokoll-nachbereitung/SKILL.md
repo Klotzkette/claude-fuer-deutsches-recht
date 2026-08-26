@@ -1,6 +1,6 @@
 ---
 name: werbung-protokoll-nachbereitung
-description: "Wenn es um Werbung Protokoll Nachbereitung in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Werbung Protokoll Nachbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: werbung und amtsbezeichnung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: online-kommentar-update-spezial
-description: "Wenn es um Verl: Online-Kommentar Update in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl: Online-Kommentar Update: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl: Online-Kommentar Update

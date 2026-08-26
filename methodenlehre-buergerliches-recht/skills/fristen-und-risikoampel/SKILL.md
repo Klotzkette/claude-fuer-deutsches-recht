@@ -1,6 +1,6 @@
 ---
 name: fristen-und-risikoampel
-description: "Wenn es um Fristen und Risikoampel: Integrierter Workflow in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen und Risikoampel: Integrierter Workflow: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristen und Risikoampel: Integrierter Workflow

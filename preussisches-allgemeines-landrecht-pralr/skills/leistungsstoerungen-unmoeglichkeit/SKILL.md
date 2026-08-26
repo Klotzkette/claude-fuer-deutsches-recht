@@ -1,6 +1,6 @@
 ---
 name: leistungsstoerungen-unmoeglichkeit
-description: "Wenn es um Pralr Leistungsstoerungen Unmoeglichkeit Verzug in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Leistungsstoerungen Unmoeglichkeit; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Leistungsstörungen Unmöglichkeit Verzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: leistungsstoerungen-unmoeglichkeit."
 ---
 
 # Pralr Leistungsstoerungen Unmoeglichkeit Verzug

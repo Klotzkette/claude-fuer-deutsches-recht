@@ -1,6 +1,6 @@
 ---
 name: forschungsdaten-fristennotiz-naechster
-description: "Wenn es um Forschungsdaten: Fristennotiz und nächster Schritt in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Forschungsdaten Fristennotiz Naechster; Arbeitsfeld: DFG-Förderantrag."
+description: "Für Forschungsdaten: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: DFG-Förderantrag. Route: forschungsdaten-fristennotiz-naechster."
 ---
 
 # Forschungsdaten: Fristennotiz und nächster Schritt

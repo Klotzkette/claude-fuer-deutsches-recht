@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-mahnender-charakter-grenzen
-description: "Wenn es um NKR-Stellungnahme — Mahnender Charakter und seine Grenzen in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für NKR-Stellungnahme — Mahnender Charakter und seine Grenzen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NKR-Stellungnahme — Mahnender Charakter und seine Grenzen

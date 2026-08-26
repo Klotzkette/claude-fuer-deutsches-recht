@@ -1,6 +1,6 @@
 ---
 name: asset-deals-im-plan-grundstuecke-marken-kundendaten
-description: "Wenn es um Asset Deals Im Plan Grundstuecke Marken Kundendaten in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Asset Deals im Plan Grundstücke Marken Kundendaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Übertragungsklauseln im Insolvenzplan — aufschiebend vs. auflösend bedingt, mit/ohne Gläubigerzustimmung

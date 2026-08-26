@@ -1,6 +1,6 @@
 ---
 name: versammlung-polizei-campus
-description: "Wenn es um Versammlung und Polizei auf dem Campus in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versammlung und Polizei auf dem Campus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versammlung und Polizei auf dem Campus

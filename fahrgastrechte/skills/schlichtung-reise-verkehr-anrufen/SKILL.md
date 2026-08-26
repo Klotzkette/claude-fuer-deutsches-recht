@@ -1,6 +1,6 @@
 ---
 name: schlichtung-reise-verkehr-anrufen
-description: "Wenn es um Schlichtungsstelle Reise & Verkehr e.V. anrufen in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schlichtungsstelle Reise & Verkehr e.V. anrufen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schlichtungsstelle Reise & Verkehr e.V. anrufen

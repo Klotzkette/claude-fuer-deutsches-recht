@@ -1,6 +1,6 @@
 ---
 name: dsa-plattformbeschwerde
-description: "Wenn es um Influencer-Recht: DSA – Plattformbeschwerde und Account-Sperre in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Influencer-Recht: DSA – Plattformbeschwerde und Account-Sperre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: DSA – Plattformbeschwerde und Account-Sperre

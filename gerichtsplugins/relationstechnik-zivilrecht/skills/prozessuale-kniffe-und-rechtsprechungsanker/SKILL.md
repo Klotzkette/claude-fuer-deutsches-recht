@@ -1,6 +1,6 @@
 ---
 name: prozessuale-kniffe-und-rechtsprechungsanker
-description: "Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Relationstechnik Zivilrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Relationstechnik Zivilrecht."
 ---
 # Prozessuale Kniffe und Rechtsprechungsanker
 

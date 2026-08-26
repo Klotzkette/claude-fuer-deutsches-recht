@@ -1,6 +1,6 @@
 ---
 name: krankenhausgesellschaft-kontrolle-sich
-description: "Wenn es um Krankenhausgesellschaft Kontrolle Sich in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenhausgesellschaft Kontrolle Sich: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Krankenhausgesellschaft Kontrolle Sich

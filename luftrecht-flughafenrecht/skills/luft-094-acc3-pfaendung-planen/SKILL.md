@@ -1,6 +1,6 @@
 ---
 name: luft-094-acc3-pfaendung-planen
-description: "Wenn es um Acc3 Pfaendung Planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Acc3 Pfändung Planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Acc3 Pfaendung Planen

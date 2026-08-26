@@ -1,6 +1,6 @@
 ---
 name: synopse-erstellen
-description: "Wenn es um Synopse erstellen in Legistik-Werkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Synopse erstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Synopse erstellen

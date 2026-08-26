@@ -1,6 +1,6 @@
 ---
 name: workflow-sachverstaendigenbriefing
-description: "Wenn es um Sachverständigenbriefing in robotik-recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Workflow Sachverstaendigenbriefing; Arbeitsfeld: robotik-recht."
+description: "Für Sachverständigenbriefing: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: robotik-recht. Route: workflow-sachverstaendigenbriefing."
 ---
 
 # Sachverständigenbriefing

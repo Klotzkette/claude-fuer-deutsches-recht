@@ -1,6 +1,6 @@
 ---
 name: dsfa-art-35-dsgvo-trigger-anwendungsbereich
-description: "Wenn es um DSFA Trigger und Anwendungsbereich nach Art. 35 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSFA Trigger und Anwendungsbereich nach Art. 35 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSFA Trigger und Anwendungsbereich nach Art. 35 DSGVO

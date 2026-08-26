@@ -1,6 +1,6 @@
 ---
 name: spam-und-massen-anfrage-filter
-description: "Wenn es um Spam-und-Massen-Anfrage-Filter in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Spam-und-Massen-Anfrage-Filter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spam-und-Massen-Anfrage-Filter

@@ -1,6 +1,6 @@
 ---
 name: widerruf-ernennung-arglistige-taeuschung
-description: "Wenn es um Widerruf der Ernennung wegen arglistiger Täuschung in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Widerruf der Ernennung wegen arglistiger Täuschung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Widerruf der Ernennung wegen arglistiger Täuschung

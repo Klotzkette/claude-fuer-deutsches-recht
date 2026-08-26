@@ -1,6 +1,6 @@
 ---
 name: auslandsurkunden-apostille-legalisation-uebersetzung
-description: "Wenn es um Auslandsurkunden registerfest machen in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auslandsurkunden registerfest machen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auslandsurkunden registerfest machen

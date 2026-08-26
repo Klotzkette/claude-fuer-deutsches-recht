@@ -1,6 +1,6 @@
 ---
 name: essential-facilities-eu-bekanntmachung
-description: "Wenn es um Essential Facilities und Refusal to Deal in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Essential Facilities und Refusal to Deal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Essential Facilities und Refusal to Deal

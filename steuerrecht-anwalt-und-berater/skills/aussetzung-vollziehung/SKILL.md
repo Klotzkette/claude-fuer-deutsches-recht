@@ -1,6 +1,6 @@
 ---
 name: aussetzung-vollziehung
-description: "Wenn es um Aussetzung der Vollziehung (AdV) in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Aussetzung der Vollziehung (AdV): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aussetzung der Vollziehung (AdV)

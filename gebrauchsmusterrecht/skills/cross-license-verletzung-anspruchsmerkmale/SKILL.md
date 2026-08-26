@@ -1,6 +1,6 @@
 ---
 name: cross-license-verletzung-anspruchsmerkmale
-description: "Wenn es um Vergleich Und Cross License in gebrauchsmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich und Cross License: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Vergleich Und Cross License

@@ -1,6 +1,6 @@
 ---
 name: regelbeispiele-strafrahmenwahl
-description: "Wenn es um Chronologie und Belegmatrix in Strafzumessung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Chronologie und Belegmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Strafzumessung."
 ---
 
 # Chronologie und Belegmatrix

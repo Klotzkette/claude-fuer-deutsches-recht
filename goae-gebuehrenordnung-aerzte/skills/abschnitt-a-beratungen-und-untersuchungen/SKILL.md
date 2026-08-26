@@ -1,6 +1,6 @@
 ---
 name: abschnitt-a-beratungen-und-untersuchungen
-description: "Wenn es um Abschnitt A Beratungen und Untersuchungen in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Abschnitt A Beratungen und Untersuchungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abschnitt A Beratungen und Untersuchungen

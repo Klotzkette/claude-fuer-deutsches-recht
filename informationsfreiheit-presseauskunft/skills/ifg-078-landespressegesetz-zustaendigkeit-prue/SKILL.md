@@ -1,6 +1,6 @@
 ---
 name: ifg-078-landespressegesetz-zustaendigkeit-prue
-description: "Wenn es um Landespressegesetz Zustaendigkeit Prue in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landespressegesetz Zuständigkeit Prü: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landespressegesetz Zustaendigkeit Prue

@@ -1,6 +1,6 @@
 ---
 name: beschlussanfechtung-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Beschlussanfechtung Mehrparteien Konflikt Und Interessen in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschlussanfechtung Mehrparteien Konflikt und Interessen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschlussanfechtung: Mehrparteienkonflikt und Interessenmatrix im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -42,3 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Aktivlegitimation Mehrparteienkonflikt:** Jeder Gesellschafter klagebefugt (BGH ständige Rechtsprechung GmbH analog); Streithilfe § 66 ZPO; passive Streitgenossenschaft Gesellschaft (nicht andere Gesellschafter); Klage gegen Gesellschaft.
 4. **Interessenmatrix erstellen:** Pro Gesellschafter Spalte zu: Stimmverhalten, Anfechtungsinteresse, Schadensbild, Möglichkeit Ausschluss/Einziehung (§ 34 GmbHG), Vergleichsbereitschaft. Bei Familiengesellschaft zusätzlich: Generationenkonflikt, Erbfolge, Pflichtteilsrisiken.
 5. **Anschluss:** Klage zuständig LG Kammer für Handelssachen (§ 95 GVG); Streitwert nach § 247 AktG/§ 247 AktG analog (Bedeutung für Gesellschaft + Anfechter, max. 500.000 EUR ohne Sondergründe); parallel einstweiliger Rechtsschutz zur Registersperre (§ 16 Abs. 1 HGB).
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-beschlussanfechtung-mehrparteien-konflikt-und-interessen` beziehungsweise Beschlussanfechtung: Mehrparteienkonflikt und Interessenmatrix: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-beschlussanfechtung-mehrparteien-konflikt-und-interessen.md).

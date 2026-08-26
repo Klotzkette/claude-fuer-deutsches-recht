@@ -1,6 +1,6 @@
 ---
 name: steuerberater-vermoegensverfall-steuerberater-organisationspfli
-description: "Wenn es um Steuerberater Vermoegensverfall Steuerberater Organisationspfli in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuerberater Vermögensverfall Steuerberater Organisationspfli: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: vermoegensverfall steuerberater - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

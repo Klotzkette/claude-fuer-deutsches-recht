@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-entlastung-erste
-description: "Wenn es um Familienbetreuer: Entlastung, Verhinderung, Wechsel in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Familienbetreuer: Entlastung, Verhinderung, Wechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: familienbetreuer-entlastung-erste."
 ---
 
 # Familienbetreuer: Entlastung, Verhinderung, Wechsel

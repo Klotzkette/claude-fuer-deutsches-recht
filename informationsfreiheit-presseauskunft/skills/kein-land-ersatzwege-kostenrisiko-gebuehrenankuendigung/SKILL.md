@@ -1,6 +1,6 @@
 ---
 name: kein-land-ersatzwege-kostenrisiko-gebuehrenankuendigung
-description: "Wenn es um Kein Ifg Im Land Ersatzwege Finden in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Kein Ifg im Land Ersatzwege Finden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Kein Ifg Im Land Ersatzwege Finden

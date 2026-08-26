@@ -1,6 +1,6 @@
 ---
 name: luft-059-registerpfandrecht-dashboard-bauen
-description: "Wenn es um Registerpfandrecht Dashboard Bauen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Registerpfandrecht Dashboard Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registerpfandrecht Dashboard Bauen

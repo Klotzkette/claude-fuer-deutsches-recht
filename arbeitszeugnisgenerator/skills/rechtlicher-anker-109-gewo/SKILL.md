@@ -1,6 +1,6 @@
 ---
 name: rechtlicher-anker-109-gewo
-description: "Prüft Anspruch, Inhalt, Klarheit, Form, Berichtigung, Vergleich und Vollstreckung eines Arbeitszeugnisses nach GewO, BGB, ArbGG und ZPO. Liefert eine aktuelle Normen- und Rechtsprechungskarte mit Anspruchsziel und Verfahrensweg."
+description: "Prüft Anspruch, Inhalt, Klarheit, Form, Berichtigung, Vergleich und Vollstreckung eines Arbeitszeugnisses nach GewO, BGB, ArbGG und ZPO."
 ---
 
 # Rechtlicher Anker — Paragraf 109 GewO und verwandte Normen

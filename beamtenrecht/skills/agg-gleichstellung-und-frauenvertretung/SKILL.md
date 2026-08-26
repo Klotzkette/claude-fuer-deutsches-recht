@@ -1,6 +1,6 @@
 ---
 name: agg-gleichstellung-und-frauenvertretung
-description: "Wenn es um Agg Gleichstellung Und Frauenvertretung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Agg Gleichstellung und Frauenvertretung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agg Gleichstellung Und Frauenvertretung

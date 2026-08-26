@@ -1,6 +1,6 @@
 ---
 name: tabellenpruefung
-description: "Wenn es um Tabellenpruefung Gesellschaftsrecht in Gesellschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Tabellenprüfung Gesellschaftsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Tabellenpruefung Gesellschaftsrecht

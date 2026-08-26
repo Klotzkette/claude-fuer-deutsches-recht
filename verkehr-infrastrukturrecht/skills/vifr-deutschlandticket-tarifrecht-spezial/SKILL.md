@@ -1,6 +1,6 @@
 ---
 name: vifr-deutschlandticket-tarifrecht-spezial
-description: "Wenn es um ViFR: Deutschlandticket Tarifrecht in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ViFR: Deutschlandticket Tarifrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # ViFR: Deutschlandticket Tarifrecht

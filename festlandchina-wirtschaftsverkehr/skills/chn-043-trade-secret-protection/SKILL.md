@@ -1,6 +1,6 @@
 ---
 name: chn-043-trade-secret-protection
-description: "Wenn es um Trade Secret Protection in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Trade Secret Protection: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trade Secret Protection

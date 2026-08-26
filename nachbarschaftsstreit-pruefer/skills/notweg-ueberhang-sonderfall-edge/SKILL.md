@@ -1,6 +1,6 @@
 ---
 name: notweg-ueberhang-sonderfall-edge
-description: "Wenn es um Notweg: Internationaler Bezug und Schnittstellen in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notweg: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notweg: Internationaler Bezug und Schnittstellen

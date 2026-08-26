@@ -1,6 +1,6 @@
 ---
 name: richterdienstgericht-rechtswegabgrenzung
-description: "Wenn es um Richterdienstgericht oder Verwaltungsgericht? in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Richterdienstgericht oder Verwaltungsgericht?: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Richterdienstgericht oder Verwaltungsgericht?

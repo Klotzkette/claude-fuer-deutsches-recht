@@ -1,6 +1,6 @@
 ---
 name: haftung-leben-koerper-gesundheit-309
-description: "Wenn es um Haftung Leben Koerper Gesundheit 309 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Haftung Leben Körper Gesundheit 309: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haftung Leben Koerper Gesundheit 309

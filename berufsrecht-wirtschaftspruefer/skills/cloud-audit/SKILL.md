@@ -1,6 +1,6 @@
 ---
 name: cloud-audit
-description: "Wenn es um Cloud Audit in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Cloud Audit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: cloud audit tools und datenschutz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

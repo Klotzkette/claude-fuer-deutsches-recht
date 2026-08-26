@@ -1,6 +1,6 @@
 ---
 name: muster-autorenvertrag-red-team
-description: "Wenn es um Muster-Autorenvertrag: Red-Team-Prüfung in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Muster-Autorenvertrag: Red-Team-Prüfung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Muster-Autorenvertrag: Red-Team-Prüfung

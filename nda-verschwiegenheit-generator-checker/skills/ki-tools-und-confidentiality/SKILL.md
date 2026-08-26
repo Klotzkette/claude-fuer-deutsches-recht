@@ -1,6 +1,6 @@
 ---
 name: ki-tools-und-confidentiality
-description: "Wenn es um digitale Werkzeuge Tools Und Confidentiality in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge Tools und Confidentiality: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI Tools Und Confidentiality

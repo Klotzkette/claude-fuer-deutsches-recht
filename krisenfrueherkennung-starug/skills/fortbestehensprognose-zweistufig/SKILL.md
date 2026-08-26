@@ -1,6 +1,6 @@
 ---
 name: fortbestehensprognose-zweistufig
-description: "Wenn es um Fortbestehensprognose — Zweistufiges Modell nach IDW S 11 in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fortbestehensprognose — Zweistufiges Modell nach IDW S 11: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fortbestehensprognose — Zweistufiges Modell nach IDW S 11

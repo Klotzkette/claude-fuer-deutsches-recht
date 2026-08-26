@@ -1,6 +1,6 @@
 ---
 name: presse-aeusserung-paragraf-823-bgb
-description: "Wenn es um Presse Aeusserung Paragraf 823 BGB in Fachanwalt Urheber Medienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Presse Äußerung Paragraf 823 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Presse Aeusserung § 823 BGB

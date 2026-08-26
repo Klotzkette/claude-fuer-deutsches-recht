@@ -1,6 +1,6 @@
 ---
 name: infl-061-medienanstalt-anfrage-beantworten
-description: "Wenn es um Influencer-Recht: Medienanstalt Anfrage beantworten in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Medienanstalt Anfrage beantworten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Medienanstalt Anfrage beantworten

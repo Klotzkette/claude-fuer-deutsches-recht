@@ -1,6 +1,6 @@
 ---
 name: zwoelftafelgesetz-familie-erbe-nachbarschaft
-description: "Wenn es um Zwölftafelgesetz - Familie, Erbe und Nachbarschaft in Römisches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zwölftafelgesetz - Familie, Erbe und Nachbarschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: zwoelftafelgesetz-familie-erbe-nachbarschaft."
 ---
 
 # Zwölftafelgesetz - Familie, Erbe und Nachbarschaft

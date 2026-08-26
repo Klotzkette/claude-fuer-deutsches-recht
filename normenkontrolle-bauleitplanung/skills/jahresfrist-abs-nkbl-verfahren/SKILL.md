@@ -1,6 +1,6 @@
 ---
 name: jahresfrist-abs-nkbl-verfahren
-description: "Wenn es um Jahresfrist, Rüge und Fehlerfolgen im Normenkontrollverfahren in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Jahresfrist, Rüge und Fehlerfolgen im Normenkontrollverfahren: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Jahresfrist, Rüge und Fehlerfolgen im Normenkontrollverfahren

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-risikoanalyse-steuerkanzlei-kammerant
-description: "Wenn es um Geldwaesche Risikoanalyse Steuerkanzlei Kammerant in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Geldwäsche Risikoanalyse Steuerkanzlei Kammerant: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: geldwaesche risikoanalyse steuerkanzlei - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

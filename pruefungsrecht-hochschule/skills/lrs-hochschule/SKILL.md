@@ -1,6 +1,6 @@
 ---
 name: lrs-hochschule
-description: "Wenn es um LRS in Hochschulprüfungen in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LRS in Hochschulprüfungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LRS in Hochschulprüfungen

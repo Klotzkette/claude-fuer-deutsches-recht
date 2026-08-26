@@ -1,6 +1,6 @@
 ---
 name: registerrecht-digitalgruendung
-description: "Wenn es um Online-Gründung und DiRUG in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Online-Gründung und DiRUG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Online-Gründung und DiRUG

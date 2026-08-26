@@ -1,6 +1,6 @@
 ---
 name: zugewinnausgleich-anfangsvermoegen
-description: "Wenn es um Zugewinnausgleich Anfangsvermoegen in Fachanwalt Familienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zugewinnausgleich Anfangsvermögen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zugewinnausgleich Anfangsvermoegen

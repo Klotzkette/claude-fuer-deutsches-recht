@@ -1,6 +1,6 @@
 ---
 name: duesseldorfer-abschlussprodukt-und-uebergabe
-description: "Wenn es um Duesseldorfer Abschlussprodukt Und Uebergabe in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Düsseldorfer Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Duesseldorfer: Abschlussprodukt und Übergabe im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -67,3 +67,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Unterhalts-Stop
 
 Wenn aktuelle Tabelle, vollständige Belege, Steuerlast, Wohnvorteil, Selbstständigenunterlagen oder Betreuungsmodell fehlen, wird nicht gerechnet, sondern ein Auskunfts- und Belegplan erstellt. Jede Zahl braucht eine Aktenfundstelle oder den Hinweis, dass sie nur Platzhalter bis zur Belegprüfung ist.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-duesseldorfer-abschlussprodukt-und-uebergabe` beziehungsweise Duesseldorfer: Abschlussprodukt und Übergabe: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-duesseldorfer-abschlussprodukt-und-uebergabe.md).

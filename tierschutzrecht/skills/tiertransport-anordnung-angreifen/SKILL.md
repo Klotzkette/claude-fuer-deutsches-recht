@@ -1,6 +1,6 @@
 ---
 name: tiertransport-anordnung-angreifen
-description: "Wenn es um Tiertransport Anordnung Angreifen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tiertransport Anordnung Angreifen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tiertransport Anordnung Angreifen

@@ -1,6 +1,6 @@
 ---
 name: verl-013-e-book-preisbindung-und-plattformrabatte
-description: "Wenn es um Verlagsrecht: E-Book Preisbindung und Plattformrabatte in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: E-Book Preisbindung und Plattformrabatte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: E-Book Preisbindung und Plattformrabatte

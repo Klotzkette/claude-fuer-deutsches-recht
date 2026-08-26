@@ -1,6 +1,6 @@
 ---
 name: agb-und-cookie-einwilligung-dsgvo
-description: "Wenn es um Agb Und Cookie Einwilligung Dsgvo in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB und Cookie Einwilligung DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agb Und Cookie Einwilligung Dsgvo

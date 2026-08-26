@@ -1,6 +1,6 @@
 ---
 name: spezialfaelle-uebersicht
-description: "Wenn es um Spezialfälle Datenschutzvorfall — Übersicht für die Triage in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Spezialfälle Datenschutzvorfall — Übersicht für die Triage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfälle Datenschutzvorfall — Übersicht für die Triage
@@ -46,3 +46,7 @@ Dienstleisterleck → AV-Vertrag prüfen; Meldekette Art. 33 Abs. 2 DSGVO.
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-spezialfaelle-uebersicht` beziehungsweise Liefert eine schnelle Übersicht über häufige Spezialfälle eines Datenschutzvorfalls und verweist auf vertiefte Skills: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-spezialfaelle-uebersicht.md).

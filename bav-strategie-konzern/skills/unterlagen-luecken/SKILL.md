@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Wenn es um Unterlagen und Lücken in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unterlagen und Lücken: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte."
 ---
 
 # Unterlagen und Lücken

@@ -1,6 +1,6 @@
 ---
 name: anlagenverzeichnis-kanzlei-grundaufbau-bea
-description: "Wenn es um Anlagenverzeichnis für Gericht, Kanzlei und intern in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Anlagenverzeichnis Kanzlei Grundaufbau Bea; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Anlagenverzeichnis für Gericht, Kanzlei und intern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: anlagenverzeichnis-kanzlei-grundaufbau-bea."
 ---
 
 # Anlagenverzeichnis für Gericht, Kanzlei und intern

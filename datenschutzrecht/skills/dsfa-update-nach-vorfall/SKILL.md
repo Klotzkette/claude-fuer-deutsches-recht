@@ -1,6 +1,6 @@
 ---
 name: dsfa-update-nach-vorfall
-description: "Wenn es um Datenschutz-Folgenabschätzung nach Datenschutzvorfall aktualisieren in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz-Folgenabschätzung nach Datenschutzvorfall aktualisieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz-Folgenabschätzung nach Datenschutzvorfall aktualisieren
@@ -48,3 +48,7 @@ Art. 5 Abs. 2; Art. 32; Art. 35; Art. 36 DSGVO.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-vvt-update-nach-vorfall` deckt das VVT ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-dsfa-update-nach-vorfall` beziehungsweise Aktualisiert die Datenschutz-Folgenabschätzung nach Art: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-dsfa-update-nach-vorfall.md).

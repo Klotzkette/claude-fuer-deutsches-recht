@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-hoefe-uebergabe
-description: "Prüft einen geplanten oder bereits entworfenen Hofübergabevertrag aus fachanwaltlicher Sicht. Verknüpft Hofstatus, Grundsteuerwert, Hoferbenberechtigung, weichende Erben, Altenteil, Nachabfindung, Rückforderungsrechte, Genehmigung und Vollzug und liefert eine priorisierte Redline mit Verhandlungs- und Beweisplan."
+description: "Prüft einen geplanten oder bereits entworfenen Hofübergabevertrag aus fachanwaltlicher Sicht."
 ---
 
 # Fachanwaltliche Prüfung der Hofübergabe

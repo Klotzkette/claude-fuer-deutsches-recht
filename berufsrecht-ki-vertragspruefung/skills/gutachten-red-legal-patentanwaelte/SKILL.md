@@ -1,6 +1,6 @@
 ---
 name: gutachten-red-legal-patentanwaelte
-description: "Wenn es um Gutachten: Red-Team und Qualitätskontrolle in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gutachten: Red-Team und Qualitätskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gutachten: Red-Team und Qualitätskontrolle

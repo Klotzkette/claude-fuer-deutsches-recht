@@ -1,6 +1,6 @@
 ---
 name: kostensteuerung-mandanten-mangel-claim-04
-description: "Wenn es um LPH 3 Entwurfsplanung: Prüft kostenermittlung in HOAI Leistungsphasen Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für LPH 3 Entwurfsplanung: Prüft kostenermittlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # LPH 3 Entwurfsplanung: Prüft kostenermittlung

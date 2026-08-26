@@ -1,6 +1,6 @@
 ---
 name: insolvenzrechtliche-livecheck-red-team
-description: "Wenn es um Insolvenzrechtliche: Erstprüfung, Rollenklärung und Mandatsziel in Insolvenzrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenzrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Insolvenzrechtliche: Erstprüfung, Rollenklärung und Mandatsziel

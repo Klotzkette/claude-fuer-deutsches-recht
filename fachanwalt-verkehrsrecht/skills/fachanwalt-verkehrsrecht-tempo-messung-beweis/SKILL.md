@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-tempo-messung-beweis
-description: "Wenn es um Tempo-Messung Beweisanfechtung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tempo-Messung Beweisanfechtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Tempo-Messung Beweisanfechtung

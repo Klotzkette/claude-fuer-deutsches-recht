@@ -1,6 +1,6 @@
 ---
 name: provider-qms-und-risikomanagement
-description: "Wenn es um Provider-QMS und Risikomanagement in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Provider-QMS und Risikomanagement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Provider-QMS und Risikomanagement

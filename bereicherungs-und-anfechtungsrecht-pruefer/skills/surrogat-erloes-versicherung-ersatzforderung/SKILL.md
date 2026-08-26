@@ -1,6 +1,6 @@
 ---
 name: surrogat-erloes-versicherung-ersatzforderung
-description: "Wenn es um Surrogat, Erlös, Versicherung und Ersatzforderung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Surrogat, Erlös, Versicherung und Ersatzforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Surrogat, Erlös, Versicherung und Ersatzforderung

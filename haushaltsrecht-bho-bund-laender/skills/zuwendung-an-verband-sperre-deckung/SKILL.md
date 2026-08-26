@@ -1,6 +1,6 @@
 ---
 name: zuwendung-an-verband-sperre-deckung
-description: "Wenn es um Zuwendung An Verband Umschichtung Simu in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zuwendung an Verband Umschichtung Simu: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zuwendung An Verband Umschichtung Simu

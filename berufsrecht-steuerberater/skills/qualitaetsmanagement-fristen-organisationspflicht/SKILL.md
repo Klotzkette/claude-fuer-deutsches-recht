@@ -1,6 +1,6 @@
 ---
 name: qualitaetsmanagement-fristen-organisationspflicht
-description: "Wenn es um Qualitaetsmanagement Fristen Organisationspflicht in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätsmanagement Fristen Organisationspflicht: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Steuerberater: qualitaetsmanagement fristen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

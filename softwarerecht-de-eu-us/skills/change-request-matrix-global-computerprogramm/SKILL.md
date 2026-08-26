@@ -1,6 +1,6 @@
 ---
 name: change-request-matrix-global-computerprogramm
-description: "Wenn es um Change Requests und Scope Creep in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Change Requests und Scope Creep: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Change Requests und Scope Creep

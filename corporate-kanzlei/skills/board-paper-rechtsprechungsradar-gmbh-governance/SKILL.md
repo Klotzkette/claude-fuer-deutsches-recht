@@ -1,6 +1,6 @@
 ---
 name: board-paper-rechtsprechungsradar-gmbh-governance
-description: "Wenn es um Board Paper: Rechtsprechungsradar GmbH-Governance in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Board Paper: Rechtsprechungsradar GmbH-Governance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Board Paper: Rechtsprechungsradar GmbH-Governance

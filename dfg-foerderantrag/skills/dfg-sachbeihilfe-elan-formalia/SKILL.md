@@ -1,6 +1,6 @@
 ---
 name: dfg-sachbeihilfe-elan-formalia
-description: "Wenn es um Sachbeihilfe und elan-Formalia in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sachbeihilfe und elan-Formalia: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sachbeihilfe und elan-Formalia

@@ -1,6 +1,6 @@
 ---
 name: deal-os
-description: "Wenn es um Deal-OS Orchestrator in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deal-OS Orchestrator: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Deal-OS Orchestrator

@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-register-frist-vollzugslog
-description: "Wenn es um Rechtsprechung nur verifiziert nutzen in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsprechung nur verifiziert nutzen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Rechtsprechung nur verifiziert nutzen

@@ -1,6 +1,6 @@
 ---
 name: bmukn-wasser-und-bodenschutzrecht
-description: "Wenn es um Wasser- und Bodenschutzrecht (BMUKN) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Bmukn Wasser Und Bodenschutzrecht; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Wasser- und Bodenschutzrecht (BMUKN): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmukn-wasser-und-bodenschutzrecht."
 ---
 
 # Wasser- und Bodenschutzrecht (BMUKN)

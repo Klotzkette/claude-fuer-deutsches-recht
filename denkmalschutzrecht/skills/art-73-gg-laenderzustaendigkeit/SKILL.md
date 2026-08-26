@@ -1,6 +1,6 @@
 ---
 name: art-73-gg-laenderzustaendigkeit
-description: "Wenn es um Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz

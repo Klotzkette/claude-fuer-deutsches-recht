@@ -1,6 +1,6 @@
 ---
 name: einspruch-epa-und-nichtigkeit-bpatg
-description: "Wenn es um Einspruch und Nichtigkeit in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einspruch und Nichtigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einspruch und Nichtigkeit

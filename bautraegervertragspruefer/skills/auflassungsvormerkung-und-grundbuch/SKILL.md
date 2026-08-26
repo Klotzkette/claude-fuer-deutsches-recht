@@ -1,6 +1,6 @@
 ---
 name: auflassungsvormerkung-und-grundbuch
-description: "Wenn es um Auflassungsvormerkung und Grundbuch in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auflassungsvormerkung und Grundbuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auflassungsvormerkung und Grundbuch

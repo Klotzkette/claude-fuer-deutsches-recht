@@ -1,6 +1,6 @@
 ---
 name: ins-026-produktzulassung
-description: "Wenn es um Insiderrecht: Produktzulassung in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Insiderrecht: Produktzulassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Produktzulassung

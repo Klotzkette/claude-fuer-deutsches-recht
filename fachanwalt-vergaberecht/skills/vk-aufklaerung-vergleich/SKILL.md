@@ -1,6 +1,6 @@
 ---
 name: vk-aufklaerung-vergleich
-description: "Wenn es um VK-Aufklärung, Abhilfe und prozessuale Erledigung in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für VK-Aufklärung, Abhilfe und prozessuale Erledigung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # VK-Aufklärung, Abhilfe und prozessuale Erledigung

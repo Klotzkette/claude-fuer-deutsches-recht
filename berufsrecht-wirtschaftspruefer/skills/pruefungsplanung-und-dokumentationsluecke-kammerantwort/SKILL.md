@@ -1,6 +1,6 @@
 ---
 name: pruefungsplanung-und-dokumentationsluecke-kammerantwort
-description: "Wenn es um Pruefungsplanung Und Dokumentationsluecke Kammerantwort in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Prüfungsplanung und Dokumentationslücke Kammerantwort: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: prüfungsplanung und dokumentationsluecke - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: kassenarztrecht
-description: "Wenn es um Kassenarztrecht in Fachanwalt Medizinrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Kassenarztrecht; Arbeitsfeld: Fachanwalt Medizinrecht."
+description: "Für Kassenarztrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Medizinrecht. Route: kassenarztrecht."
 ---
 
 # Kassenarztrecht Vertragsarztzulassung und KV-Streitigkeiten: Anwendungsfall Arzt beantragt Vertragsarztzulassung hat Zulassungsprobleme oder streitet mit KV um Honorar Berechtigung oder Zulassungsstatus

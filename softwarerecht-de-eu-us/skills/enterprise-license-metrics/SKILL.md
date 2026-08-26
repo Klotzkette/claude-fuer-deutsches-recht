@@ -1,6 +1,6 @@
 ---
 name: enterprise-license-metrics
-description: "Wenn es um Enterprise-Lizenzmetriken in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Enterprise-Lizenzmetriken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Enterprise-Lizenzmetriken

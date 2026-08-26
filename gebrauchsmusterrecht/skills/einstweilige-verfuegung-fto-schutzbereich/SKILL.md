@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung-fto-schutzbereich
-description: "Wenn es um Einstweilige Verfuegung Gebrauchsmuster in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Einstweilige Verfügung Gebrauchsmuster: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstweilige Verfuegung Gebrauchsmuster

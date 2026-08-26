@@ -1,6 +1,6 @@
 ---
 name: technische-besichtigung-testdaten-validierung
-description: "Wenn es um Technische Besichtigung und Geheimnisschutz in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Technische Besichtigung und Geheimnisschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: technische-besichtigung-testdaten-validierung."
 ---
 
 # Technische Besichtigung und Geheimnisschutz

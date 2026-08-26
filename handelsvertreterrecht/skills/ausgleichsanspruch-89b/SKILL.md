@@ -1,6 +1,6 @@
 ---
 name: ausgleichsanspruch-89b
-description: "Wenn es um Ausgleichsanspruch nach Paragraf 89b HGB — Entstehung, Berechnung und Durchsetzung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausgleichsanspruch nach Paragraf 89b HGB — Entstehung, Berechnung und Durchsetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Ausgleichsanspruch nach § 89b HGB — Entstehung, Berechnung und Durchsetzung

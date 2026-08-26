@@ -1,6 +1,6 @@
 ---
 name: anlagen-tatbestand-beweis-und-belege
-description: "Wenn es um Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Anlagen zu Schriftsätzen. Route: anlagen-tatbestand-beweis-und-belege."
 ---
 
 # Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage

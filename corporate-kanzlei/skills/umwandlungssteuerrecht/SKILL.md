@@ -1,6 +1,6 @@
 ---
 name: umwandlungssteuerrecht
-description: "Wenn es um Umwandlungssteuerrecht in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umwandlungssteuerrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Corporate-Kanzlei."
 ---
 
 # Umwandlungssteuerrecht

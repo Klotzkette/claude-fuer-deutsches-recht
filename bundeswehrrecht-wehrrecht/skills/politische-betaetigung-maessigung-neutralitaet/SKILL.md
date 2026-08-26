@@ -1,6 +1,6 @@
 ---
 name: politische-betaetigung-maessigung-neutralitaet
-description: "Wenn es um Politische Betätigung – Mäßigungsgebot und Neutralität in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Politische Betätigung – Mäßigungsgebot und Neutralität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Politische Betätigung – Mäßigungsgebot und Neutralität

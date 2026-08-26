@@ -1,6 +1,6 @@
 ---
 name: fp-einfuehrung-pflicht-und-zweck
-description: "Wenn es um FP: Pflicht und Zweck in Fortbestehensprognose geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für FP: Pflicht und Zweck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FP: Pflicht und Zweck

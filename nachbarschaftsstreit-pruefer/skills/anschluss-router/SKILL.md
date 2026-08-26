@@ -1,6 +1,6 @@
 ---
 name: anschluss-router
-description: "Wenn es um Nachbarschaftsstreit-Prüfer — Allgemein in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachbarschaftsstreit-Prüfer — Allgemein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachbarschaftsstreit-Prüfer — Allgemein

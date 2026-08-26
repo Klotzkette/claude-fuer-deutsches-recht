@@ -1,6 +1,6 @@
 ---
 name: umlageschluessel
-description: "Wenn es um Umlageschluessel in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umlageschlüssel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umlageschlüssel in Miet- und WEG-Abrechnungen: Vertrag, § 556a BGB, Wohnfläche, Personen, Einheiten, Verbrauch, Miteigentumsanteile, HeizkostenV, Gewerbe-Vorwegabzug, Schlüsselwechsel, Wohnflächenabweichung und Beweisführung.
@@ -65,3 +65,7 @@ description: "Wenn es um Umlageschluessel in Fachanwalt Miet- und Wohnungseigent
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-umlageschluessel` beziehungsweise Umlageschlüssel: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-umlageschluessel.md).

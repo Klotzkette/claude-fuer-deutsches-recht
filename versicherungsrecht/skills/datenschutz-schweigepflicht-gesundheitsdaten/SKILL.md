@@ -1,6 +1,6 @@
 ---
 name: datenschutz-schweigepflicht-gesundheitsdaten
-description: "Wenn es um Gesundheitsdaten, Schweigepflicht und Versicherer in Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gesundheitsdaten, Schweigepflicht und Versicherer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesundheitsdaten, Schweigepflicht und Versicherer

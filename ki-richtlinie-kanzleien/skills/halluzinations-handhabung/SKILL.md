@@ -1,6 +1,6 @@
 ---
 name: halluzinations-handhabung
-description: "Wenn es um Halluzinations-Handhabung in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Halluzinations-Handhabung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Halluzinations-Handhabung

@@ -1,6 +1,6 @@
 ---
 name: bag-mindesturlaub-kein-verzicht-9azr10424
-description: "Wenn es um Bag Mindesturlaub Kein Verzicht 9azr10424 in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bag Mindesturlaub Kein Verzicht 9azr10424: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bag Mindesturlaub Kein Verzicht 9azr10424: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

@@ -1,6 +1,6 @@
 ---
 name: baut-beweislast-darlegungslast
-description: "Wenn es um Beweislast, Darlegungslast und Anlagen in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Baut Beweislast Darlegungslast; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Beweislast, Darlegungslast und Anlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Anlagen zu Schriftsätzen. Route: baut-beweislast-darlegungslast."
 ---
 
 # Beweislast, Darlegungslast und Anlagen

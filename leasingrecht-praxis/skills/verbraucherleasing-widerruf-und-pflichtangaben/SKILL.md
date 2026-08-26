@@ -1,6 +1,6 @@
 ---
 name: verbraucherleasing-widerruf-und-pflichtangaben
-description: "Wenn es um Verbraucherleasing: Pflichtangaben und Widerruf in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verbraucherleasing: Pflichtangaben und Widerruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbraucherleasing: Pflichtangaben und Widerruf

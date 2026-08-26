@@ -1,6 +1,6 @@
 ---
 name: datenpanne-vor-bussgeld-selbstmeldung
-description: "Wenn es um Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen

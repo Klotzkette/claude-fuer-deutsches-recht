@@ -1,6 +1,6 @@
 ---
 name: fbp-bankenkommunikation-waiver-integrierte
-description: "Wenn es um FBP: Bankenkommunikation Waiver in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für FBP: Bankenkommunikation Waiver: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FBP: Bankenkommunikation Waiver

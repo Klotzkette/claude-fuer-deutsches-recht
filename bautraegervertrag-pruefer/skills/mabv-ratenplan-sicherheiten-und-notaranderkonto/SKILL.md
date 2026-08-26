@@ -1,6 +1,6 @@
 ---
 name: mabv-ratenplan-sicherheiten-und-notaranderkonto
-description: "Wenn es um MaBV-Ratenplan, Sicherheiten und Notaranderkonto in Bauträgervertrag-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für MaBV-Ratenplan, Sicherheiten und Notaranderkonto: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MaBV-Ratenplan, Sicherheiten und Notaranderkonto

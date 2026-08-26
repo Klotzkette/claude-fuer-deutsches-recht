@@ -1,6 +1,6 @@
 ---
 name: bieterfragen-antworten-management
-description: "Wenn es um Bieterfragen Antworten Management in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bieterfragen Antworten Management: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bieterfragen, Antworten und Klarstellungen managen: Fristen, Gleichbehandlung, Transparenz, Änderung der Unterlagen, Fristverlaengerung und Antwortlog.

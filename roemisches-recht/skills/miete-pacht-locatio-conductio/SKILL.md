@@ -1,6 +1,6 @@
 ---
 name: miete-pacht-locatio-conductio
-description: "Wenn es um Miete Pacht Locatio Conductio in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Miete Pacht Locatio Conductio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Miete Pacht Locatio Conductio

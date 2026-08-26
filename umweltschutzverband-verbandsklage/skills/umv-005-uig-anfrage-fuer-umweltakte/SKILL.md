@@ -1,6 +1,6 @@
 ---
 name: umv-005-uig-anfrage-fuer-umweltakte
-description: "Wenn es um Uig Anfrage Fuer Umweltakte in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Uig Anfrage für Umweltakte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Umweltschutzverband Verbandsklage. Route: umv-005-uig-anfrage-fuer-umweltakte."
 ---
 
 # Uig Anfrage Fuer Umweltakte

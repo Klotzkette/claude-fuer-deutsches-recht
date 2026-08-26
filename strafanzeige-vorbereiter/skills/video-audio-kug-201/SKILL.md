@@ -1,6 +1,6 @@
 ---
 name: video-audio-kug-201
-description: "Wenn es um Video, Audio, KUG und Paragraf 201 StGB in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Video, Audio, KUG und Paragraf 201 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Video, Audio, KUG und § 201 StGB

@@ -1,6 +1,6 @@
 ---
 name: ki-output-endkontrolle-und-signatur
-description: "Wenn es um digitale Werkzeuge-Output, anwaltliche Endkontrolle und Signatur in Berufsrecht Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für digitale Werkzeuge-Output, anwaltliche Endkontrolle und Signatur: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # KI-Output, anwaltliche Endkontrolle und Signatur

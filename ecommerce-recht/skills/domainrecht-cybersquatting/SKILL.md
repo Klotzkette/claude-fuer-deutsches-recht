@@ -1,6 +1,6 @@
 ---
 name: domainrecht-cybersquatting
-description: "Wenn es um Domainrecht Cybersquatting in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Domainrecht Cybersquatting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Domainrecht Cybersquatting

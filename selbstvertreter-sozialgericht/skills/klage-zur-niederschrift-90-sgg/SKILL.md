@@ -1,6 +1,6 @@
 ---
 name: klage-zur-niederschrift-90-sgg
-description: "Wenn es um Klage auf der Geschäftsstelle diktieren — Paragraf 90 SGG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klage auf der Geschäftsstelle diktieren — Paragraf 90 SGG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klage auf der Geschäftsstelle diktieren — § 90 SGG

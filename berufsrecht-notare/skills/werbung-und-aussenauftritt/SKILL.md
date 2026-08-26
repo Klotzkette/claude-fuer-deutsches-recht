@@ -1,6 +1,6 @@
 ---
 name: werbung-und-aussenauftritt
-description: "Wenn es um Werbung und Außenauftritt in Berufsrecht Notare geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Werbung und Außenauftritt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Notare."
 ---
 
 # Werbung und Außenauftritt

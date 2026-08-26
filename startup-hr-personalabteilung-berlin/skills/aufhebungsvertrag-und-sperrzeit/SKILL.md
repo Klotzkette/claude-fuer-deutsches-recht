@@ -1,6 +1,6 @@
 ---
 name: aufhebungsvertrag-und-sperrzeit
-description: "Wenn es um Aufhebungsvertrag Und Sperrzeit in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufhebungsvertrag und Sperrzeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufhebungsvertrag Und Sperrzeit

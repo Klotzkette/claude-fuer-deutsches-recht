@@ -1,6 +1,6 @@
 ---
 name: planerhaltung-214-215-baugb
-description: "Wenn es um Planerhaltung — Paragraf 214/215 BauGB in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Planerhaltung — Paragraf 214/215 BauGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Planerhaltung — § 214/215 BauGB

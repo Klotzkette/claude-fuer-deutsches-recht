@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-schreibcanvas
-description: "Wenn es um Freistehende Liquiditätsvorschau (Mittelstand) in Mittelstands-Corporate/M&A geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Freistehende Liquiditätsvorschau (Mittelstand): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freistehende Liquiditätsvorschau (Mittelstand)

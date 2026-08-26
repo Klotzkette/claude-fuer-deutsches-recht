@@ -1,6 +1,6 @@
 ---
 name: rinderbetrieb-eilantrag-bauen
-description: "Wenn es um Rinderbetrieb Eilantrag Bauen in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rinderbetrieb Eilantrag Bauen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Rinderbetrieb Eilantrag Bauen

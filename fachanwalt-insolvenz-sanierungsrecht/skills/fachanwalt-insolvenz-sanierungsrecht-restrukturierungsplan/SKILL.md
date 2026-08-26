@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan
-description: "Prüft den Restrukturierungsplan aus Fachanwaltssicht: Insolvenzreife, gestaltbare Rechte, Auswahl, Gruppen, Vergleichsrechnung, Mehrheiten, gerichtliche Instrumente, Minderheitenschutz und Vollzug. Liefert Mandatsstrategie, Plan- und Belegmatrix, Anzeige, Bestätigungsantrag und gerichtsfeste Gegenposition."
+description: "Prüft den Restrukturierungsplan aus Fachanwaltssicht: Insolvenzreife, gestaltbare Rechte, Auswahl, Gruppen, Vergleichsrechnung, Mehrheiten, gerichtliche Instrumente, Minderheitenschutz und Vollzug."
 ---
 
 # 1. Fachanwaltliche Vollprüfung des Restrukturierungsplans

@@ -1,6 +1,6 @@
 ---
 name: europarecht-vorlageverfahren-art-267
-description: "Wenn es um Vorlageverfahren Art. 267 AEUV in Europarecht-Kompass für deutsche Juristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Vorlageverfahren Art. 267 AEUV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vorlageverfahren Art. 267 AEUV

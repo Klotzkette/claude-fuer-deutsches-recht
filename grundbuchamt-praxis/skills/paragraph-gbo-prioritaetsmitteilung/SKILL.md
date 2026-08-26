@@ -1,6 +1,6 @@
 ---
 name: paragraph-gbo-prioritaetsmitteilung
-description: "Wenn es um Paragraf 29 GBO Nachweisform in Grundbuchamt Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Paragraf 29 GBO Nachweisform: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 29 GBO Nachweisform

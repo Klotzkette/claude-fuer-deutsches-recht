@@ -1,6 +1,6 @@
 ---
 name: kommunaler-finanztransfer-umschichtung
-description: "Wenn es um Kommunaler Finanztransfer Umschichtung in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunaler Finanztransfer Umschichtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunaler Finanztransfer Umschichtung

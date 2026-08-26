@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um PrALR - Allgemeiner Einstieg in Preußisches Allgemeines Landrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kaltstart Triage; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für PrALR - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PrALR - Allgemeiner Einstieg

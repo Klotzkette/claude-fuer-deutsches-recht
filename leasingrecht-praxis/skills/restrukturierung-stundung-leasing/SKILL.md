@@ -1,6 +1,6 @@
 ---
 name: restrukturierung-stundung-leasing
-description: "Wenn es um Restrukturierung: Stundung und Stillhaltevereinbarung in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Restrukturierung: Stundung und Stillhaltevereinbarung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Restrukturierung: Stundung und Stillhaltevereinbarung

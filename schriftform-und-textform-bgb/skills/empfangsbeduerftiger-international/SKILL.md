@@ -1,6 +1,6 @@
 ---
 name: empfangsbeduerftiger-international
-description: "Wenn es um Dokumentation: Verhandlung, Vergleich und Eskalation in Schriftform und Textform im BGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Dokumentation: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Dokumentation: Verhandlung, Vergleich und Eskalation

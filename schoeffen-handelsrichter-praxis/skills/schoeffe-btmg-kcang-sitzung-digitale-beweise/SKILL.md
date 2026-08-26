@@ -1,6 +1,6 @@
 ---
 name: schoeffe-btmg-kcang-sitzung-digitale-beweise
-description: "Wenn es um BtMG und KCanG für Schöffen: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für BtMG und KCanG für Schöffen: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # BtMG und KCanG für Schöffen: Orientierung

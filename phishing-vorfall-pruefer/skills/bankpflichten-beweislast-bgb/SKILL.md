@@ -1,6 +1,6 @@
 ---
 name: bankpflichten-beweislast-bgb
-description: "Wenn es um Bankpflichten: Beweislast, Darlegungslast und Substantiierung in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bankpflichten: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Bankpflichten: Beweislast, Darlegungslast und Substantiierung

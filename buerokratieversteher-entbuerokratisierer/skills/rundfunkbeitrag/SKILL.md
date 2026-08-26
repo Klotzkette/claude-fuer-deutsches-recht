@@ -1,6 +1,6 @@
 ---
 name: rundfunkbeitrag
-description: "Wenn es um Rundfunkbeitrag in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rundfunkbeitrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rundfunkbeitrag

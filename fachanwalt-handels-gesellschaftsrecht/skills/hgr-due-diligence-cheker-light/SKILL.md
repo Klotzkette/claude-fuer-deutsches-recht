@@ -1,6 +1,6 @@
 ---
 name: hgr-due-diligence-cheker-light
-description: "Wenn es um Hgr Due Diligence Cheker Light in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hgr Due Diligence Cheker Light: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Due-Diligence-Checker light für kleinere Mandate: Standard-Risikofelder (Steuer, Arbeit, IT, IP, Compliance, ESG), Datenraum-Struktur, Reviewer-Aufteilung, Sample-Quoten

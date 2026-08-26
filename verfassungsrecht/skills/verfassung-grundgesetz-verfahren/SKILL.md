@@ -1,6 +1,6 @@
 ---
 name: verfassung-grundgesetz-verfahren
-description: "Wenn es um Verfassungsänderung nach Art. 79 GG in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verfassungsänderung nach Art. 79 GG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfassungsänderung nach Art. 79 GG

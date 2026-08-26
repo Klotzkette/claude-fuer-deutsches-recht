@@ -1,6 +1,6 @@
 ---
 name: berufsausuebungsgesellschaft-und-fremdbesitz-organisat
-description: "Wenn es um Berufsausuebungsgesellschaft Und Fremdbesitz Organisat in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berufsausübungsgesellschaft und Fremdbesitz Organisat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: berufsausuebungsgesellschaft und fremdbesitz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

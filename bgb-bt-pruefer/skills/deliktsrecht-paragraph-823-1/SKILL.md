@@ -1,6 +1,6 @@
 ---
 name: deliktsrecht-paragraph-823-1
-description: "Wenn es um Deliktsrecht Paragraf 823 Abs. 1 BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Deliktsrecht Paragraph 823 1; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Deliktsrecht Paragraf 823 Abs. 1 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: deliktsrecht-paragraph-823-1."
 ---
 
 # Deliktsrecht § 823 Abs. 1 BGB

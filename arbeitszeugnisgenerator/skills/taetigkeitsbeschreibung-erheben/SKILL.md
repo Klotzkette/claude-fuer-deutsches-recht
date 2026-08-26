@@ -1,6 +1,6 @@
 ---
 name: taetigkeitsbeschreibung-erheben
-description: "Ermittelt die tatsächlich prägenden Aufgaben aus Vertrag, Stellenprofil, Organigramm, Projektunterlagen und Rückmeldungen und gewichtet sie nach Verantwortung. Liefert einen vollständigen, individualisierten Tätigkeitsblock mit Fundstellen und offenen Tatsachenfragen."
+description: "Ermittelt die tatsächlich prägenden Aufgaben aus Vertrag, Stellenprofil, Organigramm, Projektunterlagen und Rückmeldungen und gewichtet sie nach Verantwortung."
 ---
 
 # Tätigkeitsbeschreibung erheben

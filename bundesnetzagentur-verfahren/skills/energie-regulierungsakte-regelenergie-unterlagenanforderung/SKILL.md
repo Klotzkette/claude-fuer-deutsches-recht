@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-regelenergie-unterlagenanforderung
-description: "Wenn es um Energie-Regulierungsakte: Regelenergie — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: Regelenergie — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: Regelenergie — Unterlagenanforderung

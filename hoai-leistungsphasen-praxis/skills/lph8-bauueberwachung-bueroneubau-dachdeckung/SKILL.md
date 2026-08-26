@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-bueroneubau-dachdeckung
-description: "Wenn es um Bauueberwachung Bueroneubau Curtain Wall (LPH 8) in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Bauüberwachung Büroneubau Curtain Wall (LPH 8): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bauueberwachung Bueroneubau Curtain Wall (LPH 8)

@@ -1,6 +1,6 @@
 ---
 name: registerrecht-handelsregister-praxis
-description: "Wenn es um Registerrecht Handelsregister Praxis in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Registerrecht Handelsregister Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Handelsregister-Praxis: Anmeldungen, Form (notariell, öffentlich beglaubigt), zuständiges Gericht, elektronische Einreichung XJustiz, Prüfungsumfang nach FamFG

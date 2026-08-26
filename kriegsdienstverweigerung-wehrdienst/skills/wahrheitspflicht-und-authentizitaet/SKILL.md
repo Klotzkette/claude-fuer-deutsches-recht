@@ -1,6 +1,6 @@
 ---
 name: wahrheitspflicht-und-authentizitaet
-description: "Wenn es um Wahrheit und Authentizität in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wahrheit und Authentizität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wahrheit und Authentizität

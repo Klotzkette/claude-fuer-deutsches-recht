@@ -1,6 +1,6 @@
 ---
 name: tia-eu-us-data-privacy-framework-aktueller-stand
-description: "Wenn es um Tia EU Us Data Privacy Framework Aktueller Stand in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für TIA EU Us Data Privacy Framework Aktueller Stand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemessenheitsbeschluss nach Art

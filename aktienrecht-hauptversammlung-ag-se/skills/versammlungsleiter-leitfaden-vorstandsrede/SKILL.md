@@ -1,6 +1,6 @@
 ---
 name: versammlungsleiter-leitfaden-vorstandsrede
-description: "Wenn es um Versammlungsleiter Leitfaden in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versammlungsleiter Leitfaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versammlungsleiter Leitfaden

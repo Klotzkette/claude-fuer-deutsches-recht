@@ -1,6 +1,6 @@
 ---
 name: memo-memo-typenuebersicht-bauleiter
-description: "Wenn es um Memo: Typen-Übersicht in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Memo: Typen-Übersicht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Memo: Typen-Übersicht

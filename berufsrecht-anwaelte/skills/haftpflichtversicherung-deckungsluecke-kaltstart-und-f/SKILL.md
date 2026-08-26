@@ -1,6 +1,6 @@
 ---
 name: haftpflichtversicherung-deckungsluecke-kaltstart-und-f
-description: "Wenn es um Haftpflichtversicherung Deckungsluecke Kaltstart Und F in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftpflichtversicherung Deckungslücke Kaltstart und F: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: haftpflichtversicherung deckungsluecke - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: schriftform-fristen-form-und-zustaendigkeit
-description: "Wenn es um Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg

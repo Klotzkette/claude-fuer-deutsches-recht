@@ -1,6 +1,6 @@
 ---
 name: vifr-aeg-bahnrecht-deutschlandticket
-description: "Wenn es um ViFR: AEG-Bahnrecht in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ViFR: AEG-Bahnrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # ViFR: AEG-Bahnrecht

@@ -1,6 +1,6 @@
 ---
 name: spontanversammlung-strafrecht-versg
-description: "Wenn es um Spontan heißt nicht schlecht vorbereitet verstecken in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Spontan heißt nicht schlecht vorbereitet verstecken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spontan heißt nicht schlecht vorbereitet verstecken

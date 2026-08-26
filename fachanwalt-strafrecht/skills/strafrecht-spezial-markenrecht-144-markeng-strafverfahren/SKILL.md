@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-markenrecht-144-markeng-strafverfahren
-description: "Wenn es um Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG

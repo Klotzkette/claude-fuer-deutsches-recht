@@ -1,6 +1,6 @@
 ---
 name: beihilfen-beweislast-darlegungslast
-description: "Wenn es um Beihilfen: Beweislast, Darlegungslast und Substantiierung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beihilfen: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Forschungszulage-Antragstellung. Route: beihilfen-beweislast-darlegungslast."
 ---
 
 # Beihilfen: Beweislast, Darlegungslast und Substantiierung

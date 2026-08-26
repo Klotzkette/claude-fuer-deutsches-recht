@@ -1,6 +1,6 @@
 ---
 name: cloud-act-und-drittstaat-pruefen
-description: "Wenn es um Cloud Act und Drittstaat prüfen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Cloud Act und Drittstaat prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cloud Act und Drittstaat prüfen

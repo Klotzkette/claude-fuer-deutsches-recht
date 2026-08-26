@@ -1,6 +1,6 @@
 ---
 name: oertliche-zustaendigkeit-12-37-zpo
-description: "Wenn es um Welches Amtsgericht ist oertlich zuständig? in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Welches Amtsgericht ist örtlich zuständig?: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Welches Amtsgericht ist oertlich zuständig?

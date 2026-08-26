@@ -1,6 +1,6 @@
 ---
 name: zivilrecht-anspruchsgrundlagen-pruefung
-description: "Wenn es um Zivilrecht Anspruchsgrundlagen Prüfung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zivilrecht Anspruchsgrundlagen Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihenfolge V-C-G-D-D-B Vertrag culpa in contrahendo GoA dinglich Delikt Bereicherung

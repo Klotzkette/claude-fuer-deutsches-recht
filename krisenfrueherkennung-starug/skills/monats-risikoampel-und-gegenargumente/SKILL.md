@@ -1,6 +1,6 @@
 ---
 name: monats-risikoampel-und-gegenargumente
-description: "Wenn es um Monats: Risikoampel, Gegenargumente und Verteidigungslinien in Krisenfrüherkennung und StaRUG-Management geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Monats: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Monats: Risikoampel, Gegenargumente und Verteidigungslinien

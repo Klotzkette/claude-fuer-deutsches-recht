@@ -1,6 +1,6 @@
 ---
 name: dokument-behoerden-gericht-und-registerweg
-description: "Wenn es um Dokument: Behörden-, Gerichts- oder Registerweg in Tabellenreview 3D geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Dokument: Behörden-, Gerichts- oder Registerweg: ordnet Akte, Belege und Lücken; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Tabellenreview 3D. Route: dokument-behoerden-gericht-und-registerweg."
 ---
 
 # Dokument: Behörden-, Gerichts- oder Registerweg

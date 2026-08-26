@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-uebertragende
-description: "Wenn es um Sanierungsgewinn — Uebertragende Sanierung (Asset Deal) und ihre Steuerfolgen in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungsgewinn — Übertragende Sanierung (Asset Deal) und ihre Steuerfolgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn — Uebertragende Sanierung (Asset Deal) und ihre Steuerfolgen

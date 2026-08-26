@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-statuswechsel-arbeitnehmer-selbststaendiger
-description: "Wenn es um Statuswechsel: Arbeitnehmer, Selbstständiger, Student, Rentner in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Statuswechsel: Arbeitnehmer, Selbstständiger, Student, Rentner: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Statuswechsel: Arbeitnehmer, Selbstständiger, Student, Rentner

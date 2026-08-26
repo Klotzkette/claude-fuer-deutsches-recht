@@ -1,6 +1,6 @@
 ---
 name: 19a-gwb-relative-abuse-economic
-description: "Wenn es um Paragraf 19a GWB überragende marktübergreifende Bedeutung in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Paragraf 19a GWB überragende marktübergreifende Bedeutung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 19a GWB überragende marktübergreifende Bedeutung

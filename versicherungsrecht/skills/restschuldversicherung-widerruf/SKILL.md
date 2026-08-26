@@ -1,6 +1,6 @@
 ---
 name: restschuldversicherung-widerruf
-description: "Wenn es um Restschuldversicherung und Verbraucherdarlehen in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Restschuldversicherung und Verbraucherdarlehen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Restschuldversicherung und Verbraucherdarlehen

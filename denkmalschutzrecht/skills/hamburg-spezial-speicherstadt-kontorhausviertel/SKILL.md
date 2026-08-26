@@ -1,6 +1,6 @@
 ---
 name: hamburg-spezial-speicherstadt-kontorhausviertel
-description: "Wenn es um Speicherstadt und Kontorhausviertel mit Chilehaus als UNESCO-Welterbe in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Speicherstadt und Kontorhausviertel mit Chilehaus als UNESCO-Welterbe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Speicherstadt und Kontorhausviertel mit Chilehaus als UNESCO-Welterbe

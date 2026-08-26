@@ -1,6 +1,6 @@
 ---
 name: haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung
-description: "Wenn es um Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung in Strafzumessung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Härteausgleich bei nachträglicher Gesamtstrafenbildung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung

@@ -1,6 +1,6 @@
 ---
 name: parkraumbewirtschaftung-verkehr
-description: "Wenn es um Parkraumbewirtschaftung: Formular, Portal und Einreichungslogik in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parkraumbewirtschaftung: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parkraumbewirtschaftung: Formular, Portal und Einreichungslogik

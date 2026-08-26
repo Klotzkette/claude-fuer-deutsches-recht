@@ -1,6 +1,6 @@
 ---
 name: aml-kyc-start-chronologie-fristen
-description: "Wenn es um Geldwaeschepraeventition AML/KYC — Allgemein in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Geldwäschepräventition AML/KYC — Allgemein: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Geldwaeschepraeventition AML/KYC — Allgemein

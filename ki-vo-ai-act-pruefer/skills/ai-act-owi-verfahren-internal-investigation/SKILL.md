@@ -1,6 +1,6 @@
 ---
 name: ai-act-owi-verfahren-internal-investigation
-description: "Wenn es um europäischer Technikregulierungsrahmen-OWi und interne Untersuchung in europäischem Technikregulierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für europäischer Technikregulierungsrahmen-OWi und interne Untersuchung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-VO-OWi und interne Untersuchung

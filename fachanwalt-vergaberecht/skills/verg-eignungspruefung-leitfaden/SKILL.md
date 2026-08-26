@@ -1,6 +1,6 @@
 ---
 name: verg-eignungspruefung-leitfaden
-description: "Wenn es um Verg Eignungspruefung Leitfaden in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verg Eignungsprüfung Leitfaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Leitfaden Eignungspruefung § 122 GWB: Selbstreinigung, Referenzen, technische und wirtschaftliche Leistungsfaehigkeit

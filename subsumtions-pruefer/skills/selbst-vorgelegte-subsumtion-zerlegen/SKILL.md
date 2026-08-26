@@ -1,6 +1,6 @@
 ---
 name: selbst-vorgelegte-subsumtion-zerlegen
-description: "Wenn es um Selbst vorgelegte Subsumtion zerlegen in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Selbst vorgelegte Subsumtion zerlegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Selbst vorgelegte Subsumtion zerlegen

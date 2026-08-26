@@ -1,6 +1,6 @@
 ---
 name: pre1972-sound-preemption-state-privacy-pii
-description: "Wenn es um Pre-1972 Sound Recordings Paragraf 1401 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Pre-1972 Sound Recordings Paragraf 1401: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pre-1972 Sound Recordings § 1401

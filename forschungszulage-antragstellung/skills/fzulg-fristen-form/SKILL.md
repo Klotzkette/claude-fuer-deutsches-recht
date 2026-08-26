@@ -1,6 +1,6 @@
 ---
 name: fzulg-fristen-form
-description: "Wenn es um FZulG: Fristen, Form, Zuständigkeit und Rechtsweg in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fzulg Fristen Form; Arbeitsfeld: Forschungszulage-Antragstellung."
+description: "Für FZulG: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Forschungszulage-Antragstellung. Route: fzulg-fristen-form."
 ---
 
 # FZulG: Fristen, Form, Zuständigkeit und Rechtsweg

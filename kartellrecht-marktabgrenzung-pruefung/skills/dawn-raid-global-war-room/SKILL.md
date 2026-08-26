@@ -1,6 +1,6 @@
 ---
 name: dawn-raid-global-war-room
-description: "Wenn es um Global Dawn Raid War Room in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Global Dawn Raid War Room: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Global Dawn Raid War Room

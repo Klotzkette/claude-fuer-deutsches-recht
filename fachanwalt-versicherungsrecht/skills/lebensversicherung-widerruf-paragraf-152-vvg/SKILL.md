@@ -1,6 +1,6 @@
 ---
 name: lebensversicherung-widerruf-paragraf-152-vvg
-description: "Wenn es um Lebensversicherung Widerruf Paragraf 152 VVG in Fachanwalt Versicherungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lebensversicherung Widerruf Paragraf 152 VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lebensversicherung Widerruf § 152 VVG

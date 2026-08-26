@@ -1,6 +1,6 @@
 ---
 name: bea-nutzungspflichten-kanzleisitz
-description: "Wenn es um beA und elektronische Kommunikation in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für beA und elektronische Kommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # beA und elektronische Kommunikation

@@ -1,6 +1,6 @@
 ---
 name: urheberstrafrecht
-description: "Wenn es um Urheberstrafrecht und Ermittlungen in Urheberrecht DE EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Urheberstrafrecht und Ermittlungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urheberstrafrecht und Ermittlungen

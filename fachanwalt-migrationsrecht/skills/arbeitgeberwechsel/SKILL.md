@@ -1,6 +1,6 @@
 ---
 name: arbeitgeberwechsel
-description: "Wenn es um Arbeitgeberwechsel: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitgeberwechsel: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitgeberwechsel: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Arbeitgeberwechsel: Fachmodul im Migrationsrecht in Fac
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-arbeitgeberwechsel` beziehungsweise Arbeitgeberwechsel: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-arbeitgeberwechsel.md).

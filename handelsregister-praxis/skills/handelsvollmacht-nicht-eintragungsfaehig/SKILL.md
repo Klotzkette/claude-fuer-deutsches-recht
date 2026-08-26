@@ -1,6 +1,6 @@
 ---
 name: handelsvollmacht-nicht-eintragungsfaehig
-description: "Wenn es um Handlungsvollmacht richtig abgrenzen in Handelsregister Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Handlungsvollmacht richtig abgrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handlungsvollmacht richtig abgrenzen

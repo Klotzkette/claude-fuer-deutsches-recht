@@ -1,6 +1,6 @@
 ---
 name: art-58-anordnung-verwaltungsakt
-description: "Wenn es um Art.-58-Anordnung als Verwaltungsakt in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Art.-58-Anordnung als Verwaltungsakt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Art.-58-Anordnung als Verwaltungsakt

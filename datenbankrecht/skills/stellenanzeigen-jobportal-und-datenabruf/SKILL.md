@@ -1,6 +1,6 @@
 ---
 name: stellenanzeigen-jobportal-und-datenabruf
-description: "Wenn es um Stellenanzeigen, Jobportale und automatisiertes Auslesen — Datenbankrecht nach Innoweb in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stellenanzeigen, Jobportale und automatisiertes Auslesen — Datenbankrecht nach Innoweb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Stellenanzeigen, Jobportale und automatisiertes Auslesen — Datenbankrecht nach Innoweb

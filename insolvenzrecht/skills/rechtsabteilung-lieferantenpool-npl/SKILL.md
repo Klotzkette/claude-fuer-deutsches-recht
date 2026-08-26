@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-lieferantenpool-npl
-description: "Wenn es um Rechtsabteilung: Lieferantenpool und Eigentumsvorbehalt in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Lieferantenpool und Eigentumsvorbehalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Lieferantenpool und Eigentumsvorbehalt

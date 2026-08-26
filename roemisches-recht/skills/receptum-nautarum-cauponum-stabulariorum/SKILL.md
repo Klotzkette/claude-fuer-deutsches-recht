@@ -1,6 +1,6 @@
 ---
 name: receptum-nautarum-cauponum-stabulariorum
-description: "Wenn es um Rom 126 Receptum Nautarum Cauponum Stabulariorum in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Receptum Nautarum Cauponum Stabulariorum; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 126 Receptum Nautarum Cauponum Stabulariorum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: receptum-nautarum-cauponum-stabulariorum."
 ---
 
 # Rom 126 Receptum Nautarum Cauponum Stabulariorum

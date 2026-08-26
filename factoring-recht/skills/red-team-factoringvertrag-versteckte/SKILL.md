@@ -1,6 +1,6 @@
 ---
 name: red-team-factoringvertrag-versteckte
-description: "Wenn es um Red-Team Factoringvertrag versteckte Rückgriffshaftung in Factoring-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team Factoringvertrag versteckte Rückgriffshaftung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team Factoringvertrag versteckte Rückgriffshaftung

@@ -1,6 +1,6 @@
 ---
 name: taschengeld-paragraph-110
-description: "Wenn es um Taschengeldparagraph — Paragraf 110 BGB in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Taschengeld Paragraph 110; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Taschengeldparagraph — Paragraf 110 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: taschengeld-paragraph-110."
 ---
 
 # Taschengeldparagraph — § 110 BGB

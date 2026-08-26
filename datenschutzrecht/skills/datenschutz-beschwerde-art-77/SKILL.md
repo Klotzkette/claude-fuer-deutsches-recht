@@ -1,6 +1,6 @@
 ---
 name: datenschutz-beschwerde-art-77
-description: "Wenn es um Datenschutz Beschwerde Art. 77 DSGVO — Aufsichtsbehoerden-Praxis in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz Beschwerde Art. 77 DSGVO — Aufsichtsbehörden-Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Beschwerde Art. 77 DSGVO — Aufsichtsbehoerden-Praxis

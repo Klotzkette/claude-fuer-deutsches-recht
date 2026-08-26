@@ -1,6 +1,6 @@
 ---
 name: ampel-einschaetzung-pro-satz
-description: "Wenn es um Ampel-Einschaetzung pro Satz in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Ampel-Einschätzung pro Satz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ampel-Einschaetzung pro Satz

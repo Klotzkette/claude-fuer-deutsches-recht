@@ -1,6 +1,6 @@
 ---
 name: konjunktur-und-produktionsstatistik
-description: "Wenn es um Konjunktur- und Produktionsstatistik in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Konjunktur- und Produktionsstatistik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konjunktur- und Produktionsstatistik

@@ -1,6 +1,6 @@
 ---
 name: sanktionen-mandatsannahme-steuerliche
-description: "Wenn es um Sanktionen Mandatsannahme Steuerliche in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanktionen Mandatsannahme Steuerliche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anwälte: sanktionen und mandatsannahme - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

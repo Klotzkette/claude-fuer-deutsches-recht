@@ -1,6 +1,6 @@
 ---
 name: fristenliste-strafverfahren-aktenlektuere
-description: "Wenn es um Fristenliste Strafverfahren in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristenliste Strafverfahren: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristenliste Strafverfahren

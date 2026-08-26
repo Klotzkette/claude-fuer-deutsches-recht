@@ -1,6 +1,6 @@
 ---
 name: dokument-upload-dolmetscher-uebersetzung
-description: "Wenn es um Dokument-Upload Erste Hilfe in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dokument-Upload Erste Hilfe: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokument-Upload Erste Hilfe

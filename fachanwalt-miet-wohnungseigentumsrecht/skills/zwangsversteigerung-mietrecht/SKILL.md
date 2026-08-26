@@ -1,6 +1,6 @@
 ---
 name: zwangsversteigerung-mietrecht
-description: "Wenn es um Zwangsversteigerung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zwangsversteigerung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zwangsversteigerung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht
@@ -44,3 +44,7 @@ description: "Wenn es um Zwangsversteigerung Mietrecht: Fachmodul im Miet- und W
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-zwangsversteigerung-mietrecht` beziehungsweise Zwangsversteigerung Mietrecht: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-zwangsversteigerung-mietrecht.md).

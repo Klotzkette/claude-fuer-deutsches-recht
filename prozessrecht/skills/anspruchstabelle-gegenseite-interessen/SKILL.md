@@ -1,6 +1,6 @@
 ---
 name: anspruchstabelle-gegenseite-interessen
-description: "Wenn es um Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk

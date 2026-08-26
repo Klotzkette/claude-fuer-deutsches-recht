@@ -1,6 +1,6 @@
 ---
 name: us-patent-us-vorbenutzungsrecht-paragraph
-description: "Wenn es um US-Patentrecht: USPTO und PTAB in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für US-Patentrecht: USPTO und PTAB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US-Patentrecht: USPTO und PTAB

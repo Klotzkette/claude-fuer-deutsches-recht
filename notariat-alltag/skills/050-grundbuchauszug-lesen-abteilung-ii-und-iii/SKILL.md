@@ -1,6 +1,6 @@
 ---
 name: 050-grundbuchauszug-lesen-abteilung-ii-und-iii
-description: "Wenn es um Notariat im Alltag: Grundbuchauszug lesen – Abt. II und III in Notariat im Alltag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Notariat im Alltag: Grundbuchauszug lesen – Abt. II und III: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Grundbuchauszug lesen – Abt. II und III

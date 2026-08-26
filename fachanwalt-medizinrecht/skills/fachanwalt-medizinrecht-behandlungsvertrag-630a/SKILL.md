@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-behandlungsvertrag-630a
-description: "Wenn es um Behandlungsvertrag Paragrafen 630a-h BGB in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Behandlungsvertrag Paragrafen 630a-h BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Behandlungsvertrag §§ 630a-h BGB

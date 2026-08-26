@@ -1,6 +1,6 @@
 ---
 name: strafprozessuale-versandmappe-endfertigen
-description: "Endfertigt Verteidiger-, Nebenklage- und Adhäsionsschriftsätze, Haftbeschwerde, Revision und Revisionsbegründung: liest Urteil, Protokoll, Zustellungen und Aktenfundstellen zuerst, prüft Erklärungstyp und zwingende elektronische Form nach StPO, trennt Beweisanträge von Anlagen, schützt sensible Daten und liefert eine kontrollierte beA-Mappe ohne unzulässiges K-/B-Schema."
+description: "Endfertigt Verteidiger-, Nebenklage- und Adhäsionsschriftsätze, Haftbeschwerde, Revision und Revisionsbegründung: liest Urteil, Protokoll, Zustellungen und Aktenfundstellen zuerst, prüft Erklärungstyp und zwingende elektronische Form nach StPO, trennt Beweisanträge von Anlagen, schützt sensible Daten und liefert eine kontrollierte beA-Mappe ohne."
 ---
 
 # Strafprozessuale Versandmappe endfertigen

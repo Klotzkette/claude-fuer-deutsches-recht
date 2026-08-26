@@ -1,6 +1,6 @@
 ---
 name: vermoegensanlage-quellenkarte
-description: "Wenn es um Vermögensanlage Quellenkarte in Fachanwalt Bank Kapitalmarktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Vermögensanlage Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vermögensanlage Quellenkarte

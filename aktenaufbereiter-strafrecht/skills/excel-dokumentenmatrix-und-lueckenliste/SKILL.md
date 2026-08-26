@@ -1,6 +1,6 @@
 ---
 name: excel-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Excel: Dokumentenmatrix, Lückenliste und Nachforderung in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Excel: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Excel: Dokumentenmatrix, Lückenliste und Nachforderung

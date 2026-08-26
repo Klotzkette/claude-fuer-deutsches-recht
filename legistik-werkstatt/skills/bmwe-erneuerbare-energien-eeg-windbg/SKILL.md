@@ -1,6 +1,6 @@
 ---
 name: bmwe-erneuerbare-energien-eeg-windbg
-description: "Wenn es um Erneuerbare Energien (EEG; WindBG) (BMWE) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Erneuerbare Energien (EEG; WindBG) (BMWE): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Erneuerbare Energien (EEG; WindBG) (BMWE)

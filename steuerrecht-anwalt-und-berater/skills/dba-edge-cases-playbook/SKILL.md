@@ -1,6 +1,6 @@
 ---
 name: dba-edge-cases-playbook
-description: "Wenn es um DBA-Edge-Case-Playbook in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für DBA-Edge-Case-Playbook: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DBA-Edge-Case-Playbook

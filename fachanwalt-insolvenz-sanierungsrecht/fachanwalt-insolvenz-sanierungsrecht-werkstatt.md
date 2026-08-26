@@ -240,6 +240,7 @@ Lieferstück: Fachvotum zu StaRUG-Restrukturierungsplan im Detail mit Tatbestand
 ### 16.7. Vorläufige Eigenverwaltung und Schutzschirm
 
 Bearbeitungsauftrag: Materiell sind zwei Verfahren strikt zu trennen: Paragraf 270b InsO regelt die Anordnung der vorläufigen Eigenverwaltung; Paragraf 270d InsO regelt die Vorbereitung einer Sanierung unter einem Schutzschirm. Insolvenzgrund stichtagsgenau bestimmen: Zahlungsunfähigkeit schließt den Schutzschirm aus, nicht aber zwingend die vorläufige Eigenverwaltung. Verfahrensziel wählen: Nur vorläufige Eigenverwaltung oder zusätzlich Schutzschirm mit Insolvenzplan?
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: Materiell sind zwei Verfahren strikt zu trennen: Paragraf 270b InsO regelt die Anordnung der vorläufigen Eigenverwaltung; Paragraf 270d InsO regelt die Vorbereitung einer Sanierung unter einem Schutzschirm.
 Lieferstück: Fachvotum zu Vorläufige Eigenverwaltung und Schutzschirm mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.8. Restschuldbefreiung nach aktuellem Recht steuern

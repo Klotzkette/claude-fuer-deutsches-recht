@@ -1,6 +1,6 @@
 ---
 name: redaktionsvertrag-freelancer-und-arbeitnehmer
-description: "Wenn es um Verl-023 · Redaktionsvertrag, Freelancer und Arbeitnehmer in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-023 · Redaktionsvertrag, Freelancer und Arbeitnehmer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-023 · Redaktionsvertrag, Freelancer und Arbeitnehmer

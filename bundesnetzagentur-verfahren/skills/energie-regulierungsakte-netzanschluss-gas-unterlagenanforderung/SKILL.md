@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-netzanschluss-gas-unterlagenanforderung
-description: "Wenn es um Energie-Regulierungsakte: Netzanschluss Gas — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: Netzanschluss Gas — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: Netzanschluss Gas — Unterlagenanforderung

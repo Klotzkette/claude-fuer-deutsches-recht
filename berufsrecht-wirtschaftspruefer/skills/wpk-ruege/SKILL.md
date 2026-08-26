@@ -1,6 +1,6 @@
 ---
 name: wpk-ruege
-description: "Wenn es um Wpk Ruege in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Wpk Rüge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

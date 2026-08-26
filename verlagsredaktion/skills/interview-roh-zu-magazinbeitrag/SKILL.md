@@ -1,6 +1,6 @@
 ---
 name: interview-roh-zu-magazinbeitrag
-description: "Wenn es um Interview-Roh zu Magazinbeitrag in Verlagsredaktion geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Interview-Roh zu Magazinbeitrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Interview-Roh zu Magazinbeitrag

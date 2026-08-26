@@ -1,6 +1,6 @@
 ---
 name: keimbahn-grenze-embryo
-description: "Wenn es um Keimbahn Grenze Embryo in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Keimbahn Grenze Embryo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Keimbahn-Grenze und Embryonenschutz: moderner Medizinrechts-Skill für Keimbahneingriff, Embryonen-/Fortpflanzungsmedizin und rote Linien bei innovativer Therapie

@@ -1,6 +1,6 @@
 ---
 name: faevvollzug-neu-006-abschlussschreiben-kosten-und-frist
-description: "Wenn es um Faevvollzug Neu 006 Abschlussschreiben Kosten Und Frist in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Faevvollzug Neu 006 Abschlussschreiben Kosten und Frist: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Abschlussschreiben nach einstweiliger Verfügung: Frist, Kosten, Unterlassungserklärung als Abschlussregelung, Abschlussgebühr RVG, Übergang zu Hauptsacheklage oder endgültige Erledigung im gewerblichen Rechtsschutz.

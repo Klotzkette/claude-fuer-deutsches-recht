@@ -1,6 +1,6 @@
 ---
 name: anteilstausch-21-umwstg
-description: "Wenn es um Anteilstausch — Paragraf 21 UmwStG Voraussetzungen und Sperrfrist in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anteilstausch — Paragraf 21 UmwStG Voraussetzungen und Sperrfrist: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anteilstausch — § 21 UmwStG Voraussetzungen und Sperrfrist

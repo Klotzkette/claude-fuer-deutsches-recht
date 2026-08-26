@@ -1,6 +1,6 @@
 ---
 name: drg-106-nuernberger-prozesse-und-dokumentenbasis
-description: "Wenn es um Nürnberger Prozesse als Dokumentenbasis in Deutsche Rechtsgeschichte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Drg 106 Nuernberger Prozesse Und Dokumentenbasis; Arbeitsfeld: Deutsche Rechtsgeschichte."
+description: "Für Nürnberger Prozesse als Dokumentenbasis: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: drg-106-nuernberger-prozesse-und-dokumentenbasis."
 ---
 # Nürnberger Prozesse als Dokumentenbasis
 

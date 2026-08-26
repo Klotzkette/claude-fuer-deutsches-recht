@@ -1,6 +1,6 @@
 ---
 name: keine-pflicht-begruendet-ablehnen
-description: "Wenn es um Keine Pflicht: sauber begründet ablehnen in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Keine Pflicht: sauber begründet ablehnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Keine Pflicht: sauber begründet ablehnen

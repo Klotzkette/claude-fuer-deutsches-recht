@@ -1,6 +1,6 @@
 ---
 name: loeschung-erwiderung-inhaber
-description: "Wenn es um Loeschung Erwiderung Inhaber in gebrauchsmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Löschung Erwiderung Inhaber: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Loeschung Erwiderung Inhaber

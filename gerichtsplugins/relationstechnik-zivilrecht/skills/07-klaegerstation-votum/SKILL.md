@@ -1,6 +1,6 @@
 ---
 name: 07-klaegerstation-votum
-description: "Wenn es um 07 Klägerstation Votum in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für 07 Klägerstation Votum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 07 Klägerstation Votum

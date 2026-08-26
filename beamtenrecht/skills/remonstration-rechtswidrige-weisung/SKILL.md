@@ -1,6 +1,6 @@
 ---
 name: remonstration-rechtswidrige-weisung
-description: "Wenn es um Remonstration Rechtswidrige Weisung in Beamtenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Remonstration Rechtswidrige Weisung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Remonstration Rechtswidrige Weisung

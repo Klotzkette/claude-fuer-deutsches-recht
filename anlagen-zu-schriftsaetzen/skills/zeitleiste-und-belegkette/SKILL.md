@@ -1,6 +1,6 @@
 ---
 name: zeitleiste-und-belegkette
-description: "Wenn es um Zeitleiste und Belegkette in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Zeitleiste und Belegkette: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zeitleiste und Belegkette

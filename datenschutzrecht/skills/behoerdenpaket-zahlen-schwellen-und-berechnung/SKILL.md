@@ -1,6 +1,6 @@
 ---
 name: behoerdenpaket-zahlen-schwellen-und-berechnung
-description: "Wenn es um Behördenpaket: Zahlen, Schwellenwerte und Berechnung in Datenschutzrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Behördenpaket: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Datenschutzrecht. Route: behoerdenpaket-zahlen-schwellen-und-berechnung."
 ---
 
 # Behördenpaket: Zahlen, Schwellenwerte und Berechnung
@@ -34,3 +34,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-behoerdenpaket-zahlen-schwellen-und-berechnung` beziehungsweise Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-behoerdenpaket-zahlen-schwellen-und-berechnung.md).

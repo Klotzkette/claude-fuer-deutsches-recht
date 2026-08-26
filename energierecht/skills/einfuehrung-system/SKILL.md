@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-system
-description: "Wenn es um Energierecht: System einfuehrend in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energierecht: System einführend: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energierecht: System einfuehrend

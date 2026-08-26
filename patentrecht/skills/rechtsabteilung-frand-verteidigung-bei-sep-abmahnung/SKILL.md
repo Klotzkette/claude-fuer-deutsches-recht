@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-frand-verteidigung-bei-sep-abmahnung
-description: "Wenn es um Rechtsabteilung: FRAND-Verteidigung bei SEP-Abmahnung in patentrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Rechtsabteilung: FRAND-Verteidigung bei SEP-Abmahnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: FRAND-Verteidigung bei SEP-Abmahnung

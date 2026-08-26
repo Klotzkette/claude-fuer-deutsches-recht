@@ -1,6 +1,6 @@
 ---
 name: art-50-ki-vo-schriftsatz-marketing-chatbot
-description: "Wenn es um Art. 50 europäischer Technikregulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot in anwaltlichem Berufsrecht und Vertragsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Art. 50 europäischer Technikregulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Art. 50 KI-VO: Schriftsatz, Marketing, Legal Update und Chatbot

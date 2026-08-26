@@ -1,6 +1,6 @@
 ---
 name: klauselinventar-und-scope
-description: "Wenn es um Klauselinventar und Scope in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Klauselinventar und Scope: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klauselinventar und Scope

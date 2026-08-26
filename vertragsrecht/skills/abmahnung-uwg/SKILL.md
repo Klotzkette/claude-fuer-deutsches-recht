@@ -1,6 +1,6 @@
 ---
 name: abmahnung-uwg
-description: "Wenn es um UWG-Abmahnung – Erstellung und Prüfung in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für UWG-Abmahnung – Erstellung und Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # UWG-Abmahnung – Erstellung und Prüfung

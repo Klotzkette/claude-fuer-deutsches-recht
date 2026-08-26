@@ -1,6 +1,6 @@
 ---
 name: kuendigungsfristen-89
-description: "Wenn es um Kuendigungsfristen 89 in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kündigungsfristen 89: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Kuendigungsfristen 89

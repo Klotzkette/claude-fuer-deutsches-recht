@@ -1,6 +1,6 @@
 ---
 name: olg-kg-rechtsprechungsbank-verifiziert
-description: "Wenn es um OLG-/KG-Praxis zur Äußerungsprüfung in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für OLG-/KG-Praxis zur Äußerungsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # OLG-/KG-Praxis zur Äußerungsprüfung

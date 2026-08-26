@@ -1,6 +1,6 @@
 ---
 name: parteivermoegen-grundbuch-auswerten
-description: "Wenn es um Parteivermoegen Grundbuch Auswerten in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parteivermögen Grundbuch Auswerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parteivermoegen Grundbuch Auswerten

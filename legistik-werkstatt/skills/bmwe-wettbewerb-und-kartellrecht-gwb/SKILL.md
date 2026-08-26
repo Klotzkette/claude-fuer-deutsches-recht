@@ -1,6 +1,6 @@
 ---
 name: bmwe-wettbewerb-und-kartellrecht-gwb
-description: "Wenn es um Wettbewerbsrecht und Kartellrecht (GWB) (BMWE) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Wettbewerbsrecht und Kartellrecht (GWB) (BMWE): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wettbewerbsrecht und Kartellrecht (GWB) (BMWE)

@@ -1,6 +1,6 @@
 ---
 name: zeugen-befragungsstrategie-strafbefehl
-description: "Wenn es um Zeugen-Befragungsstrategie in der Hauptverhandlung in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Zeugen-Befragungsstrategie in der Hauptverhandlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Zeugen-Befragungsstrategie in der Hauptverhandlung

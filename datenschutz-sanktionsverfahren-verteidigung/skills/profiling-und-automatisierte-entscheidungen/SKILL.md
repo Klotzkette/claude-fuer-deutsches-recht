@@ -1,6 +1,6 @@
 ---
 name: profiling-und-automatisierte-entscheidungen
-description: "Wenn es um Profiling und automatisierte Entscheidungen in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Profiling und automatisierte Entscheidungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Profiling und automatisierte Entscheidungen

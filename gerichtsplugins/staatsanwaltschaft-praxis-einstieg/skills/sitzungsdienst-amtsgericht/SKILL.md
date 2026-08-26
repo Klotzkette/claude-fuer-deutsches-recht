@@ -1,6 +1,6 @@
 ---
 name: sitzungsdienst-amtsgericht
-description: "Wenn es um Sitzungsdienst am Amtsgericht in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Sitzungsdienst am Amtsgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sitzungsdienst am Amtsgericht

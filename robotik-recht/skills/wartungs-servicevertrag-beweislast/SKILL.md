@@ -1,6 +1,6 @@
 ---
 name: wartungs-servicevertrag-beweislast
-description: "Wenn es um Wartungs- und Servicevertrag in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Wartungs- und Servicevertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Wartungs- und Servicevertrag

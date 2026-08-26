@@ -1,6 +1,6 @@
 ---
 name: cost-recovery-employee
-description: "Wenn es um Kostenerstattung und Schadensersatz gegen Mitarbeiter in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kostenerstattung und Schadensersatz gegen Mitarbeiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kostenerstattung und Schadensersatz gegen Mitarbeiter

@@ -1,6 +1,6 @@
 ---
 name: gmbh-cash-flow-und-darlehen-gesellschafter
-description: "Wenn es um Gesellschafterdarlehen und Cash-Flow GmbH: Paragraf 39 Abs in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschafterdarlehen und Cash-Flow GmbH: Paragraf 39 Abs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschafterdarlehen und Cash-Flow GmbH: § 39 Abs

@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-und-datenraum-organisationspflicht
-description: "Wenn es um Verschwiegenheit Und Datenraum Organisationspflicht in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verschwiegenheit und Datenraum Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: verschwiegenheit und datenraum - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: steuerberater-vorbehaltsaufgabe-kammer
-description: "Wenn es um Steuerberater Vorbehaltsaufgabe: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Steuerberater Vorbehaltsaufgabe: Verteidigungs- und Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater Vorbehaltsaufgabe: Verteidigungs- und Kammerantwort

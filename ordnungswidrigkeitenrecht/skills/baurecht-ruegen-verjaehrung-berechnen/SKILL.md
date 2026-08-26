@@ -1,6 +1,6 @@
 ---
 name: baurecht-ruegen-verjaehrung-berechnen
-description: "Wenn es um Baurecht Beweis Ruegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Baurecht Beweis Rügen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Baurecht Beweis Ruegen

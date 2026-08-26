@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-bnetza-beschluss
-description: "Wenn es um Eilrechtsschutz gegen BNetzA-Beschluss in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eilrechtsschutz gegen BNetzA-Beschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eilrechtsschutz gegen BNetzA-Beschluss

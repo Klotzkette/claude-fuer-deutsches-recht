@@ -1,6 +1,6 @@
 ---
 name: ehevertrag-inhalts-und-ausuebungskontrolle
-description: "Prüft Eheverträge zweistufig auf Sittenwidrigkeit bei Vertragsschluss und missbräuchliche Berufung im Scheidungsfall. Ordnet Unterhalt, Versorgungsausgleich und Zugewinn nach Kernbereich und Kompensation, rekonstruiert Verhandlungslage und Eheplanung und erstellt Klauselmatrix, Beweisplan und Rechtsfolgenvorschlag."
+description: "Prüft Eheverträge zweistufig auf Sittenwidrigkeit bei Vertragsschluss und missbräuchliche Berufung im Scheidungsfall."
 ---
 
 # Ehevertrag kontrollieren

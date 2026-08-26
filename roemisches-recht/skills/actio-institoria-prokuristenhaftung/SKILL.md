@@ -1,6 +1,6 @@
 ---
 name: actio-institoria-prokuristenhaftung
-description: "Wenn es um Rom 125 Actio Institoria Prokuristenhaftung in Römisches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rom 125 Actio Institoria Prokuristenhaftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 125 Actio Institoria Prokuristenhaftung

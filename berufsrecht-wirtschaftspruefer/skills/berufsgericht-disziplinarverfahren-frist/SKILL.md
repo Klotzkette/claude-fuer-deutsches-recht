@@ -1,6 +1,6 @@
 ---
 name: berufsgericht-disziplinarverfahren-frist
-description: "Wenn es um Berufsgericht und Disziplinarverfahren in Berufsrecht Wirtschaftsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berufsgericht und Disziplinarverfahren: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Berufsrecht Wirtschaftsprüfer."
 ---
 
 # Berufsgericht und Disziplinarverfahren

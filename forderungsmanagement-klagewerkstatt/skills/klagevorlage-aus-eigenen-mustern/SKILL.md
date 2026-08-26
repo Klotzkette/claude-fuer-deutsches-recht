@@ -1,6 +1,6 @@
 ---
 name: klagevorlage-aus-eigenen-mustern
-description: "Wenn es um Klagewerkstatt — Lernlauf aus eigenen Mustern in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klagewerkstatt — Lernlauf aus eigenen Mustern: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klagewerkstatt — Lernlauf aus eigenen Mustern

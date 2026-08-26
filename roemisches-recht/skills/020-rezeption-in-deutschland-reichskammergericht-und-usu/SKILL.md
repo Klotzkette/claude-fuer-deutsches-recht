@@ -1,6 +1,6 @@
 ---
 name: 020-rezeption-in-deutschland-reichskammergericht-und-usu
-description: "Wenn es um Rom Rezeption In Deutschland Reichskammergericht Und Usu in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom Rezeption in Deutschland Reichskammergericht und Usu: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rom Rezeption In Deutschland Reichskammergericht Und Usu

@@ -1,6 +1,6 @@
 ---
 name: db-013-sportdaten-live-daten-fixtures-und-ergebnislisten
-description: "Wenn es um Datenbankrecht: Sportdaten Live-Daten Fixtures und Ergebnislisten in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Sportdaten Live-Daten Fixtures und Ergebnislisten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Sportdaten Live-Daten Fixtures und Ergebnislisten

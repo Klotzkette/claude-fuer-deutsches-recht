@@ -1,6 +1,6 @@
 ---
 name: kostensteuerung-mandanten-mangel-nachtrag
-description: "Wenn es um LPH 7 Mitwirkung bei der Vergabe: Prüft kostenermittlung in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für LPH 7 Mitwirkung bei der Vergabe: Prüft kostenermittlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Prüft kostenermittlung

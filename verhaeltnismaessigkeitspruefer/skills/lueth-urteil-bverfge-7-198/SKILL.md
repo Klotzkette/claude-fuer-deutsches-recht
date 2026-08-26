@@ -1,6 +1,6 @@
 ---
 name: lueth-urteil-bverfge-7-198
-description: "Wenn es um Lueth Urteil BVerfGE 7 198 in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lüth Urteil BVerfGE 7 198: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lueth Urteil BVerfGE 7 198

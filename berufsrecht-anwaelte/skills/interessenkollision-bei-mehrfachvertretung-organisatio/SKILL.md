@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-bei-mehrfachvertretung-organisatio
-description: "Wenn es um Interessenkollision Bei Mehrfachvertretung Organisatio in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Interessenkollision bei Mehrfachvertretung Organisatio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: interessenkollision bei mehrfachvertretung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

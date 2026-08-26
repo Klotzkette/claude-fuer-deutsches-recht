@@ -1,6 +1,6 @@
 ---
 name: angebotsoeffnung-formfehler-preisblatt
-description: "Wenn es um Angebotsoeffnung Formfehler Preisblatt in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Angebotsöffnung Formfehler Preisblatt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Angebot, Formfehler, Preisblatt und Ausschlussrisiken prüfen: Signatur, Datei, Frist, Nebenangebote, Preisangaben, Mischkalkulation und Unvollstaendigkeit.

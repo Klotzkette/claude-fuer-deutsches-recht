@@ -1,6 +1,6 @@
 ---
 name: krankenversicherungsrecht-paragraf-13-sgb-v
-description: "Wenn es um Krankenversicherungsrecht Paragraf 13 sgb v in Fachanwalt Medizinrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherungsrecht Paragraf 13 SGB v: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherungsrecht § 13 sgb v

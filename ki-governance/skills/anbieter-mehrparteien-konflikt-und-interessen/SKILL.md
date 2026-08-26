@@ -1,6 +1,6 @@
 ---
 name: anbieter-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Anbieter: Mehrparteienkonflikt und Interessenmatrix in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Anbieter: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anbieter: Mehrparteienkonflikt und Interessenmatrix

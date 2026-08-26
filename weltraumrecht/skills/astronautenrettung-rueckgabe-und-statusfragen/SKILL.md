@@ -1,6 +1,6 @@
 ---
 name: astronautenrettung-rueckgabe-und-statusfragen
-description: "Wenn es um Weltraumrecht: Astronautenrettung: Rückgabe und Statusfragen in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Astronautenrettung: Rückgabe und Statusfragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Astronautenrettung: Rückgabe und Statusfragen

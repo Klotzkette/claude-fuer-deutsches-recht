@@ -1,6 +1,6 @@
 ---
 name: dfg-eigenanteil-und-grundausstattung
-description: "Wenn es um Eigenanteil und Grundausstattung in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Eigenanteil und Grundausstattung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eigenanteil und Grundausstattung

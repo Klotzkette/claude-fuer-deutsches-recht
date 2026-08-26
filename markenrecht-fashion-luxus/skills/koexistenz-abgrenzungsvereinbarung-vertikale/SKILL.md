@@ -1,6 +1,6 @@
 ---
 name: koexistenz-abgrenzungsvereinbarung-vertikale
-description: "Wenn es um Koexistenz und Abgrenzungsvereinbarung in markenrecht-fashion-luxus geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Koexistenz und Abgrenzungsvereinbarung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Koexistenz und Abgrenzungsvereinbarung

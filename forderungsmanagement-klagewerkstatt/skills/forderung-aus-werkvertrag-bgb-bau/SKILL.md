@@ -1,6 +1,6 @@
 ---
 name: forderung-aus-werkvertrag-bgb-bau
-description: "Wenn es um Werk-/Bauwerklohn-Forderung in Forderungsmanagement — Klagewerkstatt geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Werk-/Bauwerklohn-Forderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Werk-/Bauwerklohn-Forderung

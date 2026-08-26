@@ -1,6 +1,6 @@
 ---
 name: telekommunikationsklausel-risiko-rot-m
-description: "Wenn es um Telekommunikationsklausel Risiko Rot M in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Telekommunikationsklausel Risiko Rot M: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telekommunikationsklausel Risiko Rot M

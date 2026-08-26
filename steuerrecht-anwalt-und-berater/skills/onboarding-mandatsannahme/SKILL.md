@@ -1,6 +1,6 @@
 ---
 name: onboarding-mandatsannahme
-description: "Wenn es um Mandatsannahme im Steuerrecht — Erstgespraech und Risiko-Triage in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandatsannahme im Steuerrecht — Erstgespräch und Risiko-Triage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandatsannahme im Steuerrecht — Erstgespraech und Risiko-Triage

@@ -1,6 +1,6 @@
 ---
 name: verwarnung-art-58-2-b
-description: "Wenn es um Verwarnung Art. 58 Abs. 2 lit. b in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verwarnung Art. 58 Abs. 2 lit. b: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwarnung Art. 58 Abs. 2 lit. b

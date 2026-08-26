@@ -1,6 +1,6 @@
 ---
 name: schoeffe-sitzungsordnung-sitzung-strafkammer
-description: "Wenn es um Sitzungsordnung und Auftreten: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sitzungsordnung und Auftreten: Sitzungspraxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sitzungsordnung und Auftreten: Sitzungspraxis

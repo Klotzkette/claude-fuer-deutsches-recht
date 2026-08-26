@@ -1,6 +1,6 @@
 ---
 name: formulierte-quellenkarte
-description: "Wenn es um Formulierte Quellenkarte in E-Mail-Umformulierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Formulierte Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Formulierte Quellenkarte

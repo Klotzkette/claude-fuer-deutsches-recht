@@ -1,6 +1,6 @@
 ---
 name: investor-reporting-ans-family-office
-description: "Wenn es um Investor Reporting ans Family Office in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Investor Reporting ans Family Office: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Investor Reporting ans Family Office

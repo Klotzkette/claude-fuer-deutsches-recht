@@ -1,6 +1,6 @@
 ---
 name: tempo-30-bussgeld-abgrenzen
-description: "Wenn es um Tempo 30 Bussgeld Abgrenzen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tempo 30 Bussgeld Abgrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tempo 30 Bussgeld Abgrenzen

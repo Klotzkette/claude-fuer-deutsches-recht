@@ -1,6 +1,6 @@
 ---
 name: fracht-und-konnossement
-description: "Wenn es um Fracht und Konnossement – Prüfung und Schadensabwicklung in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fracht und Konnossement – Prüfung und Schadensabwicklung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fracht und Konnossement – Prüfung und Schadensabwicklung

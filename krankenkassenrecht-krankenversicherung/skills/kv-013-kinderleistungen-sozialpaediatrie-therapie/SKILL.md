@@ -1,6 +1,6 @@
 ---
 name: kv-013-kinderleistungen-sozialpaediatrie-therapie
-description: "Wenn es um Krankenversicherung: Kinderleistungen Sozialpädiatrie Therapie und Schulbegleitung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Kinderleistungen Sozialpädiatrie Therapie und Schulbegleitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Kinderleistungen Sozialpädiatrie Therapie und Schulbegleitung

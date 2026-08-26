@@ -1,6 +1,6 @@
 ---
 name: competition-clean-team
-description: "Wenn es um Clean Team und Kartellrecht im PE-Prozess in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Clean Team und Kartellrecht im PE-Prozess: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Clean Team und Kartellrecht im PE-Prozess

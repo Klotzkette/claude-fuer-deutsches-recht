@@ -1,6 +1,6 @@
 ---
 name: statthaftigkeit-47-vwgo
-description: "Wenn es um Statthaftigkeit Paragraf 47 VwGO in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Statthaftigkeit Paragraf 47 VwGO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Statthaftigkeit § 47 VwGO

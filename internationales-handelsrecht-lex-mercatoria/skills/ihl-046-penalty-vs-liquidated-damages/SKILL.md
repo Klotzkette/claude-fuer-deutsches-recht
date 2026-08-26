@@ -1,6 +1,6 @@
 ---
 name: ihl-046-penalty-vs-liquidated-damages
-description: "Wenn es um Penalty Vs Liquidated Damages in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Penalty Vs Liquidated Damages: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Penalty Vs Liquidated Damages

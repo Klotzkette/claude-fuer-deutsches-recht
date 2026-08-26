@@ -1,6 +1,6 @@
 ---
 name: financing-convertible-fully-diluted
-description: "Wenn es um Convertible Loan und SAFE in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Convertible Loan und SAFE: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Convertible Loan und SAFE

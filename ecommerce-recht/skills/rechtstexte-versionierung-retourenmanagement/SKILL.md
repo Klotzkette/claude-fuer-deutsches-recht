@@ -1,6 +1,6 @@
 ---
 name: rechtstexte-versionierung-retourenmanagement
-description: "Wenn es um Rechtstexte-Versionierung Deployment in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtstexte-Versionierung Deployment: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtstexte-Versionierung Deployment

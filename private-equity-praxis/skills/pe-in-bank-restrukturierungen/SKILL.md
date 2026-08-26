@@ -1,6 +1,6 @@
 ---
 name: pe-in-bank-restrukturierungen
-description: "Wenn es um PE in Bank-Restrukturierungen in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PE in Bank-Restrukturierungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PE in Bank-Restrukturierungen

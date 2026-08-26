@@ -1,6 +1,6 @@
 ---
 name: patentlizenzvertrag-drafting-review
-description: "Wenn es um Patentlizenzvertrag DE/EN in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Patentlizenzvertrag DE/EN: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentlizenzvertrag DE/EN

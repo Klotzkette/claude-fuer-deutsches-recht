@@ -1,6 +1,6 @@
 ---
 name: haushalt-und-haushaltssicherung
-description: "Wenn es um Haushalt Und Haushaltssicherung in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haushalt und Haushaltssicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haushalt Und Haushaltssicherung

@@ -1,6 +1,6 @@
 ---
 name: verpflichtungsermaechtigung-risiko-mar
-description: "Wenn es um Verpflichtungsermaechtigung Risiko Mar in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verpflichtungsermächtigung Risiko Mar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verpflichtungsermaechtigung Risiko Mar

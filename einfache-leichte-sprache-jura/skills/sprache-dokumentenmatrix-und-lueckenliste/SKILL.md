@@ -1,6 +1,6 @@
 ---
 name: sprache-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Sprache: Dokumentenmatrix, Lückenliste und Nachforderung in Einfache und Leichte Sprache für juristische Texte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Sprache: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: sprache-dokumentenmatrix-und-lueckenliste."
 ---
 
 # Sprache: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: bilinguale-vertragserstellung
-description: "Wenn es um Bilinguale Vertragserstellung DE/EN in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bilinguale Vertragserstellung DE/EN: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bilinguale Vertragserstellung DE/EN

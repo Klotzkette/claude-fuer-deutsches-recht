@@ -1,6 +1,6 @@
 ---
 name: 015-byzantinisches-prozessrecht-richter-kanzlei-und-peti
-description: "Wenn es um Rom Byzantinisches Prozessrecht Richter Kanzlei Und Peti in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom Byzantinisches Prozessrecht Richter Kanzlei und Peti: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom Byzantinisches Prozessrecht Richter Kanzlei Und Peti

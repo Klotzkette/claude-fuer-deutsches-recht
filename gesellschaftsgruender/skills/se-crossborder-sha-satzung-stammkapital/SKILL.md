@@ -1,6 +1,6 @@
 ---
 name: se-crossborder-sha-satzung-stammkapital
-description: "Wenn es um SE und grenzüberschreitende Struktur in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SE und grenzüberschreitende Struktur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SE und grenzüberschreitende Struktur

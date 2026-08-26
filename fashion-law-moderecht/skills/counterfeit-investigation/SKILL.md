@@ -1,6 +1,6 @@
 ---
 name: counterfeit-investigation
-description: "Wenn es um Counterfeit Investigation in fashion-law-moderecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Counterfeit Investigation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Counterfeit Investigation

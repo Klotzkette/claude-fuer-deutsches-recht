@@ -1,6 +1,6 @@
 ---
 name: oeffentlich-rechtliche-rueckforderung
-description: "Wenn es um Öffentlich-rechtliche Rückforderung abgrenzen in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Oeffentlich Rechtliche Rueckforderung; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Öffentlich-rechtliche Rückforderung abgrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: oeffentlich-rechtliche-rueckforderung."
 ---
 
 # Öffentlich-rechtliche Rückforderung abgrenzen

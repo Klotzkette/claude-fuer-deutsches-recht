@@ -1,6 +1,6 @@
 ---
 name: einziehung-und-verfall-pruefen
-description: "Wenn es um Einziehung Und Verfall Prüfen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einziehung und Verfall Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Ordnungswidrigkeitenrecht. Route: einziehung-und-verfall-pruefen."
 ---
 
 # Einziehung Und Verfall Prüfen

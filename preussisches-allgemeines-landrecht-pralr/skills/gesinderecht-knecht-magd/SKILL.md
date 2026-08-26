@@ -1,6 +1,6 @@
 ---
 name: gesinderecht-knecht-magd
-description: "Wenn es um Pralr Gesinderecht Knecht Magd Grundlagen in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gesinderecht Knecht Magd; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Gesinderecht Knecht Magd Grundlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: gesinderecht-knecht-magd."
 ---
 
 # Pralr Gesinderecht Knecht Magd Grundlagen

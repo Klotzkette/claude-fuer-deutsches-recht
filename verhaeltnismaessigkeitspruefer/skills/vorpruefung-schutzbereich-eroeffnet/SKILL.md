@@ -1,6 +1,6 @@
 ---
 name: vorpruefung-schutzbereich-eroeffnet
-description: "Wenn es um Stufe 0a: Ist der Schutzbereich eroeffnet? in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Stufe 0a: Ist der Schutzbereich eröffnet?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Stufe 0a: Ist der Schutzbereich eroeffnet?

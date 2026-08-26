@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-data-room-update-und-insider-governance
-description: "Wenn es um Rechtsabteilung: Data Room Update und Insider-Governance in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Rechtsabteilung: Data Room Update und Insider-Governance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Data Room Update und Insider-Governance

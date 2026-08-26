@@ -1,6 +1,6 @@
 ---
 name: status-libertatis-status-civitatis-status-familiae
-description: "Wenn es um Rom 151 Status Libertatis Status Civitatis Status Familiae in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom 151 Status Libertatis Status Civitatis Status Familiae: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 151 Status Libertatis Status Civitatis Status Familiae

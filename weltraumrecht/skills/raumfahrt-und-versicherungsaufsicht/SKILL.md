@@ -1,6 +1,6 @@
 ---
 name: raumfahrt-und-versicherungsaufsicht
-description: "Wenn es um Weltraumrecht: Raumfahrt und Versicherungsaufsicht in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Raumfahrt und Versicherungsaufsicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Raumfahrt und Versicherungsaufsicht

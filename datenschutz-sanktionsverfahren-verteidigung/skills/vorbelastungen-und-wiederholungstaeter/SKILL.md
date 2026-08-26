@@ -1,6 +1,6 @@
 ---
 name: vorbelastungen-und-wiederholungstaeter
-description: "Wenn es um Vorbelastungen und Wiederholungstäter in Datenschutz-Sanktionsverfahren und Verteidigung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vorbelastungen und Wiederholungstäter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorbelastungen und Wiederholungstäter

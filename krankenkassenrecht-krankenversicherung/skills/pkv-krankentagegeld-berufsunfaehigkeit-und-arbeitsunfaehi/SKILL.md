@@ -1,6 +1,6 @@
 ---
 name: pkv-krankentagegeld-berufsunfaehigkeit-und-arbeitsunfaehi
-description: "Wenn es um PKV-Krankentagegeld: Berufsunfähigkeit und Arbeitsunfähigkeit in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PKV-Krankentagegeld: Berufsunfähigkeit und Arbeitsunfähigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PKV-Krankentagegeld: Berufsunfähigkeit und Arbeitsunfähigkeit

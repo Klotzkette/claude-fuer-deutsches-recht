@@ -1,6 +1,6 @@
 ---
 name: verwaltungsgericht-politikrecht-bericht
-description: "Wenn es um Verwaltungsgericht und Politikrecht Bericht in Juristische Presseberichterstattung geht: erstellt Berichte zu Verwaltungsgericht, Normenkontrolle, Wahlrecht, Versammlungsrecht und Behördenentscheidungen."
+description: "Für Verwaltungsgericht und Politikrecht Bericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwaltungsgericht und Politikrecht Bericht

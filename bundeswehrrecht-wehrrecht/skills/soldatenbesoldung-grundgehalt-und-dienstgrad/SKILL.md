@@ -1,6 +1,6 @@
 ---
 name: soldatenbesoldung-grundgehalt-und-dienstgrad
-description: "Wenn es um Soldatenbesoldung: Grundgehalt und Dienstgrad in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Soldatenbesoldung: Grundgehalt und Dienstgrad: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Soldatenbesoldung: Grundgehalt und Dienstgrad

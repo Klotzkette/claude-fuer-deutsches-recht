@@ -1,6 +1,6 @@
 ---
 name: verl-vorschuss-pruefung-buecher
-description: "Wenn es um Vorschuss pruefen in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Vorschuss prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Vorschuss pruefen

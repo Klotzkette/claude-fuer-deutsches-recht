@@ -1,6 +1,6 @@
 ---
 name: krankenhausdigitalisierung-khzg
-description: "Wenn es um Krankenhausdigitalisierung KHZG IT-Sicherheit in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Krankenhausdigitalisierung KHZG IT-Sicherheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenhausdigitalisierung KHZG IT-Sicherheit

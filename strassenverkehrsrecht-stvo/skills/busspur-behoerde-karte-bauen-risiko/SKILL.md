@@ -1,6 +1,6 @@
 ---
 name: busspur-behoerde-karte-bauen-risiko
-description: "Wenn es um Busspur Behörde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Busspur Behörde Anschreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenverkehrsrecht StVO. Route: busspur-behoerde-karte-bauen-risiko."
 ---
 
 # Busspur Behörde Anschreiben

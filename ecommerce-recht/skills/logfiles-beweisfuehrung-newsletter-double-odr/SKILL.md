@@ -1,6 +1,6 @@
 ---
 name: logfiles-beweisfuehrung-newsletter-double-odr
-description: "Wenn es um Logfiles Beweisführung Checkout in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Logfiles Beweisführung Checkout: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Logfiles Beweisführung Checkout

@@ -1,6 +1,6 @@
 ---
 name: verbesserungsvorschlaege-formulieren
-description: "Wenn es um Verbesserungsvorschläge formulieren in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbesserungsvorschläge formulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbesserungsvorschläge formulieren

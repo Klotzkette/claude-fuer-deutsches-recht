@@ -1,6 +1,6 @@
 ---
 name: transparenz-nutzerinformation-unfallanalyse
-description: "Wenn es um Transparenz und Nutzerinformation in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Transparenz und Nutzerinformation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: transparenz-nutzerinformation-unfallanalyse."
 ---
 
 # Transparenz und Nutzerinformation

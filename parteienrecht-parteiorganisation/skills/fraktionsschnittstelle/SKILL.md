@@ -1,6 +1,6 @@
 ---
 name: fraktionsschnittstelle
-description: "Wenn es um Schnittstelle Fraktion/Partei in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fraktionsschnittstelle; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Schnittstelle Fraktion/Partei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: fraktionsschnittstelle."
 ---
 
 # Schnittstelle Fraktion/Partei

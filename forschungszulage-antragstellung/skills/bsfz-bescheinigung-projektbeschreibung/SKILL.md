@@ -1,6 +1,6 @@
 ---
 name: bsfz-bescheinigung-projektbeschreibung
-description: "Wenn es um BSFZ-Bescheinigung und Projektbeschreibung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für BSFZ-Bescheinigung und Projektbeschreibung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BSFZ-Bescheinigung und Projektbeschreibung

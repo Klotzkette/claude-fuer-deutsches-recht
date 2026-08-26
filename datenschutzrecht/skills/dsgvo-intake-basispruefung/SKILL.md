@@ -1,6 +1,6 @@
 ---
 name: dsgvo-intake-basispruefung
-description: "Wenn es um Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: compliance-programm-kartellrecht-mittelstand
-description: "Wenn es um Compliance-Programm Kartellrecht Mittelstand in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Compliance-Programm Kartellrecht Mittelstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Compliance-Programm Kartellrecht Mittelstand

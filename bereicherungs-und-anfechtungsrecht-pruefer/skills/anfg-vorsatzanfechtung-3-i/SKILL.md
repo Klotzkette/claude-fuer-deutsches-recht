@@ -1,6 +1,6 @@
 ---
 name: anfg-vorsatzanfechtung-3-i
-description: "Wenn es um Vorsatzanfechtung — Paragraf 3 Abs. 1 AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vorsatzanfechtung — Paragraf 3 Absatz 1 AnfG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorsatzanfechtung — Paragraf 3 Absatz 1 AnfG

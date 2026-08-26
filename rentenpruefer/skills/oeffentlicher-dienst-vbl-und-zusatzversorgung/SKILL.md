@@ -1,6 +1,6 @@
 ---
 name: oeffentlicher-dienst-vbl-und-zusatzversorgung
-description: "Wenn es um oeffentlicher-dienst-vbl-und-zusatzversorgung in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für oeffentlicher-dienst-vbl-und-zusatzversorgung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # oeffentlicher-dienst-vbl-und-zusatzversorgung

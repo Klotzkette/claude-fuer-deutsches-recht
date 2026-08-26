@@ -1,6 +1,6 @@
 ---
 name: expert-calls-transkripte
-description: "Wenn es um Expert Calls und Transkripte in Mittelstands-Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Expert Calls und Transkripte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Expert Calls und Transkripte

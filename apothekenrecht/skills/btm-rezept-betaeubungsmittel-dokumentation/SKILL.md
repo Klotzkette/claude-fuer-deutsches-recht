@@ -1,6 +1,6 @@
 ---
 name: btm-rezept-betaeubungsmittel-dokumentation
-description: "Wenn es um BtM-Rezept Betäubungsmittel Dokumentation in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für BtM-Rezept Betäubungsmittel Dokumentation: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # BtM-Rezept Betäubungsmittel Dokumentation

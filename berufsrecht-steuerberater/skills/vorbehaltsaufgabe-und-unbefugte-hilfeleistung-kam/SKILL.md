@@ -1,6 +1,6 @@
 ---
 name: vorbehaltsaufgabe-und-unbefugte-hilfeleistung-kam
-description: "Wenn es um Vorbehaltsaufgabe Und Unbefugte Hilfeleistung Kam in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vorbehaltsaufgabe und Unbefugte Hilfeleistung Kam: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: vorbehaltsaufgabe und unbefugte hilfeleistung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

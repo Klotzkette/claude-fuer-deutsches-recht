@@ -1,6 +1,6 @@
 ---
 name: fristen-risikoampel-mandantenkommunikation
-description: "Wenn es um Fristen- und Risikoampel in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Produkthaftung und Produktrecht."
 ---
 
 # Fristen- und Risikoampel

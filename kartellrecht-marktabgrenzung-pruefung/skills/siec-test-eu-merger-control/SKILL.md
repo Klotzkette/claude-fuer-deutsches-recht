@@ -1,6 +1,6 @@
 ---
 name: siec-test-eu-merger-control
-description: "Wenn es um SIEC-Test EU Fusionskontrolle in Kartellrecht — Marktabgrenzungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SIEC-Test EU Fusionskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # SIEC-Test EU Fusionskontrolle

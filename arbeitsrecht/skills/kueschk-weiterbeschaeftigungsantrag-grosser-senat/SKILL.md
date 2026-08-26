@@ -1,6 +1,6 @@
 ---
 name: kueschk-weiterbeschaeftigungsantrag-grosser-senat
-description: "Wenn es um Kueschk Weiterbeschaeftigungsantrag Grosser Senat in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kueschk Weiterbeschäftigungsantrag Großer Senat: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Weiterbeschaeftigungsantrag nach BAG Großer Senat 1985: Voraussetzungen des allgemeinen Weiterbeschaeftigungsanspruchs

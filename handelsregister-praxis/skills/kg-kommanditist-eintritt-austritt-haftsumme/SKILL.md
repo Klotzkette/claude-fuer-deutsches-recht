@@ -1,6 +1,6 @@
 ---
 name: kg-kommanditist-eintritt-austritt-haftsumme
-description: "Wenn es um Kommanditist und Haftsumme in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommanditist und Haftsumme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommanditist und Haftsumme

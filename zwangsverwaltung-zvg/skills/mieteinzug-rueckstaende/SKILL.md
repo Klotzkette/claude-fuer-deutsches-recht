@@ -1,6 +1,6 @@
 ---
 name: mieteinzug-rueckstaende
-description: "Wenn es um Mieteinzug und Rückstände in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mieteinzug und Rückstände: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mieteinzug und Rückstände

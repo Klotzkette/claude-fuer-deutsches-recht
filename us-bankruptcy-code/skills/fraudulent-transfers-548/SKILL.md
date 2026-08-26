@@ -1,6 +1,6 @@
 ---
 name: fraudulent-transfers-548
-description: "Wenn es um Fraudulent Transfers Paragraf 548 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fraudulent Transfers Paragraf 548: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fraudulent Transfers § 548

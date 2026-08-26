@@ -1,6 +1,6 @@
 ---
 name: publication-status-usa-ausland-online
-description: "Wenn es um Publication Status USA, Ausland und Online in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Publication Status USA, Ausland und Online: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Publication Status USA, Ausland und Online

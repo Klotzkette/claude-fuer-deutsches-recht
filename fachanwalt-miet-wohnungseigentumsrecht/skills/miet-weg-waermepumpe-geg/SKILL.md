@@ -1,6 +1,6 @@
 ---
 name: miet-weg-waermepumpe-geg
-description: "Wenn es um Beschlussfassung WEG zur Waermepumpen-Aufstellung gem in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschlussfassung WEG zur Wärmepumpen-Aufstellung gem: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschlussfassung WEG zur Waermepumpen-Aufstellung gem

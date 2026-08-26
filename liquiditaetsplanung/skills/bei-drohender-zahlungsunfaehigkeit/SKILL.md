@@ -1,6 +1,6 @@
 ---
 name: bei-drohender-zahlungsunfaehigkeit
-description: "Wenn es um Liqui: drohende ZU in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Liqui: drohende ZU: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liqui: drohende ZU

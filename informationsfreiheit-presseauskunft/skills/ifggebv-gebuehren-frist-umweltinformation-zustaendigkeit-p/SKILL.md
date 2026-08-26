@@ -1,6 +1,6 @@
 ---
 name: ifggebv-gebuehren-frist-umweltinformation-zustaendigkeit-p
-description: "Wenn es um Ifggebv Gebühren Frist Setzen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ifggebv Gebühren Frist Setzen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Informationsfreiheit und Presseauskunft. Route: ifggebv-gebuehren-frist-umweltinformation-zustaendigkeit-p."
 ---
 
 # Ifggebv Gebühren Frist Setzen

@@ -1,6 +1,6 @@
 ---
 name: kig-ai-act-rollenmodell-bauleiter
-description: "Wenn es um KIG: digitale Werkzeuge-Act-Rollenmodell in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für KIG: digitale Werkzeuge-Act-Rollenmodell: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KIG: AI-Act-Rollenmodell

@@ -1,6 +1,6 @@
 ---
 name: schufa-zahlungsstoerungen-speicherfrist-bgh-2025
-description: "Wenn es um SCHUFA-Zahlungsstörungen: Speicherfrist nach BGH 2025 in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SCHUFA-Zahlungsstörungen: Speicherfrist nach BGH 2025: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # SCHUFA-Zahlungsstörungen: Speicherfrist nach BGH 2025

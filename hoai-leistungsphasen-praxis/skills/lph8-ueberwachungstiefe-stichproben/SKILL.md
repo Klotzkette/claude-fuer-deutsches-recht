@@ -1,6 +1,6 @@
 ---
 name: lph8-ueberwachungstiefe-stichproben
-description: "Wenn es um LPH 8 Überwachungstiefe Und Stichproben in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für LPH 8 Überwachungstiefe und Stichproben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 8 Überwachungstiefe Und Stichproben

@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-anwaltsperspektive-argument
-description: "Wenn es um Anwaltsperspektive: Dokumentenmatrix und Lückenliste in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Anwaltsperspektive: Dokumentenmatrix und Lückenliste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwaltsperspektive: Dokumentenmatrix und Lückenliste

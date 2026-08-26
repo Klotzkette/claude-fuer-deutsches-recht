@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-kommissionsgeschaeft-und-plattformhaendler
-description: "Wenn es um Rechtsabteilung: Kommissionsgeschäft und Plattformhändler in Handelsrecht HGB geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Kommissionsgeschäft und Plattformhändler: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Kommissionsgeschäft und Plattformhändler

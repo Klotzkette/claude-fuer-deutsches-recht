@@ -1,6 +1,6 @@
 ---
 name: kodifikationstechnik-kasuistik
-description: "Wenn es um Kasuistik und Richterbindung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kodifikationstechnik Kasuistik; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Kasuistik und Richterbindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: kodifikationstechnik-kasuistik."
 ---
 
 # Kasuistik und Richterbindung

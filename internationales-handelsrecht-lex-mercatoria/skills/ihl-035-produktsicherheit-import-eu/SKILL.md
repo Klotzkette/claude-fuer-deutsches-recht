@@ -1,6 +1,6 @@
 ---
 name: ihl-035-produktsicherheit-import-eu
-description: "Wenn es um Produktsicherheit Import EU in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Produktsicherheit Import EU: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Produktsicherheit Import EU

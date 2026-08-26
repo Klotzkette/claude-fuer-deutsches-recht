@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-tax-due-diligence-im-distressed-mna
-description: "Wenn es um Tax Due Diligence Modul für Distressed-M&A-Transaktionen mit Sanierungsgewinn-Bezug in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tax Due Diligence Modul für Distressed-M&A-Transaktionen mit Sanierungsgewinn-Bezug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tax Due Diligence Modul für Distressed-M&A-Transaktionen mit Sanierungsgewinn-Bezug

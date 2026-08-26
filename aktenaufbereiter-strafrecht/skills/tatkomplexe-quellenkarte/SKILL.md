@@ -1,6 +1,6 @@
 ---
 name: tatkomplexe-quellenkarte
-description: "Wenn es um Tatkomplexe Quellenkarte in Aktenaufbereiter Strafrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Tatkomplexe Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tatkomplexe Quellenkarte

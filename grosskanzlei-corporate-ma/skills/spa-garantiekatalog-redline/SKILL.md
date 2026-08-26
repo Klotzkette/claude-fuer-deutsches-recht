@@ -1,6 +1,6 @@
 ---
 name: spa-garantiekatalog-redline
-description: "Wenn es um SPA-Garantiekatalog und Redline in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für SPA-Garantiekatalog und Redline: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # SPA-Garantiekatalog und Redline
 

@@ -1,6 +1,6 @@
 ---
 name: rechtsmittel-sta-berufung-revision
-description: "Wenn es um Rechtsmittel der Staatsanwaltschaft in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsmittel der Staatsanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsmittel der Staatsanwaltschaft

@@ -1,6 +1,6 @@
 ---
 name: cisg-anwendungsbereich
-description: "Wenn es um CISG Anwendungsbereich (Art. 1-13) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für CISG Anwendungsbereich (Art. 1-13): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CISG Anwendungsbereich (Art. 1-13)

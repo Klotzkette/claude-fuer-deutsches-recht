@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 66 Skills des Plugins `mietrecht`.
+Diese Vollprüfung enthält top-10 von 64 Skills des Plugins `mietrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Mietrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete…
 2. **mietprozess-versandmappe-endfertigen** — Endfertigt Räumungs-, Zahlungs-, Mängel-, Kautions- und Mieterhöhungsschriftsätze: liest Mietvertrag, Kündigung, Zustell…
-3. **einstieg-routing** — Wenn es um Einstieg und Routing in Mietrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachs…
-4. **mandat-triage-mietrecht** — Wenn es um Mandat-Triage Mietrecht in Mietrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fa…
+3. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+4. **mandat-triage-mietrecht** — Für Mandat-Triage Mietrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächs…
 5. **amtlichen-amtsgericht-sonderfall** — Erstellt für mietrechtliche Verfahren vor dem Amtsgericht eine belastbare Risikoampel: Zuständigkeit, Anträge, Darlegung…
 6. **amtsgericht-sonderfall-und-edge-case** — Beherrscht mietrechtliche Sonderlagen vor dem Amtsgericht, insbesondere Parteiwechsel, Räumung mit Zahlung, unbekannte B…
-7. **klageentwurf-beweislast-und-darlegungslast** — Wenn es um Klageentwurf: Beweislast, Darlegungslast und Substantiierung in Mietrecht geht: erstellt den passenden Entwur…
-8. **mieterhoehungs-compliance-dokumentation-und-akte** — Wenn es um Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk in Mietrecht geht: ordnet Akteninhalt, Belege, Lück…
-9. **mieteranfragen-beantworten** — Wenn es um Mieteranfragen beantworten (Vermieter / Hausverwaltung) in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken…
-10. **quellen-schriftsatz-brief-und-memo-bausteine** — Wenn es um Schriftsatz-, Brief- und Memo-Bausteine (Mietrecht) in Mietrecht geht: erstellt den passenden Entwurf aus Sac…
+7. **mietsenkungsverlangen-international-schnittstellen** — Für Mietsenkungsverlangen: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis…
+8. **mahnung-zahlungsverzug-mieter** — Für Mahnung und Kündigung bei Zahlungsverzug (Vermieter / Hausverwaltung): ordnet Norm, Beweislast und Gegenargument; Er…
+9. **klageentwurf-beweislast-und-darlegungslast** — Für Klageentwurf: Beweislast, Darlegungslast und Substantiierung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergeb…
+10. **mietsenkungsverlangen-international** — Für Mietrecht: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnitts…
 
 ---
 
@@ -169,7 +169,7 @@ Liefere Schriftsatz, Einzelanlagen, Mietkontenblatt, Objekt- und Zustellungskont
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Mietrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mietrecht._
 
 # Einstieg und Routing
 
@@ -213,7 +213,7 @@ Dieser Einstieg routet **Mietrecht** vom ersten Sachverhalt zu Rollen, Fristen, 
 
 ## Skill: `mandat-triage-mietrecht`
 
-_Wenn es um Mandat-Triage Mietrecht in Mietrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Mandat-Triage Mietrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Mandat-Triage Mietrecht
 
@@ -461,9 +461,173 @@ Liefere zuerst die Prozessweiche in Tabellenform und danach den einreichungsfäh
 
 ---
 
+## Skill: `mietsenkungsverlangen-international-schnittstellen`
+
+_Für Mietsenkungsverlangen: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Mietsenkungsverlangen: Internationaler Bezug und Schnittstellen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Miet- und WEG-Recht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mietsenkungsverlangen: Internationaler Bezug und Schnittstellen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
+- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Spezialwissen: Mietsenkungsverlangen: Internationaler Bezug und Schnittstellen
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Mietsenkungsverlangen** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `mahnung-zahlungsverzug-mieter`
+
+_Für Mahnung und Kündigung bei Zahlungsverzug (Vermieter / Hausverwaltung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Mahnung und Kündigung bei Zahlungsverzug (Vermieter / Hausverwaltung)
+
+## Arbeitsbereich
+
+Vermietersicht — verfasse Mahnung und ggf. fristlose Kündigung bei Zahlungsverzug des Mieters. Prüfroutine deckt Verzug nach § 286 BGB Fälligkeit der Miete (§ 556b Abs. 1 BGB) Mahnschreiben Aufrechnungsverbot fristlose Kündigung nach § 543 Abs. 2 Nr. 3 BGB (eine Monatsmiete plus zwei aufeinanderfolgende Termine oder Rückstand von zwei Monatsmieten über zwei Termine) hilfsweise ordentliche Kündigung nach § 573 Abs. 2 Nr. 1 BGB und Schonfristzahlung des Mieters nach § 569 Abs. 3 BGB (Nachholung innerhalb von zwei Monaten nach Zustellung der Räumungsklage). Erzeugt gestuftes Schreibenpaket mit Disclaimer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Miet- und WEG-Recht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mahnung und Kündigung bei Zahlungsverzug (Vermieter / Hausverwaltung)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
+- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Disclaimer (Schlüsselstelle, mehrfach)
+
+Eine Zahlungsverzugskündigung ist die mietrechtlich folgenreichste Erklärung. Eine formale oder materielle Fehlkündigung ist unwirksam und kann zu Schadensersatzanspruechen des Mieters führen. Vor Versand einer fristlosen Kündigung ist eine fachanwaltliche Prüfung dringend empfohlen. Diese Auto-Erstellung ersetzt nicht die anwaltliche Vertretung.
+
+## Workflow
+
+### Schritt 1 — Fälligkeit und Verzug prüfen
+
+- **Fälligkeit** der Miete: spätestens am dritten Werktag eines jeden Monats (§ 556b Abs. 1 BGB) — soweit vertraglich nichts anderes vereinbart ist.
+- **Verzug** ohne Mahnung tritt nach § 286 Abs. 2 Nr. 1 BGB ein wenn die Miete kalendermaessig bestimmt ist (was bei § 556b BGB der Fall ist).
+- Eine Mahnung ist also rechtlich nicht zwingend — als Vorstufe zur Kündigung aber dringend empfohlen (Beweisbarkeit gutes Verhältnis Schonfristoption).
+
+### Schritt 2 — Mahnschreiben
+
+- Sachliche knappe Aufforderung zur Zahlung des konkreten Rückstands.
+- Frist zur Zahlung (eine bis zwei Wochen genügen wegen Verzugs).
+- Hinweis auf drohende Kündigung wenn nicht gezahlt wird.
+- Hinweis auf laufende Verzugszinsen (§ 288 BGB).
+
+### Schritt 3 — Voraussetzungen der fristlosen Kündigung (§ 543 Abs. 2 Nr. 3 BGB)
+
+Die fristlose Kündigung wegen Zahlungsverzugs ist zulässig wenn:
+
+- **Variante a**: der Mieter für **zwei aufeinanderfolgende Termine** mit der Entrichtung der Miete oder eines nicht unerheblichen Teils der Miete im Verzug ist. "Nicht unerheblich" = mehr als eine Monatsmiete.
+- **Variante b**: in einem Zeitraum der sich über **mehr als zwei Termine** erstreckt mit einem Betrag in Verzug ist der **zwei Monatsmieten** erreicht.
+
+Was zur Miete zählt: Grundmiete plus Nebenkostenvorauszahlungen plus etwaige Heizkostenvorauszahlungen.
+
+### Schritt 4 — Ordentliche Kündigung als Hilfsantrag (§ 573 Abs. 2 Nr. 1 BGB)
+
+- Hilfsweise zur fristlosen Kündigung ist die ordentliche Kündigung wegen erheblicher schuldhafter Pflichtverletzung zulässig.
+- Frist nach § 573c BGB (drei sechs oder neun Monate je nach Mietdauer).
+- Empfehlung: in einem Schreiben fristlos hilfsweise ordentlich kündigen.
+
+### Schritt 5 — Formale Anforderungen (§ 568 Abs. 1 BGB)
+
+- **Schriftform** zwingend mit eigenhändiger Unterschrift aller Vermieter.
+- **Begründung** im Schreiben — konkrete Aufstellung der rückständigen Monate und Betraege (§ 569 Abs. 4 BGB).
+- **Hinweis** auf das Recht des Mieters die Wohnung durch Nachzahlung zu erhalten (§ 569 Abs. 3 Nr. 2 BGB) — Schonfristzahlung innerhalb von **zwei Monaten** nach Zustellung der Raeumungsklage.
+
+### Schritt 6 — Schonfristzahlung des Mieters (§ 569 Abs. 3 Nr. 2 BGB)
+
+- Wenn der Mieter nach Zugang der fristlosen Kündigung aber spätestens bis zum Ablauf von zwei Monaten nach Zustellung der **Raeumungsklage** den gesamten Rückstand begleicht oder eine öffentliche Stelle die Zahlung verbindlich zusagt: **fristlose Kündigung wird unwirksam**.
+- Wichtig: die Schonfristzahlung wirkt nur für die fristlose Kündigung — eine hilfsweise erklärte **ordentliche** Kündigung bleibt nach BGH-Rspr. wirksam.
+- Schonfristzahlung kann nicht mehrfach in Anspruch genommen werden (§ 569 Abs. 3 Nr. 2 Satz 2 BGB) — bei wiederholtem Zahlungsverzug ist sie ausgeschlossen wenn binnen zwei Jahren bereits einmal angewendet.
+
+### Schritt 7 — Prüfroutine vor Versand
+
+- Rückstandsberechnung dokumentiert (Monat für Monat mit Sollstellung und Zahlung).
+- Schwelle eine Monatsmiete plus zwei Termine oder zwei Monatsmieten über zwei Termine erreicht.
+- Konkrete Bezifferung des Rückstands im Kündigungsschreiben.
+- Alle Vermieter unterzeichnen die Kündigung.
+- Zustellung mit Nachweis (Einschreiben mit Rückschein oder Bote).
+- Hinweis auf Schonfristzahlung im Schreiben (nicht zwingend aber empfohlen).
+
+## Schreibenpaket
+
+### A. Mahnschreiben
+
+Sachlich kurz. Anrede mit Namen. Bezugnahme auf den Mietvertrag. Konkrete Aufstellung des Rückstands. Frist zur Zahlung. Hinweis auf Verzugszinsen und drohende Kündigung. Höflichkeitsformel.
+
+### B. Fristlose Kündigung mit hilfsweiser ordentlicher Kündigung
+
+1. Absender Vermieter mit Anschrift.
+2. Adresse aller Mieter namentlich.
+3. Bezugnahme auf den Mietvertrag.
+4. Kündigungserklärung — fristlos nach § 543 Abs. 2 Nr. 3 BGB.
+5. Hilfsweise ordentliche Kündigung nach § 573 Abs. 2 Nr. 1 BGB mit konkretem Endtermin nach § 573c BGB.
+6. Begründung mit konkreter Aufstellung der rückständigen Monate und Betraege.
+7. Hinweis auf Schonfristzahlung nach § 569 Abs. 3 Nr. 2 BGB.
+8. Hinweis auf Widerspruchsrecht nach § 574 BGB für die hilfsweise ordentliche Kündigung.
+9. Eigenhaendige Unterschrift aller Vermieter.
+
+## Hinweis zur Raeumungsklage
+
+Wenn der Mieter nach Ablauf der Kündigungsfrist nicht räumt: **Räumungsklage** zum Amtsgericht am Belegenheitsort nach Paragraf 29a ZPO. Bei Wohnraum ist das Amtsgericht nach Paragraf 23 Nummer 2a GVG ausschließlich und streitwertunabhängig zuständig; das gilt auch für die verbundene Räumungs- und Zahlungsklage. In erster Instanz besteht dort kein Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss. Siehe Skill `klageentwurf-amtsgericht`. **Disclaimer** — die Räumungsklage ist anwaltliche Praxis; Selbstvertretung ist beim Amtsgericht zwar möglich, aber nicht empfohlen.
+
+## Vor Versand (Disclaimer wiederholt)
+
+Vor Versand der fristlosen Kündigung: fachanwaltliche Prüfung der Rückstandsberechnung der Schwellenwerte und der Schonfristregelung. Risiko: Unwirksamkeit Schadensersatz Verzug auf eigener Seite. Die Schonfristzahlung kann das gesamte Verfahren wieder neutralisieren — der Vermieter muss dann ordentlich gekündigt haben um den Mieter langfristig loszuwerden.
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BGH, Urt. v. 09.07.2025 – Az. VIII ZR 287/23 — Schonfristzahlung nach § 569 Abs. 3 Nr. 2 BGB heilt nur die fristlose, nicht die ordentliche Kuendigung wegen Zahlungsverzugs. Klarstellung des Streits mit dem LG Berlin II. Folge: Doppelkuendigung (fristlos hilfsweise ordentlich) bleibt die strategisch sichere Loesung für den Vermieter. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.07.2025&Aktenzeichen=VIII+ZR+287/23
+- BGH, Urt. v. 01.07.2020 – Az. VIII ZR 323/18 — Schonfristzahlung (§ 569 Abs. 3 Nr. 2 BGB) beseitigt nur die fristlose Kuendigung wegen Zahlungsverzugs; eine hilfsweise erklaerte ordentliche Kuendigung nach § 573 Abs. 2 Nr. 1 BGB bleibt wirksam. Ein Ausschluss der Sozialklausel § 574 Abs. 1 Satz 2 BGB greift, weil ein Grund vorliegt, der den Vermieter zur fristlosen Kuendigung berechtigt hätte. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=01.07.2020&Aktenzeichen=VIII+ZR+323/18
+- BGH, Beschl. v. 08.12.2021 – Az. VIII ZR 32/20 — Erheblichkeit des Mietrueckstands im Sinne von § 573 Abs. 2 Nr. 1 BGB; massgeblich ist die Gesamthoehe des Rueckstands, nicht die Aufgliederung in einzelne Monatsbetraege. Bestaetigt die Wertungslinie zur ordentlichen Kuendigung neben der fristlosen. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=08.12.2021&Aktenzeichen=VIII+ZR+32/20
+- Weitere Rechtsprechungslinien des VIII. ZS zu § 543, § 569 BGB vor Ausgabe über https://www.bundesgerichtshof.de und https://dejure.org verifizieren.
+
+## Basiszinssatz § 247 BGB und Verzug
+
+- Basiszinssatz seit 1. Juli 2026: 1,52 Prozent; bei einem Wohnraummieter als Verbraucher beträgt der gesetzliche Verzugszinssatz damit 6,52 Prozent. Einen über den Halbjahreswechsel laufenden Zeitraum aufteilen. Amtliche Quelle: https://www.bundesbank.de/de/bundesbank/organisation/agb-und-regelungen/basiszinssatz-607820
+- Halbjaehrliche Prüfung am 01.01. und 01.07. erforderlich.
+
+## Paragrafenkette
+
+§§ 543, 569, 573 BGB — Kuendigungsvoraussetzungen Zahlungsverzug; § 286 BGB — Verzug; § 569 Abs. 3 BGB — Schonfrist; § 247 BGB — Basiszinssatz; § 288 BGB — Verzugszinsen.
+
+---
+
 ## Skill: `klageentwurf-beweislast-und-darlegungslast`
 
-_Wenn es um Klageentwurf: Beweislast, Darlegungslast und Substantiierung in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Klageentwurf: Beweislast, Darlegungslast und Substantiierung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # Klageentwurf: Beweislast, Darlegungslast und Substantiierung
 
@@ -513,11 +677,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `mieterhoehungs-compliance-dokumentation-und-akte`
+## Skill: `mietsenkungsverlangen-international`
 
-_Wenn es um Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Mietrecht: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk
+# Mietrecht: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Arbeitsweg
 
@@ -528,12 +692,12 @@ _Wenn es um Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk in Mietrec
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mietrecht: Erstprüfung, Rollenklärung und Mandatsziel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Spezialwissen: Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk
+## Spezialwissen: Mietrecht: Erstprüfung, Rollenklärung und Mandatsziel
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 
 ## Fallweichen
@@ -547,138 +711,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Mieterhoehungs** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Materielle Weichen Mieterhöhung (§ 558 BGB)
-- **Wartefristen (§ 558 Abs. 1 BGB):** Erst nach 15 Monaten ab Mietbeginn oder letzter (nicht modernisierungsbedingter) Erhöhung darf eine neue Erhöhung gelten; Verlangen kann zwölf Monate nach der letzten Erhöhung gestellt werden.
-- **Form (§ 558a BGB):** Textform (E-Mail/Brief reichen, keine Originalunterschrift erforderlich). Begründung zwingend: Mietspiegel, Vergleichswohnungen (mind. drei, ladungsfähig), Sachverständigengutachten oder Mietdatenbank.
-- **Zustimmungsfrist Mieter (§ 558b Abs. 1 BGB):** Bis zum Ablauf des zweiten Monats nach Zugang des Verlangens. Beispiel: Zugang 15.03., Frist endet 31.05.
-- **Klagefrist Vermieter (§ 558b Abs. 2 BGB):** Drei Monate ab Ende der Zustimmungsfrist. Versäumung: Verlust des Erhöhungsanspruchs.
-- **Kappungsgrenze (§ 558 Abs. 3 BGB):** 20% in drei Jahren; 15% in Gebieten mit angespanntem Wohnungsmarkt (LandesVO; immer Landesrecht prüfen!). Maßgeblich: Vergleich der zukünftig neuen Miete mit der Miete drei Jahre vor Wirksamwerden der Erhöhung.
-- **Wirksamwerden:** Die erhöhte Miete ist erst ab Beginn des dritten Kalendermonats nach Zugang des Verlangens geschuldet (§ 558b Abs. 1 BGB), also etwa Zugang März → erhöhte Miete erstmals zum 01.06.
-- **Form- und Begründungsfehler:** Unzureichende Begründung führt zur Unwirksamkeit; Heilung nur durch neues Verlangen, das die volle Wartefrist neu startet. BGH ständige Rspr.: Mietspiegelanwendung muss konkret nachvollziehbar sein - Spannenoberwert ist begründungspflichtig.
-- **Mieterhöhung bei Indexmiete (§ 557b BGB) / Staffelmiete (§ 557a BGB):** §§ 558 ff. BGB sind ausgeschlossen, eigene Regeln gelten. Vor Erhöhungsverlangen prüfen, ob Index- oder Staffelvereinbarung im Mietvertrag steht.
-
----
-
-## Skill: `mieteranfragen-beantworten`
-
-_Wenn es um Mieteranfragen beantworten (Vermieter / Hausverwaltung) in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Mieteranfragen beantworten (Vermieter / Hausverwaltung)
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mieteranfragen beantworten (Vermieter / Hausverwaltung)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
-- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Grundprinzip
-
-**Ehrlich antworten, nicht abwimmeln.** Mieter haben Anspruch auf sachliche Information zur Rechtslage. Verschleierung, Verzoegerung oder pauschale Ablehnung erhöht das Streitrisiko und schaedigt die Reputation der Hausverwaltung.
-
-## Disclaimer (Schlüsselstelle)
-
-Liefert Textbausteine und rechtliche Hinweise. Bei substanziellen Streitfällen, insbesondere bei Mietminderung über zehn Prozent, Kündigung oder Klageandrohung des Mieters, ist eine anwaltliche Prüfung dringend zu empfehlen.
-
-## Typische Anfragen und Antwortlinien
-
-### Mangelanzeige und Mietminderung (§§ 535 Abs. 1, 536 BGB)
-
-- Mangelanzeige bestätigen, Termin zur Besichtigung anbieten.
-- Mangel feststellen und Behebung organisieren.
-- Mietminderung **kraft Gesetzes** ab Eintritt des Mangels — nicht "genehmigen". Höhe wird im Einzelfall bestimmt.
-- Bei unklarer Höhe: Bitte um Hinterlegung des strittigen Betrags oder Zahlung unter Vorbehalt.
-
-### Modernisierungsankündigung (§ 555c BGB)
-
-- Mindestens drei Monate vor Beginn anzeigen.
-- Art und Umfang, voraussichtlicher Beginn und Dauer, voraussichtliche Mieterhöhung mitteilen.
-- Hinweis auf Sonderkündigungsrecht (§ 555e BGB).
-
-### Schönheitsreparaturen
-
-- Klauseln im Mietvertrag prüfen. Viele ältere Klauseln sind nach BGH unwirksam.
-- Bei unwirksamer Klausel: keine Schönheitsreparaturen schulden, kein Abzug von der Kaution.
-
-### Kaution (§ 551 BGB)
-
-- Höhe maximal drei Nettokaltmieten.
-- Getrennt vom Vermögen des Vermieters anzulegen.
-- Rückzahlung nach Abrechnung aller Forderungen, Frist nach Treu und Glauben in der Regel drei bis sechs Monate.
-
-### Eigenbedarfskündigung (§ 573 Abs. 2 Nr. 2 BGB)
-
-- Berechtigtes Interesse erforderlich (Eigennutzung für sich, Familienangehörige oder Angehörige des Haushalts).
-- Begründung im Kündigungsschreiben (§ 573 Abs. 3 BGB) — konkret, nicht pauschal.
-- Kündigungssperrfristen nach Landesverordnung beachten (siehe `references/mietspiegel-quellen.md`).
-
-### Belegeinsicht zur Nebenkostenabrechnung (§ 259 BGB, § 556 Abs. 4 BGB)
-
-- Recht des Mieters bestätigen.
-- Termin in den Geschäftsräumen anbieten oder Kopien gegen Erstattung übersenden.
-
-## Antwortstil
-
-- Sachliche Anrede, namentlich.
-- Bezugnahme auf das konkrete Schreiben und Datum.
-- Rechtsgrundlage benennen.
-- Lösungsschritt mit Termin oder Frist.
-- Höflichkeitsformel zum Schluss.
-- **Disclaimer am Ende** der Antwort, falls rechtlich strittig: Hinweis, dass Mieter sich beraten lassen kann (Mieterverein, Anwalt).
-
-## Aktuelle Rechtsprechung — Leitsaetze
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `quellen-schriftsatz-brief-und-memo-bausteine`
-
-_Wenn es um Schriftsatz-, Brief- und Memo-Bausteine (Mietrecht) in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Schriftsatz-, Brief- und Memo-Bausteine (Mietrecht)
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Schriftsatz-, Brief- und Memo-Bausteine (Mietrecht)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
-- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Spezialwissen: Schriftsatz-, Brief- und Memo-Bausteine
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Schriftsatz- und Memo-Bausteine** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Mietrecht** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

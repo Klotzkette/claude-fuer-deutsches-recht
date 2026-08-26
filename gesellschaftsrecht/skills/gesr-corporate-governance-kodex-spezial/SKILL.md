@@ -1,6 +1,6 @@
 ---
 name: gesr-corporate-governance-kodex-spezial
-description: "Wenn es um GesR: Corporate-Governance-Kodex in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GesR: Corporate-Governance-Kodex: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GesR: Corporate-Governance-Kodex

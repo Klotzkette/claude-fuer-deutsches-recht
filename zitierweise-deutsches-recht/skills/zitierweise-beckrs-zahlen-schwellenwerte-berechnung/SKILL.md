@@ -1,6 +1,6 @@
 ---
 name: zitierweise-beckrs-zahlen-schwellenwerte-berechnung
-description: "Wenn es um Beckrs: Zahlen, Schwellenwerte und Berechnung in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beckrs: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Zitierweise deutsches Recht. Route: zitierweise-beckrs-zahlen-schwellenwerte-berechnung."
 ---
 
 # Beckrs: Zahlen, Schwellenwerte und Berechnung

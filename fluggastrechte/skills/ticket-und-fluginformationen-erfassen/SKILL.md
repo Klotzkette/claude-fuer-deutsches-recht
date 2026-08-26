@@ -1,6 +1,6 @@
 ---
 name: ticket-und-fluginformationen-erfassen
-description: "Wenn es um Ticket- und Fluginformationen erfassen in Fluggastrechte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ticket- und Fluginformationen erfassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ticket- und Fluginformationen erfassen

@@ -1,6 +1,6 @@
 ---
 name: bag-leitentscheidungen-notenstufen
-description: "Übersetzt belegte Leistungstatsachen in eine konsistente Zeugnisnote und prüft Zufriedenheitsformel, Einzelmerkmale und Gesamtnote an der Rechtsprechung. Liefert eine Notenmatrix mit Tatsachengrundlage, Formulierung, Beweislast und Abweichungsrisiko."
+description: "Übersetzt belegte Leistungstatsachen in eine konsistente Zeugnisnote und prüft Zufriedenheitsformel, Einzelmerkmale und Gesamtnote an der Rechtsprechung."
 ---
 
 # BAG-Leitentscheidungen zu Notenstufen

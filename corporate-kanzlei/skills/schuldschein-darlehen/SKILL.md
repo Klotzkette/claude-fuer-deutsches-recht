@@ -1,6 +1,6 @@
 ---
 name: schuldschein-darlehen
-description: "Wenn es um Corporate: Schuldscheindarlehen und Übertragung in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Schuldschein Darlehen; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Corporate: Schuldscheindarlehen und Übertragung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: schuldschein-darlehen."
 ---
 
 # Corporate: Schuldscheindarlehen und Übertragung

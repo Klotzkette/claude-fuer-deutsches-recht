@@ -1,6 +1,6 @@
 ---
 name: verfahrens-behoerden-gericht-und-registerweg
-description: "Wenn es um Verfahrens: Behörden-, Gerichts- oder Registerweg in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfahrens: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Verfahrens: Behörden-, Gerichts- oder Registerweg

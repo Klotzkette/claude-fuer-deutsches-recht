@@ -1,6 +1,6 @@
 ---
 name: pre-employment-screening-background-check
-description: "Wenn es um Pre Employment Screening Background Check in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Pre Employment Screening Background Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pre Employment Screening Background Check

@@ -1,6 +1,6 @@
 ---
 name: datensatzqualitaet-und-bias-hri
-description: "Wenn es um Datenqualität und Bias in der Human-Robot Interaction (HRI) in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenqualität und Bias in der Human-Robot Interaction (HRI): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Datenqualität und Bias in der Human-Robot Interaction (HRI)

@@ -1,6 +1,6 @@
 ---
 name: standardvertragsklauseln-fuer-raumfahrtdaten
-description: "Wenn es um Weltraumrecht: Standardvertragsklauseln für Raumfahrtdaten in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Standardvertragsklauseln für Raumfahrtdaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Standardvertragsklauseln für Raumfahrtdaten

@@ -1,6 +1,6 @@
 ---
 name: budget-baseline-und-phasen
-description: "Wenn es um Budget Baseline und Phasenplan in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Budget Baseline und Phasenplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Budget Baseline und Phasenplan

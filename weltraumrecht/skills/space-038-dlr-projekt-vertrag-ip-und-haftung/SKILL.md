@@ -1,6 +1,6 @@
 ---
 name: space-038-dlr-projekt-vertrag-ip-und-haftung
-description: "Wenn es um Weltraumrecht: DLR-Projekt Vertrag IP und Haftung in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: DLR-Projekt Vertrag IP und Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: DLR-Projekt Vertrag IP und Haftung

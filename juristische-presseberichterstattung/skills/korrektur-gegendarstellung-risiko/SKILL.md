@@ -1,6 +1,6 @@
 ---
 name: korrektur-gegendarstellung-risiko
-description: "Wenn es um Korrektur Gegendarstellung Risiko in Juristische Presseberichterstattung geht: prüft vor und nach Veröffentlichung Berichtigung, Gegendarstellung, Unterlassung, Richtigstellung und Update-Text."
+description: "Für Korrektur Gegendarstellung Risiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Korrektur Gegendarstellung Risiko

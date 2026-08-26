@@ -1,6 +1,6 @@
 ---
 name: psychedelika-studie-therapie
-description: "Wenn es um Psychedelika Studie Therapie in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Psychedelika Studie Therapie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Psychedelika Studie und Therapie: moderner Medizinrechts-Skill für Psilocybin/MDMA-Studie, Betäubungsmittelrecht, Ethik, Off-Label-Mythen und Haftung

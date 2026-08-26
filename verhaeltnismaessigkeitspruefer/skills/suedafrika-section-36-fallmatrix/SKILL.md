@@ -1,6 +1,6 @@
 ---
 name: suedafrika-section-36-fallmatrix
-description: "Wenn es um Südafrika Section 36: Fallmatrix zur deutschen Prüfung in Verhältnismäßigkeitsprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Südafrika Section 36: Fallmatrix zur deutschen Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Südafrika Section 36: Fallmatrix zur deutschen Prüfung

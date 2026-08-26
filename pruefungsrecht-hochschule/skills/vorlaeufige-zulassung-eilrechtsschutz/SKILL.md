@@ -1,6 +1,6 @@
 ---
 name: vorlaeufige-zulassung-eilrechtsschutz
-description: "Wenn es um Vorläufige Zulassung im Eilrechtsschutz in Prüfungsrecht an Hochschulen und Universitäten geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vorläufige Zulassung im Eilrechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vorläufige Zulassung im Eilrechtsschutz

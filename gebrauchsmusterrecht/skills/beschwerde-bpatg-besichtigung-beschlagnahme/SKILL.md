@@ -1,6 +1,6 @@
 ---
 name: beschwerde-bpatg-besichtigung-beschlagnahme
-description: "Wenn es um Beschwerde Bpatg in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschwerde Bpatg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschwerde Bpatg

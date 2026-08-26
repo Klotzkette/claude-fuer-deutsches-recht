@@ -1,6 +1,6 @@
 ---
 name: drg-026-staatsrecht-des-kaiserreichs
-description: "Wenn es um Staatsrecht Des Kaiserreichs in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Staatsrecht des Kaiserreichs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Staatsrecht Des Kaiserreichs

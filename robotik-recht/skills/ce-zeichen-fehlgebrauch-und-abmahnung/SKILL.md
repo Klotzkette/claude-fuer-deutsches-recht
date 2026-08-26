@@ -1,6 +1,6 @@
 ---
 name: ce-zeichen-fehlgebrauch-und-abmahnung
-description: "Wenn es um CE-Kennzeichnung, Fehlgebrauch und Abmahnung in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für CE-Kennzeichnung, Fehlgebrauch und Abmahnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CE-Kennzeichnung, Fehlgebrauch und Abmahnung

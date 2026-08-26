@@ -1,6 +1,6 @@
 ---
 name: lease-026-schiffsleasing-schiffshypothek-und-flagge
-description: "Wenn es um Leasingrecht: Schiffsleasing Schiffshypothek und Flagge in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Schiffsleasing Schiffshypothek und Flagge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Schiffsleasing Schiffshypothek und Flagge

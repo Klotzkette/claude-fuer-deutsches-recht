@@ -1,6 +1,6 @@
 ---
 name: see-109-konnossement-klagepfad-waehlen
-description: "Wenn es um Konnossement Klagepfad Waehlen in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Konnossement Klagepfad Wählen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Konnossement Klagepfad Waehlen

@@ -1,6 +1,6 @@
 ---
 name: unterhaltungspflicht-und-winterdienst
-description: "Wenn es um Unterhaltungspflicht Und Winterdienst in Straßenrecht und Infrastruktur geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Unterhaltungspflicht und Winterdienst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unterhaltungspflicht Und Winterdienst

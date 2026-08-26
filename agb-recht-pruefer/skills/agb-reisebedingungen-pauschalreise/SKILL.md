@@ -1,6 +1,6 @@
 ---
 name: agb-reisebedingungen-pauschalreise
-description: "Wenn es um Reisebedingungen in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Agb Reisebedingungen Pauschalreise; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Reisebedingungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: agb-reisebedingungen-pauschalreise."
 ---
 
 # Reisebedingungen

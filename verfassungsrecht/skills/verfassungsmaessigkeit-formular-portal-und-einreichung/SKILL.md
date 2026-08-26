@@ -1,6 +1,6 @@
 ---
 name: verfassungsmaessigkeit-formular-portal-und-einreichung
-description: "Wenn es um Verfassungsmaessigkeit: Formular, Portal und Einreichungslogik in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfassungsmäßigkeit: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Verfassungsmaessigkeit: Formular, Portal und Einreichungslogik

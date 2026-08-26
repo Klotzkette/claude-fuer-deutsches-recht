@@ -1,6 +1,6 @@
 ---
 name: miet-wem-bauliche-veraenderung-spezial
-description: "Wenn es um Miet Wem Bauliche Veraenderung Spezial in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Miet Wem Bauliche Veränderung Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall bauliche Veraenderung im WEG § 20 WEG nach Reform: Beschlussfassung, privilegierte Maßnahmen Barrierefreiheit / E-Ladestation / Glasfaser / Einbruchschutz

@@ -1,6 +1,6 @@
 ---
 name: inv-024-audit-committee
-description: "Wenn es um Internal Investigation: Audit Committee in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internal Investigation: Audit Committee: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Audit Committee

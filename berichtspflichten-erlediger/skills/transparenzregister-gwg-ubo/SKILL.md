@@ -1,6 +1,6 @@
 ---
 name: transparenzregister-gwg-ubo
-description: "Wenn es um Transparenzregister und wirtschaftlich Berechtigte in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Transparenzregister und wirtschaftlich Berechtigte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Transparenzregister und wirtschaftlich Berechtigte

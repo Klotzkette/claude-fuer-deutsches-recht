@@ -1,6 +1,6 @@
 ---
 name: sozialrecht-kanzlei-kaltstart-interview
-description: "Wenn es um /sozialrecht-kanzlei:sozialrecht-kanzlei-kaltstart-interview in Fachanwalt Sozialrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für /sozialrecht-kanzlei:sozialrecht-kanzlei-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /sozialrecht-kanzlei:sozialrecht-kanzlei-kaltstart-interview

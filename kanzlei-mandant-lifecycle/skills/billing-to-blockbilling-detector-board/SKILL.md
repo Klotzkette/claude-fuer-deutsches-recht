@@ -1,6 +1,6 @@
 ---
 name: billing-to-blockbilling-detector-board
-description: "Wenn es um Billing to XRechnung in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Billing to XRechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Billing to XRechnung

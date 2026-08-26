@@ -1,6 +1,6 @@
 ---
 name: uwr-bimschg-genehmigung-bauleiter
-description: "Wenn es um UwR: BImSchG-Genehmigung in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für UwR: BImSchG-Genehmigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # UwR: BImSchG-Genehmigung

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-dual-use-forschung-hochschule
-description: "Wenn es um Dual-Use in Forschung und Hochschule: Wissenstransfer und Exportkontrolle in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dual-Use in Forschung und Hochschule: Wissenstransfer und Exportkontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dual-Use in Forschung und Hochschule: Wissenstransfer und Exportkontrolle

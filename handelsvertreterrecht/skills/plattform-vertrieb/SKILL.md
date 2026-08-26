@@ -1,6 +1,6 @@
 ---
 name: plattform-vertrieb
-description: "Wenn es um Plattformvermittler als Handelsvertreter — Paragraf 84 HGB und P2B-Verordnung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Plattformvermittler als Handelsvertreter — Paragraf 84 HGB und P2B-Verordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plattformvermittler als Handelsvertreter — § 84 HGB und P2B-Verordnung

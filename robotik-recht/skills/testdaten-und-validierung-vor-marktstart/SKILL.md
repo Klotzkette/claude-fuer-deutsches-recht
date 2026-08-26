@@ -1,6 +1,6 @@
 ---
 name: testdaten-und-validierung-vor-marktstart
-description: "Wenn es um Testdaten und Validierung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Testdaten und Validierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Testdaten und Validierung

@@ -1,6 +1,6 @@
 ---
 name: email-konvolute-zu-fachbeitrag
-description: "Wenn es um E-Mail-Konvolute zu Fachbeitrag in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für E-Mail-Konvolute zu Fachbeitrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E-Mail-Konvolute zu Fachbeitrag

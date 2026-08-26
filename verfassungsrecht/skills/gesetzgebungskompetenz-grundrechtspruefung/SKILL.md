@@ -1,6 +1,6 @@
 ---
 name: gesetzgebungskompetenz-grundrechtspruefung
-description: "Wenn es um Gesetzgebungskompetenz: Compliance-Dokumentation und Aktenvermerk in verfassungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesetzgebungskompetenz: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Gesetzgebungskompetenz: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: enforcement-award-china
-description: "Wenn es um Vollstreckung in China: Schiedssprüche und ausländische Urteile in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vollstreckung in China: Schiedssprüche und ausländische Urteile: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollstreckung in China: Schiedssprüche und ausländische Urteile

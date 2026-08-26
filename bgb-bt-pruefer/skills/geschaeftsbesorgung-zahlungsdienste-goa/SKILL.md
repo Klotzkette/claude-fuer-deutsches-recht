@@ -1,6 +1,6 @@
 ---
 name: geschaeftsbesorgung-zahlungsdienste-goa
-description: "Wenn es um Geschäftsbesorgung und Zahlungsdienste in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Geschaeftsbesorgung Zahlungsdienste Goa; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Geschäftsbesorgung und Zahlungsdienste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: geschaeftsbesorgung-zahlungsdienste-goa."
 ---
 
 # Geschäftsbesorgung und Zahlungsdienste

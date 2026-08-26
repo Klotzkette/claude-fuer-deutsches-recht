@@ -1,6 +1,6 @@
 ---
 name: datenpanne-pruefungsakte-rechtsprechungschec
-description: "Wenn es um Datenpanne Pruefungsakte Rechtsprechungschec in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Datenpanne Prüfungsakte Rechtsprechungschec: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: datenpanne prüfungsakte - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

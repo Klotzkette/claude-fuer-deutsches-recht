@@ -1,6 +1,6 @@
 ---
 name: nutzen-fehlerkatalog
-description: "Wenn es um Nutzen Fehlerkatalog in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nutzen Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nutzen Fehlerkatalog

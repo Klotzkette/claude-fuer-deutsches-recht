@@ -1,6 +1,6 @@
 ---
 name: gleichstellung-diskriminierung-impfpflicht
-description: "Wenn es um Gleichstellung und Diskriminierung Soldatinnen/Soldaten in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gleichstellung und Diskriminierung Soldatinnen/Soldaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gleichstellung und Diskriminierung Soldatinnen/Soldaten

@@ -1,6 +1,6 @@
 ---
 name: immo-immobilienrechtliche-live-beweislast
-description: "Wenn es um Immo: Abschlussprodukt und Übergabe in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Immo: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Immo: Abschlussprodukt und Übergabe

@@ -1,6 +1,6 @@
 ---
 name: kleinsatellit-universitaet-amateurfunk
-description: "Wenn es um Weltraumrecht: Kleinsatellit/Universität: CubeSat, Genehmigung, Versicherung in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Kleinsatellit/Universität: CubeSat, Genehmigung, Versicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Weltraumrecht: Kleinsatellit/Universität: CubeSat, Genehmigung, Versicherung

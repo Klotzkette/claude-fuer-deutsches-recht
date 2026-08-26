@@ -1,6 +1,6 @@
 ---
 name: besitzdogmatik-historische-schule
-description: "Wenn es um Besitzdogmatik, historische Schule und Systemdenken in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Besitzdogmatik, historische Schule und Systemdenken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besitzdogmatik, historische Schule und Systemdenken

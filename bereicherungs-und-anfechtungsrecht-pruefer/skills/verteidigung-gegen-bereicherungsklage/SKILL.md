@@ -1,6 +1,6 @@
 ---
 name: verteidigung-gegen-bereicherungsklage
-description: "Wenn es um Verteidigung gegen Bereicherungsklage in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Verteidigung Gegen Bereicherungsklage; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Verteidigung gegen Bereicherungsklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Verteidigung gegen Bereicherungsklage

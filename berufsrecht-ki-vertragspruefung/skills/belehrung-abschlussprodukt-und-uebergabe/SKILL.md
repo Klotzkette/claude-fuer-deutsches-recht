@@ -1,6 +1,6 @@
 ---
 name: belehrung-abschlussprodukt-und-uebergabe
-description: "Wenn es um Belehrung: Abschlussprodukt und Übergabe in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Belehrung: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: belehrung-abschlussprodukt-und-uebergabe."
 ---
 
 # Belehrung: Abschlussprodukt und Übergabe

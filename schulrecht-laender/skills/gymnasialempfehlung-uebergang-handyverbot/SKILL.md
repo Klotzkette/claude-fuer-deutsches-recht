@@ -1,6 +1,6 @@
 ---
 name: gymnasialempfehlung-uebergang-handyverbot
-description: "Wenn es um Gymnasialempfehlung Und Uebergang in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gymnasialempfehlung und Übergang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gymnasialempfehlung Und Uebergang

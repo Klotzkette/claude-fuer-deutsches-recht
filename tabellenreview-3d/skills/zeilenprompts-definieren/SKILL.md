@@ -1,6 +1,6 @@
 ---
 name: zeilenprompts-definieren
-description: "Wenn es um Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview definieren in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview definieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview definieren

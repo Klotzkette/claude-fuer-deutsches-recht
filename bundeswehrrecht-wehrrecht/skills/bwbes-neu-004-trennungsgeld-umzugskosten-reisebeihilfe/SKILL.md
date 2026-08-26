@@ -1,6 +1,6 @@
 ---
 name: bwbes-neu-004-trennungsgeld-umzugskosten-reisebeihilfe
-description: "Wenn es um Trennungsgeld, Umzugskosten und Reisebeihilfe in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Trennungsgeld, Umzugskosten und Reisebeihilfe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Trennungsgeld, Umzugskosten und Reisebeihilfe

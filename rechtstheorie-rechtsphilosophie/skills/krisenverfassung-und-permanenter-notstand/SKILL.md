@@ -1,6 +1,6 @@
 ---
 name: krisenverfassung-und-permanenter-notstand
-description: "Wenn es um Krisenverfassung und permanenter Notstand in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krisenverfassung und permanenter Notstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krisenverfassung und permanenter Notstand

@@ -1,6 +1,6 @@
 ---
 name: fahrzeugflotte-telematik
-description: "Wenn es um Fahrzeugflotte und Telematik: Datenstrategie und Compliance in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Fahrzeugflotte und Telematik: Datenstrategie und Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fahrzeugflotte und Telematik: Datenstrategie und Compliance

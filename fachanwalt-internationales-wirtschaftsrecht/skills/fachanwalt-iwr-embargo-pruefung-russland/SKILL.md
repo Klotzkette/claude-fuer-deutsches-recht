@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-iwr-embargo-pruefung-russland
-description: "Wenn es um Embargo-Prüfung Russland-Sanktionen in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Embargo-Prüfung Russland-Sanktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Embargo-Prüfung Russland-Sanktionen

@@ -1,6 +1,6 @@
 ---
 name: persoenlichkeitsrecht-stimme-deepfake
-description: "Wenn es um Stimme, Deepfake und Persönlichkeit in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stimme, Deepfake und Persönlichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stimme, Deepfake und Persönlichkeit

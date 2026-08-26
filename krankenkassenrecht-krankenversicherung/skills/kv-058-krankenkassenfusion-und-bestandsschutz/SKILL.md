@@ -1,6 +1,6 @@
 ---
 name: kv-058-krankenkassenfusion-und-bestandsschutz
-description: "Wenn es um Krankenversicherung: Krankenkassenfusion und Bestandsschutz in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Krankenkassenfusion und Bestandsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Krankenkassenfusion und Bestandsschutz

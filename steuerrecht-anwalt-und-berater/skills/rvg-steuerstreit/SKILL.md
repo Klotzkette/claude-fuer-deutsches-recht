@@ -1,6 +1,6 @@
 ---
 name: rvg-steuerstreit
-description: "Wenn es um Anwaltsgebuehren im Steuerstreit — RVG StBVV Verhältnis in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Anwaltsgebühren im Steuerstreit — RVG StBVV Verhältnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: rvg-steuerstreit."
 ---
 
 # Anwaltsgebuehren im Steuerstreit — RVG StBVV Verhältnis

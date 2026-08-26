@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe
-description: "Wenn es um Unerlaubte Eingriffe in verwandte Schutzrechte nach Paragraph 108 UrhG in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unerlaubte Eingriffe in verwandte Schutzrechte nach Paragraph 108 UrhG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unerlaubte Eingriffe in verwandte Schutzrechte nach Paragraph 108 UrhG

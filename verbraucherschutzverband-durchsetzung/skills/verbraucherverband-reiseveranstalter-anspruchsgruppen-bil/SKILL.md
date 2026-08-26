@@ -1,6 +1,6 @@
 ---
 name: verbraucherverband-reiseveranstalter-anspruchsgruppen-bil
-description: "Wenn es um Reiseveranstalter Anspruchsgruppen Bil in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reiseveranstalter Anspruchsgruppen Bil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Reiseveranstalter Anspruchsgruppen Bil

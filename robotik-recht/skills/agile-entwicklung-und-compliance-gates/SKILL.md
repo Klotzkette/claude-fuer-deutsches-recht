@@ -1,6 +1,6 @@
 ---
 name: agile-entwicklung-und-compliance-gates
-description: "Wenn es um Agile Entwicklung und Compliance-Gates in der Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Agile Entwicklung und Compliance-Gates in der Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agile Entwicklung und Compliance-Gates in der Robotik

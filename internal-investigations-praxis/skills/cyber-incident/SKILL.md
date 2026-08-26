@@ -1,6 +1,6 @@
 ---
 name: cyber-incident
-description: "Wenn es um Cyber-Incident-Response und forensische Untersuchung in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Cyber-Incident-Response und forensische Untersuchung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cyber-Incident-Response und forensische Untersuchung

@@ -1,6 +1,6 @@
 ---
 name: rolle-betreiber-pruefen-art-3-nr-4
-description: "Wenn es um Rolle-Check: Betreiber — Art. 3 Nr. 4 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rolle-Check: Betreiber — Art. 3 Nr. 4 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rolle-Check: Betreiber — Art. 3 Nr. 4 KI-VO

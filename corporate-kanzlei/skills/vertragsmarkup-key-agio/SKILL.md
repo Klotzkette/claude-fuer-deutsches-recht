@@ -1,6 +1,6 @@
 ---
 name: vertragsmarkup-key-agio
-description: "Wenn es um Vertragsmarkup und Key Issues in Corporate-Kanzlei geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vertragsmarkup Key Agio; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Vertragsmarkup und Key Issues: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: vertragsmarkup-key-agio."
 ---
 
 # Vertragsmarkup und Key Issues

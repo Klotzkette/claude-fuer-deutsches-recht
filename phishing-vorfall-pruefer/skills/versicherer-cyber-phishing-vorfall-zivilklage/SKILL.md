@@ -1,6 +1,6 @@
 ---
 name: versicherer-cyber-phishing-vorfall-zivilklage
-description: "Wenn es um Cyberversicherung prüfen in Phishing-Vorfall-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Cyberversicherung prüfen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Cyberversicherung prüfen

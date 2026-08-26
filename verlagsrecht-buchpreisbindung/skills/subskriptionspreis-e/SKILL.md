@@ -1,6 +1,6 @@
 ---
 name: subskriptionspreis-e
-description: "Wenn es um Verl-012 · Subskriptionspreis, Einführungspreis und Aktionspreis in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-012 · Subskriptionspreis, Einführungspreis und Aktionspreis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-012 · Subskriptionspreis, Einführungspreis und Aktionspreis

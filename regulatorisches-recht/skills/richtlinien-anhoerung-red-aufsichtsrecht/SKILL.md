@@ -1,6 +1,6 @@
 ---
 name: richtlinien-anhoerung-red-aufsichtsrecht
-description: "Erstellt einen prüfbaren Diff zwischen aktueller Aufsichtsquelle und interner Richtlinie. Ordnet jede Abweichung nach Geltungsstatus, Wortlaut, Umsetzung und Nachweis und übergibt konkrete Redline- und Eskalationsaufträge."
+description: "Erstellt einen prüfbaren Diff zwischen aktueller Aufsichtsquelle und interner Richtlinie."
 ---
 
 # Richtlinien-Diff im Aufsichtsrecht

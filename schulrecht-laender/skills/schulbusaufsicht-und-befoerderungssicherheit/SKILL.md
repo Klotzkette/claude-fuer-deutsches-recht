@@ -1,6 +1,6 @@
 ---
 name: schulbusaufsicht-und-befoerderungssicherheit
-description: "Wenn es um Schulbusaufsicht und Beförderungssicherheit in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulbusaufsicht und Beförderungssicherheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulbusaufsicht und Beförderungssicherheit

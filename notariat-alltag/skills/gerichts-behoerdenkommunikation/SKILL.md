@@ -1,6 +1,6 @@
 ---
 name: gerichts-behoerdenkommunikation
-description: "Wenn es um Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Notariat im Alltag. Route: gerichts-behoerdenkommunikation."
 ---
 
 # Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat

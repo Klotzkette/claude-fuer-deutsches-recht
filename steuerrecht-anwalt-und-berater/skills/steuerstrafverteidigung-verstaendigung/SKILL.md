@@ -1,6 +1,6 @@
 ---
 name: steuerstrafverteidigung-verstaendigung
-description: "Wenn es um Strafverteidigung Steuerstrafsache mit Einstellung und Verständigung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafverteidigung Steuerstrafsache mit Einstellung und Verständigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Strafverteidigung Steuerstrafsache mit Einstellung und Verständigung

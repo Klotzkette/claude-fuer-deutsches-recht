@@ -1,6 +1,6 @@
 ---
 name: landrat-gebuehr-aufsichtsbeschwerde
-description: "Wenn es um Landrat Gebuehr Kalkulieren in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landrat Gebühr Kalkulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Landrat Gebuehr Kalkulieren

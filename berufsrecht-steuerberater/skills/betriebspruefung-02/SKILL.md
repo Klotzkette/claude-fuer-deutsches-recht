@@ -1,6 +1,6 @@
 ---
 name: betriebspruefung-02
-description: "Wenn es um Betriebspruefung 02 in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebsprüfung 02: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Steuerberater: betriebspruefung rollenabgrenzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

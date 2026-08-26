@@ -1,6 +1,6 @@
 ---
 name: fran-028-mystery-shopping-beweis-und-datenschutz
-description: "Wenn es um Franchiserecht: Mystery Shopping Beweis und Datenschutz in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Mystery Shopping Beweis und Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Franchiserecht: Mystery Shopping Beweis und Datenschutz

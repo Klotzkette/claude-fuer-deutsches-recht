@@ -1,6 +1,6 @@
 ---
 name: drei-stufen-expatriate-pensionsplanung
-description: "Wenn es um Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte

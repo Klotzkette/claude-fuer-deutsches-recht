@@ -1,6 +1,6 @@
 ---
 name: papst-primat-papsttreue-kommunikation
-description: "Wenn es um Papst, Primat und Communio in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Papst, Primat und Communio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Papst, Primat und Communio

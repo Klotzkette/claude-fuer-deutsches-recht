@@ -1,6 +1,6 @@
 ---
 name: aufbewahrung-pruefungsakte-organisationspflicht
-description: "Wenn es um Aufbewahrung Pruefungsakte Organisationspflicht in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufbewahrung Prüfungsakte Organisationspflicht: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: aufbewahrung prüfungsakte - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: wartezeit-35-45-jahre-visualisierung
-description: "Wenn es um Wartezeit 35 45 Jahre Visualisierung in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wartezeit 35 45 Jahre Visualisierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wartezeit 35 45 Jahre Visualisierung

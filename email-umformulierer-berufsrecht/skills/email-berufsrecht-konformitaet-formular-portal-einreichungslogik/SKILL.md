@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-konformitaet-formular-portal-einreichungslogik
-description: "Wenn es um Konformitaet: Formular, Portal und Einreichungslogik in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Konformitaet Formular Portal Einreichungslogik; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für Konformität: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: E-Mail-Umformulierer. Route: email-berufsrecht-konformitaet-formular-portal-einreichungslogik."
 ---
 
 # Konformitaet: Formular, Portal und Einreichungslogik

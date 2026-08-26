@@ -1,6 +1,6 @@
 ---
 name: zulassungsgrenzen-check-amtsgericht
-description: "Wenn es um Zulassungsgrenzen-Check Amtsgericht in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Zulassungsgrenzen-Check Amtsgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zulassungsgrenzen-Check Amtsgericht

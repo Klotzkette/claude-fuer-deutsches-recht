@@ -1,6 +1,6 @@
 ---
 name: foreign-direct-freistellung-art
-description: "Wenn es um FDI und Antitrust Schnittstelle in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für FDI und Antitrust Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FDI und Antitrust Schnittstelle

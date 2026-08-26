@@ -1,6 +1,6 @@
 ---
 name: freiberufliche-leistungen-hoai
-description: "Wenn es um Freiberufliche Leistungen Hoai in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freiberufliche Leistungen HOAI: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vergabe freiberuflicher Leistungen (Architekten, Ingenieure, Rechtsanwaelte, Wirtschaftspruefer): Auftraggeber will HOAI- und vergaberechtskonform vergeben

@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-aussergerichtl-schuldenbereinigung
-description: "Wenn es um Aussergerichtlicher Schuldenbereinigungsplan nach Paragrafen 305 InsO in Verbraucherinsolvenz und Schuldenbereinigung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Aussergerichtlicher Schuldenbereinigungsplan nach Paragrafen 305 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO

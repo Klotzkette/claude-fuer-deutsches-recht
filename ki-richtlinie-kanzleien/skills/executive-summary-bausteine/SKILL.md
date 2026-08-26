@@ -1,6 +1,6 @@
 ---
 name: executive-summary-bausteine
-description: "Wenn es um Executive Summary Bausteine in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Executive Summary Bausteine: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Executive Summary Bausteine

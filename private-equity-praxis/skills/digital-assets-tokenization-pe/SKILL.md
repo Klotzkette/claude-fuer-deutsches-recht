@@ -1,6 +1,6 @@
 ---
 name: digital-assets-tokenization-pe
-description: "Wenn es um Digital Assets und Tokenisierung in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digital Assets und Tokenisierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digital Assets und Tokenisierung

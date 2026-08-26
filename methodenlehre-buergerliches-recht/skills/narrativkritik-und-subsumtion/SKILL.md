@@ -1,6 +1,6 @@
 ---
 name: narrativkritik-und-subsumtion
-description: "Wenn es um Narrativkritik und Subsumtion: Sprache und Rechtsfindung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Narrativkritik und Subsumtion: Sprache und Rechtsfindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Narrativkritik und Subsumtion: Sprache und Rechtsfindung

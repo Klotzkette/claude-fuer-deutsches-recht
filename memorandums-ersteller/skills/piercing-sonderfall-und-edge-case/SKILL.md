@@ -1,6 +1,6 @@
 ---
 name: piercing-sonderfall-und-edge-case
-description: "Wenn es um Piercing: Sonderfall und Edge-Case-Prüfung in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Piercing: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Piercing: Sonderfall und Edge-Case-Prüfung

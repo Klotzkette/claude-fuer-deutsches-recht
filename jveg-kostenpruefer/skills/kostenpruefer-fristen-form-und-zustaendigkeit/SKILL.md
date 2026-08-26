@@ -1,6 +1,6 @@
 ---
 name: kostenpruefer-fristen-form-und-zustaendigkeit
-description: "Wenn es um Kostenpruefer: Fristen, Form, Zuständigkeit und Rechtsweg in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kostenprüfer: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Kostenpruefer: Fristen, Form, Zuständigkeit und Rechtsweg

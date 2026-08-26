@@ -1,6 +1,6 @@
 ---
 name: vr-leistungsstoerungen-widerruf-fernabsatz
-description: "Wenn es um Vertragsrecht: Leistungsstoerungen in Vertragsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vertragsrecht: Leistungsstörungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertragsrecht: Leistungsstoerungen

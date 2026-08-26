@@ -1,6 +1,6 @@
 ---
 name: pruefen
-description: "Wenn es um Phishing-Vorfall Prüfen in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Phishing-Vorfall Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Phishing-Vorfall Prüfen

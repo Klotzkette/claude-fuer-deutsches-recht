@@ -1,6 +1,6 @@
 ---
 name: marktplatzhaftung-haendler-plattform
-description: "Wenn es um Marktplatzhaftung Händler Plattform in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Marktplatzhaftung Händler Plattform: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Marktplatzhaftung Händler Plattform

@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-ldi-nrw
-description: "Wenn es um Reicht eine Meldung nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dsv Meldung Ldi Nrw; Arbeitsfeld: Fachanwalt It Recht."
+description: "Für Reicht eine Meldung nach Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt It Recht. Route: dsv-meldung-ldi-nrw."
 ---
 
 # Reicht eine Meldung nach Art

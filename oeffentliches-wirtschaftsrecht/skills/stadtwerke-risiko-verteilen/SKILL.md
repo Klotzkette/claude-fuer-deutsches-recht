@@ -1,6 +1,6 @@
 ---
 name: stadtwerke-risiko-verteilen
-description: "Wenn es um Stadtwerke Risiko Verteilen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stadtwerke Risiko Verteilen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stadtwerke Risiko Verteilen

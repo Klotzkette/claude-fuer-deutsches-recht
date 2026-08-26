@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-erbschaftsausschlagung
-description: "Vollzieht eine Erbausschlagung frist- und formfest. Erstellt aus der vorhandenen Akte Fristenblatt, Zuständigkeitsvermerk, Erklärungsentwurf, Vollmachtskontrolle, Zugangssicherung und Nachrückerliste; erkennt Annahmehandlungen, Minderjährigenfälle sowie eine mögliche Anfechtungsroute und stellt offene Punkte als knappe Sperrfragen heraus."
+description: "Für Erbausschlagung frist- und formfest vollziehen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbausschlagung frist- und formfest vollziehen

@@ -1,6 +1,6 @@
 ---
 name: quality-recherche-rechnungslegung
-description: "Wenn es um Quality: Formular, Portal und Einreichungslogik in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quality: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quality: Formular, Portal und Einreichungslogik

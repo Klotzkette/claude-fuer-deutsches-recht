@@ -1,6 +1,6 @@
 ---
 name: zulassungsfragen-und-kanzleisitz-kammerantwort-u
-description: "Wenn es um Zulassungsfragen Und Kanzleisitz Kammerantwort U in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Zulassungsfragen und Kanzleisitz Kammerantwort U: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: zulassungsfragen und kanzleisitz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

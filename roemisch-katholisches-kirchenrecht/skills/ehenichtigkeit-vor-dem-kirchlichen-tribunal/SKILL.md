@@ -1,6 +1,6 @@
 ---
 name: ehenichtigkeit-vor-dem-kirchlichen-tribunal
-description: "Wenn es um Ehenichtigkeit vor dem kirchlichen Tribunal in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Ehenichtigkeit vor dem kirchlichen Tribunal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ehenichtigkeit vor dem kirchlichen Tribunal

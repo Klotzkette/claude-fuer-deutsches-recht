@@ -1,6 +1,6 @@
 ---
 name: verweisung-art-4-9-22-fkvo
-description: "Wenn es um Verweisung Art 4 9 22 FKVO in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Verweisung Art 4 9 22 FKVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verweisung Art 4 9 22 FKVO

@@ -1,6 +1,6 @@
 ---
 name: mitbestimmung-betriebsrat-robotik
-description: "Wenn es um Mitbestimmung Betriebsrat Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mitbestimmung Betriebsrat Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mitbestimmung Betriebsrat Robotik

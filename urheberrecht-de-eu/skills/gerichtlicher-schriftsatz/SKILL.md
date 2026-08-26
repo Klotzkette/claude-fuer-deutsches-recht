@@ -1,6 +1,6 @@
 ---
 name: gerichtlicher-schriftsatz
-description: "Wenn es um Schriftsatz und Antrag im Urheberrecht in Urheberrecht DE EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schriftsatz und Antrag im Urheberrecht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Schriftsatz und Antrag im Urheberrecht

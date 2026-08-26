@@ -1,6 +1,6 @@
 ---
 name: personal-pharmazeutisch-nichtpharmazeutisch-vertretung
-description: "Wenn es um Personal pharmazeutisch nichtpharmazeutisch Vertretung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Personal pharmazeutisch nichtpharmazeutisch Vertretung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Personal pharmazeutisch nichtpharmazeutisch Vertretung

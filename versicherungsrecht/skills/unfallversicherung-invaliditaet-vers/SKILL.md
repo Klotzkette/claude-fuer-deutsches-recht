@@ -1,6 +1,6 @@
 ---
 name: unfallversicherung-invaliditaet-vers
-description: "Wenn es um Private Unfallversicherung: Invalidität, Fristen, Gliedertaxe in Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Private Unfallversicherung: Invalidität, Fristen, Gliedertaxe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Private Unfallversicherung: Invalidität, Fristen, Gliedertaxe

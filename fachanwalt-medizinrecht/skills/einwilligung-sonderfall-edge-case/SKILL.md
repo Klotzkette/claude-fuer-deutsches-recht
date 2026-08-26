@@ -1,6 +1,6 @@
 ---
 name: einwilligung-sonderfall-edge-case
-description: "Wenn es um Einwilligung: Sonderfall und Edge-Case-Prüfung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einwilligung: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einwilligung: Sonderfall und Edge-Case-Prüfung

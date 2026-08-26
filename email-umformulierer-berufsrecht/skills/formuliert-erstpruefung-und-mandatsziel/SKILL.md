@@ -1,6 +1,6 @@
 ---
 name: formuliert-erstpruefung-und-mandatsziel
-description: "Wenn es um Formuliert: Erstprüfung, Rollenklärung und Mandatsziel in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Formuliert Erstpruefung Und Mandatsziel; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für Formuliert: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: E-Mail-Umformulierer. Route: formuliert-erstpruefung-und-mandatsziel."
 ---
 
 # Formuliert: Erstprüfung, Rollenklärung und Mandatsziel

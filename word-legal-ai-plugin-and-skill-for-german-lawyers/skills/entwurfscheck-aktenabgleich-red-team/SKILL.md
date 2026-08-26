@@ -1,6 +1,6 @@
 ---
 name: entwurfscheck-aktenabgleich-red-team
-description: "Wenn es um Entwurfscheck, Aktenabgleich und Red Team in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entwurfscheck, Aktenabgleich und Red Team: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Entwurfscheck, Aktenabgleich und Red Team

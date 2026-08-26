@@ -1,6 +1,6 @@
 ---
 name: integrations-management
-description: "Wenn es um Post-Merger-Integrations-Management in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Post-Merger-Integrations-Management: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Post-Merger-Integrations-Management

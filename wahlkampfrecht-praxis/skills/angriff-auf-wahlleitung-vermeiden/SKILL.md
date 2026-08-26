@@ -1,6 +1,6 @@
 ---
 name: angriff-auf-wahlleitung-vermeiden
-description: "Wenn es um Angriff Auf Wahlleitung Vermeiden in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Angriff auf Wahlleitung Vermeiden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Angriff Auf Wahlleitung Vermeiden

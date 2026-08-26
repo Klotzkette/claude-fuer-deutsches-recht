@@ -1,6 +1,6 @@
 ---
 name: erste-vertraege-kunden-lieferanten-miete
-description: "Wenn es um Erste Verträge für Kunden, Lieferanten und Miete in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Erste Verträge für Kunden, Lieferanten und Miete: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Erste Verträge für Kunden, Lieferanten und Miete
 

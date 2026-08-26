@@ -1,6 +1,6 @@
 ---
 name: datev-lohnbuchhaltung-briefing
-description: "Wenn es um Wachstum Zusammenarbeit und Rechtsform: Erstellt übergabepaket für lohnbüro in Solo-Selbstständige Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wachstum Zusammenarbeit und Rechtsform: Erstellt übergabepaket für lohnbüro: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Wachstum Zusammenarbeit und Rechtsform: Erstellt übergabepaket für lohnbüro

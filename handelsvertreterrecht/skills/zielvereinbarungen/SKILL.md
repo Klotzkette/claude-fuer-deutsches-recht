@@ -1,6 +1,6 @@
 ---
 name: zielvereinbarungen
-description: "Wenn es um Zielvereinbarungen im Handelsvertretervertrag — Bonus und Provision nach Paragraf 87 HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zielvereinbarungen im Handelsvertretervertrag — Bonus und Provision nach Paragraf 87 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zielvereinbarungen im Handelsvertretervertrag — Bonus und Provision nach § 87 HGB

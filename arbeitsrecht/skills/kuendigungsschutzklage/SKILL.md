@@ -1,6 +1,6 @@
 ---
 name: kuendigungsschutzklage
-description: "Wenn es um Kündigungsschutzklage in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kündigungsschutzklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Arbeitsrecht."
 ---
 
 # Kündigungsschutzklage

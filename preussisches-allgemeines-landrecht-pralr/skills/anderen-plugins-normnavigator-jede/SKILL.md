@@ -1,6 +1,6 @@
 ---
 name: anderen-plugins-normnavigator-jede
-description: "Wenn es um Routing in andere Plugins in Preußisches Allgemeines Landrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anderen Plugins Normnavigator Jede; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Routing in andere Plugins: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Routing in andere Plugins

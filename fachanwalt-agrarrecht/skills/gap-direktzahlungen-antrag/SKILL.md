@@ -1,6 +1,6 @@
 ---
 name: gap-direktzahlungen-antrag
-description: "Wenn es um Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023 in Fachanwalt Agrarrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023

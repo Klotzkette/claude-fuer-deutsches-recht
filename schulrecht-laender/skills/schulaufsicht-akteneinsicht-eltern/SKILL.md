@@ -1,6 +1,6 @@
 ---
 name: schulaufsicht-akteneinsicht-eltern
-description: "Wenn es um Schulaufsicht und Akteneinsicht der Eltern in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schulaufsicht und Akteneinsicht der Eltern: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulaufsicht und Akteneinsicht der Eltern

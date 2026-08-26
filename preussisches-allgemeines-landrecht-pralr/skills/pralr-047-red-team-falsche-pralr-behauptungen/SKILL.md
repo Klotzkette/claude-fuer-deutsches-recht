@@ -1,6 +1,6 @@
 ---
 name: pralr-047-red-team-falsche-pralr-behauptungen
-description: "Wenn es um Red-Team in Preußisches Allgemeines Landrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 047 Red Team Falsche Pralr Behauptungen; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Red-Team: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-047-red-team-falsche-pralr-behauptungen."
 ---
 
 # Red-Team

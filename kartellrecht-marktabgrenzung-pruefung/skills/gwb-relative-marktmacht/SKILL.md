@@ -1,6 +1,6 @@
 ---
 name: gwb-relative-marktmacht
-description: "Wenn es um Paragraf 20 GWB relative Marktmacht in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Paragraf 20 GWB relative Marktmacht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 20 GWB relative Marktmacht

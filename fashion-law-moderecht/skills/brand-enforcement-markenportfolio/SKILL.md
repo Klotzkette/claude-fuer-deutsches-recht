@@ -1,6 +1,6 @@
 ---
 name: brand-enforcement-markenportfolio
-description: "Wenn es um Brand Enforcement Abmahnung in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Brand Enforcement Abmahnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Brand Enforcement Abmahnung

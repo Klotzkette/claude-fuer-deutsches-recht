@@ -1,6 +1,6 @@
 ---
 name: bankaufsichtliches-handeln
-description: "Wenn es um Bankaufsichtliches Handeln – Insiderrecht und MAR in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bankaufsichtliches Handeln – Insiderrecht und MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bankaufsichtliches Handeln – Insiderrecht und MAR

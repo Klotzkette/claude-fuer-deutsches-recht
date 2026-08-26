@@ -1,6 +1,6 @@
 ---
 name: dsa-zahlen-schwellen-und-berechnung
-description: "Wenn es um DSA: Zahlen, Schwellenwerte und Berechnung in Fachanwalt It Recht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für DSA: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # DSA: Zahlen, Schwellenwerte und Berechnung

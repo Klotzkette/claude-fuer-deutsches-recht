@@ -1,6 +1,6 @@
 ---
 name: datenschutz-beschaeftigteneinwilligung
-description: "Wenn es um Datenschutz Beschäftigteneinwilligung in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Datenschutz Beschäftigteneinwilligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Beschäftigteneinwilligung

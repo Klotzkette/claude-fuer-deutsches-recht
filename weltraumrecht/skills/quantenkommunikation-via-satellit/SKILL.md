@@ -1,6 +1,6 @@
 ---
 name: quantenkommunikation-via-satellit
-description: "Wenn es um Quantenkommunikation via Satellit in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quantenkommunikation via Satellit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quantenkommunikation via Satellit

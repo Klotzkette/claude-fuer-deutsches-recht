@@ -1,6 +1,6 @@
 ---
 name: meldung-kritis-sektoraufsicht
-description: "Wenn es um Parallele Meldung KRITIS und Sektoraufsicht — BSIG, BaFin, BNetzA, NIS-2 in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parallele Meldung KRITIS und Sektoraufsicht — BSIG, BaFin, BNetzA, NIS-2: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parallele Meldung KRITIS und Sektoraufsicht — BSIG, BaFin, BNetzA, NIS-2
@@ -50,3 +50,7 @@ Texte synchronisiert; Aktenzeichen wechselseitig zitieren.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-meldung-art-33-pflichtangaben` deckt die Datenschutz-Meldung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-meldung-kritis-sektoraufsicht` beziehungsweise Steuert die parallele Meldung an Sektoraufsichten neben der Datenschutzaufsicht: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-meldung-kritis-sektoraufsicht.md).

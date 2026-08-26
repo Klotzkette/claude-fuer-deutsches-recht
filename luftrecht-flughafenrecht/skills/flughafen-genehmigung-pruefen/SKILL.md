@@ -1,6 +1,6 @@
 ---
 name: flughafen-genehmigung-pruefen
-description: "Wenn es um Flughafen – Genehmigung prüfen in Luftrecht und Flughafenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Flughafen – Genehmigung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Flughafen – Genehmigung prüfen

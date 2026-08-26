@@ -1,6 +1,6 @@
 ---
 name: workflow-risikoampel-raeumung
-description: "Wenn es um Räumungsrisiko-Ampel: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Räumungsrisiko-Ampel: Prüfungslinie für Miet- und WEG-Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Räumungsrisiko-Ampel: Prüfungslinie für Miet- und WEG-Recht

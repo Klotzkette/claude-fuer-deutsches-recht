@@ -1,6 +1,6 @@
 ---
 name: steuerhinterziehung-370-ao
-description: "Wenn es um Steuerhinterziehung — Paragraf 370 AO Tatbestand und Verteidigung in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Steuerhinterziehung — Paragraf 370 AO Tatbestand und Verteidigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerhinterziehung — § 370 AO Tatbestand und Verteidigung

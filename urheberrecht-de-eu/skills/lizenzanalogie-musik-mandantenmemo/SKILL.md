@@ -1,6 +1,6 @@
 ---
 name: lizenzanalogie-musik-mandantenmemo
-description: "Wenn es um Musiklizenzanalogie und Tarife in Urheberrecht DE EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Musiklizenzanalogie und Tarife: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Musiklizenzanalogie und Tarife

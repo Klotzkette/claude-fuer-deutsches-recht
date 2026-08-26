@@ -1,6 +1,6 @@
 ---
 name: versetzung-kommandierung-abordnung
-description: "Wenn es um Versetzung Kommandierung Abordnung in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Versetzung Kommandierung Abordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versetzung Kommandierung Abordnung

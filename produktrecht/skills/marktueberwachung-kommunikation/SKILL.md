@@ -1,6 +1,6 @@
 ---
 name: marktueberwachung-kommunikation
-description: "Wenn es um Marktueberwachung-Kommunikation in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Marktüberwachung-Kommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Marktueberwachung-Kommunikation

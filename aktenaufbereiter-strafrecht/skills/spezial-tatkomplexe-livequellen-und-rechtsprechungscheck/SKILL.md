@@ -1,6 +1,6 @@
 ---
 name: spezial-tatkomplexe-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Tatkomplexe: Livequellen- und Rechtsprechungscheck in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tatkomplexe: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tatkomplexe: Livequellen- und Rechtsprechungscheck

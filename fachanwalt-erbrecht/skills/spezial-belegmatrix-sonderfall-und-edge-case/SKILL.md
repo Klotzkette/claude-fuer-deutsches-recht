@@ -1,6 +1,6 @@
 ---
 name: spezial-belegmatrix-sonderfall-und-edge-case
-description: "Wenn es um Belegmatrix: Sonderfall und Edge-Case-Prüfung in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Belegmatrix: Sonderfall und Edge-Case-Prüfung: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Belegmatrix: Sonderfall und Edge-Case-Prüfung

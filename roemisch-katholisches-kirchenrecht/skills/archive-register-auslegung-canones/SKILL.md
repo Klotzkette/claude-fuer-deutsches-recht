@@ -1,6 +1,6 @@
 ---
 name: archive-register-auslegung-canones
-description: "Wenn es um Archive, Register und Datenschutz in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Archive Register Auslegung Canones; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
+description: "Für Archive, Register und Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: archive-register-auslegung-canones."
 ---
 
 # Archive, Register und Datenschutz

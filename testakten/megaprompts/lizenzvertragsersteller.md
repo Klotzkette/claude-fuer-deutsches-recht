@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 33 Skills des Plugins `lizenzvertragserst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Lizenzvertragsersteller ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
-2. **einstieg-routing** — Wenn es um Anwalts-Dashboard Lizenzvertragsersteller in Lizenzvertragsersteller geht: klärt Rolle, Ziel, Frist, Unterlag…
-3. **mandat-intake-und-konfliktpruefung** — Wenn es um Mandatsannahme und Konfliktpruefung in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechts…
-4. **kartellrecht-tt-gvo-eu-316-2014** — Prüft Technologielizenzverträge nach Artikel 101 AEUV und der seit 1. Mai 2026 geltenden Verordnung (EU) 2026/877. Ordne…
-5. **klausel-exklusivitaet-sole-non-exclusive** — Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusive in Lizenzvertragsersteller geht: ordnet Sachverhalt, N…
-6. **klausel-haftung-gewaehrleistung-indemnification** — Wenn es um Klausel Haftung, Gewaehrleistung, Indemnification in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, …
-7. **escrow-quellcode-verwahrer-vereinbarung** — Wenn es um Escrow / Quellcode-Verwahrer-Vereinbarung in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweisla…
-8. **klausel-mindestlizenzen-meldungen-audit** — Wenn es um Klausel Mindestlizenzen, Meldungen, Audit in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweisla…
-9. **klausel-unterlizenzen-sublicensing** — Wenn es um Klausel Unterlizenzen (Sub-Licensing) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, …
-10. **lizenz-geschmacksmuster-design-designg** — Wenn es um Lizenz Design (DesignG / EU-Verordnung) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast…
-11. **klausel-verguetung-pauschale-royalty-tiered** — Wenn es um Klausel Vergütung — Pauschale, Royalty, Tiered in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Bew…
-12. **parteienrolle-klaeren-lizenzgeber-nehmer-sicherheiten-verwahrer** — Wenn es um Parteienrollen klären in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente u…
-13. **lizenz-patent-patg** — Wenn es um Lizenz Patent (PatG) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente un…
-14. **ip-identifikation-und-bestandsaufnahme** — Wenn es um IP-Identifikation und Bestandsaufnahme in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast,…
-15. **klausel-lizenzgegenstand-und-anlage-ip-liste** — Wenn es um Klausel Lizenzgegenstand + Anlage A in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
+2. **einstieg-routing** — Für Anwalts-Dashboard Lizenzvertragsersteller: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mi…
+3. **mandat-intake-und-konfliktpruefung** — Für Mandatsannahme und Konfliktprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchs…
+4. **insolvenz-fortbestand-paragraf-103-inso-lizenz** — Prüft Lizenzverträge bei Insolvenz von Lizenzgeber oder Lizenznehmer; trennt eingeräumtes Nutzungsrecht, offene Hauptlei…
+5. **kartellrecht-tt-gvo-eu-316-2014** — Für Kartellrechtliche Prüfung nach der TTBER 2026: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenka…
+6. **output-vertrag-deutsch-fertigentwurf** — Für Output: Lizenzvertrag in deutscher Sprache: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte…
+7. **output-zweisprachig-bilingual-deutsch-englisch** — Für Output: Zweisprachiger Lizenzvertrag DE/EN: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte…
+8. **lizenz-urheberrecht-und-software-urhg** — Für Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpr…
+9. **klausel-exklusivitaet-sole-non-exclusive** — Für Klausel Exklusivität — sole, exclusive, non-exclusive: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprod…
+10. **sicherungslizenz-pfandrecht-an-immaterialguetern** — Für Sicherungslizenz und Pfandrecht an Immaterialgütern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfproduk…
+11. **klausel-rechtswahl-gerichtsstand-schiedsklausel** — Für Klausel Rechtswahl, Gerichtsstand, Schiedsklausel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt …
+12. **steuern-quellensteuer-und-dba-lizenz** — Für Steuern und Quellensteuer — Lizenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zus…
+13. **klausel-haftung-gewaehrleistung-indemnification** — Für Klausel Haftung, Gewährleistung, Indemnification: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt m…
+14. **lizenz-geschaeftsgeheimnis-knowhow-geschgehg** — Für Lizenz Geschäftsgeheimnis / Know-how (GeschGehG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt m…
+15. **klausel-lizenzumfang-territorium-zeit-feld** — Für Klausel Lizenzumfang — Territorium, Zeit, Feld: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit…
 
 ---
 
@@ -147,7 +147,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Vertrag, Pflichtverletzun
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Anwalts-Dashboard Lizenzvertragsersteller in Lizenzvertragsersteller geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten._
+_Für Anwalts-Dashboard Lizenzvertragsersteller: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Anwalts-Dashboard Lizenzvertragsersteller
 
@@ -221,7 +221,7 @@ Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie fuehren das Man
 
 ## Skill: `mandat-intake-und-konfliktpruefung`
 
-_Wenn es um Mandatsannahme und Konfliktpruefung in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Mandatsannahme und Konfliktprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Mandatsannahme und Konfliktpruefung
 
@@ -260,9 +260,87 @@ _Wenn es um Mandatsannahme und Konfliktpruefung in Lizenzvertragsersteller geht:
 
 ---
 
+## Skill: `insolvenz-fortbestand-paragraf-103-inso-lizenz`
+
+_Prüft Lizenzverträge bei Insolvenz von Lizenzgeber oder Lizenznehmer; trennt eingeräumtes Nutzungsrecht, offene Hauptleistungspflichten, Verwalterwahl, Insolvenzforderung, Kündigung, Unterlizenz und technische Fortführung._
+
+# Lizenzvertrag und Insolvenz
+
+## 1. Direktstart
+
+Lies Lizenzvertrag, Nachträge, Zahlungsstand, Rechtekette, Kündigungen, Escrow-Vereinbarung und Insolvenzdaten. Liefere eine Leistungsmatrix zum Eröffnungszeitpunkt: bereits eingeräumtes Recht, noch offene Hauptpflicht jeder Seite, bloße Nebenpflicht, aufschiebende Bedingung, Kündigungsrecht und technisch notwendige Fortführungsleistung.
+
+## 2. Anwendungsbereich von InsO Paragraf 103
+
+2.1. Das Wahlrecht setzt einen gegenseitigen Vertrag voraus, der bei Verfahrenseröffnung vom Schuldner und vom anderen Teil nicht oder nicht vollständig erfüllt ist. Der Vertragstyp „Lizenz“ allein entscheidet nichts.
+
+2.2. Bestimme für jede offene Pflicht, ob sie im Gegenseitigkeitsverhältnis steht. Laufende Vergütung, fortdauernde Gebrauchsüberlassung, Updates, Wartung, Schutzrechtsverteidigung und Abrechnung können unterschiedlich einzuordnen sein.
+
+2.3. Verweigert der Verwalter die Erfüllung, kann der andere Teil seine Nichterfüllungsforderung grundsätzlich nur als Insolvenzgläubiger geltend machen. Sie ist nicht allein deshalb nachrangig nach InsO Paragraf 39.
+
+2.4. Aus der Erfüllungsverweigerung folgt nicht schematisch, dass jedes bereits eingeräumte Nutzungsrecht „endet“. Bestand, Reichweite und Durchsetzbarkeit sind nach Rechtseinräumung, Vertragsstruktur und einschlägiger höchstrichterlicher Linie gesondert zu prüfen.
+
+## 3. Rechtsprechungsanker
+
+3.1. BGH, Urteil vom 17. November 2005 - IX ZR 162/04: Für InsO Paragraf 103 kommt es auf den bei Verfahrenseröffnung beiderseits noch nicht vollständig erfüllten gegenseitigen Vertrag an. Die konkrete Vertragsstruktur darf nicht zu einer Universalregel für alle Lizenzen verallgemeinert werden.
+
+3.2. BGH, Urteil vom 21. Oktober 2015 - I ZR 173/14, Ecosoil: Eine mit quasi dinglicher und endgültiger Wirkung abgespaltene Markenlizenz erlosch im dortigen Sachverhalt nicht durch die Insolvenz. Die Entscheidung ist als Abgrenzungsanker für die konkrete Rechteposition, nicht als pauschale Garantie jeder Lizenz, zu verwenden.
+
+## 4. Prüfmatrix
+
+| Ebene | Frage | Arbeitsfolge |
+| --- | --- | --- |
+| Schutzrecht | Wem gehört Patent, Marke, Urheberrecht oder sonstiger Gegenstand? | Register und Rechtekette sichern |
+| Lizenz | ausschließlich oder einfach, Gebiet, Dauer, Unterlizenz, Übertragbarkeit? | Bestandsposition bestimmen |
+| Leistung | Welche Hauptpflicht ist am Eröffnungstag offen? | Anwendbarkeit von InsO Paragraf 103 prüfen |
+| Verwalter | Erfüllungswahl erklärt, abgelehnt oder noch offen? | Aufforderung und Frist nach Gesetz prüfen |
+| Kündigung | insolvenzabhängig oder auf anderen Grund gestützt? | InsO Paragraf 119 und Vertragsrecht einbeziehen |
+| Betrieb | Quellcode, Schlüssel, Daten, Schnittstelle, Wartung und Dokumentation verfügbar? | technische Fortführung separat sichern |
+
+## 5. Vertragsgestaltung ohne Scheinsicherheit
+
+5.1. Erteile und dokumentiere Nutzungsrechte klar, frühzeitig und unabhängig von vermeidbaren Schwebezuständen, soweit Geschäftsmodell und Vergütung dies tragen.
+
+5.2. Definiere laufende Leistungen so, dass Rechtseinräumung, Wartung, Support, Hosting und Updatepflichten getrennt bewertet werden können.
+
+5.3. Escrow kann Quellcode und Dokumentation verfügbar machen, ersetzt aber weder eine wirksame Lizenz noch automatisch die Mitwirkung Dritter.
+
+5.4. Insolvenzabhängige Lösungsklauseln werden an InsO Paragraf 119 und der Rechtsprechung geprüft; eine bloße Überschrift „insolvenzfest“ schafft keine Beständigkeit.
+
+5.5. Sicherungsabtretung oder Pfandrecht werden nur mit nachgewiesener Verfügungsbefugnis, hinreichender Bestimmtheit, Prioritätsprüfung und insolvenzrechtlicher Wirksamkeit empfohlen.
+
+## 6. Typische Fehler
+
+6.1. Jede offene Nebenpflicht wird als beiderseits offene Hauptpflicht behandelt.
+
+6.2. Erfüllungsverweigerung wird mit automatischem Erlöschen der Lizenz gleichgesetzt.
+
+6.3. Der Nichterfüllungsanspruch wird ohne Tatbestand des InsO Paragraf 39 als nachrangig bezeichnet.
+
+6.4. Eine Vorauszahlung wird ohne Prüfung aller übrigen Leistungspflichten als vollständige Erfüllung angesehen.
+
+6.5. Escrow, Nutzungsrecht und Wartungsvertrag werden zu einer vermeintlich einheitlichen Sicherheit vermischt.
+
+## 7. Arbeitsprodukte
+
+7.1. Eröffnungsstichtags-Matrix mit jeder offenen Haupt- und Nebenpflicht.
+
+7.2. Aufforderung an den Verwalter mit präziser Vertrags- und Leistungslage.
+
+7.3. Risikoanalyse zu Fortbestand, Betrieb, Kündigung und Insolvenzforderung.
+
+7.4. Neu gefasste Lizenz-, Escrow- und Fortführungsklauseln mit offen ausgewiesenen Grenzen.
+
+## 8. Quellen
+
+- InsO Paragraf 103 und Paragraf 119: https://www.gesetze-im-internet.de/inso/
+- BGH IX ZR 162/04 und I ZR 173/14: https://juris.bundesgerichtshof.de/
+
+---
+
 ## Skill: `kartellrecht-tt-gvo-eu-316-2014`
 
-_Prüft Technologielizenzverträge nach Artikel 101 AEUV und der seit 1. Mai 2026 geltenden Verordnung (EU) 2026/877. Ordnet Wettbewerbsverhältnis, Technologie- und Produktmärkte, Marktanteile, Kernbeschränkungen, ausgeschlossene Klauseln und Einzelfreistellung; liefert TTBER-Matrix und belastbare Klauselkorrekturen._
+_Für Kartellrechtliche Prüfung nach der TTBER 2026: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Kartellrechtliche Prüfung nach der TTBER 2026
 
@@ -332,9 +410,300 @@ Bei einer Einzelfreistellung behandle getrennt: Effizienzgewinn, angemessene Ver
 
 ---
 
+## Skill: `output-vertrag-deutsch-fertigentwurf`
+
+_Für Output: Lizenzvertrag in deutscher Sprache: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Output: Lizenzvertrag in deutscher Sprache
+
+## Workflow
+
+1. Eingangsdaten sammeln (Parteien, IP, Verguetungsmodell, Rechtswahl) - siehe Skills A-D.
+2. Pro Klausel den passenden Baustein-Skill aufrufen.
+3. Vertrag aus dem unten stehenden Geruest zusammensetzen.
+4. Anlagen A-E aus den entsprechenden Skills einfuegen.
+5. Prüfen mit Self-Test (unten).
+
+## Vertragsgeruest
+
+```
+[Briefkopf Lizenzgeber / Lizenznehmer]
+
+LIZENZVERTRAG ueber [IP-Typ]
+
+zwischen
+
+[Lizenzgeber], [Anschrift], vertreten durch [Vertreter]
+- "Lizenzgeber" -
+
+und
+
+[Lizenznehmer], [Anschrift], vertreten durch [Vertreter]
+- "Lizenznehmer" -
+
+- gemeinsam "Parteien" -
+
+PRAEAMBEL
+
+(1) Der Lizenzgeber ist [allein/Mit-]inhaber der in Anlage A bezeichneten
+    [Patente, Marken, Designs, Software, Know-how].
+(2) Der Lizenznehmer beabsichtigt, [Beschreibung Geschaeftsmodell] und
+    sucht hierfuer eine [Patent-, Marken-, Software-, Know-how-]Lizenz.
+(3) Die Parteien haben am [Datum] eine Vertraulichkeitsvereinbarung
+    geschlossen und Due Diligence durchgefuehrt.
+
+Dies vorausgeschickt vereinbaren die Parteien:
+
+Paragraf 1 Definitionen
+Paragraf 2 Lizenzgegenstand                  -> Baustein 12
+Paragraf 3 Lizenzumfang                       -> Baustein 13
+Paragraf 4 Exklusivitaet                      -> Baustein 14
+Paragraf 5 Verguetung                         -> Baustein 15
+Paragraf 6 Sublizenzen                        -> Baustein 17
+Paragraf 7 Verbesserungen / Grant-Back        -> Baustein 18
+Paragraf 8 Garantien                          -> Baustein 19
+Paragraf 9 Haftungsbeschraenkungen            -> Baustein 19
+Paragraf 10 Mindestlizenz, Meldungen, Audit  -> Baustein 16
+Paragraf 11 Vertragsdauer                     -> Baustein 21
+Paragraf 12 Folgen der Vertragsbeendigung    -> Baustein 21
+Paragraf 13 Vertraulichkeit                   -> Baustein NDA
+Paragraf 14 Source-Code-Escrow (bei SW)       -> Baustein 22
+Paragraf 15 Rechtswahl und Streitbeilegung   -> Baustein 20
+Paragraf 16 Insolvenzfestigkeit               -> Baustein 23
+Paragraf 17 Exportkontrolle                   -> Baustein Compliance
+Paragraf 18 Datenschutz                       -> Baustein Compliance
+Paragraf 19 Steuern                           -> Baustein Compliance
+Paragraf 20 Schlussbestimmungen
+    (1) Salvatorische Klausel
+    (2) Schriftformerfordernis fuer Aenderungen (Textform mit ausdruecklichem
+        Bezug)
+    (3) Abtretungsverbot
+    (4) Aufrechnungsverbot ausser unstreitiger oder rechtskraeftig festgestellter
+        Gegenforderungen
+    (5) Gesamtvertragsabrede ("Entire Agreement")
+    (6) Anwendbares Recht / Schiedsklausel siehe Paragraf 15
+
+[Ort], den [Datum]
+
+___________________________      ___________________________
+Lizenzgeber                       Lizenznehmer
+
+ANLAGEN
+- Anlage A: IP-Liste (Lizenzgegenstand) -> Baustein 12
+- Anlage B: Anwendungsfelder              -> Baustein 13
+- Anlage C: Verguetungsmodell + Reporting -> Baustein 15+16
+- Anlage D: AVV (DSGVO)                    -> Baustein DSGVO
+- Anlage E: Sub-Lizenznehmer-Liste (falls)
+```
+
+## Prüfroutine vor Unterschrift
+
+| Prüfpunkt | Prüfung |
+|---|---|
+| Parteien | HR-Auszug aktuell? Vertretungsbefugnis nachgewiesen? |
+| Anlage A | Alle IP-Reg.-Nr. live verifiziert? |
+| Vergütung | Bezugsgroessen definiert? Steuern beruecksichtigt? |
+| Rechtswahl | Schiedsklausel klar? Sprache des Verfahrens? |
+| Insolvenz | Escrow geregelt? Sicherungsabtretung? |
+| Compliance | DSGVO-AVV unterschrieben? Sanktionsprueffung dokumentiert? |
+| Anlage A bis E | alle beigefuegt? |
+
+## Anschluss
+
+- Englische Fassung: `output-vertrag-englisch-fertigentwurf`
+- Bilingual: `output-zweisprachig-bilingual-deutsch-englisch`
+
+---
+
+## Skill: `output-zweisprachig-bilingual-deutsch-englisch`
+
+_Für Output: Zweisprachiger Lizenzvertrag DE/EN: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Output: Zweisprachiger Lizenzvertrag DE/EN
+
+## Wann zweisprachig?
+
+| Indiziert wenn | Nicht zwingend wenn |
+|---|---|
+| Beide Parteien können je Muttersprache lesen | beide Parteien sprechen die Vertragssprache fliessend |
+| Kulturelle Brueckenfunktion gewuenscht | Schiedsverfahren in einer Sprache |
+| Risiko-Buffer bei Streit | Kostenfaktor (Übersetzung teuer) |
+| Compliance mit US-Konzern und DE-Geschäft | reine Domestic-Lizenz |
+
+## Strukturoptionen
+
+### A. Side-by-side (zwei Spalten)
+
+```
+| § 1 Vertragsgegenstand          | Sec. 1 Subject of Agreement       |
+| Der Lizenzgeber raeumt dem      | Licensor hereby grants Licensee   |
+| Lizenznehmer hiermit das …      | a … licence to use …              |
+```
+
+### B. Sequentiell (DE-Block / EN-Block)
+
+Jeder Paragraf vollstaendig in DE, dann vollstaendig in EN. Lesefreundlicher für kurze Klauseln.
+
+### C. Anlage in der jeweils anderen Sprache
+
+Vertrag in einer Sprache, Anlagen oder Erklaerungen in der anderen. Selten genutzt.
+
+## Pflichtbaustein — Massgeb-Klausel
+
+Ohne Massgeb-Klausel ist die zweisprachige Fassung bei Divergenz **rechtsunsicher**. Optionen:
+
+**Option 1: Eine Sprache massgebend.**
+> "Im Falle von Abweichungen zwischen der deutschen und der englischen Fassung dieses Vertrages ist die **[deutsche / englische]** Fassung massgebend."
+
+**Option 2: Beide gleichermassen verbindlich + Auslegung nach Vertragszweck.**
+> "Die deutsche und die englische Fassung sind gleichermassen verbindlich. Bei Divergenz ist im Auslegungsweg nach dem Vertragszweck und der gegenseitigen Interessenlage zu entscheiden."
+
+**Option 3 (selten): Sprachabhaengig je nach Streit-Forum.**
+> "Bei Streitigkeiten vor deutschen Gerichten gilt die deutsche Fassung; bei Streitigkeiten vor englischen Gerichten die englische."
+
+**Empfehlung:** Option 1 mit klarer Wahl - vermeidet Auslegungsstreit.
+
+## Sprachliche Sorgfalt
+
+| Typische Stolpersteine | Korrekt |
+|---|---|
+| "Lizenz" vs. "licence/license" | UK: licence (Substantiv) / license (Verb); US: license für beides |
+| "Schadenersatz" vs. "Schadensersatz" | DE-Standard: "Schadensersatz" (mit s) |
+| "Vergütung" vs. "Vergutung" | mit Umlaut |
+| "Ausschluss" / "exclusion" | nicht "exclusiveness" |
+| "Grobe Fahrlaessigkeit" / "groß negligence" | nicht "rough negligence" |
+| "Auf eigene Kosten" / "at one's own expense" | nicht "at own cost" |
+| "Frist" / "deadline" or "period" | je nach Kontext |
+
+## Glossar (Empfehlung)
+
+Bei laenger laufenden Vertraegen lohnt sich ein zweisprachiges Glossar im Anhang:
+
+```
+DE                                        | EN
+Lizenznehmer                              | Licensee
+Lizenzgeber                               | Licensor
+Lizenzgegenstand                          | Licensed IP
+Pauschallizenz                            | Lump-sum royalty
+Running Royalty                            | Running Royalty
+Sub-Lizenz                                | Sub-licence
+Ausschliessliche Lizenz                   | Exclusive licence
+Einfache Lizenz                           | Non-exclusive licence
+Verbesserung                              | Improvement
+Grant-Back                                | Grant-back
+Geschaeftsgeheimnis                       | Trade secret
+```
+
+## Praeambel-Beispiel zweisprachig
+
+```
+PRAEAMBEL                                 | RECITALS
+(1) Der Lizenzgeber ist alleiniger        | (A) Licensor is the sole owner of
+    Inhaber der in Anlage A                   the patents listed in Annex A.
+    aufgefuehrten Patente.                |
+(2) Der Lizenznehmer beabsichtigt …       | (B) Licensee intends …
+(3) Die Parteien vereinbaren wie folgt:   | (C) The Parties agree as follows:
+```
+
+## Prüfroutine vor Unterzeichnung
+
+1. Beide Fassungen vollstaendig?
+2. Massgeb-Klausel klar gesetzt?
+3. Glossar konsistent?
+4. Anlagen in der Sprache der Massgeb-Fassung (oder beide)?
+5. Sprachliche Korrektur durch Native Speaker?
+
+## Anschluss
+
+- Deutsche Fassung: `output-vertrag-deutsch-fertigentwurf`
+- Englische Fassung: `output-vertrag-englisch-fertigentwurf`
+- Rechtswahl: `klausel-rechtswahl-gerichtsstand-schiedsklausel`
+
+---
+
+## Skill: `lizenz-urheberrecht-und-software-urhg`
+
+_Für Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG)
+
+## Normenanker
+
+- Paragraf 31 UrhG - Einraeumung von Nutzungsrechten (einfach vs. ausschließlich)
+- Paragraf 31a UhG - Verträge über unbekannte Nutzungsarten
+- Paragraf 32 UrhG - angemessene Vergütung (Anspruch des Urhebers)
+- Paragraf 32a UrhG - weitere Beteiligung des Urhebers (Bestseller-Klausel; Paragraf 32a Abs. 2 für Dritte)
+- Paragraf 35 UrhG - Einraeumung weiterer Nutzungsrechte (Sub-Lizenz)
+- Paragraf 40 UrhG - Verträge über kuenftige Werke
+- Paragraf 41 UrhG - Rueckrufsrecht wegen Nichtausuebung
+- Paragraf 42 UrhG - Rueckrufsrecht wegen gewandelter Ueberzeugung
+- Paragrafen 69a-g UrhG - Schutz von Computerprogrammen (Sonderrecht)
+
+## Lizenzformen
+
+| Typ | Definition | Klauselbeispiel |
+|---|---|---|
+| einfaches Nutzungsrecht | Paragraf 31 Abs. 2 UrhG; nicht-exklusiv | "Der Lizenzgeber raeumt dem Lizenznehmer das einfache Nutzungsrecht ein…" |
+| ausschliessliches Nutzungsrecht | Paragraf 31 Abs. 3 UrhG; exklusiv | "ausschliessliches Nutzungsrecht, beschraenkt auf [Territorium/Zeit/Feld]" |
+| zeitlich beschraenkt | Paragraf 31 Abs. 1 S. 2 UrhG | Konkrete Laufzeit mit Verlaengerungsklausel |
+| raeumlich beschraenkt | Paragraf 31 Abs. 1 S. 2 UrhG | Land/Region/Sprachraum |
+| inhaltlich beschraenkt | Paragraf 31 Abs. 1 S. 2 UrhG (Zweckuebertragungstheorie) | Konkrete Nutzungsart benennen |
+
+## Pflichten und Schranken
+
+- **Zweckuebertragungstheorie (Paragraf 31 Abs. 5 UrhG):** Im Zweifel nur die Rechte, die für den Vertragszweck erforderlich sind. → Im Vertrag konkrete Nutzungsarten aufzaehlen.
+- **Angemessenheits-Korrektur (Paragraf 32 UrhG):** Urheber hat Anspruch auf nachtraegliche Anpassung der Vergütung; nicht abdingbar (zwingend).
+- **Weitere Beteiligung (Paragraf 32a UrhG):** Bei auffälligem Missverhältnis besteht ein zwingender Anspruch auf Vertragsanpassung. Hat der ursprüngliche Vertragspartner das Nutzungsrecht übertragen oder weitere Nutzungsrechte eingeräumt und ergibt sich das Missverhältnis aus Erträgen oder Vorteilen eines Dritten, richtet sich der Anspruch nach Absatz 2 unmittelbar gegen diesen Dritten; die Haftung des ursprünglichen Vertragspartners entfällt insoweit. Rechtekette, Erlösstufe und Anspruchsgegner deshalb getrennt feststellen.
+
+## Software-Spezifika (Paragrafen 69a-g UrhG)
+
+| Norm | Inhalt |
+|---|---|
+| Paragraf 69a | Schutzfaehigkeit von Computerprogrammen; Ausdrucksform |
+| Paragraf 69b | Arbeitsergebnis des Arbeitnehmers - AG erwirbt ausschliessliche Nutzungsrechte kraft Gesetzes |
+| Paragraf 69c | Zustimmungsbeduerftige Handlungen (Vervielfaeltigung, Umarbeitung, Verbreitung) |
+| Paragraf 69d | Erlaubte Handlungen ohne Zustimmung (bestimmungsgemaesse Benutzung, Sicherheitskopie) |
+| Paragraf 69e | Dekompilierung zur Interoperabilitaet |
+| Paragraf 69f | Verletzungsfolgen |
+| Paragraf 69g | Verhältnis zu sonstigen Vorschriften |
+
+## Source-Code vs. Object-Code
+
+- **Object-Code-Lizenz** (Standard): nur Ausfuehrung, keine Quellcode-Einsicht.
+- **Source-Code-Lizenz** (selten direkt): mit Recht zur Bearbeitung; meist nur als Escrow.
+- → Bei Software-Abhaengigkeit: Source-Code-Escrow vereinbaren (siehe `escrow-quellcode-verwahrer-vereinbarung`).
+
+## Open-Source-Compliance
+
+Prüfen vor Vertragsschluss:
+- Open-Source-Bill-of-Materials (OSS-BOM): welche Komponenten sind im Stack?
+- Copyleft-Risiken: GPL, AGPL → Quellcode-Offenlegungspflicht?
+- LGPL: dynamisches Linking unproblematisch für Distribution.
+- MIT/Apache-2.0: zulaessige Mischung.
+- Lizenzkompatibilitaet Paragraf 69c UrhG; bei GPL-Verstoss: Loeschung der OSS-Komponente vor Distribution.
+
+## Klausel-Bausteine (DE)
+
+**1. Lizenzgegenstand:**
+> "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das [einfache / ausschliessliche] Nutzungsrecht an der in **Anlage A** bezeichneten Software ("Lizenzgegenstand") für die in **Anlage B** definierten Nutzungsarten ein."
+
+**2. Nutzungsarten:**
+> "Die Lizenz umfasst die Vervielfaeltigung im Sinne des Paragraf 69c Nr. 1 UrhG, die bestimmungsgemaesse Benutzung im Sinne des Paragraf 69d Abs. 1 UrhG sowie [Verbreitung / Bearbeitung / oeffentliche Wiedergabe]."
+
+**3. Vergütung:**
+> "Die Vergütung betraegt [Pauschale / Running Royalty in Höhe von X % des Nettoumsatzes]. Die Parteien bestaetigen, dass die Vergütung im Sinne des Paragraf 32 UrhG angemessen ist."
+
+## Anschluss
+
+- Source-Code-Escrow: `escrow-quellcode-verwahrer-vereinbarung`
+- Verguetungsklausel: `klausel-verguetung-pauschale-royalty-tiered`
+- Insolvenz: `insolvenz-fortbestand-paragraf-103-inso-lizenz`
+
+---
+
 ## Skill: `klausel-exklusivitaet-sole-non-exclusive`
 
-_Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusive in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Klausel Exklusivität — sole, exclusive, non-exclusive: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Klausel Exklusivitaet — sole, exclusive, non-exclusive
 
@@ -377,9 +746,206 @@ _Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusive in Lizenzve
 
 ---
 
+## Skill: `sicherungslizenz-pfandrecht-an-immaterialguetern`
+
+_Für Sicherungslizenz und Pfandrecht an Immaterialgütern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Sicherungslizenz und Pfandrecht an Immaterialguetern
+
+## Verwendungslagen
+
+| Fall | Konstellation |
+|---|---|
+| **Akquisitionsfinanzierung** | Bank gibt Kredit gegen Verpfaendung der IP des Unternehmens |
+| **Bridge-Finanzierung Start-up** | IP des Start-ups als Sicherheit für Investorenkredit |
+| **Konzernfinanzierung** | IP-Holding verpfaendet IP für Konzerndarlehen |
+
+## Strukturen
+
+### A. Verpfaendung (Paragrafen 1273 ff. BGB analog)
+
+| IP-Typ | Verpfaendung |
+|---|---|
+| Patent | Eintragung im Patentrolle; Anzeigepflicht DPMA |
+| Marke | Eintragung im Markenregister DPMA |
+| Urheberrecht | Verpfaendung formlos möglich; aber ohne Eintragung schwach |
+| Geschmacksmuster | Eintragung DPMA |
+| Geschäftsgeheimnis | nicht eintragbar; Verpfaendung schwierig (Bekannmachung gefaehrdet Geheimnis) |
+
+### B. Sicherungsabtretung (uebertragender Sicherheit)
+
+Voll-Uebertragung des IP an den Sicherheitennehmer; aufschiebend bedingt durch Tilgung des gesicherten Kredits. Im Insolvenzfall: Sicherheitennehmer ist Eigentümer, kein Paragraf 103 InsO.
+
+### C. Sicherungslizenz (aufschiebend bedingt)
+
+Bedingte Lizenz; tritt bei Eintritt des Sicherungsfalls automatisch in Kraft.
+
+## Klausel-Baustein (Sicherungsabtretung Patent)
+
+> **Sicherungsabtretung.**
+>
+> (1) Zur Sicherung der Forderungen des Sicherheitennehmers aus dem Darlehensvertrag vom [Datum] tritt der Sicherheitengeber das Patent [Reg.-Nr.] ("Sicherheitspatent") aufschiebend bedingt an den Sicherheitennehmer ab. Die Bedingung tritt mit Eintritt des Sicherungsfalls im Sinne von Absatz 3 ein.
+>
+> (2) Der Sicherheitengeber ist berechtigt, das Sicherheitspatent waehrend des Bestehens der gesicherten Forderung weiterhin in eigenem Namen zu nutzen, zu pflegen, Verlaengerungsgebuehren zu entrichten und Lizenzen an Dritte zu vergeben. Bei Lizenzvergabe an Dritte wird der Sicherheitennehmer rechtzeitig informiert.
+>
+> (3) Sicherungsfall liegt vor, wenn (a) der Sicherheitengeber mit der Zahlung der gesicherten Forderung in Verzug ist und nach Mahnung mit Fristsetzung von 14 Tagen nicht erfuellt, (b) ein Insolvenzverfahren über das Vermögen des Sicherheitengebers eroeffnet wird, oder (c) das Sicherheitspatent aufgrund pflichtwidrigen Verhaltens des Sicherheitengebers (Nicht-Zahlung Verlaengerungsgebuehren) in Gefahr geraet.
+>
+> (4) Im Sicherungsfall wird die Abtretung wirksam. Der Sicherheitennehmer ist berechtigt, das Sicherheitspatent zu verwerten. Die Verwertung erfolgt zu marktueblichen Konditionen; ein Erlos, der die gesicherte Forderung uebersteigt, wird dem Sicherheitengeber ausgekehrt.
+>
+> (5) Mit Erfuellung der gesicherten Forderung erlischt die aufschiebende Bedingung; das Sicherheitspatent bleibt beim Sicherheitengeber.
+
+## Eintragung DPMA
+
+Sicherungsabtretung an Patenten ist im DPMA-Patentregister eintragbar (deklaratorisch, aber wichtig für Sukzessionsschutz). Antrag durch beide Parteien; Kosten typischerweise Sicherheitennehmer.
+
+## Verhältnis zu Bestehender Lizenz
+
+Verpfaendung/Sicherungsabtretung beruehrt **nicht** bestehende einfache Lizenzen Dritter, sofern diese mit Sukzessionsschutz eingetragen sind (Paragraf 30 III MarkenG analog).
+
+## Anschluss
+
+- Insolvenz: `insolvenz-fortbestand-paragraf-103-inso-lizenz`
+- Patent: `lizenz-patent-patg`
+
+---
+
+## Skill: `klausel-rechtswahl-gerichtsstand-schiedsklausel`
+
+_Für Klausel Rechtswahl, Gerichtsstand, Schiedsklausel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Klausel Rechtswahl, Gerichtsstand, Schiedsklausel
+
+## Drei Strukturentscheidungen
+
+### A. Rechtswahl (Rom-I-VO Art. 3)
+
+| Wahl | Empfohlen wenn |
+|---|---|
+| Deutsches Recht | Beide Parteien deutsch; einfach durchsetzbar |
+| Schweizer Recht | Wirtschaftlich neutral; Schiedsstandort Zuerich/Genf |
+| English Law | International ueblich bei tech/IP; aber Brexit-Folgen |
+| New York Law | bei US-Lizenznehmer haeufig gefordert |
+| Rom-I-VO Art. 4 | Ohne Rechtswahl: Recht des Lizenzgeber-Sitzes (Art. 4 II) |
+
+### B. Gerichtsstand
+
+| Option | Wann |
+|---|---|
+| ordentliche Gerichte am Sitz Lizenzgeber | bei deutscher Konstellation |
+| ordentliche Gerichte am Sitz Lizenznehmer | bei B2B-Vertraegen mit Verbraucherschutzfreiheit |
+| Schiedsgericht | bei internationalen Vertraegen Standard |
+
+### C. Schiedsklausel — Standardmodelle
+
+| Institut | Sitz | Anwendung |
+|---|---|---|
+| **DIS** Deutsche Institution für Schiedsgerichtsbarkeit | Koeln | deutsche Verträge |
+| **ICC** International Chamber of Commerce | Paris | international |
+| **LCIA** London Court of International Arbitration | London | international, Common Law |
+| **SCC** Stockholm Chamber of Commerce | Stockholm | OST-West, Energie |
+| **HKIAC / SIAC** | HK / Singapur | Asien |
+
+## Klausel-Bausteine
+
+**A. Standard Deutsches Recht / DIS-Schiedsgericht:**
+> "Paragraf 15 Rechtswahl und Streitbeilegung.
+> (1) Dieser Vertrag unterliegt dem Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts (CISG) sowie der IPR-Vorschriften.
+> (2) Alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag werden nach der Schiedsgerichtsordnung der Deutschen Institution für Schiedsgerichtsbarkeit (DIS) unter Ausschluss des ordentlichen Rechtsweges endgueltig entschieden. Schiedsort ist [Frankfurt am Main / Berlin / Muenchen]. Verfahrenssprache ist [Deutsch / Englisch]. Das Schiedsgericht besteht aus [einem / drei] Schiedsrichter."
+
+**B. Mediation-Vorschaltung:**
+> "(3) Vor Anrufung des Schiedsgerichts verpflichten sich die Parteien zur Durchfuehrung eines Mediationsverfahrens nach der Mediationsordnung der DIS. Das Mediationsverfahren gilt als gescheitert, wenn binnen 90 Tagen seit Einleitung keine Einigung erzielt wurde."
+
+**C. Multi-Tier-Klausel (Eskalation):**
+> "Streitigkeiten werden zunaechst durch direkte Verhandlungen der Geschäftsführungen geloest. Scheitern die Verhandlungen binnen 30 Tagen, wird Mediation durchgefuehrt. Scheitert die Mediation binnen weiterer 60 Tage, wird das Schiedsgericht angerufen."
+
+**D. Bilinguale Variante (DE/EN):**
+> "Paragraf 15 Governing Law and Dispute Resolution. This Agreement shall be governed by the laws of the Federal Republic of Germany under exclusion of the UN Convention on Contracts for the International Sale of Goods (CISG) and conflict-of-laws provisions. Any dispute, controversy or claim arising out of or in connection with this Agreement shall be finally settled under the DIS Arbitration Rules. The seat of arbitration shall be Frankfurt am Main. The language of arbitration shall be English."
+
+## Anschluss
+
+- Output bilingual: `output-zweisprachig-bilingual-deutsch-englisch`
+- Internationale Aspekte: in den Compliance-Skills
+
+---
+
+## Skill: `steuern-quellensteuer-und-dba-lizenz`
+
+_Für Steuern und Quellensteuer — Lizenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Steuern und Quellensteuer — Lizenz
+
+## Drei Steuerthemen
+
+### A. Quellensteuer auf Royalties
+
+| Norm | Inhalt |
+|---|---|
+| Paragraf 49 I Nr. 6 EStG | Lizenzgebuehren an beschraenkt steuerpflichtige Ausländer: Quellensteuer 15 % |
+| Paragraf 50a EStG | Steuerabzug an der Quelle; Schuldner = Lizenznehmer |
+| Paragraf 50d EStG | Erstattungs-/Freistellungsverfahren beim Bundeszentralamt für Steuern (BZSt) |
+
+### B. DBA-Reduktion
+
+Doppelbesteuerungsabkommen reduzieren regelmaessig die Quellensteuer:
+
+| DBA | Lizenz-Quellensteuer |
+|---|---|
+| DE-USA | 0 % (Art. 12 DBA-USA bei Antragsverfahren) |
+| DE-CH | 0 % (Art. 12 DBA-CH) |
+| DE-UK | 0 % (Art. 12 DBA-UK) |
+| DE-FR | 0 % (EU-Zinsen-Lizenz-RL 2003/49/EG bei Konzernschwester) |
+| DE-NL | 0 % (Art. 12 DBA-NL) |
+| DE-China | 10 % |
+| DE-Indien | 10 % |
+
+→ Vor Vertragsschluss: DBA prüfen, Freistellungsbescheinigung beantragen.
+
+### C. EU-Zinsen-Lizenzgebuehren-Richtlinie (2003/49/EG)
+
+Bei Lizenzen zwischen verbundenen Unternehmen (mindestens 25 % Beteiligung) in EU-Mitgliedstaaten: Quellensteuer 0 %.
+
+### D. Umsatzsteuer
+
+- B2B Lizenz innerhalb EU: Reverse-Charge (Paragraf 13b UStG)
+- B2C Lizenz: USt-Pflicht im Empfaengerland
+- Aussergewoehnliche Geschäftsveraeusserung im Ganzen: Paragraf 1 Ia UStG - bei IP-Voll-Uebertragung ggf. einschlaegig (siehe EuGH Zita Modes C-497/01)
+
+## Klausel-Bausteine
+
+**A. Quellensteuer-Klausel (Groß-up):**
+> "Paragraf 19 Steuern.
+> (1) Lizenzgebuehren sind ohne Abzug von Steuern, Gebuehren oder anderen Abgaben zu zahlen.
+> (2) Sofern der Lizenznehmer kraft Gesetzes verpflichtet ist, von der Lizenzgebuehr Quellensteuer einzubehalten, erhoeht sich die Lizenzgebuehr um den Betrag der Quellensteuer (Groß-up), so dass der Lizenzgeber den vertraglich vereinbarten Nettobetrag erhaelt.
+> (3) Sofern der Lizenzgeber durch DBA-Anwendung oder die EU-Zinsen-Lizenz-Richtlinie einen reduzierten Quellensteuersatz oder Steuerbefreiung beanspruchen kann, wirkt er bei der Beschaffung der erforderlichen Bescheinigungen mit."
+
+**B. Umsatzsteuer:**
+> "(4) Die Lizenzgebuehren sind Nettobetraege. Auf die Lizenzgebuehr ist die gesetzliche Umsatzsteuer hinzuzurechnen. Bei B2B-Konstellationen innerhalb der EU gilt das Reverse-Charge-Verfahren (Paragraf 13b UStG)."
+
+**C. Steuer-Erstattung:**
+> "(5) Wird die Quellensteuer rueckwirkend reduziert oder erstattet, fliesst der Erstattungsbetrag dem Lizenzgeber zu, soweit dieser den Groß-up bereits getragen hat."
+
+## Prüfroutine vor Vertragsschluss
+
+```
+1. Ist der Lizenzgeber beschraenkt steuerpflichtig (Sitz im Ausland)?
+2. Welches DBA gilt?
+3. Quellensteuer-Reduktion moeglich?
+4. Freistellungsbescheinigung BZSt vorhanden?
+5. Gross-up-Klausel im Vertrag?
+6. Verbundene Unternehmen? Dann EU-Zinsen-Lizenz-RL pruefen.
+7. USt-Behandlung in Anlage E festhalten.
+```
+
+## Anschluss
+
+- Verguetungsstruktur: `klausel-verguetung-pauschale-royalty-tiered`
+- Rechtswahl bei Cross-Border: `klausel-rechtswahl-gerichtsstand-schiedsklausel`
+
+---
+
 ## Skill: `klausel-haftung-gewaehrleistung-indemnification`
 
-_Wenn es um Klausel Haftung, Gewaehrleistung, Indemnification in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Klausel Haftung, Gewährleistung, Indemnification: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Klausel Haftung, Gewaehrleistung, Indemnification
 
@@ -432,562 +998,117 @@ Bei Patentlizenzen kommt hinzu: Was bei Patent-Nichtigerklaerung?
 
 ---
 
-## Skill: `escrow-quellcode-verwahrer-vereinbarung`
+## Skill: `lizenz-geschaeftsgeheimnis-knowhow-geschgehg`
 
-_Wenn es um Escrow / Quellcode-Verwahrer-Vereinbarung in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Lizenz Geschäftsgeheimnis / Know-how (GeschGehG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Escrow / Quellcode-Verwahrer-Vereinbarung
-
-## Anwendungsfall
-
-Lizenznehmer macht sich von der Software des Lizenzgebers abhaengig. Bei Ausfall des Lizenzgebers (Insolvenz, Geschäftsaufgabe) braucht der Lizenznehmer Zugriff auf Source Code, um den Betrieb fortzufuehren. Loesung: Drei-Parteien-Escrow-Vertrag.
-
-## Drei-Parteien-Struktur
-
-```
-+---------------+            +---------------+
-|  Lizenzgeber  | <--------> |  Lizenznehmer |
-+---------------+            +---------------+
-        |                            ^
-        | Hinterlegung               | Release bei Trigger
-        v                            |
-        +-------- Escrow-Agent ------+
-                  (Verwahrer)
-```
-
-## Hinterlegungsumfang
-
-| Bestandteil | Inhalt |
-|---|---|
-| **Source Code** | Vollstaendiger lauffaehiger Quellcode (Git-Bundle mit Commit-Historie) |
-| **Build-Anweisungen** | Wie wird aus Source Code ein Build erstellt? Konfigurationsdateien, Build-Scripts |
-| **Dependencies-Liste** | OSS und proprietaere Abhaengigkeiten mit Versionen |
-| **Dokumentation** | Architektur-Diagramme, API-Docs, Datenbank-Schema |
-| **Schlüssel/Credentials** | (falls für Build noetig) |
-| **Test-Suiten** | Automatisierte Tests + Erwartete Ergebnisse |
-
-## Release-Trigger
-
-| Trigger | Definition |
-|---|---|
-| **Insolvenz Lizenzgeber** | Antrag auf Insolvenzeroeffnung; Geschäftseinstellung |
-| **Wartungsausfall** | Nicht-Erfuellung der Wartungs-/Support-Pflicht waehrend > 90 Tagen |
-| **Schwere Vertragsverletzung** | Z. B. Verletzung des Lizenzgegenstands oder Insolvenzanmeldung |
-| **Verkauf Lizenzgeber** | Verkauf des IP an Dritten ohne Fortfuehrung Wartung |
-
-## Anbieter (Beispiele, marktueblich)
-
-- **Iron Mountain** (Marktfuehrer, USA + Europa)
-- **NCC Group** (UK, mit Verification-Services)
-- **Escrow Europe** (Niederlande)
-- **Deutscher Anwalts-/Notarverwahrer** (kleine Vertragsvolumina)
-
-## Aktualisierungspflicht
-
-> "Der Lizenzgeber hinterlegt einen aktualisierten Source Code mindestens vierteljaehrlich. Bei wesentlichen Änderungen (neue Major-Version) Aktualisierung unverzueglich."
-
-## Verification-Klausel
-
-> "Der Lizenznehmer hat das Recht, einmal pro Jahr durch den Escrow-Agent eine technische Verifikation durchzufuehren: Build aus dem hinterlegten Code reproduzieren und mit der Lizenzversion vergleichen. Die Verifikationskosten traegt der Lizenznehmer."
-
-## Insolvenzfeste Gestaltung
-
-Damit der Verwalter den Escrow nicht "abwaehlen" kann (Paragraf 103 InsO):
-
-1. Source Code befindet sich **rechtlich beim Lizenznehmer** mit aufschiebender Bedingung
-2. Hinterlegung beim Escrow-Agent dient nur der Realisierung
-3. Trigger-Tatbestand "Insolvenz" als Release-Bedingung
-
-Siehe vertiefend: `insolvenz-fortbestand-paragraf-103-inso-lizenz`.
-
-## Klausel-Baustein
-
-> **Paragraf 14 Source-Code-Escrow.**
->
-> (1) Der Lizenzgeber wird den vollstaendigen Source Code zur Lizenzsoftware nebst Build-Anweisungen, Dependencies-Liste, Architektur-Dokumentation und Test-Suite bei einem Escrow-Agent ("Verwahrer") hinterlegen. Verwahrer wird einvernehmlich von den Parteien innerhalb von 30 Tagen nach Vertragsunterzeichnung bestimmt.
->
-> (2) Der Lizenzgeber aktualisiert die Hinterlegung mindestens vierteljaehrlich.
->
-> (3) Der Verwahrer gibt die Hinterlegung an den Lizenznehmer heraus, wenn einer der folgenden Trigger eintritt: (a) Eroeffnung eines Insolvenzverfahrens über das Vermögen des Lizenzgebers; (b) Wartungsausfall über mehr als 90 zusammenhaengende Tage trotz schriftlicher Mahnung; (c) endgueltige Geschäftsaufgabe des Lizenzgebers.
->
-> (4) Mit Herausgabe erwirbt der Lizenznehmer das Recht, den Source Code zu nutzen, zu modifizieren und zur Wartung der Lizenzsoftware einzusetzen. Eine Weitergabe an Dritte ist ausgeschlossen.
->
-> (5) Die Kosten des Escrow traegt [der Lizenzgeber / der Lizenznehmer / die Parteien je zur Haelfte].
-
-## Anschluss
-
-- Insolvenzfestigkeit: `insolvenz-fortbestand-paragraf-103-inso-lizenz`
-- Software-Lizenz: `lizenz-urheberrecht-und-software-urhg`
-
----
-
-## Skill: `klausel-mindestlizenzen-meldungen-audit`
-
-_Wenn es um Klausel Mindestlizenzen, Meldungen, Audit in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Klausel Mindestlizenzen, Meldungen, Audit
-
-## Drei Bausteine
-
-### A. Mindestlizenzgebuehr
-
-Untergrenze pro Periode (Jahr, Quartal). Schuetzt den Lizenzgeber vor passiven Lizenznehmern bei ausschliesslicher Lizenz.
-
-> "Pro Kalenderjahr betraegt die Mindestlizenzgebuehr [Betrag] EUR. Die Mindestlizenzgebuehr wird auf Running Royalties angerechnet. Unterschreitet die kalenderjaehrliche Running Royalty die Mindestlizenzgebuehr, ist der Differenzbetrag binnen 30 Tagen nach Jahresende zu zahlen."
-
-### B. Meldepflichten
-
-Quartalsweise Bericht; jaehrlicher Compliance-Bericht.
-
-> "Der Lizenznehmer uebermittelt dem Lizenzgeber binnen 30 Tagen nach Ende eines jeden Kalenderquartals einen Bericht mit folgendem Inhalt:
-> - Stueckzahl der verkauften Lizenzprodukte,
-> - Nettoumsatz mit Lizenzprodukten,
-> - berechnete Running Royalty,
-> - bei Sub-Lizenzen: Stueckzahlen und Umsaetze der Unterlizenznehmer."
-
-### C. Audit-Recht
-
-> "Der Lizenzgeber ist berechtigt, einmal pro Kalenderjahr nach Voranmeldung von mindestens 14 Tagen durch einen oder eine vereidigte Wirtschaftspruefer:in die Berechnung der Lizenzgebuehren beim Lizenznehmer zu prüfen. Die Prüfkosten traegt der Lizenzgeber, es sei denn, das Audit ergibt eine Abweichung von mehr als 5 % zulasten des Lizenzgebers; in diesem Fall traegt der Lizenznehmer die Prüfkosten und die festgestellte Differenz nebst Verzugszinsen in Höhe von 9 Prozentpunkten über dem Basiszinssatz."
-
-## Eskalationsstufen bei Berichts-/Zahlungsverzug
-
-| Stufe | Bei Verzug … | Maßnahme |
-|---|---|---|
-| 1 | Erstmalig + < 14 Tage | Mahnung schriftlich |
-| 2 | 14 - 60 Tage | Mahnung + Verzugszinsen Paragraf 288 II BGB |
-| 3 | > 60 Tage | Recht zur ausserordentlichen Kuendigung; Suspendierung der Lizenz |
-| 4 | wiederholt | Audit + Schadensersatz; Auskunftsanspruch über bisher nicht gemeldete Umsaetze |
-
-## Verzugs- und Strafkonditionen
-
-> "Zahlt der Lizenznehmer eine Lizenzgebuehr nicht oder verspaetet, schuldet er Verzugszinsen in Höhe von 9 Prozentpunkten über dem Basiszinssatz nach Paragraf 247 BGB. Daneben kann der Lizenzgeber bei einem Verzug von mehr als 60 Tagen die Lizenz ausserordentlich kuendigen und Schadensersatz verlangen."
-
-## Anschluss
-
-- Verguetungsmodell: `klausel-verguetung-pauschale-royalty-tiered`
-- Kuendigung: `klausel-vertragsdauer-kuendigung-rueckwirkung`
-
----
-
-## Skill: `klausel-unterlizenzen-sublicensing`
-
-_Wenn es um Klausel Unterlizenzen (Sub-Licensing) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Klausel Unterlizenzen (Sub-Licensing)
+# Lizenz Geschäftsgeheimnis / Know-how (GeschGehG)
 
 ## Normenanker
 
-- Paragraf 35 UrhG - Einraeumung weiterer Nutzungsrechte; bedarf der Zustimmung des Urhebers (im Zweifel)
-- Paragraf 30 MarkenG analog - Sublizenz markenrechtlich grundsätzlich zulässig, sofern Lizenz selbst Sublizenzrecht vorsieht
-- Paragraf 15 PatG analog - Patentlizenz mit Sublizenzrecht zulässig
-- TT-GVO Art. 1 Abs. 1 Nr. 2 - Sublizenzen unter TT-GVO
+- Paragraf 1 GeschGehG - Schutzgegenstand
+- Paragraf 2 GeschGehG - Begriffsbestimmungen; Paragraf 2 Nr. 1: Geschäftsgeheimnis = vertrauliche Information mit Schutzmassnahmen und wirtschaftlichem Wert
+- Paragraf 3 GeschGehG - Erlaubte Handlungen (Reverse Engineering bei rechtmaessig erlangter Sache!)
+- Paragraf 4 GeschGehG - Verbotene Handlungen
+- Paragraf 5 GeschGehG - Schutzausnahmen (Whistleblowing, Journalistik, Aufdeckung Fehlverhalten)
+- Paragrafen 6-12 GeschGehG - Rechtsfolgen (Unterlassung, Schadensersatz, Auskunft, Vernichtung)
 
-## Strukturoptionen
+## Pflichtbaustein: Schutzmassnahmen vor Lizenz
 
-| Option | Mechanik |
+Damit Know-how als Geschäftsgeheimnis schutzfaehig bleibt, muss der Lizenzgeber vor Vertragsschluss nachweisen, dass:
+
+1. **Zugriffsbeschraenkungen** - Need-to-Know, MFA, Branch Protection
+2. **NDAs** mit Mitarbeitern, Beratern, Sub-Unternehmern
+3. **Dokumentation** der Schutzmassnahmen
+4. **Technische Sicherungen** (Verschluesselung, Audit-Trail)
+
+Ohne Schutzmassnahmen kein Geheimnis, kein Schutz, keine durchsetzbare Lizenz.
+
+## Reverse Engineering — Sonderfall
+
+Paragraf 3 GeschGehG: Reverse Engineering einer rechtmaessig erlangten Sache ist **erlaubt**, soweit der Inhaber das nicht vertraglich ausgeschlossen hat.
+
+→ Im Lizenzvertrag: **Reverse-Engineering-Verbot** ausdruecklich vereinbaren (Paragraf 3 Abs. 2 GeschGehG).
+
+## Lizenztypen
+
+| Typ | Inhalt |
 |---|---|
-| **Kein Sublizenzrecht** | Lizenznehmer darf nicht weiter lizenzieren |
-| **Sublizenz nur mit Zustimmung** | jede Sublizenz einzeln genehmigungspflichtig |
-| **Konzern-Sublizenz frei** | innerhalb Paragraf 15 AktG-Konzern ohne Zustimmung |
-| **Volle Sublizenz** | beliebig; nur Anzeigepflicht |
-| **Sublizenz an benannte Dritte** | Anlage mit erlaubten Sub-Lizenznehmern |
-
-## Klausel-Bausteine
-
-**A. Standard mit Zustimmungserfordernis:**
-> "Paragraf 6 Sublizenzen. Der Lizenznehmer darf die unter diesem Vertrag erworbenen Nutzungsrechte nur mit vorheriger schriftlicher Zustimmung des Lizenzgebers an Dritte sublizenzieren. Die Zustimmung darf nicht ohne sachlichen Grund verweigert werden."
-
-**B. Konzern-frei:**
-> "Abweichend von Absatz 1 ist der Lizenznehmer berechtigt, Sublizenzen ohne Zustimmung des Lizenzgebers an Konzernunternehmen im Sinne der Paragrafen 15 ff. AktG zu erteilen. Verlaesst ein Konzernunternehmen den Konzern, endet die Sublizenz automatisch zum Zeitpunkt des Konzernaustritts."
-
-**C. Royalty-Beteiligung am Sub-Lizenz-Erloes:**
-> "Erteilt der Lizenznehmer eine Sublizenz, ist der Lizenzgeber an der vom Sub-Lizenznehmer gezahlten Sublizenz-Gebuehr in Höhe von [Z] Prozent zu beteiligen. Die Beteiligung wird quartalsweise gemeldet und ausgezahlt."
-
-**D. Kettendurchgriff:**
-> "Der Lizenznehmer haftet für Verletzungen dieses Vertrages durch Sub-Lizenznehmer wie für eigene Verletzungen. Bei einer wesentlichen Vertragsverletzung durch einen Sub-Lizenznehmer ist der Lizenzgeber berechtigt, die jeweilige Sublizenz mit Wirkung gegen den Sub-Lizenznehmer ausserordentlich zu kuendigen."
-
-## Sicherungs-Hinweis Paragraf 35 UrhG
-
-Sub-Lizenzen an urheberrechtlichen Werken bestehen **nicht automatisch** weiter, wenn die Hauptlizenz endet. → Vertraglich klären: "Sublizenzen erloeschen mit der Hauptlizenz" (Standard) oder "Sublizenzen bleiben bestehen, wenn der Sub-Lizenznehmer die Lizenzgebuehren direkt an den Lizenzgeber zahlt" (selten).
-
-## Anschluss
-
-- TT-GVO Kartellrecht: `kartellrecht-tt-gvo-eu-316-2014`
-- Vergütung Sub-Erloes: `klausel-verguetung-pauschale-royalty-tiered`
-
----
-
-## Skill: `lizenz-geschmacksmuster-design-designg`
-
-_Wenn es um Lizenz Design (DesignG / EU-Verordnung) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Lizenz Design (DesignG / EU-Verordnung)
-
-## Normenanker
-
-- DesignG (frueher Geschmacksmustergesetz) - deutsche Designs
-- Paragraf 28 DesignG - Schutzdauer max. 25 Jahre (5+5+5+5+5)
-- Paragraf 31 DesignG - Uebertragung und Lizenz; analog Paragraf 30 MarkenG
-- VO (EG) Nr. 6/2002 GGV - EU-Gemeinschaftsgeschmacksmuster (EUIPO)
-- Nicht eingetragenes Gemeinschaftsgeschmacksmuster - 3 Jahre Schutz ab Veroeffentlichung
-- Neuheit + Eigenart als Schutzvoraussetzungen
-
-## Spezifika
-
-- **Schutzgegenstand:** zweidimensionale (Muster) oder dreidimensionale (Form) Erscheinungsform; nicht-techisch.
-- **Eintragungspflicht:** Im DPMA / EUIPO. Bei nicht eingetragenem GGV: 3 Jahre automatisch.
-- **Schutzdauer:** max 25 Jahre nach Anmeldung; alle 5 Jahre verlaengerungspflichtig.
-- **Abgrenzung Marke:** Form/Muster, nicht Kennzeichnung; Marke kann zusaetzlich gelten.
-- **Abgrenzung Patent:** rein aesthetisch, nicht technisch.
+| Know-how-Lizenz | Berechtigung zur Nutzung vertraulicher Informationen + Schulungspflicht des Lizenzgebers |
+| Mixed Lizenz | Know-how + Patent + Marke kombiniert (TT-GVO-relevant) |
+| NDA-Lizenz | reine Geheimhaltungsverpflichtung ohne Nutzungsrecht (selten - eher pre-License) |
 
 ## Klausel-Bausteine (DE)
 
-**1. Lizenzgegenstand Design:**
-> "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das [einfache / ausschliessliche] Recht ein, die in **Anlage A** aufgefuehrten eingetragenen Designs ("Lizenzdesigns") für die Erzeugnisse [Produkte] im Territorium [Territorium] zu nutzen."
+**1. Lizenzgegenstand Geschäftsgeheimnis:**
+> "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das nicht-ausschliessliche, nicht-uebertragbare Recht ein, das in **Anlage A** bezeichnete Know-how ("Lizenz-Know-how") für die in **Anlage B** definierten Zwecke zu nutzen. Das Lizenz-Know-how umfasst die in Anlage A aufgefuehrten technischen Unterlagen, Daten, Prozessbeschreibungen und Quellcode-Auszuege."
 
-**2. Eintragungs-/Verlaengerungs-Pflicht:**
-> "Der Lizenzgeber traegt die Verlaengerungsgebuehren der Lizenzdesigns und sorgt dafuer, dass der Schutz waehrend der Laufzeit dieses Vertrages aufrechterhalten wird."
+**2. Vertraulichkeitspflicht:**
+> "Der Lizenznehmer verpflichtet sich, das Lizenz-Know-how mit der Sorgfalt eines ordentlichen Kaufmanns geheim zu halten. Insbesondere wird der Lizenznehmer (i) Zugriff auf das Need-to-Know-Prinzip beschraenken, (ii) Mitarbeitern und Beratern entsprechende Geheimhaltungsvereinbarungen auferlegen, (iii) das Lizenz-Know-how durch technische Maßnahmen sichern und (iv) keine Kopien ausserhalb des Vertragsbereichs anfertigen."
 
-**3. Verletzungen Dritter:**
-> "Der Lizenznehmer informiert den Lizenzgeber unverzueglich über Kenntnisnahme von Designverletzungen Dritter. Die Verfolgung erfolgt durch den Lizenzgeber; bei nicht-Verfolgung erhaelt der Lizenznehmer ein subsidiaeres Klagerecht."
+**3. Reverse-Engineering-Verbot:**
+> "Der Lizenznehmer wird das Lizenz-Know-how nicht reverse-engineeren, dekompilieren oder durch Analyse der Erscheinungsform Rueckschluesse auf seine Bestandteile ziehen. Dieses Verbot gilt im Sinne des Paragraf 3 Abs. 2 GeschGehG."
 
-## Anschluss
-
-- IP-Identifikation: `ip-identifikation-und-bestandsaufnahme`
-- Vergütung: `klausel-verguetung-pauschale-royalty-tiered`
-
----
-
-## Skill: `klausel-verguetung-pauschale-royalty-tiered`
-
-_Wenn es um Klausel Vergütung — Pauschale, Royalty, Tiered in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
-
-# Klausel Vergütung — Pauschale, Royalty, Tiered
-
-## Verguetungsformen
-
-| Form | Mechanik | Wann sinnvoll |
-|---|---|---|
-| **Pauschale (Lump Sum)** | einmaliger Betrag | Markenrecht ohne Nutzungsabhaengigkeit, hochpreisige One-Off-Deals |
-| **Running Royalty pro Stueck** | Royalty pro verkauftem Produkt | Patent, Gebrauchsmuster bei klar messbarem Stueck |
-| **Running Royalty in % vom Umsatz** | X % vom Nettoumsatz | Software-SaaS, Marke |
-| **Tiered Royalty** | sinkende Royalty bei steigendem Umsatz (z. B. 8 % bis 10 Mio, 5 % darueber) | Anreiz für Volumenwachstum |
-| **Mindestlizenz** | Untergrenze pro Periode | Ausschliessliche Lizenz mit Anreiz auf aktive Nutzung |
-| **Upfront + Running** | Initialzahlung + laufende Royalty | Patent mit Risikoteilung |
-| **Milestones** | Zahlung an bestimmte Erfolge gebunden | Pharma, Forschungs-Lizenz |
-
-## Klausel-Bausteine
-
-**A. Pauschale:**
-> "Paragraf 5 Vergütung. Der Lizenznehmer zahlt eine einmalige Lizenzgebuehr in Höhe von [Betrag] EUR zzgl. gesetzlicher Umsatzsteuer, faellig binnen 30 Tagen nach Vertragsunterzeichnung auf das Konto des Lizenzgebers."
-
-**B. Running Royalty:**
-> "Der Lizenznehmer zahlt eine Running Royalty in Höhe von [X] Prozent des Nettoumsatzes mit Lizenzprodukten. 'Nettoumsatz' bezeichnet die mit den Lizenzprodukten erzielten Brutto-Erloese abzueglich Rabatte, Boni, Skonti, Umsatzsteuer, Versand- und Versicherungskosten. Die Royalty wird kalenderquartalsweise berechnet und ist binnen 30 Tagen nach Quartalsende faellig."
-
-**C. Tiered:**
-> "Die Royalty wird in Stufen wie folgt berechnet:
-> - bis Jahresumsatz EUR 10 Mio.: 8 %
-> - über EUR 10 Mio. bis EUR 50 Mio.: 5 %
-> - über EUR 50 Mio.: 3 %
-> Die Berechnung erfolgt jaehrlich; Stufenwechsel wirkt für den ueberlaufenden Anteil."
-
-**D. Mindestlizenz:**
-> "Unabhaengig vom tatsaechlichen Umsatz zahlt der Lizenznehmer eine Mindestlizenzgebuehr von [Betrag] EUR pro Kalenderjahr. Die Mindestlizenzgebuehr wird auf die in dem jeweiligen Kalenderjahr auflaufenden Running Royalties angerechnet."
-
-**E. Milestones:**
-> "Zusaetzlich zur Running Royalty zahlt der Lizenznehmer Milestone-Zahlungen wie folgt:
-> - Milestone 1 (Markteinfuehrung): [Betrag]
-> - Milestone 2 (Erstes Jahr mit Umsatz > [X]): [Betrag]
-> - Milestone 3 (Kumulierter Umsatz > [Y]): [Betrag]"
-
-## Rechen-Beispiel Tiered Royalty
-
-Jahresumsatz 30 Mio. EUR mit Tieredmodell oben:
-- Tier 1: 10 Mio × 8 % = 800.000 EUR
-- Tier 2: 20 Mio × 5 % = 1.000.000 EUR
-- Summe: 1.800.000 EUR Royalty
-
-## Bezugsgroesse "Nettoumsatz" — Definitionsstreit
-
-Wesentliche Streitpunkte:
-- Rabatte (Listenpreis vs. Netto)
-- Konzerninterne Lieferungen (Transfer Pricing)
-- Bundles (Royalty-Stripping)
-- Garantieleistungen
-→ Vertrag muss "Nettoumsatz" praezise definieren.
-
-## Quellensteuer
-
-Royalties haben Quellensteuer (DE: 15 % nach Paragraf 49 EStG); bei DBA-Anwendung oft Reduktion auf 0/5/10 %. → Skill `steuern-quellensteuer-und-dba-lizenz`.
+**4. Rueckgabepflicht:**
+> "Nach Vertragsbeendigung gibt der Lizenznehmer saemtliche schriftlichen und elektronischen Unterlagen des Lizenz-Know-hows binnen 30 Tagen zurueck oder vernichtet sie nachweislich; bestaetigt schriftlich gegenueber dem Lizenzgeber."
 
 ## Anschluss
 
-- Mindestlizenzen + Audit: `klausel-mindestlizenzen-meldungen-audit`
-- Steuern: `steuern-quellensteuer-und-dba-lizenz`
+- NDA für Vorvertrag: `klausel-vertraulichkeit-und-nda-interimsphase` (folgt)
+- Insolvenz: `insolvenz-fortbestand-paragraf-103-inso-lizenz`
 
 ---
 
-## Skill: `parteienrolle-klaeren-lizenzgeber-nehmer-sicherheiten-verwahrer`
+## Skill: `klausel-lizenzumfang-territorium-zeit-feld`
 
-_Wenn es um Parteienrollen klären in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Klausel Lizenzumfang — Territorium, Zeit, Feld: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Parteienrollen klären
+# Klausel Lizenzumfang — Territorium, Zeit, Feld
 
-## Standardrollen
+## Drei Dimensionen
 
-| Rolle | Funktion | Typische Klausel |
-| --- | --- | --- |
-| Lizenzgeber (Licensor) | inhabt das IP, gewaehrt Nutzungsrechte | Lizenzgegenstand, Garantie Inhaberschaft, Verteidigungspflicht |
-| Lizenznehmer (Licensee) | nutzt das IP gegen Vergütung | Vergütung, Nutzungsumfang, Verbesserungsrechte |
-| Sicherheitengeber | Lizenzgeber, der das IP zur Sicherheit verpfaendet/abtritt | Sicherungslizenz, Aufschiebende Bedingungen |
-| Sicherheitennehmer | Bank/Investor, der das IP als Sicherheit haelt | Realisierungsrechte, Verwertungs-Mandat |
-| Verwahrer (Escrow Agent) | hinterlegt Source Code / IP-Dokumentation | Hinterlegungsbedingungen, Release-Trigger |
-| Cross-Licensor | beidseitige Lizenzgewaehrung (Patentpool, Forschungspartnerschaft) | Gegenseitige Lizenz, Schiedsklausel |
-| Konzernlizenznehmer | Lizenz auch für Konzernunternehmen | Definition Paragraf 15 AktG / Paragraf 17 AktG, Schutzkette |
-
-## Klärungs-Checkliste
-
-### Lizenzgeber
-
-- Wirklich Inhaber? (Schutzrechtsregister, Originaltitel)
-- Mitinhaber? (Patentgemeinschaft Paragraf 6 PatG, Paragraf 8 UrhG)
-- Vorbelastungen? (frueheren Lizenzen)
-- Konzernrechtlich: Tochtergesellschaft als Inhaber (typisch bei IP-Holding)
-
-### Lizenznehmer
-
-- Wer nutzt operativ? (Stamm-AG oder Tochter?)
-- Soll Konzernunternehmen als Lizenznehmer mitgelten?
-- Insolvenzrisiko Lizenznehmer? (Quellensteuer-Geheimnis, AGB-Schwaeche)
-
-### Sicherheiten-Konstellation
-
-- Sicherungslizenz: aufschiebend bedingt + Verwertungsrecht
-- Pfandrecht: Bestellung notariell? Paragrafen 1273 ff. BGB analog
-- Rangverhaeltnis bei mehreren Sicherheitennehmern
-
-### Escrow / Verwahrer
-
-- Wer ist Hinterlegungsstelle? (Speziallabore, Eschapac, Iron Mountain, NotarisBeglaubigung)
-- Release-Trigger: Insolvenz Lizenzgeber, Vertragsverletzung, Verletzung Wartungspflicht
-- Aktualisierungspflicht: wie oft wird das Repository hinterlegt?
-- Kosten und Streitfall: wer traegt die Escrow-Kosten?
-
-## Output: Rollenmatrix
-
-| Rolle | Person/Gesellschaft | Anschrift | gesetzl. Vertreter | Vollmacht-/Notar |
-| --- | --- | --- | --- | --- |
-| Lizenzgeber | … | … | … | … |
-| Lizenznehmer | … | … | … | … |
-| Sicherheitennehmer | … | … | … | … |
-| Verwahrer | … | … | … | … |
-
-## Anschluss
-
-- Visualisierung: `transaktionsstruktur-visualisieren-ascii`
-- Insolvenzfestigkeit: `insolvenz-fortbestand-paragraf-103-inso-lizenz`
-- Sicherheiten: `sicherungslizenz-pfandrecht-an-immaterialguetern`
-- Escrow: `escrow-quellcode-verwahrer-vereinbarung`
-
----
-
-## Skill: `lizenz-patent-patg`
-
-_Wenn es um Lizenz Patent (PatG) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Lizenz Patent (PatG)
-
-## Normenanker
-
-- Paragraf 9 PatG - Schutzwirkung Patent (Ausschlussrecht des Patentinhabers)
-- Paragraf 15 PatG - Uebertragung und Lizenzeinraeumung; Rangschutz Lizenznehmer
-- Paragraf 24 PatG - Zwangslizenz (oeffentliches Interesse; sehr selten)
-- Paragrafen 33 ff. PatG - Anmeldung, Erteilungsverfahren DPMA
-- EPUe - Europaeisches Patentuebereinkommen; EPA-Patente
-- ArbnErfG - Arbeitnehmererfindergesetz; Paragraf 9 Vergütung Erfinder
-- Verordnung (EU) 2026/877 (TTBER) - seit 1. Mai 2026 geltende Technologietransfer-Gruppenfreistellung
-
-## Lizenzformen
-
-| Typ | Definition |
+| Dimension | Beispiel |
 |---|---|
-| ausschliessliche Lizenz | nur dieser eine Lizenznehmer + Lizenzgeber selbst darf ggf. nicht nutzen (sole license) |
-| einfache Lizenz | Lizenzgeber kann weitere Lizenzen vergeben; Lizenznehmer hat eigenes Nutzungsrecht |
-| Cross-License | gegenseitige Lizenz Patentaustausch (Forschungspartner, Wettbewerber) |
-| Pool-Lizenz | gepoolte Patente, FRAND-Konditionen, Pool-Administrator |
-| Zwangslizenz | Paragraf 24 PatG; Verteidigungsrecht im Klagefall |
+| **Territorial** | Deutschland · EU · weltweit · "alle Mitgliedstaaten der EU mit Ausnahme von …" |
+| **Zeitlich** | 5 Jahre · bis zum Ablauf des Schutzrechts · auf unbestimmte Zeit mit Kuendigungsrecht |
+| **Anwendungsfeld (Field of Use)** | "ausschließlich für die Herstellung von Medizinprodukten der Klasse IIa" |
 
-## Pflichten beider Seiten
+## Zweckuebertragungstheorie Paragraf 31 V UrhG
 
-| Lizenzgeber | Lizenznehmer |
-|---|---|
-| Verteidigung des Patents (Einspruch, Nichtigkeitsverfahren) | Vergütung |
-| Aufrechterhaltung (Jahresgebuehren) | Benutzungspflicht ggf. (Mindestlizenzen) |
-| Best-Knowledge-Garantie (Patent in Kraft, kein Drittrechtsstreit) | Meldepflichten (Stueckzahlen, Umsatz) |
-| Erstattungspflicht bei Rueckruf | Verteidigungs-Mitwirkung im Verletzungsstreit |
-
-## ArbnErfG-Konstellation
-
-Wenn das Patent auf Arbeitnehmererfindern beruht:
-
-1. Diensterfindung vs. freie Erfindung (Paragraf 4 ArbnErfG)
-2. Inanspruchnahme durch AG (Paragraf 6 ArbnErfG)
-3. **Verguetungspflicht Paragraf 9 ArbnErfG** - vor Lizenzvergabe abgeloest? Sonst Lizenznehmer mittelbar betroffen.
-4. Verguetungsbemessung nach Richtlinien (ehem. Richtlinien Paragraf 11)
-
-Im Vertrag: Garantie des Lizenzgebers, dass alle ArbnErfG-Verguetungen abgegolten sind.
-
-## Patent Pool / FRAND
-
-Bei standardessenziellen Patenten zunächst Standardessentialität, marktbeherrschende Stellung und FRAND-Erklärung trennen. EuGH, Urteil vom 16.07.2015 - C-170/13 (Huawei Technologies/ZTE), ordnet für den kartellrechtlich zulässigen Unterlassungsantrag aufeinander bezogene Hinweis-, Angebots- und Reaktionsschritte von Patentinhaber und angeblichem Verletzer an. Patentpool und Einzelangebot jeweils auf diskriminierungsfreie Bedingungen, Vergleichslizenzen und Portfolioumfang prüfen.
-
-## Klausel-Bausteine (DE)
-
-**1. Lizenzgegenstand Patent:**
-> "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das einfache, nicht ausschliessliche Recht ein, die in **Anlage A** bezeichneten Patente und Patentanmeldungen ("Lizenzpatente") für das Anwendungsfeld [Feld] im Territorium [Territorium] zu nutzen."
-
-**2. Lizenzgebuehren:**
-> "Der Lizenznehmer zahlt eine Running Royalty in Höhe von [X] % des Nettoumsatzes mit Produkten, die unter mindestens einen Anspruch eines Lizenzpatents fallen ("Lizenzprodukte"), zuzueglich gesetzlicher Umsatzsteuer."
-
-**3. Erfindervergutung:**
-> "Der Lizenzgeber garantiert, dass alle Arbeitnehmererfindervergutungen nach Paragrafen 9 ff. ArbnErfG hinsichtlich der Lizenzpatente vollstaendig abgegolten sind."
-
-**4. Verteidigung:**
-> "Der Lizenzgeber traegt die Aufrechterhaltungsgebuehren und fuehrt etwaige Nichtigkeitsklagen oder Einspruechen selbst. Der Lizenznehmer informiert den Lizenzgeber unverzueglich über Kenntnisnahme von Verletzungen Dritter."
-
-## Anschluss
-
-- Kartellrecht TT-GVO: `kartellrecht-tt-gvo-eu-316-2014`
-- Verguetungsklausel: `klausel-verguetung-pauschale-royalty-tiered`
-- Cross-License: `klausel-verbesserungen-grant-back`
-
----
-
-## Skill: `ip-identifikation-und-bestandsaufnahme`
-
-_Wenn es um IP-Identifikation und Bestandsaufnahme in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
-
-# IP-Identifikation und Bestandsaufnahme
-
-## Zweck
-
-Ohne saubere IP-Identifikation kein guter Lizenzvertrag. Dieser Skill liefert die IP-Inventur für die Anlage A des Vertrags.
-
-## IP-Typen — pro Typ ein Register
-
-| IP-Typ | Register / Quelle | Prüfen |
-| --- | --- | --- |
-| Urheberrecht (klassische Werke) | nicht registriert; Werk-Nachweis | Schoepfungsdatum, Werkkategorie, Schoepfer/Miturheber, ggf. Verwertungsgesellschaft |
-| Software | nicht registriert; Repository-Historie | Repository-Standort (GitHub etc.), Mitarbeiter-Code-Anteile Paragraf 69b UrhG, Open-Source-Komponenten |
-| Patent | DPMA (deutsch), EPA (europaeisch), USPTO/WIPO | Anmeldedatum, Erteilungsdatum, Schutzdauer, Erfinder, Gemeinschaft, Arbeitnehmererfindergesetz |
-| Marke | DPMA, EUIPO, WIPO | Reg.-Nr., Wort/Bild, Klassen, Schutzgebiete, Verlaengerung, Benutzungspflicht |
-| Geschmacksmuster (Design) | DPMA, EUIPO | Reg.-Nr., Anmeldedatum, Schutzdauer (max 25 J.) |
-| Gebrauchsmuster | DPMA | Reg.-Nr., Anmeldedatum, Schutzdauer 10 J., kein Prüfverfahren |
-| Geschäftsgeheimnis/Know-how | nicht registriert; Schutzmassnahmen | Schutzmassnahmen nach Paragraf 2 GeschGehG (NDAs, Zugriffsbeschraenkung, Branch-Protection) |
-| Domains | Whois / united-domains | Inhaber, Provider, Verlaengerung |
-
-## Inventar-Schema (Anlage A des Vertrags)
-
-```
-| Asset-Nr. | Bezeichnung | IP-Typ | Reg.-Nr. | Schutzgebiet | Anmelder/Inhaber | Klassen | Status | Belastungen |
-```
-
-Pro Zeile: ein Schutzrecht. Belastungen = Lizenzen Dritter, Pfandrechte, Sicherungsabtretungen, Veroeffentlichungen die Patentschutz gefaehrden.
-
-## Prüfroutine
-
-1. **Bestand:** Sind alle Schutzrechte tatsaechlich auf den Lizenzgeber registriert?
-2. **Lebensdauer:** Restschutzdauer, Verlaengerungspflichten, Gebuehren faellig?
-3. **Belastungen:** Lizenzen Dritter, Verpfaendungen, Sicherungsabtretungen?
-4. **Erfindervergutung:** Bei Patenten - Arbeitnehmererfindergesetz Paragraf 9 ArbnErfG; Vergütung an Erfinder schon abgeloest?
-5. **Drittstaaten:** Schutz in den Lizenzgebieten wirklich vorhanden? (insb. US/CN/JP)
-6. **Mitinhaber:** Bei Miturheberschaft oder Patentgemeinschaft: alle erfasst?
-7. **OSS-Compliance:** Bei Software - Open-Source-Komponenten erfasst, Lizenzkompatibilitaet Paragraf 69c UrhG?
-
-## Hinweis bei Software
-
-- Paragraf 69a UrhG schuetzt Computerprogramme als Werke.
-- Paragraf 69b UrhG: Arbeitsergebnis des AN gehoert kraft Gesetzes dem AG (ausschliessliche Nutzungsrechte).
-- Prüfen: Welche Repositories? Welche Branches? Wer ist Owner? Welche Open-Source-Lizenzen sind im Stack?
-
-## Anschluss
-
-- Pro IP-Typ vertiefen: `lizenz-urheberrecht-und-software-urhg`, `lizenz-patent-patg`, `lizenz-marke-markeng`, `lizenz-geschmacksmuster-design-designg`, `lizenz-gebrauchsmuster-gebrmg`, `lizenz-geschaeftsgeheimnis-knowhow-geschgehg`.
-
----
-
-## Skill: `klausel-lizenzgegenstand-und-anlage-ip-liste`
-
-_Wenn es um Klausel Lizenzgegenstand + Anlage A in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
-
-# Klausel Lizenzgegenstand + Anlage A
-
-## Funktion
-
-Praezision schlaegt Generalformulierung. Wer den Lizenzgegenstand vage haelt ("alle IP, die der Lizenzgeber besitzt"), riskiert später Streit über Zugehoerigkeit.
-
-## Praezisierungstechniken pro IP-Typ
-
-| IP-Typ | Identifikation |
-|---|---|
-| Urheberrecht (Werk) | Titel, Schoepfer, Schoepfungsjahr, Werkkategorie |
-| Software | Repository-URL, Commit-Hash (z. B. SHA), Branch-Name, Build-Version |
-| Patent | Reg.-Nr. + Datum + ggf. Anspruchsnummer |
-| Marke | Reg.-Nr., Wortmarke/Bildmarke, Nizza-Klassen |
-| Design | Reg.-Nr., Beschreibung, Schutzgebiete |
-| Gebrauchsmuster | Reg.-Nr., Datum |
-| Geschäftsgeheimnis | Bezeichnung + Anlage-Hash + Versionsnummer |
-| Domain | Domain + Registrar |
-
-## Anlage-A-Schema (Standard)
-
-```
-ANLAGE A — LIZENZGEGENSTAND
-==========================
-
-A.1 Patente
-
-| Nr. | Reg.-Nr. | Schutzgebiet | Anmeldedatum | Status | Erfinder | Lizenzansprueche |
-|-----|----------|--------------|--------------|--------|----------|-------------------|
-
-A.2 Marken
-
-| Nr. | Reg.-Nr. | Wort/Bild | Nizza-Klassen | Schutzgebiete | Verlaengerung | Status |
-|-----|----------|-----------|---------------|---------------|---------------|--------|
-
-A.3 Software
-
-| Nr. | Repository | Commit-Hash | Branch | Build-Version | Vergebene Sublizenzen |
-|-----|-----------|-------------|--------|---------------|----------------------|
-
-A.4 Know-how
-
-| Nr. | Bezeichnung | Anlage-Hash | Versionsnummer | Schutzmassnahmen |
-|-----|-------------|-------------|----------------|------------------|
-```
+Bei Urheberrechtslizenzen gilt: Im Zweifel nur die Rechte, die für den Vertragszweck erforderlich sind. → Vertrag muss konkret aufzaehlen, sonst eng auszulegen.
 
 ## Klausel-Baustein
 
-> **Paragraf 2 Lizenzgegenstand.**
+> **Paragraf 3 Lizenzumfang.**
 >
-> (1) Lizenzgegenstand sind die in **Anlage A** aufgefuehrten Schutzrechte und das in Anlage A definierte Know-how (gemeinsam "Lizenzgegenstand").
+> (1) **Raeumlich** umfasst die Lizenz das Territorium [Mitgliedstaaten der Europaeischen Union / weltweit / xxx]. Ausserhalb dieses Territoriums ist die Nutzung des Lizenzgegenstands durch den Lizenznehmer nicht gestattet.
 >
-> (2) Etwaige Anspruchserweiterungen, Patentanmeldungen aus derselben Erfindung oder Folgeanmeldungen fallen [JA / NEIN] automatisch unter den Lizenzgegenstand. Bei JA: Aktualisierung Anlage A jaehrlich.
+> (2) **Zeitlich** wird die Lizenz für eine feste Laufzeit von [N] Jahren ab dem Datum des Wirksamwerdens dieses Vertrages eingeraeumt. Sie verlaengert sich um jeweils [M] Jahre, sofern keine Partei mit einer Frist von [F] Monaten zum Ende der jeweiligen Laufzeit schriftlich kuendigt.
 >
-> (3) Anlage A ist integraler Bestandteil dieses Vertrages.
+> (3) **Sachlich (Anwendungsfeld)** ist die Lizenz beschraenkt auf die in **Anlage B** definierten Anwendungsfelder ("Field of Use"). Eine darueber hinausgehende Nutzung bedarf der vorherigen schriftlichen Zustimmung des Lizenzgebers.
 
-## Prüfroutine vor Vertragsschluss
+## Field-of-Use-Definition (Anlage B)
 
-1. Schutzrechtsregister live abfragen (DPMA, EUIPO, EPA)
-2. Whois für Domains
-3. Repository-Hash bei Software (z. B. `git log -1 --pretty="%H"`)
-4. Anlage-Hash bei Know-how (SHA-256 der Dokumentensammlung)
-5. Belastungen pro Schutzrecht eintragen
+```
+ANLAGE B — ANWENDUNGSFELDER
+
+B.1 Zulaessige Felder:
+- [Feld 1, z. B. "Medizinprodukte Klasse IIa nach MDR"]
+- [Feld 2, z. B. "B2B-Vertrieb in EWR"]
+
+B.2 Ausgeschlossene Felder:
+- [Feld X, z. B. "Konsumentenmarkt"]
+- [Feld Y, z. B. "USA, Kanada"]
+```
+
+## Kartellrechtliche Schranke
+
+Bei territorialen Beschraenkungen prüfen: TT-GVO Art. 4 Abs. 1 enthaelt Kernbeschraenkungen ("hardcore restrictions"), die die Freistellung entfallen lassen. Insbesondere passive Verkaeufe dürfen nicht generell ausgeschlossen werden.
 
 ## Anschluss
 
-- IP-Identifikation: `ip-identifikation-und-bestandsaufnahme`
-- Lizenzumfang: `klausel-lizenzumfang-territorium-zeit-feld`
+- Kartellrecht: `kartellrecht-tt-gvo-eu-316-2014`
+- Exklusivitaet: `klausel-exklusivitaet-sole-non-exclusive`
 
 ---
 

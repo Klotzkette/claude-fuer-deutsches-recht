@@ -1,6 +1,6 @@
 ---
 name: post-laufzeitmessung-qualitaet
-description: "Wenn es um Post: Laufzeitmessung Qualität in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Post: Laufzeitmessung Qualität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Post: Laufzeitmessung Qualität

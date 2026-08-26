@@ -1,6 +1,6 @@
 ---
 name: know-how-erfahrungswissen-arbeitnehmer
-description: "Wenn es um Know How Erfahrungswissen Arbeitnehmer in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Know How Erfahrungswissen Arbeitnehmer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Know How Erfahrungswissen Arbeitnehmer

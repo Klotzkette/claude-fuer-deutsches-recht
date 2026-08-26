@@ -1,6 +1,6 @@
 ---
 name: normtext-heutige-fraktur-lesen-fallloesung
-description: "Wenn es um In heutige Sprache übertragen in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Normtext Heutige Fraktur Lesen Fallloesung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für In heutige Sprache übertragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Preußisches Allgemeines Landrecht. Route: normtext-heutige-fraktur-lesen-fallloesung."
 ---
 
 # In heutige Sprache übertragen

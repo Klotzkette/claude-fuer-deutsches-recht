@@ -1,6 +1,6 @@
 ---
 name: eilantrag-endgueltig-nicht-bestanden
-description: "Wenn es um Eilantrag Endgueltig Nicht Bestanden in Prüfungsrecht an Hochschulen und Universitäten geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Eilantrag Endgültig Nicht Bestanden: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Eilantrag Endgueltig Nicht Bestanden

@@ -1,6 +1,6 @@
 ---
 name: legal-spend-lessons-to-litigation-hold
-description: "Wenn es um Legal Spend und Accruals in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Legal Spend und Accruals: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Legal Spend und Accruals

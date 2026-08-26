@@ -1,6 +1,6 @@
 ---
 name: space-040-amateurfunk-satellit-und-frequenznutzung
-description: "Wenn es um Weltraumrecht: Amateurfunk Satellit und Frequenznutzung in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Amateurfunk Satellit und Frequenznutzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Weltraumrecht: Amateurfunk Satellit und Frequenznutzung

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-sanktionsscreening
-description: "Wenn es um Sanktionslistenprüfung und Embargoabgleich in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanktionslistenprüfung und Embargoabgleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanktionslistenprüfung und Embargoabgleich

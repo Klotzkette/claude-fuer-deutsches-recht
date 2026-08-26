@@ -1,6 +1,6 @@
 ---
 name: security-incident-shop-datenschutzmeldung
-description: "Wenn es um Security Incident Shop Datenschutzmeldung in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Security Incident Shop Datenschutzmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Security Incident Shop Datenschutzmeldung

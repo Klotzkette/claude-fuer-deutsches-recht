@@ -1,6 +1,6 @@
 ---
 name: verpflichtungsermaechtigung-vollzug-tr
-description: "Wenn es um Verpflichtungsermaechtigung Vollzug Tr in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verpflichtungsermächtigung Vollzug Tr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verpflichtungsermaechtigung Vollzug Tr

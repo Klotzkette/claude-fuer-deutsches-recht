@@ -1,6 +1,6 @@
 ---
 name: zitat-bgh-entscheidung-bverfg-gesetz
-description: "Wenn es um BGH-Entscheidung zitieren in Zitierweise deutsches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Zitat Bgh Entscheidung Bverfg Gesetz; Arbeitsfeld: Zitierweise deutsches Recht."
+description: "Für BGH-Entscheidung zitieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Zitierweise deutsches Recht. Route: zitat-bgh-entscheidung-bverfg-gesetz."
 ---
 
 # BGH-Entscheidung zitieren

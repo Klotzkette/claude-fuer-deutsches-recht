@@ -1,6 +1,6 @@
 ---
 name: spezial-screenreader-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Screenreader: Livequellen- und Rechtsprechungscheck in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Screenreader: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Screenreader: Livequellen- und Rechtsprechungscheck

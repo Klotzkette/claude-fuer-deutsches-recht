@@ -1,6 +1,6 @@
 ---
 name: risikoregister-sachverstaendigen-pruefung-03
-description: "Wenn es um LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Baut risiko- in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Baut risiko-: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Baut risiko-

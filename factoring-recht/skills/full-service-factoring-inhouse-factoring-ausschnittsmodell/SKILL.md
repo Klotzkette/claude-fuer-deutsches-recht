@@ -1,6 +1,6 @@
 ---
 name: full-service-factoring-inhouse-factoring-ausschnittsmodell
-description: "Wenn es um Full-Service Factoring Inhouse Factoring Ausschnittsmodell in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Full-Service Factoring Inhouse Factoring Ausschnittsmodell: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Full-Service Factoring Inhouse Factoring Ausschnittsmodell

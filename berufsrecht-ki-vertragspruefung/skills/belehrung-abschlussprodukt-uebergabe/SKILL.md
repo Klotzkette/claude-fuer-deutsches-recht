@@ -1,6 +1,6 @@
 ---
 name: belehrung-abschlussprodukt-uebergabe
-description: "Wenn es um Belehrung: Abschlussprodukt und Übergabe in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Belehrung: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: belehrung-abschlussprodukt-uebergabe."
 ---
 
 # Belehrung: Abschlussprodukt und Übergabe

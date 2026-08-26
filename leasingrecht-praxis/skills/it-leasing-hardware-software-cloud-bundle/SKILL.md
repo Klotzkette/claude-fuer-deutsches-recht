@@ -1,6 +1,6 @@
 ---
 name: it-leasing-hardware-software-cloud-bundle
-description: "Wenn es um IT-Leasing: Hardware, Software und Cloud-Bundle in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für IT-Leasing: Hardware, Software und Cloud-Bundle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IT-Leasing: Hardware, Software und Cloud-Bundle

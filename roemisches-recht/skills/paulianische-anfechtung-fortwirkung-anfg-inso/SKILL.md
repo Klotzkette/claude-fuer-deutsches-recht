@@ -1,6 +1,6 @@
 ---
 name: paulianische-anfechtung-fortwirkung-anfg-inso
-description: "Wenn es um Rom 118 Paulianische Anfechtung Fortwirkung Anfg Inso in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Paulianische Anfechtung Fortwirkung Anfg Inso; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 118 Paulianische Anfechtung Fortwirkung Anfg InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: paulianische-anfechtung-fortwirkung-anfg-inso."
 ---
 
 # Rom 118 Paulianische Anfechtung Fortwirkung Anfg Inso

@@ -1,6 +1,6 @@
 ---
 name: visitenkarte-und-nachweise
-description: "Wenn es um Visitenkarte und Nachweise in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Visitenkarte und Nachweise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Visitenkarte und Nachweise

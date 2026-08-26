@@ -1,6 +1,6 @@
 ---
 name: dpma-designanmeldung-formalien
-description: "Wenn es um Dpma Designanmeldung Formalien in designrecht-geschmacksmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Dpma Designanmeldung Formalien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dpma Designanmeldung Formalien

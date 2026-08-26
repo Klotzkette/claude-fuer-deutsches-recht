@@ -1,6 +1,6 @@
 ---
 name: 09-starug-stabilisierungsanordnung
-description: "Wenn es um 09 StaRUG Stabilisierungsanordnung in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 09 StaRUG Stabilisierungsanordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 09 StaRUG Stabilisierungsanordnung

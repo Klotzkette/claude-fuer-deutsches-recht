@@ -1,6 +1,6 @@
 ---
 name: kostenfestsetzung-kostenpruefer
-description: "Wenn es um Fristen: Compliance-Dokumentation und Aktenvermerk in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fristen: Compliance-Dokumentation und Aktenvermerk

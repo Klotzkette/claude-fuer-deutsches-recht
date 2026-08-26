@@ -1,6 +1,6 @@
 ---
 name: klageerzwingung-172-stpo
-description: "Wenn es um Klageerzwingung Paragraf 172 StPO in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klageerzwingung Paragraf 172 StPO: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klageerzwingung § 172 StPO

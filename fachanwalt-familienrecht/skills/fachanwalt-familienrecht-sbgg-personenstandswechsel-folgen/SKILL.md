@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen
-description: "Wenn es um Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen

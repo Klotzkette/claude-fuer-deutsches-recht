@@ -1,6 +1,6 @@
 ---
 name: verl-zitierweise-pruefung-zeitschrift-jus-njw
-description: "Wenn es um Zitierweise-Pruefung (NJW, NZA, JuS, JZ, ) in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Zitierweise-Prüfung (NJW, NZA, JuS, JZ, ): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Verlagsredaktion. Route: verl-zitierweise-pruefung-zeitschrift-jus-njw."
 ---
 
 # Zitierweise-Pruefung (NJW, NZA, JuS, JZ, ...)

@@ -1,6 +1,6 @@
 ---
 name: gruppenfeststellung-gleichartige-auftraege
-description: "Wenn es um Gruppenfeststellung gleichartige Aufträge in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Gruppenfeststellung gleichartige Aufträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gruppenfeststellung gleichartige Aufträge

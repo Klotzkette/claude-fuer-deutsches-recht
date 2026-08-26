@@ -1,6 +1,6 @@
 ---
 name: field-safety-corrective-action
-description: "Wenn es um Field Safety Corrective Action in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Field Safety Corrective Action: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FSCA und Rückrufkommunikation: moderner Medizinrechts-Skill für Field Safety Corrective Action, Sicherheitsmitteilung, Patientennachverfolgung und Klinikpflichten

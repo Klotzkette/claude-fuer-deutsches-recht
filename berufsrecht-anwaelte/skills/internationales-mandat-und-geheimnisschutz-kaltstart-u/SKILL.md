@@ -1,6 +1,6 @@
 ---
 name: internationales-mandat-und-geheimnisschutz-kaltstart-u
-description: "Wenn es um Internationales Mandat Und Geheimnisschutz Kaltstart U in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internationales Mandat und Geheimnisschutz Kaltstart U: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anwälte: internationales mandat und geheimnisschutz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

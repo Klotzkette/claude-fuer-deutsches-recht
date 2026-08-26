@@ -1,6 +1,6 @@
 ---
 name: inso-tabelle-verbraucherinsolvenz-leitfaden
-description: "Wenn es um InsO: Tabelle und Feststellung in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für InsO: Tabelle und Feststellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # InsO: Tabelle und Feststellung

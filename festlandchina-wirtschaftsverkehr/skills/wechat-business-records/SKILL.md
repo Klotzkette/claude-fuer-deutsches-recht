@@ -1,6 +1,6 @@
 ---
 name: wechat-business-records
-description: "Wenn es um WeChat Business Records: Archivierung/Behördenzugriff/Datenschutz in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für WeChat Business Records: Archivierung/Behördenzugriff/Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # WeChat Business Records: Archivierung/Behördenzugriff/Datenschutz

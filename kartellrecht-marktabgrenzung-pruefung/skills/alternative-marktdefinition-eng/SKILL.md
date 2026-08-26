@@ -1,6 +1,6 @@
 ---
 name: alternative-marktdefinition-eng
-description: "Wenn es um Alternative Marktdefinition — Enger in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Alternative Marktdefinition — Enger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Alternative Marktdefinition — Enger

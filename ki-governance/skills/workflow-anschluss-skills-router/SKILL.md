@@ -1,6 +1,6 @@
 ---
 name: workflow-anschluss-skills-router
-description: "Wenn es um Anschluss-Skills Router in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Anschluss-Skills Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Technik-Governance."
 ---
 
 # Anschluss-Skills Router

@@ -1,6 +1,6 @@
 ---
 name: ki-tool-legal-tech-mandatsgeheimnis
-description: "Wenn es um Ki Tool Legal Tech Mandatsgeheimnis in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ki Tool Legal Tech Mandatsgeheimnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: ki tool in der kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

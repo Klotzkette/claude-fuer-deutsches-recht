@@ -1,6 +1,6 @@
 ---
 name: versorgungswerk-rentenantrag
-description: "Wenn es um versorgungswerk-rentenantrag in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für versorgungswerk-rentenantrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # versorgungswerk-rentenantrag

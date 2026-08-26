@@ -1,6 +1,6 @@
 ---
 name: bezugsbindung-lieferanten-und-kartellrecht
-description: "Wenn es um Franchiserecht: Bezugsbindung, Lieferanten und Kartellrecht in Franchiserecht Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Franchiserecht: Bezugsbindung, Lieferanten und Kartellrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Bezugsbindung, Lieferanten und Kartellrecht

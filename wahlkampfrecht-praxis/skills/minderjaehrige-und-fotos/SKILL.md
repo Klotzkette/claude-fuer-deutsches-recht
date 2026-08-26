@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-und-fotos
-description: "Wenn es um Minderjaehrige Und Fotos in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Minderjährige und Fotos: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Minderjaehrige Und Fotos

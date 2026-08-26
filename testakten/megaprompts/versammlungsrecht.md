@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 56 Skills des Plugins `versammlungsrecht`
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Versammlungsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet …
-2. **kaltstart-triage** — Wenn es um Einsatzleitstelle für den ersten Kontakt in Versammlungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und …
-3. **spontanversammlung-strafrecht-versg** — Wenn es um Spontan heißt nicht schlecht vorbereitet verstecken in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Bewe…
-4. **innenraum-versammlung-kooperationsgespraech** — Wenn es um Innenraum ist nicht automatisch behördenfrei in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
-5. **barrierefreiheit-und-inklusion** — Wenn es um Art. 8 auch praktisch zugänglich machen in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
-6. **widerspruch-klage-eilrechtsschutz** — Wenn es um Routet Widerspruch, Anfechtungsklage, Paragraf 80 Abs in Versammlungsrecht geht: erstellt den passenden Entwu…
-7. **falscher-tag-falscher-ort-einwand** — Wenn es um Nicht jeder Behördenwunsch ist Recht in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenar…
-8. **nachbereitung-aktenvermerk-notfallkarte** — Wenn es um Nach der Versammlung ist die Akte noch nicht fertig in Versammlungsrecht geht: ordnet Akteninhalt, Belege, Lü…
-9. **privat-oeffentlich-abgrenzen** — Wenn es um Öffentlichkeit sauber bestimmen in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumen…
-10. **bekanntgabe-social-media** — Wenn es um Bekanntgabe ist der Fristanker in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
-11. **landesrecht-und-behoerde-finden** — Wenn es um Föderaler Zuständigkeitsfinder in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
-12. **ordner-auswahl** — Wenn es um Ordner sind Schutz, kein Privatpolizei-Ersatz in Versammlungsrecht geht: erstellt den passenden Entwurf aus S…
-13. **eingangsbestaetigung-aktenzeichen-falscher** — Wenn es um Ohne Eingangsnachweis wird es unnötig nervös in Versammlungsrecht geht: ordnet Akteninhalt, Belege, Lücken un…
-14. **wahlkampf-und-politische-kundgebung** — Wenn es um Wahlkampf im öffentlichen Raum in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
-15. **muster-anzeige-eilantrag** — Wenn es um Formular und Freitext in einem in Versammlungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Nor…
+2. **kaltstart-triage** — Für Einsatzleitstelle für den ersten Kontakt: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit…
+3. **widerspruch-klage-eilrechtsschutz** — Für Routet Widerspruch, Anfechtungsklage, Paragraf 80 Abs: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Sc…
+4. **camp-dauerversammlung-datenschutz-fotos** — Für Camp ist nur geschützt, soweit es der Versammlung dient: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpr…
+5. **kosten-haftung-und-versicherung** — Für Kosten nicht überschätzen, Haftung nicht ignorieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfproduk…
+6. **spontanversammlung-strafrecht-versg** — Für Spontan heißt nicht schlecht vorbereitet verstecken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfproduk…
+7. **leiter-verantwortung-mildere-mittel** — Für Leitung ist nicht Befehlsempfänger der Polizei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit…
+8. **ordner-auswahl** — Für Ordner sind Schutz, kein Privatpolizei-Ersatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit …
+9. **verkehr-rettungswege-oepnv** — Für Verkehr ist wichtig, aber kein Pauschalverbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit …
+10. **datenschutz-fotos-livestream** — Für Sichtbarkeit und Datenschutz zusammen denken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit R…
+11. **innenraum-versammlung-kooperationsgespraech** — Für Innenraum ist nicht automatisch behördenfrei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit R…
+12. **gegenveranstaltung-trennung-infostand** — Für Gegenprotest ist nicht automatisch Störung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ris…
+13. **dritte-anwohner-eilversammlung** — Für Drittrechte ernst nehmen ohne Verdrängung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risi…
+14. **schule-universitaet-schutz-vorauseilendem** — Für Junge Versammlungen brauchen klare Rollen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risi…
+15. **nachbereitung-aktenvermerk-notfallkarte** — Für Nach der Versammlung ist die Akte noch nicht fertig: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risik…
 
 ---
 
@@ -143,7 +143,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Einsatzleitstelle für den ersten Kontakt in Versammlungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einsatzleitstelle für den ersten Kontakt: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Einsatzleitstelle für den ersten Kontakt
 
@@ -193,144 +193,9 @@ Nimm jede Anfrage zuerst vom praktischen Ziel her auf: Soll eine Versammlung ang
 
 ---
 
-## Skill: `spontanversammlung-strafrecht-versg`
-
-_Wenn es um Spontan heißt nicht schlecht vorbereitet verstecken in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Spontan heißt nicht schlecht vorbereitet verstecken
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO §§ 80, 123 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-Eine echte Spontanversammlung entsteht aus aktuellem Anlass ohne vorher planbaren Veranstalter. Das schützt nicht vor allen Maßnahmen, entlastet aber von der unmöglichen Voranzeige.
-
-## Kaltstartfragen
-1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?
-2. Geht es um eine öffentliche Versammlung unter freiem Himmel, einen Aufzug, eine Innenversammlung, eine private Zusammenkunft oder eine Mischform?
-3. Wann soll die Versammlung stattfinden und wann soll oder wurde sie öffentlich bekannt gemacht?
-4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
-5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
-
-## Rechtslogik
-- Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
-- Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.
-- Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
-- Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
-
-## Qualitätsgate
-- Wurde das richtige Landesrecht verwendet?
-- Ist die zuständige Behörde oder Polizeidienststelle konkret benannt?
-- Sind Frist, Bekanntgabe und Eil- oder Spontanfall sauber getrennt?
-- Werden Grundrechtsposition und praktische Sicherheitsbelange zusammen gedacht?
-- Sind alle Formulierungen knapp, belegbar und ohne unnötige Selbstbeschränkung?
-
-## Quellen- und Aktualitätsregel
-- Bundesrecht und Landesrecht live prüfen; im Zweifel zuerst `offizielle-quellen-livecheck` verwenden.
-- Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-- Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
-
----
-
-## Skill: `innenraum-versammlung-kooperationsgespraech`
-
-_Wenn es um Innenraum ist nicht automatisch behördenfrei in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Innenraum ist nicht automatisch behördenfrei
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO §§ 80, 123 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-Kläre, ob Art. 8 GG einschlägig ist, ob das Treffen öffentlich ist und ob Sonderrecht wie Hausrecht, Brandschutz, Gaststättenrecht, Schulrecht, Hochschulrecht oder Waffenverbot mitläuft.
-
-## Kaltstartfragen
-1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?
-2. Geht es um eine öffentliche Versammlung unter freiem Himmel, einen Aufzug, eine Innenversammlung, eine private Zusammenkunft oder eine Mischform?
-3. Wann soll die Versammlung stattfinden und wann soll oder wurde sie öffentlich bekannt gemacht?
-4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
-5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
-
-## Rechtslogik
-- Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
-- Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.
-- Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
-- Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
-
-## Qualitätsgate
-- Wurde das richtige Landesrecht verwendet?
-- Ist die zuständige Behörde oder Polizeidienststelle konkret benannt?
-- Sind Frist, Bekanntgabe und Eil- oder Spontanfall sauber getrennt?
-- Werden Grundrechtsposition und praktische Sicherheitsbelange zusammen gedacht?
-- Sind alle Formulierungen knapp, belegbar und ohne unnötige Selbstbeschränkung?
-
-## Quellen- und Aktualitätsregel
-- Bundesrecht und Landesrecht live prüfen; im Zweifel zuerst `offizielle-quellen-livecheck` verwenden.
-- Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-- Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
-
----
-
-## Skill: `barrierefreiheit-und-inklusion`
-
-_Wenn es um Art. 8 auch praktisch zugänglich machen in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Art. 8 auch praktisch zugänglich machen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO §§ 80, 123 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-Prüfe Rollstuhlwege, Stufen, Toiletten, ÖPNV, Leichte Sprache, Dolmetschung, Sichtachsen, Lärmempfindlichkeit und Sanität.
-
-## Kaltstartfragen
-1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?
-2. Geht es um eine öffentliche Versammlung unter freiem Himmel, einen Aufzug, eine Innenversammlung, eine private Zusammenkunft oder eine Mischform?
-3. Wann soll die Versammlung stattfinden und wann soll oder wurde sie öffentlich bekannt gemacht?
-4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
-5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
-
-## Rechtslogik
-- Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
-- Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.
-- Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
-- Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
-
-## Qualitätsgate
-- Wurde das richtige Landesrecht verwendet?
-- Ist die zuständige Behörde oder Polizeidienststelle konkret benannt?
-- Sind Frist, Bekanntgabe und Eil- oder Spontanfall sauber getrennt?
-- Werden Grundrechtsposition und praktische Sicherheitsbelange zusammen gedacht?
-- Sind alle Formulierungen knapp, belegbar und ohne unnötige Selbstbeschränkung?
-
-## Quellen- und Aktualitätsregel
-- Bundesrecht und Landesrecht live prüfen; im Zweifel zuerst `offizielle-quellen-livecheck` verwenden.
-- Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-- Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
-
----
-
 ## Skill: `widerspruch-klage-eilrechtsschutz`
 
-_Wenn es um Routet Widerspruch, Anfechtungsklage, Paragraf 80 Abs in Versammlungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Routet Widerspruch, Anfechtungsklage, Paragraf 80 Abs: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # Routet Widerspruch, Anfechtungsklage, § 80 Abs
 
@@ -378,11 +243,11 @@ Kläre Bescheidtyp: Verbot, Auflage, Sofortvollzug, Untätigkeit, faktische Verh
 
 ---
 
-## Skill: `falscher-tag-falscher-ort-einwand`
+## Skill: `camp-dauerversammlung-datenschutz-fotos`
 
-_Wenn es um Nicht jeder Behördenwunsch ist Recht in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Camp ist nur geschützt, soweit es der Versammlung dient: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Nicht jeder Behördenwunsch ist Recht
+# Camp ist nur geschützt, soweit es der Versammlung dient
 
 ## Arbeitsweg
 
@@ -393,7 +258,7 @@ _Wenn es um Nicht jeder Behördenwunsch ist Recht in Versammlungsrecht geht: ord
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Worum es geht
-Prüfe, ob der Einwand auf konkreter Gefahr, kollidierenden Rechten oder bloßer Zweckmäßigkeit beruht. Ort und Zeitpunkt können selbst Aussagebestandteil sein.
+Erfasse Zweck, Kommunikationsfunktion, Dauer, Zelte, Schlafbereiche, Küche, Strom, Toiletten, Brandschutz, Wetter, Nachtruhe und Symbolik.
 
 ## Kaltstartfragen
 1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?
@@ -423,11 +288,11 @@ Prüfe, ob der Einwand auf konkreter Gefahr, kollidierenden Rechten oder bloßer
 
 ---
 
-## Skill: `nachbereitung-aktenvermerk-notfallkarte`
+## Skill: `kosten-haftung-und-versicherung`
 
-_Wenn es um Nach der Versammlung ist die Akte noch nicht fertig in Versammlungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Kosten nicht überschätzen, Haftung nicht ignorieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Nach der Versammlung ist die Akte noch nicht fertig
+# Kosten nicht überschätzen, Haftung nicht ignorieren
 
 ## Arbeitsweg
 
@@ -438,7 +303,7 @@ _Wenn es um Nach der Versammlung ist die Akte noch nicht fertig in Versammlungsr
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Worum es geht
-Sammle Protokoll, Fotos, Presse, Behördenkommunikation, Beschwerden, Teilnehmendenfeedback, Vorfälle und offene Verfahren.
+Kläre, ob Gebühren erhoben werden dürfen, ob Sondernutzung betroffen ist, wer für Schäden haftet und welche Versicherung oder Vereinsstruktur existiert.
 
 ## Kaltstartfragen
 1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?
@@ -468,11 +333,11 @@ Sammle Protokoll, Fotos, Presse, Behördenkommunikation, Beschwerden, Teilnehmen
 
 ---
 
-## Skill: `privat-oeffentlich-abgrenzen`
+## Skill: `spontanversammlung-strafrecht-versg`
 
-_Wenn es um Öffentlichkeit sauber bestimmen in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Spontan heißt nicht schlecht vorbereitet verstecken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Öffentlichkeit sauber bestimmen
+# Spontan heißt nicht schlecht vorbereitet verstecken
 
 ## Arbeitsweg
 
@@ -483,7 +348,7 @@ _Wenn es um Öffentlichkeit sauber bestimmen in Versammlungsrecht geht: ordnet S
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Worum es geht
-Unterscheide Einladung an unbestimmten Personenkreis, Social-Media-Aufruf, Mitgliederkreis, Ticketveranstaltung, Betriebsversammlung, Vereinsversammlung und öffentliche Kundgebung.
+Eine echte Spontanversammlung entsteht aus aktuellem Anlass ohne vorher planbaren Veranstalter. Das schützt nicht vor allen Maßnahmen, entlastet aber von der unmöglichen Voranzeige.
 
 ## Kaltstartfragen
 1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?
@@ -513,56 +378,11 @@ Unterscheide Einladung an unbestimmten Personenkreis, Social-Media-Aufruf, Mitgl
 
 ---
 
-## Skill: `bekanntgabe-social-media`
+## Skill: `leiter-verantwortung-mildere-mittel`
 
-_Wenn es um Bekanntgabe ist der Fristanker in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Leitung ist nicht Befehlsempfänger der Polizei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Bekanntgabe ist der Fristanker
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO §§ 80, 123 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-Erfasse jeden Kanal, auf dem Ort, Zeit und Thema an einen bestimmten oder unbestimmten Personenkreis kommuniziert werden.
-
-## Kaltstartfragen
-1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?
-2. Geht es um eine öffentliche Versammlung unter freiem Himmel, einen Aufzug, eine Innenversammlung, eine private Zusammenkunft oder eine Mischform?
-3. Wann soll die Versammlung stattfinden und wann soll oder wurde sie öffentlich bekannt gemacht?
-4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
-5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
-
-## Rechtslogik
-- Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
-- Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.
-- Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
-- Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
-
-## Qualitätsgate
-- Wurde das richtige Landesrecht verwendet?
-- Ist die zuständige Behörde oder Polizeidienststelle konkret benannt?
-- Sind Frist, Bekanntgabe und Eil- oder Spontanfall sauber getrennt?
-- Werden Grundrechtsposition und praktische Sicherheitsbelange zusammen gedacht?
-- Sind alle Formulierungen knapp, belegbar und ohne unnötige Selbstbeschränkung?
-
-## Quellen- und Aktualitätsregel
-- Bundesrecht und Landesrecht live prüfen; im Zweifel zuerst `offizielle-quellen-livecheck` verwenden.
-- Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-- Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
-
----
-
-## Skill: `landesrecht-und-behoerde-finden`
-
-_Wenn es um Föderaler Zuständigkeitsfinder in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Föderaler Zuständigkeitsfinder
+# Leitung ist nicht Befehlsempfänger der Polizei
 
 ## Arbeitsweg
 
@@ -573,7 +393,7 @@ _Wenn es um Föderaler Zuständigkeitsfinder in Versammlungsrecht geht: ordnet S
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Worum es geht
-Starte nie mit einer Bundesnorm allein. Seit der Föderalismusreform haben viele Länder eigene Versammlungsgesetze und Zuständigkeitsmodelle.
+Die Leitung sorgt für Ablauf und Ordnung der Versammlung, bleibt aber Grundrechtsträgerin und Kooperationspartnerin.
 
 ## Kaltstartfragen
 1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?
@@ -605,7 +425,7 @@ Starte nie mit einer Bundesnorm allein. Seit der Föderalismusreform haben viele
 
 ## Skill: `ordner-auswahl`
 
-_Wenn es um Ordner sind Schutz, kein Privatpolizei-Ersatz in Versammlungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Ordner sind Schutz, kein Privatpolizei-Ersatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Ordner sind Schutz, kein Privatpolizei-Ersatz
 
@@ -648,11 +468,11 @@ Wähle volljährige, nüchterne, ruhige, konfliktfähige Personen. Vermeide Mens
 
 ---
 
-## Skill: `eingangsbestaetigung-aktenzeichen-falscher`
+## Skill: `verkehr-rettungswege-oepnv`
 
-_Wenn es um Ohne Eingangsnachweis wird es unnötig nervös in Versammlungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Verkehr ist wichtig, aber kein Pauschalverbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Ohne Eingangsnachweis wird es unnötig nervös
+# Verkehr ist wichtig, aber kein Pauschalverbot
 
 ## Arbeitsweg
 
@@ -663,7 +483,7 @@ _Wenn es um Ohne Eingangsnachweis wird es unnötig nervös in Versammlungsrecht 
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Worum es geht
-Prüfe Versandweg, Lesebestätigung, Faxsendebericht, Onlineportal, E-Mail-Autoantwort, Behördensiegel, Hausbriefkasten und Telefonbestätigung.
+Versammlungen dürfen öffentlichen Raum beanspruchen. Verkehrliche Belastung rechtfertigt Beschränkung nur mit konkreter Abwägung.
 
 ## Kaltstartfragen
 1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?
@@ -693,11 +513,11 @@ Prüfe Versandweg, Lesebestätigung, Faxsendebericht, Onlineportal, E-Mail-Autoa
 
 ---
 
-## Skill: `wahlkampf-und-politische-kundgebung`
+## Skill: `datenschutz-fotos-livestream`
 
-_Wenn es um Wahlkampf im öffentlichen Raum in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Sichtbarkeit und Datenschutz zusammen denken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Wahlkampf im öffentlichen Raum
+# Sichtbarkeit und Datenschutz zusammen denken
 
 ## Arbeitsweg
 
@@ -708,7 +528,64 @@ _Wenn es um Wahlkampf im öffentlichen Raum in Versammlungsrecht geht: ordnet Sa
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Worum es geht
-Ordne ein: Versammlung, Sondernutzung, Wahlwerbung, Parteiveranstaltung, Infostand oder Mischform.
+Versammlungen sind öffentlich, aber personenbezogene Daten bleiben sensibel. Schütze Teilnehmende, Ordner und Betroffene vor unnötiger Erfassung.
+
+## Kaltstartfragen
+1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?
+2. Geht es um eine öffentliche Versammlung unter freiem Himmel, einen Aufzug, eine Innenversammlung, eine private Zusammenkunft oder eine Mischform?
+3. Wann soll die Versammlung stattfinden und wann soll oder wurde sie öffentlich bekannt gemacht?
+4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
+5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
+
+## Polizeiaufnahmen, KUG und § 201 StGB
+
+- Trenne strikt **Herstellung** und **Veröffentlichung**: Das bloße Fotografieren oder Filmen von Polizeieinsätzen ist nicht schon § 33 KunstUrhG; das KUG wird vor allem bei Verbreitung oder öffentlicher Zurschaustellung relevant.
+- Prüfe bei Veröffentlichung § 22 KunstUrhG und die Ausnahmen des § 23 KunstUrhG: Zeitgeschehen, Versammlung/Aufzug, Beiwerk und berechtigte Interessen nach § 23 Abs. 2 KunstUrhG.
+- Bei Tonspur nicht reflexhaft „geheimes Wort“ übernehmen: § 201 StGB setzt ein nichtöffentlich gesprochenes Wort voraus. Öffentliche Einsatzkommunikation, laute Anordnungen, Umstehende, Versammlungskontext, Polizeidokumentation und Beweissicherungszweck sind Gegenargumente.
+- Risikofälle bleiben: vertrauliche Einzelgespräche, Personalienabfragen, leise Nebenkommunikation, Opfer-/Unfalllagen, verletzte oder hilflose Personen, Kinder, Nahporträts und Livestream ohne Verpixelung.
+- Wenn die Polizei das Filmen untersagt, verlange gedanklich immer: Rechtsgrundlage, konkrete Gefahr, mildere Mittel, Verhältnismäßigkeit, Dokumentation der Anordnung.
+
+## Anschluss
+
+Für akute Polizeikonflikte nutze zusätzlich `polizeifilmerei-beweissicherung-kug-201-stgb`, für Strafvorwürfe `strafrecht-polizeifilmerei-201-stgb-kug-verteidigung`, für verwaltungsgerichtliche Abwehr `spezial-polizei-filmen-von-einsaetzen-kug-201-stgb`.
+
+## Rechtslogik
+- Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
+- Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.
+- Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
+- Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
+
+## Qualitätsgate
+- Wurde das richtige Landesrecht verwendet?
+- Ist die zuständige Behörde oder Polizeidienststelle konkret benannt?
+- Sind Frist, Bekanntgabe und Eil- oder Spontanfall sauber getrennt?
+- Werden Grundrechtsposition und praktische Sicherheitsbelange zusammen gedacht?
+- Sind alle Formulierungen knapp, belegbar und ohne unnötige Selbstbeschränkung?
+
+## Quellen- und Aktualitätsregel
+- Bundesrecht und Landesrecht live prüfen; im Zweifel zuerst `offizielle-quellen-livecheck` verwenden.
+- Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+- Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
+
+---
+
+## Skill: `innenraum-versammlung-kooperationsgespraech`
+
+_Für Innenraum ist nicht automatisch behördenfrei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Innenraum ist nicht automatisch behördenfrei
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO §§ 80, 123 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Worum es geht
+Kläre, ob Art. 8 GG einschlägig ist, ob das Treffen öffentlich ist und ob Sonderrecht wie Hausrecht, Brandschutz, Gaststättenrecht, Schulrecht, Hochschulrecht oder Waffenverbot mitläuft.
 
 ## Kaltstartfragen
 1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?
@@ -738,11 +615,11 @@ Ordne ein: Versammlung, Sondernutzung, Wahlwerbung, Parteiveranstaltung, Infosta
 
 ---
 
-## Skill: `muster-anzeige-eilantrag`
+## Skill: `gegenveranstaltung-trennung-infostand`
 
-_Wenn es um Formular und Freitext in einem in Versammlungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Gegenprotest ist nicht automatisch Störung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Formular und Freitext in einem
+# Gegenprotest ist nicht automatisch Störung
 
 ## Arbeitsweg
 
@@ -753,7 +630,142 @@ _Wenn es um Formular und Freitext in einem in Versammlungsrecht geht: erstellt d
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Worum es geht
-Baue den Text so, dass die Behörde alle Planungsdaten bekommt, aber keine unnötigen Selbstbeschränkungen oder Rechtsverzichte.
+Trenne legitime Gegenversammlung von gezielter Verhinderung. Beide Seiten haben Art.-8-Schutz, solange friedlich.
+
+## Kaltstartfragen
+1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?
+2. Geht es um eine öffentliche Versammlung unter freiem Himmel, einen Aufzug, eine Innenversammlung, eine private Zusammenkunft oder eine Mischform?
+3. Wann soll die Versammlung stattfinden und wann soll oder wurde sie öffentlich bekannt gemacht?
+4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
+5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
+
+## Rechtslogik
+- Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
+- Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.
+- Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
+- Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
+
+## Qualitätsgate
+- Wurde das richtige Landesrecht verwendet?
+- Ist die zuständige Behörde oder Polizeidienststelle konkret benannt?
+- Sind Frist, Bekanntgabe und Eil- oder Spontanfall sauber getrennt?
+- Werden Grundrechtsposition und praktische Sicherheitsbelange zusammen gedacht?
+- Sind alle Formulierungen knapp, belegbar und ohne unnötige Selbstbeschränkung?
+
+## Quellen- und Aktualitätsregel
+- Bundesrecht und Landesrecht live prüfen; im Zweifel zuerst `offizielle-quellen-livecheck` verwenden.
+- Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+- Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
+
+---
+
+## Skill: `dritte-anwohner-eilversammlung`
+
+_Für Drittrechte ernst nehmen ohne Verdrängung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Drittrechte ernst nehmen ohne Verdrängung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO §§ 80, 123 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Worum es geht
+Prüfe konkrete Betroffenheit, Uhrzeit, Lärm, Zugang, Rettungswege, Schutz vulnerabler Orte und Alternativen.
+
+## Kaltstartfragen
+1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?
+2. Geht es um eine öffentliche Versammlung unter freiem Himmel, einen Aufzug, eine Innenversammlung, eine private Zusammenkunft oder eine Mischform?
+3. Wann soll die Versammlung stattfinden und wann soll oder wurde sie öffentlich bekannt gemacht?
+4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
+5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
+
+## Rechtslogik
+- Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
+- Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.
+- Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
+- Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
+
+## Qualitätsgate
+- Wurde das richtige Landesrecht verwendet?
+- Ist die zuständige Behörde oder Polizeidienststelle konkret benannt?
+- Sind Frist, Bekanntgabe und Eil- oder Spontanfall sauber getrennt?
+- Werden Grundrechtsposition und praktische Sicherheitsbelange zusammen gedacht?
+- Sind alle Formulierungen knapp, belegbar und ohne unnötige Selbstbeschränkung?
+
+## Quellen- und Aktualitätsregel
+- Bundesrecht und Landesrecht live prüfen; im Zweifel zuerst `offizielle-quellen-livecheck` verwenden.
+- Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+- Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
+
+---
+
+## Skill: `schule-universitaet-schutz-vorauseilendem`
+
+_Für Junge Versammlungen brauchen klare Rollen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Junge Versammlungen brauchen klare Rollen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO §§ 80, 123 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Worum es geht
+Kläre, ob Versammlung auf öffentlichem Raum, Schulhof, Campus, Aula oder privatem Gelände stattfindet. Landesrecht und Hausrecht können nebeneinander stehen.
+
+## Kaltstartfragen
+1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?
+2. Geht es um eine öffentliche Versammlung unter freiem Himmel, einen Aufzug, eine Innenversammlung, eine private Zusammenkunft oder eine Mischform?
+3. Wann soll die Versammlung stattfinden und wann soll oder wurde sie öffentlich bekannt gemacht?
+4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
+5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
+
+## Rechtslogik
+- Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
+- Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.
+- Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
+- Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
+
+## Qualitätsgate
+- Wurde das richtige Landesrecht verwendet?
+- Ist die zuständige Behörde oder Polizeidienststelle konkret benannt?
+- Sind Frist, Bekanntgabe und Eil- oder Spontanfall sauber getrennt?
+- Werden Grundrechtsposition und praktische Sicherheitsbelange zusammen gedacht?
+- Sind alle Formulierungen knapp, belegbar und ohne unnötige Selbstbeschränkung?
+
+## Quellen- und Aktualitätsregel
+- Bundesrecht und Landesrecht live prüfen; im Zweifel zuerst `offizielle-quellen-livecheck` verwenden.
+- Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+- Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
+
+---
+
+## Skill: `nachbereitung-aktenvermerk-notfallkarte`
+
+_Für Nach der Versammlung ist die Akte noch nicht fertig: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Nach der Versammlung ist die Akte noch nicht fertig
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO §§ 80, 123 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Worum es geht
+Sammle Protokoll, Fotos, Presse, Behördenkommunikation, Beschwerden, Teilnehmendenfeedback, Vorfälle und offene Verfahren.
 
 ## Kaltstartfragen
 1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?

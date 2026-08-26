@@ -112,6 +112,12 @@ Arbeitsgriff Arbeitsprodukt: Antragspaket, Anhörungsvorbereitung, Widerspruch, 
 - Dublin-III-Verordnung und anwendbares GEAS-Übergangsrecht: Zuständigkeit und Überstellung nur nach zeitlicher Anwendbarkeit.
 - VwGO Paragraf 80 Absatz 5 und Paragraf 123 sowie asylrechtliche Sonderfristen: Eil- und Hauptsacherechtsschutz.
 - Artikel 6 GG, Artikel 8 EMRK und Artikel 24 GRCh: Kindeswohl und Familienleben in der Verhältnismäßigkeitsprüfung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- VwGO-Klage gegen ausländerbehördliche Bescheide: ein Monat Paragraf 74 VwGO; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 60 Abs. 5 AufenthG — Abschiebungsverbot Art. 3 EMRK; Paragraf 60 Abs. 7 — konkrete Leibes- und Lebensgefahr; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 123 VwGO — Einstweilige Anordnung bei Anspruch auf Duldung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 80 Abs. 5 VwGO — Antrag auf Wiederherstellung / Anordnung der aufschiebenden Wirkung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 71 AsylG — Asylfolgeantrag bei neuen Wiederaufgreifensgründen (Paragraf 51 VwVfG); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 6 GG / Art. 8 EMRK — Familienschutz als inlandsbezogenes Vollstreckungshindernis; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 

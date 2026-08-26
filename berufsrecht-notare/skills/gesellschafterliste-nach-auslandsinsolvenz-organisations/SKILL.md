@@ -1,6 +1,6 @@
 ---
 name: gesellschafterliste-nach-auslandsinsolvenz-organisations
-description: "Wenn es um Gesellschafterliste Nach Auslandsinsolvenz Organisations in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschafterliste nach Auslandsinsolvenz Organisations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notare: gesellschafterliste nach auslandsinsolvenz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

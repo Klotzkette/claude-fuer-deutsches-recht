@@ -1,6 +1,6 @@
 ---
 name: unfallregulierung-beweislast-und-darlegungslast
-description: "Wenn es um Unfallregulierung: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unfallregulierung: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Unfallregulierung: Beweislast, Darlegungslast und Substantiierung

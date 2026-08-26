@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmf
-description: "Wenn es um Ressortaufgaben BMF in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ressortaufgaben BMF: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ressortaufgaben BMF

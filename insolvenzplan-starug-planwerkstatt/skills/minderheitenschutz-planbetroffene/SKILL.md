@@ -1,6 +1,6 @@
 ---
 name: minderheitenschutz-planbetroffene
-description: "Wenn es um Minderheitenschutz in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Minderheitenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzplan- und StaRUG-Planwerkstatt."
 ---
 
 # Minderheitenschutz

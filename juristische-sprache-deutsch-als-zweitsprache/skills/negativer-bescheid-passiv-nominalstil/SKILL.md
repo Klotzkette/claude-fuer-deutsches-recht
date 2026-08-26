@@ -1,6 +1,6 @@
 ---
 name: negativer-bescheid-passiv-nominalstil
-description: "Wenn es um Negativer Bescheid Emotional in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Negativer Bescheid Emotional: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Negativer Bescheid Emotional

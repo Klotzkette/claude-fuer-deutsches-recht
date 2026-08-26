@@ -1,6 +1,6 @@
 ---
 name: eilverfahren-verwaltungsgericht-strategie
-description: "Wenn es um Eilverfahren beim Verwaltungsgericht in BNetzA-Sachen in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eilverfahren beim Verwaltungsgericht in BNetzA-Sachen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Eilverfahren beim Verwaltungsgericht in BNetzA-Sachen

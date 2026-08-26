@@ -1,6 +1,6 @@
 ---
 name: dba-kuenstler-sportler-art-17-ma
-description: "Wenn es um Kuenstler und Sportler (Art. 17 OECD-MA) in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Künstler und Sportler (Art. 17 OECD-MA): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kuenstler und Sportler (Art. 17 OECD-MA)

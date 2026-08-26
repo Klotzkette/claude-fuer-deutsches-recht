@@ -1,6 +1,6 @@
 ---
 name: unfall-fahrrad-verbraucherschlichtung
-description: "Wenn es um Kleiner Unfall Fahrrad und Auto in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kleiner Unfall Fahrrad und Auto: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kleiner Unfall Fahrrad und Auto

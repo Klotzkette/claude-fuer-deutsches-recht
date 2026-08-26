@@ -1,6 +1,6 @@
 ---
 name: digital-services-datenzugang-forscher-dsa
-description: "Wenn es um Datenzugang für Forschung nach Art. 40 DSA in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Datenzugang für Forschung nach Art. 40 DSA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenzugang für Forschung nach Art. 40 DSA

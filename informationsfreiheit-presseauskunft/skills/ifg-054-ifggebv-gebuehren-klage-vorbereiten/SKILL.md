@@ -1,6 +1,6 @@
 ---
 name: ifg-054-ifggebv-gebuehren-klage-vorbereiten
-description: "Wenn es um Ifggebv Gebuehren Klage Vorbereiten in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Ifggebv Gebühren Klage Vorbereiten: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Informationsfreiheit und Presseauskunft. Route: ifg-054-ifggebv-gebuehren-klage-vorbereiten."
 ---
 
 # Ifggebv Gebuehren Klage Vorbereiten

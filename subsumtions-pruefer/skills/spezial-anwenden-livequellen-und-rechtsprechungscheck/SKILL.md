@@ -1,6 +1,6 @@
 ---
 name: spezial-anwenden-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Anwenden: Livequellen- und Rechtsprechungscheck in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anwenden: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwenden: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-datenpanne-art-33-34-72h-incident-response
-description: "Wenn es um Datenpannen-Incident-Response Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenpannen-Incident-Response Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenpannen-Incident-Response Art

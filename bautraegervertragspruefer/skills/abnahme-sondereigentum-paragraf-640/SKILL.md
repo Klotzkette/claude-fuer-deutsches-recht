@@ -1,6 +1,6 @@
 ---
 name: abnahme-sondereigentum-paragraf-640
-description: "Wenn es um Abnahme Sondereigentum Paragraf 640 BGB in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Abnahme Sondereigentum Paragraf 640 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abnahme Sondereigentum Paragraf 640 BGB

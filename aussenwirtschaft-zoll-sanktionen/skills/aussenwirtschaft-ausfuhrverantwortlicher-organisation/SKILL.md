@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-ausfuhrverantwortlicher-organisation
-description: "Wenn es um Ausfuhrverantwortlicher: Funktion, Haftung und Organisation in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausfuhrverantwortlicher: Funktion, Haftung und Organisation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausfuhrverantwortlicher: Funktion, Haftung und Organisation

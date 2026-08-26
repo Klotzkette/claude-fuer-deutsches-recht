@@ -1,6 +1,6 @@
 ---
 name: insolvenz-leasingnehmer-aussonderung-fortfuehrung
-description: "Wenn es um Insolvenz des Leasingnehmers: Aussonderung und Fortführung in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Insolvenz des Leasingnehmers: Aussonderung und Fortführung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenz des Leasingnehmers: Aussonderung und Fortführung

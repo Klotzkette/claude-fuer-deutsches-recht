@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-financial-institutions-correspondent-banking
-description: "Wenn es um Financial Institutions Correspondent Banking in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Financial Institutions Correspondent Banking: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Financial Institutions Correspondent Banking

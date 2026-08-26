@@ -1,6 +1,6 @@
 ---
 name: urhmr-deepfake-persoenlichkeitsrecht-spezial
-description: "Wenn es um Urhmr Deepfake Persoenlichkeitsrecht Spezial in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urhmr Deepfake Persönlichkeitsrecht Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht: Bildnisrechte §§ 22 ff

@@ -1,6 +1,6 @@
 ---
 name: einbeziehung-hinweis-kenntnisnahme-305
-description: "Wenn es um Einbeziehung Hinweis Kenntnisnahme 305 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Einbeziehung Hinweis Kenntnisnahme 305: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einbeziehung Hinweis Kenntnisnahme 305

@@ -8,12 +8,12 @@ Diese Vollprüfung enthält top-8 von 242 Skills (gekürzt für das Arbeitsfenst
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Strafrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbin…
 2. **strafprozessuale-versandmappe-endfertigen** — Endfertigt Verteidiger-, Nebenklage- und Adhäsionsschriftsätze, Haftbeschwerde, Revision und Revisionsbegründung: liest …
-3. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Strafrecht in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen u…
-4. **mandat-triage-strafrecht** — Wenn es um Strukturierte Eingangs-Abfrage für Strafmandate in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unte…
-5. **fachanwalt-strafrecht-orientierung** — Wenn es um Fachanwalt für Strafrecht — Orientierung in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen …
-6. **orientierung-fristen-form-und-zustaendigkeit** — Wenn es um Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Strafrecht geht: prüft Frist, Form, Zu…
-7. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
-8. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und S…
+3. **einstieg-routing** — Für Anwalts-Dashboard Fachanwalt Strafrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit …
+4. **mandat-triage-strafrecht** — Für Strukturierte Eingangs-Abfrage für Strafmandate: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprod…
+5. **orientierung-mandat-fachanwaltschaft** — Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+6. **orientierung-fristen-form-und-zustaendigkeit** — Für Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: …
+7. **fachanwalt-strafrecht-orientierung** — Für Fachanwalt für Strafrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risik…
+8. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
 
 ---
 
@@ -137,7 +137,7 @@ Ausgangspunkt für dieses Plugin: Tatnachweis beim Staat; Verteidigung markiert 
 
 ## Skill: `strafprozessuale-versandmappe-endfertigen`
 
-_Endfertigt Verteidiger-, Nebenklage- und Adhäsionsschriftsätze, Haftbeschwerde, Revision und Revisionsbegründung: liest Urteil, Protokoll, Zustellungen und Aktenfundstellen zuerst, prüft Erklärungstyp und zwingende elektronische Form nach StPO, trennt Beweisanträge von Anlagen, schützt sensible Daten und liefert eine kontrollierte beA-Mappe ohne unzulässiges K-/B-Schema._
+_Endfertigt Verteidiger-, Nebenklage- und Adhäsionsschriftsätze, Haftbeschwerde, Revision und Revisionsbegründung: liest Urteil, Protokoll, Zustellungen und Aktenfundstellen zuerst, prüft Erklärungstyp und zwingende elektronische Form nach StPO, trennt Beweisanträge von Anlagen, schützt sensible Daten und liefert eine kontrollierte beA-Mappe ohne._
 
 # Strafprozessuale Versandmappe endfertigen
 
@@ -174,7 +174,7 @@ Liefere Hauptdokument, Einzelanlagen, Fristenblatt, Aktenfundstellen- und Rügen
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Anwalts-Dashboard Fachanwalt Strafrecht in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Anwalts-Dashboard Fachanwalt Strafrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Anwalts-Dashboard Fachanwalt Strafrecht
 
@@ -240,7 +240,7 @@ Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Man
 
 ## Skill: `mandat-triage-strafrecht`
 
-_Wenn es um Strukturierte Eingangs-Abfrage für Strafmandate in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Strukturierte Eingangs-Abfrage für Strafmandate: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Strukturierte Eingangs-Abfrage für Strafmandate
 
@@ -402,165 +402,9 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 ---
 
-## Skill: `fachanwalt-strafrecht-orientierung`
-
-_Wenn es um Fachanwalt für Strafrecht — Orientierung in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Fachanwalt für Strafrecht — Orientierung
-
-## FAO-Voraussetzungen
-
-- **Theoretischer Lehrgang** 120 Stunden.
-- **Drei Klausuren** zum Strafrecht.
-- **60 Fälle** in den letzten drei Jahren, davon mindestens 40 Hauptverhandlungen mit eigener Beteiligung.
-- Anmeldung bei der Rechtsanwaltskammer.
-
-## Wichtige Normen
-
-| Bereich | Norm |
-|---|---|
-| StGB Allgemeiner Teil | §§ 1 ff. StGB |
-| StGB Besonderer Teil | §§ 80 ff. StGB |
-| Strafverfahren | StPO §§ 1 ff. |
-| Strafvollstreckung | StVollstrO StVollzG |
-| Nebenstrafrecht | BtMG WaffG AO § 370 (Steuerhinterziehung) |
-| Strafrecht Wirtschaft | §§ 263 263a 266 299 StGB GwG |
-| Jugendstrafrecht | JGG |
-| Beruf Strafverteidiger | § 137 StPO § 138 StPO § 142 StPO Pflichtverteidigung § 140 StPO |
-
-## Typische Mandate
-
-- Ermittlungsverfahren Erstvernehmung
-- Untersuchungshaft (§§ 112 ff. StPO Haftprüfungsantrag § 117 StPO Haftbeschwerde § 304 StPO)
-- Hauptverhandlung Strafrichter Schöffengericht Schwurgericht
-- Verteidigung in Wirtschaftsstrafsachen (Wirtschaftsstrafkammer Landgericht)
-- Berufung Revision Verfassungsbeschwerde
-- Strafvollstreckung Bewährung Reststrafenaussetzung
-
-## Notfristen
-
-- **Berufung** § 314 StPO — **eine Woche** Notfrist.
-- **Revision** § 341 StPO — **eine Woche** Notfrist.
-- **Revisionsbegründung** § 345 StPO — **ein Monat**.
-- **Beschwerde** § 311 StPO — **eine Woche**.
-- **Verfassungsbeschwerde** § 93 BVerfGG — **ein Monat**.
-- **Wiedereinsetzung** § 44 StPO — eine Woche.
-
-## Hauptgerichte
-
-- **Amtsgericht** Strafrichter § 25 GVG (Vergehen Privatklage oder keine höhere Strafe als zwei Jahre zu erwarten) Schöffengericht § 28 GVG (bis vier Jahre Straferwartung).
-- **Landgericht** Große Strafkammer Wirtschaftsstrafkammer Schwurgericht.
-- **OLG** Berufungs- und Revisionsinstanz; Anklage erstinstanzlich bei Staatsschutzdelikten.
-- **BGH 1.–5. Strafsenat** Revisionsinstanz.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Berufsverband
-
-- Deutscher Strafverteidiger e. V. (DSV).
-- Vereinigung Berliner Strafverteidiger.
-- Strafverteidigervereinigung Niedersachsen / NRW / Bayern.
-
-## Schnittstellen
-
-- **aktenaufbereiter-strafrecht** für Aktenaufbereitung.
-- **kanzlei-allgemein** für Fristenbuch und Versand.
-
-## Hinweis
-
-Plugin fuer Fachanwaltschaft-Orientierung. Tiefe Verteidigung erfordert die Erfahrung des Fachanwalts; insbesondere bei Schwurgerichts- und Wirtschaftsstrafrecht.
-
-## Zentrale Strafrecht-Normen im Ueberblick
-
-- §§ 1-2 StGB — Gesetzlichkeitsprinzip; keine Strafe ohne Gesetz (nullum crimen)
-- §§ 13-16 StGB — Begehungs-/Unterlassungsdelikt, Vorsatz, Irrtum
-- §§ 20-21 StGB — Schuldunfaehigkeit, verminderte Schuldfaehigkeit
-- §§ 46-49 StGB — Strafzumessung, besonderer Milderungsgrund
-- § 78 StGB — Verjaehrungsfristen (z.B. 30 Jahre bei Mord)
-- §§ 112-130 StPO — Untersuchungshaft, Haftbefehl, Haftgruende, Haftpruefung
-- §§ 136-136a StPO — Beschuldigtenbelehrung, Aussageverweigerungsrecht, Beweisverwertungsverbote
-- §§ 140-142 StPO — notwendige Verteidigung, Pflichtverteidiger
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `orientierung-fristen-form-und-zustaendigkeit`
-
-_Wenn es um Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg.
-
-## Spezialwissen: Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Normen-/Quellenanker:** StPO.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Orientierung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Strafrecht-Orientierung Fristen / Form / Zuständigkeit Bausteine
-- **Sachliche Zuständigkeit GVG:**
- - **Strafrichter § 25 GVG:** Privatklagen § 374 StPO; allgemein bis Freiheitsstrafe 2 Jahre, sofern nicht hoeher beantragt.
- - **Schoeffengericht § 28 GVG:** bis Freiheitsstrafe 4 Jahre; alle Strafsachen, die nicht zu hoher Strafkammer oder Strafrichter gehoeren.
- - **Große Strafkammer § 76 GVG:** alle Strafsachen ab 4 Jahre erwarteter Freiheitsstrafe; bestimmte Wirtschaftsstrafsachen.
- - **Schwurgericht § 74 II GVG:** Toetungsdelikte §§ 211 ff. StGB, Eingriff in Verkehr mit Todesfolge.
- - **Oberlandesgericht § 120 GVG:** Staatsschutzdelikte (Hochverrat, Landesverrat, Terror).
-- **Oertliche Zuständigkeit StPO:**
- - **§ 7 StPO:** Tatort - regelmaessig massgeblich.
- - **§ 8 StPO:** Wohnsitz Beschuldigter.
- - **§ 9 StPO:** Ergreifungsort.
- - **§ 13 StPO:** Verbundene Verfahren.
-- **Fristen-Übersicht (StPO):**
- - **Einspruch Strafbefehl § 410 StPO: 2 Wochen** ab Zustellung.
- - **Berufung § 314 StPO: 1 Woche** ab Verkuendung; Begruendung optional.
- - **Revision § 341 StPO: 1 Woche** Einlegung + § 345 StPO **1 Monat** Begruendung ab Zustellung schriftliche Urteilsausfertigung.
- - **Beschwerde § 311 StPO: 1 Woche** sofortige; § 304 StPO einfache unbefristet.
- - **Wiedereinsetzung § 44 StPO: 1 Woche** ab Wegfall des Hindernisses.
- - **Klageerzwingungsverfahren § 172 II StPO: Antrag 1 Monat** ab Bescheid GenStA.
-- **Form-Re-Check:**
- - **Schriftform** zwingend für Rechtsmittel (Berufung, Revision, Beschwerde) und Einspruch.
- - **Unterschrift** Verteidiger / Mandant.
- - **Vollmacht** bei Vertretung.
- - **Begruendungs-Pflicht** Revision (Sach- oder Verfahrensruege; § 344 II StPO Substantiierung Verfahrensruege).
-- **Rechtsweg:**
- - AG -> LG (Berufung § 312 StPO) -> OLG (Revision § 333 StPO bei LG-Urteil 1. Instanz oder Berufungsurteil).
- - **Sprungrevision § 335 StPO** möglich (Sprung Berufung).
- - **Wiederaufnahme § 359 StPO** bei neuen Tatsachen / Beweismitteln.
-- **EMRK Art. 6:** angemessene Verfahrensdauer als Korrektiv (Strafmilderung BGH-Linie).
-
----
-
 ## Skill: `orientierung-mandat-fachanwaltschaft`
 
-_Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Strafrecht._
 
 # Orientierung im Strafrecht-Mandat und Fallrouting: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafrechts-Konstellation einordnen und passendes Fachmodul finden
 
@@ -658,9 +502,165 @@ Plugin für Fachanwaltschaft-Orientierung. Tiefe Verteidigung erfordert die Erfa
 
 ---
 
+## Skill: `orientierung-fristen-form-und-zustaendigkeit`
+
+_Für Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel._
+
+# Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg.
+
+## Spezialwissen: Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
+- **Normen-/Quellenanker:** StPO.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Orientierung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Strafrecht-Orientierung Fristen / Form / Zuständigkeit Bausteine
+- **Sachliche Zuständigkeit GVG:**
+ - **Strafrichter § 25 GVG:** Privatklagen § 374 StPO; allgemein bis Freiheitsstrafe 2 Jahre, sofern nicht hoeher beantragt.
+ - **Schoeffengericht § 28 GVG:** bis Freiheitsstrafe 4 Jahre; alle Strafsachen, die nicht zu hoher Strafkammer oder Strafrichter gehoeren.
+ - **Große Strafkammer § 76 GVG:** alle Strafsachen ab 4 Jahre erwarteter Freiheitsstrafe; bestimmte Wirtschaftsstrafsachen.
+ - **Schwurgericht § 74 II GVG:** Toetungsdelikte §§ 211 ff. StGB, Eingriff in Verkehr mit Todesfolge.
+ - **Oberlandesgericht § 120 GVG:** Staatsschutzdelikte (Hochverrat, Landesverrat, Terror).
+- **Oertliche Zuständigkeit StPO:**
+ - **§ 7 StPO:** Tatort - regelmaessig massgeblich.
+ - **§ 8 StPO:** Wohnsitz Beschuldigter.
+ - **§ 9 StPO:** Ergreifungsort.
+ - **§ 13 StPO:** Verbundene Verfahren.
+- **Fristen-Übersicht (StPO):**
+ - **Einspruch Strafbefehl § 410 StPO: 2 Wochen** ab Zustellung.
+ - **Berufung § 314 StPO: 1 Woche** ab Verkuendung; Begruendung optional.
+ - **Revision § 341 StPO: 1 Woche** Einlegung + § 345 StPO **1 Monat** Begruendung ab Zustellung schriftliche Urteilsausfertigung.
+ - **Beschwerde § 311 StPO: 1 Woche** sofortige; § 304 StPO einfache unbefristet.
+ - **Wiedereinsetzung § 44 StPO: 1 Woche** ab Wegfall des Hindernisses.
+ - **Klageerzwingungsverfahren § 172 II StPO: Antrag 1 Monat** ab Bescheid GenStA.
+- **Form-Re-Check:**
+ - **Schriftform** zwingend für Rechtsmittel (Berufung, Revision, Beschwerde) und Einspruch.
+ - **Unterschrift** Verteidiger / Mandant.
+ - **Vollmacht** bei Vertretung.
+ - **Begruendungs-Pflicht** Revision (Sach- oder Verfahrensruege; § 344 II StPO Substantiierung Verfahrensruege).
+- **Rechtsweg:**
+ - AG -> LG (Berufung § 312 StPO) -> OLG (Revision § 333 StPO bei LG-Urteil 1. Instanz oder Berufungsurteil).
+ - **Sprungrevision § 335 StPO** möglich (Sprung Berufung).
+ - **Wiederaufnahme § 359 StPO** bei neuen Tatsachen / Beweismitteln.
+- **EMRK Art. 6:** angemessene Verfahrensdauer als Korrektiv (Strafmilderung BGH-Linie).
+
+---
+
+## Skill: `fachanwalt-strafrecht-orientierung`
+
+_Für Fachanwalt für Strafrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Fachanwalt für Strafrecht — Orientierung
+
+## FAO-Voraussetzungen
+
+- **Theoretischer Lehrgang** 120 Stunden.
+- **Drei Klausuren** zum Strafrecht.
+- **60 Fälle** in den letzten drei Jahren, davon mindestens 40 Hauptverhandlungen mit eigener Beteiligung.
+- Anmeldung bei der Rechtsanwaltskammer.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| StGB Allgemeiner Teil | §§ 1 ff. StGB |
+| StGB Besonderer Teil | §§ 80 ff. StGB |
+| Strafverfahren | StPO §§ 1 ff. |
+| Strafvollstreckung | StVollstrO StVollzG |
+| Nebenstrafrecht | BtMG WaffG AO § 370 (Steuerhinterziehung) |
+| Strafrecht Wirtschaft | §§ 263 263a 266 299 StGB GwG |
+| Jugendstrafrecht | JGG |
+| Beruf Strafverteidiger | § 137 StPO § 138 StPO § 142 StPO Pflichtverteidigung § 140 StPO |
+
+## Typische Mandate
+
+- Ermittlungsverfahren Erstvernehmung
+- Untersuchungshaft (§§ 112 ff. StPO Haftprüfungsantrag § 117 StPO Haftbeschwerde § 304 StPO)
+- Hauptverhandlung Strafrichter Schöffengericht Schwurgericht
+- Verteidigung in Wirtschaftsstrafsachen (Wirtschaftsstrafkammer Landgericht)
+- Berufung Revision Verfassungsbeschwerde
+- Strafvollstreckung Bewährung Reststrafenaussetzung
+
+## Notfristen
+
+- **Berufung** § 314 StPO — **eine Woche** Notfrist.
+- **Revision** § 341 StPO — **eine Woche** Notfrist.
+- **Revisionsbegründung** § 345 StPO — **ein Monat**.
+- **Beschwerde** § 311 StPO — **eine Woche**.
+- **Verfassungsbeschwerde** § 93 BVerfGG — **ein Monat**.
+- **Wiedereinsetzung** § 44 StPO — eine Woche.
+
+## Hauptgerichte
+
+- **Amtsgericht** Strafrichter § 25 GVG (Vergehen Privatklage oder keine höhere Strafe als zwei Jahre zu erwarten) Schöffengericht § 28 GVG (bis vier Jahre Straferwartung).
+- **Landgericht** Große Strafkammer Wirtschaftsstrafkammer Schwurgericht.
+- **OLG** Berufungs- und Revisionsinstanz; Anklage erstinstanzlich bei Staatsschutzdelikten.
+- **BGH 1.–5. Strafsenat** Revisionsinstanz.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- Deutscher Strafverteidiger e. V. (DSV).
+- Vereinigung Berliner Strafverteidiger.
+- Strafverteidigervereinigung Niedersachsen / NRW / Bayern.
+
+## Schnittstellen
+
+- **aktenaufbereiter-strafrecht** für Aktenaufbereitung.
+- **kanzlei-allgemein** für Fristenbuch und Versand.
+
+## Hinweis
+
+Plugin fuer Fachanwaltschaft-Orientierung. Tiefe Verteidigung erfordert die Erfahrung des Fachanwalts; insbesondere bei Schwurgerichts- und Wirtschaftsstrafrecht.
+
+## Zentrale Strafrecht-Normen im Ueberblick
+
+- §§ 1-2 StGB — Gesetzlichkeitsprinzip; keine Strafe ohne Gesetz (nullum crimen)
+- §§ 13-16 StGB — Begehungs-/Unterlassungsdelikt, Vorsatz, Irrtum
+- §§ 20-21 StGB — Schuldunfaehigkeit, verminderte Schuldfaehigkeit
+- §§ 46-49 StGB — Strafzumessung, besonderer Milderungsgrund
+- § 78 StGB — Verjaehrungsfristen (z.B. 30 Jahre bei Mord)
+- §§ 112-130 StPO — Untersuchungshaft, Haftbefehl, Haftgruende, Haftpruefung
+- §§ 136-136a StPO — Beschuldigtenbelehrung, Aussageverweigerungsrecht, Beweisverwertungsverbote
+- §§ 140-142 StPO — notwendige Verteidigung, Pflichtverteidiger
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Strafrecht._
 
 # Erstgespraeach und Mandatsannahme im Strafrecht: Anwendungsfall Beschuldigter oder Verdaechtiger meldet sich nach Polizeivorladung oder Festnahme und Strafverteidiger muss Mandat strukturiert aufnehmen
 

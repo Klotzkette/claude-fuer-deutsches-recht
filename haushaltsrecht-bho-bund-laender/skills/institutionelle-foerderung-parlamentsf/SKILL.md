@@ -1,6 +1,6 @@
 ---
 name: institutionelle-foerderung-parlamentsf
-description: "Wenn es um Institutionelle Förderung Parlamentsf in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Institutionelle Förderung Parlamentsf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Institutionelle Förderung Parlamentsf

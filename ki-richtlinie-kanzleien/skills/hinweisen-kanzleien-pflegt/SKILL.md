@@ -1,6 +1,6 @@
 ---
 name: hinweisen-kanzleien-pflegt
-description: "Wenn es um Hinweisen: Formular, Portal und Einreichungslogik in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Hinweisen: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hinweisen: Formular, Portal und Einreichungslogik

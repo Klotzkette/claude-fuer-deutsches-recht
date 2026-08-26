@@ -1,6 +1,6 @@
 ---
 name: sozietaetswechsel-und-mandantenmitnahme-organisationsp
-description: "Wenn es um Sozietaetswechsel Und Mandantenmitnahme Organisationsp in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sozietätswechsel und Mandantenmitnahme Organisationsp: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: sozietaetswechsel und mandantenmitnahme - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

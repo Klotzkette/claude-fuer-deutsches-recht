@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-recherche-strategie
-description: "Wenn es um Rechtsprechung-Recherche-Strategie in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Rechtsprechung-Recherche-Strategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Rechtsprechung-Recherche-Strategie

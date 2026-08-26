@@ -1,6 +1,6 @@
 ---
 name: luft-040-flughafen-mandantenmemo-schreiben
-description: "Wenn es um Flughafen Mandantenmemo Schreiben in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Flughafen Mandantenmemo Schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Flughafen Mandantenmemo Schreiben

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-risikoanalyse-steuerkanzlei-organisat
-description: "Wenn es um Geldwaesche Risikoanalyse Steuerkanzlei Organisat in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geldwäsche Risikoanalyse Steuerkanzlei Organisat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: geldwaesche risikoanalyse steuerkanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

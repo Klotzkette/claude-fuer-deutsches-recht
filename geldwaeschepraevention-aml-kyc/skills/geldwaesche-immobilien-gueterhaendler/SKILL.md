@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-immobilien-gueterhaendler
-description: "Wenn es um Immobilien, Güterhandel und Nichtfinanzsektor in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Immobilien, Güterhandel und Nichtfinanzsektor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Immobilien, Güterhandel und Nichtfinanzsektor

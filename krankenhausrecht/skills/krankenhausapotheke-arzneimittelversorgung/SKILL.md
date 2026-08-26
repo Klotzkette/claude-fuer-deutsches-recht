@@ -1,6 +1,6 @@
 ---
 name: krankenhausapotheke-arzneimittelversorgung
-description: "Wenn es um Krankenhausapotheke Arzneimittelversorgung in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Krankenhausapotheke Arzneimittelversorgung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenhausapotheke Arzneimittelversorgung

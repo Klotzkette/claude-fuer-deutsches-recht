@@ -1,6 +1,6 @@
 ---
 name: sexuelle-belaestigung-social-media
-description: "Wenn es um Sexuelle Belästigung, Beschwerde und Schutzpflicht in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sexuelle Belästigung, Beschwerde und Schutzpflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sexuelle Belästigung, Beschwerde und Schutzpflicht

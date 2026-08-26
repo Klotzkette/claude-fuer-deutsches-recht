@@ -1,6 +1,6 @@
 ---
 name: tempo-30-behoerde-anschreiben
-description: "Wenn es um Tempo 30 Behörde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tempo 30 Behörde Anschreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenverkehrsrecht StVO. Route: tempo-30-behoerde-anschreiben."
 ---
 
 # Tempo 30 Behörde Anschreiben

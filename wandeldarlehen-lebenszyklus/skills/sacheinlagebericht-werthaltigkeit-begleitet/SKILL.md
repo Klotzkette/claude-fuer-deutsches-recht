@@ -1,6 +1,6 @@
 ---
 name: sacheinlagebericht-werthaltigkeit-begleitet
-description: "Wenn es um Sacheinlagebericht und Werthaltigkeit der Forderung in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sacheinlagebericht und Werthaltigkeit der Forderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sacheinlagebericht und Werthaltigkeit der Forderung

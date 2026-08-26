@@ -1,6 +1,6 @@
 ---
 name: infl-009-scheinselbststaendigkeit-creator-management-team
-description: "Wenn es um Influencer-Recht: Scheinselbstständigkeit Creator Management Team in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Scheinselbstständigkeit Creator Management Team: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Scheinselbstständigkeit Creator Management Team

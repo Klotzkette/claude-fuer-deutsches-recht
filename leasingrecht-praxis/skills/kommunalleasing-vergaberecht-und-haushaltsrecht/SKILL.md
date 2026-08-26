@@ -1,6 +1,6 @@
 ---
 name: kommunalleasing-vergaberecht-und-haushaltsrecht
-description: "Wenn es um Kommunalleasing: Vergaberecht und Haushaltsrecht in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kommunalleasing: Vergaberecht und Haushaltsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunalleasing: Vergaberecht und Haushaltsrecht

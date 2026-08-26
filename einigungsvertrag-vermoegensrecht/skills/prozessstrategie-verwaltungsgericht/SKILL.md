@@ -1,6 +1,6 @@
 ---
 name: prozessstrategie-verwaltungsgericht
-description: "Wenn es um Prozessstrategie Verwaltungsgericht in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Prozessstrategie Verwaltungsgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Prozessstrategie Verwaltungsgericht

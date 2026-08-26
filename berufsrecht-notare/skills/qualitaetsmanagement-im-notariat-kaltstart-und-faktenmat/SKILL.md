@@ -1,6 +1,6 @@
 ---
 name: qualitaetsmanagement-im-notariat-kaltstart-und-faktenmat
-description: "Wenn es um Qualitaetsmanagement Im Notariat Kaltstart Und Faktenmat in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätsmanagement im Notariat Kaltstart und Faktenmat: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Notare: qualitaetsmanagement im notariat - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: sanktion-aufsichtsbehoerden
-description: "Wenn es um Auskunftsverlangen Art. 58 Abs. 1 DSGVO beantworten in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auskunftsverlangen Art. 58 Abs. 1 DSGVO beantworten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Auskunftsverlangen Art. 58 Abs. 1 DSGVO beantworten

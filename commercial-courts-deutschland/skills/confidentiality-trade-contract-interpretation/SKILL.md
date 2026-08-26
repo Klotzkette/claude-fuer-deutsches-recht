@@ -1,6 +1,6 @@
 ---
 name: confidentiality-trade-contract-interpretation
-description: "Wenn es um Confidentiality and Trade Secrets in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Confidentiality and Trade Secrets: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Confidentiality and Trade Secrets

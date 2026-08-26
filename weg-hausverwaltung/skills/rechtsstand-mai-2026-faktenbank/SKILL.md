@@ -1,6 +1,6 @@
 ---
 name: rechtsstand-mai-2026-faktenbank
-description: "Wenn es um Rechtsstand Mai 2026 — Faktenbank WEG/Hausverwaltung in WEG- und Hausverwaltung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsstand Mai 2026 — Faktenbank WEG/Hausverwaltung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsstand Mai 2026 — Faktenbank WEG/Hausverwaltung

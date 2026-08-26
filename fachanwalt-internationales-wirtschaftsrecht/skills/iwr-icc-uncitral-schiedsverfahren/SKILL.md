@@ -1,6 +1,6 @@
 ---
 name: iwr-icc-uncitral-schiedsverfahren
-description: "Wenn es um Iwr Icc Uncitral Schiedsverfahren in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Iwr Icc Uncitral Schiedsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandant hat Schiedsklausel und will internationales Schiedsverfahren einleiten oder sich verteidigen

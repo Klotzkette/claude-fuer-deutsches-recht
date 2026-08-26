@@ -1,6 +1,6 @@
 ---
 name: kinder-und-jugendmedizin-besondere-versorgung
-description: "Wenn es um Kinder- und Jugendmedizin besondere Versorgung in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kinder- und Jugendmedizin besondere Versorgung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kinder- und Jugendmedizin besondere Versorgung

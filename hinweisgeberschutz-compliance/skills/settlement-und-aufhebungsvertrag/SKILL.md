@@ -1,6 +1,6 @@
 ---
 name: settlement-und-aufhebungsvertrag
-description: "Wenn es um Settlement Und Aufhebungsvertrag in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Settlement und Aufhebungsvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Settlement Und Aufhebungsvertrag

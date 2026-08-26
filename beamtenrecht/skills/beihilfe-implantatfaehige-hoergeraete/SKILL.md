@@ -1,6 +1,6 @@
 ---
 name: beihilfe-implantatfaehige-hoergeraete
-description: "Wenn es um Beihilfe Spezialhilfsmittel — Hoergeraete Cochlea-Implantat Sehhilfen in Beamtenrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Beihilfe Spezialhilfsmittel — Hörgeräte Cochlea-Implantat Sehhilfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beihilfe Spezialhilfsmittel — Hoergeraete Cochlea-Implantat Sehhilfen

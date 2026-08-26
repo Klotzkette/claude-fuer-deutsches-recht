@@ -1,6 +1,6 @@
 ---
 name: drg-031-wiedergutmachung-und-restitution
-description: "Wenn es um Wiedergutmachung Und Restitution in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wiedergutmachung und Restitution: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wiedergutmachung Und Restitution

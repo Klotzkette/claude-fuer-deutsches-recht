@@ -1,6 +1,6 @@
 ---
 name: 17-tatbestand-schreiben
-description: "Wenn es um 17 Tatbestand Schreiben in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 17 Tatbestand Schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # 17 Tatbestand Schreiben

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-gerichtstermin
-description: "Wenn es um Außenwirtschaft Gerichtstermin Vorber in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Außenwirtschaft Gerichtstermin Vorber: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Ordnungswidrigkeitenrecht. Route: aussenwirtschaft-gerichtstermin."
 ---
 
 # Außenwirtschaft Gerichtstermin Vorber

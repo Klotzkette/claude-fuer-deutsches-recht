@@ -1,6 +1,6 @@
 ---
 name: europaeische-gruppe-exkulpationsakte
-description: "Wenn es um Europaeische Gruppe in AG/SE-Aufsichtsrat Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Europäische Gruppe: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Europaeische Gruppe

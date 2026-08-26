@@ -1,6 +1,6 @@
 ---
 name: dokumentationspflicht-und-protokollierung-geschaeftsfuehrung
-description: "Wenn es um Dokumentationspflicht und Protokollierung — Beweissicherung für Haftungsprozesse in Krisenfrüherkennung und StaRUG-Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Dokumentationspflicht und Protokollierung — Beweissicherung für Haftungsprozesse: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentationspflicht und Protokollierung — Beweissicherung für Haftungsprozesse

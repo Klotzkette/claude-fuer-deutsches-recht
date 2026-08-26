@@ -1,6 +1,6 @@
 ---
 name: grest-bescheid-spa-tax-grunderwerbsteuer
-description: "Wenn es um GrESt: Bescheid, Einspruch, AdV und Paragraf 16 in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Grest Bescheid Spa Tax Grunderwerbsteuer; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für GrESt: Bescheid, Einspruch, AdV und Paragraf 16: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # GrESt: Bescheid, Einspruch, AdV und § 16

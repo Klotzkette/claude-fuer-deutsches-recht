@@ -1,6 +1,6 @@
 ---
 name: jugendamt-anschreiben-kindergeld-antrag
-description: "Wenn es um Jugendamt-Anschreiben in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Jugendamt-Anschreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Jugendamt-Anschreiben

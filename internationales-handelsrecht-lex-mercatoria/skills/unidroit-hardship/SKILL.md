@@ -1,6 +1,6 @@
 ---
 name: unidroit-hardship
-description: "Wenn es um Hardship (Leistungserschwernis) nach UNIDROIT Principles Art. 6.2.1-6.2.3 in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Hardship (Leistungserschwernis) nach UNIDROIT Principles Art. 6.2.1-6.2.3: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hardship (Leistungserschwernis) nach UNIDROIT Principles Art. 6.2.1-6.2.3

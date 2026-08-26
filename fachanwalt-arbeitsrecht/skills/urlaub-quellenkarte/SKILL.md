@@ -1,6 +1,6 @@
 ---
 name: urlaub-quellenkarte
-description: "Wenn es um Urlaub Quellenkarte in Fachanwalt Arbeitsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Urlaub Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urlaub Quellenkarte

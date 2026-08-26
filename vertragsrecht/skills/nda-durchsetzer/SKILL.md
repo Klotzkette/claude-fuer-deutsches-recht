@@ -1,6 +1,6 @@
 ---
 name: nda-durchsetzer
-description: "Wenn es um NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse

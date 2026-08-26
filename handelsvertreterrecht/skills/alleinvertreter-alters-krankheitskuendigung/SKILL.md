@@ -1,6 +1,6 @@
 ---
 name: alleinvertreter-alters-krankheitskuendigung
-description: "Wenn es um Alleinvertreter und Bezirksprovision nach Paragraf 87 Abs. 2 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Alleinvertreter und Bezirksprovision nach Paragraf 87 Abs. 2 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Alleinvertreter und Bezirksprovision nach § 87 Abs. 2 HGB

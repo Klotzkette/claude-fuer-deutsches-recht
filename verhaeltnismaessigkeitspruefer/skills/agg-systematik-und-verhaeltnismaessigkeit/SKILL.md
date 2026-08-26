@@ -1,6 +1,6 @@
 ---
 name: agg-systematik-und-verhaeltnismaessigkeit
-description: "Wenn es um AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung

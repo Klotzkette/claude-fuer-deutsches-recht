@@ -1,6 +1,6 @@
 ---
 name: btm-086-methadon-therapiepfad-pruefen
-description: "Wenn es um Methadon Therapiepfad Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Methadon Therapiepfad Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betäubungsmittelrecht. Route: btm-086-methadon-therapiepfad-pruefen."
 ---
 
 # Methadon Therapiepfad Pruefen

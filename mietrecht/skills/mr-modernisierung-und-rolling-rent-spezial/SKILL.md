@@ -1,6 +1,6 @@
 ---
 name: mr-modernisierung-und-rolling-rent-spezial
-description: "Wenn es um Mietrecht: Modernisierung-Rolling-Rent in Mietrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Mietrecht: Modernisierung-Rolling-Rent: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mietrecht: Modernisierung-Rolling-Rent

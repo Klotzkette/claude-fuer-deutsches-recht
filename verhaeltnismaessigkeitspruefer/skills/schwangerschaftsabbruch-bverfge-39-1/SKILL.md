@@ -1,6 +1,6 @@
 ---
 name: schwangerschaftsabbruch-bverfge-39-1
-description: "Wenn es um Schwangerschaftsabbruch BVerfGE 39. 1: Schutzpflicht und Untermaß in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schwangerschaftsabbruch BVerfGE 39. 1: Schutzpflicht und Untermaß: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schwangerschaftsabbruch BVerfGE 39, 1: Schutzpflicht und Untermaß

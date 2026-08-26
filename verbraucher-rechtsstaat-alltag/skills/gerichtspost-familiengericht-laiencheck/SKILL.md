@@ -1,6 +1,6 @@
 ---
 name: gerichtspost-familiengericht-laiencheck
-description: "Wenn es um Gerichtspost Familiengericht verstehen in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gerichtspost Familiengericht verstehen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gerichtspost Familiengericht verstehen

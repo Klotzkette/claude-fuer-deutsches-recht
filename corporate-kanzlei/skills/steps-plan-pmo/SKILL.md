@@ -1,6 +1,6 @@
 ---
 name: steps-plan-pmo
-description: "Wenn es um Steps Plan und Deal-PMO in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steps Plan und Deal-PMO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steps Plan und Deal-PMO

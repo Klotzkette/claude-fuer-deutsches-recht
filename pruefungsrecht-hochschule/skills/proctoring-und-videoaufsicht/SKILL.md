@@ -1,6 +1,6 @@
 ---
 name: proctoring-und-videoaufsicht
-description: "Wenn es um Proctoring Und Videoaufsicht in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Proctoring und Videoaufsicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Proctoring Und Videoaufsicht

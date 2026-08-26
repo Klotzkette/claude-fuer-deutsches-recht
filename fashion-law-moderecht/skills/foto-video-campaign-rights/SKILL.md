@@ -1,6 +1,6 @@
 ---
 name: foto-video-campaign-rights
-description: "Wenn es um Foto Video Campaign Rights in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Foto Video Campaign Rights: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Foto Video Campaign Rights

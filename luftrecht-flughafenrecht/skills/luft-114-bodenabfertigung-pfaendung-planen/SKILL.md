@@ -1,6 +1,6 @@
 ---
 name: luft-114-bodenabfertigung-pfaendung-planen
-description: "Wenn es um Bodenabfertigung Pfaendung Planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bodenabfertigung Pfändung Planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bodenabfertigung Pfaendung Planen

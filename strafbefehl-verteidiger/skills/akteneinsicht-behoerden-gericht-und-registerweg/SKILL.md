@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-behoerden-gericht-und-registerweg
-description: "Wenn es um Akteneinsicht: Behörden-, Gerichts- oder Registerweg in Strafbefehl-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Akteneinsicht: Behörden-, Gerichts- oder Registerweg: ordnet Akte, Belege und Lücken; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Akteneinsicht: Behörden-, Gerichts- oder Registerweg

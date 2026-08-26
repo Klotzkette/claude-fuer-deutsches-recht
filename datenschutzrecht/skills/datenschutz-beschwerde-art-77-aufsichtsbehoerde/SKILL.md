@@ -1,6 +1,6 @@
 ---
 name: datenschutz-beschwerde-art-77-aufsichtsbehoerde
-description: "Wenn es um Beschwerde Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschwerde Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschwerde Art

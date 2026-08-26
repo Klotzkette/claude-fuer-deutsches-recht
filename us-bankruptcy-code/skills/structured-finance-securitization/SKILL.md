@@ -1,6 +1,6 @@
 ---
 name: structured-finance-securitization
-description: "Wenn es um Structured Finance and Securitization in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Structured Finance and Securitization: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Structured Finance and Securitization

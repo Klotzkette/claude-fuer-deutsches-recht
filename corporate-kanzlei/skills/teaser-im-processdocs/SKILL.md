@@ -1,6 +1,6 @@
 ---
 name: teaser-im-processdocs
-description: "Wenn es um Teaser, Information Memorandum und Prozessdokumente in Corporate-Kanzlei geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Teaser, Information Memorandum und Prozessdokumente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Teaser, Information Memorandum und Prozessdokumente

@@ -1,6 +1,6 @@
 ---
 name: zustaendigkeitspruefung-mahngericht
-description: "Wenn es um Zuständigkeitspruefung in Forderungsmanagement — Klagewerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Zuständigkeitsprüfung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Zuständigkeitspruefung

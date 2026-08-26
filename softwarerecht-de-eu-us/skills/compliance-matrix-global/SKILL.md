@@ -1,6 +1,6 @@
 ---
 name: compliance-matrix-global
-description: "Wenn es um Global Software Compliance Matrix in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Global Software Compliance Matrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Global Software Compliance Matrix

@@ -1,6 +1,6 @@
 ---
 name: prozessmandat-dokumente-fristen-aufgaben-workspace
-description: "Wenn es um Mandatsworkspace, Kontexttrennung und Fristensteuerung in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandatsworkspace, Kontexttrennung und Fristensteuerung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Mandatsworkspace, Kontexttrennung und Fristensteuerung

@@ -1,6 +1,6 @@
 ---
 name: neu-008-kaiserreichsverfassung-1871-bundesstaat-und-reichsre
-description: "Wenn es um Deutsche Rechtsgeschichte: 008 Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: 008 Kaiserreichsverfassung 1871 Bundesstaat und Reichsre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: 008 Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre

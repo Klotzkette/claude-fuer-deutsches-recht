@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Wenn es um digitale Werkzeuge-Richtlinie für Kanzleien und Rechtsabteilungen — Allgemein in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für digitale Werkzeuge-Richtlinie für Kanzleien und Rechtsabteilungen — Allgemein: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # KI-Richtlinie für Kanzleien und Rechtsabteilungen — Allgemein

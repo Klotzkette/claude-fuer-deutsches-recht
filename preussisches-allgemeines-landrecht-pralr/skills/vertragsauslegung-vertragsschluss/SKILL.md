@@ -1,6 +1,6 @@
 ---
 name: vertragsauslegung-vertragsschluss
-description: "Wenn es um Pralr Vertragsauslegung Und Treu Und Glauben in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vertragsauslegung Vertragsschluss; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Vertragsauslegung und Treu und Glauben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pralr Vertragsauslegung Und Treu Und Glauben

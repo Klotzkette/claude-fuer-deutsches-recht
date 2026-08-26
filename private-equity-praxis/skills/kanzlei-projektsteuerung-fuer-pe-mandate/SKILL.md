@@ -1,6 +1,6 @@
 ---
 name: kanzlei-projektsteuerung-fuer-pe-mandate
-description: "Wenn es um Kanzlei-Projektsteuerung für PE-Mandate in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kanzlei-Projektsteuerung für PE-Mandate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kanzlei-Projektsteuerung für PE-Mandate

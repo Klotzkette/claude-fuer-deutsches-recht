@@ -1,6 +1,6 @@
 ---
 name: luft-091-acc3-zustaendigkeit-pruefen
-description: "Wenn es um Acc3 Zustaendigkeit Pruefen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Acc3 Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Acc3 Zustaendigkeit Pruefen

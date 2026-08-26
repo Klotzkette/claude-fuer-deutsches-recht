@@ -1,6 +1,6 @@
 ---
 name: formulare-checkout-kontrast-farbe-native-apps
-description: "Wenn es um Formulare, Checkout, E-Commerce in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Formulare, Checkout, E-Commerce: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Formulare, Checkout, E-Commerce

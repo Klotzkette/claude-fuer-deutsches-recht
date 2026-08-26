@@ -1,6 +1,6 @@
 ---
 name: heiligsprechung-reliquien-und-verehrung
-description: "Wenn es um Heiligsprechung, Reliquien und Verehrung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Heiligsprechung, Reliquien und Verehrung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Heiligsprechung, Reliquien und Verehrung

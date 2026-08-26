@@ -1,6 +1,6 @@
 ---
 name: anfaenger-kaltstart
-description: "Wenn es um Anfänger-Kaltstart Gesellschaftsgründung in gesellschaftsgründer — Gründungsassistent für deutsche geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anfänger-Kaltstart Gesellschaftsgründung: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anfänger-Kaltstart Gesellschaftsgründung

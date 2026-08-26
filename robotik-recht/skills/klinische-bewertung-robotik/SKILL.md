@@ -1,6 +1,6 @@
 ---
 name: klinische-bewertung-robotik
-description: "Wenn es um Klinische Bewertung Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klinische Bewertung Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klinische Bewertung Robotik

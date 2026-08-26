@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Wenn es um HOAI Querschnitt: Führt durch projektart in HOAI Leistungsphasen Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für HOAI Querschnitt: Führt durch projektart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI Querschnitt: Führt durch projektart

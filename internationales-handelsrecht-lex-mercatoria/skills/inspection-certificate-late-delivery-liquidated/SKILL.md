@@ -1,6 +1,6 @@
 ---
 name: inspection-certificate-late-delivery-liquidated
-description: "Wenn es um Inspektionszertifikat in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Inspektionszertifikat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Inspektionszertifikat

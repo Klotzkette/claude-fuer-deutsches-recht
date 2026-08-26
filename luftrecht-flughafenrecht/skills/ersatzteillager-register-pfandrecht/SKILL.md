@@ -1,6 +1,6 @@
 ---
 name: ersatzteillager-register-pfandrecht
-description: "Wenn es um Ersatzteillager – Register auswerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ersatzteillager – Register auswerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Ersatzteillager – Register auswerten

@@ -1,6 +1,6 @@
 ---
 name: registerrecht-beschlussmaengel-und-registervollzug
-description: "Wenn es um Beschlussmängel im Registervollzug in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Beschlussmängel im Registervollzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Beschlussmängel im Registervollzug

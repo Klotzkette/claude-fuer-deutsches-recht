@@ -1,6 +1,6 @@
 ---
 name: preferential-origin-not-usually
-description: "Wenn es um Präferenzursprung EU-China: Fehlende FTA und Alternativen in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Präferenzursprung EU-China: Fehlende FTA und Alternativen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Präferenzursprung EU-China: Fehlende FTA und Alternativen

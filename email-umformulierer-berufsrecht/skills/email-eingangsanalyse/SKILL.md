@@ -1,6 +1,6 @@
 ---
 name: email-eingangsanalyse
-description: "Wenn es um E-Mail-Eingangsanalyse in E-Mail-Umformulierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für E-Mail-Eingangsanalyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E-Mail-Eingangsanalyse

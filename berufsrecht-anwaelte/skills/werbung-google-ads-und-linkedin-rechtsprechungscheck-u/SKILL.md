@@ -1,6 +1,6 @@
 ---
 name: werbung-google-ads-und-linkedin-rechtsprechungscheck-u
-description: "Wenn es um Werbung Google Ads Und Linkedin Rechtsprechungscheck U in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Werbung Google Ads und Linkedin Rechtsprechungscheck U: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: werbung google ads und linkedin - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

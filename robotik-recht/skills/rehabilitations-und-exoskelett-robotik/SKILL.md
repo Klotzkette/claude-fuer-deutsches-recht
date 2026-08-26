@@ -1,6 +1,6 @@
 ---
 name: rehabilitations-und-exoskelett-robotik
-description: "Wenn es um Reha- und Exoskelett-Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reha- und Exoskelett-Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: rehabilitations-und-exoskelett-robotik."
 ---
 
 # Reha- und Exoskelett-Robotik

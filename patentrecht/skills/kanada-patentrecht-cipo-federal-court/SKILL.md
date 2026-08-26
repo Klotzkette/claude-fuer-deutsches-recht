@@ -1,6 +1,6 @@
 ---
 name: kanada-patentrecht-cipo-federal-court
-description: "Wenn es um Kanada: CIPO, Federal Court und Patentstreit in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Kanada: CIPO, Federal Court und Patentstreit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kanada: CIPO, Federal Court und Patentstreit

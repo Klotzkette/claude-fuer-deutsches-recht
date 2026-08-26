@@ -1,6 +1,6 @@
 ---
 name: ki-generierte-marken-deepfake-counterfeit
-description: "Wenn es um digitale Werkzeuge-generierte Markenverletzungen und Deepfake-Counterfeit in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für digitale Werkzeuge-generierte Markenverletzungen und Deepfake-Counterfeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-generierte Markenverletzungen und Deepfake-Counterfeit

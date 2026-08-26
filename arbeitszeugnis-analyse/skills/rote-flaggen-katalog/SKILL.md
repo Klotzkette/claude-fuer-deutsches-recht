@@ -1,6 +1,6 @@
 ---
 name: rote-flaggen-katalog
-description: "Wenn es um Rote-Flaggen-Katalog in Arbeitszeugnis-Analyse geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rote-Flaggen-Katalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rote-Flaggen-Katalog

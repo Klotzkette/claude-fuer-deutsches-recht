@@ -1,6 +1,6 @@
 ---
 name: owi-079-baurecht-rechtsbeschwerde-pruefen
-description: "Wenn es um Baurecht Rechtsbeschwerde Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Baurecht Rechtsbeschwerde Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Ordnungswidrigkeitenrecht. Route: owi-079-baurecht-rechtsbeschwerde-pruefen."
 ---
 
 # Baurecht Rechtsbeschwerde Pruefen

@@ -1,6 +1,6 @@
 ---
 name: auslaendischer-office-holder-register-und-grundbuch
-description: "Wenn es um Auslaendischer Office Holder Register Und Grundbuch in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Ausländischer Office Holder Register und Grundbuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Ausländischer Insolvenzverwalter: inzidente Anerkennung, Register, Grundbuch und GmbH-Anteile

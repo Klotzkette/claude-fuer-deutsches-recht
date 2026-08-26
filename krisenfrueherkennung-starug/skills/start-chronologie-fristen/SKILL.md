@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Startet ein Krisen- oder Restrukturierungsmandat ohne Leerlauf, wertet vorhandene Unterlagen zuerst aus und trennt Zahlungsunfähigkeit, Überschuldung, drohende Zahlungsunfähigkeit, Frühwarnpflicht und gerichtliche Instrumente. Liefert Chronologie, Liquiditäts- und Fristenampel, Beleglücken, Organmaßnahmen und den passenden nächsten Fachpfad."
+description: "Startet ein Krisen- oder Restrukturierungsmandat ohne Leerlauf, wertet vorhandene Unterlagen zuerst aus und trennt Zahlungsunfähigkeit, Überschuldung, drohende Zahlungsunfähigkeit, Frühwarnpflicht und gerichtliche Instrumente."
 ---
 
 # 1. Krisenmandat sofort belastbar starten

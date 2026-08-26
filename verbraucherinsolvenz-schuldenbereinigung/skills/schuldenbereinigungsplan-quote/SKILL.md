@@ -1,6 +1,6 @@
 ---
 name: schuldenbereinigungsplan-quote
-description: "Wenn es um Schuldenbereinigungsplan Quote in Verbraucherinsolvenz und Schuldenbereinigung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Schuldenbereinigungsplan Quote: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schuldenbereinigungsplan mit Quote: Einkommen, pfändbarer Betrag, Einmalzahlung, Drittmittel, Nullplan und dynamischer Plan.

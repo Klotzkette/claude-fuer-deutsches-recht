@@ -1,6 +1,6 @@
 ---
 name: mahnbescheid-online-mobiliar-gv
-description: "Wenn es um Mahnbescheid online in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mahnbescheid online: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Zwangsvollstreckung."
 ---
 
 # Mahnbescheid online

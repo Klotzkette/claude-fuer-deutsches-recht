@@ -1,6 +1,6 @@
 ---
 name: red-team-beamtenrecht
-description: "Wenn es um Red Team Beamtenrecht in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red Team Beamtenrecht: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red Team Beamtenrecht

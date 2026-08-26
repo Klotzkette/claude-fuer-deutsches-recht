@@ -1,6 +1,6 @@
 ---
 name: lokale-rechtsberater-china-auswahl-beauftragung-risiken
-description: "Wenn es um Lokale Rechtsberater China: Auswahl/Beauftragung/Risiken in China-Wirtschaftsverkehr geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Lokale Rechtsberater China: Auswahl/Beauftragung/Risiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lokale Rechtsberater China: Auswahl/Beauftragung/Risiken

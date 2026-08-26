@@ -1,6 +1,6 @@
 ---
 name: drg-042-rechtstatsachen-und-sozialgeschichte
-description: "Wenn es um Rechtstatsachen Und Sozialgeschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtstatsachen und Sozialgeschichte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtstatsachen Und Sozialgeschichte

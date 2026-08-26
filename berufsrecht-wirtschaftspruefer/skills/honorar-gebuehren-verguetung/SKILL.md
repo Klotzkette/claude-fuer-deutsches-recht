@@ -1,6 +1,6 @@
 ---
 name: honorar-gebuehren-verguetung
-description: "Wenn es um Honorar, Gebühren und Vergütung in Berufsrecht Wirtschaftsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Honorar, Gebühren und Vergütung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Berufsrecht Wirtschaftsprüfer."
 ---
 
 # Honorar, Gebühren und Vergütung

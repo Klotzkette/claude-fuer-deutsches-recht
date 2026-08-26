@@ -1,6 +1,6 @@
 ---
 name: grenze-zur-rechtsanwaltsberatung-organisationspf
-description: "Wenn es um Grenze Zur Rechtsanwaltsberatung Organisationspf in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grenze zur Rechtsanwaltsberatung Organisationspf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: grenze zur rechtsanwaltsberatung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

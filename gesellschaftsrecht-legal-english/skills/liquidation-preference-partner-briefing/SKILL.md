@@ -1,6 +1,6 @@
 ---
 name: liquidation-preference-partner-briefing
-description: "Wenn es um Liquidation Preference und Waterfall in Didaktisches Gesellschaftsrecht — English Business Terms geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Liquidation Preference und Waterfall: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Liquidation Preference und Waterfall

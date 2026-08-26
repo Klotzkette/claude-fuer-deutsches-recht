@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-betriebsausfluege-aufmerksamkeiten-60-euro
-description: "Wenn es um Aufmerksamkeiten — 60-EUR-Freigrenze pro persoenlichem Anlass in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufmerksamkeiten — 60-EUR-Freigrenze pro persönlichem Anlass: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Aufmerksamkeiten — 60-EUR-Freigrenze pro persoenlichem Anlass

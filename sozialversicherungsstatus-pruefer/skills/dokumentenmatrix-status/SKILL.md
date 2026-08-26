@@ -1,6 +1,6 @@
 ---
 name: dokumentenmatrix-status
-description: "Wenn es um Dokumentenmatrix Statusakte in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Dokumentenmatrix Statusakte: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Dokumentenmatrix Statusakte

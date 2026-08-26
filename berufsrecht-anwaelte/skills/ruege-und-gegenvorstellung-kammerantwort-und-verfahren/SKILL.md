@@ -1,6 +1,6 @@
 ---
 name: ruege-und-gegenvorstellung-kammerantwort-und-verfahren
-description: "Wenn es um Ruege Und Gegenvorstellung Kammerantwort Und Verfahren in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Rüge und Gegenvorstellung Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: ruege und gegenvorstellung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

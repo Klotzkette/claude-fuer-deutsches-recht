@@ -1,6 +1,6 @@
 ---
 name: anwaltsgerichtliche-anschuldigung-organisationspflicht
-description: "Wenn es um Anwaltsgerichtliche Anschuldigung Organisationspflicht in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anwaltsgerichtliche Anschuldigung Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: anwaltsgerichtliche anschuldigung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

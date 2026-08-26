@@ -1,6 +1,6 @@
 ---
 name: norm-live-check-gesetze-im-internet
-description: "Wenn es um Norm Live Check Gesetze Im Internet in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Norm Live Check Gesetze im Internet: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Norm Live Check Gesetze Im Internet

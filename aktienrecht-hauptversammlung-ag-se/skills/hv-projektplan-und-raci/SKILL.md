@@ -1,6 +1,6 @@
 ---
 name: hv-projektplan-und-raci
-description: "Wenn es um HV Projektplan Und Raci in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HV Projektplan und Raci: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HV Projektplan Und Raci

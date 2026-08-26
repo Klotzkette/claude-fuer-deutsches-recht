@@ -1,6 +1,6 @@
 ---
 name: familienrecht-erstgespraech-juristische
-description: "Wenn es um ELS-J Familienrecht-Erstgespraech in Einfache und Leichte Sprache für juristische Texte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für ELS-J Familienrecht-Erstgespräch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: familienrecht-erstgespraech-juristische."
 ---
 
 # ELS-J Familienrecht-Erstgespraech

@@ -1,6 +1,6 @@
 ---
 name: see-106-konnossement-versicherung-melden
-description: "Wenn es um Konnossement Versicherung Melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konnossement Versicherung Melden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konnossement Versicherung Melden

@@ -1,6 +1,6 @@
 ---
 name: drg-100-erinnerungskultur-juristen-und-legendenbildung
-description: "Wenn es um Drg 100 Erinnerungskultur Juristen Und Legendenbildung in Deutsche Rechtsgeschichte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Drg 100 Erinnerungskultur Juristen und Legendenbildung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Juristische Erinnerungskultur und Legendenbildung
 

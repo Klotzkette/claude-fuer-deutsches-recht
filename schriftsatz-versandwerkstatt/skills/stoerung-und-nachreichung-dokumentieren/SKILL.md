@@ -1,6 +1,6 @@
 ---
 name: stoerung-und-nachreichung-dokumentieren
-description: "Erstellt bei technischer Übermittlungsstörung, ungeeignetem elektronischem Dokument oder gerichtlichem Nachreichungshinweis eine belastbare Ereignis- und Dateichronologie: sichert Fehlermeldungen, Versandversuche, Systemstatus, Ersatzweg, Inhaltsgleichheit, korrigierte PDF, Frist und Eingangsnachweise und hält Störung, Formmangel und bloßen Bedienfehler strikt auseinander."
+description: "Erstellt bei technischer Übermittlungsstörung, ungeeignetem elektronischem Dokument oder gerichtlichem Nachreichungshinweis eine belastbare Ereignis- und Dateichronologie: sichert Fehlermeldungen, Versandversuche, Systemstatus, Ersatzweg, Inhaltsgleichheit, korrigierte PDF, Frist und Eingangsnachweise und hält Störung, Formmangel und bloßen Bedienfehler."
 ---
 
 # Störung und Nachreichung dokumentieren

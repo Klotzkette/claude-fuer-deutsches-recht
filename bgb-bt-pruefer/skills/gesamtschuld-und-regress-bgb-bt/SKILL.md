@@ -1,6 +1,6 @@
 ---
 name: gesamtschuld-und-regress-bgb-bt
-description: "Wenn es um Gesamtschuld und Regress BGB BT in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesamtschuld und Regress BGB BT: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesamtschuld und Regress BGB BT

@@ -1,6 +1,6 @@
 ---
 name: kostenrisiko-und-gebuehrenankuendigung
-description: "Wenn es um Kostenrisiko Und Gebührenankuendigung in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Kostenrisiko und Gebührenankündigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Informationsfreiheit und Presseauskunft. Route: kostenrisiko-und-gebuehrenankuendigung."
 ---
 
 # Kostenrisiko Und Gebührenankuendigung

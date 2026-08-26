@@ -1,6 +1,6 @@
 ---
 name: strafrechtliche-warnwoerter
-description: "Wenn es um Strafrechtliche Warnwoerter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrechtliche Warnwörter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafrechtliche Warnwoerter

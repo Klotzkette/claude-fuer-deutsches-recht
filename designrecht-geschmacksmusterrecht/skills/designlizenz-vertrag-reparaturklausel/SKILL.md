@@ -1,6 +1,6 @@
 ---
 name: designlizenz-vertrag-reparaturklausel
-description: "Wenn es um Designlizenz Vertrag in designrecht-geschmacksmusterrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Designlizenz Vertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Designlizenz Vertrag

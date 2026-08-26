@@ -1,6 +1,6 @@
 ---
 name: apas-verfahren-antwortstrategie-organisation
-description: "Wenn es um Apas Verfahren Antwortstrategie Organisation in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Apas Verfahren Antwortstrategie Organisation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Wirtschaftsprüfer: apas verfahren antwortstrategie - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

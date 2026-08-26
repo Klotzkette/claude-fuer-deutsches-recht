@@ -1,6 +1,6 @@
 ---
 name: jugendschoeffe-besonderheiten-sitzung
-description: "Wenn es um Jugendschöffe Besonderheiten: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Jugendschöffe Besonderheiten: Sitzungspraxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Jugendschöffe Besonderheiten: Sitzungspraxis

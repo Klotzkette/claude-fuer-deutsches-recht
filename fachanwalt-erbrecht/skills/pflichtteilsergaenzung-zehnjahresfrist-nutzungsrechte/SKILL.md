@@ -1,6 +1,6 @@
 ---
 name: pflichtteilsergaenzung-zehnjahresfrist-nutzungsrechte
-description: "Berechnet Pflichtteilsergänzung bei Grundstücksschenkungen, Nießbrauch, Wohnungsrecht und gemischter Schenkung. Prüft Leistungserfolg, Fristbeginn, Ehegattenregel, Abschmelzung, Eigennutz und Bewertung und liefert Schenkungsmatrix, Auskunftsbegehren und bezifferten Anspruch."
+description: "Berechnet Pflichtteilsergänzung bei Grundstücksschenkungen, Nießbrauch, Wohnungsrecht und gemischter Schenkung."
 ---
 
 # Pflichtteilsergänzung und Zehnjahresfrist berechnen

@@ -1,6 +1,6 @@
 ---
 name: pricing-sales-rabatte
-description: "Wenn es um Pricing Sales Rabatte in fashion-law-moderecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Pricing Sales Rabatte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pricing Sales Rabatte

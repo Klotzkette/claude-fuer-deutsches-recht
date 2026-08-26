@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-orientierung
-description: "Wenn es um Fachanwalt für Bau- und Architektenrecht — Orientierung in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachanwalt für Bau- und Architektenrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fachanwalt für Bau- und Architektenrecht — Orientierung

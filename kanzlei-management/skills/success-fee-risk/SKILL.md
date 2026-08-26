@@ -1,6 +1,6 @@
 ---
 name: success-fee-risk
-description: "Wenn es um Erfolgshonorar und Risiko in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erfolgshonorar und Risiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erfolgshonorar und Risiko

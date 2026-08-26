@@ -1,6 +1,6 @@
 ---
 name: risikoregister-sachverstaendigen-pruefung
-description: "Wenn es um LPH 6 Vorbereitung der Vergabe: Baut risiko- in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für LPH 6 Vorbereitung der Vergabe: Baut risiko-: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Baut risiko-

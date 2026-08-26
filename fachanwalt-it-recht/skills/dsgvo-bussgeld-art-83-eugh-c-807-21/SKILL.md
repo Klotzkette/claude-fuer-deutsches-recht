@@ -1,6 +1,6 @@
 ---
 name: dsgvo-bussgeld-art-83-eugh-c-807-21
-description: "Prüft Bußgeldverfahren gegen Unternehmen nach Artikel 83 DSGVO. Trennt Verantwortlichen, objektiven Verstoß, Vorsatz oder Fahrlässigkeit, Zurechnung, Unternehmensbegriff, Umsatzobergrenze und Zumessung und liefert Verteidigungsmatrix, Beweisanträge und bezifferten Risikokorridor."
+description: "Für Unternehmensbußgeld nach Artikel 83 DSGVO prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Unternehmensbußgeld nach Artikel 83 DSGVO prüfen

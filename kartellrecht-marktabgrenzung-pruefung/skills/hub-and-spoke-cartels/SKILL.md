@@ -1,6 +1,6 @@
 ---
 name: hub-and-spoke-cartels
-description: "Wenn es um Hub-and-Spoke-Kartelle in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hub-and-Spoke-Kartelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hub-and-Spoke-Kartelle

@@ -1,6 +1,6 @@
 ---
 name: firma-firmenbildung-formwechsel-registercheck
-description: "Wenn es um Firma und Firmenbeanstandung in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Firma und Firmenbeanstandung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Firma und Firmenbeanstandung

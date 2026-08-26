@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-nordkorea
-description: "Wenn es um Embargo Nordkorea: Umfassendes Sanktionsregime und Proliferationskontrolle in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Embargo Nordkorea: Umfassendes Sanktionsregime und Proliferationskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Embargo Nordkorea: Umfassendes Sanktionsregime und Proliferationskontrolle

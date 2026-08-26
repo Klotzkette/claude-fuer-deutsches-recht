@@ -1,6 +1,6 @@
 ---
 name: gwb-behinderungs-ausbeutungsmissbrauch
-description: "Wenn es um Paragraf 19 GWB Behinderungs Ausbeutungsmissbrauch in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Paragraf 19 GWB Behinderungs Ausbeutungsmissbrauch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # § 19 GWB Behinderungs Ausbeutungsmissbrauch

@@ -1,6 +1,6 @@
 ---
 name: normenkontrolle-zahlen-schwellen-und-berechnung
-description: "Wenn es um Normenkontrolle: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Normenkontrolle: Zahlen, Schwellenwerte und Berechnung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Normenkontrolle: Zahlen, Schwellenwerte und Berechnung

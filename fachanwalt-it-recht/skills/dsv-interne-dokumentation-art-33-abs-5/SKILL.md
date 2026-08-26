@@ -1,6 +1,6 @@
 ---
 name: dsv-interne-dokumentation-art-33-abs-5
-description: "Wenn es um Pflegt das interne Vorfallregister nach Art in Fachanwalt It Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Pflegt das interne Vorfallregister nach Art: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflegt das interne Vorfallregister nach Art

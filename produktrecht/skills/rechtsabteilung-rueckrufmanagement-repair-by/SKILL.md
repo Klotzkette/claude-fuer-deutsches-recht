@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-rueckrufmanagement-repair-by
-description: "Wenn es um Rechtsabteilung: Rückrufmanagement mit RAPEX/Safety Gate in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Rückrufmanagement mit RAPEX/Safety Gate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Rückrufmanagement mit RAPEX/Safety Gate

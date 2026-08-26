@@ -1,6 +1,6 @@
 ---
 name: inso-unentgeltliche-leistung-134
-description: "Wenn es um Unentgeltliche Leistung — Paragraf 134 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unentgeltliche Leistung — Paragraf 134 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unentgeltliche Leistung — § 134 InsO

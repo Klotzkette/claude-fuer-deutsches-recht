@@ -1,6 +1,6 @@
 ---
 name: kelsen-stufenbau-gueltigkeit-und-methodendisziplin
-description: "Wenn es um Kelsen Stufenbau Gueltigkeit Und Methodendisziplin in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Kelsen Stufenbau Gültigkeit und Methodendisziplin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechtsschutz.

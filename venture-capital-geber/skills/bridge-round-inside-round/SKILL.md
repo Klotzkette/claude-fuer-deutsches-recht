@@ -1,6 +1,6 @@
 ---
 name: bridge-round-inside-round
-description: "Wenn es um Bridge Round und Inside Round in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bridge Round und Inside Round: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bridge Round und Inside Round

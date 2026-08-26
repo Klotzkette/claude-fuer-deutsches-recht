@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation
-description: "Wenn es um Mandantenkommunikation in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: DFG-Förderantrag."
 ---
 
 # Mandantenkommunikation

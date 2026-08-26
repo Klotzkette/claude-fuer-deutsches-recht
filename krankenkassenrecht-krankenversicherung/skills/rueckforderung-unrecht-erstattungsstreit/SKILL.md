@@ -1,6 +1,6 @@
 ---
 name: rueckforderung-unrecht-erstattungsstreit
-description: "Wenn es um Rückforderung zu Unrecht erbrachter Leistungen in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rückforderung zu Unrecht erbrachter Leistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rückforderung zu Unrecht erbrachter Leistungen

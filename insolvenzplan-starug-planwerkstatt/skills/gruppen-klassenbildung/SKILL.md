@@ -1,6 +1,6 @@
 ---
 name: gruppen-klassenbildung
-description: "Wenn es um Gruppen- und Klassenbildung in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gruppen- und Klassenbildung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gruppen- und Klassenbildung

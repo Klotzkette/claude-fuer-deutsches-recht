@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-ehegatten
-description: "Wenn es um Interessenkollision Ehegatten in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Interessenkollision Ehegatten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: interessenkollision ehegatten und gesellschafter - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: vwr-spezial-eilrechtsschutz
-description: "Wenn es um Vwr Spezial Eilrechtsschutz in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vwr Spezial Eilrechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Eilrechtsschutz vor Verwaltungsgericht: § 80 Abs

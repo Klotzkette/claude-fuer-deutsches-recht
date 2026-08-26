@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-konkurrierende-antraege-rangkonflikt
-description: "Wenn es um Konkurrierende Anträge und Rangkonflikt in Grundbuchamt Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Konkurrierende Anträge und Rangkonflikt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konkurrierende Anträge und Rangkonflikt

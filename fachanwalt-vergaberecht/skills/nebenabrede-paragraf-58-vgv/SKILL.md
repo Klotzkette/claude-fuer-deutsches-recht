@@ -1,6 +1,6 @@
 ---
 name: nebenabrede-paragraf-58-vgv
-description: "Wenn es um Nebenabrede Paragraf 58 VgV in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nebenabrede Paragraf 58 VgV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nebenabrede § 58 VgV

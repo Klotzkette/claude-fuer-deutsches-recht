@@ -1,6 +1,6 @@
 ---
 name: umwelt-owi-tatbestand-zerlegen
-description: "Wenn es um Umwelt Owi Tatbestand Zerlegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umwelt Owi Tatbestand Zerlegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Umwelt Owi Tatbestand Zerlegen

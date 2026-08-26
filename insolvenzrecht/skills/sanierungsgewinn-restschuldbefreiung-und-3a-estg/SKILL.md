@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-restschuldbefreiung-und-3a-estg
-description: "Wenn es um Sanierungsgewinn — Restschuldbefreiung und Paragraph 3a EStG bei natuerlichen Personen in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungsgewinn — Restschuldbefreiung und Paragraph 3a EStG bei natürlichen Personen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn — Restschuldbefreiung und Paragraph 3a EStG bei natuerlichen Personen

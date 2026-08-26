@@ -1,6 +1,6 @@
 ---
 name: vifr-luftverkehrsrecht-flughafen-spezial
-description: "Wenn es um ViFR: Luftverkehr Flughafen in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für ViFR: Luftverkehr Flughafen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ViFR: Luftverkehr Flughafen

@@ -1,6 +1,6 @@
 ---
 name: vermoegensschaden-betrug-paragraf-263-stgb
-description: "Wenn es um Vermögensschaden Betrug Paragraf 263 StGB in Fachanwalt Strafrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vermögensschaden Betrug Paragraf 263 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vermögensschaden Betrug § 263 StGB

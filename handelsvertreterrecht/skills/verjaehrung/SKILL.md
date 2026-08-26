@@ -1,6 +1,6 @@
 ---
 name: verjaehrung
-description: "Wenn es um Verjährung von Handelsvertreter-Ansprüchen nach Paragraf 195 ff. BGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verjährung von Handelsvertreter-Ansprüchen nach Paragraf 195 ff. BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verjährung von Handelsvertreter-Ansprüchen nach § 195 ff. BGB

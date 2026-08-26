@@ -1,6 +1,6 @@
 ---
 name: schnelltriage-aeusserung
-description: "Wenn es um Schnelltriage Äußerung in Meinungsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schnelltriage Äußerung: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schnelltriage Äußerung

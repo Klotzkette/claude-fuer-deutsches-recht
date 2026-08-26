@@ -1,6 +1,6 @@
 ---
 name: checklisten-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Checklisten: Schriftsatz-, Brief- und Memo-Bausteine in Schriftform und Textform im BGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Checklisten: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Checklisten: Schriftsatz-, Brief- und Memo-Bausteine

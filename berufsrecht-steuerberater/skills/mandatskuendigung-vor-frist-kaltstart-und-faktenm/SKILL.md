@@ -1,6 +1,6 @@
 ---
 name: mandatskuendigung-vor-frist-kaltstart-und-faktenm
-description: "Wenn es um Mandatskuendigung Vor Frist Kaltstart Und Faktenm in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandatskündigung vor Frist Kaltstart und Faktenm: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Steuerberater: mandatskuendigung vor frist - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

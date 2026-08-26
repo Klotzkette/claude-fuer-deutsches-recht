@@ -1,6 +1,6 @@
 ---
 name: vergaberechtliche-versandmappe-endfertigen
-description: "Endfertigt Rüge, Nachprüfungsantrag, Schutzschrift und sofortige Beschwerde im Vergaberecht: trennt Vergabeplattform, Vergabekammer und Vergabesenat, prüft Rüge- und Notfristen, Beteiligte, Anträge und Zuschlagshemmung, ordnet Bekanntmachung, Vergabeunterlagen, Bieterfragen, Angebot und Wertung zu und liefert portalgerechte oder beA-fertige Einzeldateien mit vollständigem Zustellplan."
+description: "Endfertigt Rüge, Nachprüfungsantrag, Schutzschrift und sofortige Beschwerde im Vergaberecht: trennt Vergabeplattform, Vergabekammer und Vergabesenat, prüft Rüge- und Notfristen, Beteiligte, Anträge und Zuschlagshemmung, ordnet Bekanntmachung, Vergabeunterlagen, Bieterfragen, Angebot und Wertung zu und liefert portalgerechte oder beA-fertige Einzeldateien."
 ---
 
 # Vergaberechtliche Versandmappe endfertigen

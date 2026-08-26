@@ -1,6 +1,6 @@
 ---
 name: kv-034-beamtenanfaenger-pauschale-beihilfe-laendercheck
-description: "Wenn es um Krankenversicherung: Beamtenanfänger pauschale Beihilfe Ländercheck in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Beamtenanfänger pauschale Beihilfe Ländercheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Beamtenanfänger pauschale Beihilfe Ländercheck

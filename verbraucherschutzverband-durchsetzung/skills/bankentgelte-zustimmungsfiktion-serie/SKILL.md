@@ -1,6 +1,6 @@
 ---
 name: bankentgelte-zustimmungsfiktion-serie
-description: "Wenn es um VDG 101 Bankentgelte Zustimmungsfiktion Serie in Verbraucherschutzverband Durchsetzung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für VDG 101 Bankentgelte Zustimmungsfiktion Serie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VDG 101 Bankentgelte Zustimmungsfiktion Serie

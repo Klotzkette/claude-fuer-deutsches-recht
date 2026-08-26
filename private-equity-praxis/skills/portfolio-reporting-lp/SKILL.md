@@ -1,6 +1,6 @@
 ---
 name: portfolio-reporting-lp
-description: "Wenn es um Portfolio Reporting an LPs in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Portfolio Reporting an LPs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Portfolio Reporting an LPs

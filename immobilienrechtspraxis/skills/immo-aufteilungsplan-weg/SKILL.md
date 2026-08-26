@@ -1,6 +1,6 @@
 ---
 name: immo-aufteilungsplan-weg
-description: "Wenn es um Aufteilungsplan WEG in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufteilungsplan WEG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufteilungsplan WEG

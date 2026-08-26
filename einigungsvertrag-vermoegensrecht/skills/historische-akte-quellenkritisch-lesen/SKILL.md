@@ -1,6 +1,6 @@
 ---
 name: historische-akte-quellenkritisch-lesen
-description: "Wenn es um Historische Akte Quellenkritisch Lesen in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Historische Akte Quellenkritisch Lesen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Historische Akte Quellenkritisch Lesen

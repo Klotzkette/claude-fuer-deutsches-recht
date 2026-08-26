@@ -1,6 +1,6 @@
 ---
 name: newsletter-double-opt-in-einwilligung
-description: "Wenn es um Newsletter Double-Opt-In Einwilligung in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Newsletter Double-Opt-In Einwilligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Newsletter Double-Opt-In Einwilligung

@@ -1,6 +1,6 @@
 ---
 name: 08-beklagtenvortrag-strukturieren
-description: "Wenn es um 08 Beklagtenvortrag Strukturieren in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für 08 Beklagtenvortrag Strukturieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 08 Beklagtenvortrag Strukturieren

@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-tax-step-plan
-description: "Wenn es um Sanierungsgewinn – Tax Step Plan in der Restrukturierung in Großkanzlei Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sanierungsgewinn – Tax Step Plan in der Restrukturierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn – Tax Step Plan in der Restrukturierung

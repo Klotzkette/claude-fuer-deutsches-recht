@@ -1,6 +1,6 @@
 ---
 name: see-023-schiffshypothek-kaufvertrag-scopen
-description: "Wenn es um Schiffshypothek Kaufvertrag Scopen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiffshypothek Kaufvertrag Scopen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiffshypothek Kaufvertrag Scopen

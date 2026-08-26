@@ -1,6 +1,6 @@
 ---
 name: zahlungsbedingungen-open-account-akkreditiv-ucp
-description: "Wenn es um Zahlungsbedingungen: Open Account und Trade Finance in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zahlungsbedingungen: Open Account und Trade Finance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zahlungsbedingungen: Open Account und Trade Finance

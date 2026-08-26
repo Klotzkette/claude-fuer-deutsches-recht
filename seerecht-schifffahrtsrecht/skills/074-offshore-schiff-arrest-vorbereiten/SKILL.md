@@ -1,6 +1,6 @@
 ---
 name: 074-offshore-schiff-arrest-vorbereiten
-description: "Wenn es um Offshore-Schiff – Arrest vorbereiten in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Offshore-Schiff – Arrest vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Offshore-Schiff – Arrest vorbereiten

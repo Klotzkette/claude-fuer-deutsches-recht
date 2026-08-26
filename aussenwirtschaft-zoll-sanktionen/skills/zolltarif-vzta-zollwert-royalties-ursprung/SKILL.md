@@ -1,6 +1,6 @@
 ---
 name: zolltarif-vzta-zollwert-royalties-ursprung
-description: "Wenn es um Zolltarifrecht und vZTA: Systematik APS und Zolloptimierung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zolltarifrecht und vZTA: Systematik APS und Zolloptimierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zolltarifrecht und vZTA: Systematik APS und Zolloptimierung

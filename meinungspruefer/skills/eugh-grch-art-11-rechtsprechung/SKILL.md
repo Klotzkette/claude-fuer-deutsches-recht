@@ -1,6 +1,6 @@
 ---
 name: eugh-grch-art-11-rechtsprechung
-description: "Wenn es um EuGH und Art. 11 GRCh in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für EuGH und Art. 11 GRCh: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EuGH und Art. 11 GRCh

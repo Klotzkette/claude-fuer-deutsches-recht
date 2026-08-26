@@ -1,6 +1,6 @@
 ---
 name: ordnerstruktur
-description: "Wenn es um Dokumente und Kommunikation: Ordnet drive/cloud nach steuern in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dokumente und Kommunikation: Ordnet drive/cloud nach steuern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumente und Kommunikation: Ordnet drive/cloud nach steuern

@@ -1,6 +1,6 @@
 ---
 name: onlineportal-paywall-datenbankrecht-schnittstelle
-description: "Wenn es um Verl-036 · Online-Portal, Paywall, Datenbankrecht und Schnittstelle in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-036 · Online-Portal, Paywall, Datenbankrecht und Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Verl-036 · Online-Portal, Paywall, Datenbankrecht und Schnittstelle

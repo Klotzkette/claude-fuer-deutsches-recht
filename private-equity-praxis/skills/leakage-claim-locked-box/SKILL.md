@@ -1,6 +1,6 @@
 ---
 name: leakage-claim-locked-box
-description: "Wenn es um Leakage Claim im Locked-Box Deal in Private Equity Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Leakage Claim im Locked-Box Deal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leakage Claim im Locked-Box Deal

@@ -1,6 +1,6 @@
 ---
 name: tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung
-description: "Wenn es um Tia Zusaetzliche Schutzmassnahmen Encryption Pseudonymisierung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für TIA Zusätzliche Schutzmassnahmen Encryption Pseudonymisierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2

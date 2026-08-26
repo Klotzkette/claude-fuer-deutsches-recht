@@ -1,6 +1,6 @@
 ---
 name: ifg-052-ifggebv-gebuehren-drittanhoerung-begle
-description: "Wenn es um Ifggebv Gebuehren Drittanhoerung Begle in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ifggebv Gebühren Drittanhörung Begle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Informationsfreiheit und Presseauskunft. Route: ifg-052-ifggebv-gebuehren-drittanhoerung-begle."
 ---
 
 # Ifggebv Gebuehren Drittanhoerung Begle

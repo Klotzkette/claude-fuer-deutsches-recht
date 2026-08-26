@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagedelikte-153-stgb-uneidlich
-description: "Wenn es um Falsche uneidliche Aussage nach Paragraph 153 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Falsche uneidliche Aussage nach Paragraph 153 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Falsche uneidliche Aussage nach Paragraph 153 StGB

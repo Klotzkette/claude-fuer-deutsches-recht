@@ -1,6 +1,6 @@
 ---
 name: verbrauchsgueterkauf-digitales
-description: "Wenn es um Verbrauchsgüterkauf und Digitales Paragrafen 474 ff. BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verbrauchsgüterkauf und Digitales Paragrafen 474 ff. BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbrauchsgüterkauf und Digitales §§ 474 ff. BGB

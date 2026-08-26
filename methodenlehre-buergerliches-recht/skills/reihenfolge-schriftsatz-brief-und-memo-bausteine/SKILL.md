@@ -1,6 +1,6 @@
 ---
 name: reihenfolge-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Reihenfolge Schriftsatz Brief Und Memo Bausteine in Methodenlehre bürgerliches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Reihenfolge Schriftsatz Brief und Memo Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Dieses Skill definiert die methodisch optimale Reihenfolge und Bausteinstruktur für juristische Schriftsätze, anwaltliche Briefe und interne Rechtsmemos
@@ -98,3 +98,7 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-reihenfolge-schriftsatz-brief-und-memo-bausteine` beziehungsweise Reihenfolge: Schriftsatz-, Brief- und Memo-Bausteine: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-reihenfolge-schriftsatz-brief-und-memo-bausteine.md).

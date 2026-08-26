@@ -1,6 +1,6 @@
 ---
 name: beschreibung-und-zeichnungen
-description: "Wenn es um Beschreibung Und Zeichnungen in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beschreibung und Zeichnungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschreibung Und Zeichnungen

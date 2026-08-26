@@ -1,6 +1,6 @@
 ---
 name: pruefentscheidung
-description: "Wenn es um Prüfentscheidung treffen in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfentscheidung treffen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüfentscheidung treffen

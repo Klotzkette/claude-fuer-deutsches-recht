@@ -1,6 +1,6 @@
 ---
 name: luft-017-fluglaerm-und-anwohner
-description: "Wenn es um Fluglaerm Und Anwohner in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fluglärm und Anwohner: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fluglaerm Und Anwohner

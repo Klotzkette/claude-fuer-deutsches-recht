@@ -1,6 +1,6 @@
 ---
 name: insol-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan
-description: "Entwirft einen bestimmten Rangrücktritt für den gestaltenden Teil des Insolvenzplans. Spiegelt Rangtiefe, Durchsetzungssperre und Befriedigungsquelle mit Paragraph 19 InsO und Paragraph 5 Absatz 2a EStG und liefert Plantext samt Bilanz- und Steuerwarnung."
+description: "Entwirft einen bestimmten Rangrücktritt für den gestaltenden Teil des Insolvenzplans."
 ---
 
 # Sanierungsgewinn — Rangrücktritt und Paragraph 5 Absatz 2a EStG im Plan

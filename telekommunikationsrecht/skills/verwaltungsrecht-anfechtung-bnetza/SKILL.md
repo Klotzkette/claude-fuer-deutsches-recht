@@ -1,6 +1,6 @@
 ---
 name: verwaltungsrecht-anfechtung-bnetza
-description: "Wenn es um Anfechtung von BNetzA-Beschlüssen in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anfechtung von BNetzA-Beschlüssen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anfechtung von BNetzA-Beschlüssen

@@ -1,6 +1,6 @@
 ---
 name: kanzleisitz-und-erreichbarkeit-praevention
-description: "Wenn es um Kanzleisitz und Erreichbarkeit: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kanzleisitz und Erreichbarkeit: Präventions- und Organisationspaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kanzleisitz und Erreichbarkeit: Präventions- und Organisationspaket

@@ -1,6 +1,6 @@
 ---
 name: gegendarstellung-fehlerkatalog
-description: "Wenn es um Gegendarstellung Fehlerkatalog in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gegendarstellung Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gegendarstellung Fehlerkatalog

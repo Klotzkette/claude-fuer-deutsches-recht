@@ -1,6 +1,6 @@
 ---
 name: factoringtyp-true-false-reverse-maturity
-description: "Wenn es um Factoringtyp true false reverse maturity in Factoring-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Factoringtyp true false reverse maturity: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Factoringtyp true false reverse maturity

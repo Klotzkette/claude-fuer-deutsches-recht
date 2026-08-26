@@ -1,6 +1,6 @@
 ---
 name: zitat-bverfg-entscheidung
-description: "Wenn es um BVerfG-Entscheidung zitieren in Zitierweise deutsches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für BVerfG-Entscheidung zitieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BVerfG-Entscheidung zitieren

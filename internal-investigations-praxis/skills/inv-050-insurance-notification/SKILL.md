@@ -1,6 +1,6 @@
 ---
 name: inv-050-insurance-notification
-description: "Wenn es um Internal Investigation: Insurance Notification in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: Insurance Notification: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Insurance Notification

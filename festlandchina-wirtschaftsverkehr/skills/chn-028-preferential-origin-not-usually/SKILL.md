@@ -1,6 +1,6 @@
 ---
 name: chn-028-preferential-origin-not-usually
-description: "Wenn es um Preferential Origin Not Usually in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Preferential Origin Not Usually: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Preferential Origin Not Usually

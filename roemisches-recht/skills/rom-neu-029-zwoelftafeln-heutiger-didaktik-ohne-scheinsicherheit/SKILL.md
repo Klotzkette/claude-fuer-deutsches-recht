@@ -1,6 +1,6 @@
 ---
 name: rom-neu-029-zwoelftafeln-heutiger-didaktik-ohne-scheinsicherheit
-description: "Wenn es um Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisches Recht. Route: rom-neu-029-zwoelftafeln-heutiger-didaktik-ohne-scheinsicherheit."
 ---
 
 # Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit

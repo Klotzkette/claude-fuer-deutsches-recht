@@ -1,6 +1,6 @@
 ---
 name: ausgleichsanmeldung
-description: "Wenn es um Anmeldung des Ausgleichsanspruchs nach Paragraf 89b Abs. 4 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Anmeldung des Ausgleichsanspruchs nach Paragraf 89b Abs. 4 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB

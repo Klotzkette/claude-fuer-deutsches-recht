@@ -1,6 +1,6 @@
 ---
 name: theorie-memo-output
-description: "Wenn es um Theorie-Memo als Output in Rechtstheorie und Rechtsphilosophie geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Theorie-Memo als Output: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Theorie-Memo als Output

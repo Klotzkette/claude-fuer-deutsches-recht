@@ -1,6 +1,6 @@
 ---
 name: fernabsatz-schlichtung-waehlen
-description: "Wenn es um Fernabsatz Schlichtung Wählen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fernabsatz Schlichtung Wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: fernabsatz-schlichtung-waehlen."
 ---
 
 # Fernabsatz Schlichtung Wählen

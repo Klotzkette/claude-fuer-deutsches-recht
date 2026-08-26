@@ -1,6 +1,6 @@
 ---
 name: kv-039-betriebliche-krankenversicherung-und-datenschutz
-description: "Wenn es um Krankenversicherung: Betriebliche Krankenversicherung und Datenschutz in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Betriebliche Krankenversicherung und Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Betriebliche Krankenversicherung und Datenschutz

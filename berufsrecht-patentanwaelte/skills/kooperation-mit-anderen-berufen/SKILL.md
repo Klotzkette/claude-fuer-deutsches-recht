@@ -1,6 +1,6 @@
 ---
 name: kooperation-mit-anderen-berufen
-description: "Wenn es um Kooperation mit anderen Berufen in Berufsrecht Patentanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kooperation mit anderen Berufen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Patentanwälte."
 ---
 
 # Kooperation mit anderen Berufen

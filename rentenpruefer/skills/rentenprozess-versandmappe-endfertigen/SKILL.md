@@ -1,6 +1,6 @@
 ---
 name: rentenprozess-versandmappe-endfertigen
-description: "Endfertigt Klage, Eilantrag, Berufung und Beschwerde gegen Rentenversicherung oder Versorgungsträger: liest Versicherungsverlauf, Bescheide, Widerspruchsakte, Entgelt- und Gesundheitsnachweise zuerst, prüft Streitgegenstand und Antrag, ordnet Zeiträume und Befunde zu und liefert datensparsame, barrierearme Einzel-PDFs mit sozialgerichtlichem Signatur- und Eingangscheck."
+description: "Endfertigt Klage, Eilantrag, Berufung und Beschwerde gegen Rentenversicherung oder Versorgungsträger: liest Versicherungsverlauf, Bescheide, Widerspruchsakte, Entgelt- und Gesundheitsnachweise zuerst, prüft Streitgegenstand und Antrag, ordnet Zeiträume und Befunde zu und liefert datensparsame, barrierearme Einzel-PDFs mit sozialgerichtlichem Signatur- und."
 ---
 
 # Rentenprozess-Versandmappe endfertigen

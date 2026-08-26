@@ -1,6 +1,6 @@
 ---
 name: jugendliche-im-owi-verfahren
-description: "Wenn es um Jugendliche Im Owi Verfahren in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Jugendliche im Owi Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Jugendliche Im Owi Verfahren

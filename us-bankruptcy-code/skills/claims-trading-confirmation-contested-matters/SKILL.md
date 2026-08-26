@@ -1,6 +1,6 @@
 ---
 name: claims-trading-confirmation-contested-matters
-description: "Wenn es um Claims Trading Rule 3001(e) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Claims Trading Rule 3001(e): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Claims Trading Rule 3001(e)

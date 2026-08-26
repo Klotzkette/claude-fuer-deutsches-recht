@@ -1,6 +1,6 @@
 ---
 name: antragsbefugnis-red-team-und-qualitaetskontrolle
-description: "Wenn es um Antragsbefugnis: Red-Team und Qualitätskontrolle in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Antragsbefugnis: Red-Team und Qualitätskontrolle: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Antragsbefugnis: Red-Team und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: minijob-midijob-nachversicherung-beamte
-description: "Wenn es um minijob-midijob-teilzeit-pflegezeiten in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für minijob-midijob-teilzeit-pflegezeiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # minijob-midijob-teilzeit-pflegezeiten

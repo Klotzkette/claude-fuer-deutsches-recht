@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-antidumping-ausgleich
-description: "Wenn es um Antidumping-Ausgleich: TARIC-Maßnahmen und Herstellerzuordnung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Antidumping-Ausgleich: TARIC-Maßnahmen und Herstellerzuordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Antidumping-Ausgleich: TARIC-Maßnahmen und Herstellerzuordnung

@@ -1,6 +1,6 @@
 ---
 name: agb-pruefung
-description: "Wenn es um AGB-Prüfung – Einbeziehung und Inhaltskontrolle in Vertragsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für AGB-Prüfung – Einbeziehung und Inhaltskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # AGB-Prüfung – Einbeziehung und Inhaltskontrolle

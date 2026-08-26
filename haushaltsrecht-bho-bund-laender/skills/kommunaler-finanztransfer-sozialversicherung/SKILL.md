@@ -1,6 +1,6 @@
 ---
 name: kommunaler-finanztransfer-sozialversicherung
-description: "Wenn es um Kommunaler Finanztransfer Vollzug Trac in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunaler Finanztransfer Vollzug Trac: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunaler Finanztransfer Vollzug Trac

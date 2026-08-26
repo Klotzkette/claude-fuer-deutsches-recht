@@ -1,6 +1,6 @@
 ---
 name: fristenkalender-bundeswehrrecht
-description: "Wenn es um Fristenkalender Bundeswehrrecht in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristenkalender Bundeswehrrecht: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristenkalender Bundeswehrrecht

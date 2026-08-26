@@ -1,6 +1,6 @@
 ---
 name: individualklage-verteidigung
-description: "Wenn es um Individualklage Verteidigung in AGB-Recht-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Individualklage Verteidigung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Individualklage Verteidigung

@@ -1,6 +1,6 @@
 ---
 name: kagb-aif-bafin-grenzcheck
-description: "Wenn es um KAGB/AIF/BaFin-Grenzcheck in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für KAGB/AIF/BaFin-Grenzcheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KAGB/AIF/BaFin-Grenzcheck

@@ -1,6 +1,6 @@
 ---
 name: berufsrecht-sonderfall-und-edge-case
-description: "Wenn es um Berufsrecht: Sonderfall und Edge-Case-Prüfung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Berufsrecht: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: berufsrecht-sonderfall-und-edge-case."
 ---
 
 # Berufsrecht: Sonderfall und Edge-Case-Prüfung

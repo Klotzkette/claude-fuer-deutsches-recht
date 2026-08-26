@@ -1,6 +1,6 @@
 ---
 name: eu-cyber-resilience-act-software
-description: "Wenn es um Cyber Resilience Act Software in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cyber Resilience Act Software: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Cyber Resilience Act Software

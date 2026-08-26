@@ -1,6 +1,6 @@
 ---
 name: datenbank-und-softwaredaten
-description: "Wenn es um Datenbank und Softwaredaten in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbank und Softwaredaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbank und Softwaredaten

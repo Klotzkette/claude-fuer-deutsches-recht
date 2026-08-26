@@ -1,6 +1,6 @@
 ---
 name: agb-anwaltsvertrag-allg-mandatsbedingungen
-description: "Wenn es um Agb Anwaltsvertrag Und Allg Mandatsbedingungen in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Anwaltsvertrag Allg Mandatsbedingungen; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für AGB Anwaltsvertrag und Allg Mandatsbedingungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: agb-anwaltsvertrag-allg-mandatsbedingungen."
 ---
 
 # Agb Anwaltsvertrag Und Allg Mandatsbedingungen

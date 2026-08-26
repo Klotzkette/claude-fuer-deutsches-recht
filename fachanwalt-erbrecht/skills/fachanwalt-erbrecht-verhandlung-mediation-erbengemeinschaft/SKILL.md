@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft
-description: "Wenn es um Mediation / Vergleich bei Erbengemeinschaft in Fachanwalt Erbrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Mediation / Vergleich bei Erbengemeinschaft: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Mediation / Vergleich bei Erbengemeinschaft

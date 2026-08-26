@@ -1,6 +1,6 @@
 ---
 name: verbotene-praktiken-art-5
-description: "Wenn es um Verbotene Praktiken — Art. 5 europäischer Technikregulierungsrahmen (Entscheidungsbaum) in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verbotene Praktiken — Art. 5 europäischer Technikregulierungsrahmen (Entscheidungsbaum): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbotene Praktiken — Art. 5 KI-VO (Entscheidungsbaum)

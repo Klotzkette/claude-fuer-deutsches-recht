@@ -1,6 +1,6 @@
 ---
 name: angebotsumstellung-evidenz-flags-red-team-korrektur
-description: "Wenn es um Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung in Kartellrecht — Marktabgrenzungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung

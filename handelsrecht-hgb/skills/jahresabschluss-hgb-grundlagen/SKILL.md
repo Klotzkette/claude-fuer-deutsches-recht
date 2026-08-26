@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-hgb-grundlagen
-description: "Wenn es um Jahresabschluss HGB Grundlagen in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Jahresabschluss HGB Grundlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Jahresabschluss HGB Grundlagen

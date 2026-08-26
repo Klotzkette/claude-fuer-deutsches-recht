@@ -1,6 +1,6 @@
 ---
 name: nachversicherung-beamte-referendare-soldaten
-description: "Wenn es um nachversicherung-beamte-referendare-soldaten in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für nachversicherung-beamte-referendare-soldaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # nachversicherung-beamte-referendare-soldaten

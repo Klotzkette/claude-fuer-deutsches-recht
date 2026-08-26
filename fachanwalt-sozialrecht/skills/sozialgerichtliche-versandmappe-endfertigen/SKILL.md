@@ -1,6 +1,6 @@
 ---
 name: sozialgerichtliche-versandmappe-endfertigen
-description: "Endfertigt sozialgerichtliche Klage, Eilantrag, Klagebegründung, Berufung oder Beschwerde: liest Verwaltungs- und Gerichtsakte zuerst, gleicht Bescheid und Widerspruchsbescheid mit Antrag und Streitgegenstand ab, ordnet Befunde, Gutachten, Versicherungsverläufe und Leistungsberechnungen zu und liefert eine barrierearme beA-Versandmappe mit fortgeführtem K-/B-Anlagenkreis."
+description: "Endfertigt sozialgerichtliche Klage, Eilantrag, Klagebegründung, Berufung oder Beschwerde: liest Verwaltungs- und Gerichtsakte zuerst, gleicht Bescheid und Widerspruchsbescheid mit Antrag und Streitgegenstand ab, ordnet Befunde, Gutachten, Versicherungsverläufe und Leistungsberechnungen zu und liefert eine barrierearme beA-Versandmappe mit fortgeführtem."
 ---
 
 # Sozialgerichtliche Versandmappe endfertigen

@@ -1,6 +1,6 @@
 ---
 name: entgtranspg-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Entgtranspg Verhandlung Vergleich Und Eskalation in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entgtranspg Verhandlung Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch Paragraf 10, Verfahren, Fristen, Verhandlungsstrategie bei Lohnlücke, Eskalation zu AGG-Klage Paragrafen 15 und 22 AGG, Paarvergleich BAG 8 AZR 300/24, EU-Lohntransparenz-RL 2023/970.
@@ -105,3 +105,7 @@ Das BAG hat in BAG 8 AZR 300/24 (23.10.2025) entschieden: **Ein einziger Verglei
 ## Was dieser Arbeitsgang nicht macht
 - Keine individuelle Entgeltdiskriminierungsanalyse ohne Vorlage von Vergütungsdaten.
 - Keine abschließende Prognose über Klagerfolg ohne vollständige Sachverhaltskenntnis.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-entgtranspg-verhandlung-vergleich-und-eskalation` beziehungsweise Entgtranspg: Verhandlung, Vergleich und Eskalation: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-entgtranspg-verhandlung-vergleich-und-eskalation.md).

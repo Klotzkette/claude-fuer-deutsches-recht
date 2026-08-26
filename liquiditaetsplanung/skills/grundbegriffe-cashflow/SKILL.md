@@ -1,6 +1,6 @@
 ---
 name: grundbegriffe-cashflow
-description: "Wenn es um Liquiditaetsplanung: Grundbegriffe in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Liquiditätsplanung: Grundbegriffe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liquiditaetsplanung: Grundbegriffe

@@ -1,6 +1,6 @@
 ---
 name: landesrecht-und-behoerde-finden
-description: "Wenn es um Föderaler Zuständigkeitsfinder in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Föderaler Zuständigkeitsfinder: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Föderaler Zuständigkeitsfinder

@@ -1,6 +1,6 @@
 ---
 name: datenschutzpanne-lohnakte-kammerantwort-und-verfahren
-description: "Wenn es um Datenschutzpanne Lohnakte Kammerantwort Und Verfahren in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Datenschutzpanne Lohnakte Kammerantwort und Verfahren: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: datenschutzpanne lohnakte - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

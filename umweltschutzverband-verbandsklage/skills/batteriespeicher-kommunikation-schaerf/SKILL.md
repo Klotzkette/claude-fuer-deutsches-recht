@@ -1,6 +1,6 @@
 ---
 name: batteriespeicher-kommunikation-schaerf
-description: "Wenn es um Batteriespeicher Kommunikation Schaerf in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Batteriespeicher Kommunikation Schärf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Batteriespeicher Kommunikation Schaerf

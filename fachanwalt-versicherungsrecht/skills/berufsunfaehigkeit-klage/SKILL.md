@@ -1,6 +1,6 @@
 ---
 name: berufsunfaehigkeit-klage
-description: "Wenn es um Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung

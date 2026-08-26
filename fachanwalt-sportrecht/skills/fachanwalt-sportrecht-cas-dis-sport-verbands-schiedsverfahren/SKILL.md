@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren
-description: "Wenn es um Sport-Schiedsgerichtsbarkeit — CAS / DIS-Sport / Verbände in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sport-Schiedsgerichtsbarkeit — CAS / DIS-Sport / Verbände: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sport-Schiedsgerichtsbarkeit — CAS / DIS-Sport / Verbände

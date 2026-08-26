@@ -1,6 +1,6 @@
 ---
 name: str-027-autobahn-kostenlast-pruefen
-description: "Wenn es um Autobahn Kostenlast Pruefen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Autobahn Kostenlast Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenrecht und Infrastruktur. Route: str-027-autobahn-kostenlast-pruefen."
 ---
 
 # Autobahn Kostenlast Pruefen

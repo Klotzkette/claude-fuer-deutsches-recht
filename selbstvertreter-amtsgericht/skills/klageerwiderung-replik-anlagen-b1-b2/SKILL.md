@@ -1,6 +1,6 @@
 ---
 name: klageerwiderung-replik-anlagen-b1-b2
-description: "Wenn es um Anlagen in Klageerwiderung und Replik — die Nummerierung fortfuehren in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anlagen in Klageerwiderung und Replik — die Nummerierung fortführen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Anlagen in Klageerwiderung und Replik — die Nummerierung fortfuehren

@@ -1,6 +1,6 @@
 ---
 name: mr-einfuehrung-klageentwurf-beweislast
-description: "Wenn es um Mietrecht: Vertragstypen in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mietrecht: Vertragstypen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mietrecht: Vertragstypen

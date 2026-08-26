@@ -1,6 +1,6 @@
 ---
 name: inv-052-us-counsel-coordination
-description: "Wenn es um Internal Investigation: US Counsel Coordination in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: US Counsel Coordination: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: US Counsel Coordination

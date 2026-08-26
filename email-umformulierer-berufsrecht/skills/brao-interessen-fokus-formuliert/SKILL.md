@@ -1,6 +1,6 @@
 ---
 name: brao-interessen-fokus-formuliert
-description: "Wenn es um Brao: Mehrparteienkonflikt und Interessenmatrix in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Brao Interessen Fokus Formuliert; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für BRAO: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: E-Mail-Umformulierer. Route: brao-interessen-fokus-formuliert."
 ---
 
 # Brao: Mehrparteienkonflikt und Interessenmatrix

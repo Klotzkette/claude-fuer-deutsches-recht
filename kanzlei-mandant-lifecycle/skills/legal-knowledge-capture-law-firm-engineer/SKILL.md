@@ -1,6 +1,6 @@
 ---
 name: legal-knowledge-capture-law-firm-engineer
-description: "Wenn es um Knowledge Capture in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Knowledge Capture: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Knowledge Capture

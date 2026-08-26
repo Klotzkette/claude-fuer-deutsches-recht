@@ -1,6 +1,6 @@
 ---
 name: pro-rata-super-pro-rata
-description: "Wenn es um Pro rata und Super pro rata in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pro rata und Super pro rata: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pro rata und Super pro rata

@@ -1,6 +1,6 @@
 ---
 name: local-counsel-loeschung-erwiderung
-description: "Wenn es um Local Counsel Briefing Ausland in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Local Counsel Briefing Ausland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Local Counsel Briefing Ausland

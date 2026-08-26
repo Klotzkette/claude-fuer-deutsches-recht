@@ -1,6 +1,6 @@
 ---
 name: handelsregister-elektronische-zustellung
-description: "Wenn es um NKR-Handelsregister und elektronische Zustellung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Handelsregister Elektronische Zustellung; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
+description: "Für NKR-Handelsregister und elektronische Zustellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Normenkontrollrat (NKR) — Prüfung von Gesetzentwürfen. Route: handelsregister-elektronische-zustellung."
 ---
 
 # NKR-Handelsregister und elektronische Zustellung

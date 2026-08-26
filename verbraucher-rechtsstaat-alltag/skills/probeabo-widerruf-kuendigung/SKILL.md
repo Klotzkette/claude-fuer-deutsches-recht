@@ -1,6 +1,6 @@
 ---
 name: probeabo-widerruf-kuendigung
-description: "Wenn es um Probeabo Widerruf Kündigung in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Probeabo Widerruf Kündigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Probeabo Widerruf Kündigung

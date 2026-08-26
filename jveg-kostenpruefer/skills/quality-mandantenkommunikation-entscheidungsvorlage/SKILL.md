@@ -1,6 +1,6 @@
 ---
 name: quality-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Quality: Mandantenkommunikation und Entscheidungsvorlage in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quality: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Quality: Mandantenkommunikation und Entscheidungsvorlage

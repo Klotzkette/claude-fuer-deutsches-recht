@@ -1,6 +1,6 @@
 ---
 name: keine-buehne-aber-nicht-fehlen
-description: "Wenn es um Keine Buehne Aber Nicht Fehlen in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Keine Bühne Aber Nicht Fehlen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Keine Buehne Aber Nicht Fehlen

@@ -1,6 +1,6 @@
 ---
 name: unterauftragnehmer-erfassen
-description: "Wenn es um Unterauftragnehmer erfassen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unterauftragnehmer erfassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unterauftragnehmer erfassen

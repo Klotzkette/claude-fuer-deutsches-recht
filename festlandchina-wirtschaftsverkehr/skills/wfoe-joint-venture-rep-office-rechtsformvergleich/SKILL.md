@@ -1,6 +1,6 @@
 ---
 name: wfoe-joint-venture-rep-office-rechtsformvergleich
-description: "Wenn es um WFOE/Joint Venture/Representative Office: Rechtsformvergleich China in China-Wirtschaftsverkehr geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für WFOE/Joint Venture/Representative Office: Rechtsformvergleich China: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # WFOE/Joint Venture/Representative Office: Rechtsformvergleich China

@@ -1,6 +1,6 @@
 ---
 name: lernstrategien-livecheck-sonderfall
-description: "Wenn es um Lernstrategien: Compliance-Dokumentation und Aktenvermerk in Jurastudium geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Lernstrategien: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Lernstrategien: Compliance-Dokumentation und Aktenvermerk

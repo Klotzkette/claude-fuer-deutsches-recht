@@ -1,6 +1,6 @@
 ---
 name: bess-epc-fca-agnes-finanzierung
-description: "Wenn es um EPC, O&M und Herstellerverträge in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EPC, O&M und Herstellerverträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EPC, O&M und Herstellerverträge

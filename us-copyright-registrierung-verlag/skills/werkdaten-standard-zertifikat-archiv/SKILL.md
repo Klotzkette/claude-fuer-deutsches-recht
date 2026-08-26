@@ -1,6 +1,6 @@
 ---
 name: werkdaten-standard-zertifikat-archiv
-description: "Wenn es um Werkdaten für die Standard Application in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Werkdaten für die Standard Application: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Werkdaten für die Standard Application

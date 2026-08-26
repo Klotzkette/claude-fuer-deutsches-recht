@@ -1,6 +1,6 @@
 ---
 name: vorstandswechsel-dividenden
-description: "Wenn es um Vorstandswechsel – Insiderrecht und Ad-hoc-Pflicht in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorstandswechsel – Insiderrecht und Ad-hoc-Pflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorstandswechsel – Insiderrecht und Ad-hoc-Pflicht

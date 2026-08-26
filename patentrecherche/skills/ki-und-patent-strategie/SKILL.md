@@ -1,6 +1,6 @@
 ---
 name: ki-und-patent-strategie
-description: "Wenn es um digitale Werkzeuge-Erfindungen: Strategie in patentrecherche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für digitale Werkzeuge-Erfindungen: Strategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # KI-Erfindungen: Strategie

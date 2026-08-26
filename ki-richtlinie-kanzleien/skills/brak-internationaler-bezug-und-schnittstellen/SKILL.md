@@ -1,6 +1,6 @@
 ---
 name: brak-internationaler-bezug-und-schnittstellen
-description: "Wenn es um Brak: Internationaler Bezug und Schnittstellen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Brak: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Brak: Internationaler Bezug und Schnittstellen

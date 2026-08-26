@@ -1,6 +1,6 @@
 ---
 name: abteilung-i-eigentum-und-erwerbsgrund
-description: "Wenn es um Abteilung I Eigentum in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abteilung I Eigentum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abteilung I Eigentum

@@ -1,6 +1,6 @@
 ---
 name: volksvermoegen-oder-finanzvermoegen
-description: "Wenn es um Volksvermoegen Oder Finanzvermoegen in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Volksvermögen oder Finanzvermögen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Volksvermoegen Oder Finanzvermoegen

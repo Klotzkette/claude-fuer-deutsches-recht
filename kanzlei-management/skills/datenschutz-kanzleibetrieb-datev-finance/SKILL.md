@@ -1,6 +1,6 @@
 ---
 name: datenschutz-kanzleibetrieb-datev-finance
-description: "Wenn es um Datenschutz im Kanzleibetrieb in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz im Kanzleibetrieb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz im Kanzleibetrieb

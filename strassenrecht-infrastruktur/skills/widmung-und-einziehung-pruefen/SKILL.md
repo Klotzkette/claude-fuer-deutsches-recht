@@ -1,6 +1,6 @@
 ---
 name: widmung-und-einziehung-pruefen
-description: "Wenn es um Widmung Und Einziehung Prüfen in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Widmung und Einziehung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenrecht und Infrastruktur. Route: widmung-und-einziehung-pruefen."
 ---
 
 # Widmung Und Einziehung Prüfen

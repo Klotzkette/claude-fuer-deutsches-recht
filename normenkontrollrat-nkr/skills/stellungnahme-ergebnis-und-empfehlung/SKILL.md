@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-ergebnis-und-empfehlung
-description: "Wenn es um NKR-Stellungnahme — Ergebnis und Empfehlung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NKR-Stellungnahme — Ergebnis und Empfehlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NKR-Stellungnahme — Ergebnis und Empfehlung

@@ -1,6 +1,6 @@
 ---
 name: sprach-und-registerrouter-fur-sieben-katholische-arbeitssprachen
-description: "Wenn es um Sprach- und Registerrouter für sieben katholische Arbeitssprachen in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sprach- und Registerrouter für sieben katholische Arbeitssprachen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Sprach- und Registerrouter für sieben katholische Arbeitssprachen

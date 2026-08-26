@@ -1,6 +1,6 @@
 ---
 name: offenbarung-neuheitsschonfrist-registerstand
-description: "Wenn es um Offenbarung Neuheitsschonfrist Prioritaet in designrecht-geschmacksmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Offenbarung Neuheitsschonfrist Priorität: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Offenbarung Neuheitsschonfrist Prioritaet

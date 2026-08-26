@@ -1,6 +1,6 @@
 ---
 name: aktg-behoerden-gericht-und-registerweg
-description: "Wenn es um Aktg Behoerden Gericht Und Registerweg in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktg Behörden Gericht und Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # AktG: Behörden-, Gerichts- oder Registerweg im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -42,3 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Behörden- und Registerweg:** Anmeldung Handelsregister (Abteilung B) § 36 AktG bei zuständigem Amtsgericht; öffentliche Beurkundung § 23 AktG; bei börsennotierten AG zusätzlich BaFin-Mitteilungspflichten (Art. 17 MAR Ad-hoc, §§ 33 ff. WpHG Stimmrechtsmeldungen, §§ 19 ff. WpHG Directors' Dealings).
 4. **Frist- und Formregeln:** Einberufung Hauptversammlung mindestens 30 Tage vor Termin (§ 123 Abs. 1 AktG), bei börsennotierter AG 36 Tage (§ 123 Abs. 2 AktG). Notarielle Beurkundung der HV-Beschlüsse zwingend § 130 AktG.
 5. **Anschluss:** Anfechtungsklage zuständig Landgericht Kammer für Handelssachen (§ 246 Abs. 3 AktG i.V.m. § 95 GVG); bei kapitalmarktrelevanten Themen parallel BaFin-Anzeige; Beweissicherung notarielles HV-Protokoll als zentrales Beweismittel.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-aktg-behoerden-gericht-und-registerweg` beziehungsweise AktG: Behörden-, Gerichts- oder Registerweg: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-aktg-behoerden-gericht-und-registerweg.md).

@@ -1,6 +1,6 @@
 ---
 name: unterhaltsberechnung-kompaktpruefung
-description: "Wenn es um Unterhaltsberechnung im Familienrecht: Kompaktprüfung in Fachanwalt Familienrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Unterhaltsberechnung im Familienrecht: Kompaktprüfung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Unterhaltsberechnung im Familienrecht: Kompaktprüfung

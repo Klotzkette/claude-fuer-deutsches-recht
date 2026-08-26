@@ -1,6 +1,6 @@
 ---
 name: literatur-quellen-prompting-leitfaden-rdg
-description: "Wenn es um Literatur und Quellen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Literatur und Quellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Literatur und Quellen

@@ -1,6 +1,6 @@
 ---
 name: strafprozess-verhandlungslog-sta-gericht-nebenklage
-description: "Wenn es um Strafprozess Verhandlungslog Sta Gericht Nebenklage in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strafprozess Verhandlungslog Sta Gericht Nebenklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Verhandlungslog für Kontakte mit Staatsanwaltschaft, Gericht, Nebenklage, Bewährungshilfe und Sachverständigen: dokumentiert Angebote, Zusagen, Verständigungsgespräche, § 153a-StPO-Auflagen, § 257c-StPO-Risiken und nächste Schritte.

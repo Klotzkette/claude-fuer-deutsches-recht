@@ -1,6 +1,6 @@
 ---
 name: formulare-c0030-frageliste-auftraggeber
-description: "Wenn es um DRV-Formulare und Anlagen in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für DRV-Formulare und Anlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # DRV-Formulare und Anlagen

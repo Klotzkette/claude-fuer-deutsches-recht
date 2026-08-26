@@ -1,6 +1,6 @@
 ---
 name: aussergewoehnliche-umstaende
-description: "Wenn es um Aussergewoehnliche: Zahlen, Schwellenwerte und Berechnung in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Außergewöhnliche: Zahlen, Schwellenwerte und Berechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fluggastrechte. Route: aussergewoehnliche-umstaende."
 ---
 
 # Aussergewoehnliche: Zahlen, Schwellenwerte und Berechnung

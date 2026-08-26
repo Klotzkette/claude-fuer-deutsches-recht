@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte-staatsrecht-kaiserreichs-weimarer
-description: "Wenn es um Staatsrecht des Deutschen Kaiserreichs in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Staatsrecht des Deutschen Kaiserreichs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Staatsrecht des Deutschen Kaiserreichs

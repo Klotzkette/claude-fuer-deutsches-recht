@@ -1,6 +1,6 @@
 ---
 name: succession-buyin-buyout
-description: "Wenn es um Buy-in Buy-out Succession in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Buy-in Buy-out Succession: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Buy-in Buy-out Succession

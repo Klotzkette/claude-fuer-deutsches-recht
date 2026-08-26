@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-nebentaetigkeit-rechtsprechungscheck-und-r
-description: "Wenn es um Anwaltliche Nebentaetigkeit Rechtsprechungscheck Und R in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Anwaltliche Nebentätigkeit Rechtsprechungscheck und R: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: anwaltliche nebentaetigkeit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

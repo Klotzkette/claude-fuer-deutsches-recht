@@ -1,6 +1,6 @@
 ---
 name: rom-neu-002-zwoelftafelgesetz-textzeugen-rekonstruktion-vorsicht
-description: "Wenn es um Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisches Recht. Route: rom-neu-002-zwoelftafelgesetz-textzeugen-rekonstruktion-vorsicht."
 ---
 
 # Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht

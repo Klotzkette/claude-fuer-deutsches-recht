@@ -1,6 +1,6 @@
 ---
 name: opferschutz-nebenklage
-description: "Wenn es um Opferschutz, Nebenklage, Adhäsion in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Opferschutz, Nebenklage, Adhäsion: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Opferschutz, Nebenklage, Adhäsion

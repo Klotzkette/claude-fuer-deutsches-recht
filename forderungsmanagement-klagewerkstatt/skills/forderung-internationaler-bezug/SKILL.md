@@ -1,6 +1,6 @@
 ---
 name: forderung-internationaler-bezug
-description: "Wenn es um Forderung mit internationalem Bezug in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Forderung mit internationalem Bezug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Forderung mit internationalem Bezug

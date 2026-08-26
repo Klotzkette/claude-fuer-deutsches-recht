@@ -1,6 +1,6 @@
 ---
 name: wohnhaus-ddr-enteignung-grundbuch-ausw
-description: "Wenn es um Wohnhaus Ddr Enteignung Grundbuch Ausw in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wohnhaus Ddr Enteignung Grundbuch Ausw: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wohnhaus Ddr Enteignung Grundbuch Ausw

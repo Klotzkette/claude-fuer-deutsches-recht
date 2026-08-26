@@ -1,6 +1,6 @@
 ---
 name: kandidatenteam-intake
-description: "Wenn es um Kandidatenteam Intake in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kandidatenteam Intake: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kandidatenteam Intake

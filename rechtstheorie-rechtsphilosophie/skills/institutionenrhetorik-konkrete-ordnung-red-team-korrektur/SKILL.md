@@ -1,6 +1,6 @@
 ---
 name: institutionenrhetorik-konkrete-ordnung-red-team-korrektur
-description: "Wenn es um Institutionenrhetorik und konkrete Ordnung: Red-Team in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Institutionenrhetorik und konkrete Ordnung: Red-Team: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Institutionenrhetorik und konkrete Ordnung: Red-Team

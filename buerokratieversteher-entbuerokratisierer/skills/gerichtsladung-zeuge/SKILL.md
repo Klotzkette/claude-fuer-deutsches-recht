@@ -1,6 +1,6 @@
 ---
 name: gerichtsladung-zeuge
-description: "Wenn es um Gerichtsladung als Zeuge in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Gerichtsladung als Zeuge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gerichtsladung als Zeuge

@@ -1,6 +1,6 @@
 ---
 name: machtkritik-amtstraeger
-description: "Wenn es um Machtkritik und Amtsträger in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Machtkritik und Amtsträger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Machtkritik und Amtsträger
